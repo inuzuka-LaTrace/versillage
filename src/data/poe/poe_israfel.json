@@ -1,0 +1,121 @@
+{
+  "id": "poe_israfel",
+  "title": "Israfel",
+  "author": "Edgar Allan Poe",
+  "source": "The Raven and Other Poems, Wiley and Putnam, New York, 1845 (決定版); 初版 Poems, 1831",
+  "year": "1831",
+  "firstPublication": "Poems by Edgar A. Poe, Elam Bliss, New York, 1831; 決定版 The Raven and Other Poems, 1845",
+  "difficulty": "上級",
+  "category": "poe",
+  "originalLang": "en-GB",
+  "modernRelevance": "★★★★☆",
+  "context": "ポーが1831年に初版を発表し1845年の決定版まで繰り返し改訂した詩。題辞は「コーランの天使イスラフェル──その心弦はリュートであり、神の被造物の中で最も甘美な声を持つ」（実際にはこの形ではコーランに記されておらず、トマス・ムーアの「ラッラ・ルーク」の注釈経由でポーが変形したとされる）。8スタンザ・不等行構造の詩は、天上で心弦そのものを楽器として歌う天使イスラフェルと、「甘いものと酸いものの世界」に縛られた地上の詩人の対比を描く。最終スタンザで詩人は「もし我らが場所を交換したなら、彼はこれほど激しく歌えなかっただろう、そして私は天の竪琴から今よりも大胆な音を響かせただろう」と語る──高踏派的「芸術家の優越」でなく「不完全な条件下でこそ真の詩が生まれる」という逆説。「Israfel」はヴァレリー「詩学講義」の「詩は音楽的状態への欲望」論、「Israfel」の「心弦＝リュート」はマラルメの「聖女（Sainte）」の「楽器としての翼のない天使の指」と詩学的に共鳴する。",
+  "keywords": [
+    "イスラフェル",
+    "天使",
+    "コーラン",
+    "心弦",
+    "詩人と天才",
+    "音楽と詩",
+    "ロマン主義",
+    "天国と地上",
+    "芸術家の条件",
+    "不等行スタンザ"
+  ],
+  "relatedTexts": [
+    "poe_the_raven",
+    "mallarme_sainte",
+    "valery_premiere_lecon_cours_de_poetique",
+    "valery_poesie",
+    "baudelaire_elevation",
+    "lecontelisle_epiphanie"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "originalText": "In Heaven a spirit doth dwell\n   \"Whose heart-strings are a lute\";\nNone sing so wildly well\nAs the angel Israfel,\nAnd the giddy stars (so legends tell),\nCeasing their hymns, attend the spell\n   Of his voice, all mute.",
+      "provisionalTranslation": "天には霊が住んでいる\n　「その心弦はリュートである」。\nイスラフェル天使のように\nかくも激しく巧みに歌う者はいない、\nそしてくらくらとする星たちは（伝説が語るように）\n自分たちの讃歌を止め、呪文のように耳を傾ける\n　その声に、すべては無言で。"
+    },
+    {
+      "id": 2,
+      "originalText": "Tottering above\n   In her highest noon,\n   The enamoured moon\nBlushes with love,\n   While, to listen, the red levin\n   (With the rapid Pleiads, even,\n   Which were seven,)\n   Pauses in Heaven.",
+      "provisionalTranslation": "その頂点の正午に\n　よろめきながら上で、\n　恋に落ちた月は\n愛に頬を染め、\n　その間、耳を傾けようとして、赤い稲妻は\n　（速く動くプレイアデス星団とともに、\n　かつては七つあった星団と）\n　天で止まる。"
+    },
+    {
+      "id": 3,
+      "originalText": "And they say (the starry choir\n   And the other listening things)\nThat Israfeli's fire\nIs owing to that lyre\n   By which he sits and sings—\nThe trembling living wire\n   Of those unusual strings.",
+      "provisionalTranslation": "そして彼らは言う（星の合唱と\n　他の耳を傾けているものたちが）\nイスラフェリの炎は\nあのリラに負っていると\n　その傍らに彼は座って歌う──\nあの震える生きた弦、\n　あの並外れた弦楽器の。"
+    },
+    {
+      "id": 4,
+      "originalText": "But the skies that angel trod,\n   Where deep thoughts are a duty,\nWhere Love's a grown-up God,\n   Where the Houri glances are\nImbued with all the beauty\n   Which we worship in a star.",
+      "provisionalTranslation": "しかしその天使が踏みしめた空は、\n　深い思考が義務であるところ、\n愛が大人の神であるところ、\n　フーリー（天女）の眼差しが\nすべての美を帯びているところ、\n　我らが星の中に崇める美を。"
+    },
+    {
+      "id": 5,
+      "originalText": "Therefore, thou art not wrong,\n   Israfeli, who despisest\nAn unimpassioned song;\nTo thee the laurels belong,\n   Best bard, because the wisest!\nMerrily live, and long!",
+      "provisionalTranslation": "ゆえに、汝は間違っていない、\n　イスラフェリよ、情熱のない歌を\n軽蔑するあなたは。\n汝に月桂冠は属する、\n　最高の詩人よ、最も賢いがゆえに！\n陽気に、長く生きよ！"
+    },
+    {
+      "id": 6,
+      "originalText": "The ecstasies above\n   With thy burning measures suit—\nThy grief, thy joy, thy hate, thy love,\n   With the fervour of thy lute—\n   Well may the stars be mute!",
+      "provisionalTranslation": "上の法悦は\n　汝の燃えるような歌の尺度に合っている──\n汝の悲しみ、喜び、憎しみ、愛は\n　汝のリュートの熱狂とともに──\n　星たちが無言であるのも当然だ！"
+    },
+    {
+      "id": 7,
+      "originalText": "Yes, Heaven is thine; but this\n   Is a world of sweets and sours;\n   Our flowers are merely—flowers,\nAnd the shadow of thy perfect bliss\n   Is the sunshine of ours.",
+      "provisionalTranslation": "そう、天国は汝のもの。しかしこちらは\n　甘いものと酸いものの世界。\n　我らの花は単に──花であり、\n汝の完全な至福の影が\n　我らの陽光なのだ。"
+    },
+    {
+      "id": 8,
+      "originalText": "If I could dwell\nWhere Israfel\n   Hath dwelt, and he where I,\nHe might not sing so wildly well\n   A mortal melody,\nWhile a bolder note than this might swell\n   From my lyre within the sky.",
+      "provisionalTranslation": "もし私が住むことができたなら\nイスラフェルが\n　住んでいたところに、そして彼が私の場所に住んだなら、\n彼はこれほど激しく巧みには歌えなかったかもしれない\n　人間の旋律を、\nその間、これよりも大胆な音が響き渡るかもしれない\n　天の空から私のリラより。"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "prosody",
+      "anchor": null,
+      "body": "8スタンザ・不等行（5行〜8行）の自由な形式──各スタンザは2〜4強勢の行を不規則に混合する。「The Raven」のトロカイウス八歩格の整然たる機械的反復と対照的に、「Israfel」の韻律は天使の歌のように「wildly（激しく）」不規則。1831年初版から1845年決定版まで複数回改訂──最大の変化は1831年版§4に存在した「The more lovely, the more jar!（より美しければ、より不調和）」という行の削除と、§8の「stormier note（より激しい音）」→「bolder note（より大胆な音）」への変更。最終スタンザの改訂が示すのは、ポーが「嵐のような（stormier）」という情感的形容から「大胆な（bolder）」という知的形容へ移行したこと──詩の哲学への傾斜を反映する。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "glossary",
+      "anchor": "\"Whose heart-strings are a lute\"",
+      "body": "題辞「And the angel Israfel, whose heart-strings are a lute, and who has the sweetest voice of all God's creatures. —KORAN」──引用符付きの「Whose heart-strings are a lute」が詩の第2行に再現される。この題辞はコーランに直接は見出せず、トマス・ムーア「ラッラ・ルーク（Lalla Rookh, 1817）」の注釈「イスラフィル──神の被造物の中で最も音楽的な天使」（George Sale訳コーランへの言及）をポーが変形したとされる（Mabbott版注解）。「心弦（heart-strings）」という語が詩の核心命題を内包する：解剖学的「心臓の腱」と感情的「心の琴線」の二重の意味──イスラフェルは心そのものを楽器として演奏する。"
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "The trembling living wire\n   Of those unusual strings.",
+      "body": "「震える生きた弦（The trembling living wire）」──心弦（heart-strings）がリュートであるという比喩の最も具体的な展開。「living（生きた）」という形容詞が鍵：死んだ素材（腸・金属）でなく生きた肉体の一部が楽器であること──これがイスラフェルの音楽を「wildly well（激しく巧みに）」させる原因として提示される（§5「Israfeli's fire is owing to that lyre」）。マラルメ「聖女（Sainte）」の「楽器としての翼のない天使の指（le doigt qui, sans vielle ni viole, balance le musicien du silence）」との詩学的共鳴：どちらも「従来の楽器なし」に「身体そのものが音楽を生む」という命題。"
+    },
+    {
+      "paragraphId": 5,
+      "type": "commentary",
+      "anchor": "Best bard, because the wisest!\nMerrily live, and long!",
+      "body": "「最高の詩人よ、最も賢いがゆえに（Best bard, because the wisest）」──ポーの詩学における「知恵（wisdom）」と「詩（poetry）」の関係の定式化。「賢い（wise）」ことが「最高の詩人（Best bard）」の条件であるという命題は、「詩の哲学」における「詩は計算から生まれる」という主張と接続する。しかしこの命題はすぐに§7の逆説で問い直される：イスラフェルは天の環境ゆえに賢く、詩人は地上の「甘いものと酸いもの」の中で詩を書く──「知恵」の条件が異なる。「陽気に、長く生きよ（Merrily live, and long）！」という奇妙に軽い結びの行は、続く§7の「しかしこちらは甘いものと酸いものの世界」との落差を準備する。"
+    },
+    {
+      "paragraphId": 7,
+      "type": "commentary",
+      "anchor": "Yes, Heaven is thine; but this\n   Is a world of sweets and sours;\n   Our flowers are merely—flowers,\nAnd the shadow of thy perfect bliss\n   Is the sunshine of ours.",
+      "body": "詩の転換点──最も短い3行詩形の§7が詩の哲学的核心を担う。「天国は汝のもの。しかしこちらは甘いものと酸いものの世界」という対比は、§1-6の讃辞全体を一撃で相対化する。「我らの花は単に──花（Our flowers are merely—flowers）」──ダッシュ（—）による中断が、「花」という語のいかなる崇高化も拒絶する。「汝の完全な至福の影が我らの陽光（the shadow of thy perfect bliss / Is the sunshine of ours）」という逆説的な比較：天上の「影」が地上の最良のもの（陽光）であるなら、地上の詩人の至福は天上の至福の影の影でしかない──この認識が§8の「場所の交換」という思考実験を必然化する。"
+    },
+    {
+      "paragraphId": 8,
+      "type": "commentary",
+      "anchor": "He might not sing so wildly well\n   A mortal melody,\nWhile a bolder note than this might swell\n   From my lyre within the sky.",
+      "body": "詩の最後の逆説──「もし場所が交換されたら、彼は人間の旋律をこれほど激しく歌えなかっただろう。そして私は天の空から今よりも大胆な音を響かせられただろう」。これはイスラフェルへの敗北宣言でなく、詩的条件の逆転的肯定。「人間の旋律（mortal melody）」──「人間であること（mortal）」という制約が「旋律」の特質を規定する。天使は「人間の旋律」を歌えない──なぜなら苦しみも死も知らないから。「地上の詩人の条件（苦しみ・喪失・制約）」こそが「より大胆な音（bolder note）」の潜在的源泉であるという命題。これはルコント・ド・リール「La Tristesse du Diable」の「人類の悪が悪魔の憎悪より強い」という逆説と同型の詩的論理。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "intertextual",
+      "anchor": null,
+      "body": "ヴァレリー「詩学講義」第一講の核心命題「精神の作品は行為においてのみ存在する（l'œuvre de l'esprit n'existe qu'en acte）」との詩学的共鳴──「Israfel」では心弦というリュートの「演奏行為（sitting and singing）」こそが音楽であり、楽器は演奏行為から切り離せない。また「詩の執行（l'exécution du poème）が詩である」というヴァレリーの命題は、「Israfel」の「生きた弦（living wire）」概念の理論的精緻化として読める。さらにボードレール「高揚（Élévation）」との比較：「Élévation」では詩人の精神が「夕映えの向こうに、エーテルの彼方に」飛翔することで超越的な詩的認識を得るのに対し、「Israfel」では詩人は地上に留まったまま天使との「場所の交換」という思考実験によって自らの条件を逆説的に肯定する──飛翔でなく「交換不可能性の肯定」という詩学的差異。",
+      "targetId": "valery_premiere_lecon_cours_de_poetique",
+      "targetParagraphId": null
+    }
+  ]
+}
