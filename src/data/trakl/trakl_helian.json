@@ -9,7 +9,7 @@
   "category": "trakl",
   "originalLang": "de",
   "modernRelevance": "★★★★★",
-  "context": "Gedichte（1913）の最終詩として置かれた、トラークルの詩形式作品中最長（75行16段落）。フィッカーが「トラークルのすべての詩の中で最も完璧な作品」と評した。「Helian」という名はギリシア語「Helios（太陽）」とキリスト教殉教者名の語尾「-ian」の合成——異教とキリスト教の融合を名前の構造自体が体現する。夏の牧歌から世代の没落・キドロン川の黙示録的結末まで循環的な弧を描き、色彩の段階的変奏（黄→黒→薔薇色→青）が詩全体の楽章的構成を生む。",
+  "context": "Gedichte（1913）の最終詩として置かれた、トラークルの詩形式作品中最長（75行16段落）。フィッカーが「トラークルのすべての詩の中で最も完璧な作品」と評した。「Helian」という名はギリシア語「Helios（太陽）」とキリスト教殉教者名の語尾「-ian」の合成──異教とキリスト教の融合を名前の構造自体が体現する。夏の牧歌から世代の没落・キドロン川の黙示録的結末まで循環的な弧を描き、色彩の段階的変奏（黄→黒→薔薇色→青）が詩全体の楽章的構成を生む。",
   "keywords": [
     "Helian",
     "太陽の殉教者",
@@ -93,7 +93,7 @@
     {
       "id": 13,
       "originalText": "Am Abend versinkt ein Glockenspiel, das nicht mehr tönt,\nVerfallen die schwarzen Mauern am Platz,\nRuft der tote Soldat zum Gebet.\n\nEin bleicher Engel\nTritt der Sohn ins leere Haus seiner Väter.",
-      "provisionalTranslation": "夕べに、もはや響かない鐘楼が沈み、\n広場の黒い壁が崩れ、\n死んだ兵士が祈りへと呼ぶ。\n\n蒼白い天使が——\n息子は父祖たちの空き家に入る。"
+      "provisionalTranslation": "夕べに、もはや響かない鐘楼が沈み、\n広場の黒い壁が崩れ、\n死んだ兵士が祈りへと呼ぶ。\n\n蒼白い天使が──\n息子は父祖たちの空き家に入る。"
     },
     {
       "id": 14,
@@ -122,91 +122,91 @@
       "paragraphId": 1,
       "type": "glossary",
       "anchor": "Der Sohn des Pan im grauen Marmor",
-      "body": "「パンの息子が灰色の大理石の中に眠っている」。Pan（牧神・自然の神）はギリシア古代宗教の異教神——詩全体に流れるキリスト教と異教の混淆の最初の提示。「Helian」という名の「Hel-（ヘリオス＝太陽）」という語根と合わせて、詩の人物が異教的な光の神の後裔として登場する。大理石（Marmor）という石材が「眠り（schläft）」と結びつき、石化した永眠として死を示す。"
+      "body": "「パンの息子が灰色の大理石の中に眠っている」。Pan（牧神・自然の神）はギリシア古代宗教の異教神──詩全体に流れるキリスト教と異教の混淆の最初の提示。「Helian」という名の「Hel-（ヘリオス＝太陽）」という語根と合わせて、詩の人物が異教的な光の神の後裔として登場する。大理石（Marmor）という石材が「眠り（schläft）」と結びつき、石化した永眠として死を示す。"
     },
     {
       "paragraphId": 2,
       "type": "commentary",
       "anchor": "Abends auf der Terrasse betranken wir uns mit braunem Wein",
-      "body": "「夕べにテラスで褐色のワインに酔った」。「われわれ（wir）」という一人称複数が、詩の開始から共同的な記憶・体験として回想されることを示す。「柔かなソナタ、楽しい笑い」——この§2が詩全体の中で最も無条件に明るい場面。桃の赤・ワインの褐色・ソナタの音楽という感覚的豊かさが、以降の没落の弧のゼロ点として機能する。"
+      "body": "「夕べにテラスで褐色のワインに酔った」。「われわれ（wir）」という一人称複数が、詩の開始から共同的な記憶・体験として回想されることを示す。「柔かなソナタ、楽しい笑い」──この§2が詩全体の中で最も無条件に明るい場面。桃の赤・ワインの褐色・ソナタの音楽という感覚的豊かさが、以降の没落の弧のゼロ点として機能する。"
     },
     {
       "paragraphId": 5,
       "type": "allusion",
       "anchor": "trägt der Landmann Brot und Wein",
-      "body": "「農夫が清浄な手にパンとワインを持ち」。ヘルダーリン「Brot und Wein」第9連「神とともにパンとワインが」への直接的な参照——聖餐的なパンとワインが農夫の収穫として地上化される。「清浄な手（reinen Händen）」というキリスト教的清潔の語彙が農業労働と結びつき、日常的収穫が典礼的行為として現れる。"
+      "body": "「農夫が清浄な手にパンとワインを持ち」。ヘルダーリン「Brot und Wein」第9連「神とともにパンとワインが」への直接的な参照──聖餐的なパンとワインが農夫の収穫として地上化される。「清浄な手（reinen Händen）」というキリスト教的清潔の語彙が農業労働と結びつき、日常的収穫が典礼的行為として現れる。"
     },
     {
       "paragraphId": 6,
       "type": "glossary",
       "anchor": "die Seele erfreut gerechtes Anschaun",
-      "body": "「魂は正しい観照に喜ぶ」。gerecht（正しい・義しい）はトラークルに稀な肯定的語彙——「Elis」§3の「wie gerecht sind alle deine Tage（お前のすべての日はなんと正しいことか）」と同系列。死者の顔を「正しく観照する」という行為が魂に喜びをもたらすというパラドックス——死の直視が魂を浄化するという認識。"
+      "body": "「魂は正しい観照に喜ぶ」。gerecht（正しい・義しい）はトラークルに稀な肯定的語彙──「Elis」§3の「wie gerecht sind alle deine Tage（お前のすべての日はなんと正しいことか）」と同系列。死者の顔を「正しく観照する」という行為が魂に喜びをもたらすというパラドックス──死の直視が魂を浄化するという認識。"
     },
     {
       "paragraphId": 7,
       "type": "commentary",
       "anchor": "Da der junge Novize die Stirne mit braunem Laub bekränzt,\nSein Odem eisiges Gold trinkt",
-      "body": "「若い修練者が額を褐色の葉で冠にするとき、彼の息吹が氷の金を飲む」。修練者（Novize）という修道院的人物の「息吹が氷の金を飲む」——冷たい金という矛盾した物質的感覚が、霊的修行の身体的苦行として提示される。§2の暖かいワインの酔いと対照的な冷たさ。額（Stirne）への言及が「Untergang」の「zerbrochene Stirne der Nacht」と連なる。"
+      "body": "「若い修練者が額を褐色の葉で冠にするとき、彼の息吹が氷の金を飲む」。修練者（Novize）という修道院的人物の「息吹が氷の金を飲む」──冷たい金という矛盾した物質的感覚が、霊的修行の身体的苦行として提示される。§2の暖かいワインの酔いと対照的な冷たさ。額（Stirne）への言及が「Untergang」の「zerbrochene Stirne der Nacht」と連なる。"
     },
     {
       "paragraphId": 11,
       "type": "glossary",
       "anchor": "heiliger Bruder",
-      "body": "「聖なる兄弟」。詩の後半に向けた転換点の核心語。異邦人（Fremdling）が「かつて聖なる兄弟が歩いた場所」に来るという構図——異邦人と聖なる兄弟が同一人物の二つの相（世俗的現在と聖的過去）として提示される。「彼の狂気の柔かな弦楽の演奏（das sanfte Saitenspiel seines Wahnsinns）」が聖性と狂気の不可分性を示す——トラークル自身の詩的創造の自己参照的描写。"
+      "body": "「聖なる兄弟」。詩の後半に向けた転換点の核心語。異邦人（Fremdling）が「かつて聖なる兄弟が歩いた場所」に来るという構図──異邦人と聖なる兄弟が同一人物の二つの相（世俗的現在と聖的過去）として提示される。「彼の狂気の柔かな弦楽の演奏（das sanfte Saitenspiel seines Wahnsinns）」が聖性と狂気の不可分性を示す──トラークル自身の詩的創造の自己参照的描写。"
     },
     {
       "paragraphId": 11,
       "type": "commentary",
       "anchor": "Ersterbend neigt sich das Haupt im Dunkel des Ölbaums",
-      "body": "「死にながらオリーブの木の暗闇の中で頭が傾く」。ersterben（徐々に消える・息絶える）——「Amen」§2の「erstorbenen Finger」・「Elis」§4の「Erstirbt eines Greises Gesang」と同根。オリーブの木はゲッセマネの園のイメージ——キリストが逮捕前夜に頭を垂れた場所。聖なる兄弟の狂気と苦悩がキリストの受難と重ね合わされる。"
+      "body": "「死にながらオリーブの木の暗闇の中で頭が傾く」。ersterben（徐々に消える・息絶える）──「Amen」§2の「erstorbenen Finger」・「Elis」§4の「Erstirbt eines Greises Gesang」と同根。オリーブの木はゲッセマネの園のイメージ──キリストが逮捕前夜に頭を垂れた場所。聖なる兄弟の狂気と苦悩がキリストの受難と重ね合わされる。"
     },
     {
       "paragraphId": 12,
       "type": "commentary",
       "anchor": "Erschütternd ist der Untergang des Geschlechts",
-      "body": "「世代の没落は揺るがすほどだ」。詩全体の感情的頂点。Geschlecht（世代・一族・性）という語が個人（Helian）・家族・世代・人類という複数の水準で読める。erschütternd（揺るがすほどの）という形容詞が感情的強度を宣言する——トラークルの詩の中で最も直接的な感情的断言の一つ。「この時間、見る者の目が彼の星々の金で満たされる」という次行が、没落と同時に星的な充溢が起きるという逆説を示す。"
+      "body": "「世代の没落は揺るがすほどだ」。詩全体の感情的頂点。Geschlecht（世代・一族・性）という語が個人（Helian）・家族・世代・人類という複数の水準で読める。erschütternd（揺るがすほどの）という形容詞が感情的強度を宣言する──トラークルの詩の中で最も直接的な感情的断言の一つ。「この時間、見る者の目が彼の星々の金で満たされる」という次行が、没落と同時に星的な充溢が起きるという逆説を示す。"
     },
     {
       "paragraphId": 13,
       "type": "commentary",
       "anchor": "Ein bleicher Engel\nTritt der Sohn ins leere Haus seiner Väter",
-      "body": "「蒼白い天使が——息子は父祖たちの空き家に入る」。「Ein bleicher Engel（蒼白い天使）」と「der Sohn（息子）」の間のダッシュが、天使と息子の同一性または対照性を曖昧にする——天使として息子が入るのか、天使に先導されて息子が入るのか。leere Haus seiner Väter（父祖たちの空き家）は聖書的な父の家の変形——「父の家には多くの住まいがある」（ヨハネ14:2）の不在・空虚として。"
+      "body": "「蒼白い天使が──息子は父祖たちの空き家に入る」。「Ein bleicher Engel（蒼白い天使）」と「der Sohn（息子）」の間のダッシュが、天使と息子の同一性または対照性を曖昧にする──天使として息子が入るのか、天使に先導されて息子が入るのか。leere Haus seiner Väter（父祖たちの空き家）は聖書的な父の家の変形──「父の家には多くの住まいがある」（ヨハネ14:2）の不在・空虚として。"
     },
     {
       "paragraphId": 14,
       "type": "commentary",
       "anchor": "O wie starrt von Kot und Würmern ihr Haar,\nDa er darein mit silbernen Füßen steht",
-      "body": "「ああ、彼女たちの髪は汚物と虫でどれほど固まっているか、彼が銀の足でその中に立つとき」。詩全体で最も衝撃的な場面——腐敗した姉妹の髪の中に「銀の足（silberne Füße）」で立つという対照が、美と腐敗の極限的な並置として機能する。ボードレール「Une Charogne」的な美と腐敗の弁証法のトラークル版。銀の足という純粋さの記号が腐敗の中に立つことで、浄化でも逃避でもなく直視・受容として提示される。"
+      "body": "「ああ、彼女たちの髪は汚物と虫でどれほど固まっているか、彼が銀の足でその中に立つとき」。詩全体で最も衝撃的な場面──腐敗した姉妹の髪の中に「銀の足（silberne Füße）」で立つという対照が、美と腐敗の極限的な並置として機能する。ボードレール「Une Charogne」的な美と腐敗の弁証法のトラークル版。銀の足という純粋さの記号が腐敗の中に立つことで、浄化でも逃避でもなく直視・受容として提示される。"
     },
     {
       "paragraphId": 15,
       "type": "allusion",
       "anchor": "O ihr Psalmen in feurigen Mitternachtsregen",
-      "body": "「ああ、燃える真夜中の雨の中の詩篇よ」。旧約聖書の詩篇（Psalmen）への呼びかけ——「De profundis」のタイトルが詩篇130篇から来るのと同様、この叫びが詩篇的な「深みからの嘆き」の形式を取る。「燃える真夜中の雨（feurigen Mitternachtsregen）」——火と雨という矛盾する元素が「真夜中」という時間の零点で衝突する。"
+      "body": "「ああ、燃える真夜中の雨の中の詩篇よ」。旧約聖書の詩篇（Psalmen）への呼びかけ──「De profundis」のタイトルが詩篇130篇から来るのと同様、この叫びが詩篇的な「深みからの嘆き」の形式を取る。「燃える真夜中の雨（feurigen Mitternachtsregen）」──火と雨という矛盾する元素が「真夜中」という時間の零点で衝突する。"
     },
     {
       "paragraphId": 15,
       "type": "commentary",
       "anchor": "Das kindlichen Früchte des Hollunders\nSich staunend neigen über ein leeres Grab",
-      "body": "「黒ニワトコの子どもらしい果実が驚いて空の墓の上に傾く」。leeres Grab（空の墓）——キリストの復活後の空の墓への参照。Holunder（黒ニワトコ）はトラークルの詩でElisやその他の純粋な場面に繰り返し現れる植物。「子どもらしい果実が驚いて」という擬人化が、空の墓という神学的事件を自然の驚嘆として示す。"
+      "body": "「黒ニワトコの子どもらしい果実が驚いて空の墓の上に傾く」。leeres Grab（空の墓）──キリストの復活後の空の墓への参照。Holunder（黒ニワトコ）はトラークルの詩でElisやその他の純粋な場面に繰り返し現れる植物。「子どもらしい果実が驚いて」という擬人化が、空の墓という神学的事件を自然の驚嘆として示す。"
     },
     {
       "paragraphId": 16,
       "type": "glossary",
       "anchor": "sinnt den Kidron hinab",
-      "body": "「キドロン川を下って沈思する」。キドロン川はエルサレムとゲッセマネの園の間を流れる谷川——キリストが逮捕前夜に渡った川（ヨハネ18:1）。この地理的参照が詩の最終段落全体を「ゲッセマネ的」な聖書空間として設定する。「崇高な運命（erhabenes Schicksal）」がこの川を「下って沈思する」という人格化が、運命そのものが受難の道を歩むことを示す。"
+      "body": "「キドロン川を下って沈思する」。キドロン川はエルサレムとゲッセマネの園の間を流れる谷川──キリストが逮捕前夜に渡った川（ヨハネ18:1）。この地理的参照が詩の最終段落全体を「ゲッセマネ的」な聖書空間として設定する。「崇高な運命（erhabenes Schicksal）」がこの川を「下って沈思する」という人格化が、運命そのものが受難の道を歩むことを示す。"
     },
     {
       "paragraphId": 16,
       "type": "commentary",
       "anchor": "Helians Seele sich im rosigen Spiegel beschaut",
-      "body": "「ヘリアンの魂が薔薇色の鏡の中に自己を見る」。詩の中でHelianという名が唯一登場する瞬間——16段落を経て初めて名指される。「魂が自己を見る（beschaut）」という自己観照の行為が「雪とらい病が彼の額から落ちる（Schnee und Aussatz von seiner Stirne sinken）」という浄化と並置される。薔薇色の鏡はマリア的・バラ窓的な宗教的浄化の空間。"
+      "body": "「ヘリアンの魂が薔薇色の鏡の中に自己を見る」。詩の中でHelianという名が唯一登場する瞬間──16段落を経て初めて名指される。「魂が自己を見る（beschaut）」という自己観照の行為が「雪とらい病が彼の額から落ちる（Schnee und Aussatz von seiner Stirne sinken）」という浄化と並置される。薔薇色の鏡はマリア的・バラ窓的な宗教的浄化の空間。"
     },
     {
       "paragraphId": 16,
       "type": "intertextual",
       "anchor": "Der stille Gott die blauen Lider über ihn senkt",
-      "body": "「静かな神が彼の上に青い瞼を閉じる」。詩の最終行。この「静かな神の青い瞼」は「Elis」§11の「Gottes einsamer Wind（神の孤独な風）」と対応する——どちらも神が直接の顕現でなく、静かな・間接的な身体的所作として現れる。「Elis」では神が「孤独な風」として常に響き続けるのに対し、「Helian」では神が瞼を「閉じる」という終局的な所作として詩を閉じる。",
+      "body": "「静かな神が彼の上に青い瞼を閉じる」。詩の最終行。この「静かな神の青い瞼」は「Elis」§11の「Gottes einsamer Wind（神の孤独な風）」と対応する──どちらも神が直接の顕現でなく、静かな・間接的な身体的所作として現れる。「Elis」では神が「孤独な風」として常に響き続けるのに対し、「Helian」では神が瞼を「閉じる」という終局的な所作として詩を閉じる。",
       "targetId": "trakl_elis",
       "targetParagraphId": 11
     }
