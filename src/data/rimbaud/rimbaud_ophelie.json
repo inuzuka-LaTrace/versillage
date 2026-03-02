@@ -1,0 +1,102 @@
+{
+  "id": "rimbaud_ophelie",
+  "title": "Ophélie",
+  "author": "Arthur Rimbaud",
+  "source": "Cahier de Douai, manuscrit autographe, 1870 (British Library保管); 初刊: Reliquaire, poésies, L. Genonceaux, Paris, 1891. テキスト底本: Poésies (1870-1871) Demeny手稿版",
+  "year": "1870",
+  "firstPublication": "Reliquaire, poésies, L. Genonceaux, Paris, 1891",
+  "difficulty": "中級",
+  "category": "rimbaud",
+  "originalLang": "fr-FR",
+  "modernRelevance": "★★★★☆",
+  "context": "ランボー16歳、1870年に書かれた初期詩篇のひとつ。シャルルヴィルの恩師ジョルジュ・イザンバールの証言により1870年作と特定。ドゥエのポール・ドゥメニーに手渡した「ドゥエ手帖（Cahier de Douai）」収録。1870年5月24日付のテオドール・ド・バンヴィル宛書簡にも別バージョンが掲載。3部9連・アレクサンドラン交差韻（ABAB）、計36行。シェイクスピア『ハムレット』のオフィーリア──ハムレットに捨てられ狂死し川に浮かぶ──を題材とするが、ランボーはその死を「大自然・自由・無限への過剰な感受性ゆえの溺死」として再解釈する。第I部（情景：現在の漂流）、第II部（原因：過去の「C'est que」連鎖）、第III部（詩人の証言：現在永続）という三段構造。最終行は冒頭第2行の変奏として詩を円環的に閉じる──「flotte（浮かぶ・直説法現在）」が「flotter（浮かぶ・不定詞）」に変わることで、オフィーリアが時間の外の永続的存在として定義される。プレラファエリ派の画家ジョン・エヴェレット・ミレイの絵画「オフィーリア」（1851-52）との図像的関係も指摘される。",
+  "keywords": [
+    "オフィーリア",
+    "ハムレット",
+    "シェイクスピア",
+    "川の漂流",
+    "自由",
+    "無限",
+    "C'est que連鎖",
+    "詩人の証言",
+    "円環構造",
+    "ドゥエ手帖"
+  ],
+  "relatedTexts": [
+    "rimbaud_le_bateau_ivre",
+    "rimbaud_saison_prologue",
+    "verlaine_poetes_maudits_rimbaud",
+    "baudelaire_harmonie_du_soir",
+    "mallarme_herodiade_scene",
+    "hoelderlin_der_einzige"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "originalText": "I\n\nSur l'onde calme et noire où dorment les étoiles\nLa blanche Ophélia flotte comme un grand lys,\nFlotte très lentement, couchée en ses longs voiles...\n- On entend dans les bois lointains des hallalis.\n\nVoici plus de mille ans que la triste Ophélie\nPasse, fantôme blanc, sur le long fleuve noir.\nVoici plus de mille ans que sa douce folie\nMurmure sa romance à la brise du soir.\n\nLe vent baise ses seins et déploie en corolle\nSes grands voiles bercés mollement par les eaux ;\nLes saules frissonnants pleurent sur son épaule,\nSur son grand front rêveur s'inclinent les roseaux.\n\nLes nénuphars froissés soupirent autour d'elle ;\nElle éveille parfois, dans un aune qui dort,\nQuelque nid, d'où s'échappe un petit frisson d'aile :\n- Un chant mystérieux tombe des astres d'or.",
+      "provisionalTranslation": "I\n\n星たちが眠る静かで黒い波の上を\n白いオフィーリアが大きな百合のように浮かぶ、\nとてもゆっくりと浮かぶ、長いヴェールに横たわって……\n──遠い森の中で鹿追いのラッパが聞こえる。\n\n悲しいオフィーリアが過ぎて行ってもう千年以上になる\n白い幽霊として、長い黒い川の上を。\nその穏やかな狂気が囁き続けてもう千年以上になる\n夕べの微風にロマンスを。\n\n風が彼女の胸に口づけし、花冠のように広げる\n水にやわらかく揺られる大きなヴェールを。\n震える柳が彼女の肩で泣き、\n夢想するその大きな額に葦が傾く。\n\n揺れる睡蓮が彼女の周りで溜め息をつく。\n彼女は時おり、眠るハンノキの中で、\n何らかの巣を目覚めさせる──そこから小さな翼の震えが逃げる。\n──神秘的な歌が黄金の星から落ちてくる。"
+    },
+    {
+      "id": 2,
+      "originalText": "II\n\nÔ pâle Ophélia ! belle comme la neige !\nOui tu mourus, enfant, par un fleuve emporté !\n- C'est que les vents tombant des grands monts de Norwège\nT'avaient parlé tout bas de l'âpre liberté ;\n\nC'est qu'un souffle, tordant ta grande chevelure,\nA ton esprit rêveur portait d'étranges bruits ;\nQue ton coeur écoutait le chant de la Nature\nDans les plaintes de l'arbre et les soupirs des nuits ;\n\nC'est que la voix des mers folles, immense râle,\nBrisait ton sein d'enfant, trop humain et trop doux ;\nC'est qu'un matin d'avril, un beau cavalier pâle,\nUn pauvre fou, s'assit muet à tes genoux !\n\nCiel ! Amour ! Liberté ! Quel rêve, ô pauvre Folle !\nTu te fondais à lui comme une neige au feu :\nTes grandes visions étranglaient ta parole\n- Et l'Infini terrible effara ton oeil bleu !",
+      "provisionalTranslation": "II\n\nおお青白いオフィーリア！雪のように美しい！\nそう、お前は死んだ、子供よ、川に運ばれて！\n──それはノルウェーの大山から吹き降りる風が\n苛烈な自由についてお前に密かに語りかけていたから。\n\nそれはひとつの息吹が、大きな髪をよじらせながら、\n夢想するお前の精神に不思議な物音を運んだから。\nお前の心が大自然の歌に耳を傾けていたから\n樹木の嘆きと夜々の溜め息の中で。\n\nそれは狂える海々の声が、巨大な喘ぎ声が、\nお前の子供のような胸を砕いていたから、あまりにも人間的で優しすぎる胸を。\nそれはある四月の朝、美しい青白い騎士が、\n哀れな狂人が、お前の膝に黙って座ったから！\n\n天！愛！自由！なんという夢よ、おお哀れな狂女よ！\nお前は彼の中に溶けた、火の中の雪のように。\nお前の大いなる幻影が言葉を絞め殺した──\n──そして恐ろしい無限がお前の青い目を怯えさせた！"
+    },
+    {
+      "id": 3,
+      "originalText": "III\n\n- Et le Poète dit qu'aux rayons des étoiles\nTu viens chercher, la nuit, les fleurs que tu cueillis ;\nEt qu'il a vu sur l'eau, couchée en ses longs voiles,\nLa blanche Ophélia flotter, comme un grand lys.",
+      "provisionalTranslation": "III\n\n──そして詩人は言う、星の光の中で\nお前は夜、かつて摘んだ花を探しに来ると。\nそして水の上に、長いヴェールに横たわって、\n白いオフィーリアが浮かぶのを見た、大きな百合のように。"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "prosody",
+      "anchor": null,
+      "body": "3部構成・9カトラン・36行、アレクサンドラン（12音節）交差韻（ABAB）。ランボー初期詩篇の中で最も整然とした古典的形式──しかしその整然さが幻想的な内容（千年の漂流・自然との合一）を支える土台として機能する。構造的特徴：第I部（4連）＝現在の情景描写（直説法現在）、第II部（4連）＝過去の死の原因（「C'est que」の反復連鎖）、第III部（1連）＝詩人の証言（現在への回帰）。最終行「La blanche Ophélia flotter, comme un grand lys」は第2行「La blanche Ophélia flotte comme un grand lys」の変奏──「flotte（直説法現在）」が「flotter（不定詞）」に変わる。不定詞は時制を持たない動詞形式──オフィーリアが時間の外の永続的存在として定義される詩的転換。第I部の「Voici plus de mille ans（もう千年以上）」という時間的誇張（原典のハムレットは16世紀作、オフィーリアの死後「千年」は経っていない）が伝説的・神話的時間への意図的移行を示す。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "Sur l'onde calme et noire où dorment les étoiles\nLa blanche Ophélia flotte comme un grand lys,",
+      "body": "冒頭2行の色彩的対位法──「calme et noire（静かで黒い）」と「blanche Ophélia（白いオフィーリア）」の黒白対比。この対比は詩全体を貫く：第6行「fantôme blanc, sur le long fleuve noir（白い幽霊、長い黒い川の上）」で反復される。「白」はオフィーリアの純粋さ・無垢・霊的性質を示し、「黒」は死・川の深み・夜を示す──しかし「黒い水」は脅威でなく「星たちが眠る（où dorment les étoiles）」静寂の場所として描かれる。「grand lys（大きな百合）」──百合は純粋さ・処女性・葬礼の花（墓前の百合）。ジョン・エヴェレット・ミレイの絵画「オフィーリア」（1851-52）との図像的対照：ミレイが水中に沈みかけるオフィーリアを写実的に描くのに対し、ランボーは「水上に浮かぶ」という安定した浮遊として描く──溺死の過程でなく、死後の永続的な漂流として。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "Le vent baise ses seins et déploie en corolle\nSes grands voiles bercés mollement par les eaux ;\nLes saules frissonnants pleurent sur son épaule,\nSur son grand front rêveur s'inclinent les roseaux.",
+      "body": "自然の擬人化による「母性的な自然」の図像──風・柳・葦がオフィーリアに対して能動的に働きかける。「vent baise ses seins（風が胸に口づける）」──官能的な表現をランボー16歳が使用することへの注目。「弔う」でも「溺れさせる」でもなく「口づけ」という親密さで自然がオフィーリアに接触する。「saules frissonnants pleurent（震える柳が泣く）」──柳は伝統的に悼みの木（ハムレット第4幕オフィーリアが落ちる柳）。「s'inclinent les roseaux（葦が傾く）」──葦はまた「考える葦（roseau pensant）」というパスカルの隠喩を召喚する──「son grand front rêveur（夢想するその大きな額）」という形容と合わせて、オフィーリアが「考える・夢想する」存在として自然の中に織り込まれる。ランボー「酔いどれ船」の「大自然の詩（le Poème de la Mer）」への先行──自然の中に「浸かる」詩人・詩的存在という命題の初期定式化。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "- C'est que les vents tombant des grands monts de Norwège\nT'avaient parlé tout bas de l'âpre liberté ;",
+      "body": "第II部の構造原理：「C'est que（それは……だから）」という因果接続詞の反復連鎖（第III連に3回、第IV連に2回）。オフィーリアの死の「原因」を5つ列挙する──(1)ノルウェーの風が語った「苛烈な自由（l'âpre liberté）」、(2)髪をよじる息吹が運ぶ「不思議な物音」と「大自然の歌」、(3)「狂える海の声」がその胸を砕いた、(4)「青白い騎士（ハムレット）」が膝に座った、(5)「恐ろしい無限（l'Infini terrible）」が目を怯えさせた。注目すべきは「ハムレット（＝愛）」が死の原因の一つに過ぎないこと──シェイクスピア原典では「ハムレットの拒絶→父ポローニアスの死→狂気→溺死」という因果連鎖だが、ランボーでは「自由・自然・無限」への過剰な感受性が主たる原因として提示される。「ノルウェーの大山（grands monts de Norwège）」──ハムレット≒ノルウェーという地理的参照が、北の荒々しい自然（「苛烈な自由」）の地理的根拠となる。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "glossary",
+      "anchor": "Ciel ! Amour ! Liberté ! Quel rêve, ô pauvre Folle !\nTu te fondais à lui comme une neige au feu :\nTes grandes visions étranglaient ta parole\n- Et l'Infini terrible effara ton oeil bleu !",
+      "body": "第II部の頂点──三重の大文字感嘆詞「Ciel！ Amour！ Liberté！」がオフィーリアの夢想した三つの理想を名指す。「Ciel（天）」「Amour（愛）」「Liberté（自由）」はフランス語の高踏的理想語彙──しかし「Quel rêve（なんという夢よ）」という直後の言葉が「夢」として即座に相対化する。「雪のように溶ける（Tu te fondais à lui comme une neige au feu）」──「Matin」の「一度だけある愛すべき若さがあった」という遡及的問いと同じ「過去の消滅の不可逆性」を身体的比喩で描く。「l'Infini terrible（恐ろしい無限）」──「無限（l'Infini）」は大文字で概念的実体化。ランボー「Bateau ivre」の「étoile d'argent（銀の星）」「archipels sidéraux（星座の群島）」という幻視の頂点と同型──しかし「Bateau ivre」の語り手が幻視から疲弊して「ヨーロッパが恋しい」と後悔するのに対し、オフィーリアは幻視に「怯えさせられ（effara）」て死ぬ──詩人と死の関係の対照的な二定式。"
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "- Et le Poète dit qu'aux rayons des étoiles\nTu viens chercher, la nuit, les fleurs que tu cueillis ;",
+      "body": "第III部の語り手転換──「le Poète（詩人）」という大文字の三人称が突然出現する。それまでの第I部（三人称・オフィーリアを外部から描写）、第II部（二人称・「お前」への直接呼びかけ）に続く第三の語り口として「詩人が言う（le Poète dit）」という間接話法が採用される。この三段の語り口の変化（三人称→二人称→詩人の証言）は詩人とオフィーリアの距離の変容を示す──最終的に「詩人」は「僕（je）」でも「詩人たる俺」でもなく「le Poète」という普遍的役割として登場する。「花を探しに来る（tu viens chercher les fleurs que tu cueillis）」──「かつて摘んだ花（que tu cueillis）」を「今なお探す（tu viens chercher）」という時制の交差：過去に摘まれた花が現在も探し続けられる。ハムレット第4幕でオフィーリアが狂った状態で配る花々（ローズマリー・パンジー・ルー・デイジー）への参照。"
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "Et qu'il a vu sur l'eau, couchée en ses longs voiles,\nLa blanche Ophélia flotter, comme un grand lys.",
+      "body": "最終2行の円環的構造──冒頭第2行「La blanche Ophélia flotte comme un grand lys（白いオフィーリアが大きな百合のように浮かぶ）」が「La blanche Ophélia flotter, comme un grand lys（白いオフィーリアが浮かぶのを見た、大きな百合のように）」として変奏される。「flotte（直説法現在）」→「flotter（不定詞）」の変化が詩学的核心：不定詞は時制・人称を持たない──オフィーリアの漂流が時間の枠外の普遍的行為として最終的に定義される。「il a vu（彼（詩人）は見た）」という複合過去──「詩人が見た」という過去の証言の中に「オフィーリアが浮かぶ（不定詞・時制なし）」という永続的現在が入れ子になる。詩全体が「現在→過去の原因→詩人の証言」という時間的迂回を経て、再び「浮かぶオフィーリア」へと回帰する円環構造──「Bateau ivre」の「un bateau frêle（紙の小舟）」という詩の自己引用的結末と同型の円環。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "intertextual",
+      "anchor": null,
+      "body": "マラルメ「エロディアード（Hérodiade）」との比較：どちらも「水・白さ・孤独・鏡（水面）」を中心とした女性像を描くが、マラルメのエロディアードが「接触を拒み鏡の中に閉じる」のに対し、ランボーのオフィーリアは「自然の中に溶け込み（Le vent baise ses seins / les roseaux s'inclinent）、無限に飛び込む」という対照的な女性詩人像を示す──「純粋さの閉鎖」対「感受性の解放」。ヘルダーリン「孤独者（Der Einzige）」との詩学的共鳴：どちらも「天・自然・愛・無限」という理想に向かう孤独な存在が、その理想の過大さゆえに現実世界から切り離される──ヘルダーリンが「神の子たちのひとりを愛しすぎた（Ich hatt einen unter ihnen / Sonderlich lieb）」という過剰な愛着として描くのに対し、ランボーは「l'Infini terrible effara（恐ろしい無限が怯えさせた）」という無限との衝突として描く。ランボー「Une saison en enfer」プロローグとの接続：プロローグの「Ciel！Amour！Liberté！」の三大文字感嘆詞は「Ophélie」第II部の「Ciel！Amour！Liberté！」の完全な反復──ランボー初期詩篇の理想語彙が地獄の季節でも消えずに叫ばれる。",
+      "targetId": "mallarme_herodiade_scene",
+      "targetParagraphId": null
+    }
+  ]
+}
