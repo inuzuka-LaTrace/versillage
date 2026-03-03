@@ -1,0 +1,188 @@
+{
+  "id": "racine_phedre_acte4_sc1_3",
+  "title": "Phèdre — Acte IV, Scènes I–III",
+  "author": "Jean Racine",
+  "source": "Phèdre et Hippolyte, tragédie, Claude Barbin, Paris, 1677 (初版). テキスト底本: édition 1697, theatre-classique.fr",
+  "year": "1677",
+  "firstPublication": "Phèdre et Hippolyte, Barbin, Paris, 1er janvier 1677 (初演: 1er janvier 1677, Hôtel de Bourgogne)",
+  "difficulty": "上級",
+  "category": "racine",
+  "genre": "tragédie",
+  "work": "Phèdre",
+  "act": 4,
+  "scenes": [1, 2, 3],
+  "characters": ["Thésée", "Hippolyte", "Théramène", "Œnone"],
+  "originalLang": "fr-FR",
+  "modernRelevance": "★★★★★",
+  "context": "第4幕Scène I–III。エノンの告発を信じたテーセウスがヒポリットと対決する幕。Scène I（テーセウス↔ヒポリット）：父の怒りに直面したヒポリットは、フェードルへの言及を「徳」によって自ら断ち切り、無実を証明できないまま退場する。Scène II（テーセウス、ヒポリット、テラメーヌ）：ヒポリットがアリシーへの愛を告白することで弁明を試みるが、テーセウスはその愛の告白を言い訳として一蹴する。Scène III（テーセウス独白 → テーセウス、エノン）：テーセウスがネプチューンへの呪いを発動させたことへの疑念を抱き始めるが、エノンが現れて告発を補強する。バルト『ラシーヌ論』の「父性の暴力（la violence paternelle）」と「言語の不可能性」を体現する幕。",
+  "keywords": [
+    "テーセウスの怒り",
+    "ヒポリットの沈黙",
+    "アリシーへの愛の告白",
+    "弁明の失敗",
+    "父と子の対決",
+    "ネプチューンへの呪い",
+    "エノンの告発完遂",
+    "言語の不可能性",
+    "父性の暴力"
+  ],
+  "relatedTexts": [
+    "racine_phedre_acte3_sc4_6",
+    "racine_phedre_acte4_sc4_6",
+    "racine_phedre_acte2_sc4_6",
+    "racine_phedre_acte1_sc1_2",
+    "valery_lettre_sur_mallarme"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "scene": 1,
+      "speaker": "Thésée",
+      "verses": "v.1115-1126",
+      "originalText": "Ah ! qu'est-ce que j'entends ? Un traître, un téméraire\nA-t-il pu commettre un tel forfait ?\nL'amour et la bonté que j'avais pour lui\nN'ont donc produit qu'un monstre ? Et sa noire furie\nA-t-elle contre moi conspire, ô ciel,\nCe détestable crime ?\nFuyez, traître. Ne cherchez pas ici\nMon vain courroux. Trop de fois j'ai trahi\nCe que j'aimais. Je chasse un fils.\nJe pleure un père. Allez.\nCherchez des bords de qui le crime ne souille.",
+      "provisionalTranslation": "ああ！これは何を聞くのか？裏切り者、無謀な者が\nかくも大きな罪を犯せたのか？\n彼に注いだ愛情と好意が\n怪物しか生まなかったのか？そして彼の黒い怒りは\n天よ、私に向かって謀ったのか、\nこの忌まわしい犯罪を？\n逃げよ、裏切り者。ここで\n私の虚しい憤怒を求めるな。あまりにも何度も私は裏切った\n愛したものを。私は息子を追放する。\n私は父を泣く。去れ。\n犯罪が汚さない岸辺を探せ。"
+    },
+    {
+      "id": 2,
+      "scene": 1,
+      "speaker": "Hippolyte",
+      "verses": "v.1127-1140",
+      "originalText": "Phèdre l'accuse, et mon père me croit !\nLes dieux m'ont-ils réservé ce sort ?\nUn fils peut être en butte à la calomnie,\nSans que son père au moins lui laisse la parole ?\nJe n'ai point commis ce crime abominable.\nNi pour un crime affreux que votre amour m'impute,\nNi pour les lâches feux dont on me déshonore,\nNe veux-je pas mourir innocent ?\nSeigneur, si de vos pleurs la source est épuisée,\nQue les dieux vous éclairent, et que la vérité\nSoit connue un jour, et fasse votre gloire.",
+      "provisionalTranslation": "フェードルが告発し、父は私を信じる！\n神々は私にこの運命を取っておいたのか？\n息子は誹謗中傷の的になれるのか、\n父が少なくとも彼に言葉を与えることなしに？\n私はこの忌まわしい犯罪を犯していない。\nあなたの愛が私に帰する恐ろしい犯罪のためにも、\n私を辱める臆病な炎のためにも、\n無実のまま死ぬことを望まないのか？\n殿、もしあなたの涙の源が尽きたなら、\n神々があなたを照らし、真実が\nいつか知られ、あなたの栄光になりますように。"
+    },
+    {
+      "id": 3,
+      "scene": 1,
+      "speaker": "Thésée",
+      "verses": "v.1141-1152",
+      "originalText": "Le perfide ! Il soutient ses fourbes jusqu'au bout.\nO fils ! Quel fils ingrat je perds, et que j'ai chéri !\nTu prétends qu'en effets ta vertu se signale ?\nAh ! parle. Dis à qui ta vertu se dévoue.\nPar quel serment prétends-tu me convaincre ?\nOu plutôt : vas, dis-moi de quels crimes Phèdre\nTe peut justifier aux yeux d'un père outragé.",
+      "provisionalTranslation": "裏切り者！彼は最後まで詐欺を維持する。\nああ息子よ！なんと忘恩な息子を私は失い、かつ愛してきたのか！\nお前は自分の徳が行動で示されると主張するのか？\nああ！語れ。お前の徳が誰に捧げられるかを言え。\nどのような誓いでお前は私を納得させようとするのか？\nむしろ：行け、フェードルのどんな犯罪が\n侮辱された父の目にお前を正当化できるか私に言え。"
+    },
+    {
+      "id": 4,
+      "scene": 1,
+      "speaker": "Hippolyte",
+      "verses": "v.1153-1164",
+      "originalText": "Phèdre... Mais la vertu ne dit pas tout.\nSeigneur, j'ai respecté votre épouse ;\nMais il est des secrets que je dois taire,\nDes raisons de garder ce silence.\nSouffrez que je m'en aille. Ah ! si du moins\nVous connaissiez ma peine et mon innocence,\nVous sauriez...Mais je dois vous épargner\nUn aveu trop cruel. Je pars. Je fuis.\nPermettez que mon respect vous dise adieu.",
+      "provisionalTranslation": "フェードル……しかし徳はすべてを語らない。\n殿、私はあなたの妻を敬いました。\nしかし沈黙しなければならない秘密があり、\nこの沈黙を守る理由があります。\n私が立ち去るのをお許しください。ああ！少なくとも\nあなたが私の苦痛と無実を知っていれば、\nあなたはわかるのに……しかしあなたを\nあまりにも残酷な告白から守らなければなりません。私は去ります。私は逃げます。\n私の敬意がお別れを申し上げることをお許しください。"
+    },
+    {
+      "id": 5,
+      "scene": 1,
+      "speaker": "Thésée",
+      "verses": "v.1165-1176",
+      "originalText": "Le traître ! il part sans répondre.\nIl me laisse le cœur plein d'une douleur mortelle.\nNeptune, par le fleuve où les dieux font serment,\nTu m'as juré de venger mon injure.\nJ'implore ta promesse. Un père outragé\nCrie à toi. Qu'Hippolyte en ce jour\nExpie un forfait odieux,\nEt que le monstre que tu sais\nL'engloutisse ou le rende à la fureur des eaux.\nVenge un père. J'abandonne ce traître\nÀ ton bras : je ne le reconnais plus pour fils.",
+      "provisionalTranslation": "裏切り者！彼は答えずに去った。\n彼は死ぬほどの苦痛で私の心を満たしたまま残した。\nネプチューンよ、神々が誓いを立てる河によって、\nお前は私の侮辱を復讐することを誓った。\n私はお前の約束に懇願する。侮辱された父が\nお前に叫ぶ。ヒポリットが今日\n忌まわしい罪を償い、\nお前が知る怪物が\n彼を飲み込むか、波の怒りに委ねよ。\n父の復讐をせよ。私はこの裏切り者を\nお前の腕に委ねる：私はもはや彼を息子として認めない。"
+    },
+    {
+      "id": 6,
+      "scene": 2,
+      "speaker": "Thésée",
+      "verses": "v.1177-1186",
+      "originalText": "Théramène, tu fuis ? Et qu'est donc devenu\nCe que j'aurais droit d'attendre de toi ?\nTu laisses à sa honte un fils que j'abandonne.\nVas, si tu l'as suivi dans cette retraite,\nDis-lui qu'il n'est plus temps de fuir ma juste haine.\nCette injure est trop lourde, et la vengeance est douce.",
+      "provisionalTranslation": "テラメーヌ、逃げるのか？そして\nお前に期待する権利があったものはどうなったのか？\nお前は私が見捨てた息子をその恥辱に置き去りにする。\n行け、もしお前が彼をその引きこもりの場所まで追ったなら、\n私の正当な憎しみから逃げる時ではないと彼に言え。\nこの侮辱はあまりに重く、復讐は甘い。"
+    },
+    {
+      "id": 7,
+      "scene": 2,
+      "speaker": "Hippolyte",
+      "verses": "v.1187-1198",
+      "originalText": "Seigneur, je viens à vous, non pour défendre un crime\nQue votre amour pour moi peut rendre difficile à croire,\nMais pour vous dire un secret que vous ignorez :\nJ'aime. J'aime, seigneur, malgré votre défense.\nAricie a soumis mon orgueil. La fille\nDe vos ennemis, des Pallantides,\nA vaincu ce cœur que vous croyiez rebelle.\nJe l'adore. Et pour comble à mes infortunes,\nDepuis six mois je brûle et je l'adore.",
+      "provisionalTranslation": "殿、私はあなたのもとに参ります。罪を弁護するためではなく、\nあなたの愛がなかなか信じがたくする犯罪を、\nしかしあなたが知らない秘密をお伝えするために。\n私は愛しています。愛しています、殿、あなたの禁止にもかかわらず。\nアリシーが私の誇りを征服した。あなたの\n敵たちの娘、パランティダイの血が、\nあなたが反抗的と思っていたこの心を征服した。\n私は彼女を崇拝する。そして不幸の極みとして、\n六ヶ月来私は燃え、彼女を崇拝している。"
+    },
+    {
+      "id": 8,
+      "scene": 2,
+      "speaker": "Thésée",
+      "verses": "v.1199-1210",
+      "originalText": "Aricie ? Ah ! perfide ! Et tu veux m'en imposer ?\nTu veux couvrir une infamie nouvelle\nDu nom d'une amour feinte ?\nQuoi ? Sous des airs tendres et doux,\nTu aimes, dis-tu ? Mais cette amour nouvelle\nNe peut t'absoudre. L'amour excuse-t-il le crime ?\nUne amour criminelle est encore un crime.\nVas, ne cherche point ici\nDes faux-fuyants pour cacher ta noirceur.",
+      "provisionalTranslation": "アリシー？ああ！裏切り者！そしてお前は私を騙そうとするのか？\nお前は新たな不名誉を\n作り話の愛の名前で覆おうとするのか？\nなんと？優しく穏やかな様子の下に、\nお前は愛しているというのか？しかしこの新たな愛は\nお前を免罪できない。愛は犯罪を免罪するのか？\n犯罪的な愛はやはり犯罪だ。\n行け、ここで\nお前の邪悪さを隠す言い訳を探すな。"
+    },
+    {
+      "id": 9,
+      "scene": 2,
+      "speaker": "Hippolyte",
+      "verses": "v.1211-1214",
+      "originalText": "Seigneur, je pars, blessé de votre injustice.\nMais votre Aricie un jour vous sera chère.\nPuissent les dieux un jour vous éclairer !\nAdieu, seigneur. Je vais...",
+      "provisionalTranslation": "殿、私はあなたの不正義に傷つきながら去ります。\nしかしあなたのアリシーはいつかあなたに大切な存在となるでしょう。\n神々がいつかあなたを照らしてくださいますように！\nさようなら、殿。私は行きます……"
+    },
+    {
+      "id": 10,
+      "scene": 3,
+      "speaker": "Thésée",
+      "verses": "v.1215-1228",
+      "originalText": "Ô ciel ! quelle peine est la mienne !\nIl part sans se défendre, et me laisse incertain.\nCe criminel s'obstine et cache sa défense ?\nIl prend Aricie pour bouclier.\nCe soin d'épargner Phèdre est-il un aveu ?\nOu n'est-ce qu'un soin trop vif de sa vertu ?\nNeptune, j'ai parlé. Peut-être ai-je parlé trop tôt !\nQue n'ai-je attendu ? Mon bras trop prompt et trop sévère\nA-t-il pu trahir un fils que j'aurais dû connaître ?\nÔ désespoir ! ô regret qui me touche !",
+      "provisionalTranslation": "天よ！何という苦しみが私のものなのか！\n彼は弁明せずに去り、私を不確かなままにする。\nこの犯人は頑固で弁護を隠すのか？\n彼はアリシーを盾にとるのか？\nフェードルを守ろうとするこの配慮は告白なのか？\nそれとも彼の徳への過度に強い配慮に過ぎないのか？\nネプチューンよ、私は語った。おそらく早まりすぎて語ったのか！\n待てばよかったのに！あまりに性急で厳しすぎた私の腕は\n知るべきだった息子を裏切ったのか？\nああ絶望！ああ私を苦しめる後悔よ！"
+    },
+    {
+      "id": 11,
+      "scene": 3,
+      "speaker": "Thésée",
+      "verses": "v.1229-1234",
+      "originalText": "Œnone vient à moi. Quelle est cette terreur ?\nQu'as-tu fait ? Qui t'amène ici ?\nPourquoi ta peur ? Dis-moi tout.\nA-t-on cru que mes mains ont commis quelque crime ?",
+      "provisionalTranslation": "エノンが私のところへ来る。この恐怖は何だ？\nお前は何をしたのか？何がお前をここに連れてきたのか？\nなぜお前は恐れるのか？すべてを言え。\n私の手が何かの犯罪を犯したと信じられたのか？"
+    },
+    {
+      "id": 12,
+      "scene": 3,
+      "speaker": "Œnone",
+      "verses": "v.1235-1242",
+      "originalText": "Seigneur, s'il en est temps, épargnez vos regrets.\nHippolyte n'est plus à craindre pour Phèdre.\nNouvel amour occupe enfin son âme volage.\nAricie est l'objet de ses vœux.\nAricie possède son cœur.\nSeigneur, regardez à ce nouveau désordre.",
+      "provisionalTranslation": "殿、もし時間があれば、後悔をお控えください。\nヒポリットはもはやフェードルにとって恐れるべき存在ではありません。\n新たな愛がついにその移り気な魂を占めています。\nアリシーが彼の誓いの対象です。\nアリシーが彼の心を占有しています。\n殿、この新たな混乱をご覧ください。"
+    },
+    {
+      "id": 13,
+      "scene": 3,
+      "speaker": "Thésée",
+      "verses": "v.1243-1250 (Scène IVへの橋渡し)",
+      "originalText": "Quoi ? Phèdre n'occupe plus son cœur ?\nHippolyte est sensible, et ne sent rien pour elle ?\nAricie a su triompher de sa fierté ?\nAh dieux ! Œnone, est-il possible ?\nL'amour d'Aricie... Mais allons donc voir Phèdre\nEt l'entendre. Je veux savoir la vérité.\nQue Phèdre explique ici cette étrange aventure.",
+      "provisionalTranslation": "なんと？フェードルはもはや彼の心を占めていないのか？\nヒポリットは感受性があり、彼女に対して何も感じないのか？\nアリシーは彼の誇りに打ち勝つことができたのか？\nああ神々よ！エノン、それは可能なのか？\nアリシーへの愛……しかしフェードルに会いに行こうではないか\n彼女の話を聞こう。私は真実を知りたい。\nフェードルがここでこの奇妙な出来事を説明せよ。"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 4,
+      "type": "commentary",
+      "anchor": "Phèdre... Mais la vertu ne dit pas tout.",
+      "body": "「フェードル……しかし徳はすべてを語らない（Phèdre... Mais la vertu ne dit pas tout）」──省略記号（...）による自己中断がこの場面の最も重要な劇的装置。第3幕Scène VでもヒポリットはフェードルとÉdipeの名を省略記号で断ち切ったが（「Phèdre... Mais la vertu」）、ここでも同一の構文が反復される。バルト『ラシーヌ論』が「ヒポリットの沈黙（le silence d'Hippolyte）」として論じた逆説──「告発なき弁明（défense sans accusation）」──の詩的実現：ヒポリットは真実を語る言語を持ちながら、その言語の使用そのものが「フェードルの恥辱（l'opprobre de son lit）」を暴くことになるため、語ることを選ばない。ラシーヌ序文「他者を告発することなく自ら圧迫されるままにする（se laisse opprimer sans l'accuser）」の内面的理由がここで初めて明示される。"
+    },
+    {
+      "paragraphId": 5,
+      "type": "commentary",
+      "anchor": "Neptune, par le fleuve où les dieux font serment,\nTu m'as juré de venger mon injure.",
+      "body": "第3幕Scène VI§18「Venge un père. J'abandonne ce traître / À ta fureur」で発動されたネプチューンへの呪いの言語的反復──しかしここでは「委ねる（j'abandonne）」から「懇願する（j'implore）」へと動詞が変化する。同一の呪いが独白（一人）から対話（父と子の対決後）へと文脈を移すことで、その暴力性が増幅される。バルト「父性の暴力（la violence paternelle）」論：テーセウスは「英雄的蓄積（capital héroïque）」──ネプチューンへの三つの誓いの行使権──を、息子を裁く前に息子に対して行使する。これが第5幕のヒポリットの死の遠因となる。"
+    },
+    {
+      "paragraphId": 7,
+      "type": "commentary",
+      "anchor": "J'aime. J'aime, seigneur, malgré votre défense.",
+      "body": "「私は愛しています。愛しています、殿（J'aime. J'aime, seigneur）」──動詞「aimer」の孤立した二重反復は、第2幕Scène IIIで「Malgré moi-même（私自身に反して）」と始まったヒポリットの告白言語の凝縮形。しかしここでは第2幕のアリシーへの告白（「Je me rends / Ma raison cède à la violence」）とは異なり、弁明の手段として愛が告白される──愛が防衛として機能する構造の逆説。「J'aime」という二語が、フェードルへの告発に対する唯一の反証として差し出されるが、テーセウスはこれを「犯罪的な愛は犯罪だ（Une amour criminelle est encore un crime）」と断じる。愛の告白が弁明ではなく新たな告発の素材となる──ヴァレリー「二つの不可能性の間に挟まれた言語（langage pris entre deux impossibilités）」。"
+    },
+    {
+      "paragraphId": 8,
+      "type": "prosody",
+      "anchor": "Aricie ? Ah ! perfide ! Et tu veux m'en imposer ?",
+      "body": "テーセウスの「Aricie ?」という一語の独立行──アレクサンドランの12音節を単語一語で切断するラシーヌ固有の技法。第3幕Scène Vの§10「Aricie ?」（テーセウスがヒポリットの告白に驚愕した際の同一の語）と完全に対応し、同一の名前が異なる文脈で繰り返されることで、アリシーという名前がテーセウスの怒りと不信の焦点として確立される。アレクサンドランにおける「疑問の一語（un mot interrogatif）」の劇的機能：短い語が長い沈黙に先行し、その沈黙の中でテーセウスの認識が形成される。"
+    },
+    {
+      "paragraphId": 10,
+      "type": "commentary",
+      "anchor": "Neptune, j'ai parlé. Peut-être ai-je parlé trop tôt !",
+      "body": "「ネプチューンよ、私は語った。おそらく早まりすぎて語ったのか（Neptune, j'ai parlé. Peut-être ai-je parlé trop tôt）」──このテーセウスの独白は劇の構造上きわめて重要な地点：テーセウスが初めて自分の判断の誤りを疑う瞬間。しかし「おそらく（peut-être）」という留保は疑念に留まり、確信に至らない。エノンが直後に登場して告発を補強することで（§12）、この疑念は消去される。バルト「ラシーヌ的後悔（le regret racinien）」：遅すぎた認識──ラシーヌの悲劇では認識は常に行為の後に来る（「J'ai peut-être trop cru des témoins peu fidèles / Et j'ai trop tôt vers toi levé mes mains cruelles」は第5幕Scène IVで反復される）。"
+    },
+    {
+      "paragraphId": 12,
+      "type": "intertextual",
+      "anchor": "Seigneur, s'il en est temps, épargnez vos regrets.",
+      "body": "エノンの「殿、もし時間があれば、後悔をお控えください（s'il en est temps, épargnez vos regrets）」──第3幕Scène VI§16「Il l'a tenté, Seigneur」（エノンの告発完遂）から始まったエノンの役割が、ここで「後悔の抑制者」として延長される。しかしエノンのこのScène IIIへの登場とテーセウスへのアリシー情報の提供は、直後のScène IV（フェードルとテーセウスの対話）でフェードルがアリシーへの嫉妬によって崩壊するための布石として機能する──エノンは意図せずフェードルの破局を加速させる。「告発の連鎖（la chaîne d'accusation）」が「嫉妬の連鎖（la chaîne de jalousie）」へと転換する結節点。第4幕Scène IV以降のフェードルの嫉妬の暴発との対照として読むべき場面。",
+      "targetId": "racine_phedre_acte3_sc4_6",
+      "targetParagraphId": 16
+    },
+    {
+      "paragraphId": 9,
+      "type": "prosody",
+      "anchor": "Seigneur, je pars, blessé de votre injustice.\nMais votre Aricie un jour vous sera chère.",
+      "body": "「殿、私はあなたの不正義に傷つきながら去ります（je pars, blessé de votre injustice）」──第1幕冒頭「Le dessein en est pris : je pars（決意は固まった：私は出発する）」と「Je pars（私は去る）」という動詞が反復されるが、第1幕では能動的な出発の意志だったものが、ここでは傷ついた退場となる。第1幕から第4幕への「pars / pars」の反復が描く円弧：出発から退場へ、選択から強制へ。「votre Aricie（あなたのアリシー）」という所有格の使用──アリシーをテーセウスの財産として指示することで、ヒポリットはアリシーへの愛をテーセウスの支配領域の外に置く戦略をとる。最後の言葉の「je vais...」省略記号は、ヒポリットの最後の発話が完結しないことを示す──言語の未完性が人物の運命の未完性に対応する。"
+    }
+  ]
+}
