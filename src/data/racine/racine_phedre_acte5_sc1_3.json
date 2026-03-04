@@ -10,8 +10,17 @@
   "genre": "tragédie",
   "work": "Phèdre",
   "act": 5,
-  "scenes": [1, 2, 3],
-  "characters": ["Hippolyte", "Aricie", "Ismène", "Thésée"],
+  "scenes": [
+    1,
+    2,
+    3
+  ],
+  "characters": [
+    "Hippolyte",
+    "Aricie",
+    "Ismène",
+    "Thésée"
+  ],
   "originalLang": "fr-FR",
   "modernRelevance": "★★★★★",
   "context": "第5幕Scènes I–III（v.1353–1450）。悲劇の解決に向かう幕前半。Scène I（アリシー↔ヒポリット）：アリシーがヒポリットに告白を促す──ヒポリットは「徳は沈黙する（C'est l'unique respect que j'exige de vous）」と応じ、神々の正義を信じて告発を拒否する。その代わり、逃亡を提案し神殿での秘密婚姻を誓う。Scène II（テーセウス登場、転換）：わずか3行──テーセウスが「真実を見せてくれ（Montrer la vérité）」と神々に祈りながら登場し、アリシーがイスメーヌに逃亡の準備を命じる。Scène III（テーセウス↔アリシー）：テーセウスがヒポリットへの不信を語り、アリシーが直接批判を避けながら「あなたが残した怪物が一つある──あなたの息子があなたに話すことを禁じているから言えない（Votre fils, seigneur, me défend de poursuivre）」と謎めいた言葉でテーセウスに疑念を植え付ける。バルト「遅すぎた認識（la reconnaissance trop tardive）」の詩的実現。",
@@ -61,7 +70,7 @@
     {
       "id": 4,
       "scene": 1,
-      "speaker": "Aricie (suite)",
+      "speaker": "Aricie",
       "verses": "v.1401-1405",
       "originalText": "Je sais que, sans blesser l'honneur le plus sévère,\nJe me puis affranchir des mains de votre père :\nCe n'est point m'arracher du sein de mes parents ;\nEt la fuite est permise à qui fuit ses tyrans.\nMais vous m'aimez, seigneur ; et ma gloire alarmée…",
       "provisionalTranslation": "私は知っています、最も厳格な名誉を傷つけることなく、\n私はあなたの父の手から自由になれることを。\nこれは私の親元から引き離されることではありません。\n自らの専制者から逃げる者には逃亡が許されます。\nしかしあなたは私を愛しています、殿。そして脅かされた私の名誉が……"
@@ -85,29 +94,77 @@
     {
       "id": 7,
       "scene": 2,
-      "speaker": "Thésée / Aricie",
-      "verses": "v.1427-1429",
-      "originalText": "Dieux ! éclairez mon trouble, et daignez à mes yeux\nMontrer la vérité, que je cherche en ces lieux !\n\nSonge à tout, chère Ismène, et sois prête à la fuite.",
-      "provisionalTranslation": "神々よ！私の混乱を照らし、私の目に\nここで探している真実を見せてください！\n\n全てのことを考えて、愛しいイスメーヌ、逃亡の準備をしていてください。"
+      "speaker": "Thésée",
+      "verses": "v.1427-1428",
+      "originalText": "Dieux ! éclairez mon trouble, et daignez à mes yeux\nMontrer la vérité, que je cherche en ces lieux !",
+      "provisionalTranslation": "神々よ！私の混乱を照らし、私の目に\nここで探している真実を見せてください！"
     },
     {
       "id": 8,
-      "scene": 3,
-      "speaker": "Thésée / Aricie",
-      "verses": "v.1430-1437",
-      "originalText": "Vous changez de couleur, et semblez interdite,\nMadame : que faisait Hippolyte en ce lieu ?\n\nSeigneur, il me disait un éternel adieu.\n\nVos yeux ont su dompter ce rebelle courage ;\nEt ses premiers soupirs sont votre heureux ouvrage.\n\nSeigneur, je ne vous puis nier la vérité :\nDe votre injuste haine il n'a pas hérité ;\nIl ne me traitait point comme une criminelle.",
-      "provisionalTranslation": "顔色が変わっています、当惑しているようです、\n奥方よ。ヒポリットはここで何をしていたのか？\n\n殿、彼は私に永遠の別れを告げていました。\n\nあなたの目はあの反逆的な心を屈服させることができた。\n彼の最初の溜め息はあなたの幸福な業だ。\n\n殿、真実を否定することはできません。\n彼はあなたの不当な憎しみを受け継いではいない。\n彼は私を犯罪者として扱いませんでした。"
+      "scene": 2,
+      "speaker": "Aricie",
+      "verses": "v.1429",
+      "originalText": "Songe à tout, chère Ismène, et sois prête à la fuite.",
+      "provisionalTranslation": "全てのことを考えて、愛しいイスメーヌ、逃亡の準備をしていてください。"
     },
     {
       "id": 9,
       "scene": 3,
-      "speaker": "Thésée / Aricie",
-      "verses": "v.1438-1449",
-      "originalText": "J'entends : il vous jurait une amour éternelle.\nNe vous assurez point sur ce cœur inconstant ;\nCar à d'autres que vous il en jurait autant.\n\nLui, seigneur ?\n\nVous deviez le rendre moins volage :\nComment souffriez-vous cet horrible partage ?",
-      "provisionalTranslation": "なるほど：彼は永遠の愛を誓ったのですね。\nあの変わりやすい心を信頼してはなりません。\n他の者にもあなたと同じくらい誓っているのだから。\n\n彼が、殿？\n\nあなたが彼をもっと堅実にすべきだった。\nあなたはこの恐ろしい分かち合いをどうして甘受しているのですか？"
+      "speaker": "Thésée",
+      "verses": "v.1430-1431",
+      "originalText": "Vous changez de couleur, et semblez interdite,\nMadame : que faisait Hippolyte en ce lieu ?",
+      "provisionalTranslation": "顔色が変わっています、当惑しているようです、\n奥方よ。ヒポリットはここで何をしていたのか？"
     },
     {
       "id": 10,
+      "scene": 3,
+      "speaker": "Aricie",
+      "verses": "v.1432",
+      "originalText": "Seigneur, il me disait un éternel adieu.",
+      "provisionalTranslation": "殿、彼は私に永遠の別れを告げていました。"
+    },
+    {
+      "id": 11,
+      "scene": 3,
+      "speaker": "Thésée",
+      "verses": "v.1433-1434",
+      "originalText": "Vos yeux ont su dompter ce rebelle courage ;\nEt ses premiers soupirs sont votre heureux ouvrage.",
+      "provisionalTranslation": "あなたの目はあの反逆的な心を屈服させることができた。\n彼の最初の溜め息はあなたの幸福な業だ。"
+    },
+    {
+      "id": 12,
+      "scene": 3,
+      "speaker": "Aricie",
+      "verses": "v.1435-1437",
+      "originalText": "Seigneur, je ne vous puis nier la vérité :\nDe votre injuste haine il n'a pas hérité ;\nIl ne me traitait point comme une criminelle.",
+      "provisionalTranslation": "殿、真実を否定することはできません。\n彼はあなたの不当な憎しみを受け継いではいない。\n彼は私を犯罪者として扱いませんでした。"
+    },
+    {
+      "id": 13,
+      "scene": 3,
+      "speaker": "Thésée",
+      "verses": "v.1438-1440",
+      "originalText": "J'entends : il vous jurait une amour éternelle.\nNe vous assurez point sur ce cœur inconstant ;\nCar à d'autres que vous il en jurait autant.",
+      "provisionalTranslation": "なるほど：彼は永遠の愛を誓ったのですね。\nあの変わりやすい心を信頼してはなりません。\n他の者にもあなたと同じくらい誓っているのだから。"
+    },
+    {
+      "id": 14,
+      "scene": 3,
+      "speaker": "Aricie",
+      "verses": "v.1441",
+      "originalText": "Lui, seigneur ?",
+      "provisionalTranslation": "彼が、殿？"
+    },
+    {
+      "id": 15,
+      "scene": 3,
+      "speaker": "Thésée",
+      "verses": "v.1442-1443",
+      "originalText": "Vous deviez le rendre moins volage :\nComment souffriez-vous cet horrible partage ?",
+      "provisionalTranslation": "あなたが彼をもっと堅実にすべきだった。\nあなたはこの恐ろしい分かち合いをどうして甘受しているのですか？"
+    },
+    {
+      "id": 16,
       "scene": 3,
       "speaker": "Aricie",
       "verses": "v.1450-1461",
@@ -115,7 +172,7 @@
       "provisionalTranslation": "では、あなたはこれほど美しい生涯を恐ろしい中傷が\nよくも汚すことを許せるのですか？\n彼の心についてそれほど知らないのですか？\n罪と無実をそれほど見分けられないのですか？\nあなたの目にだけ憎むべき雲が\n全ての目に輝いている彼の徳を隠すとでも？\nああ！彼を裏切りの舌に委ねすぎています。\nやめてください。人殺しの誓いを悔いてください。\n恐れてください、殿、冷酷な天が\nあなたを憎んで誓いを聞き届けるほどになることを恐れてください。\n神は怒りの中でしばしば私たちの犠牲を受け取ります。\n神の贈り物はしばしば私たちの罪の罰となります。"
     },
     {
-      "id": 11,
+      "id": 17,
       "scene": 3,
       "speaker": "Thésée",
       "verses": "v.1462-1465",
@@ -123,7 +180,7 @@
       "provisionalTranslation": "いや、あなたは無駄に彼の罪を覆い隠そうとしている。\nあなたの愛があの恩知らずのために目を曇らせている。\nしかし私は確実な、非の打ちどころのない証人を信じる。\n私は見た、本物の涙が流れるのを見た。"
     },
     {
-      "id": 12,
+      "id": 18,
       "scene": 3,
       "speaker": "Aricie",
       "verses": "v.1466-1473",
@@ -145,13 +202,13 @@
       "body": "「婚礼は常に松明に囲まれているわけではない（L'hymen n'est point toujours entouré de flambeaux）」──ヒポリットの婚姻の提案が「神殿での秘密婚姻（l'hymen sans flambeaux）」という形をとる。「flambeaux（松明）」は正式な婚礼の象徴──その不在は社会的正統性の外での結合を意味するが、ヒポリットは「神々の証言」によって正統性を代替する。「Es un temple sacré formidable aux parjures（偽誓者を恐怖させる神聖な神殿）」──「formidable（恐ろしい）」という形容詞が選ばれる：この神殿の力は恐怖による。愛の誓いが恐怖の神殿で結ばれるという逆説がラシーヌ的愛の本質を示す。"
     },
     {
-      "paragraphId": 10,
+      "paragraphId": 16,
       "type": "commentary",
       "anchor": "Prenez garde, seigneur : vos invincibles mains\nOnt de monstres sans nombre affranchi les humains ;\nMais tout n'est pas détruit, et vous en laissez vivre\nUn… Votre fils, seigneur, me défend de poursuivre.",
       "body": "「あなたの無敵の両手は数えきれないほどの怪物から人類を解放した。しかし全ては滅ぼされていない。あなたはまだ一つを生かしています……（Mais tout n'est pas détruit, et vous en laissez vivre / Un…）」──アリシーの暗示が第5幕の劇的転換点。「怪物（Un…）」という言葉が省略記号で切断される：テーセウスは英雄として怪物を倒してきたが、今や「真の怪物」はフェードルであり、テーセウス自身の盲目さがその怪物を生かしていることを示唆する。「Votre fils, seigneur, me défend de poursuivre（あなたの息子が私が続けるのを禁じています）」──アリシーはヒポリットへの誠実さを守りながら真実を指し示す「暗示の言語（le langage de l'allusion）」の極致。この一言がScène IV以降のテーセウスの疑念と後悔の連鎖を引き起こす。"
     },
     {
-      "paragraphId": 11,
+      "paragraphId": 17,
       "type": "prosody",
       "anchor": "J'ai vu, j'ai vu couler des larmes véritables.",
       "body": "「私は見た、本物の涙が流れるのを見た（J'ai vu, j'ai vu couler des larmes véritables）」──動詞「voir（見る）」の反復（J'ai vu, j'ai vu）が悲劇的な皮肉の核心。テーセウスは「見た（vu）」と主張するが、彼が見たのはフェードルの演技的な涙であり、真実ではない。アリシーがScène IIIの前半で「Discernez-vous si mal le crime et l'innocence ?（罪と無実をそれほど見分けられないのか）」と問うたことへの自己矛盾的な回答がこの一行──「見る」ことがかえって盲目さの証拠となる。ラシーヌ的視覚の逆説：最も強く「見た」と言う者が最も見えていない。"
