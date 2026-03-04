@@ -10,8 +10,19 @@
   "genre": "tragédie",
   "work": "Phèdre",
   "act": 5,
-  "scenes": [4, 5, 6, 7],
-  "characters": ["Thésée", "Théramène", "Phèdre", "Panope", "Gardes"],
+  "scenes": [
+    4,
+    5,
+    6,
+    7
+  ],
+  "characters": [
+    "Thésée",
+    "Théramène",
+    "Phèdre",
+    "Panope",
+    "Gardes"
+  ],
   "originalLang": "fr-FR",
   "modernRelevance": "★★★★★",
   "context": "第5幕Scènes IV–VII（最終場）。悲劇の終結。Scène IV（テーセウス独白）：アリシーとの対話後、疑念が高まったテーセウスが「ネプチューンよ、恵みを急くな（Ne précipite point tes funestes bienfaits）」とネプチューンへの呪いを撤回しようとする──既に遅い。Scène V（テーセウス＋パノペ）：侍女パノペがエノンの投身死とフェードルの精神錯乱を報告する。Scène VI（テーセウス＋テラメーヌ）：「ヒポリットはもういない（Hippolyte n'est plus）」──テラメーヌが海の怪物によるヒポリットの死を詳細に語り（フランス古典悲劇最高の「語り（récit du messager）」）、アリシー失神の場面を伝える。最終場（テーセウス、フェードル他）：フェードルが毒を飲んで登場し、「沈黙を破らなければ（il faut rompre un injuste silence）」と全真実を告白して死ぬ──「死が私の目から明るさを奪いながら / 彼らが汚していた日に純粋さのすべてを返す（La mort à mes yeux dérobant la clarté / Rend au jour qu'ils souillaient toute sa pureté）」。テーセウスのアリシー養子宣言が悲劇を閉じる。",
@@ -27,6 +38,7 @@
     "認識の悲劇",
     "エノンの死",
     "Ne précipite point",
+    "アリシー養子"
   ],
   "relatedTexts": [
     "racine_phedre_acte5_sc1_3",
@@ -48,27 +60,11 @@
       "scene": 5,
       "speaker": "Panope",
       "verses": "v.1461-1478",
-      "originalText": "J'ignore le projet que la reine médite,\nSeigneur, mais je crains tout du transport qui l'agite.\nUn mortel désespoir sur son visage est peint ;\nLa pâleur de la mort est déjà sur son teint.\nDéjà de sa présence avec honte chassée,\nDans la profonde mer Œnone s'est lancée.\nOn ne sait point d'où part ce dessein furieux ;\nEt les flots pour jamais l'ont ravie à nos yeux.",
-      "provisionalTranslation": "王妃が何を企てているか私には分かりません、\n殿、しかし彼女を揺さぶる激情の何もかもが恐ろしい。\n死のような絶望が彼女の顔に刻まれています。\n死の蒼白さがすでに彼女の顔色に現れています。\n既に彼女の存在から羞恥に追われて、\nエノンが深い海に身を投げました。\nこの凶暴な決意がどこから来たのか誰も知りません。\n波は永遠に彼女を私たちの目から奪いました。"
+      "originalText": "J'ignore le projet que la reine médite,\nSeigneur, mais je crains tout du transport qui l'agite.\nUn mortel désespoir sur son visage est peint ;\nLa pâleur de la mort est déjà sur son teint.\nDéjà de sa présence avec honte chassée,\nDans la profonde mer Œnone s'est lancée.\nOn ne sait point d'où part ce dessein furieux ;\nEt les flots pour jamais l'ont ravie à nos yeux.\nSon trépas n'a point calmé la reine :\nLe trouble semble croître en son âme incertaine.\nQuelquefois, pour flatter ses secrètes douleurs,\nElle prend ses enfants et les baigne de pleurs ;\nEt soudain, renonçant à l'amour maternelle,\nSa main avec horreur les repousse loin d'elle.\nElle porte au hasard ses pas irrésolus ;\nSon œil tout égaré ne nous reconnaît plus.\nElle a trois fois écrit, et changeant de pensée,\nTrois fois elle a rompu sa lettre commencée.\nDaignez la voir, Seigneur, daignez la secourir.",
+      "provisionalTranslation": "王妃が何を企てているか私には分かりません、\n殿、しかし彼女を揺さぶる激情の何もかもが恐ろしい。\n死のような絶望が彼女の顔に刻まれています。\n死の蒼白さがすでに彼女の顔色に現れています。\n既に彼女の存在から羞恥に追われて、\nエノンが深い海に身を投げました。\nこの凶暴な決意がどこから来たのか誰も知りません。\n波は永遠に彼女を私たちの目から奪いました。\n彼女の死は王妃を落ち着かせませんでした。\n不安な魂の中に混乱がさらに増しているようです。\n時々、秘めた苦しみを慰めようとして、\n彼女は子どもたちを抱いて涙で濡らします。\nしかしすぐに母性愛を捨て、\n彼女の手は恐怖とともに子どもたちを遠ざけます。\n彼女は心を定めず足を運びます。\n全く錯乱した目は私たちをもう認識しません。\n彼女は三度手紙を書き、気が変わって、\n三度書きかけの手紙を破りました。\n殿、どうか彼女に会ってください、どうか助けてください。"
     },
     {
       "id": 3,
-      "scene": 5,
-      "speaker": "Thésée",
-      "verses": "v.1479-1486",
-      "originalText": "Qu'entends-je ?",
-      "provisionalTranslation": "私は何を聞いているのだ？"
-    },
-    {
-      "id": 4,
-      "scene": 5,
-      "speaker": "Panope",
-      "verses": "v.1479-1486",
-      "originalText": "Qu'entends-je ? Son trépas n'a point calmé la reine :\nLe trouble semble croître en son âme incertaine.\nQuelquefois, pour flatter ses secrètes douleurs,\nElle prend ses enfants et les baigne de pleurs ;\nEt soudain, renonçant à l'amour maternelle,\nSa main avec horreur les repousse loin d'elle.\nElle porte au hasard ses pas irrésolus ;\nSon œil tout égaré ne nous reconnaît plus.\nElle a trois fois écrit, et changeant de pensée,\nTrois fois elle a rompu sa lettre commencée.\nDaignez la voir, Seigneur, daignez la secourir.",
-      "provisionalTranslation": "何を聞いているか？彼女の死は王妃を落ち着かせませんでした。\n不安な魂の中に混乱がさらに増しているようです。\n時々、秘めた苦しみを慰めようとして、\n彼女は子どもたちを抱いて涙で濡らします。\nしかしすぐに母性愛を捨て、\n彼女の手は恐怖とともに子どもたちを遠ざけます。\n彼女は心を定めず足を運びます。\n全く錯乱した目は私たちをもう認識しません。\n彼女は三度手紙を書き、気が変わって、\n三度書きかけの手紙を破りました。\n殿、どうか彼女に会ってください、どうか助けてください。"
-    },
-    {
-      "id": 5,
       "scene": 5,
       "speaker": "Thésée",
       "verses": "v.1479-1486",
@@ -76,47 +72,47 @@
       "provisionalTranslation": "ああ神々よ！エノンは死んだ、そしてフェードルは死のうとしている！\n息子を呼び戻せ、彼に弁明させよ。\n彼に話させよ、私は聞く準備ができている。\n不吉な恵みを急ぐな、\nネプチューンよ。私はむしろ決して聞き届けられない方がいい。\n私はおそらく信用のおけない証人たちをあまりに信じすぎた。\nそしてあまりに早くお前に向けて残酷な手を挙げすぎた。\nああ！私の祈りはどれほどの絶望に続くことになるのか！"
     },
     {
+      "id": 4,
+      "scene": 6,
+      "speaker": "Thésée",
+      "verses": "v.1487-1490",
+      "originalText": "Théramène, est-ce toi ? Qu'as-tu fait de mon fils ?\nJe te l'ai confié dès l'âge le plus tendre.\nMais d'où naissent les pleurs que je te vois répandre ?\nQue fait mon fils ?",
+      "provisionalTranslation": "テラメーヌ、お前か？息子をどうしたのか？\n最も幼い頃から私はお前に彼を預けた。\nしかしお前が流す涙はどこから来るのか？\n息子はどうしている？"
+    },
+    {
+      "id": 5,
+      "scene": 6,
+      "speaker": "Théramène",
+      "verses": "v.1491-1492",
+      "originalText": "Ô soins tardifs et superflus !\nInutile tendresse ! Hippolyte n'est plus.",
+      "provisionalTranslation": "遅すぎた、無駄な気遣いよ！\n役に立たない愛情よ！ヒポリットはもういない。"
+    },
+    {
       "id": 6,
       "scene": 6,
       "speaker": "Thésée",
-      "verses": "v.1487-1498",
-      "originalText": "Théramène, est-ce toi ? Qu'as-tu fait de mon fils ?\nJe te l'ai confié dès l'âge le plus tendre.\nMais d'où naissent les pleurs que je te vois répandre ?\nQue fait mon fils ?",
-      "provisionalTranslation": "テラメーヌ、お前か？息子をどうしたのか？\n最も幼い頃から私はお前に彼を預けた。\nしかしお前が流す涙はどこから来るのか？"
+      "verses": "v.1493",
+      "originalText": "Dieux !",
+      "provisionalTranslation": "神々よ！"
     },
     {
       "id": 7,
       "scene": 6,
       "speaker": "Théramène",
-      "verses": "v.1487-1498",
-      "originalText": "Que fait mon fils ?\n\nÔ soins tardifs et superflus !\nInutile tendresse ! Hippolyte n'est plus.\n\nDieux !\n\nJ'ai vu des mortels périr le plus aimable,\nEt j'ose dire encor, seigneur, le moins coupable.\n\nMon fils n'est plus ! Eh quoi ! quand je lui tends les bras,\nLes dieux impatients ont hâté son trépas !\nQuel coup me l'a ravi, quelle foudre soudaine ?",
-      "provisionalTranslation": "息子はどうしている？\n遅すぎた、無駄な気遣いよ！\n役に立たない愛情よ！ヒポリットはもういない。\n\n神々よ！\n\n私は人間の中で最も好ましい者が滅ぶのを見た、\nそして殿、あえて申しますが、最も罪のない者が。\n\n息子がいない！なんということか！私が彼に腕を伸ばす時、\n焦れた神々が彼の死を早めたというのか！\n何が彼を奪ったのか、どんな突然の雷が？"
+      "verses": "v.1494-1495",
+      "originalText": "J'ai vu des mortels périr le plus aimable,\nEt j'ose dire encor, seigneur, le moins coupable.",
+      "provisionalTranslation": "私は人間の中で最も好ましい者が滅ぶのを見た、\nそして殿、あえて申しますが、最も罪のない者が。"
     },
     {
       "id": 8,
       "scene": 6,
       "speaker": "Thésée",
-      "verses": "v.1487-1498",
-      "originalText": "Dieux !",
-      "provisionalTranslation": "神々よ！"
+      "verses": "v.1496-1498",
+      "originalText": "Mon fils n'est plus ! Eh quoi ! quand je lui tends les bras,\nLes dieux impatients ont hâté son trépas !\nQuel coup me l'a ravi, quelle foudre soudaine ?",
+      "provisionalTranslation": "息子がいない！なんということか！私が彼に腕を伸ばす時、\n焦れた神々が彼の死を早めたというのか！\n何が彼を奪ったのか、どんな突然の雷が？"
     },
     {
       "id": 9,
-      "scene": 6,
-      "speaker": "Théramène",
-      "verses": "v.1487-1498",
-      "originalText": "Dieux !\nJ'ai vu des mortels périr le plus aimable,\nEt j'ose dire encor, seigneur, le moins coupable.",
-      "provisionalTranslation": "神々よ！\n私は人間の中で最も好ましい者が滅ぶのを見た、\nそして殿、あえて申しますが、最も罪のない者が。"
-    },
-    {
-      "id": 10,
-      "scene": 6,
-      "speaker": "Thésée",
-      "verses": "v.1487-1498",
-      "originalText": "J'ai vu des mortels périr le plus aimable,\nEt j'ose dire encor, seigneur, le moins coupable.\n\nMon fils n'est plus ! Eh quoi ! quand je lui tends les bras,\nLes dieux impatients ont hâté son trépas !\nQuel coup me l'a ravi, quelle foudre soudaine ?",
-      "provisionalTranslation": "息子がいない！なんということか！私が彼に腕を伸ばす時、\n焦れた神々が彼の死を早めたというのか！\n何が彼を奪ったのか、どんな突然の雷が？"
-    },   
-    {
-      "id": 11,
       "scene": 6,
       "speaker": "Théramène",
       "verses": "v.1499-1526 [テラメーヌの語り前半: 出発から怪物の出現]",
@@ -124,7 +120,7 @@
       "provisionalTranslation": "私たちがトレゼンの門を出たばかりの頃、\n彼は自分の戦車の上にいた。悲嘆にくれた護衛たちが\n彼の沈黙を真似て、その周りに並んで歩いていた。\n彼は全く物思いに沈みながらミュケナイへの道を辿っていた。\n彼の手は手綱を馬の上に漂わせていた。\n以前は崇高な熱情にあふれて彼の声に従っていた\n気高い馬たちが、\n今は目を虚ろにし、頭を垂れて、\n彼の悲しい思いに従っているように見えた。\n突然、波の底から出た恐ろしい叫びが、\nこの瞬間に大気の静けさを乱した。\n大地の胎内から恐ろしい声が\nその恐ろしい叫びに呻きながら答えた。\n私たちの心の奥底まで血が凍りついた。\n注意深い馬たちの鬣が逆立った。\nその間、波の背の上に、\n泡立ちながら湿った山が盛り上がる。\n波が近づき、砕け、私たちの目の前に吐き出す、\n泡の波の中に、猛り狂う怪物を。\n広い額は脅かすような角で武装されている。\n全身は黄色みがかった鱗に覆われている、\n手のつけられない雄牛、激しい竜、\n後ろ肢が曲がりくねった折れ曲がりで反り返る。\n彼の長い咆哮が岸辺を震わせる。\n天は恐怖とともにこの野蛮な怪物を見る。\n大地はそれに揺れ、大気はそれで汚染される。\n彼を運んできた波は恐れて引いていく。\n全てが逃げる。役に立たない勇気を武器にすることなく、\n近くの神殿に人々は皆避難所を求める。"
     },
     {
-      "id": 12,
+      "id": 10,
       "scene": 6,
       "speaker": "Théramène",
       "verses": "v.1527-1554 [テラメーヌの語り中盤: ヒポリットの奮戦と落馬]",
@@ -132,31 +128,31 @@
       "provisionalTranslation": "ヒポリットだけが、英雄に相応しい息子として、\n馬を止め、投げ槍を掴み、\n怪物に打ちかかり、確かな手から投じた槍で\n脇腹に大きな傷を負わせた。\n怒りと苦痛で跳びはねる怪物が\n吠えながら馬の足元に倒れ込み、\n転がり、燃える口を向け、\n馬たちを火と血と煙で覆った。\n恐怖が馬たちを運び去る。そして今度ばかりは\n彼らは手綱にも声にも耳を貸さない。\n無力な努力の中で主人は消耗する。\n彼らは血まみれの泡で轡を赤く染める。\nこの恐ろしい混乱の中でさらに見られたとも言われている、\nある神が彼らの粉っぽい脇腹を突き棒で突いていたのを。\n恐怖が彼らを岩の中へ突進させる。\n車軸が軋んで折れる──勇敢なヒポリットは\n自分の戦車が粉々に砕けて飛び散るのを見る。\n彼自身が手綱に絡まって落ちる。\n私の悲しみをお許しください。この残酷な光景は\n私にとって永遠に涙の源となるだろう。\n私は見た、殿、私はあなたの不幸な息子が\n彼自身の手が育てた馬たちに引きずられるのを見た。\n彼は馬を呼び戻そうとするが、彼の声が馬を怖がらせる。\n馬たちは走る──彼の全身はやがてただの傷口になる。\n私たちの苦しむ叫びに平野が響き渡った。\n彼らの猛烈な勢いはついに遅くなる。\n彼らは古い墓から遠くない場所で止まった、\nそこで王たる彼の先祖たちの冷たい遺骸が眠っている。"
     },
     {
-      "id": 13,
+      "id": 11,
       "scene": 6,
       "speaker": "Théramène",
-      "verses": "v.1555-1588 [テラメーヌの語り後半: ヒポリットの遺言]",
+      "verses": "v.1555-1570",
       "originalText": "J'y cours en soupirant, et sa garde me suit :\nDe son généreux sang la trace nous conduit ;\nLes rochers en sont teints ; les ronces dégouttantes\nPortent de ses cheveux les dépouilles sanglantes.\nJ'arrive, je l'appelle ; et me tendant la main,\nIl ouvre un œil mourant qu'il referme soudain :\n« Le ciel, dit-il, m'arrache une innocente vie.\n« Prends soin après ma mort de la triste Aricie.\n« Cher ami, si mon père un jour désabusé\n« Plaint le malheur d'un fils faussement accusé,\n« Pour apaiser mon sang et mon ombre plaintive,\n« Dis-lui qu'avec douceur il traite sa captive ;\n« Qu'il lui rende… » À ce mot, ce héros expiré\nN'a laissé dans mes bras qu'un corps défiguré :\nTriste objet où des dieux triomphe la colère,\nEt que méconnaîtrait l'œil même de son père.",
-      "provisionalTranslation": "私は溜め息をつきながらそこへ走り、護衛が後に続く。\n彼の惜しみない血の跡が私たちを導く。\n岩はそれで染まっている。滴り落ちる野茨が\n彼の髪の血まみれの残骸を運んでいる。\n私は到着して彼を呼ぶ。彼は私に手を差し伸べながら、\n死にゆく目を開いてすぐに閉じる。\n「天よ、と彼は言う、天は私から無実の命を奪う。\n「私の死後、悲しむアリシーの世話をしてくれ。\n「愛する友よ、もし私の父がいつか誤解を解いて\n「冤罪を着せられた息子の不幸を嘆くならば、\n「私の血と嘆く私の影を鎮めるために、\n「彼に伝えてくれ、捕われの身の彼女を優しく扱うようにと。\n「彼女に返してくれ……」この言葉のところで、この死んだ英雄は\n私の腕の中に変わり果てた肉体を残しただけだった。"
+      "provisionalTranslation": "私は溜め息をつきながらそこへ走り、護衛が後に続く。\n彼の惜しみない血の跡が私たちを導く。\n岩はそれで染まっている。滴り落ちる野茨が\n彼の髪の血まみれの残骸を運んでいる。\n私は到着して彼を呼ぶ。彼は私に手を差し伸べながら、\n死にゆく目を開いてすぐに閉じる。\n「天よ、と彼は言う、天は私から無実の命を奪う。\n「私の死後、悲しむアリシーの世話をしてくれ。\n「愛する友よ、もし私の父がいつか誤解を解いて\n「冤罪を着せられた息子の不幸を嘆くならば、\n「私の血と嘆く私の影を鎮めるために、\n「彼に伝えてくれ、捕われの身の彼女を優しく扱うようにと。\n「彼女に返してくれ……」この言葉のところで、この死んだ英雄は\n私の腕の中に変わり果てた肉体を残しただけだった。\n神々の怒りが勝利した悲しい対象、\n父自身の目でも見分けのつかないほど。"
     },
     {
-      "id": 14,
+      "id": 12,
       "scene": 6,
       "speaker": "Thésée",
-      "verses": "v.1555-1588 [テーセウスの嘆き]",
+      "verses": "v.1571-1573",
       "originalText": "Ô mon fils ! cher espoir que je me suis ravi !\nInexorables dieux, qui m'avez trop servi !\nÀ quels mortels regrets ma vie est réservée !",
       "provisionalTranslation": "ああ息子よ！私が自ら奪った愛しい希望よ！\n私に奉仕しすぎた無情の神々よ！\n何という死すべき者の後悔に私の命は取っておかれたのか！"
     },
     {
-      "id": 15,
+      "id": 13,
       "scene": 6,
       "speaker": "Théramène",
-      "verses": "v.1555-1588 アリシー到着]",
-      "originalText": "La timide Aricie est alors arrivée :\nElle venait, seigneur, fuyant votre courroux,\nÀ la face des dieux l'accepter pour époux.\nElle approche ; elle voit l'herbe rouge et fumante ;\nElle voit (quel objet pour les yeux d'une amante !)\nHippolyte étendu, sans forme et sans couleur…\nElle veut quelque temps douter de son malheur ;\nEt, ne connaissant plus ce héros qu'elle adore,\nElle voit Hippolyte, et le demande encore.\nMais trop sûre à la fin qu'il est devant ses yeux,\nPar un triste regard elle accuse les dieux ;\nEt froide, gémissante, et presque inanimée,\nAux pieds de son amant elle tombe pâmée.\nIsmène est auprès d'elle ; Ismène, tout en pleurs,\nLa rappelle à la vie, ou plutôt aux douleurs.\nEt moi, je suis venu, détestant la lumière,\nVous dire d'un héros la volonté dernière,\nEt m'acquitter, seigneur, du malheureux emploi\nDont son cœur expirant s'est reposé sur moi.\nMais j'aperçois venir sa mortelle ennemie.",
+      "verses": "v.1574-1594",
+      "originalText": "La timide Aricie est alors arrivée :\nElle venait, seigneur, fuyant votre courroux,\nÀ la face des dieux l'accepter pour époux.\nElle approche ; elle voit l'herbe rouge et fumante ;\nElle voit (quel objet pour les yeux d'une amante !)\nHippolyte étendu, sans forme et sans couleur…\nElle veut quelque temps douter de son malheur ;\nEt, ne connaissant plus ce héros qu'elle adore,\nElle voit Hippolyte, et le demande encore.\nMais trop sûre à la fin qu'il est devant ses yeux,\nPar un triste regard elle accuse les dieux ;\nEt froide, gémissante, et presque inanimée,\nAux pieds de son amant elle tombe pâmée.\nIsmène est auprès d'elle ; Ismène, tout en pleurs,\nLa rappelle à la vie, ou plutôt aux douleurs.\nEt moi, je suis venu, détestant la lumière,\nVous dire d'un héros la volonté dernière,\nEt m'acquitter, seigneur, du malheureux emploi\nDont son cœur expirant s'est reposé sur moi.",
       "provisionalTranslation": "それから臆病なアリシーが到着した。\n彼女は来ていたのです、殿、あなたの怒りを逃れて、\n神々の前で彼を夫として受け入れるために。\n彼女は近づく。彼女は赤く煙る草を見る。\n彼女は見る（恋人の目には何という光景！）\n横たわるヒポリットを、形もなく色もなく……\n彼女はしばらく自分の不幸を疑おうとする。\n彼女が崇拝するその英雄がもはや分からず、\n彼女はヒポリットを見て、さらに彼を求める。\nしかしついには彼が目の前にいることを確信して、\n悲しいまなざしで彼女は神々を責める。\nそして冷たく、呻きながら、ほとんど生気を失って、\n愛する人の足元で彼女は失神して倒れる。\nイスメーヌがそばにいる。涙にくれたイスメーヌが\n彼女を生へと、あるいはむしろ苦しみへと呼び戻す。\nそして私は、光を厭いながらここへ来た、\n英雄の最後の意志をあなたに伝えるために、\nそして殿、彼の息絶える心が私に委ねた\n不幸な使命を果たすために。"
     },
     {
-      "id": 16,
+      "id": 14,
       "scene": 7,
       "speaker": "Thésée",
       "verses": "v.1589-1610 [最終場: テーセウスの独白]",
@@ -164,31 +160,39 @@
       "provisionalTranslation": "さあ！あなたは勝利し、私の息子は命を失った！\nああ！私には恐れる理由がある、そして残酷な疑念が\n私の心の中で彼を弁護しながら、当然私を不安にさせる！\nしかし、奥方よ、彼は死んだ、犠牲者を取りなさい。\nその損失を楽しみなさい、不正であれ正当であれ。\n私は自分の目が常に欺かれることに同意する。\nあなたが告発するので彼を有罪と思う。\n彼の死は私の涙に十分な素材を与えてくれる、\n私が嫌悪すべき真実を求めに行かずとも、\nそれは彼を正当な私の苦しみに返すことはできず、\nただ私の不幸を増やすだけだ。\n私を行かせてくれ、あなたから遠く、この岸辺から遠く、\n切り刻まれた私の息子の血まみれの姿から逃げに。\n致死的な記憶に責め立てられ混乱して、\n私は宇宙全体から追放されたい。\n全てが私の不正義に対して立ち上がっているように見える。\n私の名の輝きさえ私の苦しみを増やす。\n人間たちにあまり知られていなければ、より身を隠せるだろう。\n私は神々が私に与える名誉さえ憎む。\nそして私はいたずらな祈りでもはや彼らを煩わせず、\n彼らの殺戮的な恵みを泣きながら去ろう。\n彼らが私のためにしたことに関わらず、彼らの不吉な善意は\n彼らが私から奪ったものを補うことはできない。"
     },
     {
+      "id": 15,
+      "scene": 7,
+      "speaker": "Phèdre",
+      "verses": "v.1611-1613",
+      "originalText": "Non, Thésée, il faut rompre un injuste silence ;\nIl faut à votre fils rendre son innocence :\nIl n'était point coupable.",
+      "provisionalTranslation": "いや、テーセウス、不正な沈黙を破らなければならない。\n息子に無実を返さなければならない。\n彼は無実だった。"
+    },
+    {
+      "id": 16,
+      "scene": 7,
+      "speaker": "Thésée",
+      "verses": "v.1614-1616",
+      "originalText": "Ah ! père infortuné !\nEt c'est sur votre foi que je l'ai condamné !\nCruelle ! pensez-vous être assez excusée…",
+      "provisionalTranslation": "ああ！不幸な父よ！\nあなたの証言を信じて私は彼を断罪したというのか！\n残酷な方！あなたはそれで十分言い訳になると思うのか……"
+    },
+    {
       "id": 17,
       "scene": 7,
-      "speaker": "Phèdre / Thésée",
-      "verses": "v.1611-1621 [フェードルの告白冒頭・テーセウスの応答]",
-      "originalText": "Non, Thésée, il faut rompre un injuste silence ;\nIl faut à votre fils rendre son innocence :\nIl n'était point coupable.\n\nAh ! père infortuné !\nEt c'est sur votre foi que je l'ai condamné !\nCruelle ! pensez-vous être assez excusée…\n\nLes moments me sont chers ; écoutez-moi, Thésée\nC'est moi qui sur ce fils, chaste et respectueux,\nOsai jeter un œil profane, incestueux.\nLe ciel mit dans mon sein une flamme funeste :\nLa détestable Œnone a conduit tout le reste.",
-      "provisionalTranslation": "いや、テーセウス、不正な沈黙を破らなければならない。\n息子に無実を返さなければならない。\n彼は無実だった。\n\nああ！不幸な父よ！\nあなたの証言を信じて私は彼を断罪したというのか！\n残酷な方！あなたはそれで十分言い訳になると思うのか……\n\n時は惜しい。聞いてください、テーセウス。\n私こそがこの純潔で恭順な息子に\n不敬で近親相姦のまなざしを向けた者だ。\n天が私の胸に不吉な炎を置いた。\n憎むべきエノンが後のことをすべて指揮した。"
+      "speaker": "Phèdre",
+      "verses": "v.1617-1621",
+      "originalText": "Les moments me sont chers ; écoutez-moi, Thésée\nC'est moi qui sur ce fils, chaste et respectueux,\nOsai jeter un œil profane, incestueux.\nLe ciel mit dans mon sein une flamme funeste :\nLa détestable Œnone a conduit tout le reste.",
+      "provisionalTranslation": "時は惜しい。聞いてください、テーセウス。\n私こそがこの純潔で恭順な息子に\n不敬で近親相姦のまなざしを向けた者だ。\n天が私の胸に不吉な炎を置いた。\n憎むべきエノンが後のことをすべて指揮した。"
     },
     {
       "id": 18,
       "scene": 7,
-      "speaker": "Thésée",
-      "verses": "v.1611-1621 [フェードルの告白冒頭・テーセウスの応答]",
-      "originalText": "Il n'était point coupable.\nAh ! père infortuné !\nEt c'est sur votre foi que je l'ai condamné !\nCruelle ! pensez-vous être assez excusée… ",
-      "provisionalTranslation": "彼は無実だった。\nああ！不幸な父よ！\nあなたの証言を信じて私は彼を断罪したというのか！\n残酷な方！あなたはそれで十分言い訳になると思うのか……"
+      "speaker": "Phèdre",
+      "verses": "v.1622-1644 [フェードルの告白・毒・最後の言葉]",
+      "originalText": "Elle a craint qu'Hippolyte, instruit de ma fureur,\nNe découvrît un feu qui lui faisait horreur :\nLa perfide, abusant de ma faiblesse extrême,\nS'est hâtée à vos yeux de l'accuser lui-même.\nElle s'en est punie, et fuyant mon courroux,\nA cherché dans les flots un supplice trop doux.\nLe fer aurait déjà tranché ma destinée ;\nMais je laissais gémir la vertu soupçonnée :\nJ'ai voulu, devant vous exposant mes remords,\nPar un chemin plus lent descendre chez les morts.\nJ'ai pris, j'ai fait couler dans mes brûlantes veines\nUn poison que Médée apporta dans Athènes.\nDéjà jusqu'à mon cœur le venin parvenu\nDans ce cœur expirant jette un froid inconnu ;\nDéjà je ne vois plus qu'à travers un nuage\nEt le ciel et l'époux que ma présence outrage ;\nEt la mort à mes yeux dérobant la clarté,\nRend au jour qu'ils souillaient toute sa pureté.",
+      "provisionalTranslation": "彼女は、私の激情を知ったヒポリットが\n彼に恐怖を与える炎を明らかにすることを恐れた。\nこの裏切り者は、私の極端な弱さを悪用して、\nあなたの目の前で急いで彼自身を告発した。\n彼女はその罰を受け、私の怒りから逃げて、\n波の中に甘すぎる罰を求めた。\n剣ならばもう私の運命を絶っていただろう。\nしかし私は疑われた徳が嘆くままにしていた。\n私は、あなたの前で私の悔恨を明らかにしながら、\nより遅い道で死者の国へ下りたかった。\n私は取り、燃える血管に流し込んだ\nメデアがアテネにもたらした毒を。\n既に私の心に至った毒が\nこの息絶えかけた心に未知の冷たさを投げかける。\n既に私には霞を通してしか見えない、\n天も、私の存在が侮辱する夫も。\nそして死が私の目から明るさを奪いながら、\n彼らが汚していた日に、その純粋さのすべてを返す。"
     },
     {
       "id": 19,
-      "scene": 7,
-      "speaker": "Phèdre",
-      "verses": "v.1622-1644 [フェードルの告白・毒・最後の言葉]",
-      "originalText": "Les moments me sont chers ; écoutez-moi, Thésée\nC'est moi qui sur ce fils, chaste et respectueux,\nOsai jeter un œil profane, incestueux.\nLe ciel mit dans mon sein une flamme funeste\nLa détestable Œnone a conduit tout le reste.\nElle a craint qu'Hippolyte, instruit de ma fureur,\nNe découvrît un feu qui lui faisait horreur :\nLa perfide, abusant de ma faiblesse extrême,\nS'est hâtée à vos yeux de l'accuser lui-même.\nElle s'en est punie, et fuyant mon courroux,\nA cherché dans les flots un supplice trop doux.\nLe fer aurait déjà tranché ma destinée ;\nMais je laissais gémir la vertu soupçonnée :\nJ'ai voulu, devant vous exposant mes remords,\nPar un chemin plus lent descendre chez les morts.\nJ'ai pris, j'ai fait couler dans mes brûlantes veines\nUn poison que Médée apporta dans Athènes.\nDéjà jusqu'à mon cœur le venin parvenu\nDans ce cœur expirant jette un froid inconnu ;\nDéjà je ne vois plus qu'à travers un nuage\nEt le ciel et l'époux que ma présence outrage ;\nEt la mort à mes yeux dérobant la clarté,\nRend au jour qu'ils souillaient toute sa pureté.",
-      "provisionalTranslation": "時は惜しい。聞いてください、テーセウス。\n私こそがこの純潔で恭順な息子に\n不敬で近親相姦のまなざしを向けた者だ。\n天が私の胸に不吉な炎を置いた。\n憎むべきエノンが後のことをすべて指揮した。彼女は、私の激情を知ったヒポリットが\n彼に恐怖を与える炎を明らかにすることを恐れた。\nこの裏切り者は、私の極端な弱さを悪用して、\nあなたの目の前で急いで彼自身を告発した。\n彼女はその罰を受け、私の怒りから逃げて、\n波の中に甘すぎる罰を求めた。\n剣ならばもう私の運命を絶っていただろう。\nしかし私は疑われた徳が嘆くままにしていた。\n私は、あなたの前で私の悔恨を明らかにしながら、\nより遅い道で死者の国へ下りたかった。\n私は取り、燃える血管に流し込んだ\nメデアがアテネにもたらした毒を。\n既に私の心に至った毒が\nこの息絶えかけた心に未知の冷たさを投げかける。\n既に私には霞を通してしか見えない、\n天も、私の存在が侮辱する夫も。\nそして死が私の目から明るさを奪いながら、\n彼らが汚していた日に、その純粋さのすべてを返す。"
-    },
-    {
-      "id": 20,
       "scene": 7,
       "speaker": "Panope",
       "verses": "v.1645",
@@ -196,7 +200,7 @@
       "provisionalTranslation": "息絶えました、殿！"
     },
     {
-      "id": 21,
+      "id": 20,
       "scene": 7,
       "speaker": "Thésée",
       "verses": "v.1646-1654 [テーセウスの最終独白・アリシー養子宣言]",
@@ -206,37 +210,37 @@
   ],
   "annotations": [
     {
-      "paragraphId": 5,
+      "paragraphId": 3,
       "type": "commentary",
       "anchor": "Ne précipite point tes funestes bienfaits,\nNeptune ; j'aime mieux n'être exaucé jamais.",
       "body": "「不吉な恵みを急ぐな、ネプチューン（Ne précipite point tes funestes bienfaits, Neptune）」──第4幕ScèneIIIでネプチューンに息子の死を呪ったテーセウスが、今や呪いの撤回を試みる。「bienfaits（恵み）」が「funestes（不吉な）」という形容詞で修飾される矛盾──神の「恵み」が息子の死という「不吉さ」に転じる。しかし既に遅い。ScèneVの冒頭でパノペはヒポリットの死ではなくエノンの死とフェードルの錯乱を報告する──テーセウスはまだ息子の死を知らないまま撤回を叫ぶ。この1行がScène V後半の核心をなす：認識の瞬間と遅れの構造。"
     },
     {
-      "paragraphId": 11,
+      "paragraphId": 9,
       "type": "prosody",
       "anchor": "À peine nous sortions des portes de Trézène,\nIl était sur son char ; ses gardes affligés\nImiaient son silence, autour de lui rangés ;",
       "body": "「À peine nous sortions des portes de Trézène（トレゼンの門を出たばかりの頃）」──テラメーヌの「語り（récit du messager）」の開始文。「À peine（ほとんど～ない）」という副詞が語りの時間的緊張を即座に設定する──「ほとんど出たばかりで……」という開始は、何かが起きる直前の静寂と、それが破られる前の最後の瞬間を切り取る。「ses gardes affligés / Imitaient son silence（護衛たちが彼の沈黙を真似ていた）」──集団的な沈黙が悲劇的事件の前の宇宙的静寂として機能する。バルト「ラシーヌ論」：「語り」は出来事の記述でなく出来事の物理的圧力の言語的再現。"
     },
     {
-      "paragraphId": 11,
+      "paragraphId": 9,
       "type": "glossary",
       "anchor": "Indomptable taureau, dragon impétueux,\nSa croupe se recourbe en replis tortueux ;",
       "body": "「手のつけられない雄牛、激しい竜（Indomptable taureau, dragon impétueux）」──怪物の双重性。「雄牛（taureau）」はミノタウロスの神話──フェードルの母パシパエがポセイドンの雄牛に溺れてミノタウロスを産んだという家系的呪いへの神話的照応。「竜（dragon）」はヘラクレス（アルシード）が倒した怪物群への照応──テーセウスの息子ヒポリットは父の英雄的系譜を継ぐが、この怪物だけは倒せない。ラシーヌ序文「ヒポリットが父の功業において果たせなかった役割」の詩的実現。"
     },
     {
-      "paragraphId": 12,
+      "paragraphId": 10,
       "type": "commentary",
       "anchor": "Hippolyte lui seul, digne fils d'un héros,\nArrête ses coursiers, saisit ses javelots,\nPousse au monstre, et d'un dard lancé d'une main sûre,",
       "body": "「ヒポリットだけが、英雄に相応しい息子として（Hippolyte lui seul, digne fils d'un héros）」──「lui seul（彼だけが）」という強調が悲劇的孤立の極点を示す。逃げる民衆、護衛、そして馬たちの中で、ヒポリットだけが留まる──この孤立がアルシードの英雄的継承の証明として機能しながら、同時に死の原因となる。「d'un dard lancé d'une main sûre（確かな手から投じた槍で）」──ヒポリットの「確かさ（sûre）」が神々の「不確かさ」と対照をなす：神は確実に彼を滅ぼし、彼は確実に怪物を傷つけるが、英雄の技は運命に勝てない。"
     },
     {
-      "paragraphId": 13,
+      "paragraphId": 11,
       "type": "commentary",
       "anchor": "« Le ciel, dit-il, m'arrache une innocente vie.\n« Prends soin après ma mort de la triste Aricie.\n« Cher ami, si mon père un jour désabusé\n« Plaint le malheur d'un fils faussement accusé,",
       "body": "「天は私から無実の命を奪う（Le ciel m'arrache une innocente vie）」──ヒポリットの最後の言葉の第一文が「無実（innocente）」という語を含む：死に際しても彼は自らの無実を証言する。「cher ami（愛する友）」というテラメーヌへの呼びかけが遺言の枠組みをなし、「もし私の父がいつか誤解を解くならば（si mon père un jour désabusé）」という条件文がテーセウスの後悔を予告する。「faussement accusé（冤罪を着せられた）」：ヒポリットは自らの死の原因を正確に証言する──第2幕の沈黙が死においてようやく破られる。"
     },
     {
-      "paragraphId": 19,
+      "paragraphId": 18,
       "type": "commentary",
       "anchor": "Et la mort à mes yeux dérobant la clarté,\nRend au jour qu'ils souillaient toute sa pureté.",
       "body": "「死が私の目から明るさを奪いながら / 彼らが汚していた日に純粋さのすべてを返す（La mort à mes yeux dérobant la clarté / Rend au jour qu'ils souillaient toute sa pureté）」──フェードルの最後の二行は劇全体の光と闇の主題系列の凝縮。第1幕ScèneIII「Soleil, je te viens voir pour la dernière fois（太陽よ、最後にお前を見に来た）」で始まったフェードルの太陽との関係が逆転して完結する：彼女の存在が「日（jour）を汚していた（souillaient）」──フェードルの死が日の純粋さを回復する。「clarté（明るさ）」の喪失と「pureté（純粋さ）」の回復という交換がフェードルの自己認識の完成を示す。",
@@ -245,7 +249,7 @@
       "targetParagraphId": null
     },
     {
-      "paragraphId": 21,
+      "paragraphId": 20,
       "type": "commentary",
       "anchor": "Que, malgré les complots d'une injuste famille,\nSon amante aujourd'hui me tienne lieu de fille !",
       "body": "「不正な一族の陰謀にもかかわらず、彼の恋人が今日から私の娘の代わりとなるように（Que malgré les complots d'une injuste famille, / Son amante aujourd'hui me tienne lieu de fille）」──テーセウスの最終行はアリシーの養子縁組宣言。第1幕でテーセウスが設けた禁令「パランティダイの血を絶やす」が息子の死によって逆転し、アリシーがテーセウスの養子として血を継続させる──ヒポリットの愛が唯一の遺産として残る。「malgré（にもかかわらず）」によってテーセウス自身の変容が示される。悲劇の締め括りの言葉は「ところ（fille）」という単純な女性名詞──娘として迎えることで、フェードルが奪った家族の絆をアリシーが補完する。"
