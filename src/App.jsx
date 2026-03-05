@@ -136,17 +136,17 @@ export default function App() {
 
   useEffect(() => {
     const allTexts = {
-     　...racineData,
-      ...mallarmeData,
       ...baudelaireData,
+      ...mallarmeData,
       ...valeryData,
       ...verlaineData,
-      ...rimbaudData,
       ...gautierData,
       ...valmoreData,
       ...lecontelisleData,
       ...rodenbachData,
       ...vanlerbergheData,
+      ...racineData,
+      ...rimbaudData,
       ...poeData,
       ...wildeData,
       ...swinburneData,
@@ -390,8 +390,8 @@ export default function App() {
                 ? `border-amber-400 ${typeDef(part.ann).colorDark} bg-opacity-60`
                 : `border-amber-500 bg-amber-50`
               : darkMode
-                ? 'border-gray-600 hover:border-amber-500'
-                : 'border-gray-400 hover:border-amber-500'
+                ? 'border-zinc-600 hover:border-amber-500'
+                : 'border-stone-400 hover:border-amber-500'
           }`}
           title={`${getTypeDef(part.ann.type).label}：クリックで表示`}
         >
@@ -505,7 +505,7 @@ export default function App() {
 
             {/* インライン展開パネル */}
             {isIntertextualOpen && (
-              <div className={`mt-2 rounded-lg border overflow-hidden ${darkMode ? 'border-violet-800/50 bg-gray-950/60' : 'border-violet-200 bg-white/80'}`}>
+              <div className={`mt-2 rounded-lg border overflow-hidden ${darkMode ? 'border-violet-800/50 bg-zinc-950/60' : 'border-violet-200 bg-white/90'}`}>
                 {/* パネルヘッダー */}
                 <div className={`px-3 py-2 flex items-center justify-between border-b ${darkMode ? 'border-violet-800/40 bg-violet-950/40' : 'border-violet-100 bg-violet-50'}`}>
                   <div>
@@ -528,11 +528,11 @@ export default function App() {
                   {targetParas.map(p => (
                     <div key={p.id}>
                       {!ann.targetParagraphId && (
-                        <span className={`text-xs font-mono opacity-40 mr-2 ${darkMode ? 'text-gray-400' : 'text-gray-500'}`}>
+                        <span className={`text-xs font-mono opacity-40 mr-2 ${darkMode ? 'text-zinc-400' : 'text-stone-500'}`}>
                           {p.id}
                         </span>
                       )}
-                      <span className={`font-serif leading-relaxed whitespace-pre-line text-xs ${darkMode ? 'text-gray-200' : 'text-gray-800'}`}>
+                      <span className={`font-serif leading-relaxed whitespace-pre-line text-xs ${darkMode ? 'text-zinc-200' : 'text-stone-800'}`}>
                         {getOriginalText(p)}
                       </span>
                       {getTranslation(p) && (
@@ -564,7 +564,7 @@ export default function App() {
     const ac = accentColors[panelIndex % accentColors.length];
 
     return (
-      <div className={`flex flex-col rounded-xl border-2 ${ac.border} overflow-hidden ${darkMode ? 'bg-gray-900' : 'bg-white'}`}>
+      <div className={`flex flex-col rounded-xl border-2 ${ac.border} overflow-hidden ${darkMode ? 'bg-zinc-900' : 'bg-white'}`}>
         {/* パネルヘッダー */}
         <div className={`px-4 py-3 border-b ${ac.header} shrink-0`}>
           <div className="flex items-start justify-between gap-2">
@@ -576,11 +576,11 @@ export default function App() {
             <div className="flex gap-1 shrink-0">
               <button
                 onClick={() => setShowOrig(v => !v)}
-                className={`px-2 py-0.5 text-xs rounded transition-colors ${showOrig ? (darkMode ? 'bg-indigo-800 text-indigo-200' : 'bg-indigo-100 text-indigo-700') : (darkMode ? 'bg-gray-800 text-gray-500' : 'bg-gray-100 text-gray-400')}`}
+                className={`px-2 py-0.5 text-xs rounded transition-colors ${showOrig ? (darkMode ? 'bg-indigo-800 text-indigo-200' : 'bg-indigo-100 text-indigo-700') : (darkMode ? 'bg-zinc-800 text-zinc-500' : 'bg-stone-100 text-stone-400')}`}
               >原</button>
               <button
                 onClick={() => setShowTrans(v => !v)}
-                className={`px-2 py-0.5 text-xs rounded transition-colors ${showTrans ? (darkMode ? 'bg-green-800 text-green-200' : 'bg-green-100 text-green-700') : (darkMode ? 'bg-gray-800 text-gray-500' : 'bg-gray-100 text-gray-400')}`}
+                className={`px-2 py-0.5 text-xs rounded transition-colors ${showTrans ? (darkMode ? 'bg-green-800 text-green-200' : 'bg-green-100 text-green-700') : (darkMode ? 'bg-zinc-800 text-zinc-500' : 'bg-stone-100 text-stone-400')}`}
               >訳</button>
             </div>
           </div>
@@ -622,16 +622,16 @@ export default function App() {
                 {isNewScene && (
                   <div className={`flex items-center gap-2 px-1 pt-1 pb-0.5`}>
                     <span className={`text-xs font-semibold tracking-wider px-2 py-0.5 rounded-full border ${
-                      darkMode ? 'bg-gray-800 text-gray-300 border-gray-600' : 'bg-gray-100 text-gray-600 border-gray-300'
+                      darkMode ? 'bg-zinc-800 text-zinc-300 border-zinc-600 font-sans' : 'bg-stone-100 text-stone-600 border-stone-300 font-sans'
                     }`}>Scène {para.scene}</span>
-                    <div className={`flex-1 h-px ${darkMode ? 'bg-gray-700' : 'bg-gray-200'}`} />
+                    <div className={`flex-1 h-px ${darkMode ? 'bg-zinc-700' : 'bg-stone-200'}`} />
                   </div>
                 )}
-                <div className={`rounded-lg border ${darkMode ? 'border-gray-800' : 'border-gray-100'}`}>
+                <div className={`rounded-lg border ${darkMode ? 'border-zinc-800' : 'border-stone-100'}`}>
                   {/* 段落ヘッダー */}
                   <button
                     onClick={() => setCollapsed(prev => ({ ...prev, [para.id]: !prev[para.id] }))}
-                    className={`w-full flex items-center gap-2 px-3 py-2 text-left transition-colors ${darkMode ? 'hover:bg-gray-800/60' : 'hover:bg-gray-50'}`}
+                    className={`w-full flex items-center gap-2 px-3 py-2 text-left transition-colors ${darkMode ? 'hover:bg-zinc-800/60' : 'hover:bg-stone-50'}`}
                   >
                     <span className={`text-xs font-mono w-5 shrink-0 ${textSecondary}`}>{para.id}</span>
                     {hasSpeaker && (
@@ -667,10 +667,10 @@ export default function App() {
 
   if (loading) {
     return (
-      <div className="min-h-screen bg-gradient-to-br from-indigo-50 to-purple-50 flex items-center justify-center">
+      <div className="min-h-screen bg-stone-50 flex items-center justify-center">
         <div className="text-center">
           <div className="text-6xl mb-4">📚</div>
-          <p className="text-xl text-gray-700">読み込み中...</p>
+          <p className="text-xl font-serif text-stone-700">読み込み中...</p>
         </div>
       </div>
     );
@@ -678,23 +678,23 @@ export default function App() {
 
   if (!currentText) {
     return (
-      <div className="min-h-screen bg-gradient-to-br from-indigo-50 to-purple-50 flex items-center justify-center">
+      <div className="min-h-screen bg-stone-50 flex items-center justify-center">
         <div className="text-center">
           <div className="text-6xl mb-4">⚠️</div>
-          <p className="text-xl text-gray-700">テキストが見つかりません</p>
+          <p className="text-xl font-serif text-stone-700">テキストが見つかりません</p>
         </div>
       </div>
     );
   }
 
   // ─── テーマ変数 ───────────────────────────────────────────
-  const bgClass         = darkMode ? 'bg-gray-950'                        : 'bg-gradient-to-br from-slate-50 via-white to-indigo-50';
-  const cardBgClass     = darkMode ? 'bg-gray-900 border-gray-800'        : 'bg-white border-gray-200';
-  const textClass       = darkMode ? 'text-gray-100'                       : 'text-gray-900';
-  const textSecondary   = darkMode ? 'text-gray-400'                       : 'text-gray-500';
-  const borderClass     = darkMode ? 'border-gray-800'                     : 'border-gray-200';
-  const inputBg         = darkMode ? 'bg-gray-800 text-gray-100 placeholder-gray-500 border-gray-700' : 'bg-gray-50 text-gray-900 placeholder-gray-400 border-gray-300';
-  const settingsBg      = darkMode ? 'bg-gray-900 border-gray-700 shadow-2xl' : 'bg-white border-gray-200 shadow-2xl';
+  const bgClass         = darkMode ? 'bg-zinc-950'                         : 'bg-stone-50';
+  const cardBgClass     = darkMode ? 'bg-zinc-900 border-zinc-800'         : 'bg-white border-stone-200';
+  const textClass       = darkMode ? 'text-zinc-100'                        : 'text-stone-900';
+  const textSecondary   = darkMode ? 'text-zinc-400'                        : 'text-stone-500';
+  const borderClass     = darkMode ? 'border-zinc-800'                      : 'border-stone-200';
+  const inputBg         = darkMode ? 'bg-zinc-800 text-zinc-100 placeholder-zinc-500 border-zinc-700' : 'bg-stone-100 text-stone-900 placeholder-stone-400 border-stone-300';
+  const settingsBg      = darkMode ? 'bg-zinc-900 border-zinc-700 shadow-2xl' : 'bg-white border-stone-200 shadow-2xl';
 
   const fontFamilyStyle =
     fontFamily === 'garamond' ? '"EB Garamond", "Shippori Mincho B1", serif' :
@@ -751,131 +751,148 @@ export default function App() {
     if (cat?.startsWith('hofmannsthal')) return darkMode ? 'bg-yellow-900/40 text-yellow-400' : 'bg-yellow-200 text-yellow-900';
     if (cat?.startsWith('trakl'))        return darkMode ? 'bg-blue-900/40 text-blue-400' : 'bg-blue-200 text-blue-900';
     if (cat?.startsWith('hoelderlin'))   return darkMode ? 'bg-indigo-900/40 text-indigo-300' : 'bg-indigo-100 text-indigo-800';
-    return darkMode ? 'bg-gray-800 text-gray-300' : 'bg-gray-100 text-gray-700';
+    return darkMode ? 'bg-zinc-800 text-zinc-300' : 'bg-stone-100 text-stone-700';
   };
 
   return (
     <div className={`min-h-screen ${bgClass} relative`} style={{ fontFamily: fontFamilyStyle }}>
 
+      {/* ─── サイドドロワー オーバーレイ ─────────────────── */}
+      {showSettings && (
+        <div
+          className="fixed inset-0 z-40 bg-black/30 backdrop-blur-sm"
+          onClick={() => setShowSettings(false)}
+        />
+      )}
+
+      {/* ─── サイドドロワー 本体 ──────────────────────────── */}
+      <div
+        ref={settingsRef}
+        className={`fixed top-0 right-0 h-full w-80 z-50 flex flex-col overflow-y-auto shadow-2xl
+          transition-transform duration-300 ease-in-out
+          ${showSettings ? 'translate-x-0' : 'translate-x-full'}
+          ${darkMode ? 'bg-zinc-900 border-l border-zinc-700' : 'bg-stone-50 border-l border-stone-200'}`}
+      >
+        <div className={`flex items-center justify-between px-5 py-4 border-b ${darkMode ? 'border-zinc-800' : 'border-stone-200'}`}>
+          <h3 className={`text-sm font-semibold tracking-wide font-sans ${textClass}`}>表示設定</h3>
+          <button
+            onClick={() => setShowSettings(false)}
+            className={`w-7 h-7 flex items-center justify-center rounded-full text-sm transition-colors ${darkMode ? 'hover:bg-zinc-800 text-zinc-400' : 'hover:bg-stone-200 text-stone-500'}`}
+          >✕</button>
+        </div>
+
+        <div className="p-5 space-y-6 flex-1">
+          {/* フォントサイズ */}
+          <div>
+            <label className={`text-xs font-semibold uppercase tracking-wider font-sans ${textSecondary} block mb-2.5`}>文字サイズ</label>
+            <div className="flex gap-1.5">
+              {[['small','小'],['medium','中'],['large','大'],['xlarge','特大']].map(([val, label]) => (
+                <button key={val} onClick={() => setFontSize(val)}
+                  className={`flex-1 py-2 text-xs rounded-lg font-sans transition-all
+                    ${fontSize === val
+                      ? darkMode ? 'bg-amber-700 text-amber-100 shadow-sm' : 'bg-stone-800 text-white shadow-sm'
+                      : darkMode ? 'bg-zinc-800 text-zinc-300 hover:bg-zinc-700' : 'bg-stone-100 text-stone-600 hover:bg-stone-200'}`}
+                >{label}</button>
+              ))}
+            </div>
+          </div>
+
+          {/* フォント */}
+          <div>
+            <label className={`text-xs font-semibold uppercase tracking-wider font-sans ${textSecondary} block mb-2.5`}>フォント</label>
+            <div className="flex flex-col gap-1.5">
+              {[
+                ['garamond', 'Garamond', 'EB Garamond'],
+                ['alice',    'Alice',     'Alice'],
+                ['im-fell',  'IM Fell',   'IM Fell English'],
+              ].map(([val, label, preview]) => (
+                <button key={val} onClick={() => setFontFamily(val)}
+                  className={`py-2.5 px-3.5 text-xs rounded-lg text-left transition-all flex items-center justify-between font-sans
+                    ${fontFamily === val
+                      ? darkMode ? 'bg-amber-700 text-amber-100 shadow-sm' : 'bg-stone-800 text-white shadow-sm'
+                      : darkMode ? 'bg-zinc-800 text-zinc-300 hover:bg-zinc-700' : 'bg-stone-100 text-stone-600 hover:bg-stone-200'}`}
+                >
+                  <span>{label}</span>
+                  <span className="opacity-60" style={{ fontFamily: `"${preview}", serif`, fontSize: '1.05em' }}>Abcあ</span>
+                </button>
+              ))}
+            </div>
+          </div>
+
+          {/* 読み上げ速度 */}
+          <div>
+            <label className={`text-xs font-semibold uppercase tracking-wider font-sans ${textSecondary} block mb-2.5`}>読み上げ速度</label>
+            <div className="flex flex-col gap-1.5">
+              {Object.entries(SPEECH_RATES).map(([key, { label }]) => (
+                <button key={key} onClick={() => setSpeechRate(key)}
+                  className={`py-2.5 px-3.5 text-xs rounded-lg text-left flex items-center justify-between font-sans transition-all
+                    ${speechRate === key
+                      ? darkMode ? 'bg-amber-700 text-amber-100 shadow-sm' : 'bg-stone-800 text-white shadow-sm'
+                      : darkMode ? 'bg-zinc-800 text-zinc-300 hover:bg-zinc-700' : 'bg-stone-100 text-stone-600 hover:bg-stone-200'}`}
+                >
+                  <span>{key === 'fast' ? '🎧 ' : key === 'slow' ? '🗣 ' : '▶ '}{label}</span>
+                  <span className="opacity-50">{key === 'fast' ? '1.25×' : key === 'slow' ? '0.65×' : '0.9×'}</span>
+                </button>
+              ))}
+            </div>
+          </div>
+
+          {/* 表示する内容（トグルスイッチ） */}
+          <div>
+            <label className={`text-xs font-semibold uppercase tracking-wider font-sans ${textSecondary} block mb-2.5`}>表示する内容</label>
+            <div className={`rounded-xl overflow-hidden border ${darkMode ? 'border-zinc-700' : 'border-stone-200'}`}>
+              {[
+                [showFrench, setShowFrench, '原文'],
+                [showOfficial, setShowOfficial, '仮訳'],
+                [showUser, setShowUser, '自分の訳'],
+                [showAnnotations, setShowAnnotations, '注釈'],
+              ].map(([checked, setter, label], i, arr) => (
+                <div
+                  key={label}
+                  onClick={() => setter(!checked)}
+                  className={`flex items-center justify-between px-4 py-3 cursor-pointer transition-colors font-sans
+                    ${i < arr.length - 1 ? (darkMode ? 'border-b border-zinc-700' : 'border-b border-stone-100') : ''}
+                    ${darkMode ? 'hover:bg-zinc-800' : 'hover:bg-stone-100'}`}
+                >
+                  <span className={`text-sm ${textClass}`}>{label}</span>
+                  <div className={`relative w-10 h-5 rounded-full transition-colors
+                    ${checked ? (darkMode ? 'bg-amber-600' : 'bg-stone-700') : (darkMode ? 'bg-zinc-700' : 'bg-stone-300')}`}>
+                    <div className={`absolute top-0.5 w-4 h-4 bg-white rounded-full shadow transition-transform
+                      ${checked ? 'translate-x-5' : 'translate-x-0.5'}`} />
+                  </div>
+                </div>
+              ))}
+            </div>
+          </div>
+        </div>
+      </div>
+
       {/* ─── Header ─────────────────────────────────── */}
-      <header className={`sticky top-0 z-30 ${darkMode ? 'bg-gray-950/95 border-gray-800' : 'bg-white/95 border-gray-200'} border-b backdrop-blur-md shadow-sm`}>
-        <div className="max-w-6xl mx-auto px-4 py-3 flex items-center gap-4">
+      <header className={`sticky top-0 z-30 ${darkMode ? 'bg-zinc-950/95 border-zinc-800' : 'bg-stone-50/95 border-stone-200'} border-b backdrop-blur-md`}>
+        <div className="max-w-6xl mx-auto px-4 py-3 flex items-center gap-3">
           <div className="flex-1 min-w-0">
             <h1 className={`text-lg font-serif font-semibold ${textClass} truncate`}>
               近代西洋テクスト対訳
             </h1>
-            <p className={`text-xs ${textSecondary}`}>{Object.keys(texts).length}編収録</p>
+            <p className={`text-xs font-sans ${textSecondary}`}>{Object.keys(texts).length}編収録</p>
           </div>
-
-          {/* ダークモード切り替え */}
           <button
             onClick={() => setDarkMode(!darkMode)}
-            className={`w-9 h-9 flex items-center justify-center rounded-full text-base transition-colors ${darkMode ? 'bg-gray-800 hover:bg-gray-700 text-yellow-300' : 'bg-gray-100 hover:bg-gray-200 text-gray-600'}`}
+            className={`w-8 h-8 flex items-center justify-center rounded-full text-sm transition-colors ${darkMode ? 'bg-zinc-800 hover:bg-zinc-700 text-amber-300' : 'bg-stone-100 hover:bg-stone-200 text-stone-600'}`}
             title="ダーク/ライト切替"
           >
             {darkMode ? '☀️' : '🌙'}
           </button>
-
-          {/* 設定ボタン */}
-          <div className="relative" ref={settingsRef}>
-            <button
-              onClick={() => setShowSettings(!showSettings)}
-              className={`w-9 h-9 flex items-center justify-center rounded-full text-base transition-colors ${showSettings ? 'bg-indigo-600 text-white' : darkMode ? 'bg-gray-800 hover:bg-gray-700 text-gray-300' : 'bg-gray-100 hover:bg-gray-200 text-gray-600'}`}
-              title="表示設定"
-            >
-              ⚙️
-            </button>
-
-            {/* 設定パネル（ドロップダウン） */}
-            {showSettings && (
-              <div className={`absolute right-0 top-12 w-64 rounded-xl border p-4 z-50 ${settingsBg}`}>
-                <h3 className={`text-xs font-semibold uppercase tracking-wider ${textSecondary} mb-3`}>表示設定</h3>
-
-                {/* フォントサイズ */}
-                <div className="mb-4">
-                  <label className={`text-xs font-medium ${textClass} block mb-2`}>文字サイズ</label>
-                  <div className="flex gap-1">
-                    {[['small','小'],['medium','中'],['large','大'],['xlarge','特大']].map(([val, label]) => (
-                      <button
-                        key={val}
-                        onClick={() => setFontSize(val)}
-                        className={`flex-1 py-1 text-xs rounded transition-colors ${fontSize === val ? 'bg-indigo-600 text-white' : darkMode ? 'bg-gray-800 text-gray-300 hover:bg-gray-700' : 'bg-gray-100 text-gray-700 hover:bg-gray-200'}`}
-                      >
-                        {label}
-                      </button>
-                    ))}
-                  </div>
-                </div>
-
-                {/* フォント */}
-                <div className="mb-4">
-                  <label className={`text-xs font-medium ${textClass} block mb-1.5`}>フォント</label>
-                  <div className="flex flex-col gap-1">
-                    {[
-                      ['garamond', 'Garamond', 'EB Garamond'],
-                      ['alice',    'Alice',     'Alice'],
-                      ['im-fell',  'IM Fell',   'IM Fell English'],
-                    ].map(([val, label, preview]) => (
-                      <button
-                        key={val}
-                        onClick={() => setFontFamily(val)}
-                        className={`py-1.5 px-3 text-xs rounded text-left transition-colors flex items-center justify-between ${
-                          fontFamily === val
-                            ? 'bg-indigo-600 text-white'
-                            : darkMode ? 'bg-gray-800 text-gray-300 hover:bg-gray-700' : 'bg-gray-100 text-gray-700 hover:bg-gray-200'
-                        }`}
-                      >
-                        <span>{label}</span>
-                        <span className="opacity-60" style={{ fontFamily: `"${preview}", serif`, fontSize: '0.95em' }}>Abc</span>
-                      </button>
-                    ))}
-                  </div>
-                </div>
-
-                {/* 読み上げ速度 */}
-                <div className="mb-4">
-                  <label className={`text-xs font-medium ${textClass} block mb-2`}>読み上げ速度</label>
-                  <div className="flex flex-col gap-1">
-                    {Object.entries(SPEECH_RATES).map(([key, { label }]) => (
-                      <button
-                        key={key}
-                        onClick={() => setSpeechRate(key)}
-                        className={`py-1.5 px-3 text-xs rounded text-left transition-colors ${speechRate === key ? 'bg-indigo-600 text-white' : darkMode ? 'bg-gray-800 text-gray-300 hover:bg-gray-700' : 'bg-gray-100 text-gray-700 hover:bg-gray-200'}`}
-                      >
-                        {key === 'fast' ? '🎧 ' : key === 'slow' ? '🗣 ' : '▶ '}{label}
-                        <span className={`ml-1 opacity-60 text-xs`}>
-                          {key === 'fast' ? '(1.25x)' : key === 'slow' ? '(0.65x)' : '(0.9x)'}
-                        </span>
-                      </button>
-                    ))}
-                  </div>
-                </div>
-
-                {/* 表示切り替え */}
-                <div>
-                  <label className={`text-xs font-medium ${textClass} block mb-2`}>表示する内容</label>
-                  <div className="space-y-2">
-                    {[
-                      [showFrench, setShowFrench, '原文', 'indigo'],
-                      [showOfficial, setShowOfficial, '仮訳', 'green'],
-                      [showUser, setShowUser, '自分の訳', 'purple'],
-                      [showAnnotations, setShowAnnotations, '注釈', 'amber'],
-                    ].map(([checked, setter, label, color]) => (
-                      <label key={label} className="flex items-center gap-2 cursor-pointer">
-                        <input
-                          type="checkbox"
-                          checked={checked}
-                          onChange={(e) => setter(e.target.checked)}
-                          className={`w-4 h-4 rounded accent-${color}-600`}
-                        />
-                        <span className={`text-sm ${textClass}`}>{label}</span>
-                      </label>
-                    ))}
-                  </div>
-                </div>
-              </div>
-            )}
-          </div>
+          <button
+            onClick={() => setShowSettings(v => !v)}
+            className={`w-8 h-8 flex items-center justify-center rounded-full text-sm transition-colors ${
+              showSettings
+                ? darkMode ? 'bg-amber-700 text-amber-100' : 'bg-stone-800 text-white'
+                : darkMode ? 'bg-zinc-800 hover:bg-zinc-700 text-zinc-300' : 'bg-stone-100 hover:bg-stone-200 text-stone-600'}`}
+            title="表示設定"
+          >
+            ⚙️
+          </button>
         </div>
       </header>
 
@@ -883,15 +900,15 @@ export default function App() {
 
         {/* ─── ウェルカムバナー ───────────────────────── */}
         {showWelcome && (
-          <div className={`rounded-xl border p-4 mb-6 relative ${darkMode ? 'bg-indigo-950/50 border-indigo-800' : 'bg-indigo-50 border-indigo-200'}`}>
+          <div className={`rounded-xl border p-4 mb-6 relative ${darkMode ? 'bg-amber-950/30 border-amber-900/50' : 'bg-amber-50 border-amber-200'}`}>
             <button
               onClick={() => setShowWelcome(false)}
               className={`absolute top-3 right-3 ${textSecondary} hover:opacity-70 text-xl leading-none`}
             >×</button>
-            <p className={`text-sm ${darkMode ? 'text-indigo-300' : 'text-indigo-700'}`}>
+            <p className={`text-sm font-sans ${darkMode ? 'text-amber-300' : 'text-amber-900'}`}>
               📚 19〜20世紀の近代西洋テクスト対訳集。フランス語・英語・ドイツ語の詩・批評原文と日本語仮訳を並べて比較し、自分の訳文も記録できます。
             </p>
-            <p className={`text-xs mt-1 ${darkMode ? 'text-indigo-400' : 'text-indigo-500'}`}>
+            <p className={`text-xs mt-1 font-sans ${darkMode ? 'text-amber-500' : 'text-amber-700'}`}>
               ※ 掲載の日本語訳は学習補助のための試訳であり、確定した翻訳ではありません。
             </p>
           </div>
@@ -906,10 +923,10 @@ export default function App() {
                 onClick={() => { setSelectedCategory(key); setSearchQuery(''); }}
                 className={`px-3 py-1.5 rounded-full text-xs font-medium transition-all ${
                   selectedCategory === key
-                    ? 'bg-indigo-600 text-white shadow-sm'
+                    ? 'bg-stone-800 text-white shadow-sm font-sans'
                     : darkMode
-                      ? 'bg-gray-800 text-gray-300 hover:bg-gray-700'
-                      : 'bg-gray-100 text-gray-600 hover:bg-gray-200'
+                      ? 'bg-zinc-800 text-zinc-300 hover:bg-zinc-700 font-sans'
+                      : 'bg-stone-100 text-stone-600 hover:bg-stone-200 font-sans'
                 }`}
               >
                 {cat.name}
@@ -938,74 +955,79 @@ export default function App() {
 
         {/* ─── テキスト一覧グリッド ─────────────────── */}
         <div className={`rounded-xl border p-4 mb-6 ${cardBgClass}`}>
-          <h2 className={`text-sm font-semibold ${textClass} mb-3`}>
+          <h2 className={`text-xs font-semibold uppercase tracking-wider font-sans ${textSecondary} mb-3`}>
             テキスト一覧
-            <span className={`ml-2 font-normal ${textSecondary}`}>({filteredTexts.length}件)</span>
+            <span className={`ml-2 font-normal`}>({filteredTexts.length}件)</span>
           </h2>
 
           {filteredTexts.length === 0 ? (
-            <p className={`text-sm ${textSecondary} py-4 text-center`}>
+            <p className={`text-sm font-sans ${textSecondary} py-4 text-center`}>
               「{searchQuery}」に一致するテキストが見つかりませんでした
             </p>
           ) : (
-            <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-3">
+            <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-2.5">
               {filteredTexts.map((text) => (
                 <div
                   key={text.id}
-                  className={`relative rounded-lg border text-left transition-all ${
+                  className={`relative rounded-lg border text-left transition-all overflow-hidden group ${
                     selectedText === text.id
                       ? darkMode
-                        ? 'border-indigo-500 bg-indigo-900/30 ring-1 ring-indigo-500'
-                        : 'border-indigo-500 bg-indigo-50 ring-1 ring-indigo-400'
+                        ? 'border-stone-500 bg-stone-900/40 shadow-md'
+                        : 'border-stone-400 bg-stone-50 shadow-md'
                       : darkMode
-                        ? 'border-gray-800 hover:border-gray-700 hover:bg-gray-800/50'
-                        : 'border-gray-200 hover:border-indigo-300 hover:bg-gray-50'
+                        ? 'border-zinc-800 hover:border-zinc-600 hover:shadow-md hover:bg-zinc-800/60'
+                        : 'border-stone-200 hover:border-stone-400 hover:shadow-md hover:bg-white'
                   }`}
                 >
+                  {/* 著者カラーの左ボーダーアクセント */}
+                  <div className={`absolute left-0 top-0 bottom-0 w-0.5 transition-all ${
+                    selectedText === text.id ? 'opacity-100' : 'opacity-30 group-hover:opacity-80'
+                  } ${authorColor(text.category).includes('violet') ? 'bg-violet-400' :
+                      authorColor(text.category).includes('amber') ? 'bg-amber-400' :
+                      authorColor(text.category).includes('sky') ? 'bg-sky-400' :
+                      authorColor(text.category).includes('rose') ? 'bg-rose-400' :
+                      authorColor(text.category).includes('emerald') ? 'bg-emerald-400' :
+                      authorColor(text.category).includes('teal') ? 'bg-teal-400' :
+                      authorColor(text.category).includes('indigo') ? 'bg-indigo-400' :
+                      authorColor(text.category).includes('cyan') ? 'bg-cyan-400' :
+                      authorColor(text.category).includes('pink') ? 'bg-pink-400' :
+                      authorColor(text.category).includes('blue') ? 'bg-blue-400' :
+                      'bg-stone-400'}`}
+                  />
                   {/* カード本体（テキスト選択） */}
                   <button
                     onClick={() => handleTextChange(text.id)}
-                    className="w-full p-3 pr-10 text-left"
+                    className="w-full pl-4 pr-9 py-3 text-left"
                   >
-                    {/* カテゴリーバッジ */}
-                    <span className={`inline-block text-xs px-2 py-0.5 rounded-full mb-1.5 font-medium ${authorColor(text.category)}`}>
-                      {catShort[text.category] || text.category}
-                    </span>
-                    <h3 className={`font-serif text-sm font-medium ${textClass} leading-snug line-clamp-2`}>
+                    {/* 著者名（サンセリフ小文字）+ 年 */}
+                    <div className={`flex items-center gap-1.5 mb-1`}>
+                      <span className={`text-xs font-sans font-medium ${textSecondary}`}>{text.author}</span>
+                      <span className={`text-xs font-sans ${textSecondary} opacity-50`}>·</span>
+                      <span className={`text-xs font-sans ${textSecondary} opacity-50`}>{text.year}</span>
+                    </div>
+                    <h3 className={`font-serif text-sm font-medium ${textClass} leading-snug line-clamp-2 mb-1.5`}>
                       {text.title}
                     </h3>
-                    <p className={`text-xs ${textSecondary} mt-0.5`}>{text.author}</p>
-                    <div className={`flex items-center gap-2 mt-1.5 text-xs ${textSecondary}`}>
-                      <span>{text.year}</span>
-                      <span>·</span>
-                      <span>{text.paragraphs.length}段落</span>
-                      {text.difficulty && (
-                        <>
-                          <span>·</span>
-                          <span>{text.difficulty}</span>
-                        </>
-                      )}
+                    <div className={`flex items-center gap-1.5 flex-wrap`}>
+                      <span className={`text-xs font-sans px-1.5 py-0.5 rounded ${authorColor(text.category)}`}>
+                        {catShort[text.category] || text.category}
+                      </span>
                       {text.annotations?.length > 0 && (
-                        <>
-                          <span>·</span>
-                          <span className={`px-1.5 py-0.5 rounded text-xs ${darkMode ? 'bg-amber-900/40 text-amber-400' : 'bg-amber-100 text-amber-700'}`}>
-                            注釈{text.annotations.length}
-                          </span>
-                        </>
+                        <span className={`text-xs font-sans px-1.5 py-0.5 rounded ${darkMode ? 'bg-amber-900/40 text-amber-400' : 'bg-amber-100 text-amber-700'}`}>
+                          注釈{text.annotations.length}
+                        </span>
                       )}
                     </div>
                   </button>
 
-                  {/* vボタン：1回目→変色、2回目→本文へスクロール */}
+                  {/* vボタン */}
                   <button
                     onClick={(e) => handleVButton(e, text.id)}
                     title={readyToScroll === text.id ? 'もう一度押すと本文へ移動' : '本文へ移動（2回押し）'}
-                    className={`absolute top-2 right-2 w-6 h-6 flex items-center justify-center rounded text-xs font-bold transition-all select-none ${
+                    className={`absolute top-2 right-2 w-6 h-6 flex items-center justify-center rounded text-xs font-bold transition-all select-none font-sans ${
                       readyToScroll === text.id
-                        ? 'bg-indigo-500 text-white shadow-md scale-110'
-                        : darkMode
-                          ? 'text-gray-600 hover:text-gray-400'
-                          : 'text-gray-300 hover:text-gray-500'
+                        ? darkMode ? 'bg-amber-600 text-white shadow-md scale-110' : 'bg-stone-700 text-white shadow-md scale-110'
+                        : darkMode ? 'text-zinc-600 hover:text-zinc-400' : 'text-stone-300 hover:text-stone-500'
                     }`}
                   >
                     ∨
@@ -1024,21 +1046,21 @@ export default function App() {
                 {catShort[currentText.category] || currentText.category}
               </span>
               <h2 className={`text-xl font-serif ${textClass} mb-1`}>{currentText.title}</h2>
-              <p className={`text-sm ${textSecondary}`}>{currentText.author}　{currentText.source}（{currentText.year}年）</p>
+              <p className={`text-sm font-sans ${textSecondary}`}>{currentText.author}　{currentText.source}（{currentText.year}年）</p>
             </div>
             <div className={`text-right text-xs ${textSecondary} shrink-0`}>
               <span className="font-semibold">{currentText.paragraphs.length}</span>段落
             </div>
           </div>
           {currentText.context && (
-            <div className={`mt-3 p-3 rounded-lg text-sm whitespace-pre-line ${darkMode ? 'bg-indigo-950/50 text-indigo-300 border border-indigo-900' : 'bg-indigo-50 text-indigo-800 border border-indigo-100'}`}>
+            <div className={`mt-3 p-3 rounded-lg text-sm whitespace-pre-line ${darkMode ? 'bg-zinc-800/60 text-zinc-300 border border-zinc-700' : 'bg-stone-100 text-stone-700 border border-stone-200'}`}>
               {currentText.context}
             </div>
           )}
           {currentText.keywords && currentText.keywords.length > 0 && (
             <div className="flex flex-wrap gap-1.5 mt-3">
               {currentText.keywords.map(k => (
-                <span key={k} className={`text-xs px-2 py-0.5 rounded ${darkMode ? 'bg-gray-800 text-gray-300' : 'bg-gray-100 text-gray-600'}`}>
+                <span key={k} className={`text-xs font-sans px-2 py-0.5 rounded border ${darkMode ? 'bg-zinc-800 text-zinc-400 border-zinc-700' : 'bg-stone-100 text-stone-600 border-stone-200'}`}>
                   {k}
                 </span>
               ))}
@@ -1054,8 +1076,8 @@ export default function App() {
                   onClick={() => { setCrossMode(v => !v); if (crossMode) setCrossTexts([]); }}
                   className={`px-3 py-1 text-xs rounded-lg font-medium transition-colors ${
                     crossMode
-                      ? darkMode ? 'bg-violet-700 text-white' : 'bg-violet-600 text-white'
-                      : darkMode ? 'bg-gray-800 text-gray-300 hover:bg-gray-700' : 'bg-gray-100 text-gray-600 hover:bg-gray-200'
+                      ? darkMode ? 'bg-violet-800 text-violet-100 font-sans' : 'bg-violet-700 text-white font-sans'
+                      : darkMode ? 'bg-zinc-800 text-zinc-300 hover:bg-zinc-700 font-sans' : 'bg-stone-100 text-stone-600 hover:bg-stone-200 font-sans'
                   }`}
                 >
                   {crossMode ? '✕ 横断ビューを閉じる' : '⇄ 横断読解ビューを開く'}
@@ -1086,8 +1108,8 @@ export default function App() {
                             isSelected
                               ? darkMode ? 'bg-violet-700 border-violet-500 text-white' : 'bg-violet-100 border-violet-400 text-violet-900'
                               : crossTexts.length >= 2
-                                ? darkMode ? 'border-gray-700 text-gray-600 cursor-not-allowed' : 'border-gray-200 text-gray-300 cursor-not-allowed'
-                                : darkMode ? 'border-gray-700 text-gray-400 hover:border-violet-600 hover:text-violet-300' : 'border-gray-300 text-gray-600 hover:border-violet-400 hover:text-violet-700'
+                                ? darkMode ? 'border-zinc-700 text-zinc-600 cursor-not-allowed font-sans' : 'border-stone-200 text-stone-300 cursor-not-allowed font-sans'
+                                : darkMode ? 'border-zinc-700 text-zinc-400 hover:border-violet-600 hover:text-violet-300 font-sans' : 'border-stone-300 text-stone-600 hover:border-violet-400 hover:text-violet-700 font-sans'
                           }`}
                           disabled={!isSelected && crossTexts.length >= 2}
                         >
@@ -1115,7 +1137,7 @@ export default function App() {
             <button
               onClick={() => setShowAnnotationIndex(v => !v)}
               className={`w-full flex items-center justify-between px-4 py-3 text-sm font-medium transition-colors ${
-                darkMode ? 'hover:bg-gray-800/60' : 'hover:bg-gray-50'
+                darkMode ? 'hover:bg-zinc-800/60' : 'hover:bg-stone-50'
               } ${textClass}`}
             >
               <span className="flex items-center gap-2">
@@ -1146,7 +1168,7 @@ export default function App() {
                     return (
                       <div key={p.id} className={`border-b last:border-b-0 ${borderClass}`}>
                         {/* 段落番号ヘッダー */}
-                        <div className={`px-4 py-1.5 text-xs font-mono font-semibold ${darkMode ? 'bg-gray-800/60 text-gray-400' : 'bg-gray-50 text-gray-500'}`}>
+                        <div className={`px-4 py-1.5 text-xs font-mono font-semibold ${darkMode ? 'bg-zinc-800/60 text-zinc-400 font-sans' : 'bg-stone-50 text-stone-500 font-sans'}`}>
                           § {p.id}
                           <span className={`ml-2 font-sans font-normal opacity-60 truncate`}>
                             {getOriginalText(p).split('\n')[0].slice(0, 40)}{getOriginalText(p).length > 40 ? '…' : ''}
@@ -1164,7 +1186,7 @@ export default function App() {
                                 className={`w-full text-left flex items-start gap-2 px-2 py-1.5 rounded-lg text-xs transition-colors ${
                                   isActive
                                     ? darkMode ? 'bg-amber-900/40' : 'bg-amber-50'
-                                    : darkMode ? 'hover:bg-gray-800' : 'hover:bg-gray-50'
+                                    : darkMode ? 'hover:bg-zinc-800' : 'hover:bg-stone-50'
                                 }`}
                               >
                                 <span className={`shrink-0 mt-0.5 px-1.5 py-0.5 rounded border text-xs ${darkMode ? def.colorDark : def.colorLight}`}>
@@ -1207,13 +1229,13 @@ export default function App() {
           <div className="flex gap-2">
             <button
               onClick={expandAll}
-              className={`px-3 py-1.5 text-xs rounded-lg transition-colors ${darkMode ? 'bg-gray-800 text-gray-300 hover:bg-gray-700' : 'bg-gray-100 text-gray-600 hover:bg-gray-200'}`}
+              className={`px-3 py-1.5 text-xs rounded-lg transition-colors font-sans ${darkMode ? 'bg-zinc-800 text-zinc-300 hover:bg-zinc-700' : 'bg-stone-100 text-stone-600 hover:bg-stone-200'}`}
             >
               ▼ すべて展開
             </button>
             <button
               onClick={collapseAll}
-              className={`px-3 py-1.5 text-xs rounded-lg transition-colors ${darkMode ? 'bg-gray-800 text-gray-300 hover:bg-gray-700' : 'bg-gray-100 text-gray-600 hover:bg-gray-200'}`}
+              className={`px-3 py-1.5 text-xs rounded-lg transition-colors font-sans ${darkMode ? 'bg-zinc-800 text-zinc-300 hover:bg-zinc-700' : 'bg-stone-100 text-stone-600 hover:bg-stone-200'}`}
             >
               ▶ すべて折りたたむ
             </button>
@@ -1222,8 +1244,8 @@ export default function App() {
               title={speakingId === 'all' ? '読み上げ停止' : '全文を読み上げる'}
               className={`px-3 py-1.5 text-xs rounded-lg transition-colors flex items-center gap-1 ${
                 speakingId === 'all'
-                  ? 'bg-indigo-600 text-white'
-                  : darkMode ? 'bg-gray-800 text-gray-300 hover:bg-gray-700' : 'bg-gray-100 text-gray-600 hover:bg-gray-200'
+                  ? (darkMode ? 'bg-amber-700 text-amber-100 font-sans' : 'bg-stone-700 text-white font-sans')
+                  : darkMode ? 'bg-zinc-800 text-zinc-300 hover:bg-zinc-700 font-sans' : 'bg-stone-100 text-stone-600 hover:bg-stone-200 font-sans'
               }`}
             >
               {speakingId === 'all' ? '⏹ 停止' : '🔊 全文'}
@@ -1231,7 +1253,7 @@ export default function App() {
           </div>
           <button
             onClick={clearAllTranslations}
-            className={`px-3 py-1.5 text-xs rounded-lg transition-colors ${darkMode ? 'bg-red-900/40 text-red-400 border border-red-800 hover:bg-red-900/60' : 'bg-red-50 text-red-600 border border-red-200 hover:bg-red-100'}`}
+            className={`px-3 py-1.5 text-xs rounded-lg transition-colors ${darkMode ? 'bg-rose-900/30 text-rose-400 border border-rose-800 hover:bg-rose-900/50 font-sans' : 'bg-rose-50 text-rose-700 border border-rose-200 hover:bg-rose-100 font-sans'}`}
           >
             訳文をすべて削除
           </button>
@@ -1277,32 +1299,32 @@ export default function App() {
                   <div className={`flex items-center gap-3 px-1 pt-2 pb-1`}>
                     <span className={`text-xs font-semibold tracking-widest uppercase px-3 py-1 rounded-full border ${
                       darkMode
-                        ? 'bg-gray-800 text-gray-300 border-gray-600'
-                        : 'bg-gray-100 text-gray-600 border-gray-300'
+                        ? 'bg-zinc-800 text-zinc-300 border-zinc-600 font-sans'
+                        : 'bg-stone-100 text-stone-600 border-stone-300 font-sans'
                     }`}>
                       Scène {para.scene}
                     </span>
-                    <div className={`flex-1 h-px ${darkMode ? 'bg-gray-700' : 'bg-gray-200'}`} />
+                    <div className={`flex-1 h-px ${darkMode ? 'bg-zinc-700' : 'bg-stone-200'}`} />
                   </div>
                 )}
 
               <div
                 ref={el => { paragraphRefs.current[para.id] = el; }}
-                className={`rounded-xl border-2 overflow-hidden transition-all ${
-                  selectedText && !isCollapsed ? 'shadow-sm' : ''
+                className={`rounded-xl overflow-hidden transition-all relative ${
+                  !isCollapsed ? (darkMode ? 'shadow-md shadow-black/30' : 'shadow-sm') : ''
                 } ${
-                  darkMode ? 'border-gray-800 bg-gray-900' : 'border-gray-200 bg-white'
+                  darkMode ? 'border border-zinc-800 bg-zinc-900' : 'border border-stone-200 bg-white'
                 }`}
               >
                 {/* 段落ヘッダー（折りたたみボタン） */}
                 <button
                   onClick={() => toggleParagraph(para.id)}
                   className={`w-full flex items-center justify-between px-4 py-3 text-left transition-colors ${
-                    darkMode ? 'hover:bg-gray-800/60' : 'hover:bg-gray-50'
+                    darkMode ? 'hover:bg-zinc-800/60' : 'hover:bg-stone-50/80'
                   }`}
                 >
                   <div className="flex items-center gap-3 min-w-0">
-                    <span className={`text-xs font-mono w-6 shrink-0 ${textSecondary}`}>{para.id}</span>
+                    <span className={`text-sm font-sans w-7 shrink-0 tabular-nums select-none opacity-30 ${textClass}`}>{para.id}</span>
 
                     {/* speaker バッジ（戯曲のみ） */}
                     {hasSpeaker && (
@@ -1339,8 +1361,8 @@ export default function App() {
                       title={speakingId === para.id ? '停止' : 'この段落を読み上げる'}
                       className={`w-5 h-5 flex items-center justify-center rounded text-xs transition-colors ${
                         speakingId === para.id
-                          ? 'bg-indigo-500 text-white'
-                          : darkMode ? 'text-gray-600 hover:text-gray-400' : 'text-gray-300 hover:text-gray-500'
+                          ? (darkMode ? 'bg-amber-700 text-amber-100' : 'bg-stone-700 text-white')
+                          : darkMode ? 'text-zinc-600 hover:text-zinc-400' : 'text-stone-300 hover:text-stone-500'
                       }`}
                     >
                       {speakingId === para.id ? '⏹' : '🔊'}
@@ -1351,11 +1373,11 @@ export default function App() {
 
                 {/* 段落コンテンツ */}
                 {!isCollapsed && (
-                  <div className={`px-4 pb-4 border-t ${borderClass}`}>
+                  <div className={`px-6 pb-6 border-t ${borderClass}`}>
 
                     {/* 原文 */}
                     {showFrench && (
-                      <div className="pt-4 mb-3">
+                      <div className="pt-5 mb-4">
                         {/* 原文ラベル行：通常テキストは「原文」バッジ、戯曲は speaker バッジ */}
                         {hasSpeaker ? (
                           <span className={`text-xs font-bold tracking-wider px-2 py-0.5 rounded border ${
@@ -1364,11 +1386,13 @@ export default function App() {
                             {para.speaker.toUpperCase()}
                           </span>
                         ) : (
-                          <span className={`text-xs font-semibold px-2 py-0.5 rounded ${darkMode ? 'bg-indigo-900/50 text-indigo-300 border border-indigo-800' : 'bg-indigo-600 text-white'}`}>
+                          <span className={`text-xs font-sans tracking-widest uppercase ${darkMode ? 'text-zinc-500' : 'text-stone-400'}`}>
                             原文
                           </span>
                         )}
-                        <p className={`mt-2 leading-relaxed whitespace-pre-line ${textClass} ${
+                        <p className={`mt-2 leading-loose whitespace-pre-line pl-4 border-l-2 ${
+                          darkMode ? 'border-stone-700' : 'border-stone-300'
+                        } ${textClass} ${
                           fontSize === 'xlarge' ? 'text-2xl' :
                           fontSize === 'large'  ? 'text-xl' :
                           fontSize === 'medium' ? 'text-lg' : 'text-base'
@@ -1418,11 +1442,11 @@ export default function App() {
 
                     {/* 仮訳 */}
                     {showOfficial && translation && (
-                      <div className={`mb-3 border-l-4 border-green-500 pl-3 ${showFrench ? '' : 'pt-4'}`}>
-                        <span className={`text-xs font-semibold px-2 py-0.5 rounded ${darkMode ? 'bg-green-900/50 text-green-300 border border-green-800' : 'bg-green-600 text-white'}`}>
+                      <div className={`mb-4 border-l-2 border-amber-400/70 pl-4 ${showFrench ? '' : 'pt-4'}`}>
+                        <span className={`text-xs font-sans tracking-widest uppercase ${darkMode ? 'text-zinc-500' : 'text-stone-400'}`}>
                           仮訳
                         </span>
-                        <p className={`mt-2 leading-relaxed whitespace-pre-line ${textClass} ${
+                        <p className={`mt-2 leading-loose whitespace-pre-line ${darkMode ? 'text-zinc-300' : 'text-stone-700'} ${
                           fontSize === 'xlarge' ? 'text-xl' :
                           fontSize === 'large'  ? 'text-lg' :
                           fontSize === 'medium' ? 'text-base' : 'text-sm'
@@ -1434,8 +1458,8 @@ export default function App() {
 
                     {/* 自分の訳 */}
                     {showUser && (
-                      <div className="border-l-4 border-purple-500 pl-3">
-                        <span className={`text-xs font-semibold px-2 py-0.5 rounded ${darkMode ? 'bg-purple-900/50 text-purple-300 border border-purple-800' : 'bg-purple-600 text-white'}`}>
+                      <div className={`border-l-2 pl-4 ${darkMode ? "border-violet-600/50" : "border-violet-300"}`}>
+                        <span className={`text-xs font-sans tracking-widest uppercase ${darkMode ? 'text-zinc-500' : 'text-stone-400'}`}>
                           自分の訳
                         </span>
                         {editingParagraph === para.id ? (
@@ -1443,7 +1467,7 @@ export default function App() {
                             <textarea
                               id={`user-translation-${para.id}`}
                               defaultValue={userTranslations[para.id]?.text || ''}
-                              className={`w-full p-3 border rounded-lg focus:outline-none focus:ring-2 focus:ring-purple-500 min-h-[80px] text-sm resize-y ${darkMode ? 'bg-gray-900 text-white border-gray-700' : 'bg-white border-gray-300'}`}
+                              className={`w-full p-3 border rounded-lg focus:outline-none focus:ring-2 focus:ring-purple-500 min-h-[80px] text-sm resize-y ${darkMode ? 'bg-zinc-900 text-zinc-100 border-zinc-700' : 'bg-white border-stone-300'}`}
                               placeholder="自分の訳を書く..."
                               autoFocus
                             />
@@ -1456,7 +1480,7 @@ export default function App() {
                               </button>
                               <button
                                 onClick={() => setEditingParagraph(null)}
-                                className={`px-4 py-1.5 rounded-lg text-sm transition-colors ${darkMode ? 'bg-gray-700 text-gray-300 hover:bg-gray-600' : 'bg-gray-100 text-gray-700 hover:bg-gray-200'}`}
+                                className={`px-4 py-1.5 rounded-lg text-sm transition-colors ${darkMode ? 'bg-zinc-700 text-zinc-300 hover:bg-zinc-600 font-sans' : 'bg-stone-100 text-stone-700 hover:bg-stone-200 font-sans'}`}
                               >
                                 キャンセル
                               </button>
@@ -1490,7 +1514,7 @@ export default function App() {
         </div>}
 
         {/* フッター */}
-        <div className={`text-center text-xs ${textSecondary} pb-8 space-y-1`}>
+        <div className={`text-center text-xs font-sans ${textSecondary} pb-8 space-y-1`}>
           <p>{Object.keys(texts).length}編収録</p>
           <p>掲載の日本語訳は学習補助のための試訳であり、確定した翻訳ではありません</p>
         </div>
