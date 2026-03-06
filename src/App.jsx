@@ -8,6 +8,8 @@ import {
   X, Check, Tag,
   GraduationCap, RotateCcw, ThumbsUp, ThumbsDown, Shuffle,
 } from 'lucide-react';
+import { CATEGORIES, CAT_SHORT, ANNOTATION_TYPE_DEF, SPEECH_RATES, PREFERRED_VOICES, FC_MAX_CHARS } from './constants';
+import { getTranslation, getOriginalText, getSpeechLang, getBestVoice, extractSnippet, fcParaKey, fcFontSizeClass, authorDotColor, getRouteFromHash, pushTextHash } from './utils';
 import racineData from './data/racine';
 import mallarmeData from './data/mallarme';
 import baudelaireData from './data/baudelaire';
@@ -28,58 +30,10 @@ import hofmannsthalData from './data/hofmannsthal';
 import traklData from './data/trakl';
 import hoelderlinData from './data/hoelderlin';
 
-// ユーティリティ：officialTranslation / provisionalTranslation 両対応
-const getTranslation = (para) =>
-  para.provisionalTranslation ?? para.officialTranslation ?? '';
+// getTranslation, getOriginalText, getSpeechLang, getBestVoice,
+// PREFERRED_VOICES, SPEECH_RATES は utils.js / constants.js に移動済み
 
-// ユーティリティ：french / originalText 両フィールド対応
-const getOriginalText = (para) =>
-  para.french ?? para.originalText ?? '';
-
-// 言語コード判定（JSONのoriginalLangフィールド優先、なければfr-FR）
-const getSpeechLang = (textObj) =>
-  textObj?.originalLang ?? 'fr-FR';
-
-// 言語ごとの優先音声名リスト（品質の高いものを優先）
-const PREFERRED_VOICES = {
-  'fr': ['Thomas', 'Google français', 'Microsoft Julie', 'Amelie'],
-  'de': ['Anna', 'Google Deutsch', 'Microsoft Hedda'],
-  'en': ['Daniel', 'Google UK English Female', 'Samantha', 'Google US English'],
-};
-
-const getBestVoice = (lang) => {
-  const voices = window.speechSynthesis.getVoices();
-  if (!voices.length) return null;
-  const prefix = lang.split('-')[0];
-  const preferred = PREFERRED_VOICES[prefix] || [];
-  for (const name of preferred) {
-    const v = voices.find(v => v.name.includes(name));
-    if (v) return v;
-  }
-  return voices.find(v => v.lang.startsWith(lang.split('-')[0])) ?? null;
-};
-
-// 読み上げ速度設定
-const SPEECH_RATES = {
-  fast:   { rate: 1.25, label: '高速' },
-  normal: { rate: 0.9,  label: '通常' },
-  slow:   { rate: 0.65, label: '低速' },
-};
-
-// ─── URLルーティング ユーティリティ ───────────────────────────
-// ハッシュ形式: #/text/<textId>  または  #/text/<textId>/para/<paraId>
-const getRouteFromHash = () => {
-  const m = window.location.hash.match(/^#\/text\/([^\/]+)(?:\/para\/(.+))?$/);
-  if (!m) return { textId: null, paraId: null };
-  return { textId: m[1], paraId: m[2] ? Number(m[2]) : null };
-};
-const getTextIdFromHash = () => getRouteFromHash().textId;
-const pushTextHash = (textId) => {
-  const hash = `#/text/${textId}`;
-  if (window.location.hash !== hash) {
-    window.history.pushState({ textId }, '', hash);
-  }
-};
+// getRouteFromHash, pushTextHash は utils.js に移動済み
 const pushParaHash = (textId, paraId) => {
   const hash = `#/text/${textId}/para/${paraId}`;
   window.history.pushState({ textId, paraId }, '', hash);
@@ -143,6 +97,7 @@ export default function App() {
   const [fcIndex, setFcIndex] = useState(0);
   const [fcFlipped, setFcFlipped] = useState(false);
   const [fcSessionResult, setFcSessionResult] = useState({}); // paraKey→'good'|'again'
+  const [fcBackMode, setFcBackMode] = useState('provisional'); // 'provisional'|'user' 裏面の訳ソース
   const [fcFinished, setFcFinished] = useState(false);
   // SRS記録: { 'textId:paraId': { status:'good'|'again', lastSeen:ts } }
   const [fcSrsData, setFcSrsData] = useState(() => {
@@ -256,32 +211,7 @@ export default function App() {
 
   const currentText = texts[selectedText];
 
-  const categories = {
-    all:                        { name: 'すべて' },
-    racine:                     { name: 'ラシーヌ' },
-    mallarme:                   { name: 'マラルメ' },
-    mallarme_critique:          { name: 'マラルメ批評' },
-    baudelaire:                 { name: 'ボードレール' },
-    baudelaire_critique:        { name: 'ボードレール批評' },
-    valery:                     { name: 'ヴァレリー' },
-    valery_critique:            { name: 'ヴァレリー批評' },
-    verlaine:                   { name: 'ヴェルレーヌ' },
-    verlaine_critique:          { name: 'ヴェルレーヌ批評' },
-    rimbaud:                    { name: 'ランボー' },
-    gautier:                    { name: 'ゴーティエ' },
-    valmore:                    { name: 'ヴァルモール' },
-    leconte_de_lisle:           { name: 'ルコント・ド・リール' },
-    rodenbach:                  { name: 'ローデンバック' },
-    vanlerberghe:               { name: 'ヴァン・レルベルグ' },
-    poe:                        { name: 'ポー' },
-    wilde:                      { name: 'ワイルド' },
-    swinburne:                  { name: 'スウィンバーン' },
-    yeats:                      { name: 'イェイツ' },
-    george:                     { name: 'ゲオルゲ' },
-    hofmannsthal:               { name: 'ホフマンスタール' },
-    trakl:                      { name: 'トラークル' },
-    hoelderlin:                 { name: 'ヘルダーリン' },
-  };
+  const categories = CATEGORIES; // constants.js
 
   // カテゴリーで絞り込み後、さらに検索クエリで絞り込む（本文テキストも対象）
   // カテゴリ選択を localStorage に保存（recent 以外）
@@ -291,26 +221,7 @@ export default function App() {
     }
   }, [selectedCategory]);
 
-  // スニペット抽出：クエリにマッチした箇所の前後30文字
-  const extractSnippet = (text, q) => {
-    const fields = [
-      { text: text.title  || '', label: 'タイトル' },
-      { text: text.author || '', label: '著者' },
-      ...(text.paragraphs || []).flatMap(p => [
-        { text: getOriginalText(p), label: '原文' },
-        { text: getTranslation(p),  label: '訳'   },
-      ]),
-    ];
-    for (const { text: t, label } of fields) {
-      const idx = t.toLowerCase().indexOf(q.toLowerCase());
-      if (idx === -1) continue;
-      const start = Math.max(0, idx - 30);
-      const end   = Math.min(t.length, idx + q.length + 30);
-      const snippet = (start > 0 ? '…' : '') + t.slice(start, end) + (end < t.length ? '…' : '');
-      return { snippet, label, matchStart: idx - start + (start > 0 ? 1 : 0), matchLen: q.length };
-    }
-    return null;
-  };
+  // extractSnippet は utils.js に移動済み
 
   // 検索中フラグ（スニペット・リスト表示の切替トリガー）
   const isSearching = !!searchQuery.trim() || !!activeKeyword;
@@ -523,13 +434,7 @@ export default function App() {
   // ─── 注釈ユーティリティ ────────────────────────────────────
 
   // typeごとの表示定義
-  const ANNOTATION_TYPE_DEF = {
-    glossary:     { label: '語釈',     colorLight: 'bg-amber-100 text-amber-800 border-amber-300',   colorDark: 'bg-amber-900/40 text-amber-300 border-amber-700',   dot: 'bg-amber-400' },
-    allusion:     { label: '典拠',     colorLight: 'bg-rose-100 text-rose-800 border-rose-300',      colorDark: 'bg-rose-900/40 text-rose-300 border-rose-700',      dot: 'bg-rose-400' },
-    commentary:   { label: '注釈',     colorLight: 'bg-sky-100 text-sky-800 border-sky-300',         colorDark: 'bg-sky-900/40 text-sky-300 border-sky-700',         dot: 'bg-sky-400' },
-    intertextual: { label: '参照',     colorLight: 'bg-violet-100 text-violet-800 border-violet-300', colorDark: 'bg-violet-900/40 text-violet-300 border-violet-700', dot: 'bg-violet-400' },
-    prosody:      { label: '韻律',     colorLight: 'bg-teal-100 text-teal-800 border-teal-300',      colorDark: 'bg-teal-900/40 text-teal-300 border-teal-700',      dot: 'bg-teal-400' },
-  };
+  // ANNOTATION_TYPE_DEF は constants.js に移動済み
 
   const getTypeDef = (type) =>
     ANNOTATION_TYPE_DEF[type] ?? { label: type, colorLight: 'bg-gray-100 text-gray-700 border-gray-300', colorDark: 'bg-gray-800 text-gray-300 border-gray-600', dot: 'bg-gray-400' };
@@ -811,7 +716,7 @@ export default function App() {
 
 
   // ─── フラッシュカード ヘルパー ──────────────────────────────
-  const fcParaKey = (textId, paraId) => `${textId}:${paraId}`;
+  // fcParaKey は utils.js に移動済み
 
   const buildFcCards = (source, sourceId, mode, srsData) => {
     const allTextsArr = Object.values(texts);
@@ -924,7 +829,7 @@ export default function App() {
 
         {/* モーダル本体 */}
         <div className={`relative z-10 m-auto w-full max-w-lg rounded-2xl shadow-2xl flex flex-col overflow-hidden ${darkMode ? 'bg-zinc-900 border border-zinc-700' : 'bg-white border border-stone-200'}`}
-          style={{ maxHeight: '90vh' }}>
+          style={{ maxHeight: 'min(90vh, 90dvh)', height: 'min(90vh, 90dvh)' }}>
 
           {/* ヘッダー */}
           <div className={`flex items-center justify-between px-5 py-3 border-b shrink-0 ${borderClass}`}>
@@ -1059,44 +964,89 @@ export default function App() {
                 </div>
 
                 {/* カード本体（フリップ） */}
-                <div className="relative" style={{ perspective: '1000px' }}>
-                  <div
-                    onClick={() => !fcFlipped && setFcFlipped(true)}
-                    className="cursor-pointer"
-                    style={{
-                      transformStyle: 'preserve-3d',
-                      transition: 'transform 0.45s ease',
-                      transform: fcFlipped ? 'rotateY(180deg)' : 'rotateY(0deg)',
-                      minHeight: '200px',
-                      position: 'relative',
-                    }}
-                  >
-                    {/* 表 */}
-                    <div className={`absolute inset-0 rounded-xl border p-5 flex flex-col justify-between ${
-                      darkMode ? 'bg-zinc-800 border-zinc-700' : 'bg-stone-50 border-stone-200'
-                    }`} style={{ backfaceVisibility: 'hidden' }}>
-                      <span className={`text-xs font-sans font-semibold uppercase tracking-wider ${textSecondary} opacity-50`}>{frontLabel}</span>
-                      <p className={`font-serif text-base leading-relaxed whitespace-pre-line ${textClass} flex-1 flex items-center py-3`}>
-                        {getFront(card)}
-                      </p>
-                      <div className={`text-xs font-sans text-center ${textSecondary} opacity-40`}>
-                        タップ / Space で裏を見る
+                {(() => {
+                  const frontText = getFront(card);
+                  const rawBack   = getBack(card);
+                  // 裏面：仮訳 or 自分の訳
+                  const userTrans  = userTranslations[card.paraId];
+                  const backText   = (fcBackMode === 'user' && userTrans) ? userTrans : rawBack;
+                  const hasUserTrans = !!userTrans;
+                  const frontSize  = fcFontSizeClass(frontText);
+                  const backSize   = fcFontSizeClass(backText);
+                  // カード高さ：文字数に応じて柔軟に（min 180px、スクロールで対応）
+                  const cardMinH   = frontText.length > 200 ? '220px' : '180px';
+                  return (
+                    <div className="relative" style={{ perspective: '1000px' }}>
+                      <div
+                        onClick={() => !fcFlipped && setFcFlipped(true)}
+                        className="cursor-pointer"
+                        style={{
+                          transformStyle: 'preserve-3d',
+                          transition: 'transform 0.45s ease',
+                          transform: fcFlipped ? 'rotateY(180deg)' : 'rotateY(0deg)',
+                          minHeight: cardMinH,
+                          position: 'relative',
+                        }}
+                      >
+                        {/* 表 */}
+                        <div className={`absolute inset-0 rounded-xl border p-4 flex flex-col ${
+                          darkMode ? 'bg-zinc-800 border-zinc-700' : 'bg-stone-50 border-stone-200'
+                        }`} style={{ backfaceVisibility: 'hidden' }}>
+                          <span className={`text-xs font-sans font-semibold uppercase tracking-wider ${textSecondary} opacity-50 shrink-0`}>{frontLabel}</span>
+                          <div className={`mt-2 flex-1 overflow-y-auto`}>
+                            <p className={`font-serif ${frontSize} leading-relaxed whitespace-pre-line ${textClass}`}>
+                              {frontText}
+                            </p>
+                          </div>
+                          <div className={`text-xs font-sans text-center ${textSecondary} opacity-40 shrink-0 pt-2`}>
+                            タップ / Space で裏を見る
+                          </div>
+                        </div>
+                        {/* 裏 */}
+                        <div className={`absolute inset-0 rounded-xl border p-4 flex flex-col ${
+                          darkMode ? 'bg-zinc-800/80 border-amber-700/40' : 'bg-amber-50/50 border-amber-200'
+                        }`} style={{ backfaceVisibility: 'hidden', transform: 'rotateY(180deg)' }}>
+                          {/* 裏ヘッダー：ラベル + 訳ソース切替 */}
+                          <div className="flex items-center justify-between shrink-0">
+                            <span className={`text-xs font-sans font-semibold uppercase tracking-wider ${darkMode ? 'text-amber-400' : 'text-amber-700'} opacity-70`}>{backLabel}</span>
+                            {/* 訳ソース切替ボタン（原文→訳 / 訳→原文 モード時のみ表示） */}
+                            {fcMode !== 'head2full' && (
+                              <div className={`flex rounded-md overflow-hidden border text-xs font-sans ${darkMode ? 'border-zinc-600' : 'border-stone-300'}`}>
+                                <button
+                                  onClick={e => { e.stopPropagation(); setFcBackMode('provisional'); }}
+                                  className={`px-2 py-0.5 transition-colors ${fcBackMode === 'provisional'
+                                    ? darkMode ? 'bg-amber-700 text-amber-100' : 'bg-stone-700 text-white'
+                                    : darkMode ? 'text-zinc-400 hover:bg-zinc-700' : 'text-stone-500 hover:bg-stone-100'}`}>
+                                  仮訳
+                                </button>
+                                <button
+                                  onClick={e => { e.stopPropagation(); setFcBackMode('user'); }}
+                                  disabled={!hasUserTrans}
+                                  title={!hasUserTrans ? 'このテキストに自分の訳がありません' : '自分の訳を表示'}
+                                  className={`px-2 py-0.5 transition-colors border-l ${darkMode ? 'border-zinc-600' : 'border-stone-300'} ${
+                                    !hasUserTrans ? 'opacity-30 cursor-not-allowed ' + (darkMode ? 'text-zinc-500' : 'text-stone-400')
+                                    : fcBackMode === 'user'
+                                      ? darkMode ? 'bg-amber-700 text-amber-100' : 'bg-stone-700 text-white'
+                                      : darkMode ? 'text-zinc-400 hover:bg-zinc-700' : 'text-stone-500 hover:bg-stone-100'
+                                  }`}>
+                                  自分の訳
+                                </button>
+                              </div>
+                            )}
+                          </div>
+                          <div className="mt-2 flex-1 overflow-y-auto">
+                            <p className={`font-serif ${backSize} leading-relaxed whitespace-pre-line ${textClass}`}>
+                              {backText}
+                            </p>
+                          </div>
+                          <div className={`text-xs font-sans text-center ${textSecondary} opacity-30 shrink-0 pt-2`}>
+                            ← もう一度 / 覚えた →
+                          </div>
+                        </div>
                       </div>
                     </div>
-                    {/* 裏 */}
-                    <div className={`absolute inset-0 rounded-xl border p-5 flex flex-col justify-between ${
-                      darkMode ? 'bg-zinc-800/80 border-amber-700/40' : 'bg-amber-50/50 border-amber-200'
-                    }`} style={{ backfaceVisibility: 'hidden', transform: 'rotateY(180deg)' }}>
-                      <span className={`text-xs font-sans font-semibold uppercase tracking-wider ${darkMode ? 'text-amber-400' : 'text-amber-700'} opacity-70`}>{backLabel}</span>
-                      <p className={`font-serif text-base leading-relaxed whitespace-pre-line ${textClass} flex-1 flex items-center py-3`}>
-                        {getBack(card)}
-                      </p>
-                      <div className={`text-xs font-sans text-center ${textSecondary} opacity-30`}>
-                        ← もう一度 / 覚えた →
-                      </div>
-                    </div>
-                  </div>
-                </div>
+                  );
+                })()}
 
                 {/* 判定ボタン（裏返し後のみ表示） */}
                 {fcFlipped && (
@@ -1558,31 +1508,7 @@ export default function App() {
   const fontSizeMap = { small: 'text-sm', medium: 'text-base', large: 'text-lg', xlarge: 'text-xl' };
 
     // カテゴリーラベルの短縮表示用マップ
-  const catShort = {
-    racine:                  'ラシーヌ',
-    mallarme:                'マラルメ',
-    mallarme_critique:       'マラルメ批評',
-    baudelaire:              'ボードレール',
-    baudelaire_critique:     'ボードレール批評',
-    valery:                  'ヴァレリー',
-    valery_critique:         'ヴァレリー批評',
-    verlaine:                'ヴェルレーヌ',
-    verlaine_critique:       'ヴェルレーヌ批評',
-    rimbaud:                 'ランボー',
-    gautier:                 'ゴーティエ',
-    valmore:                 'ヴァルモール',
-    leconte_de_lisle:        'ルコント・ド・リール',
-    rodenbach:               'ローデンバック',
-    vanlerberghe:            'ヴァン・レルベルグ',
-    poe:                     'ポー',
-    wilde:                   'ワイルド',
-    swinburne:               'スウィンバーン',
-    yeats:                   'イェイツ',
-    george:                  'ゲオルゲ',
-    hofmannsthal:            'ホフマンスタール',
-    trakl:                   'トラークル',
-    hoelderlin:              'ヘルダーリン',
-  };
+  const catShort = CAT_SHORT; // constants.js
 
   const authorColor = (cat) => {
     if (cat?.startsWith('racine'))       return darkMode ? 'bg-violet-900/40 text-violet-300' : 'bg-violet-100 text-violet-800';
