@@ -8,8 +8,6 @@ import {
   X, Check, Tag,
   GraduationCap, RotateCcw, ThumbsUp, ThumbsDown, Shuffle,
 } from 'lucide-react';
-import { CATEGORIES, CAT_SHORT, ANNOTATION_TYPE_DEF, SPEECH_RATES, PREFERRED_VOICES, FC_MAX_CHARS } from './constants';
-import { getTranslation, getOriginalText, getSpeechLang, getBestVoice, extractSnippet, fcParaKey, fcFontSizeClass, authorDotColor, getRouteFromHash, pushTextHash } from './utils';
 import racineData from './data/racine';
 import mallarmeData from './data/mallarme';
 import baudelaireData from './data/baudelaire';
@@ -29,11 +27,25 @@ import georgeData from './data/george';
 import hofmannsthalData from './data/hofmannsthal';
 import traklData from './data/trakl';
 import hoelderlinData from './data/hoelderlin';
+import { CATEGORIES, CAT_SHORT, ANNOTATION_TYPE_DEF, SPEECH_RATES, PREFERRED_VOICES } from './constants';
+import { getTranslation, getOriginalText, getSpeechLang, getBestVoice, extractSnippet, fcParaKey, fcFontSizeClass } from './utils';
 
-// getTranslation, getOriginalText, getSpeechLang, getBestVoice,
-// PREFERRED_VOICES, SPEECH_RATES は utils.js / constants.js に移動済み
+// getTranslation, getOriginalText, getSpeechLang, getBestVoice, PREFERRED_VOICES, SPEECH_RATES → constants.js / utils.js
 
-// getRouteFromHash, pushTextHash は utils.js に移動済み
+// ─── URLルーティング ユーティリティ ───────────────────────────
+// ハッシュ形式: #/text/<textId>  または  #/text/<textId>/para/<paraId>
+const getRouteFromHash = () => {
+  const m = window.location.hash.match(/^#\/text\/([^\/]+)(?:\/para\/(.+))?$/);
+  if (!m) return { textId: null, paraId: null };
+  return { textId: m[1], paraId: m[2] ? Number(m[2]) : null };
+};
+const getTextIdFromHash = () => getRouteFromHash().textId;
+const pushTextHash = (textId) => {
+  const hash = `#/text/${textId}`;
+  if (window.location.hash !== hash) {
+    window.history.pushState({ textId }, '', hash);
+  }
+};
 const pushParaHash = (textId, paraId) => {
   const hash = `#/text/${textId}/para/${paraId}`;
   window.history.pushState({ textId, paraId }, '', hash);
@@ -97,7 +109,7 @@ export default function App() {
   const [fcIndex, setFcIndex] = useState(0);
   const [fcFlipped, setFcFlipped] = useState(false);
   const [fcSessionResult, setFcSessionResult] = useState({}); // paraKey→'good'|'again'
-  const [fcBackMode, setFcBackMode] = useState('provisional'); // 'provisional'|'user' 裏面の訳ソース
+  const [fcBackMode, setFcBackMode] = useState('provisional'); // 'provisional'|'user'
   const [fcFinished, setFcFinished] = useState(false);
   // SRS記録: { 'textId:paraId': { status:'good'|'again', lastSeen:ts } }
   const [fcSrsData, setFcSrsData] = useState(() => {
@@ -221,7 +233,7 @@ export default function App() {
     }
   }, [selectedCategory]);
 
-  // extractSnippet は utils.js に移動済み
+  // extractSnippet → utils.js
 
   // 検索中フラグ（スニペット・リスト表示の切替トリガー）
   const isSearching = !!searchQuery.trim() || !!activeKeyword;
@@ -434,7 +446,7 @@ export default function App() {
   // ─── 注釈ユーティリティ ────────────────────────────────────
 
   // typeごとの表示定義
-  // ANNOTATION_TYPE_DEF は constants.js に移動済み
+  // ANNOTATION_TYPE_DEF → constants.js
 
   const getTypeDef = (type) =>
     ANNOTATION_TYPE_DEF[type] ?? { label: type, colorLight: 'bg-gray-100 text-gray-700 border-gray-300', colorDark: 'bg-gray-800 text-gray-300 border-gray-600', dot: 'bg-gray-400' };
@@ -716,7 +728,7 @@ export default function App() {
 
 
   // ─── フラッシュカード ヘルパー ──────────────────────────────
-  // fcParaKey は utils.js に移動済み
+  // fcParaKey → utils.js
 
   const buildFcCards = (source, sourceId, mode, srsData) => {
     const allTextsArr = Object.values(texts);
@@ -967,14 +979,12 @@ export default function App() {
                 {(() => {
                   const frontText = getFront(card);
                   const rawBack   = getBack(card);
-                  // 裏面：仮訳 or 自分の訳
-                  const userTrans  = userTranslations[card.paraId];
-                  const backText   = (fcBackMode === 'user' && userTrans) ? userTrans : rawBack;
+                  const userTrans = userTranslations[card.paraId];
+                  const backText  = (fcBackMode === 'user' && userTrans) ? userTrans : rawBack;
                   const hasUserTrans = !!userTrans;
-                  const frontSize  = fcFontSizeClass(frontText);
-                  const backSize   = fcFontSizeClass(backText);
-                  // カード高さ：文字数に応じて柔軟に（min 180px、スクロールで対応）
-                  const cardMinH   = frontText.length > 200 ? '220px' : '180px';
+                  const len = (t) => t?.length ?? 0;
+                  const sizeClass = (t) => len(t) <= 120 ? 'text-base' : len(t) <= 250 ? 'text-sm' : 'text-xs';
+                  const cardMinH = len(frontText) > 200 ? '220px' : '180px';
                   return (
                     <div className="relative" style={{ perspective: '1000px' }}>
                       <div
@@ -993,8 +1003,8 @@ export default function App() {
                           darkMode ? 'bg-zinc-800 border-zinc-700' : 'bg-stone-50 border-stone-200'
                         }`} style={{ backfaceVisibility: 'hidden' }}>
                           <span className={`text-xs font-sans font-semibold uppercase tracking-wider ${textSecondary} opacity-50 shrink-0`}>{frontLabel}</span>
-                          <div className={`mt-2 flex-1 overflow-y-auto`}>
-                            <p className={`font-serif ${frontSize} leading-relaxed whitespace-pre-line ${textClass}`}>
+                          <div className="mt-2 flex-1 overflow-y-auto">
+                            <p className={`font-serif ${sizeClass(frontText)} leading-relaxed whitespace-pre-line ${textClass}`}>
                               {frontText}
                             </p>
                           </div>
@@ -1006,23 +1016,19 @@ export default function App() {
                         <div className={`absolute inset-0 rounded-xl border p-4 flex flex-col ${
                           darkMode ? 'bg-zinc-800/80 border-amber-700/40' : 'bg-amber-50/50 border-amber-200'
                         }`} style={{ backfaceVisibility: 'hidden', transform: 'rotateY(180deg)' }}>
-                          {/* 裏ヘッダー：ラベル + 訳ソース切替 */}
                           <div className="flex items-center justify-between shrink-0">
                             <span className={`text-xs font-sans font-semibold uppercase tracking-wider ${darkMode ? 'text-amber-400' : 'text-amber-700'} opacity-70`}>{backLabel}</span>
-                            {/* 訳ソース切替ボタン（原文→訳 / 訳→原文 モード時のみ表示） */}
                             {fcMode !== 'head2full' && (
                               <div className={`flex rounded-md overflow-hidden border text-xs font-sans ${darkMode ? 'border-zinc-600' : 'border-stone-300'}`}>
-                                <button
-                                  onClick={e => { e.stopPropagation(); setFcBackMode('provisional'); }}
+                                <button onClick={e => { e.stopPropagation(); setFcBackMode('provisional'); }}
                                   className={`px-2 py-0.5 transition-colors ${fcBackMode === 'provisional'
                                     ? darkMode ? 'bg-amber-700 text-amber-100' : 'bg-stone-700 text-white'
                                     : darkMode ? 'text-zinc-400 hover:bg-zinc-700' : 'text-stone-500 hover:bg-stone-100'}`}>
                                   仮訳
                                 </button>
-                                <button
-                                  onClick={e => { e.stopPropagation(); setFcBackMode('user'); }}
+                                <button onClick={e => { e.stopPropagation(); setFcBackMode('user'); }}
                                   disabled={!hasUserTrans}
-                                  title={!hasUserTrans ? 'このテキストに自分の訳がありません' : '自分の訳を表示'}
+                                  title={!hasUserTrans ? 'この段落に自分の訳がありません' : '自分の訳を表示'}
                                   className={`px-2 py-0.5 transition-colors border-l ${darkMode ? 'border-zinc-600' : 'border-stone-300'} ${
                                     !hasUserTrans ? 'opacity-30 cursor-not-allowed ' + (darkMode ? 'text-zinc-500' : 'text-stone-400')
                                     : fcBackMode === 'user'
@@ -1035,7 +1041,7 @@ export default function App() {
                             )}
                           </div>
                           <div className="mt-2 flex-1 overflow-y-auto">
-                            <p className={`font-serif ${backSize} leading-relaxed whitespace-pre-line ${textClass}`}>
+                            <p className={`font-serif ${sizeClass(backText)} leading-relaxed whitespace-pre-line ${textClass}`}>
                               {backText}
                             </p>
                           </div>
