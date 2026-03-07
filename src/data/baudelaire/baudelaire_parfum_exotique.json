@@ -1,0 +1,110 @@
+{
+  "id": "baudelaire_parfum_exotique",
+  "title": "Parfum exotique",
+  "author": "Charles Baudelaire",
+  "source": "Les Fleurs du Mal, Michel Lévy frères, Paris, 1857 (初版第XXII番). 底本: 1861年第二版 (Poulet-Malassis et De Broise, 第XXII番). 初出: L'Artiste, 20 juin 1845. 照合出典: Œuvres complètes, Bibliothèque de la Pléiade, Gallimard, 1975; wikisource.org; poetica.fr.",
+  "year": "1845",
+  "firstPublication": "L'Artiste, 20 juin 1845",
+  "difficulty": "中級",
+  "category": "baudelaire",
+  "originalLang": "fr-FR",
+  "modernRelevance": "★★★★★",
+  "context": "『悪の華』第一部「スプリーンと理想（Spleen et Idéal）」第XXII番。ジャンヌ・デュヴァル（黒人系混血の女優、ボードレールの長年の愛人）への詩群「黒いヴィーナス（Vénus noire）」連作の冒頭を飾り、詩集の中で最も初期の詩のひとつ（雑誌初出1845年）。「照応（Correspondances）」（第IV番）の理論的宣言を、恋人の胸元から立ちのぼる香りという官能的体験として実践した詩として読まれる──嗅覚が視覚・聴覚・触覚へと連鎖し、最終的に「熱帯の楽園（île heureuse）」という共感覚的幻視に到達する。アレクサンドラン（12音節）ソネット、ABBA ABBA / CCD EDE（ペトラルカ変形）。",
+  "keywords": ["嗅覚", "照応", "ジャンヌ・デュヴァル", "熱帯", "楽園", "共感覚", "黒いヴィーナス", "幻視", "ソネット"],
+  "relatedTexts": [
+    "baudelaire_correspondances",
+    "baudelaire_elevation",
+    "baudelaire_une_charogne",
+    "baudelaire_le_vampire",
+    "gautier_la_rose_the",
+    "mallarme_brise_marine"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "french": "Quand, les deux yeux fermés, en un soir chaud d'automne,\nJe respire l'odeur de ton sein chaleureux,\nJe vois se dérouler des rivages heureux\nQu'éblouissent les feux d'un soleil monotone ;",
+      "provisionalTranslation": "目を閉じて、ある温かい秋の夕べに、\nおまえの温かな胸元の匂いを吸い込むとき、\n私は幸せな岸辺が展開するのを見る、\n単調な太陽の輝きに眩む岸辺が；"
+    },
+    {
+      "id": 2,
+      "french": "Une île paresseuse où la nature donne\nDes arbres singuliers et des fruits savoureux ;\nDes hommes dont le corps est mince et vigoureux,\nEt des femmes dont l'œil par sa franchise étonne.",
+      "provisionalTranslation": "木精な島、そこで自然は与える\n奇妙な木々と美味しい果物を；\n細くたくましい体の男たちを、\nそして率直な目で人を驚かせる女たちを。"
+    },
+    {
+      "id": 3,
+      "french": "Guidé par ton odeur vers de charmants climats,\nJe vois un port rempli de voiles et de mâts\nEncor tout fatigués par la vague marine ;",
+      "provisionalTranslation": "おまえの匂いに導かれ、魅力的な気候へ、\n私は帆と帆柱で満ちた港を見る、\nまだ海の波に疲れ果てた港を；"
+    },
+    {
+      "id": 4,
+      "french": "Pendant que le parfum des verts tamariniers,\nDans l'air, se mêle aux chants des mariniers\nQui coupent l'air du soir d'une voix argentine.",
+      "provisionalTranslation": "一方、緑のタマリンドの木の香りが\n空気の中で水夫たちの歌と混ざり合う、\n彼らが銀の声で夕べの空気を切り裂く。"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "prosody",
+      "anchor": null,
+      "body": "アレクサンドラン（12音節）ソネット14行。押韻配置 ABBA ABBA / CCD EDE：\n• 第1四行連句：automne / donne（A）／ chaleureux / heureux（B）\n• 第2四行連句：donne / étonne（A）／ savoureux / vigoureux（B）\n• 第1三行連句：climats / mâts（C）／ marine（D）\n• 第2三行連句：tamariniers / mariniers（C）／ argentine（E）\n包囲韻（ABBA）がボードレールの「囲い込み」の感覚──外側の韻が内側を閉じ込める──と照応する。最終2行の tamariniers / mariniers（タマリンド／水夫）は植物と人間の交差韻：香りと人間の声が同一の韻の構造に収められることで、詩の「共感覚的融合」が韻の次元で実現される。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "Quand, les deux yeux fermés, en un soir chaud d'automne,\nJe respire l'odeur de ton sein chaleureux,",
+      "body": "詩の出発点：「目を閉じて（les deux yeux fermés）」という視覚の意図的な遮断。視覚の遮断が嗅覚を解放する──「Correspondances（照応）」でボードレールが定義した「五感の照応・転換」の身体的実践。「温かな胸元の匂い（l'odeur de ton sein chaleureux）」：sein（胸・胸元）という身体的接触の場所と chaleureux（温かな）という触覚的形容から詩が出発する──五感のうち触覚・嗅覚という最も「近距離の感覚」から「遠距離の視覚的幻想」へという感覚の逆説的旅が始まる。「ある温かい秋の夕べ（en un soir chaud d'automne）」：chaud（温かい）と automne（秋）の矛盾──秋の涼しさの中の温かさ、または秋という「衰退の季節」の中の官能的温かさ。この微妙な矛盾の設定が詩全体の「楽園と現実」の緊張を先取りする。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "Je vois se dérouler des rivages heureux\nQu'éblouissent les feux d'un soleil monotone",
+      "body": "嗅覚から視覚への転換：「私は……見る（Je vois）」──目を閉じているにもかかわらず「見る」という視覚動詞の使用が共感覚的転換の核心。「展開する（se dérouler）」：巻物・地図が広げられるような空間的展開──幻視の「スクリーン」が広げられる。「幸せな岸辺（rivages heureux）」：heureux（幸せな・恵まれた）の最初の登場──次連の île heureuse（幸せな島）への連絡。「単調な太陽の輝き（les feux d'un soleil monotone）」：monotone（単調な）という語が詩の調子を緩やかに規定する──熱帯の光は激しくなく、一定・永続的に輝き続ける。この「単調さ」こそが楽園の時間──変化なき永続性。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "Une île paresseuse où la nature donne\nDes arbres singuliers et des fruits savoureux",
+      "body": "「木精な島（île paresseuse）」：paresseux（怠惰な・のんびりした）──島そのものが「怠惰」という性質を持つ。この擬人化された「怠惰な島」は「悪の華」全体で主題化される「倦怠（Ennui）」や「スプリーン（Spleen）」とは異なる「幸福な無為」──楽園の怠惰。「奇妙な木々（arbres singuliers）」：singuliers（奇妙な・単独の）は「この世にないもの」「固有のもの」のニュアンス──ジャンヌ・デュヴァルが生まれたハイチ・マルチニック等の熱帯植物への想像的言及。「美味しい果物（fruits savoureux）」：savoureux は「風味豊かな・美味しい」──嗅覚から始まった詩が今度は味覚へと連鎖する。五感の転換がここでも進行している。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "Des hommes dont le corps est mince et vigoureux,\nEt des femmes dont l'œil par sa franchise étonne.",
+      "body": "島の住民描写：「細くたくましい体の男たち（hommes dont le corps est mince et vigoureux）」──mince（細い）と vigoureux（たくましい）の並置：相反する形容の共存が熱帯の身体的理想型を示す。「率直な目で人を驚かせる女たち（femmes dont l'œil par sa franchise étonne）」：franchise（率直さ・開放性）が「目（œil）」に宿る。ジャンヌ・デュヴァルへの最も直接的な言及──混血の愛人の「率直な・開放的な眼差し」が「驚き（étonne）」として提示される。19世紀フランスにおける「他者性（altérité）」への表象として批判的に読まれることも多い描写だが、詩の内部では「率直さが驚かせる」という認識論的転換──見慣れた視線への批評として読み直せる。"
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "Guidé par ton odeur vers de charmants climats,\nJe vois un port rempli de voiles et de mâts\nEncor tout fatigués par la vague marine",
+      "body": "ソネットの volta（転換）：第1・2四行連句の「島の幻視（自然・住民）」から第1三行連句の「港の光景（人工的・歴史的空間）」への移行。「おまえの匂いに導かれ（Guidé par ton odeur）」：ton odeur（おまえの匂い）が詩の全体的な「ナビゲーター」として再確認される──嗅覚が幻視の案内人として機能する構造の再確認。「帆と帆柱で満ちた港（port rempli de voiles et de mâts）」：港という「到着と出発の場所」が幻視の最終目的地──島の自然から人間の航海へのスケールの変化。「まだ海の波に疲れ果てた（Encor tout fatigués par la vague marine）」：fatigués（疲れ果てた）──§3で詩人自身が「疲弊（brisé de fatigue）」していたのと同じ語根。船が「海の旅の疲れ」を体に刻んでいるように、詩人もまた「精神の旅の疲れ」を体に刻む──疲労の連帯。"
+    },
+    {
+      "paragraphId": 3,
+      "type": "intertextual",
+      "anchor": "Guidé par ton odeur vers de charmants climats",
+      "body": "ボードレール「照応（Correspondances）」（baudelaire_correspondances）との詩的連環：「照応」が「森は象徴の神殿（La Nature est un temple où de vivants piliers…）」と理論的に定義した「諸感覚の照応・転換（Les parfums, les couleurs et les sons se répondent）」を、「Parfum exotique」は恋人の香りを起点とした共感覚的旅として実践する。「照応」が「理論詩」とするなら「Parfum exotique」は「実践詩」──両詩を並べることでボードレールの詩学の理論と実践の関係が浮かぶ。また、マラルメ「汀の歌（mallarme_brise_marine）」の「Fuis ! là-bas fuis !（逃げろ！あちらへ逃げろ！）」という南方への幻想との連絡：マラルメが「詩の不可能性」から逃げる先として「熱帯の島」を幻視するのに対し、ボードレールは「恋人の香り」から自然に到達する──脱出の動機と構造の対比。",
+      "targetId": "baudelaire_correspondances",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 4,
+      "type": "commentary",
+      "anchor": "Pendant que le parfum des verts tamariniers,\nDans l'air, se mêle aux chants des mariniers\nQui coupent l'air du soir d'une voix argentine.",
+      "body": "詩の最終3行（第2三行連句）は共感覚の最終的な融合として機能する。「緑のタマリンドの木の香り（parfum des verts tamariniers）」──詩は「恋人の胸の匂い（parfum）」で始まり「タマリンドの香り（parfum）」で終わる：同じ語 parfum が詩のアーチ構造をなす。「空気の中で水夫たちの歌と混ざり合う（se mêle aux chants des mariniers）」：se mêle（混ざり合う）──嗅覚（香り）と聴覚（歌）が「大気（l'air）」という媒体の中で融合する。ここで「照応（Correspondances）」の「les parfums, les couleurs et les sons se répondent（香りと色彩と音が互いに照応する）」が完全に実現される。「銀の声（voix argentine）」：argentins（銀の）は「澄んだ・鈴を鳴らすような」──金属的かつ明澄な音質。夕べの空気を「切り裂く（coupent）」という動詞が声の鋭さを物理的に可視化する。詩全体：目を閉じた→嗅ぐ→見る→感じる→匂う→聞く という五感の完全な巡回が14行で完結する。"
+    },
+    {
+      "paragraphId": 4,
+      "type": "glossary",
+      "anchor": "verts tamariniers",
+      "body": "tamarinier（タマリンド・タマリン）：Tamarindus indica、熱帯アフリカ・南アジア・カリブ海原産のマメ科の高木。酸味のある果実を持ち、スパイスや医薬品として使用される。19世紀フランスでは主にフランス領アンティル諸島（マルチニック・グアドループ）・ハイチへの連想として機能する語──ジャンヌ・デュヴァルの出自であるハイチへの地理的・植物学的言及として多くの批評家が読む。verts（緑の）という色彩形容：島の生命力・豊かさを視覚的に確認する。この詩全体で植物は「奇妙な木々（arbres singuliers）」→「タマリンド（tamariniers）」と具体化される──幻視が精密化していく過程。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "intertextual",
+      "anchor": "Une île paresseuse",
+      "body": "ゴーティエ「茶薔薇（gautier_la_rose_the）」との対照的連絡：ゴーティエが「中国の花（fleur de la Chine）」という植物の来歴から「東洋への想像的旅」を行うのに対し、ボードレールは「恋人の香り」から「カリブ海の島」への想像的旅を行う──どちらも嗅覚と植物起源が「異国（exotique）」への通路として機能する。ただしゴーティエが感情を排した工芸的描写に徹するのに対し、ボードレールは官能的な身体接触（sein chaleureux）を起点とすることで「異国への憧れ（exotisme）」を個人的欲望の投影として自覚的に提示する。",
+      "targetId": "gautier_la_rose_the",
+      "targetParagraphId": null
+    }
+  ]
+}
