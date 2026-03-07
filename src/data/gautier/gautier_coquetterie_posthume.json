@@ -1,0 +1,127 @@
+{
+  "id": "gautier_coquetterie_posthume",
+  "title": "Coquetterie posthume",
+  "author": "Théophile Gautier",
+  "source": "Émaux et Camées, Didier, Paris, 1852 (初版). 照合出典: Émaux et Camées, édition de Madeleine Cottin, Minard, 1968; Œuvres poétiques complètes, éd. Michel Brix, Bartillat, 2004; wikisource.org.",
+  "year": "1852",
+  "firstPublication": "Émaux et Camées, Didier, Paris, 1852",
+  "difficulty": "中級",
+  "category": "gautier",
+  "originalLang": "fr-FR",
+  "modernRelevance": "★★★★☆",
+  "context": "『七宝螺鈿集（Émaux et Camées）』初版（1852）収録。死の床に横たわる女が恋人に「美しく化粧して埋葬してほしい」と頼む独白詩。題名の coquetterie（コケットリー・色気）に posthume（死後の）を組み合わせた逆説的タイトルが詩全体の論理を圧縮する──死という絶対的終焉の中でも「美しく見られたい」という虚栄・自意識が消えない女の姿。ボードレールはこの詩をゴーティエの最も完璧な達成のひとつとして激賞した（「テオフィル・ゴーティエ」1859）。死体を官能的な美として描くという主題は同時代の「腐屍（Une Charogne）」とも響き合うが、ゴーティエでは恐怖や道徳的省察は一切なく、「美の完成・固定」としての死という唯美主義的観点が貫かれる。全5連20行、オクトシラブ（8音節）、ABAB交差韻。",
+  "keywords": ["死後のコケットリー", "虚栄", "美と死", "化粧", "埋葬", "唯美主義", "七宝螺鈿集", "ボードレール激賞"],
+  "relatedTexts": [
+    "gautier_l_art",
+    "gautier_les_joujoux_de_la_morte",
+    "baudelaire_une_charogne",
+    "baudelaire_gautier",
+    "baudelaire_spleen_et_ideal",
+    "lecontelisle_epiphanie"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "french": "Quand je mourrai, que l'on me mette,\nAvant de clouer mon cercueil,\nUne robe de violette\nEt des gants de velours en deuil ;",
+      "provisionalTranslation": "私が死んだとき、棺の蓋を釘で打つ前に、\nすみれ色のドレスを着せて、\nそして喪のビロードの手袋を。"
+    },
+    {
+      "id": 2,
+      "french": "Posez sur ma bouche muette\nUne fleur que j'aimais encor,\nEt dans mes cheveux la bluette\nD'un seul bleuet des champs en or ;",
+      "provisionalTranslation": "私の口の上に\nまだ愛していた花を置いて、\nそして黄金の野の\nただ一輪のコーンフラワーを髪に。"
+    },
+    {
+      "id": 3,
+      "french": "Que sur ma robe violette\nTombe en pluie un fard léger,\nEt que ma bouche inquiète\nSemble encor vous dire : Aimez !",
+      "provisionalTranslation": "すみれ色のドレスの上に\n軽い白粉が雨のように降りそそいで、\nそして私の不安そうな口が\nまだこう言っているように見えるよう：愛して！"
+    },
+    {
+      "id": 4,
+      "french": "Peignez mes joues, et dans la bière\nCouchez-moi comme une beauté\nQui dort, la tête un peu en arrière,\nEt la bouche de côté ;",
+      "provisionalTranslation": "私の頬に紅を刷いて、\nそして棺に寝かせて\n眠っている美女のように、\n頭を少し後ろに傾けて、口を横に向けて。"
+    },
+    {
+      "id": 5,
+      "french": "Et pour que la foule indiscrète\nNe trouble pas mon dernier rêve,\nMettez un masque sur ma tête\nEt ma rose garde-moi là-haut.",
+      "provisionalTranslation": "そして無遠慮な群衆が\n私の最後の夢を乱さないよう、\n頭に仮面をかぶせて、\nそして私の薔薇よ、天上で私を守っておくれ。"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "prosody",
+      "anchor": null,
+      "body": "オクトシラブ（8音節）5連20行、ABAB交差韻。\n韻配置：\n• §1：mette / violette（A）／ cercueil / deuil（B）\n• §2：muette / bluette（A）／ encor / or（B）\n• §3：violette / inquiète（A）／ léger / Aimez（B）\n• §4：bière / arrière（A）／ beauté / côté（B）\n• §5：indiscrète / tête（A）／ rêve / là-haut（B変則）\n§5の最終韻 rêve / là-haut は不完全韻──「夢」と「天上」が音的に分離することで詩的完結の「ほころび」が生じる。女の独白体（命令形一人称）が全編を通じて貫かれ、詩形式の完結性と女の最後の「指示」の完結性が同期する。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "Quand je mourrai, que l'on me mette,\nAvant de clouer mon cercueil",
+      "body": "冒頭の「私が死んだとき（Quand je mourrai）」という未来時制──発話する「私」はまだ生きており、死後の自分の「見栄え」について命令する。この時制の逆説が詩全体の論理：生きている意識が死後の身体をコントロールしようとする。「棺の蓋を釘で打つ前に（Avant de clouer mon cercueil）」：clouer（釘打つ）という具体的動作語が死の手続きを物理的に現実化する──抽象的な「死」でなく、木材と釘というモノの死。この冷静な具体性がゴーティエ的：感傷も恐怖も排し、指示事項として死を処理する。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "glossary",
+      "anchor": "Une robe de violette\nEt des gants de velours en deuil",
+      "body": "violette（すみれ色）：19世紀フランスでは紫・すみれ色は「半喪（demi-deuil）」の色──白と黒の間の喪の段階を示す。完全な黒の喪服でなく「すみれ色」を選ぶことで、女は「哀悼」と「コケットリー」の中間を指定する。gants de velours en deuil（喪のビロード手袋）：velours（ビロード）は官能性・触感の豊かさを持つ素材。「喪（deuil）のビロード」という組み合わせ──悲しみと官能性の同居──が coquetterie posthume の主題を衣装の次元で体現する。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "Posez sur ma bouche muette\nUne fleur que j'aimais encor",
+      "body": "「私の口の上に花を置いて（Posez sur ma bouche muette une fleur）」：bouche muette（口を閉じた・無言の口）──生前は愛を語り「aimez !」と命令した口が、死によって「muette（無言）」となる。しかし詩そのものがその「無言の口」からの発話として機能するという逆説。「まだ愛していた花（une fleur que j'aimais encor）」：encor（まだ）という副詞が重要──死の直前まで「まだ」愛していたという、愛着の死との境界の曖昧さ。この「まだ」は詩全体の時間意識──「まだ生きているかのような死」──を先取りする。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "glossary",
+      "anchor": "la bluette\nD'un seul bleuet des champs en or",
+      "body": "bleuet（コーンフラワー・矢車菊）：麦畑に咲く青い野草。bluette（ちらりとした閃き・小さな青）とbleuet の音的近似が意図的──「ちらりとした青」として花が語られる。「黄金の野の（des champs en or）」：麦の黄金色の野と青いコーンフラワーの対比は、「すみれ色のドレス」と同様の補色的対立。一輪だけ（un seul）という限定：「ただ一輪」の慎み──過剰な飾りへの拒否が逆説的に最高のコケットリーとして機能する。"
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "Que sur ma robe violette\nTombe en pluie un fard léger",
+      "body": "「すみれ色のドレスの上に軽い白粉が雨のように降りそそぐ（Tombe en pluie un fard léger）」──化粧（fard）を「雨（pluie）」として描くことで、化粧行為が自然現象・降下として提示される。「軽い（léger）」：過剰な化粧の拒否──「軽さ」こそが死後の美の条件。ゴーティエにとって「léger（軽さ）」は「L'Art」の「堅固さ（robuste）」と一見対立するが、ここでは「軽い白粉」が遺体の美的完成に不可欠な要素として肯定される──「重さ」と「軽さ」の両極を使い分けるゴーティエ的美学の柔軟性。"
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "ma bouche inquiète\nSemble encor vous dire : Aimez !",
+      "body": "詩の中心的逆説：「私の不安そうな口がまだ言っているように見える：愛して！（Semble encor vous dire : Aimez !）」。Semble（に見える）という動詞：実際に言っているのではなく「言っているように見える」──錯覚・外見・演技としての生の痕跡。Aimez !（愛して！）：命令形複数──死んだ後も恋人（あるいは見物する全ての人）に「愛すること」を命令する。この命令は詩全体の命令形連続（mettez / posez / que tombe / peignez / couchez）の系列の中で、最も根本的な命令として際立つ──「私を美しく飾れ」という指示の根底にある「愛して」という要求。"
+    },
+    {
+      "paragraphId": 4,
+      "type": "commentary",
+      "anchor": "Couchez-moi comme une beauté\nQui dort, la tête un peu en arrière,\nEt la bouche de côté",
+      "body": "「眠っている美女のように寝かせて（Couchez-moi comme une beauté / Qui dort）」──死を「眠り」として偽装する要求。「頭を少し後ろに傾けて、口を横に向けて（la tête un peu en arrière, / Et la bouche de côté）」：具体的な身体の配置指示が絵画的ポーズの指定として機能する。これは画家・彫刻家が人体をポーズさせる語彙──ゴーティエは1836年から美術批評家でもあり、この詩の「ポーズ指定」は美術的指示として読める。死体が「眠る美女」というポーズを取ることで、死は芸術的達成として完成される──「L'Art」の「不死性（immortalité）」が遺体の美的配置として現実化。"
+    },
+    {
+      "paragraphId": 4,
+      "type": "intertextual",
+      "anchor": "Couchez-moi comme une beauté\nQui dort",
+      "body": "ボードレール「腐屍（Une Charogne）」（baudelaire_une_charogne）との重要な対比：ボードレールは腐敗する遺体から「美の真実」を引き出す（腐屍が「夏の朝に美しい女よ」と呼びかけられる）。ゴーティエの「死後のコケットリー」は逆方向──「美女に見えるように死体を飾れ」と指示することで、腐敗という現実を化粧・衣装・ポーズによって覆い隠す。ボードレールが腐敗から美を発見するのに対し、ゴーティエは美を死後も維持しようとする──「生存している芸術（L'Art）」の命題の遺体への適用。ボードレール「テオフィル・ゴーティエ（baudelaire_gautier）」がこの詩を激賞した批評的文脈もここにある。",
+      "targetId": "baudelaire_une_charogne",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 5,
+      "type": "commentary",
+      "anchor": "pour que la foule indiscrète\nNe trouble pas mon dernier rêve",
+      "body": "「無遠慮な群衆（la foule indiscrète）」──詩の終盤で初めて「見物する群衆」が登場する。「indiscrète（無遠慮な・詮索好きな）」：curiosité（好奇心）の否定形──死体を「見物」する群衆への侮蔑。この群衆への拒否は詩全体のコケットリーの逆説を解く鍵：女は「美しく見られたい」と命令してきたが、「誰にでも」ではない──無遠慮な大衆の視線ではなく、選ばれた愛する人の眼差しだけを受けたい。この区別が「仮面（masque）」という最後の要求の理由。"
+    },
+    {
+      "paragraphId": 5,
+      "type": "commentary",
+      "anchor": "Mettez un masque sur ma tête\nEt ma rose garde-moi là-haut",
+      "body": "詩の最終イメージ：「仮面（masque）」と「天上の薔薇（ma rose là-haut）」。masque：舞台・仮装の語彙──死の顔を仮面で覆うことで、「真の死貌」を隠し「美しい外見」を永続させる。この masque は「L'Art」の「硬い素材（marbre, onyx, émail）」が時代を超えて美を固定するのと類比的──可死的な顔を不死的な仮面で置き換える。最終行 ma rose garde-moi là-haut（私の薔薇よ天上で私を守っておくれ）：「私の薔薇」が誰・何を指すかは意図的に曖昧──髪に挿した§2のコーンフラワー・薔薇、あるいは愛する人（バラのような人）。là-haut（天上で）：突然の垂直的上昇が詩を結ぶ──地上の棺・化粧・仮面という水平的・水準的な指示系列が、最後に天への飛翔で破られる。"
+    },
+    {
+      "paragraphId": 5,
+      "type": "intertextual",
+      "anchor": "Mettez un masque sur ma tête",
+      "body": "ゴーティエ「L'Art」（gautier_l_art）との詩学的連絡：「L'Art」が「堅固な芸術（art robuste）のみが時代を超える（Tout passe. / L'art robuste / Seul a l'éternité）」と宣言するのに対し、「Coquetterie posthume」はその「永続する芸術」を遺体の化粧・衣装・仮面として肉体化する。masque は彫刻のデスマスク（mort mask）とも重なる──死の顔を不死の素材に定着させるという彫刻的行為。詩全体が「L'Art」の命題の逆方向からの証明：芸術が死を超えるのではなく、美的意志が死んだ後も身体を「芸術作品」として組み立て続けようとする。",
+      "targetId": "gautier_l_art",
+      "targetParagraphId": null
+    }
+  ]
+}
