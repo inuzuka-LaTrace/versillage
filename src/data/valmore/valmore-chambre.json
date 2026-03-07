@@ -2,59 +2,96 @@
   "id": "valmore_chambre",
   "title": "Ma chambre",
   "author": "Marceline Desbordes-Valmore",
-  "source": "Bouquets et Prières",
+  "source": "Bouquets et Prières, Dumont, Paris, 1843. 照合出典: Œuvres poétiques, Gallimard / Bibliothèque de la Pléiade, 1983; wikisource.org; poetes.com.",
   "year": "1843",
+  "firstPublication": "Bouquets et Prières, Dumont, Paris, 1843",
   "difficulty": "初級",
   "category": "valmore",
+  "originalLang": "fr-FR",
   "modernRelevance": "★★★☆☆",
-  "context": "詩人の私的空間＝部屋の描写を通して、孤独と内面の平和を歌う。具体的な日常の細部と感情が溶け合う、ヴァルモール夫人独特の親密な詩法の好例。",
-  "keywords": ["chambre", "solitude", "intérieur", "paix", "rêverie"],
-  "relatedTexts": ["valmore_roses", "valmore_adieu"],
+  "context": "1843年刊行の詩集『花束と祈り』に収録。「Le Mal du pays」と同じ詩集に並ぶ対照的な詩──「望郷」が外への運動であるのに対し、「Ma chambre」は内への収縮・内部空間の礼賛。全9行・変則的なスタンザ構成：4行（短行6〜7音節）＋2行（アレクサンドラン12音節）＋3行（アレクサンドラン）という三段構造。「高さ（haute）」という垂直的位置づけから始まり、「神のみが入れる空虚と沈黙」という神学的次元で閉じる。9行という奇数・不完全な行数が、「部屋」という閉じた空間の完結性と「神学的開放性」の両立を形式として体現する。",
+  "keywords": ["部屋", "高さ", "風", "雲", "夢想", "沈黙", "神", "孤独と平和"],
+  "relatedTexts": [
+    "valmore_mal_du_pays",
+    "valmore_les_roses_de_saadi",
+    "valmore_reve_intermittent",
+    "valmore_insomnie"
+  ],
   "paragraphs": [
     {
       "id": 1,
-      "french": "Ma demeure est haute,",
-      "officialTranslation": "私の住まいは高いところにある、"
+      "french": "Ma demeure est haute,\nJ'entends le vent gronder ;\nMais à peine il se hâte\nQue je puis m'y garder.",
+      "provisionalTranslation": "私の住まいは高いところにある、\n風が唸るのが聞こえる；\nしかし風はほとんど急がない\nだから私はそこに留まっていられる。"
     },
     {
       "id": 2,
-      "french": "J'entends le vent gronder ;",
-      "officialTranslation": "風が唸るのが聞こえる；"
+      "french": "Toute la nuit j'entends au-dessus de ma tête\nLes pas précipités des nuages en fête.",
+      "provisionalTranslation": "一晩中、頭上に聞こえる\n祭りに浮かれた雲たちの、急ぎ足の歩みが。"
     },
     {
       "id": 3,
-      "french": "Mais à peine il se hâte",
-      "officialTranslation": "しかし風はほとんど急がない"
+      "french": "J'aime à rêver ainsi dans cette paix profonde\nQui n'appartient qu'au ciel et qu'à celui qui sonde\nLe vide et le silence où Dieu seul peut entrer.",
+      "provisionalTranslation": "私はこの深い平和の中でこうして夢想するのが好きだ\nそれは天と、深みを探る者だけに属する平和\n神のみが入ることのできる空虚と沈黙の中で。"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "prosody",
+      "anchor": null,
+      "body": "変則的な三段構成：§1（4行・6〜7音節短行）＋§2（2行・アレクサンドラン12音節）＋§3（3行・アレクサンドラン）。韻配置：\n• §1：haute / hâte（A）／ gronder / garder（B）──ABAB\n• §2：tête / fête（C）──対韻（二行連句）\n• §3：profonde / sonde / entrer（D/D/E）──三行連句（profonde / sonde が連続韻）\n短行（§1）からアレクサンドランへの拡大が詩の構造的動き──「部屋の内部の安心」（短く刻まれた行）から「夜の広がりへの聴覚的開放」（長い行）への移行を形式が体現する。9行という奇数行数は固定詩形（ソネット14行・三行連句詩など）に収まらない変則性──「完全に閉じない部屋」という詩の内容と対応する。"
     },
     {
-      "id": 4,
-      "french": "Que je puis m'y garder.",
-      "officialTranslation": "だから私はそこに留まっていられる。"
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "Ma demeure est haute,\nJ'entends le vent gronder ;",
+      "body": "冒頭行「Ma demeure est haute（私の住まいは高いところにある）」──demeure（住まい・邸宅）という語はシャンブル（寝室）より格式のある語。alta domus（高い家）という垂直的位置づけが詩の空間的前提。「haute（高い）」：風が届きやすい・外の世界に近い・同時に人との距離がある──孤立と開放の両義。「J'entends le vent gronder（風が唸るのが聞こえる）」──entendre（聞こえる・聴く）が詩の知覚的中心。視覚でなく聴覚が部屋の詩──「L'Insomnie」の「Le sommeil a fui mes yeux（眠りは目から逃げ去り）」が視覚的なのに対し、「Ma chambre」は聴覚的に空間を体験する。gronder（唸る・轟く）：風の低く威圧的な音。"
     },
     {
-      "id": 5,
-      "french": "Toute la nuit j'entends au-dessus de ma tête",
-      "officialTranslation": "一晩中、頭上に聞こえる"
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "Mais à peine il se hâte\nQue je puis m'y garder.",
+      "body": "「Mais à peine il se hâte / Que je puis m'y garder（しかし風はほとんど急がないから、私はそこに留まっていられる）」──à peine … que という構文：「ほとんど〜ない〜うちに」。風が急ぐ前に詩人は部屋に留まれる──「間に合う」という安堵の感覚。me garder（自分を守る・留まる）：garder は「守る」と「留まる」の両義──部屋が詩人を守り、詩人が部屋に留まる。§1全体の構造：「高い→風が唸る→しかし急がない→だから留まれる」という脅威と安全の弁証法──危険の近さと保護の確かさが同時に成立する。"
     },
     {
-      "id": 6,
-      "french": "Les pas précipités des nuages en fête.",
-      "officialTranslation": "祭りに浮かれた雲たちの、急ぎ足の歩みが。"
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "Toute la nuit j'entends au-dessus de ma tête\nLes pas précipités des nuages en fête.",
+      "body": "「Les pas précipités des nuages en fête（祭りに浮かれた雲たちの急ぎ足の歩み）」──雲の擬人化が二重に行われる：「足（pas）」という身体語と「祭り（fête）」という社会的語が雲に付与される。précipités（急いだ・降り注ぐ）：précipiter は「急がせる・突き落とす」──雲が頭上で「急ぐ」ことの活発な動き。en fête（祭りの最中）：「L'Insomnie」の「夜の重さ・苦しみ」と正反対──「Ma chambre」の夜は「祭りに浮かれた雲」が踊る軽やかな夜。この対照がヴァルモールの夜の詩学の多様性を示す：不眠の苦しみの夜（L'Insomnie）、夢と母への呼びかけの夜（Rêve intermittent）、聴覚的な平和の夜（Ma chambre）。"
     },
     {
-      "id": 7,
-      "french": "J'aime à rêver ainsi dans cette paix profonde",
-      "officialTranslation": "私はこの深い平和の中でこうして夢想するのが好きだ"
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "J'aime à rêver ainsi dans cette paix profonde\nQui n'appartient qu'au ciel et qu'à celui qui sonde",
+      "body": "「J'aime à rêver ainsi（こうして夢想するのが好きだ）」──aimer à（〜するのが好きだ）という習慣的好みの表現。「cette paix profonde（この深い平和）」：profond（深い）は空間的深さと感情的深さの両義──部屋の静寂が心の深みとして内在化される。「Qui n'appartient qu'au ciel et qu'à celui qui sonde（天と、深みを探る者だけに属する平和）」──n'appartient qu'à（〜だけに属する）という限定。「celui qui sonde（深みを探る者）」：sonder は海底を測深する行為から転じて「内部を深く探る」意。詩人が「深みを探る者」として天と同列に置かれる──部屋という限られた空間が宇宙的・神学的次元と接続される。"
     },
     {
-      "id": 8,
-      "french": "Qui n'appartient qu'au ciel et qu'à celui qui sonde",
-      "officialTranslation": "それは天と、深みを探る者だけに属する平和"
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "Le vide et le silence où Dieu seul peut entrer.",
+      "body": "詩の最終行「Le vide et le silence où Dieu seul peut entrer（神のみが入ることのできる空虚と沈黙）」──vide（空虚）と silence（沈黙）の対：視覚的空虚と聴覚的沈黙が最終行で対になる。「Dieu seul（神のみ）」：人間は入れない──詩人は「深みを探る者」として天に近い位置に置かれながら、最終的に「神のみ」が入れる空虚と沈黙に「手が届かない」境界が示される。seul という語の二義性：「唯一の（seul God）」と「孤独な（seul 詩人）」──神の「唯一性」と詩人の「孤独」が同じ語で重なる。「Les Fleurs」の「parfum montait comme des prières（香りは祈りのように昇っていった）」・「La Couronne」の「mon parfum perdu s'en est allé vers Dieu（失われた香りが神へ去った）」に続くヴァルモールの「神への到達不可能性と近さ」の詩学の最終形。"
     },
     {
-      "id": 9,
-      "french": "Le vide et le silence où Dieu seul peut entrer.",
-      "officialTranslation": "神のみが入ることのできる空虚と沈黙の中で。"
+      "paragraphId": 3,
+      "type": "prosody",
+      "anchor": "Qui n'appartient qu'au ciel et qu'à celui qui sonde\nLe vide et le silence où Dieu seul peut entrer.",
+      "body": "§3最後の二行は強い句またがり（enjambement）：「celui qui sonde / Le vide et le silence」──sonder（探る）の目的語「Le vide et le silence（空虚と沈黙）」が次の行に溢れ出す。句またがりが「探る行為」と「探られる対象」を詩行の境界で切断し、両者の間に一瞬の空白（行末の沈黙）を作る──「探ること」と「空虚」の間に詩行の空白が挿入されるという自己言及的な構造。詩行が「空虚と沈黙」の前で行末に落ちる──詩形が内容を演じる。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "intertextual",
+      "anchor": "J'entends le vent gronder",
+      "body": "「L'Insomnie」（valmore_insomnie）および「Rêve intermittent」（valmore_reve_intermittent）との聴覚的対照：三詩とも夜の聴覚体験を主題とするが、「L'Insomnie」では夜の長さが苦痛（「La nuit m'est longue et pénible」）として、「Rêve intermittent」では夜が沈黙・無声（「la nuit est sans voix」）として現れるのに対し、「Ma chambre」では夜の音（風・雲の足音）が「祭り（fête）」として親しい存在として迎えられる。同じ夜の「音と沈黙」が詩人の心理的状態によって恐怖・喪失・平和という対照的な感情的質として現れるヴァルモールの夜の詩学の多様性。",
+      "targetId": "valmore_insomnie",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 3,
+      "type": "intertextual",
+      "anchor": "Le vide et le silence où Dieu seul peut entrer.",
+      "body": "「Les Fleurs」（valmore_fleurs）の「Et leur parfum montait comme des prières」および「La Couronne effeuillée」（valmore_couronne）の「Mon parfum perdu s'en est allé vers Dieu」との三詩的連環：ヴァルモール詩集『Bouquets et Prières』において「神への到達」を主題とする詩群の一つ。「Les Fleurs」では香りが「祈りのように」神へ昇り、「La Couronne」では失われた香りが「神のもとへ去り」、「Ma chambre」では「神のみが入れる空虚と沈黙」へと到達が試みられる。三詩の「神との距離」が異なる：集合的な祈りで届く（Fleurs）→個人の喪失として去る（Couronne）→「神のみが入れる」ため届かない（Chambre）──到達から不到達への段階的深化。",
+      "targetId": "valmore_fleurs",
+      "targetParagraphId": null
     }
   ]
 }
