@@ -2,74 +2,103 @@
   "id": "valmore_insomnie",
   "title": "L'Insomnie",
   "author": "Marceline Desbordes-Valmore",
-  "source": "Romances",
+  "source": "Romances, Renouard, Paris, 1817. 照合出典: Œuvres poétiques, Gallimard / Bibliothèque de la Pléiade, 1983; wikisource.org; poetes.com.",
   "year": "1817",
-  "difficulty": "初級〜中級",
+  "firstPublication": "Romances, Renouard, Paris, 1817",
+  "difficulty": "初級",
   "category": "valmore",
+  "originalLang": "fr-FR",
   "modernRelevance": "★★★☆☆",
-  "context": "眠れない夜の苦しみを主題とする初期作品。不眠という身体的状態を通して愛の苦悩を語る。シンプルな語彙と反復リズムが特徴。",
-  "keywords": ["insomnie", "nuit", "souffrance", "amour", "repos"],
-  "relatedTexts": ["valmore_reve_intermittent", "valmore_chambre", "valmore_separees"],
+  "context": "1817年刊行の詩集『ロマンス』に収録された初期作品。ヴァルモール31歳の作。「L'Adieu」（1819）より二年早く、初期の語彙と形式が既に確立している。全12行・四行連句×3連。詩行は7音節（ヘプタシラブ）──ヴァルモールの他の詩（アレクサンドラン主体）より短く、奇数音節の使用が偶数音節の安定した均衡を崩し、不眠の不規則性・不完全さを形式として体現する。韻配置は ABBA（抱擁韻）×3連──ただし§2の C 韻（passe/passe）が同語反復という変則的処理で、「むなしく探す」行為の空白が韻の水準でも体現される。「L'Insomnie」と「Rêve intermittent d'une nuit triste」は夜の意識を主題とする連作として相補的。",
+  "keywords": ["不眠", "夜", "夜明け", "待機", "夢", "愛", "循環"],
+  "relatedTexts": [
+    "valmore_reve_intermittent",
+    "valmore_adieu",
+    "valmore_qu_en_avez",
+    "verlaine_chanson_dautomne",
+    "verlaine_poetes_maudits_valmore"
+  ],
   "paragraphs": [
     {
       "id": 1,
-      "french": "Le sommeil a fui mes yeux,",
-      "officialTranslation": "眠りは私の目から逃げ去り、"
+      "french": "Le sommeil a fui mes yeux,\nLa nuit m'est longue et pénible ;\nJe cherche un songe sensible\nQui me parle de mes dieux.",
+      "provisionalTranslation": "眠りは私の目から逃げ去り、\n夜は長く、つらい；\n私は感じやすい夢を探す\n私の神々のことを語りかけてくれる夢を。"
     },
     {
       "id": 2,
-      "french": "La nuit m'est longue et pénible ;",
-      "officialTranslation": "夜は長く、つらい；"
+      "french": "Vainement la nuit se passe,\nVainement je cherche en vain ;\nL'aurore pâle qui passe\nM'annonce un nouveau chagrin.",
+      "provisionalTranslation": "むなしく夜は過ぎていく、\nむなしく私はむなしく探す；\n通り過ぎる青ざめた夜明けが\n新たな悲しみを私に告げる。"
     },
     {
       "id": 3,
-      "french": "Je cherche un songe sensible",
-      "officialTranslation": "私は感じやすい夢を探す"
+      "french": "Quand reverrai-je l'aurore\nQui ne m'apporte que lui ?\nJe souffre, j'attends encore,\nEt la nuit recommence et fuit.",
+      "provisionalTranslation": "いつ再び夜明けを見るだろう\nただ彼だけをもたらしてくれる夜明けを？\n私は苦しみ、まだ待っている、\nそして夜はまた始まり、逃げていく。"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "prosody",
+      "anchor": null,
+      "body": "7音節（ヘプタシラブ）四行連句×3連、12行。韻配置：\n• §1：yeux / dieux（A）／ pénible / sensible（B）──ABBA 抱擁韻\n• §2：passe / passe（C 同語）／ vain / chagrin（D）──CDDC 変形（C 韻が同語反復）\n• §3：aurore / encore（E）／ lui / fuit（F）──EFFE 抱擁韻\n7音節という奇数音節の選択：フランス語詩の「安定した偶数（6・8・10・12音節）」から外れた「奇数の不均衡」──不眠の落ち着かなさ・リズムの不安定さが形式に内在する。§2の「passe / passe」という同語反復の韻：通常は異なる語で韻を踏むところを同じ語で反復することで、「空白・空回り・前進しない夜」が韻の水準でも体現される。三連が「宣告（§1）→空白（§2）→問いと循環（§3）」という意識の推移を刻む。"
     },
     {
-      "id": 4,
-      "french": "Qui me parle de mes dieux.",
-      "officialTranslation": "私の神々のことを語りかけてくれる夢を。"
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "Le sommeil a fui mes yeux,\nLa nuit m'est longue et pénible ;",
+      "body": "冒頭行「眠りは私の目から逃げ去り（Le sommeil a fui mes yeux）」──sommeil（眠り）が主語となり、目（yeux）から「逃げる（fuir）」能動的な行為として描かれる。眠りの擬人化：眠りは詩人が失うものでなく、眠りの方が自律的に逃げ去る──詩人は逃げられた側。fuir という動詞は詩の最終行（la nuit … fuit）でも反復され、詩全体が「逃げるもの（眠り・夜・夜明け）」の詩として構造化される。「La nuit m'est longue et pénible（夜は長く、つらい）」：m'est（私にとって）という与格──夜の長さが客観的でなく主観的体験として定義される。longue et pénible の二形容詞：時間的な長さ（longue）と感情的な重さ（pénible）。"
     },
     {
-      "id": 5,
-      "french": "Vainement la nuit se passe,",
-      "officialTranslation": "むなしく夜は過ぎていく、"
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "Je cherche un songe sensible\nQui me parle de mes dieux.",
+      "body": "「感じやすい夢（un songe sensible）」──sensible はフランス語で「感受性の豊かな・感じる能力を持つ」という意味。夢に「感じやすさ」という人格的属性を付与する：求めているのは単なる夢でなく「感情を持つ夢・語りかけてくれる夢」。「mes dieux（私の神々）」──複数形の「神々」：「L'Insomnie」が書かれた1817年はヴァルモールにとって複数の重要な人物との別れが重なる時期。固有名を明かさず「神々」という神話的複数形で愛する人（または人々）を指す──親密さと神秘化の共存。「Qui me parle（私に語りかけてくれる）」：夢に「語りかけ」を求める──「Rêve intermittent」で母に「entends ma voix qui t'appelle（私の声を聴いて）」と呼びかけるのと逆方向：語りかける側と語りかけられる側の反転。"
     },
     {
-      "id": 6,
-      "french": "Vainement je cherche en vain ;",
-      "officialTranslation": "むなしく私はむなしく探す；"
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "Vainement la nuit se passe,\nVainement je cherche en vain ;",
+      "body": "詩全体で最も際立つ行：「Vainement je cherche en vain（むなしく私はむなしく探す）」──vainement（むなしく）と en vain（むなしく）という同義副詞の二重使用。トートロジー的な反復が「空白」「徒労」という意味を過剰に積み重ねる──意味の強調であると同時に「繰り返すしかない状態」の形式的体現。この行は詩の感情的中心：「探す」という行為の完全な無効化が、同語反復（vainement / en vain）と韻の同語反復（passe / passe）の二重の反復によって体現される。「L'Adieu」の「Adieu ! … Adieu !」・「Qu'en avez-vous fait … Qu'en avez-vous fait」と並ぶヴァルモールの反復詩学の極限事例。"
     },
     {
-      "id": 7,
-      "french": "L'aurore pâle qui passe",
-      "officialTranslation": "通り過ぎる青ざめた夜明けが"
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "L'aurore pâle qui passe\nM'annonce un nouveau chagrin.",
+      "body": "「通り過ぎる青ざめた夜明け（L'aurore pâle qui passe）」──§2の韻 C（passe / passe）の二つ目が「夜明けが通り過ぎる」という動詞 passe として再登場する。「夜が過ぎる（se passe）」と「夜明けが通り過ぎる（qui passe）」：同じ動詞 passer が「夜の経過」と「夜明けの通過」に使われ、両者が同一の「過ぎ去る」運動として提示される。「pâle（青ざめた）」：夜明けの色が「青白い」──喜びの光でなく病的な色。「M'annonce un nouveau chagrin（新たな悲しみを告げる）」：朝が「新たな悲しみの告知」として定義される──夜明けが救いでなく次の苦しみの開始を意味する逆説。§3で「reverrai-je l'aurore（夜明けをいつ再び見るだろう）」と夜明けへの渇望に転じるとの対比。"
     },
     {
-      "id": 8,
-      "french": "M'annonce un nouveau chagrin.",
-      "officialTranslation": "新たな悲しみを私に告げる。"
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "Quand reverrai-je l'aurore\nQui ne m'apporte que lui ?",
+      "body": "「いつ再び夜明けを見るだろう（Quand reverrai-je l'aurore）」──§2では「青ざめた夜明けが悲しみを告げる」と夜明けを否定的に描いたヴァルモールが、§3では「ただ彼だけをもたらす夜明け」への渇望を語る。同じ「夜明け（aurore）」が§2と§3で対照的に描かれる：悲しみをもたらす夜明け（§2）vs 愛する人をもたらす夜明け（§3）──夜明けの意味が愛する人の存在の有無によって決まる。「Qui ne m'apporte que lui（ただ彼だけをもたらしてくれる）」：ne … que（〜だけ）の限定表現。「彼（lui）」は詩全体で唯一現れる愛の対象への言及──名前も属性も示されない「lui」という最小限の指示が、不眠の全夜を貫く唯一の目的として提示される。"
     },
     {
-      "id": 9,
-      "french": "Quand reverrai-je l'aurore",
-      "officialTranslation": "いつ再び夜明けを見るだろう"
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "Je souffre, j'attends encore,\nEt la nuit recommence et fuit.",
+      "body": "詩の最終二行：「私は苦しみ、まだ待っている（Je souffre, j'attends encore）」──現在形の二動詞（souffre / attends）がコンマで並置される。encore（まだ・再び）：継続の副詞──苦しみも待機も終わっていない。「Et la nuit recommence et fuit（そして夜はまた始まり、逃げていく）」──recommencer（また始まる）と fuir（逃げる）の同時進行：夜が「始まり」ながら同時に「逃げていく」。始まりと逃走の同時性──循環の中に方向性がない。冒頭行「Le sommeil a fui mes yeux（眠りは目から逃げ去り）」の fuir と対応：詩は「眠りが逃げる」で始まり「夜が逃げる」で終わる──逃走という運動が詩全体を閉じた円環として包む。"
     },
     {
-      "id": 10,
-      "french": "Qui ne m'apporte que lui ?",
-      "officialTranslation": "ただ彼だけをもたらしてくれる夜明けを？"
+      "paragraphId": 3,
+      "type": "prosody",
+      "anchor": "Et la nuit recommence et fuit.",
+      "body": "最終行のリズム的特異性：「Et la nuit / recommence / et fuit」──7音節の中に三つの動詞的要素（recommence / fuit / et の接続）が詰め込まれ、行末に向けて加速する感覚がある。recommencer（また始まる）と fuir（逃げる）の意味的矛盾が一行で共存：終わりのない循環（recommencer）と逃走による消失（fuir）──不眠は「続くもの」であり同時に「逃げ去るもの」。この最終行の圧縮が詩全体の主題──「つかもうとするものが逃げていく、しかし夜は続く」──を詩行の運動として体現する。"
     },
     {
-      "id": 11,
-      "french": "Je souffre, j'attends encore,",
-      "officialTranslation": "私は苦しみ、まだ待っている、"
+      "paragraphId": 1,
+      "type": "intertextual",
+      "anchor": "Je cherche un songe sensible\nQui me parle de mes dieux.",
+      "body": "「Rêve intermittent d'une nuit triste」（valmore_reve_intermittent）との連作的対称：「L'Insomnie」が「夢を探す（覚醒）」の詩であるのに対し、「Rêve intermittent」は「夢と覚醒の往来→再入眠」の詩。「L'Insomnie」の「Je cherche un songe（夢を探す）」と「Rêve intermittent」の「Je me rendors（また眠りにつく）」──求めても得られない夢（前者）と求めずとも繰り返し訪れる夢（後者）の対照。また「mes dieux（私の神々）」対「ô ma mère（おお母よ）」──不特定の複数（愛する人/神）対特定の一人（母）という指示の対照が、両詩の感情的な性格の差異を示す。",
+      "targetId": "valmore_reve_intermittent",
+      "targetParagraphId": null
     },
     {
-      "id": 12,
-      "french": "Et la nuit recommence et fuit.",
-      "officialTranslation": "そして夜はまた始まり、逃げていく。"
+      "paragraphId": 2,
+      "type": "intertextual",
+      "anchor": "Vainement je cherche en vain",
+      "body": "「Qu'en avez-vous fait ?」（valmore_qu_en_avez）の反復詩学との比較：「L'Insomnie」の「Vainement … en vain」（同義反復）と「Qu'en avez-vous fait / Qu'en avez-vous fait」（問いの反復）は、どちらもヴァルモールの「反復が感情の強度を体現する」という詩学の現れ。しかし反復の機能が異なる──「Qu'en avez-vous fait」の反復は告発の継続として機能し、「Vainement … en vain」の反復は徒労の自己完結として機能する：同じ技法が告発（他者への向かい）と自閉（自己の内への向かい）という異なる方向性を持つ。",
+      "targetId": "valmore_qu_en_avez",
+      "targetParagraphId": null
     }
   ]
 }
