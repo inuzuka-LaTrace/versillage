@@ -2,74 +2,103 @@
   "id": "valmore_reve_intermittent",
   "title": "Rêve intermittent d'une nuit triste",
   "author": "Marceline Desbordes-Valmore",
-  "source": "Poésies inédites",
+  "source": "Poésies inédites, Genève, 1860 (éd. posthume, publiée par Gustave Revilliod). 照合出典: Œuvres poétiques, Gallimard / Bibliothèque de la Pléiade, 1983; wikisource.org; poetes.com.",
   "year": "1860",
-  "difficulty": "中級〜上級",
+  "firstPublication": "Poésies inédites, Genève, 1860 (遺稿集、没後出版)",
+  "difficulty": "中級",
   "category": "valmore",
+  "originalLang": "fr-FR",
   "modernRelevance": "★★★★☆",
-  "context": "夜の夢と覚醒が交互に訪れる構造を持つ長詩の抜粋。亡くなった母親への呼びかけが詩全体を貫く。ヴァルモール夫人の詩の中でも最も個人的・自伝的な作品のひとつ。死・母性・記憶が絡み合う複雑な感情の織物。",
-  "keywords": ["rêve", "mère", "mort", "mémoire", "nuit"],
-  "relatedTexts": ["valmore_mal_du_pays", "valmore_separees"],
+  "context": "1860年の遺稿集『未刊詩篇』に収録された長詩の抜粋。タイトルの「間欠的な夢（rêve intermittent）」が詩の構造を宣言する：目覚めと夢の間を往来する意識状態。亡くなった母親（ヴァルモールの母カトリーヌは1816年に没）への呼びかけが全体を貫き、「te（あなた）」という二人称が唯一の対話相手として置かれる。全12行・四行連句（quatrain）×3連、アレクサンドラン（12音節）。韻配置 ABAB×3連：§1が「呼びかけ」、§2が「沈黙の中の問い」、§3が「再入眠と夢の定義」という三段の時間的推移──覚醒・半覚醒・再入眠という夜の意識の揺れが詩形として構造化される。",
+  "keywords": ["夢", "母", "死", "記憶", "夜", "呼びかけ", "再入眠"],
+  "relatedTexts": [
+    "valmore_insomnie",
+    "valmore_adieu",
+    "valmore_couronne",
+    "verlaine_poetes_maudits_valmore",
+    "verlaine_colloque_sentimental"
+  ],
   "paragraphs": [
     {
       "id": 1,
-      "french": "Viens, ô ma mère ! entends ma voix qui t'appelle,",
-      "officialTranslation": "来て、おお母よ！ あなたを呼ぶ私の声を聞いて、"
+      "french": "Viens, ô ma mère ! entends ma voix qui t'appelle,\nTa fille vers ton ombre étend ses bras lassés.\nJe ne suis pas heureuse en ce monde sans elle.\nIl me tarde de voir tes yeux que j'ai fermés.",
+      "provisionalTranslation": "来て、おお母よ！ あなたを呼ぶ私の声を聞いて、\nあなたの影へと、娘が疲れた腕を伸ばしている。\n彼女のいないこの世界で私は幸せではない。\n私が閉じたあなたの目を見ることが待ち遠しい。"
     },
     {
       "id": 2,
-      "french": "Ta fille vers ton ombre étend ses bras lassés.",
-      "officialTranslation": "あなたの影へと、娘が疲れた腕を伸ばしている。"
+      "french": "Est-ce toi ? — Quel silence ! — Est-ce toi qui passes ?\nLe vent souffle et s'éteint ; la nuit est sans voix.\nViens, j'ai besoin de toi dans ces sombres espaces\nOù mon âme perdue a perdu jusqu'au mois.",
+      "provisionalTranslation": "あなたなの？ — なんという沈黙！ — あなたが通り過ぎているの？\n風が吹いて消える；夜には声がない。\n来て、この暗い空間の中で私はあなたを必要としている\n失われた私の魂が月さえも失った場所で。"
     },
     {
       "id": 3,
-      "french": "Je ne suis pas heureuse en ce monde sans elle.",
-      "officialTranslation": "彼女のいないこの世界で私は幸せではない。"
+      "french": "Je me rendors. — Toujours le même rêve arrive ;\nIl ressemble à la mort, il ressemble à l'amour.\nC'est la même douceur, la même fuite vive,\nUn reste de la nuit qui se sauve du jour.",
+      "provisionalTranslation": "また眠りにつく。 — いつも同じ夢がやってくる；\nそれは死に似ている、それは愛に似ている。\n同じ優しさ、同じ活きた逃走、\n昼から逃げ去る夜の名残。"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "prosody",
+      "anchor": null,
+      "body": "アレクサンドラン（12音節）四行連句×3連、ABAB 交差韻：\n• §1：appelle / elle（A）／ lassés / fermés（B）\n• §2：passes / espaces（C）／ voix / mois（D）\n• §3：arrive / vive（E）／ amour / jour（F）\n三連が覚醒（§1）→半覚醒・沈黙（§2）→再入眠（§3）という意識の三段階を刻む。各連の構造的特徴：§1は感嘆符・呼びかけ・命令形が連続し感情的高揚が最大；§2はダッシュ（—）が三回入り意識の断絶・夢との境界を文の水準で体現；§3は陳述文が静かに連なり夢への没入として閉じる。詩のタイトル「間欠的な（intermittent）」という形容詞が、この三段階の構造によって詩形として実現される。"
     },
     {
-      "id": 4,
-      "french": "Il me tarde de voir tes yeux que j'ai fermés.",
-      "officialTranslation": "私が閉じたあなたの目を見ることが待ち遠しい。"
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "Viens, ô ma mère ! entends ma voix qui t'appelle,\nTa fille vers ton ombre étend ses bras lassés.",
+      "body": "冒頭の命令形「Viens（来て）」──詩全体を開く一語。対話の相手（母）が「来る」ことを命じる：詩は死者への呼びかけとして始まる。「ô ma mère !（おお母よ！）」：感嘆的呼格（vocatif）──古典的な祈りの形式（神への呼びかけ）が母への呼びかけとして流用される。「Ta fille（あなたの娘）」：詩人が一人称「Je」でなく「Ta fille（あなたの娘）」と自己を三人称的に指す──自分を母の側から見た視点への転換。「ton ombre（あなたの影）」：ombre（影）は死者の霊・亡霊を指す古典的な語──「La Couronne effeuillée」§1の「aimer une ombre（影を愛する）」と同一語。「ses bras lassés（疲れた腕）」──疲れた腕の伸長：母への到達不可能な距離を「疲労」という身体感覚で表す。"
     },
     {
-      "id": 5,
-      "french": "Est-ce toi ? — Quel silence ! — Est-ce toi qui passes ?",
-      "officialTranslation": "あなたなの？ — なんという沈黙！ — あなたが通り過ぎているの？"
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "Il me tarde de voir tes yeux que j'ai fermés.",
+      "body": "第1連の最終行、詩全体で最も圧縮された一行。「Il me tarde de voir（見ることが待ち遠しい）」──tarder（待ち遠しい・遅い）という動詞：再会への切望。「tes yeux que j'ai fermés（私が閉じたあなたの目）」──過去複合形「j'ai fermés」：臨終の床で死者の目を閉じるという行為の記憶。娘が母の死の瞬間に立ち会い、自らその目を閉じたという事実が一行の関係節に収められる。「見たい」のは「閉じた目」──閉じられた目を「見ること」は再開の不可能性の確認でもある逆説。この一行が詩全体の感情的重心であり、「私が閉じた目を再び見る」＝死者の世界で母に再会するという願望として読まれる。"
     },
     {
-      "id": 6,
-      "french": "Le vent souffle et s'éteint ; la nuit est sans voix.",
-      "officialTranslation": "風が吹いて消える；夜には声がない。"
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "Est-ce toi ? — Quel silence ! — Est-ce toi qui passes ?",
+      "body": "ダッシュ（—）が三回入る唯一の行──「Est-ce toi ?（あなたなの？）」「Quel silence !（なんという沈黙！）」「Est-ce toi qui passes ?（あなたが通り過ぎているの？）」という三断片が一行に収まる。「Est-ce toi ?」の反復：同じ問いが少し変形して再び問われる（「通り過ぎているの？」という動詞の追加）──確信のなさ・幻視への疑念。「Quel silence !」という感嘆：問いかけへの応答がない──沈黙が「答え」として挿入される。ダッシュによる意識の断絶がそのまま夢と覚醒の境界として機能する。「Le vent souffle et s'éteint ; la nuit est sans voix（風が吹いて消える；夜には声がない）」：声のない夜の描写──母への呼びかけへの返答としての沈黙が自然の描写として外化される。"
     },
     {
-      "id": 7,
-      "french": "Viens, j'ai besoin de toi dans ces sombres espaces",
-      "officialTranslation": "来て、この暗い空間の中で私はあなたを必要としている"
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "Où mon âme perdue a perdu jusqu'au mois.",
+      "body": "「失われた私の魂が月さえも失った場所（mon âme perdue a perdu jusqu'au mois）」──perdue / a perdu という「失われた」の二重の使用：魂が「失われた」状態にあり、さらにそこから「月さえも失う」という二重の喪失。「jusqu'au mois（月さえも）」：jusqu'à は「〜さえも」という極限の強調──通常なら暗闇に浮かぶはずの月（光・方向・時間の指標）さえない完全な方向喪失。mois（月）は方位・時間・光の三重の意味で「魂の迷子」状態を具体化する。「sombres espaces（暗い空間）」──「La Couronne effeuillée」の「l'infini bleu（青い無限）」と対照される：同じ「広がり」が一方では光（青）として、他方では暗さとして提示される。"
     },
     {
-      "id": 8,
-      "french": "Où mon âme perdue a perdu jusqu'au mois.",
-      "officialTranslation": "失われた私の魂が月さえも失った場所で。"
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "Je me rendors. — Toujours le même rêve arrive ;\nIl ressemble à la mort, il ressemble à l'amour.",
+      "body": "「Je me rendors（また眠りにつく）」──re-（再び）が接頭された動詞：二度目の入眠。覚醒（§1・§2）から再入眠（§3）への移行を一語で示す。ダッシュに続く「Toujours le même rêve arrive（いつも同じ夢がやってくる）」：「同じ夢が来る」──夢は詩人が行くものでなく、夢の方が来るもの。「Il ressemble à la mort, il ressemble à l'amour（それは死に似ている、それは愛に似ている）」──il / il という同一主語の反復と、à la mort / à l'amour という対比的な二つの「似ている」：死と愛が同等の重みで並置される。ressembler（似ている）という動詞：同一でなく「似ている」──夢は死でも愛でもなく、両者に似た第三の状態。"
     },
     {
-      "id": 9,
-      "french": "Je me rendors. — Toujours le même rêve arrive ;",
-      "officialTranslation": "また眠りにつく。 — いつも同じ夢がやってくる；"
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "C'est la même douceur, la même fuite vive,\nUn reste de la nuit qui se sauve du jour.",
+      "body": "詩の最終二行：「同じ優しさ、同じ活きた逃走（la même douceur, la même fuite vive）」──même の二度反復が「変わらなさ・繰り返し」を強調。douceur（優しさ・甘さ）と fuite vive（活きた逃走）の対比：夢は「甘いもの」であると同時に「生き生きと逃げ去るもの」──掴もうとすると消えていくもの。「Un reste de la nuit qui se sauve du jour（昼から逃げ去る夜の名残）」──最終行の定義：夢は「昼から逃げる夜の残り」。se sauver（逃げ去る・救われる）の両義：「夜が昼から逃げる」と「夜が昼から救われる」──夢（夜）が日常（昼）に対して自律的な避難地として機能する。「rêve intermittent（間欠的な夢）」というタイトルが「夜の名残」という最終語で完結する。"
     },
     {
-      "id": 10,
-      "french": "Il ressemble à la mort, il ressemble à l'amour.",
-      "officialTranslation": "それは死に似ている、それは愛に似ている。"
+      "paragraphId": 3,
+      "type": "prosody",
+      "anchor": "Il ressemble à la mort, il ressemble à l'amour.",
+      "body": "行10は詩全体で最も完全な二分法的アレクサンドラン：「Il ressemble à la mort,（6音節）/ il ressemble à l'amour.（6音節）」──コンマが正中線（césure）として機能し、死と愛が詩行の左右を等分する。同一の構文（Il ressemble à X）の反復が死と愛を構文的に等置する──どちらが「より」夢に似ているか決定されない。この行の対称性が詩全体の主題的対称性（母への愛＝死への近接）を一行で凝縮する。ヴァルモールにおける「愛」と「死」の等価性──「L'Adieu」の「くぐもった弔鐘」・「La Couronne」の「喪」と同一の詩的認識。"
     },
     {
-      "id": 11,
-      "french": "C'est la même douceur, la même fuite vive,",
-      "officialTranslation": "同じ優しさ、同じ活きた逃走、"
+      "paragraphId": 1,
+      "type": "intertextual",
+      "anchor": "Ta fille vers ton ombre étend ses bras lassés.",
+      "body": "「L'Adieu」（valmore_adieu）の「Quand les bras ont lâché, les âmes ont tenu（腕が離れても、魂はつながっていた）」との対照：「L'Adieu」では「腕が放す」行為が過去として完了しているのに対し、「Rêve intermittent」では「疲れた腕を伸ばす」行為が現在進行形として持続する──放すことのできない喪失の継続。どちらも「腕（bras）」という身体部位が愛の距離を体現するが、前者は「放す→魂で繋がる」という解決を持ち、後者は「伸ばす→届かない」という未解決のまま詩が進む。",
+      "targetId": "valmore_adieu",
+      "targetParagraphId": null
     },
     {
-      "id": 12,
-      "french": "Un reste de la nuit qui se sauve du jour.",
-      "officialTranslation": "昼から逃げ去る夜の名残。"
+      "paragraphId": 3,
+      "type": "intertextual",
+      "anchor": "Un reste de la nuit qui se sauve du jour.",
+      "body": "「L'Insomnie」（valmore_insomnie）との連作的関係：「L'Insomnie」が「眠れない夜→夜明けへの恐怖」という覚醒の詩であるのに対し、「Rêve intermittent」は「夢と覚醒の往来→夢への再没入」という半意識の詩として補完関係にある。「Un reste de la nuit qui se sauve du jour（昼から逃げ去る夜の名残）」対「L'Insomnie」の「Et la nuit recommence et fuit（夜はまた始まり、逃げていく）」──両詩とも夜が「逃げる（se sauve / fuit）」という動詞で終わるが、「L'Insomnie」では夜が逃げることが詩人の苦しみとして提示されるのに対し、「Rêve intermittent」では夢そのものが「逃げる夜」として定義される──夢の消失と夜の消失が重なる。",
+      "targetId": "valmore_insomnie",
+      "targetParagraphId": null
     }
   ]
 }
