@@ -2,54 +2,71 @@
   "id": "valmore_a_monsieur",
   "title": "À Monsieur A. D.",
   "author": "Marceline Desbordes-Valmore",
-  "source": "Élégies, Marie et Romances",
+  "source": "Élégies, Marie et Romances, Duart, Paris, 1819. 照合出典: Œuvres poétiques, Gallimard / Bibliothèque de la Pléiade, 1983; wikisource.org; poetes.com.",
   "year": "1819",
+  "firstPublication": "Élégies, Marie et Romances, Duart, Paris, 1819",
   "difficulty": "中級",
   "category": "valmore",
+  "originalLang": "fr-FR",
   "modernRelevance": "★★★☆☆",
-  "context": "実在の人物への直接的な呼びかけの形をとる愛の詩。「A. D.」の正体は諸説あるが、詩人が長年愛した男性ダビッドとも言われる。告白と自制のせめぎ合いが詩の緊張を生む。",
-  "keywords": ["amour", "aveu", "retenue", "désir", "confession"],
-  "relatedTexts": ["valmore_adieu", "valmore_separees", "valmore_qu_en_avez"],
+  "context": "1819年刊行の処女詩集『悲歌、マリーとロマンス』に収録。「A. D.」の正体は諸説あり、詩人が長年愛したとされる俳優アンリ・デュシャンのイニシャルとも言われる。全8行。前半4行（§1）が告白しようとして逡巡する心理を、後半4行（§2）がその逡巡への解決──「書くこと」──を提示する。詩そのものが「書くことで告白を代替する」という行為として自己言及的に完結する：この詩を読む「あなた」は、まさにこの「écrit（書かれたもの）」をすでに受け取っている。「Les Séparées」の「N'écris pas（書かないで）」と対称的な「書くことの論理」を展開する。",
+  "keywords": ["告白", "逡巡", "書くこと", "声と文字", "自己言及", "愛の媒介"],
+  "relatedTexts": [
+    "valmore_separees",
+    "valmore_adieu",
+    "valmore_qu_en_avez",
+    "verlaine_poetes_maudits_valmore"
+  ],
   "paragraphs": [
     {
       "id": 1,
-      "french": "J'allais vous dire que je vous aime,",
-      "officialTranslation": "あなたを愛していると言いかけた、"
+      "french": "J'allais vous dire que je vous aime,\nEt puis j'ai eu peur de moi-même.\nJe vous dirai que je vous aime\nQuand je n'en aurai plus peur.",
+      "provisionalTranslation": "あなたを愛していると言いかけた、\nそれから自分自身が怖くなった。\nあなたを愛していると言おう\nそれが怖くなくなったとき。"
     },
     {
       "id": 2,
-      "french": "Et puis j'ai eu peur de moi-même.",
-      "officialTranslation": "それから自分自身が怖くなった。"
+      "french": "En attendant, je vous l'écris,\nCar l'écrit disparaît, s'efface,\nEt les mots dits restent gravés\nAux endroits où ils sont passés.",
+      "provisionalTranslation": "それまで、私はあなたに書く、\nなぜなら書かれたものは消え、消し去られる、\nそして語られた言葉は刻まれたまま残る\nそれらが通り過ぎた場所に。"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "prosody",
+      "anchor": null,
+      "body": "8行詩、8音節（オクトシラブ）主体──ただし行4のみ「Quand je n'en aurai plus peur」が7音節という短縮形。韻配置：\n• §1：aime / même（A）／ aime / peur（A′B）──「aime」の反復韻（行1と行3が同語で対応）\n• §2：écris / gravés（C）／ efface / passés（D）──CDCD 変形\n§1の「aime / aime」という同語反復の韻：「J'allais vous dire que je vous aime（言いかけた）」と「Je vous dirai que je vous aime（言おう）」──同一の告白が過去と未来の二時制で反復される。言われていない言葉が詩の中で二度「書かれる」というこの詩の構造的逆説が、韻の水準でも体現される。"
     },
     {
-      "id": 3,
-      "french": "Je vous dirai que je vous aime",
-      "officialTranslation": "あなたを愛していると言おう"
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "J'allais vous dire que je vous aime,\nEt puis j'ai eu peur de moi-même.",
+      "body": "「J'allais vous dire（言いかけた）」──aller + 不定詞の近接過去：「まさに言おうとしていた」という寸前で止まった動作。フランス語で最も繊細な時制の一つ──実現しなかった直前の意図を表す。「Et puis（それから）」：接続詞が行動の中断を示す。「j'ai eu peur de moi-même（自分自身が怖くなった）」──peur de moi-même（自分自身への恐怖）：他者でなく自己への恐怖。moi-même という再帰的強調：自己の内部での分裂──言いたい自分と怖がる自分の共存。"
     },
     {
-      "id": 4,
-      "french": "Quand je n'en aurai plus peur.",
-      "officialTranslation": "それが怖くなくなったとき。"
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "Je vous dirai que je vous aime\nQuand je n'en aurai plus peur.",
+      "body": "§1後半2行は§1前半の反転：「言いかけた（J'allais dire）」→「言おう（Je vous dirai）」、「怖かった（j'ai eu peur）」→「怖くなくなったとき（je n'en aurai plus peur）」。未来形（dirai / aurai）による宣言──告白は「いつか」へと先送りされる。「Quand（〜のとき）」：条件を付した未来──怖くなくなることは約束されていない、つまり告白は永遠に延期される可能性を含む。行4が7音節という短縮形：「peur（恐怖）」という語が詩行の長さそのものを縮める──恐怖が形式を委縮させる。"
     },
     {
-      "id": 5,
-      "french": "En attendant, je vous l'écris,",
-      "officialTranslation": "それまで、私はあなたに書く、"
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "En attendant, je vous l'écris,\nCar l'écrit disparaît, s'efface,",
+      "body": "詩の転換点：「En attendant（それまでの間）」──告白できない待機の時間に、詩人は「書く」という代替行為を選ぶ。「je vous l'écris（あなたに書く）」：l' が「愛している（je vous aime）」を指示──詩そのものが「その言葉」の書面的な伝達として機能する自己言及。「Car l'écrit disparaît, s'efface（なぜなら書かれたものは消え、消し去られる）」──書くことを選ぶ逆説的な理由：書いたものは「消える」から書く。「Les Séparées」では手紙が届くと眠れなくなるから「書くな」と言うのに対し、ここでは書かれたものが消えるから安心して書けるという逆の論理。"
     },
     {
-      "id": 6,
-      "french": "Car l'écrit disparaît, s'efface,",
-      "officialTranslation": "なぜなら書かれたものは消え、消し去られる、"
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "Et les mots dits restent gravés\nAux endroits où ils sont passés.",
+      "body": "詩の最終二行：「語られた言葉は刻まれたまま残る（les mots dits restent gravés）」──graver（刻む・彫る）という動詞：石・金属に刻みつける工芸的動詞。ゴーティエ「L'Art」の「Sculpte, lime, cisèle（刻め、磨け、彫れ）」と同じ語彙系列──しかしゴーティエでは形式の永続性として肯定的に使われるのに対し、ヴァルモールでは「消えない声の怖さ」として否定的に使われる。「Aux endroits où ils sont passés（それらが通り過ぎた場所に）」──言葉が「通り過ぎる（passer）」という運動と「刻まれて残る（rester gravés）」という定着の矛盾：一度発された言葉は消えないという認識が「声への恐怖」（§1）の根拠として遡及的に説明される。"
     },
     {
-      "id": 7,
-      "french": "Et les mots dits restent gravés",
-      "officialTranslation": "そして語られた言葉は刻まれたまま残る"
-    },
-    {
-      "id": 8,
-      "french": "Aux endroits où ils sont passés.",
-      "officialTranslation": "それらが通り過ぎた場所に。"
+      "paragraphId": 2,
+      "type": "intertextual",
+      "anchor": "l'écrit disparaît, s'efface,\nEt les mots dits restent gravés",
+      "body": "「Les Séparées」（valmore_separees）の「書くこと」との対称的な論理：「Les Séparées」では「N'écris pas──手紙が届くと眠れない」という「書かれたものへの恐怖」が主題であるのに対し、「À Monsieur A. D.」では「書く──なぜなら書かれたものは消えるから」という「書かれたものへの信頼」が主題。二詩合わせてヴァルモールの「書くこと」の詩学の全体像が現れる：書いた言葉は消えるが（→だから書ける）、しかし届いた手紙は感情を呼び起こし眠れなくする（→だから書くな）──écrire という行為への両義的な認識。",
+      "targetId": "valmore_separees",
+      "targetParagraphId": null
     }
   ]
 }
