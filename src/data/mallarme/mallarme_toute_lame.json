@@ -9,7 +9,7 @@
   "category": "mallarme",
   "originalLang": "fr-FR",
   "modernRelevance": "★★★★★",
-  "context": "1895年8月1日付『ラ・ルヴュ・ブランシュ』に発表。副題「詩人の答え——ロダン・ドロール氏がヴェルレーヌに代わって提示した問い」——すなわちヴェルレーヌの「詩の音楽性」論への詩的応答として書かれた。全16行・アレクサンドラン（12音節）主体の四行連句×4連、交差韻（ABAB）。「煙草の煙」という一見平凡な日常的行為を詩の根拠として提示し、そこから「魂の要約」・「灰（意味の残滓）の排除」・「言葉と言葉のあいだ（entre）」という純粋詩学を導く。ジャン＝ピエール・リシャール（『マラルメの詩的宇宙』1961）はこの詩を「軽さ（légèreté）」のトポロジーとして読み、煙が空気に移行する瞬間に詩的言語の本質を見た。ブランショ（『文学空間』1955）はマラルメ論を通じてこの詩の「entre（あいだ）」概念を——言葉が指示対象を殺すことで生まれる「不在の現前」として——詩的経験の核心に位置づけた。",
+  "context": "1895年8月1日付『ラ・ルヴュ・ブランシュ』に発表。副題「詩人の答え──ロダン・ドロール氏がヴェルレーヌに代わって提示した問い」──すなわちヴェルレーヌの「詩の音楽性」論への詩的応答として書かれた。全16行・アレクサンドラン（12音節）主体の四行連句×4連、交差韻（ABAB）。「煙草の煙」という一見平凡な日常的行為を詩の根拠として提示し、そこから「魂の要約」・「灰（意味の残滓）の排除」・「言葉と言葉のあいだ（entre）」という純粋詩学を導く。ジャン＝ピエール・リシャール（『マラルメの詩的宇宙』1961）はこの詩を「軽さ（légèreté）」のトポロジーとして読み、煙が空気に移行する瞬間に詩的言語の本質を見た。ブランショ（『文学空間』1955）はマラルメ論を通じてこの詩の「entre（あいだ）」概念を──言葉が指示対象を殺すことで生まれる「不在の現前」として──詩的経験の核心に位置づけた。",
   "keywords": ["煙草", "煙", "灰", "純粋詩", "ヴェルレーヌへの応答", "entre（あいだ）", "魂の要約", "詩学宣言", "リシャール", "ブランショ"],
   "relatedTexts": [
     "mallarme_crise_de_vers",
@@ -34,7 +34,7 @@
     {
       "id": 3,
       "french": "Ainsi le chœur des romances\nÀ la lèvre vole-t-il\nExclus-en si tu commences\nLe réel parce que vil",
-      "provisionalTranslation": "こうしてロマンスたちの合唱が\n唇へと飛んでいく\nそこから排除せよ、もし始めるなら\n実在を——なぜなら卑しいから"
+      "provisionalTranslation": "こうしてロマンスたちの合唱が\n唇へと飛んでいく\nそこから排除せよ、もし始めるなら\n実在を──なぜなら卑しいから"
     },
     {
       "id": 4,
@@ -47,49 +47,49 @@
       "paragraphId": 1,
       "type": "prosody",
       "anchor": null,
-      "body": "四行連句×4連、全16行。韻配置（交差韻 ABAB×4連）：\n• §1：résumée / fumée（A）／ expirons / ronds（B）\n• §2：cigare / sépare（A）／ peu / feu（B）\n• §3：romances / commences（A）／ vole-t-il / vil（B）\n• §4：fixes / rature（A変形）／ disparition / littérature（B）\n§4のみ韻が変則的で、fixes（固定）とrature（消去）の「韻のほころび」が詩の主題——過度な精確さが詩を消す——と内在的に対応する。音節数はアレクサンドラン（12音節）ではなく八音節（オクトシラブ）主体——リシャール（1961）はこの軽快な音節数の選択を「煙の軽さ（légèreté de la fumée）」と詩形式の同型関係として論じた。"
+      "body": "四行連句×4連、全16行。韻配置（交差韻 ABAB×4連）：\n• §1：résumée / fumée（A）／ expirons / ronds（B）\n• §2：cigare / sépare（A）／ peu / feu（B）\n• §3：romances / commences（A）／ vole-t-il / vil（B）\n• §4：fixes / rature（A変形）／ disparition / littérature（B）\n§4のみ韻が変則的で、fixes（固定）とrature（消去）の「韻のほころび」が詩の主題──過度な精確さが詩を消す──と内在的に対応する。音節数はアレクサンドラン（12音節）ではなく八音節（オクトシラブ）主体──リシャール（1961）はこの軽快な音節数の選択を「煙の軽さ（légèreté de la fumée）」と詩形式の同型関係として論じた。"
     },
     {
       "paragraphId": 1,
       "type": "commentary",
       "anchor": "Toute l'âme résumée\nQuand lente nous l'expirons\nDans plusieurs ronds de fumée\nAbolis en autres ronds",
-      "body": "詩の冒頭4行は一文の前半を構成し、主語「Toute l'âme résumée（魂のすべてが要約されている）」から始まる。résumée は過去分詞で「要約された・凝縮された」——魂が煙の行為の中に凝縮されるという認識。「Quand lente nous l'expirons（私たちがゆっくりと吐き出すとき）」：lente（ゆっくりと）という副詞が女性形（形容詞的）で現れる——ゆっくりした吐き出し行為そのものが魂の要約の条件。「plusieurs ronds de fumée / Abolis en autres ronds（幾つかの煙の輪が他の輪の中で廃棄されながら）」：abolis（廃棄された）——マラルメの反復語。「Un Coup de Dés」の「N'ABOLIRA（廃棄しないだろう）」と同語根。輪が輪を廃棄しながら生成するという無限後退は、言語が意味を「廃棄」しながら前進する詩的言語のモデル。"
+      "body": "詩の冒頭4行は一文の前半を構成し、主語「Toute l'âme résumée（魂のすべてが要約されている）」から始まる。résumée は過去分詞で「要約された・凝縮された」──魂が煙の行為の中に凝縮されるという認識。「Quand lente nous l'expirons（私たちがゆっくりと吐き出すとき）」：lente（ゆっくりと）という副詞が女性形（形容詞的）で現れる──ゆっくりした吐き出し行為そのものが魂の要約の条件。「plusieurs ronds de fumée / Abolis en autres ronds（幾つかの煙の輪が他の輪の中で廃棄されながら）」：abolis（廃棄された）──マラルメの反復語。「Un Coup de Dés」の「N'ABOLIRA（廃棄しないだろう）」と同語根。輪が輪を廃棄しながら生成するという無限後退は、言語が意味を「廃棄」しながら前進する詩的言語のモデル。"
     },
     {
       "paragraphId": 1,
       "type": "commentary",
       "anchor": "Toute l'âme résumée",
-      "body": "ジャン＝ピエール・リシャール『マラルメの詩的宇宙（L'Univers imaginaire de Mallarmé）』（1961）の核心的分析：リシャールはこの詩を「軽さのトポロジー」として読む。煙・蒸気・空気・香り——マラルメ詩の「軽い物質（matière légère）」の系列の中で、煙草の煙は最も制御された上昇として際立つ。「Toute l'âme résumée」：魂と煙の同一視は、実体の希薄化——固体（葉巻）→液体（香り）→気体（煙）——という物質的変容の最終段階として詩が提示される。リシャールにとって、マラルメにおける「上昇（montée）」は常にそれが廃棄される瞬間との緊張において存在する：輪が次の輪に廃棄される「危機の美学」。"
+      "body": "ジャン＝ピエール・リシャール『マラルメの詩的宇宙（L'Univers imaginaire de Mallarmé）』（1961）の核心的分析：リシャールはこの詩を「軽さのトポロジー」として読む。煙・蒸気・空気・香り──マラルメ詩の「軽い物質（matière légère）」の系列の中で、煙草の煙は最も制御された上昇として際立つ。「Toute l'âme résumée」：魂と煙の同一視は、実体の希薄化──固体（葉巻）→液体（香り）→気体（煙）──という物質的変容の最終段階として詩が提示される。リシャールにとって、マラルメにおける「上昇（montée）」は常にそれが廃棄される瞬間との緊張において存在する：輪が次の輪に廃棄される「危機の美学」。"
     },
     {
       "paragraphId": 2,
       "type": "commentary",
       "anchor": "Brûlant savamment pour peu\nQue la cendre se sépare\nDe son clair baiser de feu",
-      "body": "「知的に燃えながら（Brûlant savamment）」——savamment（知的に・巧みに）：葉巻が「知っている」かのように燃える。詩の認識論的中心：燃焼という物理的過程が知的行為として提示される。「ただし灰がその明るい炎の口づけから分離してしまわないように（pour peu / Que la cendre se sépare / De son clair baiser de feu）」：pour peu que は「〜しないように」という否定的条件——燃焼が「正しく」行われる条件は「灰と炎が分離しないこと」。\nリシャール（1961）はここに「接触の詩学（poétique du contact）」を見る：baiser de feu（炎の口づけ）は灰と火の分離不可能な接触状態——詩的言語においては、音と意味、記号と指示対象が「まだ分離していない」状態が詩の条件。灰が落ちた瞬間（分離した瞬間）に意味の死が起きる。"
+      "body": "「知的に燃えながら（Brûlant savamment）」──savamment（知的に・巧みに）：葉巻が「知っている」かのように燃える。詩の認識論的中心：燃焼という物理的過程が知的行為として提示される。「ただし灰がその明るい炎の口づけから分離してしまわないように（pour peu / Que la cendre se sépare / De son clair baiser de feu）」：pour peu que は「〜しないように」という否定的条件──燃焼が「正しく」行われる条件は「灰と炎が分離しないこと」。\nリシャール（1961）はここに「接触の詩学（poétique du contact）」を見る：baiser de feu（炎の口づけ）は灰と火の分離不可能な接触状態──詩的言語においては、音と意味、記号と指示対象が「まだ分離していない」状態が詩の条件。灰が落ちた瞬間（分離した瞬間）に意味の死が起きる。"
     },
     {
       "paragraphId": 2,
       "type": "glossary",
       "anchor": "la cendre se sépare",
-      "body": "cendre（灰）——マラルメ詩学における「意味の残滓」の象徴。詩人の思考全体を通じて灰は「燃え終わった後に残るもの・完全に昇華されなかった残留物」として機能する。「Tombeau d'Edgar Poe」の「comme un noir vol de Blasphème épars dans le futur（未来に散らばる冒涜の黒い飛翔のように）」、「Toast funèbre」の「Il est caché parmi l'herbe（彼は草の中に隠れている）」——死後に残る言葉が灰として暗示される。この詩では「灰が分離する（la cendre se sépare）」という動作が「詩の失敗」の条件として提示される：完全な燃焼＝詩的昇華が達成された時、残滓（意味・概念・散文的内容）は灰として残ってはならない。"
+      "body": "cendre（灰）──マラルメ詩学における「意味の残滓」の象徴。詩人の思考全体を通じて灰は「燃え終わった後に残るもの・完全に昇華されなかった残留物」として機能する。「Tombeau d'Edgar Poe」の「comme un noir vol de Blasphème épars dans le futur（未来に散らばる冒涜の黒い飛翔のように）」、「Toast funèbre」の「Il est caché parmi l'herbe（彼は草の中に隠れている）」──死後に残る言葉が灰として暗示される。この詩では「灰が分離する（la cendre se sépare）」という動作が「詩の失敗」の条件として提示される：完全な燃焼＝詩的昇華が達成された時、残滓（意味・概念・散文的内容）は灰として残ってはならない。"
     },
     {
       "paragraphId": 3,
       "type": "commentary",
       "anchor": "Ainsi le chœur des romances\nÀ la lèvre vole-t-il",
-      "body": "§3で詩は葉巻・煙の比喩から「ロマンス（romances）」という詩の形式へと転換する。「chœur des romances（ロマンスたちの合唱）」——複数形・集合名詞：個々の歌でなく「歌の全体」が一つの合唱として唇へと飛ぶ（vole）。voler（飛ぶ）：煙が空気中を漂う運動と歌が唇から発せられる運動の同型。この転換が詩の構造的核心——葉巻が「魂の要約」として機能するのと同様に、ロマンスの合唱が「詩の魂」として唇へと凝縮されながら上昇する。ヴェルレーヌへの応答：「Art poétique」（1874）の「De la musique avant toute chose（何よりもまず音楽を）」という詩楽論への詩的応答として、マラルメはここで「音楽（唇の歌）」の成立条件を「実在の排除」に見出す。"
+      "body": "§3で詩は葉巻・煙の比喩から「ロマンス（romances）」という詩の形式へと転換する。「chœur des romances（ロマンスたちの合唱）」──複数形・集合名詞：個々の歌でなく「歌の全体」が一つの合唱として唇へと飛ぶ（vole）。voler（飛ぶ）：煙が空気中を漂う運動と歌が唇から発せられる運動の同型。この転換が詩の構造的核心──葉巻が「魂の要約」として機能するのと同様に、ロマンスの合唱が「詩の魂」として唇へと凝縮されながら上昇する。ヴェルレーヌへの応答：「Art poétique」（1874）の「De la musique avant toute chose（何よりもまず音楽を）」という詩楽論への詩的応答として、マラルメはここで「音楽（唇の歌）」の成立条件を「実在の排除」に見出す。"
     },
     {
       "paragraphId": 3,
       "type": "commentary",
       "anchor": "Exclus-en si tu commences\nLe réel parce que vil",
-      "body": "詩の倫理的命令：「そこから排除せよ……実在を——なぜなら卑しいから（Exclus-en si tu commences / Le réel parce que vil）」——exclus（排除せよ）は命令形。「tu（汝）」：詩人への直接的な呼びかけ、あるいは自己への命令。「le réel（実在・現実）」：マラルメにおける「現実」は常に詩の敵対物として機能する。「parce que vil（なぜなら卑しいから）」——vile（卑しい・低俗な）：この大胆な価値判断が詩学上の格言として機能する。ブランショ（『文学空間』1955）はこの行を参照しつつ論じる：詩的言語は対象の「現実性（réalité）」を否定することで機能する——言葉が薔薇を指すとき、薔薇はすでに「不在」として現前する。「Le réel parce que vil」とはすなわち「指示される対象の粗野な現在性（presence brute）」への拒絶であり、それが詩的昇華の前提条件。"
+      "body": "詩の倫理的命令：「そこから排除せよ……実在を──なぜなら卑しいから（Exclus-en si tu commences / Le réel parce que vil）」──exclus（排除せよ）は命令形。「tu（汝）」：詩人への直接的な呼びかけ、あるいは自己への命令。「le réel（実在・現実）」：マラルメにおける「現実」は常に詩の敵対物として機能する。「parce que vil（なぜなら卑しいから）」──vile（卑しい・低俗な）：この大胆な価値判断が詩学上の格言として機能する。ブランショ（『文学空間』1955）はこの行を参照しつつ論じる：詩的言語は対象の「現実性（réalité）」を否定することで機能する──言葉が薔薇を指すとき、薔薇はすでに「不在」として現前する。「Le réel parce que vil」とはすなわち「指示される対象の粗野な現在性（presence brute）」への拒絶であり、それが詩的昇華の前提条件。"
     },
     {
       "paragraphId": 3,
       "type": "intertextual",
       "anchor": "Exclus-en si tu commences\nLe réel parce que vil",
-      "body": "「危機de詩（mallarme_crise_de_vers）」との直接的連絡：「Je dis : une fleur ! et, hors de l'oubli où ma voix relègue aucun contour, en tant que quelque chose d'autre que les calices sus, musicalement se lève, idée même et suave, l'absente de tous bouquets（私は言う：一輪の花！ そして私の声がいかなる輪郭も追いやる忘却の外に、知られているがくではない何かとして、音楽的に立ち上がる、概念そのものが柔らかく、すべての花束から不在のものとして）」——「危機de詩」の「不在の花」がここでは「Le réel parce que vil」として否定的に定式化される。また「Mimique（mallarme_mimique）」の「rien n'aura eu lieu que le lieu（場所以外何も起きなかったであろう）」との連絡：詩的言語は「現実の出来事」の代わりに「純粋な出来事の可能性」を提示する。",
+      "body": "「危機de詩（mallarme_crise_de_vers）」との直接的連絡：「Je dis : une fleur ! et, hors de l'oubli où ma voix relègue aucun contour, en tant que quelque chose d'autre que les calices sus, musicalement se lève, idée même et suave, l'absente de tous bouquets（私は言う：一輪の花！ そして私の声がいかなる輪郭も追いやる忘却の外に、知られているがくではない何かとして、音楽的に立ち上がる、概念そのものが柔らかく、すべての花束から不在のものとして）」──「危機de詩」の「不在の花」がここでは「Le réel parce que vil」として否定的に定式化される。また「Mimique（mallarme_mimique）」の「rien n'aura eu lieu que le lieu（場所以外何も起きなかったであろう）」との連絡：詩的言語は「現実の出来事」の代わりに「純粋な出来事の可能性」を提示する。",
       "targetId": "mallarme_crise_de_vers",
       "targetParagraphId": null
     },
@@ -97,19 +97,19 @@
       "paragraphId": 4,
       "type": "commentary",
       "anchor": "Trop précis sens que tu fixes\nSur la disparition",
-      "body": "詩の中心概念「disparition（消滅・消え去り）」の登場。「あなたが消滅の上に固定させる過度に精確な意味（Trop précis sens que tu fixes / Sur la disparition）」：\n「fixes（固定する）」——概念や意味を固定・確定させようとする行為が詩の失敗の条件として提示される。「sur la disparition（消滅の上に）」：dispariton は「消え去ること・消滅」——詩的言語は消えていくもの（煙）の上に成立する。固定しようとする意志が「消滅」という詩的出来事を台無しにする。ブランショ（『来るべき書物 L'Espace littéraire』1955）のマラルメ論の核心：「詩人は消滅することによって詩になる（Le poète disparaît pour que la poésie apparaisse）」——disparition はマラルメ詩学における詩人の消去・自己消去と詩の出現の同時性を指す語として特権的な地位を持つ。"
+      "body": "詩の中心概念「disparition（消滅・消え去り）」の登場。「あなたが消滅の上に固定させる過度に精確な意味（Trop précis sens que tu fixes / Sur la disparition）」：\n「fixes（固定する）」──概念や意味を固定・確定させようとする行為が詩の失敗の条件として提示される。「sur la disparition（消滅の上に）」：dispariton は「消え去ること・消滅」──詩的言語は消えていくもの（煙）の上に成立する。固定しようとする意志が「消滅」という詩的出来事を台無しにする。ブランショ（『来るべき書物 L'Espace littéraire』1955）のマラルメ論の核心：「詩人は消滅することによって詩になる（Le poète disparaît pour que la poésie apparaisse）」──disparition はマラルメ詩学における詩人の消去・自己消去と詩の出現の同時性を指す語として特権的な地位を持つ。"
     },
     {
       "paragraphId": 4,
       "type": "commentary",
       "anchor": "Le sens trop précis rature\nTa vague littérature",
-      "body": "詩の最終2行にして全体の格言的集約：「過度に精確な意味は消し去る / あなたの漠然とした文学を（Le sens trop précis rature / Ta vague littérature）」。\n「rature（消し去る）」——rature は「訂正線・取り消し線」を意味する名詞が動詞化したもの：意味が文学を「消去する」。これは書くことの矛盾——意味を与えようとする行為が文学を消してしまう——の格言的表現。「vague littérature（漠然とした文学）」：vague（漠然とした・曖昧な）は通常は否定語として使われるが、ここでは逆に詩的文学の本質として肯定される。「漠然と」あること——確定を拒否すること——が詩の条件。\nリシャール（1961）はこの結末に「空白の詩学（poétique du blanc）」の命題形を見る：明確な輪郭を持つ言語（sens trop précis）が詩的「薄明（vague）」を破壊する——「Un Coup de Dés」の白（空白）が最終的にこの命題の視覚的実践となる。"
+      "body": "詩の最終2行にして全体の格言的集約：「過度に精確な意味は消し去る / あなたの漠然とした文学を（Le sens trop précis rature / Ta vague littérature）」。\n「rature（消し去る）」──rature は「訂正線・取り消し線」を意味する名詞が動詞化したもの：意味が文学を「消去する」。これは書くことの矛盾──意味を与えようとする行為が文学を消してしまう──の格言的表現。「vague littérature（漠然とした文学）」：vague（漠然とした・曖昧な）は通常は否定語として使われるが、ここでは逆に詩的文学の本質として肯定される。「漠然と」あること──確定を拒否すること──が詩の条件。\nリシャール（1961）はこの結末に「空白の詩学（poétique du blanc）」の命題形を見る：明確な輪郭を持つ言語（sens trop précis）が詩的「薄明（vague）」を破壊する──「Un Coup de Dés」の白（空白）が最終的にこの命題の視覚的実践となる。"
     },
     {
       "paragraphId": 4,
       "type": "intertextual",
       "anchor": "Trop précis sens que tu fixes\nSur la disparition\nLe sens trop précis rature\nTa vague littérature",
-      "body": "マラルメ「クリーズ・ド・ヴェール（mallarme_crise_de_vers）」および「ソネット・アレゴリーク（mallarme_sonnet_yx）」との三詩的連環：\n• 「危機de詩」：「名付けることは……詩的享受の四分の三を消し去る（nommer un objet, c'est supprimer les trois quarts de la jouissance du poème）」——sens trop précis の禁止命題が散文で展開される\n• 「ソネットYX」：存在しない語 ptyx によって「ゼロの指示対象（referent nul）」が詩の中心に置かれる実践——固定された意味を持たない語が詩を成立させる\n• 「骰子一擲」：大文字・空白・字体変化によって「意味の固定」そのものを版面の上で廃棄する最終的実践\nこの詩はその最も凝縮された格言的形態として、三テクストの詩学的核心を8行に要約する。",
+      "body": "マラルメ「クリーズ・ド・ヴェール（mallarme_crise_de_vers）」および「ソネット・アレゴリーク（mallarme_sonnet_yx）」との三詩的連環：\n• 「危機de詩」：「名付けることは……詩的享受の四分の三を消し去る（nommer un objet, c'est supprimer les trois quarts de la jouissance du poème）」──sens trop précis の禁止命題が散文で展開される\n• 「ソネットYX」：存在しない語 ptyx によって「ゼロの指示対象（referent nul）」が詩の中心に置かれる実践──固定された意味を持たない語が詩を成立させる\n• 「骰子一擲」：大文字・空白・字体変化によって「意味の固定」そのものを版面の上で廃棄する最終的実践\nこの詩はその最も凝縮された格言的形態として、三テクストの詩学的核心を8行に要約する。",
       "targetId": "mallarme_coup_de_des",
       "targetParagraphId": null
     },
@@ -117,7 +117,7 @@
       "paragraphId": 4,
       "type": "commentary",
       "anchor": "Ta vague littérature",
-      "body": "ブランショ（『文学空間 L'Espace littéraire』1955）によるマラルメ解釈の全体と「vague littérature」の関係：ブランショにとって、マラルメの詩学的核心は「書くことの不可能性と可能性の同時性」にある。「vague（漠然とした）」はブランショ的意味での「中性（neutre）」——肯定でも否定でもない第三の次元——として読み直せる。「Le sens trop précis rature / Ta vague littérature」：意味の確定が文学を「傷つける（rature）」という認識は、ブランショが「文学の経験とは本質的に不安定な経験である」と論じた主題と一致する。詩は「何かについて語る」ことではなく「語ること自体の開かれ（ouverture）」として機能する——「vague（漠然）」はその開かれの名前。"
+      "body": "ブランショ（『文学空間 L'Espace littéraire』1955）によるマラルメ解釈の全体と「vague littérature」の関係：ブランショにとって、マラルメの詩学的核心は「書くことの不可能性と可能性の同時性」にある。「vague（漠然とした）」はブランショ的意味での「中性（neutre）」──肯定でも否定でもない第三の次元──として読み直せる。「Le sens trop précis rature / Ta vague littérature」：意味の確定が文学を「傷つける（rature）」という認識は、ブランショが「文学の経験とは本質的に不安定な経験である」と論じた主題と一致する。詩は「何かについて語る」ことではなく「語ること自体の開かれ（ouverture）」として機能する──「vague（漠然）」はその開かれの名前。"
     }
   ]
 }
