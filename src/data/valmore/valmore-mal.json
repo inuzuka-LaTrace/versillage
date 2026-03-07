@@ -2,64 +2,91 @@
   "id": "valmore_mal_du_pays",
   "title": "Le Mal du pays",
   "author": "Marceline Desbordes-Valmore",
-  "source": "Bouquets et Prières",
+  "source": "Bouquets et Prières, Dumont, Paris, 1843. 照合出典: Œuvres poétiques, Gallimard / Bibliothèque de la Pléiade, 1983; wikisource.org; poetes.com.",
   "year": "1843",
+  "firstPublication": "Bouquets et Prières, Dumont, Paris, 1843",
   "difficulty": "中級",
   "category": "valmore",
+  "originalLang": "fr-FR",
   "modernRelevance": "★★★☆☆",
-  "context": "故郷ドゥエへの望郷を歌う。ヴァルモール夫人は生涯を旅芸人・女優として各地を転々とした。「mal du pays」（望郷病）という語は、スイス傭兵が故郷を恋しがって死んだという逸話に由来する。地名・自然の具体的描写と感情が一体化した詩。",
-  "keywords": ["pays natal", "Douai", "nostalgie", "exil", "nature"],
-  "relatedTexts": ["valmore_chambre", "valmore_roses"],
+  "context": "1843年刊行の詩集『花束と祈り』に収録。ヴァルモール（1786〜1859）はフランス北部の都市ドゥエ（Douai）生まれ。女優・歌手として生涯を各地で過ごし、リヨン・ミラノ・ボルドー・パリと転々とした。「mal du pays（故郷病・望郷病）」はスイス傭兵が故郷のアルプスを恋しがって命を落としたという伝説に由来する医学的概念（ノスタルジア）で、18〜19世紀に流通した。全10行・アレクサンドラン（12音節）、連句韻（AA BB CC DD EE）の5対二行連句だが、意味の呼吸は前半5行（呼びかけと現在の距離）と後半5行（ドゥエの視覚的記憶と問い）の二段構造をなす。",
+  "keywords": ["故郷", "ドゥエ", "ノスタルジア", "流浪", "視覚的記憶", "母", "命"],
+  "relatedTexts": [
+    "valmore_chambre",
+    "valmore_les_roses_de_saadi",
+    "valmore_reve_intermittent",
+    "verlaine_poetes_maudits_valmore"
+  ],
   "paragraphs": [
     {
       "id": 1,
-      "french": "Douce France ! à ce nom mon âme se ranime,",
-      "officialTranslation": "優しきフランスよ！ この名に私の魂は蘇る、"
+      "french": "Douce France ! à ce nom mon âme se ranime,\nEt je veux retourner vers ta verte limite !\nNon ! je suis loin de toi ; mon mal est accompli,\nEt mon cœur, de tes champs, a gardé l'infini.",
+      "provisionalTranslation": "優しきフランスよ！ この名に私の魂は蘇る、\nそしてあなたの緑の境界へと戻りたい！\nいや！ 私はあなたから遠い；私の病は完成している、\nそして私の心は、あなたの野原の、無限を保ち続けている。"
     },
     {
       "id": 2,
-      "french": "Et je veux retourner vers ta verte limite !",
-      "officialTranslation": "そしてあなたの緑の境界へと戻りたい！"
+      "french": "Je vois jusqu'à Douai ! j'en revois les campagnes,\nLes moulins, les beffrois, les rivières, les plaines,\nLes doux chemins couverts de lilas et de fleurs\nQui menaient à l'école en retenant mes pleurs.\nÔ pays ! ô doux nom ! ô ma mère ! ô ma vie !\nVous qui m'avez formée, est-ce que je vous oublie ?",
+      "provisionalTranslation": "ドゥエまで見える！ あの田園地帯を再び見る、\n風車、鐘楼、川、平原、\nライラックと花に覆われた柔らかな道\n涙をこらえながら学校へと続いていた道を。\nおお故郷よ！ おお優しい名よ！ おお母よ！ おお命よ！\n私を形作ってくれたあなたたちを、私は忘れるのだろうか？"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "prosody",
+      "anchor": null,
+      "body": "アレクサンドラン（12音節）10行、連句韻（rimes plates：AA BB CC DD EE）：ranime/limite（A）、accompli/infini（B）、campagnes/plaines（C）、fleurs/pleurs（D）、vie/oublie（E）。連句韻は詩行が二行ずつ完結する「水平的・前進的」な運動を作り出すが、ヴァルモールはそこに「呼びかけ→否定→記憶→感嘆」という感情的急転換を埋め込む──形式の滑らかさと感情の不連続が緊張を生む。段落分割は韻型（5対二行連句）と意味の呼吸（前半5行＝現在の距離、後半6行＝記憶と問い）の両者を考慮し、二段構造を採用。"
     },
     {
-      "id": 3,
-      "french": "Non ! je suis loin de toi ; mon mal est accompli,",
-      "officialTranslation": "いや！ 私はあなたから遠い；私の病は完成している、"
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "Douce France ! à ce nom mon âme se ranime,\nEt je veux retourner vers ta verte limite !",
+      "body": "冒頭の呼格「Douce France !（優しきフランスよ！）」──国名への呼びかけは国土の擬人化。「douce（優しい・甘い）」という形容詞：感覚的な柔らかさ、「verte limite（緑の境界）」という視覚的・空間的な定義と対応する。「à ce nom mon âme se ranimer（この名に魂が蘇る）」：名前を聞くだけで魂が「再び生きる（se ranimer：再活性化する）」──語の音が身体的変化を引き起こすという詩的認識。「je veux retourner（戻りたい）」という現在形の意志：vouloir（〜したい）という欲望動詞が、次行の「Non !（いや！）」という即座の否定によって打ち消される。"
     },
     {
-      "id": 4,
-      "french": "Et mon cœur, de tes champs, a gardé l'infini.",
-      "officialTranslation": "そして私の心は、あなたの野原の、無限を保ち続けている。"
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "Non ! je suis loin de toi ; mon mal est accompli,\nEt mon cœur, de tes champs, a gardé l'infini.",
+      "body": "「Non !（いや！）」の急転換──詩人自身が欲望に否を突きつける。「mon mal est accompli（私の病は完成している）」──accompli（完成した・成就した）という語の二義性：「病が完成する」という通常とは逆の方向性。mal du pays（望郷病）が「完成状態」として提示されることで、病が治癒不可能な完結した状態であることが示される。「Et mon cœur, de tes champs, a gardé l'infini（私の心はあなたの野原の無限を保ち続けている）」──「Les Roses de Saadi」の §1「Qu'en avez-vous fait」で語られる「心の交換」に対し、ここでは「野原の無限」が心の中に永続的に保持されている。de tes champs のコンマ二つによる挿入句：野原（champs）という具体物から「無限（infini）」が抽出されるという認識の動きを句読点が体現する。"
     },
     {
-      "id": 5,
-      "french": "Je vois jusqu'à Douai ! j'en revois les campagnes,",
-      "officialTranslation": "ドゥエまで見える！ あの田園地帯を再び見る、"
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "Je vois jusqu'à Douai ! j'en revois les campagnes,\nLes moulins, les beffrois, les rivières, les plaines,",
+      "body": "「Je vois jusqu'à Douai !（ドゥエまで見える！）」──現在形の voir：遠くにいながら「今」見えるという視覚の超越。感嘆符がこの異常な視覚能力への驚きを示す。「j'en revois（再び見る）」：re-（再び）が過去の記憶の現前化を示す。行6の列挙「Les moulins, les beffrois, les rivières, les plaines（風車、鐘楼、川、平原）」──四要素を定冠詞 les で連ねる。「les + 名詞」という定冠詞の反復列挙：それぞれが既知の・親しい・特定のものとして提示される──記憶の中の風景は固有性を持つ。beffroi（鐘楼）：北フランス・フランドル地方の都市の象徴的建築。ドゥエ（Douai）はベルギー国境近くのフランドル文化圏の都市で、鐘楼が都市景観の中心をなす。"
     },
     {
-      "id": 6,
-      "french": "Les moulins, les beffrois, les rivières, les plaines,",
-      "officialTranslation": "風車、鐘楼、川、平原、"
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "Les doux chemins couverts de lilas et de fleurs\nQui menaient à l'école en retenant mes pleurs.",
+      "body": "「ライラックと花に覆われた柔らかな道（Les doux chemins couverts de lilas et de fleurs）」──感覚的記憶の精緻化：doux（柔らかな）という触覚語、lilas（ライラック）という嗅覚語が道という空間に集まる。「L'école（学校）」：子供時代の具体的な場所──この一語がドゥエの記憶を「子供の私の記憶」として確定する。「en retenant mes pleurs（涙をこらえながら）」：retenir ses pleurs（涙を抑える）という身体的行為──学校へ行く恐怖・悲しみ・別れの感情を涙として抑えながら歩く幼い詩人の姿。この一行が「望郷の詩」を「子供の記憶の詩」として内的深化させる：懐かしいのは美しい風景だけでなく「涙をこらえた自分」まで含む。"
     },
     {
-      "id": 7,
-      "french": "Les doux chemins couverts de lilas et de fleurs",
-      "officialTranslation": "ライラックと花に覆われた柔らかな道"
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "Ô pays ! ô doux nom ! ô ma mère ! ô ma vie !\nVous qui m'avez formée, est-ce que je vous oublie ?",
+      "body": "詩の結末：「Ô pays ! ô doux nom ! ô ma mère ! ô ma vie !（おお故郷！おお優しい名！おお母！おお命！）」──ô の四連打による感嘆的呼格の頂点。故郷→名前→母→命という四段階の拡大：具体（場所）→抽象（名前）→人（母）→存在全体（命）へと拡がる。「pays / doux nom」は§1冒頭の「Douce France ! à ce nom（この名に）」を「doux nom（優しい名）」として内的に反復する──詩の始まりと終わりが「名前」で対称的に括られる。最終行「Vous qui m'avez formée, est-ce que je vous oublie ?（私を形作ってくれたあなたたちを、私は忘れるのだろうか？）」──m'avez formée（私を形作った）：故郷・母・生命がまとめて「私を作ったもの」として括られる。修辞的疑問文（答えは「いや、忘れない」）──しかしその「いや」は言われず、問いとして開かれたまま詩が閉じる。"
     },
     {
-      "id": 8,
-      "french": "Qui menaient à l'école en retenant mes pleurs.",
-      "officialTranslation": "涙をこらえながら学校へと続いていた道を。"
+      "paragraphId": 2,
+      "type": "glossary",
+      "anchor": "les beffrois",
+      "body": "beffroi（ベフロワ）：中世北フランス・フランドル地方の都市に建てられた市民的鐘楼。教会の鐘楼と異なり、都市の自治・独立の象徴として市庁舎に附属することが多い。ドゥエの beffroi は1390年建設、ユネスコ世界遺産「ベルギーとフランスの鐘楼群」（2005年登録）の一つ。この一語が詩の地理的特定性を担う：「川・平原」という一般的な自然描写の中に「鐘楼」という北フランス固有の都市要素が挿入されることで、ドゥエという場所の固有性が確保される。"
     },
     {
-      "id": 9,
-      "french": "Ô pays ! ô doux nom ! ô ma mère ! ô ma vie !",
-      "officialTranslation": "おお故郷よ！ おお優しい名よ！ おお母よ！ おお命よ！"
+      "paragraphId": 1,
+      "type": "intertextual",
+      "anchor": "mon mal est accompli",
+      "body": "「Rêve intermittent d'une nuit triste」（valmore_reve_intermittent）との比較：両詩とも「遠くにあるもの（母・故郷）への呼びかけ」を主題とし、「Viens, ô ma mère !（来て、おお母よ！）」対「Ô ma mère !（おお母よ！）」という感嘆的呼格が対応する。しかし「Rêve intermittent」では母が「影（ombre）」として半実在化するのに対し、「Le Mal du pays」では故郷が「今も見える視覚的記憶」として現前化する──失われたものへのアクセス方法の差異：夢（夜の意識）vs 記憶の視覚化（昼の覚醒状態）。",
+      "targetId": "valmore_reve_intermittent",
+      "targetParagraphId": null
     },
     {
-      "id": 10,
-      "french": "Vous qui m'avez formée, est-ce que je vous oublie ?",
-      "officialTranslation": "私を形作ってくれたあなたたちを、私は忘れるのだろうか？"
+      "paragraphId": 2,
+      "type": "intertextual",
+      "anchor": "Ô pays ! ô doux nom ! ô ma mère ! ô ma vie !",
+      "body": "「La Couronne effeuillée」（valmore_couronne）の「à mon faible cœur（弱い私の心に）」との比較：「La Couronne」が内部への対話（自己の心との問答）として始まるのに対し、「Le Mal du pays」は外部への呼びかけ（故郷・母・命という外的対象への感嘆）として始まり、終わる。ヴァルモールの対話詩学の二つの方向性──内向（自己の心）と外向（故郷・母・失われた対象）──が、これら二詩に典型的に現れる。また「ô ma mère」は「Rêve intermittent」冒頭「ô ma mère」と同一の呼びかけ形式：失われた母が詩集全体の通奏低音として機能している。",
+      "targetId": "valmore_couronne",
+      "targetParagraphId": null
     }
   ]
 }
