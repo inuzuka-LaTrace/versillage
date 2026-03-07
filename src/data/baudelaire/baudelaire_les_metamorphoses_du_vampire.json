@@ -1,0 +1,148 @@
+{
+  "id": "baudelaire_les_metamorphoses_du_vampire",
+  "title": "Les Métamorphoses du Vampire",
+  "author": "Charles Baudelaire",
+  "source": "Les Fleurs du Mal, Michel Lévy frères, Paris, 1857 (初版収録後、同年検察により削除命令。復元収録: Les Épaves, Amsterdam [実際はブリュッセル], 1866; Les Fleurs du Mal édition définitive posthume, 1868). 照合出典: Œuvres complètes, Bibliothèque de la Pléiade, Gallimard, 1975; poetica.fr.",
+  "year": "1857",
+  "firstPublication": "Les Fleurs du Mal, Michel Lévy frères, Paris, 1857（同年6月25日に第2審院（Tribunal correctionnel）により「良俗を害する」として有罪判決・削除命令。1949年に判決破棄）",
+  "difficulty": "上級",
+  "category": "baudelaire",
+  "originalLang": "fr-FR",
+  "modernRelevance": "★★★★★",
+  "context": "『悪の華』初版（1857）収録後、同年8月の裁判で猥褻罪として「Le Léthé」「À celle qui est trop gaie」「Lesbos」「Femmes Damnées（Delphine et Hippolyte）」「Les Bijoux」とともに削除された6篇の一つ。1866年の詩集『残滓（Les Épaves）』で復刻、1949年に裁判判決自体が破棄された。「Le Vampire」（XL番）と対をなす連作：前詩が吸血鬼に支配される話者の自己告白であるのに対し、本詩は吸血鬼の官能的誘惑とその崩壊──肉体の変容（métamorphoses）──を描く。12音節アレクサンドランの6連構成。官能描写と腐敗描写の極端な落差が裁判の原因となった。",
+  "keywords": ["吸血鬼", "官能", "腐敗", "変身", "検閲", "悪の華", "肉体の幻滅", "Les Épaves"],
+  "relatedTexts": [
+    "baudelaire_le_vampire",
+    "baudelaire_une_charogne",
+    "baudelaire_femmes_damnees",
+    "baudelaire_spleen",
+    "swinburne_anactoria"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "french": "La femme cependant, de sa bouche de fraise,\nEn se tordant ainsi qu'un serpent sur la braise,\nEt pétrissant ses seins sur le fer de son busc,\nLaissait couler ces mots tout imprégnés de musc :",
+      "provisionalTranslation": "女は、その苺色の口から、\n炭火の上の蛇のようにのたうちながら、\nコルセットの鉄骨に乳房を押し当てて揉みながら、\n麝香に浸された次の言葉を流れ出させた："
+    },
+    {
+      "id": 2,
+      "french": "« Moi, j'ai la lèvre humide, et je sais la science\nDe perdre au fond d'un lit l'antique conscience !\nJe sèche tous les pleurs sur mes seins triomphants,\nEt fais rire les vieux du rire des enfants.",
+      "provisionalTranslation": "「私は唇が潤い、寝床の奥深くで\n古い良心を滅ぼす術を知っている！\n私は勝利の胸に涙を全て乾かし、\n老人たちを子供の笑いで笑わせる。"
+    },
+    {
+      "id": 3,
+      "french": "Je remplace, pour qui me voit nue et sans voiles,\nLa lune, le soleil, le ciel et les étoiles !\nJe suis, mon cher savant, si docte aux voluptés,\nLorsque j'étouffe un homme en mes bras veloutés,",
+      "provisionalTranslation": "私は、私を裸で傍紗もなく見る者にとって、\n月と太陽と空と星を置き換える！\n私は、親愛なる学識者よ、官能の快楽に精通しており、\n私のビロードのような腕で男を窒息させるとき、"
+    },
+    {
+      "id": 4,
+      "french": "Ou lorsque j'abandonne aux morsures ma gorge,\nEt qu'impatients, les cousins jaloux de Borgia,\nSur ce sein où mon cœur toujours batte et batte,\nSentent passer la langue et mordre l'aspic âtre. »",
+      "provisionalTranslation": "あるいは嚙みつきに喉を委ねるとき、\nそして、ボルジア家に嫉妬する苛立った従兄弟たちが、\n私の心臓が常に打ち続けるこの胸の上で、\n暗い毒蛇の舌と牙を感じるとき。」"
+    },
+    {
+      "id": 5,
+      "french": "Quand elle eut de mes os sucé toute la moelle,\nEt que languissamment je me tournai vers elle\nPour lui rendre un baiser d'amour, je ne vis plus\nQu'une outre aux flancs gluants, toute pleine de pus !",
+      "provisionalTranslation": "彼女が私の骨から骨髄を全て吸い尽くし、\n私が気だるく彼女の方を向いて\n愛のキスを返そうとしたとき、私はもはや見た、\nただ膿で一杯に満ちた、脇腹がべとついた皮袋を！"
+    },
+    {
+      "id": 6,
+      "french": "Je fermai les deux yeux, dans ma froide épouvante,\nEt quand je les rouvris à la clarté vivante,\nÀ mes côtés, au lieu du mannequin puissant\nQui semblait avoir fait provision de sang,",
+      "provisionalTranslation": "私は冷たい恐怖の中で両目を閉じた、\nそして生き生きとした明るさの中でそれを再び開けると、\n私の傍らには、血を蓄えたかのように見えた\nあの力強い人形の代わりに、"
+    },
+    {
+      "id": 7,
+      "french": "Je trouvai un débris d'ossements, grinçant, frileux,\nComme une girouette ou comme une enseigne,\nAu bout d'une vergue agitée par les vents,\nQui tourne et se retourne ainsi qu'une méduse en deuil.",
+      "provisionalTranslation": "私は骨の残骸を見つけた、きしみながら、寒気に震え、\n風見鶏のように、あるいは看板のように、\n風に揺れるヤードの端で、\n喪に服したクラゲのように回転し揺れ動いていた。"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "prosody",
+      "anchor": null,
+      "body": "12音節アレクサンドラン（alexandrin）による7連・28行詩。押韻は AABB 連韻（rimes plates）──交差韻でなく対韻を選ぶことで、女の雄弁（§1〜4の台詞連鎖）が滑らかに流れ、官能的魅惑の「持続性」を演出する。第5連（§5）で突然の転換：台詞が終わり「彼女が骨髄を吸い尽くした」という過去形の事後描写に入る。この構文的転換が官能から腐敗への「変身（métamorphoses）」の詩的な境界線。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "de sa bouche de fraise,\nEn se tordant ainsi qu'un serpent sur la braise",
+      "body": "詩の冒頭三行の密度：「苺色の口（bouche de fraise）」は官能的な赤さ、「炭火の上の蛇のようにのたうつ（se tordant ainsi qu'un serpent sur la braise）」はエデンの誘惑蛇の召喚と苦悩の身体的表現の重合。コルセットの鉄骨（fer du busc）に乳房を押し当てる描写：近代都市の女性身体の人工的・道具的側面──ファッションと肉体の交錯。ここで語り手はまだ主体を持つが、女の台詞が始まると語り手は沈黙する（§2〜4）。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "glossary",
+      "anchor": "musc",
+      "body": "musc（麝香）：ジャコウジカの分泌腺から採取される動物性香料。官能的・異国的・肉体的な香りの代名詞。ボードレールの詩では musc は繰り返し官能性・南国・肉体の記号として機能する（「美への讃歌 À la Beauté」「異国の香り Parfum exotique」など）。「musc に浸された言葉（mots tout imprégnés de musc）」──言葉が香りを帯びる：共感覚的表現であり、ボードレール「照応（Correspondances）」の詩学の具体化。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "la science\nDe perdre au fond d'un lit l'antique conscience",
+      "body": "「寝床の奥深くで古い良心を滅ぼす術（science de perdre... l'antique conscience）」──検察がこの詩を告発した核心部分の一つ。conscience（意識・良心）の喪失という主題は道徳的・精神的損壊として読める。「antique（古い・古典的）」という形容詞が興味深い：道徳的良心に「古さ」の価値を与えることで、女はそれを廃棄すべき旧弊として位置づける──良心の転覆というイデオロギー的逆転。"
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "Je remplace, pour qui me voit nue et sans voiles,\nLa lune, le soleil, le ciel et les étoiles !",
+      "body": "「月と太陽と空と星を置き換える」──女の全宇宙的な自己主張。この誇張（hyperbole）は官能の無限性を主張すると同時に、宗教的・宇宙論的な崇拝対象の代替としての女体という思想を表明する。「voiles（ヴェール）なく」：veil は比喩的にも「虚偽・幻想の薄膜」──ヴェールを取り去ることで「真実の官能」が宇宙を置き換える。ボードレール『現代生活の画家』での「女性＝ヴィーナス＝宇宙の要素」論との連絡。"
+    },
+    {
+      "paragraphId": 4,
+      "type": "glossary",
+      "anchor": "les cousins jaloux de Borgia",
+      "body": "Borgia（ボルジア家）：15〜16世紀イタリアの貴族家系。ロドリーゴ・ボルジア（教皇アレクサンデル6世）とその子チェーザレ・ボルジアが毒殺・暗殺の達人として悪名高く、ルネサンス期の権力と腐敗の象徴。「ボルジア家に嫉妬する従兄弟（cousins jaloux de Borgia）」──毒蛇・毒殺への比喩で、首筋への吸血行為を暗示。Borgia の登場は詩の快楽の暗い歴史的来歴を示す：官能は常に権力・死・毒と連結している。"
+    },
+    {
+      "paragraphId": 4,
+      "type": "glossary",
+      "anchor": "l'aspic âtre",
+      "body": "aspic（アスピック）：エジプトコブラ（Naja haje）の古名。クレオパトラが自殺に用いたとされる毒蛇で、愛と死の連結の象徴として古典文学・ルネサンス文学に頻出。âtre（暗黒の・不吉な）という古語的形容詞が蛇の「舌と牙（langue et morsure）」と組み合わさり、吸血の毒性を前景化する。女の台詞（§2〜4）がここで終わるが、最後の言葉が「毒蛇（aspic）」──台詞の終焉が毒の注入として構造化される。"
+    },
+    {
+      "paragraphId": 5,
+      "type": "commentary",
+      "anchor": "Quand elle eut de mes os sucé toute la moelle",
+      "body": "「彼女が私の骨から骨髄を全て吸い尽くした（Quand elle eut... sucé toute la moelle）」──詩の最大の転換点。sucer（吸う）という語が吸血行為を直接名指す。骨髄（moelle）は生命力・性的活力・中心核の象徴。「すべて（toute）」という全体性の強調：完全な枯渇、生命の完全な搾取。この一行で女は官能の提供者から生命の略奪者へと変容する──「変身（métamorphoses）」の詩的核心。"
+    },
+    {
+      "paragraphId": 5,
+      "type": "commentary",
+      "anchor": "une outre aux flancs gluants, toute pleine de pus",
+      "body": "「膿で一杯の、脇腹がべとついた皮袋（outre aux flancs gluants, toute pleine de pus）」──詩の最大の衝撃語。outre は水・ワインを入れる動物の皮の袋（革袋）。宇宙を置き換えると豪語した女体が革袋・膿の容器へと転落する。この官能から腐敗への「変身」が詩のタイトル「Métamorphoses」の本義：女体は空虚な容器にすぎず、その「充填物」は最終的に膿であることが明かされる。1857年の裁判でこの連とともに§1の官能描写が「猥褻」と認定された。"
+    },
+    {
+      "paragraphId": 6,
+      "type": "commentary",
+      "anchor": "Je fermai les deux yeux, dans ma froide épouvante",
+      "body": "「冷たい恐怖の中で両目を閉じた」──語り手の視覚的行為が感情状態の境界を刻む。「froide（冷たい）」という形容詞：恐怖が熱的ではなく冷的──快楽の熱から恐怖の冷へ。目を閉じ再び開くという動作が「変身の目撃」の構造：目を開けた時に変身は完了している──語り手は変身の過程を見ず、結果のみを見る。「clarté vivante（生き生きとした明るさ）」という皮肉：明るさの中で腐敗が明かされる。"
+    },
+    {
+      "paragraphId": 7,
+      "type": "commentary",
+      "anchor": "un débris d'ossements, grinçant, frileux,\nComme une girouette ou comme une enseigne",
+      "body": "「骨の残骸、きしみながら、寒気に震え、風見鶏のように」──詩の最終イメージの複層性。girouette（風見鶏）：風向きに従って回る──無意志的・無主体的。enseigne（看板）：商業的標識──かつて宇宙を「置き換える」と言った女体が今や店の看板に格下げされる。「喪に服したクラゲ（méduse en deuil）」：méduse はギリシア神話のメドゥーサ（見た者を石に変える怪物）でもあり、クラゲ（medusa）でもある──両義性。「喪（deuil）」という語が詩を閉じる：官能の死の喪。"
+    },
+    {
+      "paragraphId": 5,
+      "type": "intertextual",
+      "anchor": "Quand elle eut de mes os sucé toute la moelle",
+      "body": "「ユマ・シャロニュ（Une Charogne）」（baudelaire_une_charogne）との対比：両詩とも女性の肉体と腐敗・骸骨を結びつけるが、「シャロニュ」では語り手が恋人に「君もこうなる」と告げる外部的観察の立場であるのに対し、「ヴァンパイアの変身」では語り手自身が吸血の被害者として腐敗を経験する──主体の位置が逆転。腐敗のエロス化というボードレールの一貫したテーマを、異なる視点から二重に提示している。",
+      "targetId": "baudelaire_une_charogne",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 1,
+      "type": "intertextual",
+      "anchor": null,
+      "body": "「Le Vampire」（baudelaire_le_vampire）との連作関係：「Le Vampire」が吸血鬼に呪縛された状態の告白・意志の麻痺を描くのに対し、「Les Métamorphoses」は吸血鬼の官能的誘惑→搾取→腐敗という「変身」の過程を描く。両詩は1857年版で連続収録（XL番・XLII番）されていたが、検閲により「Les Métamorphoses」のみ削除されたことで連作の意図が遮断された。併読することで「呪縛の構造」と「幻滅の過程」が補完的に現れる。",
+      "targetId": "baudelaire_le_vampire",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 7,
+      "type": "prosody",
+      "anchor": "méduse en deuil",
+      "body": "詩の最終語「méduse en deuil（喪に服したクラゲ）」の音響：「méduse」はラテン語 medusa から、「deuil」は古フランス語 doel（dolor）から──ラテン的硬さとフランス語的柔らかさの衝突。アレクサンドランの12音節をギリギリまで使い切る最終行：「Qui tourne et se retourne ainsi qu'une méduse en deuil」（12音節）。骨の残骸が「回転し揺れる（tourne et se retourne）」という不断の運動の動詞が、死後も止まらない腐敗の動性を示す。"
+    }
+  ]
+}
