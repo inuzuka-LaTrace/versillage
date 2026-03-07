@@ -7,6 +7,7 @@ import {
   ChevronRight, ChevronDown,
   X, Check, Tag,
   GraduationCap, RotateCcw, ThumbsUp, ThumbsDown, Shuffle,
+  Clock, ExternalLink, PenLine,
 } from 'lucide-react';
 import racineData from './data/racine';
 import mallarmeData from './data/mallarme';
@@ -788,6 +789,19 @@ export default function App() {
     const key = fcParaKey(card.textId, card.paraId);
     saveSrs(key, status);
     setFcSessionResult(prev => ({ ...prev, [key]: status }));
+
+    // 'again' 判定はカードをデッキ末尾に再追加（無限ループ防止：既にキューにあれば追加しない）
+    if (status === 'again') {
+      setFcCards(prev => {
+        const next = [...prev];
+        const alreadyQueued = next.slice(fcIndex + 1).some(
+          c => fcParaKey(c.textId, c.paraId) === key
+        );
+        if (!alreadyQueued) next.push({ ...card, isRetry: true });
+        return next;
+      });
+    }
+
     if (fcIndex + 1 >= fcCards.length) {
       setFcFinished(true);
     } else {
@@ -801,18 +815,25 @@ export default function App() {
     const allTextsArr = Object.values(texts);
     const categories_fc = [...new Set(allTextsArr.map(t => t.category))].sort();
 
-    // キーボード操作
+    // インライン訳文入力用ローカルstate
+    const [fcInlineEdit, setFcInlineEdit] = React.useState(false);
+    const [fcInlineDraft, setFcInlineDraft] = React.useState('');
+    // 注釈表示トグル
+    const [fcShowAnnotation, setFcShowAnnotation] = React.useState(false);
+
+    // キーボード操作（スペース→裏表示、矢印→判定）
     React.useEffect(() => {
       const handler = (e) => {
         if (!showFlashcard) return;
         if (fcFinished) return;
+        if (fcInlineEdit) return; // 入力中はキー操作無効
         if (e.code === 'Space') { e.preventDefault(); if (!fcFlipped) setFcFlipped(true); }
         if (e.code === 'ArrowRight' && fcFlipped) fcJudge('good');
         if (e.code === 'ArrowLeft'  && fcFlipped) fcJudge('again');
       };
       window.addEventListener('keydown', handler);
       return () => window.removeEventListener('keydown', handler);
-    }, [showFlashcard, fcFlipped, fcFinished, fcIndex]);
+    }, [showFlashcard, fcFlipped, fcFinished, fcIndex, fcInlineEdit]);
 
     const card = fcCards[fcIndex];
     const goodCount  = Object.values(fcSessionResult).filter(v => v === 'good').length;
@@ -959,111 +980,236 @@ export default function App() {
             {fcCards.length > 0 && !fcFinished && card && (
               <>
                 {/* 進捗バー */}
-                <div className={`w-full h-1 rounded-full ${darkMode ? 'bg-zinc-800' : 'bg-stone-200'}`}>
-                  <div className="h-1 rounded-full bg-amber-500 transition-all"
-                    style={{ width: `${(fcIndex / fcCards.length) * 100}%` }} />
+                <div className={`w-full h-1.5 rounded-full ${darkMode ? 'bg-zinc-800' : 'bg-stone-200'}`}>
+                  <div className="h-1.5 rounded-full bg-amber-500 transition-all"
+                    style={{ width: `${((fcIndex) / fcCards.length) * 100}%` }} />
                 </div>
 
-                {/* テキスト情報 */}
-                <div className={`flex items-center gap-2 text-xs font-sans ${textSecondary}`}>
-                  <span className={`px-1.5 py-0.5 rounded ${authorColor(texts[card.textId]?.category || '')}`}>
-                    {catShort[texts[card.textId]?.category] || ''}
-                  </span>
-                  <span className="opacity-60">{card.textAuthor}</span>
-                  <span className="opacity-40">·</span>
-                  <span className="opacity-70 font-serif">{card.textTitle}</span>
-                  <span className="opacity-40">§{card.paraId}</span>
+                {/* テキスト情報 + アクションボタン群 */}
+                <div className="flex items-center gap-2">
+                  <div className={`flex items-center gap-1.5 text-xs font-sans ${textSecondary} flex-1 min-w-0`}>
+                    <span className={`px-1.5 py-0.5 rounded shrink-0 ${authorColor(texts[card.textId]?.category || '')}`}>
+                      {catShort[texts[card.textId]?.category] || ''}
+                    </span>
+                    <span className="opacity-60 truncate">{card.textAuthor}</span>
+                    <span className="opacity-40 shrink-0">·</span>
+                    <span className="opacity-70 font-serif truncate">{card.textTitle}</span>
+                    <span className="opacity-40 shrink-0">§{card.paraId}</span>
+                    {card.isRetry && (
+                      <span className={`shrink-0 px-1.5 py-0.5 rounded text-xs font-sans ${darkMode ? 'bg-rose-900/50 text-rose-300' : 'bg-rose-100 text-rose-600'}`}>
+                        再挑戦
+                      </span>
+                    )}
+                  </div>
+                  {/* A: 音読ボタン */}
+                  <button
+                    onClick={() => {
+                      const textObj = texts[card.textId];
+                      if (!textObj) return;
+                      speakParagraph(card.para, textObj);
+                    }}
+                    title={speakingId === card.para?.id ? '停止' : '原文を読み上げる'}
+                    className={`shrink-0 w-7 h-7 flex items-center justify-center rounded-full transition-colors ${
+                      speakingId === card.para?.id
+                        ? darkMode ? 'bg-amber-700 text-amber-100' : 'bg-stone-700 text-white'
+                        : darkMode ? 'bg-zinc-800 text-zinc-400 hover:bg-zinc-700 hover:text-zinc-200' : 'bg-stone-100 text-stone-500 hover:bg-stone-200'
+                    }`}
+                  >
+                    {speakingId === card.para?.id
+                      ? <IconSquare size={10} strokeWidth={2} fill="currentColor" />
+                      : <Volume2 size={13} strokeWidth={1.6} />}
+                  </button>
+                  {/* B: 本文へジャンプ */}
+                  <button
+                    onClick={() => {
+                      setShowFlashcard(false);
+                      handleTextChange(card.textId);
+                      setTimeout(() => {
+                        const el = paragraphRefs.current[card.paraId];
+                        if (el) el.scrollIntoView({ behavior: 'smooth', block: 'center' });
+                      }, 300);
+                    }}
+                    title="本文のこの段落へジャンプ"
+                    className={`shrink-0 w-7 h-7 flex items-center justify-center rounded-full transition-colors ${
+                      darkMode ? 'bg-zinc-800 text-zinc-400 hover:bg-zinc-700 hover:text-zinc-200' : 'bg-stone-100 text-stone-500 hover:bg-stone-200'
+                    }`}
+                  >
+                    <ExternalLink size={12} strokeWidth={1.8} />
+                  </button>
                 </div>
 
-                {/* カード本体（フリップ） */}
-                {(() => {
-                  const frontText = getFront(card);
-                  const rawBack   = getBack(card);
-                  const userTrans = userTranslations[card.paraId];
-                  const backText  = (fcBackMode === 'user' && userTrans) ? userTrans : rawBack;
-                  const hasUserTrans = !!userTrans;
-                  const len = (t) => t?.length ?? 0;
-                  const sizeClass = (t) => len(t) <= 120 ? 'text-base' : len(t) <= 250 ? 'text-sm' : 'text-xs';
-                  const cardMinH = len(frontText) > 200 ? '220px' : '180px';
-                  return (
-                    <div className="relative" style={{ perspective: '1000px' }}>
-                      <div
-                        onClick={() => !fcFlipped && setFcFlipped(true)}
-                        className="cursor-pointer"
-                        style={{
-                          transformStyle: 'preserve-3d',
-                          transition: 'transform 0.45s ease',
-                          transform: fcFlipped ? 'rotateY(180deg)' : 'rotateY(0deg)',
-                          minHeight: cardMinH,
-                          position: 'relative',
-                        }}
-                      >
-                        {/* 表 */}
-                        <div className={`absolute inset-0 rounded-xl border p-4 flex flex-col ${
-                          darkMode ? 'bg-zinc-800 border-zinc-700' : 'bg-stone-50 border-stone-200'
-                        }`} style={{ backfaceVisibility: 'hidden' }}>
-                          <span className={`text-xs font-sans font-semibold uppercase tracking-wider ${textSecondary} opacity-50 shrink-0`}>{frontLabel}</span>
-                          <div className="mt-2 flex-1 overflow-y-auto">
-                            <p className={`font-serif ${sizeClass(frontText)} leading-relaxed whitespace-pre-line ${textClass}`}>
-                              {frontText}
-                            </p>
+                {/* ── 表面カード ── */}
+                <div className={`rounded-xl border p-4 flex flex-col ${
+                  darkMode ? 'bg-zinc-800 border-zinc-700' : 'bg-stone-50 border-stone-200'
+                }`} style={{ minHeight: '160px' }}>
+                  <span className={`text-xs font-sans font-semibold uppercase tracking-wider ${textSecondary} opacity-50 shrink-0`}>{frontLabel}</span>
+                  <div className="mt-2 flex-1 overflow-y-auto">
+                    <p className={`font-serif ${fcFontSizeClass(getFront(card))} leading-relaxed whitespace-pre-line ${textClass}`}>
+                      {getFront(card)}
+                    </p>
+                  </div>
+                </div>
+
+                {/* ── 裏面：めくるボタン or 裏面コンテンツ ── */}
+                {!fcFlipped ? (
+                  <button
+                    onClick={() => setFcFlipped(true)}
+                    className={`w-full py-3 rounded-xl border-2 border-dashed text-sm font-sans font-medium transition-all ${
+                      darkMode
+                        ? 'border-zinc-700 text-zinc-400 hover:border-amber-600 hover:text-amber-300 hover:bg-amber-950/20'
+                        : 'border-stone-300 text-stone-400 hover:border-amber-400 hover:text-amber-700 hover:bg-amber-50'
+                    }`}
+                  >
+                    裏を見る <span className="opacity-50 text-xs ml-1">Space</span>
+                  </button>
+                ) : (
+                  <div className={`rounded-xl border p-4 flex flex-col ${
+                    darkMode ? 'bg-zinc-800/80 border-amber-700/40' : 'bg-amber-50/60 border-amber-200'
+                  }`} style={{ minHeight: '160px' }}>
+                    {/* 裏面ヘッダー：ラベル + 仮訳/自分の訳トグル */}
+                    <div className="flex items-center justify-between shrink-0 mb-2">
+                      <span className={`text-xs font-sans font-semibold uppercase tracking-wider ${darkMode ? 'text-amber-400' : 'text-amber-700'} opacity-70`}>{backLabel}</span>
+                      <div className="flex items-center gap-1.5">
+                        {/* D: 注釈トグル */}
+                        {(() => {
+                          const annCount = (texts[card.textId]?.annotations || []).filter(a => a.paragraphId === card.paraId).length;
+                          return annCount > 0 ? (
+                            <button
+                              onClick={() => setFcShowAnnotation(v => !v)}
+                              title="注釈を表示/非表示"
+                              className={`px-2 py-0.5 rounded text-xs font-sans border transition-colors ${
+                                fcShowAnnotation
+                                  ? darkMode ? 'bg-amber-700 text-amber-100 border-amber-600' : 'bg-amber-700 text-white border-amber-600'
+                                  : darkMode ? 'border-zinc-600 text-zinc-400 hover:bg-zinc-700' : 'border-stone-300 text-stone-500 hover:bg-stone-100'
+                              }`}
+                            >
+                              注釈{annCount}
+                            </button>
+                          ) : null;
+                        })()}
+                        {/* 仮訳/自分の訳トグル */}
+                        {fcMode !== 'head2full' && (
+                          <div className={`flex rounded-md overflow-hidden border text-xs font-sans ${darkMode ? 'border-zinc-600' : 'border-stone-300'}`}>
+                            <button onClick={() => setFcBackMode('provisional')}
+                              className={`px-2 py-0.5 transition-colors ${fcBackMode === 'provisional'
+                                ? darkMode ? 'bg-amber-700 text-amber-100' : 'bg-stone-700 text-white'
+                                : darkMode ? 'text-zinc-400 hover:bg-zinc-700' : 'text-stone-500 hover:bg-stone-100'}`}>
+                              仮訳
+                            </button>
+                            <button onClick={() => {
+                                const hasUT = !!userTranslations[card.paraId];
+                                if (hasUT) { setFcBackMode('user'); setFcInlineEdit(false); }
+                              }}
+                              disabled={!userTranslations[card.paraId]}
+                              title={!userTranslations[card.paraId] ? '自分の訳がありません（下から入力できます）' : '自分の訳を表示'}
+                              className={`px-2 py-0.5 transition-colors border-l ${darkMode ? 'border-zinc-600' : 'border-stone-300'} ${
+                                !userTranslations[card.paraId] ? 'opacity-30 cursor-not-allowed ' + (darkMode ? 'text-zinc-500' : 'text-stone-400')
+                                : fcBackMode === 'user'
+                                  ? darkMode ? 'bg-amber-700 text-amber-100' : 'bg-stone-700 text-white'
+                                  : darkMode ? 'text-zinc-400 hover:bg-zinc-700' : 'text-stone-500 hover:bg-stone-100'
+                              }`}>
+                              自分の訳
+                            </button>
                           </div>
-                          <div className={`text-xs font-sans text-center ${textSecondary} opacity-40 shrink-0 pt-2`}>
-                            タップ / Space で裏を見る
-                          </div>
-                        </div>
-                        {/* 裏 */}
-                        <div className={`absolute inset-0 rounded-xl border p-4 flex flex-col ${
-                          darkMode ? 'bg-zinc-800/80 border-amber-700/40' : 'bg-amber-50/50 border-amber-200'
-                        }`} style={{ backfaceVisibility: 'hidden', transform: 'rotateY(180deg)' }}>
-                          <div className="flex items-center justify-between shrink-0">
-                            <span className={`text-xs font-sans font-semibold uppercase tracking-wider ${darkMode ? 'text-amber-400' : 'text-amber-700'} opacity-70`}>{backLabel}</span>
-                            {fcMode !== 'head2full' && (
-                              <div className={`flex rounded-md overflow-hidden border text-xs font-sans ${darkMode ? 'border-zinc-600' : 'border-stone-300'}`}>
-                                <button onClick={e => { e.stopPropagation(); setFcBackMode('provisional'); }}
-                                  className={`px-2 py-0.5 transition-colors ${fcBackMode === 'provisional'
-                                    ? darkMode ? 'bg-amber-700 text-amber-100' : 'bg-stone-700 text-white'
-                                    : darkMode ? 'text-zinc-400 hover:bg-zinc-700' : 'text-stone-500 hover:bg-stone-100'}`}>
-                                  仮訳
-                                </button>
-                                <button onClick={e => { e.stopPropagation(); setFcBackMode('user'); }}
-                                  disabled={!hasUserTrans}
-                                  title={!hasUserTrans ? 'この段落に自分の訳がありません' : '自分の訳を表示'}
-                                  className={`px-2 py-0.5 transition-colors border-l ${darkMode ? 'border-zinc-600' : 'border-stone-300'} ${
-                                    !hasUserTrans ? 'opacity-30 cursor-not-allowed ' + (darkMode ? 'text-zinc-500' : 'text-stone-400')
-                                    : fcBackMode === 'user'
-                                      ? darkMode ? 'bg-amber-700 text-amber-100' : 'bg-stone-700 text-white'
-                                      : darkMode ? 'text-zinc-400 hover:bg-zinc-700' : 'text-stone-500 hover:bg-stone-100'
-                                  }`}>
-                                  自分の訳
-                                </button>
-                              </div>
-                            )}
-                          </div>
-                          <div className="mt-2 flex-1 overflow-y-auto">
-                            <p className={`font-serif ${sizeClass(backText)} leading-relaxed whitespace-pre-line ${textClass}`}>
-                              {backText}
-                            </p>
-                          </div>
-                          <div className={`text-xs font-sans text-center ${textSecondary} opacity-30 shrink-0 pt-2`}>
-                            ← もう一度 / 覚えた →
-                          </div>
-                        </div>
+                        )}
                       </div>
                     </div>
-                  );
-                })()}
 
-                {/* 判定ボタン（裏返し後のみ表示） */}
+                    {/* 裏面テキスト */}
+                    <div className="flex-1 overflow-y-auto">
+                      <p className={`font-serif ${fcFontSizeClass(
+                        (fcBackMode === 'user' && userTranslations[card.paraId]) ? userTranslations[card.paraId] : getBack(card)
+                      )} leading-relaxed whitespace-pre-line ${textClass}`}>
+                        {(fcBackMode === 'user' && userTranslations[card.paraId])
+                          ? userTranslations[card.paraId]
+                          : getBack(card)}
+                      </p>
+                    </div>
+
+                    {/* D: glossary注釈表示 */}
+                    {fcShowAnnotation && (() => {
+                      const anns = (texts[card.textId]?.annotations || []).filter(a => a.paragraphId === card.paraId);
+                      return anns.length > 0 ? (
+                        <div className={`mt-3 pt-3 border-t space-y-1.5 ${darkMode ? 'border-amber-800/40' : 'border-amber-200'}`}>
+                          {anns.map((ann, i) => {
+                            const def = getTypeDef(ann.type);
+                            return (
+                              <div key={i} className={`flex items-start gap-2 text-xs font-sans`}>
+                                <span className={`shrink-0 mt-0.5 px-1.5 py-0.5 rounded border ${darkMode ? def.colorDark : def.colorLight}`}>
+                                  {def.label}
+                                </span>
+                                <span className={`${textClass} leading-relaxed opacity-80`}>
+                                  {ann.anchor && <span className="font-mono opacity-60 mr-1">「{ann.anchor}」</span>}
+                                  {ann.body}
+                                </span>
+                              </div>
+                            );
+                          })}
+                        </div>
+                      ) : null;
+                    })()}
+
+                    {/* E: インライン訳文入力 */}
+                    <div className={`mt-3 pt-2 border-t ${darkMode ? 'border-zinc-700' : 'border-stone-200'}`}>
+                      {fcInlineEdit ? (
+                        <div>
+                          <textarea
+                            autoFocus
+                            value={fcInlineDraft}
+                            onChange={e => setFcInlineDraft(e.target.value)}
+                            placeholder="自分の訳を書く..."
+                            className={`w-full p-2 rounded-lg border text-sm font-sans resize-none focus:outline-none focus:ring-2 focus:ring-purple-500 ${
+                              darkMode ? 'bg-zinc-900 text-zinc-100 border-zinc-600' : 'bg-white border-stone-300 text-stone-800'
+                            }`}
+                            rows={3}
+                          />
+                          <div className="flex gap-2 mt-1.5">
+                            <button
+                              onClick={() => {
+                                if (fcInlineDraft.trim()) {
+                                  saveUserTranslation(card.paraId, fcInlineDraft.trim());
+                                  setFcBackMode('user');
+                                }
+                                setFcInlineEdit(false);
+                              }}
+                              className="px-3 py-1 bg-purple-600 text-white rounded-lg text-xs font-sans hover:bg-purple-700 transition-colors"
+                            >保存</button>
+                            <button
+                              onClick={() => { setFcInlineEdit(false); setFcInlineDraft(''); }}
+                              className={`px-3 py-1 rounded-lg text-xs font-sans transition-colors ${darkMode ? 'bg-zinc-700 text-zinc-300 hover:bg-zinc-600' : 'bg-stone-100 text-stone-600 hover:bg-stone-200'}`}
+                            >キャンセル</button>
+                          </div>
+                        </div>
+                      ) : (
+                        <button
+                          onClick={() => {
+                            setFcInlineDraft(userTranslations[card.paraId] || '');
+                            setFcInlineEdit(true);
+                          }}
+                          className={`flex items-center gap-1.5 text-xs font-sans transition-colors ${
+                            userTranslations[card.paraId]
+                              ? darkMode ? 'text-purple-400 hover:text-purple-300' : 'text-purple-600 hover:text-purple-700'
+                              : darkMode ? 'text-zinc-500 hover:text-zinc-300' : 'text-stone-400 hover:text-stone-600'
+                          }`}
+                        >
+                          <PenLine size={11} strokeWidth={1.8} />
+                          {userTranslations[card.paraId] ? '自分の訳を編集' : '自分の訳を書く'}
+                        </button>
+                      )}
+                    </div>
+                  </div>
+                )}
+
+                {/* 判定ボタン（裏を見た後のみ） */}
                 {fcFlipped && (
                   <div className="grid grid-cols-2 gap-3">
-                    <button onClick={() => fcJudge('again')}
+                    <button onClick={() => { fcJudge('again'); setFcInlineEdit(false); setFcShowAnnotation(false); }}
                       className={`flex items-center justify-center gap-2 py-3 rounded-xl text-sm font-semibold font-sans transition-all ${
                         darkMode ? 'bg-zinc-800 hover:bg-zinc-700 text-zinc-300 border border-zinc-700' : 'bg-stone-100 hover:bg-stone-200 text-stone-700 border border-stone-300'
                       }`}>
                       <ThumbsDown size={14} strokeWidth={1.8} />もう一度
                     </button>
-                    <button onClick={() => fcJudge('good')}
+                    <button onClick={() => { fcJudge('good'); setFcInlineEdit(false); setFcShowAnnotation(false); }}
                       className={`flex items-center justify-center gap-2 py-3 rounded-xl text-sm font-semibold font-sans transition-all ${
                         darkMode ? 'bg-amber-700 hover:bg-amber-600 text-amber-100' : 'bg-stone-800 hover:bg-stone-700 text-white'
                       }`}>
@@ -1072,9 +1218,9 @@ export default function App() {
                   </div>
                 )}
 
-                {/* スキップ */}
+                {/* スキップ（表面表示中のみ） */}
                 {!fcFlipped && (
-                  <button onClick={() => { setFcIndex(i => i + 1 < fcCards.length ? i + 1 : i); setFcFlipped(false); }}
+                  <button onClick={() => { setFcIndex(i => i + 1 < fcCards.length ? i + 1 : i); setFcFlipped(false); setFcShowAnnotation(false); }}
                     className={`w-full text-xs font-sans text-center py-2 ${textSecondary} opacity-40 hover:opacity-70 transition-opacity`}>
                     スキップ →
                   </button>
@@ -1746,7 +1892,7 @@ export default function App() {
                     : darkMode ? 'bg-zinc-800 text-zinc-300 hover:bg-zinc-700' : 'bg-stone-100 text-stone-600 hover:bg-stone-200'
                 }`}
               >
-                <Bookmark size={10} strokeWidth={1.8} />最近開いた
+                <Clock size={10} strokeWidth={1.8} />最近開いた
               </button>
             )}
             {Object.entries(categories).map(([key, cat]) => (
