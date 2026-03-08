@@ -121,6 +121,15 @@ export default function App() {
   const bodyRef = useRef(null);      // 段落コントロールバーへのref
   const textInfoRef = useRef(null);  // テキスト情報パネルへのref
   const paragraphRefs = useRef({});  // paragraphId → DOM要素ref
+  const headerRef = useRef(null);    // sticky ヘッダーへのref
+
+  // sticky ヘッダーを考慮したスクロールヘルパー（オフセット16px余白付き）
+  const scrollToEl = (el, smooth = true) => {
+    if (!el) return;
+    const headerH = headerRef.current?.offsetHeight ?? 60;
+    const top = el.getBoundingClientRect().top + window.scrollY - headerH - 16;
+    window.scrollTo({ top: Math.max(0, top), behavior: smooth ? 'smooth' : 'auto' });
+  };
 
   // ── 読み上げ関数 ──────────────────────────────────────────
   const speak = (text, lang, id) => {
@@ -202,7 +211,7 @@ export default function App() {
           setTimeout(() => {
             setCollapsedParagraphs(prev => ({ ...prev, [paraId]: false }));
             setTimeout(() => {
-              paragraphRefs.current[paraId]?.scrollIntoView({ behavior: 'smooth', block: 'start' });
+              scrollToEl(paragraphRefs.current[paraId]);
             }, 60);
           }, 80);
         }
@@ -349,14 +358,14 @@ export default function App() {
       setTimeout(() => {
         setCollapsedParagraphs(prev => ({ ...prev, [paraId]: false }));
         setTimeout(() => {
-          paragraphRefs.current[paraId]?.scrollIntoView({ behavior: 'smooth', block: 'start' });
+          scrollToEl(paragraphRefs.current[paraId]);
         }, 60);
       }, 100);
     } else {
       pushParaHash(textId, paraId);
       setCollapsedParagraphs(prev => ({ ...prev, [paraId]: false }));
       setTimeout(() => {
-        paragraphRefs.current[paraId]?.scrollIntoView({ behavior: 'smooth', block: 'start' });
+        scrollToEl(paragraphRefs.current[paraId]);
       }, 60);
     }
     setShowBookmarks(false);
@@ -398,7 +407,7 @@ export default function App() {
       return next;
     });
     setTimeout(() => {
-      textInfoRef.current?.scrollIntoView({ behavior: 'smooth', block: 'start' });
+      scrollToEl(textInfoRef.current);
     }, 80);
   };
 
@@ -408,7 +417,7 @@ export default function App() {
     if (selectedText !== textId) {
       handleTextChange(textId); // handleTextChange 内でスクロールも実行
     } else {
-      textInfoRef.current?.scrollIntoView({ behavior: 'smooth', block: 'start' });
+      scrollToEl(textInfoRef.current);
     }
   };
 
@@ -441,7 +450,7 @@ export default function App() {
     if (ann.anchor) setActiveAnchor({ paraId, anchor: ann.anchor });
     // 少し待ってからスクロール
     setTimeout(() => {
-      paragraphRefs.current[paraId]?.scrollIntoView({ behavior: 'smooth', block: 'start' });
+      scrollToEl(paragraphRefs.current[paraId]);
     }, 60);
   };
 
@@ -1027,7 +1036,7 @@ export default function App() {
                       handleTextChange(card.textId);
                       setTimeout(() => {
                         const el = paragraphRefs.current[card.paraId];
-                        if (el) el.scrollIntoView({ behavior: 'smooth', block: 'center' });
+                        if (el) scrollToEl(el);
                       }, 300);
                     }}
                     title="本文のこの段落へジャンプ"
@@ -1803,7 +1812,7 @@ export default function App() {
       </div>
 
       {/* ─── Header ─────────────────────────────────── */}
-      <header className={`sticky top-0 z-30 ${darkMode ? 'bg-zinc-950/95 border-zinc-800' : 'bg-stone-50/95 border-stone-200'} border-b backdrop-blur-md`}>
+      <header ref={headerRef} className={`sticky top-0 z-30 ${darkMode ? 'bg-zinc-950/95 border-zinc-800' : 'bg-stone-50/95 border-stone-200'} border-b backdrop-blur-md`}>
         <div className="max-w-6xl mx-auto px-4 py-3 flex items-center gap-3">
           <div className="flex-1 min-w-0">
             <h1
