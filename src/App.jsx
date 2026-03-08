@@ -217,6 +217,9 @@ export default function App() {
             }, 60);
           }, 80);
         }
+      } else {
+        // hash が空 or '#' → 一覧に戻る
+        resetTextState(null);
       }
     };
     window.addEventListener('popstate', handlePopState);
@@ -1829,14 +1832,30 @@ export default function App() {
       {/* ─── Header ─────────────────────────────────── */}
       <header ref={headerRef} className={`sticky top-0 z-30 ${darkMode ? 'bg-zinc-950/95 border-zinc-800' : 'bg-stone-50/95 border-stone-200'} border-b backdrop-blur-md`}>
         <div className="max-w-6xl mx-auto px-4 py-3 flex items-center gap-3">
-          <div className="flex-1 min-w-0">
-            <h1
-              className={`text-base font-serif font-semibold ${textClass} truncate leading-tight cursor-pointer select-none hover:opacity-70 transition-opacity`}
-              onClick={() => window.scrollTo({ top: 0, behavior: 'smooth' })}
-              title="最上部へ戻る"
-            >
-              Versillage
-            </h1>
+          <div className="flex-1 min-w-0 flex items-center gap-2 min-w-0">
+            {selectedText && (
+              <button
+                onClick={() => {
+                  window.history.pushState({}, '', '#');
+                  window.dispatchEvent(new PopStateEvent('popstate'));
+                  window.scrollTo({ top: 0, behavior: 'smooth' });
+                }}
+                title="テキスト一覧へ戻る"
+                className={`shrink-0 flex items-center gap-1 text-xs px-2 py-1 rounded transition-colors ${darkMode ? 'text-zinc-400 hover:text-zinc-200 hover:bg-zinc-800' : 'text-stone-400 hover:text-stone-700 hover:bg-stone-100'}`}
+              >
+                <List size={13} strokeWidth={1.8} />
+                <span className="hidden sm:inline">一覧</span>
+              </button>
+            )}
+            <div className="flex-1 min-w-0">
+              <h1
+                style={{ fontFamily: "'Cinzel', serif", letterSpacing: '0.08em' }}
+                className={`text-base font-semibold ${textClass} truncate leading-tight cursor-pointer select-none hover:opacity-70 transition-opacity`}
+                onClick={() => window.scrollTo({ top: 0, behavior: 'smooth' })}
+                title="最上部へ戻る"
+              >
+                Versillage
+              </h1>
             {currentText && (
               <p className={`text-xs font-sans truncate mt-0.5 ${textSecondary}`}>
                 <span className="opacity-60">{currentText.author}</span>
@@ -1844,6 +1863,7 @@ export default function App() {
                 <span>{currentText.title}</span>
               </p>
             )}
+            </div>
           </div>
           <button
             onClick={() => { setShowBookmarks(v => !v); setTimelineMode(false); }}
