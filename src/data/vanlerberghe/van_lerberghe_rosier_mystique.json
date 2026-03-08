@@ -1,0 +1,91 @@
+{
+  "id": "van_lerberghe_rosier_mystique",
+  "title": "Le Rosier Mystique",
+  "author": "Charles Van Lerberghe",
+  "source": "Entrevisions, Société du Mercure de France, Paris, 1898 (p. 121–122). 照合出典: 原典写真（p. 121–122）.",
+  "year": "1898",
+  "firstPublication": "Entrevisions, Société du Mercure de France, Paris, 1898 (p. 121–122).",
+  "difficulty": "中級",
+  "category": "symbolisme",
+  "originalLang": "fr-FR",
+  "modernRelevance": "★★★★☆",
+  "context": "シャルル・ヴァン・レルベルグ（Charles Van Lerberghe, 1861–1919）の詩集『Entrevisions（垣間見）』（1898）所収。全5連・各4行・計20行の規則詩（ABAB交差韻）。「神秘の薔薇（Le Rosier Mystique）」はカトリックのマリア崇敬における伝統的な称号（ロレトの連祷）──薔薇の木はマリアの象徴。同時に象徴主義における理想・不可視の美の隠喩でもある。連1〜2：「楽園（Paradis）」の薔薇の木と「閉じた庭（jardin clos）」の薔薇の木という二つの空間。連3〜4：影（ombres familières）が西から東へ回転し、夜が薔薇たちをその懐に溶け込ませる──長い関係節が連2末から連4末まで4連にわたって1文として展開する。連5：「おお、薔薇の木よ」という3度目の呼格で締め、「彼女たち（roses）」と「私たち（詩人・信者）」を「あなたの中で（en toi）」結び合わせるよう祈願して閉じる。",
+  "keywords": ["薔薇", "楽園", "神秘", "マリア崇敬", "閉じた庭", "夜", "影", "ベルギー象徴主義"],
+  "relatedTexts": [
+    "van_lerberghe_tombee_du_soir",
+    "van_lerberghe_dans_un_parfum",
+    "valmore_les_roses_de_saadi",
+    "mallarme_toute_lame"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "french": "O beau rosier du Paradis,\nBeau rosier aux milliers de roses,\nQui dans les parfums resplendis,\nEt dans la lumière reposes ;",
+      "provisionalTranslation": "おお、楽園の美しい薔薇の木よ、\n幾千もの薔薇をもつ美しい薔薇の木よ、\n芳香の中に輝き、\n光の中に憩うもの；"
+    },
+    {
+      "id": 2,
+      "french": "O beau rosier du jardin clos,\nBeau rosier aux roses altières,\nQui sur l'herbe étends les réseaux\nQue font tes ombres familières ;",
+      "provisionalTranslation": "おお、閉じた庭の美しい薔薇の木よ、\n誇り高い薔薇をもつ美しい薔薇の木よ、\n草の上に網の目を広げる\nあなたの親しみある影が作る網の目を；"
+    },
+    {
+      "id": 3,
+      "french": "Autour de qui, toutes tremblantes,\nDe l'occident à l'orient,\nCes humbles et douces servantes\nGlissent et tournent lentement,",
+      "provisionalTranslation": "あなたの周りで、みな震えながら、\n西から東へ、\nこれらの謙虚で優しい侍女たちが\n滑りながらゆっくりと回っている、"
+    },
+    {
+      "id": 4,
+      "french": "Jusques à l'heure solennelle\nOù la nuit, à pas clandestins,\nÉtendant ses voiles sur elles,\nLes confond toutes dans son sein ;",
+      "provisionalTranslation": "厳粛な時まで\n夜が、ひそやかな足取りで、\nヴェールを彼女たちの上に広げながら、\nすべてをその懐に溶け込ませる時まで；"
+    },
+    {
+      "id": 5,
+      "french": "O rosier aux roses sans nombre,\nElles, tes enfants glorieux,\nEt nous, qui te servons dans l'ombre,\nUnis en toi nos cœurs entre eux.",
+      "provisionalTranslation": "おお、数知れぬ薔薇をもつ薔薇の木よ、\n彼女たち、あなたの栄光ある子どもたちと、\nそして私たち、影の中であなたに仕える者たちを、\nあなたの中で私たちの心を互いに結び合わせてください。"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "prosody",
+      "anchor": null,
+      "body": "全5連・各4行・ABAB交差韻の規則詩（8音節行基調）。韻律スキーム：連1 Paradis/resplendis（A）・roses/reposes（B）。連2 clos/réseaux（A、不完全韻）・altières/familières（B）。連3 tremblantes/servantes（A）・orient/lentement（B）。連4 solennelle/elles（A）・clandestins/sein（B）。連5 nombre/ombre（A）・glorieux/eux（B）。統語の特徴：詩全体が2つの大きな文から成る。第1文（連1・v.1〜4）：「おお…薔薇の木よ」という呼格。第2文（連2 v.1〜連5 v.4）：連2「おお…薔薇の木よ（v.1〜2）→ 影が網を広げる（v.3〜4）」から連3「影が震えながら回る」→連4「夜が飲み込む」まで関係節・分詞句が連を跨いで展開し、連5で「あなたの中で結び合わせてください」という祈願形で閉じる。呼格の反復：連1冒頭「O beau rosier du Paradis」→連2冒頭「O beau rosier du jardin clos」→連5冒頭「O rosier aux roses sans nombre」と3度繰り返され、最終連では「beau（美しい）」が省かれ簡潔化する。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "glossary",
+      "anchor": "O beau rosier du Paradis",
+      "body": "「神秘の薔薇（Rosier Mystique）」──カトリックの「ロレトの連祷（Litanies de Lorette）」における聖母マリアへの称号のひとつ。連祷中の「神秘の薔薇（Rosa Mystica）」に対応するフランス語訳。「楽園の薔薇の木（rosier du Paradis）」：楽園（Paradis）はエデンの園であると同時に天国──薔薇の木が地上の庭（連2「jardin clos」）と天上の楽園（連1「Paradis」）の両方に存在するという二重性。「閉じた庭（jardin clos）」：ラテン語 hortus conclusus（雅歌4章12節「閉じた庭は私の妹、花嫁」）──マリア崇敬における閉じた庭の伝統的象徴。ヴァン・レルベルグは象徴主義詩の文脈でこのカトリック的語彙を用い、信仰と美学を融合させる。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "Qui sur l'herbe étends les réseaux\nQue font tes ombres familières ;",
+      "body": "「草の上に網の目を広げる / あなたの親しみある影が作る網の目を」──影が「網（réseaux）」として草に投影されるイメージ。réseaux（網の目・ネットワーク）：複数形──薔薇の枝・葉による影の格子模様が「親しみある影（ombres familières）」として擬人化される。「親しみある（familières）」：知り合いのような、慣れ親しんだ──影が主体として「親しみやすい侍女」のように振る舞う前置きとなる。この「影（ombres）」が連3の「侍女たち（servantes）」として展開する──「影 → 侍女」という擬人化の連続。連2末（v.4）の「;」：文が終わらず連3冒頭「Autour de qui（あなたの周りで）」へと関係節が続く跨連（enjambement strophique）。"
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "Autour de qui, toutes tremblantes,\nDe l'occident à l'orient,\nCes humbles et douces servantes\nGlissent et tournent lentement,",
+      "body": "連3は連2末の関係節を受けて「影（ombres familières）」を「侍女たち（servantes）」として展開する。「みな震えながら（toutes tremblantes）」：tremblantes（震える・揺れる）──風に揺れる影の視覚的描写。「西から東へ（De l'occident à l'orient）」：「Tombée du soir」連1の「東から西へ（De l'orient à l'occident）」と方向が逆──夕暮れの詩が「東→西」（光の方向）であるのに対し、この詩の影は「西→東」（影の伸びる方向）。「謙虚で優しい侍女たち（humbles et douces servantes）」：humbles（謙虚な）・douces（柔らかい）──カトリック的徳目の語彙。servantes（侍女・召使い）：マリア崇敬における「ハンドマイド（神の婢）」の連想。「滑りながらゆっくりと回る（Glissent et tournent lentement）」：glisser（滑る）・tourner（回る）──影の緩慢な回転運動。",
+      "targetId": "van_lerberghe_tombee_du_soir",
+      "targetParagraphId": 1
+    },
+    {
+      "paragraphId": 4,
+      "type": "commentary",
+      "anchor": "Où la nuit, à pas clandestins,\nÉtendant ses voiles sur elles,\nLes confond toutes dans son sein ;",
+      "body": "連4：夜が薔薇の影（侍女たち）を飲み込む場面──詩全体の感情的クライマックス。「ひそやかな足取りで（à pas clandestins）」：clandestins（秘密の・ひそやかな）──夜の到来が「足取り（pas）」によって擬人化され、しかもそれが「ひそやかな」もの。「ヴェールを広げながら（Étendant ses voiles sur elles）」：voiles（ヴェール・帆）──「Tombée du soir」連1の「暗い絹のヴェール（voile de soie sombre）」と同一の語彙。夜・黄昏を「ヴェールを広げる」擬人として描くヴァン・レルベルグの反復的詩的語彙。「すべてをその懐に溶け込ませる（Les confond toutes dans son sein）」：confondre（混同する・溶け込ませる）──薔薇の影（侍女たち）が夜の「懐（sein）」に吸収・合一する。sein（胸・懐）：女性的・母性的な受容の空間──夜が母として薔薇たちを抱き込む。",
+      "targetId": "van_lerberghe_tombee_du_soir",
+      "targetParagraphId": 1
+    },
+    {
+      "paragraphId": 5,
+      "type": "commentary",
+      "anchor": "Elles, tes enfants glorieux,\nEt nous, qui te servons dans l'ombre,\nUnis en toi nos cœurs entre eux.",
+      "body": "詩の結語・祈願：「彼女たち（Elles）」と「私たち（nous）」という二つの主語が「あなたの中で（en toi）」結び合わされる。「彼女たち、あなたの栄光ある子どもたち（Elles, tes enfants glorieux）」：連3〜4の「侍女たち（servantes）」→「子どもたち（enfants）」へと関係が昇格する。「私たち、影の中であなたに仕える者たち（nous, qui te servons dans l'ombre）」：nous（私たち）──詩人・読者・信者。「影の中で（dans l'ombre）」：連4で夜に溶け込んだ薔薇の「影」の語彙が、ここで「私たち」の場所として引き継がれる。「あなたの中で私たちの心を互いに結び合わせてください（Unis en toi nos cœurs entre eux）」：Unis は命令法（二人称単数）──薔薇の木への祈願・懇請。en toi（あなたの中で）：薔薇の木（＝マリア）の内部での心の合一という神秘主義的な結合の語彙。詩全体の「結び」の動詞系列──「Tombée du soir」の「Lie（結ぶ）」・「lace（結び直す）」に対応する本詩の Unis（結び合わせる）で締まる。",
+      "targetId": "van_lerberghe_tombee_du_soir",
+      "targetParagraphId": 2
+    }
+  ]
+}
