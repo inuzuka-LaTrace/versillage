@@ -1,0 +1,124 @@
+{
+  "id": "van_lerberghe_la_mort",
+  "title": "La Mort",
+  "author": "Charles Van Lerberghe",
+  "source": "Entrevisions, Société du Mercure de France, Paris, 1898 (p. 135–136). 照合出典: 原典写真（p. 135–136）.",
+  "year": "1898",
+  "firstPublication": "Entrevisions, Société du Mercure de France, Paris, 1898 (p. 135–136).",
+  "difficulty": "初級",
+  "category": "symbolisme",
+  "originalLang": "fr-FR",
+  "modernRelevance": "★★★★☆",
+  "context": "シャルル・ヴァン・レルベルグ（Charles Van Lerberghe, 1861–1919）の詩集『Entrevisions（垣間見）』（1898）所収。全8連・各2行（distique）・計16行。隣接韻（AA）を各連が持つ二行連句形式。死の床に横たわる女の肉体を部位ごとに移動しながら描写する──手（連1）→存在の状態（連2〜4）→顔・目（連5）→口（連6）→髪（連7）→扉（連8）。死を恐怖としてでなく「幸福に触れた（Elle a touché le bonheur）」魂の完成として讃え、詩末に「穏やかな夜へと扉が開く」という静謐な幕切れで閉じる。詩集内の「Solitude」「Tombée du soir」と同一の月（lune）・扉（porte）・夜（nuit）の語彙を共有する。",
+  "keywords": ["mort", "main", "lune", "porte", "nuit", "âme", "distique", "死の床", "象徴主義"],
+  "relatedTexts": [
+    "van_lerberghe_solitude",
+    "van_lerberghe_tombee_du_soir",
+    "van_lerberghe_sous_les_arches",
+    "valmore_tristesse"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "french": "Oh ! que sa main est petite et blanche !\nOn dirait une fleur qui penche...",
+      "provisionalTranslation": "ああ、その手はなんと小さく白いことか！\n傾きかけた花のようだ……"
+    },
+    {
+      "id": 2,
+      "french": "Elle repose, elle dort,\nElle a touché la mort,",
+      "provisionalTranslation": "彼女は憩い、眠っている、\n彼女は死に触れたのだ、"
+    },
+    {
+      "id": 3,
+      "french": "Elle est vide, et toute légère,\nElle a accompli son sort sur la terre.",
+      "provisionalTranslation": "からっぽになり、すっかり軽くなって、\n地上での定めを果たした。"
+    },
+    {
+      "id": 4,
+      "french": "Tu peux la prendre, ô Seigneur !\nElle a touché le bonheur...",
+      "provisionalTranslation": "あなたはお受け取りになれる、おお主よ！\n彼女は幸福に触れたのだから……"
+    },
+    {
+      "id": 5,
+      "french": "La lune brille sur son visage,\nEt ses yeux sont pleins de nuages.",
+      "provisionalTranslation": "月がその顔の上に輝き、\nその瞳は雲に満ちている。"
+    },
+    {
+      "id": 6,
+      "french": "Sa bouche pose, entr'ouverte et paisible,\nComme au bord d'une coupe invisible.",
+      "provisionalTranslation": "その口は半開きに、静かに置かれている、\n見えない杯の縁に当てられたように。"
+    },
+    {
+      "id": 7,
+      "french": "On a couché ses longs bandeaux\nComme des blés sous une faulx.",
+      "provisionalTranslation": "その長い髪は横たえられた\n鎌の下に倒れた麦のように。"
+    },
+    {
+      "id": 8,
+      "french": "Lentement, sans bruit, sans secousse,\nLa porte s'ouvre sur la nuit douce...",
+      "provisionalTranslation": "ゆっくりと、音もなく、揺れもなく、\n扉は穏やかな夜へと開いてゆく……"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "prosody",
+      "anchor": null,
+      "body": "全8連・各2行（distique）・計16行。全連が隣接韻（AA）を持つ二行連句形式──blanche/penche（連1）、dort/mort（連2）、légère/terre（連3）、Seigneur/bonheur（連4）、visage/nuages（連5）、paisible/invisible（連6）、bandeaux/faulx（連7）、secousse/douce（連8）。行長は不揃いの自由詩的distique──連1「Oh ! que sa main est petite et blanche !」（12音節）と「On dirait une fleur qui penche」（9音節）のように各連内で行長が変化する。詩全体の構成は視線の移動による身体描写──手（連1）→存在状態・魂（連2〜4）→顔・目（連5）→口（連6）→髪（連7）→扉（連8）──外から内へ、肉体から魂へ、現世から彼岸への移行を辿る。連4が詩全体の感情的中心（「主よ、お受け取りを」という祈願）であり、連5〜8が再び肉体描写に戻る構造。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "Oh ! que sa main est petite et blanche !\nOn dirait une fleur qui penche...",
+      "body": "詩の開幕：感嘆詞「Oh !」とともに「手（main）」という最小の身体部位から始まる。「小さく白い（petite et blanche）」：白──詩集全体の白の語彙（「Dans un parfum de roses blanches」・「Sous les arches de roses」の「porte blanche」）との連絡。「傾きかけた花のようだ（On dirait une fleur qui penche）」：比喩──死の床の手が「傾く花」に喩えられる。penche（傾く）は花が枯れる前に頭を垂れる様子。「On dirait（〜のようだ）」：on の非人称──「誰かが言うように」という距離を置いた知覚、確定でなく比較としての提示。省略符（...）：「Tombée du soir」「Solitude」と同じく詩集内に反復する余白記号。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "Elle repose, elle dort,\nElle a touché la mort,",
+      "body": "「repose（憩う）」「dort（眠る）」「a touché la mort（死に触れた）」：三動詞の階段──安らぎ→眠り→死の接触という段階的深化。「Elle a touché la mort（彼女は死に触れた）」：toucher（触れる）──死を「触れる」という接触動詞で表現する。次の連4「Elle a touché le bonheur（幸福に触れた）」と完全に対応する──mort（死）と bonheur（幸福）が同一の動詞 toucher を共有することで、死と幸福が同等の「触れるもの」として提示される。連の末尾が「mort,」という読点で切れる──文は連3へと続く跨連構造（enjambement strophique）。"
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "Elle est vide, et toute légère,\nElle a accompli son sort sur la terre.",
+      "body": "「からっぽ（vide）」と「すっかり軽い（toute légère）」：死後の肉体の空虚さを「からっぽ」と「軽さ」で表現──魂が抜けた後の身体の物理的な軽量化。「地上での定めを果たした（Elle a accompli son sort sur la terre）」：sort（運命・定め）──個人の運命が「果たされた（accompli）」という完了の宣言。accompli（完了した・成就した）：達成のニュアンス──死を失敗でなく完成・完了として定義する。légère/terre（軽い/地上）：韻として「軽さ（légère）」と「大地（terre）」が対応──重力的な大地から「軽く」離脱する詩的論理。"
+    },
+    {
+      "paragraphId": 4,
+      "type": "commentary",
+      "anchor": "Tu peux la prendre, ô Seigneur !\nElle a touché le bonheur...",
+      "body": "詩の感情的クライマックス：唯一の二人称呼格「おお主よ（ô Seigneur）」──詩の語り手（私・on）が神に直接語りかける瞬間。「お受け取りになれる（Tu peux la prendre）」：peux（〜できる）──許可・可能性の提示。神への許可という逆転した関係──人間が神に「受け取っていい」と告げる。「彼女は幸福に触れたのだから（Elle a touché le bonheur）」：連2の「Elle a touché la mort」と同型文──mort（死）と bonheur（幸福）が同一構文に置かれることで両者が等価となる。死＝幸福という等式が連2と連4の対称によって成立する。「…（省略符）」：「だから」という論理を語らず省略符で置く──論証でなく余韻による結論。"
+    },
+    {
+      "paragraphId": 5,
+      "type": "commentary",
+      "anchor": "La lune brille sur son visage,\nEt ses yeux sont pleins de nuages.",
+      "body": "連5〜7：肉体描写に戻る──顔・目・口・髪の順。「月がその顔の上に輝く（La lune brille sur son visage）」：lune──「Solitude」§4の月（La lune…Poursuivre seule le voyage）との連絡。本詩では月が魂を見送る代わりに、死者の顔を照らす。「その瞳は雲に満ちている（ses yeux sont pleins de nuages）」：nuages（雲）──目に「雲」が満ちる逆説的イメージ。開いたままの死者の目が「曇って」見える生理的描写と、雲が空（天国）を暗示する象徴的読みの二重性。「Solitude」§1の「夢で照らされた目（yeux illuminés de songes）」との対照──生の魂の目は「夢で照らされ」、死の目は「雲に満ちる」。",
+      "targetId": "van_lerberghe_solitude",
+      "targetParagraphId": 1
+    },
+    {
+      "paragraphId": 6,
+      "type": "commentary",
+      "anchor": "Sa bouche pose, entr'ouverte et paisible,\nComme au bord d'une coupe invisible.",
+      "body": "「その口は半開きに、静かに置かれている（Sa bouche pose, entr'ouverte et paisible）」：pose（置かれている・静止している）──bouche（口）が主語として「静止する」。entr'ouverte（半開きの）：entr'ouvrir（半開きにする）の過去分詞──完全に開いていない、半開き。「見えない杯の縁に当てられたように（Comme au bord d'une coupe invisible）」：coupe（杯・聖杯）──invisible（見えない）な杯。キリスト教的文脈では「杯（coupe）」は聖体拝領の聖杯──半開きの口が聖杯に当てられるという比喩は、死の瞬間に霊的な飲食が行われたことを暗示する。「Sous les arches de roses」§3の「見えない女王（invisible reine）」との語彙連絡──invisible がヴァン・レルベルグ詩学の反復語彙。",
+      "targetId": "van_lerberghe_sous_les_arches",
+      "targetParagraphId": 3
+    },
+    {
+      "paragraphId": 7,
+      "type": "commentary",
+      "anchor": "On a couché ses longs bandeaux\nComme des blés sous une faulx.",
+      "body": "「その長い髪（ses longs bandeaux）」：bandeaux（前髪・髪の帯）──平たく梳かれた死者の髪。「横たえられた（On a couché）」：on（一般人称）──誰かが髪を横たえた行為の痕跡。「鎌の下に倒れた麦のように（Comme des blés sous une faulx）」：faulx（鎌）──古い綴り（現代語は faux）。死を「鎌」で表象するのは「死神（la Mort）」の伝統的なイコノグラフィー（大鎌を持つ死神）への言及。しかし本詩ではその「鎌」は顔を出さず、鎌で刈られた後の「麦（blés）」という収穫のイメージのみが残る──死の暴力でなく収穫の完成として。白い手（連1）→白い髪（連7）：白の語彙が詩を貫通する。"
+    },
+    {
+      "paragraphId": 8,
+      "type": "commentary",
+      "anchor": "Lentement, sans bruit, sans secousse,\nLa porte s'ouvre sur la nuit douce...",
+      "body": "詩の結語：肉体の描写から「扉（porte）」という建築的・象徴的空間へ。「ゆっくりと、音もなく、揺れもなく（Lentement, sans bruit, sans secousse）」：三つの副詞的否定（sans bruit, sans secousse）による完全な静寂の定義──音のない、揺れのない移行。「Tombée du soir」§3の「ゆっくりと回る（tournent lentement）」との lentement の語彙連絡。「扉は穏やかな夜へと開いてゆく（La porte s'ouvre sur la nuit douce）」：porte（扉）──「Sous les arches de roses」§1の「越えることのできない閾（seuil qu'on ne peut franchir）」と対照的──こちらの扉は「開く（s'ouvre）」。「穏やかな夜（nuit douce）」：douce（柔らかい・穏やかな）──「Rosier Mystique」§3の「謙虚で優しい侍女たち（humbles et douces servantes）」、「Tombée du soir」の douceur と連絡する詩集の最重要形容詞。省略符（...）：詩集全体で反復する余白記号──扉が開いた先の「夜」は語られず省略符に溶ける。",
+      "targetId": "van_lerberghe_sous_les_arches",
+      "targetParagraphId": 1
+    }
+  ]
+}
