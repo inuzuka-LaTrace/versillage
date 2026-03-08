@@ -1,0 +1,84 @@
+{
+  "id": "banville_les_princesses",
+  "title": "Les Princesses",
+  "author": "Théodore de Banville",
+  "source": "Les Princesses, Alphonse Lemerre, Paris, 1890 (p. 217–218). 照合出典: wikisource.org (Les Princesses (recueil)/Les Princesses).",
+  "year": "1890",
+  "firstPublication": "Les Princesses, Alphonse Lemerre, Paris, 1890 (p. 217–218).",
+  "difficulty": "中級",
+  "category": "banville",
+  "originalLang": "fr-FR",
+  "modernRelevance": "★★★★☆",
+  "context": "テオドール・ド・バンヴィル（Théodore de Banville, 1823–1891）の晩年の詩集『王女たち（Les Princesses）』（1890）の冒頭詩（p. 217–218）──詩集全体の序詩・詩学宣言。全14行のソネット（4-4-3-3行）。ボードレール「L'Idéal（理想）」の四行引用を巻頭に置き、「高踏派的な美の理想」を宣言する。詩の論理：芸術家のみが知る「王女たち（Les Princesses）」が世界に甦り、歴史的・神話的舞台に殺戮・愛・裸の脚・血・緋・黄金の留め金が現れる──そして王女たちは稀有な衣装をまとって再び凱旋し、ルビー・輝く髪・雪の胸・血のように赤い花として開く唇が蘇る。詩集内の他の王女たち（セミラミス・パシパエ・オンファレ等）の序として機能する。",
+  "keywords": ["princesses", "idéal", "rubis", "姫君", "王女", "高踏派", "ボードレール", "ソネット"],
+  "relatedTexts": [
+    "banville_pasiphae",
+    "banville_apotheose",
+    "baudelaire_la_destruction",
+    "mallarme_hamlet"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "french": "Les Princesses, miroir des cieux riants, trésor\nDes âges, sont pour nous au monde revenues ;\nEt quand l'Artiste en pleurs, qui les a seul connues,\nLeur ordonne de naître et de revivre encor,",
+      "provisionalTranslation": "王女たちは、微笑む空の鏡、時代の\n宝物であり、私たちのために世界に甦った；\nそして涙する芸術家が──彼だけが彼女たちを知っていた──\n彼女たちに生まれ、再び甦るよう命じるとき、"
+    },
+    {
+      "id": 2,
+      "french": "On revoit dans un riche et fabuleux décor\nDes meurtres, des amours, des lèvres ingénues,\nDes vêtements ouverts montrant des jambes nues,\nDu sang et de la pourpre et des agrafes d'or.",
+      "provisionalTranslation": "豊かで夢幻的な装いの中に再び見える\n殺戮、愛、無垢な唇、\n裸の脚を見せる開いた衣装、\n血と緋と黄金の留め金が。"
+    },
+    {
+      "id": 3,
+      "french": "Et les Princesses, dont les siècles sont avares,\nTriomphent de nouveau sous des étoffes rares :\nOn voit les clairs rubis sur leurs bras s'allumer,",
+      "provisionalTranslation": "そして王女たちは──時代が惜しんでいた王女たちは──\n稀有な衣装の下に再び凱旋する：\n明るいルビーが彼女たちの腕の上で灯るのが見える、"
+    },
+    {
+      "id": 4,
+      "french": "Les chevelures sur leurs fronts étincelantes\nResplendir, et leurs seins de neige s'animer,\nEt leurs lèvres s'ouvrir comme des fleurs sanglantes.",
+      "provisionalTranslation": "その額の上で輝く髪が\n光り輝き、雪の胸が生き生きとし、\nその唇が血の花のように開くのが。"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "prosody",
+      "anchor": null,
+      "body": "全14行のソネット（4-4-3-3行）。韻律：Q1 trésor/encor（A）・revenues/connues（B）→ ABBA。Q2 décor/d'or（A）・ingénues/nues（B）→ ABBA。T1 avares/rares（C）・s'allumer（D）→ CCD。T2 étincelantes（E）・s'animer（D）・sanglantes（E）→ EDE。アレクサンドラン（12音節）基調。巻頭にボードレール「L'Idéal」からの4行引用──「病院の美女たちの群れ（beautés d'hôpital）」を拒絶し「私の赤い理想（rouge idéal）」を求めるという宣言──本詩の「血（sang）」「緋（pourpre）」「血の花（fleurs sanglantes）」という色彩語彙と直結する。詩集『Les Princesses』はバンヴィルの最終詩集のひとつで、歴史・神話の「王女たち」を题材とする連作ソネット群の冒頭詩として詩集全体の詩学を宣言する。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "allusion",
+      "anchor": "Les Princesses, miroir des cieux riants, trésor\nDes âges",
+      "body": "巻頭エピグラフ：ボードレール「L'Idéal（理想）」（『悪の華』第18番）からの引用──「Gavarni（ガヴァルニ）に病院の美女たちを任せよう、なぜなら私はこれらの青ざめた薔薇の中に私の赤い理想に似た花を見つけられないから」。ポール・ガヴァルニ（1804–1866）：パリの風俗画家・風刺画家──「病弱な女たち（chloroses）」という病院的な「消耗した美」の表象者としてボードレールが言及。バンヴィルはボードレールの「rouge idéal（赤い理想）」の継承者として自己を位置づける──本詩末行の「血の花（fleurs sanglantes）」がその「赤い理想」の実現。「miroir des cieux riants（微笑む空の鏡）」：王女たちが天の反射として定義される──「Nuit d'étoiles」§1の「月光の下で白い」比喩と同型の天=女性の等置。",
+      "targetId": "baudelaire_la_destruction",
+      "targetParagraphId": 1
+    },
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "Et quand l'Artiste en pleurs, qui les a seul connues,\nLeur ordonne de naître et de revivre encor,",
+      "body": "「涙する芸術家（l'Artiste en pleurs）」：大文字の Artiste──固有名詞的な「芸術家」。en pleurs（涙の中で）──美を知覚する感動の涙。「彼だけが彼女たちを知っていた（qui les a seul connues）」：seul（ひとり・だけ）の後置──芸術家の孤独な認識能力の特権化。「生まれ、再び甦るよう命じる（Leur ordonne de naître et de revivre encor）」：ordonner（命令する）──芸術家が歴史的・神話的存在に「命じて」甦らせる創造的権力。naître（生まれる）と revivre（再び生きる）：生と再生の二重命令。「Apothéose」§6の「Mes chants à l'univers / Diront ta gloire（私の歌が宇宙におまえの栄光を語る）」と同一の詩的不滅化の宣言──ただし Apothéose が個人的な恋愛対象の神格化であるのに対し、こちらは歴史・神話の王女たち全体の復活。",
+      "targetId": "banville_apotheose",
+      "targetParagraphId": 6
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "On revoit dans un riche et fabuleux décor\nDes meurtres, des amours, des lèvres ingénues,\nDes vêtements ouverts montrant des jambes nues,\nDu sang et de la pourpre et des agrafes d'or.",
+      "body": "Q2（連2）：「王女たちの甦り」の内容を列挙する。「豊かで夢幻的な装い（riche et fabuleux décor）」：décor──舞台装置・scenery。fabuleux（神話的・夢幻的）──歴史と神話が舞台として提示される。列挙の構造：Des meurtres（殺戮）/ des amours（愛）/ des lèvres ingénues（無垢な唇）/ Des vêtements ouverts（開いた衣装）/ jambes nues（裸の脚）/ Du sang（血）/ de la pourpre（緋）/ des agrafes d'or（黄金の留め金）──8要素の非階層的列挙。高踏派的な「ekphrasis（エクフラシス）」的記述──絵画・彫刻の描写のように視覚的に列挙する。「Du sang et de la pourpre」：血と緋はボードレールの「rouge idéal（赤い理想）」の実現──エピグラフへの詩内応答。「agrafes d'or（黄金の留め金）」：「Apothéose」§13の「Des rayons d'or seront / Ta chevelure」・「Les Baisers」§2の「cheveux d'or」と連絡する詩集横断的黄金語彙。"
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "Et les Princesses, dont les siècles sont avares,\nTriomphent de nouveau sous des étoffes rares :",
+      "body": "「時代が惜しんでいた（dont les siècles sont avares）」：avares（けちな・惜しみがちな）──歴史が王女たちを隠し秘めてきたという時間的蓄積の比喩。「稀有な衣装（étoffes rares）」：rares（稀有な・貴重な）──étoffes（布地・衣装）が「稀有」なものとして提示される。「Apothéose」§12の「Tu laveras ton sein / Dans l'ambroisie（アンブロシアで胸を洗う）」という神話的衣装との連絡。「clairs rubis sur leurs bras s'allumer（明るいルビーが腕の上で灯る）」：s'allumer（灯る・点火する）──宝石が「自ら灯る」という自発的な発光の比喩。clairs（明るい）rubis（ルビー）：「Améthystes」の宝石語彙（アメジスト→ルビー）。「Nuit d'étoiles」§5の「Ô saphir ! azur sans voiles !」に連なる宝石比喩の詩集横断。"
+    },
+    {
+      "paragraphId": 4,
+      "type": "commentary",
+      "anchor": "Les chevelures sur leurs fronts étincelantes\nResplendir, et leurs seins de neige s'animer,\nEt leurs lèvres s'ouvrir comme des fleurs sanglantes.",
+      "body": "詩の結語T2（連4）：身体部位の列挙による王女たちの生命化。「輝く髪（chevelures…étincelantes）」：「Apothéose」§13の「Des rayons d'or seront / Ta chevelure」と同一の語彙──ただし Apothéose が「金の光線が髪になる」のに対し、こちらは「髪が輝く」という逆方向の表現。「雪の胸（seins de neige）」：neige（雪）──「Van Lerberghe」詩群の白（blancs）と連絡する白の語彙。s'animer（生き生きとする）：冷たい「雪」と「生き生きする（s'animer）」の逆説。「血の花のように開く唇（lèvres s'ouvrir comme des fleurs sanglantes）」：詩の最終イメージ──「Les Baisers」§3の「Ta lèvre pareille à des fleurs（花に似た唇）」・「Nuit d'étoiles」§6の「ta bouche fleurie（花ひらく口）」・「La Mort」§6の「Sa bouche pose, entr'ouverte et paisible（半開きの静かな口）」と連絡する詩集横断的な「唇」語彙。sanglantes（血まみれの）：ボードレールの「rouge idéal（赤い理想）」への最終応答──詩集全体の結語として唇が「血の花」として開く。"
+    }
+  ]
+}
