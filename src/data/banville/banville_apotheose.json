@@ -1,0 +1,161 @@
+{
+  "id": "banville_apotheose",
+  "title": "Apothéose",
+  "author": "Théodore de Banville",
+  "source": "Améthystes, Alphonse Lemerre, Paris, 1889 (p. 213–216). 照合出典: wikisource.org (Améthystes/Apothéose).",
+  "year": "1889",
+  "firstPublication": "執筆: Février 1861. 詩集収録: Améthystes, Alphonse Lemerre, Paris, 1889 (p. 213–216).",
+  "difficulty": "中級",
+  "category": "banville",
+  "originalLang": "fr-FR",
+  "modernRelevance": "★★★★☆",
+  "context": "テオドール・ド・バンヴィル（Théodore de Banville, 1823–1891）の詩集『紫水晶（Améthystes）』（1889）所収。執筆は1861年2月。全16連・各4行（quatrain）・計64行。ロンサール風オドレット形式──7音節行（v.1/v.3）と4音節行（v.2/v.4）の交互、ABAB交差韻。詩の構造は三部：連1〜4（毒と苦しみへの賛美──溺れながら幸福な「殉教者」の自己描写）、連5〜12（女性をパルナッソスに座らせ神話的栄光を与えるという詩的宣言──ローレル・リラ・カスタリアの泉・アンブロシア）、連13〜16（永遠に続く女性の神格化──黄金の髪・星のような目・神の威光）。タイトル「Apothéose（神格化・昇天）」：人間から神への昇格。苦しみを経由した美の神格化という構造は高踏派詩学の核心。「Les Baisers」「Caprice」「Nuit d'étoiles」と同一の1861年2月執筆の詩群を締めくくる頌歌。",
+  "keywords": ["apothéose", "Parnasse", "lyre", "laurier", "ambroisie", "ロンサール", "オドレット", "高踏派", "神格化"],
+  "relatedTexts": [
+    "banville_les_baisers",
+    "banville_caprice",
+    "banville_nuit_d_etoiles",
+    "mallarme_hamlet",
+    "verlaine_marceline_desbordes_valmore"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "french": "C'est bien fait, ô ma sœur,\nEt je succombe,\nMais avec la douceur\nD'une colombe.",
+      "provisionalTranslation": "これでよかったのだ、おお我が姉妹よ、\nそして私は倒れる、\nしかし鳩の\n柔らかさをもって。"
+    },
+    {
+      "id": 2,
+      "french": "En noyant ma raison\nDans mon extase,\nJ'ai béni le poison\nEt le beau vase.",
+      "provisionalTranslation": "我が理性を\n忘我の中に溺れさせながら、\n私は毒を祝福した\nそして美しい器を。"
+    },
+    {
+      "id": 3,
+      "french": "Même, j'ai traversé\nSans épouvante\nL'heure où tu m'as versé\nL'horreur vivante.",
+      "provisionalTranslation": "それどころか、私は恐れることなく\n通り抜けた\nおまえが私に注いだ\n生ける恐怖の時を。"
+    },
+    {
+      "id": 4,
+      "french": "J'ai bu le flot profond\nAvec délice ;\nL'ivresse était au fond\nDu noir calice.",
+      "provisionalTranslation": "私は深い奔流を飲んだ\n恍惚として；\n酔いは底にあった\n黒い聖杯の。"
+    },
+    {
+      "id": 5,
+      "french": "Je te donne à présent,\n(Car je t'adore !)\nLe laurier verdissant\nQui me décore.",
+      "provisionalTranslation": "私は今おまえに贈る、\n（なぜなら私はおまえを崇拝するから！）\n私を飾る\n緑萌ゆる月桂樹を。"
+    },
+    {
+      "id": 6,
+      "french": "Arraché par mes vers\nÀ l'onde noire,\nMes chants à l'univers\nDiront ta gloire.",
+      "provisionalTranslation": "私の詩によって\n暗い波から引き裂かれて、\n私の歌が宇宙に向けて\nおまえの栄光を語るだろう。"
+    },
+    {
+      "id": 7,
+      "french": "Près du ciel azuré\nQui nous menace,\nJoyeux, je t'assoierai\nSur le Parnasse.",
+      "provisionalTranslation": "私たちを脅かす\n紺碧の空の近くで、\n喜びながら、私はおまえを座らせよう\nパルナッソスに。"
+    },
+    {
+      "id": 8,
+      "french": "Là, recueillant le fruit\nDe mon délire,\nTa voix sera le bruit\nQue fait ma lyre ;",
+      "provisionalTranslation": "そこで、私の狂気の\n果実を収めながら、\nおまえの声となるだろう\n私のリラが奏でる音に；"
+    },
+    {
+      "id": 9,
+      "french": "Et tu joueras, enfant\nNé de Thalie,\nDans le flot triomphant\nDe Castalie.",
+      "provisionalTranslation": "そしておまえは遊ぶだろう、\nタリアに生まれた子よ、\nカスタリアの\n勝利の奔流の中で。"
+    },
+    {
+      "id": 10,
+      "french": "Dans les bois écartés,\nCes lèvres roses\nJetteront des clartés\nD'apothéoses ;",
+      "provisionalTranslation": "人里離れた森の中で、\nその薔薇色の唇は\n投げかけるだろう\n神格化の輝きを；"
+    },
+    {
+      "id": 11,
+      "french": "Mon sang versé par jeu,\nSainte blessure !\nSera la pourpre en feu\nDe ta chaussure ;",
+      "provisionalTranslation": "遊びで流された私の血、\n聖なる傷よ！\nとなるだろう、おまえの靴の\n燃える緋色に；"
+    },
+    {
+      "id": 12,
+      "french": "Et, comme en ce dessein\nJe t'ai choisie,\nTu laveras ton sein\nDans l'ambroisie.",
+      "provisionalTranslation": "そしてこの意図のもとに\n私がおまえを選んだように、\nおまえはその胸を\nアンブロシアで洗うだろう。"
+    },
+    {
+      "id": 13,
+      "french": "Mais, couronnant ton front\nPur de souillure,\nDes rayons d'or seront\nTa chevelure ;",
+      "provisionalTranslation": "しかし、汚れなき\nおまえの額を冠しながら、\n黄金の光線が\nおまえの髪となるだろう；"
+    },
+    {
+      "id": 14,
+      "french": "Et tes yeux, où sourit\nMa douleur morte,\nReflèteront l'esprit\nQui me transporte.",
+      "provisionalTranslation": "そしておまえの目は、そこで\n私の死んだ苦しみが微笑む目は、\n映し出すだろう\n私を我を忘れさせる霊を。"
+    },
+    {
+      "id": 15,
+      "french": "Ô ma divinité\nVictorieuse,\nPendant l'éternité\nMystérieuse,",
+      "provisionalTranslation": "おお、我が\n勝利の女神よ、\n神秘の\n永遠の間、"
+    },
+    {
+      "id": 16,
+      "french": "Tes yeux, insoucieux\nDe nos désastres,\nSeront comme des cieux\nÉclatants d'astres.",
+      "provisionalTranslation": "おまえの目は、我々の災厄を\n意に介せぬその目は、\n星々に輝く\n天のようとなるだろう。"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "prosody",
+      "anchor": null,
+      "body": "全16連・各4行・計64行。ロンサール風オドレット形式──7音節行（v.1/v.3）と4音節行（v.2/v.4）の交互、全連 ABAB 交差韻。韻律抄：連1 sœur/douceur（A）・succombe/colombe（B）。連4 profond/fond（A・同語根韻）・délice/calice（B）。連6 vers/l'univers（A）・noire/gloire（B）。連10 écartés/clartés（A）・roses/D'apothéoses（B──タイトル語が韻として詩中に現れる）。連16 insoucieux/cieux（A）・désastres/d'astres（B）。詩全体の三部構成：連1〜4「苦しみへの賛美・黒い聖杯」、連5〜12「詩的宣言──月桂樹・パルナッソス・リラ・カスタリア・アンブロシア」、連13〜16「永遠の神格化──黄金の髪・星の目」。副詩集「Nouvelles Odelettes amoureuses composées sur des rhythmes de Ronsard」の締めを飾る頌歌──ロンサールの『恋愛詩集（Amours）』における「カッサンドル神格化」の現代的反復。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "glossary",
+      "anchor": "ô ma sœur",
+      "body": "「おお我が姉妹よ（ô ma sœur）」：詩集の献辞「À MARIE（マリーへ）」を受けた呼称。sœur（姉妹）──恋人を「姉妹」と呼ぶ語法は雅歌（「ma sœur, ma fiancée」4章9節）に由来し、ロンサールもカッサンドルへの詩に用いる。「おお」という呼格──「Nuit d'étoiles」§2の「ô magicienne」、§5の「Ô saphir !」、「Caprice」§2の「ô Seigneur」と詩集全体に反復する感嘆的呼格。「C'est bien fait（これでよかった）」：諦念でなく肯定──毒を飲まされた苦しみさえも「bien fait（当然のこと・うまくいった）」と宣言する逆説的受容。鳩（colombe）：平和・柔和・キリスト教の聖霊のシンボル──苦しみながら「鳩の柔らかさ」で倒れるという逆説。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "En noyant ma raison\nDans mon extase,\nJ'ai béni le poison\nEt le beau vase.",
+      "body": "連2〜4：毒と聖杯の連続イメージ──苦しみが宗教的陶酔として提示される。「理性を忘我の中に溺れさせる（noyant ma raison / Dans mon extase）」：raison（理性）を noyer（溺れさせる）──理性の意図的な破壊としての恋愛体験。「毒を祝福した（J'ai béni le poison）」：bénir（祝福する・祝聖する）──宗教語彙。「毒（poison）」と「美しい器（beau vase）」：同一の ABAB 韻で結ばれ、器の美しさと内容の毒性の対立が「Caprice」の「冷たい唇」と同型の逆説。連4「黒い聖杯（Du noir calice）」：calice（聖杯・萼）──キリストの「杯を飲む（Matthieu 26:39）」との連絡。「黒い（noir）」：ヴァン・レルベルグ「Solitude」§2の「寡婦の影の衣（ombres veuves）」との暗色の語彙連絡。"
+    },
+    {
+      "paragraphId": 5,
+      "type": "commentary",
+      "anchor": "Je te donne à présent,\n(Car je t'adore !)\nLe laurier verdissant\nQui me décore.",
+      "body": "詩の転換点（連5）：「私が苦しむ」という受動的な描写から「私がおまえに与える」という能動的な詩的宣言へ。「月桂樹（laurier）」：詩人の栄冠の象徴──古代ギリシャからロンサール経由で高踏派に至るまでの詩的栄誉の比喩。「緑萌ゆる（verdissant）」：verdissant（緑になっていく・萌える）という現在分詞──静的な月桂冠でなく「今まさに緑に萌える」動的な月桂樹。「私を飾る（Qui me décore）」：詩人がすでに月桂冠を戴いているという自己確認──その栄冠をおまえに贈るという移譲の宣言。「Les Baisers」§2「Mes chants ailés, je te les dois !（私の翼ある歌はおまえのおかげだ）」との連絡──歌のインスピレーション源として女性を定義する詩集の主題。",
+      "targetId": "banville_les_baisers",
+      "targetParagraphId": 2
+    },
+    {
+      "paragraphId": 6,
+      "type": "commentary",
+      "anchor": "Arraché par mes vers\nÀ l'onde noire,\nMes chants à l'univers\nDiront ta gloire.",
+      "body": "「暗い波から引き裂かれて（Arraché…À l'onde noire）」：onde noire（暗い波）──死・忘却の海（レテ川的イメージ）。arraché（引き裂く）という動詞──詩が忘却から「引き裂く」、すなわち不滅化する力を持つという宣言。「私の歌が宇宙に向けておまえの栄光を語る（Mes chants à l'univers / Diront ta gloire）」：詩的不滅化の宣言──ロンサール「Sonnets pour Hélène」の「あなたが老いてから私の詩を読むとき」的な文脈（詩による女性の不死化）。vers/l'univers（A韻）：vers（詩行・ロンサール的語彙）と l'univers（宇宙）が同韻──「詩行」が「宇宙」と音韻的に等価である高踏派的自負。"
+    },
+    {
+      "paragraphId": 7,
+      "type": "glossary",
+      "anchor": "Sur le Parnasse",
+      "body": "「パルナッソス（Parnasse）」：ギリシャのパルナッソス山──アポロンとミューズたちの聖山、詩芸術の象徴。詩集名「Améthystes」が宝石的彫琢を示すのに対し、「Parnasse」は詩の殿堂そのもの。バンヴィルは高踏派（Parnasse）運動の中心人物──詩集『Parnasse contemporain』（1866）の創刊に関与。「Castalie（カスタリア）」（連9）：パルナッソス山麓の泉──アポロンとミューズに捧げられた「詩的インスピレーションの水源」。「Thalie（タリア）」（連9）：九ミューズのうち喜劇・牧歌を司るミューズ。「紺碧の脅かす空（ciel azuré / Qui nous menace）」：azuré──「Nuit d'étoiles」§2の「implacable azur（冷酷な紺碧）」との連絡──azur が詩集全体で「脅威的な美の青」として機能する語彙。"
+    },
+    {
+      "paragraphId": 10,
+      "type": "commentary",
+      "anchor": "Dans les bois écartés,\nCes lèvres roses\nJetteront des clartés\nD'apothéoses ;",
+      "body": "連10：タイトル語「apothéoses」が初めて詩中に現れる──詩の最終連の16ではなく中盤に置かれる。「D'apothéoses」が B韻（roses/D'apothéoses）の位置──「薔薇色の唇（lèvres roses）」が「神格化の輝き（clartés / D'apothéoses）」を放つという比喩。「人里離れた森（bois écartés）」：écartés（隔たった・人気のない）──「Rosier Mystique」§2の「閉じた庭（jardin clos）」・「Sous les arches de roses」の人里離れた神秘的空間との連絡。clartés（輝き・光明）複数形──「Nuit d'étoiles」§5の「Resplendissante d'étoiles（星々に輝く）」との光の語彙連絡。「lèvres roses（薔薇色の唇）」：「Les Baisers」§3の「Ta lèvre pareille à des fleurs（花に似た唇）」・「Nuit d'étoiles」§6の「ta bouche fleurie（花ひらく口）」と連絡する詩集の唇の語彙。"
+    },
+    {
+      "paragraphId": 13,
+      "type": "commentary",
+      "anchor": "Mais, couronnant ton front\nPur de souillure,\nDes rayons d'or seront\nTa chevelure ;",
+      "body": "連13〜14：「しかし（Mais）」による転換──連5〜12の詩的宣言から連13の最終的な神格化へ。「黄金の光線がおまえの髪となる（Des rayons d'or seront / Ta chevelure）」：rayons d'or（黄金の光線）──「Les Baisers」§2の「cheveux d'or（黄金の髪）」の光線的昇華。人間の髪が「黄金の光線」へと変容する神格化の完成。「汚れなき額（front / Pur de souillure）」：聖母マリア的な無原罪の表現──「Rosier Mystique」のマリア崇敬語彙との連絡。連14「私の死んだ苦しみが微笑む（où sourit / Ma douleur morte）」：douleur morte（死んだ苦しみ）──苦しみが「死んで」微笑みに変わる、という連1〜4の毒・苦悩の解消。「私を我を忘れさせる霊（l'esprit / Qui me transporte）」：transporter（陶酔させる・運び去る）──連2の「extase（忘我）」の昇華版。"
+    },
+    {
+      "paragraphId": 15,
+      "type": "commentary",
+      "anchor": "Ô ma divinité\nVictorieuse,\nPendant l'éternité\nMystérieuse,\nTes yeux, insoucieux\nDe nos désastres,\nSeront comme des cieux\nÉclatants d'astres.",
+      "body": "詩の結語（連15〜16）：「おお我が勝利の女神よ」という最後の呼格と、星のような目による締め。「我が女神（ma divinité）」：詩集タイトル「Apothéose（神格化）」の完成──「ô ma sœur（我が姉妹）」（連1）→「je t'adore（おまえを崇拝する）」（連5）→「ô ma divinité（我が女神）」（連15）という呼称の昇格。「神秘の永遠（l'éternité / Mystérieuse）」：「Nuit d'étoiles」§4の「la Nuit sacrée（聖なる夜）」・「ヴァン・レルベルグ詩集の silence mystérieux」との連絡。「我々の災厄を意に介さない（insoucieux / De nos désastres）」：insoucieux（無関心な）──神は人間の苦しみに無関心という逆説的な神格の定義。「星々に輝く天のよう（comme des cieux / Éclatants d'astres）」：「Nuit d'étoiles」§5の「La mer est comme les cieux / Resplendissante d'étoiles（海は天のように星に輝く）」と同一構文──comme des cieux / éclatants d'étoiles（星の天のよう）という詩集内の変奏。目＝星という等式で詩集全体を閉じる。"
+    }
+  ]
+}
