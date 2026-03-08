@@ -1,0 +1,76 @@
+{
+  "id": "banville_antiope",
+  "title": "Antiope",
+  "author": "Théodore de Banville",
+  "source": "Les Princesses, Alphonse Lemerre, Paris, 1890 (p. 231–232). 照合出典: wikisource.org (Les Princesses (recueil)/Antiope).",
+  "year": "1890",
+  "firstPublication": "Les Princesses, Alphonse Lemerre, Paris, 1890 (p. 231–232).",
+  "difficulty": "中級",
+  "category": "banville",
+  "originalLang": "fr-FR",
+  "modernRelevance": "★★★★☆",
+  "context": "テオドール・ド・バンヴィル（Théodore de Banville, 1823–1891）の詩集『王女たち（Les Princesses）』（1890）第7篇（p. 231–232）。全14行のソネット（4-4-3-3行）。エピグラフはテオフィル・ゴーティエ「ル・テルモドン（Le Thermodon）」から──真珠色の肌を持つアマゾンの戦士たちが川の泥の中に腕を投げ出して死んでいる情景の6行引用。詩の場面：アイリソス（イリソス川、アテネ近郊）の岸辺でテセウスがアマゾン族の戦士たちを打ち破った後の戦場──瀕死の馬・消えかけた目・血の露・折れた剣。ただし詩の主人公アンティオペは一人だけ戦い続ける──血が髪から滴り、胸は血に濡れ、折れた剣を振るう最後の抵抗の場面で詩は閉じる。連作内の「死と血の美」という詩集の主題を最も激しく展開する一篇。",
+  "keywords": ["Antiope", "Amazone", "テーセウス", "sang", "épée", "戦場", "アマゾン", "ソネット"],
+  "relatedTexts": [
+    "banville_les_princesses",
+    "banville_andromede",
+    "banville_pasiphae",
+    "gautier_l_art"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "french": "Près du clair Ilissos au rivage fleuri\nL'indomptable Thésée a vaincu les guerrières.\nMourantes, leurs chevaux les traînent dans les pierres :\nPas un de ces beaux corps qui ne râle meurtri.",
+      "provisionalTranslation": "花咲く岸辺の清らかなイリソスのほとりで\n屈服を知らぬテセウスがアマゾンの女戦士たちに勝った。\n瀕死の状態で、彼女たちの馬が彼女たちを石の上に引きずっていく：\nこれらの美しい体のうち傷ついて喘いでいないものは一つもない。"
+    },
+    {
+      "id": 2,
+      "french": "Le silence est affreux, et parfois un grand cri\nL'interrompt. Sous l'effort des lances meurtrières,\nOn voit des yeux, éteints déjà, sous les paupières\nS'entr'ouvrir. Tout ce peuple adorable a péri.",
+      "provisionalTranslation": "沈黙は恐ろしく、時折一つの大きな叫びが\nそれを破る。殺戮の槍の力の下で、\nすでに消えかけた目が、まぶたの下で\n半開きになるのが見える。この愛しい民はすべて滅んだ。"
+    },
+    {
+      "id": 3,
+      "french": "Antiope blessée, haletante, épuisée,\nCombat encor. Le sang, ainsi qu'une rosée,\nCoule de ses cheveux et tombe sur son flanc.",
+      "provisionalTranslation": "アンティオペは傷つき、息を切らし、疲れ果てながら、\nなおも戦っている。血は露のように\n彼女の髪から流れ落ちて脇腹に落ちる。"
+    },
+    {
+      "id": 4,
+      "french": "Sa poitrine superbe et fière en est trempée,\nEt sa main, teinte aussi dans la pourpre du sang,\nAgite le tronçon farouche d'une épée.",
+      "provisionalTranslation": "その堂々として誇り高い胸はそれに濡れ、\nその手も血の緋色に染まりながら、\n折れた剣の荒々しい断片を振るっている。"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "prosody",
+      "anchor": null,
+      "body": "全14行のソネット（4-4-3-3行）。韻律：Q1 fleuri/meurtri（A）・guerrières/pierres（B）→ ABBA。Q2 cri/péri（A）・meurtrières/paupières（B）→ ABBA。T1 épuisée/rosée（C）・flanc（D）→ CCD（隣接韻で閉じる）。T2 trempée（C）・sang（D）・épée（C）→ CDC（trempée/épée が包み韻）。アレクサンドラン（12音節）基調。エピグラフ：テオフィル・ゴーティエ「Le Thermodon（テルモドン川）」──ゴーティエは「Antiope」の先行詩人。バンヴィルの師でもあるゴーティエへの明示的な致敬──「Les Princesses」巻頭詩がボードレール「L'Idéal」を引用したのと並ぶ文学的系譜の宣言。詩全体の構造：Q1〜Q2「戦場全体の描写（戦士たち複数）」→ T1〜T2「アンティオペ一人の特写」──群衆から個人へのズーム。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "glossary",
+      "anchor": "L'indomptable Thésée a vaincu les guerrières",
+      "body": "アンティオペ（Antiope）：ギリシャ神話のアマゾン族の女王（または王女）。英雄テセウス（Thésée）に捕らえられアテネに連れ去られた、または愛し合ったとも伝えられる。アマゾン族：小アジアのテルモドン川（Thermodon、現在のトルコ）流域に住むとされた女戦士の部族──エピグラフのゴーティエ詩のタイトル「Le Thermodon」はこの川。「Ilissos（イリソス川）」：アテネ近郊の川──テセウスとアマゾンの戦い（アマゾノマキア）はアテネ近郊で行われたとされる伝説に基づく。エピグラフのゴーティエ「Le Thermodon」引用（6行）：「ああ！これらすべての真珠色の肌の体に / 死はすでにその紺碧の青ざめを置いた / 彼女たちにはただ血だけが赤い / その諦めた腕は川の泥に浸かっている、両手を開いて / 緑の藻の間に / 水が通りすがりに持ち上げる」──バンヴィルはゴーティエの静的な死後描写を受け、アンティオペ一人の生きた抵抗で応答する。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "Le silence est affreux, et parfois un grand cri\nL'interrompt. Sous l'effort des lances meurtrières,\nOn voit des yeux, éteints déjà, sous les paupières\nS'entr'ouvrir. Tout ce peuple adorable a péri.",
+      "body": "Q2：戦場の音響と視覚の混合描写──死の直前の身体反応。「恐ろしい沈黙（silence est affreux）」：affreux（恐ろしい）──「Van Lerberghe」詩群の silences（沈黙）と対照的な「恐ろしい」沈黙。「Sous les arches de roses」§3の静謐な沈黙と詩集横断的対比。「消えかけた目がまぶたの下で半開きになる（yeux, éteints déjà, sous les paupières / S'entr'ouvrir）」：éteints（消えた・死んだ）目が S'entr'ouvrir（半開きになる）──死の痙攣として目が開く瞬間の描写。「La Mort」§5の「yeux sont pleins de nuages（目が雲に満ちる）」との連絡──死の目の詩集横断的語彙。「この愛しい民はすべて滅んだ（Tout ce peuple adorable a péri）」：adorable（愛しい・崇拝すべき）──死者への讃辞の形容詞。a péri（滅んだ）：連2の締め──Q2 末で群衆の死が確定的に宣言される。"
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "Antiope blessée, haletante, épuisée,\nCombat encor. Le sang, ainsi qu'une rosée,\nCoule de ses cheveux et tombe sur son flanc.",
+      "body": "詩の転換──群衆から個人アンティオペへのズーム。「傷つき、息を切らし、疲れ果てながら（blessée, haletante, épuisée）」：三語の形容詞列挙──すべて女性形過去分詞。blessée（傷ついた）/ haletante（喘ぐ）/ épuisée（疲弊した）という三段階の身体的消耗。「なおも戦っている（Combat encor）」：encor（まだ）──「Apothéose」§4のencor との連絡。すべてが滅んだ（Q2末）後に一人だけ戦い続けるという逆転。「血は露のように（Le sang, ainsi qu'une rosée）」：血（sang）を「露（rosée）」に喩える──「Les Princesses」§4の「fleurs sanglantes（血の花）」と同一の「血の美化」。rosée（露）：植物的・柔らかいイメージによる血の残酷さの中和──高踏派的な ekphrasis の美化。「髪から流れ落ちて脇腹に落ちる（Coule de ses cheveux et tombe sur son flanc）」：cheveux（髪）→ flanc（脇腹）という身体の垂直移動──「Apothéose」§13の「chevelures（髪）」・「Les Princesses」§4の「chevelures étincelantes（輝く髪）」との連絡（ただしこちらは血に濡れた髪）。"
+    },
+    {
+      "paragraphId": 4,
+      "type": "commentary",
+      "anchor": "Sa poitrine superbe et fière en est trempée,\nEt sa main, teinte aussi dans la pourpre du sang,\nAgite le tronçon farouche d'une épée.",
+      "body": "詩の結語──アンティオペの最後の姿で閉じる。「堂々として誇り高い胸（poitrine superbe et fière）」：superbe（壮麗な・誇り高い）et fière（誇らしい）──血に濡れながらも形容詞が尊厳を保つ。「血の緋色に染まった手（main, teinte dans la pourpre du sang）」：pourpre（緋・紫）──「Les Princesses」§2の「Du sang et de la pourpre（血と緋）」の直接的な語彙反復。バンヴィルの詩集全体を貫く血/緋の色彩。「折れた剣の荒々しい断片（le tronçon farouche d'une épée）」：tronçon（断片・切れ端）──折れた剣の一部だけが残るという戦場の現実。farouche（荒々しい・野性的）──「Pasiphaé」§4の「sauvage Idéal（野性的なイデアル）」と同系の語彙。詩の結語は動詞「Agite（振るう）」──それ以外は静かな死の中で、アンティオペ一人が動詞を持ち続ける。",
+      "targetId": "banville_les_princesses",
+      "targetParagraphId": 2
+    }
+  ]
+}
