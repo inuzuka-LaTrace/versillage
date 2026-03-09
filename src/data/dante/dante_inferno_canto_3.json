@@ -1,0 +1,285 @@
+{
+  "id": "dante_inferno_canto_3",
+  "title": "Inferno — Canto III",
+  "author": "Dante Alighieri",
+  "source": "La Commedia (Divina Commedia), 1304–1321頃成立。底本: Petrocchi版 (La Commedia secondo l'antica vulgata, 1966–1967)。照合: danteonline.it (Società Dantesca Italiana公式テキスト); Princeton Dante Project (princeton.edu/dante); Dartmouth Dante Project; Singleton, C.S., Dante Alighieri: The Divine Comedy, Inferno (Princeton UP, 1970–1975)",
+  "year": "1304–1321",
+  "firstPublication": "写本による流布。印刷初版: Foligno, 1472 (Johannes Numeister)。「神曲 (Divina Commedia)」の名称はボッカッチョに由来し、ダンテ自身は「Commedia」と呼んだ。",
+  "difficulty": "上級",
+  "category": "dante",
+  "canticle": "Inferno",
+  "canto": "III",
+  "originalLang": "it-IT",
+  "modernRelevance": "★★★★★",
+  "context": "Canto IIIは地獄の入口──門の銘文から始まる、神曲最も有名な場面の一つ。ウェルギリウスに導かれたダンテは地獄の門をくぐり、まだ地獄本体には入らぬ「前室（ante-Inferno）」を通過する。そこには善悪いずれにも与しなかった「無関心者（ignavi）」が、永遠に旗を追って走り回り、虻と蜂に刺され続ける。ダンテは名を伏せた「偉大な拒否をした者」を認め、沈黙する（v.59–60）。次いでアケロン川の岸辺で、漕ぎ手カロン（Caronte）が生者ダンテを排除しようとするが、ウェルギリウスが神の意志を盾に制する。カロンの「別の舟・別の港から」という謎の言葉ののち、魂たちは落ち葉のように次々と舟に乗り込む。ウェルギリウスが「恐れが欲求に変わる（la tema si volve in disio）」と説明した直後、地震と赤い閃光が起き、ダンテは気絶する──Canto IVの辺獄（Limbo）の夜明けへ。\n\n詩学的核心：「望みをすべて捨てよ（Lasciate ogne speranza）」は西洋文化が地獄から引き出した最も凝縮したイメージ。無関心者への軽蔑（「語らず、見て、通り過ぎよ」）はダンテの政治的・道徳的信念──行動する市民──の裏返し。カロンのシーンはウェルギリウス『アエネイス』第6巻との詩的対話であり、落ち葉の直喩は先達からの意識的な引用と変容。ダンテは先達を引用することで超克する。",
+  "keywords": [
+    "Lasciate ogne speranza",
+    "望みを捨てよ",
+    "地獄の門",
+    "無関心者",
+    "ignavi",
+    "il gran rifiuto",
+    "偉大な拒否",
+    "カロン",
+    "Caronte",
+    "アケロン",
+    "la tema si volve in disio",
+    "non ragioniam di lor"
+  ],
+  "relatedTexts": [
+    "dante_inferno_canto_1",
+    "dante_inferno_canto_5",
+    "dante_inferno_canto_26"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "verses": "v.1–9",
+      "speaker": "Dante-narratore",
+      "original": "«Per me si va ne la città dolente,\nper me si va ne l'etterno dolore,\nper me si va tra la perduta gente.\n\nGiustizia mosse il mio alto fattore;\nfecemi la divina podestate,\nla somma sapïenza e 'l primo amore.\n\nDinanzi a me non fuor cose create\nse non etterne, e io etterno duro.\nLasciate ogne speranza, voi ch'intrate».",
+      "provisionalTranslation": "「私を通れば悲しみの都に至る、\n私を通れば永遠の苦しみに至る、\n私を通れば滅びた人々のもとに至る。\n\n正義が私の高き造り手を動かした；\n神の権能が私を作り、\n至高の知恵と根源の愛とが。\n\n私の前に創られたものは\n永遠のもの以外になく、私は永遠に続く。\n望みをすべて捨てよ、ここに入る者よ」。"
+    },
+    {
+      "id": 2,
+      "verses": "v.10–12",
+      "speaker": "Dante-narratore",
+      "original": "Queste parole di colore oscuro\nvid'io scritte al sommo d'una porta;\nper ch'io: «Maestro, il senso lor m'è duro».",
+      "provisionalTranslation": "これらの言葉を暗い色で\n私はある門の上部に書かれているのを見た；\nそのため私は言った：「師よ、その意味が私には辛い」。"
+    },
+    {
+      "id": 3,
+      "verses": "v.13–18",
+      "speaker": "Virgilio",
+      "original": "Ed elli a me, come persona accorta:\n«Qui si convien lasciare ogne sospetto;\nogne viltà convien che qui sia morta.\n\nNoi siam venuti al loco ov'i' t'ho detto\nche tu vedrai le genti dolorose\nc'hanno perduto il ben de l'intelletto».",
+      "provisionalTranslation": "彼は私に、分別ある者のように答えた：\n「ここではあらゆる疑念を捨てなければならない；\nあらゆる卑怯はここで死ななければならない。\n\n我々は私があなたに言った場所に来た──\nあなたは悲しむ人々を見るだろう、\n知性の善を失った者たちを」。"
+    },
+    {
+      "id": 4,
+      "verses": "v.19–21",
+      "speaker": "Dante-narratore",
+      "original": "E poi che la sua mano a la mia puose\ncon lieto volto, ond'io mi confortai,\nmi mise dentro a le segrete cose.",
+      "provisionalTranslation": "そして彼が穏やかな表情で私の手に手を重ねた後、\nそれで私は気が楽になり、\n彼は私を秘められた事どもの中へと入れた。"
+    },
+    {
+      "id": 5,
+      "verses": "v.22–30",
+      "speaker": "Dante-narratore",
+      "original": "Quivi sospiri, pianti e alti guai\nrisonavan per l'aere sanza stelle,\nper ch'io al cominciar ne lagrimai.\n\nDiverse lingue, orribili favelle,\nparole di dolore, accenti d'ira,\nvoci alte e fioche, e suon di man con elle\n\nfacevano un tumulto, il qual s'aggira\nsempre in quell'aura sanza tempo tinta,\ncome la rena quando turbo spira.",
+      "provisionalTranslation": "そこでは溜め息と泣き声と高い嘆きの声が\n星のない空気の中に響き渡っていた、\nそのため私は最初から泣いた。\n\n様々な言語、恐ろしい話し言葉、\n苦しみの言葉、怒りの声調、\n高い声と低い声、そして手を打つ音が\n\n一つの喧騒を作り出していた、それは\n時の染みのないその空気の中に常に渦巻いていた、\n旋風が吹くときの砂のように。"
+    },
+    {
+      "id": 6,
+      "verses": "v.31–33",
+      "speaker": "Dante-narratore",
+      "original": "E io ch'avea d'error la testa cinta,\ndissi: «Maestro, che è quel ch'i' odo?\ne che gent'è che par nel duol sì vinta?»",
+      "provisionalTranslation": "そして私は頭を迷いで包まれながら言った：\n「師よ、私が聞くのは何ですか？\nそして苦しみにこれほど打ちのめされているように見える人々は誰ですか？」"
+    },
+    {
+      "id": 7,
+      "verses": "v.34–42",
+      "speaker": "Virgilio",
+      "original": "Ed elli a me: «Questo misero modo\ntegnon l'anime triste di coloro\nche visser sanza 'nfamia e sanza lodo.\n\nMischiate sono a quel cattivo coro\ndeli angeli che non furon ribelli\nnè fur fedeli a Dio, ma per sé fuoro.\n\nCacciànli i ciel per non esser men belli,\nnè lo profondo 'nferno li riceve,\nch'alcuna gloria i rei avrebber d'elli».",
+      "provisionalTranslation": "彼は私に：「この惨めな様式を\n悲しき魂たちは保っている、\n悪名もなく誉れもなく生きた者たちの。\n\n彼らは混ざり合っている、あの不名誉な合唱団と──\n神への反逆者でもなく\n神への忠実者でもなかった天使たちと、ただ自分のためだけにあった者たちと。\n\n天はそれらを追い出した、美しさを損なわないために、\n深い地獄もそれらを受け入れない、\n罪人たちがそれらから何らかの栄光を得るといけないから」。"
+    },
+    {
+      "id": 8,
+      "verses": "v.43–44",
+      "speaker": "Dante-narratore",
+      "original": "E io: «Maestro, che è tanto greve\na lor che lamentar li fa sì forte?»",
+      "provisionalTranslation": "そして私は：「師よ、彼らをこれほど強く嘆かせるほど\n彼らには何がそれほど重いのですか？」"
+    },
+    {
+      "id": 9,
+      "verses": "v.45–51",
+      "speaker": "Virgilio",
+      "original": "Rispose: «Dicerolti molto breve.\n\nQuesti non hanno speranza di morte,\ne la lor cieca vita è tanto bassa,\nche 'nvidiosi son d'ogne altra sorte.\n\nFama di loro il mondo esser non lassa;\nmisericordia e giustizia li sdegna:\nnon ragioniam di lor, ma guarda e passa».",
+      "provisionalTranslation": "彼は答えた：「ごく短く言おう。\n\n彼らには死の希望がなく、\n彼らの盲目の生はあまりにも卑しいので、\n彼らは他のあらゆる運命を羨んでいる。\n\n世間は彼らの評判を残すことを許さない；\n憐れみも正義も彼らを顧みない：\n彼らについては語らず、見て、通り過ぎよ」。"
+    },
+    {
+      "id": 10,
+      "verses": "v.52–69",
+      "speaker": "Dante-narratore",
+      "original": "E io, che riguardai, vidi una 'nsegna\nche girando correva tanto ratta,\nche d'ogne posa mi parea indegna;\n\ne dietro le venìa sì lunga tratta\ndi gente, ch'i' non averei creduto\nche morte tanta n'avesse disfatta.\n\nPoscia ch'io v'ebbi alcun riconosciuto,\nvidi e conobbi l'ombra di colui\nche fece per viltade il gran rifiuto.\n\nIncontanente intesi e fui certo\nche questa era la setta d'i cattivi,\na Dio spiacenti e a' nemici sui.\n\nQuesti sciaurati, che mai non fur vivi,\neran ignudi e stimolati molto\nda mosconi e da vespe ch'eran ivi;\n\nelle rigavan lor di sangue il volto,\nche, mischiato di lagrime, a' lor piedi\nda fastidiosi vermi era ricolto.",
+      "provisionalTranslation": "そして私は目を向けると、一つの旗を見た、\n回りながらあまりに速く走り、\nどんな休息にも値しないと見えた；\n\nそしてその後にこれほど長い列の\n人々がついてきていた、私には信じられなかった、\n死がこれほど多くの者を打ち倒したとは。\n\n私がその中に何人かを認めた後、\n私はあの者の影を見て知った──\n卑怯ゆえに偉大な拒否をした者を。\n\n私はすぐに理解して確信した、\nこれが悪人たちの徒党であることを、\n神と神の敵の両方に厭われる者たちの。\n\nこれらの哀れな者たちは、生きたことが一度もなく、\n裸であり、激しく刺されていた\nそこにいた虻と蜂に；\n\nそれらは顔を血で描き、\nその血は涙と混じり合って、彼らの足元に\n嫌らしい虫によって集められていた。"
+    },
+    {
+      "id": 11,
+      "verses": "v.70–81",
+      "speaker": "Dante-narratore",
+      "original": "E poi ch'a riguardar oltre mi diedi,\nvidi genti a la riva d'un gran fiume;\nper ch'io dissi: «Maestro, or mi concedi\n\nch'i' sappia quali sono, e qual costume\nle fa di trapassar parer sì pronte,\ncom'i' discerno per lo fioco lume».\n\nEd elli a me: «Le cose ti fier conte\nquando noi fermerem li nostri passi\nsu la trista riviera d'Acheronte».\n\nAllor con li occhi vergognosi e bassi,\ntemendo no 'l mio dir li fosse grave,\ninfino al fiume del parlar mi trassi.",
+      "provisionalTranslation": "そしてさらに向こうを見渡した後、\n私は大きな川の岸に人々を見た；\nそれゆえ私は言った：「師よ、今私に許してください\n\n彼らが誰なのかを知ることを、そして何の習いが\n彼らを川を渡るのをこれほど急いでいるように見えさせるのかを、\n私がぼんやりとした光で識別するように」。\n\n彼は私に：「物事はあなたに明らかになるだろう\n私たちが歩みを止める時に\n悲しいアケロン川の岸辺で」。\n\nそこで恥ずかしく伏し目がちに、\n私の言葉が彼の重荷にならないかと恐れながら、\n私は川まで話すことを控えた。"
+    },
+    {
+      "id": 12,
+      "verses": "v.82–89",
+      "speaker": "Caronte",
+      "original": "Ed ecco verso noi venir per nave\nun vecchio, bianco per antico pelo,\ngridando: «Guai a voi, anime prave!\n\nNon isperate mai veder lo cielo:\ni' vegno per menarvi a l'altra riva\nne le tenebre etterne, in caldo e 'n gelo.\n\nE tu che se' costì, anima viva,\npartiti da cotesti che son morti».",
+      "provisionalTranslation": "そして見よ、舟に乗って私たちの方へやって来た、\n一人の老人が、古い毛で白く、\n叫びながら：「災いあれ、お前たちに、邪悪な魂よ！\n\n天を見ることを決して望むな：\n私は来た、お前たちを向こう岸へと連れていくために\n永遠の闇の中に、熱の中に、そして氷の中に。\n\nそしてお前、そこにいる者よ、生きた魂よ、\n離れよ、死んだこれらの者たちから」。"
+    },
+    {
+      "id": 13,
+      "verses": "v.90–93",
+      "speaker": "Caronte",
+      "original": "Ma poi che vide ch'io non mi partiva,\ndisse: «Per altra via, per altri porti\nverrai a piaggia, non qui, per passare:\npiù lieve legno convien che ti porti».",
+      "provisionalTranslation": "しかし私が離れないのを見て後、\n彼は言った：「別の道で、別の港から\nお前は岸に来るだろう、ここではなく、渡るために：\nもっと軽い舟がお前を運ばなければならない」。"
+    },
+    {
+      "id": 14,
+      "verses": "v.94–96",
+      "speaker": "Virgilio",
+      "original": "E 'l duca mio a lui: «Caron, non ti crucciare:\nvuolsi così colà dove si puote\nciò che si vuole, e più non dimandare».",
+      "provisionalTranslation": "そして私の案内者は彼に：「カロン、苛立つな：\nこうすることが望まれている、あちらで、\n望まれることのできる場所で、そしてそれ以上問うな」。"
+    },
+    {
+      "id": 15,
+      "verses": "v.97–111",
+      "speaker": "Dante-narratore",
+      "original": "Quinci fuor quete le lanose gote\nal nocchier de la livida palude,\nche 'ntorno a li occhi avea di fiamme rote.\n\nMa quell'anime, ch'eran lasse e nude,\ncangiar colore e dibattero i denti,\nratto che 'nteser le parole crude.\n\nBestemmiavano Dio e lor parenti,\nl'umana spezie e 'l loco e 'l tempo e 'l seme\ndi lor semenza e di lor nascimenti.\n\nPoi si ritrasser tutte quante insieme,\nforte piangendo, a la riva malvagia\nch'attende ciascun uom che Dio non teme.\n\nCaronte dimonio, con occhi di bragia,\nloro accennando, tutte le raccoglie;\nbatte col remo qualunque s'adagia.",
+      "provisionalTranslation": "そこで毛深い頬は静まった\n汚れた沼の船頭の、\n目の周りに炎の輪を持つ者の。\n\nしかしそれらの魂たちは、疲れ、裸で、\n色を変えて歯を鳴らした、\n残酷な言葉を聞き取るや否や。\n\n彼らは神と彼らの親と、\n人間の種族と場所と時と\n彼らの種の種と彼らの誕生を呪った。\n\nそして皆一緒に後退した、\n激しく泣きながら、悪しき岸辺へと、\n神を恐れぬすべての人を待ち受ける岸辺へ。\n\n悪魔カロンは燃え炭のような目で、\n彼らに合図しながら、すべてを集める；\nのろのろしている者は誰でも櫂で打つ。"
+    },
+    {
+      "id": 16,
+      "verses": "v.112–120",
+      "speaker": "Dante-narratore",
+      "original": "Come d'autunno si levan le foglie\nl'una appresso de l'altra, fin che 'l ramo\nvede a la terra tutte le sue spoglie,\n\nsimilemente il mal seme d'Adamo\ngittansi di quel lito ad una ad una,\nper cenni come augel per suo richiamo.\n\nCosì sen vanno su per l'onda bruna,\ne avanti che sien di là discese,\nancora di qua nuova schiera s'aduna.",
+      "provisionalTranslation": "秋に葉が舞い落ちるように\n一枚また一枚と、枝が\n地面にすべての衣を見るまで、\n\n同様にアダムの悪しき種は\nあの岸辺から一人また一人と身を投げる、\n合図に従って鳥がその呼び声に従うように。\n\nそのようにして彼らは暗い波の上を行く、\n彼らがあちら側に降り立つ前に、\nこちら側にはまた新しい群れが集まる。"
+    },
+    {
+      "id": 17,
+      "verses": "v.121–135",
+      "speaker": "Dante-narratore",
+      "original": "«Figliuol mio», disse 'l maestro cortese,\n«quelli che muoion ne l'ira di Dio\ntutti convegnon qui d'ogne paese;\n\ne pronti sono a trapassar lo rio,\nché la divina giustizia li sprona,\nsì che la tema si volve in disio.\n\nQuinci non passa mai anima buona;\ne però, se Caron di te si lagna,\nben puoi sapere omai che 'l suo dir suona».\n\nFinito questo, la buia campagna\ntremò sì forte, che de lo spavento\nla mente di sudore ancor mi bagna.\n\nLa terra lagrimosa diede vento,\nche balenò una luce vermiglia,\ne io caddi come l'uom cui sonno piglia.",
+      "provisionalTranslation": "「私の息子よ」、礼儀正しい師は言った、\n「神の怒りの中で死ぬ者たちは\nすべてのあらゆる国からここに集まる；\n\nそして彼らは川を渡るのを急ぐ、\n神の正義が彼らに拍車をかけるから、\n恐れが欲求に変わるほどに。\n\nここを善き魂が渡ることは決してない；\nだからもし、カロンがお前に文句を言うなら、\nその言葉が何を意味するかはもう十分分かるだろう」。\n\nこれが終わると、暗い野原は\nこれほど激しく震えた、その恐怖で\n私の心は今でも汗をかく。\n\n涙の地は風を発し、\n一条の赤い光が閃き、\n私は眠りに捕らわれた人のように倒れた。"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "prosody",
+      "anchor": "Per me si va ne la città dolente",
+      "body": "門の銘文（v.1–9）。テルツァ・リーマ（ABA BCB CDC）の3連、全9行で構成された完璧な建築的詩形。「Per me si va（私を通れば）」の三重反復（anaphora）によって、門そのものが語るという詩的発明が成立する──石碑の碑文として書かれた言語が生命を持つ。中世建築のポルタル銘文の伝統を詩行に変換する。ウェルギリウス的な碑文詩（ekphrasis）の超克。第3連「Dinanzi a me non fuor cose create / se non etterne（私の前に創られたものは永遠のもの以外になく）」──地獄の永遠性が宣言される。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "allusion",
+      "anchor": "fecemi la divina podestate,\nla somma sapïenza e 'l primo amore.",
+      "body": "「神の権能が私を作り、至高の知恵と根源の愛とが（fecemi la divina podestate, / la somma sapïenza e 'l primo amore）」──三位一体（父・子・聖霊）の三属性への対応：父＝権能（podestate）、子＝知恵（sapïenza）、聖霊＝愛（amore）。アウグスティヌス『神の国』第11巻のTrinitas論（存在・認識・愛）を詩的に圧縮。地獄は神の懲罰ではなく、神の正義・知恵・愛の三属性が統一した秩序として建てられている──この神学的命題を門の銘文が体現する。スコラ哲学的厳密さと詩的凝縮の融合。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "Lasciate ogne speranza, voi ch'intrate",
+      "body": "「望みをすべて捨てよ、ここに入る者よ（Lasciate ogne speranza, voi ch'intrate）」──西洋文化史上最も引用された詩行の一つ。地獄の本質を「希望の不在」として定義する。神学的根拠：希望（speranza）は信仰・希望・愛の「神学的徳」のひとつであり、その消滅は神との断絶そのもの。ボルヘスは「この一行はダンテが発明した最も恐るべき概念だ──地獄とは単なる苦痛の場所ではなく、希望そのものが消滅する場所だ」と述べた（『ダンテ九篇』1982）。近代への影響：カフカ『審判』の「法の門の前で」、サルトル『出口なし』（「地獄とは他人だ」）の直接的源泉。"
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "Qui si convien lasciare ogne sospetto;\nogne viltà convien che qui sia morta.",
+      "body": "「ここではあらゆる疑念を捨てなければならない（Qui si convien lasciare ogne sospetto）」──ウェルギリウスのダンテへの指示は単なる「怖がるな」ではなく、知的・道徳的な覚悟の要求。「sospetto（疑念）」と「viltà（卑怯）」の対義語として「virtù（徳・勇気）」が暗示される。Canto Iで「この荒野から逃れるには別の旅が必要」と言われたことへの応答──真理を見るには道徳的勇気が必要というダンテの認識論。「c'hanno perduto il ben de l'intelletto（知性の善を失った者たち）」──「知性の善」はアリストテレス的な理性の目的（真理認識）。無関心者は理性の善を失ったのではなく、それを使わなかった。"
+    },
+    {
+      "paragraphId": 4,
+      "type": "prosody",
+      "anchor": "la sua mano a la mia puose / con lieto volto",
+      "body": "「穏やかな表情で私の手に手を重ねた（la sua mano a la mia puose / con lieto volto）」──師弟の身体的接触の記述。「霊（ombra）」が手を持つという存在論的逆説をダンテは問わず詩的事実として提示する。「con lieto volto（穏やかな・喜ばしい表情で）」はウェルギリウスの父性的な励ましを示す。Canto IIでベアトリーチェの命を受けていることが明かされ、この手のしぐさは「神意の伝達」として再解釈される。三つの動詞（puose・confortai・mise）の連鎖が師による弟子の「秘された事どもへの導入」を一気に完成させる。"
+    },
+    {
+      "paragraphId": 5,
+      "type": "prosody",
+      "anchor": "Diverse lingue, orribili favelle,\nparole di dolore, accenti d'ira,\nvoci alte e fioche, e suon di man con elle",
+      "body": "地獄前室の音響風景（v.25–27）。3行にわたる列挙法（enumeratio）が音の多様性・混沌を再現する。「Diverse lingue（様々な言語）」──バベルの塔以降の言語の分裂が地獄で完成する暗示。「accenti d'ira（怒りの声調）」と「voci fioche（低い声）」の対置は音の質の多様性を示す。「suon di man（手を打つ音）」は嘆きの身振り──言語が失効した後に残る身体的表現。ダンテの詩法の特徴：視覚より先に聴覚で地獄に入る（感覚の序列的入門）。「per ch'io al cominciar ne lagrimai（そのため私は最初から泣いた）」──ダンテ自身の感覚的共感が地獄への入門儀礼として機能する。"
+    },
+    {
+      "paragraphId": 5,
+      "type": "commentary",
+      "anchor": "come la rena quando turbo spira",
+      "body": "「旋風が吹くときの砂のように（come la rena quando turbo spira）」──地獄の音響的混沌を砂嵐の直喩で捉える。Canto Iの溺者の直喩と同様、ダンテの直喩は常に具体的な自然現象から引く。「aura sanza tempo tinta（時の染みのない空気）」は時間のない地獄の永遠性を示す──変化も進歩もない場としての地獄。煉獄の時間性（浄化・進歩・希望）との根本的対照。この直喩は風・砂の「永続する運動」によって地獄の「変化なき永続」を逆説的に表現する。"
+    },
+    {
+      "paragraphId": 7,
+      "type": "commentary",
+      "anchor": "che visser sanza 'nfamia e sanza lodo",
+      "body": "「悪名もなく誉れもなく生きた（visser sanza 'nfamia e sanza lodo）」──無関心者（ignavi）の定義。ダンテが神曲で創出した独自の神学的カテゴリ：善でも悪でもなく、ただ無関心であった者たちは地獄本体にも入れない。「天はそれらを追い出した、美しさを損なわないために（Cacciànli i ciel per non esser men belli）」──天の美的秩序への汚染。「深い地獄もそれらを受け入れない（né lo profondo 'nferno li riceve）」──悪であることすら固有の「偉大さ」を持つが、無関心者はそれすら欠く。ダンテの政治的信念（行動する市民・歴史への関与）の詩的宣言。T.S.エリオットは『荒地』（1922）でこの場面を引用し「I had not thought death had undone so many」と変容させた。"
+    },
+    {
+      "paragraphId": 9,
+      "type": "commentary",
+      "anchor": "non ragioniam di lor, ma guarda e passa",
+      "body": "「彼らについては語らず、見て、通り過ぎよ（non ragioniam di lor, ma guarda e passa）」──神曲最も引用される格言の一つ。無関心者への究極の軽蔑：語ることすら価値がない。動詞の三項対立：ragioniam（語る）→ guarda（見る）→ passa（通り過ぎる）の順序は関与の深さの降下を示す。ウェルギリウスのこの言葉はダンテの道徳的立場を完璧に圧縮する──無関心は中立ではなく積極的な罪であり、注目にすら値しない。ボルヘスはこれを「道徳的厳格さの完璧な詩的定式化」と評した。ハンナ・アレント「悪の凡庸さ」（Eichmann in Jerusalem, 1963）との並置が現代的読解を開く。"
+    },
+    {
+      "paragraphId": 10,
+      "type": "prosody",
+      "anchor": "ch'i' non averei creduto / che morte tanta n'avesse disfatta",
+      "body": "「死がこれほど多くの者を打ち倒したとは信じられなかった（ch'i' non averei creduto / che morte tanta n'avesse disfatta）」──無関心者の群れの圧倒的な多さへの驚き。T.S.エリオットは『荒地』（1922）第1部「死者の埋葬」でこの行を変容引用した：「I had not thought death had undone so many」。エリオットはダンテのante-Infernoをロンドンのロンドン橋を渡る通勤者の群れに重ね、20世紀の「生ける死者」のイメージを創出した──神曲の詩行の近代的転生の最も鮮やかな例。"
+    },
+    {
+      "paragraphId": 10,
+      "type": "commentary",
+      "anchor": "l'ombra di colui / che fece per viltade il gran rifiuto",
+      "body": "「卑怯ゆえに偉大な拒否をした者（che fece per viltade il gran rifiuto）」──神曲最大の謎の一つ（Canto Iのヴェルトロと並ぶ）。名を伏せた「偉大な拒否」の主：最有力候補は教皇ケレスティヌス5世（Celestino V、1294年、教皇位就任わずか5ヶ月で辞退、ボニファチウス8世の即位を招いた）。ダンテはボニファチウス8世を腐敗の元凶として激しく憎んだ（地獄篇Canto XIXで彼をシモニアの罪で予告地獄行きにする）。他の候補：ポンティウス・ピラトゥス、エサウ（長子権の放棄）。名の伏せ方そのものが詩的処罰──エーコは「この名の不記載こそが最大の処罰だ。名を言われないことが無関心者の罰の完成形」と論じた（『薔薇の名前』作者注記）。"
+    },
+    {
+      "paragraphId": 10,
+      "type": "commentary",
+      "anchor": "Questi sciaurati, che mai non fur vivi",
+      "body": "「これらの哀れな者たちは、生きたことが一度もなく（Questi sciaurati, che mai non fur vivi）」──「生きたことがない」という存在論的断罪。生の本質は選択・関与・行動であり、それを拒んだ者は「生きていた」と言えない。虻（mosconi）と蜂（vespe）に刺され続ける罰は、生前に何事にも「刺激を受けなかった」魂への鏡像的処罰──刺されることで初めて「感じる」しかない。涙と血が混じり合って虫に集められる（ricolto）というイメージの醜悪さが、道徳的空虚さの美学的刑罰として機能する。ダンテの「contrapasso（応報）」の法則の典型例。"
+    },
+    {
+      "paragraphId": 11,
+      "type": "commentary",
+      "anchor": "su la trista riviera d'Acheronte",
+      "body": "「悲しいアケロン川の岸辺で（su la trista riviera d'Acheronte）」──アケロン（Acheronte）は古典神話の冥界の川。ウェルギリウス『アエネイス』第6巻で霊魂がカロンの舟で渡る川をダンテは地獄前室と第1圏の境界として採用し、キリスト教的地獄に古典的冥界地理学を統合する。ダンテの地獄地理学では冥界の四つの川（アケロン・スティクス・プレゲトン・コキュートス）が一つの水系を成す──人間の悲嘆（涙）が地下で川となるとCanto XIV（v.94–120）で詳述される。川の名に「trista（悲しい）」という形容をつけることで、古典神話の固有名が感情的な意味を帯びる。"
+    },
+    {
+      "paragraphId": 12,
+      "type": "allusion",
+      "anchor": "un vecchio, bianco per antico pelo",
+      "body": "「一人の老人、古い毛で白く（un vecchio, bianco per antico pelo）」──カロン（Caronte）の登場。ウェルギリウス『アエネイス』第6巻（v.298–304）の老漕ぎ手カロンを直接引用しつつ、「目の周りに炎の輪（di fiamme rote）」という地獄的誇張で超克する。ウェルギリウスのカロンは「汚れた老人（portitor horrendus aquarum）」──ダンテのカロンは「悪魔（dimonio）」へと変容する（v.109）。引用→変容→超克というダンテの詩的対話の典型例。オウィディウス『変身物語』第4巻の冥界描写も背景にある。"
+    },
+    {
+      "paragraphId": 12,
+      "type": "commentary",
+      "anchor": "ne le tenebre etterne, in caldo e 'n gelo",
+      "body": "「永遠の闇の中に、熱の中に、そして氷の中に（ne le tenebre etterne, in caldo e 'n gelo）」──カロンの言葉が地獄全体の垂直的構造を先取りする。「in caldo e 'n gelo（熱と氷）」は地獄の全範囲を二極で要約：上部の圏の火責め（Canto V等）と最底部コキュートスの永久凍土（Canto XXXII–XXXIV）。構造的予告（prolepsis）の詩的設計。「tenebre etterne（永遠の闇）」は門の銘文「etterno」の反響──建築的な言語的統一性。"
+    },
+    {
+      "paragraphId": 13,
+      "type": "commentary",
+      "anchor": "Per altra via, per altri porti\nverrai a piaggia, non qui, per passare:\npiù lieve legno convien che ti porti",
+      "body": "「別の道で、別の港から（Per altra via, per altri porti）」──カロンの謎めいた言葉。「もっと軽い舟（più lieve legno）」は煉獄篇Canto IIで完全に実現する：天使が舵を取る白い舟がダンテを煉獄島に送り届ける（Purg. II, v.13–45）。この一行が煉獄篇冒頭の最も美しい場面への遠い伏線──詩的先読み（prolepsis）の技法。「lieve（軽い）」と地獄の「grave（重さ・苦しみ）」の対比は、神曲全体の上昇の詩学（重力からの解放）を凝縮する。",
+      "targetId": "dante_inferno_canto_1"
+    },
+    {
+      "paragraphId": 14,
+      "type": "commentary",
+      "anchor": "vuolsi così colà dove si puote / ciò che si vuole, e più non dimandare",
+      "body": "「こうすることが望まれている、あちらで、望まれることのできる場所で（vuolsi così colà dove si puote / ciò che si vuole）」──神の意志を直接名指しせずに婉曲表現で示す。Canto Iでウェルギリウスが神を「上に治める皇帝（quello imperador che là sù regna）」と婉曲に呼んだことの変奏。地獄でウェルギリウスが神の名を直接言えない──理性は神を「囲繞する」ことはできても「呼びかける」ことはできないというダンテの認識論的神学。「e più non dimandare（そしてそれ以上問うな）」の簡潔さがカロンへの圧倒的制止を示す。"
+    },
+    {
+      "paragraphId": 15,
+      "type": "commentary",
+      "anchor": "Bestemmiavano Dio e lor parenti,\nl'umana spezie e 'l loco e 'l tempo e 'l seme",
+      "body": "「彼らは神と彼らの親と、人間の種族と場所と時と種を呪った（Bestemmiavano Dio e lor parenti...）」──魂たちの呪いが神→親→人種→場所→時→種と宇宙的範囲に広がる構造。存在の全条件が呪詛される。これが無関心者との鮮烈な対照：忘れられた者たちが声もなく岸辺に集まる間、罪人たちは少なくとも「関与」する──呪いという形であれ。魂の自由意志の極端な逆説：神の正義を認識しつつ呪いながら、それでも強制されて従う。"
+    },
+    {
+      "paragraphId": 16,
+      "type": "prosody",
+      "anchor": "Come d'autunno si levan le foglie\nl'una appresso de l'altra, fin che 'l ramo\nvede a la terra tutte le sue spoglie,",
+      "body": "「秋に葉が舞い落ちるように（Come d'autunno si levan le foglie）」──ウェルギリウス『アエネイス』第6巻（v.309–312）の「落ち葉の直喩（simile delle foglie）」の直接引用と意識的変容。ウェルギリウスの原文では霊魂が舟に向かって能動的に集まる。ダンテでは魂が岸辺に「落ちる」──アダムの呪われた種が重力によって受動的に落下する。能動／受動の転倒が「恐れが欲求に変わる（la tema si volve in disio）」という逆説を詩的に体現する。神曲における先行作品との詩的交渉の最も意識的な例──ダンテはウェルギリウスを引用することで超克する。"
+    },
+    {
+      "paragraphId": 17,
+      "type": "commentary",
+      "anchor": "la tema si volve in disio",
+      "body": "「恐れが欲求に変わる（la tema si volve in disio）」──神曲の神学的逆説の核心。魂は地獄に行くことを恐れながら同時に望む──神の正義の秩序の中に自分の居場所を見出すことが魂の本性だから。神学的根拠：アウグスティヌス「我らの心はあなたの中に安らうまで休まらない（inquietum est cor nostrum donec requiescat in te）」の地獄的バージョン──魂は神との断絶すら「自分の場所」として欲する。エーコは「神曲の地獄は監獄ではなく、各魂が自らの内的論理を完成させる場だ」と述べた。ダンテの地獄論のうちこの一行が最も哲学的に深い──自由意志・神の正義・魂の本性の三者が収束する。"
+    },
+    {
+      "paragraphId": 17,
+      "type": "prosody",
+      "anchor": "e io caddi come l'uom cui sonno piglia",
+      "body": "Canto IIIの最終行（v.135）。「私は眠りに捕らわれた人のように倒れた（e io caddi come l'uom cui sonno piglia）」──Canto I最終行「Allor si mosse, e io li tenni dietro」（旅の開始）と呼応する閉幕。しかし出発ではなく気絶による「擬似的な死」。「come l'uom（人のように）」という直喩は経験の普遍化──ダンテの気絶は読者の代理体験として機能する。Canto IVの目覚め冒頭「Ruppemi l'alto sonno ne la testa（高い眠りが私の頭の中で破れた）」への接続。「sonno（眠り）」はCanto I序盤（「tant'era pien di sonno」）でも使われた──旅全体が眠り・目覚めの繰り返しとして構造化される。",
+      "targetId": "dante_inferno_canto_1"
+    }
+  ]
+}
