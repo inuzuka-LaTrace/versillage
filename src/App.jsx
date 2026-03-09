@@ -2174,6 +2174,21 @@ export default function App() {
               )}
             </div>
             <h2 className={`text-xl font-serif ${textClass} mb-1`}>{currentText.title}</h2>
+            {/* 神曲 canticle / canto 表示 */}
+            {(currentText.canticle || currentText.canto) && (
+              <div className="flex items-center gap-2 mb-1">
+                {currentText.canticle && (
+                  <span className={`text-xs font-sans px-2 py-0.5 rounded-full font-medium border ${darkMode ? 'bg-amber-950/40 text-amber-300 border-amber-800/60' : 'bg-amber-50 text-amber-700 border-amber-200'}`}>
+                    {currentText.canticle}
+                  </span>
+                )}
+                {currentText.canto && (
+                  <span className={`text-xs font-sans px-2 py-0.5 rounded-full font-medium border ${darkMode ? 'bg-zinc-800 text-zinc-300 border-zinc-600' : 'bg-stone-100 text-stone-600 border-stone-300'}`}>
+                    Canto {currentText.canto}
+                  </span>
+                )}
+              </div>
+            )}
             <p className={`text-sm font-sans ${textSecondary}`}>{currentText.author}　{currentText.source}（{currentText.year}年）</p>
           </div>
           {currentText.context && (
@@ -2416,15 +2431,19 @@ export default function App() {
             {showFrench && showOfficial && (
               <button
                 onClick={() => setInterlinear(v => !v)}
-                title={interlinear ? '通常表示（原文ブロック→仮訳ブロック）に戻す' : '逐行対訳（1行ごとに原文と訳を交互表示）'}
-                className={`px-3 py-1.5 text-xs rounded-lg transition-colors flex items-center gap-1 font-sans ${
+                title={interlinear ? '通常表示に戻す' : '逐行対訳：1行ごとに原文と訳を対照表示'}
+                className={`px-3 py-1.5 text-xs rounded-lg transition-all flex items-center gap-1.5 font-sans font-medium border ${
                   interlinear
-                    ? darkMode ? 'bg-amber-700 text-amber-100' : 'bg-stone-800 text-white'
-                    : darkMode ? 'bg-zinc-800 text-zinc-300 hover:bg-zinc-700' : 'bg-stone-100 text-stone-600 hover:bg-stone-200'
+                    ? darkMode
+                      ? 'bg-teal-700 text-teal-100 border-teal-600 shadow-sm shadow-teal-900/50'
+                      : 'bg-teal-700 text-white border-teal-600 shadow-sm shadow-teal-200'
+                    : darkMode
+                      ? 'bg-zinc-800 text-teal-400 border-teal-800/60 hover:bg-teal-900/30 hover:border-teal-700'
+                      : 'bg-teal-50 text-teal-700 border-teal-200 hover:bg-teal-100 hover:border-teal-300'
                 }`}
               >
-                <List size={11} strokeWidth={1.8} />
-                {interlinear ? '逐行表示中' : '逐行対訳'}
+                <List size={12} strokeWidth={2} />
+                {interlinear ? '逐行対訳 ON' : '逐行対訳'}
               </button>
             )}
           </div>
@@ -2454,7 +2473,7 @@ export default function App() {
             const prevPara   = currentText.paragraphs[paraIdx - 1];
             const isNewScene = hasScene && (!prevPara || prevPara.scene !== para.scene);
 
-            // speaker ごとの色（6色ローテーション）
+            // speaker ごとの色（8色ローテーション）
             const speakerColors = [
               { light: 'bg-violet-100 text-violet-800 border-violet-300',  dark: 'bg-violet-900/40 text-violet-200 border-violet-700' },
               { light: 'bg-sky-100 text-sky-800 border-sky-300',           dark: 'bg-sky-900/40 text-sky-200 border-sky-700' },
@@ -2462,13 +2481,23 @@ export default function App() {
               { light: 'bg-teal-100 text-teal-800 border-teal-300',        dark: 'bg-teal-900/40 text-teal-200 border-teal-700' },
               { light: 'bg-amber-100 text-amber-800 border-amber-300',     dark: 'bg-amber-900/40 text-amber-200 border-amber-700' },
               { light: 'bg-indigo-100 text-indigo-800 border-indigo-300',  dark: 'bg-indigo-900/40 text-indigo-200 border-indigo-700' },
+              { light: 'bg-emerald-100 text-emerald-800 border-emerald-300', dark: 'bg-emerald-900/40 text-emerald-200 border-emerald-700' },
+              { light: 'bg-orange-100 text-orange-800 border-orange-300',  dark: 'bg-orange-900/40 text-orange-200 border-orange-700' },
             ];
+            // Dante 系の固定カラーマッピング
+            const SPEAKER_FIXED_COLORS = {
+              'Dante-narratore': { light: 'bg-stone-100 text-stone-600 border-stone-300', dark: 'bg-zinc-800 text-zinc-300 border-zinc-600' },
+              'Dante':           { light: 'bg-sky-100 text-sky-800 border-sky-300',       dark: 'bg-sky-900/40 text-sky-200 border-sky-700' },
+              'Virgilio':        { light: 'bg-violet-100 text-violet-800 border-violet-300', dark: 'bg-violet-900/40 text-violet-200 border-violet-700' },
+            };
             // テキスト内の全発話者リストから一貫した色を割り当て
             const allSpeakers = hasSpeaker
               ? [...new Set(currentText.paragraphs.map(p => p.speaker).filter(Boolean))]
               : [];
             const speakerIndex = hasSpeaker ? allSpeakers.indexOf(para.speaker) : -1;
-            const speakerColor = speakerColors[speakerIndex % speakerColors.length];
+            const speakerColor = hasSpeaker
+              ? (SPEAKER_FIXED_COLORS[para.speaker] ?? speakerColors[speakerIndex % speakerColors.length])
+              : speakerColors[0];
 
             return (
               <React.Fragment key={para.id}>
@@ -2512,6 +2541,15 @@ export default function App() {
                   <div className="flex items-center gap-3 min-w-0">
                     <span className={`text-sm font-sans w-7 shrink-0 tabular-nums select-none opacity-30 ${textClass}`}>{para.id}</span>
 
+                    {/* verses バッジ（詩行番号あり：dante等） */}
+                    {para.verses && (
+                      <span className={`text-xs font-mono shrink-0 px-1.5 py-0.5 rounded border tabular-nums ${
+                        darkMode ? 'bg-zinc-800 text-zinc-400 border-zinc-700' : 'bg-stone-100 text-stone-400 border-stone-200'
+                      }`}>
+                        {para.verses}
+                      </span>
+                    )}
+
                     {/* speaker バッジ（戯曲のみ） */}
                     {hasSpeaker && (
                       <span className={`text-xs font-bold tracking-wider px-2 py-0.5 rounded border shrink-0 ${
@@ -2529,8 +2567,13 @@ export default function App() {
                     )}
                     {/* 展開時：表示モードラベル（speakerがない通常テキスト） */}
                     {!isCollapsed && !hasSpeaker && (
-                      <span className={`text-xs ${textSecondary}`}>
+                      <span className={`text-xs flex items-center gap-1.5 ${textSecondary}`}>
                         {showFrench && showOfficial ? '原文 + 仮訳' : showFrench ? '原文' : showOfficial ? '仮訳' : ''}
+                        {interlinear && showFrench && showOfficial && (
+                          <span className={`px-1.5 py-0.5 rounded text-xs font-medium border ${
+                            darkMode ? 'bg-teal-900/40 text-teal-400 border-teal-800/60' : 'bg-teal-50 text-teal-600 border-teal-200'
+                          }`}>逐行</span>
+                        )}
                       </span>
                     )}
                   </div>
@@ -2585,41 +2628,75 @@ export default function App() {
 
                     {/* ── 逐行対訳モード ── */}
                     {interlinear && showFrench && showOfficial && translation ? (
-                      <div className="pt-5 mb-4">
+                      <div className="pt-4 mb-4">
                         {hasSpeaker && (
                           <span className={`text-xs font-bold tracking-wider px-2 py-0.5 rounded border mb-3 inline-block ${darkMode ? speakerColor.dark : speakerColor.light}`}>
                             {para.speaker.toUpperCase()}
                           </span>
                         )}
-                        <div className={`border-l-2 pl-4 ${darkMode ? 'border-stone-700' : 'border-stone-300'}`}>
+                        {/* 逐行対訳テーブル */}
+                        <div className={`rounded-lg overflow-hidden border ${darkMode ? 'border-zinc-700' : 'border-stone-200'}`}>
+                          {/* 列ヘッダー */}
+                          <div className={`grid grid-cols-[1fr_1fr] border-b text-xs font-sans font-medium tracking-widest uppercase ${
+                            darkMode ? 'border-zinc-700 bg-zinc-800 text-zinc-500' : 'border-stone-200 bg-stone-50 text-stone-400'
+                          }`}>
+                            <div className={`px-3 py-1.5 border-r ${darkMode ? 'border-zinc-700/60' : 'border-stone-200'}`}>
+                              {currentText.originalLang ? currentText.originalLang.split('-')[0].toUpperCase() : '原文'}
+                            </div>
+                            <div className="px-3 py-1.5">仮訳</div>
+                          </div>
                           {(() => {
                             const origLines = getOriginalText(para).split('\n');
                             const transLines = translation.split('\n');
                             const maxLen = Math.max(origLines.length, transLines.length);
-                            return Array.from({ length: maxLen }, (_, i) => (
-                              <div key={i} className={`py-1.5 ${i < maxLen - 1 ? `border-b ${darkMode ? 'border-zinc-800' : 'border-stone-100'}` : ''}`}>
-                                {origLines[i] != null && (
-                                  <p className={`leading-snug ${textClass} ${
-                                    fontSize === 'xlarge' ? 'text-2xl' :
-                                    fontSize === 'large'  ? 'text-xl' :
-                                    fontSize === 'medium' ? 'text-lg' : 'text-base'
-                                  }`}>
-                                    {showAnnotations && hasAnnotations
-                                      ? renderTextWithAnchors(origLines[i], paraAnnotations, para.id)
-                                      : origLines[i]}
-                                  </p>
-                                )}
-                                {transLines[i] != null && (
-                                  <p className={`leading-snug mt-0.5 ${darkMode ? 'text-zinc-400' : 'text-stone-500'} ${
-                                    fontSize === 'xlarge' ? 'text-xl' :
-                                    fontSize === 'large'  ? 'text-lg' :
-                                    fontSize === 'medium' ? 'text-base' : 'text-sm'
-                                  }`}>
-                                    {transLines[i]}
-                                  </p>
-                                )}
-                              </div>
-                            ));
+                            return Array.from({ length: maxLen }, (_, i) => {
+                              const isBlankOrig = !origLines[i]?.trim();
+                              const isBlankTrans = !transLines[i]?.trim();
+                              if (isBlankOrig && isBlankTrans) return (
+                                <div key={i} className={`h-3 ${darkMode ? 'bg-zinc-900' : 'bg-white'}`} />
+                              );
+                              return (
+                                <div key={i} className={`grid grid-cols-[1fr_1fr] ${
+                                  i % 2 === 0
+                                    ? darkMode ? 'bg-zinc-900/80' : 'bg-white'
+                                    : darkMode ? 'bg-zinc-800/40' : 'bg-stone-50/80'
+                                } ${i < maxLen - 1 ? `border-b ${darkMode ? 'border-zinc-800' : 'border-stone-100'}` : ''}`}>
+                                  {/* 原文セル */}
+                                  <div className={`px-3 py-2 border-r ${darkMode ? 'border-zinc-700/60' : 'border-stone-200'}`}>
+                                    {para.verses && origLines[i] && !isBlankOrig && (
+                                      <span className={`text-xs font-mono mr-2 opacity-30 select-none ${textClass}`}>
+                                        {/* 行番号は verses の開始行 + offset */}
+                                        {(() => {
+                                          const m = para.verses.match(/v\.(\d+)/);
+                                          return m ? `${parseInt(m[1]) + i}` : '';
+                                        })()}
+                                      </span>
+                                    )}
+                                    <span className={`leading-relaxed font-serif ${textClass} ${
+                                      fontSize === 'xlarge' ? 'text-2xl' :
+                                      fontSize === 'large'  ? 'text-xl' :
+                                      fontSize === 'medium' ? 'text-base' : 'text-sm'
+                                    }`}>
+                                      {origLines[i] != null && !isBlankOrig
+                                        ? (showAnnotations && hasAnnotations
+                                            ? renderTextWithAnchors(origLines[i], paraAnnotations, para.id)
+                                            : origLines[i])
+                                        : ''}
+                                    </span>
+                                  </div>
+                                  {/* 訳セル */}
+                                  <div className={`px-3 py-2 ${darkMode ? 'text-teal-300/80' : 'text-teal-800/90'}`}>
+                                    <span className={`leading-relaxed ${
+                                      fontSize === 'xlarge' ? 'text-xl' :
+                                      fontSize === 'large'  ? 'text-lg' :
+                                      fontSize === 'medium' ? 'text-sm' : 'text-xs'
+                                    }`}>
+                                      {transLines[i] ?? ''}
+                                    </span>
+                                  </div>
+                                </div>
+                              );
+                            });
                           })()}
                         </div>
                       </div>
