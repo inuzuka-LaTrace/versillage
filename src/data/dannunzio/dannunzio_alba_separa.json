@@ -1,0 +1,118 @@
+{
+  "id": "dannunzio_alba_separa",
+  "title": "L'alba sepàra dalla luce l'ombra",
+  "author": "Gabriele d'Annunzio",
+  "source": "Alcyone（アルシオーネ）, Laudi del cielo del mare della terra e degli eroi, libro terzo, Milano: Treves, 1904. 底本: d'Annunzio, G., Versi d'amore e di gloria, a cura di A. Andreoli e N. Lorenzini, Mondadori (I Meridiani), 1982–1984, vol. II.",
+  "year": "1902–1903頃（Alcyone 執筆期）",
+  "firstPublication": "Laudi, libro terzo: Alcyone, Treves, Milano, 1904.",
+  "difficulty": "中級",
+  "category": "dannunzio",
+  "originalLang": "it-IT",
+  "modernRelevance": "★★★★★",
+  "context": "『アルシオーネ』（1904）はダヌンツィオの詩集中の最高傑作と見なされる。タイトルの「アルシオーネ（Alcyone）」はギリシャ神話の女性で、死後カワセミに変身した──カワセミが卵を孵す期間（冬至前後）に海が凪ぐ「アルキュオネの日々（halcyon days）」の平和な季節の象徴。しかしダヌンツィオの詩集では夏の官能的充溢から秋・別れ・消滅への移行が描かれる。\n\n「L'alba sepàra dalla luce l'ombra」はこの詩集の最も有名な一篇。形式はペトラルカ式変形ソネット──実質14行だが、最大の技法的特徴「語割り（tmesi）」によって視覚的に14行から逸脱して見える。「quel piè leggero che mi prese il cor po-」で行が切れ、次の連で「co a poco（少しずつ）」と続く。corpo（体）という語が行をまたいで cor と po に断ち切られ、po-co（poco＝少し）と合体する──体（corpo）が少しずつ（poco a poco）心を奪った、という意味が字面の「切断」として刻印される。音と意味が同時に裂ける瞬間。\n\nプロヴァンスのトルバドゥール詩以来の「夜明けの別れの歌（alba / aube）」伝統を換骨奪胎する。伝統的な alba では夜明けが二人の別れを強制する外的な力だった。ダヌンツィオはそれを「夜明けが光と影を切断し、官能（voluttà）と思念（pensiero）を切断する」という宇宙論的次元に拡張する──別れは二人の間の問題ではなく、夜明けという宇宙的事象が存在そのものを切断する。\n\n詩に呼びかけられる「Elide（エリデ）」はこの詩のみに登場する女性名。古代ギリシャのエリス地方との連想が古典的香気を与える。「Elide, Amore / è tutto fiele, a chi rimane a l'ora」──愛はとどまる者には全て胆汁（苦汁）だ、という最終行の苦みは、Alcyone 詩集全体の「充溢から喪失へ」という運動の結晶。",
+  "keywords": [
+    "夜明けの別れ", "alba", "tmesi", "語割り", "ソネット", "Alcyone",
+    "官能と思念", "Elide", "トルバドゥール", "胆汁", "voluttà", "イタリア語詩"
+  ],
+  "relatedTexts": [
+    "dante_purgatorio_canto_26",
+    "verlaine_chanson_dautomne",
+    "baudelaire_la_destruction"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "verses": "v.1–4",
+      "speaker": null,
+      "original": "L'alba sepàra dalla luce l'ombra\ne la mia voluttà dal tuo pensiero,\nanima mia veloce. Il corridor fiero\ngià non aspetta. Elide aurata è l'ombra.",
+      "provisionalTranslation": "夜明けは光から影を切り離す\nそして私の官能をあなたの思念から、\n私の素早い魂よ。荒々しい通路は\nもう待たない。エリデよ、影は金色に染まっている。"
+    },
+    {
+      "id": 2,
+      "verses": "v.5–8",
+      "speaker": null,
+      "original": "Già il mancipio dell'alba, in un verziero\nin fondo all'orto, mattiniero\ncanta per te, che non tornerai. Distero\nnell'alba i fiori i calici di rosa.",
+      "provisionalTranslation": "もう夜明けの僕が、果樹園の\n庭の奥で、朝早くから\n歌っている──あなたのために、もう戻らないあなたのために。\n夜明けの中に花々はバラの萼（うてな）を開いた。"
+    },
+    {
+      "id": 3,
+      "verses": "v.9–11",
+      "speaker": null,
+      "original": "Dov'è il tuo caro viso? Dov'è il tuo corpo\nvivo d'amor? Dov'è il tuo piè leggero,\nquel piè leggero che mi prese il cor po-",
+      "provisionalTranslation": "あなたの愛しい顔はどこに？ あなたの、愛に\n生きる体はどこに？ あなたの軽やかな足はどこに、\n私の心（こころ）を奪ったあの軽やかな足は、少しず（つ）──"
+    },
+    {
+      "id": 4,
+      "verses": "v.12–14",
+      "speaker": null,
+      "original": "co a poco, in un'oncia? Ah, come il cuore\nvuol seguirti lontana! Elide, Amore\nè tutto fiele, a chi rimane a l'ora.",
+      "provisionalTranslation": "つ少しずつ、一オンスほどに。ああ、心はどれほど\nあなたに、遠くへゆく人についていきたいか！ エリデよ、愛は\nとどまる者には全て苦汁（にがみず）だ、この時に。"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "prosody",
+      "anchor": "L'alba sepàra dalla luce l'ombra\ne la mia voluttà dal tuo pensiero,",
+      "body": "冒頭二行の対句構造──「夜明けが A から B を切り離す」が二重に展開される。v.1：夜明けが「光から影を」切り離す（宇宙的・自然的次元）。v.2：夜明けが「私の官能（voluttà）からあなたの思念（pensiero）を」切り離す（人間的・心理的次元）。この二重性が詩全体の意味の軸。「切断」という行為が宇宙と人間のどちらにも同時に機能する──ダヌンツィオ特有の「宇宙との合体」ではなく「宇宙による分断」。voluttà（官能・肉体的快楽）対 pensiero（思念・精神的なもの）の対立は、肉体が去った後に精神だけが残るという状況の予告。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "glossary",
+      "anchor": "Il corridor fiero",
+      "body": "「corridor（e）」──詩的短縮形。現代イタリア語 corridoio（廊下・通路）の語源形。しかしここでは「夜明けの光が走る通路」と「馬が走る」イメージが重なる。「fiero（荒々しい・誇り高い）」──通路の形容詞だが、夜明けの光そのものの暴力的な迅速さを表す。待たない夜明け、止まらない光──官能のまどろみと全く異なる物理的必然性として夜明けが描かれる。ペトラルカ『カンツォニエーレ』のソネット伝統（dawn songs の alba 形式）では夜明けは常に「敵（nemico）」として擬人化されてきた。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "Elide aurata è l'ombra.",
+      "body": "「エリデよ、影は金色に染まっている」──最初の呼びかけ。「Elide（エリデ）」はこの詩のみに登場する女性名。古代ギリシャのエリス（Elis）地方との音的連想が古典的香気を付与する。「aurata（金色の）」──影が金色に染まるのは夜明けが光と影の境界を金色に染めるため。しかしこの「金色の影」は矛盾した表現──影に光の色がつく、消えゆくものが最も美しく輝く瞬間。官能の記憶が失われる直前の最大輝度。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "glossary",
+      "anchor": "il mancipio dell'alba",
+      "body": "「夜明けの僕（しもべ）（il mancipio dell'alba）」──「mancipio」は中世ラテン語 mancipium（奴隷・所有物・財産）から。「夜明けの所有物」＝夜明けに鳴く鳥、つまりナイチンゲール（usignolo）またはひばり（allodola）の詩的換喩。トルバドゥールの alba 詩では「夜明けを告げる番人（gaita）」が二人の別れを知らせた──ダヌンツィオはその「番人」を「夜明けに隷属する鳥」という所有関係として再解釈する。鳥は自由に歌うのではなく、夜明けに「所有」されて歌う──自然の美しさが強制の美しさとして描かれる。",
+      "targetId": "dante_purgatorio_canto_26",
+      "targetParagraphId": 5
+    },
+    {
+      "paragraphId": 2,
+      "type": "prosody",
+      "anchor": "in fondo all'orto, mattiniero",
+      "body": "v.7 は endecasillabo（11音節）の基調から外れた novenario（9音節）──意図的に短縮された行。「in fondo all'orto, mattiniero」──読む速度が一瞬遅くなる。鳥が「庭の奥（in fondo all'orto）」から「朝早くから（mattiniero）」歌うという描写が、視覚的な遠さと時間的な早さを同時に示す。詩行の長さの変化が音楽的なリズムの変化として機能する──整然とした別れの秩序の中に挿入された息の乱れ。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "prosody",
+      "anchor": "Distero\nnell'alba i fiori i calici di rosa.",
+      "body": "「Distero（開いた）」──distendere の遠過去（passato remoto）三人称複数、詩的・古語形。「花々がバラの萼（calici di rosa）を夜明けの中に開いた」──calice は「聖杯（chalice）」であると同時に「花の萼」。宗教的・世俗的な二重性。「nell'alba（夜明けの中に）」──前置詞 in + definite article が「夜明けという空間の中に」という意味で使われる。花が開く行為と夜明けが浸透する空間性が重なる。連末の静的な美しさが、連全体の「もう戻らないあなたのために歌う」という喪失感を一時的に静止させる。"
+    },
+    {
+      "paragraphId": 3,
+      "type": "prosody",
+      "anchor": "Dov'è il tuo caro viso? Dov'è il tuo corpo\nvivo d'amor? Dov'è il tuo piè leggero,",
+      "body": "三連続の「Dov'è（どこに？）」──問いの反復（anaphora）が加速する。顔（viso）→体（corpo）→足（piè）──上から下へ、視線が降りてゆく。「piè leggero（軽やかな足）」の反復は「quel piè leggero che mi prese il cor po-」で更に反復される──「piè leggero」が三回目に現れる時、既にそれは行を切断する「tmesi」の直前の語として機能する。反復の加速がそのまま断絶の衝撃を準備する。"
+    },
+    {
+      "paragraphId": 3,
+      "type": "prosody",
+      "anchor": "quel piè leggero che mi prese il cor po-",
+      "body": "「cor po-」──ダヌンツィオのイタリア語詩における最も大胆な「語割り（tmesi）」。corpo（体）という語が行末で cor と po に断ち切られ、次の連で po-co a poco（poco a poco＝少しずつ）と続く。単語レベルの切断が意味レベルでは「体（corpo）が poco a poco 心（cuore）を奪う」という文を構成する──「心（cor）と体（po[co]）が行をまたいで再結合する」構造。視覚的・音声的・意味的の三層で同時に機能する切断。ダヌンツィオはこの一行で、別れという「切断」の体験を詩の形式そのものとして刻印する。印刷された詩のページを見る目が、行末のハイフンで強制的に止まる──それが「別れ」の体験の身体的反復となる。"
+    },
+    {
+      "paragraphId": 4,
+      "type": "commentary",
+      "anchor": "co a poco, in un'oncia?",
+      "body": "「co a poco, in un'oncia（少しずつ、一オンスほどに）」──前行からの続き。po-co a poco で poco a poco（少しずつ）が完成する──体験の漸進性と積み重なりの表現。「in un'oncia（一オンス＝ほんのわずか）」──重量単位 oncia はここでは「微量ずつ」という量感の詩的換喩。愛が少しずつ心を侵食してゆく過程を重量の比喩で表す。「in un'oncia?」の疑問符──これほど軽微に、これほど徐々に心が奪われた、という驚きと自嘲。問いは答えられない。"
+    },
+    {
+      "paragraphId": 4,
+      "type": "prosody",
+      "anchor": "Elide, Amore\nè tutto fiele, a chi rimane a l'ora.",
+      "body": "最終二行──「Elide」と「Amore」が行末韻（-ide / -ore）の中で呼応し、名前と愛概念が音として接触する。「è tutto fiele, a chi rimane a l'ora（とどまる者には全て苦汁だ、この時に）」──「fiele（胆汁・苦汁）」は中世詩学における「苦い愛（amor amarus）」の伝統的比喩。しかしダヌンツィオの「a chi rimane a l'ora（この時にとどまる者には）」という限定が鋭い──苦みは「去る者」にではなく「残る者」に全力で降り注ぐ。夜明けが去るのではなく、女性が去る──残された語り手だけが苦汁を飲む。Alcyone 詩集の「夏の充溢が終わり秋が来る」という大きな運動の、この詩における結晶。",
+      "targetId": "verlaine_chanson_dautomne",
+      "targetParagraphId": 1
+    }
+  ]
+}
