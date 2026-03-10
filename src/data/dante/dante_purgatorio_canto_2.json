@@ -1,0 +1,142 @@
+{
+  "id": "dante_purgatorio_canto_2",
+  "title": "Purgatorio — Canto II",
+  "author": "Dante Alighieri",
+  "source": "La Commedia (Divina Commedia), 1304–1321頃成立。底本: Petrocchi版 (La Commedia secondo l'antica vulgata, 1966–1967)。照合: danteonline.it; Princeton Dante Project; Singleton, C.S., Dante Alighieri: The Divine Comedy, Purgatorio (Princeton UP, 1973)",
+  "year": "1304–1321",
+  "firstPublication": "写本による流布。印刷初版: Foligno, 1472。",
+  "difficulty": "上級",
+  "category": "dante",
+  "canticle": "Purgatorio",
+  "canto": "II",
+  "originalLang": "it-IT",
+  "modernRelevance": "★★★★★",
+  "context": "煉獄篇第2歌は「詩と音楽の誘惑」という主題を通じて煉獄の本質を問う。ダンテの友人でフィレンツェの音楽家カゼッラ（生年不詳〜1300頃）は、ダンテ自身が『饗宴』第III巻で哲学詩として論じた「Amor che ne la mente mi ragiona（私の心の中で愛が語る）」に曲をつけて歌っていた。カゼッラがこの詩を歌い始めると、ウェルギリウスもダンテも、そして上陸したばかりの魂たちも聞き惚れて立ちすくむ──そこにカトーが現れ叱責する。\n\nこの場面は煉獄篇の根本的な緊張を示す。詩と音楽の美しさは魂を慰め喜ばせるが、同時に「煉獄の仕事（purga）」から気をそらす誘惑でもある。地獄で詩の美しさはフランチェスカを破滅させた（Canto V）が、煉獄では詩そのものが否定されるのではなく、詩への陶酔が「時間の浪費」として咎められる。浄化の旅に向かう魂にとって、芸術の喜びは目的ではなく通過点──この緊張はCanto XI（オデリージ）・Canto XXIV（dolce stil novo）・Canto XXVI（グイニゼッリ）へと深化する。",
+  "keywords": [
+    "カゼッラ", "音楽", "詩と音楽", "Amor che ne la mente", "天使の舟",
+    "誘惑", "怠慢", "魂の到来", "友情", "カトーの叱責"
+  ],
+  "relatedTexts": [
+    "dante_purgatorio_canto_1",
+    "dante_purgatorio_canto_11",
+    "dante_purgatorio_canto_24",
+    "dante_inferno_canto_5"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "verses": "v.1–9",
+      "speaker": "Dante-narratore",
+      "original": "Già era 'l sole a l'orizzonte giunto\nlo cui meridïan cerchio coverchia\nGierusalemme col suo punto più giunto;\n\ne la notte, che opposita a lui cerchia,\nusciva di Gangè fuor con le Libra,\nsì che le bianche e le nere pen cerchia\n\ncadean de la sua man; sì che per tempo\nnon ci mancava assai; ma 'l poco andare\nmi facea la mente assai più lenta.",
+      "provisionalTranslation": "既に太陽は地平線に達していた\nその子午線の円が覆う\nエルサレムを最も近い点で；\n\nそして夜が、それに反対側で回る、\n天秤座とともにガンジス川の外へ出ていた、\nそのために白い羽と黒い羽が\n\n彼女の手から落ちていた；つまり時間は\n私たちに不足していなかった；しかし少しの歩みが\n私の心をずっと緩慢にしていた。"
+    },
+    {
+      "id": 2,
+      "verses": "v.10–30",
+      "speaker": "Dante-narratore",
+      "original": "Noi eravam lungh'esse ancora al mare\ncome gente che pensa a suo cammino,\nche va col cuore e col corpo dimora.\n\nEd ecco, qual, sorpreso dal mattino,\nper li grossi vapor Marte rosseggia\ngiù nel ponente sovra 'l suol marino,\n\ncotal m'apparve, s'io ancor lo veggia,\nun lume per lo mar venir sì ratto,\nche 'l muover suo nessun volar pareggia.\n\nDal qual com'io un poco ebbi distolto\nli occhi, per domandar lo duca mio,\nrividil più lucente e più ingrossato.\n\nPoi d'ogne lato ad esso m'appario\nun non sapeva che bianco, e di sotto\na poco a poco un altro a lui uscio.\n\nLo mio maestro ancor non facea motto,\nmentre che i primi bianchi apparver ali;\nallor che ben conobbe il galeotto,\n\ngridò: «Fa, fa che le ginocchia cali:\nEcco l'angel di Dio: piega le mani;\nomai vedrai di sì fatti officiali.»",
+      "provisionalTranslation": "私たちはまだ海の傍らにいた\n自分の旅のことを考える人々のように、\n心は進んでも体は留まる者の。\n\nすると、見よ、夜明けに驚かされて\n濃い霧の中で火星が赤く染まる\n西の方で海の地面の上で、\n\nそのように私に現れた、もし私がそれをまた見るならば、\n海の上を来る一つの光が、これほど素早く、\nその動きは何の飛翔にも匹敵しない。\n\nそこから私が少しばかり目を引き離した時\n私の師に問おうとして、\nそれをより輝かしくより大きくなって再び見た。\n\nそれから両側に私には現れた\n何か白いものが、私には分からない、そして下から\n少しずつ別のものが彼に向けて出てきた。\n\n私の師はまだ一言も言っていなかった、\n最初の白い翼が現れた時まで；\nそれから彼が船頭をよく認めた時、\n\n叫んだ：「急げ、急いで膝を折れ：\n見よ、神の天使が：手を組め；\n今後このような高貴な侍者たちを見ることになるだろう。」"
+    },
+    {
+      "id": 3,
+      "verses": "v.31–51",
+      "speaker": "Dante-narratore",
+      "original": "Vedi come sdegna li argomenti umani,\nsì che remo non vuol, né altro velo\nche l'ali sue, tra liti sì lontani.\n\nVedi come le ha dritte verso 'l cielo,\ntrattando l'aere con l'etterne penne,\nche non si mutan come mortal pelo».\n\nPoi, come più e più verso noi venne\nl'uccel divino, più chiaro appariva:\nper che l'occhio da presso nol sostenne,\n\nma chinail giuso; e quei sen venne a riva\ncon un vasello snelletto e leggero,\ntanto che l'acqua nulla ne 'nghiottiva.\n\nDa poppa stava il celestial nocchiero,\ntal che faria beato pur descripto;\ne più di cento spirti entro sediero.\n\n«In exitu Isräel de Aegypto»\ncantavan tutti insieme ad una voce\ncon quanto di quel salmo è poscia scripto.\n\nPoi fece il segno lor di santa croce;\ngittar si in quella piaggia;\ned el sen gì, come venne, veloce.",
+      "provisionalTranslation": "見よ、彼が人間的な道具を軽蔑するのを、\n棹も他の帆も望まず\n自分の翼だけで、これほど遠い岸の間を。\n\n見よ、彼が翼をどのように天に向けて真っ直ぐにしているか、\n永遠の羽で大気を掻きながら、\nそれは死すべき者の毛のように変わらない。」\n\nそれから神の鳥が私たちに向けてより近づくにつれて\nより明るく現れた：\nそのため目は近くではそれに堪えられず、\n\n下に向けた；そして彼は岸辺に来た\n細くて軽い小舟に乗って、\nそれほど（軽くて）水が少しも（その底を）飲み込まなかった。\n\n船尾に天の舵手が立っていた、\n描写されるだけで幸福にする者が；\nそして百以上の霊がその中に座っていた。\n\n「イスラエルのエジプトからの出国において」\n彼ら全員が一緒に一声で歌っていた\nその詩篇のその後に書かれているものと共に。\n\nそれから彼らに聖十字架の印を施した；\n彼らはその浜辺に身を投げた；\n彼はまた来た時のように素早く去った。"
+    },
+    {
+      "id": 4,
+      "verses": "v.52–75",
+      "speaker": "Dante-narratore",
+      "original": "La turba che rimase lì, selvaggia\nparesa del loco, rimirando intorno\ncome colui che nove cose assaggia.\n\nDa tutte parti saettava il giorno\nlo sol, ch'avëa con le saette conte\ndi mezzo 'l ciel cacciato Capricorno,\n\nquando la nova gente alzò la fronte\nver' noi, dicendo a noi: «Se voi sapete,\nmostraci la via di gire al monte».\n\nE Virgilio rispuose: «Voi credete\nforse che siamo esperti di questo loco:\nma noi siam peregrin come voi siete.\n\nDianzi venimmo, innanzi a voi un poco,\nper altra via, che fu sì erta e forte,\nche lo salire omai ne parrà gioco».\n\nL'anime, che si fuor di me accorte,\nper lo spirare, ch'i' era ancor vivo,\nmaravigliando diventaro smorte.\n\nE come a messaggier che porta ulivo\ntraggesi la gente per udir novelle,\ne di calcar nessun si mostra schivo,\n\ncosì al viso mio s'affiavan quelle\nanime fortunate tutte quante,\nquasi oblïando d'ire a farsi belle.",
+      "provisionalTranslation": "そこに残った群衆は、野生のように\nその場所について、あたりを見回していた\n新しいものを試す人のように。\n\nあらゆる方向から日が矢を放っていた\n太陽が、その数えられた矢で\n天の中ほどから山羊座を追い払っていた、\n\n時に、新しい人々が顔を上げた\n私たちの方に言った：「もしあなた方がご存知なら、\n山へ行く道を私たちに教えてください。」\n\nそしてウェルギリウスは答えた：「あなた方はお思いでしょう\nおそらく私たちはこの場所に慣れていると：\nしかし私たちもあなた方のように巡礼者です。\n\nついさっき来た、あなた方より少し前に、\n別の道で来た、それはとても険しく困難で、\nこれからの上りは私たちには遊びのように見えるだろう。」\n\n霊たちは、私の息吹いからから私がまだ生きていると気づいた、\n驚きながら青ざめた。\n\nオリーブを持つ使者への人のように\n人々が知らせを聞こうと集まり、\n踏みつけることを誰も嫌がらないように、\n\nそのように幸運な霊たちが全員\n私の顔に固まってきた、\n美しくなりに行くことをほぼ忘れて。"
+    },
+    {
+      "id": 5,
+      "verses": "v.76–99",
+      "speaker": "Casella",
+      "original": "Io vidi una di lor trarresi avante\nper abbracciarmi, con sì grande affetto,\nche mosse me a far lo somigliante.\n\nOh ombre vane, fuor che ne l'aspetto!\ntre volte dietro a lei le mani avvinsi,\ne tante mi tornai con esse al petto.\n\nDi maraviglia, credo, mi dipinsi;\nper che l'ombra sorrise e si ritrasse,\ned io, seguendo lei, oltre mi pinsi.\n\nSoavemente disse ch'io posasse;\nallora conobbi chi era, e pregai\nche, per parlarmi, un poco s'arrestasse.\n\nRisposemi: «Così come t'amai\nnel mortal corpo, così t'amo sciolta:\npercio m'arresto; ma tu perché vai?»\n\n«Casella mio, per tornar altra volta\nlà dov'io son, fo io questo viaggio»,\nrisp'io; «ma a te com'è tanta ora tolta?»\n\nEd elli a me: «Nessun m'è fatto oltraggio,\nse quei che leva quando e cui li piace,\npiù volte m'ha negato esto passaggio;\n\nché di giustizia vuol è fatto il volere:\nveramente, da tre mesi in qua, ha tolto\nchi ha voluto intrar, con tutta pace.\n\nOnd'io, ch'era ora a la marina vòlto\ndove l'acqua di Tevero s'insala,\nbenigna-mente fu' da lui ricolto.",
+      "provisionalTranslation": "私はその中の一人が前に進み出るのを見た\n私を抱き締めようと、これほど大きな愛情で、\nそれは私に同じことをさせた。\n\nああ、虚ろな影たちよ、見た目以外は！\n三度彼女の後ろに両手を組み合わせ、\nそれだけ何度も胸に戻ってきた。\n\n驚きで、私は思う、私は色を変えた；\nそのため影は微笑んで引き下がり、\n私は彼女を追って外に押し出た。\n\n優しく彼女は私に落ち着くように言った；\nその時私は誰であるかを知り、お願いした\n話すために少し立ち止まってほしいと。\n\n彼女は答えた：「死すべき体であなたを愛したように\nそのように解放されてもあなたを愛している：\nだから私は立ち止まる；しかしあなたはなぜ行くのか？」\n\n「私のカゼッラよ、別の機会にそこに戻るために\n私がいるところへ、この旅をしている」、\n私は答えた；「しかしあなたはなぜこれほど長い時間を奪われたのか？」\n\n彼は私に答えた：「誰も私に不正を行っていない、\n彼がいつ誰を望むかに従って取る者が、\n何度もこの通過を私に拒んだとしても；\n\nなぜなら正義の意志からそれはされているから：\n真実に、三ヶ月以来、彼は取るようになった\n入りたかった全ての者を、すっかり平和に。\n\nだから私は、今テベレ川の水が\n塩辛くなる場所の港の方に向かっていて、\n親切に彼（天使）によって迎えられた。"
+    },
+    {
+      "id": 6,
+      "verses": "v.100–114",
+      "speaker": "Dante-narratore",
+      "original": "Io cominciai: «Se nuova legge non ti toglie\nmemoria o uso a l'amoroso canto\nche mi solea quetar tutte mie doglie,\n\ndi ciò ti piaccia consolare alquanto\nl'anima mia, che, con la sua persona\nvenendo qui, è affannata tanto».\n\n«Amor che ne la mente mi ragiona»\ncominciò elli allor sì dolcemente,\nche la dolcezza ancor dentro mi suona.\n\nLo mio maestro e io e quella gente\nch'eran con lui parevan sì contenti,\ncome a null'altra cosa avesse mente.\n\nNoi eravam tutti fissi e attenti\na le sue note; ed ecco il veglio onesto\ngridando: «Che è ciò, spiriti lenti?\n\nqual negligenza, quale stare è questo?\nCorrete al monte a spogliarvi lo scoglio\nch'esser non lascia a voi Dio manifesto».",
+      "provisionalTranslation": "私は始めた：「もし新しい法があなたから奪っていないなら\nあの愛の歌の記憶や習慣を\nそれは私の全ての苦しみをいつも和らげてくれた、\n\nどうかそれであなたの気持ちで少し慰めてほしい\n私の魂を、その人（肉体）と共に\nここに来て、これほど疲れている。」\n\n「私の心の中で愛が語る（Amor che ne la mente mi ragiona）」\n彼はその時始めた、これほど甘く、\nその甘さが今もなお私の内側で響く。\n\n私の師と私とそして人々が\n彼と一緒にいた者たちが、これほど満足しているように見えた、\n他の何事にも心を向けていないかのように。\n\n私たちは全員その音符に向けて\n固まって注意を向けていた；するとあの品格ある老人が\n叫んだ：「何事だ、怠慢な霊たちよ？\n\nこれはどんな怠慢、どんな立ち止まり方か？\n山に走って行け、あなた方から皮（罪）を脱ぎ捨てに\nそれがあなた方に神を現れさせないでいるものを。」"
+    },
+    {
+      "id": 7,
+      "verses": "v.115–133",
+      "speaker": "Dante-narratore",
+      "original": "Come quando, cogliendo biada o loglio,\nli colombi adunati a la pastura,\nqueti, sanza mostrar l'usato orgoglio,\n\nse cosa appare ond'elli abbian paura,\nsubitamente lasciano star l'esca,\nperch'assaliti son da maggior cura;\n\ncosì vid'io quella masnada fresca\nlasciar lo canto, e fuggir ver' la costa,\ncom'om che va, né sa dove rïesca:\n\nné la nostra partita fu men tosta.\nCome i colombi, raccolti a la mandra,\nvolano via, sì com'è lor costusto,\n\nQuei che non vanno usati assieme,\npur si posano e stanno a compagnia,\ncosì vid'io: ma come al vento seme,\n\ncosì quel duolo e quella compagnia\nsi sparsero, e ciascun per suo cammino\nfuggendo andava, come chi torna vïa.",
+      "provisionalTranslation": "麦やライ麦を拾いながら、\n群れた鳩が餌場に、\n静かに、いつもの誇りを見せずに、\n\n何か怖れるものが現れると、\n突然餌を放棄する、\nより大きな心配に攻撃されるから；\n\nそのように私はあの新鮮な一群が\n歌を放棄して、岸辺の方へ逃げるのを見た、\nどこに行き着くか知らずに行く人のように；\n\n私たちの出発も同様に急だった。\n鳩たちのように、群れに集まると、\n習慣通りに飛び去るように、\n\n一緒には行かない者たちでも、\nそれでも止まって仲間でいる、\nそのように私は見た；しかし風の種のように、\n\nあの悲しみとあの仲間は\n散り散りになった、そして各々自分の道を\n逃げながら行った、帰っていく者のように。"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "la notte, che opposita a lui cerchia",
+      "body": "煉獄は南半球に位置するため、ダンテはエルサレム（北半球）・インド（ガンジス川）・煉獄山（南半球）という三点の天文学的座標を同時に描く。ダンテのコスモロジーでは地球は球体で、エルサレムとガンジスとは子午線上にあり、煉獄山はその対蹠点。このような宇宙論的精密さが煉獄篇全体の「時間感覚の回復」──地獄には時間がなかったが、煉獄には夜明けと夕暮れがある──を支えている。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "un lume per lo mar venir sì ratto,\nche 'l muover suo nessun volar pareggia",
+      "body": "天使の舟の登場。光が海上を近づいてくる描写──最初は光の点、次第に白い翼が現れる──は映画的な段階的開示。「何の飛翔にも匹敵しない（nessun volar pareggia）」速さは天使的運動の象徴。対照的に地獄のカロン（Inferno Canto III）は恐ろしい老人で棹を使って船を漕ぐ──機械的・労働的な地獄の移動と、光と翼による煉獄の移動という対比。"
+    },
+    {
+      "paragraphId": 3,
+      "type": "allusion",
+      "anchor": "«In exitu Isräel de Aegypto»\ncantavan tutti insieme ad una voce",
+      "body": "「イスラエルのエジプトからの出国において（In exitu Isräel de Aegypto）」──詩篇114篇（Vulgate版113篇）の冒頭。ダンテは『饗宴』と『俗語詩論』でこの詩篇を「四重の意味」の例として挙げており、文字通りの意味（イスラエルのエジプト脱出）・寓意的意味（キリストの贖罪）・道徳的意味（魂の罪からの回心）・神秘的意味（魂の天への上昇）を持つ。魂たちが天使の舟でこの詩篇を歌うのは、煉獄への到着が「新しいエジプトからの脱出」として意味付けられる。"
+    },
+    {
+      "paragraphId": 4,
+      "type": "commentary",
+      "anchor": "maravigliando diventaro smorte",
+      "body": "「驚きながら青ざめた（maravigliando diventaro smorte）」──ダンテが影（ombra）を持つことへの驚き。煉獄の魂たちは肉体を持たない霊体なので影がない。生者であるダンテだけが影を持ち、これが魂たちを驚かせる。同じ驚きはCanto XXVI（グイニゼッリ）でも繰り返される──ダンテの肉体的存在は煉獄の全体を通じて「例外的な奇跡」として機能する。この驚きが毎回ダンテへの注目と問いを生み出す構造的装置。"
+    },
+    {
+      "paragraphId": 5,
+      "type": "commentary",
+      "anchor": "tre volte dietro a lei le mani avvinsi,\ne tante mi tornai con esse al petto",
+      "body": "三度の空虚な抱擁──これはAeneis第6巻でアエネアスが冥界で亡き父アンキセスを三度抱こうとして空を掴む場面の直接的な反復（Inf. II, 793–794; Aen. VI, 700–702）。ウェルギリウスという詩人の創った場面を、ウェルギリウス自身が案内役として立ち会う中でダンテが再演する──煉獄篇における詩的記憶と現実の複雑な重なりを象徴する。影には実体がなく触れられない──これは後のCanto XXX（ウェルギリウスの消滅）の予告でもある。"
+    },
+    {
+      "paragraphId": 5,
+      "type": "intertextual",
+      "anchor": "«Così come t'amai\nnel mortal corpo, così t'amo sciolta»",
+      "body": "「死すべき体であなたを愛したように、そのように解放されてもあなたを愛している（Così come t'amai / nel mortal corpo, così t'amo sciolta）」──カゼッラの言葉は煉獄における愛の継続性を示す。地獄では愛が罪（フランチェスカの情欲）として描かれたが、煉獄では地上の純粋な友情がそのまま霊的な愛として継続する。ただしその愛は「解放された（sciolta）」──肉体的制約から解放された愛として、より自由な形で継続する。",
+      "targetId": "dante_inferno_canto_5",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 6,
+      "type": "commentary",
+      "anchor": "«Amor che ne la mente mi ragiona»\ncominciò elli allor sì dolcemente,\nche la dolcezza ancor dentro mi suona.",
+      "body": "「Amor che ne la mente mi ragiona（私の心の中で愛が語る）」──ダンテ自身の詩『饗宴』第三巻の歌（カンツォーネ）。カゼッラがこれに曲をつけて歌っていた。「その甘さが今もなお私の内側で響く（la dolcezza ancor dentro mi suona）」──詩を書いた時（生前）・詩が歌われた時（歌が作られた時）・煉獄で聞いた時・今こうして書いている時──複数の時間層が「響く」という動詞に圧縮される。詩人ダンテが自分の作品を霊界で聞く場面という、神曲全体でも唯一無二の自己参照的瞬間。"
+    },
+    {
+      "paragraphId": 6,
+      "type": "prosody",
+      "anchor": "Lo mio maestro e io e quella gente\nch'eran con lui parevan sì contenti,\ncome a null'altra cosa avesse mente.",
+      "body": "ウェルギリウスも聞き惚れる──地獄篇では常に先を急がせ、感傷を許さなかった師が、ここでは魂たちと共に詩歌の甘さに「心を向けている」。これはCanto I末尾の「ここで急ぐべき」という緊張感と対比する。煉獄の詩学的パラドックス：詩は浄化を助けるが（Canto XI以降の芸術論）、詩への陶酔は浄化の妨げでもある。カトーの叱責はその両義性を断ち切る。"
+    },
+    {
+      "paragraphId": 7,
+      "type": "commentary",
+      "anchor": "Come quando, cogliendo biada o loglio,\nli colombi adunati a la pastura",
+      "body": "鳩の比喩──詩歌に聞き惚れていた魂たちがカトーに叱責されて散り散りに逃げる場面。ダンテの直喩（similitudine）の典型──「自然の一場面」（鳩が餌をついばんでいて驚いて散る）が霊的場面の解説として機能する。地獄篇の直喩が主として恐怖・苦痛・暗闇に関わるのに対し、煉獄篇の直喩は自然の光・植物・日常生活に関わる──このトーンの転換が煉獄篇全体の詩的特質。"
+    },
+    {
+      "paragraphId": 7,
+      "type": "intertextual",
+      "anchor": "né la nostra partita fu men tosta",
+      "body": "「私たちの出発も同様に急だった（né la nostra partita fu men tosta）」──ダンテとウェルギリウスも共に逃げる。師もまた詩歌の甘さに惑わされていた──これはウェルギリウスの「不完全さ」の微細な示唆。Canto XXVII でウェルギリウスが最後の言葉を語り姿を消すまで、彼は徐々に「完全な案内者」から「限界ある案内者」へと変化していく。Canto IIの「師も立ち止まった」はその始点。",
+      "targetId": "dante_purgatorio_canto_27",
+      "targetParagraphId": 5
+    }
+  ]
+}
