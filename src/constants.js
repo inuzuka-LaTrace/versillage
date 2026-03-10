@@ -31,6 +31,7 @@ export const CATEGORIES = {
   trakl:                      { name: 'トラークル' },
   hoelderlin:                 { name: 'ヘルダーリン' },
   dante:                      { name: 'ダンテ' },
+  dannunzio:                  { name: 'ダヌンツィオ' },
 };
 
 // カテゴリー省略ラベル（バッジ表示用）
@@ -60,6 +61,7 @@ export const CAT_SHORT = {
   trakl:                   'トラークル',
   hoelderlin:              'ヘルダーリン',
   dante:                   'ダンテ',
+  dannunzio:               'ダヌンツィオ',
 };
 
 // 注釈タイプ定義（ラベル・カラークラス）
