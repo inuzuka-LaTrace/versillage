@@ -1,0 +1,104 @@
+{
+  "id": "dante_paradiso_canto_26",
+  "title": "Paradiso — Canto XXVI",
+  "author": "Dante Alighieri",
+  "source": "La Commedia (Divina Commedia), 1304–1321頃成立。底本: Petrocchi版 (La Commedia secondo l'antica vulgata, 1966–1967)。照合: danteonline.it; Princeton Dante Project; Singleton, C.S., Dante Alighieri: The Divine Comedy, Paradiso (Princeton UP, 1975); Eco, U., La ricerca della lingua perfetta nella cultura europea (Laterza, 1993)",
+  "year": "1304–1321",
+  "firstPublication": "写本による流布。印刷初版: Foligno, 1472。",
+  "difficulty": "上級",
+  "category": "dante",
+  "canticle": "Paradiso",
+  "canto": "XXVI",
+  "originalLang": "it-IT",
+  "modernRelevance": "★★★★★",
+  "context": "天国篇第26歌には二つの中心がある。第一部（v.1–66）は聖ヨハネによるダンテへの「愛の試験」──信仰・希望に続き、愛（carità）について問われ、ダンテは神への愛・隣人への愛を語る。第二部（v.82–142）はアダムとの対話──人類最初の人間が語る「原初の言語」論。\n\nアダムが明かす内容は衝撃的だった。若いダンテが『俗語詩論』（De vulgari eloquentia）で主張した「ヘブライ語が人類の原初の言語であり、バベルの塔以前に存在した完全な言語」という立場を、晩年のダンテは天国篇でアダム自身の口を通じて覆す。アダムの言葉によれば：① エデンの園でアダムが神を呼ぶのに使った名前は「I（=Yah）」であり「El」ではない。② その言語はアダムの死以前に既に失われ、バベルの塔よりも早く消えていた。③ 人間の言語に永続的な本質はなく、全ての語は可変的な慣習（uso）に過ぎない──「木が葉を落とし新しい葉が生える」ように。\n\nウンベルト・エーコ『完全言語の探求』（1993）はこのカントを「言語の可変性の宣言」として詳細に論じる。「完全な原初言語」への探求という西洋思想の夢──ライプニッツの普遍言語計画・カバラ神秘主義・人工言語（エスペラント等）の全ての試みの背後には「失われた完全言語の回復」という衝動がある──を、ダンテ自身が天国で否定してみせる。",
+  "keywords": [
+    "アダム", "原初の言語", "ヘブライ語", "言語の可変性", "エーコ",
+    "完全言語", "バベルの塔", "俗語詩論", "uso", "愛の試験", "聖ヨハネ"
+  ],
+  "relatedTexts": [
+    "dante_paradiso_canto_6",
+    "dante_paradiso_canto_33",
+    "dante_purgatorio_canto_26"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "verses": "v.1–33",
+      "speaker": "Giovanni apostolo",
+      "original": "Mentr'io dubitava per lo viso spento,\ndella fulgida fiamma che spegnealo\nuscì un spiro che lo 'ntento\n\nmi fece; e disse: «Fin che tu ricupe\nla vista che hai in me consunta,\nè ben che ragionando la compense.\n\nCominicia dunque; e di' ove s'appunta\nl'anima tua, e fa ragion che sia\nla vista in te smarrita e non defunta:\n\nché la donna che per questa dia\nregion ti conduce, ha ne lo sguardo\nla virtù ch'ebbe la man d'Anania».\n\nIo dissi: «Al suo piacere e tosto e tardo\nvegna rimedio a li occhi, che fuor porte\nquand'ella entrò col foco ond'io sempr'ardo.\n\nLo ben che fa contenta questa corte,\nAlfa e O è di quanta scrittura\nmi legge Amore o lievemente o forte».\n\nLa medesima voce che paura\ntolta m'avea del subito abbalordire,\ndi ragionar ancor mi mise in cura;\n\ne disse: «Certo a più angusto vaglio\nte conviene schiarar: dicer convienti\nchi drizzò l'arco tuo a tal berzaglio».",
+      "provisionalTranslation": "目が消えているために疑っていた間、\n目を消した輝く炎から\n一つの息吹が出て私に意図を\n\n明らかにした；そして言った：「あなたが私の中に消耗した\n視力を取り戻すまで、\n話すことでそれを補うのは良いことだ。\n\nだから始めよ；そしてあなたの魂がどこに向いているかを言い、\n視力がこのようにあなたの中で失われたことを認識せよ\n迷ったのではなく消えたのだということを：\n\nなぜならこの神聖な領域を通じて\nあなたを導く女性（ベアトリーチェ）は、\nアナニアの手が持ったのと同じ力を眼差しに持っているから。」\n\n私は言った：「彼女が望む時に早く、または遅く\n目への救済が来るように、\n彼女が私が常に燃える炎と共に入ってきた時に門だったもの（目）への。\n\nこの宮廷を満ちたりた状態にする善は、\n愛が私に軽く、または強く読んでくれる\n全ての書き物のアルファとオメガだ。」\n\n突然の眩惑への恐れを\n私から取り除いてくれた同じ声が、\n再び話すことを私に促した；\n\nそして言った：「確かにより細かいふるいで\nあなたは明らかにしなければならない：あなたの弓を\nそのような的に向けたのは誰かを言わなければならない。」"
+    },
+    {
+      "id": 2,
+      "verses": "v.34–66",
+      "speaker": "Dante",
+      "original": "«Per filosofici argomenti\ne per autorità che quinci scende\ncodesto amor convien che 'n me si 'mprenti:\n\nché 'l bene, in quanto ben, come s'intende,\ncosì accende amore, e tanto maggio\nquanto più di bontate in sé comprende.\n\nDunque a l'essenza ov'è tanto avvantaggio,\nche ciascun ben che fuor di lei si trova\naltro non è ch'un lume di suo raggio,\n\npiù che in altra convien che si mova\nla mente, amando, di chiunque vede\nlo vero in che si fonda questa prova.\n\nTal vero a l'intelletto mio sterne\ncolui che mi dimostra il primo amore\ndi tutte le sustanze sempiterne.\n\nStermila la voce del verace autore,\nche dice a Moïsè, di sé parlando:\n'Io ti farò vedere ogne valore'.\n\nStermila tu ancora, incominciando\nl'alto preconio che grida l'arcano\ndi qui là giù sovra ogne altro bando».",
+      "provisionalTranslation": "「哲学的な論拠によって\nそしてここから降りてくる権威（聖書）によって\nこの愛が私の中に刻まれることが必要だ：\n\nなぜなら善は、善として理解される限り、\nそのように愛に火をつける、そして\nより多くの善性を自分の中に含むほどより大きく。\n\nだから、これほどの優位性を持つ本質（神）に、\nその外に見出される全ての善が\nその光線の光に他ならないほどの、\n\nこの証明の基盤となる真実を見る人は\n誰でも、他のどのものよりもその本質を愛して\n心が動くのが必然だ。\n\nそのような真実を私の知性に広げるのは\n全ての永遠の実体の第一の愛を\n私に示す者（アリストテレス／神）だ。\n\n真実の著者（神）の声がそれを広げる、\nモーセに向かって自分自身について話しながら：\n『私はあなたに全ての善を見せよう』と言う者が。\n\nあなた（ヨハネ）もまたそれを広げる、\nここの秘密をどんな他の宣言よりも\n下（地上）に向かって高らかに叫ぶ崇高な序文（ヨハネ福音書）を始めながら。」"
+    },
+    {
+      "id": 3,
+      "verses": "v.67–102",
+      "speaker": "Dante-narratore",
+      "original": "E io udi': «Per intelletto umano\ne per autoritadi a lui concorde\nd'i tuoi amori a Dio guarda il sovrano.\n\nMa di' ancor se tu senti altre corde\ntirarti verso lui, sì che tu suone\ncon quanti denti questo amor ti morde».\n\nNon fu latente la santa intenzione\ndell'aguglia di Cristo; anzi m'accorsi\nove volëa menar mia professïone.\n\nPer ch'io ricominciai: «Tutti quei morsi\nche posson far lo cor volgere a Dio,\na la mia caritate son concorsi:\n\nché l'essere del mondo e l'esser mio,\nla morte ch'el sostenné perch'io vivessi,\ne quel che spera ogne fedel com'io,\n\ncon la predetta conoscenza viva,\ntratto m'hanno del mar dell'amor torto,\ne del diritto m'han posto a la riva.\n\nLe fronde onde s'infronda tutto l'orto\ndello ortolano etterno, am'io cotanto\nquanto da lui a lor di bene è porto».\n\nSì com'io tacqui, un dolcissimo canto\nrisonò per lo cielo, e la mia donna\ndissi con li altri: «Santo, santo, santo!».\n\nE come a luce acuta si disonna\nper lo spirto visivo che ricorre\nallo splendor che va di gonna in gonna,\n\ne lo svegliato ciò che vede aborre,\nsì discognosce il subito svegliare,\nfin che la stimativa non soccorre;\n\ncosì delli occhi miei ogne quisquilia\ncacciò Beatrice col raggio de' suoi,\nche rifulgea da più di mille milia:\n\nonde mei che dinanzi vidi poi;\ne quasi attonito domandai\nd'un quarto lume ch'io vedea tra noi.",
+      "provisionalTranslation": "そして私は聞いた：「人間の知性によって\nそして彼と一致する権威によって\nあなたの愛の中で神を最高として見よ。\n\nしかしさらに言え、あなたが他の弦を感じるかどうかを\nあなたを彼に向けて引く、そうすれば言える\nこの愛がどれほど多くの歯であなたに噛みつくかを。」\n\nキリストの鷲（ヨハネ）の聖なる意図は\n隠れてはいなかった；むしろ私は気づいた\n彼が私の宣言をどこへ導きたいのかを。\n\nだから私は再び始めた：「私の愛（carità）に\n協力した全ての噛みつきは\n心を神に向けることができるものだ：\n\nなぜなら世界の存在と私自身の存在、\n私が生きるために彼が引き受けた死、\nそして私と同様に全ての信者が望むもの、\n\n前述の生き生きとした知識と共に、\n私を歪んだ愛の海から引き出した\nそして私を正しい岸辺に置いた。\n\n永遠の農夫（神）の庭全体を\n枝葉で覆う葉たち（被造物）を私は愛する\n彼から彼らへ善として運ばれるほどに。」\n\n私が黙ると、甘美な歌が\n天を通して響き渡り、私の女性（ベアトリーチェ）が\n他の者たちと共に言った：「聖なるかな、聖なるかな、聖なるかな！」\n\nそして鋭い光で目が覚めるように\n視覚の精気が戻ることで\n衣から衣へと伝わる輝きに、\n\nそして目覚めた者が見るものを嫌う、\n突然の覚醒を全く認識できないほど、\n評価能力が助けに来るまで；\n\nそのようにベアトリーチェが彼女の光線で\n私の目から全ての汚れを追い払い、\nそれは千マイル以上から輝き返し：\n\nその結果私はその後以前より良く見た；\nそしてほとんど驚嘆しながら私は尋ねた\n私たちの間に見える第四の光について。"
+    },
+    {
+      "id": 4,
+      "verses": "v.103–138",
+      "speaker": "Adamo",
+      "original": "E la mia donna: «Dentro da quei raggi\nvagheggia il suo fattor l'anima prima\nche la prima virtù creò di suoi raggi».\n\nCome la fronda che flette la cima\nnel transito del vento, e poi si leva\nper la propria virtù che la soblima,\n\nfec'io in tanto in quant'ella dicea,\nestupefatto, e poi mi rifei\ndi voglia di parlare ond'io ardea.\n\nE cominciai: «O pomo che maturo\nsolo prodotto fosti, o padre antico\na cui ciascuna sposa è figlia e nuro,\n\ndivotamente quanto posso il prego\nche tu mi parli: tu vedi mia voglia,\ne per udirti tosto non la celo».\n\nTalvolta un animal coverto broglia,\nsì che l'affetto convien che si paia\nper lo seguir che face a lui la 'nvoglia;\n\ne similmente l'anima primaia\nmi facea trasparer per la coverta\nquanto a venir mi era a grata e gaia.\n\nIndi spirò: «Sanz'essermi proferta\nda te, la voglia tua discerno meglio\nche tu qualunque cosa t'è più certa;\n\nperch'io la veggio nel verace speglio\nche fa di sé pareglio a l'altre cose\ne nulla face lui di sé pareglio.\n\nVuoi saper quant'è che Dio mi pose\nnell'eccelso giardino ove costei\na così lunga scala ti dispuose,\n\ne quanto fu diletto agli occhi miei,\ne la propria cagion del gran disdegno,\ne il idioma ch'usai e che fei.\n\nOr, figliuol mio, non il gustar del legno\nfu per sé la cagion di tanto essilio,\nma solamente il trapassar del segno.",
+      "provisionalTranslation": "そして私の女性（ベアトリーチェ）は：「あの光線の内側で\n自分の創り主をあこがれながら見つめているのが最初の魂だ\n最初の力がその光線から創った。」\n\n風が通過する時に頂点を曲げる枝が、\nそれから自分を高める自分自身の力によって\n起き上がるように、\n\n彼女が話している間に私はそのようにした、\n驚いて、それから話したいという欲望で再び立て直した\n私がそのために燃えていた。\n\nそして始めた：「ああ、唯一成熟した\nりんごとして産み出された実よ、ああ古い父よ\nあなたにとって全ての妻が娘であり嫁である者よ、\n\n私ができる限り敬虔に\nどうかあなたに話してほしいと頼む；あなたは私の意志を見る、\nそしてあなたを聞くために私はそれをすぐには隠さない。」\n\n時として覆いに包まれた動物が身をよじる、\nそのため愛情が覆いを追うことによって\n外に現れなければならない；\n\nそのように最初の魂（アダム）が\n覆いを通して私に透かして見せた\n来ることが私にとってどれほど喜ばしく嬉しいかを。\n\nそれから息吹した：「私に打ち明けられなくとも、\nあなたの意志を私はあなたが確かなことよりも\n良く見分ける；\n\nなぜなら私は他のものに対して自分を映し出し\n何もそれに自分を映さない\n真実の鏡の中にそれを見るから。\n\nどれほどの時間が経ったか知りたいのだろう\n神が私をその高い庭に置いてから\nそこでこの方（ベアトリーチェ）があなたをこれほど長い梯子に備えた、\n\nそして私の目にとってどれほどの喜びだったかを、\nそして大きな怒り（罰）の本当の原因と、\n私が使いそして作った言語を。\n\n今、私の息子よ、木の実を食べること自体が\nこれほどの追放の原因ではなかった、\nしかし境界を踏み越えること（trapassar del segno）だけが。」"
+    },
+    {
+      "id": 5,
+      "verses": "v.124–138",
+      "speaker": "Adamo",
+      "original": "«Quinci onde mosse tua donna Virgilio,\nquattromilia trecento e due volumi\ndi sol desiderai questo concilio;\n\ne vidi lui tornare a tutte e quattro\nle luci mie, poi che nel mondo\nquanto convien che l'uomo si metta.\n\nLa lingua ch'io parlai fu tutta spenta\ninnanzi che a l'ovra inconsummabile\nfosse la gente di Nembròt attenta:\n\nché nullo effetto mai razïonabile,\nper lo piacere uman che rinovella\nseguendo il cielo, sempre fu durabile.\n\nOpra naturale è ch'uom favella;\nma così o così, natura lascia\npoi fare a voi secondo che v'abbella.\n\nPria ch'i' scendessi a l'infernale ambascia,\nI s'appellava in terra il sommo bene\nonde vien la letizia che mi fascia;\n\ne EL si chiamò poi: e ciò convene,\nché l'uso d'i mortali è come fronda\nin ramo, che sen va e altra vene».",
+      "provisionalTranslation": "「あなたの女性（ベアトリーチェ）がウェルギリウスを動かした場所（地上楽園）から\n四千三百二回の太陽の回転を\n私はこの会議（天国）を望んだ；\n\nそして私は彼（太陽）が私の全四つの\n光（方向）へ戻るのを見た、世界に\n人が関わるべき限りで。\n\n私が話した言語は全て消えていた\nバベルの塔の成し遂げられない仕事に\ネンブロットの民が注意を向けるよりも前に：\n\nなぜなら理性的な作用は何も、\n天に従って更新する人間の喜びのために、\n常に永続的だったことはないから。\n\n人間が言葉を話すのは自然の仕事だ；\nしかしこのようにまたはあのように、自然は後で\nあなた方の気に入るものに従ってあなた方に作らせる。\n\n私が地獄の苦悶に降りる前は、\n地上では最高の善（神）を I と呼んでいた\nそこから私を包む喜びが来る；\n\nそして後に EL と呼ばれた：そしてこれは当然だ、\nなぜなら死すべき者の習慣（uso）は枝の\n葉のようなもの、去るものと来るもの（新しいもの）だから。」"
+    },
+    {
+      "id": 6,
+      "verses": "v.139–142",
+      "speaker": "Adamo",
+      "original": "«Nel monte che si leva più da l'onda\nfu' io, con vita pura e disonesta,\ndalla prima ora a quella che seconda,\n\ncome 'l sol muta quadra, l'ora sesta».",
+      "provisionalTranslation": "「波から最も高くそびえる山（煉獄山）に\n私はいた、純粋で不誠実な生活で（堕落前と堕落後）、\n最初の時（夜明け）からそれに続く\n\n時まで、太陽が四分の一に変わるように、第六の時（正午）。」"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 4,
+      "type": "commentary",
+      "anchor": "Or, figliuol mio, non il gustar del legno\nfu per sé la cagion di tanto essilio,\nma solamente il trapassar del segno.",
+      "body": "「木の実を食べること自体が追放の原因ではなく、ただ境界を踏み越えること（trapassar del segno）だけが」──アダムの言葉は神学的に繊細な区別を行う。罪の核心は「禁じられた果実を食べた」という行為の物質的内容ではなく、「境界（segno）を踏み越えた」という越境行為そのもの。「segno」は「記号・標識・境界」──ここでの用法は Canto VI の「記号の政治的濫用」と同じ語だが、意味が異なる。神が定めた秩序的境界の侵犯が原罪──これは Par. I でベアトリーチェが語った「全てのものは秩序を持つ（ordine）」という宇宙論の倫理的対応。",
+      "targetId": "dante_paradiso_canto_1",
+      "targetParagraphId": 6
+    },
+    {
+      "paragraphId": 5,
+      "type": "prosody",
+      "anchor": "La lingua ch'io parlai fu tutta spenta\ninnanzi che a l'ovra inconsummabile\nfosse la gente di Nembròt attenta",
+      "body": "「私が話した言語は全て消えていた、ネンブロット（ニムロド）の民がバベルの塔の成し遂げられない仕事に注意を向けるよりも前に（La lingua ch'io parlai fu tutta spenta / innanzi che a l'ovra inconsummabile / fosse la gente di Nembròt attenta）」──これが「ヘブライ語が原初の完全言語」というダンテ自身の旧立場（De vulgari eloquentia I.vi）への明示的な撤回。アダムの言語はバベルの塔（創世記11章）よりも前に消えていた──つまりヘブライ語すら「原初語の継承」ではなく「後から発生した慣習語」に過ぎない。エーコ『完全言語の探求』第3章がこの撤回を「ダンテの最も大胆な言語論的転換」として分析する。"
+    },
+    {
+      "paragraphId": 5,
+      "type": "commentary",
+      "anchor": "Opra naturale è ch'uom favella;\nma così o così, natura lascia\npoi fare a voi secondo che v'abbella.",
+      "body": "「人間が言葉を話すのは自然の仕事だ；しかしこのようにまたはあのように、自然は後であなた方の気に入るものに従ってあなた方に作らせる（Opra naturale è ch'uom favella; / ma così o così, natura lascia / poi fare a voi secondo che v'abbella）」──「言語能力（faculté du langage）」は自然的・普遍的だが、「特定の言語（langue）」は慣習的・可変的──これはソシュールの言語論の核心的区別に極めて近い。ダンテは13世紀末・14世紀初頭に、20世紀言語学が「再発見する」言語観を詩の中で定式化している。"
+    },
+    {
+      "paragraphId": 5,
+      "type": "prosody",
+      "anchor": "l'uso d'i mortali è come fronda\nin ramo, che sen va e altra vene",
+      "body": "「死すべき者の習慣（uso）は枝の葉のようなもの、去るものと来るもの（l'uso d'i mortali è come fronda / in ramo, che sen va e altra vene）」──ホラティウス『詩論』（Ars Poetica）60–62行「林に葉が落ちるように、最初に散った言葉もそのように死ぬ」の反響。ラテン詩学の比喩を逆転させて使う──ホラティウスは「言葉も葉のように散る」と嘆いたが、アダムは同じ比喩を「それは自然なことだ（당然だ）」という平静さで語る。Purg. XI のオデリージ「名声は風」との連鎖──名声も言語も変わる、しかしそれは喪失ではなく秩序の一部。",
+      "targetId": "dante_purgatorio_canto_11",
+      "targetParagraphId": 4
+    },
+    {
+      "paragraphId": 5,
+      "type": "intertextual",
+      "anchor": "Pria ch'i' scendessi a l'infernale ambascia,\nI s'appellava in terra il sommo bene\nonde vien la letizia che mi fascia;\n\ne EL si chiamò poi",
+      "body": "「私が地獄の苦悶に降りる前は、地上では最高の善を I と呼んでいた……そして後に EL と呼ばれた（Pria ch'i' scendessi a l'infernale ambascia, / I s'appellava in terra il sommo bene ……/ e EL si chiamò poi）」──神の名の変化という最も具体的な「原初語問題」への回答。若いダンテの『俗語詩論』では神の名はヘブライ語「El」が原初的とされていた。ここでアダムは「私はエデンで I と呼んでいたが、その後 El に変わった」と述べる──より古い名前は「El」ですらなく「I」だった。エーコが注目するのはこの「言語の変化が最古の人間アダムの生涯の中でさえ起きた」という発見──つまりいかなる言語も「原初」から固定されてはいない。"
+    }
+  ]
+}
