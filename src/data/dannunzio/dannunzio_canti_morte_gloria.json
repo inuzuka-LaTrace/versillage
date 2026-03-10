@@ -1,0 +1,156 @@
+{
+  "id": "dannunzio_canti_morte_gloria",
+  "title": "Canti della morte e della gloria",
+  "author": "Gabriele d'Annunzio",
+  "source": "Elettra, Laudi del cielo del mare della terra e degli eroi, libro secondo. Milano: Fratelli Treves Editori, 1903 (初版). 底本: D'Annunzio, G., Versi d'amore e di gloria, a cura di A. Andreoli e N. Lorenzini, Mondadori (I Meridiani), 1982–1984, vol. I. PDF底本: Elettra (D'Annunzio) / Canti della morte e della gloria, Wikisource（Treves版, 1918）, p.87–88.",
+  "year": "1903",
+  "firstPublication": "Laudi del cielo del mare della terra e degli eroi, libro secondo: Elettra, Treves, Milano, 1903.",
+  "difficulty": "上級",
+  "category": "dannunzio",
+  "originalLang": "it-IT",
+  "modernRelevance": "★★★★★",
+  "context": "『エレットラ』（1903）はダヌンツィオの詩集 Laudi（讃歌）四篇の第二篇──第一篇 Maia（ギリシャへの旅・ヘレニズム讃歌）に続き、第二篇 Elettra はイタリアの英雄・歴史・政治への挽歌と召喚の書として構成される。タイトル「Elettra」は二重の含意を持つ──ギリシャ悲劇のエレクトラ（父アガメムノンの死を嘆き復讐を誓う娘）、そして「琥珀（ēlektron）」＝電気（electricity）の語源。「悼む力」と「電気的な生命力」の両義が詩集全体を貫く。\n\n「死と栄光の歌（Canti della morte e della gloria）」は Elettra 冒頭部に置かれ、詩集全体の主題命題を提示する三篇連作ソネット。思想的背景は Risorgimento（イタリア統一運動、1861年完成）後の政治的失望──「統一は形だけだった」という認識が、古代ローマの神話的栄光と現代イタリアの腐敗堕落の対比として詩化される。\n\nソネット I：現代ローマの神話的シンボルの堕落を列挙する告発の詩。疲れ果てた牝狼・盗まれた聖なる無花果の木・娼婦に落ちた乳母アッカ・ラレンツィア・翼のない鵞鳥・目のないモグラ──古代の象徴が全て機能を失った現代イタリアの風刺的死絵図。\n\nソネット II：ロムルスによるレムス殺害という建国神話の再解釈。「必要な犯罪（delitto necessario）」──帝国の重さを担うために一人が選ばれ、もう一人は犠牲にされなければならなかった。「栄光のために孤独であることの美しさ（come sia bello / con un sogno di gloria restar solo）」──ダヌンツィオの超人主義の核心命題が神話の読み直しとして提示される。\n\nソネット III：「栄光は過去のものだった（La gloria fu）」──連作の最も鋭い一行。ダンテの地イタリアで最後の偉大な魂が燃え尽きてゆく。鷲（行動する者）と白鳥（夢見る者）が去り、無知な群れだけが残る。しかし詩人の魂への最後の命令：「立て、苦悩に打ち勝て、私の魂よ。これはあなたの徹夜の祈りだ（Questa è la tua vigilia）」。絶望的な診断から、詩人使命の再確立へ。",
+  "keywords": [
+    "ローマの堕落", "リソルジメント", "ロムルスとレムス", "必要な犯罪",
+    "La gloria fu", "鷲と白鳥", "孤独と栄光", "ヴィジリア", "ファビウス一族",
+    "Elettra", "超人主義", "政治的エレジー", "ソネット連作", "牝狼"
+  ],
+  "relatedTexts": [
+    "dannunzio_alba_separa",
+    "dante_inferno_canto_26",
+    "dante_paradiso_canto_6"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "verses": "I, v.1–4",
+      "speaker": null,
+      "original": "O VERITÀ cinta di quercia, canta\nla tristezza del popolo latino,\nil Sol che muore dietro l'Aventino\ne la notte che abbraccia l'Arce santa.",
+      "provisionalTranslation": "おお、樫の葉冠を戴く真理よ、歌え\nラテンの民の悲しみを、\nアヴェンティーノの丘の向こうに沈む太陽を\nそして聖なる城砦（アルクス）を抱きしめる夜を。"
+    },
+    {
+      "id": 2,
+      "verses": "I, v.5–8",
+      "speaker": null,
+      "original": "Ahi che lungi egualmente a Roma, e in quanta\nlontananza entro l'ombra del destino\ncompiuto, sono i Fabi e il lor divino\nCrèmera, Villagloria e i suoi settanta!",
+      "provisionalTranslation": "ああ、ローマからこれほど等しく遠く、運命の影の中に\n成就した遠さの中に、ファビウス一族と\n彼らの神聖なクレメラ川、\nそしてヴィッラ・グロリアとその七十人がいることよ！"
+    },
+    {
+      "id": 3,
+      "verses": "I, v.9–14",
+      "speaker": null,
+      "original": "Esausto è il latte della Lupa stracca\nnelle flaccide mamme, e tutto è spoglio\ndai ladruncoli il fico ruminale.\n\nAcca Larenzia lucra da baldracca.\nL'oca senz'ale abita il Campidoglio\ne la talpa senz'occhi il Quirinale.",
+      "provisionalTranslation": "疲れ果てた牝狼のたるんだ乳房では\n乳は尽き果て、そして聖なる無花果の木（ルミナリスの木）は\n小盗人どもに全て剥ぎ取られた。\n\nアッカ・ラレンツィアは売春婦として稼ぐ。\n翼のない鵞鳥がカンピドーリョに住み\n目のないモグラがクィリナーレに住む。"
+    },
+    {
+      "id": 4,
+      "verses": "II, v.1–4",
+      "speaker": null,
+      "original": "Il pastore d'Amulio dal galèro\ndi pel lupigno, Fàustolo che scorse\nil pico verde e quel seguendo accorse\nal loco lupercale umido e nero,",
+      "provisionalTranslation": "アムーリウスの羊飼い、狼の毛皮の帽子（ガレロ）を被った\nファウストゥルスは、緑のキツツキを見て\nその後に続いて走り寄った\n薄暗く黒い狼の洞窟（ルペルカーレ）の場所へ、"
+    },
+    {
+      "id": 5,
+      "verses": "II, v.5–8",
+      "speaker": null,
+      "original": "indi prese i Gemelli, uno leggero,\nl'altro più grave, e nudi ambo li porse\na Larenzia mammosa, non s'accorse\nche in un pesava il peso dell'impero.",
+      "provisionalTranslation": "そこで双子を抱き取った、一人は軽く\nもう一人はより重く、そして二人とも裸のまま\n豊満な胸のラレンツィアに渡した、気がつかずに\n一方に帝国の重さが宿っていることを。"
+    },
+    {
+      "id": 6,
+      "verses": "II, v.9–14",
+      "speaker": null,
+      "original": "Il peso dell'impero e del delitto\nnecessario facea grave il fratello\ndi Remo, sacro all'augurale volo.\n\nEi diede al mondo l'Urbe e al cuore invitto\ndel Guerriero insegnò come sia bello\ncon un sogno di gloria restar solo.",
+      "provisionalTranslation": "帝国の重さと必要な犯罪の重さが\n鳥占いの飛翔に奉じられたレムスの\n兄弟（ロムルス）を重くした。\n\n彼は世界に都市を与え、そして武人の\n不屈の心に教えた──いかに美しいかを\n栄光の夢とともに孤独であり続けることが。"
+    },
+    {
+      "id": 7,
+      "verses": "III, v.1–4",
+      "speaker": null,
+      "original": "La gloria fu. L'ultime vite insigni\nsi spengono sul suol di Dante a un tratto\ncome le faci in un festin protratto\nquando il cielo arde di baglior sanguigni.",
+      "provisionalTranslation": "栄光は過ぎ去った。最後の卓越した命たちが\nダンテの地（イタリア）の上で一気に燃え尽きてゆく\n長引く宴の中の松明のように\n空が血の色の照り輝きで燃える時に。"
+    },
+    {
+      "id": 8,
+      "verses": "III, v.5–8",
+      "speaker": null,
+      "original": "Vanno lungi da noi l'Aquile e i Cigni:\nquei ch'ebber pronta la virtù dell'atto\ne quei ch'ebber nel cuore il sogno intatto;\nné si vede che il seme lor ralligni.",
+      "provisionalTranslation": "鷲と白鳥は私たちから遠く去ってゆく──\n行動の徳を持っていた者たちと\n心に傷つかぬ夢を持っていた者たち；\n彼らの種が再び芽吹く兆しは見えない。"
+    },
+    {
+      "id": 9,
+      "verses": "III, v.9–14",
+      "speaker": null,
+      "original": "Alziamo gli Inni fùnebri, sul gregge\nignaro, alla Potenza che ci lascia,\nalla Bellezza che da noi s'esilia.\n\nImplacabile è il Canto, e la sua legge.\nE però leva su, vinci l'ambascia,\nAnima mia. Questa è la tua vigilia.",
+      "provisionalTranslation": "無知な群れの上に葬送の讃歌を高く掲げよう\n私たちを去ってゆく力（権能）に向けて、\n私たちから亡命してゆく美に向けて。\n\n歌は容赦なく、その法も容赦ない。\nだからこそ立て、苦悩に打ち勝て、\n私の魂よ。これはあなたの徹夜の祈りだ。"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "prosody",
+      "anchor": "O VERITÀ cinta di quercia, canta",
+      "body": "大文字の「VERITÀ（真理）」──大文字表記は擬人化した寓意的存在（アレゴリー）の標示。「樫の葉冠を戴く真理（Verità cinta di quercia）」──樫（quercia）の葉冠はローマ市民の冠（corona civica）。市民の命を救った者に贈られた最高の栄誉。真理が樫の冠を戴くとは、真理が「ローマ市民的徳の体現者」として召喚されること。命令形「canta（歌え）」──詩人が真理に向かって「歌え」と命じる。詩人が真理の代理人であることの宣言、あるいは詩人が真理に「語らせる」媒介者であるという構造。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "allusion",
+      "anchor": "i Fabi e il lor divino\nCrèmera, Villagloria e i suoi settanta!",
+      "body": "二つの歴史的悲劇の並置──時代を越えた犠牲の連鎖。①「ファビウス一族とクレメラ（Fabi e il lor divino Crèmera）」：BC477年、ファビウス一族306人全員がエトルリア遠征でクレメラ川で全滅した（ティトゥス・リウィウス『ローマ史』II.50）。共和制ローマ最初の大貴族家の壊滅。②「ヴィッラ・グロリアとその七十人（Villagloria e i suoi settanta）」：1867年10月23日、ガリバルディ派のローマ進軍中に73名がヴィッラ・グロリアで教皇派・フランス軍に虐殺された。ガリバルディの息子ブルーノとアンドレアもここで死んだ。Risorgimento の最後の傷──「神聖なクレメラ（divino Crèmera）」という修辞が古代と現代を等価の殉難として重ね合わせる。"
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "L'oca senz'ale abita il Campidoglio\ne la talpa senz'occhi il Quirinale.",
+      "body": "連作 I のクライマックス──二行の風刺的対句。①「翼のない鵞鳥がカンピドーリョに住む」：BC390年のガリア人侵攻の夜、カピトリウムの聖なる鵞鳥の鳴き声がローマ兵を目覚めさせ都市を救った（リウィウス V.47）。その鵞鳥が今や「翼がない（senz'ale）」──警戒能力も逃走能力も失った。カンピドーリョはローマ市議会所在地──政治的盲目の比喩。②「目のないモグラがクィリナーレに住む」：クィリナーレはイタリア国王・後に大統領官邸──「目のないモグラ（talpa senz'occhi）」は地上の光を見ない権力者、現実を見えない統治者への辛辣な風刺。古代の聖なる動物が、機能を剥ぎ取られた現代のシンボルに転落する。",
+      "targetId": "dante_paradiso_canto_6",
+      "targetParagraphId": 4
+    },
+    {
+      "paragraphId": 4,
+      "type": "allusion",
+      "anchor": "Fàustolo che scorse\nil pico verde e quel seguendo accorse\nal loco lupercale umido e nero",
+      "body": "ロムルス・レムス誕生神話の詩的再現（リウィウス『ローマ史』I.4）。ファウストゥルス（Faustulus）はアルバ・ロンガの羊飼い──アムーリウス（Amulius）王の家畜番。「緑のキツツキ（pico verde）」はマルス（軍神）の聖鳥──吉兆を示す。ルペルカーレ（Lupercale）はパラティーノの丘の洞窟、牝狼が双子を育てたとされる聖地。「湿って黒い（umido e nero）」──神聖な暗闇、起源の場所の具体的な質感。ソネット I の抽象的・寓意的な語法（VERITÀ・Lupa・Acca Larenzia）に対して、ソネット II は神話を具体的な物語として再現する──神話の詩的「降臨」。"
+    },
+    {
+      "paragraphId": 5,
+      "type": "prosody",
+      "anchor": "che in un pesava il peso dell'impero.",
+      "body": "「il peso dell'impero（帝国の重さ）」──v.8 と v.9 で同じ語句がソネットの境界（オクターヴからセステットへの転換点）をまたいで反復される。この「転換部での反復」は詩的に二重の意味を持つ：①ソネット構造上の「折れ目（volta）」に「重さ」が置かれる──意味と形式が一致する。②「気がつかなかった（non s'accorse）」に続いて「重さ」が再び宣言される──ファウストゥルスは気づかなかったが、詩は気づかせる。無意識の歴史的重力を詩的意識が回収する。"
+    },
+    {
+      "paragraphId": 6,
+      "type": "commentary",
+      "anchor": "Il peso dell'impero e del delitto\nnecessario facea grave il fratello\ndi Remo",
+      "body": "「必要な犯罪（delitto necessario）」──ロムルスによるレムス殺害の再解釈。神話では境界線の侮辱が動機だが、ダヌンツィオは「帝国建設のために一人が重くなければならなかった（=選ばれなければならなかった）」という歴史的必然の論理を当て込む。これはニーチェの影響下にある「道徳を超えた選択の美学」──偉大な使命は残酷な犠牲を内包する。レムスは「鳥占いの飛翔（augurale volo）に奉じられた」──犠牲は神聖化される。ダヌンツィオのファシズム的傾向の文学的先取りとして後世に批判的に読まれる場面でもある。"
+    },
+    {
+      "paragraphId": 6,
+      "type": "prosody",
+      "anchor": "con un sogno di gloria restar solo.",
+      "body": "ソネット II の最終行──「栄光の夢とともに孤独であり続けることの美しさ（come sia bello / con un sogno di gloria restar solo）」。ダヌンツィオの超人主義的美学の最も明確な定式の一つ。「solo（孤独）」が行末に置かれる──孤独が美しさの条件として最後に来る。この「夢とともに孤独であること」は Alcyone の官能的充溢（二人の夜）とは全く異なる詩的倫理──行動する英雄の孤独、夢想する詩人の孤独。ソネット III の「Anima mia（私の魂よ）」への呼びかけが、この「一人で夢を持つ者」の後継として用意される。",
+      "targetId": "dannunzio_alba_separa",
+      "targetParagraphId": 1
+    },
+    {
+      "paragraphId": 7,
+      "type": "prosody",
+      "anchor": "La gloria fu.",
+      "body": "「栄光は過ぎ去った（La gloria fu）」──連作全体の中で最も鋭い四語。直説法過去（passato remoto）の fu──完了した、もはや戻らない過去。「La gloria fu」の後のピリオドが決定的な切断を作る。句点の後に続く「L'ultime vite insigni（最後の卓越した命たち）」が現在形（si spengono）で書かれることで「栄光が過去形」であることと「最後の命が今燃え尽きている」ことが鋭く対比される。ダンテの詩（Par. XI の「オデリージ──名声は風」）との連鎖──名声も栄光も変わる、しかしダヌンツィオにとってその喪失は受容ではなく、怒りと悲嘆の源泉。",
+      "targetId": "dante_purgatorio_canto_11",
+      "targetParagraphId": 4
+    },
+    {
+      "paragraphId": 8,
+      "type": "commentary",
+      "anchor": "Vanno lungi da noi l'Aquile e i Cigni:\nquei ch'ebber pronta la virtù dell'atto\ne quei ch'ebber nel cuore il sogno intatto;",
+      "body": "「鷲と白鳥（l'Aquile e i Cigni）」──ダヌンツィオ的英雄観の二極を一行に圧縮した比喩。鷲：行動する者（武人・政治家・革命家）──「行動の徳（virtù dell'atto）」。白鳥：夢見る者（詩人・芸術家）──「心に傷つかぬ夢（sogno intatto）」を持つ者。ソネット II でロムルスは「栄光の夢（sogno di gloria）と孤独（solo）」として描かれた──英雄は鷲でも白鳥でもなく、その両方の融合。「vanno lungi（遠く去ってゆく）」──現在形による今現在の喪失の観察。「né si vede che il seme lor ralligni（彼らの種が再び芽吹く兆しは見えない）」──植物的比喩による絶望の定式。しかしこれが詩人を黙らせるのではなく「歌え」という命令へ転じる。"
+    },
+    {
+      "paragraphId": 9,
+      "type": "commentary",
+      "anchor": "Implacabile è il Canto, e la sua legge.\nE però leva su, vinci l'ambascia,\nAnima mia. Questa è la tua vigilia.",
+      "body": "連作の最終三行──「歌は容赦なく、その法も容赦ない」。絶望的な現実診断（栄光は去った・英雄は去った）を前にしてなお「歌（Canto）」は義務として存在する──その法（legge）が詩人の意志を超えて詩人を律する。「E però（だからこそ）」──逆接ではなく「それゆえに」の però。絶望があるからこそ詩人は立たなければならない。「Anima mia（私の魂よ）」──直接呼格。詩人が自分自身の魂に命令する──「leva su（立て）、vinci l'ambascia（苦悩に打ち勝て）」。「vigilia（徹夜の祈り・前夜）」──典礼語。聖人の祝祭日の前夜に行われる徹夜の祈り（vigilia）。詩人の使命が宗教的な徹夜として定義される──絶望の夜に眠らず、夜明けを待ちながら歌い続けること。連作 I の「夜が聖なる城砦を抱きしめる」という夜のイメージが、連作 III の「vigilia」で徹夜へと変換される。"
+    }
+  ]
+}
