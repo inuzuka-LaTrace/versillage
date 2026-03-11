@@ -1,0 +1,104 @@
+{
+  "id": "dannunzio_nella_belletta",
+  "title": "Nella belletta",
+  "author": "Gabriele d'Annunzio",
+  "source": "Alcyone, Laudi del cielo del mare della terra e degli eroi, libro terzo, sezione IV: Madrigali dell'estate. Milano: Fratelli Treves Editori, 1904. 底本: Treves版 1908（Internet Archive所収）; D'Annunzio, G., Versi d'amore e di gloria, a cura di A. Andreoli e N. Lorenzini, Mondadori (I Meridiani), 1982–1984, vol. II. 参照: Wikisource, Alcyone / Madrigali dell'estate.",
+  "year": "1904",
+  "firstPublication": "Laudi del cielo del mare della terra e degli eroi, libro terzo: Alcyone, Treves, Milano, 1904.",
+  "difficulty": "中級",
+  "category": "dannunzio",
+  "originalLang": "it-IT",
+  "modernRelevance": "★★★★★",
+  "context": "「Nella belletta（泥の中で）」は Alcyone（1904）第四セクション「Madrigali dell'estate（夏のマドリガル）」11篇の一つ。全8行、変形マドリガル形式（2つの三行詩＋対句）という Alcyone 中で最も短い詩の一つでありながら、その凝縮密度は群を抜く。\n\n「pioggia nel pineto」が官能的充溢としての夏を描くのに対し、この詩は「過熟・腐熟・分解」としての夏を描く──Alcyone という詩集の内部における内的対立（テンション）の一極。松林の中のエルミオーネは「傷のない桃（pèsca intatta）」だったが、この詩の泥の中には「崩れた桃（persiche mézze）」がある。同じ「桃」という素材が、一方では官能の新鮮さを、他方では腐熟の甘苦さを体現する。\n\nタイトルの「belletta（泥・汚泥）」はダンテ典拠──地獄篇第7歌で怒れる者たちが沈む「黒い泥（belletta negra）」。ダヌンツィオはダンテの地獄的な語を Alcyone の夏の自然描写に移植し、夏の沼地の泥を「地獄的なもの」として暗示する。地獄の沼の怒れる魂は「泥の中で悲しんでいる（ci attristiam ne la belletta negra）」と言ったが、この詩の泥は誰も悲しませない──ただ沈黙と腐熟の香りがある。\n\n嗅覚が全体を支配するという点でこの詩は Alcyone の中で際立つ。崩れた桃・萎れた薔薇・腐ったはちみつ・死の匂い──これらは過熟した夏が自らの腐敗の中に美を宿すという、デカダンス美学の純粋な詩的結晶。「dolcigna afa di morte（甘苦い死の蒸し暑さ）」という表現が詩全体の主調を一語に圧縮する──「甘い死」。詩人が近づくと蛙が黙り、泥の気泡が無言で昇る──生命の声が消え、自然は沈黙の腐熟へと退いてゆく。",
+  "keywords": [
+    "腐熟", "沼地", "belletta", "ダンテ典拠", "デカダンス", "嗅覚",
+    "甘苦い死", "マドリガル", "Madrigali dell'estate", "沈黙",
+    "過熟した夏", "桃", "ルトゥレント"
+  ],
+  "relatedTexts": [
+    "dannunzio_pioggia_nel_pineto",
+    "dannunzio_alba_separa",
+    "dante_inferno_canto_5"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "verses": "v.1–3",
+      "speaker": null,
+      "original": "Nella belletta i giunchi hanno l'odore\ndelle persiche mézze e delle rose passe,\ndel miele guasto e della morte.",
+      "provisionalTranslation": "泥（ベッレッタ）の中で骨柳（ジュンコ）は匂っている\n崩れた桃と萎れた薔薇の\n腐ったはちみつと死の匂いがする。"
+    },
+    {
+      "id": 2,
+      "verses": "v.4–6",
+      "speaker": null,
+      "original": "Or tutta la palude è come un fiore\nlutulento che il sol d'agosto cuoce,\ncon non so che dolcigna afa di morte.",
+      "provisionalTranslation": "今や沼地は全体が一輪の花のようだ\n泥だらけの花を八月の太陽が焼く、\n何とも言えない甘苦い死の蒸し暑さとともに。"
+    },
+    {
+      "id": 3,
+      "verses": "v.7–8",
+      "speaker": null,
+      "original": "Ammutisce la rana, se m'appresso.\nLe bolle d'aria salgono in silenzio.",
+      "provisionalTranslation": "蛙は黙る、私が近づくと。\n空気の泡が無言で昇ってゆく。"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "allusion",
+      "anchor": "Nella belletta",
+      "body": "「belletta（泥・汚泥）」──ダンテ地獄篇第7歌の直接引用。ダンテは怒れる者たちが沈む沼をこう描いた：「Or ci attristiam ne la belletta negra（今私たちは黒い泥の中で悲しんでいる）」（Inf. VII.124）。これは地獄の亡者が第三者ではなく一人称で自分の状態を語る場面──「belletta」という語は地獄的苦罰の刻印を帯びている。ダヌンツィオはこの語を Alcyone の夏の沼地の描写に移植することで、地中海の沼地の自然を「地獄的なもの」として暗示する。しかし地獄では亡者が「悲しむ（attristiam）」のに対し、この詩の沼地には悲しむ者がいない──ただ蒸し暑い腐熟がある。「悲しみなき地獄」の風景。",
+      "targetId": "dante_inferno_canto_5",
+      "targetParagraphId": 1
+    },
+    {
+      "paragraphId": 1,
+      "type": "prosody",
+      "anchor": "delle persiche mézze e delle rose passe,\ndel miele guasto e della morte.",
+      "body": "三つの嗅覚的イメージの連鎖──「崩れた桃（persiche mézze）」「萎れた薔薇（rose passe）」「腐ったはちみつ（miele guasto）」。いずれも「過熟・腐熟・衰退」の段階にある有機物で、腐敗の直前か直後の状態を示す。最後に「della morte（死の）」が加わり、自然物の腐熟系列が「死」という抽象語で閉じられる──この急速な抽象化が詩の密度を生む。「mézze（< mite、熟れすぎた）」と「passe（< passare、過ぎた）」はどちらも「時間が過ぎた状態」の形容詞──腐敗は時間の過剰として定義される。La pioggia nel pineto の「pèsca intatta（傷のない桃）」との正確な対比：同じ「桃」が新鮮さの極として（新しい命）と腐熟の極として（死に近い命）の両方の比喩に使われる。",
+      "targetId": "dannunzio_pioggia_nel_pineto",
+      "targetParagraphId": 7
+    },
+    {
+      "paragraphId": 2,
+      "type": "prosody",
+      "anchor": "Or tutta la palude è come un fiore\nlutulento",
+      "body": "「泥だらけの花（fiore lutulento）」──オクシモロン（矛盾語法）。「fiore（花）」は美・清潔・生命の象徴であり、「lutulento（泥だらけの）」はその対極──汚濁・分解・死。この矛盾した形容詞の組み合わせが詩の核心の美学を一組で示す：腐熟した美しさ、死の中の花。「lutulento」はラテン語 lutum（泥）からの直接的な詩的語彙。ダヌンツィオは日常語ではなく古語的・科学的な語を選ぶことで、泥の物質性を格上げする──「泥だらけ」という卑俗な状態が、ラテン語起源の形容詞によって「詩的物質」の地位を与えられる。析出した泥も一つの「花」である──これがデカダンス美学の詩的宣言。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "prosody",
+      "anchor": "del miele guasto e della morte.",
+      "body": "「morte（死）」の同語反復──v.3（第一三行詩の末）と v.6（第二三行詩の末）で同じ語が反復される。韻律図式 ABC ADC でいう「C」が両連末で同一語。この繰り返しは「反韻（rima identica）」──通常の韻が音の相似を求めるのに対し、同語反復は意味の固定を行う。「morte」が二度閉じることで、詩全体が「死という語に二重に封印される」構造。Canti della morte e della gloria の「La gloria fu（栄光は過ぎ去った）」という単文が詩集の主題命題を提示したように、この詩では「morte」の二重閉幕が詩の主題を形式的に刻印する。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "con non so che dolcigna afa di morte.",
+      "body": "「dolcigna afa di morte（甘苦い死の蒸し暑さ）」──詩全体の最も凝縮した表現。「dolcigna（甘苦い・甘ったるい）」は「dolce（甘い）」の軽蔑的な派生形──美しさが過剰になって不快になる境界の味覚感覚。「afa（蒸し暑さ）」は熱と湿気の複合感覚──温度と水分が体に纏わりつく。これが「morte（死）」と結びつく：死は冷たいものとして表象されるが、ここでは「甘苦い蒸し暑さ」という夏の熱感覚として体験される。「con non so che（何とも言えない）」という不定表現──語り手が感覚を定義できない、言語を超えた感覚の縁を示す。La pioggia nel pineto の「d'arborea vita viventi」が樹木への合体だとすれば、これは腐熟した有機物への合体──どちらもパニスモだが、一方は生命的合体、他方は死的合体。"
+    },
+    {
+      "paragraphId": 3,
+      "type": "prosody",
+      "anchor": "Ammutisce la rana, se m'appresso.",
+      "body": "「蛙は黙る、私が近づくと（Ammutisce la rana, se m'appresso）」──詩の唯一の動的な出来事。それまでの詩は嗅覚的・視覚的静物（沼地・匂い・沼の花）だった。v.7 で初めて「私（m'）」という一人称が出現し、動き（appresso＝近づく）が生まれる──しかしその動きの結果は「沈黙（ammutisce）」。語り手が自然に介入した瞬間に、自然は黙る。Nella pioggia nel pineto では語り手の存在が自然との融合を促した（「私たちは森の霊に沈み込んでいる」）──しかしここでは語り手の接近が自然の声を消す。パニスモの失敗、または反パニスモ。泥の沼地は人間の接近を拒絶する。",
+      "targetId": "dannunzio_pioggia_nel_pineto",
+      "targetParagraphId": 6
+    },
+    {
+      "paragraphId": 3,
+      "type": "prosody",
+      "anchor": "Le bolle d'aria salgono in silenzio.",
+      "body": "最終行──「空気の泡が無言で昇ってゆく（Le bolle d'aria salgono in silenzio）」。泥の底から気泡が上がる──これは有機物の分解（腐敗）によって生じるガスの気泡（メタンなど）の、詩的・感覚的描写。「silenzio（沈黙）」で詩が閉じる──v.7「ammutisce（黙る）」に続く二度目の沈黙の語。第一の沈黙（蛙が黙る）は語り手への反応、第二の沈黙（泡が無言で昇る）は語り手に無関係な沈黙。泥の腐熟プロセスはただ静かに進行し、それを観察する「私」を必要としない──「私」は自然から遠ざけられ、自然の腐熟の証人にすぎない。Pioggia nel pineto の最終的な自然との合体（主語交替）と対照的に、この詩は自然との分離・排除で終わる。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "intertextual",
+      "anchor": "delle persiche mézze e delle rose passe,",
+      "body": "ボードレール「腐肉（Une charogne）」（Les Fleurs du Mal, 1857）との美学的連鎖──腐敗する有機物の中に美を見出すデカダンス詩学の祖型。ボードレールの「腐肉」では死体の腐敗を「花開く」として描いた（「脂が花のように滲み出る」）；ダヌンツィオの「belletta」では沼地の腐熟を「花（fiore lutulento）」として描く。ボードレールは人体の腐敗を扱ったが、ダヌンツィオは自然物（桃・薔薇・はちみつ）の腐熟を扱う──「死の美」を人間身体から切り離し、純粋な自然現象として詩化する。また La pioggia nel pineto §1 での「神聖なミルト（mirti divini）・芳しいジュニパー（ginepri folti / di coccole aulenti）」の芳香描写との対比──同じ Alcyone 内で「生の芳香」と「腐熟の芳香」が対称軸を形成する。",
+      "targetId": "dannunzio_pioggia_nel_pineto",
+      "targetParagraphId": 1
+    }
+  ]
+}
