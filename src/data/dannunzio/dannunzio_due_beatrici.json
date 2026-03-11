@@ -1,0 +1,144 @@
+{
+  "id": "dannunzio_due_beatrici",
+  "title": "Due Beatrici",
+  "author": "Gabriele d'Annunzio",
+  "source": "La Chimera, in L'Isottèo - La Chimera (1885–1888). Milano: Fratelli Treves Editori, 1906. 底本: Internet Archive所収 Treves版（1906）。Wikisource: it.wikisource.org/wiki/La_Chimera/Due_Beatrici（2024年版）照合済み。",
+  "year": "1885–1888",
+  "firstPublication": "La Chimera, in L'Isottèo - La Chimera, Treves, Milano, 1890.",
+  "difficulty": "上級",
+  "category": "dannunzio",
+  "originalLang": "it-IT",
+  "modernRelevance": "★★★★",
+  "context": "「Due Beatrici」は La Chimera（1890）所収。全125行、二部構成。Parte I（オッターヴァ・リーマ10連）はフィレンツェの庭で出会った Verdespina という文学的恋人を詠い、Parte II（不規則な押韻連7節）はローマで出会った「Viviana May de Penuele」という前ラファエル派的女性への回想を綴る。詩末の「beata Beatrice」という命名によって両者がダンテ的な理想美の二重化として提示される──一方はボッティチェッリ「春」の官能的・フィレンツェ的ベアトリーチェ、他方は前ラファエル派的・神秘的ベアトリーチェ。",
+  "keywords": [
+    "二つのベアトリーチェ", "オッターヴァ・リーマ", "ボッティチェッリ", "前ラファエル派",
+    "Verdespina", "Viviana May", "フィレンツェ", "Villa Farnese",
+    "ダンテ的理想", "gelida virgo", "La Chimera", "1890年代"
+  ],
+  "relatedTexts": [
+    "dannunzio_canti_morte_gloria",
+    "dannunzio_falce_di_luna",
+    "dante_purgatorio_canto_2"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "verses": "I.1–2（v.1–16）",
+      "speaker": null,
+      "original": "Musa, l'arguta rima in cui mi piacque\nlaudar Isotta da la bianca mano\ne narrar di Brisenna come giacque\nco 'l biondo Astíoco trovador sovrano\ne come navigando le bell'acque\nfacean le donne il canto lor toscano\no ne' gigli bevean quell'acque chiare,\nstando la Luna attonita a guardare.\n\nMusa, dammi l'arguta rima e schietta\nal modo de' poeti fiorentini.\nNon la ballata e non la ballatetta\ncon compagnie di gighe e ribechini,\nma l'ottava, l'ottava tua m'alletta,\no grande messer Agnolo Ambrogini,\nl'ottava in dove canta un pieno coro\ndi lusignuoli e ronzan api d'oro.",
+      "provisionalTranslation": "ムーザよ、私が喜んで用いた鋭い韻文──\n白き手のイゾッタを讃え\nブリセンナが金髪の吟遊詩人アスティオーコと\nいかに臥したかを語り、\n美しい水を航行しながら\n女たちがトスカーナの歌を唱い\nあるいは百合の花の中でその清水を飲む様を、\n月が呆然と見守るなか──その韻文をムーザよ、与えたまえ。\n\nムーザよ、フィレンツェの詩人たちの様式に倣う\n鋭く率直な韻文を与えたまえ。\nバッラータでも小バッラータでもなく\nヴィオールやリベッキーノの合奏でもなく、\nオッターヴァよ、お前が私を誘うのだ、\nおお偉大なるアンジョロ・アンブロジーニよ、\n夜鶯が合唱し金の蜜蜂がうなるあの\nオッターヴァを──。"
+    },
+    {
+      "id": 2,
+      "verses": "I.3–4（v.17–32）",
+      "speaker": null,
+      "original": "Ronzano l'api d'or che miele assai\ncolsero ne' verzieri di Fiorenza,\nne' verzieri ove un dì m'innamorai,\nove alla e snella in atto di piacenza\nrisemi Verdespina in tra' rosai\nche ne 'l fiorir sentivan la presenza\nancor de la tua bella Simonetta\ne di madonna Ipolita soletta.\n\nVenían l'acque de l'Africo declive,\ntremando piano i vetrici in su' cigli,\nstormendo i pioppi snelli in su le rive,\nquesti di fino argento e quei vermigli.\nNon apparìan le ninfe fuggitive,\nma pur rideano palpitando i gigli\na lo specchio; e parea l'Africo tardo\ngridare: — O ninfa, un fiume sono ed ardo.",
+      "provisionalTranslation": "フィレンツェの庭園でたっぷりと蜜を集めた金の蜜蜂がうなっている、\nある日私が恋に落ちたその庭園で、\nそこで背高くすらりと優美な姿で\nヴェルデスピーナが薔薇の垣間からほほえんでくれた──\nその花開く薔薇たちはまだあなたの美しいシモネッタの\nそしてひとりのイポリタ夫人の気配を感じていた。\n\nアフリコ川の水がゆるやかに流れ来て、\n岸辺の柳が静かに震え、\n岸に細い白楊が騒いでいた、\nある木は純銀に、ある木は朱に輝いて。\nはかない水の精たちは姿を見せなかったが\nそれでも百合は鏡の面にふるえながら微笑んでいた。\nアフリコ川は物憂げに叫ぶかのようだった──\n「おお水の精よ、私は川であり燃えている。」"
+    },
+    {
+      "id": 3,
+      "verses": "I.5–6（v.33–48）",
+      "speaker": null,
+      "original": "Parve gridare come un dì l'Ombrone\nad Ambra sua, ne 'l canto mediceo.\nA me ne 'l cor gemea la passione\ndi quel pastore giovine Aristeo\nfigiiuol d'Apollo, e quella sua canzone\nch'ei canta ne la favola d'Orfeo:\n— Udite, selve, mie dolci parole,\npoichè la bella ninfa udir non vôle.\n\nBen m'udí Verdespina. Ella venìa,\nalta e sottile quanto li arboscelli,\na me da presso; e viva m'apparìa\ntutta pinta di foglie e di fíorelli\ncome la donna de l'Allegorìa\nche apparve in sogno a Sandro Botticelli.\nPortava in bocca un assai pio messaggio:\n— Ben venga maggio e 'l gonfalon selvaggio.",
+      "provisionalTranslation": "かつてオンブローネ川がその「アンブラ」に向けて叫んだように──\nあのメディチの歌の中で。\n私の胸の中ではあの若き牧人アリステオの情熱が疼いていた、\nアポロの息子アリステオ、「オルフェオの物語」の中で\nこう歌うあの男の──\n「聞け、森よ、私の甘い言葉を、\nあの美しい水の精が聞いてくれぬから。」\n\nヴェルデスピーナはよく私の言葉を聞いてくれた。\n彼女は来てくれた、灌木ほどの背の高さで細く、\n私のそばへ。その姿は生き生きとして現れた、\n葉と花で全身を彩られた姿で、\nサンドロ・ボッティチェッリが夢に見た\n「アッレゴリーア（寓意）」の女のように。\n彼女はその口に何とも敬虔な言葉を携えていた──\n「五月よ来たれ、野の御旗とともに。」"
+    },
+    {
+      "id": 4,
+      "verses": "I.7–8（v.49–64）",
+      "speaker": null,
+      "original": "Io era un buon fanciullo: un poco sciocco.\nM'ardea ne 'l petto, di dolcezza, il cuore;\nche non pure una volta aveami tocco\ncon la sua lancia il cavalier Dolore.\nNon sì fiero tenea forse il Marzocco\nne l'unghia l'arme de 'l vermiglio fiore\ncom'io tenea ne 'l pugno, senza alcuna\nguerra, le chiome de la mia Fortuna.\n\nOr n'andavan così per la novella\nerba, per l'ombre de 'l beato lido,\nil damigello con la damigella,\npensando Cino ed il Petrarca e Guido.\nNon così dolce il canto de 'l Casella\nsonò ne l'alma de 'l poeta fido,\ncome in me quel leggero ondeggiamento\nde li alberi per l'aria senza vento.",
+      "provisionalTranslation": "私はよき少年だった──少し無邪気すぎる。\n胸の内では甘さで心が燃えていた。\n「苦しみの騎士」は一度として私を\nその槍で刺してはいなかったのだ。\nフィレンツェのマルゾッコ（獅子）が\n緋色の花の紋章を爪に固く握るほどにも\n私は──何の争いもなく──我が幸運の\n豊かな髪を手の中に握っていた。\n\nさてこうして二人は歩んでいった、新鮮な\n草の上を、祝福された岸の木陰を、\n若者と乙女が連れ立って、\nチーノとペトラルカとグイードを思いながら。\nカゼッラの歌でさえこれほど甘くは\n誠実な詩人の魂に響かなかった、\n風もないのに木々がそっと揺れるあの\n揺らぎが私の中に響いたほどには。"
+    },
+    {
+      "id": 5,
+      "verses": "I.9–10（v.65–80）",
+      "speaker": null,
+      "original": "O bei cipressi di Montughi, alzati\nne 'l puro vespro quali fiamme a spiga;\nmonti de 'l Casentin lunge rosati\nche in mille vene copia d'acque irriga;\ne voi, poggi di Fiesole odorati,\nove brillano i chiari olivi in riga;\ne tu, sì vasta ne 'l seren fulgore\nde 'l vasto ciel, Santa Maria del Fiore,\n\nse mai grata vi fu la nostra lode,\noh voi dite a' poeti il mio gioire\nquando ella mormorò, dolce: — Non ode?\nLi usignuoli cominciano ad escire. —\nE per man mi trattenne. In su le prode\npiù forte i gigli presero ad aulire;\nonde le man (tremando ella assentìa)\nnon isciogliemmo più per quella via.",
+      "provisionalTranslation": "おおモントゥーギの美しい糸杉よ、穂のような炎として\n純粋な夕暮れ時に立ちのぼるよ。\n遥かに薔薇色のカゼンティーノの山々よ、\n無数の水脈が豊かに潤す山々よ。\nそしてお前たち、薫るフィエーゾレの丘よ、\n明るいオリーヴが並んで輝く丘よ。\nそしてあなた、澄んだ広大な天の光の中に\nかくも広大に聳えるサンタ・マリア・デル・フィオーレよ──\n\nもし私たちの賛辞がかつて嬉しかったなら、\nああ詩人たちに語ってくれ、彼女があの時囁いた私の歓びを──\n「聞こえない？夜鶯たちが出てきはじめたわ。」\n彼女は手を取って私を引き留めた。岸辺では\n百合がより強く香りを放った。\nかくして私たちは（彼女は震えながら承諾し）\nその道を最後まで手を離さなかった。"
+    },
+    {
+      "id": 6,
+      "verses": "II.1（v.81–89）",
+      "speaker": null,
+      "original": "O Viviana May de Penuele,\ngelida virgo prerafaelita,\no voi che compariste un dì, vestita\ndi fino argento, a Dante Gabriele,\ntenendo un giglio ne le ceree dita,\nViviana, non più forse a la mente\nil ricordo di me vi torna ornai.\nE pure allora, quando io vi parlai,\nmi sorrideste a lungo e dolcemente.",
+      "provisionalTranslation": "おおヴィヴィアーナ・メイ・デ・ペヌエーレよ、\n前ラファエル派的な冷たい処女よ、\nある日、細かな銀を纏って\nダンテ・ガブリエーレ（ロセッティ）の前に現れたあなた──\n蝋のような指に百合を持って。\nヴィヴィアーナ、今はもうおそらく\n私の記憶はあなたの胸に戻ることはないでしょう。\nそれでもあの時、私が話しかけた時、\nあなたは長く、そして甘やかに微笑んでくれた。"
+    },
+    {
+      "id": 7,
+      "verses": "II.2–3（v.90–109）",
+      "speaker": null,
+      "original": "Fiorían, Villa Farnese, i tuoi rosai\nne 'l mattino di maggio e su le antiche\nmura il sole una veste aurea mettea:\ntra le liete ghirlande si svolgea\nla bellissima favola di Psiche;\nnavigava in trionfo Galatea.\n\nO Viviana May de Penuele,\nor vi sovviene de 'l lontan mattino?\nVoi sceglieste le rose ne 'l giardino\nove un tempo convenne Rafaele,\nmuta, con lento gesto, a capo chino.\nNon vidi allor la Primavera iddia?\nDisser la vostra lode a me li uccelli;\nfiori parvero nascer da' capelli,\ncome ne la divina Allegorìa\ncui pinse in terra Sandro Botticelli.",
+      "provisionalTranslation": "ヴィッラ・ファルネーゼよ、五月の朝に\nお前の薔薇が咲き競い、古い壁の上に\n太陽が黄金の衣をまとわせていた──\nそこには楽しい花綱の間にプシュケーの\n美しい物語が展開し、ガラテアが\n凱旋の航行をしていた。\n\nおおヴィヴィアーナ・メイ・デ・ペヌエーレよ、\nあの遠い朝を今も覚えておいでですか？\nかつてラファエッロが佇んだという庭園で\nあなたは薔薇を選んでいた、\n無言で、ゆっくりした手ぶりで、頭を垂れて。\n私はその時、「春の女神（プリマヴェーラ）」を見なかったか？\n鳥たちがあなたの賛辞を私に伝えてくれた。\n花々があなたの髪から生まれてくるようだった、\nサンドロ・ボッティチェッリが地上に描いた\n神聖な「アッレゴリーア」の中のように。"
+    },
+    {
+      "id": 8,
+      "verses": "II.4–5（v.110–119）",
+      "speaker": null,
+      "original": "Poi su l'accolta de le vive rose\nreclinando la testa agile e blonda,\navidamente, come sitibonda,\ntutte beveste l'anime odorose\n— oh voluttate mistica e profonda!\n\nPoi smarrita in un sogno, alta levaste\nla faccia ove le azzurre ésili vene\nlanguíano, e mi volgeste (or vi sovviene?)\nle pupille ne 'l sogno umide e caste.\nNon così pura in cielo è mai Selene.",
+      "provisionalTranslation": "そして集めた生きた薔薇の上に\nしなやかな金髪の頭を傾けて、\n渇いたものが飲むように貪欲に、\nその香り立つ魂のすべてを飲み干した──\nああ神秘的で深い官能よ！\n\nそして夢の中で迷い込んで、高く\n顔を上げた──あなたの蒼く細い静脈が\n倦んでいて──そして私に向けた（今も覚えていますか？）\nその夢の中で濡れて貞節な双眸を。\n天のセレーネも斯くほどに純粋ではない。"
+    },
+    {
+      "id": 9,
+      "verses": "II.6–7（v.120–125）",
+      "speaker": null,
+      "original": "Io sol dissi a la notte alma e felice,\nsolo dissi a le stelle il novo amore.\nSegreto in me de' vostri occhi il fulgore\nio custodii, beata Beatrice.\nTale un raggio di luna il silfo ha in cuore.\n\nOr cantarti m'è dolce, o Viviana.\nSplendimi ne la chiara ode vestita\nde la tunica verde e redimita\nd'argentei fiori, in calma sovrumana\ntenendo un giglio tra le ceree dita!",
+      "provisionalTranslation": "私はただ祝福された幸福な夜に告げた、\nただ星々に新しい愛を告げた。\nあなたの瞳の輝きを秘密として\n私は守ってきた、幸いなるベアトリーチェよ。\n夜の精（シルフ）が胸に月光を宿すように。\n\n今あなたを歌うことは私に甘い、おおヴィヴィアーナよ。\n澄んだ頌歌の中に輝いておくれ、\n緑の衣を纏い、銀の花々に\n戴冠されて、超人的な静けさの中で\n蝋のような指に百合を持ちながら！"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "prosody",
+      "anchor": "l'ottava, l'ottava tua m'alletta,\no grande messer Agnolo Ambrogini",
+      "body": "「messer Agnolo Ambrogini（アンジョロ・アンブロジーニ）」──ポリツィアーノ（Angelo Poliziano, 1454–1494）の本名。ダヌンツィオはオッターヴァ・リーマ（ABABABCC の8行連詩）の正統的継承者としてポリツィアーノを召喚する。ポリツィアーノの「Stanze per la Giostra」（1475–78）はオッターヴァでジュリアーノ・デ・メディチの馬上試合を描き、シモネッタ・ヴェスプッチへの愛を詠んだ。ダヌンツィオが §2 で「Simonetta」を名指しするのはこの詩脈の直接継承。オッターヴァはボッカッチョ・アリオスト・タッソを通じてイタリア叙事詩の代表形式──ダヌンツィオは Parte I をこの「最も格式の高い形式」で書き、Parte II では断片化した不規則連に崩すことで、二つの恋の質的差異を形式で体現する。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "intertextual",
+      "anchor": "risemi Verdespina in tra' rosai",
+      "body": "「Verdespina（ヴェルデスピーナ）」──L'Isotteo「Cantata di Calen d'Aprile」で既出のフィクショナルな女性像。L'Isotteo と La Chimera は同一詩集として出版された（1890 年 Treves 版）。Verdespina はここで L'Isotteo の薔薇園から呼び出され、Due Beatrici の「第一のベアトリーチェ」として再文脈化される──純粋に文学的・詩集内自己言及的な存在として。「Simonetta」はポリツィアーノが讃えたシモネッタ・ヴェスプッチ（ギリアーノ・デ・メディチの恋人、ボッティチェッリ「春」のモデルとされる）。「Ipolita」はドナ・イポリタ（L'Isotteo「Cantata」の登場人物）。つまりこの庭には文学的先例のヒロインたちが重層している──Verdespina はその「生きた亡霊たち」の中に立っている。"
+    },
+    {
+      "paragraphId": 3,
+      "type": "allusion",
+      "anchor": "come la donna de l'Allegorìa\nche apparve in sogno a Sandro Botticelli",
+      "body": "「Allegorìa（アッレゴリーア）」──ボッティチェッリ「プリマヴェーラ（春）」（1477–82頃、ウフィッツィ美術館）の別名。ダヌンツィオはこの絵を詩全体の視覚的母型として使う。絵の中央右寄りに立つウェヌス、左の三美神、右の「春」（花を撒くフローラに変身するクロリス）──これらは L'Isotteo のフィレンツェ的女性像の系譜の原型。「Aristeo（アリステオ）」はポリツィアーノの「Favola di Orfeo」（1480）に登場する神話的牧人──エウリュディケーを追いかけ、彼女が逃げる途中に蛇に嚙まれて死ぬ原因を作った（アリステオの求愛が直接の誘因）。§3 は「男が迫り、女が逃げ、しかし Verdespina は逃げなかった」という反転として読める。",
+      "targetId": "dante_purgatorio_canto_2"
+    },
+    {
+      "paragraphId": 4,
+      "type": "allusion",
+      "anchor": "Non così dolce il canto de 'l Casella\nsonò ne l'alma de 'l poeta fido",
+      "body": "「Casella（カゼッラ）」──ダンテ『神曲』煉獄篇第2歌の音楽家。ダンテは煉獄の浜辺で友人の音楽家カゼッラの霊に出会い、カゼッラはダンテ自身の詩に曲をつけて歌う──「Amor che ne la mente mi ragiona」（「私の心の中で愛が語る」）。そのあまりに甘い歌に魂たちは足を止めて聴き入るが、大カトーに叱責されて先へ進む。ダヌンツィオの「come in me quel leggero ondeggiamento」──カゼッラの歌以上の甘さが「风もないのに木々が揺れる」という感覚に宿るという比較。詩の世界の甘美さを人間の音楽の甘美さと比較し、自然の方が勝るという宣言。",
+      "targetId": "dante_purgatorio_canto_2"
+    },
+    {
+      "paragraphId": 6,
+      "type": "commentary",
+      "anchor": "gelida virgo prerafaelita",
+      "body": "「gelida virgo prerafaelita（前ラファエル派的な冷たい処女）」──詩の中で最も凝縮した表現の一つ。「gelida」は温度的冷感（冷たさ）だが、宗教的な「純潔・近寄りがたさ」も含む。「prerafaelita」──前ラファエル派（Pre-Raphaelite Brotherhood, 1848–）はロセッティ・ミレイ・ハントらによる英国の美術運動。中世的・ラファエッロ以前のイタリア絵画の様式を理想とし、透明感のある色彩・長い赤みがかった髪・無表情に近い瞳の女性像を描いた。ダヌンツィオは Viviana を前ラファエル派の絵の中から抜け出た女性として提示する──つまり彼女は「生身の女性」でありながら同時に「ロセッティの絵画」でもある。「Dante Gabriele」はダンテ・ゲイブリエル・ロセッティ（1828–1882）──「Beata Beatrix」（1864–70）はエリザベス・シダルをダンテのベアトリーチェとして描いた肖像画。ダヌンツィオは Viviana を「ロセッティのモデルとして座った女性」として提示することで、彼女を美術史の中に位置づける。"
+    },
+    {
+      "paragraphId": 7,
+      "type": "allusion",
+      "anchor": "Villa Farnese",
+      "body": "「Villa Farnese（ヴィッラ・ファルネーゼ）」──カプラローラ（ラツィオ州）のヴィッラ・ファルネーゼ（現ヴィッラ・ランテ、またはパラッツォ・ファルネーゼ）。16世紀カルディナーレ・ファルネーゼが建てた宮殿。内部にはタデオ・ズッカーリとフェデリコ・ズッカーリによる壁画があり、「プシュケーの物語」「ガラテアの凱旋」などが描かれる──ラファエッロ的なルネサンス壁画プログラム。「ove un tempo convenne Rafaele（かつてラファエッロが佇んだという庭）」──ラファエッロはヴィッラ・ファルネーゼには直接関与していないが、詩的に「ラファエッロ的な空間」として召喚される。Parte I の「ボッティチェッリ的な空間（フィレンツェ）」に対し、Parte II の「ラファエッロ的な空間（ローマ近郊）」という地理的・様式的対比が詩の二部構造に対応する。"
+    },
+    {
+      "paragraphId": 8,
+      "type": "commentary",
+      "anchor": "tutte beveste l'anime odorose\n— oh voluttate mistica e profonda!",
+      "body": "「voluttate mistica e profonda（神秘的で深い官能）」──矛盾語法。「voluttate（官能・肉的喜び）」と「mistica（神秘的・宗教的）」が同格に結ばれる。官能と神秘の融合はデカダンス美学の中心テーマ──ユイスマンス「ア・ルブルス」、ロセッティの「肉の家」連作ソネット、マラルメの「エロディアード」に共通する。薔薇の「魂（anime odorose）」を「飲む（beveste）」行為──「sitibonda（渇いたもののように）」という比喩が、薔薇の香りを喝水の快楽に変換する。嗅覚が視覚・味覚・官能に転化するシネステジア。Nella belletta の「dolcigna afa di morte（甘苦い死の蒸し暑さ）」との比較：どちらも「甘い感覚と死（または神秘）の隣接」だが、Due Beatrici では神秘的昇華として、Nella belletta では腐熟として現れる。",
+      "targetId": "dannunzio_nella_belletta",
+      "targetParagraphId": 2
+    },
+    {
+      "paragraphId": 9,
+      "type": "commentary",
+      "anchor": "io custodii, beata Beatrice.",
+      "body": "「beata Beatrice（幸いなるベアトリーチェ）」──詩のタイトル「Due Beatrici（二つのベアトリーチェ）」がここで初めて詩内で明示される。Parte I の Verdespina とこの Viviana May の二人がともに「ベアトリーチェ」と呼ばれる──ダンテのベアトリーチェを参照項として。ダンテのベアトリーチェは一人の唯一の女性だったが、ダヌンツィオはそれを二重化する。一方はボッティチェッリ的・フィレンツェ的・現実の恋（Verdespina）、他方はロセッティ的・神秘的・記憶の中の幻像（Viviana May）。「beata」はダンテ語彙（「祝福された、幸いなる」）であると同時にロセッティ「Beata Beatrix」のタイトルでもある──英語とイタリア語、19世紀英国と14世紀フィレンツェが一語の中で重なる。「Tale un raggio di luna il silfo ha in cuore（夜の精が胸に月光を宿すように）」──比喩として「秘密の輝きを内に保つ存在」としてのシルフ（空気の精）。 falce di luna の月が再び登場する──falce di luna calante との詩集横断的連絡。",
+      "targetId": "dannunzio_falce_di_luna",
+      "targetParagraphId": 3
+    }
+  ]
+}
