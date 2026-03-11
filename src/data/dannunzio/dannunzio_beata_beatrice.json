@@ -1,0 +1,90 @@
+{
+  "id": "dannunzio_beata_beatrice",
+  "title": "Beata Beatrice",
+  "author": "Gabriele d'Annunzio",
+  "source": "La Chimera, Sonetti dell'Anima, VIII. In L'Isottèo - La Chimera (1885–1888). Milano: Fratelli Treves Editori, 1906. 底本: Internet Archive所収 Treves版（1906）。Wikisource: it.wikisource.org/wiki/La_Chimera/Sonetti_dell%27Anima/Beata_Beatrice（2025年12月30日版）照合済み。",
+  "year": "1885–1888",
+  "firstPublication": "La Chimera, in L'Isottèo - La Chimera, Treves, Milano, 1890.",
+  "difficulty": "中級",
+  "category": "dannunzio",
+  "originalLang": "it-IT",
+  "modernRelevance": "★★★★",
+  "context": "「Beata Beatrice」は La Chimera「Sonetti dell'Anima（魂のソネット群）」第VIII番。ペトラルカ式ソネット14行、変形 ABBA ABBA / CDE CDE 韻。詩集同所収の「Due Beatrici」でヴィヴィアーナ・メイが「beata Beatrice」と命名されるが、このソネットはその命名の内実を──苦しみの夜に閃く光・記憶の中で血から昇る喜びの雲として──直接展開する。ロセッティの絵「Beata Beatrix」（1864–70）との対話が詩全体を貫く。",
+  "keywords": [
+    "ソネット", "夜と光", "repetitio", "beata Beatrice",
+    "ロセッティ", "前ラファエル派", "記憶", "魂", "Sonetti dell'Anima",
+    "notte / luce", "sangue", "La Chimera"
+  ],
+  "relatedTexts": [
+    "dannunzio_due_beatrici",
+    "dannunzio_canti_morte_gloria",
+    "dante_paradiso_canto_33"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "verses": "v.1–4（第一四行詩）",
+      "speaker": null,
+      "original": "Talor, mentre son vile, ne la notte\nde 'l mio dolore un'improvvisa luce\ns'apre; e così candidamente luce\nche più fredda e profonda è poi la notte.",
+      "provisionalTranslation": "時に、私が惨めである間に、私の苦しみの\n夜の中に突然の光が\n開く──そしてあまりにも白く清らかに輝くので\nその後の夜はよりいっそう冷たく深い。"
+    },
+    {
+      "id": 2,
+      "verses": "v.5–8（第二四行詩）",
+      "speaker": null,
+      "original": "Non tu vieni, o sorella, a questa notte\nrecando la pietà de la tua luce?\nL'anima s'alza, poi che un sogno luce\nin lei fuggendo come lampo in notte.",
+      "provisionalTranslation": "あなたは来ないの、姉妹よ、この夜へ、\nあなたの光の慈悲を携えて？\n魂は立ちあがる──ひとつの夢が彼女の中に輝き\n夜の中の稲妻のように逃げ去るから。"
+    },
+    {
+      "id": 3,
+      "verses": "v.9–14（六行詩）",
+      "speaker": null,
+      "original": "Oh ricordarsi! Oh allor che da 'l mio sangue\nella parve salir come una nube\ndi gloria, come un turbine di gioia!\nOh allor che tutto il giovenil mio sangue\ncantava lei risaliente in nube\nd'anémoli, su fiamme alte di gioia!",
+      "provisionalTranslation": "ああ思い出すこと！あああの時、私の血から\n彼女は昇ってくるように見えた、ひとつの雲のように、\n栄光の、喜びの旋風のように！\nあああの時、私の若き血のすべてが\n彼女を歌っていた、風の渦の中を\n高い喜びの炎の上へと再び昇ってゆく彼女を！"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "prosody",
+      "anchor": "ne la notte\nde 'l mio dolore un'improvvisa luce\ns'apre; e così candidamente luce\nche più fredda e profonda è poi la notte.",
+      "body": "オクターヴの韻「notte / luce」が各4回繰り返されるという異例の構造──通常のペトラルカ式ソネットでは各韻語は2回ずつ（ABBA = A×2, B×2）。ここでは ABBA ABBA で A（notte）4回・B（luce）4回になる。さらに単なる韻語の反復ではなく、同一語が行末で反響する──v.1「notte」、v.4「notte」、v.5「notte」、v.8「notte」という4度の反復が「夜」を詩空間として確立する。「luce（輝く）」はここでは名詞（光）と動詞（輝く）の両義──v.2「luce」は名詞、v.3「luce」は動詞、v.6「luce」は名詞、v.7「luce」は動詞。名詞と動詞を交互に使うことで「光という存在」と「輝くという動作」が同一語の中で揺れ動く。マラルメ「Ses purs ongles...」の同語反復技法（ptyx）との比較が可能──どちらも意味の不安定化を韻の反復によって演じる。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "Non tu vieni, o sorella, a questa notte",
+      "body": "「sorella（姉妹）」──呼びかけの対象が詩内で明示されない。「Beata Beatrice」というタイトルから呼びかけの相手はベアトリーチェ（またはその女性的形象）と読めるが、「姉妹」という語は親族的親密さを持ち込む──ダンテがベアトリーチェを「donna」「gentilissima」と呼ぶのとは異なる温度感。前ラファエル派においてロセッティはエリザベス・シダルを「Beata Beatrix」として描いたが、その死後の制作という文脈では「sorella」は死者への呼びかけとして機能する──来世に逝った者に「この夜へ来てくれ」と懇願する構造。Due Beatrici §6「gelida virgo prerafaelita」が外から見た冷たい神秘だとすれば、このソネットは内から見た──詩人の「苦しみの夜」の側から──同じ女性への呼びかけ。",
+      "targetId": "dannunzio_due_beatrici",
+      "targetParagraphId": 6
+    },
+    {
+      "paragraphId": 2,
+      "type": "allusion",
+      "anchor": "L'anima s'alza, poi che un sogno luce\nin lei fuggendo come lampo in notte.",
+      "body": "ロセッティ「Beata Beatrix」（油彩、1864–70、テート・ブリテン）との視覚的対話。絵の中で恍惚状態のベアトリーチェは目を閉じ、赤い鳥が罌粟の花を置いていく──死への移行の瞬間。背景には光に輝く人物（愛の神＝ロセッティ自身）と橋の上のダンテが見える。ダヌンツィオの「un sogno luce in lei fuggendo come lampo（夢が彼女の中で輝きながら稲妻のように逃げる）」──絵の中の光と動きの詩的変換。「lampo（稲妻）」の瞬間的閃光はロセッティの絵の「恍惚から死への瞬間」を言語化する試み。"
+    },
+    {
+      "paragraphId": 3,
+      "type": "prosody",
+      "anchor": "Oh ricordarsi! Oh allor che da 'l mio sangue\nella parve salir come una nube\ndi gloria, come un turbine di gioia!\nOh allor che tutto il giovenil mio sangue\ncantava lei risaliente in nube\nd'anémoli, su fiamme alte di gioia!",
+      "body": "セステットの三語反復「sangue（血）/ nube（雲）/ gioia（喜び）」が CDE CDE で各2回繰り返される。この構造はオクターヴの「notte / luce」の反復原理をセステットに引き継ぐ──ソネット全体が反復という一つの形式的原理で統一される。v.9「da 'l mio sangue」→ v.12「il giovenil mio sangue」：「私の血」から「私の若き血」へ──一般的な血から時間的に特定された若き日の血へ。v.10「come una nube di gloria」→ v.13「risaliente in nube d'anémoli」：「栄光の雲のように」から「風の渦の中を昇ってゆく雲の中へ」──静的な比喩が動的な昇天へと展開する。「Oh allor」の二度の感嘆──現在の苦しみ（オクターヴ）に対し過去の恍惚（セステット）が二重の「あああの時」で応答する。ソネットの volta（転換点）が感情的絶頂として機能する。"
+    },
+    {
+      "paragraphId": 3,
+      "type": "glossary",
+      "anchor": "d'anémoli, su fiamme alte di gioia!",
+      "body": "「anémoli（アネーモリ）」──詩的古語で「風・そよ風（= venti）」の意。通常の現代語では使われない雅語で、ペトラルカ・ダンテの詩的語彙の系譜に属する。ダヌンツィオが La Chimera 期に好んだ古語的語彙の一例──「普通に書けばいいところをあえて古い語で書く」というスタイルの象徴。「su fiamme alte di gioia（喜びの高い炎の上へ）」──「fiamme（炎）」は天国的昇天のイメージ。ダンテ天国篇で魂は光と炎として移動する。このセステットの「血→雲→風→炎」という物質的上昇系列（液体→気体→気流→熱）は、魂の物質的束縛から解放されていく過程として読める──「beata（幸いなる）」状態への到達。",
+      "targetId": "dante_paradiso_canto_33",
+      "targetParagraphId": 1
+    },
+    {
+      "paragraphId": 3,
+      "type": "intertextual",
+      "anchor": "Oh ricordarsi!",
+      "body": "「ricordarsi（思い出すこと）」──感嘆詞的に使われた不定詞。記憶の行為そのものを感嘆対象にする構文はダンテ「地獄篇」V歌「Nessun maggior dolore / che ricordarsi del tempo felice / nella miseria」（悲惨の中で幸福な時を思い出すこと以上の苦しみはない──フランチェスカの言葉）の反転として読める。ダンテのフランチェスカにとって記憶は苦しみの増幅だったが、ダヌンツィオにとって記憶（sangue / nube / gioia）は苦しみの夜に対抗する喜びの閃光──「Oh ricordarsi!」という感嘆はダンテ的文脈を踏まえつつ、その悲劇的含意を反転させる。Due Beatrici の「io custodii（私は守ってきた）」という記憶の保存主題ともつながる。",
+      "targetId": "dannunzio_due_beatrici",
+      "targetParagraphId": 9
+    }
+  ]
+}
