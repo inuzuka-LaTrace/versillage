@@ -1,0 +1,96 @@
+{
+  "id": "rodenbach_loubli",
+  "title": "L'Oubli",
+  "author": "Georges Rodenbach",
+  "source": "Les Tristesses, Alphonse Lemerre, éditeur, 1879, p. 20–21. 底本: Wikisource fr.wikisource.org/wiki/Les_Tristesses/L'Oubli（2024年版）照合済み。",
+  "year": "1879",
+  "firstPublication": "Les Tristesses, Alphonse Lemerre, éditeur, 1879.",
+  "difficulty": "初級",
+  "category": "rodenbach",
+  "originalLang": "fr-FR",
+  "modernRelevance": "★★★★★",
+  "context": "ロデンバック第2詩集『悲しみ（Les Tristesses）』（1879年）所収、エドゥアール・ドロンサール・ド・カンタンへの献辞付き。20行のアレクサンドラン連続詩（rimes plates）。万霊節（Toussaint、11月2日）に墓地を訪れた語り手が、白い花で覆われた一つの墓に目を止める（l.1-11）。花束をのけると「婚約直後の死」と読める——語り手はこの墓を去り際まで花で覆い続けた恋人の「exquise pensée（絶妙な配慮）」を想像する（l.12-19）。そして詩は最終行で鮮烈な転換を遂げる：「Je viens d'aller revoir la tombe…elle est sans fleurs（今その墓を再び訪れた……花がない）」。この一行が「忘却」というタイトルの全意味を完成させる。19行かけて積み上げた愛の記念が、最後の一行で静かに崩れる構造。白（blanc/neige/voile）のイメージが愛から忘却へと変容する過程が詩の核心。",
+  "keywords": [
+    "忘却", "万霊節", "墓", "白", "花", "婚約", "喪失", "時間", "初期ローデンバック", "アレクサンドラン"
+  ],
+  "relatedTexts": [
+    "rodenbach_lange_envole",
+    "rodenbach_devant_tete_de_mort",
+    "rossetti_remember",
+    "rossetti_soeur_louise"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "verses": "l.1-11",
+      "speaker": null,
+      "original": "J'avais vu ― l'an dernier ― au fond d'un cimetière\nUne petite tombe étroite et toute entière\nRecouverte de fleurs qui s'effeuillaient au vent.\nC'était le jour des Morts et la foule en rêvant\nSentait près des défunts combien la vie est vaine.\nTout était blanc sur ce tombeau ; pas une veine\nDans le marbre caché sous un amas tremblant\nDe roses, de jasmins, de lis ; tout était blanc.\nOn eût dit qu'en partant vers la voûte éternelle\nLa morte comme un cygne avait ouvert son aile\nEt perdu son duvet au bord de ce chemin.",
+      "provisionalTranslation": "去年——私はある墓地の奥で見た、\n狭くこじんまりとした一つの墓を、すっかり\n風に花びらを散らしながらも花で覆われていた。\nその日は万霊節で、夢見るように集まった群衆は\n故人の傍らで、命がいかに空しいかを感じていた。\nその墓の上はすべてが白かった。一筋の筋もなく、\n震えるように積もった\n薔薇、ジャスミン、百合の下に大理石は隠れていた。すべてが白かった。\n永遠の天蓋へと旅立つ折に、\n死んだ女性が白鳥のように翼を広げ、\nこの道のほとりに羽毛を落としていったかのようだった。"
+    },
+    {
+      "id": 2,
+      "verses": "l.12-19",
+      "speaker": null,
+      "original": "En écartant un peu les bouquets de la main\nJe lus qu'elle était morte à peine fiancée ;\nEt je compris alors cette exquise pensée\nD'un triste amant, perdu là-bas dans l'horizon,\nQui le matin, quittant sa funèbre maison,\nSans doute était venu couvrir sa bien-aimée\nDe ce voile de neige épaisse et parfumée\nQue la pluie automnale avait mouillé de pleurs…",
+      "provisionalTranslation": "手で花束を少しのけてみると、\n彼女は婚約したばかりで亡くなったことがわかった。\nそこで私はようやくわかった、この絶妙な配慮を——\n地平のかなたに消えていった、あの悲しい恋人の配慮を。\n彼は朝、喪に沈んだ家を出て、\nおそらくここへやってきて、最愛の人を覆ったのだ、\n秋の雨が涙で濡らした、\n香り高くふんわりとした雪のヴェールで……"
+    },
+    {
+      "id": 3,
+      "verses": "l.20",
+      "speaker": null,
+      "original": "Je viens d'aller revoir la tombe…elle est sans fleurs.",
+      "provisionalTranslation": "今その墓を再び訪れた……花がない。"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "prosody",
+      "body": "全20行のアレクサンドラン連続詩（rimes plates: AABBCC…）。連分けはなく散文的に流れるが、内容の転換点で3段落に分割した。注目すべきは第3段落が1行のみで完結する点——19行かけて積み上げた情景と想像が、最終行の7語で静かに崩壊する非対称構造が詩全体の効果の核心。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "Tout était blanc … tout était blanc",
+      "body": "「すべてが白かった」の反復——この反復は強調と同時に、白のイメージが詩の後半で「voile de neige（雪のヴェール）」として変奏され、最終行の「花なし」という喪失へと向かう布石。ロデンバックにとって白は純粋・死・沈黙の三義を担うが、ここでは愛の純粋さを示す白が最終的に消去される。L'ange envoléの「blanc comme les flocons de neige」→「blême（青白）」という白の意味変容と同型の動き。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "comme un cygne avait ouvert son aile / Et perdu son duvet",
+      "body": "死んだ女性を白鳥に喩える——白鳥は象徴主義において純潔・死・詩的変容の表象（マラルメの「Le vierge, le vivace et le bel aujourd'hui」参照）。ここでは「羽毛を落とす」という形で花々の白さを白鳥の羽毛として遡及的に解釈させる比喩。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "à peine fiancée",
+      "body": "「婚約したばかりで（死んだ）」——Sœur Louise de la Miséricorde（ロセッティ）の「I have desired, and I have been desired」と対照的。ロセッティの語り手が欲望の充足と燃え尽きを語るのに対し、ここでは欲望が成就する直前に断ち切られた。どちらも愛の完成の不可能性を扱うが、方向が真逆——消耗しきった愛と、始まる前に終わった愛。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "exquise pensée / D'un triste amant, perdu là-bas dans l'horizon",
+      "body": "「地平のかなたに消えた悲しい恋人の絶妙な配慮」——この恋人は詩の中で直接登場せず、語り手の想像の中にのみ存在する。「perdu dans l'horizon（地平に消えた）」という表現が、恋人自身がすでに「忘却」の方向へ動き始めていることを暗示する。花を贈った愛の行為と、後の忘却とが、この一フレーズに胚胎している。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "voile de neige épaisse et parfumée / Que la pluie automnale avait mouillé de pleurs",
+      "body": "「秋の雨が涙で濡らした雪のヴェール」——Sœur Louise de la Miséricorde（ロデンバック）の「voile de fête splendide」が経帷子に転化するイメージと連絡する。ここでも白いヴェールが喜び（婚礼）から喪（墓）へと意味を変える。さらに「pluie automnale」という秋の雨が、後期ロデンバック詩学（ブリュージュの秋・霧・静寂）への萌芽として機能する。",
+      "targetId": "rodenbach_devant_tete_de_mort"
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "Je viens d'aller revoir la tombe…elle est sans fleurs.",
+      "body": "詩の構造的核心。20行中1行のみで形成される第3段落。「Je viens d'aller（今行ってきた）」という直近過去形が、19行の追想（半過去・大過去）と対比されることで時間の跳躍を一気に実現する。「…（省略符）」が語り手の沈黙と衝撃を示し、「elle est sans fleurs（花がない）」という7語で「忘却」というタイトルが初めて完成する。Devant une tête de mortの「Qui le sait？（誰が知ろう）」という問いの問答不能性と対照的に、ここでは問いすら立てられず、ただ事実のみが置かれる。"
+    },
+    {
+      "paragraphId": 3,
+      "type": "intertextual",
+      "anchor": "elle est sans fleurs",
+      "body": "ロセッティ「Remember」の「Yet if you should forget me for a while / And afterwards remember, do not grieve」との対照。ロセッティは忘却を許す——「forget and smile」と言う。ロデンバックは忘却を語らず、ただその結果（花のない墓）だけを提示する。どちらも「忘却」を扱うが、ロセッティが内側から（死者が生者に語りかける）語るのに対し、ロデンバックは外側から（第三者の目撃）語る。",
+      "targetId": "rossetti_remember"
+    }
+  ]
+}
