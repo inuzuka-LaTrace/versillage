@@ -1,0 +1,111 @@
+{
+  "id": "rodenbach_lacrymae_rerum",
+  "title": "Lacrymæ rerum",
+  "author": "Georges Rodenbach",
+  "source": "Les Tristesses, Alphonse Lemerre, éditeur, 1879, p. 118–119. 底本: Wikisource fr.wikisource.org/wiki/Les_Tristesses/Lacrymæ_rerum（2024年版）照合済み。",
+  "year": "1879",
+  "firstPublication": "Les Tristesses, Alphonse Lemerre, éditeur, 1879.",
+  "difficulty": "中級",
+  "category": "rodenbach",
+  "originalLang": "fr-FR",
+  "modernRelevance": "★★★★☆",
+  "context": "ローデンバック第2詩集『悲しみ』（1879年）末尾近く（p.118–119）に置かれた詩学的宣言の詩。タイトル「Lacrymæ rerum（事物の涙）」はウェルギリウス『アエネーイス』第1巻462行「sunt hic etiam sua praemia laudi, / sunt lacrimae rerum et mentem mortalia tangunt（ここにも名誉への報いがあり、事物の涙があり、死すべきものごとが魂に触れる）」からの引用。全5連各4行（ABAB交差韻）のアレクサンドラン。詩は「われわれ（nous）」という複数形──詩人たちの集団的声明──として書かれており、「架空の悲嘆」という非難への反論から始まる（l.1-4）。第2連で悲しみは自己憐憫ではなく「他者への嘆き」だと宣言し（l.5-8）、第3連で楽器のメタファーを通じて詩人の役割を定義する（l.9-12）。第4連で世界の状況描写（巣は地に倒れ、住まいは空に、墓は満ちる）を経て（l.13-16）、最終連で詩人を「風に揺れる竪琴」として提示し、「竪琴が嘆くなら風が悲しいのだ」という逆説的な結語で締め括る（l.17-20）。Les Femmes tristesが悲しみへの個人的な愛着を宣言するなら、Lacrymæ rerumはそれを詩学的・倫理的原理へと昇格させた詩。",
+  "keywords": [
+    "詩学宣言", "悲しみ", "詩人の役割", "竪琴", "風", "ウェルギリウス", "共感", "世界苦", "nous", "初期ローデンバック"
+  ],
+  "relatedTexts": [
+    "rodenbach_les_femmes_tristes",
+    "rodenbach_loubli",
+    "rodenbach_devant_tete_de_mort",
+    "mallarme_coup_de_des"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "verses": "l.1-4",
+      "speaker": null,
+      "original": "Ne nous accusez pas de deuils imaginaires,\nEt de vous attendrir par des pleurs simulés,\nEt d'aller parmi vous comme des poitrinaires\nCherchant des rêves fous qui se sont envolés.",
+      "provisionalTranslation": "架空の悲嘆だと私たちを責めないでください、\n作り物の涙でお前たちを感動させようとしていると。\n飛び去ってしまった狂った夢を求めながら\n肺病みのように皆の間を漂っていると。"
+    },
+    {
+      "id": 2,
+      "verses": "l.5-8",
+      "speaker": null,
+      "original": "Car nous ne pleurons pas sur nous, mais sur vous autres,\nSur les méchants, sur les flétris, sur les jaloux ;\nÀ voir tant de péchés, nous pleurons en apôtres ;\nNous pleurons en bergers, à trouver tant de loups.",
+      "provisionalTranslation": "なぜなら私たちは自分たちのために泣くのではなく、あなたたちのために泣くのだから、\n悪人たちのために、萎れた者たちのために、妬む者たちのために。\nかくも多くの罪を前にして、私たちは使徒として泣く。\nかくも多くの狼に出会って、私たちは羊飼いとして泣く。"
+    },
+    {
+      "id": 3,
+      "verses": "l.9-12",
+      "speaker": null,
+      "original": "Le sonore instrument où tout notre cœur vibre\nVeut élever la foule à des désirs meilleurs ;\nSi l'accord n'est pas gai, notre choix n'est pas libre :\nNous sommes un écho, mais la voix vient d'ailleurs !…",
+      "provisionalTranslation": "私たちの心全体が共鳴する、あの響き渡る楽器は\n群衆をより良い欲求へと高めようとする。\n和音が明るくないとしても、それは私たちの選択ではない。\n私たちはこだまに過ぎず、声は別のところからやってくる！……"
+    },
+    {
+      "id": 4,
+      "verses": "l.13-16",
+      "speaker": null,
+      "original": "La voix vient des vallons et la voix vient des plaines,\nOù les nids sont gisants sur les gazons fleuris ;\nLes logis sont vidés et les tombes sont pleines,\nEt le genre humain marche à travers des débris !…",
+      "provisionalTranslation": "声は谷間からやってきて、声は平野からやってくる、\n花咲く芝生の上に巣が倒れているところから。\n住まいは空になり、墓は満たされていく、\n人類は瓦礫の中を歩んでいる！……"
+    },
+    {
+      "id": 5,
+      "verses": "l.17-20",
+      "speaker": null,
+      "original": "Et le poète, lui, dans ce monde qui pleure,\nEst pareil à la harpe inerte qui frémit\nAu souffle de la brise errante qui l'effleure :\nC'est que triste est le vent si la harpe gémit !…",
+      "provisionalTranslation": "そして詩人は、この泣きながら歩む世界の中で、\nかすかに触れる風のそよぎに震える\n動かぬ竪琴に等しい。\n竪琴が嘆くなら、風が悲しいのだ！……"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "allusion",
+      "anchor": "Lacrymæ rerum",
+      "body": "ウェルギリウス『アエネーイス』第1巻462行「sunt lacrimae rerum et mentem mortalia tangunt（事物の涙があり、死すべきものごとが魂に触れる）」からの引用。アイネアースがカルタゴの神殿壁画にトロイア戦争の場面を見出し、涙しながら語る文脈──すなわち物事そのものが（人間とは無関係に）帯びている哀愁・悲しみの性質を指す。ローデンバックはこの概念を詩集全体の標語として最終部近くに置くことで、詩集の悲しみが個人的感傷ではなく宇宙的・存在論的な事物の性質であると宣言する。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "prosody",
+      "body": "全20行、5連各4行、交差韻（ABAB）のアレクサンドラン。imaginaires/poitrinaires（A）、simulés/envolés（B）の型が全連を通じて維持される。前4詩作（L'ange envolé・L'Oubli等）の隣接二行韻（rimes plates）と異なり、交差韻が「主張と反論」「原因と結果」の往復を詩形で体現する。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "comme des poitrinaires / Cherchant des rêves fous qui se sont envolés",
+      "body": "「肺病み（poitrinaire）」──19世紀における結核患者の詩的形象。ロマン主義から象徴主義にかけて詩人＝病者という同一視が広まっていた（ミュッセ・ショパン・ボードレール）。しかしローデンバックはこの形象を引用しつつ否定する──「そのように見えるかもしれないが、実は違う」という弁明の構造。「envolés（飛び去った）」はL'ange envoléのタイトルと同一語で、失われた純粋さへの追求という主題が詩集を横断していることを示す。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "nous pleurons en apôtres … en bergers … tant de loups",
+      "body": "「使徒として」「羊飼いとして」泣く──キリスト教的自己定義。詩人は自己のために嘆く詩人ではなく、群れを失った牧者・世界に派遣された使徒として泣く。「狼（loups）」は罪・悪・エゴイズムの表象。Les Femmes tristesで「悲しみを愛する」と個人的に宣言した詩人が、ここでは悲しみに倫理的・宗教的根拠を与える。"
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "Nous sommes un écho, mais la voix vient d'ailleurs",
+      "body": "「私たちはこだまに過ぎず、声は別のところからやってくる」──詩人を能動的な創造者でなく受動的な共鳴体として定義する詩学宣言。ロマン主義の「詩人＝天才・予言者」像（ヴィクトル・ユゴー）との決定的な対立。詩人は声を持たず、世界の悲しみを受け取り、増幅して返すだけの存在──この自己定義が最終連の「竪琴と風」メタファーで完成される。マラルメ「Un coup de dés」における「l'absence（不在）」の詩人像とも共鳴する。",
+      "targetId": "mallarme_coup_de_des"
+    },
+    {
+      "paragraphId": 4,
+      "type": "commentary",
+      "anchor": "Les logis sont vidés et les tombes sont pleines",
+      "body": "「住まいは空に、墓は満たされる」──L'Oubliの「elle est sans fleurs（花がない）」と同型の喪失の対比構造。L'ange envoléの「berceaux et tombes（揺り籠と墓）」が詩集内で進化した形──個別の幼児の死から人類全体の状況描写へ。「瓦礫の中を歩む人類（genre humain marche à travers des débris）」というヴィジョンはユゴー的・ロマン主義的な人類苦の表現でもある。",
+      "targetId": "rodenbach_loubli"
+    },
+    {
+      "paragraphId": 5,
+      "type": "commentary",
+      "anchor": "la harpe inerte qui frémit / Au souffle de la brise errante",
+      "body": "「動かぬ竪琴」──エオリアン・ハープ（風が弦に触れることで自然に音を出す楽器）の比喩。ロマン主義詩学の定番的メタファー（コールリッジ「The Eolian Harp」1795年）をローデンバックが引き継ぎつつ、「inerte（動かぬ）」という語で詩人の受動性を強調する。Les Femmes tristesの「phosphorescence de la mer（海の燐光）」と同様、詩人は自ら発光・発声するのでなく、外部（風・海）の働きかけを受けてのみ光り・鳴り響く存在として定義される。"
+    },
+    {
+      "paragraphId": 5,
+      "type": "commentary",
+      "anchor": "C'est que triste est le vent si la harpe gémit",
+      "body": "詩全体の結語にして最大の逆転。「竪琴が嘆くのは風が悲しいからだ」──これは第3連の「声は別のところからやってくる」の感覚的な完成。原因と結果が倒置されている：竪琴（詩人）の悲しみは自己から発するのでなく、世界（風）の悲しみが詩人を通じて表れる。Les Femmes tristesの「Mon amour est un feu que les larmes attirent（涙が引き寄せる炎）」と同型の逆説──悲しみが詩人を動かすのではなく、世界の悲しみが詩人という媒体を通じて声を得る。",
+      "targetId": "rodenbach_les_femmes_tristes"
+    }
+  ]
+}
