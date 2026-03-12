@@ -1,0 +1,94 @@
+{
+  "id": "rossetti_remember",
+  "title": "Remember",
+  "author": "Christina Rossetti",
+  "source": "Poems (Rossetti, 1901). London: Macmillan, 1901. 底本: Wikisource en.wikisource.org/wiki/Poems_(Rossetti,_1901)/Remember（2024年版）照合済み。初出: Goblin Market and Other Poems, London: Macmillan, 1862.",
+  "year": "1862",
+  "firstPublication": "Goblin Market and Other Poems, London: Macmillan, 1862.",
+  "difficulty": "初級",
+  "category": "rossetti_c",
+  "originalLang": "en-GB",
+  "modernRelevance": "★★★★★",
+  "context": "副題「SONNET」。ロセッティの最も広く知られた詩のひとつで、1848年頃（17〜18歳）に書かれたとされる。語り手（死を目前にした「私」）が愛する人に語りかける形式。オクターヴ（8行）では「remember（覚えていて）」を5回繰り返しながら記憶の依頼を重ねるが、ヴォルタ（転回）で詩は鮮やかに逆転する──セステット（6行）では「forget and smile（忘れて微笑んで）」の方が「remember and be sad（覚えて悲しむ）」よりも「はるかに良い」と宣言して閉じる。自己消去の倫理学とも、愛する者の幸福を自らの記憶保存より優先する利他の論理とも読める。Dead before Deathの「精神的死者」が語り手の外にいるのに対し、Rememberでは「私自身の死後」を語り手が想像するという視点の転換も重要。",
+  "keywords": [
+    "ソネット", "死の予感", "記憶", "忘却", "愛", "自己消去", "Victorian poetry", "代表作"
+  ],
+  "relatedTexts": [
+    "rossetti_monna_innominata",
+    "rossetti_dead_before_death",
+    "rossetti_golden_silences",
+    "rossetti_de_profundis"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "verses": "l.1-8",
+      "speaker": null,
+      "original": "Remember me when I am gone away,\nGone far away into the silent land;\nWhen you can no more hold me by the hand,\nNor I half turn to go yet turning stay.\nRemember me when no more day by day\nYou tell me of our future that you planned:\nOnly remember me; you understand\nIt will be late to counsel then or pray.",
+      "provisionalTranslation": "私が去ってしまったとき、私を覚えていて、\n遠く遠く、沈黙の地へと去ってしまったとき。\nあなたがもう私の手を握ることができないとき、\n私が半ば行きかけながら振り返って留まることもないとき。\n日々もはや、あなたが私に\n計画していた私たちの未来を語ってくれなくなったとき、私を覚えていて。\nただ覚えていて。あなたにはわかるでしょう、\nあのときになってから諭したり祈ったりしても、もう遅いのだから。"
+    },
+    {
+      "id": 2,
+      "verses": "l.9-14",
+      "speaker": null,
+      "original": "Yet if you should forget me for a while\nAnd afterwards remember, do not grieve:\nFor if the darkness and corruption leave\nA vestige of the thoughts that once I had,\nBetter by far you should forget and smile\nThan that you should remember and be sad.",
+      "provisionalTranslation": "それでも、もししばらく私を忘れて、\nそのあとで思い出したとしても、悲しまないで。\nなぜなら、暗闇と腐敗が\nかつて私が持っていた思いの痕跡を残すとしても、\nあなたが忘れて微笑む方が、はるかに良い、\nあなたが覚えて悲しむよりも。"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "prosody",
+      "body": "イタリア式ソネット変形。オクターヴ ABBAABBA。セステット CDECDE（諸説あり）。弱強五歩格（iambic pentameter）。「Remember」が1・5・7行目に反復され、アナフォラとして記憶への要求が積み上げられる。ヴォルタは9行目「Yet（それでも）」で生じ、詩の方向が逆転する。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "the silent land",
+      "body": "死後の世界を「silent land（沈黙の地）」と呼ぶ。Golden Silencesの「death's silence（死の沈黙）」と同一のイメージ圏。声も手も届かぬ場所として死を空間化する。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "half turn to go yet turning stay",
+      "body": "別れ際に半ば行きかけながら振り返る身振り──これが死後にはできなくなる。生者の間の名残惜しさを一動作に凝縮した、ロセッティ詩中でも特に具体的な身体描写のひとつ。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "our future that you planned",
+      "body": "「you planned（あなたが計画した）」──未来を計画していたのは相手であり、語り手の死によってその計画は一方的に無効化される。計画の主体と被計画者の非対称がここに刻まれている。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "late to counsel then or pray",
+      "body": "「counsel（助言）」と「pray（祈り）」は生者が死者に対してできる行為の典型だが、ここでは逆説的に「もう遅い」とされる。死後の交流の不可能性を穏やかに、しかし明確に告げる。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "Yet",
+      "body": "ソネットのヴォルタ（volta／転回点）。9行目冒頭の「Yet（それでも）」でオクターヴの「remember」連呼が全面的に撤回・相対化される。ロセッティのソネット技法の中でも特に鮮やかな転換。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "darkness and corruption",
+      "body": "肉体の腐敗（corruption）と死後の暗闇を直截に描く。ヴィクトリア朝の詩としては珍しく死を美化しない表現。「vestige of the thoughts（思いの痕跡）」だけが残るとすれば、それは物質的な記憶ではなく霊的な残滓。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "Better by far you should forget and smile",
+      "body": "詩全体の倫理的帰結。「はるかに良い（Better by far）」という比較級が、覚えることへの要求をすべて上書きする。愛する者の現在の幸福（smile）が、自らが記憶されることより優先される──自己消去の完成。De Profundisの「catch at hope」が自己への希求であるのに対し、ここでは希求の方向が完全に他者へと転じている。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "intertextual",
+      "anchor": "forget and smile",
+      "body": "Monna Innominataの第14番ソネット（連作の結末）も「記憶と忘却」の弁証法で閉じる。ただしMonna Innominataでは再会・来世への信仰が支えとなるのに対し、Rememberは来世への言及を持たず、「今ここの相手の笑顔」だけを最終価値とする点で、より世俗的・倫理的な解決を示す。",
+      "targetId": "rossetti_monna_innominata"
+    }
+  ]
+}
