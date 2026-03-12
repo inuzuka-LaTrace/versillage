@@ -1,0 +1,114 @@
+{
+  "id": "rossetti_soeur_louise",
+  "title": "Sœur Louise de la Miséricorde",
+  "author": "Christina Rossetti",
+  "source": "Poems (Rossetti, 1901). London: Macmillan, 1901. 底本: Wikisource en.wikisource.org/wiki/Poems_(Rossetti,_1901)/Sœur_Louise_de_la_Miséricorde（2024年版）照合済み。初出: A Pageant and Other Poems, London: Macmillan, 1881.",
+  "year": "1881",
+  "firstPublication": "A Pageant and Other Poems, London: Macmillan, 1881.",
+  "difficulty": "中級",
+  "category": "rossetti_c",
+  "originalLang": "en-GB",
+  "modernRelevance": "★★★★☆",
+  "context": "題名下に「(1674.)」と年号を記す歴史詩。語り手はフランス実在の人物──ルイ14世の寵姫フランソワーズ＝ルイーズ・ド・ラ・ヴァリエール（1644–1710）。1667年にモンテスパン侯爵夫人に寵愛を奪われながらも宮廷に留まることを余儀なくされた彼女は、1674年4月19日、ようやく許可を得てパリのカルメル会修道院に入り、「慈悲のルイーズ修道女（Sœur Louise de la Miséricorde）」の名で生涯を送った。詩はその修道院入り後の独白として書かれており、欲望の燃え尽きた灰と、それを悔やみながらもなお手放せない矛盾を語る。全4連各5行、各連が「Oh vanity of vanities, desire!（ああ空の空、欲望よ！）」で閉じるリフレイン形式。コヘレトの書「空の空、すべては空（vanity of vanities）」を繰り返すことで、欲望への断罪と欲望への未練が一行に共存する構造が核心。Monna Innominataが「名もなき女性の声」を想像で構築するのに対し、この詩は実在の歴史的人物の内面を仮構する点で、ロセッティの歴史的想像力の別の側面を示す。",
+  "keywords": [
+    "歴史詩", "ルイ14世", "ラ・ヴァリエール", "欲望", "虚栄", "修道院", "コヘレトの書", "リフレイン", "告白詩", "Victoria poetry"
+  ],
+  "relatedTexts": [
+    "rossetti_monna_innominata",
+    "rossetti_dead_before_death",
+    "rossetti_remember",
+    "rossetti_de_profundis"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "verses": "l.1-5",
+      "speaker": null,
+      "original": "I have desired, and I have been desired;\nBut now the days are over of desire,\nNow dust and dying embers mock my fire;\nWhere is the hire for which my life was hired?\nOh vanity of vanities, desire!",
+      "provisionalTranslation": "私は欲した、そして私は欲された。\nしかし今、欲望の日々は終わった。\n今は塵と消えゆく残り火が私の炎を嘲笑う。\n私の命が雇われた報酬はどこにあるのか？\nああ、空の空、欲望よ！"
+    },
+    {
+      "id": 2,
+      "verses": "l.6-10",
+      "speaker": null,
+      "original": "Longing and love, pangs of a perished pleasure,\nLonging and love, a disenkindled fire,\nAnd memory a bottomless gulf of mire,\nAnd love a fount of tears outrunning measure;\nOh vanity of vanities, desire!",
+      "provisionalTranslation": "憧れと愛よ、滅びた悦びの苦しみ、\n憧れと愛よ、火の消えた炎よ。\n記憶とは泥の底なし淵、\n愛とは際限なく溢れる涙の泉。\nああ、空の空、欲望よ！"
+    },
+    {
+      "id": 3,
+      "verses": "l.11-15",
+      "speaker": null,
+      "original": "Now from my heart, love's deathbed, trickles, trickles,\nDrop by drop slowly, drop by drop of fire,\nThe dross of life, of love, of spent desire:\nAlas, my rose of life gone all to prickles,—\nOh vanity of vanities, desire!",
+      "provisionalTranslation": "今、愛の臨終の床である私の心から、したたる、したたる、\n一滴一滴ゆっくりと、火の一滴一滴が。\n生の滓、愛の滓、使い果たした欲望の滓が。\nああ、私の生の薔薇はすべて棘になってしまった──\nああ、空の空、欲望よ！"
+    },
+    {
+      "id": 4,
+      "verses": "l.16-20",
+      "speaker": null,
+      "original": "Oh vanity of vanities, desire;\nStunting my hope which might have strained up higher,\nTurning my garden plot to barren mire;\nOh death-struck love, oh disenkindled fire,\nOh vanity of vanities, desire!",
+      "provisionalTranslation": "ああ、空の空、欲望よ。\n高く伸びることができたかもしれない私の希望を萎えさせ、\n私の庭を不毛な泥に変えてしまった。\nああ、死に打たれた愛よ、消えてしまった炎よ、\nああ、空の空、欲望よ！"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "prosody",
+      "body": "全4連各5行、韻律AABBA（変形）。各連末の「Oh vanity of vanities, desire!」がリフレインとして詩全体を縫い合わせる。弱強五歩格を基調とするが、第3連「trickles, trickles」「drop by drop」の反復が行内にリズム的な滴下感を生む。第4連はリフレイン句で始まりリフレイン句で閉じる──欲望への批判と欲望への囚われが同一句に圧縮される。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "I have desired, and I have been desired",
+      "body": "詩の第一行は欲望の対称構造（能動と受動）で始まる。「欲した」と「欲された」の等置は、語り手が単なる欲望の犠牲者でも加害者でもなく、その相互性の中にいたことを示す。ロセッティの語り手がしばしば欲望を外から批判するのではなく、内側から告白する点が特徴的。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "allusion",
+      "anchor": "vanity of vanities",
+      "body": "コヘレトの書（Ecclesiastes）冒頭句「Vanity of vanities, all is vanity（空の空、すべては空）」の直接引用。ラ・ヴァリエール自身が修道院で著した『神の慈悲への省察』でも同様の無常観を展開しており、ロセッティはこの聖書句を彼女の声として再活性化する。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "the hire for which my life was hired",
+      "body": "「hire（報酬・賃金）」の反復──人生を「雇われた労働」として捉える比喩。欲望という主人に仕えた生涯の清算を求める問い。報酬は何も残らなかったという含意。De Profundisの「all in vain」と同じ虚無の確認。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "disenkindled fire",
+      "body": "「disenkindled（火の消えた）」はロセッティが好んで使う複合語的否定形。第1連の「dying embers（消えゆく残り火）」に続いて、愛・欲望の炎が段階的に消えていく過程を語彙で辿る。第4連でも「disenkindled fire」が繰り返され、詩全体の火のイメージが最終的な消滅へと収束する。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "memory a bottomless gulf of mire",
+      "body": "記憶を「底なしの泥の淵」として形象化。De Profundisの「fleshly bands（肉の束縛）」と類似した「泥（mire）」のイメージ──肉体・過去・世俗への執着が重力として下方に引く。第4連でも「barren mire（不毛な泥）」として繰り返される。"
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "trickles, trickles",
+      "body": "反復による音響効果。液体が滴下する様をそのまま言語のリズムで体現する擬音的反復。「drop by drop slowly, drop by drop of fire」と続く三重の反復とともに、愛の消耗が止まらないゆっくりとした過程を感覚的に刻む。"
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "my rose of life gone all to prickles",
+      "body": "「薔薇がすべて棘になった」──Sweet Deathの「blossom that no fruitage bore（実を結ばなかった花）」と対照的に、ここでは花の美しさが失われただけでなく棘という苦痛へと転化している。ラ・ヴァリエールが宮廷で経験した栄華から屈辱への転落の詩的凝縮。"
+    },
+    {
+      "paragraphId": 4,
+      "type": "commentary",
+      "anchor": "Stunting my hope which might have strained up higher",
+      "body": "欲望が「高く向かいえた希望（霊的向上・神への希求）」を萎えさせたという告白。De Profundisの語り手が「手を伸ばしてもなお希望を掴もうとする」のに対し、ここでは欲望そのものがその手を縛った張本人として糾弾される──同一のロセッティが二つの対照的な欲望論を展開する。"
+    },
+    {
+      "paragraphId": 4,
+      "type": "intertextual",
+      "anchor": "Turning my garden plot to barren mire",
+      "body": "Sweet Deathの「turning my garden plot」と同一の庭のメタファー。ただしSweet Deathでは花が死んで大地を豊かにする循環が肯定されるのに対し、ここでは庭が「不毛な泥」に変えられてしまう──同一のロセッティが庭のイメージを「収穫ある死」と「不毛な消耗」の両極に使い分けることが見えてくる。",
+      "targetId": "rossetti_sweet_death"
+    }
+  ]
+}
