@@ -1,0 +1,169 @@
+{
+  "id": "pascoli_al_dio_termine",
+  "title": "Al Dio Termine",
+  "author": "Giovanni Pascoli",
+  "source": "Odi e Inni, Zanichelli, Bologna, 1906. テキスト底本: Wikisource, Odi e inni/Al Dio Termine (it.wikisource.org/wiki/Odi_e_inni/Al_Dio_Termine).",
+  "year": "1906",
+  "firstPublication": "Odi e Inni, Zanichelli, Bologna, 1906",
+  "difficulty": "上級",
+  "category": "pascoli",
+  "originalLang": "it-IT",
+  "modernRelevance": "★★★★☆",
+  "context": "パスコリ（1855–1912）後期の公民詩集『Odi e Inni』（1906年）所収。テルミヌス（Terminus）はローマの境界石・土地の守護神──農地の境に埋め込まれた石として、隣人を分かちながら繋ぐ存在。詩はテルツァ・リーマ（ABA BCB CDC…）14連＋独立最終行43行で構成される。ダンテの『神曲』と同一の韻律形式を用いることで、詩の結末に向けて「テルミヌス＝ダンテ」という等式が準備される。三部構造：(1)「Termine buono（善きテルミヌス）」──二人の農夫が耕す小さな農地の境界石（第1–4連）、(2)「Termine forte（強きテルミヌス）」──二つの国家・民族を分かつ境界石（第5–7連）、(3)「Termine santo（聖なるテルミヌス）」──イタリア民族の「長い世紀の冬」と「永遠の花」と「神聖な春」への祈りを経て（第8–13連）、最終行でダンテが境界石として召喚される。パスコリの詩学「fanciullino（幼子）」の公民的展開：農村共同体の微小な感覚（鶏の声・蜜蜂の羽音・子供の囁き）と国家的なスケール（国境・戦争・犠牲の血）が同じテルツァ・リーマの枠内で共存する。",
+  "keywords": [
+    "テルミヌス", "境界石", "テルツァ・リーマ", "農村共同体", "国境", "ダンテ", "イタリア統一", "犠牲", "神聖な春（primavera sacra）", "fanciullino"
+  ],
+  "relatedTexts": [
+    "dante_inferno_canto_1",
+    "dante_purgatorio_canto_30",
+    "dante_paradiso_canto_33",
+    "dannunzio_due_beatrici",
+    "rossetti_monna_innominata"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "verses": "v.1-3",
+      "original": "Termine buono, ch'ora a due bifolchi\npartisci il campo, sì che l'un da mane,\nl'altro da sera, affidi il grano ai solchi;",
+      "provisionalTranslation": "善きテルミヌスよ、今二人の農夫のあいだで\n野を分かつ者よ──一方は朝の方に、\n他方は夕の方に、麦を畝に委ねるよう。"
+    },
+    {
+      "id": 2,
+      "verses": "v.4-6",
+      "original": "poi l'uno e l'altro viene a te col pane\ndi sua sementa, e con la pia famiglia\nrecante i doni, e col tacente cane;",
+      "provisionalTranslation": "やがて一方も他方も、自分の種のパンを携え、\n贈り物を持つ敬虔な家族とともに\nあなたのもとへ来る──無言の犬を連れて。"
+    },
+    {
+      "id": 3,
+      "verses": "v.7-9",
+      "original": "e questi posa sopra te la figlia\nultima, e quegli il dolce figlio primo,\nl'un che balbetta, l'altra che bisbiglia;",
+      "provisionalTranslation": "一方はあなたの上に末の娘を置き、\n他方は愛しい長男を置く──\nたどたどしく喋る子と、囁くように語る子を。"
+    },
+    {
+      "id": 4,
+      "verses": "v.10-12",
+      "original": "mentre due galli cantano dal fimo,\ndal suo, ciascuno, e ronzano gli sciami\ndi due regine su lo stesso timo:",
+      "provisionalTranslation": "その間、二羽の雄鶏がそれぞれの肥料山から鳴き、\n二つの女王蜂の群れが\n同じタイムの上で羽音を立てる。"
+    },
+    {
+      "id": 5,
+      "verses": "v.13-15",
+      "original": "Termine forte, e ch'ora due reami\ndividi, e segni ai popoli, dove ari\nciascuno e mieta, dove crei, dove ami;",
+      "provisionalTranslation": "強きテルミヌスよ、今二つの王国を\n分かつ者よ──どこで耕し、どこで刈り取り、\nどこで育て、どこで愛するかを民に示す者よ。"
+    },
+    {
+      "id": 6,
+      "verses": "v.16-18",
+      "original": "e le lor vite tacito separi,\ntumultuanti, come, occulto in fondo,\nscoglio da sè fa rifluir due mari;",
+      "provisionalTranslation": "騒ぎ立つ民の命を、あなたは無言で分かつ──\n深みに秘められた岩礁が\n自ずから二つの海を引き戻すように。"
+    },
+    {
+      "id": 7,
+      "verses": "v.19-21",
+      "original": "poi l'uno e l'altro viene a te giocondo,\ncon gl'inni in cuore, ed offre ogni sua pura\nprimizia a te, di ciò che dona al mondo:",
+      "provisionalTranslation": "やがて一方も他方も、喜びをもってあなたのもとへ来る、\n賛歌を心に携えて──そして世界に与えるものの\n純粋な初物のすべてを、あなたに捧げる。"
+    },
+    {
+      "id": 8,
+      "verses": "v.22-24",
+      "original": "Termine santo, che noi, stirpe dura\nd'agricoltori, col vetusto rito\npiantammo a vista dell'età futura;",
+      "provisionalTranslation": "聖なるテルミヌスよ──私たちが、農夫の\n頑強な血脈として、古きしきたりにしたがって、\n未来の時代を見渡す場所に植えた者よ。"
+    },
+    {
+      "id": 9,
+      "verses": "v.25-27",
+      "original": "presso una siepe viva; o tu, che il dito\nintendi, il dito che non sa l'oblìo,\nverso la nostra siepe di granito;",
+      "provisionalTranslation": "生きた垣根のそばに。あなたよ──忘却を知らぬ\n指を理解する者よ、\n私たちの花崗岩の垣根に向けて伸びるその指を。"
+    },
+    {
+      "id": 10,
+      "verses": "v.28-30",
+      "original": "grida, verso la grande Alpe di Dio,\ncon la tua voce onde tonò l'inferno:\nDI LÀ C'È VOSTRO, MA DI QUA C'È MIO!",
+      "provisionalTranslation": "叫べ、神のアルプスへ向かって、\n地獄を轟かせたその声で：\n「向こうはあなたたちのもの、しかしこちらは私のものだ！」"
+    },
+    {
+      "id": 11,
+      "verses": "v.31-33",
+      "original": "se, giusta il rito, nascondemmo, al verno\nnostro di lunghi secoli, sotterra,\nsemi onde spunta qualche fiore eterno!",
+      "provisionalTranslation": "もし、しきたりにしたがって、長い世紀の冬に、\n私たちが地の下に種を隠したなら──\nそこから何か永遠の花が芽吹く種を！"
+    },
+    {
+      "id": 12,
+      "verses": "v.34-36",
+      "original": "se gli odii antichi, se il livor di guerra\nspingemmo in cuore, salutando l'Era\nnuova di pace e buon volere in terra!",
+      "provisionalTranslation": "もし、古い憎しみを、戦争の怨恨を\n胸の奥に押し込め、地上の平和と\n善意の新しい時代を迎えたなら！"
+    },
+    {
+      "id": 13,
+      "verses": "v.37-39",
+      "original": "se qui mandammo anche una primavera\nsacra, di giovinette anime, rossa,\nsotto una sacra giovine bandiera!",
+      "provisionalTranslation": "もし、ここに神聖な春を送り込んだなら──\n若い魂たちの、血に染まった、\n神聖な若い旗のもとに！"
+    },
+    {
+      "id": 14,
+      "verses": "v.40-42",
+      "original": "se, giusta il rito, empimmo allor la fossa\ndel sangue loro! s'Egli, Egli, ondeggiante,\nEgli ubbidì, lasciandone qui l'ossa...",
+      "provisionalTranslation": "もし、しきたりにしたがって、その血で墓穴を満たしたなら！\nもし彼が──彼が、揺れながら──\n彼が従い、ここに骨を残したなら……"
+    },
+    {
+      "id": 15,
+      "verses": "v.43",
+      "original": "per base a te, Termine nostro, Dante!",
+      "provisionalTranslation": "あなたの礎として、私たちのテルミヌスよ、ダンテよ！"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "prosody",
+      "anchor": null,
+      "body": "テルツァ・リーマ（terza rima）：ABA BCB CDC…と連鎖する三行連句の韻律形式。ダンテ『神曲』が創始した形式であり、この詩がその形式を採用すること自体が最終行の「Dante！」への伏線として機能する──形式と主題が同一の身振りをなす。パスコリが第1連で提示する農村風景（農夫・パン・家族・犬）は彼の詩学「fanciullino（幼子）」の典型的光景：微小な日常の具体物（鶏・蜜蜂・タイム）が宇宙的・神話的スケールと等価に置かれる。"
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "e questi posa sopra te la figlia\nultima, e quegli il dolce figlio primo,\nl'un che balbetta, l'altra che bisbiglia;",
+      "body": "「balbetta（たどたどしく喋る）」「bisbiglia（囁く）」──音声模倣（onomatopea）的な二語がパスコリの「fanciullino」詩学の核心を一連に凝縮する。境界石の上に置かれる幼子という映像：土地の神が子供の守護者でもある古ローマ的信仰の再現であると同時に、「分かつもの」が「繋ぐもの」でもあるというテルミヌスの逆説的本質の表象。"
+    },
+    {
+      "paragraphId": 5,
+      "type": "commentary",
+      "anchor": "Termine forte, e ch'ora due reami\ndividi, e segni ai popoli, dove ari\nciascuno e mieta, dove crei, dove ami;",
+      "body": "詩の第二部「Termine forte（強きテルミヌス）」への転換。スケールが「農地の境」から「二つの王国の境」へと拡大する。「ari / mieta / crei / ami（耕す／刈る／育てる／愛する）」という四つの動詞が一連に連なり、国家的境界が農業的・生命的な動詞で定義される──パスコリの農民的世界観が政治的スケールに投影される瞬間。"
+    },
+    {
+      "paragraphId": 6,
+      "type": "prosody",
+      "anchor": "come, occulto in fondo,\nscoglio da sè fa rifluir due mari;",
+      "body": "「深みに秘められた岩礁が自ずから二つの海を引き戻す（scoglio da sè fa rifluir due mari）」──テルミヌスの無言の作用をimmagine（映像）として呈示する直喩。「occulto in fondo（深みに秘められた）」という表現が詩全体の「見えない境界の力」という主題を圧縮する。ラシーヌ的意味での「語らないことによって語る」構造とは異なり、パスコリにおける沈黙は自然力の隠れた作用として肯定的に機能する。"
+    },
+    {
+      "paragraphId": 10,
+      "type": "commentary",
+      "anchor": "grida, verso la grande Alpe di Dio,\ncon la tua voce onde tonò l'inferno:\nDI LÀ C'È VOSTRO, MA DI QUA C'È MIO!",
+      "body": "詩全体で唯一の大文字表記行──「向こうはあなたたちのもの、しかしこちらは私のものだ！」。「con la tua voce onde tonò l'inferno（地獄を轟かせたその声で）」：ここで初めてダンテへの直接的な参照が現れる。テルミヌスの声＝ダンテの声という等式が準備される。「la grande Alpe di Dio（神のアルプス）」：イタリアとアルプス以北の世界を分かつ地理的境界を神話的スケールで提示する。イタリア統一（リソルジメント）の政治的文脈：この叫びはイタリアの「自国の土地」への主張として読める。",
+      "type": "intertextual",
+      "targetId": "dante_inferno_canto_1"
+    },
+    {
+      "paragraphId": 13,
+      "type": "commentary",
+      "anchor": "se qui mandammo anche una primavera\nsacra, di giovinette anime, rossa,\nsotto una sacra giovine bandiera!",
+      "body": "「primavera sacra（神聖な春）」：古代ローマの宗教的慣習「ver sacrum」への参照──豊作を神に誓うため、春に生まれた動物と人間（若者）を神に捧げる儀式。ここではリソルジメントの若い犠牲者たちへの参照として機能する。「rossa（血に染まった）」という形容詞が「primavera（春）」を修飾することで、再生と犠牲の二重性が一語に凝縮される。「sacra giovine bandiera（神聖な若い旗）」：ジュゼッペ・マッツィーニの「Giovine Italia（若きイタリア）」への暗示。"
+    },
+    {
+      "paragraphId": 14,
+      "type": "prosody",
+      "anchor": "s'Egli, Egli, ondeggiante,\nEgli ubbidì, lasciandone qui l'ossa...",
+      "body": "「Egli（彼）」の三度の反復──三点リーダー（…）で終わる連。「Egli」が誰を指すかは明示されない：リソルジメントの無名の兵士たちか、あるいはダンテ自身（流刑の中で「従い」、フィレンツェに「骨を残さなかった」詩人）か。この曖昧性が最終行での「Dante！」の突然の明示を準備する──13連の「……l'ossa（骨）」という省略が14行目の「per base a te（あなたの礎として）」で構造的に完成する。"
+    },
+    {
+      "paragraphId": 15,
+      "type": "intertextual",
+      "anchor": "per base a te, Termine nostro, Dante!",
+      "body": "詩全体の収束点──43行のテルツァ・リーマが独立した1行で閉じられる。テルツァ・リーマという形式自体がダンテのものであるため、形式と内容が同時に「Dante！」という呼格で完結する。「Termine nostro（私たちのテルミヌス）」：ダンテをイタリア文化・言語・民族の「境界石（terminus）」として定義する──境界石が隣人を分かちながら共同体を定義するように、ダンテはイタリア語の範囲を定め、イタリア民族の精神的境界を定めた存在。「per base（礎として）」：先行する連の犠牲者たちの「骨（l'ossa）」がダンテという境界石の礎石として機能する──死者の上にダンテが立つという垂直構造が詩の最終像をなす。ダンテ参照網：`dante_inferno_canto_1`の「ne lo mezzo del cammin（旅の中ほどで）」、`dante_purgatorio_canto_30`のベアトリーチェ登場、`dante_paradiso_canto_33`の最終観照──パスコリにとってダンテは詩人の先達であると同時に「テルミヌス」すなわちイタリア詩の終点かつ出発点。",
+      "targetId": "dante_inferno_canto_1",
+      "targetParagraphId": 1
+    }
+  ]
+}
