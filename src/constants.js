@@ -33,6 +33,7 @@ export const CATEGORIES = {
   hoelderlin:                 { name: 'ヘルダーリン' },
   dante:                      { name: 'ダンテ' },
   dannunzio:                  { name: 'ダヌンツィオ' },
+  pascoli:                    { name: 'パスコリ' },
 };
 
 // カテゴリー省略ラベル（バッジ表示用）
@@ -64,6 +65,7 @@ export const CAT_SHORT = {
   hoelderlin:              'ヘルダーリン',
   dante:                   'ダンテ',
   dannunzio:               'ダヌンツィオ',
+  pascoli:                 'パスコリ',
 };
 
 // 注釈タイプ定義（ラベル・カラークラス）
