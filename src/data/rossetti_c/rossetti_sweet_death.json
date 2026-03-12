@@ -1,0 +1,102 @@
+{
+  "id": "rossetti_sweet_death",
+  "title": "Sweet Death",
+  "author": "Christina Rossetti",
+  "source": "Poems (Rossetti, 1901). London: Macmillan, 1901. 底本: Wikisource en.wikisource.org/wiki/Poems_(Rossetti,_1901)/Sweet_Death（2024年版）照合済み。初出: Goblin Market and Other Poems, London: Macmillan, 1862.",
+  "year": "1862",
+  "firstPublication": "Goblin Market and Other Poems, London: Macmillan, 1862.",
+  "difficulty": "中級",
+  "category": "rossetti_c",
+  "originalLang": "en-GB",
+  "modernRelevance": "★★★☆☆",
+  "context": "全3連各8行。各連の第1行が「The sweetest blossoms die」「The youngest blossoms die」「And youth and beauty die」と死の宣言で始まり、教会墓地の観察から宗教的受容へと段階的に展開する。第1連：墓地の花が散る様子──香りが空へ立ち昇ってから消える。第2連：花の腐敗が大地を豊かにする循環論──「Sweet life, but sweeter death」という詩の核心句が現れる。第3連：聖人・天使・神への志向によって、死への恐れを問い直す──旧約聖書のルツが落ち穂拾いに甘んじたのに対し「なぜ刈り入れ全体を恐れるのか」と問う。Golden Silencesの農耕メタファー（種蒔き→収穫）と同一の聖書的文脈を共有しつつ、より直截に「harvest（刈り入れ）＝死」を肯定する点で踏み込んでいる。",
+  "keywords": [
+    "死の受容", "花", "墓地", "死", "循環", "収穫", "ルツ記", "宗教詩", "Victorian poetry", "Sweet death"
+  ],
+  "relatedTexts": [
+    "rossetti_remember",
+    "rossetti_dead_before_death",
+    "rossetti_golden_silences",
+    "rossetti_de_profundis",
+    "rossetti_monna_innominata"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "verses": "l.1-8",
+      "speaker": null,
+      "original": "The sweetest blossoms die.\nAnd so it was that, going day by day\nUnto the Church to praise and pray,\nAnd crossing the green churchyard thoughtfully,\nI saw how on the graves the flowers\nShed their fresh leaves in showers,\nAnd how their perfume rose up to the sky\nBefore it passed away.",
+      "provisionalTranslation": "最も甘い花は死ぬ。\nそのようにして、日々日々\n賛美と祈りのために教会へ向かい、\n思いを込めて緑の教会墓地を横切りながら、\n私は見た──墓の上の花々が\n雨のように新鮮な花びらを散らすのを、\nそしてその香りが空へと立ち昇るのを、\n消えゆく前に。"
+    },
+    {
+      "id": 2,
+      "verses": "l.9-16",
+      "speaker": null,
+      "original": "The youngest blossoms die.\nThey die and fall and nourish the rich earth\nFrom which they lately had their birth;\nSweet life, but sweeter death that passeth by\nAnd is as though it had not been:—\nAll colours turn to green;\nThe bright hues vanish, and the odours fly,\nThe grass hath lasting worth.",
+      "provisionalTranslation": "最も若い花は死ぬ。\n死んで落ちて、豊かな大地を養う、\nつい先頃そこから生まれてきたあの大地を。\n甘い生よ、しかし死はさらに甘い、過ぎ去りながら\nまるでそれが存在しなかったかのように去ってゆく。\nすべての色は緑へと変わる。\n明るい彩りは消え、香りは飛び去り、\n草のみが永続する価値を持つ。"
+    },
+    {
+      "id": 3,
+      "verses": "l.17-24",
+      "speaker": null,
+      "original": "And youth and beauty die.\nSo be it, O my God, Thou God of Truth:\nBetter than beauty and than youth\nAre Saints and Angels, a glad company;\nAnd Thou, O Lord, our Rest and Ease,\nArt better far than these.\nWhy should we shrink from our full harvest? why\nPrefer to glean with Ruth?",
+      "provisionalTranslation": "そして若さと美は死ぬ。\nそのようにあれ、おお神よ、真理の神よ。\n美よりも、若さよりも優れているのは\n聖人と天使たち、喜びに満ちた集い。\nそしてあなた、おお主よ、私たちの安息と安らぎは、\nこれらよりもはるかに優れている。\nなぜ私たちは刈り入れの全収穫を恐れるのか？なぜ\nルツのように落ち穂を拾うことを好むのか？"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "prosody",
+      "body": "全3連、各連8行。韻律パターンは各連共通でABBAACCA（変形）。第1・3行が三歩格の短縮行、第5・6行が短縮行で、長行と短行の交替が呼吸のような緩急を生む。各連冒頭の短文宣言（「The sweetest blossoms die」等）が詩全体に反復的な重みをもたらす。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "crossing the green churchyard thoughtfully",
+      "body": "「thoughtfully（思いを込めて）」は単なる様態副詞でなく、詩の語り手が観察者として熟考しながら歩くことを示す。墓地を「green（緑）」と形容することで、死の場所が生命の色彩をまとう──これが第2連の「all colours turn to green」への伏線となる。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "their perfume rose up to the sky",
+      "body": "香りが「空へ立ち昇る（rose up to the sky）」のは香煙・祈りが神へと昇るイメージと重なる。詩篇141:2「私の祈りが御前に香のように立ち昇るように」の反響。花の死が祈りの形式として神聖化される。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "Sweet life, but sweeter death",
+      "body": "詩の核心句。比較級「sweeter」が生を否定せず（「sweet life」と認めながら）死をより高く位置づける。ロセッティのキリスト教信仰における死後の完成という神学的楽観主義の詩的表現。Dead before Deathの「cold and lost」な死とは全く異なる死の相貌。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "is as though it had not been",
+      "body": "死が「まるで存在しなかったかのよう」に過ぎ去る──これは消滅ではなく変容の描写。花が腐敗して大地を養うように、死は循環の一段階として跡を残さない。コヘレトの書（Ecclesiastes 2:11）「すべては空、風を捕まえるようなもの」との対比で、ロセッティは消去を悲嘆でなく解放として読む。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "The grass hath lasting worth",
+      "body": "連の締め括り。詩篇90:5「草は茂り、朝には芽を出し、夕べには枯れて萎む」の反転──ロセッティは草を無常の象徴でなく「lasting worth（永続する価値）」の担い手とする。花の華やかさより根づいた草の持続が称えられる。"
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "So be it, O my God",
+      "body": "「So be it（そのようにあれ）」はRememberの「Even so, be it so」（Golden Silences）と同一の承認の身振り。死への恐れを「Thou God of Truth（真理の神）」への信仰によって解消する──詩全体の倫理的・神学的結論。"
+    },
+    {
+      "paragraphId": 3,
+      "type": "allusion",
+      "anchor": "glean with Ruth",
+      "body": "ルツ記2章。モアブ人のルツが姑ナオミに従い、刈り入れ後の畑で落ち穂を拾う（gleaning）場面。「落ち穂拾い」は刈り入れの残り滓を集める謙虚な行為。ロセッティはこれを「死という刈り入れ全体を避けて、生の端くれに甘んじること」のメタファーとして使う──なぜ完全な収穫（死・完成）を恐れて落ち穂（不完全な生）を選ぶのか、という問い。"
+    },
+    {
+      "paragraphId": 3,
+      "type": "intertextual",
+      "anchor": "full harvest",
+      "body": "Golden Silencesの「whoso reaps the ripened corn / Shall shout in his delight」と同一の農耕メタファー。両詩はともにパウロ書簡（Galatians 6:7）・ルツ記の農耕イメージを用いて死を豊穰な収穫として肯定するが、Sweet Deathはより直截に「刈り入れへの恐れ」を問い返す点で踏み込んでいる。",
+      "targetId": "rossetti_golden_silences"
+    }
+  ]
+}
