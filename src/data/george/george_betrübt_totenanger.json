@@ -1,0 +1,105 @@
+{
+  "id": "george_betrübt_totenanger",
+  "title": "Betrübt als führten sie zum totenanger",
+  "author": "Stefan George",
+  "source": "Stefan George, Der siebente Ring, Blätter für die Kunst, Berlin, 1907, S. 74–75. テキスト底本: Wikisource (Betrübt als führten sie zum totenanger).",
+  "year": "1907",
+  "firstPublication": "Der siebente Ring, Blätter für die Kunst, Berlin, 1907",
+  "difficulty": "中級",
+  "category": "george",
+  "originalLang": "de-DE",
+  "modernRelevance": "★★★☆☆",
+  "context": "『Der siebente Ring』所収の24行詩。ABBA×6連の拡張ソネット形式。初行が題名を兼ねる（無題詩）。早春の陰鬱な景観──墓地へと向かうような憂鬱に満ちた小道、灰色の雨空、枯れた垣根、カラス枯れの楢の梢──を精密に描写しながら、そこに潜む生命の微かな兆しを拾い上げる。詩の視線は下降と上昇を繰り返す：v.5-8の垣根の上に差し込む薄い光、v.9-12の梢を失う鳥の声とヤドリギの緑、v.13-16の地面に現れた最初の草、v.17-24の「喪の群れ」のアネモネ──そしてアネモネが「半覚めの魂」に喩えられて詩が閉じる。最終四行の比喩的転換（花→魂）がこの詩の核心：早春の花はまだ全開することを恐れている、ちょうど魂が自らを完全に開くことに踏み切れないように。",
+  "keywords": [
+    "早春",
+    "アネモネ",
+    "ヤドリギ",
+    "totenanger",
+    "拡張ソネット",
+    "ABBA韻",
+    "魂の比喩",
+    "Vorfrühling",
+    "灰色の雨",
+    "Der siebente Ring"
+  ],
+  "relatedTexts": [
+    "george_rosen",
+    "george_tote_stadt"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "verses": "v.1-8",
+      "original": "Betrübt als führten sie zum totenanger\nSind alle steige wo wir uns begegnen\nDoch trägt die graue luft im sachten regnen\nSchon einen hauch mit neuen keimen schwanger.\nIn dünnen reihen ziehen bis zum schachte\nErfüllt mit falbem licht die welken hecken\nWie wenn sich viele starren hände recken\nUnd jede eine zu umschlingen trachte ..",
+      "provisionalTranslation": "墓地へと連れていくかのように憂鬱に──\nわれらが出会うすべての小道はそうだ。\nしかし灰色の空気は静かな雨の中に\nすでに新しい芽を宿した息吹を帯びている。\n細い列をなして竪坑まで続き、\n薄黄色の光に満たされた萎えた垣根は──\nまるで多くの固い手が伸ばされ、\nそれぞれが何かをしっかりと抱きしめようとするかのように……"
+    },
+    {
+      "id": 2,
+      "verses": "v.9-16",
+      "original": "Der seltnen vögel klagendes gefistel\nVerliert sich in den gipfeln kahler eichen ·\nNur ein geheimnisvoll lebendiges zeichen\nUmfängt den schwarzen stamm: die grüne mistel.\nDass hier vor tagen wol verlockend schaute\nEin kurzer strahl aus nässe-kaltem qualme\nVerraten auf dem grund die blassen halme:\nDas erste gras .. und zwischen dürrem kraute",
+      "provisionalTranslation": "まばらな鳥たちの嘆くような囀りが\n裸の楢の梢の中へと消えていく──\nただ一つの謎めいた生きた印だけが\n黒い幹を包んでいる：緑のヤドリギ。\n数日前にここで、湿った冷たい霞の中から\n誘うような短い光の筋が差したことを、\n地面の青ざめた茎が明かしている：\n最初の草……そして枯れた草の間に"
+    },
+    {
+      "id": 3,
+      "verses": "v.17-24",
+      "original": "In trauergruppen dunkle anemonen.\nSie neigen sich bedeckt mit silberflocken\nUnd hüllen noch mit ihren blauen glocken\nIhr innres licht und ihre goldnen kronen\nUnd sind wie seelen die im morgengrauen\nDer halberwachten wünsche und im herben\nVorfrühjahrwind voll lauerndem verderben\nSich ganz zu öffnen noch nicht recht getrauen.",
+      "provisionalTranslation": "喪の群れをなして暗いアネモネが咲いている。\nそれらは銀の薄片に覆われて頭を垂れ、\nその青い鐘の形の花冠で\n内なる光と黄金の花芯をまだ包んでいる──\nそしてまるで夜明けの薄明の中で\n半覚めの欲望の、そして厳しい\n潜む滅びに満ちた早春の風の中で\n完全に開くことをまだためらっている魂のようだ。"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "prosody",
+      "anchor": "Betrübt als führten sie zum totenanger\nSind alle steige wo wir uns begegnen\nDoch trägt die graue luft im sachten regnen\nSchon einen hauch mit neuen keimen schwanger.",
+      "body": "ABBA交差韻（Umarmender Reim）：totenanger/schwanger（A）– begegnen/regnen（B）。この韻律パターンが6連×4行にわたって維持される拡張ソネット形式。通常のソネット（14行 4+4+3+3）を24行（4×6）に拡張。全小文字・ゲオルゲ固有の表記法。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "glossary",
+      "anchor": "Betrübt als führten sie zum totenanger",
+      "body": "「Totenanger（死者の野・墓地）」──「anger」は牧草地・広場を意味する古語。「死者の牧草地」という合成語が詩全体の基調を設定する。「まるで墓地へ連れて行くかのように」という直喩が全小道の描写を死の雰囲気で染める冒頭。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "Schon einen hauch mit neuen keimen schwanger.",
+      "body": "「新しい芽を宿した息吹（hauch mit neuen keimen schwanger）」──憂鬱な冒頭の即座の転換。「schwanger（孕んでいる）」という生命的語が死の空間に埋め込まれる。詩全体の弁証法的構造──死と生の共存──がここに圧縮されている。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "Wie wenn sich viele starren hände recken\nUnd jede eine zu umschlingen trachte ..",
+      "body": "枯れた垣根を「固い手が伸ばされ、抱きしめようとする」と擬人化する直喩。「trachte（trachten：努める・目指す）」という動詞の不安定な現在形と「..」（二重点による余韻）が不気味な生命力──死にかけているが何かをつかもうとする──を示す。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "Nur ein geheimnisvoll lebendiges zeichen\nUmfängt den schwarzen stamm: die grüne mistel.",
+      "body": "「ヤドリギ（Mistel）」──冬でも緑を保つ半寄生植物。黒い幹に巻きつく緑の輝きは死の景観の中の「謎めいた生きた印（geheimnisvoll lebendiges zeichen）」。ケルト文化圏でヤドリギは神聖視され（黄金の枝──フレイザー『金枝篇』）、冬至の生命力の象徴。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "Dass hier vor tagen wol verlockend schaute\nEin kurzer strahl aus nässe-kaltem qualme\nVerraten auf dem grund die blassen halme:\nDas erste gras ..",
+      "body": "「最初の草（Das erste gras）」──過去の一瞬の日差しを証言するように地面に現れた青ざめた草の芽。「..」が発見の静止を示す。数日前の光の痕跡が現在の草の存在に刻印されるという時間的記憶の地誌学。"
+    },
+    {
+      "paragraphId": 3,
+      "type": "glossary",
+      "anchor": "In trauergruppen dunkle anemonen.",
+      "body": "「アネモネ（Anemonen）」──ギリシャ語「anemos（風）」に由来する春の花。古代の伝説ではアドニスの血から生まれた（オウィディウス『変身譚』）。「trauergruppen（喪の群れ）」という形容は花の暗い色調と神話的死の連想を重ねる。"
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "Sie neigen sich bedeckt mit silberflocken\nUnd hüllen noch mit ihren blauen glocken\nIhr innres licht und ihre goldnen kronen",
+      "body": "アネモネの詳細な描写：銀の薄片（露や霰）に覆われ、青い鐘状の花冠がまだ内部の光と黄金の花芯を包んでいる──閉じた花の状態の視覚的精密さ。「hüllen noch（まだ包んでいる）」の「noch」が未完の開放を示す。"
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "Und sind wie seelen die im morgengrauen\nDer halberwachten wünsche und im herben\nVorfrühjahrwind voll lauerndem verderben\nSich ganz zu öffnen noch nicht recht getrauen.",
+      "body": "詩の核心命題：アネモネ→魂の比喩。「半覚めの欲望（halberwachten wünsche）」──完全には目覚めていない欲求。「潜む滅びに満ちた早春の風（herben Vorfrühjahrwind voll lauerndem verderben）」──開いた瞬間に破壊されるかもしれないという恐れ。「完全に開くことをためらう（sich ganz zu öffnen nicht recht getrauen）」──脆弱な存在が自らを晒すことへの実存的躊躇。ゲオルゲの詩における「閉じた美」の典型的形象。"
+    }
+  ]
+}
