@@ -1,0 +1,136 @@
+{
+  "id": "hofmannsthal_traum_magie",
+  "title": "Ein Traum von großer Magie",
+  "author": "Hugo von Hofmannsthal",
+  "source": "Hugo von Hofmannsthal, Gedichte, Insel Verlag, Leipzig, 1922, S. 30–31. 初出: Blätter für die Kunst, Dritte Folge, I. Band, Jänner 1896, S. 9–11（初出は全小文字表記）. テキスト底本: Wikisource (Ein Traum von großer Magie); UB Bielefeld所蔵原本校合済み.",
+  "year": "1896",
+  "firstPublication": "Blätter für die Kunst, Dritte Folge, I. Band, Jänner 1896",
+  "difficulty": "上級",
+  "category": "hofmannsthal",
+  "originalLang": "de-DE",
+  "modernRelevance": "★★★★★",
+  "context": "ホフマンスタール22歳の作。テルツィーネ（ABA BCB CDC…）形式による46行詩。夢の中で「偉大な魔術師」──宇宙的力と自由自在に交流する存在──と出会う夢想譚。三部構造：①v.1-15 夢の舞台設定と魔術師の出現（壁の背後に広がる深淵・海・緑の野）、②v.16-39 魔術師の行為──大地から宝石を引き出す・重力を超える跳躍・過去の日々との対話・宇宙的感受・獅子のような跳躍、③v.40-46 コーダ（哲学的反省）：精神は霊（Geist）として星々に住み、われらを孤児のままにしながら、同時に「わたしの中に生きる」逆説的内在性。テルツィーネ形式はダンテ『神曲』の詩形であり、詩の内容（宇宙的魔術師・深淵・星への上昇）とホフマンスタールのダンテ傾倒を二重に示す。初出誌「ブレッター・フュール・ディ・クンスト」はゲオルゲの主宰する雑誌であり、ゲオルゲ・クライスとの交流の中で書かれた。",
+  "keywords": [
+    "夢",
+    "大魔術師",
+    "テルツィーネ",
+    "オパール",
+    "重力の超克",
+    "Geist",
+    "Cherub",
+    "ゲオルゲ・クライス",
+    "宇宙的感受",
+    "ダンテ詩形"
+  ],
+  "relatedTexts": [
+    "george_dante_zeitgedicht",
+    "george_templer",
+    "hoelderlin_brot_und_wein"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "verses": "v.1-15",
+      "original": "Viel königlicher als ein Perlenband\nUnd kühn wie junges Meer im Morgenduft,\nSo war ein großer Traum – wie ich ihn fand.\n\nDurch offene Glastüren ging die Luft.\nIch schlief im Pavillon zu ebner Erde,\nUnd durch vier offne Türen ging die Luft –\n\nUnd früher liefen schon geschirrte Pferde\nHindurch und Hunde eine ganze Schar\nAn meinem Bett vorbei. Doch die Gebärde\n\nDes Magiers – des Ersten, Großen – war\nAuf einmal zwischen mir und einer Wand:\nSein stolzes Nicken, königliches Haar.\n\nUnd hinter ihm nicht Mauer: es entstand\nEin weiter Prunk von Abgrund, dunklem Meer\nUnd grünen Matten hinter seiner Hand.",
+      "provisionalTranslation": "真珠の首飾りよりもはるかに高貴で\n朝の香りの中の若い海のように大胆に──\nそんな大きな夢があった──わたしがそれを見出したとき。\n\n開いたガラスの扉を通って風が流れた。\nわたしは地上のパヴィリオンで眠っていた、\n四つの開いた扉を通って風が流れていた──\n\nそして馬具をつけた馬たちがすでに走り抜け、\n犬たちがひとかたまりになって\nわたしのベッドのそばを通り過ぎていた。しかし魔術師の身振り──\n\n最初の、偉大な魔術師の身振りが\n突然わたしと一枚の壁の間に現れた：\nその誇り高い頷き、王者の髪。\n\nそして彼の背後は壁ではなかった：広がり生まれたのは\n深淵と暗い海の広大な壮麗さ、\nそして彼の手の背後の緑の野だった。"
+    },
+    {
+      "id": 2,
+      "verses": "v.16-24",
+      "original": "Er bückte sich und zog das Tiefe her.\nEr bückte sich, und seine Finger gingen\nIm Boden so, als ob es Wasser wär.\n\nVom dünnen Quellenwasser aber fingen\nSich riesige Opale in den Händen\nUnd fielen tönend wieder ab in Ringen.\n\nDann warf er sich mit leichtem Schwung der Lenden –\nWie nur aus Stolz – der nächsten Klippe zu;\nAn ihm sah ich die Macht der Schwere enden.",
+      "provisionalTranslation": "彼はかがみ込み、深みを手元に引き寄せた。\n彼はかがみ込み、その指は\n大地の中を、まるで水であるかのように動いた。\n\n細い泉の水から\n巨大なオパールが両手に集まり、\n環を描きながら音を立てて再び落ちていった。\n\nそれから彼は腰を軽やかに振って──\nまるで誇りからのみのように──近くの岩礁へと投じた；\nわたしは彼において重力の力が終わるのを見た。"
+    },
+    {
+      "id": 3,
+      "verses": "v.25-33",
+      "original": "In seinen Augen aber war die Ruh\nVon schlafend- doch lebendgen Edelsteinen.\nEr setzte sich und sprach ein solches Du\n\nZu Tagen, die uns ganz vergangen scheinen,\nDaß sie herkamen trauervoll und groß:\nDas freute ihn zu lachen und zu weinen.\n\nEr fühlte traumhaft aller Menschen Los,\nSo wie er seine eignen Glieder fühlte.\nIhm war nichts nah und fern, nichts klein und groß.",
+      "provisionalTranslation": "しかし彼の瞳の中には静けさがあった──\n眠っているが生きている宝石のような静けさが。\n彼は座り、過ぎ去ったと思われる日々に対して\n\nあのような「あなた」を語りかけた──\n日々が悲しく偉大に近づいてくるほどの「あなた」を：\nそれは彼を笑いながら泣かせるほど嬉しかった。\n\n彼はすべての人間の運命を夢うつつに感じた、\n自分自身の手足を感じるのと同じように。\n彼には近いも遠いも、小さいも大きいもなかった。"
+    },
+    {
+      "id": 4,
+      "verses": "v.34-39",
+      "original": "Und wie tief unten sich die Erde kühlte,\nDas Dunkel aus den Tiefen aufwärts drang,\nDie Nacht das Laue aus den Wipfeln wühlte,\n\nGenoß er allen Lebens großen Gang\nSo sehr – daß er in großer Trunkenheit\nSo wie ein Löwe über Klippen sprang.",
+      "provisionalTranslation": "そして遥か下で大地が冷えていくように、\n暗闇が深みから上へと押し寄せ、\n夜が梢からぬるみを掻き乱すように──\n\n彼はすべての生の大いなる流れを\nこれほどまでに享受した──大きな陶酔の中で\n獅子のように岩礁を跳び越えるほどに。"
+    },
+    {
+      "id": 5,
+      "verses": "v.40-46",
+      "original": "Cherub und hoher Herr ist unser Geist –\nWohnt nicht in uns, und in die obern Sterne\nSetzt er den Stuhl und läßt uns viel verwaist:\n\nDoch Er ist Feuer uns im tiefsten Kerne\n– So ahnte mir, da ich den Traum da fand –\nUnd redet mit den Feuern jener Ferne\n\nUnd lebt in mir wie ich in meiner Hand.",
+      "provisionalTranslation": "智天使にして高貴な主こそわれらの精神──\nわれらの中には住まわず、上なる星々の中に\n玉座を据えて、われらを孤児のまま多く残す：\n\nしかし彼はわれらの最も深い核の中で火である──\nそう予感した、あの夢を見出したときに──\nそして遠い彼方の炎と語らいながら\n\nわたしの中に生きる、わたしが自分の手の中に生きるように。"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "prosody",
+      "anchor": "Viel königlicher als ein Perlenband\nUnd kühn wie junges Meer im Morgenduft,\nSo war ein großer Traum – wie ich ihn fand.",
+      "body": "テルツィーネ（Terzine）形式：ABA BCB CDC… のインターロッキング韻律。ダンテ『神曲』の詩形。Band/fand（A）– Duft/Luft（B）– Erde/Pferde/Gebärde（C）…と連鎖する。ホフマンスタールはダンテの詩形を意識的に選択し、夢の中の宇宙的魔術師という主題との共鳴を作る（→george_dante_zeitgedicht参照）。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "Des Magiers – des Ersten, Großen – war\nAuf einmal zwischen mir und einer Wand:",
+      "body": "「魔術師──最初の、偉大な──」の突然の出現。「壁と私の間」という狭い空間への侵入は夢の論理的突飛さと権威の圧倒的な出現を同時に示す。「Erster（最初の者）」は原初性・根源性を持つ称号。ゲオルゲ・クライスの「師」像との対照が可能。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "Und hinter ihm nicht Mauer: es entstand\nEin weiter Prunk von Abgrund, dunklem Meer\nUnd grünen Matten hinter seiner Hand.",
+      "body": "壁の背後に深淵・海・緑の野が開く──魔術師の身体が空間的境界を消滅させる。「hinter seiner Hand（彼の手の背後）」という表現が魔術師の手と宇宙の開口を等置する。マラルメ「開いた扇」的なジェスチャーによる空間創造。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "Er bückte sich und zog das Tiefe her.\nEr bückte sich, und seine Finger gingen\nIm Boden so, als ob es Wasser wär.",
+      "body": "「かがみ込み」の動作の反復（Er bückte sich … Er bückte sich）──テルツィーネの連鎖的動きと呼応する反復的身振り。「大地を水のように扱う指」──物質の固体性を液体に変換する宇宙的能力。水と土の境界消滅。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "glossary",
+      "anchor": "Vom dünnen Quellenwasser aber fingen\nSich riesige Opale in den Händen\nUnd fielen tönend wieder ab in Ringen.",
+      "body": "「オパール（Opale）」──乳白色の半透明石で、内部に虹色の光の遊び（Opaleszenz）を持つ。ここでは細い泉水から巨大なオパールが凝集し、また落ちていく──物質の凝結と分散のサイクル。「音を立てて環を描く（tönend…in Ringen）」は視覚・聴覚の共感覚。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "Dann warf er sich mit leichtem Schwung der Lenden –\nWie nur aus Stolz – der nächsten Klippe zu;\nAn ihm sah ich die Macht der Schwere enden.",
+      "body": "「重力の終わり（die Macht der Schwere enden）」──ゲオルゲ「テンプラー」の「Der ihn erwürgen half」・ニーチェの超人の重力克服と並走する身体的自由の形象。しかし「誇りからのみ（Wie nur aus Stolz）」という修飾が美学的超脱──実用的必要ではなく美的ポーズとして重力を超える──を示す。"
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "Er setzte sich und sprach ein solches Du\nZu Tagen, die uns ganz vergangen scheinen,\nDaß sie herkamen trauervoll und groß:",
+      "body": "「過ぎ去った日々に『あなた』と語りかける」──時間的距離の人称的超克。二人称「Du（あなた）」による過去への呼びかけは、時間を親密な対話者に変える。ゲオルゲ詩における「Das Du（汝）」の神学的用法（バッハマン・ブーバー的「我と汝」の先取り）と共鳴する。"
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "Er fühlte traumhaft aller Menschen Los,\nSo wie er seine eignen Glieder fühlte.\nIhm war nichts nah und fern, nichts klein und groß.",
+      "body": "「すべての人間の運命を自分の手足のように感じる」──宇宙的共感（Einfühlung）の描写。「近いも遠いも、小さいも大きいもない」は空間・規模の境界消滅。魔術師の感受性は个体の輪郭を超えて宇宙全体に及ぶ──ノヴァーリス『夜の讃歌』の「宇宙を感じる自我」の系譜。"
+    },
+    {
+      "paragraphId": 4,
+      "type": "prosody",
+      "anchor": "Und wie tief unten sich die Erde kühlte,\nDas Dunkel aus den Tiefen aufwärts drang,\nDie Nacht das Laue aus den Wipfeln wühlte,",
+      "body": "三行の並行的従属節（Und wie…Das Dunkel…Die Nacht…）が一つの主節「Genoß er…」に収束する長い文構造。感覚的事実の列挙が巨大な享受の対象として召喚される構文的壮麗さ。冷却・上昇する暗闇・梢のぬるみは夜の多感覚的描写。"
+    },
+    {
+      "paragraphId": 4,
+      "type": "commentary",
+      "anchor": "Genoß er allen Lebens großen Gang\nSo sehr – daß er in großer Trunkenheit\nSo wie ein Löwe über Klippen sprang.",
+      "body": "「獅子のように岩礁を跳び越える」──ニーチェ『ツァラトゥストラ』「精神の三つの変容」における最後の姿「子ども」の前段階「獅子」の形象と共鳴。陶酔（Trunkenheit）の中の跳躍はゲオルゲ「Kampf」の「Trunken von sonne und blut」の陶酔とも並走するが、こちらは敗北ではなく宇宙的解放。"
+    },
+    {
+      "paragraphId": 5,
+      "type": "commentary",
+      "anchor": "Cherub und hoher Herr ist unser Geist –\nWohnt nicht in uns, und in die obern Sterne\nSetzt er den Stuhl und läßt uns viel verwaist:",
+      "body": "コーダの哲学的転換。「智天使（Cherub）」──旧約の至高の天使（エゼキエル書1章・イザヤ6章）。精神（Geist）は人間の内部に住まわず、星々の高みに玉座を置く──超越的・疎遠な精神論。カントの超越論的自我、ヘルダーリンの「神々の遠さ」との連鎖。"
+    },
+    {
+      "paragraphId": 5,
+      "type": "commentary",
+      "anchor": "Doch Er ist Feuer uns im tiefsten Kerne\n– So ahnte mir, da ich den Traum da fand –\nUnd redet mit den Feuern jener Ferne\n\nUnd lebt in mir wie ich in meiner Hand.",
+      "body": "最終三行半の反転。超越的精神は同時に「最も深い核の中の火」──内在性と超越性の逆説的一致。「遠い炎と語らい合う」は詩人の内なる精神と宇宙的精神の交感。最終行「わたしの手の中にわたしが生きるように」──手と体の関係（部分と全体・道具と主体）が魂と精神の内在的関係の比喩として使われる。詩全体を宇宙論的・神秘主義的に締めくくる。"
+    }
+  ]
+}
