@@ -1,0 +1,160 @@
+{
+  "id": "george_widerchrist",
+  "title": "Der Widerchrist",
+  "author": "Stefan George",
+  "source": "Stefan George, Der siebente Ring, Blätter für die Kunst, Berlin, 1907, S. 56–57. テキスト底本: Wikisource (Der Widerchrist). 所収部門: Zeitgedichte（時詩篇）",
+  "year": "1907",
+  "firstPublication": "Der siebente Ring, Blätter für die Kunst, Berlin, 1907",
+  "difficulty": "上級",
+  "category": "george",
+  "originalLang": "de-DE",
+  "modernRelevance": "★★★★★",
+  "context": "『Der siebente Ring』「Zeitgedichte（時詩篇）」部門所収の27行詩（3行×9連）。反キリスト（Widerchrist）が一人称で語る劇的独白と、民衆の狂乱・終末の描写を組み合わせた黙示録的詩。三声部構造：①v.1-9 群衆の口（反キリストへの熱狂的崇拝の声）→反キリスト自身の冷笑、②v.10-18 反キリストの自己宣言（「天の業を何でも行う」「貯えられた力を吸い取る技」）、③v.19-27 帰結──反キリストの支配確立から民衆の破滅・ラッパの鳴り響く終末まで。ニーチェの「反キリスト」（1895年出版）、ヨハネ黙示録の獣、グノーシス的偽造者の像が重なる。v.3の閉じ引用符「‹」は群衆の発話の終わりを示す。",
+  "keywords": [
+    "反キリスト",
+    "Widerchrist",
+    "黙示録",
+    "偽預言者",
+    "終末",
+    "群衆の熱狂",
+    "ニーチェ反キリスト",
+    "posaune",
+    "Fürst des Geziefers",
+    "Der siebente Ring"
+  ],
+  "relatedTexts": [
+    "george_nietzsche",
+    "george_templer",
+    "george_dante_zeitgedicht"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "verses": "v.1-3",
+      "original": "Dort kommt er vom berge · dort steht er im hain!\nWir sahen es selber · er wandelt in wein\nDas wasser und spricht mit den toten.‹",
+      "provisionalTranslation": "あそこ、山から来る──あそこ、杜に立っている！\nわれら自ら見た──水を葡萄酒に変え、\n死者と語るのを。›"
+    },
+    {
+      "id": 2,
+      "verses": "v.4-6",
+      "original": "O könntet ihr hören mein lachen bei nacht:\nNun schlug meine stunde · nun füllt sich das garn ·\nNun strömen die fische zum hamen.",
+      "provisionalTranslation": "おお、夜のわたしの笑いを聞くことができたなら：\nいまわたしの時が打った、いま網が満ちていく──\nいま魚どもが漁籠へと流れ込む。"
+    },
+    {
+      "id": 3,
+      "verses": "v.7-9",
+      "original": "Die weisen die toren – toll wälzt sich das volk ·\nEntwurzelt die bäume · zerklittert das korn ·\nMacht bahn für den zug des Erstandnen.",
+      "provisionalTranslation": "賢者も愚者も──民衆は狂ってのたうち回り、\n木々を根こそぎにし、穀物を薙ぎ倒し、\n復活者の行列のために道を開ける。"
+    },
+    {
+      "id": 4,
+      "verses": "v.10-12",
+      "original": "Kein werk ist des himmels das ich euch nicht tu.\nEin haarbreit nur fehlt und ihr merkt nicht den trug\nMit euren geschlagenen sinnen.",
+      "provisionalTranslation": "天の業でわたしがお前たちにできないものは何ひとつない。\n髪の毛一本ほどしか足りないのに、お前たちは欺きに気づかない──\n打ちのめされた感覚のお前たちには。"
+    },
+    {
+      "id": 5,
+      "verses": "v.13-15",
+      "original": "Ich schaff euch für alles was selten und schwer\nDas Leichte · ein ding das wie gold ist aus lehm ·\nWie duft ist und saft ist und würze –",
+      "provisionalTranslation": "稀少で困難なものすべてに代わって、わたしはお前たちに\n軽いものを作ってやる──粘土から金のようなものを、\n香りのようで、汁のようで、薬味のようなものを──"
+    },
+    {
+      "id": 6,
+      "verses": "v.16-18",
+      "original": "Und was sich der grosse profet nicht getraut:\nDie kunst ohne roden und säen und baun\nZu saugen gespeicherte kräfte.",
+      "provisionalTranslation": "そして偉大な預言者でさえあえてしなかったことを：\n根を切ることも、種を蒔くことも、建てることもなく、\n貯えられた力を吸い取る術を。"
+    },
+    {
+      "id": 7,
+      "verses": "v.19-21",
+      "original": "Der Fürst des Geziefers verbreitet sein reich ·\nKein schatz der ihm mangelt · kein glück das ihm weicht ..\nZu grund mit dem rest der empörer!",
+      "provisionalTranslation": "害虫の君主は自らの国を広げる──\n欠けている宝はなく、遠ざかる幸福もない……\n残りの反逆者どもを根絶やしにしろ！"
+    },
+    {
+      "id": 8,
+      "verses": "v.22-24",
+      "original": "Ihr jauchzet · entzückt von dem teuflischen schein ·\nVerprasset was blieb von dem früheren seim\nUnd fühlt erst die not vor dem ende.",
+      "provisionalTranslation": "お前たちは歓呼する──悪魔的な輝きに魅了されて──\n以前の蜜の残りを浪費し、\n終わりの前にはじめて窮乏を感じる。"
+    },
+    {
+      "id": 9,
+      "verses": "v.25-27",
+      "original": "Dann hängt ihr die zunge am trocknenden trog ·\nIrrt ratlos wie vieh durch den brennenden hof ..\nUnd schrecklich erschallt die posaune.",
+      "provisionalTranslation": "そのときお前たちは乾きゆく飼い葉桶に舌を垂らし、\n燃える庭を家畜のように途方もなく彷徨う……\nそして恐ろしくラッパが鳴り響く。"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "Dort kommt er vom berge · dort steht er im hain!\nWir sahen es selber · er wandelt in wein\nDas wasser und spricht mit den toten.‹",
+      "body": "v.1-3は群衆の興奮した直接話法。閉じ引用符「‹」（v.3末）でその発話が終わる。内容はキリストの奇跡（カナの婚礼：水を葡萄酒に──ヨハネ2章、死者との語らい──ラザロ：ヨハネ11章）の反キリストによる模倣。黙示録13章13-14節「大きな奇跡を行い…地に住む者を惑わす」に対応。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "O könntet ihr hören mein lachen bei nacht:",
+      "body": "v.4から詩の「わたし」は反キリスト自身に転換する。「夜の笑い」──観客には聞こえない冷笑的な哄笑。劇的独白の開始。ニーチェ『反キリスト』（Der Antichrist, 1895）との対比：ニーチェは反キリストを英雄的批判者として捉えたが、ゲオルゲは欺瞞的模倣者として描く。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "glossary",
+      "anchor": "nun füllt sich das garn ·\nNun strömen die fische zum hamen.",
+      "body": "「網（Garn）」と「漁籠（Hamen）」──福音書のペテロへの召命「人間を漁る漁師」（マタイ4:19）の悪魔的転用。反キリストが使徒たちの漁の比喩を横領し、魂を罠にかける。"
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "Macht bahn für den zug des Erstandnen.",
+      "body": "「Erstandner（復活者）」──反キリストが偽りの復活者として群衆に迎えられる。イエスのエルサレム入城（マタイ21章）のパロディ。民衆が木々を切り倒して道を開けるのは、棕梠の枝を敷く入城場面の歪曲。"
+    },
+    {
+      "paragraphId": 4,
+      "type": "commentary",
+      "anchor": "Ein haarbreit nur fehlt und ihr merkt nicht den trug\nMit euren geschlagenen sinnen.",
+      "body": "「髪の毛一本ほどの差」──本物のキリストの奇跡と反キリストの模倣の差は髪の毛一本。しかし「打ちのめされた感覚（geschlagene sinnen）」の群衆には見分けられない。ゲオルゲ時代批判の核心：近代的人間は感覚を喪失している。"
+    },
+    {
+      "paragraphId": 5,
+      "type": "commentary",
+      "anchor": "Ich schaff euch für alles was selten und schwer\nDas Leichte · ein ding das wie gold ist aus lehm ·",
+      "body": "反キリストの「奇跡」の正体：困難・希少なものを安易なもの（粘土から作った金もどき）に置き換える。ゲオルゲの文明批判──工業化・大量生産・贋物の文化への糾弾。「粘土から金」は錬金術の失敗の比喩でもある。"
+    },
+    {
+      "paragraphId": 6,
+      "type": "commentary",
+      "anchor": "Und was sich der grosse profet nicht getraut:\nDie kunst ohne roden und säen und baun\nZu saugen gespeicherte kräfte.",
+      "body": "「偉大な預言者でさえしなかったこと」──キリストは食を奇跡で与えつつも農業・建築の労働を否定しなかった（「働かない者は食べるな」：テサロニケ後書3:10）。反キリストは労働なき収奪──「貯えられた力を吸い取る術」──を提供する。資本主義・寄生的経済への暗示。"
+    },
+    {
+      "paragraphId": 7,
+      "type": "glossary",
+      "anchor": "Der Fürst des Geziefers",
+      "body": "「害虫の君主（Fürst des Geziefers）」──「ゲジーファー（Geziefer）」は害虫・寄生虫の総称。カフカ『変身』（1915年）に先行するゲオルゲの使用。悪魔的支配者の称号として、「Beelzebub（バアル・ゼブブ：蝿の王）」の意味変奏でもある。"
+    },
+    {
+      "paragraphId": 7,
+      "type": "prosody",
+      "anchor": "Kein schatz der ihm mangelt · kein glück das ihm weicht ..",
+      "body": "二重の否定的並置（Kein…Kein）による反語的万能感。中黒点「·」と二重点「..」の組み合わせで沈黙・不気味な省略を示す。3行連の中間行（偶数行）が奇数行と脚韻を踏む変則的なパターン（hain/wein, nacht/garn, volk/korn）がここでは reich/weicht で維持される。"
+    },
+    {
+      "paragraphId": 8,
+      "type": "commentary",
+      "anchor": "Verprasset was blieb von dem früheren seim",
+      "body": "「以前の蜜の残りを浪費する」──「seim（蜜・糖蜜）」は過去の文化的・精神的遺産の比喩。「浪費（verprasset）」はその散逸。反キリストの支配下で人々は貯えを食い尽くし、自らの文明的遺産を無自覚に消費する。"
+    },
+    {
+      "paragraphId": 9,
+      "type": "commentary",
+      "anchor": "Dann hängt ihr die zunge am trocknenden trog ·\nIrrt ratlos wie vieh durch den brennenden hof ..",
+      "body": "終末的情景：乾いた飼い葉桶（聖書的：ベツレヘムの飼い葉桶の逆転）と燃える庭。人間が家畜に退化する。出エジプト記の疫病・黙示録の地獄の炎が重なる。"
+    },
+    {
+      "paragraphId": 9,
+      "type": "glossary",
+      "anchor": "Und schrecklich erschallt die posaune.",
+      "body": "「ラッパ（Posaune）」──黙示録8-11章の七つのラッパ、最後の審判の召喚。ヘンデル『メサイア』「ラッパは鳴り響く」（The trumpet shall sound）とも共鳴する。詩全体を通じて模倣されてきたキリスト論的図式が、ここで本物の終末──反キリストへの審判──として完結する。"
+    }
+  ]
+}
