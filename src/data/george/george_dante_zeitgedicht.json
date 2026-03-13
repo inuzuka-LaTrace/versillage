@@ -1,0 +1,124 @@
+{
+  "id": "george_dante_zeitgedicht",
+  "title": "Dante und das Zeitgedicht",
+  "author": "Stefan George",
+  "source": "Stefan George, Der siebente Ring, Georg Bondi, Berlin, 1907. テキスト底本: Wikisource (Dante und das Zeitgedicht). 所収部門: Zeitgedichte（時詩篇）冒頭作",
+  "year": "1907",
+  "firstPublication": "Der siebente Ring, Georg Bondi, Berlin, 1907",
+  "difficulty": "上級",
+  "category": "george",
+  "originalLang": "de-DE",
+  "modernRelevance": "★★★★☆",
+  "context": "ゲオルゲの第七詩集『Der siebente Ring』（1907）の「Zeitgedichte（時詩篇）」部門冒頭に置かれた32行のソネット形式拡張詩。詩の「私」（ゲオルゲ自身）がダンテの声を借り、あるいはダンテと同一化して語る。三部構成：①v.1-5 ダンテの恋（ベアトリーチェへの愛と苦悶の青年期）、②v.6-24 ダンテの政治的受難（フィレンツェ追放・流浪・『神曲』地獄篇の成立）、③v.25-32 天国篇の創作と批評への反駁（「愚者よ！」）。ゲオルゲにとってダンテは詩人-予言者の原型であり、ドイツ精神の刷新を試みる自らの立場の先行者として召喚される。独自の表記法（小文字・中黒点 · による息継ぎ指示）はゲオルゲの全作品に一貫する。",
+  "keywords": [
+    "ダンテ",
+    "ベアトリーチェ",
+    "フィレンツェ追放",
+    "神曲",
+    "地獄篇",
+    "天国篇",
+    "詩人予言者",
+    "時詩篇",
+    "ゲオルゲ表記法",
+    "Der siebente Ring"
+  ],
+  "relatedTexts": [
+    "dante_inferno_canto_5",
+    "hoelderlin_brot_und_wein"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "verses": "v.1-5",
+      "original": "Als ich am torgang zitternd niedersank\nBeim anblick der Holdseligsten · von gluten\nVerzehrt die bittren nächte sann · der freund\nMitleidig nach mir sah · ich nur noch hauchte\nDurch ihre huld und durch mein lied an sie:",
+      "provisionalTranslation": "わたしが門の前に震えながら崩れ落ちたとき、\nあの最もいとしき人を見た瞬間に、炎に\n焼き尽くされながら苦い夜々を思いに沈み、友が\n憐れみをもってわたしを見守っていたとき、わたしはただ息するばかり──\n彼女の恵みと、彼女に捧げたわたしの歌によってのみ："
+    },
+    {
+      "id": 2,
+      "verses": "v.6-16",
+      "original": "War ich den menschen spott die nie erschüttert\nDass wir so planen minnen klagen – wir\nVergängliche als ob wir immer blieben.\nIch wuchs zum mann und mich ergriff die schmach\nVon stadt und reich verheert durch falsche führer ...\nWo mir das heil erschien kam ich zu hilfe\nMit geist und gut und focht mit den verderbern.\nZum lohn ward ich beraubt verfehmt und irre\nEin bettler jahrelang an fremde türen\nAufs machtgebot von tollen – sie gar bald\nNur namenloser staub indess ich lebe.",
+      "provisionalTranslation": "わたしは人々の笑い種だった──偽りの指導者たちに\n荒らされた都市と国の恥辱に捕らわれた。\nわれら束の間の命なのに、まるで永遠に留まるかのごとく\n計画し、愛し、嘆く──そんなわれらに揺るがされることなく。\nわたしは男として育ち、都と国が\n偽りの指導者どもに荒廃させられる恥辱にとらわれた。\n救いの見えるところではいつも加勢した──\n精神と財をもって、破壊者たちと戦った。\n報いとして、わたしは奪われ、追放され、さ迷い歩き、\n狂人どものお触れにより、長年の乞食として\n見知らぬ扉に佇んだ──彼らはやがて\nただの名もない塵となる、わたしはまだ生きているのに。"
+    },
+    {
+      "id": 3,
+      "verses": "v.17-24",
+      "original": "Als dann mein trüber vielverschlagner lauf ·\nMein schmerz ob unsrer selbstgenährten qualen ·\nMein zorn auf lasse niedre und verruchte\nIn form von erz gerann: da horchten viele\nSobald ihr grauen schwand dem wilden schall\nUnd ob auch keiner glut und klaue fühlte\nDurchs eigne herz: es schwoll von Etsch bis Tiber\nDer ruhm zum sitz des fried- und heimatlosen.",
+      "provisionalTranslation": "そのとき、わたしの暗く打ちのめされた遍歴が、\nわれら自ら育んだ苦悩へのわたしの痛みが、\n怠惰で卑劣で堕落した者どもへのわたしの怒りが\n青銅の形に凝り固まった：そのとき多くの者が耳を澄ました──\n野性の響きへの怖れが薄れると同時に。\n誰も自らの心を通して\n炎と鉤爪を感じなかったとしても：エッチュからティベルへと\n名声は膨らんだ、平和も故郷も持たぬ者の座へと向かって。"
+    },
+    {
+      "id": 4,
+      "verses": "v.25-32",
+      "original": "Doch als ich drauf der welt entfloh · die auen\nDer Seligen sah · den chor der engel hörte\nUnd solches gab: da zieh man meine harfe\nGeschwächten knab- und greisentons .. o toren!\nIch nahm aus meinem herd ein scheit und blies –\nSo ward die hölle · doch des vollen feuers\nBedurft ich zur bestrahlung höchster liebe\nUnd zur verkündigung von sonn und stern.",
+      "provisionalTranslation": "しかしそののち、わたしが世を離れ、至福者たちの\n野を見、天使の合唱を聴き、\nそれを与えたとき：わたしの竪琴を非難する声があがった──\n少年じみた、老耄のような弱々しい音だと……愚者どもよ！\nわたしは自らの炉から一本の薪を取り出し、吹いた──\nかくして地獄は生まれた。だが最高の愛を照らし出し、\n太陽と星々を告げ知らせるには、\n炉の炎の全力が必要だったのだ。"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "Als ich am torgang zitternd niedersank\nBeim anblick der Holdseligsten",
+      "body": "ダンテ『新生』（Vita Nuova, 1294頃）第2章の場面を召喚。9歳のダンテが初めてベアトリーチェを見た瞬間の「trembling」「spirit of life」の記述に対応。ゲオルゲの詩はダンテその人の一人称として語られる。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "glossary",
+      "anchor": "Holdseligsten",
+      "body": "最上級形容詞「最もいとしく恵み深き者」。ダンテのベアトリーチェを指す。ゲオルゲはベアトリーチェをMax Dauthendeyのような現実の女性像と重ねることなく、純粋な霊的中心として扱う。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "prosody",
+      "anchor": "von gluten\nVerzehrt die bittren nächte sann · der freund\nMitleidig nach mir sah · ich nur noch hauchte",
+      "body": "ゲオルゲ固有の表記法：中黒点「·」は息継ぎ（ポーズ）の指示。印刷上の句読点を廃した小文字表記と合わせ、朗読のリズムを楽譜のように指定する。テルツィーネ（三行連句）的な連鎖感がある。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "Von stadt und reich verheert durch falsche führer ...",
+      "body": "1302年のフィレンツェ追放を指す。ダンテはグエルフ党内の党争（黒党 vs 白党）に巻き込まれ、財産没収・永久追放を宣告された。「falsche führer（偽の指導者）」はゲオルゲ自身の時代批判と二重写しになる。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "Zum lohn ward ich beraubt verfehmt und irre\nEin bettler jahrelang an fremde türen",
+      "body": "追放後のダンテの流浪（1302-1321）。ヴェローナのスカラ家、ラヴェンナのポレンタ家などの庇護を受けながら各地を転々とした。ダンテ自身『神曲』天国篇17歌でカッチャグイーダの口を借りてこの放浪を予言させている。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "intertextual",
+      "anchor": "sie gar bald\nNur namenloser staub indess ich lebe.",
+      "body": "ダンテ『神曲』地獄篇3歌「これらの者どもは何者か…名を残す価値もない」の反転。追放者・迫害者の記憶は消え、詩人だけが生き残るという逆説。",
+      "relatedTexts": ["dante_inferno_canto_5"]
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "In form von erz gerann: da horchten viele",
+      "body": "「青銅の形に凝り固まった」──詩の誕生を鋳造の比喩で語る。苦悩・怒りが抒情詩ではなく『神曲』地獄篇（Inferno）という恒久的な記念碑として結晶した瞬間を指す。"
+    },
+    {
+      "paragraphId": 3,
+      "type": "glossary",
+      "anchor": "von Etsch bis Tiber",
+      "body": "エッチュ川（アディジェ川、ヴェローナを流れる）からティベル川（ローマ）まで──イタリア北部から中部・南部にかけての全域。ダンテの名声の地理的広がりを示す。"
+    },
+    {
+      "paragraphId": 4,
+      "type": "commentary",
+      "anchor": "da zieh man meine harfe\nGeschwächten knab- und greisentons .. o toren!",
+      "body": "『神曲』天国篇（Paradiso）への批評への反駁。地獄篇の「力強さ」に対して天国篇が「弱い」という批判──ゲオルゲの時代にも見られた評価──をダンテの怒りとして退ける。「o toren!（愚者どもよ）」はゲオルゲ自身の声と重なる。"
+    },
+    {
+      "paragraphId": 4,
+      "type": "commentary",
+      "anchor": "Ich nahm aus meinem herd ein scheit und blies –\nSo ward die hölle",
+      "body": "詩的創造の核心的比喩：炉から取り出した薪に息を吹きかけることで地獄の炎が生まれた。技術的鍛錬と霊感の協働を示す。「吹いた（blies）」は詩人の息吹＝言語行為そのもの。"
+    },
+    {
+      "paragraphId": 4,
+      "type": "commentary",
+      "anchor": "doch des vollen feuers\nBedurft ich zur bestrahlung höchster liebe\nUnd zur verkündigung von sonn und stern.",
+      "body": "天国篇は地獄篇より「弱い」のではなく、より強い炎を必要とした──最高の愛（ベアトリーチェ＝神的愛）を照らし、「太陽と星々」（神曲末尾の「l'amor che move il sole e l'altre stelle」）を告げるために。ゲオルゲはここで詩人の使命を予言者＝光の運び手として定義する。"
+    }
+  ]
+}
