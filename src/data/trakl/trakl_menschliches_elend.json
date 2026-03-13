@@ -1,0 +1,130 @@
+{
+  "id": "trakl_menschliches_elend",
+  "title": "Menschliches Elend",
+  "author": "Georg Trakl",
+  "source": "Georg Trakl, Gedichte, Kurt Wolff Verlag, Leipzig, 1913, S. 54. テキスト底本: Wikisource (Menschliches Elend).",
+  "year": "1913",
+  "firstPublication": "Gedichte, Kurt Wolff Verlag, Leipzig, 1913",
+  "difficulty": "上級",
+  "category": "trakl",
+  "originalLang": "de-DE",
+  "modernRelevance": "★★★★★",
+  "context": "トラークル第一詩集『Gedichte』（1913）所収の24行詩。ABBA×6連の拡張ソネット形式。「人間の悲惨」という普遍的題名のもとに、互いに論理的連結を持たない断片的情景が羅列されるモンタージュ手法。日没前の5時の時計の打音から始まり──死者の顔、川の船、気絶した少女、腐肉に群がる蠅、熱病の闇に漂うパンの香り、骨が透ける廃墟、殺人者の部屋、夢想家と犬、空の棺、月桂冠の貴人──まで、互いに無関係な「人間の悲惨」の断片が連なる。この共時的・非因果的並置はボードレール『悪の華』の「巴里情景」、リルケの『マルテの手記』の都市の恐怖と呼応し、のちの表現主義的コラージュを先取りする。最終行の「月桂冠の貴人の白い鬢」は悲惨の中に孤立する高貴さの逆説的な閉じ方。",
+  "keywords": [
+    "モンタージュ",
+    "人間の悲惨",
+    "Vielleicht",
+    "夕暮れ",
+    "拡張ソネット",
+    "断片的情景",
+    "Azrael",
+    "腐肉",
+    "熱病",
+    "月桂冠"
+  ],
+  "relatedTexts": [
+    "trakl_rosenkranzlieder",
+    "george_tote_stadt",
+    "george_widerchrist"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "verses": "v.1-4",
+      "original": "Die Uhr, die vor der Sonne fünfe schlägt –\nEinsame Menschen packt ein dunkles Grausen,\nIm Abendgarten kahle Bäume sausen.\nDes Toten Antlitz sich am Fenster regt.",
+      "provisionalTranslation": "日没前に5時を打つ時計──\n孤独な人々を暗い戦慄が掴む、\n夕べの庭では裸の木々が風に唸る。\n死者の顔が窓辺で動く。"
+    },
+    {
+      "id": 2,
+      "verses": "v.5-8",
+      "original": "Vielleicht, daß diese Stunde stille steht.\nVor trüben Augen blaue Bilder gaukeln\nIm Takt der Schiffe, die am Flusse schaukeln.\nAm Kai ein Schwesternzug vorüberweht.",
+      "provisionalTranslation": "おそらく、この時刻は静止しているのだろう。\n曇った目の前に青い映像がふらつく、\n川で揺れる船のリズムに合わせて。\n波止場に修道女たちの列がすっと通り過ぎる。"
+    },
+    {
+      "id": 3,
+      "verses": "v.9-12",
+      "original": "Im Hasel spielen Mädchen blaß und blind,\nWie Liebende, die sich im Schlaf umschlingen.\nVielleicht, daß um ein Aas dort Fliegen singen,\nVielleicht auch weint im Mutterschoß ein Kind.",
+      "provisionalTranslation": "榛の木の下で少女たちが青白く盲目に遊ぶ、\n眠りながら抱き合う恋人たちのように。\nおそらく、腐肉の周りで蠅たちが歌っているのだろう、\nおそらく、母の胎内で子が泣いてもいるのだろう。"
+    },
+    {
+      "id": 4,
+      "verses": "v.13-16",
+      "original": "Aus Händen sinken Astern blau und rot,\nDes Jünglings Mund entgleitet fremd und weise;\nUnd Lider flattern angstverwirrt und leise;\nDurch Fieberschwärze weht ein Duft von Brot.",
+      "provisionalTranslation": "手から青と赤のアスターが沈み落ちていく、\n若者の口は疎遠に、賢しげに滑り落ちていく；\nそして瞼が恐れに混乱し静かにはためく；\n熱病の暗闇を通してパンの香りが漂う。"
+    },
+    {
+      "id": 5,
+      "verses": "v.17-20",
+      "original": "Es scheint, man hört auch gräßliches Geschrei;\nGebeine durch verfallne Mauern schimmern.\nEin böses Herz lacht laut in schönen Zimmern;\nAn einem Träumer läuft ein Hund vorbei.",
+      "provisionalTranslation": "恐ろしい叫びも聞こえるようだ；\n崩れた壁を通して骸骨が光を透かす。\n美しい部屋の中で悪い心が大きく笑う；\n夢想家のそばを一匹の犬が走り過ぎる。"
+    },
+    {
+      "id": 6,
+      "verses": "v.21-24",
+      "original": "Ein leerer Sarg im Dunkel sich verliert.\nDem Mörder will ein Raum sich bleich erhellen,\nIndes Laternen nachts im Sturm zerschellen.\nDes Edlen weiße Schläfe Lorbeer ziert.",
+      "provisionalTranslation": "空の棺が闇の中に消えていく。\n殺人者には一つの部屋が青白く明るくなろうとする、\nその間に街灯が嵐の夜に砕け散る。\n高貴な者の白い鬢を月桂冠が飾る。"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "Die Uhr, die vor der Sonne fünfe schlägt –",
+      "body": "「日没前の5時」──夕暮れのまさに直前の時刻。時計の打音が詩全体の時間的枠組みを設定する。「vor der Sonne（日没前）」は太陽が沈む前の最後の時間。トラークル詩において「Abend（夕暮れ）」は生と死の閾値の時刻として繰り返し現れる（→trakl_rosenkranzlieder §2「O der Abend」）。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "Des Toten Antlitz sich am Fenster regt.",
+      "body": "死者の顔が窓辺で動く──幻視の突然の挿入。「regt（動く）」という現在形が幽霊的な動きの不気味さを現前させる。窓は内部（室内）と外部（庭・世界）の境界線。死者が窓に現れることで内外・生死の境界が溶解する。論理的説明なしに挿入される幻視はトラークルのモンタージュ詩法の基本単位。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "prosody",
+      "anchor": "Vielleicht, daß diese Stunde stille steht.",
+      "body": "「Vielleicht（おそらく・たぶん）」──v.5, v.11, v.12と3回反復される。断定を避ける様態副詞が詩全体に夢と現実の不確定性を与える。確信ではなく「おそらくこうかもしれない」という曖昧な視線が詩を観察的記録ではなく幻視的彷徨にする。ABBA韻律：steht/weht（A）– gaukeln/schaukeln（B）。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "Am Kai ein Schwesternzug vorüberweht.",
+      "body": "「修道女たちの列（Schwesternzug）」──病院や修道院の看護修道女の行列。「vorüberweht（通り過ぎる・吹き過ぎる）」の動詞は気流のような一瞬の通過を示す。波止場という世俗的空間に宗教的行列が現れる対比。→trakl_rosenkranzlieder §1「妹（Schwester）」との語彙的連鎖も意識的。"
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "Im Hasel spielen Mädchen blaß und blind,\nWie Liebende, die sich im Schlaf umschlingen.\nVielleicht, daß um ein Aas dort Fliegen singen,",
+      "body": "榛の木の下の少女→眠りながら抱き合う恋人→腐肉の周りの蠅──三つの情景が因果関係なく並置される。純潔（少女の遊び）・エロス（恋人の抱擁）・腐敗（蠅と腐肉）が同一の「Vielleicht（おそらく）」の下に等価として並ぶ。美と腐敗の共存はボードレール「腐肉（Une Charogne）」の直接的先行。"
+    },
+    {
+      "paragraphId": 4,
+      "type": "glossary",
+      "anchor": "Aus Händen sinken Astern blau und rot,",
+      "body": "「アスター（Astern）」──秋の花。ギリシャ語「星（aster）」に由来し、トラークルにとって死・秋・終末の花。ゴットフリート・ベン（1912年）の同名詩「Astern」と並んで表現主義的死の花の代表的形象。「手から沈み落ちる」──死の瞬間の手の弛緩。"
+    },
+    {
+      "paragraphId": 4,
+      "type": "commentary",
+      "anchor": "Durch Fieberschwärze weht ein Duft von Brot.",
+      "body": "「熱病の暗闇（Fieberschwärze）」──複合名詞による感覚の融合（熱の感触＋視覚的暗黒）。「パンの香りが漂う（weht ein Duft von Brot）」──病の暗闇に日常的な食物の香りが差し込む逆説的対比。「Brot（パン）」はキリスト教的聖体・日常の生命維持・ホルダーリン「パンとワイン」的な神聖な日常の象徴と重層する。"
+    },
+    {
+      "paragraphId": 5,
+      "type": "commentary",
+      "anchor": "Gebeine durch verfallne Mauern schimmern.\nEin böses Herz lacht laut in schönen Zimmern;\nAn einem Träumer läuft ein Hund vorbei.",
+      "body": "三行の急速な場面転換──崩れた壁の骸骨→美しい部屋の邪悪な笑い→夢想家と犬。論理的つながりを持たない情景の並置がこの詩の中心的技法。「böses Herz lacht laut in schönen Zimmern（悪い心が美しい部屋で笑う）」の内外の対比は→george_tote_stadt「偽りの虚飾」と同じ文明批評的視線。"
+    },
+    {
+      "paragraphId": 6,
+      "type": "commentary",
+      "anchor": "Ein leerer Sarg im Dunkel sich verliert.\nDem Mörder will ein Raum sich bleich erhellen,",
+      "body": "「空の棺」──死者のいない棺は死を先取りするか、あるいはすでに死者が去った後の空虚。「殺人者には部屋が青白く明るくなろうとする（will…sich erhellen）」──意志的な動詞「will」が部屋の主体性を示す。光が殺人者に向けて現れる逆説──罪の露見、あるいは死の部屋の幻光。"
+    },
+    {
+      "paragraphId": 6,
+      "type": "commentary",
+      "anchor": "Des Edlen weiße Schläfe Lorbeer ziert.",
+      "body": "詩の最終行──「高貴な者の白い鬢を月桂冠が飾る」。24行にわたる悲惨の断片群が、突然この一行の古典的・英雄的形象で閉じられる。「Edler（高貴な者）」「Lorbeer（月桂冠）」「weiße Schläfe（白い鬢）」──ローマ・古典的な勝利と老齢の尊厳の組み合わせ。悲惨の中に孤立する「高貴さ」の逆説的最終和音。整然としたABBA韻（verliert/ziert – erhellen/zerschellen）が詩を形式的に閉じる。"
+    }
+  ]
+}
