@@ -1,0 +1,107 @@
+{
+  "id": "george_kampf",
+  "title": "Der Kampf",
+  "author": "Stefan George",
+  "source": "Stefan George, Der siebente Ring, Blätter für die Kunst, Berlin, 1907, S. 36–37. テキスト底本: Wikisource (Der Kampf, Stefan George). 所収部門: Zeitgedichte（時詩篇）",
+  "year": "1907",
+  "firstPublication": "Der siebente Ring, Blätter für die Kunst, Berlin, 1907",
+  "difficulty": "中級",
+  "category": "george",
+  "originalLang": "de-DE",
+  "modernRelevance": "★★★★☆",
+  "context": "『Der siebente Ring』「Zeitgedichte（時詩篇）」部門所収の28行詩。一人称の語り手が「美しい巻き毛の神（schönlockigen gott）」と格闘し、敗北する劇的独白。冒頭「太陽と血に酔いしれて（Trunken von sonne und blut）」が末尾（v.27）に反響する環状構造。神との格闘はヤコブとの闘い（創世記32章）を原型とするが、ゲオルゲはそれを逆転させる──ヤコブは祝福を得て生き残るが、ここでは語り手が「恥辱の死（ruhmlosen tod）」へと沈んでいく。「美の神（アポロン的存在）」の光──「瞳から放たれる光」（v.16）──が暴力的な闘士を圧倒する。v.12の「子ども（ein kind）」という転換が詩の核心：敵は恐るべき戦士ではなく、踊り、歌う無防備な子どものようなものだった──それでも語り手は敗れる。美・光・歌の前に肉体的暴力は無力。",
+  "keywords": [
+    "格闘",
+    "美の神",
+    "光",
+    "schönlockiger gott",
+    "ヤコブの格闘",
+    "敗北",
+    "環状構造",
+    "子ども",
+    "アポロン",
+    "Der siebente Ring"
+  ],
+  "relatedTexts": [
+    "george_rosen",
+    "george_nietzsche",
+    "george_dante_zeitgedicht"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "verses": "v.1-7",
+      "original": "Trunken von sonne und blut\nStürm ich aus felsigem haus ·\nLaur ich in duftender flur\nAuf den schönlockigen gott\nDer mit dem tanzenden schritt\nDer mit dem singenden mund\nIn meiner gruft mich verhöhnt.",
+      "provisionalTranslation": "太陽と血に酔いしれて\nわたしは岩の家から突進し、\n香り漂う野に潜んで待ち伏せる、\n美しい巻き毛の神を──\n踊る足取りで、\n歌う口で\nわたしの墓穴の中でわたしを嘲る神を。"
+    },
+    {
+      "id": 2,
+      "verses": "v.8-14",
+      "original": "Heute kenn er die wut\nDie sich aus tiefen gebiert!\nMeine umklammernde faust\nWürgt seinen rosigen leib.\nSieh wie er schreitet · ein kind!\nWeg mit der keule – ein griff\nSenkt den gehassten zu grund.",
+      "provisionalTranslation": "今日こそ彼は知るだろう、\n深みから生まれる怒りを！\nわたしの締めつける拳が\n彼の薔薇色の体を絞め上げる。\n見よ、どう歩んでいるか──子どものように！\n棍棒など要らない──一つの掴みで\n憎まれた者を地に沈める。"
+    },
+    {
+      "id": 3,
+      "verses": "v.15-23",
+      "original": "Wahre dich! ... Weh mir · wie trifft\nAus seinem auge mich licht!\nDrunten im höhlengefecht\nDunkel rauchender glut\nWar ich sieger der schar ...\nHalte Feiger den blitz ·\nZeig mit dem arm deinen mut!\nWeh! sie kämpfen mit licht.\nDen er fasset der fällt.",
+      "provisionalTranslation": "身を守れ！……ああわたしよ──どれほど深く打つのか、\n彼の瞳からわたしを射る光が！\n洞窟での戦いの中では\n暗く煙る炎の下で\nわたしは群れの勝者だった……\n臆病者よ、稲妻を受け止めてみせろ──\n腕で勇気を示せ！\nああ！　彼らは光で戦う。\n彼が掴む者は倒れる。"
+    },
+    {
+      "id": 4,
+      "verses": "v.24-28",
+      "original": "Stampfend sezt er den fuss\nAuf meine keuchende brust.\nLächelnd singt er sein lied ...\nTrunken von sonne und blut\nSink ich in ruhmlosen tod.",
+      "provisionalTranslation": "踏みしめながら彼は足を置く\nわたしの喘ぐ胸の上に。\n微笑みながら彼は歌を歌う……\n太陽と血に酔いしれたまま\nわたしは恥辱の死へと沈んでいく。"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "Trunken von sonne und blut\nStürm ich aus felsigem haus ·",
+      "body": "冒頭句「太陽と血に酔いしれて」が末尾v.27に逐語的に回帰する環状構造（Ringkomposition）。開始時の陶酔的攻撃衝動が、敗北後の同じ句で「恥辱の死」の中で完結する──同じ状態が勝利への出発点でも敗北の結末でもある逆説。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "glossary",
+      "anchor": "Auf den schönlockigen gott\nDer mit dem tanzenden schritt\nDer mit dem singenden mund",
+      "body": "「美しい巻き毛の神（schönlockigen gott）」──アポロンの定型的形象（「輝かしい髪の神」ホメロス讃歌）。踊る足取りと歌う口はディオニュソス的属性とも重なり、美と芸術の神格的総体を表す。「わたしの墓穴で嘲る」は語り手の暗い地下空間と神の光の世界の対比を先取りする。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "Sieh wie er schreitet · ein kind!\nWeg mit der keule – ein griff",
+      "body": "詩の転換点。「子ども（ein kind）」という認識が来るが、それでも攻撃を止めない。「棍棒など要らない」──子どもに棍棒は不要、素手で十分だという嘲弄的自信。しかしこの自信過剰がまさに転落の前触れ。「ein kind」の短い挿入が恐怖と驚愕の混じった停止を示す。"
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "Wahre dich! ... Weh mir · wie trifft\nAus seinem auge mich licht!",
+      "body": "決定的転換：「身を守れ！」という自己命令の直後に「瞳から放たれる光」に打たれる。「...」（省略符）と中黒点「·」による劇的な間。光は美の神の武器──視線そのものが打撃となる。プラトン『饗宴』のエロス的打撃・ペトラルカのラウラの瞳の矢との詩的連鎖。"
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "Drunten im höhlengefecht\nDunkel rauchender glut\nWar ich sieger der schar ...",
+      "body": "「洞窟での戦い・暗く煙る炎」──語り手の過去の勝利の空間は地下・暗闇・物質的力の領域。「群れの勝者（sieger der schar）」だった──しかしそれは光のない暗い世界での勝利に過ぎなかった。プラトンの洞窟の比喩（『国家』VII）との暗示的連関。"
+    },
+    {
+      "paragraphId": 3,
+      "type": "intertextual",
+      "anchor": "Weh! sie kämpfen mit licht.\nDen er fasset der fällt.",
+      "body": "「彼らは光で戦う」──創世記32章のヤコブと天使の格闘の逆転。ヤコブは神と格闘して「イスラエル」の名を得て勝利するが（32:28）、ここでは光の神との格闘に語り手は敗れる。「掴む者は倒れる」は逆説的──通常は掴む者が勝者だが、神を掴もうとする者こそが倒れる。",
+      "relatedTexts": ["george_dante_zeitgedicht"]
+    },
+    {
+      "paragraphId": 4,
+      "type": "commentary",
+      "anchor": "Stampfend sezt er den fuss\nAuf meine keuchende brust.\nLächelnd singt er sein lied ...",
+      "body": "「踏みしめながら胸の上に足を置く」──古代の勝者が敗者の首・胸を踏む凱旋のポーズ（ローマの凱旋式・古代エジプト壁画）。しかし「微笑みながら歌を歌う」──神は憎しみや怒りではなく、微笑みと歌で勝利する。美の絶対的優位の表現。"
+    },
+    {
+      "paragraphId": 4,
+      "type": "prosody",
+      "anchor": "Trunken von sonne und blut\nSink ich in ruhmlosen tod.",
+      "body": "冒頭v.1「Trunken von sonne und blut」の逐語的回帰。v.2の「Stürm ich（わたしは突進する）」がv.28では「Sink ich（わたしは沈む）」に置き換わる──同一の酔いしれた状態が、上昇から下降へと反転する。「ruhmlosen（恥辱の・不名誉な）」──英雄的死の対極としての消滅。詩全体を貫く音節律（4音節の短行）は讃歌・賦形式を連想させる。"
+    }
+  ]
+}
