@@ -1,0 +1,159 @@
+{
+  "id": "george_templer",
+  "title": "Templer",
+  "author": "Stefan George",
+  "source": "Stefan George, Der siebente Ring, Blätter für die Kunst, Berlin, 1907, S. 52–53. テキスト底本: Wikisource (Templer); ULB Düsseldorf所蔵原本校合済み. 所収部門: Zeitgedichte（時詩篇）",
+  "year": "1907",
+  "firstPublication": "Der siebente Ring, Blätter für die Kunst, Berlin, 1907",
+  "difficulty": "上級",
+  "category": "george",
+  "originalLang": "de-DE",
+  "modernRelevance": "★★★★☆",
+  "context": "『Der siebente Ring』「Zeitgedichte（時詩篇）」部門所収の36行詩。「テンプル騎士団（Templer）」を名乗る秘密の精神的貴族集団──「われら」──の自己定義と使命宣言。歴史的なテンプル騎士団（1119年創設、1312年教皇命令で解散・弾圧）を霊的原型として召喚しつつ、ゲオルゲ・クライスの精神的エリート主義を表明する。「薔薇」（内なる情熱）と「十字架」（受難の誇り）の紋章的対比（v.3-4）に始まり、群衆蔑視・聖なる暴力・子どもへの跪拝・仮面としての貧装（v.17-20）・乳母の胸での育ち（v.21-24）・「大いなる養育者（Nährerin）」への最終的奉仕（v.29-36）と展開する。最終二行「肉体を神化し神を肉化する」はゲオルゲ詩学における美（肉体）と精神（神）の相互変容の定式。",
+  "keywords": [
+    "テンプル騎士団",
+    "秘密結社",
+    "薔薇十字",
+    "ゲオルゲ・クライス",
+    "精神的貴族",
+    "大いなる養育者",
+    "肉体と神",
+    "聖なる暴力",
+    "仮面と変装",
+    "Der siebente Ring"
+  ],
+  "relatedTexts": [
+    "george_dante_zeitgedicht",
+    "george_nietzsche"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "verses": "v.1-4",
+      "original": "Wir eins mit allen nur in goldnem laufe –\nUndenkbar lang schied unsre schar der haufe ·\nWir Rose: innre jugendliche brunst\nWir Kreuz: der stolz ertragnen leiden kunst.",
+      "provisionalTranslation": "われらはただ黄金の走りにおいてのみ万人と一つ──\n想いも及ばぬ長きにわたり、われらの群れは大衆と分かたれてきた。\nわれらは薔薇：内なる若き情熱、\nわれらは十字架：耐え忍ばれた苦難の誇りの術。"
+    },
+    {
+      "id": 2,
+      "verses": "v.5-8",
+      "original": "Auf unbenamter bahn in karger stille\nDrehn wir den speer und drehn die dunkle spille.\nIn feiger zeit schreckt unsrer waffen loh'n ·\nWir geisseln volk und schlagen lärm am tron.",
+      "provisionalTranslation": "名のない道の上、乏しき静寂の中で\nわれらは槍を回し、暗い糸巻きを回す。\n臆病な時代にはわれらの武器の炎が怖れを成さしめ、\nわれらは民を鞭打ち、玉座の前で喧騒を打ち鳴らす。"
+    },
+    {
+      "id": 3,
+      "verses": "v.9-12",
+      "original": "Wir folgen nicht den sitten und den spielen\nDer andren die voll argwohn nach uns schielen\nUnd grauen wenn ihr hass nicht übermannt\nWas unser wilder sturm der liebe bannt.",
+      "provisionalTranslation": "われらは他の者どもの風習や遊びに従わない──\n疑いの目でわれらを盗み見る者どもの。\n彼らの憎しみがわれらの愛の激しい嵐の縛るものに\n打ち克てないとき、彼らは戦慄する。"
+    },
+    {
+      "id": 4,
+      "verses": "v.13-16",
+      "original": "Was uns als beute fiel von schwert und schleuder\nRinnt achtlos aus den händen der vergeuder\nUnd deren wut verheerend urteil spie\nVor einem kinde sinken sie ins knie.",
+      "provisionalTranslation": "剣と投石器によってわれらに戦利品として落ちたものは\n浪費する者の手から無造作に流れ落ちる──\nそして荒廃させる怒りの裁きを吐きかけた者どもも\n一人の子どもの前には膝をつく。"
+    },
+    {
+      "id": 5,
+      "verses": "v.17-20",
+      "original": "Der augen sprühen und die freie locke\nDie einst den herrn verriet im bettelrocke\nVerschleiern wir dem dreisten schwarm verschämt\nDer unsre schatten erst mit glanz verbrämt.",
+      "provisionalTranslation": "瞳の輝きと、かつて托鉢衣をまとった主を裏切った\n自由な巻き毛を──\nわれらは厚かましい群衆の目から恥ずかしそうに隠す、\nその群衆こそがわれらの影を輝かしい縁取りで飾ろうとする者どもだ。"
+    },
+    {
+      "id": 6,
+      "verses": "v.21-24",
+      "original": "Wie wir gediehn im schoosse fremder amme:\nIst unser nachwuchs nie aus unsrem stamme –\nNie alternd nie entkräftet nie versprengt\nDa ungeborne glut in ihm sich mengt.",
+      "provisionalTranslation": "われらが異邦の乳母の胸で育ったように：\nわれらの後継者もわれらの血筋からは生まれない──\n老いることなく、衰えることなく、散り散りになることなく、\n生まれ得ぬ熱火がその中に混じり合っているゆえに。"
+    },
+    {
+      "id": 7,
+      "verses": "v.25-28",
+      "original": "Und jede eherne tat und nötige wende:\nNur unser-einer ist der sie vollende –\nZu der man uns in arger wirrsal ruft\nUnd dann uns steinigt: fluch dem was ihr schuf't!",
+      "provisionalTranslation": "そしてあらゆる青銅の行為と必要な転換を：\n遂行できるのはわれらの一人だけだ──\nそのためにわれらはひどい混乱の中で呼ばれ、\nそして石を投げられる：お前たちが作ったものを呪え！"
+    },
+    {
+      "id": 8,
+      "verses": "v.29-36",
+      "original": "Und wenn die grosse Nährerin im zorne\nNicht mehr sich mischend neigt am untern borne ·\nIn einer weltnacht starr und müde pocht:\nSo kann nur einer der sie stets befocht\nUnd zwang und nie verfuhr nach ihrem rechte\nDie hand ihr pressen · packen ihre flechte ·\nDass sie ihr werk willfährig wieder treibt:\nDen leib vergottet und den gott verleibt.",
+      "provisionalTranslation": "そして大いなる養育者が怒りのうちに\n下なる泉で混じり合うことをやめて身を引き、\nある世界の夜の中で硬直し疲れ果てて打ち叩くとき：\nただ一人だけがそれを成しえる──常に彼女と戦い、\n強い、しかし彼女の掟に従って行動することはなかった者だけが、\n彼女の手を掴み、彼女の三つ編みを握りしめて、\n彼女が再び従順にその仕事を行うよう仕向けることができる：\n肉体を神化し、神を肉体に宿す。"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "Wir eins mit allen nur in goldnem laufe –\nUndenkbar lang schied unsre schar der haufe ·",
+      "body": "「われら」の一人称複数は詩全体を通じて維持される。「黄金の走り」における万人との合一は、宇宙論的・終末論的時に限定された普遍性。ゲオルゲ・クライスの精神的エリートが歴史的大衆から区別されてきたことを、想像を絶する長い時間軸で宣言する。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "glossary",
+      "anchor": "Wir Rose: innre jugendliche brunst\nWir Kreuz: der stolz ertragnen leiden kunst.",
+      "body": "薔薇と十字架の紋章的対比。歴史的テンプル騎士団の紋章（赤い十字）を基底としつつ、薔薇十字（Rosenkreuz）の象徴体系も召喚する。「薔薇＝内なる情熱」「十字架＝苦難の誇り」はゲオルゲにおける美と犠牲の弁証法。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "prosody",
+      "anchor": "Auf unbenamter bahn in karger stille\nDrehn wir den speer und drehn die dunkle spille.",
+      "body": "「槍（Speer）」と「糸巻き（Spille）」の並置。男性的武力と女性的紡績という対立する行為を「drehn（回す）」という同一動詞で結ぶ。秘密の修行（暗い糸巻き）は魔術的・運命的作業を暗示する。詩全体の韻律はライム対句（Paarreim）。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "In feiger zeit schreckt unsrer waffen loh'n ·\nWir geisseln volk und schlagen lärm am tron.",
+      "body": "「臆病な時代」はゲオルゲが繰り返し批判する19世紀末ドイツの物質主義・議会主義・大衆民主主義。「民を鞭打つ」「玉座の前で喧騒を打つ」──精神的貴族集団による聖なる暴力・批判的介入。"
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "Was unser wilder sturm der liebe bannt.",
+      "body": "「愛の激しい嵐の縛るもの」──ゲオルゲ・クライスの絆（エロス的・精神的）が大衆の憎しみを無力化する。テンプル騎士団への中世の異端告発（「同性愛的儀礼」）を逆転させ、愛の力を肯定する。"
+    },
+    {
+      "paragraphId": 4,
+      "type": "commentary",
+      "anchor": "Vor einem kinde sinken sie ins knie.",
+      "body": "「一人の子どもの前に膝をつく」──成人した戦士・裁判官が幼子（純粋性・無垢）の前には屈服するという逆説。ゲオルゲ・クライスにおける美少年（Maximin）崇拝の神学的基盤とも読める。"
+    },
+    {
+      "paragraphId": 5,
+      "type": "commentary",
+      "anchor": "Die einst den herrn verriet im bettelrocke\nVerschleiern wir dem dreisten schwarm verschämt",
+      "body": "「かつて托鉢衣の主を裏切った」──福音書のユダの裏切り（マタイ26章）の逆用。磔刑前のキリストが托鉢者・巡礼者に変装した伝承、あるいはテンプル騎士団の秘儀的入団礼（主の顔への接吻）の記憶か。テンプル騎士団は1307年の逮捕審問でキリスト否認・踏み絵を強要されたという告発を受けた。"
+    },
+    {
+      "paragraphId": 6,
+      "type": "commentary",
+      "anchor": "Wie wir gediehn im schoosse fremder amme:\nIst unser nachwuchs nie aus unsrem stamme –",
+      "body": "テンプル騎士団は独身誓願により生物学的後継者を持たなかった。「異邦の乳母の胸」は修道院や異国での修行・変容を暗示。ゲオルゲ・クライスの継承もまた血族ではなく精神的選別による──「生まれ得ぬ熱火（ungeborne glut）」が混じり合った者のみが後継者となる。"
+    },
+    {
+      "paragraphId": 7,
+      "type": "commentary",
+      "anchor": "Zu der man uns in arger wirrsal ruft\nUnd dann uns steinigt: fluch dem was ihr schuf't!",
+      "body": "予言者・救済者の受難パターン。危機の時には呼ばれ、危機が去ると石を投げられる──ニーチェ・ソクラテス・キリストに共通するゲオルゲの「殉教者=創造者」像（→george_nietzsche §3との並走）。「お前たちが作ったものを呪え」は群衆の忘恩と歴史的反復を示す。"
+    },
+    {
+      "paragraphId": 8,
+      "type": "glossary",
+      "anchor": "die grosse Nährerin",
+      "body": "「大いなる養育者」。大文字Nで記された擬人化は自然・大地・世界魂の一形象。古代の「magna mater（大いなる母）」（キュベレー・デメテル）の系譜に連なる。ゲオルゲはここで宇宙論的危機──大いなる養育者が枯渇する世界の夜（Weltnacht）──を描く。ヘルダーリンの「神々の夜（Nacht der Götter）」と重なる。"
+    },
+    {
+      "paragraphId": 8,
+      "type": "commentary",
+      "anchor": "In einer weltnacht starr und müde pocht:",
+      "body": "「世界の夜（Weltnacht）」はヘルダーリン由来の術語（→hoelderlin_brot_und_wein）。神々が去り、大地が疲れ果てた歴史的暗黒期。ゲオルゲはテンプル騎士=詩人=精神的貴族だけがこの危機に介入できると主張する。"
+    },
+    {
+      "paragraphId": 8,
+      "type": "commentary",
+      "anchor": "Die hand ihr pressen · packen ihre flechte ·\nDass sie ihr werk willfährig wieder treibt:",
+      "body": "「手を掴み、三つ編みを握りしめる」──擬人化された大いなる養育者への強制的介入。服従させることで創造的仕事を再開させる。暴力的エロスと宇宙論的修復が重なる。中黒点「·」による二重ポーズが行為の重さを強調。"
+    },
+    {
+      "paragraphId": 8,
+      "type": "commentary",
+      "anchor": "Den leib vergottet und den gott verleibt.",
+      "body": "詩の最終行かつ詩集全体の核心命題。「肉体を神化する（den leib vergottet）」と「神を肉体に宿す（den gott verleibt）」──キリスト論的な受肉（Inkarnation）の逆転。美しい肉体（美少年・芸術作品）に神性を見出し、神的なものを物質・形象に宿すことがテンプル騎士の最終使命。ゲオルゲ美学の宣言文。"
+    }
+  ]
+}
