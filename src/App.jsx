@@ -1706,8 +1706,8 @@ export default function App() {
   }
 
   // ─── テーマ変数 ───────────────────────────────────────────
-  const bgClass         = darkMode ? 'bg-zinc-950'                         : 'bg-stone-50';
-  const cardBgClass     = darkMode ? 'bg-zinc-900 border-zinc-800'         : 'bg-white border-stone-200';
+  const bgClass         = darkMode ? 'bg-zinc-950'                          : 'bg-paper';
+  const cardBgClass     = darkMode ? 'bg-zinc-900 border-zinc-800'          : 'bg-paper border-stone-300 shadow-none';
   const textClass       = darkMode ? 'text-zinc-100'                        : 'text-stone-900';
   const textSecondary   = darkMode ? 'text-zinc-400'                        : 'text-stone-500';
   const borderClass     = darkMode ? 'border-zinc-800'                      : 'border-stone-200';
@@ -1891,7 +1891,7 @@ export default function App() {
       </div>
 
       {/* ─── Header ─────────────────────────────────── */}
-      <header ref={headerRef} className={`sticky top-0 z-30 ${darkMode ? 'bg-zinc-950/95 border-zinc-800' : 'bg-stone-50/95 border-stone-200'} border-b backdrop-blur-md`}>
+      <header ref={headerRef} className={`sticky top-0 z-30 ${darkMode ? 'bg-zinc-950/95 border-zinc-800' : 'bg-paper/95 border-stone-200'} border-b backdrop-blur-md`}>
         <div className="max-w-6xl mx-auto px-4 py-3 flex items-center gap-3">
           <div className="flex-1 min-w-0 flex items-center gap-2 min-w-0">
             <div className="flex-1 min-w-0">
