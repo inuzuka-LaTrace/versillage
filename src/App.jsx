@@ -1706,8 +1706,8 @@ export default function App() {
   }
 
   // ─── テーマ変数 ───────────────────────────────────────────
-  const bgClass         = darkMode ? 'bg-zinc-950'                          : 'bg-paper';
-  const cardBgClass     = darkMode ? 'bg-zinc-900 border-zinc-800'          : 'bg-paper border-stone-300 shadow-none';
+  const bgClass         = darkMode ? 'bg-zinc-950'                         : 'bg-stone-50';
+  const cardBgClass     = darkMode ? 'bg-zinc-900 border-zinc-800'         : 'bg-white border-stone-200';
   const textClass       = darkMode ? 'text-zinc-100'                        : 'text-stone-900';
   const textSecondary   = darkMode ? 'text-zinc-400'                        : 'text-stone-500';
   const borderClass     = darkMode ? 'border-zinc-800'                      : 'border-stone-200';
@@ -1891,7 +1891,7 @@ export default function App() {
       </div>
 
       {/* ─── Header ─────────────────────────────────── */}
-      <header ref={headerRef} className={`sticky top-0 z-30 ${darkMode ? 'bg-zinc-950/95 border-zinc-800' : 'bg-paper/95 border-stone-200'} border-b backdrop-blur-md`}>
+      <header ref={headerRef} className={`sticky top-0 z-30 ${darkMode ? 'bg-zinc-950/95 border-zinc-800' : 'bg-stone-50/95 border-stone-200'} border-b backdrop-blur-md`}>
         <div className="max-w-6xl mx-auto px-4 py-3 flex items-center gap-3">
           <div className="flex-1 min-w-0 flex items-center gap-2 min-w-0">
             <div className="flex-1 min-w-0">
@@ -1954,7 +1954,7 @@ export default function App() {
               className={`absolute top-3 right-3 ${textSecondary} hover:opacity-70`}
             ><X size={14} strokeWidth={2} /></button>
             <p className={`text-sm font-sans ${darkMode ? 'text-amber-300' : 'text-amber-900'}`}>
-              📚 19〜20世紀の近代西洋テクスト対訳集。フランス語・英語・ドイツ語の詩・批評原文と日本語仮訳を並べて比較し、自分の訳文も記録できます。
+              📚 主に近代西洋の詩と散文を収録。フランス語・ドイツ語・イタリア語・英語の原文と日本語仮訳を並べて比較し、自分の訳文も記録できます。
             </p>
             <p className={`text-xs mt-1 font-sans ${darkMode ? 'text-amber-500' : 'text-amber-700'}`}>
               ※ 掲載の日本語訳は学習補助のための試訳であり、確定した翻訳ではありません。
