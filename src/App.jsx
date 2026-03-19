@@ -185,6 +185,14 @@ export default function App() {
     setSpeakingId(null);
   }, [selectedText]);
 
+  // <html lang> を現在表示中テキストの言語に動的更新
+  // （ブラウザ自動翻訳がUIの言語を正しく認識できるようにする）
+  useEffect(() => {
+    const lang = texts[selectedText]?.originalLang;
+    // テキスト未選択 or 不明なら日本語UIとして ja を設定
+    document.documentElement.lang = lang ? 'ja' : 'ja';
+  }, [selectedText, texts]);
+
   useEffect(() => {
     const allTexts = {
       ...mallarmeData,
@@ -760,7 +768,7 @@ export default function App() {
                 <span className={`text-xs font-mono shrink-0 opacity-40 ${textClass}`}>§{paraId}</span>
                 <div className="min-w-0 flex-1">
                   <p className={`text-xs font-sans font-medium truncate ${textSecondary}`}>{text.author} — {text.title}</p>
-                  <p className={`text-xs font-serif truncate ${textClass}`}>{preview}{preview.length >= 60 ? '…' : ''}</p>
+                  <p translate="no" className={`notranslate text-xs font-serif truncate ${textClass}`}>{preview}{preview.length >= 60 ? '…' : ''}</p>
                 </div>
                 <button
                   onClick={(e) => { e.stopPropagation(); copyParaLink(e, textId, paraId); }}
@@ -1097,7 +1105,7 @@ export default function App() {
                 }`} style={{ minHeight: '160px' }}>
                   <span className={`text-xs font-sans font-semibold uppercase tracking-wider ${textSecondary} opacity-50 shrink-0`}>{frontLabel}</span>
                   <div className="mt-2 flex-1 overflow-y-auto">
-                    <p className={`font-serif ${fcFontSizeClass(getFront(card))} leading-relaxed whitespace-pre-line ${textClass}`}>
+                    <p translate="no" className={`notranslate font-serif ${fcFontSizeClass(getFront(card))} leading-relaxed whitespace-pre-line ${textClass}`}>
                       {getFront(card)}
                     </p>
                   </div>
@@ -1170,13 +1178,20 @@ export default function App() {
 
                     {/* 裏面テキスト */}
                     <div className="flex-1 overflow-y-auto">
-                      <p className={`font-serif ${fcFontSizeClass(
-                        (fcBackMode === 'user' && userTranslations[card.paraId]) ? userTranslations[card.paraId] : getBack(card)
-                      )} leading-relaxed whitespace-pre-line ${textClass}`}>
-                        {(fcBackMode === 'user' && userTranslations[card.paraId])
-                          ? userTranslations[card.paraId]
-                          : getBack(card)}
-                      </p>
+                      {/* trans2orig / head2full モードの裏面は原文 → 翻訳保護 */}
+                      {(fcMode === 'trans2orig' || fcMode === 'head2full') && !(fcBackMode === 'user' && userTranslations[card.paraId]) ? (
+                        <p translate="no" className={`notranslate font-serif ${fcFontSizeClass(getBack(card))} leading-relaxed whitespace-pre-line ${textClass}`}>
+                          {getBack(card)}
+                        </p>
+                      ) : (
+                        <p className={`font-serif ${fcFontSizeClass(
+                          (fcBackMode === 'user' && userTranslations[card.paraId]) ? userTranslations[card.paraId] : getBack(card)
+                        )} leading-relaxed whitespace-pre-line ${textClass}`}>
+                          {(fcBackMode === 'user' && userTranslations[card.paraId])
+                            ? userTranslations[card.paraId]
+                            : getBack(card)}
+                        </p>
+                      )}
                     </div>
 
                     {/* D: glossary注釈表示 */}
@@ -1668,7 +1683,7 @@ export default function App() {
                         </div>
                       )}
                       {showOrig && orig && (
-                        <p className={`pt-2 leading-relaxed whitespace-pre-line ${textClass} text-sm`}>{orig}</p>
+                        <p translate="no" className={`notranslate pt-2 leading-relaxed whitespace-pre-line ${textClass} text-sm`}>{orig}</p>
                       )}
                       {showTrans && trans && (
                         <p className={`mt-2 leading-relaxed whitespace-pre-line text-xs border-l-2 border-green-400 pl-2 ${darkMode ? 'text-green-300/80' : 'text-green-800/80'}`}>{trans}</p>
@@ -1717,9 +1732,13 @@ export default function App() {
   const settingsBg      = darkMode ? 'bg-zinc-900 border-zinc-700 shadow-2xl' : 'bg-white border-stone-200 shadow-2xl';
 
   const fontFamilyStyle =
-    fontFamily === 'garamond' ? '"EB Garamond", "Shippori Mincho B1", serif' :
-    fontFamily === 'im-fell'  ? '"IM Fell English", "Shippori Mincho B1", serif' :
-    fontFamily === 'alice'    ? '"Alice", "Shippori Mincho B1", serif' :
+    fontFamily === 'garamond'     ? '"EB Garamond", "Shippori Mincho B1", serif' :
+    fontFamily === 'alice'        ? '"Alice", "Shippori Mincho B1", serif' :
+    fontFamily === 'poiret'       ? '"Poiret One", "Noto Serif JP", sans-serif' :
+    fontFamily === 'jura'         ? '"Jura", "Noto Serif JP", sans-serif' :
+    fontFamily === 'ubuntu'       ? '"Ubuntu", "Noto Serif JP", sans-serif' :
+    fontFamily === 'viaoda'       ? '"Viaoda Libre", "Shippori Mincho B1", serif' :
+    fontFamily === 'great-vibes'  ? '"Great Vibes", "Shippori Mincho B1", cursive' :
     '"EB Garamond", "Shippori Mincho B1", serif';
 
   const fontSizeMap = { xsmall: 'text-xs', small: 'text-sm', medium: 'text-base', large: 'text-lg', xlarge: 'text-xl', xxlarge: 'text-2xl' };
@@ -1828,9 +1847,13 @@ export default function App() {
             <label className={`text-xs font-semibold uppercase tracking-wider font-sans ${textSecondary} block mb-2.5`}>フォント</label>
             <div className="flex flex-col gap-1.5">
               {[
-                ['garamond', 'Garamond', 'EB Garamond'],
-                ['alice',    'Alice',     'Alice'],
-                ['im-fell',  'IM Fell',   'IM Fell English'],
+                ['garamond',    'Garamond',     'EB Garamond'],
+                ['alice',       'Alice',         'Alice'],
+                ['poiret',      'Poiret One',    'Poiret One'],
+                ['jura',        'Jura',           'Jura'],
+                ['ubuntu',      'Ubuntu',         'Ubuntu'],
+                ['viaoda',      'Viaoda Libre',  'Viaoda Libre'],
+                ['great-vibes', 'Great Vibes',   'Great Vibes'],
               ].map(([val, label, preview]) => (
                 <button key={val} onClick={() => setFontFamily(val)}
                   className={`py-2.5 px-3.5 text-xs rounded-lg text-left transition-all flex items-center justify-between font-sans
@@ -2607,7 +2630,7 @@ export default function App() {
 
                     {/* 折りたたみ時：発話の冒頭プレビュー */}
                     {isCollapsed && showFrench && (
-                      <span className={`text-sm truncate ${textClass}`}>
+                      <span translate="no" className={`notranslate text-sm truncate ${textClass}`}>
                         {getOriginalText(para).split('\n')[0]}
                       </span>
                     )}
@@ -2677,7 +2700,7 @@ export default function App() {
                       <div className={`mt-4 mb-3 pl-4 border-l-2 space-y-2 ${darkMode ? 'border-stone-600' : 'border-stone-300'}`}>
                         {para.epigraphs.map((ep, ei) => (
                           <div key={ei} className="flex flex-col gap-0.5">
-                            <p className={`text-sm italic leading-snug font-serif ${darkMode ? 'text-zinc-300' : 'text-stone-600'}`}>
+                            <p translate="no" className={`notranslate text-sm italic leading-snug font-serif ${darkMode ? 'text-zinc-300' : 'text-stone-600'}`}>
                               {ep.text}
                             </p>
                             {ep.translation && (
@@ -2731,7 +2754,7 @@ export default function App() {
                                             {lineNum}
                                           </span>
                                         )}
-                                        <span className={`leading-relaxed font-serif ${textClass} ${
+                                        <span translate="no" className={`notranslate leading-relaxed font-serif ${textClass} ${
                                           fontSize === 'xxlarge' ? 'text-2xl' :
                                           fontSize === 'xlarge'  ? 'text-xl' :
                                           fontSize === 'large'   ? 'text-lg' :
@@ -2797,7 +2820,7 @@ export default function App() {
                                         {lineNum}
                                       </span>
                                     )}
-                                    <span className={`leading-relaxed font-serif ${textClass} ${
+                                    <span translate="no" className={`notranslate leading-relaxed font-serif ${textClass} ${
                                       fontSize === 'xxlarge' ? 'text-2xl' :
                                       fontSize === 'xlarge' ? 'text-xl' :
                                       fontSize === 'large'  ? 'text-lg' :
@@ -2847,7 +2870,7 @@ export default function App() {
                             原文
                           </span>
                         )}
-                        <p className={`mt-1.5 leading-relaxed whitespace-pre-line pl-4 border-l-2 ${
+                        <p translate="no" className={`notranslate mt-1.5 leading-relaxed whitespace-pre-line pl-4 border-l-2 ${
                           darkMode ? 'border-stone-700' : 'border-stone-300'
                         } ${textClass} ${
                           fontSize === 'xxlarge' ? 'text-2xl' :
