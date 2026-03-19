@@ -28,6 +28,7 @@ import hoelderlinData from './data/hoelderlin';
 import danteData from './data/dante';
 import dannunzioData from './data/dannunzio';
 import pascoliData from './data/pascoli';
+import bryusovData from './data/bryusov';
 import poeData from './data/poe';
 import wildeData from './data/wilde';
 import swinburneData from './data/swinburne';
@@ -201,6 +202,7 @@ export default function App() {
       ...danteData,
       ...dannunzioData,
       ...pascoliData,
+      ...bryusovData,
       ...poeData,
       ...wildeData,
       ...swinburneData,
