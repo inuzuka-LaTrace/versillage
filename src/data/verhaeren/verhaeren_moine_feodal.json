@@ -1,0 +1,73 @@
+{
+  "id": "verhaeren_moine_feodal",
+  "title": "Moine féodal",
+  "author": "Émile Verhaeren",
+  "source": "Les Moines. Paris: Société du Mercure de France, 1895, p. 236–237. 底本: fr.wikisource.org/wiki/Les_Moines_(Recueil)/Moine_féodal（2024年照合）",
+  "year": "1895",
+  "firstPublication": "Les Moines. Paris: Société du Mercure de France, 1895.",
+  "difficulty": "中級",
+  "category": "verhaeren",
+  "originalLang": "fr-FR",
+  "modernRelevance": "★★★★",
+  "context": "ヴェルハーレン（Émile Verhaeren, 1855–1916）の詩集『修道士たち（Les Moines）』（1895年マルキュール・ド・フランス版）収録の22行詩。★区切りなしの単一連構成、アレクサンドラン対韻（AABB）。「封建的修道士（Moine féodal）」──男爵・公爵の息子として生まれ、大修道院の長に任じられた貴族出身の修道士を描く。世俗の封建的誇りを修道院の中でそのまま保持し、回廊を荘園、修道士たちを廷臣として統治する。「L'Hérésiarque（異端の首謀者）」が内面の反乱と孤立の傑出を描くのに対し、「Moine féodal」は外部的権力と世俗的誇りの聖化を描く──どちらも「通常の修道士」とは異なる極端な肖像として詩集の中に配置される。結末2行の「vermeil（朱色）」と「monument d'or ouvert dans le soleil（太陽の中に開いた黄金の記念碑）」が「L'Hérésiarque」の「feu vermeil de foudroyé（雷に打たれた者の朱色の炎）」と対称をなす──どちらも「記念碑」「朱色」という語彙で結ばれる詩集内の呼応。",
+  "keywords": [
+    "封建的修道士", "貴族出身", "修道院長", "騎士と修道士", "世俗と聖", "夢",
+    "キメラ", "黄金の記念碑", "Les Moines", "フランドル象徴主義", "対韻アレクサンドラン"
+  ],
+  "relatedTexts": [
+    "verhaeren_heresiarque",
+    "mallarme_toast_funebre"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "verses": "v.1–6",
+      "original": "D'autres, fils de barons et de princes royaux,\nGardent amples et clairs leurs orgueils féodaux.\nOn les établit chefs de larges monastères\nEt leur nom resplendit dans les gloires austères :\nIls ont, comme jadis l'aïeul avait sa tour,\nLeur cloître pour manoir et leurs moines pour cour.",
+      "provisionalTranslation": "他の者たちは、男爵と王侯の息子として、\n封建的な誇りを広々と明澄に保ち続ける。\n彼らは広大な修道院の長に任じられ、\n厳粛な栄光の中でその名が輝く。\n彼らには、かつて祖先が塔を持ったように、\n回廊が荘園として、修道士たちが廷臣として。"
+    },
+    {
+      "id": 2,
+      "verses": "v.7–22",
+      "original": "Ils s'assoient dans les plis cassés droits de leurs bures,\nTels que des chevaliers dans l'acier des armures ;\nIls portent devant eux leur grande crosse en buis,\nMajestueusement, comme un glaive conquis ;\nIls parlent au chapitre en justiciers gothiques,\nEt leur arrêt confond les pénitents mystiques ;\nIls rêvent de combats dont Dieu serait le prix\nEt de guerre menée à coups de crucifix ;\nIls sont les gardiens blancs des chrétiennes idées,\nQui restent au couchant sur le monde accoudées ;\nIls vivent sans sortir de leur rêve infécond,\nMais ce rêve est si haut qu'on ne voit pas leur front ;\nLeur chimère grandit et monte avec leur âge\nEt monte d'autant plus qu'on la cingle et l'outrage ;\nEt jusqu'au bout leur foi luira d'un feu vermeil,\nComme un monument d'or ouvert dans le soleil.",
+      "provisionalTranslation": "彼らは粗衣の硬く折れた皺の中に座る、\n鎧の鋼の中の騎士たちのように。\n彼らは巨大な黄楊木の司教杖を前に携える、\n堂々と、征服した剣のように。\n彼らは参事会で、ゴシック的な裁判官として語り、\nその判決が神秘的な懺悔者たちを混乱させる。\n彼らは神が賞品となる戦闘を夢見る\nそして十字架の打撃で遂行される戦争を。\n彼らはキリスト教的理念の白い番人──\n西の空に世界にもたれかかって残るもの。\n彼らは実りなき夢から出ることなく生きる、\nしかしその夢はあまりにも高く、彼らの額が見えない。\n彼らのキメラは年齢とともに成長し上昇し\n鞭打たれ侮辱されるほどにますます上昇する。\nそして最後まで彼らの信仰は朱色の炎で輝くだろう、\n太陽の中に開いた黄金の記念碑のように。"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "D'autres, fils de barons et de princes royaux,\nGardent amples et clairs leurs orgueils féodaux.",
+      "body": "「D'autres（他の者たちは）」──冒頭の指示語が詩集内の連続性を示す。「Moine féodal」は詩集『修道士たち』の一連の修道士肖像の中の一篇として、前後の詩から「別の型」の修道士を指して始まる。「orgueils féodaux（封建的な誇り）」──複数形が封建的誇りの多面性を示す。修道誓願をしながら世俗的誇りを保持するという矛盾がこの詩の主題。「amples et clairs（広々と明澄に）」──空間的な広がりと精神的な明澄さの形容が、封建貴族の誇りを否定的でなく肯定的に描くヴェルハーレンの視点を示す。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "Ils ont, comme jadis l'aïeul avait sa tour,\nLeur cloître pour manoir et leurs moines pour cour.",
+      "body": "「かつて祖先が塔を持ったように、回廊を荘園として、修道士たちを廷臣として」──封建的空間語彙（塔・荘園・廷臣）と修道院的空間語彙（回廊・修道士）の完全な同一視。この等価性が詩全体の比喩的構造を支える。「cour（廷臣・宮廷）」は「court（宮廷）」の二重の意味──物理的な中庭と社会的な廷臣集団。修道院の回廊（cloître）が封建領主の城の中庭（cour）として機能するという空間的転換。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "prosody",
+      "anchor": "Ils s'assoient dans les plis cassés droits de leurs bures,\nTels que des chevaliers dans l'acier des armures ;",
+      "body": "v.7以降は「Ils（彼らは）」で始まる動詞句の連続──アナフォラ（anaphore）による列挙的構造。「s'assoient / portent / parlent / rêvent / sont / vivent」の動詞群が修道士たちの日常と夢を次々と描写する。「bures（粗衣）の折れた皺 / armures（鎧）の鋼」──修道士の衣と騎士の鎧という対照的な素材が同一の比喩構造（直喩 tels que）で結ばれる。粗衣の硬さが鎧の硬さとして読まれる感覚的転換。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "glossary",
+      "anchor": "Ils rêvent de combats dont Dieu serait le prix\nEt de guerre menée à coups de crucifix ;",
+      "body": "「神を賞品とする戦闘、十字架の打撃による戦争」──十字軍のイメージ。「crucifix（十字架）」が「coups（打撃）」の道具として武器化される比喩。この2行は詩集『修道士たち』全体に通底する「修道院と封建制・武力の融合」の主題の最も凝縮された表現。ヴェルハーレンが描くフランドルの中世修道院文化──霊的奉仕と世俗的権力の不可分な結合──の歴史的参照点。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "Leur chimère grandit et monte avec leur âge\nEt monte d'autant plus qu'on la cingle et l'outrage ;",
+      "body": "「キメラは鞭打たれ侮辱されるほどにますます上昇する」──抵抗に比例して高まる夢という逆説。「chimère（キメラ）」──ギリシャ神話の複合怪物、転じて実現不可能な夢。「cingle（鞭打つ）」という動詞の選択が、夢への外部的攻撃を馬への鞭として動物的に具体化する。前詩「L'Hérésiarque」の「Son orgueil flamboiera sous la foudre romaine（傲慢はローマの雷の下で燃え上がる）」との並行──外部からの打撃が内部の炎を増大させるという同一の逆説構造。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "Et jusqu'au bout leur foi luira d'un feu vermeil,\nComme un monument d'or ouvert dans le soleil.",
+      "body": "詩の結末──「朱色の炎で輝く信仰、太陽の中に開いた黄金の記念碑」。「vermeil（朱色）」は「L'Hérésiarque」の「front vermeil de foudroyé（雷に打たれた者の朱色の額）」と同じ語、「monument」は同詩の「monument d'orgueil（傲慢の記念碑）」と同じ語──詩集内の語彙的照応が二篇の肖像を鏡的に結ぶ。異端者の記念碑は「傲慢」から建てられ、封建的修道士の記念碑は「黄金」と「太陽」に開かれる──破壊的な反抗と保守的な壮麗さ、どちらも「記念碑」の形象に収束する。"
+    }
+  ]
+}
