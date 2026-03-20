@@ -1,0 +1,86 @@
+{
+  "id": "corazzini_invito",
+  "title": "Invito",
+  "author": "Sergio Corazzini",
+  "source": "Dal «L'amaro calice». In: Sergio Corazzini. Liriche. — Napoli: Ricciardi, 1935. p. 23. 底本: it.wikisource.org/wiki/Liriche_(Corazzini_1935)/L'amaro_calice/Invito。テキスト: Google Books。",
+  "year": "1904",
+  "firstPublication": "詩集収録: Liriche. Napoli: Ricciardi, 1935.",
+  "difficulty": "上級",
+  "category": "corazzini",
+  "originalLang": "it-IT",
+  "modernRelevance": "★★★★★",
+  "context": "セルジョ・コラッツィーニ（1886–1907）の詩集「L'amaro calice（苦い聖杯）」の巻頭詩（序詩）「Invito（招待）」。14行の完全なペトラルカ式ソネット（ABBA ABBA / CDE CDE変形）。詩集タイトル「L'amaro calice」はキリストのゲッセマネの祈り「この杯を私から過ぎ去らせてください」（マタイ26:39）──「苦い聖杯」を飲むという受難的な詩集観を宣言するタイトルの下に置かれた「招待」という逆説的な巻頭詩。「anima（魂）」への呼格アナフォラが詩を貫く──v.1「Anima pura」v.2「anima triste」v.3「anima prigioniera」v.5「anima, dolce buona creatura」と四度繰り返される後、v.9–12で呼格が「luce degli occhi」「tenerezza」「rondine affranta」「giglio fiorito」と転換し、最終2行「vieni, sorella（来てくれ、姉妹よ）」「il tuo martirio, è il mio（汝の殉教は、私のもの）」で呼びかけが完結する。「L'anima（魂）」の「crocifissa al muro（壁に磔）」・「Desolazione」の「crocifissa（磔）」と同じキリスト教的殉教の語彙圏が「martirio（殉教・苦難）」として再現する。コラッツィーニの複数のソネット──「L'anima」（ABBA ABBA / CDE CDE）・「Ballata della primavera」（変形ソネット）──の中で、本詩は最もオーソドックスな形式を持ちながら、感情的には最も直接的な呼びかけ詩（apostrofe）として機能する。",
+  "keywords": [
+    "苦い聖杯",
+    "anima（魂）のアナフォラ",
+    "招待詩",
+    "殉教",
+    "ペトラルカ式ソネット",
+    "sorella（姉妹）",
+    "燕",
+    "百合",
+    "クレプスコラリズモ",
+    "巻頭詩"
+  ],
+  "relatedTexts": [
+    "corazzini_l_anima",
+    "corazzini_desolazione",
+    "corazzini_ballata_primavera",
+    "corazzini_la_morte_di_tantalo",
+    "rossetti_monna_innominata"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "verses": "v.1–4",
+      "original": "Anima pura come un'alba pura,\nanima triste per i suoi destini,\nanima prigioniera nei confini\ncome una bara nella sepoltura,",
+      "provisionalTranslation": "純粋な夜明けのように純粋な魂よ、\nその運命のために悲しい魂よ、\n境界の中に囚われた魂よ\n埋葬の中の棺のように、"
+    },
+    {
+      "id": 2,
+      "verses": "v.5–8",
+      "original": "anima, dolce buona creatura,\nrassegnata nei tristi occhi divini,\nnon più rifioriranno i tuoi giardini\nin questa vana primavera oscura;",
+      "provisionalTranslation": "魂よ、優しく善き生き物よ、\n悲しい神のような目の中で諦めた魂よ、\n汝の庭はもう花咲かない\nこの空虚で暗い春の中では；"
+    },
+    {
+      "id": 3,
+      "verses": "v.9–14",
+      "original": "luce degli occhi, cuore del mio cuore,\ntenerezza, sorella nel dolore,\nrondine affranta nel mio stesso cielo,\ngiglio fiorito a pena su lo stelo\ne morto, vieni, ho spasimato anch'io,\nvieni, sorella, il tuo martirio, è il mio.",
+      "provisionalTranslation": "目の光よ、私の心の心よ、\n優しさよ、苦しみの中の姉妹よ、\n私と同じ空で疲れ果てた燕よ、\n茎の上でやっと咲いて\nそして死んだ百合よ、来てくれ、私もまた苦しんだ、\n来てくれ、姉妹よ、汝の殉教は、私のもの。"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "prosody",
+      "anchor": "Anima pura come un'alba pura,\nanima triste per i suoi destini,\nanima prigioniera nei confini\ncome una bara nella sepoltura,",
+      "body": "ペトラルカ式ソネット（ABBA ABBA / CDE CDC変形）。A韻: pura/sepoltura/creatura/oscura（-ura）、B韻: destini/confini/divini/giardini（-ini）──オクターヴの同韻グループが「魂」の性質（純粋・悲しみ・囚われ・諦め）を音響的に結束する。「anima（魂）」のアナフォラ（v.1–3の行頭、v.5の行頭）が四度反復されることで、詩の呼びかけ対象が「魂」という抽象的・普遍的な存在として定立される──この「魂」は詩人自身の魂とも、「Desolazione」的な「貧しい感傷的詩人」の魂とも、普遍的な苦しむ魂とも読める曖昧さが意図的。「Anima pura come un'alba pura」──「pura」の首尾照応（直喩の両端に同語）がソネットの第1行を音響的に完結した単位として提示する。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "anima prigioniera nei confini\ncome una bara nella sepoltura,",
+      "body": "「境界の中に囚われた魂よ、埋葬の中の棺のように」──魂の囚われを「棺」という死のイメージで定義する。「L'anima」の「crocifissa al muro / di un lontano antichissimo convento（遠い修道院の壁に磔）」と同型の「封じ込められた魂」のイメージだが、修道院→棺へと閉塞の場所が世俗化・縮小化される。「confini（境界）」はイタリア語で「限界・境界・国境」を意味し、魂を「囚われた土地」として地理的に定義する。「Ballata della primavera」の「con tutte le sue porte chiuse（すべての扉を閉ざして）」との同型──コラッツィーニ詩群を貫く「閉じ込められた存在」のモチーフ。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "non più rifioriranno i tuoi giardini\nin questa vana primavera oscura;",
+      "body": "「汝の庭はもうこの空虚で暗い春には花咲かない」──「Ballata della primavera」のタイトル詩との直接的な連結。「primavera（春）」がここでは「vana e oscura（空虚で暗い）」として定義される──「Ballata」では春の告別が詩のテーゼだったのに対し、この詩では春がすでに否定された状態として提示される。「non più rifioriranno（もう花咲かない）」の未来形の否定が、過去に花咲いた庭への回顧を含意する──コラッツィーニ的な「かつてあった春・喜び」の喪失構造。詩集タイトル「L'amaro calice」の「苦さ」がこの「vana primavera oscura」として具現化される。"
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "rondine affranta nel mio stesso cielo,\ngiglio fiorito a pena su lo stelo\ne morto,",
+      "body": "「私と同じ空で疲れ果てた燕よ / 茎の上でやっと咲いてそして死んだ百合よ」──セステットで「魂」への呼格が具体的なイメージへと変換される。「rondine（燕）」──「Spleen」の「si gonfiavano dietro le lagrime / come due vele（涙の後ろで膨らむ帆）」と同じ飛翔と倦怠のイメージ圏。「affranta（疲れ果てた）」は「Desolazione」の「Я лишь горел, перегорал（ただ燃え、燃え尽きた）」的な消耗と共鳴する。「giglio fiorito a pena su lo stelo / e morto（茎の上でやっと咲いてそして死んだ百合）」──「Ballata della primavera」の「fiorita di mammola di rose（スミレとバラの花咲き）」が咲いた直後に死ぬ百合として圧縮される。百合の純粋さと儚さの合一。"
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "vieni, sorella, il tuo martirio, è il mio.",
+      "body": "詩の最終行──「来てくれ、姉妹よ、汝の殉教は、私のもの」。「sorella（姉妹）」という呼びかけがv.10で初出した後、最終行で確認的に反復される──「苦しみの中の姉妹（sorella nel dolore）」から「汝の殉教は私のもの」へ。「martirio（殉教・苦難）」──「Ballata della primavera」の「come Cristo ho corona（キリストのように冠を）」・「Desolazione」の「crocifissa（磔）」と同じキリスト教的殉教語彙。しかし「il tuo martirio, è il mio（汝の殉教は私のもの）」というコンマによる强調分断が重要──「汝の」と「私の」殉教が等号で結ばれる瞬間、呼びかけていた「魂」が詩人の「分身・鏡像」として同一化される。「Monna Innominata」のロセッティが「汝の喜びは私の喜び（Your pleasure is my pleasure）」と他者への合一を宣言したのと同じ構造で、コラッツィーニは苦しみの合一を宣言する。",
+      "targetId": "rossetti_monna_innominata",
+      "targetParagraphId": 12
+    }
+  ]
+}
