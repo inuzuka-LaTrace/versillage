@@ -1,0 +1,84 @@
+{
+  "id": "corazzini_ballata_primavera",
+  "title": "Ballata della primavera",
+  "author": "Sergio Corazzini",
+  "source": "Dal «Dolcezze». In: Sergio Corazzini. Liriche. — Napoli: Ricciardi, 1935. 底本: it.wikisource.org/wiki/Liriche_(Corazzini_1935)/Dolcezze/Ballata_della_primavera。テキスト: Google Books (books.google.it/books?id=PscGAQAAIAAJ)。",
+  "year": "1904",
+  "firstPublication": "詩集収録: Liriche. Napoli: Ricciardi, 1935.",
+  "difficulty": "上級",
+  "category": "corazzini",
+  "originalLang": "it-IT",
+  "modernRelevance": "★★★★☆",
+  "context": "セルジョ・コラッツィーニ（1886–1907）の詩集「Dolcezze（甘さ）」所収。14行の変形ソネット（sonetto irregolare）で、「春のバラード」という題名を持ちながら内容は春への告別──「かつて春は甘かったが、今日は違う」という時制の転換が詩の構造的核心。冒頭でサンドロ・ボッティチェッリ（1445–1510）の絵画「春（Primavera）」（1478頃）を直接召喚する。ボッティチェッリの「春」は花咲く草原に女神たちが集う春の礼讃画だが、コラッツィーニはその「春」を絵の中だけに留め置いて、現実の自分には春がないと宣言する。詩の後半では「悲しみ（il Dolore）」が「虫に食われる」比喩で心を蝕み、最終2行でキリストの茨の冠──「私の血で紫に染まった茨の冠を私は髪に戴いている」──が現在の詩人像として提示される。ボッティチェッリの花冠の春からキリストの茨の冠への転換という詩の垂直構造が、クレプスコラリズモの美的戦略を端的に示す。韻型 ABBA / CDCE / DEE / FFA──伝統的なソネット形式（ABBA ABBA CDE CDE）から意図的に逸脱した変形ソネット。",
+  "keywords": [
+    "ボッティチェッリ",
+    "春（Primavera）",
+    "クレプスコラリズモ",
+    "変形ソネット",
+    "茨の冠",
+    "キリスト",
+    "春の告別",
+    "美術参照",
+    "花冠から茨へ",
+    "Dolcezze",
+    "春の甘さと悲しみ"
+  ],
+  "relatedTexts": [
+    "corazzini_desolazione",
+    "corazzini_spleen",
+    "dante_paradiso_canto_33",
+    "dannunzio_beata_beatrice"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "verses": "v.1–4",
+      "original": "O Primavera, Sandro Botticelli\nsenti fiorire in cuore i tuoi rosai\npoi che ti seppe come niuno mai\nne la soavità de' suoi pennelli.",
+      "provisionalTranslation": "ああ春よ、サンドロ・ボッティチェッリは\n心にバラが咲き開くのを感じる──\n彼は誰も知らなかったように汝を知ったから\n彼の絵筆の柔らかさの中で。"
+    },
+    {
+      "id": 2,
+      "verses": "v.5–11",
+      "original": "Ancor io, giovinetta, una fiorita\ndi mammola di rose ebbi nel cuore\ne m'era dolce assai tuo venimento\ne m'era triste assai tua dipartita;\nnon oggi, o Primavera, chè il Dolore\ncome tarlo nel cuor rodere io sento\nquasi per demoniaco incantamento;",
+      "provisionalTranslation": "かつて私も、若い娘だった頃、スミレと\nバラの花咲きを心に持っていた、\nそして汝の訪れがとても甘かった、\nそして汝の立ち去りがとても悲しかった──\n今日は違う、ああ春よ、なぜなら悲しみが\n虫に食われるように私の心を蝕むのを感じる、\nまるで魔的な魔法によるかのように；"
+    },
+    {
+      "id": 3,
+      "verses": "v.12–14",
+      "original": "non oggi, o Primavera, chè di spine\nfatte del mio buon sangue porporine\ncome Cristo ho corona ai miei capelli.",
+      "provisionalTranslation": "今日は違う、ああ春よ、なぜなら茨で\n私の血で紫に染まった茨で\nキリストのように私は髪に冠を戴いているから。"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "allusion",
+      "anchor": "O Primavera, Sandro Botticelli\nsenti fiorire in cuore i tuoi rosai",
+      "body": "「ああ春よ、サンドロ・ボッティチェッリは心にバラが咲き開くのを感じる」──ボッティチェッリ（1445–1510）の絵画「春（La Primavera）」（1478頃、ウフィツィ美術館）への直接参照。画面左からゼフュロス・クローリス・フローラ、中央にウェヌス、三美神（グラティア）、右にメルクリウスと配置された春の寓意画。コラッツィーニは「ボッティチェッリこそ春を誰よりも知った画家」と讃えることで、詩の「春」をまず絵画的・理想的なものとして定立する。しかしその「春」はボッティチェッリの筆の中にあり──現実の詩人の「今日」には存在しない。絵画（理想）と現実（悲しみ）の二項対立が詩全体の構造を支える。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "prosody",
+      "anchor": "O Primavera, Sandro Botticelli\nsenti fiorire in cuore i tuoi rosai\npoi che ti seppe come niuno mai\nne la soavità de' suoi pennelli.",
+      "body": "14行の変形ソネット（sonetto irregolare）。韻型 ABBA（v.1–4）/ CDCE（v.5–8）/ DEE（v.9–11）/ FFA（v.12–14）──伝統的なペトラルカ式ソネット（ABBA ABBA CDE CDE）から二重に逸脱する。第一の逸脱：オクターヴ（8行）とセステット（6行）の代わりに 4+4+3+3 の分割。第二の逸脱：韻型が連をまたいで継続し（D が v.6 と v.9 に、E が v.7・10・11 に跨がる）、境界が流動的。この形式的な「崩れ」が「かつての春」から「今日の悲しみ」への内容的な崩れと並行する。タイトル「Ballata（バラード）」という音楽形式を名乗りながら実際には変形ソネットであることも同様の形式と内容のズレ。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "Ancor io, giovinetta, una fiorita\ndi mammola di rose ebbi nel cuore",
+      "body": "「かつて私も、若い娘だった頃、スミレとバラの花咲きを心に持っていた」──「giovinetta（若い娘）」という自己呼称によって、詩の語り手が女性（または幼年の自己）として定立される。コラッツィーニは男性詩人だが「giovinetta」という女性形を使用──春・バラ・スミレという伝統的に女性的とされる素材を内面化した自己として語る。「mammola（スミレ）」はヴェルレーヌ「秋の歌（Chanson d'automne）」のviolon（ヴァイオリン）同様、クレプスコラリズモが好む繊細で儚い花。「tuo venimento（汝の訪れ）」「tua dipartita（汝の立ち去り）」の対句が春の来去を等価の情動として提示──かつては「甘さ」と「悲しさ」の両方があったが、「今日」はその両方が消えて「悲しみ（Dolore）」だけが残る。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "glossary",
+      "anchor": "chè il Dolore\ncome tarlo nel cuor rodere io sento",
+      "body": "「悲しみが虫に食われるように私の心を蝕む」──「tarlo（木喰い虫）」は「Spleen」の「roso dai tarli（虫に食われた）」と同一の語・同一のイメージ。コラッツィーニ詩群に繰り返し現れる「tarli（木喰い虫）」は、ゆっくりと内側から破壊する存在の比喩──時間・悲しみ・病が目に見えないうちに心を蝕む過程の視覚化。「il Dolore（悲しみ）」の大文字表記が抽象的な苦悩を擬人化された力として昇格させる。直後の「quasi per demoniaco incantamento（まるで魔的な魔法によるかのように）」は「Ты не бойся…」のソログープ的な「волхвование（呪術）」と同じ暗黒的・魔術的な語彙圏を共有する──時代を超えた薄明の詩学の収束点。"
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "chè di spine\nfatte del mio buon sangue porporine\ncome Cristo ho corona ai miei capelli.",
+      "body": "「私の血で紫に染まった茨の冠をキリストのように私は髪に戴いている」──詩のクライマックスにして最も凝縮されたイメージ。ボッティチェッリ「春」の花冠（corona di fiori）からキリストの茨の冠（corona di spine）への転換が詩全体の垂直構造を完成させる。「porporine（紫色の）」は帝王色・殉教者の血の色──ローマ皇帝の紫と殉教者の血の二重参照。「del mio buon sangue（私の血で）」という所有格が茨の冠を外部から与えられたものでなく自己の血から生まれたものとして内面化する。ブリューソフ「Поэту」の「от века из терний / Поэта заветный венок（永遠に茨から詩人の冠）」と驚くほど近いイメージ──1906年前後のヨーロッパ各地の詩人が同時に「茨の冠」という詩人の殉教的形象に収束した。"
+    }
+  ]
+}
