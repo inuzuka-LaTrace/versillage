@@ -1,0 +1,93 @@
+{
+  "id": "corazzini_spleen",
+  "title": "Spleen",
+  "author": "Sergio Corazzini",
+  "source": "Sergio Corazzini. Liriche. — Napoli: Ricciardi, 1935. 詩集「Le aureole」所収。底本: it.wikisource.org/wiki/Liriche_(Corazzini_1935)/Le_aureole/Spleen。テキスト: Google Books (books.google.it/books?id=PscGAQAAIAAJ)。",
+  "year": "1906",
+  "firstPublication": "Sergio Corazzini. Liriche. Napoli: Ricciardi, 1935（詩人没後の遺稿集）。",
+  "difficulty": "中級",
+  "category": "corazzini",
+  "originalLang": "it-IT",
+  "modernRelevance": "★★★★☆",
+  "context": "セルジョ・コラッツィーニ（Sergio Corazzini、1886–1907）はローマ出身のイタリア詩人で、「クレプスコラリズモ（薄明詩派／crepuscolarismo）」の代表的な一人。21歳で結核によって夭逝した。「薄明詩派」はD'Annunzioの壮大な詩的英雄主義への反動として生まれ、日常的な事物・室内空間・病的な倦怠・消えゆくものへの愛着を低い声で語ることを特徴とする。本詩「Spleen」はその詩学の典型──タイトルはボードレールから借用しながら（「悪の華」の「Spleen et Idéal（憂愁と理想）」）、ダヌンツィオ的な壮大さを徹底的に排し、夜の室内・沈黙する女性・弾かれないピアノ・月光に病む街路・街燈の臨終というミニマルなイメージ連鎖で倦怠と死の予感を描く。話者は友人ないし恋人とおぼしき「Amica（女友達）」に語りかける──「今夜何を歌ってくれるの？」という問いかけから始まり、歌われない歌・弾かれないピアノ・動かない街が積み重なって、最終連では街燈（fanale）が「死を待ちながらその臨終を見守る」存在として現れる。42行の自由詩、不規則な行長、照応韻（assonanza）と脚韻（rima）の散在──散文の呼吸に近い詩行。",
+  "keywords": [
+    "クレプスコラリズモ",
+    "薄明詩派",
+    "倦怠",
+    "ボードレール",
+    "ピアノフォルテ",
+    "街燈",
+    "結核",
+    "夭逝",
+    "室内空間",
+    "死の予感",
+    "自由詩",
+    "イタリア象徴主義"
+  ],
+  "relatedTexts": [
+    "pascoli_al_dio_termine",
+    "baudelaire_spleen",
+    "baudelaire_harmonie_du_soir",
+    "verlaine_chanson_dautomne"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "verses": "v.1–12",
+      "original": "Che cosa mi canterai tu questa sera?\nAmica, non voglio pensare\ntroppo: la prima canzone\nche ricordi, antica,\nnon importa;\nuna di quelle canzoni\nche non si cantano più\nda tanto,\nche non fanno più schiuder balconi\nda un secolo. Vuoi\ndarmi la nostalgia\ndi una canzone morta?",
+      "provisionalTranslation": "今夜、君は私に何を歌ってくれる？\n友よ、あまり考えたくない──\nただ：君が覚えている最初の歌、\n古い、\nなんでもいい、\nあの歌たちの一つを、\nもうずっと歌われなくなった、\nもう長いこと、\nもう一世紀も窓を開けさせることのない。\n君は\n死んだ歌の懐かしさを\n私に与えたいの？"
+    },
+    {
+      "id": 2,
+      "verses": "v.13–25",
+      "original": "Sei triste, mi dai pena\nquesta sera; non canti, non mi parli...\nChe hai? malinconia\ndi morire? Ti duoli\nperchè siamo soli?\nRicordi l'ultimo ballo\nnel tuo salotto giallo\nroso dai tarli?\nSai che è primavera?\nIo non me n'era accorto;\nnon ho rosai,\nnon ne ho avuti mai\nnel mio triste orto.",
+      "provisionalTranslation": "君は悲しい、君が気の毒だ\n今夜は、歌わない、話しかけてくれない……\n何があった？死への\n憂鬱？苦しいの、\n二人きりだから？\n覚えてる、最後の舞踏会を、\n君の黄色い客間で、\n虫に食われた？\n春だって知ってた？\n私は気づいていなかった、\nバラの木がない、\n一本もなかったことがない、\n私の悲しい庭には。"
+    },
+    {
+      "id": 3,
+      "verses": "v.26–33",
+      "original": "Perchè non suoni? Langue\ndi desiderio\nquel tuo piccolo pianoforte esangue,\nnell'ombra; o non così,\namica,\nl'anima ci sospira nell'attesa\ndi chì\nsappia farla vibrare?",
+      "provisionalTranslation": "なぜ弾かないの？憔悴している\n欲望のうちに、\nあの君の小さな青白いピアノフォルテが、\n影の中で。あるいはそうじゃなくて、\n友よ、\n魂が私たちの中で溜め息をついているの、待ちながら、\n誰かを\nそれを震わせることのできる誰かを？"
+    },
+    {
+      "id": 4,
+      "verses": "v.34–42",
+      "original": "Oh, che tristezza! Pare,\nnel biancore lunare,\nmalata di etisia,\ncon tutte le sue porte\nchiuse, la nostra via\ndiserta e quel fanale\nsolo e torbido pare\nche attendendo la morte\nne vegli l'agonia.",
+      "provisionalTranslation": "ああ、なんという悲しさ！見える、\n月の白さの中で、\n結核に病んで、\nその扉をすべて\n閉ざして、私たちの通りは\n廃れて、そしてあの街燈が、\n孤独でくすんで、見える、\n死を待ちながら\nその臨終を見守っているように。"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "Che cosa mi canterai tu questa sera?",
+      "body": "「今夜、君は私に何を歌ってくれる？」──詩全体が問いかけの形式で始まる。しかし詩は最後まで「答え」を与えない──女性は歌わず、ピアノは弾かれず、通りは沈黙したまま終わる。この問いの無答性が詩の構造的原理。コラッツィーニの「クレプスコラリズモ（薄明詩）」の特徴が冒頭から表れる──壮大な主題でなく、夜の室内・友人への語りかけという日常的・親密な空間。「questa sera（今夜）」はヴェルレーヌ「月の光（Clair de lune）」の「ce soir（今夜）」、「chanson（歌）」の系譜に接続する。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "prosody",
+      "anchor": "una di quelle canzoni\nche non si cantano più\nda tanto,\nche non fanno più schiuder balconi\nda un secolo.",
+      "body": "自由詩（verso libero）の典型的なリズム構造──行の長さが1音節（「amica」）から12音節以上まで大きく変動する。しかしイタリア詩の伝統的な音節数（settenario 7音節、novenario 9音節、endecasillabo 11音節）への断片的な照応が散在し、完全な無形式ではない。「da tanto（もう長いこと）」「da un secolo（一世紀も）」という時間の漸増が、「歌われなくなった歌」の埋もれ深さを段階的に拡大する。照応韻（assonanza）が散在──canzone/canzoni、antica/amica、tanto/balconi（部分的）。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "glossary",
+      "anchor": "nel tuo salotto giallo\nroso dai tarli?",
+      "body": "「虫に食われた黄色い客間」──「salotto giallo（黄色い客間）」はコラッツィーニ的な室内空間の典型的なイメージ。黄色という色調が病的・退廃的な雰囲気を醸す──ワイルド「ドリアン・グレイの肖像」の黄色い本（Yellow Book）、ゴッホの黄色い部屋の病的な光とも共鳴する。「roso dai tarli（虫に食われた）」──木喰い虫が家具を蝕む静かな破壊の過程が「最後の舞踏会」という華やかな記憶と対置される。過去の喜びが現在の腐食によって侵食されるというクレプスコラリズモ的な時間感覚。"
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "quel tuo piccolo pianoforte esangue,\nnell'ombra",
+      "body": "「影の中で、あの君の小さな青白いピアノフォルテ」──「esangue（血の気のない・青白い）」はピアノフォルテを人体化する形容詞で、生きているが病んでいる存在として描く。白鍵の色＝顔色のない人間の顔というメタファー。「Langue di desiderio（欲望のうちに憔悴する）」の主語もピアノフォルテで、楽器が弾かれたい欲望によって衰えている──欲望の未充足がものを病ませる。最終段落の「malata di etisia（結核に病んで）」という形容が「esangue（青白い）」と呼応し、詩全体に結核的・衰弱的な色調が統一される。コラッツィーニ自身が21歳で結核によって死んでいる。"
+    },
+    {
+      "paragraphId": 4,
+      "type": "commentary",
+      "anchor": "e quel fanale\nsolo e torbido pare\nche attendendo la morte\nne vegli l'agonia.",
+      "body": "「あの街燈が孤独でくすんで、死を待ちながらその臨終を見守っているように見える」──詩のクライマックスにして最も凝縮されたイメージ。「fanale（街燈）」は詩集「Le aureole（光輪）」のサイクル中の別の詩「Il fanale（街燈）」と直接照応する──コラッツィーニにとって街燈は繰り返し現れる核心的シンボル。「agonia（臨終・死の苦しみ）」の主語が誰であるかは文法的に曖昧──街燈自身の臨終か、通りの臨終か、詩の語り手の臨終か。この意図的な曖昧さが詩の最終的な効果を生む。ボードレール「悪の華」の「Spleen（憂愁）」詩群が人間の精神の閉塞を描いたのに対し、コラッツィーニのSpleen は外の世界（fanale・via・porte）が擬人化されて死んでいく──内面の投影としての都市の死。",
+      "targetId": "baudelaire_spleen",
+      "targetParagraphId": null
+    }
+  ]
+}
