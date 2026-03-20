@@ -1,0 +1,118 @@
+{
+  "id": "verhaeren_mourir",
+  "title": "Mourir",
+  "author": "Émile Verhaeren",
+  "source": "Poèmes (IIe série). Paris: Société du Mercure de France, 1896, p. 67–68. 底本: fr.wikisource.org/wiki/Mourir_(Verhaeren)（2024年照合）",
+  "year": "1896",
+  "firstPublication": "Poèmes (IIe série). Paris: Société du Mercure de France, 1896.",
+  "difficulty": "中級",
+  "category": "verhaeren",
+  "originalLang": "fr-FR",
+  "modernRelevance": "★★★★★",
+  "context": "ヴェルハーレン（Émile Verhaeren, 1855–1916）の詩集『詩篇（第二集）』（1896年）収録の29行詩。ABBA×7連＋単独の結尾1行というアレクサンドラン構成。前半5連（v.1–20）は秋の夕暮れ──紫・朱・緑・金の色彩が充溢した腐熟する秋の夕日、リンゴ・ブドウ・イチゴ・月という果実の系列、白樺の間に映る赤く巨大な月──を感覚的に描く。後半（v.21–29）は突然の転回：「Mourir ainsi, mon corps, mourir, serait le rêve！（こうして死ぬことが夢だろう！）」という死への呼びかけが3度繰り返され（v.21・25・29）、秋のように死ぬという願望が宣言される。死を腐敗・崩壊としてでなく感覚の頂点における果実の熟成として提示する──「巨大すぎる花のように」「われらの傲慢が何も苦しまぬように」という超人的な死のヴィジョン。前詩『修道士たち』の「orgueil（傲慢）」という語が再び結末近くに現れ、詩集全体を貫く誇りの主題が継続する。",
+  "keywords": [
+    "死", "秋", "腐熟", "果実", "月", "傲慢", "感覚の頂点",
+    "Mourir", "紫・朱・金の色彩", "アレクサンドラン", "象徴主義",
+    "死の美化", "身体への呼びかけ"
+  ],
+  "relatedTexts": [
+    "verhaeren_heresiarque",
+    "verhaeren_moine_feodal",
+    "balmont_tsvety_v_snegakh",
+    "balmont_cherep"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "verses": "v.1–4",
+      "original": "Un soir plein de pourpres et de fleuves vermeils\nPourrit, par au delà des plaines diminuées,\nEt fortement, avec les poings de ses nuées,\nSur l'horizon verdâtre, écrase des soleils.",
+      "provisionalTranslation": "紫と朱色の川で満ちた一つの夕が\n縮小していく平原の彼方で腐っていく、\nそして強く、雲の拳をもって、\n緑がかった地平線の上に太陽たちを押し潰す。"
+    },
+    {
+      "id": 2,
+      "verses": "v.5–8",
+      "original": "Saison massive ! Et comme Octobre, avec paresse\nEt nonchaloir, se gonfle et meurt dans ce décor :\nPommes ! caillots de feu ; raisins ! chapelets d'or,\nQue le doigté tremblant des lumières caresse,",
+      "provisionalTranslation": "重厚な季節！そして十月が、怠惰と\n無関心をもって、この風景の中で膨らみ死んでいくように──\nリンゴ！火の血の塊、ブドウ！黄金の数珠、\n光の震える指使いが撫でる、"
+    },
+    {
+      "id": 3,
+      "verses": "v.9–12",
+      "original": "Une dernière fois, avant l'hiver. Le vol\nDes grands corbeaux ? il vient. Mais aujourd'hui, c'est l'heure\nEncor des feuillaisons de laque — et la meilleure.\nLes pousses des fraisiers ensanglantent le sol,",
+      "provisionalTranslation": "最後にもう一度、冬の前に。大きな烏の\n群れが飛ぶ？それは来る。しかし今日は、まだ\n漆塗りの葉叢の時──最良の時。\nイチゴの芽が大地を血に染める、"
+    },
+    {
+      "id": 4,
+      "verses": "v.13–16",
+      "original": "Le bois tend vers le ciel ses mains de feuilles rousses\nEt du bronze et du fer sonnent, là-bas, au loin.\nUne odeur d'eau se mêle à des senteurs de coing\nEt des parfums d'iris à des parfums de mousses.",
+      "provisionalTranslation": "森は赤褐色の葉の手を天に向けて伸ばし、\n青銅と鉄が遠く彼方で鳴り響く。\n水の匂いがマルメロの香りに混じり、\nアイリスの薫りが苔の薫りに混じる。"
+    },
+    {
+      "id": 5,
+      "verses": "v.17–20",
+      "original": "Et l'étang plane et clair reflète énormément\nEntre de fins bouleaux, dont le branchage bouge,\nLa lune, qui se lève épaisse, immense et rouge,\nEt semble un beau fruit mûr, éclos placidement.",
+      "provisionalTranslation": "そして平らで澄んだ池が、枝のゆれる\n細い白樺たちの間に、巨大に映し出す──\n厚く、巨大で、赤く昇る月を、\n穏やかに開いた美しい熟した果実のように見える月を。"
+    },
+    {
+      "id": 6,
+      "verses": "v.21–24",
+      "original": "Mourir ainsi, mon corps, mourir, serait le rêve !\nSous un suprême afflux de couleurs et de chants,\nAvec, dans les regards, des ors et des couchants,\nAvec, dans le cerveau, des rivières de sève.",
+      "provisionalTranslation": "こうして死ぬことが、私の身体よ、死ぬことが夢だろう！\n色彩と歌の至高の流入の下で、\n眼差しの中に黄金と夕暮れを持って、\n脳の中に樹液の川を持って。"
+    },
+    {
+      "id": 7,
+      "verses": "v.25–28",
+      "original": "Mourir ! comme des fleurs trop énormes, mourir !\nTrop massives et trop géantes pour la vie !\nLa grande mort serait superbement servie\nEt notre immense orgueil n'aurait rien à souffrir !",
+      "provisionalTranslation": "死ぬこと！巨大すぎる花のように、死ぬこと！\n人生には重すぎ、大きすぎる花のように！\n偉大な死は壮麗に仕えられるだろう\nそしてわれらの果てしない傲慢は何も苦しまずに済むだろう！"
+    },
+    {
+      "id": 8,
+      "verses": "v.29",
+      "original": "Mourir, mon corps, ainsi que l'automne, mourir !",
+      "provisionalTranslation": "死ぬこと、私の身体よ、秋のように、死ぬこと！"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "prosody",
+      "anchor": "Un soir plein de pourpres et de fleuves vermeils\nPourrit, par au delà des plaines diminuées,",
+      "body": "アレクサンドラン（12音節）、韻型 ABBA×7連＋単独1行（計29行）。第1連韻型：vermeils / soleils（A、男性）/ diminuées / nuées（B、女性）。「Pourrit（腐る）」という動詞が夕を主語とする大胆な擬人化──夕が秋の平原の彼方で「腐っていく」。「avec les poings de ses nuées（雲の拳をもって）」──雲を「拳」として太陽を「押し潰す（écrase）」という暴力的身体的比喩。ヴェルハーレンの象徴主義的自然描写は擬人化と身体化を積極的に用いる。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "Pommes ! caillots de feu ; raisins ! chapelets d'or,",
+      "body": "「リンゴ！火の血の塊──ブドウ！黄金の数珠」──感嘆符と点描的な名詞の列挙による視覚的・触覚的な果実の描写。「caillots de feu（火の血の塊）」──血栓を意味する「caillot」が赤いリンゴに使われ、果実と血・生命力が融合する。「chapelets d'or（黄金の数珠）」──宗教的な数珠がブドウの房の形象として現れ、秋の収穫に聖礼典的な色彩を与える。《修道士たち》の宗教語彙がここで世俗的な果実の描写に転用される。"
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "Encor des feuillaisons de laque — et la meilleure.\nLes pousses des fraisiers ensanglantent le sol,",
+      "body": "「漆塗りの葉叢──最良の時。イチゴの芽が大地を血に染める」──「laque（漆）」という東洋的工芸素材が紅葉の光沢を描く。「ensanglantent le sol（大地を血に染める）」──イチゴの赤い芽が大地を「血に染める」という暴力的比喩。先行の「caillots de feu（血の塊）」に続く血のイメージが、美しい秋景色に生死の緊張を埋め込む。この血の系列が後半「Mourir」の身体的死のヴィジョンへの橋渡しとなる。"
+    },
+    {
+      "paragraphId": 5,
+      "type": "commentary",
+      "anchor": "La lune, qui se lève épaisse, immense et rouge,\nEt semble un beau fruit mûr, éclos placidement.",
+      "body": "前半5連の頂点──月が「熟した果実のように穏やかに開く」という比喩で秋の景観全体が一つの「開花する果実」として集約される。「épaisse, immense et rouge（厚く、巨大で、赤い）」という三連の形容詞がリンゴ・ブドウ・イチゴ・満月という果実系列の終点として月を位置づける。「éclos placidement（穏やかに開いた）」──花が開くように昇る月。この「果実としての月」のイメージが次段落の「死ぬことが夢だ」への転換の詩的根拠となる──熟した果実は落ちる。"
+    },
+    {
+      "paragraphId": 6,
+      "type": "commentary",
+      "anchor": "Mourir ainsi, mon corps, mourir, serait le rêve !\nSous un suprême afflux de couleurs et de chants,",
+      "body": "詩の転換点──「Mourir ainsi, mon corps（こうして死ぬことが、私の身体よ）」という直接呼格。「mon corps（私の身体）」への呼びかけが詩全体で3度繰り返される（v.21・29）。「suprême afflux de couleurs et de chants（色彩と歌の至高の流入）」──感覚の頂点における死という象徴主義的なヴィジョン。秋の色彩（§1–5で積み上げた紫・朱・金・赤）が「至高の流入」として死の瞬間に凝縮される構造。"
+    },
+    {
+      "paragraphId": 7,
+      "type": "commentary",
+      "anchor": "Mourir ! comme des fleurs trop énormes, mourir !\nTrop massives et trop géantes pour la vie !",
+      "body": "「巨大すぎる花のように死ぬ、人生には重すぎ大きすぎる花のように」──死を小さな人生を超えた花の「巨大化」として描く逆説。バリモント「ЦВѢТОКЪ」の「Верховный знак творящего хотенья（創造する意志の最高の印）」としての花と比較：ヴェルハーレンの花は人生を超えて大きくなりすぎた存在として死を選ぶ。「notre immense orgueil（われらの果てしない傲慢）」──《修道士たち》全篇を貫く「orgueil（傲慢）」が再登場し、詩集的統一性が保たれる。"
+    },
+    {
+      "paragraphId": 8,
+      "type": "prosody",
+      "anchor": "Mourir, mon corps, ainsi que l'automne, mourir !",
+      "body": "詩の結末──単独1行の独立した第9段落。ABBA×7連の後に置かれる孤立した1行が、秋の死のテーマを最終的に定式化する。「ainsi que l'automne（秋のように）」──詩全体の比喩の集約。冒頭v.1の「Un soir plein de pourpres（紫に満ちた夕）」が末行の「秋のように死ぬ」に収束する弧状の構造。「Mourir … mourir」という同一語の首尾呼応（annominatio）が、呼びかけとしての反復を全詩の動詞的主題として刻印する。"
+    }
+  ]
+}
