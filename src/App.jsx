@@ -81,7 +81,7 @@ export default function App() {
       return localStorage.getItem('lastCategory') || 'all';
     } catch { return 'all'; }
   });
-  const [darkMode, setDarkMode] = useState(false);
+  const [darkMode, setDarkMode] = useState(true);
   const [fontSize, setFontSize] = useState('medium');
   const [fontFamily, setFontFamily] = useState('garamond');
   const [interlinear, setInterlinear] = useState(false); // 逐行対訳モード: false | 'side' | 'stacked'
@@ -2646,16 +2646,11 @@ export default function App() {
                         {getOriginalText(para).split('\n')[0]}
                       </span>
                     )}
-                    {/* 展開時：表示モードラベル（speakerがない通常テキスト） */}
-                    {!isCollapsed && !hasSpeaker && (
-                      <span className={`text-xs flex items-center gap-1.5 ${textSecondary}`}>
-                        {showFrench && showOfficial ? '原文 + 仮訳' : showFrench ? '原文' : showOfficial ? '仮訳' : ''}
-                        {interlinear && showFrench && showOfficial && (
-                          <span className={`px-1.5 py-0.5 rounded text-xs font-medium border ${
-                            darkMode ? 'bg-teal-900/40 text-teal-400 border-teal-800/60' : 'bg-teal-50 text-teal-600 border-teal-200'
-                          }`}>{interlinear === 'stacked' ? '上下' : '左右'}</span>
-                        )}
-                      </span>
+                    {/* 展開時：逐行対訳バッジのみ（モードラベル撤廃） */}
+                    {!isCollapsed && !hasSpeaker && interlinear && showFrench && showOfficial && (
+                      <span className={`px-1.5 py-0.5 rounded text-xs font-medium border ${
+                        darkMode ? 'bg-teal-900/40 text-teal-400 border-teal-800/60' : 'bg-teal-50 text-teal-600 border-teal-200'
+                      }`}>{interlinear === 'stacked' ? '上下' : '左右'}</span>
                     )}
                   </div>
                   <div className="flex items-center gap-2 shrink-0">
@@ -2870,19 +2865,15 @@ export default function App() {
                     {/* 原文 */}
                     {showFrench && (
                       <div className="pt-3 mb-2">
-                        {/* 原文ラベル行：通常テキストは「原文」バッジ、戯曲は speaker バッジ */}
-                        {hasSpeaker ? (
+                        {/* 戯曲：speaker バッジのみ表示（通常テキストはラベルなし） */}
+                        {hasSpeaker && (
                           <span className={`text-xs font-bold tracking-wider px-2 py-0.5 rounded border ${
                             darkMode ? speakerColor.dark : speakerColor.light
                           }`}>
                             {para.speaker.toUpperCase()}
                           </span>
-                        ) : (
-                          <span className={`text-xs font-sans tracking-widest uppercase ${darkMode ? 'text-zinc-500' : 'text-stone-400'}`}>
-                            原文
-                          </span>
                         )}
-                        <p translate="no" className={`notranslate mt-1.5 leading-relaxed whitespace-pre-line pl-4 border-l-2 ${
+                        <p translate="no" className={`notranslate ${hasSpeaker ? 'mt-1.5' : ''} leading-relaxed whitespace-pre-line pl-4 border-l-2 ${
                           darkMode ? 'border-stone-700' : 'border-stone-300'
                         } ${textClass} ${
                           fontSize === 'xxlarge' ? 'text-2xl' :
@@ -2901,11 +2892,8 @@ export default function App() {
 
                     {/* 仮訳 */}
                     {showOfficial && translation && (
-                      <div className={`mb-2 border-l-2 border-amber-400/70 pl-4 ${showFrench ? '' : 'pt-3'}`}>
-                        <span className={`text-xs font-sans tracking-widest uppercase ${darkMode ? 'text-zinc-500' : 'text-stone-400'}`}>
-                          仮訳
-                        </span>
-                        <p className={`mt-1.5 leading-relaxed whitespace-pre-line ${darkMode ? 'text-zinc-300' : 'text-stone-700'} ${
+                      <div className={`mb-2 border-l-2 border-rose-400/60 pl-4 ${showFrench ? '' : 'pt-3'}`}>
+                        <p className={`leading-relaxed whitespace-pre-line ${darkMode ? 'text-rose-300/80' : 'text-rose-800/80'} ${
                           fontSize === 'xxlarge' ? 'text-xl' :
                           fontSize === 'xlarge' ? 'text-lg' :
                           fontSize === 'large'  ? 'text-base' :
@@ -2957,9 +2945,6 @@ export default function App() {
                     {/* 自分の訳 */}
                     {showUser && (
                       <div className={`border-l-2 pl-4 ${darkMode ? "border-violet-600/50" : "border-violet-300"}`}>
-                        <span className={`text-xs font-sans tracking-widest uppercase ${darkMode ? 'text-zinc-500' : 'text-stone-400'}`}>
-                          自分の訳
-                        </span>
                         {editingParagraph === para.id ? (
                           <div className="mt-2">
                             <textarea
