@@ -1,0 +1,96 @@
+{
+  "id": "maeterlinck_serre_chaude",
+  "title": "Serre chaude",
+  "author": "Maurice Maeterlinck",
+  "source": "Serres chaudes. Bruxelles/Paris: Paul Lacomblez, Éditeur, 1912 (p. 9–10). 初版: Serres chaudes. Gand: L. Vanderpoorten, 1889. 底本: fr.wikisource.org/wiki/Serre_chaude（2024年照合）",
+  "year": "1889",
+  "firstPublication": "Serres chaudes. Gand: L. Vanderpoorten, 1889.",
+  "difficulty": "上級",
+  "category": "maeterlinck",
+  "originalLang": "fr-FR",
+  "modernRelevance": "★★★★★",
+  "context": "メーテルリンク（Maurice Maeterlinck, 1862–1949）の詩集『温室（Serres chaudes）』（1889年初版）の巻頭詩。詩集全体の鍵詩として第1位に配置される。22行の自由詩（vers libre）、韻なし、音節数不規則。「Serre d'ennui」が規則的なABBA×4連という均整ある形式に閉じ込めた温室像を、この巻頭詩は統語的・形式的に解放する──命令法（Allez ! / Examinez !）、括弧、感嘆符、不条理な並置が詩の構造を揺るがす。不条理な比喩の系列が詩の核心：「飢えた王女の思い」「砂漠の水夫の倦怠」「不治の患者の窓辺の金管音楽」「収穫の日に気絶した女」「运河を満帆で航行する軍艦」「百合の上の夜の鳥」「正午の弔い鐘」──これらは論理的・意味的連関を持たない並置として提示される。この「場違い（rien n'y est à sa place）」の美学がメーテルリンクのシュルレアリスム的先駆性として後世に評価された（ブルトン、エリュアール）。詩は「Mon Dieu ! mon Dieu ! quand aurons-nous la pluie, / Et la neige et le vent dans la serre !（主よ！いつ温室に雨と雪と風が来るのか！）」という閉鎖の打破への祈願で閉じる──「Serre d'ennui」が閉鎖に収束するのと対照的に、この詩は閉鎖からの出口を叫ぶ。",
+  "keywords": [
+    "温室", "閉鎖", "不条理な並置", "場違い", "自由詩", "巻頭詩",
+    "飢えた王女", "砂漠の水夫", "運河の軍艦", "正午の弔い鐘",
+    "シュルレアリスム先駆", "雨と雪と風", "Mon Dieu", "ベルギー象徴主義"
+  ],
+  "relatedTexts": [
+    "maeterlinck_serre_d_ennui",
+    "maeterlinck_offrande_obscure",
+    "mallarme_brise_marine",
+    "verhaeren_a_tenebres"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "verses": "v.1–4",
+      "original": "Ô serre au milieu des forêts !\nEt vos portes à jamais closes !\nEt tout ce qu'il y a sous votre coupole !\nEt sous mon âme en vos analogies !",
+      "provisionalTranslation": "ああ、森の真ん中の温室！\nそして永遠に閉じたあなたの扉！\nあなたのドームの下にあるものすべて！\nあなたの類似の中の私の魂の下に！"
+    },
+    {
+      "id": 2,
+      "verses": "v.5–7",
+      "original": "Les pensées d'une princesse qui a faim,\nL'ennui d'un matelot dans le désert,\nUne musique de cuivre aux fenêtres des incurables.",
+      "provisionalTranslation": "飢えた王女の思い、\n砂漠の中の水夫の倦怠、\n不治の患者たちの窓辺の金管楽器の音楽。"
+    },
+    {
+      "id": 3,
+      "verses": "v.8–11",
+      "original": "Allez aux angles les plus tièdes !\nOn dirait une femme évanouie un jour de moisson ;\nIl y a des postillons dans la cour de l'hospice ;\nAu loin, passe un chasseur d'élans, devenu infirmier.",
+      "provisionalTranslation": "最も温かい隅へ行け！\n収穫の日に気絶した女のようだ；\n施療院の中庭に御者たちがいる；\n遠くに、ヘラジカ猟師が看護師になって通り過ぎる。"
+    },
+    {
+      "id": 4,
+      "verses": "v.12–20",
+      "original": "Examinez au clair de lune !\n(Oh rien n'y est à sa place !)\nOn dirait une folle devant les juges,\nUn navire de guerre à pleines voiles sur un canal,\nDes oiseaux de nuit sur des lys,\nUn glas vers midi,\n(Là-bas sous ces cloches !)\nUne étape de malades dans la prairie,\nUne odeur d'éther un jour de soleil.",
+      "provisionalTranslation": "月の光の下で調べよ！\n（ああ、何一つそこにあるべき場所にない！）\n裁判官たちの前の狂女のようだ、\n運河を満帆で航行する軍艦、\n百合の上の夜の鳥たち、\n正午頃の弔い鐘、\n（あそこで、あの鐘の下で！）\n草原での病人たちの行軍、\n晴れた日のエーテルの匂い。"
+    },
+    {
+      "id": 5,
+      "verses": "v.21–22",
+      "original": "Mon Dieu ! mon Dieu ! quand aurons-nous la pluie,\nEt la neige et le vent dans la serre !",
+      "provisionalTranslation": "主よ！主よ！いつ私たちは雨を迎えられるのか、\nそして温室の中に雪と風を！"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "prosody",
+      "anchor": "Ô serre au milieu des forêts !\nEt vos portes à jamais closes !\nEt tout ce qu'il y a sous votre coupole !\nEt sous mon âme en vos analogies !",
+      "body": "自由詩（vers libre）──「Serre d'ennui」「Offrande obscure」の規則的な8音節・ABBA韻型と対照的に、この巻頭詩は音節数も韻も持たない。第1連のアナフォラ「Et…/ Et…/ Et…」（3回の反復）が詩集の開口部として機能する。「au milieu des forêts（森の真ん中の）」──温室は文明の人工的閉鎖空間でありながら自然（森）の真ん中に置かれるという逆説。「vos portes à jamais closes（永遠に閉じた扉）」──「Serre d'ennui」の「closes à travers les vitrages（硝子越しに閉じている）」と同じ閉鎖のモチーフが詩集の巻頭と内部で呼応する。「sous mon âme en vos analogies（あなたの類似の中の私の魂の下に）」──温室と詩人の魂が「analogies（類似）」の関係に置かれる：温室は魂の比喩的空間として宣言される。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "Les pensées d'une princesse qui a faim,\nL'ennui d'un matelot dans le désert,\nUne musique de cuivre aux fenêtres des incurables.",
+      "body": "温室の「内容物」として列挙される三つの不条理な形象。「飢えた王女の思い」──王族の高貴さと飢えの卑俗さの矛盾。「砂漠の水夫の倦怠」──水のない場所での水夫という環境との完全な乖離。「不治の患者の窓辺の金管音楽」──死に向かう人々への祝祭的・騒音的な音楽という不適切な共存。三つとも「場違い（déplacé）」な存在の組み合わせで構成される──これがメーテルリンクの「場違いの美学（esthétique du déplacement）」の核心。ブルトンが1924年の『シュルレアリスム宣言』でメーテルリンクを先駆として挙げた根拠がここにある。"
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "Allez aux angles les plus tièdes !\nOn dirait une femme évanouie un jour de moisson ;",
+      "body": "「Allez（行け）」という命令法──語りの主体が突然読者に命令を下す。温室の「最も温かい隅へ行け」というこの命令は誰に向けられているのか特定されない。「On dirait（〜のようだ）」──「On dirait que」は以後の列挙を導く反復フレーズ（v.9, v.14）として機能する。「収穫の日に気絶した女」「施療院の中庭の御者」「看護師になったヘラジカ猟師」──三つの形象がどれも職業・場所・状況の論理的接続を欠く。「chasseur d'élans, devenu infirmier（ヘラジカ猟師、看護師になった）」──極端な職業転換という変身の不条理。"
+    },
+    {
+      "paragraphId": 4,
+      "type": "commentary",
+      "anchor": "(Oh rien n'y est à sa place !)",
+      "body": "「（ああ、何一つそこにあるべき場所にない！）」──詩の自己解説的な括弧内の叫び。これが「Serre chaude」全体のメタ・コメントとして機能する──詩人は自らの詩的手法（不条理な並置）を括弧内で告白する。「場違い（rien à sa place）」の宣言が、続く8つの並置イメージの論理的根拠を与えながら同時に否定する。「folle devant les juges / navire de guerre sur un canal / oiseaux de nuit sur des lys / glas vers midi（裁判官の前の狂女・運河の軍艦・百合の上の夜の鳥・正午の弔い鐘）」──場所・時間・文脈のすべてにおける不適切な共存の四連打。"
+    },
+    {
+      "paragraphId": 4,
+      "type": "glossary",
+      "anchor": "Un navire de guerre à pleines voiles sur un canal,",
+      "body": "「運河を満帆で航行する軍艦」──詩集中で最も引用される行の一つ。「navire de guerre（軍艦）」の巨大さ・軍事性と「canal（運河）」の狭さ・平和性の極端な不均衡。「à pleines voiles（満帆で）」──海での全速力の状態が閉鎖的な運河水路に持ち込まれる。この不条理な形象は後のシュルレアリスムの「出会いの場違い性（la rencontre fortuite sur une table de dissection d'une machine à coudre et d'un parapluie）」（ロートレアモン）と正確に対応する──メーテルリンクの1889年の詩がロートレアモンと並ぶ前シュルレアリスム的テキストとして評価される根拠。"
+    },
+    {
+      "paragraphId": 5,
+      "type": "commentary",
+      "anchor": "Mon Dieu ! mon Dieu ! quand aurons-nous la pluie,\nEt la neige et le vent dans la serre !",
+      "body": "詩の結末──「主よ！主よ！いつ温室に雨と雪と風が来るのか！」という閉鎖からの出口への祈願。「pluie（雨）」「neige（雪）」「vent（風）」──温室の外部にある自然の力が、閉鎖を打ち破るものとして希求される。「Serre d'ennui」が「Monotonement comme un rêve（夢のように単調に）」で静止・閉鎖に収束するのと正確に対照的──巻頭詩はその閉鎖の打破を「主よ！」という叫びで要求する。マラルメ「Brise marine（海の微風）」の「Je partirai ! Steamer balançant ta mâture（出発しよう！帆柱を揺らす蒸気船よ）」という逃走への叫びとの並行──どちらも閉鎖からの自然的外部への脱出を宣言する。",
+      "targetId": "mallarme_brise_marine",
+      "targetParagraphId": null
+    }
+  ]
+}
