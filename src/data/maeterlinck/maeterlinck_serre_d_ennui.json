@@ -1,0 +1,71 @@
+{
+  "id": "maeterlinck_serre_d_ennui",
+  "title": "Serre d'ennui",
+  "author": "Maurice Maeterlinck",
+  "source": "Serres chaudes. Bruxelles/Paris: Paul Lacomblez, Éditeur, 1912 (p. 13–14). 初版: Serres chaudes. Gand: L. Vanderpoorten, 1889. 底本: fr.wikisource.org/wiki/Serre_d'ennui（2024年照合）",
+  "year": "1889",
+  "firstPublication": "Serres chaudes. Gand: L. Vanderpoorten, 1889.",
+  "difficulty": "中級",
+  "category": "maeterlinck",
+  "originalLang": "fr-FR",
+  "modernRelevance": "★★★★★",
+  "context": "メーテルリンク（Maurice Maeterlinck, 1862–1949）の詩集『温室（Serres chaudes）』（1889年初版）収録の16行詩。ABBA×4連、8音節（octosyllabes）。詩集名の「serres chaudes（温室）」が詩のタイトルに転用される──詩集全体の題名・比喩的核が一篇の詩として体現される自己言及的な構造。「ennui（倦怠）」をボードレール的な「青（bleu）」として定義し（第1連）、その「青い倦怠」を温室という閉鎖的・透明な空間として描く（第2–4連）。統語構造が特徴的：第5–16行が「Cet ennui bleu comme la serre, / Où…（この倦怠は温室のように青く、そこでは……）」という一文の関係節として続き、読者を温室の内部へ徐々に引き込む。「夢（rêve/songe）」「月（lune）」「沈黙・不動性（Immobilement）」「単調（Monotonement）」というヴェルレーヌ的な音楽性の語彙がこの詩の内的音調を決定する。前詩「Offrande obscure」が動的な捧げ物の列挙で祈願へと爆発するのに対し、「Serre d'ennui」は静止・不動・単調という内向きの凝結によって閉じる──詩集『温室』の二つの詩学的極。",
+  "keywords": [
+    "ennui", "温室", "青", "倦怠", "月", "夢", "不動性", "単調",
+    "Serres chaudes", "ベルギー象徴主義", "ヴェルレーヌ的音楽性",
+    "関係節構造", "ABBA", "閉鎖空間"
+  ],
+  "relatedTexts": [
+    "maeterlinck_offrande_obscure",
+    "verlaine_chanson_dautomne",
+    "verlaine_clair_de_lune",
+    "verhaeren_a_tenebres",
+    "baudelaire_spleen"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "verses": "v.1–4",
+      "original": "Ô cet ennui bleu dans le cœur !\nAvec la vision meilleure,\nDans le clair de lune qui pleure,\nDe mes rêves bleus de langueur !",
+      "provisionalTranslation": "ああ、この青い倦怠、心の中の！\nより良い幻視とともに、\n涙する月の光の中で、\n私の倦怠に満ちた青い夢の！"
+    },
+    {
+      "id": 2,
+      "verses": "v.5–16",
+      "original": "Cet ennui bleu comme la serre,\nOù l'on voit closes à travers\nLes vitrages profonds et verts,\nCouvertes de lune et de verre,\n\nLes grandes végétations\nDont l'oubli nocturne s'allonge,\nImmobilement comme un songe,\nSur les roses des passions ;\n\nOù de l'eau très lente s'élève,\nEn mêlant la lune et le ciel\nEn un sanglot glauque éternel,\nMonotonement comme un rêve.",
+      "provisionalTranslation": "この倦怠は温室のように青く、\nそこでは深く緑の硝子越しに\n閉じているのが見える、\n月と硝子に覆われて、\n\n巨大な植物群が──\nその夜の忘却が伸び広がる、\n夢のように不動のまま、\n情熱の薔薇の上に；\n\nそこでは非常にゆっくりとした水が上昇し、\n月と空を混ぜ合わせながら\n永遠に青みがかった啜り泣きの中に、\n夢のように単調に。"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "Ô cet ennui bleu dans le cœur !\nAvec la vision meilleure,",
+      "body": "「ああ、この青い倦怠（ennui bleu）、心の中の！」──「ennui（倦怠）」はボードレール以来の象徴主義的な核心概念。ここに「bleu（青）」という色彩が付与される──青は無限・距離・憂鬱の色（ノヴァーリスの「青い花」、マラルメ「L'Azur」の青い空）。「vision meilleure（より良い幻視）」──現実に対して「より良い」幻視という対立の導入。ヴァレリー「L'amateur de poèmes（詩の愛好者）」の「完全な快楽の稀な状態」との対比──ヴァレリーが詩読の理想状態を問うのに対し、メーテルリンクは倦怠の中の夢幻を主題とする。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "prosody",
+      "anchor": "Dans le clair de lune qui pleure,\nDe mes rêves bleus de langueur !",
+      "body": "韻型 ABBA（cœur / meilleure / pleure / langueur）──「cœur（心）」と「langueur（倦怠）」（A、男性終止）が「meilleure（より良い）」と「pleure（泣く）」（B、女性終止）を包み込む。第2・3・4連も同じ ABBA 包み韻。8音節（octosyllabes）の選択は「Offrande obscure」と同じ──詩集全体を通じてアレクサンドラン（12音節）を使わないことで、ヴェルハーレンの雄弁な長詩体とは異なる静謐な内向きの詩世界が構築される。「clair de lune qui pleure（涙する月の光）」──「clair de lune」はヴェルレーヌ「Clair de lune」の詩的空間の直接的な参照。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "Cet ennui bleu comme la serre,\nOù l'on voit closes à travers\nLes vitrages profonds et verts,",
+      "body": "詩の統語的核心──「Cet ennui bleu comme la serre, Où（この倦怠は温室のように青く、そこでは）」という比喩の提示と同時に始まる長い関係節が第16行まで続く。第5–16行が一文として繋がるという統語的連続性が、温室という閉鎖空間の「閉じた」感覚を統語的に模倣する。「closes à travers les vitrages（硝子越しに閉じている）」──内側から見える閉鎖の逆説；透明な硝子が閉鎖を可視化する。詩集題名「Serres chaudes（温室）」の「serre」がここで主要比喩として機能する──詩集全体が「温室」という閉鎖的・人工的な成長の空間として自己定義される。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "glossary",
+      "anchor": "Les grandes végétations\nDont l'oubli nocturne s'allonge,\nImmobilement comme un songe,\nSur les roses des passions ;",
+      "body": "「巨大な植物群──その夜の忘却が情熱の薔薇の上に夢のように不動に伸び広がる」──第3連は温室内の植物群の描写。「végétations（植物群）」という複数形が温室の密生した植物世界を示す。「l'oubli nocturne（夜の忘却）」──忘却が植物のように「伸び広がる（s'allonge）」という擬人化。「Immobilement comme un songe（夢のように不動のまま）」──副詞「Immobilement」は通常の語法から外れた強調形（通常はimmoble）で、メーテルリンクの語形成の独創性。「roses des passions（情熱の薔薇）」──温室に咲く薔薇が「情熱」として象徴化されるが、その上に「夜の忘却」が覆いかぶさる──情熱は忘却に包まれる。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "Où de l'eau très lente s'élève,\nEn mêlant la lune et le ciel\nEn un sanglot glauque éternel,\nMonotonement comme un rêve.",
+      "body": "詩の結末連──「非常にゆっくりとした水が上昇し、月と空を永遠に青みがかった啜り泣きの中に混ぜ合わせながら、夢のように単調に」。「très lente（非常にゆっくりとした）」という速度の極端な鈍化が詩全体の停滞感の頂点。「sanglot glauque éternel（永遠に青みがかった啜り泣き）」──「glauque（青緑・青灰色）」は第1連の「bleu（青）」の変奏で、詩全体の青の色調が最後に「glauque」という水中的・薄暗い色に収束する。「Monotonement comme un rêve（夢のように単調に）」──前連の「Immobilement comme un songe」と平行する比喩構造（副詞＋comme un ……）。「songe（夢想）」から「rêve（夢）」への語の推移が詩を閉じる。ヴェルレーヌ「Chanson d'automne」の「Monotone（単調に）」との共鳴──メーテルリンクの「Monotonement」は明らかにヴェルレーヌの詩的語彙の継承。"
+    }
+  ]
+}
