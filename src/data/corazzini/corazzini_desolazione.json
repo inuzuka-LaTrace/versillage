@@ -1,0 +1,124 @@
+{
+  "id": "corazzini_desolazione",
+  "title": "Desolazione del povero poeta sentimentale",
+  "author": "Sergio Corazzini",
+  "source": "Dal «Piccolo libro inutile». In: Sergio Corazzini. Liriche. — Napoli: Ricciardi, 1935. 底本: it.wikisource.org/wiki/Liriche_(Corazzini_1935)/Dal_«Piccolo_libro_inutile»/Desolazione_del_povero_poeta_sentimentale。テキスト: Google Books (books.google.it/books?id=PscGAQAAIAAJ)。",
+  "year": "1906",
+  "firstPublication": "Dal «Piccolo libro inutile», 1906. 詩集収録: Liriche. Napoli: Ricciardi, 1935.",
+  "difficulty": "中級",
+  "category": "corazzini",
+  "originalLang": "it-IT",
+  "modernRelevance": "★★★★★",
+  "context": "セルジョ・コラッツィーニ（1886–1907）の代表作にして、イタリア「クレプスコラリズモ（薄明詩派）」の詩学宣言。詩集「Piccolo libro inutile（役立たずの小さな本）」（1906）所収。21歳で結核によって夭逝する1年前の作品。詩はI〜VIIIの8節からなる散文詩的な自由詩で、中核的な問いは「なぜ君は私を詩人と呼ぶのか？」──「私は詩人ではない、泣く小さな子供だ」という逆説的な自己定義が全詩を貫く。D'Annunzioが「詩人は英雄・超人でなければならない」と宣言した時代に、コラッツィーニは真逆の詩人像を提示する──「貧しい、ありふれた悲しみ」「ただ疲れているから死にたい」「大聖堂のステンドグラスの天使に震える子供」。ブリューソフが「詩人は火刑台に登る覚悟が必要だ（Поэту）」と宣言したほぼ同時期に、コラッツィーニは「私は詩人ではない──静かに死んでいく子供だ」と応答するかのように書いた。「沈黙の聖体拝領（Io mi comunico del silenzio）」という第V節の言語神秘主義、第VIII節の「アーメン」による詩の祈り的な閉幕が、詩全体に典礼的な構造を与える。",
+  "keywords": [
+    "クレプスコラリズモ",
+    "薄明詩派",
+    "詩人論の反転",
+    "子供の詩人",
+    "死への欲望",
+    "沈黙の聖体拝領",
+    "ダヌンツィオ批判",
+    "自由詩",
+    "Piccolo libro inutile",
+    "結核",
+    "アーメン",
+    "キリスト教的詩学"
+  ],
+  "relatedTexts": [
+    "corazzini_spleen",
+    "bryusov_poetu",
+    "pascoli_al_dio_termine",
+    "verlaine_chanson_dautomne",
+    "mallarme_crise_de_vers"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "verses": "I",
+      "original": "Perchè tu mi dici: poeta?\nIo non sono un poeta.\nIo non sono che un piccolo fanciullo che piange.\nVedi: non ho che le lagrime da offrire al Silenzio\nPerchè tu mi dici: poeta?",
+      "provisionalTranslation": "なぜ君は私を詩人と呼ぶの？\n私は詩人ではない。\n私は泣く小さな子供に過ぎない。\n見てよ：沈黙に捧げるものは涙しかない──\nなぜ君は私を詩人と呼ぶの？"
+    },
+    {
+      "id": 2,
+      "verses": "II",
+      "original": "Le mie tristezze sono povere tristezze comuni.\nLe mie gioie furono semplici,\nSemplici, così, che se io dovessi confessarle a te arrossirei.\nOggi io penso a morire.",
+      "provisionalTranslation": "私の悲しみは貧しいありふれた悲しみ。\n私の喜びは素朴だった、\nこんなにも素朴で、もし君に告白しなければならないなら赤面するほど。\n今日、私は死ぬことを考えている。"
+    },
+    {
+      "id": 3,
+      "verses": "III",
+      "original": "Io voglio morire, solamente, perchè sono stanco;\nsolamente perchè i grandi angioli\nsu le vetrate delle catedrali\nmi fanno tremare d'amore e di angoscia;\nsolamente perchè, io sono, oramai,\nrassegnato come uno specchio,\ncome un povero specchio melanconico.\nVedi che io non sono un poeta:\nsono un fanciullo triste che ha voglia di morire.",
+      "provisionalTranslation": "私は死にたい、ただ、疲れているから；\nただ、大聖堂の\nステンドグラスの大きな天使たちが\n私を愛と苦悩で震わせるから；\nただ、今や私は\n鏡のように諦めているから、\n哀れな憂鬱な鏡のように。\n見てよ、私は詩人ではない：\n私は死にたがっている悲しい子供だ。"
+    },
+    {
+      "id": 4,
+      "verses": "IV",
+      "original": "Oh, non maravigliarti della mia tristezza!\nE non domandarmi;\nIo non saprei dirti che parole così vane,\nDio mio, così vane,\nche mi verrebbe di piangere come se fossi per morire.\nLe mie lagrime avrebbero l'aria\ndi sgranare un rosaio di tristezza\ndavanti alla mia anima sette volte dolente\nma io non sarei un poeta;\nsarei, semplicemente un dolce e pensoso fanciullo\ncui avvenisse di pregare, così, come canta e come dorme.",
+      "provisionalTranslation": "ああ、私の悲しさに驚かないで！\nそして尋ねないで；\n私はこんなにも空虚な言葉しか言えないだろう、\n神よ、こんなにも空虚な言葉を、\n死ぬかのように泣き出してしまうほど。\n私の涙は\n七重に嘆く私の魂の前で\n悲しみのバラ飾りを解き去っていくように見えるだろう──\nしかし私は詩人ではない、\n私はただの優しくて物思いにふける子供だろう、\n歌うように、眠るように、そうして祈ることになる子供が。"
+    },
+    {
+      "id": 5,
+      "verses": "V",
+      "original": "Io mi comunico del silenzio, cotidianamente come di Gesù.\nE i sacerdoti del silenzio sono i romori,\npoi che senza di essi io non avrei cercato e trovato il Dio.",
+      "provisionalTranslation": "私は沈黙の聖体拝領をする、イエスのように日々。\nそして沈黙の司祭たちは騒音であり、\nなぜなら騒音なしには私は神を求め見出すことができなかったから。"
+    },
+    {
+      "id": 6,
+      "verses": "VI",
+      "original": "Questa notte ho dormito con le mani in croce.\nMi sembrò di essere un piccolo e dolce fanciullo\ndimenticato da tutti gli umani,\npovera tenera preda del primo venuto;\ne desiderai di essere venduto,\ndi essere battuto\ndi essere costretto a digiunare\nper potermi mettere a piangere tutto solo,\ndisperatamente triste,\nin un angolo oscuro.",
+      "provisionalTranslation": "今夜、私は手を十字に組んで眠った。\n私は小さくて優しい子供になった気がした、\nすべての人間から忘れられた、\n通りすがりの者に哀れにも手弱い獲物；\nそして私は望んだ、売られることを、\n打たれることを、\n断食させられることを、\n一人きりで泣き出すことができるように、\n絶望的に悲しく、\n暗い隅で。"
+    },
+    {
+      "id": 7,
+      "verses": "VII",
+      "original": "Io amo la vita semplice delle cose.\nQuante passioni vidi sfogliarsi, a poco a poco,\nper ogni cosa che se ne andava!\nMa tu non mi comprendi e sorridi,\ne pensi che io sia malato.",
+      "provisionalTranslation": "私はものの素朴な生を愛する。\nどれほど多くの情熱が、少しずつ、散り落ちるのを見たことか、\n去っていくものごとのたびごとに！\nでも君は私を理解せず微笑んで、\n私が病気だと思っている。"
+    },
+    {
+      "id": 8,
+      "verses": "VIII",
+      "original": "Oh, io sono, veramente malato!\nE muoio, un poco, ogni giorno.\nVedi: come le cose.\nNon sono, dunque, un poeta:\nio so che per esser detto: poeta, conviene\nviver ben altra vita!\nIo non so, Dio mio, che morire.\nAmen.",
+      "provisionalTranslation": "ああ、私は本当に病気だ！\nそして私は毎日、少しずつ、死んでいく。\n見てよ：ものと同じように。\n私は、だから、詩人ではない：\n詩人と呼ばれるためには\nまったく別の生き方が必要だと私は知っている！\n私には、神よ、死ぬことしか分からない。\nアーメン。"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "Perchè tu mi dici: poeta?\nIo non sono un poeta.\nIo non sono che un piccolo fanciullo che piange.",
+      "body": "詩全体の核心テーゼを冒頭で三度繰り返して定立する──「詩人ではない」という否定の反復。D'Annunzioが『詩人の部屋（Poema Paradisiaco）』で「詩人は上から語る者」として詩人の特権性を宣言したのとは逆に、コラッツィーニは「泣く小さな子供（piccolo fanciullo che piange）」という最小限の自己定義を選ぶ。「fanciullo（子供）」はパスコリの「il fanciullino（小さな子供）」詩学（1897）への直接の参照──パスコリは詩人の本質を「万人の中に眠る子供の声」に求めた。しかしパスコリが子供を「詩的感性の源泉」として肯定的に位置づけるのに対し、コラッツィーニの子供は「涙しか持たない」存在として提示される。",
+      "targetId": "pascoli_al_dio_termine",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 1,
+      "type": "prosody",
+      "anchor": "Perchè tu mi dici: poeta?",
+      "body": "自由詩（verso libero）の典型的な構造──行の長さが3音節（「Amen.」）から20音節超まで大きく変動する。しかし散文ではなく詩として機能するのは、反復（「Perchè tu mi dici: poeta?」が節Iの冒頭と末尾に置かれる円環構造）と内部リズムの一貫性による。イタリア詩の伝統的な音節数への散在的な照応──「Io non sono un poeta」（8音節 = ottonario）、「Le mie tristezze sono povere tristezze comuni」（19音節 = 長行）──が規則を意図的に乱しながら保つ。感嘆符・疑問符・省略符（…）の多用が口語的・内省的な声の質感を演出する。"
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "rassegnato come uno specchio,\ncome un povero specchio melanconico.",
+      "body": "「鏡のように諦めた、哀れな憂鬱な鏡のように」──鏡は映すだけで自らの意志を持たない存在の比喩。詩人が世界を「反映する」（詩的模倣）のではなく「反映しながら溶けていく」存在として自己を定義する。「povero（哀れな・貧しい）」という形容詞は詩の題名「povero poeta sentimentale（貧しい感傷的詩人）」に反響し、詩全体で繰り返されるコラッツィーニの自己規定の核心語。直前の「solamente perchè（ただ〜だから）」の三重反復（アナフォラ）が「死にたい理由」を三段階で積み重ね、その三番目の理由として「鏡」が来る──最も自己否定的な比喩が最終項として置かれる構造。"
+    },
+    {
+      "paragraphId": 5,
+      "type": "glossary",
+      "anchor": "Io mi comunico del silenzio, cotidianamente come di Gesù.\nE i sacerdoti del silenzio sono i romori,",
+      "body": "「私は沈黙の聖体拝領をする、イエスのように日々。そして沈黙の司祭たちは騒音だ」──詩全体で最も神学的に凝縮された節。「comunicarsi（聖体拝領する）」はカトリックの典礼用語──キリストの体と血を日々受け取るという宗教的行為を、「沈黙」の受容として転用する。逆説の構造：沈黙の司祭が「騒音（romori）」であるとは、騒音の中に身を置くことで初めて沈黙の価値が現れるという認識論。この節の「cotidianamente（日々）」は第VIII節「un poco, ogni giorno（毎日少しずつ）死んでいく」と呼応し、日々の死＝日々の聖体拝領という等式を形成する。詩全体に「Amen」で閉じる典礼的構造を与える基盤。"
+    },
+    {
+      "paragraphId": 6,
+      "type": "commentary",
+      "anchor": "Questa notte ho dormito con le mani in croce.\nMi sembrò di essere un piccolo e dolce fanciullo\ndimenticato da tutti gli umani,",
+      "body": "「今夜、私は手を十字に組んで眠った」──キリストの十字架をその字義通りの「眠りの姿勢」として実践するという行為。「piccolo e dolce fanciullo / dimenticato（すべての人間に忘れられた小さく優しい子供）」はコラッツィーニの詩学的自己像の最も具体的なヴィジョン。続く「売られ・打たれ・断食させられたい」という三つの受動形の連鎖は、キリストの受難（売られ・鞭打たれ・断食・十字架）の幼児化・個人化として読める。「暗い隅（angolo oscuro）」での孤独な泣き声が詩の最終節「Amen」への道を準備する。"
+    },
+    {
+      "paragraphId": 8,
+      "type": "commentary",
+      "anchor": "Non sono, dunque, un poeta:\nio so che per esser detto: poeta, conviene\nviver ben altra vita!\nIo non so, Dio mio, che morire.\nAmen.",
+      "body": "詩の結論的自己否定と「Amen」による閉幕。「詩人と呼ばれるためにはまったく別の生き方が必要だ」──暗示された「詩人の別の生き方」とは、D'Annunzio的な英雄主義・ブリューソフが「Поэту（詩人へ）」で命じた「火刑台に登る覚悟」。コラッツィーニはそれを知っていながら、自分はその道ではなく「死ぬことしか分からない」と宣言する──詩人であることへの拒否と自己の死の受容が最終行で合一する。「Amen」という典礼的な閉幕が、この詩全体を祈り・告白・ミサの形式として完成させる。21歳での実際の死（結核）が詩の言葉に伝記的な重みを与え、クレプスコラリズモ詩学の最も純粋な体現として文学史に刻まれた理由がここにある。"
+    }
+  ]
+}
