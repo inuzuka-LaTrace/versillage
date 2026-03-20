@@ -1,0 +1,88 @@
+{
+  "id": "verhaeren_insatiablement",
+  "title": "Insatiablement",
+  "author": "Émile Verhaeren",
+  "source": "Poèmes (IIe série). Paris: Société du Mercure de France, 1896, p. 39–40. 底本: fr.wikisource.org/wiki/Insatiablement_(Verhaeren)（2024年照合）",
+  "year": "1896",
+  "firstPublication": "Poèmes (IIe série). Paris: Société du Mercure de France, 1896.",
+  "difficulty": "上級",
+  "category": "verhaeren",
+  "originalLang": "fr-FR",
+  "modernRelevance": "★★★★★",
+  "context": "ヴェルハーレン（Émile Verhaeren, 1855–1916）の詩集『詩篇（第二集）』（1896年）収録の20行詩。ABAB×5連のアレクサンドラン。詩集では「Le Gel（凍結）」と「Les Chaumes（荒野）」の間に置かれる。「夕が日々の幻滅に満ちて」始まり、「私」が自分の心臓を歯で噛む、という自己拷問の場面から出発し、遠景の燃える海の比喩（第2連）と心臓が岩に砕ける波の比喩（第3連）を経て、苦しみを意志的に選び「飲み干す（se verse à boire）」という結末へ。タイトル語「insatiablement（飽くことなく）」は最終行最後の語として出現し、苦しみへの飽くなき欲求という逆説的な快楽原則を体現する。「Mourir」の「われらの傲慢は何も苦しまずに済む」とは逆に、この詩は「orgueil（傲慢）」が苦痛の叫び（abois）の下で高揚する──苦しみを通じた傲慢の自己確認という、ボードレール的な悪の審美学の系譜。",
+  "keywords": [
+    "苦しみの意志的選択", "自己拷問", "傲慢", "夕", "海の比喩",
+    "insatiablement", "飽くなき欲求", "orgueil", "lie（澱）", "calice",
+    "ボードレール的悪の審美学", "自己嘲笑"
+  ],
+  "relatedTexts": [
+    "verhaeren_mourir",
+    "verhaeren_heresiarque",
+    "baudelaire_spleen",
+    "balmont_yad"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "verses": "v.1–4",
+      "original": "Le soir, plein des dégoûts du journalier mirage,\nAvec des dents, brutal, de folie et de feu,\nJe mords en moi mon propre cœur et je l'outrage\nEt ricane, s'il tord son martyre vers Dieu.",
+      "provisionalTranslation": "夕が、日々の幻影の嫌悪に満ちて、\n歯を立て、残酷に、狂気と炎をもって、\n私は自分の中で自らの心臓を噛み、それを辱め、\nそして心臓が神に向かって殉教をねじるなら嗤う。"
+    },
+    {
+      "id": 2,
+      "verses": "v.5–8",
+      "original": "Là-bas, un ciel brûlé d'apothéoses vertes\nDomine un coin de mer — et des flammes de flots\nEntrent, comme parmi des blessures ouvertes,\nEn des écueils troués de cris et de sanglots.",
+      "provisionalTranslation": "遠くに、緑の神格化に燃えた空が\n海の一角を支配する──そして波の炎が\n開いた傷の中に入るように、\n叫びとすすり泣きで穿たれた岩礁に侵入する。"
+    },
+    {
+      "id": 3,
+      "verses": "v.9–12",
+      "original": "Et mon cœur se reflète en ce soir de torture,\nQuand la vague se ronge et se déchire aux rocs\nEt s'acharne contre elle et que son armature\nD'or et d'argent éclate et s'émiette, par chocs.",
+      "provisionalTranslation": "そして私の心臓はこの拷問の夕に映り込む、\n波が岩を蝕み岩によって引き裂かれ、\n自らに嚙みつくとき、そして波の金と銀の\n鎧骨格が衝撃によって炸裂し砕け散るとき。"
+    },
+    {
+      "id": 4,
+      "verses": "v.13–16",
+      "original": "La joie, enfin, me vient de souffrir par moi-même,\nParce que je le veux, et je m'enivre aux pleurs\nQue je répands, et mon orgueil tait son blasphème\nEt s'exalte, sous les abois de mes douleurs.",
+      "provisionalTranslation": "喜びが、ついに、自らによって苦しむことから来る、\n私がそれを望むから──私は自ら流す涙に酔い、\n私の傲慢はその冒瀆を黙らせ、\n私の苦痛の吠え声の下で高揚する。"
+    },
+    {
+      "id": 5,
+      "verses": "v.17–20",
+      "original": "Je harcèle mes maux et mes vices. J'oublie\nL'inextinguible ennui de mon détraquement,\nEt quand lève le soir son calice de lie,\nJe me le verse à boire, insatiablement.",
+      "provisionalTranslation": "私は自らの苦悩と悪徳を執拗に追い立てる。私は忘れる\n私の錯乱の消えることのない倦怠を、\nそして夕が澱の杯を高く掲げるとき、\n私はそれを自分のために注いで飲む、飽くことなく。"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "Je mords en moi mon propre cœur et je l'outrage\nEt ricane, s'il tord son martyre vers Dieu.",
+      "body": "「私は自分の中で自らの心臓を歯で噛み、辱め、神に向かってそれが殉教をねじるなら嗤う」──自己拷問と神への拒否という冒頭の衝撃。「mords（噛む）」「outrage（辱める）」「ricane（嗤う）」という動詞の連続が心臓への暴力と嗤いの二重性を示す。「s'il tord son martyre vers Dieu（神に向かって殉教をねじるなら）」──神への助けの訴えを嗤うことで、苦しみを神抜きに意志的に引き受けるという詩の主題が冒頭に宣言される。「L'Hérésiarque」の「ローマの雷の下で燃える傲慢」と同系の宗教的反抗。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "prosody",
+      "anchor": "Là-bas, un ciel brûlé d'apothéoses vertes\nDomine un coin de mer — et des flammes de flots\nEntrent, comme parmi des blessures ouvertes,\nEn des écueils troués de cris et de sanglots.",
+      "body": "第2連は詩の唯一の外景描写──第1連の自己内部から外部の海へ視点が移動し、第3連で再び心臓の比喩として内部へ帰還する。「apothéoses vertes（緑の神格化）」という異常な色彩（緑の神格化）が前詩「Mourir」の「pourpres et fleuves vermeils（紫と朱色の川）」と対照する。「comme parmi des blessures ouvertes（開いた傷の中に入るように）」──海が傷として読まれ、波の侵入が傷口への侵入となる比喩。身体的苦痛の語彙が自然描写に浸透する。"
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "Et mon cœur se reflète en ce soir de torture,\nQuand la vague se ronge et se déchire aux rocs",
+      "body": "「私の心臓はこの拷問の夕に映り込む──波が岩に蝕まれ引き裂かれるとき」──池が月を映す「Mourir」§5の「l'étang plane et clair reflète」と同じ動詞「se reflète」が、しかし「torture（拷問）」の夕に使われる。「se ronge（蝕む）」「se déchire（引き裂かれる）」「s'acharne contre elle（自らに嚙みつく）」──波の自己破壊的な動作が心臓の自己攻撃の鏡となる。再帰動詞の連続が「自分自身への暴力」という詩のテーマを統語的に体現する。"
+    },
+    {
+      "paragraphId": 4,
+      "type": "commentary",
+      "anchor": "La joie, enfin, me vient de souffrir par moi-même,\nParce que je le veux,",
+      "body": "詩の転換点──「喜びが、ついに、自らによって苦しむことから来る、私がそれを望むから」。「enfin（ついに）」という副詞が第1–3連の苦しみの積み上げの後の到達点を示す。「parce que je le veux（私がそれを望むから）」──苦しみが外から課せられるのでなく意志的に選ばれるという宣言。ショーペンハウアーの苦しみの意志（Wille）への象徴主義的な応答──バリモント「ЯДЪ」の「творчески горишь（創造的に燃える）」との並行：苦しみを創造的に選ぶという詩学。「mon orgueil s'exalte sous les abois de mes douleurs（傲慢が苦痛の吠え声の下で高揚する）」──《修道士たち》以来のorgueilの主題の最も内面化された形。"
+    },
+    {
+      "paragraphId": 5,
+      "type": "glossary",
+      "anchor": "Et quand lève le soir son calice de lie,\nJe me le verse à boire, insatiablement.",
+      "body": "詩の結末──「夕が澱の杯を高く掲げるとき、私はそれを自分のために注いで飲む、飽くことなく」。「calice de lie（澱の杯）」──「calice（聖杯）」はキリストの受難の比喩（マタイ26:39「この杯を私から取り去ってください」）で、「lie（澱・底かす）」は液体の最も苦い残留物。神聖な苦杯のモチーフをヴェルハーレンが自己苦悩の美学として転用する。「se verse à boire（注いで飲む）」という再帰表現──自分自身のために自分で注ぐという自己完結した行為。「insatiablement」というタイトル語の最終配置──詩全体の主題語が最終行最後の語として詩を閉じる。"
+    }
+  ]
+}
