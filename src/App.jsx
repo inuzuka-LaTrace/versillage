@@ -2761,7 +2761,7 @@ export default function App() {
                                             {lineNum}
                                           </span>
                                         )}
-                                        <span translate="no" className={`notranslate leading-relaxed font-serif ${textClass} ${
+                                        <span translate="no" style={{ fontFamily: fontFamilyStyle }} className={`notranslate leading-relaxed ${textClass} ${
                                           fontSize === 'xxlarge' ? 'text-2xl' :
                                           fontSize === 'xlarge'  ? 'text-xl' :
                                           fontSize === 'large'   ? 'text-lg' :
@@ -2775,8 +2775,8 @@ export default function App() {
                                     )}
                                     {/* 訳行 */}
                                     {!isBlankTrans && (
-                                      <div className={`pl-2 mt-0.5 border-l-2 ${darkMode ? 'border-teal-700/50 text-teal-300/70' : 'border-teal-300/60 text-teal-800/80'}`}>
-                                        <span className={`leading-relaxed ${
+                                      <div className={`pl-2 mt-0.5 border-l-2 ${darkMode ? 'border-rose-700/50 text-rose-300/70' : 'border-rose-300/60 text-rose-800/80'}`}>
+                                        <span style={{ fontFamily: fontFamilyStyle }} className={`leading-relaxed ${
                                           fontSize === 'xxlarge' ? 'text-xl' :
                                           fontSize === 'xlarge'  ? 'text-lg' :
                                           fontSize === 'large'   ? 'text-base' :
@@ -2827,7 +2827,7 @@ export default function App() {
                                         {lineNum}
                                       </span>
                                     )}
-                                    <span translate="no" className={`notranslate leading-relaxed font-serif ${textClass} ${
+                                    <span translate="no" style={{ fontFamily: fontFamilyStyle }} className={`notranslate leading-relaxed ${textClass} ${
                                       fontSize === 'xxlarge' ? 'text-2xl' :
                                       fontSize === 'xlarge' ? 'text-xl' :
                                       fontSize === 'large'  ? 'text-lg' :
@@ -2842,8 +2842,8 @@ export default function App() {
                                     </span>
                                   </div>
                                   {/* 訳セル */}
-                                  <div className={`px-3 py-2 ${darkMode ? 'text-teal-300/80' : 'text-teal-800/90'}`}>
-                                    <span className={`leading-relaxed ${
+                                  <div className={`px-3 py-2 ${darkMode ? 'text-rose-300/80' : 'text-rose-800/90'}`}>
+                                    <span style={{ fontFamily: fontFamilyStyle }} className={`leading-relaxed ${
                                       fontSize === 'xxlarge' ? 'text-xl' :
                                       fontSize === 'xlarge' ? 'text-lg' :
                                       fontSize === 'large'  ? 'text-base' :
