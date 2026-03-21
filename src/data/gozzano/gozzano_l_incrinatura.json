@@ -1,0 +1,78 @@
+{
+  "id": "gozzano_l_incrinatura",
+  "title": "L'incrinatura",
+  "author": "Guido Gozzano",
+  "source": "Poesie sparse (XX secolo). In: Gozzano: Tutte le poesie, a cura di Giacinto Spagnoletti. Grandi Tascabili Economici Newton, n. 202. Newton Compton Editori, Roma, 1993. 底本: it.wikisource.org/wiki/Poesie_sparse/L%27incrinatura（2024年照合）",
+  "year": "1903",
+  "firstPublication": "Poesie sparse (XX secolo)",
+  "difficulty": "中級",
+  "category": "gozzano",
+  "originalLang": "it-IT",
+  "modernRelevance": "★★★★★",
+  "context": "グイド・ゴッツァーノ（Guido Gozzano, 1883–1916）の散詩集（Poesie sparse）収録の31行詩。テルツァ・リーマ（ダンテ式三行連句 ABA BCB CDC…）、10連×3行＋結尾1行、エンデカシラッボ（11音節）。詩集の中でダンテの詩形を最も明示的に採用した詩──ゴッツァーノの詩学的「ダンテ意識」の体現。「ボヘミアの古い硝子（vetro di Boemia antica）」に活けた花が、象牙の扇子でかすかに触れたことによる目に見えない亀裂（incrinatura）のために枯れていく過程を描く。この「ひびの入った硝子と萎れる花」が愛する心の比喩として機能する──「かすかに触れただけで、目に見えないひびが円を描いて広がり、心は知らないうちに壊れる」という愛の傷の哲学。「Garcilaso（ガルシラーソ）」への言及──ガルシラーソ・デ・ラ・ベガ（1503–36）はスペルのソネット詩人で「金髪の」という形容で知られる。愛する女性がガルシラーソを愛したように病んでいるという間接的な言及。冒頭と最終連がほぼ同じ問いで閉じる環状構造（「なぜボヘミアの古い硝子の中で、一時間後にはもう花が萎れるのか？」）がテルツァ・リーマの閉環的性質（最終連が前の連の B 韻を受けて閉じる）と完全に対応する。",
+  "keywords": [
+    "亀裂", "ボヘミア硝子", "テルツァ・リーマ", "ダンテ詩形", "花の枯れ",
+    "目に見えない傷", "愛の哲学", "Garcilaso", "vetro di Boemia",
+    "象牙の扇子", "環状構造", "黄昏主義", "Crepuscolarismo"
+  ],
+  "relatedTexts": [
+    "gozzano_la_preraffaelita",
+    "gozzano_nell_abazia_di_san_giuliano",
+    "dante_inferno_canto_5",
+    "pascoli_al_dio_termine"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "verses": "v.1–9",
+      "original": "Perché nel vetro di Boemia antica,\ndopo un'ora, già langue l'aromale\nfior che m'offerse la mia dolce Amica?\n\nChe la verbena vi languisce, quale\nla Donna amante il biondo Garcilaso\ngià martoriata dal segreto male.\n\nIo so quel male: il calice del vaso\nla bella mano - o gran disavventura! -\ncol ventaglio d'avorio urtò per caso.",
+      "provisionalTranslation": "なぜボヘミアの古い硝子の中で、\n一時間後にはもう、私の優しいアミカが\n差し出してくれた芳しい花が萎れるのか？\n\nバーベナがそこで萎れるのは、まるで\n金髪のガルシラーソを愛する女が\n秘密の病にすでに苦しめられているように。\n\n私はその病を知っている：花瓶の杯を\n美しい手が──なんと不運なことか──\n象牙の扇子でうっかり触れてしまった。"
+    },
+    {
+      "id": 2,
+      "verses": "v.10–18",
+      "original": "E pur bastò. La lieve incrinatura\nè insanabile ormai; il morituro\nfiore s'inchina, stanco, nell'arsura,\n\nché la ferita del cristallo duro\ntacitamente compie tutto il giro\nper cammino invisibile e sicuro.\n\nVanisce l'acqua e muore il fiore. Io miro\nil calice mortifero che serba\nquasi non traccia di ferita in giro,",
+      "provisionalTranslation": "しかしそれだけで十分だった。かすかな亀裂は\nもはや治せない；死にかけた\n花は乾燥の中で疲れて頭を垂れる、\n\nなぜなら硬い水晶の傷が\n目に見えない確かな道を通って\n静かに全周を描くから。\n\n水が消え花が死ぬ。私は眺める\nほとんど周りに傷の痕跡を留めない\n致死的な杯を、"
+    },
+    {
+      "id": 3,
+      "verses": "v.19–31",
+      "original": "e una assai trista simiglianza e acerba\nsento fra il vetro e il calice d'un cuore\nsfiorato a pena da una man superba.\n\nLa ferita da sé, senza romore,\nil calice circonda nel rotondo\ne il fior d'amore a poco a poco muore.\n\nIl cuor che sano e forte pare al mondo\nsèrpere senta la segreta pena\nin cerchio inesorabile e profondo.\n\nE pur la mano l'ha sfiorata a pena...\nPerché nel vetro di Boemia antica,\ndopo un'ora, già langue la verbena\nche vi compose la mia dolce Amica?",
+      "provisionalTranslation": "そして私は硝子とある心の杯の間に\n非常に悲しく苦い類似を\n感じる──傲慢な手にかすかに触れられた心の。\n\n傷は自らで、音もなく、\n杯を円の中で取り囲んでいく\nそして愛の花は少しずつ死んでいく。\n\n世界に健康で強く見える心も\n感じる、秘密の苦しみが蛇のように\n避けがたく深い円の中を這うのを。\n\nしかしそれでも手はかすかに触れただけだった……\nなぜボヘミアの古い硝子の中で、\n一時間後にはもうバーベナが萎れるのか、\n私の優しいアミカが活けてくれたバーベナが？"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "prosody",
+      "anchor": "Perché nel vetro di Boemia antica,\ndopo un'ora, già langue l'aromale\nfior che m'offerse la mia dolce Amica?",
+      "body": "テルツァ・リーマ（terzine incatenate）──ABA BCB CDC…という連鎖三行連句。ダンテ『神曲』が採用した形式をゴッツァーノがここで使用する。10連×3行＋結尾1行 = 31行。最終行「Amica」が第1連の「antica/Amica」の A 韻として環状に閉じる──テルツァ・リーマの形式的本質（常に次の連へ韻を渡す連鎖）が、詩の主題である「ひびの円」と形式的に対応する。エンデカシラッボ（11音節）で「La preraffaelita」のソネット形式とは異なり、より長い物語的展開を可能にする。「vetro di Boemia antica（ボヘミアの古い硝子）」──ボヘミアン・グラスはヨーロッパで最高品質の薄手の吹きガラスとして知られ、「古い（antica）」という形容が骨董品・貴重品としての文化的価値を付与する。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "glossary",
+      "anchor": "la Donna amante il biondo Garcilaso\ngià martoriata dal segreto male.",
+      "body": "「金髪のガルシラーソを愛する女が秘密の病にすでに苦しめられているように」──ガルシラーソ・デ・ラ・ベガ（Garcilaso de la Vega, 1503–1536）はスペイン黄金時代の詩人で、イタリア・ペトラルカ主義をスペイン語に移植した。「金髪の（biondo）」という形容はガルシラーソの詩のミューズ（イザベル・フレイレ）への言及か、あるいはガルシラーソ自身を愛して病んだ女性の伝説的イメージ。ゴッツァーノのイタリア語詩の中にスペイン詩人の名が出現することは、ヨーロッパ象徴主義のペトラルカ主義的伝統への詩人の意識を示す。「segreto male（秘密の病）」──明示されない病が愛の傷の比喩として機能し、詩全体の「目に見えない亀裂」の主題を先取りする。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "E pur bastò. La lieve incrinatura\nè insanabile ormai;\n[...]\nché la ferita del cristallo duro\ntacitamente compie tutto il giro\nper cammino invisibile e sicuro.",
+      "body": "詩の核心命題──「かすかな亀裂は治せない；傷は目に見えない確かな道を通って静かに全周を描く」。「lieve incrinatura（かすかな亀裂）」──「lieve（軽い・かすかな）」という形容が破壊的結果との不均衡を強調する。「tacitamente（静かに）」「invisibile e sicuro（目に見えない確かな）」──沈黙・不可視・確実性という三つの形容が「亀裂の進行」の性質を定義する。メーテルリンク「Aquarium」の「E lasses enfin di cueillir / Ces fleurs absentes（不在の花を摘むことに疲れて）」との比較：どちらも花が枯れる過程を愛の失われる過程として描くが、メーテルリンクは水中的停滞として、ゴッツァーノは硝子の亀裂の円として描く。"
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "e una assai trista simiglianza e acerba\nsento fra il vetro e il calice d'un cuore\nsfiorato a pena da una man superba.",
+      "body": "詩の比喩的転換点──「硝子と心の杯の間の悲しく苦い類似」。「sfiorato a pena（かすかに触れられただけの）」「man superba（傲慢な手）」──「傲慢」という形容が愛する相手の意図しない傷つけを描く。「La preraffaelita」の「Niuna dolcezza è ne l'aspetto fiero（誇り高い顔貌に何ら優しさはない）」の「fiero」と対応する──傲慢・誇り高い他者が知らずに「ひびを入れる」という詩集内の人物像の連続。「calice d'un cuore（心の杯）」──「Nell'Abazia」の「calice di lie（澱の杯）」との対応：どちらも「calice（杯）」を感情・信仰の容器として使用するが、ゴッツァーノでは硝子の花瓶と心臓が同一の比喩体系に属する。"
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "E pur la mano l'ha sfiorata a pena...\nPerché nel vetro di Boemia antica,\ndopo un'ora, già langue la verbena\nche vi compose la mia dolce Amica?",
+      "body": "詩の環状結末──「E pur la mano l'ha sfiorata a pena...（しかしそれでも手はかすかに触れただけだった…）」という省略記号の後、冒頭の問いが「aromale fior（芳しい花）」から「verbena（バーベナ）」という具体的な植物名に変えて反復される。この変化──抽象的な「芳しい花」から具体的な「バーベナ」への移行──は、詩の経験（亀裂の理解）が問いを更新したことを示す。冒頭の問い（v.1–3）が「なぜ花が萎れるのか？」だったのに対し、結末の問い（v.29–31）は「なぜアミカが活けた花が萎れるのか？」と「アミカ」を強調して閉じる──詩的理解（亀裂の進行）の後でも問いは解消されず、より個人的になって回帰する。ダンテ「Inferno V」の「Nessun maggior dolore / che ricordarsi del tempo felice / ne la miseria（不幸の中で幸福な時を思い出すことよりも大きな苦しみはない）」との詩形的・主題的連結──どちらもテルツァ・リーマで愛の苦悩を語る。",
+      "targetId": "dante_inferno_canto_5",
+      "targetParagraphId": 16
+    }
+  ]
+}
