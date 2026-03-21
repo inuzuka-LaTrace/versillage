@@ -1232,7 +1232,7 @@ export default function App() {
   // red:    ダーク red-300/80 / ライト red-800/80
   // violet:    ダーク violet-300/80 / ライト violet-800/80
   const transTextClass = darkMode
-    ? transColor === 'red'    ? 'text-red-700/80'
+    ? transColor === 'red'    ? 'text-red-600/80'
     : transColor === 'violet'    ? 'text-violet-300/80'
     : /* neutral */              'text-zinc-300'
     : transColor === 'red'    ? 'text-red-500/80'
@@ -1504,7 +1504,7 @@ export default function App() {
             <p className={`text-sm font-IBM Plex sans JP ${darkMode ? 'text-violet-300' : 'text-violet-900'}`}>
               主に近代西洋の詩と散文を収録。フランス語・ドイツ語・イタリア語・ロシア語・英語の原文と日本語仮訳を並べて比較し、自分の訳文も記録できます。
             </p>
-            <p className={`text-sm font-IBM Plex sans JP ${darkMode ? 'text-red-300' : 'text-red-900'}`}>
+            <p className={`text-sm font-IBM Plex sans JP ${darkMode ? 'text-red-500' : 'text-red-900'}`}>
               掲載の日本語訳は学習補助のための試訳であり、確定した翻訳ではありません。
             </p>
             <p className={`text-m font-IBM Plex sans JP ${darkMode ? 'text-violet-500' : 'text-violet-700'}`}>
