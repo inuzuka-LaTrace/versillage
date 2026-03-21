@@ -1,0 +1,88 @@
+{
+  "id": "pascoli_nebbia",
+  "title": "Nebbia",
+  "author": "Giovanni Pascoli",
+  "source": "Canti di Castelvecchio. Bologna: Zanichelli, 1907. 底本: archive.org/details/cantidicastelvec00pascuoft（Internet Archive, 2024年照合）",
+  "year": "1903",
+  "firstPublication": "Canti di Castelvecchio. Bologna: Zanichelli, 1903 (初版).",
+  "difficulty": "中級",
+  "category": "pascoli",
+  "originalLang": "it-IT",
+  "modernRelevance": "★★★★★",
+  "context": "パスコリ（Giovanni Pascoli, 1855–1912）の詩集『カステルヴェッキオの歌』（1903年初版）収録の詩。6行連×5連 = 30行、各連の韻型 AbCcbA（外側の長行と内側の短縮インデント行が包み込む対称形式）。全連を貫くアナフォラ「Nascondi le cose lontane（遠いものを隠せ）」という命令法──霧に対して「遠いものを隠せ」と繰り返し命じる。しかし詩が進むにつれて「遠いもの」の正体が明かされる：「死んだもの（quello ch'è morto）」（第2連）、「愛することと旅立つことを求めるもの（ch'ami e che vada）」（第4連）──遠い死者への記憶と、世界への呼びかけへの恐れ。「Ch'io veda soltanto（ただ私に見えるのは）」という限定句が各連に反復され、詩人が見たいのは身近なもの──庭の生垣・苔のある壁・二本の桃と林檎の木・白い道の一部・糸杉・庭・眠る犬──だけだと宣言する。第4連の「白い道でやがて私がすることになる（che un giorno ho da fare）、疲れた鐘の音の中で（don don di campane）」──これは詩人自身の葬儀行列への暗示。パスコリの「家の巣（nido）」思想：世界から隔絶された小さな家族的空間への退行──結核を予感した詩人の生の縮小願望として読まれる。「Al dio Termine」の「境界神」と同じく、内と外を分ける境界への執着がこの詩の主題的核心。",
+  "keywords": [
+    "霧", "遠いものを隠せ", "アナフォラ", "家の巣", "nido", "死者の記憶",
+    "庭", "糸杉", "鐘の音", "don don", "境界", "生の縮小",
+    "結核の予感", "カステルヴェッキオ", "パスコリ"
+  ],
+  "relatedTexts": [
+    "pascoli_al_dio_termine",
+    "pascoli_l_anima",
+    "maeterlinck_serre_d_ennui",
+    "verhaeren_a_tenebres"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "verses": "v.1–6",
+      "original": "Nascondi le cose lontane,\ntu nebbia impalpabile e scialba,\ntu fumo che ancora rampolli,\n      su l'alba,\nda' lampi notturni e da' crolli\n      d'aeree frane!",
+      "provisionalTranslation": "遠いものを隠せ、\n触れようのない色褪せた霧よ、\n夜の稲妻と空中の崩壊の\n      夜明けに\n炸裂からまだ立ち昇る\n      煙よ！"
+    },
+    {
+      "id": 2,
+      "verses": "v.7–12",
+      "original": "Nascondi le cose lontane,\nnascondimi quello ch'è morto!\nCh'io veda soltanto la siepe\n     dell'orto,\nla mura ch'ha piene le crepe\n      di valerïane.",
+      "provisionalTranslation": "遠いものを隠せ、\n死んだものを私から隠せ！\nただ庭の\n      生垣だけが見えるように、\n亀裂に春黄菊が\n      満ちている壁だけが。"
+    },
+    {
+      "id": 3,
+      "verses": "v.13–18",
+      "original": "Nascondi le cose lontane:\nle cose son ebbre di pianto!\nCh'io veda i due peschi, i due meli,\n      soltanto,\nche dànno i soavi lor mieli\n      pel nero mio pane.",
+      "provisionalTranslation": "遠いものを隠せ：\n物事は泣きに酔っている！\nただ二本の桃と二本の林檎の木だけが\n      見えるように、\n私の黒いパンのために\n      甘い蜜を与えてくれる木が。"
+    },
+    {
+      "id": 4,
+      "verses": "v.19–24",
+      "original": "Nascondi le cose lontane\nche vogliono ch'ami e che vada!\nCh'io veda là solo quel bianco\n      di strada,\nche un giorno ho da fare tra stanco\n      don don di campane...",
+      "provisionalTranslation": "遠いものを隠せ、\n私に愛することと旅立つことを求めるものを！\nただあそこに見えるのはあの道の白さだけで\n      あるように、\n疲れた鐘の音の中で\n      いつか私が歩まねばならない道の……"
+    },
+    {
+      "id": 5,
+      "verses": "v.25–30",
+      "original": "Nascondi le cose lontane,\nnascondile, involale al volo\ndel cuore! Ch'io veda il cipresso\n      là, solo,\nqui, solo quest'orto, cui presso\n      sonnecchia il mio cane.",
+      "provisionalTranslation": "遠いものを隠せ、\n隠せ、心の飛翔から\n奪い取れ！あそこにただあの糸杉だけが\n      見えるように、\nここに、ただこの庭だけ、すぐそこで\n      私の犬が眠っている庭だけが。"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "prosody",
+      "anchor": "Nascondi le cose lontane,\ntu nebbia impalpabile e scialba,",
+      "body": "韻型 AbCcbA の6行連×5連──v.1「lontane（A）」とv.6「frane（A）」が包み韻を形成し、v.2「scialba（b）」とv.4「alba（b）」、v.3「rampolli（C）」とv.5「crolli（C）」が内側で対応する。v.4（su l'alba）とv.6（d'aeree frane）がインデントされた短縮行（4音節）──視覚的にも詩行が「引き込まれる」形で印刷される。第1行「Nascondi le cose lontane（遠いものを隠せ）」は全5連の冒頭でアナフォラとして反復され、詩全体を統一する呪文的な命令として機能する。パスコリの韻律的特徴：規則的なメトリクスの中に感嘆符・省略記号・反復という感情的リズムを組み合わせる。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "nascondimi quello ch'è morto!\nCh'io veda soltanto la siepe\n     dell'orto,",
+      "body": "「死んだものを私から隠せ──ただ庭の生垣だけが見えるように」──詩の主題的核心の最初の開示。「quello ch'è morto（死んだもの）」は霧に「隠してほしいもの」として定義される──死者の記憶・喪の感情が「遠い」空間に投影される。パスコリの個人史：1867年に父ルッジェーロが暗殺され、続いて兄弟と母も次々と死んだ体験が詩全体の喪の感情の基層をなす。「庭の生垣（siepe）」──レオパルディ「無限（L'Infinito）」の「この生垣（questa siepe）」への参照。レオパルディの生垣が「無限」への憧れを遮る障壁だったのに対し、パスコリの生垣は「遠いもの」から詩人を守る保護の境界として機能する──イタリア詩の「生垣」のモチーフが正反対の方向に使われる。"
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "le cose son ebbre di pianto!\nCh'io veda i due peschi, i due meli,\n      soltanto,",
+      "body": "「物事は泣きに酔っている（le cose son ebbre di pianto）」──「ebbre di pianto（泣きに酔った）」という比喩が、物事が泣きによって「酔う」という感覚化された表現として際立つ。「i due peschi, i due meli（二本の桃と二本の林檎の木）」──「二本ずつ」という対称的な具体性が詩人の日常的な庭の縮小した世界を示す。「soavi lor mieli / pel nero mio pane（私の黒いパンのための甘い蜜）」──「nero（黒い）」という形容が庭の甘い果実との対比で詩人の生活の厳しさを示す。物質的貧困と精神的豊かさ（蜜）の対比。「Al dio Termine」のラテン語的境界神とこの詩の「庭の中に留まる」という境界意識の連続。"
+    },
+    {
+      "paragraphId": 4,
+      "type": "commentary",
+      "anchor": "che vogliono ch'ami e che vada!\n[...]\nche un giorno ho da fare tra stanco\n      don don di campane...",
+      "body": "詩の最も深い開示──「愛することと旅立つことを求めるもの（ch'ami e che vada）」。「遠いもの」は単に地理的な遠さではなく、「愛への呼びかけ」と「出発への呼びかけ」として定義される──世界への参与と関与への衝動が「遠いもの」の正体。「che un giorno ho da fare tra stanco / don don di campane（疲れた鐘の音の中でいつか私が歩まねばならない道）」──「un giorno（いつか）」は詩人自身の葬儀行列への暗示。「don don」という鐘の音の擬音が詩のリズムの中で響く。「stanco（疲れた）」は鐘に付けられた形容であり同時に詩人の生への疲労の投影。省略記号「...」が言い切れない未来の死を示す。"
+    },
+    {
+      "paragraphId": 5,
+      "type": "commentary",
+      "anchor": "nascondile, involale al volo\ndel cuore! Ch'io veda il cipresso\n      là, solo,\nqui, solo quest'orto, cui presso\n      sonnecchia il mio cane.",
+      "body": "詩の結末──「心の飛翔から奪い取れ！」という最強の命令の後、「あそこにただあの糸杉」「ここに、ただこの庭、眠る犬」という最も縮小した視野で閉じる。「il cipresso（糸杉）」──イタリアにおける糸杉は墓地の木・死の象徴。しかしここでは「là, solo（あそこに、ただ一本）」という孤立した存在として愛情を持って描かれる。「sonnecchia il mio cane（私の犬が眠っている）」──詩の最後の語が「cane（犬）」で終わる。眠る犬は庭という小さな閉じた世界の平和の象徴として詩を閉じる。メーテルリンク「Aquarium」の「Ces fleurs absentes（不在の花）」が到達不能の外部を求めたのに対し、パスコリの「questa siepe、questi peschi、questo orto、questo cane」はすべて近接指示詞（ここにある）として内部に向かう──同じ閉鎖空間の詩学が逆方向（外へ→内へ）に機能する。"
+    }
+  ]
+}
