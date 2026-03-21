@@ -1523,7 +1523,7 @@ export default function App() {
             {recentTexts.length > 0 && (
               <button
                 onClick={() => { setSelectedCategory('recent'); setSearchQuery(''); }}
-                className={`px-3 py-1.5 rounded-full text-xs font-medium transition-all flex items-center gap-1 font-Shippori Mincho ${
+                className={`px-3 py-1.5 rounded-full text-xs font-medium transition-all flex items-center gap-1 font-Hina Mincho ${
                   selectedCategory === 'recent'
                     ? darkMode ? 'bg-amber-700 text-amber-100 shadow-sm' : 'bg-amber-800 text-white shadow-sm'
                     : darkMode ? 'bg-zinc-800 text-zinc-300 hover:bg-zinc-700' : 'bg-stone-100 text-stone-600 hover:bg-stone-200'
