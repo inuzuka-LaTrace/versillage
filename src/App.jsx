@@ -1232,10 +1232,10 @@ export default function App() {
   // red:    ダーク red-300/80 / ライト red-800/80
   // violet:    ダーク violet-300/80 / ライト violet-800/80
   const transTextClass = darkMode
-    ? transColor === 'red'    ? 'text-red-600/80'
+    ? transColor === 'red'    ? 'text-red-500/80'
     : transColor === 'violet'    ? 'text-violet-300/80'
     : /* neutral */              'text-zinc-300'
-    : transColor === 'red'    ? 'text-red-500/80'
+    : transColor === 'red'    ? 'text-red-600/80'
     : transColor === 'violet'    ? 'text-violet-800/80'
     : /* neutral */              'text-stone-700';
   const transBorderClass = darkMode
@@ -1496,12 +1496,12 @@ export default function App() {
 
         {/* ─── ウェルカムバナー ───────────────────────── */}
         {showWelcome && (
-          <div className={`rounded-xl border p-4 mb-6 relative ${darkMode ? 'bg-amber-950/30 border-amber-900/50' : 'bg-amber-50 border-amber-200'}`}>
+          <div className={`rounded-xl border p-4 mb-6 relative ${darkMode ? 'bg-violet-950/30 border-violet-900/50' : 'bg-violet-50 border-violet-200'}`}>
             <button
               onClick={() => setShowWelcome(false)}
               className={`absolute top-3 right-3 ${textSecondary} hover:opacity-70`}
             ><X size={14} strokeWidth={2} /></button>
-            <p className={`text-sm font-IBM Plex sans JP ${darkMode ? 'text-violet-300' : 'text-violet-900'}`}>
+            <p className={`text-sm font-IBM Plex sans JP ${darkMode ? 'text-gray-100' : 'text-gray-900'}`}>
               主に近代西洋の詩と散文を収録。フランス語・ドイツ語・イタリア語・ロシア語・英語の原文と日本語仮訳を並べて比較し、自分の訳文も記録できます。
             </p>
             <p className={`text-sm font-IBM Plex sans JP ${darkMode ? 'text-red-500' : 'text-red-900'}`}>
