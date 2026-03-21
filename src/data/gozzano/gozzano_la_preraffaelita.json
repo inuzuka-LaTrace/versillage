@@ -1,0 +1,78 @@
+{
+  "id": "gozzano_la_preraffaelita",
+  "title": "La preraffaelita",
+  "author": "Guido Gozzano",
+  "source": "Poesie sparse (XX secolo). In: Gozzano: Tutte le poesie, a cura di Giacinto Spagnoletti. Grandi Tascabili Economici Newton, n. 202. Newton Compton Editori, Roma, 1993. 底本: it.wikisource.org/wiki/Poesie_sparse/La_preraffaelita（2024年照合）",
+  "year": "1900年代初頭",
+  "firstPublication": "Poesie sparse (XX secolo)",
+  "difficulty": "中級",
+  "category": "gozzano",
+  "originalLang": "it-IT",
+  "modernRelevance": "★★★★",
+  "context": "グイド・ゴッツァーノ（Guido Gozzano, 1883–1916）の散詩集（Poesie sparse）収録のソネット。ペトラルカ式ソネット（ABBA ABBA / CDC DDE）、エンデカシラッボ（11音節）。題名「前ラファエル派の女（La preraffaelita）」──絵画の中の人物像、具体的にはダンテ・ガブリエル・ロセッティやバーン＝ジョーンズが描いた理想化された女性の肖像画を詩的に「記述」する一種のエクフラシス（絵画の言語的描写）。「無彩色で色あせた背景の上に」浮かび上がる細く硬張った女性のシルエット──色褪せた背景・虚ろな瞳・硬直した上半身・宗教的な荘厳さという前ラファエル派絵画の様式的特徴を、エンデカシラッボの形式の中に精密に写し取る。結末2行「lussuriosa（官能的）な口から / 沈黙と神秘の精髄が漂う」──前ラファエル派の聖性と官能性の融合というパラドックスをゴッツァーノが凝縮する。ゴッツァーノはイタリア「黄昏主義（Crepuscolarismo）」の代表詩人で、D.G.ロセッティ・スウィンバーン・ロセッティの影響を受けつつ、ベアトリーチェ神話の系譜（ダンテ→D.G.ロセッティ→ゴッツァーノ）の末端に位置する。",
+  "keywords": [
+    "前ラファエル派", "エクフラシス", "ロセッティ", "沈黙と神秘", "官能的な口",
+    "ermesino", "sciamito", "giglio", "黄昏主義", "Crepuscolarismo",
+    "ペトラルカ式ソネット", "エンデカシラッボ", "ベアトリーチェ神話"
+  ],
+  "relatedTexts": [
+    "dannunzio_due_beatrici",
+    "dannunzio_beata_beatrice",
+    "rossetti_monna_innominata",
+    "pascoli_al_dio_termine"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "verses": "v.1–4",
+      "original": "Sopra lo sfondo scialbo e scolorito\nsurge il profilo della donna intenta,\nesile il collo; la pupilla spenta\npare che attinga il vuoto e l'infinito.",
+      "provisionalTranslation": "色褪せ無彩色の背景の上に\n熱心な女のシルエットが浮かびあがる、\n細い首；虚ろな瞳は\n空虚と無限に触れているかのようだ。"
+    },
+    {
+      "id": 2,
+      "verses": "v.5–8",
+      "original": "Avvolta d'ermesino e di sciamito\nquasi una pompa religiosa ostenta;\nniuna mollezza femminile allenta\nl'esilità del busto irrigidito.",
+      "provisionalTranslation": "エルメジーノとシャミューに包まれ\nほとんど宗教的な荘厳さを見せる；\n何ら女らしい柔らかさも\n硬張った上半身の細さを緩めない。"
+    },
+    {
+      "id": 3,
+      "verses": "v.9–14",
+      "original": "Tien fra le dita de la manca un giglio\nd'antico stile, la sua destra posa\nsopra il velluto d'un cuscin vermiglio.\nNiuna dolcezza è ne l'aspetto fiero;\nemana da la bocca lussuriosa\nl'essenza del Silenzio e del Mistero.",
+      "provisionalTranslation": "左の指の間に古風な\n百合を持ち、右手は朱色の\nクッションのビロードの上に置く。\n誇り高い顔貌に何ら優しさはない；\n官能的な口から漂い出るのは\n沈黙と神秘の精髄。"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "prosody",
+      "anchor": "Sopra lo sfondo scialbo e scolorito\nsurge il profilo della donna intenta,",
+      "body": "エンデカシラッボ（11音節）、韻型 ABBA ABBA（四行連句）/ CDC DDE（三行連句）。イタリア・ペトラルカ式ソネットの厳格な形式を採用──ゴッツァーノの「黄昏主義（Crepuscolarismo）」は伝統的なソネット形式を保持しながら内容の「色褪せ（scolorito）」を詩学的テーマとする逆説的実践。「scialbo e scolorito（色褪せ無彩色）」──詩の第1語が「無彩色・色褪せた」という色の否定から始まる。「surge（浮かびあがる）」──背景の虚無から輪郭が立ち上がるというバーン＝ジョーンズ的絵画構図の言語化。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "la pupilla spenta\npare che attinga il vuoto e l'infinito.",
+      "body": "「虚ろな（spenta）瞳が空虚と無限に触れているかのようだ」──「spenta（消えた・虚ろな）」は炎が消えた状態の形容──前ラファエル派絵画の特徴的な「焦点を結ばない・遠くを見る」眼差しの描写。「attinga il vuoto e l'infinito（空虚と無限に触れる）」──「attingere」は「達する・触れる」の意、瞳が視覚的に無限を把握するという感覚。マラルメ「エロディアード」のヒロインの「冷たい宝石のような目」との系譜──前ラファエル派的な目の比喩が象徴主義全体を通じた詩的モチーフ。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "glossary",
+      "anchor": "Avvolta d'ermesino e di sciamito",
+      "body": "「エルメジーノ（ermesino）とシャミュー（sciamito）に包まれ」──ermesino：薄い絹織物（hermesin）。sciamito：中世の豪華な絹織物（samite、サミット）──アーサー王伝説でエクスカリバーを湖から差し出す腕が「samite（白絹）に包まれた」と描かれる素材。テニスン「アーサー王の最後」他で使われる中世的語彙。ゴッツァーノがこの語を選ぶことで詩に中世・前ラファエル派・アーサー王伝説の色彩を一語で導入する。「quasi una pompa religiosa ostenta（宗教的な荘厳さをほとんど見せる）」──前ラファエル派絵画が世俗的女性肖像に聖性の雰囲気を付与する様式的特徴の精確な観察。"
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "Tien fra le dita de la manca un giglio\nd'antico stile,",
+      "body": "「左の指の間に古風な百合を持つ」──百合は純潔の象徴（聖母マリア・受胎告知の象徴）、特に前ラファエル派の受胎告知図に頻出する（ロセッティ「Ecce Ancilla Domini」1850等）。「d'antico stile（古風なスタイルの）」──前ラファエル派が意識的に中世・ルネサンス初期の様式を参照する運動であることへの詩的注記。「la sua destra posa / sopra il velluto d'un cuscin vermiglio（右手は朱色のクッションのビロードの上に置く）」──静止したポーズの観察、前ラファエル派絵画特有の「意図的な硬直」の描写。メーテルリンク「Aquarium」の「Ses doigts blanchissent mes regards（指が眼差しを白ませる）」との対比──どちらも「指」を詩的視点の焦点とするが、メーテルリンクの指は動的・消失的、ゴッツァーノの指は静止・凝固している。"
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "emana da la bocca lussuriosa\nl'essenza del Silenzio e del Mistero.",
+      "body": "詩の結末──「官能的な（lussuriosa）口から沈黙と神秘の精髄が漂い出る」。「bocca lussuriosa（官能的な口）」と「Silenzio e Mistero（沈黙と神秘）」の対置──肉体の官能性が精神的・神秘的な内容を放射するという前ラファエル派的パラドックス。「Silenzio e Mistero」の大文字化が概念を神話的・宗教的次元に引き上げる。ダヌンツィオ「Due Beatrici」の「voluttà mistica e profonda（神秘的で深い官能）」との平行──イタリア象徴主義全体を通じた「官能＝神秘」の融合テーマ。クリスティーナ・ロセッティ「Monna Innominata」序文の「ベアトリーチェとローラが魅力に欠ける」という批判と対極的に、ゴッツァーノは前ラファエル派的理想像をその「沈黙と神秘」において肯定的に再現する。",
+      "targetId": "dannunzio_due_beatrici",
+      "targetParagraphId": null
+    }
+  ]
+}
