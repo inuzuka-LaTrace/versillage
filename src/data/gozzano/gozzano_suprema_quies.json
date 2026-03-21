@@ -1,0 +1,82 @@
+{
+  "id": "gozzano_suprema_quies",
+  "title": "Suprema quies",
+  "author": "Guido Gozzano",
+  "source": "Poesie sparse (XX secolo). In: Gozzano: Tutte le poesie, a cura di Giacinto Spagnoletti. Grandi Tascabili Economici Newton, n. 202. Newton Compton Editori, Roma, 1993. 底本: it.wikisource.org/wiki/Poesie_sparse/Suprema_quies（2024年照合）",
+  "year": "1900年代初頭",
+  "firstPublication": "Poesie sparse (XX secolo)",
+  "difficulty": "上級",
+  "category": "gozzano",
+  "originalLang": "it-IT",
+  "modernRelevance": "★★★★★",
+  "context": "グイド・ゴッツァーノ（Guido Gozzano, 1883–1916）の散詩集（Poesie sparse）収録の32行詩。ABBA×8連、エンデカシラッボ（11音節）と短縮行（5音節前後）の交互による変則形式。題名「Suprema quies（至高の静寂）」──ラテン語の死の婉曲表現。詩は「20歳の詩人（al Poeta ventenne）」の死の場面を詳細に描写する──蝋のように白い拳・血溜まりの顔・傷口から集まる血、という法医学的な精密さで始まり、次いで室内の静物（二本の燭台・棚の千冊の本・アレティーノの「様式」・手袋・萎れた赤い薔薇）へと視点が移動し、グイド・レーニの十字架像の「悲しみに満ちた目」で締め括られる。ゴッツァーノ自身が若くして結核で死ぬ予感を持っていたことを念頭に置くと、「20歳の詩人」は自己投影として読める。アレティーノの「様式（Modi）」──エロティックな版画集──が死の場にあることで、前連「La preraffaelita」の「官能的な口から沈黙と神秘が漂う」という聖性と官能の融合テーマが、より露骨な形で再登場する。「黄昏主義（Crepuscolarismo）」の特徴的な美学：死の場面が美化・静物画化されることなく精密に記録される。",
+  "keywords": [
+    "至高の静寂", "20歳の詩人", "死の場面", "静物描写", "アレティーノ",
+    "グイド・レーニ", "萎れた薔薇", "結核", "黄昏主義", "Crepuscolarismo",
+    "官能と死", "法医学的描写", "エンデカシラッボ変則形"
+  ],
+  "relatedTexts": [
+    "gozzano_la_preraffaelita",
+    "corazzini_desolazione",
+    "pascoli_al_dio_termine",
+    "rossetti_monna_innominata"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "verses": "v.1–12",
+      "original": "Serrati i pugni bianchi come cera\ngiace supino in terra arrovesciato\ne la faccia pel rivo insanguinato\nè quasi nera.\n\nCon orrido rilievo l'apertura\ndella ferita tutto il sangue aduna\nsu la nuca, sul collo, su la bruna\ncapellatura.\n\nGiace supino. E non sembra dolere\nla bella bocca. Quasi ch'Egli avvinga\nancor la Donna e la sua bocca attinga\ntutto il piacere.",
+      "provisionalTranslation": "蝋のように白い拳を握りしめ\n地面に仰向けに倒れており\n血の流れで顔は\nほとんど黒い。\n\n傷口の開口部が恐ろしい浮き彫りで\n血をすべて集めている\n首筋に、首に、黒褐色の\n髪に。\n\n仰向けに横たわる。そして苦しんでいるようには見えない\n美しい口は。まるで彼がまだ\n女を抱きしめ、その口が\n快楽すべてを掴んでいるかのように。"
+    },
+    {
+      "id": 2,
+      "verses": "v.13–24",
+      "original": "Due lumi sopra un cofano. Quei lumi\nrischiarano il silenzio sepolcrale:\nallineati stan nello scaffale\nmille volumi\n\nche alluminava un mastro fiorentino\nd'orifiamme e d'armille in cento nodi.\nAperti sul divano son i «Modi»\ndell'Aretino\n\ne sul divano è un guanto che rimosse\nqui, nell'entrar, la Donna del Convito\ned un mazzo sfasciato ed avvizzito\ndi rose rosse.",
+      "provisionalTranslation": "棺の上に二本の燭台。それらの燭台が\n葬礼的な沈黙を照らす：\n棚に整列して立っている\n千冊の本が\n\nフィレンツェの職人が金属箔と腕輪で\n百の結び目に装飾した本を。\nソファの上に開いて置かれているのはアレティーノの\n「様式」\n\nそしてソファには、ここに入ってきたとき\n宴の女が脱いだ手袋があり\nほどけてしおれた花束がある\n赤い薔薇の。"
+    },
+    {
+      "id": 3,
+      "verses": "v.25–32",
+      "original": "Guata con gli occhi di mestizia pieni\nin capo al letto sull'arazzo infisso\ndolentemente immoto il crocifisso\ndi Guido Reni.\n\nNotte e silenzio intorno. Tutto tace.\nCome in un sogno d'armonia perplessa\nal Poeta ventenne è già concessa\nl'ultima pace.",
+      "provisionalTranslation": "悲しみに満ちた目で見つめる\nベッドの頭部のタペストリーに固定された\n痛ましく不動の十字架像が\nグイド・レーニの。\n\n周りは夜と沈黙。すべてが黙する。\n困惑した調和の夢の中のように\n20歳の詩人にはすでに与えられている\n最後の平和が。"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "prosody",
+      "anchor": "Serrati i pugni bianchi come cera\ngiace supino in terra arrovesciato\ne la faccia pel rivo insanguinato\nè quasi nera.",
+      "body": "ABBA韻型（cera / arrovesciato / insanguinato / nera）×8連、エンデカシラッボ（11音節）と短縮行（約5音節）の交互形式──「Aquarium」（メーテルリンク）の8-8-8-4音節と構造的に対応する変則形。各連の第4行が短縮されることで、前3行の重い記述の後に息が詰まるような停止が生まれる。「Serrati i pugni（握りしめた拳）」──詩が死の描写として始まる。ゴッツァーノの「黄昏主義（Crepuscolarismo）」は美化を拒否し、死体の詳細な物理的描写から詩を開始するという反象徴主義的な即物性を持つ。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "Giace supino. E non sembra dolere\nla bella bocca. Quasi ch'Egli avvinga\nancor la Donna e la sua bocca attinga\ntutto il piacere.",
+      "body": "「美しい口は苦しんでいるようには見えない──まるで彼がまだ女を抱きしめ快楽を掴んでいるかのように」──死と官能の融合。「bocca（口）」という語が第3連の中心で、前詩「La preraffaelita」の結末「bocca lussuriosa（官能的な口）から沈黙と神秘の精髄が漂う」と対応する。ただし「La preraffaelita」では絵画の静的な口だったのが、ここでは死の直前まで快楽を追い求めた動的な口として描かれる──同じ「口」という焦点が両詩を結ぶ詩的回廊。「la Donna del Convito（宴の女）」──ダンテ『饗宴（Convivio）』への文学的参照であり同時に死の場に居合わせた実際の女性を指す二重性。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "glossary",
+      "anchor": "Aperti sul divano son i «Modi»\ndell'Aretino",
+      "body": "「ソファの上に開いて置かれているのはアレティーノの『様式（Modi）』」──Pietro Aretino（1492–1556）が Giulio Romano の版画に添えたソネット集『様式（I Modi）』（1527年）は16の性的体位を描写した最初のポルノグラフィック文学として悪名高い。死の場面にこの本が「開いて」置かれているという設定は──宴の官能と死の到来が重なる瞬間として──前ラファエル派の「官能＝神秘」という美学的融合を、より直截な形で体現する。「黄昏主義」の脱神秘化の傾向──メーテルリンク・ダヌンツィオが暗示するものをゴッツァーノは具体的な書物名として明示する。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "ed un mazzo sfasciato ed avvizzito\ndi rose rosse.",
+      "body": "「ほどけてしおれた赤い薔薇の花束」──詩集を通じた「薔薇（rose）」のモチーフの最終的な形。「sfasciato ed avvizzito（ほどけてしおれた）」──二つの形容詞が薔薇の「崩壊」を二重に定義する。バリモント「Цвѣты — въ снѣгахъ」の「Но непреклонная решимость / В них созидает нежный плод（不屈の決意が繊細な実を作り出す）」という薔薇への生命力の肯定と対極──ゴッツァーノの薔薇は実らず崩れてしおれる。「la Donna del Convito（宴の女）」が入室時に脱いだ手袋との配置──手袋と萎れた薔薇が官能の残留物として静物画的に並置される。"
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "Guata con gli occhi di mestizia pieni\nin capo al letto sull'arazzo infisso\ndolentemente immoto il crocifisso\ndi Guido Reni.",
+      "body": "「悲しみに満ちた目で見つめるグイド・レーニの不動の十字架像」──Guido Reni（1575–1642）はボローニャ派の画家で、感情的な宗教画、特に苦悩するキリスト・マグダラのマリア・天使たちで知られる。ゴッツァーノの詩に「グイド・レーニ」という画家名が明示されることは、「La preraffaelita」がタイトルに「前ラファエル派」を持つことと対称的──どちらも「絵画」への参照が詩の視点を構造化する。「dolentemente immoto（痛ましく不動）」──十字架像の「静止」が死体の「静止」と鏡的に対応する。十字架のキリストが「悲しみに満ちた目で見つめる」という擬人化が、詩全体の冷静な観察的視点に唯一の感情的次元を導入する。"
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "Come in un sogno d'armonia perplessa\nal Poeta ventenne è già concessa\nl'ultima pace.",
+      "body": "詩の結末──「困惑した調和の夢の中のように、20歳の詩人にはすでに最後の平和が与えられている」。「d'armonia perplessa（困惑した調和）」──矛盾語法（oxymoron）：「調和」が「困惑した」という不安定な形容詞によって揺らぐ。「al Poeta ventenne（20歳の詩人）」──不定冠詞「al」と「ventenne（20歳の）」が特定の詩人を指しながら普遍化する──ゴッツァーノ自身への自己投影でありながら、象徴的な「若くして死ぬ詩人」という類型。「l'ultima pace（最後の平和）」──題名「Suprema quies（至高の静寂）」のイタリア語反復として詩を閉じる。バリモント「ЧЕРЕПЪ（髑髏）」の「Ибо в смерти тишина（なぜなら死の中に静寂がある）」との並行──どちらも死を「静寂・平和」として肯定的に定義するが、ゴッツァーノの静寂は「困惑した調和」という留保の中に置かれる。"
+    }
+  ]
+}
