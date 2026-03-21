@@ -1712,7 +1712,7 @@ export default function App() {
                         <span className={`text-xs font-sans ${textSecondary} opacity-50`}>·</span>
                         <span className={`text-xs font-sans ${textSecondary} opacity-50`}>{text.year}</span>
                       </div>
-                      <h3 className={`font-serif text-sm font-medium ${textClass} leading-snug line-clamp-2 mb-1.5`}>{text.title}</h3>
+                      <h3 className={`font-EB Garamond text-sm font-medium ${textClass} leading-snug line-clamp-2 mb-1.5`}>{text.title}</h3>
                       <div className="flex items-center gap-1.5 flex-wrap">
                         <span className={`text-xs font-sans px-1.5 py-0.5 rounded ${authorColor(text.category)}`}>
                           {catShort[text.category] || text.category}
