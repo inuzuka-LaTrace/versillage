@@ -1507,7 +1507,7 @@ export default function App() {
             <p className={`text-xs mt-1 font-IBM Plex sans JP ${darkMode ? 'text-amber-500' : 'text-amber-700'}`}>
               ※ 掲載の日本語訳は学習補助のための試訳であり、確定した翻訳ではありません。
             </p>
-            <p className={`text-xs mt-1 font-IBM Plex sans JP ${darkMode ? 'text-violet-500' : 'text-violet-700'}`}>
+            <p className={`text-sm mt-1 font-IBM Plex sans JP ${darkMode ? 'text-violet-500' : 'text-violet-700'}`}>
               By using your browser's translation feature, you can read the Japanese translations in your preferred language while keeping the original texts (French, etc.) intact.
             </p>
           </div>
