@@ -1942,7 +1942,7 @@ export default function App() {
           <div>
             <label className={`text-xs font-semibold uppercase tracking-wider font-sans ${textSecondary} block mb-2.5`}>訳文の色</label>
             <div className={`flex rounded-lg overflow-hidden border ${darkMode ? 'border-zinc-700' : 'border-stone-200'}`}>
-              {[['neutral','白黒'],['rose','ローズ'],['teal','ティール']].map(([val, label], i) => (
+              {[['neutral','白黒'],['red','赤'],['violet','紫']].map(([val, label], i) => (
                 <button key={val} onClick={() => setTransColor(val)}
                   className={`flex-1 py-2 text-xs font-sans transition-colors ${transColor === val
                     ? darkMode ? 'bg-amber-700 text-amber-100' : 'bg-stone-800 text-white'
@@ -2587,7 +2587,7 @@ export default function App() {
             {showFrench && showOfficial && (
               <div className={`flex rounded-lg overflow-hidden border ${
                 interlinear
-                  ? darkMode ? 'border-teal-600' : 'border-teal-400'
+                  ? darkMode ? 'border-red-600' : 'border-red-400'
                   : darkMode ? 'border-zinc-700' : 'border-stone-200'
               }`}>
                 {[['side','左右'],['stacked','上下']].map(([mode, label]) => (
@@ -2598,11 +2598,11 @@ export default function App() {
                     className={`px-2.5 py-1.5 text-xs font-sans font-medium transition-all ${
                       interlinear === mode
                         ? darkMode
-                          ? 'bg-teal-700 text-teal-100'
-                          : 'bg-teal-600 text-white'
+                          ? 'bg-red-700 text-red-100'
+                          : 'bg-red-600 text-white'
                         : darkMode
-                          ? 'bg-zinc-800 text-zinc-400 hover:bg-teal-900/30 hover:text-teal-400'
-                          : 'bg-stone-50 text-stone-500 hover:bg-teal-50 hover:text-teal-600'
+                          ? 'bg-zinc-800 text-zinc-400 hover:bg-red-900/30 hover:text-red-400'
+                          : 'bg-stone-50 text-stone-500 hover:bg-red-50 hover:text-red-600'
                     }${
                       mode === 'side' ? ` border-r ${darkMode ? 'border-zinc-700' : 'border-stone-200'}` : ''
                     }`}
@@ -2723,7 +2723,7 @@ export default function App() {
                     {/* 展開時：逐行対訳バッジのみ（モードラベル撤廃） */}
                     {!isCollapsed && !hasSpeaker && interlinear && showFrench && showOfficial && (
                       <span className={`px-1.5 py-0.5 rounded text-xs font-medium border ${
-                        darkMode ? 'bg-teal-900/40 text-teal-400 border-teal-800/60' : 'bg-teal-50 text-teal-600 border-teal-200'
+                        darkMode ? 'bg-red-900/40 text-red-400 border-red-800/60' : 'bg-red-50 text-red-600 border-red-200'
                       }`}>{interlinear === 'stacked' ? '上下' : '左右'}</span>
                     )}
                   </div>
