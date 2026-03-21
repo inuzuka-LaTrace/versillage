@@ -1502,13 +1502,13 @@ export default function App() {
               className={`absolute top-3 right-3 ${textSecondary} hover:opacity-70`}
             ><X size={14} strokeWidth={2} /></button>
             <p className={`text-sm font-IBM Plex sans JP ${darkMode ? 'text-amber-300' : 'text-amber-900'}`}>
-              📚 主に近代西洋の詩と散文を収録。フランス語・ドイツ語・イタリア語・ロシア語・英語の原文と日本語仮訳を並べて比較し、自分の訳文も記録できます。
+              主に近代西洋の詩と散文を収録。フランス語・ドイツ語・イタリア語・ロシア語・英語の原文と日本語仮訳を並べて比較し、自分の訳文も記録できます。
             </p>
             <p className={`text-sm font-IBM Plex sans JP ${darkMode ? 'text-amber-500' : 'text-amber-700'}`}>
-              ※ 掲載の日本語訳は学習補助のための試訳であり、確定した翻訳ではありません。
+              ※掲載の日本語訳は学習補助のための試訳であり、確定した翻訳ではありません。
             </p>
-            <p className={`text-sm font-IBM Plex sans JP ${darkMode ? 'text-violet-300' : 'text-violet-900'}`}>
-              🌏 By using your browser's translation feature, you can read the Japanese translations and notes in your preferred language, while the original texts remain unchanged.
+            <p className={`text-m font-IBM Plex sans JP ${darkMode ? 'text-violet-300' : 'text-violet-900'}`}>
+              🌏By using your browser's translation feature, you can read the Japanese translations and comentaries in your preferred language, while the original texts remain unchanged.
             </p>
           </div>
         )}
