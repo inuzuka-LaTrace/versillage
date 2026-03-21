@@ -1,0 +1,82 @@
+{
+  "id": "gozzano_la_falce",
+  "title": "La falce",
+  "author": "Guido Gozzano",
+  "source": "Poesie sparse (XX secolo). In: Gozzano: Tutte le poesie, a cura di Giacinto Spagnoletti. Grandi Tascabili Economici Newton, n. 202. Newton Compton Editori, Roma, 1993. 底本: it.wikisource.org/wiki/Poesie_sparse/La_falce（2024年照合）",
+  "year": "1900年代初頭",
+  "firstPublication": "Poesie sparse (XX secolo)",
+  "difficulty": "中級",
+  "category": "gozzano",
+  "originalLang": "it-IT",
+  "modernRelevance": "★★★★★",
+  "context": "グイド・ゴッツァーノ（Guido Gozzano, 1883–1916）の散詩集（Poesie sparse）収録の二連作ソネット。「I. 六月」と「II. 十月」という季節の対位によって「生命の懐胎」と「出産死」を対称的に描く。ペトラルカ式ソネット、エンデカシラッボ（11音節）。題名「La falce（鎌）」──収穫の鎌であり同時に死神の鎌（falce della Morte）。詩集内で「Suprema quies（至高の静寂）」の直前に位置し、死のテーマを共有するが「Suprema quies」が詩人の死を描くのに対しこの詩は母と子の死を描く。第Ⅰソネットは6月の日差しの中で妊娠した花嫁が揺り籠用の亜麻布と蕾をほどく場面──収穫の麦（「まもなく熟す金色の麦」）が胎児の比喩として機能し、「キリスト（Messia）がまもなく来る」という聖性が妊娠に与えられる。第IIソネットは10月の「極端な光」の中で難産死する花嫁──形の悪い子が死んで生まれ、血で染まった亜麻布の上に白百合のように横たわる母も死ぬ。「死は棺を準備し / 明日の夜明けに母と子は / 同じ棺に収められる」という結末。「giugno（6月）の惜しみない光」から「ottobre（10月）の極端な光」への移行が、生命の充溢から収穫・死への季節的弧を形成する。ヴェルハーレン「Mourir」の秋の「腐熟する夕」との比較：どちらも秋を死として描くが、ヴェルハーレンは美化した死を望むのに対し、ゴッツァーノは即物的に死を描写する。",
+  "keywords": [
+    "二連作ソネット", "La falce（鎌）", "6月と10月", "生と死の対位",
+    "出産死", "揺り籠", "百合", "Messia", "死神の鎌", "収穫の比喩",
+    "黄昏主義", "Crepuscolarismo", "母と子の死", "エンデカシラッボ"
+  ],
+  "relatedTexts": [
+    "gozzano_suprema_quies",
+    "gozzano_la_preraffaelita",
+    "verhaeren_mourir",
+    "pascoli_al_dio_termine"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "verses": "I, v.1–8",
+      "original": "Giugno. Per le finestre il sole inonda\nla bella stanza d'una luce aurina:\nfreme la messe ai solchi della china,\nla messe ormai matureggiante e bionda.\n\nLa bruna sposa sede alla vicina\ncuna ancor vuota: pare ch'Ella asconda\nun gran segreto quando l'occhio inchina\nal seno stanco che l'amor feconda.",
+      "provisionalTranslation": "六月。窓越しに太陽が黄金色の光で\n美しい部屋を満たす：\n坂の畝で麦がそよぎ、\nもうすぐ熟れる金色の麦が。\n\n黒髪の花嫁が隣の\nまだ空の揺り籠に座っている：まるで彼女が\n愛が豊かにした疲れた胸に\n目を伏せるとき大きな秘密を隠しているかのように。"
+    },
+    {
+      "id": 2,
+      "verses": "I, v.9–14",
+      "original": "È la cuna ancor vuota, ma Ella sente\nche l'ora dell'avvento è assai vicina\nche ben presto il Messia sarà presente.\n\nE a quel pensiero il bruno capo inchina\nal lavoro sottil, le mani adopra\nsu le fasce su i lini su la trina.",
+      "provisionalTranslation": "揺り籠はまだ空だが、彼女は感じる\n降臨の時がもうすぐ来ることを\n救い主がまもなく現れることを。\n\nそしてその思いに黒い頭を傾けながら\n細かい仕事に手を動かす\n産着の上に、亜麻布の上に、レースの上に。"
+    },
+    {
+      "id": 3,
+      "verses": "II, v.1–8",
+      "original": "Ottobre. Per i vetri Autunno inonda\nla bella stanza delle luci estreme:\nvanno i bifolchi cospargendo il seme\nsu per la china con canzon gioconda.\n\nLa sposa agonizzante in su la sponda\ndel letto sta riversa e più non geme\ne accanto a lei nato e morto insieme\nè il bambino difforme. Una profonda",
+      "provisionalTranslation": "十月。硝子越しに秋が極端な光で\n美しい部屋を満たす：\n農夫たちが陽気な歌とともに\n坂を上りながら種をまいていく。\n\n臨終の花嫁がベッドの端で\n仰向けに横たわりもはや呻かず\n隣には生まれながら死んでいる\n形の悪い子がいる。深い"
+    },
+    {
+      "id": 4,
+      "verses": "II, v.9–14",
+      "original": "quiete è d'intorno: sopra il lin vermiglio\ntutto di sangue che un baglior rischiara\nla sposa muore, bianca come un giglio.\n\nLa Morte, intanto, il feretro prepara:\ne l'alba di diman la madre e il figlio\nsaran racchiusi nella stessa bara.",
+      "provisionalTranslation": "静寂が周りを包む：一条の光が照らす\n血まみれの朱色の亜麻布の上で\n花嫁は死ぬ、百合のように白く。\n\n死は一方で棺を準備する：\nそして明日の夜明けに母と子は\n同じ棺に収められるだろう。"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "prosody",
+      "anchor": "Giugno. Per le finestre il sole inonda\nla bella stanza d'una luce aurina:",
+      "body": "二連作ソネット──ソネットIとIIの冒頭が「Giugno（六月）」「Ottobre（十月）」という季節語で始まる対称的な開口。両ソネットの第1-2行の構造が完全に平行：「[季節]. Per le/i [窓] [主体] inonda / la bella stanza [光の属格]」──同一の構文が異なる内容を担い、6月の「luce aurina（黄金色の光）」が10月の「luci estreme（極端な光）」へ変容する。「inonda（満たす）」という動詞が両ソネットの第1行に反復されることで、充溢する光という共通の空間設定が確立される。エンデカシラッボ（11音節）、韻型 ABBA ABBA──ペトラルカ式ソネットの厳格な形式が二連作の対称性を強化する。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "la messe ormai matureggiante e bionda.",
+      "body": "「もうすぐ熟れる金色の麦（messe matureggiante e bionda）」──収穫前の麦が妊娠した花嫁の比喩として機能する。「matureggiante（熟れつつある）」という現在分詞形が成長・完成に向かう過程を示す。「inonda / bionda」という韻（A韻）が光の充溢と金色の麦を音的に結ぶ。題名「La falce（鎌）」──6月の収穫鎌（農業的）が10月の死神の鎌（死の）として二重に機能する。収穫と死の等価性という詩の主題的核心が、第Ⅰソネットの段階ですでに「messe（麦）」という語に潜在している。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "glossary",
+      "anchor": "che ben presto il Messia sarà presente.",
+      "body": "「救い主（Messia）がまもなく現れる」───妊娠した花嫁が産まれてくる子をキリストの降臨に喩える。「avvento（降臨）」はキリスト教の待降節（Avvento）の語であり、宗教的な語彙が妊娠の比喩として使われる。「Messia」の大文字化が比喩を神学的次元に引き上げる。しかしソネットIIで生まれた子は「difforme（形の悪い）」「nato e morto insieme（生まれながら死んでいる）」──救い主への期待が奇形児の死という逆転で応答される。パスコリ「Al Dio Termine」における境界と生死の主題との接続──どちらもイタリア象徴主義において誕生・死・神聖の三角関係が詩的核心をなす。"
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "vanno i bifolchi cospargendo il seme\nsu per la china con canzon gioconda.",
+      "body": "「農夫たちが陽気な歌とともに種をまいていく」──ソネットIの「坂の畝で麦がそよぐ」からソネットIIの「坂で種をまく農夫」への転換。ソネットI：収穫前の麦の充溢 → ソネットII：種まきという始まりの労働──同じ農的風景が逆の時間的方向を向く（熟す/始まる）。「gioconda（陽気な）」──室外の陽気さと室内の死のコントラスト。「Suprema quies」の「室内の静物と死」が閉鎖空間で完結するのに対し、「La falce」は室内と室外の対比によって死を世界の中に位置づける。"
+    },
+    {
+      "paragraphId": 4,
+      "type": "commentary",
+      "anchor": "la sposa muore, bianca come un giglio.\n\nLa Morte, intanto, il feretro prepara:",
+      "body": "「花嫁は死ぬ、百合のように白く。死は棺を準備する」──「bianca come un giglio（百合のように白く）」──「La preraffaelita」の「Tien fra le dita un giglio（指の間に百合を持つ）」、「Suprema quies」の「bianca come cera（蝋のように白く）」という詩集内の白と百合の系列が、ここで死の比喩として完成する。「La Morte, intanto（死は一方で）」──死の擬人化（la Morte）が登場し「feretro prepara（棺を準備する）」という行為主体として現れる。「intanto（一方で）」という接続副詞が花嫁の死と死の準備が同時進行であることを示す。「e l'alba di diman la madre e il figlio / saran racchiusi nella stessa bara（明日の夜明けに母と子は同じ棺に）」──明日の夜明けという未来の精確な時点に死が配置される。パスコリ的な農的現実と死の交差──ゴッツァーノとパスコリが共有するイタリア近代詩の「死の農業的日常化」。"
+    }
+  ]
+}
