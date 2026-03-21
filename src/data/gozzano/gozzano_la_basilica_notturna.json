@@ -1,0 +1,91 @@
+{
+  "id": "gozzano_la_basilica_notturna",
+  "title": "La basilica notturna",
+  "author": "Guido Gozzano",
+  "source": "Poesie sparse (XX secolo). In: Gozzano: Tutte le poesie, a cura di Giacinto Spagnoletti. Grandi Tascabili Economici Newton, n. 202. Newton Compton Editori, Roma, 1993. 底本: it.wikisource.org/wiki/Poesie_sparse/La_basilica_notturna（2024年照合）",
+  "year": "1900年代初頭",
+  "firstPublication": "Poesie sparse (XX secolo)",
+  "difficulty": "上級",
+  "category": "gozzano",
+  "originalLang": "it-IT",
+  "modernRelevance": "★★★★★",
+  "context": "グイド・ゴッツァーノ（Guido Gozzano, 1883–1916）の散詩集（Poesie sparse）収録の38行詩。エピグラフ「Pax tibi, Marce, Evangelista meus（汝に平和を、マルコよ、私の福音記者よ）」──サン・マルコ大聖堂（ヴェネツィア）の伝承的な天使の言葉。3部（I：12行、II：18行、III：8行）構成、「Nell'Abazia」と同じ内部連鎖韻形式（各行前半末尾が次行前半末尾と韻を踏む leonine chain rhyme）。夜のサン・マルコ大聖堂を舞台に、黄金のモザイク・歴代総督の亡霊・ビザンティン美術の略奪への嘆き・バルバリアとサラセン人の新たな脅威という歴史的・宗教的黙想を展開する。第III部はサン・マルコへの呼びかけで閉じ、第I部の問い「古い苦悩をこの神殿は今何を覚えているか？」をより強烈な問いとして反復する。「Nell'Abazia」が個人の信仰問題を扱うのに対し、「La basilica notturna」はヴェネツィアの宗教的・文明的遺産の脅威という集合的・歴史的主題を扱う──ゴッツァーノの詩集内での宗教詩の二極。ヴェルハーレン「L'Hérésiarque」の宗教的反乱と対比すると、ゴッツァーノは内部からの腐食ではなく外部（バルバリア）からの脅威として文明の危機を描く。",
+  "keywords": [
+    "サン・マルコ大聖堂", "ヴェネツィア", "夜の大聖堂", "モザイク",
+    "総督の亡霊", "ビザンティン美術", "バルバリア", "サラセン人",
+    "歴史的黙想", "内部連鎖韻", "leonine rhyme", "Pax tibi Marce",
+    "天使の言葉", "文明の危機", "黄昏主義"
+  ],
+  "epigraphs": [
+    {
+      "author": "伝承",
+      "source": "Basilica di San Marco, Venezia",
+      "text": "Pax tibi, Marce, Evangelista meus",
+      "translation": "汝に平和を、マルコよ、私の福音記者よ"
+    }
+  ],
+  "relatedTexts": [
+    "gozzano_nell_abazia_di_san_giuliano",
+    "gozzano_suprema_quies",
+    "verhaeren_heresiarque",
+    "mallarme_toast_funebre"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "verses": "I, v.1–12",
+      "original": "D'oro si fanno brune le cupole stupende,\nma sotto il cielo illune il cielo d'oro splende.\nSplende l'emblema come nel codice ammirando:\nVenezia trepidando nel sacrosanto nome.\nSta l'Angelo di Dio, sta col fatale incarco\nlassù «Pace a Te, Marco, Evangelista mio!»\nIntorno gli fan coro tutti i Profeti, in rari\nmusaici millenari. Palpita il cielo d'oro.\nIl palpito millenne corre Santi e Madonne;\nvivono le colonne, le fragili transenne.\nMa quale antica Ambascia il Tempio oggi ricorda,\ndifeso nella sorda materia che lo fascia?",
+      "provisionalTranslation": "金色の壮大なドームは褐色になっていく、\nしかし月のない空の下で黄金の空は輝く。\n驚嘆すべき写本の中のように紋章が輝く：\nヴェネツィアは聖なる名前の中で震えている。\n神の天使が立ち、宿命的な任務をもって立つ、\nあそこで「汝に平和を、マルコよ、私の福音記者よ！」\n周りで稀な千年の\nモザイクの中の預言者たち全員が合唱する。黄金の空が鼓動する。\n千年の鼓動が聖人とマドンナたちを駆け巡る；\n柱が生き、繊細な格子が生きている。\nしかし神殿は今いかなる古い苦悩を覚えているのか、\nそれを包む鈍感な素材の中で守られながら？"
+    },
+    {
+      "id": 2,
+      "verses": "II, v.1–18",
+      "original": "Pei ciechi balaustri, per le navate ingombre\npassano grigie l'ombre di tutti i dogi illustri.\nDice uno Zani: Vissi pel tempio apparituro.\nQuale nemico oscuro sale dai ciechi abissi?\nDov'è l'icona fine di quattromila perle,\nmirabili a vederle tra l'opre bizantine?\nDove le croci greche, sante in Gerusalemme,\ni codici, le gemme, i calici, le teche?\nE dice un Selvo: Tolsi i marmi d'oltremare:\nposi con questi polsi la pietra dell'altare.\nLa Bibbia m'ammoniva. Sculpii divotamente.\nLa pietra fu vivente: dov'è la pietra viva?\nGli Zorzi i Mocenigo i Vanni i Contarini\ni Gritti i Morosini i Celsi i Gradenigo\nguatano il legno greggio che cela marmi ed ori.\n- Minacciano i tesori i barbari e il saccheggio?\n- Risorgono al reame i Turchi gli Unni i Galli?\nTornarono i cavalli all'ippodromo infame?",
+      "provisionalTranslation": "盲目の欄干を通り、混み合った身廊を通って\nすべての著名な総督たちの灰色の影が通り過ぎる。\n一人のザーニが言う：私は現れるべき神殿のために生きた。\nどんな暗い敵が盲目の深淵から上ってくるのか？\n四千の真珠の精緻なイコンはどこに、\nビザンティンの作品の中で見るに驚くべきイコンは？\nエルサレムで聖なるギリシャの十字架はどこに、\n写本、宝石、聖杯、聖遺物箱は？\nそして一人のセルヴォが言う：私は海外から大理石を取ってきた：\nこの腕で祭壇の石を据えた。\n聖書が私に警告した。私は敬虔に彫刻した。\n石は生きていた：生きている石はどこにあるのか？\nゾルツィ家、モチェニーゴ家、ヴァンニ家、コンタリーニ家、\nグリッティ家、モロジーニ家、チェルジ家、グラデニーゴ家が\n大理石と金を隠す粗削りの木を見つめる。\n──宝物は野蛮人と略奪者に脅かされているのか？\n──トルコ人、フン族、ガリア人が王国へと再び立ち上がるのか？\n馬たちは恥ずべき競馬場に戻ったのか？"
+    },
+    {
+      "id": 3,
+      "verses": "III, v.1–8",
+      "original": "Sta l'Angelo di Dio, sta col fatale incarco\nlassù «Pace, a Te, Marco, Evangelista mio!»\nSanto dei Santi eroi guerrieri e marinai,\no Santo, o tu che fai che «noi si dica noi»,\nquale remota ambascia il Tempio tuo ricorda,\ndifeso nella sorda materia che lo fascia?\nMinacciano i tuoi beni, la Chiesa disadorna\nBarbari e Saraceni! Ah! Ciò che fu ritorna!",
+      "provisionalTranslation": "神の天使が立ち、宿命的な任務をもって立つ、\nあそこで「汝に平和を、マルコよ、私の福音記者よ！」\n聖人の中の聖人、戦士と船乗りたちの英雄よ、\nおお聖人よ、おお「私たちが私たちと言えるようにする」あなたよ、\nあなたの神殿はいかなる遠い苦悩を覚えているのか、\nそれを包む鈍感な素材の中で守られながら？\nバルバリアとサラセン人があなたの財産と、装飾のない教会を\n脅かしている！ああ！かつてあったことが戻ってくる！"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "prosody",
+      "anchor": "D'oro si fanno brune le cupole stupende,\nma sotto il cielo illune il cielo d'oro splende.",
+      "body": "「Nell'Abazia di San Giuliano」と同じ内部連鎖韻（leonine chain rhyme）──各行が中央の区切りで前半・後半に分かれ、前の行の後半が次の行の前半と韻を踏む（「brune → illune」、「splende → Splende」、「ammirando → trepidando」等）。形式的特徴：v.3の「Splende」が前行末の「splende」を行頭で反復するanticlimax（頭繋ぎ）──詩が輝き（splendere）で連続的に開く音的効果。「il cielo d'oro」という句がv.2・v.8に反復されサン・マルコのモザイクの黄金色を詩全体に響かせる。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "glossary",
+      "anchor": "Sta l'Angelo di Dio, sta col fatale incarco\nlassù «Pace a Te, Marco, Evangelista mio!»",
+      "body": "エピグラフ「Pax tibi, Marce, Evangelista meus」──ヴェネツィア建国伝説の核心。伝承によれば、聖マルコの遺体をアレクサンドリアからヴェネツィアに移送した時（829年）、天使がこの言葉で聖マルコを迎えたとされる。サン・マルコ大聖堂のモザイクにも天使が「PAX TIBI MARCE EVANGELISTA MEUS」という文字を持って描かれる。この伝承的言葉が第I部v.5–6と第III部v.1–2に反復されることで、詩全体が「この言葉の真実性への問いかけ」として構造化される──平和の約束と現実の脅威の対立。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "Dice uno Zani: Vissi pel tempio apparituro.\nQuale nemico oscuro sale dai ciechi abissi?",
+      "body": "「一人のザーニが言う：私は現れるべき神殿のために生きた──どんな暗い敵が深淵から上ってくるのか？」──「Zani（ザーニ）」と「Selvo（セルヴォ）」はヴェネツィア総督（ドージェ）の名──Pietro Ziani（在位1205–29）、Domenico Selvo（在位1071–84）等の歴史的人物の亡霊が語る。総督の亡霊が現れるという手法が、詩に歴史的・幽霊的次元を加える。「Quale nemico oscuro（どんな暗い敵）」という問いが第III部の「Barbari e Saraceni！」という明示的な答えへの準備として機能する。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "Gli Zorzi i Mocenigo i Vanni i Contarini\ni Gritti i Morosini i Celsi i Gradenigo\nguatano il legno greggio che cela marmi ed ori.",
+      "body": "ヴェネツィアの貴族家名の連続列挙──「Zorzi（コルナロ）、Mocenigo（モチェニーゴ）、Contarini（コンタリーニ）、Gritti（グリッティ）、Morosini（モロジーニ）」等はすべてヴェネツィア共和国の名門貴族・総督の家系。この名前の列挙という技法はヴェルハーレン「À Ténèbres」の歴史列挙とは異なり、固有名詞のカタログとして音的効果を持つ──イタリア語の響きがヴェネツィアの歴史的奥行きを詩に与える。「legno greggio（粗削りの木）」──修復・保護のために大理石と金を隠すために取り付けられた木材。亡霊たちがその木を見つめるという場面が詩のヴィジュアル的核心。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "glossary",
+      "anchor": "- Risorgono al reame i Turchi gli Unni i Galli?\nTornarono i cavalli all'ippodromo infame?",
+      "body": "「トルコ人、フン族、ガリア人が王国へと再び立ち上がるのか？馬たちは恥ずべき競馬場に戻ったのか？」──サン・マルコ大聖堂の正面を飾る4頭の青銅の馬（ヴェネツィアの馬）は、もとはコンスタンティノープル（現イスタンブール）のヒッポドローム（ippodromo）に置かれていたもの。1204年第4次十字軍によるコンスタンティノープル略奪でヴェネツィアが持ち帰り、1797年ナポレオンがパリへ移し、1815年にヴェネツィアに返還された歴史的な略奪と返却の象徴。「ippodromo infame（恥ずべき競馬場）」──略奪の起源であるコンスタンティノープルのヒッポドロームへの言及。"
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "o Santo, o tu che fai che «noi si dica noi»,",
+      "body": "「私たちが『私たち』と言えるようにするあなた」──引用符内の「noi si dica noi（私たちが私たちと言われる）」という再帰的なアイデンティティの定式。聖マルコがヴェネツィア（人）のアイデンティティの根拠として機能するという認識──守護聖人が「共同体の私たち」を成立させる。「Barbari e Saraceni！Ah！Ciò che fu ritorna！（バルバリアとサラセン人！ああ！かつてあったことが戻ってくる！）」──歴史的脅威の循環という認識。「Nell'Abazia」が「愛と死はトミスタには空虚だ」という個人の虚無に終わるのに対し、この詩は「かつてあったことが戻ってくる」という集合的な歴史の反復に終わる──ゴッツァーノの宗教詩の二つの極。"
+    }
+  ]
+}
