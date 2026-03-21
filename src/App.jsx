@@ -1788,21 +1788,21 @@ export default function App() {
 
   // 訳文カラー設定から Tailwind クラスを返すヘルパー
   // neutral: ダーク zinc-300 / ライト stone-700（白黒）
-  // rose:    ダーク rose-300/80 / ライト rose-800/80
-  // teal:    ダーク teal-300/80 / ライト teal-800/80
+  // red:    ダーク red-300/80 / ライト red-800/80
+  // violet:    ダーク violet-300/80 / ライト violet-800/80
   const transTextClass = darkMode
-    ? transColor === 'rose'    ? 'text-rose-300/80'
-    : transColor === 'teal'    ? 'text-teal-300/80'
+    ? transColor === 'red'    ? 'text-red-300/80'
+    : transColor === 'violet'    ? 'text-violet-300/80'
     : /* neutral */              'text-zinc-300'
-    : transColor === 'rose'    ? 'text-rose-800/80'
-    : transColor === 'teal'    ? 'text-teal-800/80'
+    : transColor === 'red'    ? 'text-rose-800/80'
+    : transColor === 'violet'    ? 'text-violet-800/80'
     : /* neutral */              'text-stone-700';
   const transBorderClass = darkMode
-    ? transColor === 'rose'    ? 'border-rose-700/50'
-    : transColor === 'teal'    ? 'border-teal-700/50'
+    ? transColor === 'red'    ? 'border-red-700/50'
+    : transColor === 'violet'    ? 'border-violet-700/50'
     : /* neutral */              'border-stone-600'
-    : transColor === 'rose'    ? 'border-rose-300/60'
-    : transColor === 'teal'    ? 'border-teal-300/60'
+    : transColor === 'red'    ? 'border-red-300/60'
+    : transColor === 'violet'    ? 'border-violet-300/60'
     : /* neutral */              'border-stone-300';
 
     // カテゴリーラベルの短縮表示用マップ
