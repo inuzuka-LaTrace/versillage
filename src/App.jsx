@@ -183,7 +183,7 @@ export default function App() {
   // <html lang> を現在表示中テキストの言語に動的更新
   // （ブラウザ自動翻訳がUIの言語を正しく認識できるようにする）
   useEffect(() => {
-    const lang = texts[selectedText]?.originalLang;
+    const lang = texts[selectedText]?.;
     // テキスト未選択 or 不明なら日本語UIとして ja を設定
     document.documentElement.lang = lang ? 'ja' : 'ja';
   }, [selectedText, texts]);
@@ -660,7 +660,7 @@ export default function App() {
 
   // ─── 目次ドロワー ───────────────────────────────────────────
   const TocDrawer = () => {
-    const langMap = { 'fr': 'fr-FR', 'de': 'de-DE', 'de': 'de', 'en': 'en-GB', 'it': 'it-IT', 'ru': 'ru-RU' };
+    const langMap = { 'fr': 'fr-FR', 'de': 'de-DE', 'en': 'en-GB', 'it': 'it-IT', 'ru': 'ru-RU' };
 
     // ── フィルタリング（言語 + 検索：タイトル/作家/年/本文） ──────────
     const allTextsArr = Object.values(texts);
