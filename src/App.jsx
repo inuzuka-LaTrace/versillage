@@ -1,7 +1,7 @@
 import React, { useState, useEffect, useRef } from 'react';
 import {
   Bookmark, BookmarkCheck,
-  CalendarDays, Settings, Moon, Sun, Star, Gem, Sparkles, 
+  Settings, Moon, Sun, Sparkles, 
   Volume2, Square as IconSquare,
   Search, Link, FileText, List,
   ChevronRight, ChevronDown,
@@ -75,14 +75,18 @@ export default function App() {
   const [showFrench, setShowFrench] = useState(true);
   const [showOfficial, setShowOfficial] = useState(true);
   const [showUser, setShowUser] = useState(false);
-  const [showWelcome, setShowWelcome] = useState(true);
-  const [selectedCategory, setSelectedCategory] = useState(() => {
-    try {
-      const recent = JSON.parse(localStorage.getItem('recentTexts') || '[]');
-      if (recent.length > 0) return 'recent';
-      return localStorage.getItem('lastCategory') || 'all';
-    } catch { return 'all'; }
+  const [showWelcome, setShowWelcome] = useState(() => {
+    // ブラウザ言語が日本語なら非表示
+    const lang = navigator.language || navigator.languages?.[0] || '';
+    if (lang.startsWith('ja')) return false;
+    // 一度閉じたらlocalStorageに記録
+    try { if (localStorage.getItem('welcomeDismissed') === '1') return false; } catch {}
+    return true;
   });
+  const dismissWelcome = () => {
+    setShowWelcome(false);
+    try { localStorage.setItem('welcomeDismissed', '1'); } catch {}
+  };
   const [darkMode, setDarkMode] = useState(true);
   const [fontSize, setFontSize] = useState('medium');
   const [fontFamily, setFontFamily] = useState('garamond');
@@ -113,14 +117,6 @@ export default function App() {
   const [tocOpenAuthors, setTocOpenAuthors] = useState({}); // { authorKey: bool }
   const [tocLangFilter, setTocLangFilter]   = useState('all'); // 'all'|'fr'|'de'|'en'|'it'|'ru'
   const [tocSearch, setTocSearch]           = useState('');
-  // タイムラインビュー: false=非表示, 'list'=縦リスト, 'map'=横マップ
-  const [timelineMode, setTimelineMode] = useState(false);
-  // キーワードフィルター（クラウドクリック時にセット）
-  const [activeKeyword, setActiveKeyword] = useState(null);
-  // 閲覧履歴（最大10件、localStorage永続化）
-  const [recentTexts, setRecentTexts] = useState(() => {
-    try { return JSON.parse(localStorage.getItem('recentTexts') || '[]'); } catch { return []; }
-  });
   // フラッシュカードモード
   // フローティングTOPボタン
   const [showScrollTop, setShowScrollTop] = useState(false);
@@ -281,52 +277,12 @@ export default function App() {
 
   const categories = CATEGORIES; // constants.js
 
-  // カテゴリーで絞り込み後、さらに検索クエリで絞り込む（本文テキストも対象）
-  // カテゴリ選択を localStorage に保存（recent 以外）
-  useEffect(() => {
-    if (selectedCategory && selectedCategory !== 'recent') {
-      try { localStorage.setItem('lastCategory', selectedCategory); } catch {}
-    }
-  }, [selectedCategory]);
-
   // 訳文カラー設定を localStorage に保存
   useEffect(() => {
     try { localStorage.setItem('transColor', transColor); } catch {}
   }, [transColor]);
 
   // extractSnippet → utils.js
-
-  // 検索中フラグ（スニペット・リスト表示の切替トリガー）
-  const isSearching = !!searchQuery.trim() || !!activeKeyword;
-
-  const filteredTexts = Object.values(texts)
-    .filter(t => {
-      if (selectedCategory === 'recent') return recentTexts.includes(t.id);
-      if (selectedCategory === 'all') return true;
-      return t.category === selectedCategory;
-    })
-    .filter(t => {
-      if (!searchQuery.trim()) return true;
-      const q = searchQuery.toLowerCase();
-      if (activeKeyword) return (t.keywords || []).some(k => k === activeKeyword);
-      const inMeta =
-        t.title?.toLowerCase().includes(q) ||
-        t.author?.toLowerCase().includes(q) ||
-        t.year?.toString().includes(q) ||
-        (t.keywords || []).some(k => k.toLowerCase().includes(q));
-      const inBody = (t.paragraphs || []).some(p =>
-        getOriginalText(p).toLowerCase().includes(q) ||
-        getTranslation(p).toLowerCase().includes(q)
-      );
-      return inMeta || inBody;
-    })
-    .sort((a, b) => {
-      // recent カテゴリは履歴順を保持
-      if (selectedCategory === 'recent') {
-        return recentTexts.indexOf(a.id) - recentTexts.indexOf(b.id);
-      }
-      return 0;
-    });
 
   useEffect(() => {
     if (!loading && currentText) loadUserTranslations();
@@ -381,7 +337,6 @@ export default function App() {
     setCrossMode(false);
     setCrossTexts([]);
     setShowBookmarks(false);
-    setTimelineMode(false);
   };
 
   // ─── ブックマーク操作 ────────────────────────────────────
@@ -428,47 +383,13 @@ export default function App() {
     pushParaHash(textId, paraId);
   };
 
-  // キーワードクリック → 検索フィルターとして適用
-  const handleKeywordClick = (kw) => {
-    if (activeKeyword === kw) {
-      setActiveKeyword(null);
-      setSearchQuery('');
-    } else {
-      setActiveKeyword(kw);
-      setSearchQuery(kw);
-      setSelectedCategory('all');
-      setTimelineMode(false);
-    }
-  };
-
   // テキスト切り替え（状態リセット + URL更新 + テキスト情報へスクロール）
-  // タイムライン表示中は閉じずにそのまま維持する
-  const handleTextChange = (textId, { keepTimeline = false } = {}) => {
-    const prevTimeline = keepTimeline ? timelineMode : false;
+  const handleTextChange = (textId) => {
     resetTextState(textId);
-    if (keepTimeline && prevTimeline) {
-      setTimeout(() => setTimelineMode(prevTimeline), 0);
-    }
     pushTextHash(textId);
-    // 閲覧履歴を更新（先頭に追加・重複排除・最大10件）
-    setRecentTexts(prev => {
-      const next = [textId, ...prev.filter(id => id !== textId)].slice(0, 10);
-      try { localStorage.setItem('recentTexts', JSON.stringify(next)); } catch {}
-      return next;
-    });
     setTimeout(() => {
       scrollToEl(textInfoRef.current);
     }, 80);
-  };
-
-  // vボタン：シングルクリックでテキスト情報パネルへスクロール
-  const handleVButton = (e, textId) => {
-    e.stopPropagation();
-    if (selectedText !== textId) {
-      handleTextChange(textId); // handleTextChange 内でスクロールも実行
-    } else {
-      scrollToEl(textInfoRef.current);
-    }
   };
 
   const toggleParagraph = (id) => {
@@ -741,29 +662,53 @@ export default function App() {
   const TocDrawer = () => {
     const langMap = { 'fr': 'fr-FR', 'de': 'de-DE', 'en': 'en-GB', 'it': 'it-IT', 'ru': 'ru-RU' };
 
-    // フィルタ済みテキスト一覧
+    // ── フィルタリング（言語 + 検索：タイトル/作家/年/本文） ──────────
     const allTextsArr = Object.values(texts);
     const filtered = allTextsArr.filter(t => {
       if (tocLangFilter !== 'all' && t.originalLang !== langMap[tocLangFilter]) return false;
-      if (tocSearch.trim()) {
-        const q = tocSearch.toLowerCase();
-        return (
-          t.title?.toLowerCase().includes(q) ||
-          t.author?.toLowerCase().includes(q) ||
-          t.year?.toString().includes(q)
-        );
-      }
-      return true;
+      if (!tocSearch.trim()) return true;
+      const q = tocSearch.toLowerCase();
+      const inMeta =
+        t.title?.toLowerCase().includes(q) ||
+        t.author?.toLowerCase().includes(q) ||
+        t.year?.toString().includes(q) ||
+        (t.keywords || []).some(k => k.toLowerCase().includes(q));
+      const inBody = (t.paragraphs || []).some(p =>
+        getOriginalText(p).toLowerCase().includes(q) ||
+        getTranslation(p).toLowerCase().includes(q)
+      );
+      return inMeta || inBody;
     });
 
-    // 作家でグループ化（author フィールドをキーに）
+    // ── スニペット抽出（本文ヒット時のプレビュー） ──────────────────
+    const getSnippet = (t) => {
+      if (!tocSearch.trim()) return null;
+      const q = tocSearch.toLowerCase();
+      // 本文ヒット確認
+      for (const p of (t.paragraphs || [])) {
+        const orig  = getOriginalText(p).toLowerCase();
+        const trans = getTranslation(p).toLowerCase();
+        const src   = orig.includes(q) ? getOriginalText(p) : trans.includes(q) ? getTranslation(p) : null;
+        if (!src) continue;
+        const idx = src.toLowerCase().indexOf(q);
+        const start = Math.max(0, idx - 15);
+        const end   = Math.min(src.length, idx + q.length + 25);
+        return {
+          pre:   (start > 0 ? '…' : '') + src.slice(start, idx),
+          match: src.slice(idx, idx + q.length),
+          post:  src.slice(idx + q.length, end) + (end < src.length ? '…' : ''),
+        };
+      }
+      return null;
+    };
+
+    // ── 作家グループ化（author をキーに） ──────────────────────────
     const groups = {};
     filtered.forEach(t => {
       const key = t.author || '—';
       if (!groups[key]) groups[key] = [];
       groups[key].push(t);
     });
-    // 作家名アルファベット順（キリル・漢字は末尾）
     const sortedAuthors = Object.keys(groups).sort((a, b) => {
       const la = /^[A-Za-z]/.test(a), lb = /^[A-Za-z]/.test(b);
       if (la && !lb) return -1;
@@ -774,7 +719,7 @@ export default function App() {
     const toggleAuthor = (key) =>
       setTocOpenAuthors(prev => ({ ...prev, [key]: !prev[key] }));
 
-    // ダーク固定スタイル（目次は常にダーク）
+    // ── スタイル定数（常にダーク） ──────────────────────────────────
     const tocBg     = 'bg-[#0a0907]';
     const tocBorder = 'border-[#1e1b16]';
     const tocText   = 'text-[#c8b89a]';
@@ -782,51 +727,42 @@ export default function App() {
     const tocDim    = 'text-[#3a3028]';
     const tocActive = 'bg-[#141210] border-l-2 border-[#8b7355]';
 
-    const langLabels = [
-      { key: 'all', label: '全' },
-      { key: 'fr',  label: 'fr' },
-      { key: 'de',  label: 'de' },
-      { key: 'en',  label: 'en' },
-      { key: 'it',  label: 'it' },
-      { key: 'ru',  label: 'ru' },
-    ];
+    const isSearching = !!tocSearch.trim();
 
     return (
       <>
-        {/* オーバーレイ背景 */}
         <div
           className="fixed inset-0 z-40 bg-black/50 backdrop-blur-sm"
           onClick={() => setShowToc(false)}
         />
 
-        {/* ドロワー本体（左から出現） */}
         <div className={`fixed top-0 left-0 h-full z-50 flex flex-col shadow-2xl
           transition-transform duration-300 ease-in-out
           ${showToc ? 'translate-x-0' : '-translate-x-full'}
           ${tocBg} border-r ${tocBorder}`}
-          style={{ width: '280px', fontFamily: '"EB Garamond", "Shippori Mincho B1", serif' }}
+          style={{ width: '300px', fontFamily: '"EB Garamond", "Shippori Mincho B1", serif' }}
         >
           {/* ── ヘッダー ── */}
           <div className={`flex items-center justify-between px-4 py-3 border-b ${tocBorder} shrink-0`}>
-            <span className={`text-xs tracking-[0.2em] uppercase font-sans ${tocDim}`}>目次</span>
+            <span className="text-xs tracking-[0.2em] uppercase font-sans text-[#3a3028]">目次</span>
             <button
               onClick={() => setShowToc(false)}
-              className={`w-6 h-6 flex items-center justify-center rounded-full ${tocSub} hover:opacity-70 transition-opacity`}
+              className="w-6 h-6 flex items-center justify-center text-[#6a5a40] hover:opacity-70 transition-opacity"
             >
               <X size={12} strokeWidth={1.8} />
             </button>
           </div>
 
-          {/* ── 検索 ── */}
+          {/* ── 検索（本文検索対応） ── */}
           <div className={`px-3 pt-3 pb-2 border-b ${tocBorder} shrink-0`}>
             <div className={`flex items-center gap-2 border ${tocBorder} rounded px-2.5 py-1.5 bg-[#0d0b08]`}>
-              <Search size={11} strokeWidth={1.6} className={tocDim} />
+              <Search size={12} strokeWidth={1.6} className={tocDim} />
               <input
                 type="text"
                 value={tocSearch}
                 onChange={e => setTocSearch(e.target.value)}
-                placeholder="作家・題名・年…"
-                className={`flex-1 bg-transparent text-xs font-sans outline-none placeholder-[#3a3028] ${tocSub}`}
+                placeholder="作家・題名・年・本文…"
+                className="flex-1 bg-transparent text-sm font-sans outline-none placeholder-[#3a3028] text-[#6a5a40]"
               />
               {tocSearch && (
                 <button onClick={() => setTocSearch('')} className={`${tocDim} hover:opacity-70`}>
@@ -834,11 +770,23 @@ export default function App() {
                 </button>
               )}
             </div>
+            {isSearching && (
+              <p className="mt-1.5 text-[10px] font-sans text-[#3a3028] px-0.5">
+                本文・訳文も検索対象 — {filtered.length} 件
+              </p>
+            )}
           </div>
 
           {/* ── 言語フィルター ── */}
           <div className={`px-3 py-2 border-b ${tocBorder} flex gap-1.5 shrink-0`}>
-            {langLabels.map(({ key, label }) => (
+            {[
+              { key: 'all', label: '全' },
+              { key: 'fr',  label: 'fr' },
+              { key: 'de',  label: 'de' },
+              { key: 'en',  label: 'en' },
+              { key: 'it',  label: 'it' },
+              { key: 'ru',  label: 'ru' },
+            ].map(({ key, label }) => (
               <button
                 key={key}
                 onClick={() => setTocLangFilter(key)}
@@ -853,29 +801,29 @@ export default function App() {
             ))}
           </div>
 
-          {/* ── テキスト一覧（作家折り畳み） ── */}
+          {/* ── テキスト一覧 ── */}
           <div className="flex-1 overflow-y-auto">
             {sortedAuthors.length === 0 ? (
-              <p className={`px-4 py-6 text-xs font-sans ${tocDim}`}>
-                {tocSearch ? `「${tocSearch}」に一致するテキストがありません` : 'テキストがありません'}
+              <p className={`px-4 py-6 text-sm font-sans ${tocDim}`}>
+                {tocSearch ? `「${tocSearch}」に一致しません` : 'テキストがありません'}
               </p>
             ) : (
               sortedAuthors.map(author => {
-                const isOpen = tocOpenAuthors[author] !== false; // デフォルト展開
+                const isOpen = tocOpenAuthors[author] !== false;
                 const authorTexts = groups[author];
                 return (
                   <div key={author}>
-                    {/* 作家名ヘッダー（クリックで折り畳み） */}
+                    {/* 作家名ヘッダー */}
                     <button
-                      className={`w-full flex items-center justify-between px-4 py-2 text-left border-b ${tocBorder} hover:bg-[#0f0d0a] transition-colors group`}
+                      className={`w-full flex items-center justify-between px-4 py-2.5 text-left border-b ${tocBorder} hover:bg-[#0f0d0a] transition-colors group`}
                       onClick={() => toggleAuthor(author)}
                     >
-                      <span className={`text-xs italic ${tocSub} group-hover:text-[#9a8a6a] transition-colors`}>
+                      <span className="text-sm italic text-[#6a5a40] group-hover:text-[#9a8a6a] transition-colors">
                         {author}
                       </span>
-                      <span className={`text-xs ${tocDim} ml-2 flex items-center gap-1`}>
-                        <span className="font-sans text-[10px] opacity-60">{authorTexts.length}</span>
-                        <span style={{ fontSize: '9px' }}>{isOpen ? '▾' : '▸'}</span>
+                      <span className="flex items-center gap-1 ml-2">
+                        <span className="font-sans text-[10px] text-[#3a3028] opacity-60">{authorTexts.length}</span>
+                        <span className="text-[#3a3028]" style={{ fontSize: '9px' }}>{isOpen ? '▾' : '▸'}</span>
                       </span>
                     </button>
 
@@ -884,28 +832,39 @@ export default function App() {
                       <div>
                         {authorTexts.map(t => {
                           const isSelected = currentText?.id === t.id;
+                          const snip = isSearching ? getSnippet(t) : null;
                           return (
                             <button
                               key={t.id}
-                              className={`w-full flex items-baseline gap-2 pl-6 pr-3 py-1.5 text-left border-b border-[#140f0a] transition-colors
+                              className={`w-full flex flex-col gap-0.5 pl-6 pr-3 py-2 text-left border-b border-[#140f0a] transition-colors
                                 ${isSelected ? tocActive : 'hover:bg-[#100e0b]'}`}
                               onClick={() => {
-                                setSelectedText(t.id);
+                                handleTextChange(t.id);
                                 setShowToc(false);
                               }}
                             >
-                              <span className={`text-xs leading-snug ${isSelected ? tocText : tocSub} flex-1 min-w-0`}
-                                style={{ wordBreak: 'break-all' }}>
-                                {t.title}
-                              </span>
-                              <span className={`text-[10px] font-sans shrink-0 ${tocDim}`}>
-                                {t.year}
-                              </span>
+                              <div className="flex items-baseline gap-2 w-full">
+                                <span className={`text-sm leading-snug flex-1 min-w-0 ${isSelected ? tocText : tocSub}`}>
+                                  {t.title}
+                                </span>
+                                <span className="text-[10px] font-sans shrink-0 text-[#3a3028]">
+                                  {t.year}
+                                </span>
+                              </div>
+                              {/* 本文スニペット（検索ヒット時） */}
+                              {snip && (
+                                <p className="text-xs font-sans leading-relaxed text-[#4a3a28] pl-0.5">
+                                  {snip.pre}
+                                  <mark className="bg-[#3a2a10] text-[#c8b89a] px-0.5 rounded-sm not-italic">
+                                    {snip.match}
+                                  </mark>
+                                  {snip.post}
+                                </p>
+                              )}
                             </button>
                           );
                         })}
-                        {/* 作家区切り装飾 */}
-                        <div className={`text-center py-1 text-[#1e1b16] text-xs tracking-[0.4em] select-none`}>
+                        <div className="text-center py-1.5 text-[#1e1b16] text-xs tracking-[0.4em] select-none">
                           · · ·
                         </div>
                       </div>
@@ -916,19 +875,16 @@ export default function App() {
             )}
           </div>
 
-          {/* ── フッター（件数） ── */}
+          {/* ── フッター ── */}
           <div className={`px-4 py-2 border-t ${tocBorder} shrink-0 flex items-center justify-between`}>
-            <span className={`text-[10px] font-sans ${tocDim}`}>
-              {filtered.length} テキスト
+            <span className="text-[10px] font-sans text-[#3a3028]">
+              {filtered.length} / {Object.keys(texts).length} テキスト
             </span>
             <button
-              onClick={() => {
-                setTocSearch('');
-                setTocLangFilter('all');
-              }}
-              className={`text-[10px] font-sans ${tocDim} hover:text-[#6a5a40] transition-colors`}
+              onClick={() => { setTocSearch(''); setTocLangFilter('all'); }}
+              className="text-[10px] font-sans text-[#3a3028] hover:text-[#6a5a40] transition-colors"
             >
-              フィルターをリセット
+              リセット
             </button>
           </div>
         </div>
@@ -1030,217 +986,6 @@ export default function App() {
     );
   };
 
-
-  // ─── 時系列マップ（縦リスト ↔ 横マップ 切替式） ────────────
-  const TimelineView = () => {
-    const allTexts = Object.values(texts);
-    const withYear = allTexts
-      .map(t => ({ ...t, yearNum: parseInt(t.year) }))
-      .filter(t => !isNaN(t.yearNum) && t.yearNum >= 1800 && t.yearNum <= 1940);
-
-    // カテゴリをキーにグループ化（author文字列の表記ゆれを防ぐ）
-    const byAuthor = {};
-    withYear.forEach(t => {
-      const key = t.category;
-      if (!byAuthor[key]) byAuthor[key] = { author: t.author, category: t.category, texts: [] };
-      byAuthor[key].texts.push(t);
-    });
-    const authorGroups = Object.values(byAuthor).sort((a, b) =>
-      Math.min(...a.texts.map(t => t.yearNum)) - Math.min(...b.texts.map(t => t.yearNum))
-    );
-
-    // 全エントリ（著者順 → 年順）
-    const allEntries = authorGroups.flatMap(g =>
-      [...g.texts].sort((a, b) => a.yearNum - b.yearNum).map(t => ({ ...t, category: g.category }))
-    );
-
-    // decade 区切り
-    const decadeBreaks = new Set(allEntries.map(t => Math.floor(t.yearNum / 10) * 10));
-    const sortedDecades = [...decadeBreaks].sort((a, b) => a - b);
-    const byDecade = {};
-    sortedDecades.forEach(d => { byDecade[d] = allEntries.filter(t => Math.floor(t.yearNum / 10) * 10 === d); });
-
-    // 横マップ用
-    const minYear = 1840, maxYear = 1930, span = maxYear - minYear;
-    const xPct = (year) => Math.max(0, Math.min(100, ((year - minYear) / span) * 100));
-    const decades = [];
-    for (let y = 1850; y <= 1930; y += 10) decades.push(y);
-
-    // 著者カラー dot
-    const dotColor = (cat) => {
-      const c = authorColor(cat);
-      if (c.includes('violet'))  return darkMode ? 'bg-violet-400'  : 'bg-violet-500';
-      if (c.includes('amber'))   return darkMode ? 'bg-amber-400'   : 'bg-amber-500';
-      if (c.includes('sky'))     return darkMode ? 'bg-sky-400'     : 'bg-sky-500';
-      if (c.includes('rose'))    return darkMode ? 'bg-rose-400'    : 'bg-rose-500';
-      if (c.includes('emerald')) return darkMode ? 'bg-emerald-400' : 'bg-emerald-500';
-      if (c.includes('teal'))    return darkMode ? 'bg-teal-400'    : 'bg-teal-500';
-      if (c.includes('indigo'))  return darkMode ? 'bg-indigo-400'  : 'bg-indigo-500';
-      if (c.includes('cyan'))    return darkMode ? 'bg-cyan-400'    : 'bg-cyan-500';
-      if (c.includes('pink'))    return darkMode ? 'bg-pink-400'    : 'bg-pink-500';
-      if (c.includes('blue'))    return darkMode ? 'bg-blue-400'    : 'bg-blue-500';
-      return darkMode ? 'bg-stone-500' : 'bg-stone-400';
-    };
-
-    const isMap = timelineMode === 'map';
-
-    return (
-      <div className={`rounded-xl border mb-4 overflow-hidden ${cardBgClass}`}>
-
-        {/* ── ヘッダー ── */}
-        <div className={`flex items-center justify-between px-4 py-2.5 border-b ${borderClass}`}>
-          <h2 className={`text-xs font-semibold uppercase tracking-wider font-IBM Plex sans JP flex items-center gap-1.5 ${textSecondary}`}>
-            <CalendarDays size={13} strokeWidth={1.6} />
-            時系列マップ
-            <span className="font-normal opacity-50">({allEntries.length}作品)</span>
-          </h2>
-
-          <div className="flex items-center gap-1.5">
-            {/* リスト ↔ マップ 切替 */}
-            <div className={`flex rounded-lg overflow-hidden border text-xs font-IBM Plex sans JP ${darkMode ? 'border-zinc-700' : 'border-stone-200'}`}>
-              <button
-                onClick={() => setTimelineMode('list')}
-                className={`px-2.5 py-1 transition-colors flex items-center gap-1 ${
-                  !isMap
-                    ? darkMode ? 'bg-amber-700 text-amber-100' : 'bg-stone-800 text-white'
-                    : darkMode ? 'text-zinc-400 hover:bg-zinc-800' : 'text-stone-500 hover:bg-stone-50'
-                }`}
-              >
-                <List size={11} strokeWidth={1.8} />リスト
-              </button>
-              <button
-                onClick={() => setTimelineMode('map')}
-                className={`px-2.5 py-1 transition-colors flex items-center gap-1 border-l ${darkMode ? 'border-zinc-700' : 'border-stone-200'} ${
-                  isMap
-                    ? darkMode ? 'bg-amber-700 text-amber-100' : 'bg-stone-800 text-white'
-                    : darkMode ? 'text-zinc-400 hover:bg-zinc-800' : 'text-stone-500 hover:bg-stone-50'
-                }`}
-              >
-                <CalendarDays size={11} strokeWidth={1.8} />マップ
-              </button>
-            </div>
-            {/* 閉じる */}
-            <button
-              onClick={() => setTimelineMode(false)}
-              className={`w-6 h-6 flex items-center justify-center rounded-full transition-colors ${darkMode ? 'hover:bg-zinc-800 text-zinc-400' : 'hover:bg-stone-200 text-stone-500'}`}
-            >
-              <X size={13} strokeWidth={2} />
-            </button>
-          </div>
-        </div>
-
-        {/* ── 縦リストビュー ── */}
-        {!isMap && (
-          <div className="overflow-y-auto" style={{ maxHeight: '55vh' }}>
-            {sortedDecades.map(decade => (
-              <div key={decade}>
-                <div className={`sticky top-0 z-10 flex items-center gap-3 px-4 py-1.5 ${
-                  darkMode ? 'bg-zinc-900/95 border-b border-zinc-800' : 'bg-stone-50/95 border-b border-stone-100'
-                }`}>
-                  <span className={`text-xs font-mono font-bold tabular-nums ${darkMode ? 'text-zinc-400' : 'text-stone-500'}`}>
-                    {decade}年代
-                  </span>
-                  <div className={`flex-1 h-px ${darkMode ? 'bg-zinc-800' : 'bg-stone-200'}`} />
-                </div>
-                <div className="px-3 py-1.5 space-y-0.5">
-                  {byDecade[decade].map(t => {
-                    const isSelected = selectedText === t.id;
-                    const dot = dotColor(t.category);
-                    return (
-                      <button
-                        key={t.id}
-                        onClick={() => handleTextChange(t.id, { keepTimeline: true })}
-                        className={`w-full flex items-center gap-3 px-3 py-2 rounded-lg text-left transition-colors ${
-                          isSelected
-                            ? darkMode ? 'bg-amber-900/30 border border-amber-700/50' : 'bg-amber-50 border border-amber-200'
-                            : darkMode ? 'hover:bg-zinc-800/60 border border-transparent' : 'hover:bg-stone-50 border border-transparent'
-                        }`}
-                      >
-                        <span className={`text-xs font-mono tabular-nums shrink-0 w-10 ${isSelected ? (darkMode ? 'text-amber-300' : 'text-amber-700') : textSecondary}`}>
-                          {t.year}
-                        </span>
-                        <span className={`w-2 h-2 rounded-full shrink-0 ${dot} ${isSelected ? 'ring-2 ring-offset-1 ring-current' : 'opacity-70'}`} />
-                        <div className="min-w-0 flex-1">
-                          <span className={`text-xs font-IBM Plex sans JP ${textSecondary}`}>{t.author.split(' ').pop()}</span>
-                          <span className={`mx-1.5 text-xs opacity-30 ${textClass}`}>·</span>
-                          <span className={`text-xs font-serif ${textClass} ${isSelected ? 'font-semibold' : ''}`}>{t.title}</span>
-                        </div>
-                        {isSelected && <ChevronRight size={13} strokeWidth={2} className={`shrink-0 ${darkMode ? 'text-amber-400' : 'text-amber-600'}`} />}
-                      </button>
-                    );
-                  })}
-                </div>
-              </div>
-            ))}
-          </div>
-        )}
-
-        {/* ── 横マップビュー ── */}
-        {isMap && (
-          <div className="overflow-x-auto overflow-y-auto" style={{ maxHeight: '55vh' }}>
-            <div style={{ minWidth: '560px' }} className="p-4">
-
-              {/* 年代ルーラー */}
-              <div className="relative h-6 mb-2 ml-24 mr-3">
-                <div className={`absolute top-2 left-0 right-0 h-px ${darkMode ? 'bg-zinc-700' : 'bg-stone-200'}`} />
-                {decades.map(y => (
-                  <div key={y} className="absolute flex flex-col items-center" style={{ left: `${xPct(y)}%` }}>
-                    <div className={`w-px h-2 mt-1 ${darkMode ? 'bg-zinc-600' : 'bg-stone-300'}`} />
-                    <span className={`text-xs font-mono tabular-nums -translate-x-1/2 leading-none mt-0.5 ${textSecondary}`} style={{ fontSize: '10px' }}>
-                      {y}
-                    </span>
-                  </div>
-                ))}
-              </div>
-
-              {/* 著者行 */}
-              <div className="space-y-1.5">
-                {authorGroups.map(({ author, category, texts: aTexts }) => {
-                  const dot = dotColor(category);
-                  return (
-                    <div key={author} className="flex items-center gap-2">
-                      {/* 著者名ラベル（固定幅） */}
-                      <div className="w-24 shrink-0 text-right pr-2">
-                        <span className={`text-xs font-IBM Plex sans JP truncate block ${textSecondary}`}>{author.split(' ').pop()}</span>
-                      </div>
-                      {/* ドット行 */}
-                      <div className="relative flex-1 h-7">
-                        <div className={`absolute top-1/2 left-0 right-0 h-px ${darkMode ? 'bg-zinc-800' : 'bg-stone-100'}`} />
-                        {aTexts.map(t => {
-                          const isSelected = selectedText === t.id;
-                          return (
-                            <button
-                              key={t.id}
-                              onClick={() => handleTextChange(t.id, { keepTimeline: true })}
-                              title={`${t.title}（${t.year}）`}
-                              className={`absolute top-1/2 -translate-y-1/2 -translate-x-1/2 rounded-full transition-all z-10 ${
-                                isSelected
-                                  ? `w-4 h-4 ring-2 ring-offset-1 ${darkMode ? 'ring-amber-400' : 'ring-stone-800'} ${dot}`
-                                  : `w-2.5 h-2.5 hover:w-3.5 hover:h-3.5 opacity-60 hover:opacity-100 ${dot}`
-                              }`}
-                              style={{ left: `${xPct(t.yearNum)}%` }}
-                            />
-                          );
-                        })}
-                      </div>
-                    </div>
-                  );
-                })}
-              </div>
-            </div>
-          </div>
-        )}
-
-        {/* フッター */}
-        <div className={`px-4 py-2 border-t text-xs font-IBM Plex sans JP flex items-center gap-2 ${borderClass} ${textSecondary} opacity-60`}>
-          {isMap
-            ? 'ドットをクリックで選択 — タイムラインを表示したまま本文へ移動できます'
-            : '行をクリックで選択 — タイムラインを表示したまま本文へ移動できます'
-          }
-        </div>
-      </div>
-    );
-  };
 
   // ─── 横断読解：1パネル分のレンダリング ───────────────────────
   const CrossPanel = ({ textObj, panelIndex }) => {
@@ -1412,13 +1157,13 @@ export default function App() {
   }
 
   // ─── テーマ変数 ───────────────────────────────────────────
-  const bgClass         = darkMode ? 'bg-zinc-950'                         : 'bg-stone-50';
-  const cardBgClass     = darkMode ? 'bg-zinc-900 border-zinc-800'         : 'bg-white border-stone-200';
-  const textClass       = darkMode ? 'text-zinc-100'                        : 'text-stone-900';
-  const textSecondary   = darkMode ? 'text-zinc-400'                        : 'text-stone-500';
-  const borderClass     = darkMode ? 'border-zinc-800'                      : 'border-stone-200';
-  const inputBg         = darkMode ? 'bg-zinc-800 text-zinc-100 placeholder-zinc-500 border-zinc-700' : 'bg-stone-100 text-stone-900 placeholder-stone-400 border-stone-300';
-  const settingsBg      = darkMode ? 'bg-zinc-900 border-zinc-700 shadow-2xl' : 'bg-white border-stone-200 shadow-2xl';
+  const bgClass         = darkMode ? 'bg-[#0d0b08]'                              : 'bg-stone-50';
+  const cardBgClass     = darkMode ? 'bg-[#111009] border-[#1e1b16]'             : 'bg-white border-stone-200';
+  const textClass       = darkMode ? 'text-[#c8b89a]'                            : 'text-stone-900';
+  const textSecondary   = darkMode ? 'text-[#6a5a40]'                            : 'text-stone-500';
+  const borderClass     = darkMode ? 'border-[#1e1b16]'                          : 'border-stone-200';
+  const inputBg         = darkMode ? 'bg-[#0a0907] text-[#c8b89a] placeholder-[#3a3028] border-[#2a2520]' : 'bg-stone-100 text-stone-900 placeholder-stone-400 border-stone-300';
+  const settingsBg      = darkMode ? 'bg-[#111009] border-[#2a2520] shadow-2xl'  : 'bg-white border-stone-200 shadow-2xl';
 
   const fontFamilyStyle =
     fontFamily === 'garamond'     ? '"EB Garamond", "Shippori Mincho B1", serif' :
@@ -1679,7 +1424,7 @@ export default function App() {
           </button>
 
           <button
-            onClick={() => { setShowBookmarks(v => !v); setTimelineMode(false); }}
+            onClick={() => setShowBookmarks(v => !v)}
             title="ブックマーク一覧"
             className={`w-8 h-8 flex items-center justify-center rounded-full transition-colors ${
               showBookmarks
@@ -1716,7 +1461,7 @@ export default function App() {
         {showWelcome && (
           <div className={`rounded-xl border p-4 mb-6 relative ${darkMode ? 'bg-violet-950/30 border-violet-900/50' : 'bg-violet-50 border-violet-200'}`}>
             <button
-              onClick={() => setShowWelcome(false)}
+              onClick={dismissWelcome}
               className={`absolute top-3 right-3 ${textSecondary} hover:opacity-70`}
             ><X size={14} strokeWidth={2} /></button>
             <p className={`text-m font-IBM Plex sans JP ${darkMode ? 'text-violet-500' : 'text-violet-700'}`}>
@@ -1728,231 +1473,31 @@ export default function App() {
         {/* ─── ブックマークパネル ─────────────────── */}
         {showBookmarks && <BookmarkPanel />}
 
-        {/* ─── カテゴリーフィルター ─────────────────── */}
-        <div className={`rounded-xl border p-4 mb-4 ${cardBgClass}`}>
-          <div className="flex flex-wrap gap-1.5">
-            {/* 最近開いた（履歴あり時のみ） */}
-            {recentTexts.length > 0 && (
-              <button
-                onClick={() => { setSelectedCategory('recent'); setSearchQuery(''); }}
-                className={`px-3 py-1.5 rounded-full text-xs font-medium transition-all flex items-center gap-1 font-Hina Mincho ${
-                  selectedCategory === 'recent'
-                    ? darkMode ? 'bg-amber-700 text-amber-100 shadow-sm' : 'bg-amber-800 text-white shadow-sm'
-                    : darkMode ? 'bg-zinc-800 text-zinc-300 hover:bg-zinc-700' : 'bg-stone-100 text-stone-600 hover:bg-stone-200'
-                }`}
-              >
-                <Clock size={10} strokeWidth={1.8} />最近開いた
-              </button>
-            )}
-            {Object.entries(categories).map(([key, cat]) => (
-              <button
-                key={key}
-                onClick={() => { setSelectedCategory(key); setSearchQuery(''); }}
-                className={`px-3 py-1.5 rounded-full text-xs font-medium transition-all ${
-                  selectedCategory === key
-                    ? darkMode ? 'bg-zinc-100 text-zinc-900 shadow-sm font-IBM Plex sans JP' : 'bg-stone-800 text-white shadow-sm font-IBM Plex sans JP'
-                    : darkMode
-                      ? 'bg-zinc-800 text-zinc-300 hover:bg-zinc-700 font-IBM Plex sans JP'
-                      : 'bg-stone-100 text-stone-600 hover:bg-stone-200 font-IBM Plex sans JP'
-                }`}
-              >
-                {cat.name}
-              </button>
-            ))}
-          </div>
-        </div>
-
-        {/* ─── 検索バー + 時系列トグル ──────────────── */}
-        <div className="mb-4">
-          <div className="flex gap-2">
-            <div className="relative flex-1">
-              <span className={`absolute left-3 top-1/2 -translate-y-1/2 pointer-events-none ${textSecondary}`}><Search size={14} strokeWidth={1.6} /></span>
-              <input
-                type="text"
-                value={searchQuery}
-                onChange={(e) => { setSearchQuery(e.target.value); setSelectedCategory('all'); if (!e.target.value) setActiveKeyword(null); }}
-                placeholder="タイトル・著者・年・本文テキストで検索..."
-                className={`w-full rounded-xl border pl-9 pr-9 py-2.5 text-sm focus:outline-none focus:ring-2 focus:ring-amber-400 transition-all font-IBM Plex sans JP ${inputBg}`}
-              />
-              {searchQuery && (
-                <button
-                  onClick={() => { setSearchQuery(''); setActiveKeyword(null); }}
-                  className={`absolute right-3 top-1/2 -translate-y-1/2 ${textSecondary} hover:opacity-70`}
-                ><X size={13} strokeWidth={2} /></button>
-              )}
-            </div>
-            {/* 時系列マップ トグルボタン：off→list→map→off のサイクル */}
+        {/* ─── テキスト未選択時：目次への誘導 ─── */}
+        {!selectedText && (
+          <div className="flex flex-col items-center justify-center py-24 gap-5">
+            <p className={`text-xs tracking-[0.25em] uppercase font-sans ${
+              darkMode ? 'text-[#2a2218]' : 'text-stone-300'
+            }`}>vanité des vanités</p>
+            <p className={`font-serif text-base text-center leading-relaxed ${
+              darkMode ? 'text-[#4a3a28]' : 'text-stone-400'
+            }`} style={{ fontFamily: '"EB Garamond", serif' }}>
+              目次からテキストを選んでください
+            </p>
             <button
-              onClick={() => {
-                setShowBookmarks(false);
-                setTimelineMode(prev => {
-                  if (!prev) return 'list';
-                  if (prev === 'list') return 'map';
-                  return false;
-                });
-              }}
-              title={!timelineMode ? '時系列リストを開く' : timelineMode === 'list' ? '横マップに切替' : '閉じる'}
-              className={`shrink-0 w-10 h-10 flex items-center justify-center rounded-xl border transition-colors ${
-                timelineMode
-                  ? darkMode ? 'bg-amber-700 text-amber-100 border-amber-600' : 'bg-stone-800 text-white border-stone-700'
-                  : darkMode ? 'bg-zinc-800 hover:bg-zinc-700 text-zinc-400 border-zinc-700' : 'bg-white hover:bg-stone-50 text-stone-500 border-stone-300'
+              onClick={() => setShowToc(true)}
+              className={`flex items-center gap-2 px-5 py-2 text-sm font-sans border transition-colors ${
+                darkMode
+                  ? 'border-[#2a2520] text-[#6a5a40] hover:border-[#6b5a3a] hover:text-[#c8b89a]'
+                  : 'border-stone-300 text-stone-400 hover:border-stone-500 hover:text-stone-700'
               }`}
+              style={{ borderRadius: '2px', letterSpacing: '0.08em' }}
             >
-              <CalendarDays size={16} strokeWidth={1.6} />
+              <List size={13} strokeWidth={1.6} />
+              目次を開く
             </button>
           </div>
-          {activeKeyword && (
-            <div className="mt-1.5 flex items-center gap-2">
-              <span className={`text-xs font-IBM Plex sans JP ${textSecondary}`}>キーワードフィルター中：</span>
-              <button
-                onClick={() => { setActiveKeyword(null); setSearchQuery(''); }}
-                className={`text-xs font-IBM Plex sans JP px-2 py-0.5 rounded border flex items-center gap-1 ${darkMode ? 'bg-amber-700 text-amber-100 border-amber-600' : 'bg-stone-800 text-white border-stone-700'}`}
-              >
-                <X size={11} strokeWidth={2} />{activeKeyword}
-              </button>
-            </div>
-          )}
-        </div>
-
-        {/* ─── 時系列マップ ──────────────────────── */}
-        {timelineMode && <TimelineView />}
-
-        <div className={`rounded-xl border mb-6 overflow-hidden ${cardBgClass}`}>
-          {/* ── ヘッダー ── */}
-          <div className={`flex items-center justify-between px-4 py-3 border-b ${borderClass}`}>
-            <h2 className={`text-xs font-semibold uppercase tracking-wider font-IBM Plex sans JP ${textSecondary}`}>
-              {selectedCategory === 'recent' ? '最近開いた' : isSearching ? '検索結果' : 'テキスト一覧'}
-              <span className="ml-2 font-normal opacity-60">({filteredTexts.length}件)</span>
-            </h2>
-            {isSearching && (
-              <span className={`text-xs font-IBM Plex sans JP ${textSecondary} opacity-40`}>本文ヒット箇所を表示</span>
-            )}
-          </div>
-
-          {filteredTexts.length === 0 ? (
-            <p className={`text-sm font-IBM Plex sans JP ${textSecondary} py-6 text-center px-4`}>
-              {searchQuery ? `「${searchQuery}」に一致するテキストが見つかりませんでした` : 'テキストがありません'}
-            </p>
-          ) : isSearching ? (
-            /* ── 検索時：スニペット付きリスト ── */
-            <div className={`divide-y ${darkMode ? 'divide-zinc-800' : 'divide-stone-100'}`}>
-              {filteredTexts.map((text) => {
-                const isSelected = selectedText === text.id;
-                const q = activeKeyword || searchQuery;
-                const snip = q ? extractSnippet(text, q) : null;
-                const dotColor = authorColor(text.category).includes('violet') ? 'bg-violet-400' :
-                  authorColor(text.category).includes('amber') ? 'bg-amber-400' :
-                  authorColor(text.category).includes('sky') ? 'bg-sky-400' :
-                  authorColor(text.category).includes('rose') ? 'bg-rose-400' :
-                  authorColor(text.category).includes('emerald') ? 'bg-emerald-400' :
-                  authorColor(text.category).includes('teal') ? 'bg-teal-400' :
-                  authorColor(text.category).includes('indigo') ? 'bg-indigo-400' :
-                  authorColor(text.category).includes('cyan') ? 'bg-cyan-400' :
-                  authorColor(text.category).includes('pink') ? 'bg-pink-400' :
-                  authorColor(text.category).includes('blue') ? 'bg-blue-400' : 'bg-stone-400';
-                return (
-                  <button key={text.id} onClick={() => handleTextChange(text.id)}
-                    className={`w-full flex items-start gap-3 px-4 py-3 text-left transition-colors ${
-                      isSelected
-                        ? darkMode ? 'bg-amber-950/30' : 'bg-amber-50/60'
-                        : darkMode ? 'hover:bg-zinc-800/50' : 'hover:bg-stone-50'
-                    }`}>
-                    {/* カラードット */}
-                    <span className={`mt-1.5 w-1.5 h-1.5 rounded-full shrink-0 ${dotColor} ${isSelected ? 'opacity-100' : 'opacity-50'}`} />
-                    <div className="min-w-0 flex-1">
-                      {/* 著者・年・カテゴリバッジ */}
-                      <div className="flex items-center gap-1.5 flex-wrap mb-0.5">
-                        <span className={`text-xs font-Hina Mincho ${isSelected ? (darkMode ? 'text-amber-300' : 'text-amber-700') : textSecondary}`}>
-                          {text.author}
-                        </span>
-                        <span className={`text-xs font-IBM Plex sans JP opacity-40 ${textClass}`}>·</span>
-                        <span className={`text-xs font-IBM Plex sans JP opacity-50 ${textSecondary}`}>{text.year}</span>
-                        <span className={`text-xs font-IBM Plex sans JP px-1.5 py-0 rounded ${authorColor(text.category)}`}>
-                          {catShort[text.category] || text.category}
-                        </span>
-                      </div>
-                      {/* タイトル */}
-                      <p className={`font-EB Garamond text-sm leading-snug ${isSelected ? 'font-semibold' : ''} ${textClass}`}>
-                        {text.title}
-                      </p>
-                      {/* スニペット（ハイライト付き） */}
-                      {snip && (
-                        <p className={`mt-1 text-xs font-IBM Plex sans JP leading-relaxed ${textSecondary}`}>
-                          <span className="opacity-50 mr-1">[{snip.label}]</span>
-                          {snip.snippet.slice(0, snip.matchStart)}
-                          <mark className={`px-0.5 rounded not-italic ${darkMode ? 'bg-amber-700/60 text-amber-100' : 'bg-amber-200 text-amber-900'}`}>
-                            {snip.snippet.slice(snip.matchStart, snip.matchStart + snip.matchLen)}
-                          </mark>
-                          {snip.snippet.slice(snip.matchStart + snip.matchLen)}
-                        </p>
-                      )}
-                    </div>
-                    {isSelected && <ChevronRight size={13} strokeWidth={2} className={`shrink-0 mt-1 ${darkMode ? 'text-amber-400' : 'text-amber-600'}`} />}
-                  </button>
-                );
-              })}
-            </div>
-          ) : (
-            /* ── 通常時：カードグリッド ── */
-            <div className="p-4">
-              <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-2.5">
-                {filteredTexts.map((text) => (
-                  <div key={text.id}
-                    className={`relative rounded-lg border text-left transition-all overflow-hidden group ${
-                      selectedText === text.id
-                        ? darkMode ? 'border-stone-500 bg-stone-900/40 shadow-md' : 'border-stone-400 bg-stone-50 shadow-md'
-                        : darkMode ? 'border-zinc-800 hover:border-zinc-600 hover:shadow-md hover:bg-zinc-800/60'
-                                   : 'border-stone-200 hover:border-stone-400 hover:shadow-md hover:bg-white'
-                    }`}>
-                    <div className={`absolute left-0 top-0 bottom-0 w-0.5 transition-all ${
-                      selectedText === text.id ? 'opacity-100' : 'opacity-30 group-hover:opacity-80'
-                    } ${authorColor(text.category).includes('violet') ? 'bg-violet-400' :
-                        authorColor(text.category).includes('amber') ? 'bg-amber-400' :
-                        authorColor(text.category).includes('sky') ? 'bg-sky-400' :
-                        authorColor(text.category).includes('rose') ? 'bg-rose-400' :
-                        authorColor(text.category).includes('emerald') ? 'bg-emerald-400' :
-                        authorColor(text.category).includes('teal') ? 'bg-teal-400' :
-                        authorColor(text.category).includes('indigo') ? 'bg-indigo-400' :
-                        authorColor(text.category).includes('cyan') ? 'bg-cyan-400' :
-                        authorColor(text.category).includes('pink') ? 'bg-pink-400' :
-                        authorColor(text.category).includes('blue') ? 'bg-blue-400' : 'bg-stone-400'}`}
-                    />
-                    <button onClick={() => handleTextChange(text.id)} className="w-full pl-4 pr-9 py-3 text-left">
-                      <div className="flex items-center gap-1.5 mb-1">
-                        <span className={`text-xs font-IBM Plex sans JP font-medium ${textSecondary}`}>{text.author}</span>
-                        <span className={`text-xs font-IBM Plex sans JP ${textSecondary} opacity-50`}>·</span>
-                        <span className={`text-xs font-IBM Plex sans JP ${textSecondary} opacity-50`}>{text.year}</span>
-                      </div>
-                      <h3 className={`font-EB Garamond text-m font-medium ${textClass} leading-snug line-clamp-2 mb-1.5`}>{text.title}</h3>
-                      <div className="flex items-center gap-1.5 flex-wrap">
-                        <span className={`text-xs font-IBM Plex sans JP px-1.5 py-0.5 rounded ${authorColor(text.category)}`}>
-                          {catShort[text.category] || text.category}
-                        </span>
-                        <span className={`text-xs font-IBM Plex sans JP px-1.5 py-0.5 rounded ${darkMode ? 'bg-zinc-700/60 text-zinc-400' : 'bg-stone-100 text-stone-500'}`}>
-                          {text.paragraphs?.length || 0}段落
-                        </span>
-                        <span className={`text-xs font-IBM Plex sans JP px-1.5 py-0.5 rounded ${darkMode ? 'bg-zinc-700/60 text-zinc-400' : 'bg-stone-100 text-stone-500'}`}>
-                          {textWordCount(text).toLocaleString()}語
-                        </span>
-                        {text.annotations?.length > 0 && (
-                          <span className={`text-xs font-IBM Plex sans JP px-1.5 py-0.5 rounded ${darkMode ? 'bg-zinc-700/60 text-zinc-400' : 'bg-stone-100 text-stone-500'}`}>
-                            注釈{text.annotations.length}
-                          </span>
-                        )}
-                      </div>
-                    </button>
-                    <button onClick={(e) => handleVButton(e, text.id)} title="テキスト情報へ移動"
-                      className={`absolute top-2 right-2 w-6 h-6 flex items-center justify-center rounded text-xs transition-all select-none font-IBM Plex sans JP ${
-                        selectedText === text.id
-                          ? darkMode ? 'text-amber-400 hover:text-amber-300' : 'text-stone-500 hover:text-stone-700'
-                          : darkMode ? 'text-zinc-600 hover:text-zinc-400' : 'text-stone-300 hover:text-stone-500'
-                      }`}>↓</button>
-                  </div>
-                ))}
-              </div>
-            </div>
-          )}
-        </div>
+        )}
 
         {selectedText && (<>
         {/* ─── 現在のテキスト情報 ───────────────────── */}
@@ -2005,23 +1550,14 @@ export default function App() {
           )}
           {currentText.keywords && currentText.keywords.length > 0 && (
             <div className="flex flex-wrap gap-1.5 mt-3">
-              {currentText.keywords.map(k => {
-                const isActive = activeKeyword === k;
-                return (
-                  <button
-                    key={k}
-                    onClick={() => handleKeywordClick(k)}
-                    title={isActive ? `「${k}」フィルターを解除` : `「${k}」で絞り込む`}
-                    className={`text-xs font-IBM Plex sans JP px-2 py-0.5 rounded border transition-all ${
-                      isActive
-                        ? darkMode ? 'bg-amber-700 text-amber-100 border-amber-600' : 'bg-stone-800 text-white border-stone-700'
-                        : darkMode ? 'bg-zinc-800 text-zinc-400 border-zinc-700 hover:border-zinc-500 hover:text-zinc-200' : 'bg-stone-100 text-stone-600 border-stone-200 hover:border-stone-400 hover:bg-stone-50'
-                    }`}
-                  >
-{isActive && <X size={10} strokeWidth={2.5} className='inline mr-0.5' />}{k}
-                  </button>
-                );
-              })}
+              {currentText.keywords.map(k => (
+                <span
+                  key={k}
+                  className={`text-xs font-sans px-2 py-0.5 rounded border ${
+                    darkMode ? 'text-[#6a5a40] border-[#2a2520]' : 'text-stone-500 border-stone-200'
+                  }`}
+                >{k}</span>
+              ))}
             </div>
           )}
 
