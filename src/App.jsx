@@ -660,7 +660,7 @@ export default function App() {
 
   // ─── 目次ドロワー ───────────────────────────────────────────
   const TocDrawer = () => {
-    const langMap = { 'fr': 'fr-FR', 'de': 'de-DE' 'de', 'en': 'en-GB', 'it': 'it-IT', 'ru': 'ru-RU' };
+    const langMap = { 'fr': 'fr-FR', 'de': 'de-DE' , 'de', 'en': 'en-GB', 'it': 'it-IT', 'ru': 'ru-RU' };
 
     // ── フィルタリング（言語 + 検索：タイトル/作家/年/本文） ──────────
     const allTextsArr = Object.values(texts);
