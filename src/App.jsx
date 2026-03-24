@@ -183,7 +183,7 @@ export default function App() {
   // <html lang> を現在表示中テキストの言語に動的更新
   // （ブラウザ自動翻訳がUIの言語を正しく認識できるようにする）
   useEffect(() => {
-    const lang = texts[selectedText]?.;
+    const lang = texts[selectedText];
     // テキスト未選択 or 不明なら日本語UIとして ja を設定
     document.documentElement.lang = lang ? 'ja' : 'ja';
   }, [selectedText, texts]);
