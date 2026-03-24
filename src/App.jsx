@@ -1,7 +1,7 @@
 import React, { useState, useEffect, useRef } from 'react';
 import {
   Bookmark, BookmarkCheck,
-  CalendarDays, Settings, Moon, Sun, Star,
+  CalendarDays, Settings, Moon, Sun, Star, Gem, Sparcles, 
   Volume2, Square as IconSquare,
   Search, Link, FileText, List,
   ChevronRight, ChevronDown,
@@ -1477,7 +1477,7 @@ export default function App() {
             className={`w-8 h-8 flex items-center justify-center rounded-full transition-colors ${darkMode ? 'bg-zinc-800 hover:bg-zinc-700 text-amber-300' : 'bg-stone-100 hover:bg-stone-200 text-stone-600'}`}
             title="ダーク/ライト切替"
           >
-            {darkMode ? <Sun size={15} strokeWidth={1.6} /> : <Moon size={15} strokeWidth={1.6} />}
+            {darkMode ? <Sparcles size={15} strokeWidth={1.6} /> : <Moon size={15} strokeWidth={1.6} />}
           </button>
           <button
             onClick={() => setShowSettings(v => !v)}
