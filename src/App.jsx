@@ -1561,21 +1561,6 @@ export default function App() {
             </div>
           )}
 
-          {/* フラッシュカードへのリンク */}
-          <div className={`mt-4 pt-4 border-t ${borderClass} flex items-center justify-between gap-3`}>
-            <span className={`text-xs font-IBM Plex sans JP ${textSecondary} opacity-60`}>フラッシュカード</span>
-            <a
-              href="/flashcard.html"
-              target="_blank"
-              rel="noopener noreferrer"
-              className={`flex items-center gap-1.5 px-3 py-1.5 rounded-lg text-xs font-semibold font-IBM Plex sans JP transition-colors ${
-                darkMode ? 'bg-zinc-800 hover:bg-zinc-700 text-zinc-300 border border-zinc-700' : 'bg-stone-100 hover:bg-stone-200 text-stone-600 border border-stone-200'
-              }`}
-            >
-              学習モードを開く →
-            </a>
-          </div>
-
           {/* 横断読解ボタン＋テキスト選択 */}
           {(currentText.relatedTexts?.length > 0 || crossMode) && (
             <div className={`mt-4 pt-4 border-t ${borderClass}`}>
