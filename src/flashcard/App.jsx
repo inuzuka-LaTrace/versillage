@@ -525,7 +525,7 @@ export default function FlashcardApp() {
           <div className="flex items-center gap-2">
             <GraduationCap size={15} strokeWidth={1.5} className={textSub} />
             <span className={`text-sm font-Cinzel ${darkMode ? 'text-zinc-200' : 'text-stone-800'}`}>
-              VANITISME
+              SCHOLA VANITISME
             </span>
           </div>
 
