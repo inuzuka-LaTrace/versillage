@@ -1449,7 +1449,7 @@ export default function App() {
                 onClick={() => window.scrollTo({ top: 0, behavior: 'smooth' })}
                 title="最上部へ戻る"
               >
-                VERSILLAGE
+                VANITISME
               </h1>
             {currentText && (
               <p className={`text-xs font-IBM Plex sans JP truncate mt-0.5 ${textSecondary}`}>
@@ -1501,14 +1501,8 @@ export default function App() {
               onClick={() => setShowWelcome(false)}
               className={`absolute top-3 right-3 ${textSecondary} hover:opacity-70`}
             ><X size={14} strokeWidth={2} /></button>
-            <p className={`text-xs font-IBM Plex sans JP ${darkMode ? 'text-gray-100' : 'text-gray-900'}`}>
-              主に近代西洋の詩と散文を収録。フランス語・ドイツ語・イタリア語・ロシア語・英語の原文と日本語仮訳を並べて比較し、自分の訳文も記録できます。
-            </p>
-            <p className={`text-xs font-IBM Plex sans JP ${darkMode ? 'text-gray-100' : 'text-gray-900'}`}>
-              掲載の日本語訳は鑑賞・学習補助のための試訳であり、確定した翻訳ではありません。
-            </p>
             <p className={`text-m font-IBM Plex sans JP ${darkMode ? 'text-violet-500' : 'text-violet-700'}`}>
-              🌏By using your browser's translation feature, you can read the Japanese translations and comentaries in your preferred language, while the original texts remain unchanged.
+              🌏 By using your browser's translation feature, you can read the Japanese translations and comentaries in your preferred language, while the original texts remain unchanged.
             </p>
           </div>
         )}
