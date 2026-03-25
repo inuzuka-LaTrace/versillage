@@ -1344,7 +1344,7 @@ export default function App() {
           {(currentText.relatedTexts?.length > 0 || crossMode) && (
             <div className={`mt-4 pt-4 border-t ${borderClass}`}>
               <div className="flex items-center justify-between mb-2">
-                <span className={`text-xs font-semibold ${textSecondary}`}>横断読解</span>
+                <span className={`text-xs  ${textSecondary}`}>横断読解</span>
                 <button
                   onClick={() => { setCrossMode(v => !v); if (crossMode) setCrossTexts([]); }}
                   className={`px-3 py-1 text-xs rounded-lg font-medium transition-colors ${
@@ -2224,7 +2224,7 @@ const TocDrawer = ({
                       className={`w-full flex items-center justify-between px-4 py-2.5 text-left border-b ${tocBorder} ${tocHoverBg} transition-colors group`}
                       onClick={() => toggleAuthor(author)}
                     >
-                      <span className={`text-sm italic ${tocSub} ${tocHoverAuth} transition-colors`}>
+                      <span className={`text-base italic ${tocSub} ${tocHoverAuth} transition-colors`}>
                         {author}
                       </span>
                       <span className="flex items-center gap-1 ml-2 shrink-0">
