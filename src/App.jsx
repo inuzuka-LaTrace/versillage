@@ -923,13 +923,13 @@ export default function App() {
   }
 
   // ─── テーマ変数 ───────────────────────────────────────────
-  const bgClass         = darkMode ? 'bg-[#0d0b08]'                              : 'bg-stone-50';
-  const cardBgClass     = darkMode ? 'bg-[#111009] border-[#1e1b16]'             : 'bg-white border-stone-200';
-  const textClass       = darkMode ? 'text-[#c8b89a]'                            : 'text-stone-900';
-  const textSecondary   = darkMode ? 'text-[#6a5a40]'                            : 'text-stone-500';
-  const borderClass     = darkMode ? 'border-[#1e1b16]'                          : 'border-stone-200';
-  const inputBg         = darkMode ? 'bg-[#0a0907] text-[#c8b89a] placeholder-[#3a3028] border-[#2a2520]' : 'bg-stone-100 text-stone-900 placeholder-stone-400 border-stone-300';
-  const settingsBg      = darkMode ? 'bg-[#111009] border-[#2a2520] shadow-2xl'  : 'bg-white border-stone-200 shadow-2xl';
+  const bgClass         = darkMode ? 'bg-[#131008]'                              : 'bg-stone-50';
+  const cardBgClass     = darkMode ? 'bg-[#17140e] border-[#2e2a20]'             : 'bg-white border-stone-200';
+  const textClass       = darkMode ? 'text-[#ddd0b3]'                            : 'text-stone-900';
+  const textSecondary   = darkMode ? 'text-[#8a7a5a]'                            : 'text-stone-500';
+  const borderClass     = darkMode ? 'border-[#2e2a20]'                          : 'border-stone-200';
+  const inputBg         = darkMode ? 'bg-[#0f0d09] text-[#ddd0b3] placeholder-[#5a4a38] border-[#3a3228]' : 'bg-stone-100 text-stone-900 placeholder-stone-400 border-stone-300';
+  const settingsBg      = darkMode ? 'bg-[#17140e] border-[#3a3228] shadow-2xl'  : 'bg-white border-stone-200 shadow-2xl';
 
   const fontFamilyStyle =
     fontFamily === 'garamond'     ? '"EB Garamond", "Shippori Mincho B1", serif' :
@@ -1007,6 +1007,7 @@ export default function App() {
       {showToc && <TocDrawer
       showToc={showToc}
       setShowToc={setShowToc}
+      darkMode={darkMode}
       texts={texts}
       currentText={currentText}
       tocSearch={tocSearch}
@@ -1255,10 +1256,10 @@ export default function App() {
         {!selectedText && (
           <div className="flex flex-col items-center justify-center py-24 gap-5">
             <p className={`text-xs tracking-[0.25em] uppercase font-sans ${
-              darkMode ? 'text-[#2a2218]' : 'text-stone-300'
+              darkMode ? 'text-[#3a3228]' : 'text-stone-300'
             }`}>vanité des vanités</p>
             <p className={`font-serif text-base text-center leading-relaxed ${
-              darkMode ? 'text-[#4a3a28]' : 'text-stone-400'
+              darkMode ? 'text-[#6a5840]' : 'text-stone-400'
             }`} style={{ fontFamily: '"EB Garamond", serif' }}>
               目次からテキストを選んでください
             </p>
@@ -1266,7 +1267,7 @@ export default function App() {
               onClick={() => setShowToc(true)}
               className={`flex items-center gap-2 px-5 py-2 text-sm font-sans border transition-colors ${
                 darkMode
-                  ? 'border-[#2a2520] text-[#6a5a40] hover:border-[#6b5a3a] hover:text-[#c8b89a]'
+                  ? 'border-[#3a3228] text-[#8a7a5a] hover:border-[#8a7a50] hover:text-[#ddd0b3]'
                   : 'border-stone-300 text-stone-400 hover:border-stone-500 hover:text-stone-700'
               }`}
               style={{ borderRadius: '2px', letterSpacing: '0.08em' }}
@@ -1332,7 +1333,7 @@ export default function App() {
                 <span
                   key={k}
                   className={`text-xs font-sans px-2 py-0.5 rounded border ${
-                    darkMode ? 'text-[#6a5a40] border-[#2a2520]' : 'text-stone-500 border-stone-200'
+                    darkMode ? 'text-[#8a7a5a] border-[#3a3228]' : 'text-stone-500 border-stone-200'
                   }`}
                 >{k}</span>
               ))}
@@ -2036,6 +2037,7 @@ export default function App() {
 const TocDrawer = ({
   showToc,
   setShowToc,
+  darkMode,
   texts,
   currentText,
   tocSearch,
@@ -2066,11 +2068,10 @@ const TocDrawer = ({
       return inMeta || inBody;
     });
 
-    // ── スニペット抽出（本文ヒット時のプレビュー） ──────────────────
+    // ── スニペット抽出 ──────────────────────────────────────────────
     const getSnippet = (t) => {
       if (!tocSearch.trim()) return null;
       const q = tocSearch.toLowerCase();
-      // 本文ヒット確認
       for (const p of (t.paragraphs || [])) {
         const orig  = getOriginalText(p).toLowerCase();
         const trans = getTranslation(p).toLowerCase();
@@ -2088,7 +2089,7 @@ const TocDrawer = ({
       return null;
     };
 
-    // ── 作家グループ化（author をキーに） ──────────────────────────
+    // ── 作家グループ化 ──────────────────────────────────────────────
     const groups = {};
     filtered.forEach(t => {
       const key = t.author || '—';
@@ -2105,50 +2106,71 @@ const TocDrawer = ({
     const toggleAuthor = (key) =>
       setTocOpenAuthors(prev => ({ ...prev, [key]: !prev[key] }));
 
-    // ── スタイル定数（常にダーク） ──────────────────────────────────
-    const tocBg     = 'bg-[#0a0907]';
-    const tocBorder = 'border-[#1e1b16]';
-    const tocText   = 'text-[#c8b89a]';
-    const tocSub    = 'text-[#6a5a40]';
-    const tocDim    = 'text-[#3a3028]';
-    const tocActive = 'bg-[#141210] border-l-2 border-[#8b7355]';
-
     const isSearching = !!tocSearch.trim();
+
+    // ── ダーク／ライト切替スタイル ─────────────────────────────────
+    const d = darkMode;
+    const tocBg        = d ? 'bg-[#0f0d09]'     : 'bg-stone-50';
+    const tocBorder    = d ? 'border-[#2e2a20]'  : 'border-stone-200';
+    const tocHeaderBg  = d ? 'bg-[#0f0d09]'     : 'bg-white';
+    const tocText      = d ? 'text-[#ddd0b3]'    : 'text-stone-900';
+    const tocSub       = d ? 'text-[#8a7a5a]'    : 'text-stone-500';
+    const tocDim       = d ? 'text-[#5a4a38]'    : 'text-stone-400';
+    const tocDimBorder = d ? 'border-[#2e2a20]'  : 'border-stone-200';
+    const tocSearchBg  = d ? 'bg-[#131008]'      : 'bg-stone-100';
+    const tocHoverBg   = d ? 'hover:bg-[#181510]' : 'hover:bg-stone-100';
+    const tocItemBorder= d ? 'border-[#221d14]'  : 'border-stone-100';
+    const tocItemHover = d ? 'hover:bg-[#1a1810]' : 'hover:bg-stone-50';
+    const tocActiveBg  = d ? 'bg-[#1e1b13]'      : 'bg-amber-50';
+    const tocActiveBdr = d ? 'border-[#a08560]'  : 'border-amber-400';
+    const tocChipAct   = d ? 'bg-[#3a3018] text-[#ddd0b3] border-[#8a7a50]'
+                           : 'bg-amber-100 text-amber-900 border-amber-400';
+    const tocChipInact = d ? `${tocDim} border-[#2e2a20] hover:text-[#a08560] hover:border-[#3a3228]`
+                           : 'text-stone-400 border-stone-200 hover:text-stone-600 hover:border-stone-400';
+    const tocSnipText  = d ? 'text-[#6a5840]'    : 'text-stone-500';
+    const tocMarkBg    = d ? 'bg-[#4a3a18] text-[#ddd0b3]' : 'bg-amber-200 text-amber-900';
+    const tocOrnament  = d ? 'text-[#2e2a20]'    : 'text-stone-200';
+    const tocHoverAuth = d ? 'group-hover:text-[#b8a880]' : 'group-hover:text-stone-700';
+    const tocFooterBg  = d ? '' : 'bg-white';
 
     return (
       <>
+        {/* ── オーバーレイ ── */}
         <div
           className="fixed inset-0 z-40 bg-black/50 backdrop-blur-sm"
           onClick={() => setShowToc(false)}
         />
 
-        <div className={`fixed top-0 left-0 h-full z-50 flex flex-col shadow-2xl
-          transition-transform duration-300 ease-in-out
-          ${showToc ? 'translate-x-0' : '-translate-x-full'}
-          ${tocBg} border-r ${tocBorder}`}
+        {/* ── ドロワー本体 ── */}
+        <div
+          className={`fixed top-0 left-0 h-full z-50 flex flex-col shadow-2xl
+            transition-transform duration-300 ease-in-out
+            ${showToc ? 'translate-x-0' : '-translate-x-full'}
+            ${tocBg} border-r ${tocBorder}`}
           style={{ width: '300px', fontFamily: '"EB Garamond", "Shippori Mincho B1", serif' }}
         >
           {/* ── ヘッダー ── */}
-          <div className={`flex items-center justify-between px-4 py-3 border-b ${tocBorder} shrink-0`}>
-            <span className="text-xs tracking-[0.2em] uppercase font-sans text-[#3a3028]">目次</span>
+          <div className={`flex items-center justify-between px-4 py-3 border-b ${tocBorder} shrink-0 ${tocHeaderBg}`}>
+            <span className={`text-xs tracking-[0.2em] uppercase font-sans ${tocDim}`}>目次</span>
             <button
               onClick={() => setShowToc(false)}
-              className="w-6 h-6 flex items-center justify-center text-[#6a5a40] hover:opacity-70 transition-opacity"
+              className={`w-6 h-6 flex items-center justify-center ${tocSub} hover:opacity-70 transition-opacity`}
             >
               <X size={12} strokeWidth={1.8} />
             </button>
           </div>
 
-          {/* ── 検索（本文検索対応） ── */}
+          {/* ── 検索 ── */}
           <div className={`px-3 pt-3 pb-2 border-b ${tocBorder} shrink-0`}>
-            <div className={`flex items-center gap-2 border ${tocBorder} rounded px-2.5 py-1.5 bg-[#0d0b08]`}>
+            <div className={`flex items-center gap-2 border ${tocDimBorder} rounded px-2.5 py-1.5 ${tocSearchBg}`}>
               <Search size={12} strokeWidth={1.6} className={tocDim} />
               <input
                 type="text"
                 value={tocSearch}
                 onChange={e => setTocSearch(e.target.value)}
                 placeholder="作家・題名・年・本文…"
-                className="flex-1 bg-transparent text-sm font-sans outline-none placeholder-[#3a3028] text-[#6a5a40]"
+                className={`flex-1 bg-transparent text-sm font-sans outline-none ${tocSub}`}
+                style={{ caretColor: d ? '#ddd0b3' : '#1c1917' }}
               />
               {tocSearch && (
                 <button onClick={() => setTocSearch('')} className={`${tocDim} hover:opacity-70`}>
@@ -2157,7 +2179,7 @@ const TocDrawer = ({
               )}
             </div>
             {isSearching && (
-              <p className="mt-1.5 text-[10px] font-sans text-[#3a3028] px-0.5">
+              <p className={`mt-1.5 text-[10px] font-sans ${tocDim} px-0.5`}>
                 本文・訳文も検索対象 — {filtered.length} 件
               </p>
             )}
@@ -2177,9 +2199,7 @@ const TocDrawer = ({
                 key={key}
                 onClick={() => setTocLangFilter(key)}
                 className={`px-2.5 py-0.5 text-xs font-sans rounded transition-colors border ${
-                  tocLangFilter === key
-                    ? 'bg-[#2a2010] text-[#c8b89a] border-[#6b5a3a]'
-                    : `${tocDim} border-[#1e1b16] hover:text-[#8b7355] hover:border-[#2a2520]`
+                  tocLangFilter === key ? tocChipAct : tocChipInact
                 }`}
               >
                 {label}
@@ -2199,17 +2219,17 @@ const TocDrawer = ({
                 const authorTexts = groups[author];
                 return (
                   <div key={author}>
-                    {/* 作家名ヘッダー */}
+                    {/* ③ 作家名ヘッダー：▾/▸ トグルのみでなく行全体をトグル */}
                     <button
-                      className={`w-full flex items-center justify-between px-4 py-2.5 text-left border-b ${tocBorder} hover:bg-[#0f0d0a] transition-colors group`}
+                      className={`w-full flex items-center justify-between px-4 py-2.5 text-left border-b ${tocBorder} ${tocHoverBg} transition-colors group`}
                       onClick={() => toggleAuthor(author)}
                     >
-                      <span className="text-sm italic text-[#6a5a40] group-hover:text-[#9a8a6a] transition-colors">
+                      <span className={`text-sm italic ${tocSub} ${tocHoverAuth} transition-colors`}>
                         {author}
                       </span>
-                      <span className="flex items-center gap-1 ml-2">
-                        <span className="font-sans text-[10px] text-[#3a3028] opacity-60">{authorTexts.length}</span>
-                        <span className="text-[#3a3028]" style={{ fontSize: '9px' }}>{isOpen ? '▾' : '▸'}</span>
+                      <span className="flex items-center gap-1 ml-2 shrink-0">
+                        <span className={`font-sans text-[10px] ${tocDim} opacity-60`}>{authorTexts.length}</span>
+                        <span className={tocDim} style={{ fontSize: '9px' }}>{isOpen ? '▾' : '▸'}</span>
                       </span>
                     </button>
 
@@ -2220,37 +2240,47 @@ const TocDrawer = ({
                           const isSelected = currentText?.id === t.id;
                           const snip = isSearching ? getSnippet(t) : null;
                           return (
-                            <button
+                            // ③ 外側は余白のみのコンテナ（クリック不可）
+                            <div
                               key={t.id}
-                              className={`w-full flex flex-col gap-0.5 pl-6 pr-3 py-2 text-left border-b border-[#140f0a] transition-colors
-                                ${isSelected ? tocActive : 'hover:bg-[#100e0b]'}`}
-                              onClick={() => {
-                                handleTextChange(t.id);
-                                setShowToc(false);
-                              }}
+                              className={`pl-6 pr-3 py-1.5 border-b ${tocItemBorder} ${
+                                isSelected
+                                  ? `${tocActiveBg} border-l-2 ${tocActiveBdr}`
+                                  : ''
+                              }`}
                             >
                               <div className="flex items-baseline gap-2 w-full">
-                                <span className={`text-sm leading-snug flex-1 min-w-0 ${isSelected ? tocText : tocSub}`}>
+                                {/* ③ タイトル文字のみがクリック可能 */}
+                                <button
+                                  className={`text-sm leading-snug text-left flex-1 min-w-0 transition-colors ${
+                                    isSelected ? tocText : tocSub
+                                  } ${!isSelected ? (d ? 'hover:text-[#ddd0b3]' : 'hover:text-stone-800') : ''} cursor-pointer`}
+                                  onClick={() => {
+                                    handleTextChange(t.id);
+                                    setShowToc(false);
+                                  }}
+                                  style={{ background: 'none', border: 'none', padding: 0 }}
+                                >
                                   {t.title}
-                                </span>
-                                <span className="text-[10px] font-sans shrink-0 text-[#3a3028]">
+                                </button>
+                                <span className={`text-[10px] font-sans shrink-0 ${tocDim}`}>
                                   {t.year}
                                 </span>
                               </div>
                               {/* 本文スニペット（検索ヒット時） */}
                               {snip && (
-                                <p className="text-xs font-sans leading-relaxed text-[#4a3a28] pl-0.5">
+                                <p className={`text-xs font-sans leading-relaxed ${tocSnipText} pl-0.5 mt-0.5`}>
                                   {snip.pre}
-                                  <mark className="bg-[#3a2a10] text-[#c8b89a] px-0.5 rounded-sm not-italic">
+                                  <mark className={`${tocMarkBg} px-0.5 rounded-sm not-italic`}>
                                     {snip.match}
                                   </mark>
                                   {snip.post}
                                 </p>
                               )}
-                            </button>
+                            </div>
                           );
                         })}
-                        <div className="text-center py-1.5 text-[#1e1b16] text-xs tracking-[0.4em] select-none">
+                        <div className={`text-center py-1.5 ${tocOrnament} text-xs tracking-[0.4em] select-none`}>
                           · · ·
                         </div>
                       </div>
@@ -2262,13 +2292,13 @@ const TocDrawer = ({
           </div>
 
           {/* ── フッター ── */}
-          <div className={`px-4 py-2 border-t ${tocBorder} shrink-0 flex items-center justify-between`}>
-            <span className="text-[10px] font-sans text-[#3a3028]">
+          <div className={`px-4 py-2 border-t ${tocBorder} shrink-0 flex items-center justify-between ${tocFooterBg}`}>
+            <span className={`text-[10px] font-sans ${tocDim}`}>
               {filtered.length} / {Object.keys(texts).length} テキスト
             </span>
             <button
               onClick={() => { setTocSearch(''); setTocLangFilter('all'); }}
-              className="text-[10px] font-sans text-[#3a3028] hover:text-[#6a5a40] transition-colors"
+              className={`text-[10px] font-sans ${tocDim} ${d ? 'hover:text-[#8a7a5a]' : 'hover:text-stone-600'} transition-colors`}
             >
               リセット
             </button>
