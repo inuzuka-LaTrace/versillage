@@ -1046,8 +1046,8 @@ export default function App() {
         <div className="p-5 space-y-6 flex-1">
           {/* フォントサイズ：ステッパー */}
           {(() => {
-            const sizeSteps = ['xsmall','small','medium','large','xlarge','xxlarge'];
-            const sizeLabels = { xsmall:'極小', small:'小', medium:'中', large:'大', xlarge:'特大', xxlarge:'最大' };
+            const sizeSteps = ['xxsmall','xsmall','small','medium','large','xlarge','xxlarge'];
+            const sizeLabels = { xxsmall:'最小', xsmall:'極小', small:'小', medium:'中', large:'大', xlarge:'特大', xxlarge:'最大' };
             const idx = sizeSteps.indexOf(fontSize);
             const canDec = idx > 0;
             const canInc = idx < sizeSteps.length - 1;
