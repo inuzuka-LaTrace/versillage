@@ -939,7 +939,7 @@ export default function App() {
     fontFamily === 'jura'         ? '"Jura", "IBM Plex sans JP", sans-serif' :
     '"EB Garamond", "Shippori Mincho B1", serif';
 
-  const fontSizeMap = { xxsmall: 'text-[]', xsmall: 'text-xs', small: 'text-sm', medium: 'text-base', large: 'text-lg', xlarge: 'text-xl', xxlarge: 'text-2xl' };
+  const fontSizeMap = { xxsmall: 'text-[10px]', xsmall: 'text-xs', small: 'text-sm', medium: 'text-base', large: 'text-lg', xlarge: 'text-xl', xxlarge: 'text-2xl' };
 
   // 訳文カラー設定から Tailwind クラスを返すヘルパー
   // neutral: ダーク zinc-300 / ライト stone-700（白黒）
@@ -1168,13 +1168,18 @@ export default function App() {
         </div>
       </div>
 
-      {/* ─── Header ─────────────────────────────────── */}
-      <header ref={headerRef} className={`sticky top-0 z-30 ${darkMode ? 'bg-zinc-950/95 border-zinc-800' : 'bg-stone-50/95 border-stone-200'} border-b backdrop-blur-md`}>
-        <div className="max-w-6xl mx-auto px-4 py-3 flex items-center gap-3">
-          <div className="flex-1 min-w-0 flex items-center gap-2 min-w-0">
-            <div className="flex-1 min-w-0">
-              <h1
-                style={{ fontFamily: "Cinzel, serif", letterSpacing: '0.04em' }}
+      {/* ─── ヘッダー ─────────────────────────────────── */}
+<header 
+  ref={headerRef} 
+  className={`sticky top-0 z-30 border-b backdrop-blur-md 
+    pt-[env(safe-area-inset-top)] 
+    ${darkMode ? 'bg-zinc-950/95 border-zinc-800' : 'bg-stone-50/95 border-stone-200'}`}
+>
+  <div className="max-w-6xl mx-auto px-4 py-3 flex items-center gap-3">
+    <div className="flex-1 min-w-0 flex items-center gap-2">
+      <div className="flex-1 min-w-0">
+        <h1
+          style={{ fontFamily: "Cinzel, serif", letterSpacing: '0.04em' }}
                 className={`text-base font-semibold ${textClass} truncate leading-tight cursor-pointer select-none hover:opacity-70 transition-opacity`}
                 onClick={() => window.scrollTo({ top: 0, behavior: 'smooth' })}
                 title="最上部へ戻る"
