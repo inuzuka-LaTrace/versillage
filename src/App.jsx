@@ -939,7 +939,7 @@ export default function App() {
     fontFamily === 'jura'         ? '"Jura", "IBM Plex sans JP", sans-serif' :
     '"EB Garamond", "Shippori Mincho B1", serif';
 
-  const fontSizeMap = { xxsmall: 'text-[10px]', xsmall: 'text-xs', small: 'text-sm', medium: 'text-base', large: 'text-lg', xlarge: 'text-xl', xxlarge: 'text-2xl' };
+  const fontSizeMap = { xxsmall: 'text-[]', xsmall: 'text-xs', small: 'text-sm', medium: 'text-base', large: 'text-lg', xlarge: 'text-xl', xxlarge: 'text-2xl' };
 
   // 訳文カラー設定から Tailwind クラスを返すヘルパー
   // neutral: ダーク zinc-300 / ライト stone-700（白黒）
@@ -1849,6 +1849,7 @@ export default function App() {
                                       fontSize === 'small'  ? 'text-sm' : 
                                       fontSize === 'xsmall' ? 'text-xs' :
                                       fontSize === 'xxsmall' ? 'text-[10px]' :
+                                  　　　'text-base'
                                     }`}>
                                       {origLines[i] != null && !isBlankOrig
                                         ? (showAnnotations && hasAnnotations
@@ -1867,6 +1868,7 @@ export default function App() {
                                       fontSize === 'small'  ? 'text-sm' : 
                                       fontSize === 'xsmall' ? 'text-xs' :
                                       fontSize === 'xxsmall' ? 'text-[10px]' :
+                                  'text-base'
                                     }`}>
                                       {transLines[i] ?? ''}
                                     </span>
@@ -1901,6 +1903,7 @@ export default function App() {
                           fontSize === 'small'  ? 'text-sm' : 
                           fontSize === 'xsmall' ? 'text-xs' :
                           fontSize === 'xxsmall' ? 'text-[10px]' :
+                        'text-base'
                         }`}>
                           {showAnnotations && hasAnnotations
                             ? renderTextWithAnchors(getOriginalText(para), paraAnnotations, para.id)
@@ -1921,6 +1924,7 @@ export default function App() {
                           fontSize === 'small'  ? 'text-sm' : 
                           fontSize === 'xsmall' ? 'text-xs' :
                           fontSize === 'xxsmall' ? 'text-[10px]' :
+                        'text-base'
                         }`}>
                           {translation}
                         </p>
