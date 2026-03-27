@@ -1,0 +1,102 @@
+{
+  "id": "dowson_after_verlaine_1",
+  "title": "After Paul Verlaine — I",
+  "author": "Ernest Dowson",
+  "source": "The Poems and Prose of Ernest Dowson, with a Memoir by Arthur Symons. London: Elkin Mathews, 1905. 底本: Wikimedia Commons スキャン（pp. 134–135）画像照合済み。照合: PoemHunter / AllPoetry / Simple-Poetry",
+  "year": "1896",
+  "firstPublication": "Verses, Leonard Smithers, London, 1896",
+  "difficulty": "中級",
+  "category": "Dowson",
+  "originalLang": "en-GB",
+  "modernRelevance": "★★★★",
+  "context": "アーネスト・ダウスン（1867–1900）による「After Paul Verlaine」連作4篇の第1篇。ヴェルレーヌの「Il pleure dans mon cœur」（『忘れられた抒情詩 Ariettes oubliées』第3番、1874年）の英訳。エピグラフはランボー「Il pleut doucement sur la ville（雨が静かに街に降る）」──ヴェルレーヌへの二重のオマージュ（詩とエピグラフが別々のフランス詩人を参照する）。4連4行の対韻（ABAB）構成。心の涙と屋根への雨の同一化、理由なき悲哀という象徴主義的主題をダウスン特有の「mine heart」「hath」という古語的文体で再現する。デカダンス期イギリス詩における翻訳詩の典型──原詩の情緒を英語的形式に移植しながら、ダウスン自身の「理由なき憂愁（spleen）」を重ねる。",
+  "keywords": [
+    "ヴェルレーヌ翻訳",
+    "デカダンス",
+    "忘れられた抒情詩",
+    "雨",
+    "心の涙",
+    "理由なき悲哀",
+    "象徴主義",
+    "fin-de-siècle",
+    "ランボー",
+    "Ariettes oubliées"
+  ],
+  "relatedTexts": [
+    "verlaine_chanson_dautomne",
+    "verlaine_clair_de_lune",
+    "wilde_helas"
+  ],
+  "paragraphs": [
+    {
+      "id": 0,
+      "verses": "epigraph",
+      "original": "Il pleut doucement sur la ville.",
+      "provisionalTranslation": "雨が静かに街に降る。"
+    },
+    {
+      "id": 1,
+      "verses": "v.1–4",
+      "original": "Tears fall within mine heart,\nAs rain upon the town:\nWhence does this languor start,\nPossessing all mine heart?",
+      "provisionalTranslation": "涙が私の心の中に落ちる、\n街への雨のように。\nこの倦怠はどこから始まるのか、\n私の心の全てを占領して？"
+    },
+    {
+      "id": 2,
+      "verses": "v.5–8",
+      "original": "O sweet fall of the rain\nUpon the earth and roofs!\nUnto an heart in pain,\nO music of the rain!",
+      "provisionalTranslation": "おお甘い雨の降りかた\n大地と屋根の上への！\n痛む心にとって、\nおお雨の音楽よ！"
+    },
+    {
+      "id": 3,
+      "verses": "v.9–12",
+      "original": "Tears that have no reason\nFall in my sorry heart:\nWhat! there was no treason?\nThis grief hath no reason.",
+      "provisionalTranslation": "理由のない涙が\n私の哀れな心に落ちる。\nなんと！裏切りもなかったというのか？\nこの悲しみには理由がない。"
+    },
+    {
+      "id": 4,
+      "verses": "v.13–16",
+      "original": "Nay! the more desolate,\nBecause, I know not why,\n(Neither for love nor hate)\nMine heart is desolate.",
+      "provisionalTranslation": "否！それだけに荒涼としている、\nなぜかは知らないが、\n（愛のためでも憎しみのためでもなく）\n私の心は荒涼としている。"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 0,
+      "type": "allusion",
+      "anchor": "Il pleut doucement sur la ville.",
+      "body": "エピグラフはアルチュール・ランボー（Arthur Rimbaud）のものとされる一行──ただし出典は確定していない。ヴェルレーヌの詩集『忘れられた抒情詩』第3番「Il pleure dans mon cœur / Comme il pleut sur la ville（私の心の中に涙が降る、街に雨が降るように）」の冒頭と響き合う。「Il pleut（雨が降る）」対「Il pleure（涙が降る）」という音の近似がヴェルレーヌの詩の核心。ダウスンはランボーの「外の雨」をエピグラフに置くことで、ヴェルレーヌの「内の涙」との対照を詩の外枠として示す二重構造。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "Tears fall within mine heart,\nAs rain upon the town:",
+      "body": "ヴェルレーヌ原詩「Il pleure dans mon cœur / Comme il pleut sur la ville」の直訳的移植。「within mine heart」という古語的表現──ヴィクトリア朝後期の詩的文体で「in my heart」より格調を持たせる用法。「languor（倦怠）」はフランス語 *langueur* の借用語。象徴主義における「lassitude」「spleen」「ennui」の系列に属し、ボードレールの影響下にある感情語彙。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "prosody",
+      "anchor": "O sweet fall of the rain\nUpon the earth and roofs!\nUnto an heart in pain,\nO music of the rain!",
+      "body": "第2連は感嘆（O）の反復による音楽的な高揚。「earth and roofs」という対置は、大地という水平面と屋根という庇護された人工面──雨が両方を等しく打つことで、自然と文明の区別なき悲哀を示す。「O music of the rain」──雨を音楽として聴く詩人の耳は、ヴェルレーヌ「音楽はなによりもまず（De la musique avant toute chose）」（『詩法 Art poétique』）への応答でもある。韻型はABAB（rain/roofs/pain/rain）。"
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "Tears that have no reason\nFall in my sorry heart:\nWhat! there was no treason?\nThis grief hath no reason.",
+      "body": "ヴェルレーヌ原詩「C'est bien la pire peine / De ne savoir pourquoi / Sans amour et sans haine / Mon cœur a tant de peine」（愛もなく憎しみもなく、なぜかも知らずに、心にこれほど苦しみがあることが、最もつらい）に対応。「hath」はダウスンの古語趣味──「has」でなく「hath」を使うことで詩の時代性を曖昧にし、普遍的な憂愁として提示する。「What! there was no treason?」という疑問文は原詩にない──ダウスンの介入で「裏切りがないのに」という自己問答が加わり、感情の不条理性が強調される。"
+    },
+    {
+      "paragraphId": 4,
+      "type": "commentary",
+      "anchor": "Nay! the more desolate,\nBecause, I know not why,",
+      "body": "最終連で「desolate」という語が「the more desolate（それだけに荒涼としている）」と「Mine heart is desolate」の2回に挟まれる環状構造（rondeau的な反復）。「I know not why」という知の無力の宣言が詩全体のクライマックス──感情の無根拠性、原因なき悲哀はダウスン詩の中心主題であり、自身の生涯（父の死、母の自殺、失恋、結核）と照合して読む誘惑に抗いながらも、詩学的な普遍として機能している。「Neither for love nor hate」という括弧内の挿入句──ヴェルレーヌ原詩「sans amour et sans haine（愛もなく憎しみもなく）」の忠実な移植。"
+    },
+    {
+      "paragraphId": 4,
+      "type": "intertextual",
+      "anchor": "Mine heart is desolate.",
+      "body": "ダウスンの自作「Spleen」（After Paul Verlaine III）の主題「Some lamentable flight from thee（あなたからの嘆かわしい逃走）」と連続する「desolate」のモチーフ。また「Non sum qualis eram bonae sub regno Cynarae」の「I was desolate and sick of an old passion」とも同一の語彙圏──ダウスン詩全体に「desolate」「heart」「rain」という語群が織物のように反復される。",
+      "targetId": "verlaine_chanson_dautomne",
+      "targetParagraphId": null
+    }
+  ]
+}
