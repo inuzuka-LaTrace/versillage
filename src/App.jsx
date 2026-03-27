@@ -1258,52 +1258,56 @@ export default function App() {
         {showBookmarks && <BookmarkPanel />}
 
         {/* ─── テキスト未選択時：目次への誘導 ─── */}
-       {!selectedText && (
-  <div className={`relative flex flex-col items-center justify-center min-h-[70vh] transition-colors duration-700 ${darkMode || (typeof d !== 'undefined' && d) ? 'bg-zinc-950' : 'bg-[#f4f1ea]'}`}>
+      {!selectedText && (
+  <div className={`relative flex flex-col items-center justify-center min-h-[75vh] w-full overflow-hidden transition-colors duration-700 ${d ? 'bg-zinc-950' : 'bg-[#f4f1ea]'}`}>
     
-    {/* 絵画背景 */}
+    {/* 絵画背景：pointer-events-none を追加してボタンの邪魔をさせない */}
     <img
-      src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Adriaen_van_Utrecht-_Vanitas_-_Still_Life_with_Bouquet_and_Skull.JPG/800px-Adriaen_van_Utrecht-_Vanitas_-_Still_Life_with_Bouquet_and_Skull.JPG"
-      className={`absolute inset-0 w-full h-full object-cover transition-opacity duration-1000 ${(darkMode || (typeof d !== 'undefined' && d)) ? 'opacity-20' : 'opacity-30 mix-blend-multiply'}`}
+      src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Adriaen_van_Utrecht-_Vanitas_-_Still_Life_with_Bouquet_and_Skull.JPG/1280px-Adriaen_van_Utrecht-_Vanitas_-_Still_Life_with_Bouquet_and_Skull.JPG"
+      className={`absolute inset-0 w-full h-full object-cover transition-opacity duration-1000 pointer-events-none z-0 ${d ? 'opacity-25' : 'opacity-35 mix-blend-multiply'}`}
+      onLoad={(e) => e.currentTarget.style.opacity = d ? "0.25" : "0.35"}
       alt=""
       aria-hidden="true"
     />
 
-    {/* テキスト前景 */}
-    <div className="relative z-10 flex flex-col items-center justify-center text-center px-6">
+    {/* テキスト前景：z-10 で画像より上に配置 */}
+    <div className="relative z-10 flex flex-col items-center justify-center text-center px-6 w-full h-full">
       <p 
-        className={`mb-8 text-xl md:text-2xl font-serif tracking-[0.2em] italic transition-colors duration-500
-          ${(darkMode || (typeof d !== 'undefined' && d)) ? 'text-stone-200' : 'text-stone-800'}`}
+        className={`mb-10 text-xl md:text-2xl font-serif tracking-[0.25em] italic transition-colors duration-500
+          ${d ? 'text-stone-200' : 'text-stone-800'}`}
         style={{ 
-          textShadow: (darkMode || (typeof d !== 'undefined' && d))
-            ? '0 0 12px rgba(212, 175, 55, 0.3)' 
-            : '0.5px 0.5px 1px rgba(0, 0, 0, 0.15)' 
+          textShadow: d 
+            ? '0 0 15px rgba(212, 175, 55, 0.4)' 
+            : '0.5px 0.5px 2px rgba(0, 0, 0, 0.1)' 
         }}
       >
         vanité des vanités
       </p>
 
-      {/* ボタン：setIsTocOpen(true) に書き換えるとより確実かもしれません */}
+      {/* ボタン：setIsTocOpen を直接呼び出す形式に変更 */}
       <button
         onClick={() => {
-          if (typeof toggleToc === 'function') toggleToc();
-          else if (typeof setIsTocOpen === 'function') setIsTocOpen(true);
+          // コンソールで関数が存在するか確認しつつ実行
+          console.log("Opening Drawer...");
+          if (typeof setIsTocOpen === 'function') {
+            setIsTocOpen(true);
+          }
         }}
-        className={`group relative px-10 py-4 transition-all duration-700 border
-          ${(darkMode || (typeof d !== 'undefined' && d))
-            ? 'text-[#c5a059] border-[#c5a059]/40 hover:bg-[#c5a059]/5' 
-            : 'text-stone-700 border-stone-400/60 hover:bg-stone-800/5'}`}
+        className={`group relative px-10 py-4 transition-all duration-700 border z-20
+          ${d 
+            ? 'text-[#c5a059] border-[#c5a059]/40 hover:border-[#c5a059] hover:bg-[#c5a059]/5' 
+            : 'text-stone-700 border-stone-400 hover:border-stone-800 hover:bg-stone-800/5'}`}
       >
         <span className="absolute -top-px left-0 w-0 h-px bg-current transition-all duration-700 group-hover:w-full"></span>
         <span className="absolute -bottom-px right-0 w-0 h-px bg-current transition-all duration-700 group-hover:w-full"></span>
         
-        <span className="flex items-center gap-3 text-sm tracking-[0.3em] font-serif uppercase">
+        <span className="flex items-center gap-3 text-sm tracking-[0.3em] font-serif uppercase pointer-events-none">
           Explore the Anthology
         </span>
       </button>
 
-      <p className={`mt-12 text-[9px] tracking-widest font-serif uppercase transition-opacity duration-500
-        ${(darkMode || (typeof d !== 'undefined' && d)) ? 'text-stone-500 opacity-40' : 'text-stone-400 opacity-60'}`}>
+      <p className={`mt-14 text-[10px] tracking-[0.2em] font-serif uppercase transition-opacity duration-500
+        ${d ? 'text-stone-500 opacity-40' : 'text-stone-400 opacity-60'}`}>
         Adriaen van Utrecht, 1642
       </p>
     </div>
