@@ -1,0 +1,99 @@
+{
+  "id": "dowson_vanitas",
+  "title": "Vanitas",
+  "author": "Ernest Dowson",
+  "source": "Verses, Leonard Smithers, London, 1896. テキスト底本: 所蔵本画像（upload.wikimedia.org）, pp.29–30. 照合: theformalist.org/ebooks/dowson.html",
+  "year": "1896",
+  "firstPublication": "Verses, Leonard Smithers, London, 1896（Aubrey Beardsley装丁；handmade Van Gelder paper版300部・Japanese vellum版30部の限定刊行）",
+  "difficulty": "中級",
+  "category": "dowson",
+  "originalLang": "en-GB",
+  "modernRelevance": "★★★★",
+  "context": "ダウスンの唯一の詩集『Verses』（1896）所収。タイトル「Vanitas」はラテン語「虚無・空虚」──伝道の書1:2「Vanitas vanitatum, omnia vanitas（空の空、すべては空）」に由来し、VANITISMEというアプリ名の直接的な源泉語とも重なる。詩は5連（各5行）の形式で、死別した女性への追慕と、彼女との再会の不可能性を歌う。「彼女は分かってくれるだろうか（will she understand?）」という問いは答えられないまま終わる。ダウスンが深く傾倒していたヴェルレーヌの晩秋的抒情、ロセッティ的な死後の再会への憧憬と断念が凝縮された一篇。",
+  "keywords": [
+    "Vanitas",
+    "虚無",
+    "死別",
+    "追慕",
+    "90年代退廃派",
+    "Rhymers Club",
+    "Verses 1896",
+    "ヴェルレーヌ影響",
+    "cypressの象徴",
+    "weary river"
+  ],
+  "relatedTexts": [
+    "dowson_after_verlaine_1",
+    "verlaine_chanson_dautomne",
+    "rossetti_remember",
+    "rossetti_dead_before_death",
+    "wilde_requiescat"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "original": "Beyond the need of weeping,\n  Beyond the reach of hands,\nMay she be quietly sleeping,\n  In what dim nebulous lands?\nAh, she who understands!",
+      "provisionalTranslation": "泣くことの必要さえ超えて、\n　手の届く場所さえも超えて、\n彼女は静かに眠っているのだろうか──\n　どんな薄暗い霧の国に？\nああ、すべてを分かってくれた彼女が！"
+    },
+    {
+      "id": 2,
+      "original": "The long, long winter weather,\n  These many years and days,\nSince she, and Death, together,\n  Left me the wearier ways:\nAnd now, these tardy bays!",
+      "provisionalTranslation": "長い、長い冬の日々、\n　幾年もの日々と年月──\n彼女と死が、ともに、\n　私に残した疲れ果てた道：\nそして今、これらの遅すぎる月桂冠が！"
+    },
+    {
+      "id": 3,
+      "original": "The crown and victor's token:\n  How are they worth to-day?\nThe one word left unspoken,\n  It were late now to say:\nBut cast the palm away!",
+      "provisionalTranslation": "冠と勝者の証よ──\n　今日、それらに何の値打ちがあろうか？\n言い残した一言は、\n　今さら言うには遅すぎる。\nだが、棕櫚の枝を捨ててしまえ！"
+    },
+    {
+      "id": 4,
+      "original": "For once, ah once, to meet her,\n  Drop laurel from tired hands:\nHer cypress were the sweeter,\n  In her oblivious lands:\nHaply she understands!",
+      "provisionalTranslation": "せめて一度、ああ一度だけ彼女に会えるなら、\n　疲れた手から月桂冠を落とそう。\n彼女の柏の枝の方がより甘い──\n　忘却の国にいる彼女のそばでは：\nおそらく彼女は分かってくれるだろう！"
+    },
+    {
+      "id": 5,
+      "original": "Yet, crossed that weary river,\n  In some ulterior land,\nOr anywhere, or ever,\n  Will she stretch out a hand?\nAnd will she understand?",
+      "provisionalTranslation": "それでも、あの疲れた川を渡った先で、\n　何らかの彼方の国に、\nあるいはどこかに、いつかは──\n　彼女は手を差し伸べてくれるだろうか？\nそして彼女は分かってくれるだろうか？"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "glossary",
+      "anchor": "dim nebulous lands",
+      "body": "「薄暗い霧の国（dim nebulous lands）」──死後の世界の婉曲表現。nebulousはラテン語nebula（霧・雲）に由来。ダウスンが深く影響を受けたヴェルレーヌ的な、輪郭のぼやけた夕暮れ・霧・黄昏のイマジュリーに対応する。ロセッティ「Remember」の「silent land」との照応。明確な天国でも地獄でもなく、曖昧な中間領域として描かれる点がDecadentsの死後観を示す。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "tardy bays",
+      "body": "「遅すぎる月桂冠（tardy bays）」──bay（月桂樹）は詩的栄誉・勝利の象徴。詩人は彼女の死後に名声や成功を得たが、それを分かち合える相手はもういない。「遅すぎる」という修飾語が、世俗的達成の空虚さ──まさにVanitas（虚無）のテーマ──を体現する。伝道の書1章の「空の空」の近代的翻案。"
+    },
+    {
+      "paragraphId": 3,
+      "type": "prosody",
+      "anchor": "The one word left unspoken,\n  It were late now to say:",
+      "body": "「言い残した一言は、今さら言うには遅すぎる」──ダウスン詩の典型的モチーフ：生前言えなかった愛の言葉・告白。「It were late」の仮定法過去は後悔の婉曲的表現。ダウスンが現実に片思いしていた少女アデレード・フォルタンへの追慕詩（「Cynara」等）との共鳴。palm（棕櫚の枝）はキリスト教的勝利・殉教のシンボルでもあり、世俗的勝利の拒絶を示す。"
+    },
+    {
+      "paragraphId": 4,
+      "type": "glossary",
+      "anchor": "Her cypress were the sweeter",
+      "body": "「彼女の柏の枝（her cypress）」──cypressは西洋では死・喪の象徴（月桂冠とは対置）。月桂冠（生者の栄光）を捨てて柏の枝（死者の世界）を選ぶという逆転が、詩の核心的身振り。ロセッティ「Dead Before Death」やワイルド「Requiescat」に共通する「死を甘受する（even welcome）」デカダン的倫理観。"
+    },
+    {
+      "paragraphId": 5,
+      "type": "commentary",
+      "anchor": "crossed that weary river",
+      "body": "「あの疲れた川を渡った先で（crossed that weary river）」──ステュクス（三途の川）の婉曲表現。wearyはこの詩全体を貫く語（wearier ways §2 / tired hands §4）。疲れた川、疲れた手、疲れた道──daugh能動的疲労でなく存在そのものの消耗としての「疲れ」がダウスン詩の基調感情。最終行「And will she understand?」は第1連の「she who understands!」の確信から「will she...?」の疑問への転落──詩全体のトーンの決定的な変化。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "intertextual",
+      "anchor": null,
+      "body": "タイトル「Vanitas」はラテン語の典型的なバニタス画（骸骨・時計・枯れた花等を描く17世紀静物画ジャンル）に通じる。同年刊の詩集タイトル『Verses』（1896）にはヴェルレーヌ詩への翻案「After Verlaine」シリーズも収録されており、ダウスンのヴェルレーヌへの傾倒が示される。イェイツは後にダウスンの詩の技術的洗練から多くを学んだと証言している。",
+      "targetId": "dowson_after_verlaine_1",
+      "targetParagraphId": null
+    }
+  ]
+}
