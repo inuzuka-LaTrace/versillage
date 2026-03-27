@@ -1,0 +1,86 @@
+{
+  "id": "dowson_a_requiem",
+  "title": "A Requiem",
+  "author": "Ernest Dowson",
+  "source": "Verses, Leonard Smithers, London, 1896. テキスト底本: 所蔵本画像（upload.wikimedia.org）, pp.43–44.",
+  "year": "1896",
+  "firstPublication": "Verses, Leonard Smithers, London, 1896",
+  "difficulty": "中級",
+  "category": "dowson",
+  "originalLang": "en-GB",
+  "modernRelevance": "★★★★",
+  "context": "ダウスンの詩集『Verses』（1896）所収。「レクイエム（鎮魂歌）」と題された3連詩。「ネオブレ（Neobule）」という名はホラティウス『頌歌』(Odes III, xii)に登場する女性名の借用であり、特定の実在人物を指すというより詩的仮面として機能する。疲れ果てて眠りに就いた女性の死を、生者の世界の過剰な鮮やかさ（rosy and gray / flowers）への倦怠として描く。水仙の花（asphodel）は冥界に咲くとされたギリシャ神話の花で、死者の魂が摘む──ここで死は恐怖でなく解放として提示される。「Vanitas」と同じく、死者のいる世界の方が生者の世界より静かで甘美だという逆説がダウスンの基調モチーフをなす。",
+  "keywords": [
+    "Neobule",
+    "レクイエム",
+    "鎮魂",
+    "水仙 asphodel",
+    "冥界の花",
+    "hollow lands",
+    "疲れ果てた魂",
+    "ホラティウス",
+    "Verses 1896",
+    "死の甘受"
+  ],
+  "relatedTexts": [
+    "dowson_vanitas",
+    "dowson_after_verlaine_1",
+    "rossetti_sweet_death",
+    "rossetti_dead_before_death",
+    "wilde_requiescat"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "original": "Neobule, being tired,\nFar too tired to laugh or weep,\nFrom the hours, rosy and gray,\nHid her golden face away.\nNeobule, fain of sleep,\nSlept at last as she desired!",
+      "provisionalTranslation": "ネオブレは、疲れ果てて、\n笑うにも泣くにも疲れすぎて、\n薔薇色の、また灰色の時間から、\n黄金の顔を隠してしまった。\nネオブレは、眠りを望んで、\nついに望みどおりに眠った！"
+    },
+    {
+      "id": 2,
+      "original": "Neobule! is it well,\nThat you haunt the hollow lands,\nWhere the poor, dead people stray,\nGhostly, pitiful and gray,\nPlucking, with their spectral hands,\nScentless blooms of asphodel?",
+      "provisionalTranslation": "ネオブレよ！それで良いのか──\nお前があの空洞の国をさまようのは、\n哀れな死者たちが迷い歩く、\n亡霊のように、哀れに、灰色に、\n幽霊のような手で摘みながら、\n匂いのない水仙の花を？"
+    },
+    {
+      "id": 3,
+      "original": "Neobule, tired to death\nOf the flowers that I threw\nOn her flower-like, fair feet,\nSighed for blossoms not so sweet,\nLunar roses pale and blue,\nLilies of the world beneath.",
+      "provisionalTranslation": "ネオブレは、私が投げかけた\n花々に、死ぬほど疲れて──\n花のように美しいその足の上に──\nそれほど甘くはない花を欲して溜め息をついた。\n月の光を帯びた青白い薔薇、\nこの世の下の国の百合の花を。"
+    },
+    {
+      "id": 4,
+      "original": "Neobule! ah, too tired\nOf the dreams and days above!\nWhere the poor, dead people stray,\nGhostly, pitiful and gray,\nOut of life and out of love,\nSleeps the sleep which she desired.",
+      "provisionalTranslation": "ネオブレよ！ああ、疲れすぎた\n夢と、この世の昼の日々に！\n哀れな死者たちが迷い歩く、\n亡霊のように、哀れに、灰色に──\n命からも、愛からも離れて、\n彼女は望んでいた眠りに眠る。"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "glossary",
+      "anchor": "Neobule",
+      "body": "「ネオブレ（Neobule）」──ホラティウス『頌歌（Odes）』第3巻第12歌に登場する女性名。ギリシャ語のneo-（新しい）+ boulē（意志・計画）に由来するとも言われる。ダウスンはヘンリー・ジョンソンとともにホラティウスを愛読しており、この名の借用は詩的典故として機能する。特定の実在人物──ダウスンが恋慕していたアデレード・フォルタンとも、あるいは彼の亡き母とも──を暗示する仮面名として読まれることもある。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "prosody",
+      "anchor": "rosy and gray",
+      "body": "「薔薇色の、また灰色の（rosy and gray）」──ダウスン詩を貫く色彩対の典型。薔薇色（生・情熱・朝）と灰色（死・倦怠・夕）の並置。ヴェルレーヌ「秋の歌」の単調な色調と響き合う。この詩でgrayは第2連・第3連に反復され（gray, gray）、死者の国の色として機能する。生者の世界の「rosy」な過剰さから逃れて灰色の静寂へ向かうのがネオブレの意志。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "glossary",
+      "anchor": "Scentless blooms of asphodel",
+      "body": "「匂いのない水仙の花（Scentless blooms of asphodel）」──アスフォデルはユリ科の植物で、ギリシャ神話では冥界エリュシオンの野（アスフォデルの野）に群生するとされた（ホメロス『オデュッセイア』第11巻）。死者の魂が永遠にそこを歩くとされる花。「匂いのない（scentless）」という修飾が重要──死の世界の花は生者の花よりも美しくはないが、過剰な甘さもない。ネオブレが「そこまで甘くはない花」を望んだのはこの水仙を指す。"
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "Lunar roses pale and blue,\nLilies of the world beneath.",
+      "body": "「月の光を帯びた青白い薔薇、この世の下の国の百合」──冥界の植物のイマジュリーの中心。「Lunar（月の）」は太陽の生命力と対照をなす月の光による育ちを示す。青白い薔薇は生者の赤い薔薇の死的な鏡像。ロセッティ「Sweet Death」の「paleness of the dead」への参照が見える。生者の世界の花（私が投げかけた花々）が過剰で疲れるものとして退けられ、冥界の花の方が望ましいという詩の逆説を締め括る。"
+    },
+    {
+      "paragraphId": 4,
+      "type": "prosody",
+      "anchor": "Sleeps the sleep which she desired.",
+      "body": "第1連末「Slept at last as she desired!」から第4連末「Sleeps the sleep which she desired.」への反復と変奏──感嘆符（!）から句点（.）への転換が詩全体の完結を静かに封じる。過去形（Slept）から現在形（Sleeps）への移行も意味深長：死が完了した過去でなく、継続する現在として肯定される。ダウスン詩の技法的洗練が最もよく示される箇所のひとつ。"
+    }
+  ]
+}
