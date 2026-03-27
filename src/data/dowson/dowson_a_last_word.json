@@ -1,0 +1,71 @@
+{
+  "id": "dowson_a_last_word",
+  "title": "A Last Word",
+  "author": "Ernest Dowson",
+  "source": "Verses, Leonard Smithers, London, 1896. テキスト底本: 所蔵本画像（upload.wikimedia.org）, p.166.",
+  "year": "1896",
+  "firstPublication": "Verses, Leonard Smithers, London, 1896",
+  "difficulty": "中級",
+  "category": "dowson",
+  "originalLang": "en-GB",
+  "modernRelevance": "★★★★★",
+  "context": "ダウスンの詩集『Verses』（1896）の最終詩、またはその近くに置かれた詩。タイトル「最後の言葉」が示すように、詩集の締め括りとしての性格を帯びる。シェイクスピア式ソネット変形（8行＋6行）で、「Let us go hence（さあ、ここを去ろう）」という呼びかけが2連を繋ぐ。第1連：昼は過ぎ、鳥は飛び去り、収穫は終わった──絶望と死の闇が覆う中、私たちが知ったのは「surpassing vanity（卓越した虚無）」のみ。第2連：見知らぬ冷たい場所──「Hollow Lands（空洞の国）」へ去ろう。そこでは正しき者も不正な者も等しく労苦を終え、愛と恐れと欲望から自由になる。「life-sick hearts（人生に倦んだ心）」を大地に委ね、塵に帰させよ。「Venite Descendamus」の「下降」の呼びかけを、ソネットという形式の中で完成させた詩。",
+  "keywords": [
+    "A Last Word",
+    "ソネット",
+    "Let us go hence",
+    "Hollow Lands",
+    "surpassing vanity",
+    "虚無の卓越",
+    "life-sick",
+    "人生倦怠",
+    "塵への帰還",
+    "詩集の結び"
+  ],
+  "relatedTexts": [
+    "dowson_venite_descendamus",
+    "dowson_vanitas",
+    "dowson_a_requiem",
+    "dowson_seraphita",
+    "rossetti_dead_before_death",
+    "swinburne_garden_of_proserpine"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "original": "Let us go hence: the night is now at hand;\n  The day is overworn, the birds all flown;\n  And we have reaped the crops the gods have sown;\nDespair and death; deep darkness o'er the land,\nBroods like an owl; we cannot understand\n  Laughter or tears, for we have only known\n  Surpassing vanity: vain things alone\nHave driven our perverse and aimless band.",
+      "provisionalTranslation": "さあここを去ろう──夜がもう手の届くところまで来ている。\n　昼は過ぎ果て、鳥たちはすべて飛び去った。\n　私たちは神々が蒔いた穀物を刈り取った──\n絶望と死を。深い闇が大地の上に\n梟のように巣くっている。私たちには理解できない\n　笑いも涙も──私たちが知ったのはただ\n　卓越した虚無のみ。空しいものだけが\n私たちの倒錯した、目的もない一団を駆り立ててきた。"
+    },
+    {
+      "id": 2,
+      "original": "Let us go hence, somewhither strange and cold,\n  To Hollow Lands where just men and unjust\n  Find end of labour, where's rest for the old,\nFreedom to all from love and fear and lust.\nTwine our torn hands!  O pray the earth enfold\nOur life-sick hearts and turn them into dust.",
+      "provisionalTranslation": "さあここを去ろう、どこか見知らぬ冷たい場所へ──\n　「空洞の国」へ、そこでは正しき者も不正な者も\n　労苦の終わりを見つける、老いた者の休息がある、\nすべての者が愛と恐れと欲望から自由になれる場所へ。\n傷ついた手を絡み合わせよ！ああ、大地が包んでくれるよう祈れ、\n私たちの人生に倦んだ心を、そして塵に変えてくれるよう。"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "prosody",
+      "anchor": "Let us go hence: the night is now at hand;",
+      "body": "ソネット変形（8行＋6行）の開幕。「Let us go hence（さあここを去ろう）」は第2連冒頭にも反復され、詩全体のフレームを作る──「Venite Descendamus（さあ、降りていこう）」と同じ呼びかけの構造。「at hand（手の届くところに）」という慣用句が「night（夜＝死）」を切迫した現実として提示する。全体の韻律はiambic pentameter基調だが、インデントによる字下げが視覚的に詩行の階層を作る。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "Surpassing vanity: vain things alone\nHave driven our perverse and aimless band.",
+      "body": "「卓越した虚無（surpassing vanity）」──この詩集全体のタイトルモチーフ「vanity（虚無・空虚）」の最も明示的な表現。伝道の書「空の空、すべては空」の「surpassing（超越する）」による強調。「vain things alone（空しいものだけが）」私たちを駆り立ててきたという告白は、詩的実践・愛・生そのものを「空しいもの」と総括する。「perverse and aimless band（倒錯した、目的もない一団）」──「私たち」という複数形が、詩人個人でなく90年代のRhymers Club的な同世代の仲間たちを指示する。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "glossary",
+      "anchor": "Hollow Lands",
+      "body": "「空洞の国（Hollow Lands）」──「A Requiem」の「hollow lands」と同じ表現（大文字化によりここでは固有名詞化）。ギリシャ神話のエリュシオン（死者の楽土）の変奏だが、楽園的な色彩は薄く、「strange and cold（見知らぬ冷たい）」と形容される。「just men and unjust（正しき者も不正な者も）」が等しく休む場所──道徳的区別を超えた平等の死。マラルメ「乾杯葬送（Toast funèbre）」の「repose（安らぎ）」とも響き合う死後の空間。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "Twine our torn hands!  O pray the earth enfold\nOur life-sick hearts and turn them into dust.",
+      "body": "ソネット最終2行（コプレット相当）の祈願。「torn hands（傷ついた手）」を「twine（絡み合わせる）」──死の床での手を繋ぐ身振り。「life-sick hearts（人生に倦んだ心）」はdowsonの造語的表現で、単なる厭世でなく生きることへの疲弊を精確に示す。大地（earth）が心を「包み（enfold）」「塵（dust）」に変える──創世記3:19「塵から来て塵に帰す」の典礼的反響。「Venite Descendamus」の「We may rest」が「We may」（可能性）だったのに対し、ここでは「O pray（祈れ）」という能動的な祈願で終わる──より切迫した、最後の言葉として。"
+    }
+  ]
+}
