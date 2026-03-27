@@ -37,6 +37,7 @@ import blokData from './data/blok';
 import balmontData from './data/balmont';
 import poeData from './data/poe';
 import wildeData from './data/wilde';
+import dowsonData from './data/dowson';
 import swinburneData from './data/swinburne';
 import rossetti_cData from './data/rossetti_c';
 import yeatsData from './data/yeats';
@@ -990,6 +991,7 @@ export default function App() {
     if (cat?.startsWith('gautier'))      return darkMode ? 'bg-cyan-900/40 text-cyan-300' : 'bg-cyan-100 text-cyan-800';
     if (cat?.startsWith('poe'))        return darkMode ? 'bg-red-900/40 text-red-300' : 'bg-red-100 text-red-800';
     if (cat?.startsWith('wilde'))        return darkMode ? 'bg-teal-900/40 text-teal-300' : 'bg-teal-100 text-teal-800';
+    if (cat?.startsWith('dowson'))        return darkMode ? 'bg-amber-900/40 text-amber-300' : 'bg-amber-100 text-amber-800';
     if (cat?.startsWith('swinburne'))    return darkMode ? 'bg-indigo-900/40 text-indigo-300' : 'bg-indigo-100 text-indigo-800';
     if (cat?.startsWith('rossetti_c'))       return darkMode ? 'bg-rose-900/40 text-rose-300'     : 'bg-rose-100 text-rose-800';
     if (cat?.startsWith('yeats'))        return darkMode ? 'bg-amber-900/40 text-amber-300'   : 'bg-amber-100 text-amber-800';
