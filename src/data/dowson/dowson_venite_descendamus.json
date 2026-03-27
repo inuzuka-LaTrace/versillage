@@ -1,0 +1,87 @@
+{
+  "id": "dowson_venite_descendamus",
+  "title": "Venite Descendamus",
+  "author": "Ernest Dowson",
+  "source": "Verses, Leonard Smithers, London, 1896. テキスト底本: 所蔵本画像（upload.wikimedia.org）, p.153.",
+  "year": "1896",
+  "firstPublication": "Verses, Leonard Smithers, London, 1896",
+  "difficulty": "中級",
+  "category": "dowson",
+  "originalLang": "en-GB",
+  "modernRelevance": "★★★★★",
+  "context": "ダウスンの詩集『Verses』（1896）所収。タイトルはラテン語「Venite descendamus（さあ、降りていこう）」──詩篇94:1「Venite, exsultemus Domino（さあ、主を讃えよ）」の典礼的定型句の逆転。「上昇」でなく「下降」──生から死へ、言葉から沈黙へ、音楽から静寂への意図的な下降を呼びかける。4連（各4行、長短交互のリズム）という精巧な形式の中に、詩作・愛・生そのものへの放棄を宣言する。第1連「言葉と溜め息をやめよ」、第2連「音楽を黙らせよ」、第3連「下りて眠ろう」、第4連「横たわれば休める」──反復される「at last（ついに）」が、死への到達を待望として描く。ダウスン詩の中でも最も徹底した「沈黙の詩学」の体現。",
+  "keywords": [
+    "Venite Descendamus",
+    "下降",
+    "沈黙",
+    "詩作の放棄",
+    "vain lute",
+    "空しい竪琴",
+    "秋の枯れ葉",
+    "詩篇の逆転",
+    "death as rest",
+    "Verses 1896"
+  ],
+  "relatedTexts": [
+    "dowson_vanitas",
+    "dowson_a_requiem",
+    "dowson_seraphita",
+    "verlaine_chanson_dautomne",
+    "rossetti_remember",
+    "mallarme_sonnet_cygne"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "original": "Let be at last; give over words and sighing,\n  Vainly were all things said:\nBetter at last to find a place for lying,\n  Only dead.",
+      "provisionalTranslation": "もうやめよう、ついに。言葉と溜め息を捨てよ、\n　言われたことはすべて空しかった。\nついに横たわる場所を見つける方がいい、\n　ただ、死んで。"
+    },
+    {
+      "id": 2,
+      "original": "Silence were best, with songs and sighing over;\n  Now be the music mute;\nNow let the dead, red leaves of autumn cover\n  A vain lute.",
+      "provisionalTranslation": "沈黙が最善だ──歌と溜め息が終わった今は。\n　今こそ音楽を黙らせよ。\n今こそ秋の死んだ赤い葉に覆わせよ、\n　空しい竪琴を。"
+    },
+    {
+      "id": 3,
+      "original": "Silence is best: for ever and for ever,\n  We will go down and sleep,\nSomewhere beyond her ken, where she need never\n  Come to weep.",
+      "provisionalTranslation": "沈黙が最善だ──永遠に、永遠に、\n　私たちは下って眠ろう、\n彼女の知覚の届かぬどこか遠くへ、そこへ彼女は\n　泣きに来なくてよい場所へ。"
+    },
+    {
+      "id": 4,
+      "original": "Let be at last: colder she grows and colder;\n  Sleep and the night were best;\nLying at last where we can not behold her,\n  We may rest.",
+      "provisionalTranslation": "もうやめよう、ついに──彼女はますます冷えていく。\n　眠りと夜こそが最善だった。\nついに横たわって、彼女を見ることができない場所で、\n　私たちは休める。"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "glossary",
+      "anchor": "Venite Descendamus",
+      "body": "ラテン語「さあ、降りていこう」。典礼詩篇の招集定型句「Venite, exsultemus（さあ、喜び歌え）」の意図的な逆転──「exsultemus（上昇・歓喜）」を「descendamus（下降）」に置き換える。死・沈黙・眠りへの「下降」を礼拝的な招集の形式で呼びかけることで、ダウスンは死の歓迎を擬似典礼的に演出する。ラテン語タイトルの使用はヴェルレーヌ「Sagesse」やロセッティ「De Profundis」等の前例に連なる。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "prosody",
+      "anchor": "Let be at last; give over words and sighing,",
+      "body": "詩全体の韻律構造：各連は長行（iambic pentameter相当）と短行（dimeter）の交互で構成される。短行「Only dead.」「A vain lute.」「Come to weep.」「We may rest.」が各連の最後に置かれ、断片的な結論として落下する。この「切断」の技法はヴェルレーヌの「Chanson d'automne」における3音節行の落下と同じ詩的効果──余韻でなく停止として機能する。第1連と第4連の冒頭「Let be at last」の反復がフレーム構造を作る。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "Now let the dead, red leaves of autumn cover\n  A vain lute.",
+      "body": "「秋の死んだ赤い葉に空しい竪琴を覆わせよ」──詩作そのものの放棄宣言。竪琴（lute）は西洋詩の伝統的な詩的創造の象徴（アポロンの竪琴、オルフェウスの竪琴）。それを「空しい（vain）」と呼び、秋の枯れ葉で覆うことを命じる。マラルメの「白鳥のソネット」の「書けない詩人の翼」と同様の詩的自己言及だが、マラルメが凍結として描くのに対し、ダウスンは腐葉として描く──有機的な消滅。ヴェルレーヌ「秋の歌」の落ち葉のイメージとも共鳴。"
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "Somewhere beyond her ken, where she need never\n  Come to weep.",
+      "body": "「彼女の知覚の届かぬどこかへ──そこへ彼女は泣きに来なくてよい」──死への下降が「彼女を悲しませないため」という逆説的な利他的動機として提示される。「Vanitas」「A Requiem」「Seraphita」と共通して、死者・不在者への配慮が生への執着より優先される。「her ken（彼女の知覚・視野）」という古風な語は距離と別離を詩的に昇華する。死ぬことで彼女を解放するという論理は、ダウスンの愛の哲学の核心。"
+    },
+    {
+      "paragraphId": 4,
+      "type": "prosody",
+      "anchor": "Let be at last: colder she grows and colder;",
+      "body": "第1連「Let be at last; give over words and sighing」と第4連「Let be at last: colder she grows and colder」の対応──句読点の変化（セミコロン→コロン）と内容の変化（詩作の放棄→対象の消滅）が微細な差異をなす。「colder and colder」の漸進的な形容詞反復は時間の経過と肉体の冷却を同時に示す。最終行「We may rest.」の「may（〜できるかもしれない）」は確信でなく可能性の法助動詞──死への確信でさえ、ダウスンにとっては断定できない。"
+    }
+  ]
+}
