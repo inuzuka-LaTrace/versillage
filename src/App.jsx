@@ -216,6 +216,7 @@ export default function App() {
       ...balmontData,
       ...poeData,
       ...wildeData,
+      ...dowsonData,
       ...swinburneData,
       ...yeatsData,
       ...rossetti_cData,
