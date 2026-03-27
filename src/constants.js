@@ -40,6 +40,7 @@ export const CATEGORIES = {
   poe:                        { name: 'ポー' },
   rossetti_c:                 { name: 'ロセッティ' },
   wilde:                      { name: 'ワイルド' },
+  dowson:                     { name: 'ダウスン' },
   swinburne:                  { name: 'スウィンバーン' },
   yeats:                      { name: 'イェイツ' },
 };
@@ -80,6 +81,7 @@ export const CAT_SHORT = {
   poe:                     'ポー',
   rossetti_c:              'ロセッティ',
   wilde:                   'ワイルド',
+  dowson:                  'ダウスン',
   swinburne:               'スウィンバーン',
   yeats:                   'イェイツ',
 };
