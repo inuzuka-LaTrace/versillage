@@ -2068,8 +2068,8 @@ export default function App() {
           <p>掲載の日本語訳は学習補助の為の試訳であり、確定した翻訳ではありません</p>
         </div>
       </div>
-
-      {/* フローティングTOPボタン */}
+      )
+        {/* フローティングTOPボタン */}
       <button
         onClick={() => window.scrollTo({ top: 0, behavior: 'smooth' })}
         aria-label="ページ先頭へ"
