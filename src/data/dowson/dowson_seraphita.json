@@ -1,0 +1,76 @@
+{
+  "id": "dowson_seraphita",
+  "title": "Seraphita",
+  "author": "Ernest Dowson",
+  "source": "Verses, Leonard Smithers, London, 1896. テキスト底本: 所蔵本画像（upload.wikimedia.org）, p.72.",
+  "year": "1896",
+  "firstPublication": "Verses, Leonard Smithers, London, 1896",
+  "difficulty": "中級",
+  "category": "dowson",
+  "originalLang": "en-GB",
+  "modernRelevance": "★★★★",
+  "context": "ダウスンの詩集『Verses』（1896）所収。タイトル「セラフィタ（Seraphita）」はバルザックの同名小説（1834）の主人公に由来する──スウェーデンボルグ神秘主義に基づく両性具有の天使的存在。詩はソネット形式（2連＋2連、iambic pentameter）に近い構成をとり、「嵐の海」と「月の静寂」という対比の空間に「幻影の顔（visionary face）」を祭り上げる。第1連（8行）：荒波の中にいる今、その清澄な記憶を汚すまいと「来るな」と命じる逆説的な拒絶。第2連（6行）：しかし嵐が頂点に達した時、一瞬だけ手を差し伸べてほしいという懇願──「溺れる前の最後の一撫で」として。「Vanitas」の遠い問いかけ、「A Requiem」の死への誘惑と並んで、ダウスン詩の三つの態度──諦念・誘惑・懇願──を体現する一篇。",
+  "keywords": [
+    "Seraphita",
+    "バルザック",
+    "セラフィタ",
+    "天使的存在",
+    "嵐の海",
+    "幻影",
+    "visionary face",
+    "ソネット変形",
+    "溺死のイメージ",
+    "月の支配"
+  ],
+  "relatedTexts": [
+    "dowson_vanitas",
+    "dowson_a_requiem",
+    "dowson_after_verlaine_1",
+    "rossetti_dead_before_death",
+    "swinburne_forsaken_garden"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "original": "Come not before me now, O visionary face!\nMe tempest-tost, and borne along life's passionate sea;\nTroublous and dark and stormy though my passage be;\nNot here and now may we commingle or embrace,\nLest the loud anguish of the waters should efface\nThe bright illumination of thy memory,\nWhich dominates the night; rest, far away from me,\nIn the serenity of thine abiding-place!",
+      "provisionalTranslation": "今は私の前に来るな、おお幻影の顔よ！\n私は嵐に翻弄され、人生の情熱の海に流されている。\n私の航路は荒れ、暗く、嵐のさなかにあるのだから。\nここで今、私たちは混じり合い抱き合うことはできない──\n波の轟く苦悩が消し去るかもしれないから、\nお前の記憶の明るい輝きを。\nその輝きは夜を支配している。休め、私から遠く離れて、\nお前の宿るところの静寂の中に！"
+    },
+    {
+      "id": 2,
+      "original": "But when the storm is highest, and the thunders blare,\nAnd sea and sky are riven, O moon of all my night!\nStoop down but once in pity of my great despair,\nAnd let thine hand, though over late to help, alight\nBut once upon my pale eyes and my drowning hair,\nBefore the great waves conquer in the last vain fight.",
+      "provisionalTranslation": "しかし嵐が頂点に達し、雷鳴が轟くとき、\n海と空が引き裂かれるとき──おお、私の夜のすべての月よ！\nただ一度だけ、私の大いなる絶望を憐れんでかがみ込み、\nお前の手を──助けるには遅すぎるとしても──触れさせてくれ、\nただ一度だけ、私の青白い目と溺れゆく髪の上に、\n大波が最後の空しい戦いに勝つその前に。"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "glossary",
+      "anchor": "Seraphita",
+      "body": "バルザック『セラフィタ（Séraphîta）』（1834）の主人公に由来。スウェーデンボルグの神秘主義哲学に基づく両性具有の天使的存在──男性にはセラフィタ（女性）として、女性にはセラフィトゥス（男性）として現れる。地上の愛を超えた純粋な霊的存在の象徴。ダウスンはこの名を採ることで、詩の「幻影の顔（visionary face）」を実在する女性でなく、理想・記憶・彼岸に属する存在として位置付ける。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "prosody",
+      "anchor": "Come not before me now, O visionary face!",
+      "body": "逆説的な開幕。通常の恋愛詩が「来てくれ」と懇願するのに対し、ダウスンは「来るな」と命じる──しかしその拒絶は愛の否定でなく、愛を保護するための拒絶。嵐の海（荒々しい現在）とセラフィタの記憶（清澄な彼岸）を分離しておくことで、記憶の純粋さを守る。詩全体はこの逆説──拒絶しながら最後には懇願する──の緊張で成り立つ。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "Which dominates the night",
+      "body": "「夜を支配する（dominates the night）」──第2連の「moon of all my night（私の夜のすべての月）」への橋渡し。記憶＝月という等式がここで準備される。月は夜を「支配」するが、太陽のように昼を照らすことはできない──つまり記憶・幻影は意識の表層（昼）ではなく夜の無意識の領域を支配する存在。ヴェルレーヌ「月の光（Clair de lune）」やロセッティの月のイマジュリーとの連続性。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "O moon of all my night!",
+      "body": "「私の夜のすべての月（moon of all my night）」──第1連で「来るな」と退けたセラフィタが、嵐の頂点で「月」として召喚される。月は距離を保ちながら照らす存在──抱擁でも融合でもなく、光を当てること。この詩のエロスは接触でなく「照射」として定義される。ダウスン詩における月はヴェルレーヌ的な陰鬱さと、ロセッティ的な「遠くにある女性」の象徴を兼ねる。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "prosody",
+      "anchor": "But once upon my pale eyes and my drowning hair,\nBefore the great waves conquer in the last vain fight.",
+      "body": "詩の最終2行が溺死の場面として結実する。「pale eyes（青白い目）」「drowning hair（溺れゆく髪）」──死の間際の身体描写がこの詩で唯一具体的な肉体として現れる。「last vain fight（最後の空しい戦い）」は勝敗の決まった戦いへの諦念。助けを求めながらその助けが「too late（遅すぎる）」と分かっている──「Vanitas」の「It were late now to say」と共鳴する時間的絶望。"
+    }
+  ]
+}
