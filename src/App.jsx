@@ -1273,7 +1273,7 @@ export default function App() {
     <div className="absolute inset-0 z-0">
       <img
         /* 画像パス：public/images/ に配置したと想定 */
-        src="/images/vanitas_adriaen_van_utrecht.JPG"
+        src="/images/vanitas_adriaen_van_utrecht.jpg"
         /* object-cover と object-center で画面中央を切り取り、不透明度を 20% に */
         className="w-full h-full object-cover object-center opacity-20 grayscale-[30%]"
         alt="" 
