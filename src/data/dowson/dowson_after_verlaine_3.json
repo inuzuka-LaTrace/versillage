@@ -1,0 +1,104 @@
+{
+  "id": "dowson_after_verlaine_3",
+  "title": "After Paul Verlaine — III: Spleen",
+  "author": "Ernest Dowson",
+  "source": "Verses, Leonard Smithers, London, 1896. テキスト底本: 所蔵本画像（upload.wikimedia.org）, p.138. 原詩照合: Paul Verlaine, «Spleen», Romances sans paroles, Aquarelles II, 1874.",
+  "year": "1896",
+  "firstPublication": "Verses, Leonard Smithers, London, 1896",
+  "difficulty": "初級",
+  "category": "dowson",
+  "originalLang": "en-GB",
+  "modernRelevance": "★★★★★",
+  "context": "ダウスンの「ヴェルレーヌ以後（After Paul Verlaine）」シリーズ第3番。ヴェルレーヌ『言葉なき恋歌（Romances sans paroles）』「Aquarelles」連作第2番「Spleen」（1874）の英語翻案。原詩の3連4行（octosyllabe）を6連2行（iambic tetrameter相当の対句）に再配置——各連の独立性を高め、coupletの刻みがより明確な音楽的区切りを作る。原詩の「trop（あまりにも）」の3連反復を「Too blue, too tender / too soft, too green」として忠実に継承。最終行「Of everything alas ! save thee」は原詩「Et de tout, fors de vous, hélas !」の逐語的再現——古語「save（〜以外）」が仏語「fors」に対応する。翻案でありながら原詩への愛着と詩的自律性を両立させたダウスン翻案詩の代表作。",
+  "keywords": [
+    "Spleen",
+    "ヴェルレーヌ翻案",
+    "Romances sans paroles",
+    "Aquarelles",
+    "roses red",
+    "ivy black",
+    "too blue too tender",
+    "holly-sprays",
+    "box-tree",
+    "After Paul Verlaine"
+  ],
+  "relatedTexts": [
+    "verlaine_spleen",
+    "dowson_after_verlaine_1",
+    "dowson_after_verlaine_2",
+    "verlaine_chanson_dautomne",
+    "verlaine_colloque_sentimental"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "original": "Around were all the roses red,\nThe ivy all around was black.",
+      "provisionalTranslation": "あたりの薔薇はすべて赤く、\nあたりの蔦はすべて黒かった。"
+    },
+    {
+      "id": 2,
+      "original": "Dear, so thou only move thine head,\nShall all mine old despairs awake!",
+      "provisionalTranslation": "愛しい人よ、お前が頭を動かすだけで、\n私の古い絶望がすべて目覚めてしまう！"
+    },
+    {
+      "id": 3,
+      "original": "Too blue, too tender was the sky,\nThe air too soft, too green the sea.",
+      "provisionalTranslation": "空はあまりにも青く、あまりにも優しかった。\n空気はあまりにも柔らかく、海はあまりにも緑だった。"
+    },
+    {
+      "id": 4,
+      "original": "Always I fear, I know not why,\nSome lamentable flight from thee.",
+      "provisionalTranslation": "なぜかわからないが、私はいつも恐れている——\nお前からの何らかの嘆かわしい逃走を。"
+    },
+    {
+      "id": 5,
+      "original": "I am so tired of holly-sprays\nAnd weary of the bright box-tree,",
+      "provisionalTranslation": "柊の枝にも飽き飽きし、\n輝く黄楊の木にも疲れ果てた。"
+    },
+    {
+      "id": 6,
+      "original": "Of all the endless country ways;\nOf everything alas! save thee.",
+      "provisionalTranslation": "果てしない田舎道にも。\nすべてのものに——ああ——お前以外は。"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "intertextual",
+      "anchor": "Around were all the roses red,\nThe ivy all around was black.",
+      "body": "ヴェルレーヌ原詩「Les roses étaient toutes rouges / Et les lierres étaient tout noirs（薔薇はすべて赤かった / 蔦はすべて黒かった）」の英訳。ダウスンは「around（あたりに）」を2行に繰り返して枠組みとし、原詩の二色対比（赤・黒）を完全に保持する。原詩が「Les roses（定冠詞複数）」で普遍的な薔薇として描くのに対し、ダウスンは「all the roses（すべての薔薇）」と「all」を明示——原詩の「toutes / tout」の全体性を別の語で補償する。",
+      "targetId": "verlaine_spleen",
+      "targetParagraphId": 1
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "Dear, so thou only move thine head,\nShall all mine old despairs awake!",
+      "body": "原詩「Chère, pour peu que tu te bouges / Renaissent tous mes désespoirs（愛しい人よ、お前がほんの少し動くだけで / すべての絶望が甦る）」の翻案。ダウスンは「tu te bouges（身体が動く）」を「move thine head（頭を動かす）」と身体部位を特定——より視覚的な具体性を加える。古形「thine（お前の）」「thou（お前）」の使用がヴェルレーヌの親密な「tu」の二人称を英語詩の伝統的親密形で再現する。"
+    },
+    {
+      "paragraphId": 3,
+      "type": "prosody",
+      "anchor": "Too blue, too tender was the sky,\nThe air too soft, too green the sea.",
+      "body": "原詩「Le ciel était trop bleu, trop tendre, / La mer trop verte et l'air trop doux」の翻案。原詩の「trop（あまりにも）」の音楽的反復を「Too blue, too tender / too soft, too green」として完全に保持。ダウスンは語順を変え（「The air too soft, too green the sea」で倒置）、英語のiambic tetrameter のリズムに乗せながら原詩の「trop」の執拗な反復を再現している。「tender（優しい）」は原詩の「tendre」の直訳——感覚語と感情語の境界を漂う語選択。"
+    },
+    {
+      "paragraphId": 4,
+      "type": "commentary",
+      "anchor": "Always I fear, I know not why,\nSome lamentable flight from thee.",
+      "body": "原詩「Je crains toujours, — ce qu'est d'attendre ! — / Quelque fuite atroce de vous」の翻案。原詩の挿入句「ce qu'est d'attendre !（待つとはこういうことだ！）」を「I know not why（なぜかわからないが）」に置き換え——ヴェルレーヌの「待機」の苦しみの明示をダウスンは「理由の不明さ」に変換する。「atroce（残酷な）」を「lamentable（嘆かわしい）」と翻案——強度をやや下げながら詩的調性を揃える。"
+    },
+    {
+      "paragraphId": 5,
+      "type": "glossary",
+      "anchor": "I am so tired of holly-sprays\nAnd weary of the bright box-tree,",
+      "body": "原詩「Du houx à la feuille vernie / Et du luisant buis je suis las（光沢のある葉の柊も / 輝く黄楊の木も、私は飽き飽きした）」の翻案。「holly-sprays（柊の枝）」と「box-tree（黄楊の木）」——どちらも常緑樹で、冬でも緑を保つことから「不変・永続」の象徴。その「不変のもの」への倦怠が、唯一例外の「thee（あなた）」との対比を準備する。原詩「las（飽き飽きした）」を「tired」と「weary」の2語で分担——倦怠の質感を広げる。"
+    },
+    {
+      "paragraphId": 6,
+      "type": "prosody",
+      "anchor": "Of everything alas! save thee.",
+      "body": "原詩最終行「Et de tout, fors de vous, hélas !（そしてすべてのものに——あなた以外は、ああ！）」のほぼ逐語訳。古語「save（〜を除いて）」が仏語「fors」に正確に対応——どちらも詩語的・古語的な除外の語。「alas !（ああ！）」が原詩の「hélas !」の直訳。詩行の末尾「thee」が最後の最後まで保留されることで、すべての倦怠の列挙の後にようやく「あなた」が例外として現れる——詩的サスペンスの完成。ダウスンのヴェルレーヌ翻案の中で最も精密な行。"
+    }
+  ]
+}
