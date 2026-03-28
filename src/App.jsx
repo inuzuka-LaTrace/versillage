@@ -1266,30 +1266,50 @@ export default function App() {
 
         {/* ─── テキスト未選択時：目次への誘導 ─── */}
         {!selectedText && (
-          <div className="flex flex-col items-center justify-center py-24 gap-5">
-            <p className={`text-xs tracking-[0.25em] uppercase font-sans ${
-              darkMode ? 'text-[#3a3228]' : 'text-stone-300'
-            }`}>vanité des vanités</p>
-            <p className={`font-serif text-base text-center leading-relaxed ${
-              darkMode ? 'text-[#6a5840]' : 'text-stone-400'
-            }`} style={{ fontFamily: '"EB Garamond", serif' }}>
-              目次からテキストを選んでください
-            </p>
-            <button
-              onClick={() => setShowToc(true)}
-              className={`flex items-center gap-2 px-5 py-2 text-sm font-sans border transition-colors ${
-                darkMode
-                  ? 'border-[#3a3228] text-[#8a7a5a] hover:border-[#8a7a50] hover:text-[#ddd0b3]'
-                  : 'border-stone-300 text-stone-400 hover:border-stone-500 hover:text-stone-700'
-              }`}
-              style={{ borderRadius: '2px', letterSpacing: '0.08em' }}
-            >
-              <List size={13} strokeWidth={1.6} />
-              目次を開く
-            </button>
-          </div>
-        )}
+  /* 1. 親要素：relative で背景を内包し、min-h で高さを確保、px-6 で左右余白を追加 */
+  <div className="relative flex flex-col items-center justify-center min-h-[70vh] px-6 py-24 overflow-hidden">
+    
+    {/* 2. 背景レイヤー：absolute で親要素いっぱいに広げ、z-0 で最背面に */}
+    <div className="absolute inset-0 z-0">
+      <img
+        /* 画像パス：public/images/ に配置したと想定 */
+        src="/images/vanitas_adriaen_van_utrecht.jpg"
+        /* object-cover と object-center で画面中央を切り取り、不透明度を 20% に */
+        className="w-full h-full object-cover object-center opacity-20 grayscale-[30%]"
+        alt="" 
+        aria-hidden="true" // スクリーンリーダーには無視させる
+      />
+      {/* 3. 暗くするためのオーバーレイ：背景色とブレンドさせる（透過あり） */}
+      <div className={`absolute inset-0 ${darkMode ? 'bg-zinc-950/80' : 'bg-stone-50/60'}`} />
+    </div>
 
+    {/* 4. コンテンツレイヤー：relative z-10 で絵画の前に完璧に重ねる */}
+    <div className="relative z-10 flex flex-col items-center justify-center gap-5 text-center">
+      <p className={`text-xs tracking-[0.25em] uppercase font-sans ${
+        darkMode ? 'text-[#3a3228]' : 'text-stone-300'
+      }`}>vanité des vanités</p>
+      
+      <p className={`font-serif text-base text-center leading-relaxed ${
+        darkMode ? 'text-[#6a5840]' : 'text-stone-400'
+      }`} style={{ fontFamily: '"EB Garamond", serif' }}>
+        目次からテキストを選んでください
+      </p>
+      
+      <button
+        onClick={() => setShowToc(true)}
+        className={`flex items-center gap-2 px-5 py-2 text-sm font-sans border transition-colors ${
+          darkMode
+            ? 'border-[#3a3228] text-[#8a7a5a] hover:border-[#8a7a50] hover:text-[#ddd0b3]'
+            : 'border-stone-300 text-stone-400 hover:border-stone-500 hover:text-stone-700'
+        }`}
+        style={{ borderRadius: '2px', letterSpacing: '0.08em' }}
+      >
+        <List size={13} strokeWidth={1.6} />
+        目次を開く
+      </button>
+    </div>
+  </div>
+)}
         {selectedText && (<>
         {/* ─── 現在のテキスト情報 ───────────────────── */}
         <div ref={textInfoRef} className={`rounded-xl border p-5 mb-4 ${cardBgClass}`}>
