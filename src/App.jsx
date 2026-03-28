@@ -1154,23 +1154,28 @@ export default function App() {
          <div>
   <label className={`text-xs font-semibold uppercase tracking-wider font-IBM Plex sans JP ${textSecondary} block mb-2.5`}>読み上げ速度</label>
   <div className="flex flex-col gap-1.5">
-    {/* Object.entries を使い、[key, value] のペアを正確に処理します */}
-    {Object.entries(SPEECH_RATES).map(([key, value]) => (
-      <button 
-        key={key} 
-        onClick={() => setSpeechRate(key)} // ここで正しいkeyを渡します
-        className={`py-2.5 px-3.5 text-xs rounded-lg text-left flex items-center justify-between font-IBM Plex sans JP transition-all
-          ${speechRate === key
-            ? darkMode ? 'bg-amber-700 text-amber-100 shadow-sm' : 'bg-stone-800 text-white shadow-sm'
-            : darkMode ? 'bg-zinc-800 text-zinc-300 hover:bg-zinc-700' : 'bg-stone-100 text-stone-600 hover:bg-stone-200'}`}
-      >
-        <span>{value.label}</span> 
-        {/* 右側に倍率を表示 */}
-        <span className="opacity-50 text-[10px]">
-          {key === 'fast' ? '1.25×' : key === 'slow' ? '0.65×' : '0.9×'}
-        </span>
-      </button>
-    ))}
+    {Object.entries(SPEECH_RATES).map(([key, value]) => {
+      /* 現在の選択状態 (speechRate) と、このボタンの key が一致するか判定 */
+      const isActive = speechRate === key;
+      
+      return (
+        <button 
+          key={key} 
+          onClick={() => setSpeechRate(key)}
+          className={`py-2.5 px-3.5 text-xs rounded-lg text-left flex items-center justify-between font-IBM Plex sans JP transition-all
+            ${isActive
+              ? darkMode ? 'bg-amber-700 text-amber-100 shadow-sm' : 'bg-stone-800 text-white shadow-sm'
+              : darkMode ? 'bg-zinc-800 text-zinc-300 hover:bg-zinc-700' : 'bg-stone-100 text-stone-600 hover:bg-stone-200'}`}
+        >
+          {/* value.label (標準、ゆっくり、など) を表示 */}
+          <span>{value.label}</span>
+          
+          <span className={`text-[10px] transition-opacity ${isActive ? 'opacity-80' : 'opacity-40'}`}>
+            {key === 'fast' ? '1.25×' : key === 'slow' ? '0.65×' : '0.9×'}
+          </span>
+        </button>
+      );
+    })}
   </div>
 </div>
           {/* 表示する内容（トグルスイッチ） */}
