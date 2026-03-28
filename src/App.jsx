@@ -1022,15 +1022,15 @@ if (loading) {
       )}
 
       {/* ─── サイドドロワー 本体 ──────────────────────────── */}
-      <div
-        ref={settingsRef}
-        className={`fixed top-0 right-0 h-full w-90 z-50 flex flex-col overflow-y-auto shadow-2xl
-        transition-transform duration-300 ease-in-out
-        ${showSettings ? 'translate-x-0' : 'translate-x-full'}
-        ${loading ? 'hidden' : 'flex'}  {/* ← これを追加：ロード中は物理的に消す */}
-        ${darkMode ? 'bg-zinc-900 border-l border-zinc-700' : 'bg-stone-50 border-l border-stone-200'}`}
+    <div
+      ref={settingsRef}
+      className={`fixed top-0 right-0 h-full w-90 z-50 flex flex-col overflow-y-auto shadow-2xl
+      /* ↓ 修正箇所：loading 中は transition を付与しない */
+      ${loading ? '' : 'transition-transform duration-300 ease-in-out'}
+      ${showSettings ? 'translate-x-0' : 'translate-x-full'}
+      ${loading ? 'hidden' : 'flex'}
+      ${darkMode ? 'bg-zinc-900 border-l border-zinc-700' : 'bg-stone-50 border-l border-stone-200'}`}
 >
-    
         <div className={`flex items-center justify-between px-5 py-4 border-b ${darkMode ? 'border-zinc-800' : 'border-stone-200'}`}>
           <h3 className={`text-sm font-semibold tracking-wide font-IBM Plex sans JP ${textClass}`}>表示設定</h3>
           <button
