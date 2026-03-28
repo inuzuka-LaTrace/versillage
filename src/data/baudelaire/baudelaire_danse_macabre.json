@@ -1,0 +1,165 @@
+{
+  "id": "baudelaire_danse_macabre",
+  "title": "Danse macabre",
+  "author": "Charles Baudelaire",
+  "source": "Les Fleurs du Mal, CXXI, «Tableaux parisiens», Michel Lévy Frères, Paris, 1868（第3版遺作）, pp.277–279. 底本: Wikisource, Les Fleurs du mal (1868)/Danse macabre（2025年4月27日版）.",
+  "year": "1861",
+  "firstPublication": "La Revue contemporaine, 15 novembre 1859（初出）; Les Fleurs du Mal, 2e édition, Poulet-Malassis, 1861, CXXI（単行本初収）",
+  "difficulty": "上級",
+  "category": "baudelaire",
+  "originalLang": "fr-FR",
+  "modernRelevance": "★★★★★",
+  "context": "『悪の花』第2版（1861）「パリの風景（Tableaux parisiens）」章CXXI番。彫刻家エルネスト・クリストフ（Ernest Christophe, 1827–1892）の骸骨彫刻「La Danse macabre」（1859年サロン出品）に触発された詩。中世以来の「死の舞踏（Danse macabre）」図像──骸骨が身分・性別を問わず人間を踊りに誘う──をボードレールは近代パリの社交舞踏会の場面として再想像する。\n\n骸骨の女性（la Mort擬人化）が花束・ハンカチ・手袋という社交的小道具を手に、華やかな夜会に参加する──詩の前半（§1–§4）は彼女の優雅な「コケット」ぶりを讃える。後半（§5–§11）では詩人が骸骨に語りかけ、なぜ宴に来たのかを問う。最終部（§12–§14）では骸骨が踊り子たちに反転して語りかける──「お前たちも皆、死の臭いがする！」という告発へ。セーヌ川の岸辺からガンジス川の岸辺まで「死すべき者たちの群れ」が跳び気絶する中、天使のトランペットが待ち受ける終末的パノラマで締め括られる。",
+  "keywords": [
+    "死の舞踏",
+    "Danse macabre",
+    "エルネスト・クリストフ",
+    "骸骨のコケット",
+    "パリの夜会",
+    "Antinoüs flétri",
+    "aspic insatiable",
+    "trompette de l'Ange",
+    "死すべき者の群れ",
+    "セーヌからガンジスへ"
+  ],
+  "relatedTexts": [
+    "baudelaire_une_charogne",
+    "baudelaire_horloge",
+    "baudelaire_litanies_satan",
+    "baudelaire_spleen",
+    "gautier_l_art"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "french": "Fière, autant qu'un vivant, de sa noble stature,\nAvec son gros bouquet, son mouchoir et ses gants,\nElle a la nonchalance et la désinvolture\nD'une coquette maigre aux airs extravagants.",
+      "provisionalTranslation": "生きている者に劣らず、自分の気高い体格を誇って、\n大きな花束と、ハンカチと、手袋を持って、\n彼女は物憂げで気取らない様子をしている──\n奇抜な風情の痩せたコケットのような。"
+    },
+    {
+      "id": 2,
+      "french": "Vit-on jamais au bal une taille plus mince ?\nSa robe exagérée, en sa royale ampleur,\nS'écroule abondamment sur un pied sec que pince\nUn soulier pomponné, joli comme une fleur.",
+      "provisionalTranslation": "舞踏会でこれほど細い腰を見たことがあるか？\n大げさなほどの、王者の豊かさを持つドレスが、\n豊かに崩れ落ちる──ポンポン飾りの靴に\n挟まれた乾いた足の上へ、花のように可愛らしい靴に。"
+    },
+    {
+      "id": 3,
+      "french": "La ruche qui se joue au bord des clavicules,\nComme un ruisseau lascif qui se frotte au rocher,\nDéfend pudiquement des lazzi ridicules\nLes funèbres appas qu'elle tient à cacher.",
+      "provisionalTranslation": "鎖骨の縁で揺れるフリルが、\n岩に擦れる淫らな小川のように、\n彼女が隠しておきたい不吉な魅力を\n慎み深く、愚かな野次から守っている。"
+    },
+    {
+      "id": 4,
+      "french": "Ses yeux profonds sont faits de vide et de ténèbres,\nEt son crâne, de fleurs artistement coiffé,\nOscille mollement sur ses frêles vertèbres.\n— Ô charme d'un néant follement attifé !",
+      "provisionalTranslation": "その深い目は虚空と暗闇で作られており、\nその頭蓋骨は、芸術的に花で飾られて、\n脆い脊椎の上に柔らかく揺れている。\n──おお、狂おしく着飾った虚無の魅力！"
+    },
+    {
+      "id": 5,
+      "french": "Aucuns t'appelleront une caricature,\nQui ne comprennent pas, amants ivres de chair,\nL'élégance sans nom de l'humaine armature.\nTu réponds, grand squelette, à mon goût le plus cher !",
+      "provisionalTranslation": "カリカチュアと呼ぶ者もいるだろう──\n肉に酔いしれた愛好家たちは理解しないから、\n人体の骨組みの名状しがたい優雅さを。\nお前は、偉大なる骸骨よ、私の最も愛する趣味に応える！"
+    },
+    {
+      "id": 6,
+      "french": "Viens-tu troubler, avec ta puissante grimace,\nLa fête de la Vie ? ou quelque vieux désir,\nÉperonnant encor ta vivante carcasse,\nTe pousse-t-il, crédule, au sabbat du Plaisir ?",
+      "provisionalTranslation": "お前は来たのか、その強烈な顔の歪みで、\n生の饗宴を乱しに？それとも何か古い欲望が、\n今なおお前の生きた骸骨に拍車をかけて、\n信じやすいお前を、快楽のサバトへと駆り立てるのか？"
+    },
+    {
+      "id": 7,
+      "french": "Au chant des violons, aux flammes des bougies,\nEspères-tu chasser ton cauchemar moqueur,\nEt viens-tu demander au torrent des orgies\nDe rafraîchir l'enfer allumé dans ton cœur ?",
+      "provisionalTranslation": "ヴァイオリンの歌声に、蝋燭の炎のもとで、\nお前はあの嘲るような悪夢を追い払えると期待するのか？\nそしてお前は、狂乱の奔流に求めに来るのか──\nお前の心に燃え上がった地獄を冷ましてくれるよう？"
+    },
+    {
+      "id": 8,
+      "french": "Inépuisable puits de sottise et de fautes !\nDe l'antique douleur éternel alambic !\nÀ travers le treillis recourbé de tes côtes\nJe vois, errant encor, l'insatiable aspic.",
+      "provisionalTranslation": "尽きせぬ愚かさと過ちの井戸よ！\n古来の苦悩の永遠の蒸留器よ！\n湾曲した肋骨の格子越しに\n私は見る──今なお彷徨う、飽くことを知らない毒蛇を。"
+    },
+    {
+      "id": 9,
+      "french": "Pour dire vrai, je crains que ta coquetterie\nNe trouve pas un prix digne de ses efforts ;\nQui, de ces cœurs mortels, entend la raillerie ?\nLes charmes de l'horreur n'enivrent que les forts !",
+      "provisionalTranslation": "正直に言えば、お前のコケットぶりが\nその努力に見合う報酬を見つけないのではないかと恐れる。\nこれらの死すべき心の誰が、その嘲りを聞くだろうか？\n恐怖の魅力に酔えるのは強者だけだ！"
+    },
+    {
+      "id": 10,
+      "french": "Le gouffre de tes yeux, plein d'horribles pensées,\nExhale le vertige, et les danseurs prudents\nNe contempleront pas sans d'amères nausées\nLe sourire éternel de tes trente-deux dents.",
+      "provisionalTranslation": "恐ろしい考えに満ちたお前の目の深淵は\n眩暈を吐き出す。慎重な踊り手たちは、\n苦い吐き気なしには直視できないだろう──\nお前の三十二本の歯の永遠の微笑みを。"
+    },
+    {
+      "id": 11,
+      "french": "Pourtant, qui n'a serré dans ses bras un squelette,\nEt qui ne s'est nourri des choses du tombeau ?\nQu'importe le parfum, l'habit ou la toilette ?\nQui fait le dégoûté montre qu'il se croit beau.",
+      "provisionalTranslation": "しかし、誰が骸骨を腕に抱きしめなかったことがあるか。\nそして誰が墓の事物を糧にしなかったことがあるか？\n香水も、衣装も、身繕いも何だというのか？\n嫌悪を気取る者は、自分が美しいと思っている証拠だ。"
+    },
+    {
+      "id": 12,
+      "french": "Bayadère sans nez, irrésistible gouge,\nDis donc à ces danseurs qui font les offusqués :\n« Fiers mignons, malgré l'art des poudres et du rouge,\nVous sentez tous la mort ! Ô squelettes musqués,",
+      "provisionalTranslation": "鼻のないバヤデール（インドの踊り子）よ、抗いがたい情婦よ、\nあの気分を害したふりをする踊り手たちに言え：\n「誇り高い連中よ、白粉と紅の技にもかかわらず、\nお前たちは皆、死の臭いがする！おお、麝香の骸骨たちよ、"
+    },
+    {
+      "id": 13,
+      "french": "Antinoüs flétris, dandys à face glabre,\nCadavres vernissés, lovelaces chenus,\nLe branle universel de la danse macabre\nVous entraîne en des lieux qui ne sont pas connus !",
+      "provisionalTranslation": "萎びたアンティノウスたち、すべすべした顔のダンディたち、\nニス塗りの死体たち、白髪になったロヴェレースたち、\n死の舞踏の普遍的な輪舞が\nお前たちを、まだ知られていない場所へと引きずり込む！"
+    },
+    {
+      "id": 14,
+      "french": "Des quais froids de la Seine aux bords brûlants du Gange,\nLe troupeau mortel saute et se pâme, sans voir\nDans un trou du plafond la trompette de l'Ange\nSinistrement béante ainsi qu'un tromblon noir.",
+      "provisionalTranslation": "セーヌ川の冷たい岸辺からガンジス川の灼熱の岸辺まで、\n死すべき者たちの群れは跳び、気絶する──天井の穴に\n不吉に大きく開いた、黒いトランペットのような\n天使のトランペットを見ようともせずに。"
+    },
+    {
+      "id": 15,
+      "french": "En tout climat, sous ton soleil, la Mort t'admire\nEn tes contorsions, risible Humanité,\nEt souvent, comme toi, se parfumant de myrrhe,\nMêle son ironie à ton insanité ! »",
+      "provisionalTranslation": "あらゆる気候の下で、お前の太陽の下で、死はお前を愛でる──\nその身悶えの中に、笑えない人類よ──\nそして死はしばしば、お前のように、没薬の香りをまとって、\nその皮肉をお前の狂気に混ぜ込む！」"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "Fière, autant qu'un vivant, de sa noble stature,\nAvec son gros bouquet, son mouchoir et ses gants,",
+      "body": "詩の誕生：彫刻家エルネスト・クリストフが1859年のサロンに「La Danse macabre」と題する骸骨像を出品──骸骨が仮面（人間の顔）を手に持ち踊る像。ボードレールはそれを観て「花束・ハンカチ・手袋」という社交的小道具を付け加え、近代パリの夜会に参加するコケットとして再想像した。「Fière, autant qu'un vivant（生きている者に劣らず誇って）」──骸骨が生者と同等に自己を誇示するというパラドックスが詩全体の基調。"
+    },
+    {
+      "paragraphId": 4,
+      "type": "prosody",
+      "anchor": "— Ô charme d'un néant follement attifé !",
+      "body": "4連目の締め括り行──ダッシュに続く感嘆句「Ô charme d'un néant follement attifé !（狂おしく着飾った虚無の魅力よ！）」が前3連の具体的な骸骨描写を一気に抽象化する。「néant（虚無）」はボードレール詩の核心語──「L'Horloge」では時間が命を「吸い尽くす」ことで示された虚無が、ここでは「着飾った（attifé）」という滑稽な形容詞によって逆説的に魅力化される。第1連から第4連が骸骨の「肖像画」として機能し、第5連以降に詩人の直接の語りかけが始まる構造的転換点。"
+    },
+    {
+      "paragraphId": 5,
+      "type": "commentary",
+      "anchor": "L'élégance sans nom de l'humaine armature.\nTu réponds, grand squelette, à mon goût le plus cher !",
+      "body": "「人体の骨組みの名状しがたい優雅さ（L'élégance sans nom de l'humaine armature）」──ボードレールの美学的逆説の核心。肉を剥ぎ取られた骨格にこそ真の形態的優雅さがあるという主張はゴーティエ「芸術（L'Art）」の「芸術ほど確実なものはない（Tout passe. — L'art robuste / Seul a l'éternité）」と通底する──肉体の腐敗に抵抗する骨格の恒久性。「mon goût le plus cher（私の最も愛する趣味）」という詩人の個人的な美的告白がここで初めて明示される。"
+    },
+    {
+      "paragraphId": 6,
+      "type": "commentary",
+      "anchor": "Éperonnant encor ta vivante carcasse,\nTe pousse-t-il, crédule, au sabbat du Plaisir ?",
+      "body": "「快楽のサバト（sabbat du Plaisir）」──魔女のサバト（悪魔の夜会）と社交舞踏会の二重の意味。「Éperonnant（拍車をかける）」という騎馬的動詞が骸骨を馬（乗り物）として定義する──欲望が骸骨に「乗って」快楽の場へ向かう逆説的イメージ。「crédule（信じやすい）」という形容が骸骨への皮肉──死後も快楽が存在すると信じて踊りに来たのかという問い。「L'Horloge」のSouviens-toi !と同様、時間・死・欲望の不可分性がここでも主題。"
+    },
+    {
+      "paragraphId": 8,
+      "type": "glossary",
+      "anchor": "À travers le treillis recourbé de tes côtes\nJe vois, errant encor, l'insatiable aspic.",
+      "body": "「湾曲した肋骨の格子越しに飽くことを知らない毒蛇（aspic）を見る」──aspic（クサリヘビ）はクレオパトラが自殺に用いた蛇として有名（シェイクスピア「アントニーとクレオパトラ」）。肋骨を「treillis recourbé（湾曲した格子）」と建築的に描写することで骸骨の胸腔を監獄の窓として提示する──その中で「不滅の欲望」（毒蛇）が今なお彷徨う。「Les Litanies de Satan」でサタンが人間の苦悩の「Guérisseur（癒し手）」として描かれたのに対し、ここでは欲望が死後も骸骨の内部で「errant（彷徨う）」──死による欲望の消滅の不可能性。"
+    },
+    {
+      "paragraphId": 10,
+      "type": "prosody",
+      "anchor": "Le sourire éternel de tes trente-deux dents.",
+      "body": "「三十二本の歯の永遠の微笑み（le sourire éternel de tes trente-deux dents）」──骸骨の歯列を「永遠の微笑み」として定義する。人間の社交的微笑みは一時的・変化するが、骸骨の「微笑み」は永遠に固定されている──ここに皮肉の核がある。「三十二本」という具体的数が抽象的な「永遠」と並置されることで、骸骨の超越性が日常的な身体の数学によって逆説的に強調される。「L'Horloge」の「3600秒」という数学的精密さと同じ詩的戦略。"
+    },
+    {
+      "paragraphId": 13,
+      "type": "glossary",
+      "anchor": "Antinoüs flétris, dandys à face glabre,\nCadavres vernissés, lovelaces chenus,",
+      "body": "4つの固有名詞的概念による社交界の解剖：「Antinoüs flétris（萎びたアンティノウス）」──ハドリアヌス帝の美少年愛人で理想的美男子の代名詞。「dandys à face glabre（すべすべした顔のダンディ）」──ボードレール自身が体現したダンディズムの自己批評。「Cadavres vernissés（ニス塗りの死体）」──化粧・礼儀作法で表面を磨かれた生きた死体。「lovelaces chenus（白髪になったロヴェレース）」──リチャードソン小説の色男の老いた姿。すべて生きていながら死んでいる存在として告発される。"
+    },
+    {
+      "paragraphId": 14,
+      "type": "commentary",
+      "anchor": "Des quais froids de la Seine aux bords brûlants du Gange,\nLe troupeau mortel saute et se pâme, sans voir\nDans un trou du plafond la trompette de l'Ange\nSinistrement béante ainsi qu'un tromblon noir.",
+      "body": "詩の地理的・終末論的クライマックス──「セーヌ川の冷たい岸辺からガンジス川の灼熱の岸辺まで」という全地球的パノラマが展開する。「troupeau mortel（死すべき者たちの群れ）」の動詞「saute et se pâme（跳び気絶する）」が踊りの痙攣的運動を描く。「trompette de l'Ange（天使のトランペット）」は黙示録の最後の審判のラッパ──それが「trou du plafond（天井の穴）」から「sinistrement béante（不吉に大きく開いた）」「tromblon noir（黒いトランペット）のように」降りてくる。舞踏会の天井に死の宣告が潜む終末的イメージ。"
+    },
+    {
+      "paragraphId": 15,
+      "type": "commentary",
+      "anchor": "Et souvent, comme toi, se parfumant de myrrhe,\nMêle son ironie à ton insanité !",
+      "body": "詩の哲学的結末──骸骨の台詞が閉じた後、死（la Mort）自身が没薬（myrrhe）の香りをまとって人類の狂気に皮肉を「混ぜ込む（mêle）」と述べる。「myrrhe（没薬）」はキリストの降誕・埋葬双方に用いられた香料──死と誕生の両極を体現する。「risible Humanité（笑えない人類）」という呼格が詩全体の告発対象を一語に集約する。死が人類の「insanité（狂気）」を外側から冷淡に観察し皮肉を込めて参加するという最終イメージは、「Les Litanies de Satan」の「Père adoptif（養父）」像とは逆向きの、傍観者としての死の姿。"
+    }
+  ]
+}
