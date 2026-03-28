@@ -1307,6 +1307,14 @@ export default function App() {
         <List size={13} strokeWidth={1.6} />
         目次を開く
       </button>
+    <div 
+        className={`mt-16 text-[9px] opacity-25 ${
+          darkMode ? 'text-zinc-500' : 'text-stone-400'
+        }`}
+        style={{ fontFamily: 'Cinzel, serif', letterSpacing: '0.05em' }}
+      >
+        Adriaen van Utrecht, "Stilleven met boeket en schedel", 1642
+      </div>
     </div>
   </div>
 )}
