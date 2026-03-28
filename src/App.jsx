@@ -2110,8 +2110,8 @@ const TocDrawer = ({
         const src   = orig.includes(q) ? getOriginalText(p) : trans.includes(q) ? getTranslation(p) : null;
         if (!src) continue;
         const idx = src.toLowerCase().indexOf(q);
-        const start = Math.max(0, idx - 15);
-        const end   = Math.min(src.length, idx + q.length + 25);
+        const start = Math.max(0, idx - 25);
+        const end   = Math.min(src.length, idx + q.length + 30);
         return {
           pre:   (start > 0 ? '…' : '') + src.slice(start, idx),
           match: src.slice(idx, idx + q.length),
