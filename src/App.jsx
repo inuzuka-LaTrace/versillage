@@ -1308,8 +1308,8 @@ export default function App() {
         目次を開く
       </button>
     <div 
-  className={`mt-16 text-[9px] opacity-40 ${ // 25 -> 40
-    darkMode ? 'text-zinc-400' : 'text-stone-500' // より明るい zinc-400 / stone-500 へ
+  className={`mt-20 text-[9px] opacity-35 ${ // 25 -> 35
+darkMode ? 'text-[#8a7a5a]' : 'text-stone-500' // 金褐色 #8a7a5a を指定
   }`}
   style={{ fontFamily: 'Cinzel, serif', letterSpacing: '0.05em' }}
 >
