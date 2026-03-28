@@ -88,8 +88,13 @@
     },
     {
       "id": 14,
-      "originalText": "Ainsi s'éclaircissait à moi-même le conflit qui était sans doute en puissance dans ma nature, entre un penchant pour la poésie, et le besoin bizarre de satisfaire à l'ensemble des exigences de mon esprit. J'ai essayé de préserver l'un et l'autre.\nJe vous le disais tout à l'heure, mon cher Royère, que je ne pourrais penser à Mallarmé sans égotisme. Il faut donc que j'arrête ici ce mélange de réflexions et de souvenirs. Peut-être eût-il été de quelque intérêt de poursuivre, dans le détail et la profondeur, l'analyse d'un cas particulier d'influence, de faire voir les effets directs et contraires d'une certaine œuvre sur un certain esprit, et comment l'extrême d'une tendance est répondue par l'extrême d'une autre.",
-      "provisionalTranslation": "このようにして私には、おそらく私の本性の中に潜在していた葛藤──詩への傾倒と、精神のすべての要求の全体を満たすという奇妙な必要性との間の──が明らかになっていきました。私は両者を守ろうとしました。\n親愛なるロワイエールよ、マラルメについて考えることなしには自我主義なしには考えられないと先ほど申し上げました。ゆえに私はここでこの省察と思い出の混合を止めなければなりません。ある特定の影響の事例の分析を、ある作品があるある精神に及ぼした直接的かつ逆説的な効果を、そしてある傾向の極致がいかに別の傾向の極致で応答されるかを、詳細と深さにおいて追求することは、何らかの興味があったかもしれません。"
+      "originalText": "Ainsi s'éclaircissait à moi-même le conflit qui était sans doute en puissance dans ma nature, entre un penchant pour la poésie, et le besoin bizarre de satisfaire à l'ensemble des exigences de mon esprit. J'ai essayé de préserver l'un et l'autre.",
+      "provisionalTranslation": "このようにして私には、おそらく私の本性の中に潜在していた葛藤──詩への傾倒と、精神のすべての要求の全体を満たすという奇妙な必要性との間の──が明らかになっていきました。私は両者を守ろうとしました。"    
+    },
+    {
+      "id": 15,
+      "originalText": "Je vous le disais tout à l'heure, mon cher Royère, que je ne pourrais penser à Mallarmé sans égotisme. Il faut donc que j'arrête ici ce mélange de réflexions et de souvenirs. Peut-être eût-il été de quelque intérêt de poursuivre, dans le détail et la profondeur, l'analyse d'un cas particulier d'influence, de faire voir les effets directs et contraires d'une certaine œuvre sur un certain esprit, et comment l'extrême d'une tendance est répondue par l'extrême d'une autre.",
+      "provisionalTranslation": "親愛なるロワイエールよ、マラルメについて考えることなしには自我主義なしには考えられないと先ほど申し上げました。ゆえに私はここでこの省察と思い出の混合を止めなければなりません。ある特定の影響の事例の分析を、ある作品がある精神に及ぼした直接的かつ逆説的な効果を、そしてある傾向の極致がいかに別の傾向の極致で応答されるかを、詳細と深さにおいて追求することは、何らかの興味があったかもしれません。"
     }
   ],
   "annotations": [
@@ -172,7 +177,7 @@
       "body": "「文学の価値と力の極限観念あるいは総和観念（une idée-limite, ou une idée-somme de leur valeur et de leurs pouvoirs）」──ヴァレリーがマラルメに投影した「文学の最大値」の概念。「idée-limite（極限観念）」：数学的「極限（limite）」の比喩──マラルメは文学が漸近的に接近しうる「極限値」。「idée-somme（総和観念）」：文学のすべての可能性の「総合」。「Caligula」への言及：ローマ皇帝カリグラが「一人の首を切れば全人類を殺せる」と嘆いたのに対し、ヴァレリーは「一つの頭（マラルメ）に文学のすべての問いが凝縮されている」と言う──逆の意味の完成。「すべての可能な作品の原理を構想し観想するまで高まった（s'élever à concevoir et à contempler un principe de toutes les œuvres possibles）」──「詩作の原理（principe）」への志向：マラルメをヴァレリーは詩人ではなく「詩学の建築家」として描く。"
     },
     {
-      "paragraphId": 14,
+      "paragraphId": 15,
       "type": "commentary",
       "anchor": "comment l'extrême d'une tendance est répondue par l'extrême d'une autre",
       "body": "「ある傾向の極致がいかに別の傾向の極致で応答されるか（comment l'extrême d'une tendance est répondue par l'extrême d'une autre）」──「Lettre sur Mallarmé」全体の自己解釈的結論。ヴァレリー→マラルメの影響の逆説的構造：マラルメの「詩を至高の目的とする専制主義（absolutisme）」の極致が、ヴァレリーの「詩作よりも制作意識を重視する」という逆の極致を生んだ。「Le contraire naît du contraire（§3）」の自己への適用：マラルメへの影響を受けたヴァレリーは、マラルメの反対者として自らを形成した──詩を「書く」よりも詩作の「方法を分析する」詩人。「沈黙の20年」の批評的説明：マラルメを超えることが不可能なら、詩を「作る」のではなく詩作の「原理を探求する」──この転換がヴァレリーを詩人から思想家・批評家として形成した。しかし最終的に「Charmes」を書いたことで「詩への傾倒（penchant pour la poésie）と精神の要求の全体を満たす必要性（besoin de satisfaire à l'ensemble des exigences de mon esprit）」という葛藤を「両方を守ろうとした（J'ai essayé de préserver l'un et l'autre）」ことで解決した。"
