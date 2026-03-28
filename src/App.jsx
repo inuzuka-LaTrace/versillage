@@ -2110,8 +2110,8 @@ const TocDrawer = ({
         const src   = orig.includes(q) ? getOriginalText(p) : trans.includes(q) ? getTranslation(p) : null;
         if (!src) continue;
         const idx = src.toLowerCase().indexOf(q);
-        const start = Math.max(0, idx - 25);
-        const end   = Math.min(src.length, idx + q.length + 30);
+        const start = Math.max(0, idx - 20);
+        const end   = Math.min(src.length, idx + q.length + 20);
         return {
           pre:   (start > 0 ? '…' : '') + src.slice(start, idx),
           match: src.slice(idx, idx + q.length),
@@ -2179,7 +2179,7 @@ const TocDrawer = ({
             transition-transform duration-300 ease-in-out
             ${showToc ? 'translate-x-0' : '-translate-x-full'}
             ${tocBg} border-r ${tocBorder}`}
-          style={{ width: '300px', fontFamily: '"EB Garamond", "Shippori Mincho B1", serif' }}
+          style={{ width: '320px', fontFamily: '"EB Garamond", "Shippori Mincho B1", serif' }}
         >
           {/* ── ヘッダー ── */}
           <div className={`flex items-center justify-between px-4 py-3 border-b ${tocBorder} shrink-0 ${tocHeaderBg}`}>
