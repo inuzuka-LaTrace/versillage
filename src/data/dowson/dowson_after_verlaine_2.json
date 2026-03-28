@@ -38,7 +38,7 @@
     {
       "id": 2,
       "original": "Lo, are their lips fallen and their eyes dead,\nHardly shall a man hear the words they said.",
-      "provisionalTranslation": "見よ、彼らの唇は萎れ、瞳は死んでいる——\n人の耳には、彼らが言った言葉はほとんど届かない。"
+      "provisionalTranslation": "見よ、彼らの唇は萎れ、瞳は死んでいる──\n人の耳には、彼らが言った言葉はほとんど届かない。"
     },
     {
       "id": 3,
@@ -48,22 +48,22 @@
     {
       "id": 4,
       "original": "\"Dost thou remember our old ecstasy?\"—\n\"Wherefore should I possess that memory?\"—",
-      "provisionalTranslation": "「あの頃の恍惚を覚えているか？」——\n「なぜ私がその記憶を持つべきなのか？」——"
+      "provisionalTranslation": "「あの頃の恍惚を覚えているか？」──\n「なぜ私がその記憶を持つべきなのか？」──"
     },
     {
       "id": 5,
       "original": "\"Doth thine heart beat at my sole name alway?\nStill dost thou see my soul in visions?\"  \"Nay!\"—",
-      "provisionalTranslation": "「私の名だけで、お前の心はいつも鼓動するか？\nまだ幻の中で私の魂が見えるか？」　「いや！」——"
+      "provisionalTranslation": "「私の名だけで、お前の心はいつも鼓動するか？\nまだ幻の中で私の魂が見えるか？」　「いや！」──"
     },
     {
       "id": 6,
       "original": "\"They were fair days of joy unspeakable,\nWhereon our lips were joined?\"—\"I cannot tell.\"—",
-      "provisionalTranslation": "「あれは言いようのない喜びの美しい日々だった、\n私たちの唇が重なったあの日々は？」——「わからない。」——"
+      "provisionalTranslation": "「あれは言いようのない喜びの美しい日々だった、\n私たちの唇が重なったあの日々は？」──「わからない。」──"
     },
     {
       "id": 7,
       "original": "\"Were not the heavens blue, was not hope high?\"—\n\"Hope has fled vanquished down the darkling sky.\"—",
-      "provisionalTranslation": "「空は青くなかったか、希望は高くなかったか？」——\n「希望は暗くなる空に敗れて逃げ去った。」——"
+      "provisionalTranslation": "「空は青くなかったか、希望は高くなかったか？」──\n「希望は暗くなる空に敗れて逃げ去った。」──"
     },
     {
       "id": 8,
@@ -76,7 +76,7 @@
       "paragraphId": 1,
       "type": "intertextual",
       "anchor": "Into the lonely park all frozen fast,\nAwhile ago there were two forms who passed.",
-      "body": "ヴェルレーヌ原詩冒頭「Dans le vieux parc solitaire et glacé, / Deux formes ont tout à l'heure passé.（古い孤独な凍った公園に、しばし前、二つの形が通り過ぎた）」の英訳。ダウスンは「vieux（古い）」を省略し「lonely（寂しい）」を選択——英語の音調優先。「all frozen fast」という副詞句の位置が英語の語順で自然に後置される。ダウスンの翻案の特徴：原詩のalexandrinをiambic pentameter coupletに移植しながら、意味内容の損失を最小化している。",
+      "body": "ヴェルレーヌ原詩冒頭「Dans le vieux parc solitaire et glacé, / Deux formes ont tout à l'heure passé.（古い孤独な凍った公園に、しばし前、二つの形が通り過ぎた）」の英訳。ダウスンは「vieux（古い）」を省略し「lonely（寂しい）」を選択──英語の音調優先。「all frozen fast」という副詞句の位置が英語の語順で自然に後置される。ダウスンの翻案の特徴：原詩のalexandrinをiambic pentameter coupletに移植しながら、意味内容の損失を最小化している。",
       "targetId": "verlaine_colloque_sentimental",
       "targetParagraphId": 1
     },
@@ -84,7 +84,7 @@
       "paragraphId": 3,
       "type": "prosody",
       "anchor": "Into the lonely park, all frozen fast,\nThere came two shadows who recall the past.",
-      "body": "第1連「two forms who passed（通り過ぎた二つの形）」から第3連「two shadows who recall the past（過去を思い起こす二つの影）」への変奏——「forms（形）」から「shadows（影）」への移行が幽霊化の進行を示す。第1連は語り手が過去を回想する視点、第3連は現在の幽霊的存在として対話が始まる直前の再設定。ヴェルレーヌ原詩でも同じ構造：§1（過去）→§3（現在の影として再登場）。",
+      "body": "第1連「two forms who passed（通り過ぎた二つの形）」から第3連「two shadows who recall the past（過去を思い起こす二つの影）」への変奏──「forms（形）」から「shadows（影）」への移行が幽霊化の進行を示す。第1連は語り手が過去を回想する視点、第3連は現在の幽霊的存在として対話が始まる直前の再設定。ヴェルレーヌ原詩でも同じ構造：§1（過去）→§3（現在の影として再登場）。",
       "targetId": "verlaine_colloque_sentimental",
       "targetParagraphId": 3
     },
@@ -92,25 +92,25 @@
       "paragraphId": 4,
       "type": "commentary",
       "anchor": "\"Wherefore should I possess that memory?\"—",
-      "body": "ヴェルレーヌ原詩「— Pourquoi voulez-vous donc qu'il m'en souvienne?（なぜあなたはそれを私に覚えていてほしいのですか？）」の英訳。「Wherefore should I possess（なぜ私がその記憶を持つべきなのか）」という所有（possess）の語選択がダウスン独自——記憶を財産・所持品として捉える認識論的比喩。愛の記憶の非対称性：一方は「ecstasy（恍惚）」として保持し、他方は所有する理由さえ見出せない。"
+      "body": "ヴェルレーヌ原詩「— Pourquoi voulez-vous donc qu'il m'en souvienne?（なぜあなたはそれを私に覚えていてほしいのですか？）」の英訳。「Wherefore should I possess（なぜ私がその記憶を持つべきなのか）」という所有（possess）の語選択がダウスン独自──記憶を財産・所持品として捉える認識論的比喩。愛の記憶の非対称性：一方は「ecstasy（恍惚）」として保持し、他方は所有する理由さえ見出せない。"
     },
     {
       "paragraphId": 5,
       "type": "commentary",
       "anchor": "\"Nay!\"—",
-      "body": "ヴェルレーヌ原詩「— Non.（いいえ。）」の英訳。原詩の単音節「Non」をダウスンは「Nay!」と感嘆符付きで訳す——原詩の乾いた拒絶に感情的強度を加える微細な変更。詩行の末尾に置かれた単語の孤立が、拒絶の断固さを空白によって強調する。ダウスンは他の詩（「Venite Descendamus」等）でも短い締め括り行・語の落下効果を多用する——この「Nay!」はその最小形。"
+      "body": "ヴェルレーヌ原詩「— Non.（いいえ。）」の英訳。原詩の単音節「Non」をダウスンは「Nay!」と感嘆符付きで訳す──原詩の乾いた拒絶に感情的強度を加える微細な変更。詩行の末尾に置かれた単語の孤立が、拒絶の断固さを空白によって強調する。ダウスンは他の詩（「Venite Descendamus」等）でも短い締め括り行・語の落下効果を多用する──この「Nay!」はその最小形。"
     },
     {
       "paragraphId": 7,
       "type": "commentary",
       "anchor": "\"Hope has fled vanquished down the darkling sky.\"—",
-      "body": "ヴェルレーヌ原詩「— L'espoir a fui, vaincu, vers le ciel noir.（希望は暗い空へ向かって、敗れて逃げ去った）」の英訳。「darkling（暗くなりゆく）」はミルトン『失楽園』・キーツ「ナイチンゲールへのオード」等に現れる詩語——ダウスンが意図的に選んだ文学的語彙。「vanquished（敗れた）」という擬人化が希望を戦士として描く。この行だけが対話中で唯一「記憶を持たない者」が詩的な言語で答える——拒絶しながら詩人である矛盾。"
+      "body": "ヴェルレーヌ原詩「— L'espoir a fui, vaincu, vers le ciel noir.（希望は暗い空へ向かって、敗れて逃げ去った）」の英訳。「darkling（暗くなりゆく）」はミルトン『失楽園』・キーツ「ナイチンゲールへのオード」等に現れる詩語──ダウスンが意図的に選んだ文学的語彙。「vanquished（敗れた）」という擬人化が希望を戦士として描く。この行だけが対話中で唯一「記憶を持たない者」が詩的な言語で答える──拒絶しながら詩人である矛盾。"
     },
     {
       "paragraphId": 8,
       "type": "prosody",
       "anchor": "And the night only heard the words they said.",
-      "body": "第2連「Hardly shall a man hear the words they said（人の耳にはほとんど届かない）」から第8連「And the night only heard the words they said（夜だけが彼らの言葉を聞いた）」への反復と完結——「man（人間）」の耳に届かず「night（夜）」だけが聴衆となる。ヴェルレーヌ原詩末行「Et la nuit seule entendit leurs paroles.（そして夜だけが彼らの言葉を聞いた）」のほぼ逐語訳。詩全体のフレームを形成する第1・2連と第8連の照応が詩を閉じる。「夜だけが聴衆」——人間の共感も記憶も届かない場所での言葉の消滅。"
+      "body": "第2連「Hardly shall a man hear the words they said（人の耳にはほとんど届かない）」から第8連「And the night only heard the words they said（夜だけが彼らの言葉を聞いた）」への反復と完結──「man（人間）」の耳に届かず「night（夜）」だけが聴衆となる。ヴェルレーヌ原詩末行「Et la nuit seule entendit leurs paroles.（そして夜だけが彼らの言葉を聞いた）」のほぼ逐語訳。詩全体のフレームを形成する第1・2連と第8連の照応が詩を閉じる。「夜だけが聴衆」──人間の共感も記憶も届かない場所での言葉の消滅。"
     }
   ]
 }
