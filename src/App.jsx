@@ -882,74 +882,50 @@ export default function App() {
 
 if (loading) {
   return (
-    <div className={`min-h-screen bg-black overflow-hidden flex items-center justify-center relative font-sans transition-colors duration-700 ${
-      darkMode ? 'bg-zinc-950' : 'bg-stone-100'
-    }`}>
-      {/* 1. 背景：モローの『ユピテルとセメレ』（彩度とコントラストを調整） */}
-      <div className="absolute inset-0 z-0 overflow-hidden pointer-events-none">
+    <div className="fixed inset-0 z-[100] bg-zinc-950 flex items-center justify-center overflow-hidden">
+      {/* 1. 背景：読み込み中も「黒」を維持し、画像はふわっと出す */}
+      <div className="absolute inset-0 z-0 animate-in fade-in duration-1000">
         <img
           src="/images/moreau_jupiter.jpg"
-          /* grayscale と contrast で、ビネット効果を際立たせ、opacity を 15% に沈める */
-          className="w-full h-full object-cover object-center opacity-15 grayscale contrast-125 saturate-50"
-          alt="" 
-          aria-hidden="true" 
+          className="w-full h-full object-cover opacity-20 grayscale contrast-125 saturate-50"
+          alt=""
+          onLoad={(e) => e.currentTarget.classList.add('opacity-20')} // 読み込み完了後に表示
         />
-        
-        {/* オーバーレイとビネット（疑似要素で実装） */}
-        <div className={`absolute inset-0 ${
-          darkMode 
-            ? 'bg-[radial-gradient(circle_at_center,transparent_0%,rgba(9,9,11,0.85)_100%)]' // ジンクの闇
-            : 'bg-[radial-gradient(circle_at_center,transparent_0%,rgba(245,245,244,0.7)_100%)]' // 石の光
-        }`} />
+        <div className="absolute inset-0 bg-[radial-gradient(circle_at_center,transparent_0%,rgba(9,9,11,0.9)_100%)]" />
       </div>
 
-      {/* 2. マラルメ的要素の再構築：言葉を「星座」として不動の配置に */}
-      <div className="relative z-10 w-full max-w-4xl h-[60vh] flex flex-col items-center justify-center">
-        <div className="relative w-full h-full">
-          {/* ↓ 修正点：animate- を削除し、opacity-100（最初から表示）に */}
+      {/* 2. マラルメの星座：配置を固定し、一瞬でも目に留まるように調整 */}
+      <div className="relative z-10 w-full max-w-4xl h-[60vh] flex flex-col items-center justify-center select-none">
+        <div className="relative w-full h-full font-serif" style={{ fontFamily: 'Cinzel, serif' }}>
           
-          <span className={`absolute top-[15%] left-[10%] text-xl tracking-[0.3em] font-serif italic transition-colors duration-1000 opacity-100 ${
-            darkMode ? 'text-amber-200/40' : 'text-stone-800/40'
-          }`} style={{ fontFamily: 'Cinzel, serif' }}>
+          <span className="absolute top-[15%] left-[10%] text-lg tracking-[0.3em] italic text-amber-200/40">
             UN COUP DE DÉS
           </span>
 
-          <span className={`absolute top-[45%] right-[15%] text-4xl font-bold tracking-widest transition-colors duration-1000 opacity-100 ${
-            darkMode ? 'text-stone-100/60' : 'text-stone-900/60'
-          }`} style={{ fontFamily: 'Cinzel, serif' }}>
+          <span className="absolute top-[45%] right-[15%] text-4xl font-bold tracking-widest text-zinc-100/60">
             JAMAIS
           </span>
 
-          {/* 中央：アプリタイトル。ここが視線の終着点 */}
+          {/* 中央：VANITISME（ここが最前面） */}
           <div className="absolute inset-0 flex flex-col items-center justify-center gap-6">
-            <h1
-              style={{ fontFamily: "Cinzel, serif", letterSpacing: '0.2em' }}
-              className={`text-2xl font-bold transition-colors duration-1000 ${
-                darkMode ? 'text-amber-200' : 'text-stone-900'
-              }`}
-            >
+            <h1 className="text-2xl font-bold tracking-[0.2em] text-amber-200">
               VANITISME
             </h1>
-            {/* プログレスバー：細く、長く */}
-            <div className={`w-32 h-[1px] relative overflow-hidden ${
-              darkMode ? 'bg-zinc-800' : 'bg-stone-200'
-            }`}>
-              <div className={`absolute inset-0 bg-amber-700/60 animate-progress`} />
+            <div className="w-32 h-[1px] bg-zinc-800 overflow-hidden">
+              <div className="h-full bg-amber-700/60 animate-progress" />
             </div>
           </div>
 
-          <span className={`absolute bottom-[20%] left-[15%] text-2xl font-light tracking-[0.5em] transition-colors duration-1000 opacity-100 ${
-            darkMode ? 'text-stone-400/30' : 'text-stone-500/30'
-          }`} style={{ fontFamily: 'Cinzel, serif' }}>
+          <span className="absolute bottom-[20%] left-[15%] text-2xl font-light tracking-[0.5em] text-zinc-400/30">
             LE HASARD
           </span>
         </div>
       </div>
 
-      {/* 3. 垂直線の継承：ゴダール風から「本のノド」の意匠へ（配置を調整） */}
-      <div className={`absolute inset-0 flex justify-between px-10 md:px-20 opacity-10 pointer-events-none`}>
-        <div className={`w-[1px] h-full ${darkMode ? 'bg-zinc-700' : 'bg-stone-300'}`}></div>
-        <div className={`w-[1px] h-full ${darkMode ? 'bg-zinc-700' : 'bg-stone-300'}`}></div>
+      {/* 3. 左右の垂直線（ゴダール/本の意匠） */}
+      <div className="absolute inset-0 flex justify-between px-10 md:px-20 opacity-10 pointer-events-none">
+        <div className="w-[1px] h-full bg-zinc-700"></div>
+        <div className="w-[1px] h-full bg-zinc-700"></div>
       </div>
     </div>
   );
