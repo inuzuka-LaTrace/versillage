@@ -1320,7 +1320,7 @@ if (loading) {
       
       <button
         onClick={() => setShowToc(true)}
-        className={`flex items-center gap-2 px-5 py-2 text-sm font-sans border transition-colors ${
+        className={`flex items-center gap-2 px-5 py-2 text-sm font-Shippori Mincho B1 border transition-colors ${
           darkMode
             ? 'border-[#3a3228] text-[#8a7a5a] hover:border-[#8a7a50] hover:text-[#ddd0b3]'
             : 'border-stone-300 text-stone-400 hover:border-stone-500 hover:text-stone-700'
@@ -2230,11 +2230,11 @@ const TocDrawer = ({
             transition-transform duration-300 ease-in-out
             ${showToc ? 'translate-x-0' : '-translate-x-full'}
             ${tocBg} border-r ${tocBorder}`}
-          style={{ width: '320px', fontFamily: '"EB Garamond", "Shippori Mincho B1", serif' }}
+          style={{ width: '340px', fontFamily: '"EB Garamond", "Shippori Mincho B1", serif' }}
         >
           {/* ── ヘッダー ── */}
           <div className={`flex items-center justify-between px-4 py-3 border-b ${tocBorder} shrink-0 ${tocHeaderBg}`}>
-            <span className={`text-xs tracking-[0.2em] uppercase font-sans ${tocDim}`}>目次</span>
+            <span className={`text-xs tracking-[0.2em] uppercase font-Shippori Mincho B1 ${tocDim}`}>目次</span>
             <button
               onClick={() => setShowToc(false)}
               className={`w-6 h-6 flex items-center justify-center ${tocSub} hover:opacity-70 transition-opacity`}
