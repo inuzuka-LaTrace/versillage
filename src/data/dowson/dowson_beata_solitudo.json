@@ -1,0 +1,97 @@
+{
+  "id": "dowson_beata_solitudo",
+  "title": "Beata Solitudo",
+  "author": "Ernest Dowson",
+  "source": "Verses, Leonard Smithers, London, 1896. テキスト底本: 所蔵本画像（upload.wikimedia.org）, pp.45–46.",
+  "year": "1896",
+  "firstPublication": "Verses, Leonard Smithers, London, 1896",
+  "difficulty": "初級",
+  "category": "dowson",
+  "originalLang": "en-GB",
+  "modernRelevance": "★★★★",
+  "context": "ダウスンの詩集『Verses』（1896）所収。タイトル「Beata Solitudo」はラテン語「祝福された孤独」──ベルナルドゥス・クレルヴォーの格言「O beata solitudo, o sola beatitudo（ああ祝福された孤独、ああ唯一の至福）」に由来する。6連×5行の対称的形式で、第1連の問い「Is yours and mine?（お前と私のものか？）」が第6連の宣言「Be yours and mine!（お前と私のものであれ！）」に転換される──疑念から確信への、問いから祈願への詩的運動。「沈黙の国（land of Silence）」は人類の声が届かず、世界の名誉も労苦も忘れられ、眠れる神々の夢と等しく深い夢を見られる場所として描かれる。「Venite Descendamus」の下降・「A Last Word」の出発と同じ衝動が、ここでは牧歌的な二人称の空間──「yours and mine」──として詩化される。",
+  "keywords": [
+    "Beata Solitudo",
+    "祝福された孤独",
+    "ベルナルドゥス",
+    "沈黙の国",
+    "pale stars",
+    "apple-blossom",
+    "眠れる神々",
+    "疑問から確信へ",
+    "二人称の楽土",
+    "Verses 1896"
+  ],
+  "relatedTexts": [
+    "dowson_venite_descendamus",
+    "dowson_a_last_word",
+    "dowson_a_requiem",
+    "dowson_vanitas",
+    "verlaine_clair_de_lune",
+    "rossetti_remember"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "original": "What land of Silence,\n  Where pale stars shine\nOn apple-blossom\n  And dew-drenched vine,\n  Is yours and mine?",
+      "provisionalTranslation": "どんな沈黙の国に、\n　青白い星が輝くのか\n林檎の花の上に\n　露に濡れた葡萄の蔓の上に──\n　それはお前と私のものか？"
+    },
+    {
+      "id": 2,
+      "original": "The silent valley\n  That we will find,\nWhere all the voices\n  Of humankind\n  Are left behind.",
+      "provisionalTranslation": "私たちが見つけるだろう\n　静寂の谷──\nそこでは人類の\n　すべての声が\n　後ろに残される。"
+    },
+    {
+      "id": 3,
+      "original": "There all forgetting,\n  Forgotten quite,\nWe will repose us,\n  With our delight\n  Hid out of sight.",
+      "provisionalTranslation": "そこですべてを忘れて、\n　すっかり忘れられて、\n私たちは憩うだろう、\n　私たちの喜びを\n　人目から隠して。"
+    },
+    {
+      "id": 4,
+      "original": "The world forsaken,\n  And out of mind\nHonour and labour,\n  We shall not find\n  The stars unkind.",
+      "provisionalTranslation": "世界を捨てて、\n　名誉も労苦も\n心の外に置いて、\n　私たちは星を\n　冷たいとは思わないだろう。"
+    },
+    {
+      "id": 5,
+      "original": "And men shall travail,\n  And laugh and weep;\nBut we have vistas\n  Of gods asleep,\n  With dreams as deep.",
+      "provisionalTranslation": "人々は苦労し、\n　笑い泣くだろう。\nしかし私たちには見える──\n　眠れる神々の眺望が、\n　同じくらい深い夢とともに。"
+    },
+    {
+      "id": 6,
+      "original": "A land of Silence,\n  Where pale stars shine\nOn apple-blossoms\n  And dew-drenched vine,\n  Be yours and mine!",
+      "provisionalTranslation": "沈黙の国、\n　青白い星が輝く、\n林檎の花の上に\n　露に濡れた葡萄の蔓の上に──\n　それがお前と私のものであれ！"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "glossary",
+      "anchor": "Beata Solitudo",
+      "body": "ラテン語「祝福された孤独」。中世神秘主義者ベルナルドゥス・クレルヴォー（1090–1153）に帰せられる格言「O beata solitudo, o sola beatitudo（ああ祝福された孤独、ああ唯一の至福）」に由来。修道的隠遁の美徳を讃える言葉が、ダウスンにおいては世界からの逃走・二人だけの楽土への憧憬として世俗化される。ダウスン詩における「沈黙」の主題（「Venite Descendamus」「A Last Word」）の積極的な定式化。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "prosody",
+      "anchor": "Is yours and mine?",
+      "body": "6連すべてが同一の韻律形式（5行、ababb相当の韻）を保つ。各連の第5行が短い締め括り行として落下する構造──「A Requiem」「Venite Descendamus」と同じ長短交互のリズム。第1連末「Is yours and mine?」（疑問）と第6連末「Be yours and mine!」（祈願・命令）の対応が詩全体のアーチを形成する。疑問符から感嘆符への転換が詩的運動の完結を示す。"
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "There all forgetting,\n  Forgotten quite,",
+      "body": "「すべてを忘れて、すっかり忘れられて」──能動（forgetting）と受動（forgotten）の同時性。忘れることと忘れられることが一体化した状態が理想として描かれる。「A Requiem」の「beyond her ken, where she need never / Come to weep」と同じ論理──他者の視線・記憶・悲嘆の届かない場所への願望。ワーズワースの「忘却」とは異なり、ダウスンの忘却は自己消去として肯定的に提示される。"
+    },
+    {
+      "paragraphId": 5,
+      "type": "commentary",
+      "anchor": "But we have vistas\n  Of gods asleep,\n  With dreams as deep.",
+      "body": "「眠れる神々の眺望、同じくらい深い夢とともに」──詩全体の神学的頂点。「人々が苦労し笑い泣く」世界と対置される「私たち」の特権的な眺望。「gods asleep（眠れる神々）」はニーチェ的な神の死でなく、夢の深みの象徴として機能する。「vistas（眺望）」という語が谷の奥の静寂から逆説的な広がりを開く。「dreams as deep」──「A Requiem」のasphodel（冥界の花）と同様、死に近接した夢の領域が生よりも豊かとして描かれる。"
+    },
+    {
+      "paragraphId": 6,
+      "type": "prosody",
+      "anchor": "A land of Silence,\n  Where pale stars shine\nOn apple-blossoms\n  And dew-drenched vine,\n  Be yours and mine!",
+      "body": "第1連の反復変奏──「What land of Silence」（疑問詞）→「A land of Silence」（定冠詞的不定冠詞）、「apple-blossom」（単数）→「apple-blossoms」（複数）、「Is yours and mine?」（疑問）→「Be yours and mine!」（祈願命令）。変化は微細だが決定的──場所の不確かさが確信へ、単数の花が複数の花へ（豊穰化）、問いが宣言へ転じる。ダウスンの詩技の洗練が最も圧縮された形で示される最終連。"
+    }
+  ]
+}
