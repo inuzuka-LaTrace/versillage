@@ -1308,7 +1308,7 @@ export default function App() {
         目次を開く
       </button>
     <div 
-  className={`mt-24 text-[9px] opacity-40 ${ // 25 -> 35
+  className={`mt-40 text-[9px] opacity-45 ${ // 25 -> 35
 darkMode ? 'text-[#8a7a5a]' : 'text-stone-500' // 金褐色 #8a7a5a を指定
   }`}
   style={{ fontFamily: 'Cinzel, serif', letterSpacing: '0.05em' }}
