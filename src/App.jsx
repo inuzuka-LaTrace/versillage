@@ -880,39 +880,41 @@ export default function App() {
     );
   };
 
-
- if (loading) {
+if (loading) {
   return (
-    <div className={`min-h-screen overflow-hidden flex items-center justify-center relative transition-colors duration-700 ${
+    <div className={`min-h-screen bg-black overflow-hidden flex items-center justify-center relative font-sans transition-colors duration-700 ${
       darkMode ? 'bg-zinc-950' : 'bg-stone-100'
     }`}>
-      {/* 1. 背景：モローの『ユピテルとセメレ』 */}
-      <div className="absolute inset-0 z-0 overflow-hidden">
+      {/* 1. 背景：モローの『ユピテルとセメレ』（彩度とコントラストを調整） */}
+      <div className="absolute inset-0 z-0 overflow-hidden pointer-events-none">
         <img
           src="/images/moreau_jupiter.jpg"
-          className="w-full h-full object-cover object-center opacity-15 grayscale contrast-125"
+          /* grayscale と contrast で、ビネット効果を際立たせ、opacity を 15% に沈める */
+          className="w-full h-full object-cover object-center opacity-15 grayscale contrast-125 saturate-50"
           alt="" 
           aria-hidden="true" 
         />
         
-        {/* ダークモード/ライトモードに応じたオーバーレイとビネット */}
+        {/* オーバーレイとビネット（疑似要素で実装） */}
         <div className={`absolute inset-0 ${
           darkMode 
-            ? 'bg-[radial-gradient(circle_at_center,transparent_0%,rgba(9,9,11,0.85)_100%)]' 
-            : 'bg-[radial-gradient(circle_at_center,transparent_0%,rgba(245,245,244,0.7)_100%)]'
+            ? 'bg-[radial-gradient(circle_at_center,transparent_0%,rgba(9,9,11,0.85)_100%)]' // ジンクの闇
+            : 'bg-[radial-gradient(circle_at_center,transparent_0%,rgba(245,245,244,0.7)_100%)]' // 石の光
         }`} />
       </div>
 
-      {/* 2. マラルメ的要素の再構築：言葉が深淵から浮かび上がる */}
+      {/* 2. マラルメ的要素の再構築：言葉を「星座」として不動の配置に */}
       <div className="relative z-10 w-full max-w-4xl h-[60vh] flex flex-col items-center justify-center">
         <div className="relative w-full h-full">
-          <span className={`absolute top-[15%] left-[10%] text-xl tracking-[0.3em] font-serif italic transition-colors duration-1000 animate-pulse ${
+          {/* ↓ 修正点：animate- を削除し、opacity-100（最初から表示）に */}
+          
+          <span className={`absolute top-[15%] left-[10%] text-xl tracking-[0.3em] font-serif italic transition-colors duration-1000 opacity-100 ${
             darkMode ? 'text-amber-200/40' : 'text-stone-800/40'
           }`} style={{ fontFamily: 'Cinzel, serif' }}>
             UN COUP DE DÉS
           </span>
 
-          <span className={`absolute top-[45%] right-[15%] text-4xl font-bold tracking-widest transition-colors duration-1000 animate-[pulse_3s_infinite_1s] opacity-0 ${
+          <span className={`absolute top-[45%] right-[15%] text-4xl font-bold tracking-widest transition-colors duration-1000 opacity-100 ${
             darkMode ? 'text-stone-100/60' : 'text-stone-900/60'
           }`} style={{ fontFamily: 'Cinzel, serif' }}>
             JAMAIS
@@ -936,7 +938,7 @@ export default function App() {
             </div>
           </div>
 
-          <span className={`absolute bottom-[20%] left-[15%] text-2xl font-light tracking-[0.5em] transition-colors duration-1000 animate-[pulse_4s_infinite_2s] opacity-0 ${
+          <span className={`absolute bottom-[20%] left-[15%] text-2xl font-light tracking-[0.5em] transition-colors duration-1000 opacity-100 ${
             darkMode ? 'text-stone-400/30' : 'text-stone-500/30'
           }`} style={{ fontFamily: 'Cinzel, serif' }}>
             LE HASARD
@@ -944,7 +946,7 @@ export default function App() {
         </div>
       </div>
 
-      {/* 3. 垂直線の継承：ゴダール風から「額装」の意匠へ */}
+      {/* 3. 垂直線の継承：ゴダール風から「本のノド」の意匠へ（配置を調整） */}
       <div className={`absolute inset-0 flex justify-between px-10 md:px-20 opacity-10 pointer-events-none`}>
         <div className={`w-[1px] h-full ${darkMode ? 'bg-zinc-700' : 'bg-stone-300'}`}></div>
         <div className={`w-[1px] h-full ${darkMode ? 'bg-zinc-700' : 'bg-stone-300'}`}></div>
@@ -952,16 +954,6 @@ export default function App() {
     </div>
   );
 }
-  if (selectedText && !currentText) {
-    return (
-      <div className="min-h-screen bg-stone-50 flex items-center justify-center">
-        <div className="text-center">
-          <div className="text-6xl mb-4">⚠️</div>
-          <p className="text-xl font-serif text-stone-700">テキストが見つかりません</p>
-        </div>
-      </div>
-    );
-  }
 
   // ─── テーマ変数 ───────────────────────────────────────────
   const bgClass         = darkMode ? 'bg-[#131008]'                              : 'bg-stone-50';
