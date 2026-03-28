@@ -1,0 +1,89 @@
+{
+  "id": "verlaine_spleen",
+  "title": "Spleen",
+  "author": "Paul Verlaine",
+  "source": "Romances sans paroles, «Aquarelles» II, Maison Centrale, Sens, 1874. 照合: athena.unige.ch/athena/verlaine/verlaine-romances-sans-paroles.html",
+  "year": "1874",
+  "firstPublication": "Romances sans paroles, Maison Centrale, Sens, 1874（ランス監獄中での印刷）",
+  "difficulty": "中級",
+  "category": "verlaine",
+  "originalLang": "fr-FR",
+  "modernRelevance": "★★★★★",
+  "context": "ヴェルレーヌの第4詩集『言葉なき恋歌（Romances sans paroles）』（1874）、「水彩画（Aquarelles）」連作の第2番。1872年のランボーとの逃走・ベルギー滞在中に執筆。タイトル「スプリーン（Spleen）」はボードレール経由の英語「spleen（憂鬱・倦怠）」──ただしボードレールの形而上的な苦悩と異なり、ヴェルレーヌのスプリーンは感覚的・即物的な不安として描かれる。3連4行（octosyllabe、8音節）の小詩。「薔薇はすべて赤く、蔦はすべて黒い」という色彩の対比から始まり、愛する人の逃走への恐怖と、すべてへの倦怠（ただし「あなた」を除いて）で締め括られる。デュッセイ「忘れられた小品（Ariettes oubliées）」第6番として作曲（1887）。ダウスンが英訳（After Paul Verlaine III）し、ジョン・アイルランドも歌曲化（1913）。",
+  "keywords": [
+    "スプリーン",
+    "薔薇と蔦",
+    "色彩の対比",
+    "逃走の恐怖",
+    "Aquarelles",
+    "Romances sans paroles",
+    "ドビュッシー",
+    "言葉なき恋歌",
+    "8音節詩",
+    "倦怠と愛"
+  ],
+  "relatedTexts": [
+    "dowson_after_verlaine_2",
+    "verlaine_colloque_sentimental",
+    "verlaine_chanson_dautomne",
+    "verlaine_clair_de_lune",
+    "baudelaire_spleen"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "french": "Les roses étaient toutes rouges\nEt les lierres étaient tout noirs.\n\nChère, pour peu que tu te bouges\nRenaissent tous mes désespoirs.",
+      "provisionalTranslation": "薔薇はすべて赤かった\nそして蔦はすべて黒かった。\n\n愛しい人よ、お前がほんの少し動くだけで\n私のすべての絶望が甦る。"
+    },
+    {
+      "id": 2,
+      "french": "Le ciel était trop bleu, trop tendre,\nLa mer trop verte et l'air trop doux.\n\nJe crains toujours, — ce qu'est d'attendre ! —\nQuelque fuite atroce de vous.",
+      "provisionalTranslation": "空はあまりにも青く、あまりにも優しかった。\n海はあまりにも緑で、空気はあまりにも柔らかかった。\n\n私はいつも恐れている──待つとはこういうことだ！──\nあなたの何らかの残酷な逃走を。"
+    },
+    {
+      "id": 3,
+      "french": "Du houx à la feuille vernie\nEt du luisant buis je suis las,\n\nEt de la campagne infinie\nEt de tout, fors de vous, hélas !",
+      "provisionalTranslation": "光沢のある葉の柊も\n輝く黄楊の木も、私は飽き飽きした。\n\nそして果てしない田園も\nそしてすべてのものに──あなた以外は、ああ！"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "prosody",
+      "anchor": "Les roses étaient toutes rouges\nEt les lierres étaient tout noirs.",
+      "body": "詩の開幕2行は印象派絵画的な色彩対──赤（roses）と黒（lierres）。動詞も感情語も介在しない純粋な色彩描写が感情の説明なしに情動を喚起する。ヴェルレーヌの「Aquarelles（水彩画）」というシリーズ名が示すように、詩は水彩画的な印象の瞬間的な把握を目指す。「toutes（すべて）」と「tout（まったく）」の反復が色彩の絶対性・全体性を強調する──世界はこの二色に二分されている。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "Chère, pour peu que tu te bouges\nRenaissent tous mes désespoirs.",
+      "body": "「お前がほんの少し動くだけで（pour peu que tu te bouges）」──条件節の最小性が恐怖の過剰さと対比される。わずかな動作が「すべての絶望（tous mes désespoirs）」を甦らせる。ヴェルレーヌにとっての「彼女」は妻マティルドとも、ランボーとも解釈されてきた──詩の曖昧さが意図的。「Chère（愛しい人よ）」という呼びかけは性別を指定しない。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "prosody",
+      "anchor": "Le ciel était trop bleu, trop tendre,\nLa mer trop verte et l'air trop doux.",
+      "body": "「trop（あまりにも）」の3連反復──青すぎる、優しすぎる、緑すぎる、柔らかすぎる。美しいものの過剰が苦痛として機能する「感覚的過負荷」の詩的表現。ダウスンの英訳「Too blue, too tender was the sky, / The air too soft, too green the sea」はこの「trop」の配置を見事に再現している。美の過剰がスプリーンの原因──世界が美しすぎるから不安なのだ、という逆説。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "Je crains toujours, — ce qu'est d'attendre ! —\nQuelque fuite atroce de vous.",
+      "body": "「あなたの残酷な逃走（fuite atroce de vous）」への恐怖。ダッシュで括られた挿入句「ce qu'est d'attendre !（待つとはこういうことだ！）」が詩の感情的核心──待機の苦しみを感嘆符で凝縮する。「atroce（残酷な）」という強い形容詞が逃走を裏切りとして定義する。ヴェルレーヌとランボーの関係における実際の逃走・裏切りの経験が詩の背景にあるとされる。"
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "Et de tout, fors de vous, hélas !",
+      "body": "「そしてすべてのものに──あなた以外は、ああ！（Et de tout, fors de vous, hélas !）」──詩の最終行にして最も圧縮された詩的命題。「fors（〜以外は）」は古語的・詩語的な除外の前置詞。すべてへの倦怠を列挙した後に、唯一例外として「あなた」が置かれる──逃走を恐れながら、その「あなた」だけを愛し続けるという矛盾。「hélas !（ああ！）」の感嘆符がこの矛盾の苦しみを一語に封じる。ダウスンの英訳「Of everything alas ! save thee」は「fors」を「save」で、逐語的に再現している。"
+    },
+    {
+      "paragraphId": 3,
+      "type": "intertextual",
+      "anchor": null,
+      "body": "ダウスン「After Paul Verlaine III」との対照：ダウスンは原詩の3連4行（12行）を6連2行（12行）に再配置し、各連の独立性を高めた。原詩の「trop（あまりにも）」の音楽的反復、「fuite atroce（残酷な逃走）」の強度、「fors de vous（あなた以外は）」の構文をいずれも英語の語彙・文法の中で忠実に再現している。ドビュッシー「Ariettes oubliées」第6番（1887）、ジョン・アイルランド歌曲版（1913）と並んで、この詩の音楽的受容の幅広さを示す。",
+      "targetId": "dowson_after_verlaine_3",
+      "targetParagraphId": null
+    }
+  ]
+}
