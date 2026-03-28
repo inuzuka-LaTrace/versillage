@@ -1176,7 +1176,11 @@ export default function App() {
   ref={headerRef} 
   className={`sticky top-0 z-30 border-b backdrop-blur-md 
     pt-[env(safe-area-inset-top)] 
-    ${darkMode ? 'bg-zinc-950/95 border-zinc-800' : 'bg-stone-50/95 border-stone-200'}`}
+    /* ↓ 追加：ヘッダーの上に背景色を伸ばす遮蔽板 */
+    before:content-[''] before:absolute before:bottom-full before:left-0 before:w-full before:h-20
+    ${darkMode 
+      ? 'bg-zinc-950/95 border-zinc-800 before:bg-zinc-950' 
+      : 'bg-stone-50/95 border-stone-200 before:bg-stone-50'}`}
 >
   <div className="max-w-6xl mx-auto px-4 py-3 flex items-center gap-3">
     <div className="flex-1 min-w-0 flex items-center gap-2">
