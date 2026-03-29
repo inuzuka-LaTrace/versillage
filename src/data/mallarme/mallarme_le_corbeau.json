@@ -1,0 +1,178 @@
+{
+  "id": "mallarme_le_corbeau",
+  "title": "Le Corbeau",
+  "author": "Stéphane Mallarmé",
+  "source": "Le Corbeau / The Raven, traduction de Stéphane Mallarmé, illustrations d'Édouard Manet, Richard Lesclide, Paris, 1875. 底本: Project Gutenberg, eBook #14082（Gutenberg版対訳テキスト）.",
+  "year": "1875",
+  "firstPublication": "Le Corbeau / The Raven, Richard Lesclide, Paris, 1875（英仏対訳豪華本；マネ挿絵6点；手漉きヴァン・ゲルダー紙版・日本製ヴェラム紙版の限定刊行）",
+  "difficulty": "上級",
+  "category": "mallarme",
+  "originalLang": "fr-FR",
+  "modernRelevance": "★★★★★",
+  "context": "マラルメによるポー「The Raven」（1845）の散文訳。1875年、リシャール・レスクリドより英仏対訳豪華本として刊行。エドゥアール・マネが6点の挿絵（墨絵・ラヴィ・ドライポイント）を提供した。マラルメは詩形式（trochaic octameter六歩格）を散文に移植しながら、原文の語彙的密度を極度に高める翻訳──「napping」→「somnolant presque（ほとんど眠りこけている）」、「ghastly grim and ancient」→「spectral, lugubre et ancien」──を施した。\n\nボードレール訳（1853年）が先行していたが、マラルメはより原文の文体的特徴に密着した翻訳を目指した。「Jamais plus（Nevermore）」という訳語は、否定の絶対性を単純な二語で封じる。マラルメ自身の詩作における「純粋な沈黙（le silence pur）」「消滅（disparaître）」「白紙（page blanche）」への傾倒と、このポー翻訳の経験が深く連動している──「Un coup de dés」のタイポグラフィ詩学への布石として。ヴァレリーはマラルメとの会話でこの翻訳が詩人の詩学形成に与えた影響を証言している。",
+  "keywords": [
+    "Le Corbeau",
+    "The Raven",
+    "ポー翻訳",
+    "Jamais plus",
+    "Nevermore",
+    "散文詩訳",
+    "マネ挿絵",
+    "Lénore",
+    "buste de Pallas",
+    "rivage plutonien"
+  ],
+  "relatedTexts": [
+    "poe_the_raven",
+    "mallarme_coup_de_des",
+    "mallarme_crise_de_vers",
+    "mallarme_tombeau_charles_baudelaire",
+    "baudelaire_heroisme"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "french": "UNE fois, par un minuit lugubre, tandis que je m'appesantissais, faible et fatigué, sur maint curieux et bizarre volume de savoir oublié — tandis que je dodelinais la tête, somnolant presque : soudain se fit un heurt, comme de quelqu'un frappant doucement, frappant à la porte de ma chambre — cela seul et rien de plus.",
+      "provisionalTranslation": "かつて、ある陰鬱な真夜中、私が疲れ果てて打ちひしがれながら、忘れられた知識の奇妙で奇怪な幾多の書物に身をもたせていたとき──私が首をうなだれ、ほとんど眠りこけていたとき：突然、一つの音が起きた、誰かが静かに叩く音、私の部屋の扉を叩く音──それだけで、ただそれだけで。"
+    },
+    {
+      "id": 2,
+      "french": "Ah ! distinctement je me souviens que c'était en le glacial Décembre : et chaque tison, mourant isolé, ouvrageait son spectre sur le sol. Ardemment je souhaitais le jour — vainement j'avais cherché d'emprunter à mes livres un sursis au chagrin — au chagrin de la Lénore perdue — de la rare et rayonnante jeune fille que les anges nomment Lénore : — de nom pour elle ici, non, jamais plus !",
+      "provisionalTranslation": "ああ！はっきりと覚えている、それは凍てつく十二月だった。そして各々の炭は、孤独に死にながら、床の上に自らの亡霊を描いていた。私は朝を熱望していた──虚しくも、書物から悲しみへの猶予を借りようとしていた──失われたレノアの悲しみへの──天使たちがレノアと呼ぶ稀有で輝ける乙女への猶予を。──彼女のための名前がここに、いや、もう決して！"
+    },
+    {
+      "id": 3,
+      "french": "Et de la soie l'incertain et triste bruissement en chaque rideau purpural me traversait — m'emplissait de fantastiques terreurs pas senties encore : si bien que, pour calmer le battement de mon cœur, je demeurais maintenant à répéter « C'est quelque visiteur qui sollicite l'entrée, à la porte de ma chambre — quelque visiteur qui sollicite l'entrée, à la porte de ma chambre ; c'est cela et rien de plus. »",
+      "provisionalTranslation": "絹のその不確かで悲しい戦きが、紫の各帳を通して私を貫いた──かつて感じたことのない幻想的な恐怖で私を満たした。それゆえ、私の心の鼓動を静めるために、私は今や繰り返し続けた：「それは何かの訪問者が入室を求めているのだ、私の部屋の扉に──何かの訪問者が入室を求めているのだ、私の部屋の扉に。それだけで、ただそれだけで。」"
+    },
+    {
+      "id": 4,
+      "french": "Mon âme devint subitement plus forte et, n'hésitant davantage « Monsieur, dis-je, ou Madame, j'implore véritablement votre pardon ; mais le fait est que je somnolais et vous vîntes si doucement frapper, et si faiblement vous vîntes heurter, heurter à la porte de ma chambre, que j'étais à peine sûr de vous avoir entendu. » — Ici j'ouvris, grande, la porte : les ténèbres et rien de plus.",
+      "provisionalTranslation": "私の魂は突然より強くなり、もはや躊躇せず：「旦那様、と私は言った、あるいは奥様、私は真に貴方の御寛恕を懇願します。しかし実は私は眠っておりまして、貴方はこれほど静かにお叩きになり、これほど微かにお叩きになった、叩いた、私の部屋の扉を──私には貴方を聞いたか確かでありませんでした。」──ここで私は扉を大きく開けた：闇、ただそれだけ。"
+    },
+    {
+      "id": 5,
+      "french": "Loin dans l'ombre regardant, je me tins longtemps à douter, m'étonner et craindre, à rêver des rêves qu'aucun mortel n'avait osé rêver encore ; mais le silence ne se rompit point et la quiétude ne donna de signe : et le seul mot qui se dit, fut le mot chuchoté « Lénore ! » Je le chuchotai — et un écho murmura de retour le mot « Lénore ! » — purement cela et rien de plus.",
+      "provisionalTranslation": "闇の奥を覗き込みながら、私は長い間そこに立ち、疑い、驚き、恐れた、どんな人間もまだ敢えて夢見たことのない夢を夢見た。しかし沈黙は破れず、静けさは何も告げなかった。そして唯一語られた言葉は、囁かれた言葉「レノア！」だった。私はそれを囁いた──するとこだまがその言葉を囁き返した「レノア！」──ただそれだけで、ただそれだけ。"
+    },
+    {
+      "id": 6,
+      "french": "Rentrant dans la chambre, toute mon âme en feu, j'entendis bientôt un heurt en quelque sorte plus fort qu'auparavant. « Sûrement, dis-je, sûrement c'est quelque chose à la persienne de ma fenêtre. Voyons donc ce qu'il y a et explorons ce mystère — que mon cœur se calme un moment et explore ce mystère ; c'est le vent et rien de plus. »",
+      "provisionalTranslation": "部屋に戻り、魂全体が燃え上がって、私はまもなく何かしら前よりも大きな音を聞いた。「確かに、と私は言った、確かに窓の鎧戸に何かがある。では何があるかを見て、この謎を探ってみよう──私の心を一瞬静めて、この謎を探ろう。それは風、ただそれだけだ。」"
+    },
+    {
+      "id": 7,
+      "french": "Au large je poussai le volet ; quand, avec maints enjouement et agitation d'ailes, entra un majestueux Corbeau des saints jours de jadis. Il ne fit pas la moindre révérence, il ne s'arrêta ni n'hésita un instant : mais, avec une mine de lord ou de lady, se percha au-dessus de la porte de ma chambre — se percha sur un buste de Pallas juste au-dessus de la porte de ma chambre — se percha, siégea et rien de plus.",
+      "provisionalTranslation": "私は鎧戸を大きく押し開けた。すると、多くの浮かれた羽ばたきとともに、往古の聖なる日々からの威厳あるカラスが入ってきた。最小限の会釈もせず、一瞬も止まったり躊躇したりせず。しかし、貴族か貴婦人の風情で、私の部屋の扉の上に止まった──ちょうど私の部屋の扉の上のパラスの胸像に止まった──止まり、座り、ただそれだけ。"
+    },
+    {
+      "id": 8,
+      "french": "Alors cet oiseau d'ébène induisant ma triste imagination au sourire, par le grave et sévère décorum de la contenance qu'il eut : « Quoique ta crête soit chue et rase, non ! dis-je, tu n'es pas pour sûr un poltron, spectral, lugubre et ancien Corbeau, errant loin du rivage de Nuit — dis-moi quel est ton nom seigneurial au rivage plutonien de Nuit. » Le Corbeau dit : « Jamais plus. »",
+      "provisionalTranslation": "すると、この漆黒の鳥が、その持つ重々しく厳格な礼節の風情によって、私の悲しい想像を微笑みへと誘いながら：「冠羽は落ち剃られているが、否！と私は言った、お前は確かに臆病者ではない、亡霊のような、陰鬱な、古いカラスよ、夜の岸辺から遠くさまよいながら──冥府の夜の岸辺で、お前の貴族的な名はなんと言うのか教えよ。」カラスは言った：「もう決して。」"
+    },
+    {
+      "id": 9,
+      "french": "Je m'émerveillai fort d'entendre ce disgracieux volatile s'énoncer aussi clairement, quoique sa réponse n'eût que peu de sens et peu d'à-propos ; car on ne peut s'empêcher de convenir que nul homme vivant n'eût encore l'heur de voir un oiseau au-dessus de la porte de sa chambre — un oiseau ou toute autre bête sur le buste sculpté, au-dessus de la porte de sa chambre, avec un nom tel que : « Jamais plus. »",
+      "provisionalTranslation": "私はこの不格好な鳥がこれほど明瞭に言葉を発するのを聞いてひどく驚いた、その答えはほとんど意味をなさず的外れではあったものの。なぜなら、生きている人間が自分の部屋の扉の上に鳥を──彫刻された胸像の上に鳥なり他の獣なりを見た幸運をまだ持ったことがなかったということを認めざるを得ないから、「もう決して」というような名を持つものを。"
+    },
+    {
+      "id": 10,
+      "french": "Mais le Corbeau, perché solitairement sur ce buste placide, parla ce seul mot comme si, son âme, en ce seul mot, il la répandait. Je ne proférai donc rien de plus : il n'agita donc pas de plume — jusqu'à ce que je fis à peine davantage que marmotter « D'autres amis déjà ont pris leur vol — demain il me laissera comme mes Espérances déjà ont pris leur vol. » Alors l'oiseau dit : « Jamais plus. »",
+      "provisionalTranslation": "しかしカラスは、その穏やかな胸像の上に孤独に止まり、この唯一の言葉を、まるでその魂をこの唯一の言葉に注ぎ込むかのように語った。私はそれ以上何も口にしなかった。カラスは一枚の羽根も動かさなかった──私がほとんど呟く以上のことをしない時まで：「他の友たちはすでに飛び去った──明日彼は私の希望がすでに飛び去ったように私を去るだろう。」するとその鳥は言った：「もう決して。」"
+    },
+    {
+      "id": 11,
+      "french": "Tressaillant au calme rompu par une réplique si bien parlée : « Sans doute dis-je, ce qu'il profère est tout son fonds et son bagage, pris à quelque malheureux maître que l'impitoyable Désastre suivit de près et de très-près suivit jusqu'à ce que ses chansons comportassent un unique refrain ; jusqu'à ce que les chants funèbres de son Espérance comportassent le mélancolique refrain de « Jamais — jamais plus. »",
+      "provisionalTranslation": "これほど適切に語られた返答によって破られた静寂に身震いして：「疑いなく、と私は言った、彼が口にするものは彼の全財産であり全荷物だ、容赦ない災厄が急いで、非常に急いで追いかけた、何か不幸な主から取られたもので、彼の歌が唯一の繰り返し句を持つようになるまで──彼の希望の哀歌が『もう決して──もう決して』の憂鬱な繰り返し句を持つようになるまで。」"
+    },
+    {
+      "id": 12,
+      "french": "Le Corbeau induisant toute ma triste âme encore au sourire, je roulai soudain un siège à coussins en face de l'oiseau et du buste et de la porte ; et m'enfonçant dans le velours, je me pris à enchaîner songerie à songerie, pensant à ce que cet augural oiseau de jadis — à ce que ce sombre, disgracieux, sinistre, maigre et augural oiseau de jadis signifiait en croassant : « Jamais plus. »",
+      "provisionalTranslation": "カラスが私の悲しい魂全体を再び微笑みへと誘いながら、私は突然クッション付きの椅子を鳥と胸像と扉の前に引き寄せた。そしてビロードに身を沈めながら、私は夢想を夢想へと繋げ始め、この往古の予兆の鳥が──この暗い、不格好な、不吉な、痩せた往古の予兆の鳥が、「もう決して」と鳴くことで何を意味するかを考えた。"
+    },
+    {
+      "id": 13,
+      "french": "Cela, je m'assis occupé à le conjecturer, mais n'adressant pas une syllabe à l'oiseau dont les yeux de feu brûlaient, maintenant, au fond de mon sein ; cela et plus encore, je m'assis pour le deviner, ma tête reposant à l'aise sur la housse de velours des coussins que dévorait la lumière de la lampe, housse violette de velours dévoré par la lumière de la lampe qu'Elle ne pressera plus, ah ! jamais plus.",
+      "provisionalTranslation": "それを、私は座って推測することに集中したが、今や胸の奥で燃えていた火のような目を持つ鳥には一音節も向けなかった。それ以上のことも、私は座って解明しようとした、私の頭は安楽にランプの光が貪っていたクッションのビロードの覆いに横たわっていた──ランプの光に貪られた紫のビロードの覆い、彼女がもう二度と押さえることのない、ああ！もう決して。"
+    },
+    {
+      "id": 14,
+      "french": "L'air, me sembla-t-il, devint alors plus dense, parfumé selon un encensoir invisible balancé par les Séraphins dont le pied, dans sa chute, tintait sur l'étoffe du parquet. « Misérable, m'écriai-je, ton Dieu t'a prêté — il t'a envoyé, par ces anges, le répit — le répit et le népenthès dans ta mémoire de Lénore ! Bois ! oh ! bois ce bon népenthès et oublie cette Lénore perdue ! » Le Corbeau dit : « Jamais plus ! »",
+      "provisionalTranslation": "空気は、私には思えた、その時より濃く、見えない香炉から香りを放つようになった──床の絨毯の上で足音が鳴り響くセラフィムたちが揺らす香炉から。「哀れな者よ、と私は叫んだ、お前の神はお前に貸してくれた──天使たちによって彼はお前に送ってくれた、猶予を──レノアの記憶の猶予とネペンテスを！飲め！ああ！この良いネペンテスを飲んで、この失われたレノアを忘れろ！」カラスは言った：「もう決して！」"
+    },
+    {
+      "id": 15,
+      "french": "« Prophète, dis-je, être de malheur ! prophète, oui, oiseau ou démon ! Que si le Tentateur t'envoya ou la tempête t'échoua vers ces bords, désolé et encore tout indompté, vers cette déserte terre enchantée — vers ce logis par l'horreur hanté : dis-moi véritablement, je t'implore ! y a-t-il du baume en Judée ? — dis-moi, je t'implore. » Le Corbeau dit : « Jamais plus ! »",
+      "provisionalTranslation": "「預言者よ、と私は言った、不吉な存在よ！預言者よ、そうだ、鳥であれ悪魔であれ！誘惑者が送ったのであれ嵐がこの岸にお前を打ち上げたのであれ、寂しくしかし尚も屈せず、この砂漠の魔法の地へ──恐怖に取り憑かれたこの住処へ：私に真実を告げよ、懇願する！ユダヤに薬はあるか？──告げよ、懇願する。」カラスは言った：「もう決して！」"
+    },
+    {
+      "id": 16,
+      "french": "« Prophète, dis-je, être de malheur ! prophète, oui, oiseau ou démon ! Par les Cieux sur nous épars — et le Dieu que nous adorons tous deux — dis à cette âme de chagrin chargée si, dans le distant Eden, elle doit embrasser une jeune fille sanctifiée que les anges nomment Lénore — embrasser une rare et rayonnante jeune fille que les anges nomment Lénore. » Le Corbeau dit : « Jamais plus ! »",
+      "provisionalTranslation": "「預言者よ、と私は言った、不吉な存在よ！預言者よ、そうだ、鳥であれ悪魔であれ！我々の上に広がる天と──我々二人が崇拝する神に誓って──悲しみに満ちたこの魂に告げよ、遠いエデンで彼女は天使たちがレノアと呼ぶ聖なる乙女を抱けるのかどうかを──天使たちがレノアと呼ぶ稀有で輝ける乙女を抱けるのかを。」カラスは言った：「もう決して！」"
+    },
+    {
+      "id": 17,
+      "french": "« Que ce mot soit le signal de notre séparation, oiseau ou malin esprit, » hurlai-je, en me dressant. « Recule en la tempête et le rivage plutonien de Nuit ! Ne laisse pas une plume noire ici comme un gage du mensonge qu'a proféré ton âme. Laisse inviolé mon abandon ! quitte le buste au-dessus de ma porte ! ôte ton bec de mon cœur et jette ta forme loin de ma porte ! » Le Corbeau dit : « Jamais plus ! »",
+      "provisionalTranslation": "「その言葉を我々の別れの合図としよう、鳥よあるいは悪霊よ、」と私は立ち上がりながら叫んだ。「嵐の中へ、そして冥府の夜の岸辺へ退け！お前の魂が語った嘘の証として黒い羽根一枚もここに残すな。私の孤独を侵さずにいよ！私の扉の上の胸像を去れ！お前の嘴を私の心から抜け、そしてお前の姿を私の扉から遠ざけよ！」カラスは言った：「もう決して！」"
+    },
+    {
+      "id": 18,
+      "french": "Et le Corbeau, sans voleter, siège encore — siège encore sur le buste pallide de Pallas, juste au-dessus de la porte de ma chambre, et ses yeux ont toute la semblance des yeux d'un démon qui rêve, et la lumière de la lampe, ruisselant sur lui, projette son ombre à terre : et mon âme, de cette ombre qui gît flottante à terre, ne s'élèvera — jamais plus !",
+      "provisionalTranslation": "そしてカラスは、飛び去ることなく、今なお座っている──私の部屋の扉のちょうど上の、パラスの青白い胸像の上に、今なお座っている。そしてその目は夢見る悪魔の目そのものの様相を帯び、ランプの光は彼の上に流れ落ちて、その影を床に投げる。そして私の魂は、床の上に浮かんで横たわるその影から、上昇することはない──もう決して！"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "UNE fois, par un minuit lugubre, tandis que je m'appesantissais, faible et fatigué, sur maint curieux et bizarre volume de savoir oublié",
+      "body": "マラルメの翻訳方針の冒頭──ポーの詩形式（trochaic octameter六歩格、脚韻）を散文に変換しながら、語彙的密度を極度に高める。「weak and weary（弱く疲れ）」→「m'appesantissais, faible et fatigué（身をもたせながら、弱く疲れ）」と、動詞「m'appesantissais（ずっしりとのしかかる）」を追加して重力感を強化。「forgotten lore（忘れられた知識）」→「savoir oublié（忘れられた知識）」は逐語的だが、「curieux et bizarre（奇妙で奇怪な）」という形容詞の強調はポー原文より強い。ボードレール訳（1853）が詩的散文として自由に翻案したのに対し、マラルメは原文への密着（juxtalinéaire）を目指した。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "glossary",
+      "anchor": "de nom pour elle ici, non, jamais plus !",
+      "body": "「Nevermore」の最初の変形──詩の末行繰り返し句「Nevermore」が第2段落では「jamais plus（もう決して・これ以上は）」として現れるが、この箇所だけ「de nom pour elle ici, non, jamais plus !（ここで彼女の名は、いや、もう決して！）」という文脈の中に埋め込まれる。ポー原文「Nameless here for evermore」の翻訳──「evermore」は「jamais plus」とは異なるが、マラルメは一貫して「jamais plus」を採用した。「Jamais plus」の選択は単純だが、この二語の絶対的否定が詩全体の呪文として機能する。"
+    },
+    {
+      "paragraphId": 7,
+      "type": "commentary",
+      "anchor": "entra un majestueux Corbeau des saints jours de jadis.",
+      "body": "カラスの登場──「a stately Raven of the saintly days of yore」→「un majestueux Corbeau des saints jours de jadis」。「saintly（聖なる）」→「saints（聖なる）」の直訳だが、「jadis（往古）」という古語的副詞がマラルメの選択。この「往古」という時間設定がカラスを具体的な鳥でなく神話的・超時間的な存在として定義する。マネの挿絵ではこのカラスの入室場面が4点のラヴィ大版画のうち2点目に描かれ、詩人とカラスの対面の視覚的クライマックスをなす。"
+    },
+    {
+      "paragraphId": 8,
+      "type": "prosody",
+      "anchor": "Le Corbeau dit : « Jamais plus. »",
+      "body": "「Nevermore」→「Jamais plus」の翻訳──詩の反復句の初出。ポー自身が「詩の創作（The Philosophy of Composition）」（1846）で説明したように、この詩は「Nevermore」という効果から逆算して構築された。マラルメの「Jamais plus」は「Jamais（決して）」の否定の絶対性と「plus（もはや・これ以上は）」の時間的終止が二語で圧縮される。フランス語の語感として「jamais」単独の方が哲学的に純粋だが、ポーの「no more」的ニュアンスを保つため「plus」を加えた。詩全体でこの句は合計9回（異なる文脈で）繰り返される。"
+    },
+    {
+      "paragraphId": 13,
+      "type": "commentary",
+      "anchor": "housse violette de velours dévoré par la lumière de la lampe qu'Elle ne pressera plus, ah ! jamais plus.",
+      "body": "「Elle（彼女）」の大文字化──ポー原文「She shall press, ah, nevermore!」でも大文字なし。マラルメがここで意図的に「Elle」を大文字にすることで、レノアを固有の個人でなく「女性性・死者・不在者」の象徴として普遍化する。「housse violette de velours（紫のビロードの覆い）」──紫はボードレール詩（「rideau purpural」§3参照）でも死・哀悼の色。マラルメのポー翻訳が同時にボードレール的詩学への参照を含んでいることを示す箇所。"
+    },
+    {
+      "paragraphId": 15,
+      "type": "glossary",
+      "anchor": "y a-t-il du baume en Judée ?",
+      "body": "「balm in Gilead（ギレアデの香油）」→「baume en Judée（ユダヤの薬香）」。旧約聖書エレミヤ書8:22「ギレアデに香油はないのか？」という問いへの参照──苦しみへの治療・救済の不在を問う聖書的表現。マラルメは「Gilead（ギレアデ）」を「Judée（ユダヤ）」と一般化した──地名の正確さより語感の倫理的重みを優先する翻訳判断。カラスの「Jamais plus!」がここで救済の不可能性を断言する──「Les Litanies de Satan」のサタン礼拝とは逆向きの、救済者不在の神学的絶望。"
+    },
+    {
+      "paragraphId": 18,
+      "type": "commentary",
+      "anchor": "et mon âme, de cette ombre qui gît flottante à terre, ne s'élèvera — jamais plus !",
+      "body": "詩の最終句──「Shall be lifted—nevermore!」→「ne s'élèvera — jamais plus !」。「上昇しない（ne s'élèvera）」という否定の動詞が魂の永遠の地上拘束を宣告する。マラルメにとってこのポー翻訳の経験──「Jamais plus」という絶対的否定の反復による閉鎖的詩空間の構築──は後の自身の詩学に深く影響を与えた。「Un coup de dés」の「RIEN（何も）/ N'AURA EU LIEU（起きなかっただろう）」という否定の構文、そして「白紙（page blanche）」の沈黙への傾倒は、この「jamais plus」の経験の延長として読める。",
+      "targetId": "mallarme_coup_de_des",
+      "targetParagraphId": 7
+    },
+    {
+      "paragraphId": 1,
+      "type": "intertextual",
+      "anchor": null,
+      "body": "マラルメとポーの関係：マラルメは1860年代初頭からポーを愛読し、英語学習の動機の一つとした。ヴァレリーの証言によれば、マラルメはポーの「詩の創作（The Philosophy of Composition）」に示された「効果から逆算する詩作法」を詩学の根本として受け入れた。本翻訳（1875）はボードレール訳（1853）より20年後──ボードレールが散文詩的自由で翻案したのに対し、マラルメは原文への密着（juxtalinéaire）を目指しながらも自身の語彙的嗜好（augural・jadis・juxtalinéaire等の古語・詩語）を随所に刻み込んだ。マネとの協働がこの豪華本を書物芸術（livre d'artiste）の先駆として位置付ける。",
+      "targetId": "poe_the_raven",
+      "targetParagraphId": null
+    }
+  ]
+}
