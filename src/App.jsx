@@ -1692,38 +1692,35 @@ if (loading) {
                 )}
                 {/* 段落ヘッダー（折りたたみボタン） */}
                 <button
-                  onClick={() => toggleParagraph(para.id)}
-                  className={`w-full flex items-center justify-between px-4 py-3 text-left transition-colors ${
-                    isBookmarkedPara
-                      ? darkMode ? 'hover:bg-amber-950/30 bg-amber-950/10' : 'hover:bg-amber-50/80 bg-amber-50/40'
-                      : darkMode ? 'hover:bg-zinc-800/60' : 'hover:bg-stone-50/80'
-                  }`}
-                >
-                  <div className="flex items-center gap-2 min-w-0 overflow-hidden">
-                    <span className={`text-sm font-IBM Plex sans JP w-7 shrink-0 tabular-nums select-none opacity-30 ${textClass}`}>{para.id}</span>
+  onClick={() => toggleParagraph(para.id)}
+  className={`w-full flex items-center justify-between px-4 py-3 text-left transition-colors ${
+    isBookmarkedPara
+      ? darkMode ? 'hover:bg-amber-950/30 bg-amber-950/10' : 'hover:bg-amber-50/80 bg-amber-50/40'
+      : darkMode ? 'hover:bg-zinc-800/60' : 'hover:bg-stone-50/80'
+  }`}
+>
+  <div className="flex items-center gap-2 min-w-0 overflow-hidden">
+    {/* ID（セクション番号）：透明度を低くし、背景に溶け込ませる */}
+    <span className={`text-sm font-IBM Plex sans JP w-7 shrink-0 tabular-nums select-none opacity-30 ${textClass}`}>
+      {para.id}
+    </span>
 
-                    {/* verses バッジ（詩行番号あり：dante等） */}
-                    {para.verses && (
-                      <span className={`text-xs font-mono shrink-0 px-1.5 py-0.5 rounded border tabular-nums ${
-                        darkMode ? 'bg-zinc-800 text-zinc-400 border-zinc-700' : 'bg-stone-100 text-stone-400 border-stone-200'
-                      }`}>
-                        {para.verses}
-                      </span>
-                    )}
+    {/* verses バッジ：これは構造的な情報（行番号）のため、控えめなテキストのみで残す（または必要なければ削除可） */}
+    {para.verses && (
+      <span className={`text-[10px] font-mono shrink-0 tabular-nums opacity-40 ${textClass}`}>
+        {para.verses}
+      </span>
+    )}
 
-                    {/* 折りたたみ時：発話の冒頭プレビュー */}
-                    {isCollapsed && showFrench && (
-                      <span translate="no" className={`notranslate text-sm truncate ${textClass}`}>
-                        {getOriginalText(para).split('\n')[0]}
-                      </span>
-                    )}
-                    {/* 展開時：逐行対訳バッジのみ（モードラベル撤廃） */}
-                    {!isCollapsed && !hasSpeaker && interlinear && showFrench && showOfficial && (
-                      <span className={`px-1.5 py-0.5 rounded text-xs font-medium border ${
-                        darkMode ? 'bg-red-900/40 text-red-400 border-red-800/60' : 'bg-red-50 text-red-600 border-red-200'
-                      }`}>{interlinear === 'stacked' ? '上下' : '左右'}</span>
-                    )}
-                  </div>
+    {/* 折りたたみ時のプレビュー：バッジ類が消えることで、より文章に目が向くようになります */}
+    {isCollapsed && showFrench && (
+      <span translate="no" className={`notranslate text-sm truncate opacity-60 ${textClass}`}>
+        {getOriginalText(para).split('\n')[0]}
+      </span>
+    )}
+
+    {/* 【削除済み】逐行対訳バッジ（interlinear）の箇所を完全に撤廃しました */}
+  </div>
                   <div className="flex items-center gap-2 shrink-0">
                     {hasUserTrans && (
                       <span className="w-2 h-2 rounded-full bg-purple-500" title="自分の訳あり" />
