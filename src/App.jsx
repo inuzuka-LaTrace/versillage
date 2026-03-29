@@ -882,35 +882,27 @@ export default function App() {
 
 if (loading) {
   return (
-    <div className="fixed inset-0 z-[100] bg-zinc-950 flex flex-col items-center justify-center overflow-hidden">
-      {/* スピナー外枠：細いラインで洗練された印象に */}
+    <div className="fixed inset-0 z-[200] bg-zinc-950 flex flex-col items-center justify-center overflow-hidden">
+      {/* 金褐色のスピナー */}
       <div className="relative flex items-center justify-center">
-        {/* スピナー本体 */}
         <div 
-          className="w-12 h-12 border-[3px] border-zinc-800 border-t-amber-700 rounded-full animate-spin"
+          className="w-12 h-12 border-[3px] border-zinc-900 border-t-[#8a7a5a] rounded-full animate-spin"
           style={{ 
-            filter: 'drop-shadow(0 0 8px rgba(180, 83, 9, 0.4))' // 金褐色の微かな光
+            filter: 'drop-shadow(0 0 12px rgba(180, 83, 9, 0.3))' 
           }}
         />
-        
-        {/* 中央に静止した小さな点（任意：より精密な時計・計器感を出す場合） */}
-        <div className="absolute w-1 h-1 bg-amber-900/40 rounded-full" />
+        {/* 中心に静止した小さな点（精密な印象を与える） */}
+        <div className="absolute w-1.5 h-1.5 bg-amber-900/40 rounded-full" />
       </div>
 
-      {/* テキスト */}
-      <div className="mt-6">
+      {/* 控えめなテキスト */}
+      <div className="mt-8 opacity-40">
         <span 
-          className="text-xs tracking-[0.4em] text-amber-700/60 font-serif uppercase select-none"
+          className="text-[10px] tracking-[0.5em] text-[#8a7a5a] font-serif uppercase select-none"
           style={{ fontFamily: 'Cinzel, serif' }}
         >
           Loading
         </span>
-      </div>
-
-      {/* 左右の垂直線：以前のデザインの面影を残し、画面の引き締め効果として維持（不要なら削除可） */}
-      <div className="absolute inset-0 flex justify-between px-10 md:px-20 opacity-5 pointer-events-none">
-        <div className="w-[1px] h-full bg-zinc-800"></div>
-        <div className="w-[1px] h-full bg-zinc-800"></div>
       </div>
     </div>
   );
@@ -1022,16 +1014,16 @@ if (loading) {
       )}
 
       {/* ─── サイドドロワー 本体 ──────────────────────────── */}
-  <div
+<div
   ref={settingsRef}
   className={`fixed top-0 right-0 h-full w-80 z-50 flex flex-col overflow-y-auto shadow-2xl
-  /* transitionは常に付与してOK（ただし後述の初期配置が重要） */
-  transition-transform duration-300 ease-in-out
-  /* showSettingsがfalseなら常に画面外(full)へ */
+  /* transitionはloadingが終わってから有効にする */
+  ${loading ? '' : 'transition-transform duration-500 ease-in-out'}
+  /* showSettingsがfalseなら、loading中であっても最初から画面外(full)に配置しておく */
   ${showSettings ? 'translate-x-0' : 'translate-x-full'}
-  /* loading中でも物理的に消さず、pointer-events-noneなどで制御 */
-  ${loading ? 'invisible pointer-events-none' : 'visible'}
-  ${darkMode ? 'bg-zinc-900 border-l border-zinc-700' : 'bg-stone-50 border-l border-stone-200'}`}
+  /* visibilityで制御することで、DOM上の配置を安定させる */
+  ${loading ? 'invisible' : 'visible'}
+  ${darkMode ? 'bg-zinc-900 border-l border-zinc-800' : 'bg-stone-50 border-l border-stone-200'}`}
 >
         <div className={`flex items-center justify-between px-5 py-4 border-b ${darkMode ? 'border-zinc-800' : 'border-stone-200'}`}>
           <h3 className={`text-sm font-semibold tracking-wide font-IBM Plex sans JP ${textClass}`}>表示設定</h3>
