@@ -1022,14 +1022,16 @@ if (loading) {
       )}
 
       {/* ─── サイドドロワー 本体 ──────────────────────────── */}
-    <div
-      ref={settingsRef}
-      className={`fixed top-0 right-0 h-full w-90 z-50 flex flex-col overflow-y-auto shadow-2xl
-      /* ↓ 修正箇所：loading 中は transition を付与しない */
-      ${loading ? '' : 'transition-transform duration-300 ease-in-out'}
-      ${showSettings ? 'translate-x-0' : 'translate-x-full'}
-      ${loading ? 'hidden' : 'flex'}
-      ${darkMode ? 'bg-zinc-900 border-l border-zinc-700' : 'bg-stone-50 border-l border-stone-200'}`}
+  <div
+  ref={settingsRef}
+  className={`fixed top-0 right-0 h-full w-80 z-50 flex flex-col overflow-y-auto shadow-2xl
+  /* transitionは常に付与してOK（ただし後述の初期配置が重要） */
+  transition-transform duration-300 ease-in-out
+  /* showSettingsがfalseなら常に画面外(full)へ */
+  ${showSettings ? 'translate-x-0' : 'translate-x-full'}
+  /* loading中でも物理的に消さず、pointer-events-noneなどで制御 */
+  ${loading ? 'invisible pointer-events-none' : 'visible'}
+  ${darkMode ? 'bg-zinc-900 border-l border-zinc-700' : 'bg-stone-50 border-l border-stone-200'}`}
 >
         <div className={`flex items-center justify-between px-5 py-4 border-b ${darkMode ? 'border-zinc-800' : 'border-stone-200'}`}>
           <h3 className={`text-sm font-semibold tracking-wide font-IBM Plex sans JP ${textClass}`}>表示設定</h3>
