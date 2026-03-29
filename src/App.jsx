@@ -1210,7 +1210,7 @@ if (loading) {
   {/* 左側：タイトルエリア。flex-1 min-w-0 により、ボタン以外の全幅を作品名に割り当てます */}
   <div className="flex-1 min-w-0">
     <h1
-      style={{ fontFamily: "Cinzel, serif", letterSpacing: '0.06em' }}
+      style={{ fontFamily: "Cinzel, serif", letterSpacing: '0.08em' }}
       className={`text-base font-semibold ${textClass} truncate leading-tight cursor-pointer select-none hover:opacity-70 transition-opacity`}
       onClick={() => window.scrollTo({ top: 0, behavior: 'smooth' })}
     >
