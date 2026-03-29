@@ -106,7 +106,7 @@ export default function App() {
   const [showAnnotations, setShowAnnotations] = useState(true);
   const [expandedAnnotations, setExpandedAnnotations] = useState({}); // paragraphId → bool
   const [activeAnchor, setActiveAnchor] = useState(null); // { paraId, anchor }
-  // 横断読解ビュー
+  // 対照読解ビュー
   const [crossMode, setCrossMode] = useState(false);
   const [crossTexts, setCrossTexts] = useState([]);
   // ブックマーク: { textId: [paraId, ...] }
@@ -755,7 +755,7 @@ export default function App() {
   };
 
 
-  // ─── 横断読解：1パネル分のレンダリング ───────────────────────
+  // ─── 対照読解：1パネル分のレンダリング ───────────────────────
   const CrossPanel = ({ textObj, panelIndex }) => {
     const [collapsed, setCollapsed] = React.useState({});
     const [showOrig, setShowOrig] = React.useState(true);
@@ -1050,7 +1050,7 @@ if (loading) {
         ) : (
           <Sun size={16} className="text-stone-500" strokeWidth={1.6} />
         )}
-        <span className={`text-sm ${textClass}`}>{darkMode ? 'ダークモード' : 'ライトモード'}</span>
+        <span className={`text-sm ${textClass}`}>{darkMode ? 'テーマ切替' : 'テーマ切替'}</span>
       </div>
       
       {/* トグルスイッチ（既存のデザインに準拠） */}
@@ -1200,7 +1200,6 @@ if (loading) {
   ref={headerRef} 
   className={`sticky top-0 z-30 border-b backdrop-blur-md 
     pt-[env(safe-area-inset-top)] 
-    /* ↓ 追加：ヘッダーの上に背景色を伸ばす遮蔽板 */
     before:content-[''] before:absolute before:bottom-full before:left-0 before:w-full before:h-20
     ${darkMode 
       ? 'bg-zinc-950/95 border-zinc-800 before:bg-zinc-950' 
@@ -1289,7 +1288,6 @@ if (loading) {
     {/* 2. 背景レイヤー：absolute で親要素いっぱいに広げ、z-0 で最背面に */}
     <div className="absolute inset-0 z-0">
       <img
-        /* 画像パス：public/images/ に配置したと想定 */
         src="/images/vanitas_adriaen_van_utrecht.jpg"
         /* object-cover と object-center で画面中央を切り取り、不透明度を 20% に */
         className="w-full h-full object-cover object-center opacity-20 grayscale-[30%]"
@@ -1397,11 +1395,11 @@ if (loading) {
             </div>
           )}
 
-          {/* 横断読解ボタン＋テキスト選択 */}
+          {/* 対照読解ボタン＋テキスト選択 */}
           {(currentText.relatedTexts?.length > 0 || crossMode) && (
             <div className={`mt-4 pt-4 border-t ${borderClass}`}>
               <div className="flex items-center justify-between mb-2">
-                <span className={`text-xs  ${textSecondary}`}>横断読解</span>
+                <span className={`text-xs  ${textSecondary}`}>対照読解</span>
                 <button
                   onClick={() => { setCrossMode(v => !v); if (crossMode) setCrossTexts([]); }}
                   className={`px-3 py-1 text-xs rounded-lg font-medium transition-colors ${
@@ -1410,7 +1408,7 @@ if (loading) {
                       : darkMode ? 'bg-zinc-800 text-zinc-300 hover:bg-zinc-700 font-IBM Plex sans JP' : 'bg-stone-100 text-stone-600 hover:bg-stone-200 font-IBM Plex sans JP'
                   }`}
                 >
-                  {crossMode ? '✕ 横断ビューを閉じる' : '⇄ 横断読解ビューを開く'}
+                  {crossMode ? '✕ 対照ビューを閉じる' : '⇄ 対照読解ビューを開く'}
                 </button>
               </div>
 
@@ -1540,7 +1538,7 @@ if (loading) {
           </div>
         )}
 
-        {/* ─── 横断読解ビュー ──────────────────────── */}
+        {/* ─── 対照読解ビュー ──────────────────────── */}
         {crossMode && crossTexts.length > 0 && (
           <div ref={bodyRef} className="mb-6">
             <div className={`grid gap-4 pb-4`} style={{ gridTemplateColumns: `repeat(${crossTexts.length + 1}, minmax(0, 1fr))` }}>
@@ -1692,33 +1690,31 @@ if (loading) {
                 )}
                 {/* 段落ヘッダー（折りたたみボタン） */}
                 <button
-  onClick={() => toggleParagraph(para.id)}
-  className={`w-full flex items-center justify-between px-4 py-3 text-left transition-colors ${
-    isBookmarkedPara
-      ? darkMode ? 'hover:bg-amber-950/30 bg-amber-950/10' : 'hover:bg-amber-50/80 bg-amber-50/40'
-      : darkMode ? 'hover:bg-zinc-800/60' : 'hover:bg-stone-50/80'
-  }`}
->
-  <div className="flex items-center gap-2 min-w-0 overflow-hidden">
-    {/* ID（セクション番号）：透明度を低くし、背景に溶け込ませる */}
-    <span className={`text-sm font-IBM Plex sans JP w-7 shrink-0 tabular-nums select-none opacity-30 ${textClass}`}>
-      {para.id}
-    </span>
+                  onClick={() => toggleParagraph(para.id)}
+                  className={`w-full flex items-center justify-between px-4 py-3 text-left transition-colors ${
+                    isBookmarkedPara
+                    ? darkMode ? 'hover:bg-amber-950/30 bg-amber-950/10' : 'hover:bg-amber-50/80 bg-amber-50/40'
+                    : darkMode ? 'hover:bg-zinc-800/60' : 'hover:bg-stone-50/80'
+                  }`}
+                  >
+                  <div className="flex items-center gap-2 min-w-0 overflow-hidden">
+                    {/* ID（セクション番号）：透明度を低くし、背景に溶け込ませる */}
+                    <span className={`text-sm font-IBM Plex sans JP w-7 shrink-0 tabular-nums select-none opacity-30 ${textClass}`}>
+                      {para.id}
+                    </span>
 
-    {/* verses バッジ：これは構造的な情報（行番号）のため、控えめなテキストのみで残す（または必要なければ削除可） */}
-    {para.verses && (
-      <span className={`text-[10px] font-mono shrink-0 tabular-nums opacity-40 ${textClass}`}>
-        {para.verses}
-      </span>
-    )}
-
-    {/* 折りたたみ時のプレビュー：バッジ類が消えることで、より文章に目が向くようになります */}
-    {isCollapsed && showFrench && (
-      <span translate="no" className={`notranslate text-sm truncate opacity-60 ${textClass}`}>
-        {getOriginalText(para).split('\n')[0]}
-      </span>
-    )}
-
+                    {/* verses バッジ：これは構造的な情報（行番号）のため、控えめなテキストのみで残す（または必要なければ削除可） */}
+                    {para.verses && (
+                    <span className={`text-[10px] font-mono shrink-0 tabular-nums opacity-40 ${textClass}`}>
+                      {para.verses}
+                    </span>
+                  )}
+                    {/* 折りたたみ時のプレビュー：バッジ類が消えることで、より文章に目が向くようになります */}
+                    {isCollapsed && showFrench && (
+                    <span translate="no" className={`notranslate text-sm truncate opacity-60 ${textClass}`}>
+                      {getOriginalText(para).split('\n')[0]}
+                    </span>
+                  )}
     {/* 【削除済み】逐行対訳バッジ（interlinear）の箇所を完全に撤廃しました */}
   </div>
                   <div className="flex items-center gap-2 shrink-0">
