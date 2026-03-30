@@ -892,7 +892,7 @@ if (loading) {
           }}
         />
         {/* 中心に静止した小さな点（精密な印象を与える） */}
-        <div className="absolute w-1.5 h-1.5 bg-amber-900/40 rounded-full" />
+        <div className="absolute w-1.5 h-1.5 bg-amber-[#8a7a5a] rounded-full" />
       </div>
 
       {/* 控えめなテキスト */}
