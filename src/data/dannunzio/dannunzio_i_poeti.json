@@ -1,0 +1,101 @@
+{
+  "id": "dannunzio_i_poeti",
+  "title": "I poeti",
+  "author": "Gabriele D'Annunzio",
+  "source": "Epilogo di Poema paradisiaco (1892). Edizione: Gabriele D'Annunzio. L'orto e la prora. — Milano: Fratelli Treves Editori, 1896. Fonte: Internet Archive (https://archive.org/details/poemaparadisiaco00dann). Wikisource: https://it.wikisource.org/wiki/Poema_paradisiaco/Epilogo/I_poeti",
+  "year": "1892",
+  "firstPublication": "Poema paradisiaco. — Milano: Fratelli Treves Editori, 1893",
+  "difficulty": "上級",
+  "category": "dannunzio",
+  "originalLang": "it-IT",
+  "modernRelevance": "★★★★☆",
+  "context": "『楽園の詩』（Poema paradisiaco, 1892–93）の「エピローグ」最終篇。ダヌンツィオのデカダン期を代表する詩集の締め括りとして書かれた詩人論的頌歌。詩人たちは「遠い過去の夢」と「栄光の帝国の客」として刻まれた記憶を持つ存在──前世の記憶（秘儀・愛・香り）が彼らの本源的記憶（nativa memoria）をなす。長い眠り（secolare sonno）から目覚めた詩人たちは人類の嘆きと叫びを聞き、しかし「古い夢に新しい夜明け」を見出す。詩の結末はTEΛΟΣ（ギリシャ語：終わり）で締められ、詩人たちが「金の弦の上で調和の讃歌」を歌う終末論的なビジョンで閉じる。マラルメやヴェルレーヌと同時代のイタリア象徴主義・デカダン主義の詩人論。",
+  "keywords": [
+    "詩人論",
+    "前世の記憶",
+    "nativa memoria",
+    "秘儀",
+    "キメラ",
+    "長い眠り",
+    "崇高な夜明け",
+    "Alba sublime",
+    "楽園の詩",
+    "デカダン主義"
+  ],
+  "relatedTexts": [
+    "dannunzio_due_beatrici",
+    "dannunzio_beata_beatrice",
+    "mallarme_toast_funebre",
+    "valery_orphee"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "verses": "v.1–9",
+      "original": "Il sogno d'un passato lontano, d'una ignota\nstirpe, d'una remota\nfavola nei Poeti luce. Ai Poeti oscuro\nè il sogno del futuro.\nQual contro l'aure avverse una chioma divina,\nuna fiamma divina,\ntal ne la vita splende\nl'Anima, si distende,\nin dietro effusa pende.",
+      "provisionalTranslation": "遠い過去の夢、未知の\n血統の、遠い\n神話の夢が詩人たちの中に輝く。詩人たちには暗い\n未来の夢が。\n逆風に向かう神々しい髪のように、\n神々しい炎のように、\nそのように生の中で輝く\n魂が、広がり、\n後ろへ流れ漂う。"
+    },
+    {
+      "id": 2,
+      "verses": "v.10–19",
+      "original": "Ospiti fummo (O tu che m'ami: ti sovviene?\nEra ne le tue vene\nil Ritmo), ospiti fummo in imperi di gloria.\nNativa è la memoria\nin noi, dei fiori ardenti su dai cavi alabastri\ncome tangibili astri,\ndei misteri veduti,\ndegli amori goduti,\ndegli aromi bevuti.",
+      "provisionalTranslation": "私たちは客人だった（ああ私を愛するおまえよ：覚えているか？\nおまえの血管の中に\nリズムがあった）、私たちは栄光の帝国の客人だった。\n本源的な記憶が\n私たちの中にある──アラバスターの器から燃え上がる花々の、\n触れられる星のような、\n見た秘儀の、\n享受した愛の、\n飲んだ香りの記憶が。"
+    },
+    {
+      "id": 3,
+      "verses": "v.20–28",
+      "original": "In qual sera purpurea chiudemmo gli occhi? Quale\nfu ne l'ora mortale\nil nostro dio? Da quale portentosa ferita\nesalammo la vita?\nForse dopo una strage di eroi? Sotto il profondo\nciel d'un letto profondo?\nLe nostre spoglie fiera\ncustodì la Chimera\nne la purpurea sera.",
+      "provisionalTranslation": "どんな紫の夕暮れに私たちは目を閉じたのか？死の時に\n私たちの神はどんなだったのか？どんな驚くべき傷から\n私たちは命を吐き出したのか？\nおそらく英雄たちの虐殺の後？深い\n深い寝台の天蓋の下で？\n私たちの遺骸を誇らしげに\nキメラが守った\n紫の夕べに。"
+    },
+    {
+      "id": 4,
+      "verses": "v.29–38",
+      "original": "E al risveglio improvviso dal sonno secolare\nnoi vedemmo raggiare\nun altro cielo; udimmo altre voci, altri canti;\nudimmo tutti i pianti\numani, tutti i pianti umani che la Terra\nnel suo cerchio rinserra,\nudimmo tutti i vani\ngemiti e gli urli insani\ne le bestemmie immani.",
+      "provisionalTranslation": "そして長い眠りからの突然の目覚めに\n私たちは別の空が輝くのを見た。別の声を、別の歌を聞いた。\n私たちは聞いた、すべての人間の\n嘆きを、大地がその輪の中に\n閉じ込めているすべての人間の嘆きを。\n私たちはすべての空しい\n呻きと狂気の叫びを\nそして巨大な冒瀆の言葉を聞いた。"
+    },
+    {
+      "id": 5,
+      "verses": "v.39–43",
+      "original": "Udimmo taciturni la querela confusa.\nMa ne l'anima chiusa\nl'antichissimo sogno, che fluttuava ancora,\nebbe una nuova aurora.\nE vivemmo; e ingannammo la vita ricordando\nquella morte, cantando\ndei misteri veduti,\ndegli amori goduti,\ndegli aromi bevuti.",
+      "provisionalTranslation": "私たちは黙って混乱した嘆きを聞いた。\nしかし閉ざされた魂の中で\nまだ揺れていた太古の夢は\n新しい夜明けを得た。\nそして私たちは生きた。そしてあの死を思い出しながら\n生を欺いた、歌いながら\n見た秘儀を、\n享受した愛を、\n飲んだ香りを。"
+    },
+    {
+      "id": 6,
+      "verses": "v.44–54",
+      "original": "Or conviene il silenzio: alto silenzio. Oscuro\nè il sogno del futuro.\nNuova morte ci attende. Ma in qual giorno supremo,\no Fato, rivivremo?\nQuando i Poeti al mondo canteranno su corde\nd'oro l'inno concorde:\n— O voi che il sangue opprime,\nUomini, su le cime\nsplende l'Alba sublime!",
+      "provisionalTranslation": "今は沈黙が必要だ──深い沈黙が。暗い\n未来の夢が。\n新しい死が私たちを待つ。しかしどんな至高の日に、\nおお運命よ、私たちは再び生きるのか？\n詩人たちが世界に向かって金の弦の上で\n調和の讃歌を歌うとき：\n──おお血が重くのしかかるおまえたちよ、\n人間たちよ、頂の上に\n崇高な夜明けが輝く！"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "Il sogno d'un passato lontano, d'una ignota\nstirpe, d'una remota\nfavola nei Poeti luce. Ai Poeti oscuro\nè il sogno del futuro.",
+      "body": "詩の枠命題──詩人たちは「遠い過去の夢」に光を持ち、「未来の夢」は暗い。過去志向性が詩人の本質として定義される。ignota stirpe（未知の血統）・remota favola（遠い神話）──詩人は起源が不明な神話的な存在。第6連末「未来の夢は暗い（Oscuro è il sogno del futuro）」として完全に反復される円環構造。「沈黙（silenzio）」の後に詩人の使命（Alba sublime の宣告）が続く──詩的使命は未来への盲目性の中でのみ成立する。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "glossary",
+      "anchor": "Nativa è la memoria\nin noi, dei fiori ardenti su dai cavi alabastri",
+      "body": "nativa memoria（本源的な記憶）──生まれつき持つ記憶、前世・原初の記憶。プラトンのアナムネーシス（想起説）への参照：魂は生まれる前に真実を知っており、生の中でそれを「思い出す」。dei fiori ardenti su dai cavi alabastri（アラバスターの器から燃え上がる花々）──アラバスター（透明な石膏）の香炉から立ち上がる花という感覚的・典礼的なイメージ。dei misteri veduti / degli amori goduti / degli aromi bevuti（見た秘儀・享受した愛・飲んだ香り）という三重のリフレインが§5で反復される。"
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "Le nostre spoglie fiera\ncustodì la Chimera\nne la purpurea sera.",
+      "body": "「キメラが私たちの遺骸を誇らしげに守った」──キメラ（Chimera）はギリシャ神話の混合怪物（ライオン・ヤギ・蛇）であり、同時に幻想・夢想・不可能な欲望の象徴。詩人の死後の遺骸を守るものが「幻想」であるという逆説──詩人は幻想によって生き幻想によって守られる。ダヌンツィオの詩集でキメラは繰り返し現れる詩的な精神の守護獣として機能する。purpurea sera（紫の夕べ）という色彩が死と夕暮れを官能的に融合させる。"
+    },
+    {
+      "paragraphId": 4,
+      "type": "prosody",
+      "anchor": "udimmo tutti i pianti\numani, tutti i pianti umani che la Terra\nnel suo cerchio rinserra,",
+      "body": "tutti i pianti umani（すべての人間の嘆き）の二重反復──「udimmo tutti i pianti / umani, tutti i pianti umani」という行またぎの反復（anadiplosis）が人類の嘆きの圧倒的な量感を音響的に体現する。che la Terra nel suo cerchio rinserra（大地がその輪の中に閉じ込めている）──大地を球として、そこに閉じ込められた嘆きのイメージ。詩人たちは「黙って（taciturni）」これを聞く──能動的に反応するのでなく受容する存在として。"
+    },
+    {
+      "paragraphId": 6,
+      "type": "commentary",
+      "anchor": "Quando i Poeti al mondo canteranno su corde\nd'oro l'inno concorde:\n— O voi che il sangue opprime,\nUomini, su le cime\nsplende l'Alba sublime!",
+      "body": "詩の終末論的ビジョン──詩人たちが「金の弦の上で調和の讃歌（inno concorde）」を歌う未来の日。corde d'oro（金の弦）はオルフェウスの竪琴の伝統的比喩。「血が重くのしかかる人間たちよ、頂に崇高な夜明けが輝く」という宣告が引用符で詩内詩として提示される──詩人たちの使命を未来形で定義する。TEΛΟΣ（ギリシャ語：終わり・目的・完成）という結びの語がエピローグの結末を飾る──終わりと目的の二義性。"
+    }
+  ]
+}
