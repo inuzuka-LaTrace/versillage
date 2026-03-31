@@ -1,0 +1,83 @@
+{
+  "id": "dannunzio_cavaliere_della_morte",
+  "title": "Il cavaliere della morte",
+  "author": "Gabriele D'Annunzio",
+  "source": "Sonetti d'Ebe di Isaotta Guttadàuro (1886). Edizione: Gabriele D'Annunzio. Isaotta Guttadàuro, ed altre poesie. — Roma: Editrice La Tribuna, 1886. Fonte: Internet Archive (https://archive.org/details/isaottaguttadu00dann). Wikisource: https://it.wikisource.org/wiki/Isaotta_Guttadauro/Sonetti_d%27Ebe/Il_cavaliere_della_morte",
+  "year": "1886",
+  "firstPublication": "Gabriele D'Annunzio. Isaotta Guttadàuro, ed altre poesie. — Roma: Editrice La Tribuna, 1886",
+  "difficulty": "中級",
+  "category": "dannunzio",
+  "originalLang": "it-IT",
+  "modernRelevance": "★★★★★",
+  "context": "詩集『イザオッタ・グッタダウロ』（Isaotta Guttadàuro, 1886）の「エベのソネット集」巻頭篇。アルブレヒト・デューラーの銅版画「騎士・死・悪魔」（Ritter, Tod und Teufel, 1513年）を直接の主題とする。デューラーの騎士は鎧に身を包み、従者に死（骸骨）と悪魔を従えながら黙々と森の中を進む──恐怖に動じない意志の象徴として解釈されてきた。ダヌンツィオはこの図像を自らの詩的自己像に重ねる：「芸術と愛の征服」へ向かう詩人の傍らに死と罪が従うが、彼らは詩人を悲しませるのでなく鼓舞する。最終行「美しい者よ、もうおまえを鞍後ろに攫った」という愛人への呼びかけで詩が一気に現在に着地する。ダヌンツィオ詩学の核心──死と罪を恐れず芸術と愛に突進する超人的意志──の最初の完全な表明。",
+  "keywords": [
+    "騎士・死・悪魔",
+    "デューラー",
+    "Dürer",
+    "芸術と愛",
+    "死の従者",
+    "罪の道化",
+    "超人的意志",
+    "Isaotta Guttadàuro",
+    "Sonetti d'Ebe",
+    "詩人の自己像"
+  ],
+  "relatedTexts": [
+    "dannunzio_i_poeti",
+    "dannunzio_esortazione",
+    "dannunzio_due_beatrici",
+    "bryusov_ya_motylok_nochoy"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "verses": "v.1–4",
+      "original": "In un'antica stampa de 'l Durero\nva contro maghi e draghi a la battaglia\ntutto chiuso ne l'arme un Cavaliero\nsu 'l gran cavallo coperto di scaglia:",
+      "provisionalTranslation": "デューラーの一枚の古い版画の中で\n魔法使いたちと竜たちに向かって戦いに向かう\n鎧に完全に身を包んだ一人の騎士が\n鱗に覆われた大きな馬の上に──"
+    },
+    {
+      "id": 2,
+      "verses": "v.5–8",
+      "original": "a 'l fianco l'accompagna da scudiero\nla Morte senza piastra e senza maglia,\ndietro gli segue da valletto il nero\nPeccato; e fosca innanzi è la boscaglia.",
+      "provisionalTranslation": "傍らには従者として付き従う\n胸当ても鎖帷子もない死が、\n後ろには小間使いとして黒い\n罪が続く。そして前方の森は暗い。"
+    },
+    {
+      "id": 3,
+      "verses": "v.9–11",
+      "original": "Io così, nuovamente, a la conquista\nde l'Arte e de l'Amor, salgo la vita;\nma il mio bieco scudier non mi rattrista,",
+      "provisionalTranslation": "私もそのように、新たに、芸術と愛の\n征服へと、生を登っていく──\nしかし私の邪な従者は私を悲しませない、"
+    },
+    {
+      "id": 4,
+      "verses": "v.12–14",
+      "original": "ma il valletto ridendo alto m'incita\ned incanto non v'ha che mi resista,\npoi che già in groppa, o Bella, io t'ho rapita.",
+      "provisionalTranslation": "小間使いは笑いながら高らかに私を鼓舞する、\nそして私に抵抗できる魔法は何もない、\nなぜなら美しい者よ、もうおまえを私は鞍後ろに攫ったのだから。"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "allusion",
+      "anchor": "In un'antica stampa de 'l Durero",
+      "body": "アルブレヒト・デューラー（Albrecht Dürer, 1471–1528）の銅版画「騎士・死・悪魔」（Ritter, Tod und Teufel, 1513年）への直接の参照。デューラーの騎士はエラスムス「キリスト者の騎士の手引き」（Enchiridion Militis Christiani, 1503）の「精神の騎士」像を視覚化したものとされる──信仰の騎士は死の恐怖にも悪魔の誘惑にも動じない。ダヌンツィオはこの宗教的・道徳的な図像を「芸術と愛」という世俗的・美学的な目標への意志として読み替える。cavallo coperto di scaglia（鱗に覆われた馬）は版画の細部の正確な描写。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "a 'l fianco l'accompagna da scudiero\nla Morte senza piastra e senza maglia,\ndietro gli segue da valletto il nero\nPeccato;",
+      "body": "騎士の従者としての死（scudiero・従者）と罪（valletto・小間使い）──デューラーの版画では死は砂時計を持つ骸骨として、悪魔は奇怪な怪物として描かれる。ダヌンツィオの解釈の独自性：死は「胸当ても鎖帷子もない（senza piastra e senza maglia）」──防具を持たない脆弱な従者として格下げされる。Peccato（罪）は大文字で固有名詞化され、nero（黒い）という色彩が付与される──道徳的な黒さの視覚化。"
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "Io così, nuovamente, a la conquista\nde l'Arte e de l'Amor, salgo la vita;\nma il mio bieco scudier non mi rattrista,",
+      "body": "ソネットの volta（転換点）──「私もそのように」という一人称の登場でデューラーの版画から現在の詩人の自己像へ転換する。conquista（征服）という語が芸術と愛を戦場として定義する。salgo la vita（生を登る）という独特の表現──生を山として「登る」という能動的・上昇的なメタファー。bieco scudier（邪な従者）は死のこと──「非rattrista（悲しませない）」という否定が、通常なら死を恐れるはずという常識に挑戦する。"
+    },
+    {
+      "paragraphId": 4,
+      "type": "commentary",
+      "anchor": "poi che già in groppa, o Bella, io t'ho rapita.",
+      "body": "ソネットの最終行による劇的転換──「美しい者よ、もうおまえを鞍後ろに攫った（io t'ho rapita）」。騎士・死・罪という荘厳な図像の連鎖が突然、愛人への直接呼びかけ（o Bella）と誘拐の宣告に着地する。in groppa（鞍後ろに）は馬の後ろの座席──従者ではなく征服された恋人が騎士の後ろに乗せられる。デューラーの厳粛な「精神の騎士」のイメージがダヌンツィオの「美と愛の略奪者」へと変容する最後の一行。詩全体の構造（図像描写→自己投影→愛人への宣言）の完璧な三段階。"
+    }
+  ]
+}
