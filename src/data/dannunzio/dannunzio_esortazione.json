@@ -1,0 +1,96 @@
+{
+  "id": "dannunzio_esortazione",
+  "title": "Esortazione",
+  "author": "Gabriele D'Annunzio",
+  "source": "Prologo di Poema paradisiaco (1892). Edizione: Gabriele D'Annunzio. L'orto e la prora. — Milano: Fratelli Treves Editori, 1896. Fonte: Internet Archive (https://archive.org/details/poemaparadisiaco00dann). Wikisource: https://it.wikisource.org/wiki/Poema_paradisiaco/Prologo/Esortazione",
+  "year": "1892",
+  "firstPublication": "Poema paradisiaco. — Milano: Fratelli Treves Editori, 1893",
+  "difficulty": "中級",
+  "category": "dannunzio",
+  "originalLang": "it-IT",
+  "modernRelevance": "★★★★☆",
+  "context": "『楽園の詩』（Poema paradisiaco, 1892–93）の「プロローグ」第2篇。「勧告（Esortazione）」という題名が示す通り、魂に向かって死を受け入れることを促す問答詩。4+4+3+3行のソネット形式に最後の4行（引用符付きの反論）を加えた変形ソネット（18行）。前半の12行は問いかける声（「いつまでぐずぐずしているのか？」「大いなる平和が与えられる」「死は約束を守った」）、最終4行の引用符内は魂の側からの反論──「春の小さな葉は？広大な空は？子供たちは？母は？おまえが愛する家は？」。デカダンス的な死への誘惑と生への執着の対話として読める。",
+  "keywords": [
+    "Esortazione",
+    "勧告",
+    "死への誘惑",
+    "魂への問いかけ",
+    "大いなる平和",
+    "死は約束を守る",
+    "生への執着",
+    "変形ソネット",
+    "Poema paradisiaco",
+    "デカダンス"
+  ],
+  "relatedTexts": [
+    "dannunzio_i_poeti",
+    "dannunzio_beata_beatrice",
+    "bryusov_my_tolko_ston",
+    "sologub_o_smert_ya_tvoy"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "verses": "v.1–4",
+      "original": "Anima, a che t'indugi ignobilmente\nfra il tedio de la vita e la paura\nde la morte? Le faci sono spente.\nNulla riluce ne la gran bassura.",
+      "provisionalTranslation": "魂よ、なぜおまえは卑しくもぐずぐずしているのか\n生の倦怠と死の恐怖の\n間で？松明は消えた。\n大いなる低みには何も輝いていない。"
+    },
+    {
+      "id": 2,
+      "verses": "v.5–8",
+      "original": "A che dunque t'indugi? Ancor ti mente\nla speranza di un'ultima avventura?\nGuarda ben la tua via; nuda, silente,\ncome constretta fra due cieche mura.",
+      "provisionalTranslation": "それでもなぜぐずぐずしているのか？まだ\n最後の冒険への希望が嘘をついているのか？\nよく見よ、おまえの道を──裸で、黙して、\nまるで二つの盲目の壁の間に閉じ込められたように。"
+    },
+    {
+      "id": 3,
+      "verses": "v.9–11",
+      "original": "Poichè non giunge il fulmine improvviso,\na che t'indugi omai? Non dubitare.\nLa grande pace ti sarà concessa.",
+      "provisionalTranslation": "突然の雷が訪れないのだから、\nもうなぜぐずぐずするのか？疑うな。\n大いなる平和がおまえに与えられるだろう。"
+    },
+    {
+      "id": 4,
+      "verses": "v.12–14",
+      "original": "Più d'una volta tu leggesti in viso\nai cadaveri freddi ne le bare\nche la Morte mantenne la promessa.",
+      "provisionalTranslation": "一度ならずおまえは読んだ\n棺の中の冷たい死骸の顔に\n死が約束を守ったということを。"
+    },
+    {
+      "id": 5,
+      "verses": "v.15–18",
+      "original": "«E le piccole foglie in cima ai rami\ndi primavera? e il cielo così grande?\ne i fanciulli? e le tombe venerande?\ne la madre? e la casa che tu ami?»",
+      "provisionalTranslation": "「そして春の枝の先端の小さな葉は？\nそしてあれほど広大な空は？\nそして子供たちは？そして尊い墓は？\nそして母は？そしておまえが愛する家は？」"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "prosody",
+      "anchor": null,
+      "body": "変形ソネット──4+4+3+3行（14行）に最終4行（引用符付きの反論）を加えた18行構成。前半14行（§1〜§4）は問いかける声（死への誘惑）、最終4行（§5）は引用符「«…»」で括られた別の声──魂自身の反論または生への執着を代弁する声。ソネットの形式的完結（14行）の後に「付け加え（coda）」として反論が置かれる構造が、死の誘惑と生への抵抗の対話を形式上で体現する。韻律：ABAB ABAB CDC DCD + EFEF（不規則な追加連）。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "a che t'indugi ignobilmente\nfra il tedio de la vita e la paura\nde la morte?",
+      "body": "「いつまで卑しくもぐずぐずしているのか、生の倦怠と死の恐怖の間で」──「a che t'indugi（なぜぐずぐずしているのか）」という問いかけが§1・§2・§3に3回反復される。魂が「生の倦怠（tedio de la vita）」と「死の恐怖（paura de la morte）」の二重の否定的感情の間で立ち往生していることの診断。ignobilmente（卑しくも）という副詞が、このぐずぐずを道徳的弱さとして断罪する。デカダンス的な生の疲弊の精密な記述。"
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "La grande pace ti sarà concessa.",
+      "body": "「大いなる平和がおまえに与えられるだろう」──死を「大いなる平和（grande pace）」として提示する誘惑の核心。「疑うな（Non dubitare）」という命令形が「死への決断」を促す。ブリューソフ「我々のために葬送の祈りが歌われている──微笑みながら聞け」（Мы только стон）やダウスン「最後の言葉」（A Last Word）と同型のデカダンス的死の受容の詩学。",
+      "targetId": "bryusov_my_tolko_ston"
+    },
+    {
+      "paragraphId": 4,
+      "type": "commentary",
+      "anchor": "tu leggesti in viso\nai cadaveri freddi ne le bare\nche la Morte mantenne la promessa.",
+      "body": "「棺の中の冷たい死骸の顔に死が約束を守ったということを読んだ」──死骸の顔を「読む（leggesti）」という読書の比喩。cadaveri freddi ne le bare（棺の中の冷たい死骸）という直截な描写が詩の官能的な死の美化から一転して写実的な冷たさを示す。la Morte mantenne la promessa（死は約束を守った）──死を信頼できる約束の守り手として人格化する。前半3連の誘惑の論理の最も強力な証拠として機能する。"
+    },
+    {
+      "paragraphId": 5,
+      "type": "commentary",
+      "anchor": "«E le piccole foglie in cima ai rami\ndi primavera? e il cielo così grande?\ne i fanciulli? e le tombe venerande?\ne la madre? e la casa che tu ami?»",
+      "body": "最終4行──引用符内の「別の声」が問いかけ形式で生への執着を列挙する。piccole foglie di primavera（春の小さな葉）・cielo così grande（広大な空）・fanciulli（子供たち）・tombe venerande（尊い墓）・madre（母）・casa（家）──小さなものから巨大なもの、生者から死者、自然から人間関係まで。しかしこれらの問いに「答え」はなく、詩はここで終わる──反論の沈黙がそのまま詩の結末。生と死のどちらが「勝った」かを決定しない開かれた結末。"
+    }
+  ]
+}
