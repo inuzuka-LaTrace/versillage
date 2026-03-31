@@ -1,0 +1,115 @@
+{
+  "id": "dannunzio_rosa",
+  "title": "Rosa",
+  "author": "Gabriele D'Annunzio",
+  "source": "Libro secondo di Primo vere (1880). Edizione: Gabriele D'Annunzio. Versi d'amore e di gloria. — Milano: Mondadori Meridiani, 2004. — Vol. I. Wikisource: https://it.wikisource.org/wiki/Primo_vere/Libro_secondo/Rosa",
+  "year": "1880",
+  "firstPublication": "Primo vere. — Chieti: Tipografia Carabba, 1880",
+  "difficulty": "初級",
+  "category": "dannunzio",
+  "originalLang": "it-IT",
+  "modernRelevance": "★★★☆☆",
+  "context": "詩集『初めての春』（Primo vere, 1880）の「第二書」所収。アントニーノ・リベーリに献呈。16歳のダヌンツィオが書いた青春期の詩。蒼白い薔薇に向かって呼びかける形式の自然詩──夕暮れの太陽の愛撫、葉の甘い震え、蜻蛉のキス、スミレの嫉妬、金星の婚礼の光線、燕の上皮歌（epitalamio）、雀の囀り、小さな滝のエコーが次々と描かれ、「ヴィーナスの聖なる花への天の香りの波」「アポロンが私の詩に夕暮れの光線を与えんことを」という詩人の祈願で結ばれる。カルドゥッチの影響下にある古典的語彙と田園的情景の習作だが、ダヌンツィオの官能的な自然描写の萌芽が随所に見える。",
+  "keywords": [
+    "薔薇",
+    "自然詩",
+    "Primo vere",
+    "婚礼のメタファー",
+    "エピタラミオ",
+    "ヴィーナス",
+    "アポロン",
+    "田園詩",
+    "初期ダヌンツィオ",
+    "カルドゥッチ"
+  ],
+  "relatedTexts": [
+    "dannunzio_i_poeti",
+    "dannunzio_esortazione",
+    "pascoli_l_anima",
+    "gautier_la_rose_the"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "verses": "v.1–4",
+      "epigraphs": [
+        {
+          "author": null,
+          "source": null,
+          "text": "Ad Antonino Liberi.",
+          "translation": "アントニーノ・リベーリに。"
+        }
+      ],
+      "original": "Pallida rosa, che da 'l verde céspite\nridi con disìo placido\na 'l bel vale d'amor de 'l sole occiduo\ne gli mandi i tuoi balsami,",
+      "provisionalTranslation": "蒼白い薔薇よ、緑の茂みから\n穏やかな欲望とともに微笑んで\n沈む太陽の愛の美しい光の中へ\nそしておまえのバルサムの香りを送り出す、"
+    },
+    {
+      "id": 2,
+      "verses": "v.5–8",
+      "original": "senti tu tra le foglie i dolci fremiti\nch'or la natura scuotono?\nintendi la canzon che canta Zefiro\ntra' rami di que' platani?",
+      "provisionalTranslation": "おまえは葉の間に感じるか、今自然を\n揺さぶっている甘い震えを？\nゼフィロスがあのプラタナスの枝の間で\n歌っている歌を聴き取るか？"
+    },
+    {
+      "id": 3,
+      "verses": "v.9–12",
+      "original": "Ecco, il tuo stelo trema a 'l bacio languido\nd'un'amante libellula,\ne le viole invidïando guardano\ni tuoi divini gaudii:",
+      "provisionalTranslation": "ほら、おまえの茎が震える、恋する\n蜻蛉の物憂げなキスに、\nそしてスミレたちは嫉妬しながら眺めている\nおまえの神々しい歓びを──"
+    },
+    {
+      "id": 4,
+      "verses": "v.13–16",
+      "original": "da l'orïente la stella di Venere\nti vibra il raggio pronubo,\nmentre le gaie rondini cinguettano\nper te l'epitalamio.",
+      "provisionalTranslation": "東から金星が\n婚礼の光線をおまえに向けて振動させ、\n陽気な燕たちはおまえのために\nさえずっている、上皮歌を。"
+    },
+    {
+      "id": 5,
+      "verses": "v.17–20",
+      "original": "Le petulanti passere rispondono\nda le pampinee pergole\ncon trilli, con garriti di letizia\ne piluccando i grappoli.",
+      "provisionalTranslation": "おしゃべりな雀たちが答える\nブドウの葉の棚から\n囀りで、喜びの喧しい声で\nそして房をつまみ食いしながら。"
+    },
+    {
+      "id": 6,
+      "verses": "v.21–24",
+      "original": "La cascatella i piccoli echi suscita\nper li verdi silenzii,\nsimile a suon di chitarrino e flauto\nin nuzïal corteggio…",
+      "provisionalTranslation": "小さな滝が小さなこだまを呼び起こす\n緑の静寂の中に、\n婚礼の行列での\nギタレットとフルートの音のように……"
+    },
+    {
+      "id": 7,
+      "verses": "v.25–28",
+      "original": "Deh, come lieta l'armonia de l'etere\nin questa solitudine!\nCome son belli questi tuoi connubii,\no cara terra vergine!",
+      "provisionalTranslation": "ああ、この孤独の中で\nエーテルの調和はなんと喜ばしいことか！\nおまえのこの婚姻はなんと美しいことか、\nああ愛しい処女の大地よ！"
+    },
+    {
+      "id": 8,
+      "verses": "v.29–32",
+      "original": "Io chiedo un'onda di celesti effluvii\na 'l sacro fior di Venere:\nchiedo che un raggio de' suoi caldi vesperi\ndoni a' miei carmi Apolline.",
+      "provisionalTranslation": "私はヴィーナスの聖なる花に\n天の香りの波を求める。\nアポロンがその温かい夕暮れの光線を\n私の詩に贈ってくれんことを求める。"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "prosody",
+      "anchor": null,
+      "body": "サッフォー風詩節（strofa saffica）の変形──各連は長短交互の行（11音節・7音節・11音節・7音節）で構成され、古典古代の抒情詩の音律を模倣する。カルドゥッチの「バルバリズム詩（Odi barbare）」（1877）の影響が顕著──古典ギリシャ・ラテンの詩脚をイタリア語に移植しようとした試み。16歳のダヌンツィオがカルドゥッチの詩形実験を習作として取り入れた。da 'l（dalla）、a 'l（alla）という古風な短縮形がアルカイックな文体的色彩を与える。"
+    },
+    {
+      "paragraphId": 4,
+      "type": "glossary",
+      "anchor": "la stella di Venere\nti vibra il raggio pronubo",
+      "body": "raggio pronubo（婚礼の光線）──pronubo はラテン語 pronubus（婚礼の神・ユノーの別名）に由来する形容詞で「婚礼を司る」の意。金星（stella di Venere / Venus）は愛と美の女神の星──その光線が薔薇に「婚礼の光」を送るという比喩。epitalamio（上皮歌）は古代ギリシャ・ローマの婚礼の場で歌われた祝婚詩（epithalamion）──燕が薔薇の婚礼を祝う。詩全体を薔薇の婚礼の祝祭として構成する中心的な比喩。"
+    },
+    {
+      "paragraphId": 7,
+      "type": "commentary",
+      "anchor": "Come son belli questi tuoi connubii,\no cara terra vergine!",
+      "body": "「おまえのこの婚姻はなんと美しいことか、愛しい処女の大地よ」──connubii（婚姻・結合）は薔薇と自然の要素（蜻蛉・金星・燕・雀・滝）との官能的な結合を指す。terra vergine（処女の大地）──「処女性」と「大地の豊饒」の矛盾した組み合わせがダヌンツィオ的な官能の萌芽。第7連が詩の感嘆的な頂点──「孤独（solitudine）」の中の調和という逆説がさらにこの官能的な大地の婚礼の美しさを高める。"
+    },
+    {
+      "paragraphId": 8,
+      "type": "commentary",
+      "anchor": "Io chiedo un'onda di celesti effluvii\na 'l sacro fior di Venere:\nchiedo che un raggio de' suoi caldi vesperi\ndoni a' miei carmi Apolline.",
+      "body": "詩の結末──詩人の祈願。「ヴィーナスの聖なる花（sacro fior di Venere）」への天の香りの要求と「アポロン（Apolline）が私の詩（carmi）に夕暮れの光線を贈ってくれんことを」という詩的霊感への祈り。薔薇への呼びかけ（§1〜§7）から詩人自身への転換（§8）──薔薇への讃歌が自らの詩作への祈願として完結する。ヴィーナス（愛・美）とアポロン（詩・光）という二神への二重の祈願が、この詩自体の詩学的宣言として機能する。"
+    }
+  ]
+}
