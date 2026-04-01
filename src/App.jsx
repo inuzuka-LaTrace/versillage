@@ -251,11 +251,15 @@ export default function App() {
   // --- ステート・参照の定義 ---
 const [isScrollingDown, setIsScrollingDown] = useState(false);
 const [showScrollTop, setShowScrollTop] = useState(false);
+const [scrollRatio, setScrollRatio] = useState(0);
 const lastScrollY = useRef(0);
 
 useEffect(() => {
   const handleScroll = () => {
     const currentY = window.scrollY;
+  // 0pxから100pxの間で 0.0 〜 1.0 に変化させる
+    const ratio = Math.min(1, Math.max(0, currentY / 100));
+    setScrollRatio(ratio);
     
     // 1. スクロール方向の判定
     const isScrollingUp = currentY < lastScrollY.current;
@@ -1275,6 +1279,9 @@ if (loading) {
       {/* ─── ヘッダー ────────────────────────────────── */}
 <header 
   ref={headerRef} 
+  style={{
+    paddingTop: `calc(${4 + (12 - 4) * (1 - scrollRatio)}px + env(safe-area-inset-top))`,
+    paddingBottom: `${4 + (12 - 4) * (1 - scrollRatio)}px`
   className={`sticky top-0 z-30 border-b backdrop-blur-md 
     pt-[env(safe-area-inset-top)] 
     transition-all duration-500 ease-in-out
