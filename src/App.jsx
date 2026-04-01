@@ -1209,20 +1209,22 @@ if (loading) {
   {/* 左側：タイトルエリア。flex-1 min-w-0 により、ボタン以外の全幅を作品名に割り当てます */}
   <div className="flex-1 min-w-0">
     <h1
-      style={{ fontFamily: "Bodoni Moda, serif", letterSpacing: '0.08em' }}
-      className={`text-base font-semibold ${textClass} truncate leading-tight cursor-pointer select-none hover:opacity-70 transition-opacity`}
-      onClick={() => window.scrollTo({ top: 0, behavior: 'smooth' })}
-    >
-      VANITISME
-    </h1>
-    {currentText && (
-      <p className={`text-[10px] sm:text-xs font-IBM Plex sans JP truncate mt-0.5 ${textSecondary}`}>
-        <span className="opacity-60">{currentText.author}</span>
-        <span className="opacity-40 mx-1">›</span>
-        <span>{currentText.title}</span>
-      </p>
-    )}
-  </div>
+      style={{ fontFamily: "Bodoni Moda, serif", letterSpacing: '0.07em' }}
+    {/* text-base から text-xl（または text-2xl）へ変更 */}
+    className={`text-xl sm:text-2xl font-bold ${textClass} truncate leading-none cursor-pointer select-none hover:opacity-70 transition-opacity`}
+    onClick={() => window.scrollTo({ top: 0, behavior: 'smooth' })}
+  >
+    VANITISME
+  </h1>
+  {currentText && (
+    {/* ロゴが大きくなった分、mt-1 程度に余白を広げると綺麗です */}
+    <p className={`text-[10px] sm:text-xs font-IBM Plex sans JP truncate mt-1 ${textSecondary}`}>
+      <span className="opacity-60">{currentText.author}</span>
+      <span className="opacity-40 mx-1">›</span>
+      <span>{currentText.title}</span>
+    </p>
+  )}
+</div>
 
   {/* 右側：ボタン群。3つに絞ることでタイトルエリアの「領土」を物理的に広げます */}
   <div className="flex items-center gap-2 flex-shrink-0">
@@ -1326,7 +1328,7 @@ if (loading) {
   className={`mt-40 text-[9px] opacity-48 ${ // 25 -> 35
     darkMode ? 'text-[#8a7a5a]' : 'text-stone-500' // 金褐色 #8a7a5a を指定
   }`}
-  style={{ fontFamily: 'Cinzel, serif', letterSpacing: '0.05em' }}
+  style={{ fontFamily: 'Bodoni Moda, serif', letterSpacing: '0.04em' }}
 >
   Adriaen van Utrecht, "Stilleven met boeket en schedel", 1642
     </div>
