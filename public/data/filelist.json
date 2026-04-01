@@ -1,1 +1,191 @@
+[
+### ラシーヌ（racine）— Phèdre 全5幕、JSONファイル11本
+| ファイルID | 幕・場面 | 行数 | 段落 | 注釈 | 備考 |
+|---|---|---|---|---|---|
+| `racine_phedre_acte1_sc1` | Acte I, Sc.I | 144 | 15 | 5 | v.1–142；Hippolyte/Théramène |
+| `racine_phedre_acte1_sc2_3` | Acte I, Sc.II–III | 185 | 50 | 10 | v.143–327；Œnone/Phèdre登場 |
+| `racine_phedre_acte1_sc4_5` | Acte I, Sc.IV–V | v.295–358 | ✅ 2026-03-13 新規 |
+| `racine_phedre_acte2_sc1_3` | Acte II, Sc.I–III | — | ✗ verses 要追加 |
+| `racine_phedre_acte2_sc4_6` | Acte II, Sc.IV–VI | — | ✗ verses 要追加 |
+| `racine_phedre_acte3_sc1_3` | Acte III, Sc.I–III | — | ✗ verses 要追加 |
+| `racine_phedre_acte3_sc4_6` | Acte III, Sc.IV–VI | — | ✗ verses 要追加 |
+| `racine_phedre_acte4_sc1_3` | Acte IV, Sc.I–III | ✅ | |
+| `racine_phedre_acte4_sc4_6` | Acte IV, Sc.IV–VI | ✅ | |
+| `racine_phedre_acte5_sc1_3` | Acte V, Sc.I–III | ✅ | |
+| `racine_phedre_acte5_sc4_7` | Acte V, Sc.IV–VII | ✅ | |
 
+**底本**：Wikisource, Phèdre (Racine), Didot, 1854（Acte I以降）
+
+---
+
+### マラルメ（mallarme）
+`mallarme_apparition` / `mallarme_les_fleurs` / `mallarme_angoisse` / `mallarme_lazur` / `mallarme_brise_marine` / `mallarme_sainte` / `mallarme_toast_funebre` / `mallarme_eventail_madame_mallarme` / `mallarme_placet_futile` / `mallarme_tombeau_charles_baudelaire` / `mallarme_herodiade_scene` / `mallarme_herodiade_ouverture` / `mallarme_cantique_saint_jean` / `mallarme_coup_de_des` / `mallarme_sonnet_yx` / `mallarme_toute_lame` / `mallarme_plainte_automne` / `mallarme_le_corbeau`
+
+### マラルメ散文（mallarme_prose）
+`mallarme_crise_de_vers` / `mallarme_musique_lettres` / `mallarme_catholicisme` / `mallarme_de_meme` / `mallarme_fonds_ballet` / `mallarme_hamlet` / `mallarme_plaisir_sacre` / `mallarme_wagner_full` / `mallarme_quant` / `mallarme_mimique` / `mallarme_ballets_full` / `mallarme_avant_dire` / `mallarme_cazalis` / `mallarme_mystere` / `mallarme_livre_instrument` / `mallarme_verlaine`
+
+---
+
+### ボードレール（baudelaire）
+`baudelaire_elevation` / `baudelaire_une_charogne` / `baudelaire_harmonie_du_soir` / `baudelaire_spleen` / `baudelaire_hymne` / `baudelaire_femmes_damnees` / `baudelaire_correspondances` / `baudelaire_la_chevelure` / `baudelaire_beaute` / `baudelaire_invitation_voyage` / `baudelaire_chat` / `baudelaire_parfum_exotique` / `baudelaire_danse_macabre` / `baudelaire_litanies_satan` / `baudelaire_horloge`
+
+### ボードレール散文（baudelaire_prose）
+`baudelaire_heroisme` / `baudelaire_romantisme_complet` / `baudelaire_gautier` / `baudelaire_peintre_1`〜`_12` / `baudelaire_valmore_critique` / `baudelaire_wagner_encore` / `baudelaire_delacroix_1`〜`_4` / `baudelaire_lettre_wagner` / `baudelaire_wagner_1`〜`_4` / `baudelaire_rire`
+
+---
+
+### ヴァレリー（valery）
+`valery_l_amateur_de_poemes` / `valery_orphee` / `valery_narcisse_parle` / `valery_naissance_de_venus` / `valery_la_dormeuse` / `valery_le_vin_perdu` / `valery_fragments_du_narcisse` / `valery_poesie` / `valery_le_sylphe`
+
+### ヴァレリー散文（valery_prose）
+`valery_situation_de_baudelaire` / `valery_lettre_sur_mallarme` / `valery_premiere_lecon_cours_de_poetique`
+
+---
+
+### ルコント・ド・リール（leconte_de_lisle）
+`lecontelisle_midi` / `lecontelisle_l_illusion_supreme` / `lecontelisle_arc_de_civa` / `lecontelisle_epiphanie` / `lecontelisle_l_anatheme` / `lecontelisle_la_rose_de_louveciennes` / `lecontelisle_le_dernier_dieu` / `lecontelisle_le_parfum_imperissable` / `lecontelisle_le_soir_d_une_bataille` / `lecontelisle_les_roses_d_ispahan` / `lecontelisle_surya` / `lecontelisle_tristesse_du_diable`
+
+---
+
+### ローデンバック（rodenbach）
+`rodenbach_coeur_de_leau` / `rodenbach_du_silence` / `rodenbach_la_vie_des_chambres` / `rodenbach_paysages_de_ville` / `rodenbach_lange_envole` / `rodenbach_devant_tete_de_mort` / `rodenbach_loubli` / `rodenbach_les_femmes_tristes` / `rodenbach_lacrymae_rerum`
+
+---
+
+### ゴーティエ（gautier）
+`gautier_l_art` / `gautier_contralto` / `gautier_symphonie_en_blanc_majeur` / `gautier_affinites_secretes` / `gautier_carmen` / `gautier_la_rose_the` / `gautier_a_une_robe_rose` / `gautier_coquetterie_posthume` / `gautier_les_joujoux_de_la_morte`
+
+---
+
+### ヴァルモール（valmore）
+`valmore_les_roses_de_saadi` / `valmore_adieu` / `valmore_qu_en_avez` / `valmore_avis` / `valmore_chambre` / `valmore_couronne` / `valmore_fleurs` / `valmore_insomnie` / `valmore_mal_du_pays` / `valmore_a_monsieur` / `valmore_priere_fils` / `valmore_reve_intermittent` / `valmore_separees` / `valmore_tristesse`
+
+---
+
+### ヴェルレーヌ（verlaine）
+`verlaine_clair_de_lune` / `verlaine_chanson_dautomne` / `verlaine_calme_orphelin` / `verlaine_la_lune_blanche` / `verlaine_colloque_sentimental` / `verlaine_marceline_desbordes_valmore` / `verlaine_a_arthur_rimbaud` / `verlaine_serenade` / `verlaine_un_dahlia` / `verlaine_parsifal` / `verlaine_saint_graal` / `verlaine_un_crucifix` / `verlaine_le_ciel` / `verlaine_spleen`
+
+### ヴェルレーヌ批評（verlaine_critique）
+`verlaine_poetes_maudits_mallarme` / `_corbiere` / `_rimbaud` / `_valmore` / `_villiers`
+
+---
+
+### ヴェルハーレン（verhaeren）
+`verhaeren_heresiarque` / `verhaeren_moine_feodal` / `verhaeren_mourir` / `verhaeren_insatiablement` / `verhaeren_a_tenebres`
+
+---
+
+### メーテルリンク（maeterlinck）
+ `maeterlinck_serre_chaude` / `maeterlinck_serre_d_ennui` / `maeterlinck_offrande_obscure` / `maeterlinck_ame_de_serre` / `maeterlinck_aquarium`
+
+---
+
+### ヴァン・レルベルグ（vanlerberghe）
+`vanlerberghe_entrevisions` / `vanlerberghe_invocation` / `van_lerberghe_dans_un_parfum` / `van_lerberghe_ange_etoile_matin` / `van_lerberghe_tombee_du_soir` / `van_lerberghe_rosier_mystique` / `van_lerberghe_sous_les_arches` / `van_lerberghe_solitude` / `van_lerberghe_la_mort`
+
+---
+
+### バンヴィル（banville）
+`banville_caprice` / `banville_nuit_d_etoiles` / `banville_les_baisers` / `banville_apotheose` /
+`banville_les_princesses` / `banville_pasiphae` / `banville_antiope` / `banville_andromede` / `banville_herodiade`
+
+---
+
+### ポー（poe）
+`poe_a_dream` / `poe_a_dream_within_a_dream` / `poe_to_helen` / `poe_annabel_lee` / `poe_israfel` / `poe_the_raven` / `poe_ulalume`
+
+---
+
+### クリスティーナ・ロセッティ（rossetti_c）
+ `rossetti_monna_innominata` / `rossetti_vanity_of_vanities` / `rossetti_days_of_vanity` / `rossetti_golden_silences` / `rossetti_dead_before_death` / `rossetti_de_profundis` / `rossetti_remember` / `rossetti_sweet_death` / `rossetti_soeur_louise`
+
+---
+
+### ワイルド（wilde）
+`wilde_ave_maria` / `wilde_ballad_reading_gaol` / `wilde_impressions` / `wilde_magdalen_walks` / `wilde_panthea` / `wilde_sphinx` / `wilde_to_my_wife` / `wilde_e_tenebris` / `wilde_harlots_house` / `wilde_helas` / `wilde_impression_matin` / `wilde_requiescat` / `wilde_symphony_yellow` / `wilde_theoretikos`
+
+---
+
+### ダウスン（dowson）
+ `dowson_after_verlaine_1` / `dowson_after_verlaine_2` / `dowson_after_verlaine_3` / `dowson_after_verlaine_4` / `dowson_beata_solitudo` / `dowson_a_last_word` / `dowson_venite_descendamus` / `dowson_seraphita` / `dowson_a_requiem` / `dowson_vanitas`
+
+---
+
+### スウィンバーン（swinburne）
+`swinburne_at_parting` / `swinburne_ballad_villon` / `swinburne_ballad_dreamland` / `swinburne_forsaken_garden` / `swinburne_garden_of_proserpine` / `swinburne_maupin_sonnet` / `swinburne_memorial_gautier` / `swinburne_a_match` / `swinburne_anactoria`
+
+---
+
+### イェイツ（yeats）
+`yeats_leda_and_the_swan` / `yeats_to_the_rose_upon_the_rood_of_time` / `yeats_stolen_child` / `yeats_rose_of_the_world` / `yeats_adams_curse` / `yeats_aedh_wishes_for_the_cloths_of_heaven` / `yeats_who_goes_with_fergus` / `yeats_the_lake_isle_of_innisfree`
+
+---
+
+### ゲオルゲ（george）
+`george_entrueckung` / `george_das_wort` / `george_komm_in_den_park` / `george_haengenden_gaerten_1`〜`_15` / `george_nun_saeume` / `george_umkreisen_wir` / `george_wir_schreiten` / `george_wir_werden` / `george_dante_zeitgedicht` / `george_nietzsche` / `george_templer` / `george_widerchrist` / `george_tote_stadt` / `george_kampf` / `george_rosen` / `george_betrübt_totenanger`
+
+---
+
+### ホフマンスタール（hofmannsthal）
+`hofmannsthal_weltgeheimnis` / `hofmannsthal_vorfruehling` / `hofmannsthal_reiselied` / `hofmannsthal_terzinen` / `hofmannsthal_die_beiden` / `hofmannsthal_erlebnis` / `hofmannsthal_regen_in_der_daemmerung` / `hofmannsthal_verse_auf_ein_kleines_kind`
+
+---
+
+### トラークル（trakl）
+`trakl_abendlaendisches_lied` / `trakl_amen` / `trakl_an_novalis` / `trakl_de_profundis` / `trakl_ein_herbstabend` / `trakl_ein_winterabend` / `trakl_elis` / `trakl_fruehling_der_seele` / `trakl_grodek` / `trakl_helian` / `trakl_hoelderlin` / `trakl_im_herbst` / `trakl_sebastian_im_traum` / `trakl_rosenkranzlieder` / `trakl_menschliches_elend` / `trakl_menschheit` / `trakl_abendmuse` / `trakl_schoene_stadt` / `trakl_psalm`
+
+---
+
+### ヘルダーリン（hoelderlin）
+`hoelderlin_brot_und_wein` / `hoelderlin_haelfte_des_lebens` / `hoelderlin_mnemosyne` / `hoelderlin_der_einzige` / `hoelderlin_da_ich_ein_knabe_war` / `hoelderlin_andenken` / `hoelderlin_an_die_parzen`
+
+---
+
+### ダンテ（dante）
+
+#### 地獄篇（Inferno）6歌
+`dante_inferno_canto_1` / `dante_inferno_canto_3` / `dante_inferno_canto_5` / `dante_inferno_canto_26` / `dante_inferno_canto_33` / `dante_inferno_canto_34`
+
+#### 煉獄篇（Purgatorio）7歌
+`dante_purgatorio_canto_1` / `dante_purgatorio_canto_2` / `dante_purgatorio_canto_11` / `dante_purgatorio_canto_24` / `dante_purgatorio_canto_26` / `dante_purgatorio_canto_27` / `dante_purgatorio_canto_30`
+
+#### 天国篇（Paradiso）5歌
+`dante_paradiso_canto_1` / `dante_paradiso_canto_6`  `dante_paradiso_canto_26` / `dante_paradiso_canto_31` / `dante_paradiso_canto_33`
+
+---
+
+### ダヌンツィオ（dannunzio）
+`dannunzio_alba_separa` / `dannunzio_nella_belletta` / `dannunzio_falce_di_luna` / `dannunzio_canti_morte_gloria` / `dannunzio_due_beatrici` / `dannunzio_beata_beatrice` / `dannunzio_psiche_giacente` / `dannunzio_donna_sarcofago` / `dannunzio_romanza_donna_velata` / `dannunzio_cavaliere_della_morte` / `dannunzio_rosa` / `dannunzio_esortazione` / `dannunzio_i_poeti`
+
+---
+
+### パスコリ（pascoli）
+`pascoli_al_dio_termine` / `pascoli_fantasmagoria` / `pascoli_melanconia` / `pascoli_i_sepolcri` / `pascoli_l_anima` / `pascoli_nebbia`
+
+---
+
+### ブリューソフ（bryusov）
+`bryusov_orfey` / `bryusov_orfey_evredika` / `bryusov_dante` / `bryusov_kon_bled` / `bryusov_izolda` / `bryusov_poetu` / `bryusov_le_paradis_artificiel` / `bryusov_yaponskie_tanki` / `bryusov_ya_motylok_nochoy` / `bryusov_yuzhny_krest` / `bryusov_tainstva_nochey`/ `bryusov_umiraiushchy_kostor` / `bryusov_my_tolko_ston` / `bryusov_giatsint` / `bryusbryusov_angel_blednyov_izolda` / `bryusov_angel_molchaniya` / `bryusov_noch`
+
+---
+
+### ソログープ（sologub）
+`sologub_bezumiem_okovana` / `sologub_bozhestvennoy_komedii` / `sologub_opyanenie_pechali`/ `sologub_ty_ne_boysya` / `sologub_v_strane_bezvykhodnoy` / `sologub_kakie_slabye_tsvety` / `sologub_kumir_upal` / `sologub_o_smert_ya_tvoy`
+---
+
+### ブローク（blok）
+`blok_angel_khranitel` / `blok_devushka_pela` / `blok_pesnya_ofelii` / `blok_pri_posylke_roz` / `blok_valeriyu_bryusovu`/`blok_ya_gamlet`/`blok_vot_on_khristos`/ `blok_grob_nevesty` / `blok_ofeliya_v_tsvetakh` / `blok_demon`/`blok_loreleja`
+
+---
+### バリモント（balmont）
+`balmont_akh_yad` / `balmont_k_bodleru` / `balmont_zagovor_protiv_smerti`/ `balmont_zhar_ptitsa` / `balont_zagovor_protiv_smerti` / `balmont_yad` / `balmont_tsvetok` / `balmont_tsvety_v_snegakh` / `balmont_cherep`
+
+---
+### コラッツィーニ（corazzini）
+`corazzini_ballata_primavera` / `corazzini_desolazione` / `corazzini_invito` / `corazzini_l_anima` / `corazzini_la_morte_di_tantalo` / `corazzini_spleen`
+
+---
+
+### ゴッツァーノ（gozzano）
+ `gozzano_la_preraffaelita` / `gozzano_suprema_quies` / `gozzano_la_falce` / `gozzano_nell_abazia_di_san_giuliano` / `gozzano_la_basilica_notturna` / `gozzano_l_incrinatura`
+]
