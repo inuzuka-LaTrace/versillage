@@ -1917,11 +1917,11 @@ if (loading) {
                         }`}>
                           {translation}
                         </p>
-                      </div>
-                    )}
+                        </div>
+                      )}
                       </>
-                    )}
-
+                    );
+                  })()}
                     {/* 注釈パネル */}
                     {showAnnotations && hasAnnotations && (
                       <div className={`mb-3 rounded-lg border ${darkMode ? 'border-amber-900/50 bg-amber-950/20' : 'border-amber-200 bg-amber-50/50'}`}>
