@@ -1,191 +1,406 @@
 [
-### ラシーヌ（racine）— Phèdre 全5幕、JSONファイル11本
-| ファイルID | 幕・場面 | 行数 | 段落 | 注釈 | 備考 |
-|---|---|---|---|---|---|
-| `racine_phedre_acte1_sc1` | Acte I, Sc.I | 144 | 15 | 5 | v.1–142；Hippolyte/Théramène |
-| `racine_phedre_acte1_sc2_3` | Acte I, Sc.II–III | 185 | 50 | 10 | v.143–327；Œnone/Phèdre登場 |
-| `racine_phedre_acte1_sc4_5` | Acte I, Sc.IV–V | v.295–358 | ✅ 2026-03-13 新規 |
-| `racine_phedre_acte2_sc1_3` | Acte II, Sc.I–III | — | ✗ verses 要追加 |
-| `racine_phedre_acte2_sc4_6` | Acte II, Sc.IV–VI | — | ✗ verses 要追加 |
-| `racine_phedre_acte3_sc1_3` | Acte III, Sc.I–III | — | ✗ verses 要追加 |
-| `racine_phedre_acte3_sc4_6` | Acte III, Sc.IV–VI | — | ✗ verses 要追加 |
-| `racine_phedre_acte4_sc1_3` | Acte IV, Sc.I–III | ✅ | |
-| `racine_phedre_acte4_sc4_6` | Acte IV, Sc.IV–VI | ✅ | |
-| `racine_phedre_acte5_sc1_3` | Acte V, Sc.I–III | ✅ | |
-| `racine_phedre_acte5_sc4_7` | Acte V, Sc.IV–VII | ✅ | |
-
-**底本**：Wikisource, Phèdre (Racine), Didot, 1854（Acte I以降）
-
----
-
-### マラルメ（mallarme）
-`mallarme_apparition` / `mallarme_les_fleurs` / `mallarme_angoisse` / `mallarme_lazur` / `mallarme_brise_marine` / `mallarme_sainte` / `mallarme_toast_funebre` / `mallarme_eventail_madame_mallarme` / `mallarme_placet_futile` / `mallarme_tombeau_charles_baudelaire` / `mallarme_herodiade_scene` / `mallarme_herodiade_ouverture` / `mallarme_cantique_saint_jean` / `mallarme_coup_de_des` / `mallarme_sonnet_yx` / `mallarme_toute_lame` / `mallarme_plainte_automne` / `mallarme_le_corbeau`
-
-### マラルメ散文（mallarme_prose）
-`mallarme_crise_de_vers` / `mallarme_musique_lettres` / `mallarme_catholicisme` / `mallarme_de_meme` / `mallarme_fonds_ballet` / `mallarme_hamlet` / `mallarme_plaisir_sacre` / `mallarme_wagner_full` / `mallarme_quant` / `mallarme_mimique` / `mallarme_ballets_full` / `mallarme_avant_dire` / `mallarme_cazalis` / `mallarme_mystere` / `mallarme_livre_instrument` / `mallarme_verlaine`
-
----
-
-### ボードレール（baudelaire）
-`baudelaire_elevation` / `baudelaire_une_charogne` / `baudelaire_harmonie_du_soir` / `baudelaire_spleen` / `baudelaire_hymne` / `baudelaire_femmes_damnees` / `baudelaire_correspondances` / `baudelaire_la_chevelure` / `baudelaire_beaute` / `baudelaire_invitation_voyage` / `baudelaire_chat` / `baudelaire_parfum_exotique` / `baudelaire_danse_macabre` / `baudelaire_litanies_satan` / `baudelaire_horloge`
-
-### ボードレール散文（baudelaire_prose）
-`baudelaire_heroisme` / `baudelaire_romantisme_complet` / `baudelaire_gautier` / `baudelaire_peintre_1`〜`_12` / `baudelaire_valmore_critique` / `baudelaire_wagner_encore` / `baudelaire_delacroix_1`〜`_4` / `baudelaire_lettre_wagner` / `baudelaire_wagner_1`〜`_4` / `baudelaire_rire`
-
----
-
-### ヴァレリー（valery）
-`valery_l_amateur_de_poemes` / `valery_orphee` / `valery_narcisse_parle` / `valery_naissance_de_venus` / `valery_la_dormeuse` / `valery_le_vin_perdu` / `valery_fragments_du_narcisse` / `valery_poesie` / `valery_le_sylphe`
-
-### ヴァレリー散文（valery_prose）
-`valery_situation_de_baudelaire` / `valery_lettre_sur_mallarme` / `valery_premiere_lecon_cours_de_poetique`
-
----
-
-### ルコント・ド・リール（leconte_de_lisle）
-`lecontelisle_midi` / `lecontelisle_l_illusion_supreme` / `lecontelisle_arc_de_civa` / `lecontelisle_epiphanie` / `lecontelisle_l_anatheme` / `lecontelisle_la_rose_de_louveciennes` / `lecontelisle_le_dernier_dieu` / `lecontelisle_le_parfum_imperissable` / `lecontelisle_le_soir_d_une_bataille` / `lecontelisle_les_roses_d_ispahan` / `lecontelisle_surya` / `lecontelisle_tristesse_du_diable`
-
----
-
-### ローデンバック（rodenbach）
-`rodenbach_coeur_de_leau` / `rodenbach_du_silence` / `rodenbach_la_vie_des_chambres` / `rodenbach_paysages_de_ville` / `rodenbach_lange_envole` / `rodenbach_devant_tete_de_mort` / `rodenbach_loubli` / `rodenbach_les_femmes_tristes` / `rodenbach_lacrymae_rerum`
-
----
-
-### ゴーティエ（gautier）
-`gautier_l_art` / `gautier_contralto` / `gautier_symphonie_en_blanc_majeur` / `gautier_affinites_secretes` / `gautier_carmen` / `gautier_la_rose_the` / `gautier_a_une_robe_rose` / `gautier_coquetterie_posthume` / `gautier_les_joujoux_de_la_morte`
-
----
-
-### ヴァルモール（valmore）
-`valmore_les_roses_de_saadi` / `valmore_adieu` / `valmore_qu_en_avez` / `valmore_avis` / `valmore_chambre` / `valmore_couronne` / `valmore_fleurs` / `valmore_insomnie` / `valmore_mal_du_pays` / `valmore_a_monsieur` / `valmore_priere_fils` / `valmore_reve_intermittent` / `valmore_separees` / `valmore_tristesse`
-
----
-
-### ヴェルレーヌ（verlaine）
-`verlaine_clair_de_lune` / `verlaine_chanson_dautomne` / `verlaine_calme_orphelin` / `verlaine_la_lune_blanche` / `verlaine_colloque_sentimental` / `verlaine_marceline_desbordes_valmore` / `verlaine_a_arthur_rimbaud` / `verlaine_serenade` / `verlaine_un_dahlia` / `verlaine_parsifal` / `verlaine_saint_graal` / `verlaine_un_crucifix` / `verlaine_le_ciel` / `verlaine_spleen`
-
-### ヴェルレーヌ批評（verlaine_critique）
-`verlaine_poetes_maudits_mallarme` / `_corbiere` / `_rimbaud` / `_valmore` / `_villiers`
-
----
-
-### ヴェルハーレン（verhaeren）
-`verhaeren_heresiarque` / `verhaeren_moine_feodal` / `verhaeren_mourir` / `verhaeren_insatiablement` / `verhaeren_a_tenebres`
-
----
-
-### メーテルリンク（maeterlinck）
- `maeterlinck_serre_chaude` / `maeterlinck_serre_d_ennui` / `maeterlinck_offrande_obscure` / `maeterlinck_ame_de_serre` / `maeterlinck_aquarium`
-
----
-
-### ヴァン・レルベルグ（vanlerberghe）
-`vanlerberghe_entrevisions` / `vanlerberghe_invocation` / `van_lerberghe_dans_un_parfum` / `van_lerberghe_ange_etoile_matin` / `van_lerberghe_tombee_du_soir` / `van_lerberghe_rosier_mystique` / `van_lerberghe_sous_les_arches` / `van_lerberghe_solitude` / `van_lerberghe_la_mort`
-
----
-
-### バンヴィル（banville）
-`banville_caprice` / `banville_nuit_d_etoiles` / `banville_les_baisers` / `banville_apotheose` /
-`banville_les_princesses` / `banville_pasiphae` / `banville_antiope` / `banville_andromede` / `banville_herodiade`
-
----
-
-### ポー（poe）
-`poe_a_dream` / `poe_a_dream_within_a_dream` / `poe_to_helen` / `poe_annabel_lee` / `poe_israfel` / `poe_the_raven` / `poe_ulalume`
-
----
-
-### クリスティーナ・ロセッティ（rossetti_c）
- `rossetti_monna_innominata` / `rossetti_vanity_of_vanities` / `rossetti_days_of_vanity` / `rossetti_golden_silences` / `rossetti_dead_before_death` / `rossetti_de_profundis` / `rossetti_remember` / `rossetti_sweet_death` / `rossetti_soeur_louise`
-
----
-
-### ワイルド（wilde）
-`wilde_ave_maria` / `wilde_ballad_reading_gaol` / `wilde_impressions` / `wilde_magdalen_walks` / `wilde_panthea` / `wilde_sphinx` / `wilde_to_my_wife` / `wilde_e_tenebris` / `wilde_harlots_house` / `wilde_helas` / `wilde_impression_matin` / `wilde_requiescat` / `wilde_symphony_yellow` / `wilde_theoretikos`
-
----
-
-### ダウスン（dowson）
- `dowson_after_verlaine_1` / `dowson_after_verlaine_2` / `dowson_after_verlaine_3` / `dowson_after_verlaine_4` / `dowson_beata_solitudo` / `dowson_a_last_word` / `dowson_venite_descendamus` / `dowson_seraphita` / `dowson_a_requiem` / `dowson_vanitas`
-
----
-
-### スウィンバーン（swinburne）
-`swinburne_at_parting` / `swinburne_ballad_villon` / `swinburne_ballad_dreamland` / `swinburne_forsaken_garden` / `swinburne_garden_of_proserpine` / `swinburne_maupin_sonnet` / `swinburne_memorial_gautier` / `swinburne_a_match` / `swinburne_anactoria`
-
----
-
-### イェイツ（yeats）
-`yeats_leda_and_the_swan` / `yeats_to_the_rose_upon_the_rood_of_time` / `yeats_stolen_child` / `yeats_rose_of_the_world` / `yeats_adams_curse` / `yeats_aedh_wishes_for_the_cloths_of_heaven` / `yeats_who_goes_with_fergus` / `yeats_the_lake_isle_of_innisfree`
-
----
-
-### ゲオルゲ（george）
-`george_entrueckung` / `george_das_wort` / `george_komm_in_den_park` / `george_haengenden_gaerten_1`〜`_15` / `george_nun_saeume` / `george_umkreisen_wir` / `george_wir_schreiten` / `george_wir_werden` / `george_dante_zeitgedicht` / `george_nietzsche` / `george_templer` / `george_widerchrist` / `george_tote_stadt` / `george_kampf` / `george_rosen` / `george_betrübt_totenanger`
-
----
-
-### ホフマンスタール（hofmannsthal）
-`hofmannsthal_weltgeheimnis` / `hofmannsthal_vorfruehling` / `hofmannsthal_reiselied` / `hofmannsthal_terzinen` / `hofmannsthal_die_beiden` / `hofmannsthal_erlebnis` / `hofmannsthal_regen_in_der_daemmerung` / `hofmannsthal_verse_auf_ein_kleines_kind`
-
----
-
-### トラークル（trakl）
-`trakl_abendlaendisches_lied` / `trakl_amen` / `trakl_an_novalis` / `trakl_de_profundis` / `trakl_ein_herbstabend` / `trakl_ein_winterabend` / `trakl_elis` / `trakl_fruehling_der_seele` / `trakl_grodek` / `trakl_helian` / `trakl_hoelderlin` / `trakl_im_herbst` / `trakl_sebastian_im_traum` / `trakl_rosenkranzlieder` / `trakl_menschliches_elend` / `trakl_menschheit` / `trakl_abendmuse` / `trakl_schoene_stadt` / `trakl_psalm`
-
----
-
-### ヘルダーリン（hoelderlin）
-`hoelderlin_brot_und_wein` / `hoelderlin_haelfte_des_lebens` / `hoelderlin_mnemosyne` / `hoelderlin_der_einzige` / `hoelderlin_da_ich_ein_knabe_war` / `hoelderlin_andenken` / `hoelderlin_an_die_parzen`
-
----
-
-### ダンテ（dante）
-
-#### 地獄篇（Inferno）6歌
-`dante_inferno_canto_1` / `dante_inferno_canto_3` / `dante_inferno_canto_5` / `dante_inferno_canto_26` / `dante_inferno_canto_33` / `dante_inferno_canto_34`
-
-#### 煉獄篇（Purgatorio）7歌
-`dante_purgatorio_canto_1` / `dante_purgatorio_canto_2` / `dante_purgatorio_canto_11` / `dante_purgatorio_canto_24` / `dante_purgatorio_canto_26` / `dante_purgatorio_canto_27` / `dante_purgatorio_canto_30`
-
-#### 天国篇（Paradiso）5歌
-`dante_paradiso_canto_1` / `dante_paradiso_canto_6`  `dante_paradiso_canto_26` / `dante_paradiso_canto_31` / `dante_paradiso_canto_33`
-
----
-
-### ダヌンツィオ（dannunzio）
-`dannunzio_alba_separa` / `dannunzio_nella_belletta` / `dannunzio_falce_di_luna` / `dannunzio_canti_morte_gloria` / `dannunzio_due_beatrici` / `dannunzio_beata_beatrice` / `dannunzio_psiche_giacente` / `dannunzio_donna_sarcofago` / `dannunzio_romanza_donna_velata` / `dannunzio_cavaliere_della_morte` / `dannunzio_rosa` / `dannunzio_esortazione` / `dannunzio_i_poeti`
-
----
-
-### パスコリ（pascoli）
-`pascoli_al_dio_termine` / `pascoli_fantasmagoria` / `pascoli_melanconia` / `pascoli_i_sepolcri` / `pascoli_l_anima` / `pascoli_nebbia`
-
----
-
-### ブリューソフ（bryusov）
-`bryusov_orfey` / `bryusov_orfey_evredika` / `bryusov_dante` / `bryusov_kon_bled` / `bryusov_izolda` / `bryusov_poetu` / `bryusov_le_paradis_artificiel` / `bryusov_yaponskie_tanki` / `bryusov_ya_motylok_nochoy` / `bryusov_yuzhny_krest` / `bryusov_tainstva_nochey`/ `bryusov_umiraiushchy_kostor` / `bryusov_my_tolko_ston` / `bryusov_giatsint` / `bryusbryusov_angel_blednyov_izolda` / `bryusov_angel_molchaniya` / `bryusov_noch`
-
----
-
-### ソログープ（sologub）
-`sologub_bezumiem_okovana` / `sologub_bozhestvennoy_komedii` / `sologub_opyanenie_pechali`/ `sologub_ty_ne_boysya` / `sologub_v_strane_bezvykhodnoy` / `sologub_kakie_slabye_tsvety` / `sologub_kumir_upal` / `sologub_o_smert_ya_tvoy`
----
-
-### ブローク（blok）
-`blok_angel_khranitel` / `blok_devushka_pela` / `blok_pesnya_ofelii` / `blok_pri_posylke_roz` / `blok_valeriyu_bryusovu`/`blok_ya_gamlet`/`blok_vot_on_khristos`/ `blok_grob_nevesty` / `blok_ofeliya_v_tsvetakh` / `blok_demon`/`blok_loreleja`
-
----
-### バリモント（balmont）
-`balmont_akh_yad` / `balmont_k_bodleru` / `balmont_zagovor_protiv_smerti`/ `balmont_zhar_ptitsa` / `balont_zagovor_protiv_smerti` / `balmont_yad` / `balmont_tsvetok` / `balmont_tsvety_v_snegakh` / `balmont_cherep`
-
----
-### コラッツィーニ（corazzini）
-`corazzini_ballata_primavera` / `corazzini_desolazione` / `corazzini_invito` / `corazzini_l_anima` / `corazzini_la_morte_di_tantalo` / `corazzini_spleen`
-
----
-
-### ゴッツァーノ（gozzano）
- `gozzano_la_preraffaelita` / `gozzano_suprema_quies` / `gozzano_la_falce` / `gozzano_nell_abazia_di_san_giuliano` / `gozzano_la_basilica_notturna` / `gozzano_l_incrinatura`
+  "racine_phedre_acte1_sc1.json",
+  "racine_phedre_acte1_sc2_3.json",
+  "racine_phedre_acte1_sc4_5.json",
+  "racine_phedre_acte2_sc1_3.json",
+  "racine_phedre_acte2_sc4_6.json",
+  "racine_phedre_acte3_sc1_3.json",
+  "racine_phedre_acte3_sc4_6.json",
+  "racine_phedre_acte4_sc1_3.json",
+  "racine_phedre_acte4_sc4_6.json",
+  "racine_phedre_acte5_sc1_3.json",
+  "racine_phedre_acte5_sc4_7.json",
+  "mallarme_apparition.json",
+  "mallarme_les_fleurs.json",
+  "mallarme_angoisse.json",
+  "mallarme_lazur.json",
+  "mallarme_brise_marine.json",
+  "mallarme_sainte.json",
+  "mallarme_toast_funebre.json",
+  "mallarme_eventail_madame_mallarme.json",
+  "mallarme_placet_futile.json",
+  "mallarme_tombeau_charles_baudelaire.json",
+  "mallarme_herodiade_scene.json",
+  "mallarme_herodiade_ouverture.json",
+  "mallarme_cantique_saint_jean.json",
+  "mallarme_coup_de_des.json",
+  "mallarme_sonnet_yx.json",
+  "mallarme_toute_lame.json",
+  "mallarme_plainte_automne.json",
+  "mallarme_le_corbeau.json",
+  "mallarme_crise_de_vers.json",
+  "mallarme_musique_lettres.json",
+  "mallarme_catholicisme.json",
+  "mallarme_de_meme.json",
+  "mallarme_fonds_ballet.json",
+  "mallarme_hamlet.json",
+  "mallarme_plaisir_sacre.json",
+  "mallarme_wagner_full.json",
+  "mallarme_quant.json",
+  "mallarme_mimique.json",
+  "mallarme_ballets_full.json",
+  "mallarme_avant_dire.json",
+  "mallarme_cazalis.json",
+  "mallarme_mystere.json",
+  "mallarme_livre_instrument.json",
+  "mallarme_verlaine.json",
+  "baudelaire_elevation.json",
+  "baudelaire_une_charogne.json",
+  "baudelaire_harmonie_du_soir.json",
+  "baudelaire_spleen.json",
+  "baudelaire_hymne.json",
+  "baudelaire_femmes_damnees.json",
+  "baudelaire_correspondances.json",
+  "baudelaire_la_chevelure.json",
+  "baudelaire_beaute.json",
+  "baudelaire_invitation_voyage.json",
+  "baudelaire_chat.json",
+  "baudelaire_parfum_exotique.json",
+  "baudelaire_danse_macabre.json",
+  "baudelaire_litanies_satan.json",
+  "baudelaire_horloge.json",
+  "baudelaire_heroisme.json",
+  "baudelaire_romantisme_complet.json",
+  "baudelaire_gautier.json",
+  "baudelaire_peintre_1.json",
+  "baudelaire_peintre_2.json",
+  "baudelaire_peintre_3.json",
+  "baudelaire_peintre_4.json",
+  "baudelaire_peintre_5.json",
+  "baudelaire_peintre_6.json",
+  "baudelaire_peintre_7.json",
+  "baudelaire_peintre_8.json",
+  "baudelaire_peintre_9.json",
+  "baudelaire_peintre_10.json",
+  "baudelaire_peintre_11.json",
+  "baudelaire_peintre_12.json",
+  "baudelaire_valmore_critique.json",
+  "baudelaire_wagner_encore.json",
+  "baudelaire_delacroix_1.json",
+  "baudelaire_delacroix_2.json",
+  "baudelaire_delacroix_3.json",
+  "baudelaire_delacroix_4.json",
+  "baudelaire_lettre_wagner.json",
+  "baudelaire_wagner_1.json",
+  "baudelaire_wagner_2.json",
+  "baudelaire_wagner_3.json",
+  "baudelaire_wagner_4.json",
+  "baudelaire_rire.json",
+  "valery_l_amateur_de_poemes.json",
+  "valery_orphee.json",
+  "valery_narcisse_parle.json",
+  "valery_naissance_de_venus.json",
+  "valery_la_dormeuse.json",
+  "valery_le_vin_perdu.json",
+  "valery_fragments_du_narcisse.json",
+  "valery_poesie.json",
+  "valery_le_sylphe.json",
+  "valery_situation_de_baudelaire.json",
+  "valery_lettre_sur_mallarme.json",
+  "valery_premiere_lecon_cours_de_poetique.json",
+  "lecontelisle_midi.json",
+  "lecontelisle_l_illusion_supreme.json",
+  "lecontelisle_arc_de_civa.json",
+  "lecontelisle_epiphanie.json",
+  "lecontelisle_l_anatheme.json",
+  "lecontelisle_la_rose_de_louveciennes.json",
+  "lecontelisle_le_dernier_dieu.json",
+  "lecontelisle_le_parfum_imperissable.json",
+  "lecontelisle_le_soir_d_une_bataille.json",
+  "lecontelisle_les_roses_d_ispahan.json",
+  "lecontelisle_surya.json",
+  "lecontelisle_tristesse_du_diable.json",
+  "rodenbach_coeur_de_leau.json",
+  "rodenbach_du_silence.json",
+  "rodenbach_la_vie_des_chambres.json",
+  "rodenbach_paysages_de_ville.json",
+  "rodenbach_lange_envole.json",
+  "rodenbach_devant_tete_de_mort.json",
+  "rodenbach_loubli.json",
+  "rodenbach_les_femmes_tristes.json",
+  "rodenbach_lacrymae_rerum.json",
+  "gautier_l_art.json",
+  "gautier_contralto.json",
+  "gautier_symphonie_en_blanc_majeur.json",
+  "gautier_affinites_secretes.json",
+  "gautier_carmen.json",
+  "gautier_la_rose_the.json",
+  "gautier_a_une_robe_rose.json",
+  "gautier_coquetterie_posthume.json",
+  "gautier_les_joujoux_de_la_morte.json",
+  "valmore_les_roses_de_saadi.json",
+  "valmore_adieu.json",
+  "valmore_qu_en_avez.json",
+  "valmore_avis.json",
+  "valmore_chambre.json",
+  "valmore_couronne.json",
+  "valmore_fleurs.json",
+  "valmore_insomnie.json",
+  "valmore_mal_du_pays.json",
+  "valmore_a_monsieur.json",
+  "valmore_priere_fils.json",
+  "valmore_reve_intermittent.json",
+  "valmore_separees.json",
+  "valmore_tristesse.json",
+  "verlaine_clair_de_lune.json",
+  "verlaine_chanson_dautomne.json",
+  "verlaine_calme_orphelin.json",
+  "verlaine_la_lune_blanche.json",
+  "verlaine_colloque_sentimental.json",
+  "verlaine_marceline_desbordes_valmore.json",
+  "verlaine_a_arthur_rimbaud.json",
+  "verlaine_serenade.json",
+  "verlaine_un_dahlia.json",
+  "verlaine_parsifal.json",
+  "verlaine_saint_graal.json",
+  "verlaine_un_crucifix.json",
+  "verlaine_le_ciel.json",
+  "verlaine_spleen.json",
+  "verlaine_poetes_maudits_mallarme.json",
+  "verlaine_poetes_maudits_corbiere.json",
+  "verlaine_poetes_maudits_rimbaud.json",
+  "verlaine_poetes_maudits_valmore.json",
+  "verlaine_poetes_maudits_villiers.json",
+  "verhaeren_heresiarque.json",
+  "verhaeren_moine_feodal.json",
+  "verhaeren_mourir.json",
+  "verhaeren_insatiablement.json",
+  "verhaeren_a_tenebres.json",
+  "maeterlinck_serre_chaude.json",
+  "maeterlinck_serre_d_ennui.json",
+  "maeterlinck_offrande_obscure.json",
+  "maeterlinck_ame_de_serre.json",
+  "maeterlinck_aquarium.json",
+  "vanlerberghe_entrevisions.json",
+  "vanlerberghe_invocation.json",
+  "van_lerberghe_dans_un_parfum.json",
+  "van_lerberghe_ange_etoile_matin.json",
+  "van_lerberghe_tombee_du_soir.json",
+  "van_lerberghe_rosier_mystique.json",
+  "van_lerberghe_sous_les_arches.json",
+  "van_lerberghe_solitude.json",
+  "van_lerberghe_la_mort.json",
+  "banville_caprice.json",
+  "banville_nuit_d_etoiles.json",
+  "banville_les_baisers.json",
+  "banville_apotheose.json",
+  "banville_les_princesses.json",
+  "banville_pasiphae.json",
+  "banville_antiope.json",
+  "banville_andromede.json",
+  "banville_herodiade.json",
+  "poe_a_dream.json",
+  "poe_a_dream_within_a_dream.json",
+  "poe_to_helen.json",
+  "poe_annabel_lee.json",
+  "poe_israfel.json",
+  "poe_the_raven.json",
+  "poe_ulalume.json",
+  "rossetti_monna_innominata.json",
+  "rossetti_vanity_of_vanities.json",
+  "rossetti_days_of_vanity.json",
+  "rossetti_golden_silences.json",
+  "rossetti_dead_before_death.json",
+  "rossetti_de_profundis.json",
+  "rossetti_remember.json",
+  "rossetti_sweet_death.json",
+  "rossetti_soeur_louise.json",
+  "wilde_ave_maria.json",
+  "wilde_ballad_reading_gaol.json",
+  "wilde_impressions.json",
+  "wilde_magdalen_walks.json",
+  "wilde_panthea.json",
+  "wilde_sphinx.json",
+  "wilde_to_my_wife.json",
+  "wilde_e_tenebris.json",
+  "wilde_harlots_house.json",
+  "wilde_helas.json",
+  "wilde_impression_matin.json",
+  "wilde_requiescat.json",
+  "wilde_symphony_yellow.json",
+  "wilde_theoretikos.json",
+  "dowson_after_verlaine_1.json",
+  "dowson_after_verlaine_2.json",
+  "dowson_after_verlaine_3.json",
+  "dowson_after_verlaine_4.json",
+  "dowson_beata_solitudo.json",
+  "dowson_a_last_word.json",
+  "dowson_venite_descendamus.json",
+  "dowson_seraphita.json",
+  "dowson_a_requiem.json",
+  "dowson_vanitas.json",
+  "swinburne_at_parting.json",
+  "swinburne_ballad_villon.json",
+  "swinburne_ballad_dreamland.json",
+  "swinburne_forsaken_garden.json",
+  "swinburne_garden_of_proserpine.json",
+  "swinburne_maupin_sonnet.json",
+  "swinburne_memorial_gautier.json",
+  "swinburne_a_match.json",
+  "swinburne_anactoria.json",
+  "yeats_leda_and_the_swan.json",
+  "yeats_to_the_rose_upon_the_rood_of_time.json",
+  "yeats_stolen_child.json",
+  "yeats_rose_of_the_world.json",
+  "yeats_adams_curse.json",
+  "yeats_aedh_wishes_for_the_cloths_of_heaven.json",
+  "yeats_who_goes_with_fergus.json",
+  "yeats_the_lake_isle_of_innisfree.json",
+  "george_entrueckung.json",
+  "george_das_wort.json",
+  "george_komm_in_den_park.json",
+  "george_haengenden_gaerten_1.json",
+  "george_haengenden_gaerten_2.json",
+  "george_haengenden_gaerten_3.json",
+  "george_haengenden_gaerten_4.json",
+  "george_haengenden_gaerten_5.json",
+  "george_haengenden_gaerten_6.json",
+  "george_haengenden_gaerten_7.json",
+  "george_haengenden_gaerten_8.json",
+  "george_haengenden_gaerten_9.json",
+  "george_haengenden_gaerten_10.json",
+  "george_haengenden_gaerten_11.json",
+  "george_haengenden_gaerten_12.json",
+  "george_haengenden_gaerten_13.json",
+  "george_haengenden_gaerten_14.json",
+  "george_haengenden_gaerten_15.json",
+  "george_nun_saeume.json",
+  "george_umkreisen_wir.json",
+  "george_wir_schreiten.json",
+  "george_wir_werden.json",
+  "george_dante_zeitgedicht.json",
+  "george_nietzsche.json",
+  "george_templer.json",
+  "george_widerchrist.json",
+  "george_tote_stadt.json",
+  "george_kampf.json",
+  "george_rosen.json",
+  "george_betrübt_totenanger.json",
+  "hofmannsthal_weltgeheimnis.json",
+  "hofmannsthal_vorfruehling.json",
+  "hofmannsthal_reiselied.json",
+  "hofmannsthal_terzinen.json",
+  "hofmannsthal_die_beiden.json",
+  "hofmannsthal_erlebnis.json",
+  "hofmannsthal_regen_in_der_daemmerung.json",
+  "hofmannsthal_verse_auf_ein_kleines_kind.json",
+  "trakl_abendlaendisches_lied.json",
+  "trakl_amen.json",
+  "trakl_an_novalis.json",
+  "trakl_de_profundis.json",
+  "trakl_ein_herbstabend.json",
+  "trakl_ein_winterabend.json",
+  "trakl_elis.json",
+  "trakl_fruehling_der_seele.json",
+  "trakl_grodek.json",
+  "trakl_helian.json",
+  "trakl_hoelderlin.json",
+  "trakl_im_herbst.json",
+  "trakl_sebastian_im_traum.json",
+  "trakl_rosenkranzlieder.json",
+  "trakl_menschliches_elend.json",
+  "trakl_menschheit.json",
+  "trakl_abendmuse.json",
+  "trakl_schoene_stadt.json",
+  "trakl_psalm.json",
+  "hoelderlin_brot_und_wein.json",
+  "hoelderlin_haelfte_des_lebens.json",
+  "hoelderlin_mnemosyne.json",
+  "hoelderlin_der_einzige.json",
+  "hoelderlin_da_ich_ein_knabe_war.json",
+  "hoelderlin_andenken.json",
+  "hoelderlin_an_die_parzen.json",
+  "dante_inferno_canto_1.json",
+  "dante_inferno_canto_3.json",
+  "dante_inferno_canto_5.json",
+  "dante_inferno_canto_26.json",
+  "dante_inferno_canto_33.json",
+  "dante_inferno_canto_34.json",
+  "dante_purgatorio_canto_1.json",
+  "dante_purgatorio_canto_2.json",
+  "dante_purgatorio_canto_11.json",
+  "dante_purgatorio_canto_24.json",
+  "dante_purgatorio_canto_26.json",
+  "dante_purgatorio_canto_27.json",
+  "dante_purgatorio_canto_30.json",
+  "dante_paradiso_canto_1.json",
+  "dante_paradiso_canto_6.json",
+  "dante_paradiso_canto_26.json",
+  "dante_paradiso_canto_31.json",
+  "dante_paradiso_canto_33.json",
+  "dannunzio_alba_separa.json",
+  "dannunzio_nella_belletta.json",
+  "dannunzio_falce_di_luna.json",
+  "dannunzio_canti_morte_gloria.json",
+  "dannunzio_due_beatrici.json",
+  "dannunzio_beata_beatrice.json",
+  "dannunzio_psiche_giacente.json",
+  "dannunzio_donna_sarcofago.json",
+  "dannunzio_romanza_donna_velata.json",
+  "dannunzio_cavaliere_della_morte.json",
+  "dannunzio_rosa.json",
+  "dannunzio_esortazione.json",
+  "dannunzio_i_poeti.json",
+  "pascoli_al_dio_termine.json",
+  "pascoli_fantasmagoria.json",
+  "pascoli_melanconia.json",
+  "pascoli_i_sepolcri.json",
+  "pascoli_l_anima.json",
+  "pascoli_nebbia.json",
+  "bryusov_orfey.json",
+  "bryusov_orfey_evredika.json",
+  "bryusov_dante.json",
+  "bryusov_kon_bled.json",
+  "bryusov_izolda.json",
+  "bryusov_poetu.json",
+  "bryusov_le_paradis_artificiel.json",
+  "bryusov_yaponskie_tanki.json",
+  "bryusov_ya_motylok_nochoy.json",
+  "bryusov_yuzhny_krest.json",
+  "bryusov_tainstva_nochey.json",
+  "bryusov_umiraiushchy_kostor.json",
+  "bryusov_my_tolko_ston.json",
+  "bryusov_giatsint.json",
+  "bryusov_angel_bledny.json",
+  "bryusov_angel_molchaniya.json",
+  "bryusov_noch.json",
+  "sologub_bezumiem_okovana.json",
+  "sologub_bozhestvennoy_komedii.json",
+  "sologub_opyanenie_pechali.json",
+  "sologub_ty_ne_boysya.json",
+  "sologub_v_strane_bezvykhodnoy.json",
+  "sologub_kakie_slabye_tsvety.json",
+  "sologub_kumir_upal.json",
+  "sologub_o_smert_ya_tvoy.json",
+  "blok_angel_khranitel.json",
+  "blok_devushka_pela.json",
+  "blok_pesnya_ofelii.json",
+  "blok_pri_posylke_roz.json",
+  "blok_valeriyu_bryusovu.json",
+  "blok_ya_gamlet.json",
+  "blok_vot_on_khristos.json",
+  "blok_grob_nevesty.json",
+  "blok_ofeliya_v_tsvetakh.json",
+  "blok_demon.json",
+  "blok_loreleja.json",
+  "balmont_akh_yad.json",
+  "balmont_k_bodleru.json",
+  "balmont_zagovor_protiv_smerti.json",
+  "balmont_zhar_ptitsa.json",
+  "balmont_yad.json",
+  "balmont_tsvetok.json",
+  "balmont_tsvety_v_snegakh.json",
+  "balmont_cherep.json",
+  "corazzini_ballata_primavera.json",
+  "corazzini_desolation.json",
+  "corazzini_invito.json",
+  "corazzini_l_anima.json",
+  "corazzini_la_morte_di_tantalo.json",
+  "corazzini_spleen.json",
+  "gozzano_la_preraffaelita.json",
+  "gozzano_suprema_quies.json",
+  "gozzano_la_falce.json",
+  "gozzano_nell_abazia_di_san_giuliano.json",
+  "gozzano_la_basilica_notturna.json",
+  "gozzano_l_incrinatura.json"
 ]
