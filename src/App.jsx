@@ -251,44 +251,33 @@ export default function App() {
   // --- ステート・参照の定義 ---
   const [isScrollingDown, setIsScrollingDown] = useState(false);
   const [showScrollTop, setShowScrollTop] = useState(false);
-  const [scrollRatio, setScrollRatio] = useState(0); // 0 (上端) 〜 1 (100pxスクロール)
   const lastScrollY = useRef(0);
 
-useEffect(() => {
+  useEffect(() => {
     const handleScroll = () => {
       const currentY = window.scrollY;
-      
-      // 1. スクロール割合の計算（0px〜100pxの間で 0.0 〜 1.0 に変化）
-      // これをヘッダーの余白（padding）に適用することで指に吸い付く動きになります
-      const ratio = Math.min(1, Math.max(0, currentY / 100));
-      setScrollRatio(ratio);
-
-      // 2. 方向判定とヘッダー縮小フラグ
       const deltaY = currentY - lastScrollY.current;
-      
-      // 10px以上の有意な移動がある場合のみ方向判定を更新（バタつき防止）
-      if (Math.abs(deltaY) > 10) {
-        if (currentY > 50 && deltaY > 0) {
-          setIsScrollingDown(true);
-        } else if (deltaY < 0) {
-          setIsScrollingDown(false);
-        }
+
+      // --- ヘッダー切り替えロジック ---
+      // 50pxを超えており、かつ下方向に動いている時だけ true
+      if (currentY > 50 && deltaY > 0) {
+        setIsScrollingDown(true);
+      } 
+      // 上にスクロールした瞬間に即座に解除
+      else if (deltaY < 0) {
+        setIsScrollingDown(false);
       }
 
-      // 3. トップボタン表示判定（300px以上 + 上スクロール時）
-      const isScrollingUp = currentY < lastScrollY.current;
-      setShowScrollTop(currentY > 300 && isScrollingUp);
+      // --- トップボタン表示ロジック ---
+      setShowScrollTop(currentY > 300 && deltaY < 0);
 
-      // 4. 現在のスクロール位置を保存
       lastScrollY.current = currentY;
     };
 
     window.addEventListener('scroll', handleScroll, { passive: true });
-    return () => {
-      window.removeEventListener('scroll', handleScroll);
-    };
+    return () => window.removeEventListener('scroll', handleScroll);
   }, []);
-
+  
   // 設定パネルの外クリックで閉じる
   useEffect(() => {
     const handleClickOutside = (e) => {
@@ -1283,47 +1272,42 @@ if (loading) {
       {/* ─── ヘッダー ────────────────────────────────── */}
 <header 
   ref={headerRef} 
-  style={{
-  paddingTop: `calc(${4 + (12 - 4) * (1 - scrollRatio)}px + env(safe-area-inset-top))`,
-  paddingBottom: `${4 + (12 - 4) * (1 - scrollRatio)}px`
-  }}
-  className={`sticky top-0 z-30 border-b backdrop-blur-md transition-colors duration-500
+  className={`sticky top-0 z-30 border-b backdrop-blur-md 
+    pt-[env(safe-area-inset-top)]
     ${darkMode 
       ? 'bg-zinc-950/95 border-zinc-800' 
-      : 'bg-stone-50/95 border-stone-200'}`}
->
+      : 'bg-stone-50/95 border-stone-200'}
+    ${isScrollingDown ? 'py-1 shadow-sm' : 'py-3'}`} // transition 関連のクラスを削除
+  >
   <div className="max-w-6xl mx-auto px-4 flex items-center justify-between gap-4">
     {/* 左側：タイトルエリア */}
-    <div className="flex-1 min-w-0 transition-all duration-500">
+    <div className="flex-1 min-w-0">
       {/* VANITISMEロゴ：下スクロール時は非表示（高さ0、透明度0） */}
       <h1
         style={{ fontFamily: "Cinzel, serif", letterSpacing: '0.07em' }}
-        className={`text-xl ${textSecondary} truncate leading-tight cursor-pointer select-none hover:opacity-70 transition-all duration-500
-          ${isScrollingDown ? 'h-0 opacity-0 pointer-events-none overflow-hidden' : 'h-7 opacity-100'}`}
+        className={`text-xl ${textSecondary} truncate leading-tight cursor-pointer select-none
+          ${isScrollingDown ? 'hidden' : 'block'}`} // アニメーションせず hidden で消す
         onClick={() => window.scrollTo({ top: 0, behavior: 'smooth' })}
       >
         VANITISME
       </h1>
 
       {currentText && (
-        <p className={`font-IBM Plex sans JP truncate transition-all duration-500
+        <p className={`font-IBM Plex sans JP truncate
           ${isScrollingDown 
-            ? `text-xs sm:text-sm py-1 ${darkMode ? 'text-amber-200/80' : 'text-stone-800'}` 
+            ? `text-xs sm:text-sm py-1 ${darkMode ? 'text-stone-400' : 'text-stone-500'}` 
             : `text-[10px] sm:text-xs mt-0.5 ${textSecondary}`}`}>
           <span className="opacity-60">{currentText.author}</span>
           <span className="opacity-40 mx-1">›</span>
-         <span className={`font-medium transition-colors duration-500 ${
-    darkMode ? 'text-[#ddd0b3]' : 'text-stone-900'
-  }`}>
-    {currentText.title}
-  </span>
-</p>
+          <span className={`font-medium ${darkMode ? 'text-amber-200' : 'text-stone-900'}`}>
+            {currentText.title}
+          </span>
+        </p>
       )}
     </div>
-  {/* 右側：ボタン群。下スクロール時は透明(opacity-0)かつ操作不能(pointer-events-none)に */}
-  <div className={`flex items-center gap-2 flex-shrink-0 transition-all duration-500 ease-in-out
-    ${isScrollingDown ? 'opacity-0 pointer-events-none scale-95 translate-x-2' : 'opacity-100 scale-100 translate-x-0'}`}>
-    
+{/* 右側ボタン：ここからも transition を削除し、瞬時に消す */}
+    <div className={`flex items-center gap-2 flex-shrink-0
+      ${isScrollingDown ? 'hidden' : 'flex'}`}>
     {/* 目次ボタン */}
     <button
       onClick={() => { setShowToc(v => !v); setShowBookmarks(false); }}
