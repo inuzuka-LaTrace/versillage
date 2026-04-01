@@ -1823,13 +1823,20 @@ if (loading) {
                     )}
 
                     {(() => {
+  {(() => {
+  // ループ内で使用可能な変数（para）から、原文と訳文を抽出
+  const orig = para.text || para.fr || "";
+  const translation = para.translation || para.ja || "";
+  const hasAnnotations = para.annotations && para.annotations.length > 0;
+  const paraAnnotations = para.annotations || [];
+
   // 1. 上下表示 (vertical)
   if (viewMode === 'vertical') {
     return (
       <div className="space-y-4">
         {(() => {
           const origLines = orig.split('\n');
-          const transLines = (trans || '').split('\n');
+          const transLines = (translation || '').split('\n');
           return origLines.map((line, i) => {
             const isBlankOrig = !line.trim();
             const isBlankTrans = !transLines[i]?.trim();
@@ -1845,7 +1852,7 @@ if (loading) {
                     </span>
                   </div>
                 )}
-                {/* 訳行 */}
+                {/* 訳文行 */}
                 {!isBlankTrans && (
                   <div className={`pl-2 mt-0.5 border-l-2 ${transBorderClass} ${transTextClass}`}>
                     <span className={`leading-relaxed ${fontSizeTransClass}`}>{transLines[i]}</span>
@@ -1869,7 +1876,7 @@ if (loading) {
         </div>
         {(() => {
           const origLines = orig.split('\n');
-          const transLines = (trans || '').split('\n');
+          const transLines = (translation || '').split('\n');
           return origLines.map((line, i) => (
             <div key={i} className={`grid grid-cols-[1fr_1fr] border-b last:border-b-0 ${darkMode ? 'border-zinc-800' : 'border-stone-100'}`}>
               <div className={`px-3 py-2 border-r ${darkMode ? 'border-zinc-800' : 'border-stone-100'} ${origTextClass}`}>
@@ -1903,21 +1910,12 @@ if (loading) {
         </div>
       )}
                     {/* 仮訳 */}
-                    {showOfficial && translation && (
-                      <div className={`mb-2 border-l-2 ${transBorderClass} pl-4 ${showFrench ? '' : 'pt-3'}`}>
-                        <p className={`leading-relaxed whitespace-pre-line ${transTextClass} ${
-                          fontSize === 'xxlarge' ? 'text-xl' :
-                          fontSize === 'xlarge' ? 'text-lg' :
-                          fontSize === 'large'  ? 'text-base' :
-                          fontSize === 'medium' ? 'text-sm' :
-                          fontSize === 'small'  ? 'text-sm' : 
-                          fontSize === 'xsmall' ? 'text-xs' :
-                          fontSize === 'xxsmall' ? 'text-[10px]' :
-                        'text-base'
-                        }`}>
-                          {translation}
-                        </p>
-                        </div>
+                   {showOfficial && translation && (
+        　<div className={`mb-2 border-l-2 ${transBorderClass} pl-4 ${showFrench ? '' : 'pt-3'}`}>
+          <p className={`leading-relaxed whitespace-pre-line ${transTextClass} ${fontSizeTransClass}`}>
+            {translation}
+          </p>
+        </div>
                       )}
                       </>
                     );
