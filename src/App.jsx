@@ -2240,7 +2240,7 @@ const TocDrawer = ({
                 onChange={e => setTocSearch(e.target.value)}
                 placeholder="作家・題名・年・本文…"
                 className={`flex-1 bg-transparent text-sm font-Shippori Mincho B1 outline-none ${tocSub}
-                ${d ? 'placeholder-[#8a7a5a]/70: 'placeholder-stone-400'}
+                ${d ? 'placeholder-[#8a7a5a]/70' : 'placeholder-stone-400'}
                 `}
                 style={{ caretColor: d ? '#ddd0b3' : '#1c1917' }}
               />
