@@ -1902,37 +1902,6 @@ if (loading) {
           </p>
         </div>
       )}
-                    {/* 原文 */}
-                    {showFrench && (
-                      <div className="pt-3 mb-2">
-                        {/* 戯曲：speaker バッジのみ表示（通常テキストはラベルなし） */}
-                        {hasSpeaker && (
-                          <span className={`text-xs font-bold tracking-wider px-2 py-0.5 rounded border ${
-                            darkMode ? speakerColor.dark : speakerColor.light
-                          }`}>
-                            {para.speaker.toUpperCase()}
-                          </span>
-                        )}
-                        <p translate="no" className={`notranslate ${hasSpeaker ? 'mt-1.5' : ''} leading-relaxed whitespace-pre-line pl-4 border-l-2 ${
-                          darkMode ? 'border-stone-700' : 'border-stone-300'
-                        } ${textClass} ${
-                          fontSize === 'xxlarge' ? 'text-2xl' :
-                          fontSize === 'xlarge' ? 'text-xl' :
-                          fontSize === 'large'  ? 'text-lg' :
-                          fontSize === 'medium' ? 'text-base' :
-                          fontSize === 'small'  ? 'text-sm' : 
-                          fontSize === 'xsmall' ? 'text-xs' :
-                          fontSize === 'xxsmall' ? 'text-[10px]' :
-                        'text-base'
-                        }`}>
-                          {showAnnotations && hasAnnotations
-                            ? renderTextWithAnchors(getOriginalText(para), paraAnnotations, para.id)
-                            : getOriginalText(para)
-                          }
-                        </p>
-                      </div>
-                    )}
-
                     {/* 仮訳 */}
                     {showOfficial && translation && (
                       <div className={`mb-2 border-l-2 ${transBorderClass} pl-4 ${showFrench ? '' : 'pt-3'}`}>
