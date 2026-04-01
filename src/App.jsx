@@ -1210,7 +1210,7 @@ if (loading) {
   <div className="flex-1 min-w-0">
     <h1
       style={{ fontFamily: "Bodoni Moda, serif", letterSpacing: '0.08em' }}
-      className={`text-xl font-semibold ${textClass} truncate leading-tight cursor-pointer select-none hover:opacity-70 transition-opacity`}
+      className={`text-xl font-bold ${textClass} truncate leading-tight cursor-pointer select-none hover:opacity-70 transition-opacity`}
       onClick={() => window.scrollTo({ top: 0, behavior: 'smooth' })}
     >
       VANITISME
