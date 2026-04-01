@@ -1195,7 +1195,7 @@ if (loading) {
         </div>
       </div>
 
-      {/* ─── ヘッダー ─────────────────────────────────── */}
+      {/* ─── ヘッダー ───────────────────────────────────#8a7a5a */}
 <header 
   ref={headerRef} 
   className={`sticky top-0 z-30 border-b backdrop-blur-md 
@@ -1204,13 +1204,13 @@ if (loading) {
     ${darkMode 
       ? 'bg-zinc-950/95 border-zinc-800 before:bg-zinc-950' 
       : 'bg-stone-50/95 border-stone-200 before:bg-stone-50'}`}
->
-<div className="max-w-6xl mx-auto px-4 py-3 flex items-center justify-between gap-4">
+  >
+  <div className="max-w-6xl mx-auto px-4 py-3 flex items-center justify-between gap-4">
   {/* 左側：タイトルエリア。flex-1 min-w-0 により、ボタン以外の全幅を作品名に割り当てます */}
   <div className="flex-1 min-w-0">
     <h1
       style={{ fontFamily: "Cinzel, serif", letterSpacing: '0.07em' }}
-      className={`text-xl ${textClass} truncate leading-tight cursor-pointer select-none hover:opacity-70 transition-opacity`}
+      className={`text-xl ${textSecondary} truncate leading-tight cursor-pointer select-none hover:opacity-70 transition-opacity`}
       onClick={() => window.scrollTo({ top: 0, behavior: 'smooth' })}
     >
       VANITISME
@@ -1326,7 +1326,7 @@ if (loading) {
   className={`mt-40 text-[10px] opacity-48 ${ // 25 -> 35
     darkMode ? 'text-[#8a7a5a]' : 'text-stone-500' // 金褐色 #8a7a5a を指定
   }`}
-  style={{ fontFamily: 'Cinzel, serif', letterSpacing: '0.05em' }}
+  style={{ fontFamily: 'Cinzel, serif', letterSpacing: '0.03em' }}
 >
   Adriaen van Utrecht, "Stilleven met boeket en schedel", 1642
     </div>
