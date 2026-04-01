@@ -249,41 +249,45 @@ export default function App() {
   }, []);
   
   // --- ステート・参照の定義 ---
-const [isScrollingDown, setIsScrollingDown] = useState(false);
-const [showScrollTop, setShowScrollTop] = useState(false);
-const [scrollRatio, setScrollRatio] = useState(0);
-const lastScrollY = useRef(0);
+  const [isScrollingDown, setIsScrollingDown] = useState(false);
+  const [showScrollTop, setShowScrollTop] = useState(false);
+  const [scrollRatio, setScrollRatio] = useState(0); // 0 (上端) 〜 1 (100pxスクロール)
+  const lastScrollY = useRef(0);
 
 useEffect(() => {
-  const handleScroll = () => {
-    const currentY = window.scrollY;
-  // 0pxから100pxの間で 0.0 〜 1.0 に変化させる
-    const ratio = Math.min(1, Math.max(0, currentY / 100));
-    setScrollRatio(ratio);
+    const handleScroll = () => {
+      const currentY = window.scrollY;
+      
+      // 1. スクロール割合の計算（0px〜100pxの間で 0.0 〜 1.0 に変化）
+      // これをヘッダーの余白（padding）に適用することで指に吸い付く動きになります
+      const ratio = Math.min(1, Math.max(0, currentY / 100));
+      setScrollRatio(ratio);
+
+      // 2. 方向判定とヘッダー縮小フラグ
+      const deltaY = currentY - lastScrollY.current;
+      
+      // 10px以上の有意な移動がある場合のみ方向判定を更新（バタつき防止）
+      if (Math.abs(deltaY) > 10) {
+        if (currentY > 50 && deltaY > 0) {
+          setIsScrollingDown(true);
+        } else if (deltaY < 0) {
+          setIsScrollingDown(false);
+        }
+      }
+
+      // 3. トップボタン表示判定（300px以上 + 上スクロール時）
+      const isScrollingUp = currentY < lastScrollY.current;
+      setShowScrollTop(currentY > 300 && isScrollingUp);
+
+      // 4. 現在のスクロール位置を保存
+      lastScrollY.current = currentY;
     };
-    // 1. スクロール方向の判定
-    const isScrollingUp = currentY < lastScrollY.current;
-    const scrollingDown = currentY > lastScrollY.current;
 
-    // 2. ヘッダーの縮小判定 (isScrollingDown)
-    // 50px以上スクロールしており、かつ下方向に動いている場合にヘッダーを縮小
-    if (currentY > 50 && scrollingDown) {
-      setIsScrollingDown(true);
-    } else {
-      setIsScrollingDown(false);
-    }
-
-    // 3. フローティングトップボタンの表示判定 (showScrollTop)
-    // 300px以上スクロールしており、かつ上方向に動いている場合のみ表示
-    setShowScrollTop(currentY > 300 && isScrollingUp);
-
-    // 4. 現在のスクロール位置を保存
-    lastScrollY.current = currentY;
-  };
-
-  window.addEventListener('scroll', handleScroll, { passive: true });
-  return () => window.removeEventListener('scroll', handleScroll);
-}, []);
+    window.addEventListener('scroll', handleScroll, { passive: true });
+    return () => {
+      window.removeEventListener('scroll', handleScroll);
+    };
+  }, []);
 
   // 設定パネルの外クリックで閉じる
   useEffect(() => {
@@ -1280,15 +1284,13 @@ if (loading) {
 <header 
   ref={headerRef} 
   style={{
-    paddingTop: `calc(${4 + (12 - 4) * (1 - scrollRatio)}px + env(safe-area-inset-top))`,
-    paddingBottom: `${4 + (12 - 4) * (1 - scrollRatio)}px`
-  className={`sticky top-0 z-30 border-b backdrop-blur-md 
-    pt-[env(safe-area-inset-top)] 
-    transition-all duration-500 ease-in-out
+  paddingTop: `calc(${4 + (12 - 4) * (1 - scrollRatio)}px + env(safe-area-inset-top))`,
+  paddingBottom: `${4 + (12 - 4) * (1 - scrollRatio)}px`
+  }}
+  className={`sticky top-0 z-30 border-b backdrop-blur-md transition-colors duration-500
     ${darkMode 
       ? 'bg-zinc-950/95 border-zinc-800' 
-      : 'bg-stone-50/95 border-stone-200'}
-    ${isScrollingDown ? 'py-1' : 'py-3'}`} // 下スクロール時は余白を詰める
+      : 'bg-stone-50/95 border-stone-200'}`}
 >
   <div className="max-w-6xl mx-auto px-4 flex items-center justify-between gap-4">
     {/* 左側：タイトルエリア */}
