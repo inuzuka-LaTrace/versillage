@@ -1824,27 +1824,30 @@ if (loading) {
 
   /* --- 1826行目からの表示ロジック --- */}
 {(() => {
-                  // 1. データの抽出
+                  // 1. データの抽出（para は map の引数として存在している前提）
                   const orig = para.text || para.fr || "";
                   const translation = para.translation || para.ja || "";
                   const hasAnnotations = para.annotations && para.annotations.length > 0;
                   const paraAnnotations = para.annotations || [];
 
-                  // 2. デザイン用変数の定義
-                  const origBorderClass = darkMode ? 'border-amber-900/40' : 'border-amber-200/60';
-                  const transBorderClass = darkMode ? 'border-stone-800' : 'border-stone-100';
-                  const origTextClass = darkMode ? 'text-[#ddd0b3]' : 'text-stone-800';
-                  const transTextClass = darkMode ? 'text-[#8a7a5a]' : 'text-stone-600';
-                  const fontSizeClass = fontSize === 'small' ? 'text-sm' : fontSize === 'large' ? 'text-xl' : 'text-base';
-                  const fontSizeTransClass = fontSize === 'small' ? 'text-xs' : fontSize === 'large' ? 'text-lg' : 'text-sm';
+                  // 2. デザイン変数の定義（外部に依存せずここで決定）
+                  const d = darkMode;
+                  const origBorderClass = d ? 'border-amber-900/40' : 'border-amber-200/60';
+                  const transBorderClass = d ? 'border-stone-800' : 'border-stone-100';
+                  const origTextClass = d ? 'text-[#ddd0b3]' : 'text-stone-800';
+                  const transTextClass = d ? 'text-[#8a7a5a]' : 'text-stone-600';
+                  const fSize = fontSize === 'small' ? 'text-sm' : fontSize === 'large' ? 'text-xl' : 'text-base';
+                  const fSizeTrans = fontSize === 'small' ? 'text-xs' : fontSize === 'large' ? 'text-lg' : 'text-sm';
 
-                  // 3. 各モードのレンダリング
-                  // A. 上下表示 (vertical)
+                  // 3. レンダリング条件分岐
                   if (viewMode === 'vertical') {
+                    // --- A. 上下表示 (逐行) ---
+                    const origLines = orig.split('\n');
+                    const transLines = (translation || '').split('\n');
+                    
                     return (
-                      <div className="space-y-4">
-                        {orig.split('\n').map((line, i) => {
-                          const transLines = (translation || '').split('\n');
+                      <div className="space-y-4 mb-4">
+                        {origLines.map((line, i) => {
                           const isBlankOrig = !line.trim();
                           const isBlankTrans = !transLines[i]?.trim();
                           if (isBlankOrig && isBlankTrans) return <div key={i} className="h-4" />;
@@ -1852,14 +1855,14 @@ if (loading) {
                             <div key={i} className="mb-4">
                               {!isBlankOrig && (
                                 <div className={`pl-2 border-l-2 ${origBorderClass}`}>
-                                  <span translate="no" className={`notranslate leading-relaxed ${fontSizeClass}`}>
+                                  <span translate="no" className={`notranslate leading-relaxed ${fSize}`}>
                                     {showAnnotations && hasAnnotations ? renderTextWithAnchors(line, paraAnnotations, para.id) : line}
                                   </span>
                                 </div>
                               )}
                               {!isBlankTrans && (
-                                <div className={`pl-2 mt-0.5 border-l-2 ${transBorderClass} ${transTextClass}`}>
-                                  <span className={`leading-relaxed ${fontSizeTransClass}`}>{transLines[i]}</span>
+                                <div className={`pl-2 mt-1 border-l-2 ${transBorderClass} ${transTextClass}`}>
+                                  <span className={`leading-relaxed ${fSizeTrans}`}>{transLines[i]}</span>
                                 </div>
                               )}
                             </div>
@@ -1867,59 +1870,57 @@ if (loading) {
                         })}
                       </div>
                     );
-                  }
-
-                  // B. 左右表示 (side)
-                  if (viewMode === 'side') {
+                  } else if (viewMode === 'side') {
+                    // --- B. 左右表示 (グリッド) ---
+                    const origLines = orig.split('\n');
+                    const transLines = (translation || '').split('\n');
+                    
                     return (
-                      <div className={`rounded-lg overflow-hidden border ${darkMode ? 'border-zinc-700' : 'border-stone-200'}`}>
-                        <div className={`grid grid-cols-[1fr_1fr] border-b text-[10px] font-sans uppercase tracking-widest ${darkMode ? 'bg-zinc-800/50 text-zinc-500 border-zinc-700' : 'bg-stone-50 text-stone-400 border-stone-200'}`}>
+                      <div className={`rounded-lg overflow-hidden border mb-6 ${d ? 'border-zinc-800' : 'border-stone-200'}`}>
+                        <div className={`grid grid-cols-2 border-b text-[9px] font-sans uppercase tracking-[0.2em] ${d ? 'bg-zinc-900 text-zinc-500 border-zinc-800' : 'bg-stone-50 text-stone-400 border-stone-200'}`}>
                           <div className="px-3 py-1 border-r border-inherit text-center">Original</div>
-                          <div className="px-3 py-1 text-center">Translation</div>
+                          <div className="px-3 py-1 text-center">Traduction</div>
                         </div>
-                        {orig.split('\n').map((line, i) => {
-                          const transLines = (translation || '').split('\n');
-                          return (
-                            <div key={i} className={`grid grid-cols-[1fr_1fr] border-b last:border-b-0 ${darkMode ? 'border-zinc-800' : 'border-stone-100'}`}>
-                              <div className={`px-3 py-2 border-r ${darkMode ? 'border-zinc-800' : 'border-stone-100'} ${origTextClass}`}>
-                                <span translate="no" className={`notranslate leading-relaxed ${fontSizeClass}`}>
-                                  {line.trim() ? (showAnnotations && hasAnnotations ? renderTextWithAnchors(line, paraAnnotations, para.id) : line) : ''}
-                                </span>
-                              </div>
-                              <div className={`px-3 py-2 ${transTextClass}`}>
-                                <span className={`leading-relaxed ${fontSizeTransClass}`}>{transLines[i] || ''}</span>
-                              </div>
+                        {origLines.map((line, i) => (
+                          <div key={i} className={`grid grid-cols-2 border-b last:border-b-0 ${d ? 'border-zinc-800' : 'border-stone-100'}`}>
+                            <div className={`px-3 py-2 border-r ${d ? 'border-zinc-800' : 'border-stone-100'} ${origTextClass}`}>
+                              <span translate="no" className={`notranslate leading-relaxed ${fSize}`}>
+                                {line.trim() ? (showAnnotations && hasAnnotations ? renderTextWithAnchors(line, paraAnnotations, para.id) : line) : ''}
+                              </span>
                             </div>
-                          );
-                        })}
+                            <div className={`px-3 py-2 ${transTextClass}`}>
+                              <span className={`leading-relaxed ${fSizeTrans}`}>{transLines[i] || ''}</span>
+                            </div>
+                          </div>
+                        ))}
+                      </div>
+                    );
+                  } else {
+                    // --- C. 標準表示 ---
+                    return (
+                      <div className="mb-4">
+                        {showFrench && (
+                          <div className="pt-3 mb-4">
+                            {para.speaker && (
+                              <span className={`text-[10px] font-bold tracking-widest px-2 py-0.5 rounded border mb-2 inline-block ${d ? (speakerColors[para.speaker]?.dark || 'border-zinc-700 text-zinc-500') : (speakerColors[para.speaker]?.light || 'border-stone-200 text-stone-400')}`}>
+                                {para.speaker.toUpperCase()}
+                              </span>
+                            )}
+                            <p translate="no" className={`notranslate leading-relaxed whitespace-pre-line pl-4 border-l-2 ${origBorderClass} ${origTextClass} ${fSize}`}>
+                              {showAnnotations && hasAnnotations ? renderTextWithAnchors(orig, paraAnnotations, para.id) : orig}
+                            </p>
+                          </div>
+                        )}
+                        {showOfficial && translation && (
+                          <div className={`mt-4 pt-4 border-t ${d ? 'border-zinc-800' : 'border-stone-100'}`}>
+                            <p className={`leading-relaxed whitespace-pre-line ${transTextClass} ${fSizeTrans}`}>
+                              {translation}
+                            </p>
+                          </div>
+                        )}
                       </div>
                     );
                   }
-
-                  // C. 標準表示 (standard)
-                  return (
-                    <>
-                      {showFrench && (
-                        <div className="pt-3 mb-2">
-                          {para.speaker && (
-                            <span className={`text-xs font-bold tracking-wider px-2 py-0.5 rounded border ${darkMode ? (speakerColors[para.speaker]?.dark || 'border-stone-700 text-stone-400') : (speakerColors[para.speaker]?.light || 'border-stone-200 text-stone-500')}`}>
-                              {para.speaker.toUpperCase()}
-                            </span>
-                          )}
-                          <p translate="no" className={`notranslate ${para.speaker ? 'mt-1.5' : ''} leading-relaxed whitespace-pre-line pl-4 border-l-2 ${origBorderClass} ${origTextClass} ${fontSizeClass}`}>
-                            {showAnnotations && hasAnnotations ? renderTextWithAnchors(orig, paraAnnotations, para.id) : orig}
-                          </p>
-                        </div>
-                      )}
-                      {showOfficial && translation && (
-                        <div className={`mb-2 border-l-2 ${transBorderClass} pl-4 ${showFrench ? '' : 'pt-3'}`}>
-                          <p className={`leading-relaxed whitespace-pre-line ${transTextClass} ${fontSizeTransClass}`}>
-                            {translation}
-                          </p>
-                        </div>
-                      )}
-                    </>
-                  );
                 })()}
 
                     {/* 注釈パネル */}
