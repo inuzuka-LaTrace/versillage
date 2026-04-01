@@ -1273,20 +1273,23 @@ if (loading) {
 <header 
   ref={headerRef} 
   className={`sticky top-0 z-30 border-b backdrop-blur-md 
-    pt-[env(safe-area-inset-top)]
+    /* PWAモードで上端の隙間を埋めるための絶対配置要素 */
+    before:content-[''] before:absolute before:bottom-full before:left-0 before:w-full before:h-20
     ${darkMode 
-      ? 'bg-zinc-950/95 border-zinc-800' 
-      : 'bg-stone-50/95 border-stone-200'}
-    ${isScrollingDown ? 'py-1 shadow-sm' : 'py-3'}`} // transition 関連のクラスを削除
-  >
+      ? 'bg-zinc-950/95 border-zinc-800 before:bg-zinc-950' 
+      : 'bg-stone-50/95 border-stone-200 before:bg-stone-50'}
+    /* 下スクロール時は padding-top を最小化しつつ、セーフエリア分は死守 */
+    ${isScrollingDown 
+      ? 'pt-[env(safe-area-inset-top)] pb-1' 
+      : 'pt-[calc(env(safe-area-inset-top)+12px)] pb-3'}`}
+>
   <div className="max-w-6xl mx-auto px-4 flex items-center justify-between gap-4">
-    {/* 左側：タイトルエリア */}
     <div className="flex-1 min-w-0">
-      {/* VANITISMEロゴ：下スクロール時は非表示（高さ0、透明度0） */}
+      {/* ロゴ：縮小時は非表示 */}
       <h1
         style={{ fontFamily: "Cinzel, serif", letterSpacing: '0.07em' }}
         className={`text-xl ${textSecondary} truncate leading-tight cursor-pointer select-none
-          ${isScrollingDown ? 'hidden' : 'block'}`} // アニメーションせず hidden で消す
+          ${isScrollingDown ? 'hidden' : 'block'}`}
         onClick={() => window.scrollTo({ top: 0, behavior: 'smooth' })}
       >
         VANITISME
@@ -1299,7 +1302,9 @@ if (loading) {
             : `text-[10px] sm:text-xs mt-0.5 ${textSecondary}`}`}>
           <span className="opacity-60">{currentText.author}</span>
           <span className="opacity-40 mx-1">›</span>
-          <span className={`font-medium ${darkMode ? 'text-amber-200' : 'text-stone-900'}`}>
+          <span className={`font-medium transition-colors duration-200 ${
+            darkMode ? 'text-amber-200' : 'text-stone-900'
+          }`}>
             {currentText.title}
           </span>
         </p>
@@ -1317,7 +1322,7 @@ if (loading) {
           : darkMode ? 'bg-zinc-800 hover:bg-zinc-700 text-[#8a7a5a]' : 'bg-stone-100 hover:bg-stone-200 text-stone-600'
       }`}
     >
-      <List size={15} strokeWidth={1.6} />
+      <List size={15}/>
     </button>
 
     {/* ブックマークボタン */}
@@ -1329,7 +1334,7 @@ if (loading) {
           : darkMode ? 'bg-zinc-800 hover:bg-zinc-700 text-[#8a7a5a]' : 'bg-stone-100 hover:bg-stone-200 text-stone-600'
       }`}
     >
-      <Bookmark size={15} strokeWidth={1.6} />
+      <Bookmark size={15}/>
     </button>
 
     {/* 設定ボタン */}
@@ -1341,7 +1346,7 @@ if (loading) {
           : darkMode ? 'bg-zinc-800 hover:bg-zinc-700 text-[#8a7a5a]' : 'bg-stone-100 hover:bg-stone-200 text-stone-600'
       }`}
     >
-      <Settings size={15} strokeWidth={1.6} />
+      <Settings size={15}/>
     </button>
   </div>
 </div>
