@@ -7,7 +7,6 @@ const STATIC_ASSETS = [
   '/',
   '/index.html',
   '/manifest.json',
-  '/favicon.ico',
   // 主要なフォントやロゴなどのアセットをここに追加
 ];
 
