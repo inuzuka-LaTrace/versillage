@@ -252,6 +252,26 @@ export default function App() {
     return () => window.removeEventListener('popstate', handlePopState);
   }, []);
 
+
+  const [isScrollingDown, setIsScrollingDown] = useState(false);
+  const lastScrollY = useRef(0);
+  useEffect(() => {
+    const handleScroll = () => {
+    const currentScrollY = window.scrollY;
+    
+    // 50px以上スクロール、かつ下方向への移動なら「スクロール中」と判定
+    if (currentScrollY > 50 && currentScrollY > lastScrollY.current) {
+      setIsScrollingDown(true);
+    } else {
+      setIsScrollingDown(false);
+    }
+    lastScrollY.current = currentScrollY;
+  };
+
+  window.addEventListener('scroll', handleScroll, { passive: true });
+  return () => window.removeEventListener('scroll', handleScroll);
+  }, []);
+  
   // フローティングTOPボタン：300px超 かつ上方向スクロール時に表示
   useEffect(() => {
     const handleScroll = () => {
@@ -1255,37 +1275,46 @@ if (loading) {
         </div>
       </div>
 
-      {/* ─── ヘッダー ───────────────────────────────────#8a7a5a */}
+      {/* ─── ヘッダー ────────────────────────────────── */}
 <header 
   ref={headerRef} 
   className={`sticky top-0 z-30 border-b backdrop-blur-md 
     pt-[env(safe-area-inset-top)] 
-    before:content-[''] before:absolute before:bottom-full before:left-0 before:w-full before:h-20
+    transition-all duration-500 ease-in-out
     ${darkMode 
-      ? 'bg-zinc-950/95 border-zinc-800 before:bg-zinc-950' 
-      : 'bg-stone-50/95 border-stone-200 before:bg-stone-50'}`}
-  >
-  <div className="max-w-6xl mx-auto px-4 py-3 flex items-center justify-between gap-4">
-  {/* 左側：タイトルエリア。flex-1 min-w-0 により、ボタン以外の全幅を作品名に割り当てます */}
-  <div className="flex-1 min-w-0">
-    <h1
-      style={{ fontFamily: "Cinzel, serif", letterSpacing: '0.07em' }}
-      className={`text-xl ${textSecondary} truncate leading-tight cursor-pointer select-none hover:opacity-70 transition-opacity`}
-      onClick={() => window.scrollTo({ top: 0, behavior: 'smooth' })}
-    >
-      VANITISME
-    </h1>
-    {currentText && (
-      <p className={`text-[10px] sm:text-xs font-IBM Plex sans JP truncate mt-0.5 ${textSecondary}`}>
-        <span className="opacity-60">{currentText.author}</span>
-        <span className="opacity-40 mx-1">›</span>
-        <span>{currentText.title}</span>
-      </p>
-    )}
-  </div>
+      ? 'bg-zinc-950/95 border-zinc-800' 
+      : 'bg-stone-50/95 border-stone-200'}
+    ${isScrollingDown ? 'py-1' : 'py-3'}`} // 下スクロール時は余白を詰める
+>
+  <div className="max-w-6xl mx-auto px-4 flex items-center justify-between gap-4">
+    {/* 左側：タイトルエリア */}
+    <div className="flex-1 min-w-0 transition-all duration-500">
+      {/* VANITISMEロゴ：下スクロール時は非表示（高さ0、透明度0） */}
+      <h1
+        style={{ fontFamily: "Cinzel, serif", letterSpacing: '0.07em' }}
+        className={`text-xl ${textSecondary} truncate leading-tight cursor-pointer select-none hover:opacity-70 transition-all duration-500
+          ${isScrollingDown ? 'h-0 opacity-0 pointer-events-none overflow-hidden' : 'h-7 opacity-100'}`}
+        onClick={() => window.scrollTo({ top: 0, behavior: 'smooth' })}
+      >
+        VANITISME
+      </h1>
 
-  {/* 右側：ボタン群。3つに絞ることでタイトルエリアの「領土」を物理的に広げます */}
-  <div className="flex items-center gap-2 flex-shrink-0">
+      {currentText && (
+        <p className={`font-IBM Plex sans JP truncate transition-all duration-500
+          ${isScrollingDown 
+            ? `text-xs sm:text-sm py-1 ${darkMode ? 'text-amber-200/80' : 'text-stone-800'}` 
+            : `text-[10px] sm:text-xs mt-0.5 ${textSecondary}`}`}>
+          <span className="opacity-60">{currentText.author}</span>
+          <span className="opacity-40 mx-1">›</span>
+          <span className="font-medium">{currentText.title}</span>
+        </p>
+      )}
+    </div>
+  {/* 右側：ボタン群。下スクロール時は透明(opacity-0)かつ操作不能(pointer-events-none)に */}
+  <div className={`flex items-center gap-2 flex-shrink-0 transition-all duration-500 ease-in-out
+    ${isScrollingDown ? 'opacity-0 pointer-events-none scale-95 translate-x-2' : 'opacity-100 scale-100 translate-x-0'}`}>
+    
+    {/* 目次ボタン */}
     <button
       onClick={() => { setShowToc(v => !v); setShowBookmarks(false); }}
       className={`w-8 h-8 flex items-center justify-center rounded-full transition-colors ${
@@ -1297,6 +1326,7 @@ if (loading) {
       <List size={15} strokeWidth={1.6} />
     </button>
 
+    {/* ブックマークボタン */}
     <button
       onClick={() => { setShowBookmarks(v => !v); setShowToc(false); }}
       className={`w-8 h-8 flex items-center justify-center rounded-full transition-colors ${
@@ -1308,6 +1338,7 @@ if (loading) {
       <Bookmark size={15} strokeWidth={1.6} />
     </button>
 
+    {/* 設定ボタン */}
     <button
       onClick={() => setShowSettings(v => !v)}
       className={`w-8 h-8 flex items-center justify-center rounded-full transition-colors ${
@@ -1320,7 +1351,7 @@ if (loading) {
     </button>
   </div>
 </div>
-      </header>
+</header>
 
       <div className="max-w-6xl mx-auto px-4 py-6">
 
