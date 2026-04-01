@@ -1824,8 +1824,8 @@ if (loading) {
  {/* --- 1826行目：表示ロジック開始 --- */}
             {(() => {
                   // 1. データの抽出：JSONの構造に合わせて para.content を優先
-                  const orig = para.content || para.text || para.fr || "";
-                  const translation = para.translation || para.ja || "";
+                  const orig = para.content || para.original || para.french || "";
+                  const translation = para.provisionalTranslation || para.ja || "";
                   const hasAnnotations = para.annotations && para.annotations.length > 0;
                   const paraAnnotations = para.annotations || [];
 
