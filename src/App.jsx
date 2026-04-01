@@ -1829,6 +1829,13 @@ if (loading) {
   const hasAnnotations = para.annotations && para.annotations.length > 0;
   const paraAnnotations = para.annotations || [];
 
+  const _origBorderClass = darkMode ? 'border-amber-900/40' : 'border-amber-200/60';
+  const _transBorderClass = darkMode ? 'border-stone-800' : 'border-stone-100';
+  const _origTextClass = darkMode ? 'text-[#ddd0b3]' : 'text-stone-800';
+  const _transTextClass = darkMode ? 'text-[#8a7a5a]' : 'text-stone-600';
+  const _fontSizeClass = fontSize === 'small' ? 'text-sm' : fontSize === 'large' ? 'text-xl' : 'text-base';
+  const _fontSizeTransClass = fontSize === 'small' ? 'text-xs' : fontSize === 'large' ? 'text-lg' : 'text-sm';
+
   // 1. 上下表示 (vertical)
   if (viewMode === 'vertical') {
     return (
@@ -1841,15 +1848,15 @@ if (loading) {
           return (
             <div key={i} className="mb-4">
               {!isBlankOrig && (
-                <div className={`pl-2 border-l-2 ${origBorderClass}`}>
-                  <span translate="no" className={`notranslate leading-relaxed ${fontSizeClass}`}>
+                <div className={`pl-2 border-l-2 ${_origBorderClass}`}>
+                  <span translate="no" className={`notranslate leading-relaxed ${_fontSizeClass}`}>
                     {showAnnotations && hasAnnotations ? renderTextWithAnchors(line, paraAnnotations, para.id) : line}
                   </span>
                 </div>
               )}
               {!isBlankTrans && (
-                <div className={`pl-2 mt-0.5 border-l-2 ${transBorderClass} ${transTextClass}`}>
-                  <span className={`leading-relaxed ${fontSizeTransClass}`}>{transLines[i]}</span>
+                <div className={`pl-2 mt-0.5 border-l-2 ${_transBorderClass} ${_transTextClass}`}>
+                  <span className={`leading-relaxed ${_fontSizeTransClass}`}>{transLines[i]}</span>
                 </div>
               )}
             </div>
@@ -1871,13 +1878,13 @@ if (loading) {
           const transLines = (translation || '').split('\n');
           return (
             <div key={i} className={`grid grid-cols-[1fr_1fr] border-b last:border-b-0 ${darkMode ? 'border-zinc-800' : 'border-stone-100'}`}>
-              <div className={`px-3 py-2 border-r ${darkMode ? 'border-zinc-800' : 'border-stone-100'} ${origTextClass}`}>
-                <span translate="no" className={`notranslate leading-relaxed ${fontSizeClass}`}>
+              <div className={`px-3 py-2 border-r ${darkMode ? 'border-zinc-800' : 'border-stone-100'} ${_origTextClass}`}>
+                <span translate="no" className={`notranslate leading-relaxed ${_fontSizeClass}`}>
                   {line.trim() ? (showAnnotations && hasAnnotations ? renderTextWithAnchors(line, paraAnnotations, para.id) : line) : ''}
                 </span>
               </div>
-              <div className={`px-3 py-2 ${transTextClass}`}>
-                <span className={`leading-relaxed ${fontSizeTransClass}`}>{transLines[i] || ''}</span>
+              <div className={`px-3 py-2 ${_transTextClass}`}>
+                <span className={`leading-relaxed ${_fontSizeTransClass}`}>{transLines[i] || ''}</span>
               </div>
             </div>
           );
@@ -1896,14 +1903,14 @@ if (loading) {
               {para.speaker.toUpperCase()}
             </span>
           )}
-          <p translate="no" className={`notranslate ${para.speaker ? 'mt-1.5' : ''} leading-relaxed whitespace-pre-line pl-4 border-l-2 ${origBorderClass} ${origTextClass} ${fontSizeClass}`}>
+          <p translate="no" className={`notranslate ${para.speaker ? 'mt-1.5' : ''} leading-relaxed whitespace-pre-line pl-4 border-l-2 ${_origBorderClass} ${_origTextClass} ${_fontSizeClass}`}>
             {showAnnotations && hasAnnotations ? renderTextWithAnchors(orig, paraAnnotations, para.id) : orig}
           </p>
         </div>
       )}
       {showOfficial && translation && (
-        <div className={`mb-2 border-l-2 ${transBorderClass} pl-4 ${showFrench ? '' : 'pt-3'}`}>
-          <p className={`leading-relaxed whitespace-pre-line ${transTextClass} ${fontSizeTransClass}`}>
+        <div className={`mb-2 border-l-2 ${_transBorderClass} pl-4 ${showFrench ? '' : 'pt-3'}`}>
+          <p className={`leading-relaxed whitespace-pre-line ${_transTextClass} ${_fontSizeTransClass}`}>
             {translation}
           </p>
         </div>
