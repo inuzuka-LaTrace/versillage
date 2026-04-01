@@ -1060,38 +1060,39 @@ if (loading) {
       </div>
     </div>
   </div>
-{/* --- 逐行対訳モード --- */}
-<div className="space-y-3 pt-4 border-t border-stone-200 dark:border-stone-800">
+{/* --- 逐行対訳モードの設定項目（元のデザインに完全準拠） --- */}
+<div className="space-y-3 pt-6 mt-6 border-t border-stone-200/60 dark:border-[#3a3228]">
   <div className="flex items-center justify-between">
     <div className="flex items-center gap-3">
-      <div className={`p-2 rounded-lg ${d ? 'bg-stone-800' : 'bg-stone-100'}`}>
-        <List className={`w-4 h-4 ${t}`} />
+      {/* アイコンの背景色は既存のカード背景 #17140e に合わせます */}
+      <div className={`p-2 rounded-lg ${darkMode ? 'bg-[#17140e]' : 'bg-stone-100'}`}>
+        <List className={`w-4 h-4 ${textSecondary}`} />
       </div>
       <div>
-        <p className={`text-sm font-medium ${t}`}>表示モード</p>
-        <p className={`text-xs ${dim}`}>原文と訳文のレイアウト</p>
+        <p className={`text-sm font-medium ${textClass}`}>表示モード</p>
+        <p className={`text-xs ${textSecondary}`}>原文と訳文のレイアウト</p>
       </div>
     </div>
   </div>
 
-  <div className={`grid grid-cols-2 gap-2 p-1 rounded-xl ${d ? 'bg-stone-900' : 'bg-stone-100'}`}>
+  <div className={`grid grid-cols-2 gap-2 p-1 rounded-xl ${darkMode ? 'bg-black/20' : 'bg-stone-100'}`}>
     <button
-      onClick={() => setIsInterlinear(false)}
+      onClick={() => setInterlinear(false)}
       className={`flex items-center justify-center gap-2 py-2 px-3 rounded-lg text-xs font-medium transition-all ${
-        !isInterlinear 
-          ? (d ? 'bg-stone-800 text-stone-200 shadow-sm' : 'bg-white text-stone-800 shadow-sm')
-          : (d ? 'text-stone-500 hover:text-stone-400' : 'text-stone-500 hover:text-stone-700')
+        !interlinear 
+          ? (darkMode ? 'bg-amber-700 text-amber-100 shadow-sm' : 'bg-white text-stone-800 shadow-sm')
+          : (darkMode ? 'text-zinc-500 hover:text-zinc-400' : 'text-stone-500 hover:text-stone-700')
       }`}
     >
       <FileText className="w-3.5 h-3.5" />
-      標準
+      標準表示
     </button>
     <button
-      onClick={() => setIsInterlinear(true)}
+      onClick={() => setInterlinear(true)}
       className={`flex items-center justify-center gap-2 py-2 px-3 rounded-lg text-xs font-medium transition-all ${
-        isInterlinear 
-          ? (d ? 'bg-stone-800 text-stone-200 shadow-sm' : 'bg-white text-stone-800 shadow-sm')
-          : (d ? 'text-stone-500 hover:text-stone-400' : 'text-stone-500 hover:text-stone-700')
+        interlinear 
+          ? (darkMode ? 'bg-amber-700 text-amber-100 shadow-sm' : 'bg-white text-stone-800 shadow-sm')
+          : (darkMode ? 'text-zinc-500 hover:text-zinc-400' : 'text-stone-500 hover:text-stone-700')
       }`}
     >
       <Sparkles className="w-3.5 h-3.5" />
