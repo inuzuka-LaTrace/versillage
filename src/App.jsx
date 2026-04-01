@@ -1,7 +1,7 @@
 import React, { useState, useEffect, useRef } from 'react';
 import {
   Bookmark, BookmarkCheck,
-  Settings, Moon, Sun, Sparkles, 
+  Settings, Moon, Sun, Sparkles,
   Volume2, Square as IconSquare,
   Search, Link, FileText, List,
   ChevronRight, ChevronDown,
@@ -1051,8 +1051,7 @@ if (loading) {
           <Sun size={16} className="text-stone-500" strokeWidth={1.6} />
         )}
         <span className={`text-sm ${textClass}`}>{darkMode ? 'テーマ切替' : 'テーマ切替'}</span>
-      </div>
-      
+      </div>      
       {/* トグルスイッチ（既存のデザインに準拠） */}
       <div className={`relative w-10 h-5 rounded-full transition-colors
         ${darkMode ? 'bg-amber-600' : 'bg-stone-300'}`}>
@@ -1061,6 +1060,45 @@ if (loading) {
       </div>
     </div>
   </div>
+{/* --- 逐行対訳モード --- */}
+<div className="space-y-3 pt-4 border-t border-stone-200 dark:border-stone-800">
+  <div className="flex items-center justify-between">
+    <div className="flex items-center gap-3">
+      <div className={`p-2 rounded-lg ${d ? 'bg-stone-800' : 'bg-stone-100'}`}>
+        <List className={`w-4 h-4 ${t}`} />
+      </div>
+      <div>
+        <p className={`text-sm font-medium ${t}`}>表示モード</p>
+        <p className={`text-xs ${dim}`}>原文と訳文のレイアウト</p>
+      </div>
+    </div>
+  </div>
+
+  <div className={`grid grid-cols-2 gap-2 p-1 rounded-xl ${d ? 'bg-stone-900' : 'bg-stone-100'}`}>
+    <button
+      onClick={() => setIsInterlinear(false)}
+      className={`flex items-center justify-center gap-2 py-2 px-3 rounded-lg text-xs font-medium transition-all ${
+        !isInterlinear 
+          ? (d ? 'bg-stone-800 text-stone-200 shadow-sm' : 'bg-white text-stone-800 shadow-sm')
+          : (d ? 'text-stone-500 hover:text-stone-400' : 'text-stone-500 hover:text-stone-700')
+      }`}
+    >
+      <FileText className="w-3.5 h-3.5" />
+      標準
+    </button>
+    <button
+      onClick={() => setIsInterlinear(true)}
+      className={`flex items-center justify-center gap-2 py-2 px-3 rounded-lg text-xs font-medium transition-all ${
+        isInterlinear 
+          ? (d ? 'bg-stone-800 text-stone-200 shadow-sm' : 'bg-white text-stone-800 shadow-sm')
+          : (d ? 'text-stone-500 hover:text-stone-400' : 'text-stone-500 hover:text-stone-700')
+      }`}
+    >
+      <Sparkles className="w-3.5 h-3.5" />
+      逐行対訳
+    </button>
+  </div>
+</div>
           {/* フォントサイズ：ステッパー */}
           {(() => {
             const sizeSteps = ['xxsmall','xsmall','small','medium','large','xlarge','xxlarge'];
@@ -1578,33 +1616,6 @@ if (loading) {
             >
               {speakingId === 'all' ? <><IconSquare size={10} strokeWidth={2} fill='currentColor' className='inline mr-1' />停止</> : <><Volume2 size={13} strokeWidth={1.6} className='inline mr-1' />全文</>}
             </button>
-            {/* 逐行対訳：左右 / 上下ボタン（原文＋仮訳が両方オンの時のみ） */}
-            {showFrench && showOfficial && (
-              <div className={`flex rounded-lg overflow-hidden border ${
-                interlinear
-                  ? darkMode ? 'border-red-600' : 'border-red-400'
-                  : darkMode ? 'border-zinc-700' : 'border-stone-200'
-              }`}>
-                {[['side','左右'],['stacked','上下']].map(([mode, label]) => (
-                  <button
-                    key={mode}
-                    onClick={() => setInterlinear(v => v === mode ? false : mode)}
-                    title={mode === 'side' ? '逐行対訳（左右2カラム）' : '逐行対訳（上下縦並び）'}
-                    className={`px-2.5 py-1.5 text-xs font-IBM Plex sans JP font-medium transition-all ${
-                      interlinear === mode
-                        ? darkMode
-                          ? 'bg-red-700 text-red-100'
-                          : 'bg-red-600 text-white'
-                        : darkMode
-                          ? 'bg-zinc-800 text-zinc-400 hover:bg-red-900/30 hover:text-red-400'
-                          : 'bg-stone-50 text-stone-500 hover:bg-red-50 hover:text-red-600'
-                    }${
-                      mode === 'side' ? ` border-r ${darkMode ? 'border-zinc-700' : 'border-stone-200'}` : ''
-                    }`}
-                  >{label}</button>
-                ))}
-              </div>
-            )}
           </div>
           <button
             onClick={clearAllTranslations}
@@ -1716,14 +1727,14 @@ if (loading) {
                     </span>
                   )}
     {/* 【削除済み】逐行対訳バッジ（interlinear）の箇所を完全に撤廃しました */}
-  </div>
-                  <div className="flex items-center gap-2 shrink-0">
-                    {hasUserTrans && (
-                      <span className="w-2 h-2 rounded-full bg-purple-500" title="自分の訳あり" />
-                    )}
-                    {hasAnnotations && (
-                      <span className="w-2 h-2 rounded-full bg-amber-400" title="注釈あり" />
-                    )}
+    </div>
+    <div className="flex items-center gap-2 shrink-0">
+      {hasUserTrans && (
+        <span className="w-2 h-2 rounded-full bg-purple-500" title="自分の訳あり" />
+        )}
+        {hasAnnotations && (
+          <span className="w-2 h-2 rounded-full bg-amber-400" title="注釈あり" />
+          )}
                     {/* ブックマークボタン */}
                     <button
                       onClick={(e) => toggleBookmark(e, selectedText, para.id)}
