@@ -1207,7 +1207,7 @@ if (loading) {
 >
 return (
     <>
-      <header className="fixed top-0 left-0 right-0 z-40 bg-zinc-950/80 backdrop-blur-md border-b border-zinc-900/50">
+     <header className="fixed top-0 left-0 right-0 z-40 bg-zinc-950/80 backdrop-blur-md border-b border-zinc-900/50">
         <div className="max-w-6xl mx-auto px-4 py-3 flex items-center justify-between gap-4">
           
           {/* 左側：タイトルエリア */}
@@ -1233,15 +1233,16 @@ return (
             )}
           </div>
 
-          {/* 右側：ボタンエリア（既存のボタン群） */}
+          {/* 右側：ボタンエリア（既存のボタン群があればここに追加） */}
           <div className="flex items-center gap-2 flex-shrink-0">
-             {/* ここに目次や設定のボタンコードが入ります */}
+             {/* ボタンのコード */}
           </div>
-        </div>
-      </header>
-      {/* 1288行目付近のエラー箇所 */}
+
+        </div> {/* ← ここで px-4 py-3 の div を閉じる */}
+      </header> {/* ← ここで header を閉じる */}
+
       <div className="max-w-6xl mx-auto px-4 py-6 mt-16">
-       {/* ─── ウェルカムバナー 等 ───────────────────────── */}
+        {/* ─── ウェルカムバナー ───────────────────────── */}
     </div>
   </>
 );
