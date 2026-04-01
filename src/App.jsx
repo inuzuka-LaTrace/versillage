@@ -1211,7 +1211,7 @@ if (loading) {
     <h1
       style={{ fontFamily: "Bodoni Moda, serif", letterSpacing: '0.07em' }}
     {/* text-base から text-xl（または text-2xl）へ変更 */}
-    className={`text-xl sm:text-2xl font-bold ${textClass} truncate leading-none cursor-pointer select-none hover:opacity-70 transition-opacity`}
+    className={`text-xl font-bold ${textClass} truncate leading-none cursor-pointer select-none hover:opacity-70 transition-opacity`}
     onClick={() => window.scrollTo({ top: 0, behavior: 'smooth' })}
   >
     VANITISME
