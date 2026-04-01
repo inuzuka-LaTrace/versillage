@@ -1822,14 +1822,14 @@ if (loading) {
                       </div>
                     )}
  {/* --- 1826行目：表示ロジック開始 --- */}
-                {(() => {
-                  // 1. データの抽出（データの安全性を確保）
-                  const orig = para.text || para.fr || "";
-                  const translation = para.translation || para.ja || para.trans || "";
+            {(() => {
+                  // 1. データの抽出：JSONの構造に合わせて para.content を優先
+                  const orig = para.content || para.text || para.fr || "";
+                  const translation = para.translation || para.ja || "";
                   const hasAnnotations = para.annotations && para.annotations.length > 0;
                   const paraAnnotations = para.annotations || [];
 
-                  // 2. デザイン用定数（このスコープ内で完結させる）
+                  // 2. デザイン定数
                   const d = darkMode;
                   const oBorder = d ? 'border-amber-900/40' : 'border-amber-200/60';
                   const tBorder = d ? 'border-stone-800' : 'border-stone-100';
@@ -1838,9 +1838,12 @@ if (loading) {
                   const fS = fontSize === 'small' ? 'text-sm' : fontSize === 'large' ? 'text-xl' : 'text-base';
                   const fST = fontSize === 'small' ? 'text-xs' : fontSize === 'large' ? 'text-lg' : 'text-sm';
 
-                  // 3. モード判定とレンダリング
-                  // A. 上下表示 (vertical)
+                  // データが空の場合は何も表示しない
+                  if (!orig && !translation) return null;
+
+                  // 3. モード別のレンダリング
                   if (viewMode === 'vertical') {
+                    // --- A. 上下表示 ---
                     const origLines = orig.split('\n');
                     const transLines = translation.split('\n');
                     return (
@@ -1866,10 +1869,8 @@ if (loading) {
                         })}
                       </div>
                     );
-                  }
-
-                  // B. 左右表示 (side)
-                  if (viewMode === 'side') {
+                  } else if (viewMode === 'side') {
+                    // --- B. 左右表示 ---
                     const origLines = orig.split('\n');
                     const transLines = translation.split('\n');
                     return (
@@ -1892,32 +1893,32 @@ if (loading) {
                         ))}
                       </div>
                     );
+                  } else {
+                    // --- C. 標準表示 ---
+                    return (
+                      <div className="mb-6">
+                        {showFrench && orig && (
+                          <div className="pt-3 mb-4">
+                            {para.speaker && (
+                              <span className={`text-[10px] font-bold tracking-widest px-2 py-0.5 rounded border mb-2 inline-block ${d ? (speakerColors[para.speaker]?.dark || 'border-zinc-700 text-zinc-500') : (speakerColors[para.speaker]?.light || 'border-stone-200 text-stone-400')}`}>
+                                {para.speaker.toUpperCase()}
+                              </span>
+                            )}
+                            <p translate="no" className={`notranslate leading-relaxed whitespace-pre-line pl-4 border-l-2 ${oBorder} ${oText} ${fS}`}>
+                              {showAnnotations && hasAnnotations ? renderTextWithAnchors(orig, paraAnnotations, para.id) : orig}
+                            </p>
+                          </div>
+                        )}
+                        {showOfficial && translation && (
+                          <div className={`mt-4 pt-4 border-t ${d ? 'border-zinc-800/50' : 'border-stone-100'}`}>
+                            <p className={`leading-relaxed whitespace-pre-line ${tText} ${fST}`}>
+                              {translation}
+                            </p>
+                          </div>
+                        )}
+                      </div>
+                    );
                   }
-
-                  // C. 標準表示 (standard / デフォルト)
-                  return (
-                    <div className="mb-6">
-                      {showFrench && orig && (
-                        <div className="pt-3 mb-4">
-                          {para.speaker && (
-                            <span className={`text-[10px] font-bold tracking-widest px-2 py-0.5 rounded border mb-2 inline-block ${d ? (speakerColors[para.speaker]?.dark || 'border-zinc-700 text-zinc-500') : (speakerColors[para.speaker]?.light || 'border-stone-200 text-stone-400')}`}>
-                              {para.speaker.toUpperCase()}
-                            </span>
-                          )}
-                          <p translate="no" className={`notranslate leading-relaxed whitespace-pre-line pl-4 border-l-2 ${oBorder} ${oText} ${fS}`}>
-                            {showAnnotations && hasAnnotations ? renderTextWithAnchors(orig, paraAnnotations, para.id) : orig}
-                          </p>
-                        </div>
-                      )}
-                      {showOfficial && translation && (
-                        <div className={`mt-4 pt-4 border-t ${d ? 'border-zinc-800/50' : 'border-stone-100'}`}>
-                          <p className={`leading-relaxed whitespace-pre-line ${tText} ${fST}`}>
-                            {translation}
-                          </p>
-                        </div>
-                      )}
-                    </div>
-                  );
                 })()}
 
                     {/* 注釈パネル */}
