@@ -1323,7 +1323,7 @@ if (loading) {
         目次を開く
       </button>
     <div 
-  className={`mt-40 text-[10px] opacity-48 ${ // 25 -> 35
+  className={`mt-40 text-[9px] opacity-48 ${ // 25 -> 35
     darkMode ? 'text-[#8a7a5a]' : 'text-stone-500' // 金褐色 #8a7a5a を指定
   }`}
   style={{ fontFamily: 'Cinzel, serif', letterSpacing: '0.03em' }}
@@ -2239,7 +2239,9 @@ const TocDrawer = ({
                 value={tocSearch}
                 onChange={e => setTocSearch(e.target.value)}
                 placeholder="作家・題名・年・本文…"
-                className={`flex-1 bg-transparent text-sm font-Shippori Mincho B1 outline-none ${tocSub}`}
+                className={`flex-1 bg-transparent text-sm font-Shippori Mincho B1 outline-none ${tocSub}
+                ${d ? 'placeholder-[#8a7a5a]/70: 'placeholder-stone-400'}
+                `}
                 style={{ caretColor: d ? '#ddd0b3' : '#1c1917' }}
               />
               {tocSearch && (
