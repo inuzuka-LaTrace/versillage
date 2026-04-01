@@ -1303,8 +1303,12 @@ if (loading) {
             : `text-[10px] sm:text-xs mt-0.5 ${textSecondary}`}`}>
           <span className="opacity-60">{currentText.author}</span>
           <span className="opacity-40 mx-1">›</span>
-          <span className="font-medium">{currentText.title}</span>
-        </p>
+         <span className={`font-medium transition-colors duration-500 ${
+    darkMode ? 'text-[#ddd0b3]' : 'text-stone-900'
+  }`}>
+    {currentText.title}
+  </span>
+</p>
       )}
     </div>
   {/* 右側：ボタン群。下スクロール時は透明(opacity-0)かつ操作不能(pointer-events-none)に */}
