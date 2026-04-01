@@ -1205,30 +1205,48 @@ if (loading) {
       ? 'bg-zinc-950/95 border-zinc-800 before:bg-zinc-950' 
       : 'bg-stone-50/95 border-stone-200 before:bg-stone-50'}`}
 >
-<div className="max-w-6xl mx-auto px-4 py-3 flex items-center justify-between gap-4">
-  {/* 左側：タイトルエリア。flex-1 min-w-0 により、ボタン以外の全幅を作品名に割り当てます */}
-  div className="flex-1 min-w-0">
-  <h1
-    style={{ 
-      fontFamily: "'Bodoni Moda', serif", 
-      letterSpacing: '0.15em', // 字間を広げてさらにロゴらしく
-      fontWeight: 600,         // 400〜900の間で調整可能
-      fontOpticalSize: "auto"  // Bodoni Modaの特徴を活かす
-    }}
-    className={`text-xl sm:text-2xl ${textClass} truncate leading-none cursor-pointer select-none hover:opacity-70 transition-opacity`}
-    onClick={() => window.scrollTo({ top: 0, behavior: 'smooth' })}
-  >
-    VANITISME
-  </h1>
-  {currentText && (
-    <p className={`text-[10px] sm:text-xs font-IBM Plex sans JP truncate mt-1.5 ${textSecondary}`}>
-      <span className="opacity-60">{currentText.author}</span>
-      <span className="opacity-40 mx-1">›</span>
-      <span>{currentText.title}</span>
-    </p>
-  )}
-</div>
+return (
+  <>
+    {/* ヘッダーエリア */}
+    <header className="fixed top-0 left-0 right-0 z-40 bg-zinc-950/80 backdrop-blur-md border-b border-zinc-900/50">
+      <div className="max-w-6xl mx-auto px-4 py-3 flex items-center justify-between gap-4">
+        
+        {/* 左側：タイトルエリア */}
+        <div className="flex-1 min-w-0"> {/* ← ここに < を追加しました */}
+          <h1
+            style={{ 
+              fontFamily: "'Bodoni Moda', serif", 
+              letterSpacing: '0.15em', 
+              fontWeight: 600,
+              fontOpticalSize: "auto"
+            }}
+            className={`text-xl sm:text-2xl ${textClass} truncate leading-none cursor-pointer select-none hover:opacity-70 transition-opacity`}
+            onClick={() => window.scrollTo({ top: 0, behavior: 'smooth' })}
+          >
+            VANITISME
+          </h1>
+          {currentText && (
+            <p className={`text-[10px] sm:text-xs font-IBM Plex sans JP truncate mt-1.5 ${textSecondary}`}>
+              <span className="opacity-60">{currentText.author}</span>
+              <span className="opacity-40 mx-1">›</span>
+              <span>{currentText.title}</span>
+            </p>
+          )}
+        </div>
 
+        {/* 右側：ボタンエリア（既存のコードがあればここに配置） */}
+        <div className="flex items-center gap-2 flex-shrink-0">
+          {/* 目次や設定のボタンなど */}
+        </div>
+      </div>
+    </header>
+
+    {/* メインコンテンツ（エラー箇所に続く部分） */}
+    <div className="max-w-6xl mx-auto px-4 py-6">
+       {/* ─── ウェルカムバナー 等 ───────────────────────── */}
+    </div>
+  </>
+);
   {/* 右側：ボタン群。3つに絞ることでタイトルエリアの「領土」を物理的に広げます */}
   <div className="flex items-center gap-2 flex-shrink-0">
     <button
