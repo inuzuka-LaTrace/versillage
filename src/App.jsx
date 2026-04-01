@@ -118,10 +118,6 @@ export default function App() {
   const [tocOpenAuthors, setTocOpenAuthors] = useState({}); // { authorKey: bool }
   const [tocLangFilter, setTocLangFilter]   = useState('all'); // 'all'|'fr'|'de'|'en'|'it'|'ru'
   const [tocSearch, setTocSearch]           = useState('');
-  // フラッシュカードモード
-  // フローティングTOPボタン
-  const [showScrollTop, setShowScrollTop] = useState(false);
-  const lastScrollY = useRef(0);
 
   const settingsRef = useRef(null);
   const bodyRef = useRef(null);      // 段落コントロールバーへのref
@@ -251,38 +247,39 @@ export default function App() {
     window.addEventListener('popstate', handlePopState);
     return () => window.removeEventListener('popstate', handlePopState);
   }, []);
+  
+  // --- ステート・参照の定義 ---
+const [isScrollingDown, setIsScrollingDown] = useState(false);
+const [showScrollTop, setShowScrollTop] = useState(false);
+const lastScrollY = useRef(0);
 
-
-  const [isScrollingDown, setIsScrollingDown] = useState(false);
-  const lastScrollY = useRef(0);
-  useEffect(() => {
-    const handleScroll = () => {
-    const currentScrollY = window.scrollY;
+useEffect(() => {
+  const handleScroll = () => {
+    const currentY = window.scrollY;
     
-    // 50px以上スクロール、かつ下方向への移動なら「スクロール中」と判定
-    if (currentScrollY > 50 && currentScrollY > lastScrollY.current) {
+    // 1. スクロール方向の判定
+    const isScrollingUp = currentY < lastScrollY.current;
+    const scrollingDown = currentY > lastScrollY.current;
+
+    // 2. ヘッダーの縮小判定 (isScrollingDown)
+    // 50px以上スクロールしており、かつ下方向に動いている場合にヘッダーを縮小
+    if (currentY > 50 && scrollingDown) {
       setIsScrollingDown(true);
     } else {
       setIsScrollingDown(false);
     }
-    lastScrollY.current = currentScrollY;
+
+    // 3. フローティングトップボタンの表示判定 (showScrollTop)
+    // 300px以上スクロールしており、かつ上方向に動いている場合のみ表示
+    setShowScrollTop(currentY > 300 && isScrollingUp);
+
+    // 4. 現在のスクロール位置を保存
+    lastScrollY.current = currentY;
   };
 
   window.addEventListener('scroll', handleScroll, { passive: true });
   return () => window.removeEventListener('scroll', handleScroll);
-  }, []);
-  
-  // フローティングTOPボタン：300px超 かつ上方向スクロール時に表示
-  useEffect(() => {
-    const handleScroll = () => {
-      const currentY = window.scrollY;
-      const isScrollingUp = currentY < lastScrollY.current;
-      setShowScrollTop(currentY > 300 && isScrollingUp);
-      lastScrollY.current = currentY;
-    };
-    window.addEventListener('scroll', handleScroll, { passive: true });
-    return () => window.removeEventListener('scroll', handleScroll);
-  }, []);
+}, []);
 
   // 設定パネルの外クリックで閉じる
   useEffect(() => {
@@ -2050,17 +2047,15 @@ if (loading) {
       </div>
 
       {/* フローティングTOPボタン */}
-      <button
-        onClick={() => window.scrollTo({ top: 0, behavior: 'smooth' })}
-        aria-label="ページ先頭へ"
-        className={`fixed bottom-6 right-5 z-50 w-10 h-10 rounded-full flex items-center justify-center shadow-lg transition-all duration-300 ${
-          showScrollTop ? 'opacity-100 translate-y-0 pointer-events-auto' : 'opacity-0 translate-y-3 pointer-events-none'
-        } ${darkMode ? 'bg-zinc-700 text-zinc-200 hover:bg-zinc-600' : 'bg-stone-700 text-white hover:bg-stone-600'}`}
-      >
-        <svg width="14" height="14" viewBox="0 0 14 14" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
-          <polyline points="2,9 7,4 12,9" />
-        </svg>
-      </button>
+      {showScrollTop && (
+  <button
+    onClick={() => window.scrollTo({ top: 0, behavior: 'smooth' })}
+    className={`fixed bottom-8 right-8 w-12 h-12 flex items-center justify-center rounded-full shadow-lg transition-all duration-300
+      ${darkMode ? 'bg-zinc-800 text-amber-200' : 'bg-white text-stone-800'}`}
+  >
+    <ChevronUp size={24} />
+  </button>
+)}
     </div>
   );
 }
