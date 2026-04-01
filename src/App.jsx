@@ -1,10 +1,10 @@
 import React, { useState, useEffect, useRef } from 'react';
 import {
   Bookmark, BookmarkCheck,
-  Settings, Moon, Sun, Sparkles,
+  Settings, Moon, Sun, Sparkles, ChevronUp,
   Volume2, Square as IconSquare,
   Search, Link, FileText, List,
-  ChevronRight, ChevronDown,
+  ChevronRight, ChevronDown,　
   X, Check, Tag,
   Clock, ExternalLink, PenLine,
 } from 'lucide-react';
