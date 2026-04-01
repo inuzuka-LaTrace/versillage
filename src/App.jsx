@@ -260,7 +260,7 @@ useEffect(() => {
   // 0pxから100pxの間で 0.0 〜 1.0 に変化させる
     const ratio = Math.min(1, Math.max(0, currentY / 100));
     setScrollRatio(ratio);
-    
+    };
     // 1. スクロール方向の判定
     const isScrollingUp = currentY < lastScrollY.current;
     const scrollingDown = currentY > lastScrollY.current;
