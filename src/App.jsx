@@ -94,7 +94,7 @@ export default function App() {
   const [transColor, setTransColor] = useState(() => {
     try { return localStorage.getItem('transColor') || 'neutral'; } catch { return 'neutral'; }
   });
-  const [interlinear, setInterlinear] = useState(false); // 逐行対訳モード: false | 'side' | 'stacked'
+  const [viewMode, setViewMode] = useState('standard'); // 'standard', 'vertical', 'side'
 
   // 新機能
   const [searchQuery, setSearchQuery] = useState('');
@@ -1060,43 +1060,64 @@ if (loading) {
       </div>
     </div>
   </div>
-{/* --- 逐行対訳モードの設定項目（元のデザインに完全準拠） --- */}
+{/* --- 表示モード設定（3つのモード：標準・上下・左右） --- */}
 <div className="space-y-3 pt-6 mt-6 border-t border-stone-200/60 dark:border-[#3a3228]">
   <div className="flex items-center justify-between">
     <div className="flex items-center gap-3">
-      {/* アイコンの背景色は既存のカード背景 #17140e に合わせます */}
       <div className={`p-2 rounded-lg ${darkMode ? 'bg-[#17140e]' : 'bg-stone-100'}`}>
         <List className={`w-4 h-4 ${textSecondary}`} />
       </div>
       <div>
-        <p className={`text-sm font-medium ${textClass}`}>表示モード</p>
-        <p className={`text-xs ${textSecondary}`}>原文と訳文のレイアウト</p>
+        <p className={`text-sm font-medium ${textClass}`}>表示レイアウト</p>
+        <p className={`text-xs ${textSecondary}`}>原文と訳文の構成を選択</p>
       </div>
     </div>
   </div>
 
-  <div className={`grid grid-cols-2 gap-2 p-1 rounded-xl ${darkMode ? 'bg-black/20' : 'bg-stone-100'}`}>
+  <div className={`grid grid-cols-3 gap-1.5 p-1 rounded-xl ${darkMode ? 'bg-black/20' : 'bg-stone-100'}`}>
+    {/* 標準（原文のみ） */}
     <button
-      onClick={() => setInterlinear(false)}
-      className={`flex items-center justify-center gap-2 py-2 px-3 rounded-lg text-xs font-medium transition-all ${
-        !interlinear 
+      onClick={() => setViewMode('standard')}
+      className={`flex flex-col items-center justify-center py-2 px-1 rounded-lg transition-all ${
+        viewMode === 'standard' 
           ? (darkMode ? 'bg-amber-700 text-amber-100 shadow-sm' : 'bg-white text-stone-800 shadow-sm')
           : (darkMode ? 'text-zinc-500 hover:text-zinc-400' : 'text-stone-500 hover:text-stone-700')
       }`}
     >
-      <FileText className="w-3.5 h-3.5" />
-      標準表示
+      <FileText className="w-3.5 h-3.5 mb-1" />
+      <span className="text-[10px] font-medium">標準</span>
     </button>
+    
+    {/* 上下（対訳） */}
     <button
-      onClick={() => setInterlinear(true)}
-      className={`flex items-center justify-center gap-2 py-2 px-3 rounded-lg text-xs font-medium transition-all ${
-        interlinear 
+      onClick={() => setViewMode('vertical')}
+      className={`flex flex-col items-center justify-center py-2 px-1 rounded-lg transition-all ${
+        viewMode === 'vertical' 
           ? (darkMode ? 'bg-amber-700 text-amber-100 shadow-sm' : 'bg-white text-stone-800 shadow-sm')
           : (darkMode ? 'text-zinc-500 hover:text-zinc-400' : 'text-stone-500 hover:text-stone-700')
       }`}
     >
-      <Sparkles className="w-3.5 h-3.5" />
-      逐行対訳
+      <div className="flex flex-col gap-0.5 mb-1 items-center">
+        <div className="w-3 h-0.5 bg-current opacity-40"></div>
+        <div className="w-3 h-0.5 bg-current"></div>
+      </div>
+      <span className="text-[10px] font-medium">上下</span>
+    </button>
+
+    {/* 左右（対訳） */}
+    <button
+      onClick={() => setViewMode('side')}
+      className={`flex flex-col items-center justify-center py-2 px-1 rounded-lg transition-all ${
+        viewMode === 'side' 
+          ? (darkMode ? 'bg-amber-700 text-amber-100 shadow-sm' : 'bg-white text-stone-800 shadow-sm')
+          : (darkMode ? 'text-zinc-500 hover:text-zinc-400' : 'text-stone-500 hover:text-stone-700')
+      }`}
+    >
+      <div className="flex gap-0.5 mb-1 items-center">
+        <div className="w-1 h-3 bg-current opacity-40"></div>
+        <div className="w-1 h-3 bg-current"></div>
+      </div>
+      <span className="text-[10px] font-medium">左右</span>
     </button>
   </div>
 </div>
@@ -1801,157 +1822,86 @@ if (loading) {
                       </div>
                     )}
 
-                    {/* ── 逐行対訳モード ── */}
-                    {interlinear && showFrench && showOfficial && translation ? (
-                      <div className="pt-4 mb-4">
-                        {hasSpeaker && (
-                          <span className={`text-xs font-bold tracking-wider px-2 py-0.5 rounded border mb-3 inline-block ${darkMode ? speakerColor.dark : speakerColor.light}`}>
-                            {para.speaker.toUpperCase()}
-                          </span>
-                        )}
+                    {(() => {
+  // 1. 上下表示 (vertical)
+  if (viewMode === 'vertical') {
+    return (
+      <div className="space-y-4">
+        {(() => {
+          const origLines = orig.split('\n');
+          const transLines = (trans || '').split('\n');
+          return origLines.map((line, i) => {
+            const isBlankOrig = !line.trim();
+            const isBlankTrans = !transLines[i]?.trim();
+            if (isBlankOrig && isBlankTrans) return <div key={i} className="h-4" />;
+            
+            return (
+              <div key={i} className="mb-4">
+                {/* 原文行 */}
+                {!isBlankOrig && (
+                  <div className={`pl-2 border-l-2 ${origBorderClass}`}>
+                    <span translate="no" className={`notranslate leading-relaxed ${fontSizeClass}`}>
+                      {showAnnotations && hasAnnotations ? renderTextWithAnchors(line, paraAnnotations, para.id) : line}
+                    </span>
+                  </div>
+                )}
+                {/* 訳行 */}
+                {!isBlankTrans && (
+                  <div className={`pl-2 mt-0.5 border-l-2 ${transBorderClass} ${transTextClass}`}>
+                    <span className={`leading-relaxed ${fontSizeTransClass}`}>{transLines[i]}</span>
+                  </div>
+                )}
+              </div>
+            );
+          });
+        })()}
+      </div>
+    );
+  }
 
-                        {/* ── stackedモード：行ごとに原文→訳を縦スタック ── */}
-                        {interlinear === 'stacked' ? (
-                          <div className="space-y-0">
-                            {(() => {
-                              const origLines = getOriginalText(para).split('\n');
-                              const transLines = translation.split('\n');
-                              const maxLen = Math.max(origLines.length, transLines.length);
-                              const versesStart = para.verses ? (() => { const m = para.verses.match(/v\.(\d+)/); return m ? parseInt(m[1]) : null; })() : null;
-                              let nonBlankCount = 0; // 空白行を除いた実詩行カウンター
-                              return Array.from({ length: maxLen }, (_, i) => {
-                                const isBlankOrig = !origLines[i]?.trim();
-                                const isBlankTrans = !transLines[i]?.trim();
-                                if (!isBlankOrig) nonBlankCount++;
-                                const lineNum = versesStart != null ? versesStart + nonBlankCount - 1 : null;
-                                if (isBlankOrig && isBlankTrans) return (
-                                  <div key={i} className="h-3" />
-                                );
-                                return (
-                                  <div key={i} className={`py-1.5 px-3 rounded-lg mb-1 ${darkMode ? 'bg-zinc-900/60' : 'bg-stone-50/80'}`}>
-                                    {/* 原文行 */}
-                                    {!isBlankOrig && (
-                                      <div className="flex items-baseline gap-2">
-                                        {para.verses && lineNum != null && (
-                                          <span className={`text-xs font-mono opacity-25 select-none shrink-0 ${textClass}`}>
-                                            {lineNum}
-                                          </span>
-                                        )}
-                                        <span translate="no" style={{ fontFamily: fontFamilyStyle }} className={`notranslate leading-relaxed ${textClass} ${
-                                          fontSize === 'xxlarge' ? 'text-2xl' :
-                                          fontSize === 'xlarge'  ? 'text-xl' :
-                                          fontSize === 'large'   ? 'text-lg' :
-                                          fontSize === 'medium'  ? 'text-base' : 
-                                          fontSize === 'small'  ? 'text-sm' : 
-                                          fontSize === 'xsmall' ? 'text-xs' :
-                                          fontSize === 'xxsmall' ? 'text-[10px]' :
-                                  　　　'text-base'
-                                        }`}>
-                                          {showAnnotations && hasAnnotations
-                                            ? renderTextWithAnchors(origLines[i], paraAnnotations, para.id)
-                                            : origLines[i]}
-                                        </span>
-                                      </div>
-                                    )}
-                                    {/* 訳行 */}
-                                    {!isBlankTrans && (
-                                      <div className={`pl-2 mt-0.5 border-l-2 ${transBorderClass} ${transTextClass}`}>
-                                        <span style={{ fontFamily: fontFamilyStyle }} className={`leading-relaxed ${
-                                          fontSize === 'xxlarge' ? 'text-xl' :
-                                          fontSize === 'xlarge'  ? 'text-lg' :
-                                          fontSize === 'large'   ? 'text-base' :
-                                          fontSize === 'medium'  ? 'text-sm' : 
-                                        fontSize === 'small'  ? 'text-sm' : 
-                                      fontSize === 'xsmall' ? 'text-xs' :
-                                      fontSize === 'xxsmall' ? 'text-[10px]' :
-                                  　　　'text-base'
-                                        }`}>{transLines[i] ?? ''}</span>
-                                      </div>
-                                    )}
-                                  </div>
-                                );
-                              });
-                            })()}
-                          </div>
-                        ) : (
-                        <div className={`rounded-lg overflow-hidden border ${darkMode ? 'border-zinc-700' : 'border-stone-200'}`}>
-                          {/* 列ヘッダー */}
-                          <div className={`grid grid-cols-[1fr_1fr] border-b text-xs font-IBM Plex sans JP font-medium tracking-widest uppercase ${
-                            darkMode ? 'border-zinc-700 bg-zinc-800 text-zinc-500' : 'border-stone-200 bg-stone-50 text-stone-400'
-                          }`}>
-                            <div className={`px-3 py-1.5 border-r ${darkMode ? 'border-zinc-700/60' : 'border-stone-200'}`}>
-                              {currentText.originalLang ? currentText.originalLang.split('-')[0].toUpperCase() : '原文'}
-                            </div>
-                            <div className="px-3 py-1.5">仮訳</div>
-                          </div>
-                          {(() => {
-                            const origLines = getOriginalText(para).split('\n');
-                            const transLines = translation.split('\n');
-                            const maxLen = Math.max(origLines.length, transLines.length);
-                            const versesStart = para.verses ? (() => { const m = para.verses.match(/v\.(\d+)/); return m ? parseInt(m[1]) : null; })() : null;
-                            let nonBlankCount = 0;
-                            return Array.from({ length: maxLen }, (_, i) => {
-                              const isBlankOrig = !origLines[i]?.trim();
-                              const isBlankTrans = !transLines[i]?.trim();
-                              if (!isBlankOrig) nonBlankCount++;
-                              const lineNum = versesStart != null ? versesStart + nonBlankCount - 1 : null;
-                              if (isBlankOrig && isBlankTrans) return (
-                                <div key={i} className={`h-3 ${darkMode ? 'bg-zinc-900' : 'bg-white'}`} />
-                              );
-                              return (
-                                <div key={i} className={`grid grid-cols-[1fr_1fr] ${
-                                  i % 2 === 0
-                                    ? darkMode ? 'bg-zinc-900/80' : 'bg-white'
-                                    : darkMode ? 'bg-zinc-800/40' : 'bg-stone-50/80'
-                                } ${i < maxLen - 1 ? `border-b ${darkMode ? 'border-zinc-800' : 'border-stone-100'}` : ''}`}>
-                                  {/* 原文セル */}
-                                  <div className={`px-3 py-2 border-r ${darkMode ? 'border-zinc-700/60' : 'border-stone-200'}`}>
-                                    {para.verses && origLines[i] && !isBlankOrig && lineNum != null && (
-                                      <span className={`text-xs font-mono mr-2 opacity-30 select-none ${textClass}`}>
-                                        {lineNum}
-                                      </span>
-                                    )}
-                                    <span translate="no" style={{ fontFamily: fontFamilyStyle }} className={`notranslate leading-relaxed ${textClass} ${
-                                      fontSize === 'xxlarge' ? 'text-2xl' :
-                                      fontSize === 'xlarge' ? 'text-xl' :
-                                      fontSize === 'large'  ? 'text-lg' :
-                                      fontSize === 'medium' ? 'text-base' :
-                                      fontSize === 'small'  ? 'text-sm' : 
-                                      fontSize === 'xsmall' ? 'text-xs' :
-                                      fontSize === 'xxsmall' ? 'text-[10px]' :
-                                  　　　'text-base'
-                                    }`}>
-                                      {origLines[i] != null && !isBlankOrig
-                                        ? (showAnnotations && hasAnnotations
-                                            ? renderTextWithAnchors(origLines[i], paraAnnotations, para.id)
-                                            : origLines[i])
-                                        : ''}
-                                    </span>
-                                  </div>
-                                  {/* 訳セル */}
-                                  <div className={`px-3 py-2 ${transTextClass}`}>
-                                    <span style={{ fontFamily: fontFamilyStyle }} className={`leading-relaxed ${
-                                      fontSize === 'xxlarge' ? 'text-xl' :
-                                      fontSize === 'xlarge' ? 'text-lg' :
-                                      fontSize === 'large'  ? 'text-base' :
-                                      fontSize === 'medium' ? 'text-sm' :
-                                      fontSize === 'small'  ? 'text-sm' : 
-                                      fontSize === 'xsmall' ? 'text-xs' :
-                                      fontSize === 'xxsmall' ? 'text-[10px]' :
-                                  'text-base'
-                                    }`}>
-                                      {transLines[i] ?? ''}
-                                    </span>
-                                  </div>
-                                </div>
-                              );
-                            });
-                          })()}
-                        </div>
-                        )}
-                      </div>
-                    ) : (
-                      <>
+  // 2. 左右表示 (side)
+  if (viewMode === 'side') {
+    return (
+      <div className={`rounded-lg overflow-hidden border ${darkMode ? 'border-zinc-700' : 'border-stone-200'}`}>
+        <div className={`grid grid-cols-[1fr_1fr] border-b text-[10px] font-sans uppercase tracking-widest ${darkMode ? 'bg-zinc-800/50 text-zinc-500 border-zinc-700' : 'bg-stone-50 text-stone-400 border-stone-200'}`}>
+          <div className="px-3 py-1 border-r border-inherit text-center">Original</div>
+          <div className="px-3 py-1 text-center">Translation</div>
+        </div>
+        {(() => {
+          const origLines = orig.split('\n');
+          const transLines = (trans || '').split('\n');
+          return origLines.map((line, i) => (
+            <div key={i} className={`grid grid-cols-[1fr_1fr] border-b last:border-b-0 ${darkMode ? 'border-zinc-800' : 'border-stone-100'}`}>
+              <div className={`px-3 py-2 border-r ${darkMode ? 'border-zinc-800' : 'border-stone-100'} ${origTextClass}`}>
+                <span translate="no" className={`notranslate leading-relaxed ${fontSizeClass}`}>
+                  {line.trim() ? (showAnnotations && hasAnnotations ? renderTextWithAnchors(line, paraAnnotations, para.id) : line) : ''}
+                </span>
+              </div>
+              <div className={`px-3 py-2 ${transTextClass}`}>
+                <span className={`leading-relaxed ${fontSizeTransClass}`}>{transLines[i] || ''}</span>
+              </div>
+            </div>
+          ));
+        })()}
+      </div>
+    );
+  }
+
+  // 3. 標準表示 (standard)
+  return (
+    <>
+      {showFrench && (
+        <div className="pt-3 mb-2">
+          {hasSpeaker && (
+            <span className={`text-xs font-bold tracking-wider px-2 py-0.5 rounded border ${darkMode ? speakerColor.dark : speakerColor.light}`}>
+              {para.speaker.toUpperCase()}
+            </span>
+          )}
+          <p translate="no" className={`notranslate ${hasSpeaker ? 'mt-1.5' : ''} leading-relaxed whitespace-pre-line pl-4 border-l-2 ${darkMode ? 'border-stone-700 text-[#ddd0b3]' : 'border-stone-200 text-stone-800'}`}>
+            {showAnnotations && hasAnnotations ? renderTextWithAnchors(orig, paraAnnotations, para.id) : orig}
+          </p>
+        </div>
+      )}
                     {/* 原文 */}
                     {showFrench && (
                       <div className="pt-3 mb-2">
