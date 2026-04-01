@@ -1303,7 +1303,7 @@ if (loading) {
           <span className="opacity-60">{currentText.author}</span>
           <span className="opacity-40 mx-1">›</span>
           <span className={`font-medium transition-colors duration-200 ${
-            darkMode ? 'text-amber-200' : 'text-stone-900'
+            darkMode ? 'text-[#8a7a5a]' : 'text-stone-900'
           }`}>
             {currentText.title}
           </span>
