@@ -1232,17 +1232,13 @@ return (
               </p>
             )}
           </div>
-
           {/* 右側：ボタンエリア（既存のボタン群があればここに追加） */}
           <div className="flex items-center gap-2 flex-shrink-0">
              {/* ボタンのコード */}
           </div>
-
         </div> {/* ← ここで px-4 py-3 の div を閉じる */}
       </header> {/* ← ここで header を閉じる */}
-
       <div className="max-w-6xl mx-auto px-4 py-6 mt-16">
-        {/* ─── ウェルカムバナー ───────────────────────── */}
     </div>
   </>
 );
