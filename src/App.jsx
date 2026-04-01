@@ -1028,18 +1028,15 @@ if (loading) {
       )}
 
       {/* ─── サイドドロワー 本体 ──────────────────────────── */}
-<div
-  ref={settingsRef}
-  className={`fixed top-0 right-0 h-full w-80 z-50 flex flex-col overflow-y-auto shadow-2xl
-  /* transitionはloadingが終わってから有効にする */
-  ${loading ? '' : 'transition-transform duration-500 ease-in-out'}
-  /* showSettingsがfalseなら、loading中であっても最初から画面外(full)に配置しておく */
-  ${showSettings ? 'translate-x-0' : 'translate-x-full'}
-  /* visibilityで制御することで、DOM上の配置を安定させる */
-  ${loading ? 'invisible' : 'visible'}
-  ${darkMode ? 'bg-zinc-900 border-l border-zinc-800' : 'bg-stone-50 border-l border-stone-200'}`}
->
-        <div className={`flex items-center justify-between px-5 py-4 border-b ${darkMode ? 'border-zinc-800' : 'border-stone-200'}`}>
+        <div
+          ref={settingsRef}
+          className={`fixed top-0 right-0 h-full w-80 z-50 flex flex-col overflow-y-auto shadow-2xl
+          ${loading ? '' : 'transition-transform duration-500 ease-in-out'}
+          ${showSettings ? 'translate-x-0' : 'translate-x-full'}
+          ${loading ? 'invisible' : 'visible'}
+          ${darkMode ? 'bg-zinc-900 border-l border-zinc-800' : 'bg-stone-50 border-l border-stone-200'}`}
+          >
+          <div className={`flex items-center justify-between px-5 py-4 border-b ${darkMode ? 'border-zinc-800' : 'border-stone-200'}`}>
           <h3 className={`text-sm font-semibold tracking-wide font-IBM Plex sans JP ${textClass}`}>表示設定</h3>
           <button
             onClick={() => setShowSettings(false)}
@@ -1049,23 +1046,23 @@ if (loading) {
 
         <div className="p-5 space-y-6 flex-1">
           {/* 追加：外観（ダークモード切替） */}
-  <div>
-    <label className={`text-xs font-semibold uppercase tracking-wider font-IBM Plex sans JP ${textSecondary} block mb-2.5`}>外観</label>
-    <div 
-      onClick={() => setDarkMode(!darkMode)}
-      className={`flex items-center justify-between px-4 py-3 cursor-pointer rounded-xl border transition-all font-IBM Plex sans JP
-        ${darkMode 
-          ? 'bg-zinc-800 border-zinc-700 hover:bg-zinc-750' 
-          : 'bg-stone-100 border-stone-200 hover:bg-stone-200'}`}
-    >
-      <div className="flex items-center gap-3">
-        {darkMode ? (
-          <Moon size={16} className="text-amber-400" strokeWidth={1.6} />
-        ) : (
-          <Sun size={16} className="text-stone-500" strokeWidth={1.6} />
-        )}
-        <span className={`text-sm ${textClass}`}>{darkMode ? 'テーマ切替' : 'テーマ切替'}</span>
-      </div>      
+          <div>
+            <label className={`text-xs font-semibold uppercase tracking-wider font-IBM Plex sans JP ${textSecondary} block mb-2.5`}>外観</label>
+            <div 
+              onClick={() => setDarkMode(!darkMode)}
+              className={`flex items-center justify-between px-4 py-3 cursor-pointer rounded-xl border transition-all font-IBM Plex sans JP
+              ${darkMode 
+                ? 'bg-zinc-800 border-zinc-700 hover:bg-zinc-750' 
+                : 'bg-stone-100 border-stone-200 hover:bg-stone-200'}`}
+              >
+              <div className="flex items-center gap-3">
+                {darkMode ? (
+                <Moon size={16} className="text-amber-400" strokeWidth={1.6} />
+              ) : (
+                <Sun size={16} className="text-stone-500" strokeWidth={1.6} />
+              )}
+                <span className={`text-sm ${textClass}`}>{darkMode ? 'テーマ切替' : 'テーマ切替'}</span>
+              </div>      
       {/* トグルスイッチ（既存のデザインに準拠） */}
       <div className={`relative w-10 h-5 rounded-full transition-colors
         ${darkMode ? 'bg-amber-600' : 'bg-stone-300'}`}>
