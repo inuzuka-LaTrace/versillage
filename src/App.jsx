@@ -1323,7 +1323,7 @@ if (loading) {
         目次を開く
       </button>
     <div 
-  className={`mt-40 text-[9px] opacity-48 ${ // 25 -> 35
+  className={`mt-40 text-[10px] opacity-48 ${ // 25 -> 35
     darkMode ? 'text-[#8a7a5a]' : 'text-stone-500' // 金褐色 #8a7a5a を指定
   }`}
   style={{ fontFamily: 'Cinzel, serif', letterSpacing: '0.05em' }}
