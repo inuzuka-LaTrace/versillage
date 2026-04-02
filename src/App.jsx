@@ -40,6 +40,7 @@ import wildeData from './data/wilde';
 import dowsonData from './data/dowson';
 import swinburneData from './data/swinburne';
 import rossetti_cData from './data/rossetti_c';
+import d_g_rossettiData from './data/d_g_rossetti';
 import yeatsData from './data/yeats';
 import { CATEGORIES, CAT_SHORT, ANNOTATION_TYPE_DEF, SPEECH_RATES, PREFERRED_VOICES } from './constants';
 import { getTranslation, getOriginalText, getSpeechLang, getBestVoice, extractSnippet } from './utils';
@@ -216,6 +217,7 @@ export default function App() {
       ...swinburneData,
       ...yeatsData,
       ...rossetti_cData,
+      ...d_g_rossettiData,
       ...georgeData,
 　　　　...hofmannsthalData,
       ...traklData,
@@ -898,29 +900,48 @@ export default function App() {
       </div>
     );
   };
+  
+const [displayAuthor, setDisplayAuthor] = useState("");
+useEffect(() => {
+  if (loading) {
+    // 1. 作家リストの作成（重複排除）
+    const authorList = Array.from(new Set(allData.map(item => item.author)));
+    
+    // 2. 0.2秒ごとにランダムな作家を表示
+    const interval = setInterval(() => {
+      const randomAuthor = authorList[Math.floor(Math.random() * authorList.length)];
+      setDisplayAuthor(randomAuthor);
+    }, 200);
+
+    return () => clearInterval(interval);
+  }
+}, [loading, allData]);
 
 if (loading) {
   return (
-    <div className="fixed inset-0 z-[200] bg-zinc-950 flex flex-col items-center justify-center overflow-hidden">
-      {/* 金褐色のスピナー */}
-      <div className="relative flex items-center justify-center">
-        <div 
-          className="w-12 h-12 border-[3px] border-zinc-900 border-t-[#8a7a5a] rounded-full animate-spin"
+    <div className="fixed inset-0 z-[200] bg-[#0a0a0a] flex items-center justify-center overflow-hidden">
+      {/* 作家名のタイポグラフィ演出 */}
+      <div className="relative w-full h-full flex items-center justify-center">
+        <span 
+          className="text-[#8a7a5a] font-serif text-2xl md:text-4xl tracking-widest transition-opacity duration-150"
           style={{ 
-            filter: 'drop-shadow(0 0 12px rgba(180, 83, 9, 0.3))' 
+            fontFamily: 'EB Garamond, serif',
+            opacity: displayAuthor ? 0.8 : 0,
+            /* ランダムな位置に配置したい場合は、ここで inline-style を使う */
+            transform: `translate(${Math.random() * 20 - 10}px, ${Math.random() * 20 - 10}px)`
           }}
-        />
-        {/* 中心に静止した小さな点（精密な印象を与える） */}
-        <div className="absolute w-1.5 h-1.5 bg-amber-[#8a7a5a] rounded-full" />
+        >
+          {displayAuthor}
+        </span>
+        
+        {/* ゴダール的な赤い細線（一瞬だけ横切るアクセント） */}
+        <div className="absolute w-12 h-[1px] bg-red-900/30 top-1/2 left-1/4 animate-pulse" />
       </div>
 
-      {/* 控えめなテキスト */}
-      <div className="mt-8 opacity-40">
-        <span 
-          className="text-[10px] tracking-[0.5em] text-[#8a7a5a] font-serif uppercase select-none"
-          style={{ fontFamily: 'Bodoni Moda, serif' }}
-        >
-          Loading
+      {/* 下部の Loading テキストは維持（アンカーとして機能） */}
+      <div className="absolute bottom-12 opacity-20">
+        <span className="text-[9px] tracking-[0.8em] text-[#8a7a5a] uppercase">
+          Recherchant les ombres...
         </span>
       </div>
     </div>
@@ -992,6 +1013,7 @@ if (loading) {
     if (cat?.startsWith('dowson'))        return darkMode ? 'bg-amber-900/40 text-amber-300' : 'bg-amber-100 text-amber-800';
     if (cat?.startsWith('swinburne'))    return darkMode ? 'bg-indigo-900/40 text-indigo-300' : 'bg-indigo-100 text-indigo-800';
     if (cat?.startsWith('rossetti_c'))       return darkMode ? 'bg-rose-900/40 text-rose-300'     : 'bg-rose-100 text-rose-800';
+    if (cat?.startsWith('rossetti_c'))       return darkMode ? 'bg-violet-900/40 text-violet-300' : 'bg-violet-100 text-violet-800';
     if (cat?.startsWith('yeats'))        return darkMode ? 'bg-amber-900/40 text-amber-300'   : 'bg-amber-100 text-amber-800';
     if (cat?.startsWith('george'))       return darkMode ? 'bg-teal-900/40 text-teal-300' : 'bg-teal-100 text-teal-800';
     if (cat?.startsWith('hofmannsthal')) return darkMode ? 'bg-yellow-900/40 text-yellow-400' : 'bg-yellow-200 text-yellow-900';
