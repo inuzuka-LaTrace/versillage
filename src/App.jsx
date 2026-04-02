@@ -1849,8 +1849,8 @@ if (loading) {
                   // 1. データの抽出：JSONの構造に合わせて para.content を優先
                   const orig = para.content || para.original || para.originalText || para.french || "";
                   const translation = para.provisionalTranslation || para.ja || "";
-                  const hasAnnotations = para.annotations && para.annotations.length > 0;
-                  const paraAnnotations = para.annotations || [];
+                  const hasAnnotations = (currentText?.annotations || []).filter(a => a.paragraphId === para.id).length > 0;
+                  const paraAnnotations = (currentText?.annotations || []).filter(a => a.paragraphId === para.id);
 
                   // 2. デザイン定数
                   const d = darkMode;
