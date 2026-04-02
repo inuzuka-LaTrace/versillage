@@ -1,0 +1,109 @@
+{
+  "id": "d_g_rossetti_mary_magdalene",
+  "title": "Mary Magdalene at the Door of Simon the Pharisee",
+  "author": "Dante Gabriel Rossetti",
+  "source": "Pictures and Poems, 1865。底本: Wikisource, Pictures & poems/Mary Magdalene (en.wikisource.org/wiki/Pictures_%26_poems/Mary_Magdalene, oldid=15462927); 照合: The Collected Works of Dante Gabriel Rossetti, ed. William M. Rossetti, Ellis and Elvey, London, 1886, vol. I; Rossetti Archive (rossettiarchive.org).",
+  "year": "1865",
+  "firstPublication": "Pictures and Poems, 1865（絵画〈Mary Magdalene at the Door of Simon the Pharisee〉の添詞として）。詩集 Poems, F. S. Ellis, London, 1870 にも収録。",
+  "difficulty": "中級",
+  "category": "d_g_rossetti",
+  "originalLang": "en-GB",
+  "modernRelevance": "★★★★☆",
+  "context": "ロセッティが自作の素描《Mary Magdalene at the Door of Simon the Pharisee》（1858年、ペンと墨、フィッツウィリアム美術館蔵）のために書いた添詞ソネット。ルカ福音書7章36–50節を典拠とする──パリサイ人シモンの宴席に招かれたイエスの足元に、罪の女（マグダラのマリアと同一視される）が涙で洗い、髪で拭い、香油を塗るという場面。\n\nロセッティはこの場面を劇詩として翻案し、ソネットを二者の対話劇として構成する。オクターヴ（v.1–8）は誘惑者の男の声──マリアを肉欲の宴席へ引き戻そうとする──、セステット（v.9–14）はマリア自身の応答──キリストへの回心の宣言──から成る。引用符によって明示された二声の対立がソネット形式のvolta（転回）と完全に一致する点に詩学的精巧さがある。\n\n絵画との対応：素描の左に誘惑者の男がマリアの腕を掴む姿、右上の窓からキリストの顔が見える構図が、詩の「Seest thou not my Bridegroom's face / That draws me to Him?」と直接対応する。「Bridegroom（花婿）」はヨハネ3:29・黙示録21:2等のキリスト論的隠喩。\n\n詩形：ペトラルカ風ソネット変形（ABBAABBA / CDECDE）。8行が誘惑者の声、6行がマリアの声という分割が、オクターヴ／セステットの伝統的な問い/答えの構造を劇的対話として活用する。",
+  "keywords": [
+    "マグダラのマリア",
+    "Mary Magdalene",
+    "シモンの家",
+    "ドラマティック・ソネット",
+    "前ラファエル派",
+    "回心",
+    "キリストへの愛",
+    "誘惑と抵抗",
+    "花婿",
+    "Pictures and Poems",
+    "絵画と詩の相互浸透"
+  ],
+  "relatedTexts": [
+    "d_g_rossetti_lilith",
+    "rossetti_monna_innominata",
+    "rossetti_dead_before_death",
+    "wilde_ave_maria",
+    "swinburne_anactoria"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "scene": 1,
+      "speaker": "The Lover",
+      "verses": "v.1–8",
+      "original": "\"WHY wilt thou cast the roses from thine hair?\nNay, be thou all a rose,—wreath, lips, and cheek.\nNay, not this house,—that banquet-house we seek;\nSee how they kiss and enter; come thou there.\nThis delicate day of love we two will share\nTill at our ear love's whispering night shall speak.\nWhat, sweet one,—hold'st thou still the foolish freak?\nNay, when I kiss thy feet they 'll leave the stair.\"",
+      "provisionalTranslation": "「なぜお前は髪から薔薇を投げ捨てようとするのか？\nいや、お前はまるごと薔薇であれ──花冠も、唇も、頬も。\nいや、この家ではない──あの宴の家こそ我々が求めるところ；\n見ろ、みんながキスして中へ入っていく；お前もそこへ来い。\n愛のこの繊細な一日を二人で分かち合おう\n耳元に愛の囁く夜が語りかけてくるまで。\nどうした、愛しい人よ──まだそんな愚かな気まぐれを持っているのか？\nいや、俺がお前の足にキスすれば、お前の足は階段を離れるだろう。」"
+    },
+    {
+      "id": 2,
+      "scene": 2,
+      "speaker": "Mary Magdalene",
+      "verses": "v.9–14",
+      "original": "\"Oh loose me! Seest thou not my Bridegroom's face\nThat draws me to Him? For His feet my kiss,\nMy hair, my tears He craves to-day:—and oh!\nWhat words can tell what other day and place\nShall see me clasp those blood-stained feet of His?\nHe needs me, calls me, loves me: let me go!\"",
+      "provisionalTranslation": "「ああ、放して！あなたには見えないのですか、私の花婿の顔が\n私を御方のもとへ引き寄せているのを？御方の足のために私の口づけを、\n私の髪を、私の涙を──今日、御方は求めておられる。そしてああ！\nどんな言葉が語れるでしょう、いつかある日ある場所で\n私があの血に染まった御方の足を抱きしめるときのことを？\n御方は私を必要とし、呼び、愛してくださっている──行かせてください！」"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "WHY wilt thou cast the roses from thine hair?",
+      "body": "冒頭の問いかけ──薔薇は快楽・愛・肉体的美の象徴（Lilith でも「The rose and poppy are her flowers」と重なる）。誘惑者はマリアが薔薇を髪から取ろうとする（＝宴席の装いを脱ごうとする）動作を目撃して呼び止めている。この動作が詩の出発点であり、絵画の素描に描かれた緊張した瞬間と対応する。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "prosody",
+      "anchor": "Nay, be thou all a rose,—wreath, lips, and cheek.",
+      "body": "「いや、お前はまるごと薔薇であれ──花冠も、唇も、頬も」──三段列挙（wreath / lips / cheek）が装飾→官能→身体へと段階的に下降する。韻律はiambic pentameter。「Nay」の反復（v.2・v.3・v.8）が誘惑者の執拗な否定・言いくるめを音声的に体現する。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "glossary",
+      "anchor": "that banquet-house we seek",
+      "body": "「宴の家（banquet-house）」──ルカ7:36の「シモンというパリサイ人がイエスを食事に招いた」という聖書的背景を逆転させた舞台。誘惑者はイエスが招かれた宴席ではなく、別の快楽の宴へ誘っている。「banquet-house」という語はロセッティが聖書的宴と世俗的宴を意図的に重ねた語彙選択。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "Nay, when I kiss thy feet they 'll leave the stair.",
+      "body": "オクターヴ最終行──「俺がお前の足にキスすれば足は階段を離れるだろう」。誘惑者が「足へのキス」を世俗的な愛の行為として提示する。しかしセステットでマリアは「足へのキス」をキリストへの奉献行為（His feet my kiss）として翻転させる。同一の行為（足へのキス）が正反対の意味を帯びるという詩の鍵的構造がここで仕掛けられる。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "Seest thou not my Bridegroom's face\nThat draws me to Him?",
+      "body": "「花婿（Bridegroom）」──ヨハネ3:29「花婿の友は、立って花婿の声を聞き、大いに喜ぶ」、黙示録21:2「小羊の妻として整えられた花嫁」等、聖書のキリスト論的婚姻比喩。ロセッティはマリアのキリストへの愛を霊的エロスとして表現する──前ラファエル派における聖と俗の愛の融合というテーマの核心。素描では窓の外からキリストの顔がマリアを見ており、この「引き寄せる顔」が視覚的に示される。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "prosody",
+      "anchor": "For His feet my kiss,\nMy hair, my tears He craves to-day:—and oh!",
+      "body": "「御方の足のために私の口づけを、私の髪を、私の涙を」──ルカ7:38「彼女はイエスの後ろから足元に来て泣き、その涙でイエスの足を濡らし始め、自分の髪の毛で拭い、その足に接吻して、香油を塗った」を詩的に圧縮。three-part list（kiss / hair / tears）がオクターヴの誘惑者の三段列挙（wreath / lips / cheek）と対称的に応答する──肉体の装飾 vs 奉献の身体行為。感嘆詞「oh!」は言葉を超えた感情の閾値を示す。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "glossary",
+      "anchor": "those blood-stained feet of His",
+      "body": "「血に染まった御方の足」──磔刑後のキリストの足への先取り的言及。「to-day」（現在の油塗りの奉献）と「what other day and place」（未来の磔刑場面）という時間的二重性が、マリアの言葉に予言的な深みを与える。ロセッティが絵画の瞬間（改心の場）を磔刑という将来の出来事へと開く詩学的手法。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "prosody",
+      "anchor": "He needs me, calls me, loves me: let me go!",
+      "body": "ソネット最終行──三動詞の列挙「needs / calls / loves」がコロンの後の「let me go!」という解放の叫びへと収束する。iambic pentameterの最終行で感嘆符が爆発するこの結末は、クリスティーナ・ロセッティ「Monna Innominata」の制御された沈黙と対照的な、弟ダンテ・ゲイブリエルの劇的な語法。「let me go」は物理的な拘束（誘惑者がマリアの腕を掴んでいる）と霊的な解放要求の両義。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "intertextual",
+      "anchor": "He needs me, calls me, loves me: let me go!",
+      "body": "クリスティーナ・ロセッティ「Monna Innominata」との対照──同じロセッティ家の詩人として、クリスティーナの無名の愛する女性（名を持たぬ内なる声）とダンテ・ゲイブリエルのマグダラのマリア（聖書的名を持つ外に叫ぶ声）は対極をなす。マグダラのマリアが「行かせてください」と叫ぶのに対し、Monna Innominata は沈黙と諦念の中に閉じる──二作品は愛の宣言様式の正反対を示す。",
+      "targetId": "rossetti_monna_innominata",
+      "targetParagraphId": null
+    }
+  ]
+}
