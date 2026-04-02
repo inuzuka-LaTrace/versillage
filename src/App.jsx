@@ -194,6 +194,9 @@ export default function App() {
         clearInterval(interval);
       }
     }, 400); // 500ms（0.5秒）間隔を維持
+    return () => clearInterval(interval);
+  }
+}, [loading, texts]);
   // コンポーネントアンマウント時・テキスト切替時に読み上げ停止
   useEffect(() => {
     window.speechSynthesis.cancel();
@@ -1018,7 +1021,7 @@ export default function App() {
     if (cat?.startsWith('dowson'))        return darkMode ? 'bg-amber-900/40 text-amber-300' : 'bg-amber-100 text-amber-800';
     if (cat?.startsWith('swinburne'))    return darkMode ? 'bg-indigo-900/40 text-indigo-300' : 'bg-indigo-100 text-indigo-800';
     if (cat?.startsWith('rossetti_c'))       return darkMode ? 'bg-rose-900/40 text-rose-300'     : 'bg-rose-100 text-rose-800';
-    if (cat?.startsWith('rossetti_c'))       return darkMode ? 'bg-violet-900/40 text-violet-300' : 'bg-violet-100 text-violet-800';
+    if (cat?.startsWith('d_g_rossetti'))       return darkMode ? 'bg-violet-900/40 text-violet-300' : 'bg-violet-100 text-violet-800';
     if (cat?.startsWith('yeats'))        return darkMode ? 'bg-amber-900/40 text-amber-300'   : 'bg-amber-100 text-amber-800';
     if (cat?.startsWith('george'))       return darkMode ? 'bg-teal-900/40 text-teal-300' : 'bg-teal-100 text-teal-800';
     if (cat?.startsWith('hofmannsthal')) return darkMode ? 'bg-yellow-900/40 text-yellow-400' : 'bg-yellow-200 text-yellow-900';
