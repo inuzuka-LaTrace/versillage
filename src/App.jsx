@@ -1173,9 +1173,7 @@ if (loading) {
               {[
                 ['garamond',    'Garamond',     'EB Garamond'],
                 ['alice',       'Alice',         'Alice'],
-                ['poiret',      'Poiret One',    'Poiret One'],
                 ['jura',        'Jura',           'Jura'],
-                ['ubuntu',      'Ubuntu',         'Ubuntu'],
               ].map(([val, label, preview]) => (
                 <button key={val} onClick={() => setFontFamily(val)}
                   className={`py-2.5 px-3.5 text-xs rounded-lg text-left transition-all flex items-center justify-between font-IBM Plex sans JP
