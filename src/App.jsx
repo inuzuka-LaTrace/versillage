@@ -930,7 +930,7 @@ export default function App() {
           key={displayAuthor}
           className="text-[#8a7a5a] font-serif text-2xl md:text-4xl tracking-[0.3em] animate-in fade-in zoom-in duration-500"
           style={{ 
-            fontFamily: 'EB Garamond, serif',
+            fontFamily: 'Cinzel, serif',
             // 位置を固定、または微細なランダムに留める
             transform: 'translate(0, -10%)', 
             textShadow: '0 0 15px rgba(138, 122, 90, 0.3)'
