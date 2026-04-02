@@ -946,7 +946,7 @@ export default function App() {
             textShadow: '0 0 15px rgba(138, 122, 90, 0.3)'
           }}
         >
-          {displayAuthor || "VANITISME"}
+          {displayAuthor || "vanitisme"}
         </span>
       </div>
 
