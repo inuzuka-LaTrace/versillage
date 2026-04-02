@@ -172,6 +172,8 @@ export default function App() {
     speak(fullText, getSpeechLang(textObj), 'all');
   };
 
+  const [displayAuthor, setDisplayAuthor] = useState("");
+  
   useEffect(() => {
   if (loading) {
     const authorList = Object.values(texts).flat().map(item => item.author);
