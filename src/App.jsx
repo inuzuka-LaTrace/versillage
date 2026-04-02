@@ -453,9 +453,10 @@ export default function App() {
   const getParaAnnotations = (paraId) =>
     (currentText?.annotations || []).filter(a => a.paragraphId === paraId);
 
-  // anchor付き注釈：1行分のテキストをparts配列に分割するヘルパー
-  const splitLineByAnchors = (lineText, anchored) => {
-    let parts = [{ text: lineText, type: 'plain' }];
+  // anchor付き注釈：テキスト全体（改行含む）をparts配列に分割するヘルパー
+  // anchorが複数行にまたがっていても正しくマッチする
+  const splitTextByAnchors = (fullText, anchored) => {
+    let parts = [{ text: fullText, type: 'plain' }];
     for (const ann of anchored) {
       const next = [];
       for (const part of parts) {
@@ -472,47 +473,65 @@ export default function App() {
     return parts;
   };
 
-  // anchor付き注釈：行単位で分割してから各行をanchor処理し<br />で繋ぐ
-  // → whitespace-pre-line と button の混在による詩形崩れを防ぐ
-  const renderTextWithAnchors = (text, annotations, paraId) => {
-    const anchored = annotations.filter(a => a.anchor);
-
+  // partsを改行展開してReact要素列に変換
+  const renderParts = (parts, paraId) => {
     const isActive = (ann) =>
       activeAnchor?.paraId === paraId && activeAnchor?.anchor === ann.anchor;
     const typeDef = (ann) => getTypeDef(ann.type);
 
-    const renderPart = (part, i) =>
-      part.type === 'plain' ? (
-        <span key={i}>{part.text}</span>
-      ) : (
+    const tokens = [];
+    for (const part of parts) {
+      if (part.type === 'plain') {
+        const lines = part.text.split('\n');
+        lines.forEach((line, li) => {
+          if (li > 0) tokens.push({ type: 'br' });
+          if (line) tokens.push({ type: 'text', text: line });
+        });
+      } else {
+        const lines = part.text.split('\n');
+        lines.forEach((line, li) => {
+          if (li > 0) tokens.push({ type: 'br' });
+          if (line) tokens.push({ type: 'anchor', text: line, ann: part.ann, isFirst: li === 0 });
+        });
+      }
+    }
+
+    return tokens.map((tok, i) => {
+      if (tok.type === 'br') return <br key={i} />;
+      if (tok.type === 'text') return <span key={i}>{tok.text}</span>;
+      const ann = tok.ann;
+      const active = isActive(ann);
+      return (
         <span
           key={i}
           role="button"
           tabIndex={0}
-          onClick={() => setActiveAnchor(
-            isActive(part.ann) ? null : { paraId, anchor: part.ann.anchor }
-          )}
-          onKeyDown={(e) => e.key === 'Enter' && setActiveAnchor(
-            isActive(part.ann) ? null : { paraId, anchor: part.ann.anchor }
-          )}
+          onClick={() => setActiveAnchor(active ? null : { paraId, anchor: ann.anchor })}
+          onKeyDown={(e) => e.key === 'Enter' && setActiveAnchor(active ? null : { paraId, anchor: ann.anchor })}
           className={`relative inline border-b-2 transition-colors cursor-pointer rounded-sm px-0.5 ${
-            isActive(part.ann)
+            active
               ? darkMode
-                ? `border-amber-400 ${typeDef(part.ann).colorDark} bg-opacity-60`
+                ? `border-amber-400 ${typeDef(ann).colorDark} bg-opacity-60`
                 : `border-amber-500 bg-amber-50`
               : darkMode
                 ? 'border-zinc-600 hover:border-amber-500'
                 : 'border-stone-400 hover:border-amber-500'
           }`}
-          title={`${getTypeDef(part.ann.type).label}：クリックで表示`}
+          title={`${getTypeDef(ann.type).label}：クリックで表示`}
         >
-          {part.text}
-          <span className={`absolute -top-1 -right-1 w-1.5 h-1.5 rounded-full ${typeDef(part.ann).dot}`} />
+          {tok.text}
+          {tok.isFirst && (
+            <span className={`absolute -top-1 -right-1 w-1.5 h-1.5 rounded-full ${typeDef(ann).dot}`} />
+          )}
         </span>
       );
+    });
+  };
 
+  // anchor付き注釈レンダリング（全モード共通・複数行anchor対応）
+  const renderTextWithAnchors = (text, annotations, paraId) => {
+    const anchored = annotations.filter(a => a.anchor);
     if (!anchored.length) {
-      // anchorなし：行ごとに<br />で繋ぐだけ
       return (
         <>
           {text.split('\n').map((line, i, arr) => (
@@ -521,22 +540,8 @@ export default function App() {
         </>
       );
     }
-
-    // anchorあり：行ごとに分割 → 各行をanchor処理 → <br />で繋ぐ
-    const lines = text.split('\n');
-    return (
-      <>
-        {lines.map((line, lineIdx) => {
-          const parts = splitLineByAnchors(line, anchored);
-          return (
-            <span key={lineIdx}>
-              {parts.map((part, i) => renderPart(part, i))}
-              {lineIdx < lines.length - 1 && <br />}
-            </span>
-          );
-        })}
-      </>
-    );
+    const parts = splitTextByAnchors(text, anchored);
+    return <>{renderParts(parts, paraId)}</>;
   };
 
   // 注釈パネル1件のレンダリング
@@ -2263,7 +2268,7 @@ const TocDrawer = ({
                           const isSelected = currentText?.id === t.id;
                           const snip = isSearching ? getSnippet(t) : null;
                           return (
-                            // ③ 外側は余白のみのコンテナ（クリック不可）
+                            // タイトル文字のみクリック可能・外枠はpointer-events-none
                             <div
                               key={t.id}
                               className={`pl-6 pr-3 py-1.5 border-b ${tocItemBorder} ${
@@ -2271,28 +2276,30 @@ const TocDrawer = ({
                                   ? `${tocActiveBg} border-l-2 ${tocActiveBdr}`
                                   : ''
                               }`}
+                              style={{ userSelect: 'none' }}
                             >
-                              <div className="flex items-baseline gap-2 w-full">
-                                {/* ③ タイトル文字のみがクリック可能 */}
-                                <button
-                                  className={`text-base leading-snug text-left flex-1 min-w-0 transition-colors ${
+                              <div className="flex items-baseline gap-2 w-full" style={{ pointerEvents: 'none' }}>
+                                {/* タイトル部分だけ pointer-events を戻す */}
+                                <span
+                                  className={`text-base leading-snug text-left flex-shrink min-w-0 transition-colors cursor-pointer ${
                                     isSelected ? tocText : tocSub
-                                  } ${!isSelected ? (d ? 'hover:text-[#ddd0b3]' : 'hover:text-stone-800') : ''} cursor-pointer`}
-                                  onClick={() => {
+                                  } ${!isSelected ? (d ? 'hover:text-[#ddd0b3]' : 'hover:text-stone-800') : ''}`}
+                                  style={{ pointerEvents: 'auto' }}
+                                  onClick={(e) => {
+                                    e.stopPropagation();
                                     handleTextChange(t.id);
                                     setShowToc(false);
                                   }}
-                                  style={{ background: 'none', border: 'none', padding: 0 }}
                                 >
                                   {t.title}
-                                </button>
+                                </span>
                                 <span className={`text-[10px] font-Alice shrink-0 ${tocDim}`}>
                                   {t.year}
                                 </span>
                               </div>
-                              {/* 本文スニペット（検索ヒット時） */}
+                              {/* 本文スニペット（検索ヒット時・クリック不可） */}
                               {snip && (
-                                <p className={`text-xs font-sans leading-relaxed ${tocSnipText} pl-0.5 mt-0.5`}>
+                                <p className={`text-xs font-sans leading-relaxed ${tocSnipText} pl-0.5 mt-0.5 select-text`} style={{ pointerEvents: 'none' }}>
                                   {snip.pre}
                                   <mark className={`${tocMarkBg} px-0.5 rounded-sm not-italic`}>
                                     {snip.match}
