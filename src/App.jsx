@@ -252,7 +252,7 @@ export default function App() {
   // 最低2000ms（2秒）はローディングを見せる
   const timer = setTimeout(() => {
     setLoading(false);
-  }, 4000);
+  }, 4400);
 
   return () => clearTimeout(timer);
 }, []);
