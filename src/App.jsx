@@ -179,14 +179,21 @@ export default function App() {
     const authorList = Object.values(texts).flat().map(item => item.author);
     const uniqueAuthors = Array.from(new Set(authorList)).filter(Boolean);
     
-    const interval = setInterval(() => {
-      const randomAuthor = uniqueAuthors[Math.floor(Math.random() * uniqueAuthors.length)];
-      setDisplayAuthor(randomAuthor);
-    }, 500); // 0.2秒(200)は早すぎたため、0.8秒(800)程度に伸ばして「残像」を認識させます
+    let count = 0;
+    const maxCount = 6; // VANITISMEの前に表示する作家の人数（お好みで調整してください）
 
-    return () => clearInterval(interval);
-  }
-}, [loading, texts]);
+    const interval = setInterval(() => {
+      if (count < maxCount) {
+        // ランダムな作家を表示
+        const randomAuthor = uniqueAuthors[Math.floor(Math.random() * uniqueAuthors.length)];
+        setDisplayAuthor(randomAuthor);
+        count++;
+      } else {
+        // 最後にタイトルを表示して、タイマーを止める
+        setDisplayAuthor("VANITISME");
+        clearInterval(interval);
+      }
+    }, 400); // 500ms（0.5秒）間隔を維持
   // コンポーネントアンマウント時・テキスト切替時に読み上げ停止
   useEffect(() => {
     window.speechSynthesis.cancel();
@@ -242,7 +249,7 @@ export default function App() {
   // 最低2000ms（2秒）はローディングを見せる
   const timer = setTimeout(() => {
     setLoading(false);
-  }, 2000);
+  }, 2500);
 
   return () => clearTimeout(timer);
 }, []);
