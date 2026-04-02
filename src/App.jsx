@@ -180,7 +180,7 @@ export default function App() {
     const uniqueAuthors = Array.from(new Set(authorList)).filter(Boolean);
     
     let count = 0;
-    const maxCount = 6; // VANITISMEの前に表示する作家の人数（お好みで調整してください）
+    const maxCount = 7; // VANITISMEの前に表示する作家の人数（お好みで調整してください）
 
     const interval = setInterval(() => {
       if (count < maxCount) {
@@ -193,7 +193,7 @@ export default function App() {
         setDisplayAuthor("VANITISME");
         clearInterval(interval);
       }
-    }, 400); // 500ms（0.5秒）間隔を維持
+    }, 500); // 500ms（0.5秒）間隔を維持
     return () => clearInterval(interval);
   }
 }, [loading, texts]);
@@ -252,7 +252,7 @@ export default function App() {
   // 最低2000ms（2秒）はローディングを見せる
   const timer = setTimeout(() => {
     setLoading(false);
-  }, 2500);
+  }, 4000);
 
   return () => clearTimeout(timer);
 }, []);
