@@ -176,30 +176,17 @@ export default function App() {
   
   useEffect(() => {
   if (loading) {
-    // 1. JSONから全作家を抽出してシャッフル
-    const allTexts = Object.values(texts).flat();
-    const authorList = Array.from(new Set(allTexts.map(item => item.author)))
-      .filter(Boolean)
-      .sort(() => Math.random() - 0.5); // 毎回順序を変える（映画的ランダム性）
-
-    let index = 0;
-    const maxDisplays = 8; // 表示する作家の数（多すぎると本編までが長くなるため）
-
+    const authorList = Object.values(texts).flat().map(item => item.author);
+    const uniqueAuthors = Array.from(new Set(authorList)).filter(Boolean);
+    
     const interval = setInterval(() => {
-      if (index < maxDisplays && index < authorList.length) {
-        setDisplayAuthor(authorList[index]);
-        index++;
-      } else {
-        // 2. 最後に VANITISME をセットしてループを止める
-        setDisplayAuthor("VANITISME");
-        clearInterval(interval);
-      }
-    }, 700); // 0.8秒ごとに切り替え
+      const randomAuthor = uniqueAuthors[Math.floor(Math.random() * uniqueAuthors.length)];
+      setDisplayAuthor(randomAuthor);
+    }, 500); // 0.2秒(200)は早すぎたため、0.8秒(800)程度に伸ばして「残像」を認識させます
 
     return () => clearInterval(interval);
   }
 }, [loading, texts]);
-  
   // コンポーネントアンマウント時・テキスト切替時に読み上げ停止
   useEffect(() => {
     window.speechSynthesis.cancel();
@@ -935,39 +922,26 @@ export default function App() {
   };
   
 　if (loading) {
-  const isTitle = displayAuthor === "VANITISME";
-
   return (
     <div className="fixed inset-0 z-[200] bg-[#0a0a0a] flex items-center justify-center overflow-hidden">
       <div className="relative w-full h-full flex items-center justify-center">
+        {/* キー（key）に displayAuthor を指定することで、名前が変わった時だけアニメーションをリセットさせます */}
         <span 
           key={displayAuthor}
-          className={`text-[#8a7a5a] font-serif transition-all duration-1000 animate-in fade-in zoom-in
-            ${isTitle 
-              ? "text-3xl md:text-5xl tracking-[0.8em] opacity-100" 
-              : "text-2xl md:text-4xl tracking-[0.3em] opacity-70"
-            }`}
+          className="text-[#8a7a5a] font-serif text-2xl md:text-4xl tracking-[0.3em] animate-in fade-in zoom-in duration-500"
           style={{ 
             fontFamily: 'Cinzel, serif',
-            transform: 'translate(0, -10%)',
-            textShadow: isTitle 
-              ? '0 0 20px rgba(138, 122, 90, 0.5)' 
-              : '0 0 12px rgba(138, 122, 90, 0.2)'
+            // 位置を固定、または微細なランダムに留める
+            transform: 'translate(0, -10%)', 
+            textShadow: '0 0 15px rgba(138, 122, 90, 0.3)'
           }}
         >
-          {displayAuthor || " "}
+          {displayAuthor || "VANITISME"}
         </span>
       </div>
 
-      {/* 装飾：ゴダール風の水平線 */}
+      {/* 装飾：ゴダール風の水平線（動かない静かな要素） */}
       <div className="absolute w-16 h-[1px] bg-red-900/20 top-1/2 left-1/2 -translate-x-1/2 mt-12" />
-      
-      {/* 下部のLoading表示を「追憶」を感じさせる言葉に */}
-      <div className="absolute bottom-12 opacity-10">
-        <span className="text-[8px] tracking-[1em] text-[#8a7a5a] uppercase select-none">
-          Mémorial de la poésie
-        </span>
-      </div>
     </div>
   );
 }
