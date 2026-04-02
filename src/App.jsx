@@ -252,7 +252,7 @@ export default function App() {
   // 最低2000ms（2秒）はローディングを見せる
   const timer = setTimeout(() => {
     setLoading(false);
-  }, 4400);
+  }, 4500);
 
   return () => clearTimeout(timer);
 }, []);
@@ -946,7 +946,7 @@ export default function App() {
             textShadow: '0 0 15px rgba(138, 122, 90, 0.3)'
           }}
         >
-          {displayAuthor || "vanitisme"}
+          {displayAuthor || "VANITÉ DES VANITÉS"}
         </span>
       </div>
 
