@@ -787,7 +787,7 @@ export default function App() {
     const ac = accentColors[panelIndex % accentColors.length];
 
     return (
-      <div className={`flex flex-col rounded-xl border-2 ${ac.border} overflow-hidden ${darkMode ? 'bg-zinc-900' : 'bg-white'}`}>
+      <div className={`flex flex-col rounded-sm border-2 ${ac.border} overflow-hidden ${darkMode ? 'bg-zinc-900' : 'bg-white'}`}>
         {/* パネルヘッダー */}
         <div className={`px-4 py-3 border-b ${ac.header} shrink-0`}>
           <div className="flex items-start justify-between gap-2">
@@ -1088,7 +1088,7 @@ if (loading) {
     </div>
   </div>
 
-  <div className={`grid grid-cols-3 gap-1.5 p-1 rounded-xl ${darkMode ? 'bg-black/20' : 'bg-stone-100'}`}>
+  <div className={`grid grid-cols-3 gap-1.5 p-1 rounded-xk ${darkMode ? 'bg-black/20' : 'bg-stone-100'}`}>
     {/* 標準（原文のみ） */}
     <button
       onClick={() => setViewMode('standard')}
