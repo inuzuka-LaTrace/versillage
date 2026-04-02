@@ -172,6 +172,18 @@ export default function App() {
     speak(fullText, getSpeechLang(textObj), 'all');
   };
 
+  useEffect(() => {
+  if (loading) {
+    const authorList = Object.values(texts).flat().map(item => item.author);
+    const uniqueAuthors = Array.from(new Set(authorList)).filter(Boolean);
+    
+    const interval = setInterval(() => {
+      const randomAuthor = uniqueAuthors[Math.floor(Math.random() * uniqueAuthors.length)];
+      setDisplayAuthor(randomAuthor);
+    }, 250); // 切り替え速度（0.25秒）
+    return () => clearInterval(interval);
+  }
+  }, [loading]);
   // コンポーネントアンマウント時・テキスト切替時に読み上げ停止
   useEffect(() => {
     window.speechSynthesis.cancel();
@@ -901,47 +913,35 @@ export default function App() {
     );
   };
   
-const [displayAuthor, setDisplayAuthor] = useState("");
-useEffect(() => {
-  if (loading) {
-    // 1. 作家リストの作成（重複排除）
-    const authorList = Array.from(new Set(allData.map(item => item.author)));
-    
-    // 2. 0.2秒ごとにランダムな作家を表示
-    const interval = setInterval(() => {
-      const randomAuthor = authorList[Math.floor(Math.random() * authorList.length)];
-      setDisplayAuthor(randomAuthor);
-    }, 200);
-
-    return () => clearInterval(interval);
-  }
-}, [loading, allData]);
-
+// loading が true の時の return 部分
 if (loading) {
+  // 作家リストを抽出（texts は App.jsx で定義済みの全データ）
+  const authorList = Object.values(texts).flat().map(item => item.author);
+  const uniqueAuthors = Array.from(new Set(authorList)).filter(Boolean);
+
+  // 表示する作家名を管理する State（既存の useState 群に追加してください）
+  // const [displayAuthor, setDisplayAuthor] = useState("");
+
   return (
     <div className="fixed inset-0 z-[200] bg-[#0a0a0a] flex items-center justify-center overflow-hidden">
-      {/* 作家名のタイポグラフィ演出 */}
       <div className="relative w-full h-full flex items-center justify-center">
+        {/* ゴダール風タイポグラフィ：displayAuthor を表示 */}
         <span 
-          className="text-[#8a7a5a] font-serif text-2xl md:text-4xl tracking-widest transition-opacity duration-150"
+          className="text-[#8a7a5a] font-serif text-2xl md:text-4xl tracking-[0.2em] transition-all duration-200"
           style={{ 
             fontFamily: 'EB Garamond, serif',
-            opacity: displayAuthor ? 0.8 : 0,
-            /* ランダムな位置に配置したい場合は、ここで inline-style を使う */
-            transform: `translate(${Math.random() * 20 - 10}px, ${Math.random() * 20 - 10}px)`
+            // ここでランダムな位置や傾きをわずかに加えるとよりゴダール的になります
+            transform: `translate(${(Math.random() - 0.5) * 20}px, ${(Math.random() - 0.5) * 20}px)`
           }}
         >
-          {displayAuthor}
+          {/* displayAuthor がセットされるまで待機、またはランダムに初期値を出す */}
+          {displayAuthor || uniqueAuthors[0]}
         </span>
-        
-        {/* ゴダール的な赤い細線（一瞬だけ横切るアクセント） */}
-        <div className="absolute w-12 h-[1px] bg-red-900/30 top-1/2 left-1/4 animate-pulse" />
       </div>
 
-      {/* 下部の Loading テキストは維持（アンカーとして機能） */}
       <div className="absolute bottom-12 opacity-20">
-        <span className="text-[9px] tracking-[0.8em] text-[#8a7a5a] uppercase">
-          Recherchant les ombres...
+        <span className="text-[9px] tracking-[0.8em] text-[#8a7a5a] uppercase font-serif">
+          Vanitisme Loading
         </span>
       </div>
     </div>
