@@ -947,20 +947,17 @@ if (loading) {
   // neutral: ダーク zinc-300 / ライト stone-700（白黒）
   // red:    ダーク red-300/80 / ライト red-800/80
   // violet:    ダーク violet-300/80 / ライト violet-800/80
-  const transTextClass = darkMode
-    ? transColor === 'red'    ? 'text-red-500/80'
-    : transColor === 'violet'    ? 'text-violet-300/80'
-    : /* neutral */              'text-zinc-300'
-    : transColor === 'red'    ? 'text-red-800/80'
-    : transColor === 'violet'    ? 'text-violet-800/80'
-    : /* neutral */              'text-[#4a3a28]';
-  const transBorderClass = darkMode
-    ? transColor === 'red'    ? 'border-red-700/50'
-    : transColor === 'violet'    ? 'border-violet-700/50'
-    : /* neutral */              'border-stone-600'
-    : transColor === 'red'    ? 'border-red-300/60'
-    : transColor === 'violet'    ? 'border-violet-300/60'
-    : /* neutral */              'border-[#c8b480]';
+  // transTextClass: neutral / red / violet / ink
+  const transTextClass =
+    transColor === 'red'    ? (darkMode ? 'text-red-400/80'     : 'text-red-800/80') :
+    transColor === 'violet' ? (darkMode ? 'text-violet-300/80'  : 'text-violet-800/80') :
+    transColor === 'ink'    ? (darkMode ? 'text-[#b8a880]'      : 'text-[#3a2e20]') :
+    /* neutral */             (darkMode ? 'text-zinc-300'        : 'text-[#4a3a28]');
+  const transBorderClass =
+    transColor === 'red'    ? (darkMode ? 'border-red-700/50'    : 'border-red-300/60') :
+    transColor === 'violet' ? (darkMode ? 'border-violet-700/50' : 'border-violet-300/60') :
+    transColor === 'ink'    ? (darkMode ? 'border-[#5a4a38]'     : 'border-[#8a6a40]') :
+    /* neutral */             (darkMode ? 'border-stone-600'     : 'border-[#c8b480]');
 
     // カテゴリーラベルの短縮表示用マップ
   const catShort = CAT_SHORT; // constants.js
@@ -1196,13 +1193,13 @@ if (loading) {
           {/* 訳文の色 */}
           <div>
             <label className={`text-xs font-semibold uppercase tracking-wider font-IBM Plex sans JP ${textSecondary} block mb-2.5`}>訳文の色</label>
-            <div className={`flex rounded-lg overflow-hidden border ${darkMode ? 'border-zinc-700' : 'border-stone-200'}`}>
-              {[['neutral','白黒'],['red','赤'],['violet','紫']].map(([val, label], i) => (
+            <div className={`flex rounded-lg overflow-hidden border ${darkMode ? 'border-zinc-700' : 'border-[#c8b480]'}`}>
+              {[['neutral','白黒'],['ink','墨'],['red','赤'],['violet','紫']].map(([val, label], i) => (
                 <button key={val} onClick={() => setTransColor(val)}
                   className={`flex-1 py-2 text-xs font-IBM Plex sans JP transition-colors ${transColor === val
-                    ? darkMode ? 'bg-amber-700 text-amber-100' : 'bg-stone-800 text-white'
-                    : darkMode ? 'text-zinc-400 hover:bg-zinc-800' : 'text-stone-500 hover:bg-stone-50'
-                  }${i > 0 ? ` border-l ${darkMode ? 'border-zinc-700' : 'border-stone-200'}` : ''}`}>
+                    ? darkMode ? 'bg-amber-700 text-amber-100' : 'bg-[#3a2e20] text-[#f5efe0]'
+                    : darkMode ? 'text-zinc-400 hover:bg-zinc-800' : 'text-[#6b5a3a] hover:bg-[#e8dfc0]'
+                  }${i > 0 ? ` border-l ${darkMode ? 'border-zinc-700' : 'border-[#c8b480]'}` : ''}`}>
                   {label}
                 </button>
               ))}
@@ -1889,11 +1886,9 @@ if (loading) {
                           return (
                             <div key={i} className="mb-4">
                               {line.trim() && (
-                                <div className={`pl-2 border-l-2 ${oBorder}`} style={d ? {} : { borderLeftStyle: 'double', borderLeftWidth: '3px' }}>
-                                  <span translate="no" className={`notranslate leading-relaxed ${oText} ${fS}`}>
-                                    {showAnnotations && hasAnnotations ? renderTextWithAnchors(line, paraAnnotations, para.id) : line}
-                                  </span>
-                                </div>
+                                <span translate="no" className={`notranslate leading-relaxed ${oText} ${fS}`}>
+                                  {showAnnotations && hasAnnotations ? renderTextWithAnchors(line, paraAnnotations, para.id) : line}
+                                </span>
                               )}
                               {transLines[i]?.trim() && (
                                 <div className={`pl-2 mt-1 border-l-2 ${tBorder} ${tText}`}>
@@ -1940,7 +1935,7 @@ if (loading) {
                                 {para.speaker.toUpperCase()}
                               </span>
                             )}
-                            <p translate="no" className={`notranslate leading-relaxed whitespace-pre-line pl-4 border-l-2 ${oBorder} ${oText} ${fS}`} style={d ? {} : { borderLeftStyle: 'double', borderLeftWidth: '3px' }}>
+                            <p translate="no" className={`notranslate leading-relaxed whitespace-pre-line pt-1 ${oText} ${fS}`}>
                               {showAnnotations && hasAnnotations ? renderTextWithAnchors(orig, paraAnnotations, para.id) : orig}
                             </p>
                           </div>
