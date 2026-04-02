@@ -685,7 +685,7 @@ export default function App() {
       (texts[tid] ? pids.map(pid => ({ textId: tid, paraId: pid, text: texts[tid] })) : [])
     );
     if (allBookmarks.length === 0) return (
-      <div className={`rounded-xl border p-5 mb-4 ${cardBgClass}`}>
+      <div className={`rounded-sm border p-5 mb-4 ${cardBgClass}`}>
         <div className="flex items-center justify-between mb-1">
           <h2 className={`text-xs font-semibold uppercase tracking-wider font-IBM Plex sans JP flex items-center gap-1.5 ${textSecondary}`}><Bookmark size={13} strokeWidth={1.6} />ブックマーク</h2>
           <button onClick={() => setShowBookmarks(false)} className={`text-xs ${textSecondary} hover:opacity-70`}>閉じる</button>
@@ -715,7 +715,7 @@ export default function App() {
       </div>
     );
     return (
-      <div className={`rounded-xl border p-4 mb-4 ${cardBgClass}`}>
+      <div className={`rounded-sm border p-4 mb-4 ${cardBgClass}`}>
         <div className="flex items-center justify-between mb-3">
           <h2 className={`text-xs font-semibold uppercase tracking-wider font-IBM Plex sans JP flex items-center gap-1.5 ${textSecondary}`}>
             <Bookmark size={13} strokeWidth={1.6} />ブックマーク <span className="font-normal opacity-70">({allBookmarks.length}件)</span>
@@ -787,7 +787,7 @@ export default function App() {
     const ac = accentColors[panelIndex % accentColors.length];
 
     return (
-      <div className={`flex flex-col rounded-sm border-2 ${ac.border} overflow-hidden ${darkMode ? 'bg-zinc-900' : 'bg-white'}`}>
+      <div className={`flex flex-col rounded-xl border-2 ${ac.border} overflow-hidden ${darkMode ? 'bg-zinc-900' : 'bg-white'}`}>
         {/* パネルヘッダー */}
         <div className={`px-4 py-3 border-b ${ac.header} shrink-0`}>
           <div className="flex items-start justify-between gap-2">
@@ -847,7 +847,7 @@ export default function App() {
                     <span className={`text-xs font-semibold tracking-wider px-2 py-0.5 rounded-full border ${
                       darkMode ? 'bg-zinc-800 text-zinc-300 border-zinc-600 font-IBM Plex sans JP' : 'bg-stone-100 text-stone-600 border-stone-300 font-sans'
                     }`}>Scène {para.scene}</span>
-                    <div className={`flex-1 h-px ${darkMode ? 'bg-zinc-700' : 'bg-stone-200'}`} />
+                    <div className={`flex-1 h-px ${darkMode ? 'bg-zinc-700' : 'bg-[#c8b480]'}`} />
                   </div>
                 )}
                 <div className={`rounded-lg border ${darkMode ? 'border-zinc-800' : 'border-stone-100'}`}>
@@ -927,13 +927,13 @@ if (loading) {
   );
 }
   // ─── テーマ変数 ───────────────────────────────────────────
-  const bgClass         = darkMode ? 'bg-[#131008]'                              : 'bg-stone-50';
-  const cardBgClass     = darkMode ? 'bg-[#17140e] border-[#2e2a20]'             : 'bg-white border-stone-200';
-  const textClass       = darkMode ? 'text-[#ddd0b3]'                            : 'text-stone-900';
-  const textSecondary   = darkMode ? 'text-[#8a7a5a]'                            : 'text-stone-500';
-  const borderClass     = darkMode ? 'border-[#2e2a20]'                          : 'border-stone-200';
-  const inputBg         = darkMode ? 'bg-[#0f0d09] text-[#ddd0b3] placeholder-[#5a4a38] border-[#3a3228]' : 'bg-stone-100 text-stone-900 placeholder-stone-400 border-stone-300';
-  const settingsBg      = darkMode ? 'bg-[#17140e] border-[#3a3228] shadow-2xl'  : 'bg-white border-stone-200 shadow-2xl';
+  const bgClass         = darkMode ? 'bg-[#131008]'                              : 'bg-[#f5efe0]';
+  const cardBgClass     = darkMode ? 'bg-[#17140e] border-[#2e2a20]'             : 'bg-[#ede4cc] border-[#c8b480]';
+  const textClass       = darkMode ? 'text-[#ddd0b3]'                            : 'text-[#1a1208]';
+  const textSecondary   = darkMode ? 'text-[#8a7a5a]'                            : 'text-[#6b5a3a]';
+  const borderClass     = darkMode ? 'border-[#2e2a20]'                          : 'border-[#c8b480]';
+  const inputBg         = darkMode ? 'bg-[#0f0d09] text-[#ddd0b3] placeholder-[#5a4a38] border-[#3a3228]' : 'bg-[#ede4cc] text-[#1a1208] placeholder-[#a08560] border-[#c8b480]';
+  const settingsBg      = darkMode ? 'bg-[#17140e] border-[#3a3228] shadow-2xl'  : 'bg-[#ede4cc] border-[#c8b480] shadow-2xl';
 
   const fontFamilyStyle =
     fontFamily === 'garamond'     ? '"EB Garamond", "Shippori Mincho B1", serif' :
@@ -953,14 +953,14 @@ if (loading) {
     : /* neutral */              'text-zinc-300'
     : transColor === 'red'    ? 'text-red-800/80'
     : transColor === 'violet'    ? 'text-violet-800/80'
-    : /* neutral */              'text-stone-700';
+    : /* neutral */              'text-[#4a3a28]';
   const transBorderClass = darkMode
     ? transColor === 'red'    ? 'border-red-700/50'
     : transColor === 'violet'    ? 'border-violet-700/50'
     : /* neutral */              'border-stone-600'
     : transColor === 'red'    ? 'border-red-300/60'
     : transColor === 'violet'    ? 'border-violet-300/60'
-    : /* neutral */              'border-stone-300';
+    : /* neutral */              'border-[#c8b480]';
 
     // カテゴリーラベルの短縮表示用マップ
   const catShort = CAT_SHORT; // constants.js
@@ -1037,9 +1037,9 @@ if (loading) {
           ${loading ? '' : 'transition-transform duration-500 ease-in-out'}
           ${showSettings ? 'translate-x-0' : 'translate-x-full'}
           ${loading ? 'invisible' : 'visible'}
-          ${darkMode ? 'bg-zinc-900 border-l border-zinc-800' : 'bg-stone-50 border-l border-stone-200'}`}
+          ${darkMode ? 'bg-zinc-900 border-l border-zinc-800' : 'bg-[#f5efe0] border-l border-[#c8b480]'}`}
           >
-          <div className={`flex items-center justify-between px-5 py-4 border-b ${darkMode ? 'border-zinc-800' : 'border-stone-200'}`}>
+          <div className={`flex items-center justify-between px-5 py-4 border-b ${darkMode ? 'border-zinc-800' : 'border-[#c8b480]'}`}>
           <h3 className={`text-sm font-semibold tracking-wide font-IBM Plex sans JP ${textClass}`}>表示設定</h3>
           <button
             onClick={() => setShowSettings(false)}
@@ -1088,7 +1088,7 @@ if (loading) {
     </div>
   </div>
 
-  <div className={`grid grid-cols-3 gap-1.5 p-1 rounded-xk ${darkMode ? 'bg-black/20' : 'bg-stone-100'}`}>
+  <div className={`grid grid-cols-3 gap-1.5 p-1 rounded-xl ${darkMode ? 'bg-black/20' : 'bg-stone-100'}`}>
     {/* 標準（原文のみ） */}
     <button
       onClick={() => setViewMode('standard')}
@@ -1184,7 +1184,7 @@ if (loading) {
                   className={`py-2.5 px-3.5 text-xs rounded-lg text-left transition-all flex items-center justify-between font-IBM Plex sans JP
                     ${fontFamily === val
                       ? darkMode ? 'bg-amber-700 text-amber-100 shadow-sm' : 'bg-stone-800 text-white shadow-sm'
-                      : darkMode ? 'bg-zinc-800 text-zinc-300 hover:bg-zinc-700' : 'bg-stone-100 text-stone-600 hover:bg-stone-200'}`}
+                      : darkMode ? 'bg-zinc-800 text-zinc-300 hover:bg-zinc-700' : 'bg-[#e8dfc0] text-[#4a3a28] hover:bg-[#e0d4b0]'}`}
                 >
                   <span>{label}</span>
                   <span className="opacity-60" style={{ fontFamily: `"${preview}", serif`, fontSize: '1.05em' }}>Abcあ</span>
@@ -1251,7 +1251,7 @@ if (loading) {
                   key={label}
                   onClick={() => setter(!checked)}
                   className={`flex items-center justify-between px-4 py-3 cursor-pointer transition-colors font-IBM Plex sans JP
-                    ${i < arr.length - 1 ? (darkMode ? 'border-b border-zinc-700' : 'border-b border-stone-100') : ''}
+                    ${i < arr.length - 1 ? (darkMode ? 'border-b border-zinc-700' : 'border-b border-[#c8b480]/60') : ''}
                     ${darkMode ? 'hover:bg-zinc-800' : 'hover:bg-stone-100'}`}
                 >
                   <span className={`text-sm ${textClass}`}>{label}</span>
@@ -1354,12 +1354,12 @@ if (loading) {
 
         {/* ─── ウェルカムバナー ───────────────────────── */}
         {showWelcome && (
-          <div className={`rounded-xl border p-4 mb-6 relative ${darkMode ? 'bg-violet-950/30 border-violet-900/50' : 'bg-violet-50 border-violet-200'}`}>
+          <div className={`rounded-xl border p-4 mb-6 relative ${darkMode ? 'bg-violet-950/30 border-violet-900/50' : 'bg-[#e8dfc0] border-[#c8b480]'}`}>
             <button
               onClick={dismissWelcome}
               className={`absolute top-3 right-3 ${textSecondary} hover:opacity-70`}
             ><X size={14} strokeWidth={2} /></button>
-            <p className={`text-m font-IBM Plex sans JP ${darkMode ? 'text-violet-500' : 'text-violet-700'}`}>
+            <p className={`text-m font-IBM Plex sans JP ${darkMode ? 'text-violet-500' : 'text-[#6b5a3a]'}`}>
               🌏 By using your browser's translation feature, you can read the Japanese translations and comentaries in your preferred language, while the original texts remain unchanged.
             </p>
           </div>
@@ -1383,7 +1383,7 @@ if (loading) {
         aria-hidden="true" // スクリーンリーダーには無視させる
       />
       {/* 3. 暗くするためのオーバーレイ：背景色とブレンドさせる（透過あり） */}
-      <div className={`absolute inset-0 ${darkMode ? 'bg-zinc-950/65' : 'bg-stone-50/60'}`} />
+      <div className={`absolute inset-0 ${darkMode ? 'bg-zinc-950/65' : 'bg-[#f5efe0]/60'}`} />
     </div>
 
     {/* 4. コンテンツレイヤー：relative z-10 で絵画の前に完璧に重ねる */}
@@ -1423,7 +1423,7 @@ if (loading) {
 )}
         {selectedText && (<>
         {/* ─── 現在のテキスト情報 ───────────────────── */}
-        <div ref={textInfoRef} className={`rounded-xl border p-5 mb-4 ${cardBgClass}`}>
+        <div ref={textInfoRef} className={`rounded-sm border p-5 mb-4 ${cardBgClass}`}>
           <div>
             {/* カテゴリバッジ＋統計を同行に */}
             <div className="flex items-center gap-2 mb-2 flex-wrap">
@@ -1466,7 +1466,7 @@ if (loading) {
             <p className={`text-sm font-IBM Plex sans JP ${textSecondary}`}>{currentText.author}　{currentText.source}（{currentText.year}年）</p>
           </div>
           {currentText.context && (
-            <div className={`mt-3 p-3 rounded-lg text-sm whitespace-pre-line ${darkMode ? 'bg-zinc-800/60 text-zinc-300 border border-zinc-700' : 'bg-stone-100 text-stone-700 border border-stone-200'}`}>
+            <div className={`mt-3 p-3 rounded-sm text-sm whitespace-pre-line ${darkMode ? 'bg-zinc-800/60 text-zinc-300 border border-zinc-700' : 'bg-[#e8dfc0] text-[#3a2e20] border border-[#c8b480]'}`}>
               {currentText.context}
             </div>
           )}
@@ -1549,7 +1549,7 @@ if (loading) {
 
         {/* ─── 注釈インデックス ─────────────────────── */}
         {showAnnotations && (currentText.annotations?.length > 0) && (
-          <div className={`rounded-xl border mb-4 overflow-hidden ${cardBgClass}`}>
+          <div className={`rounded-sm border mb-4 overflow-hidden ${cardBgClass}`}>
             <button
               onClick={() => setShowAnnotationIndex(v => !v)}
               className={`w-full flex items-center justify-between px-4 py-3 text-sm font-medium transition-colors ${
@@ -1641,7 +1641,7 @@ if (loading) {
         )}
 
         {/* ─── 段落コントロールバー（通常ビューのみ） ─ */}
-        {!crossMode && <div ref={bodyRef} className={`rounded-xl border p-3 mb-4 flex flex-wrap items-center justify-between gap-3 ${cardBgClass}`}>
+        {!crossMode && <div ref={bodyRef} className={`rounded-sm border p-3 mb-4 flex flex-wrap items-center justify-between gap-3 ${cardBgClass}`}>
           <div className="flex gap-2">
             <button
               onClick={expandAll}
@@ -1721,41 +1721,49 @@ if (loading) {
 
             return (
               <React.Fragment key={para.id}>
+                {/* ── 段落間フルーロン（通常段落・Scène区切りなし・最初の段落除く） ── */}
+                {paraIdx > 0 && !isNewScene && (
+                  <div className={`text-center select-none py-0.5 ${
+                    darkMode ? 'text-[#3a3228]' : 'text-[#c8b480]'
+                  }`} aria-hidden="true" style={{ fontSize: '10px', letterSpacing: '0.4em' }}>
+                    ✦
+                  </div>
+                )}
                 {/* ── Scène 区切り行（scene が変わった時のみ） ── */}
                 {isNewScene && (
                   <div className={`flex items-center gap-3 px-1 pt-2 pb-1`}>
                     <span className={`text-xs font-semibold tracking-widest uppercase px-3 py-1 rounded-full border ${
                       darkMode
                         ? 'bg-zinc-800 text-zinc-300 border-zinc-600 font-IBM Plex sans JP'
-                        : 'bg-stone-100 text-stone-600 border-stone-300 font-IBM Plex sans JP'
+                        : 'bg-[#e8dfc0] text-[#4a3a28] border-[#a08560] font-IBM Plex sans JP'
                     }`}>
                       Scène {para.scene}
                     </span>
-                    <div className={`flex-1 h-px ${darkMode ? 'bg-zinc-700' : 'bg-stone-200'}`} />
+                    <div className={`flex-1 h-px ${darkMode ? 'bg-zinc-700' : 'bg-[#c8b480]'}`} />
                   </div>
                 )}
 
               <div
                 ref={el => { paragraphRefs.current[para.id] = el; }}
-                className={`rounded-xl overflow-hidden transition-all relative ${
-                  !isCollapsed ? (darkMode ? 'shadow-md shadow-black/30' : 'shadow-sm') : ''
+                className={`rounded-sm overflow-hidden transition-all relative ${
+                  !isCollapsed ? (darkMode ? 'shadow-md shadow-black/30' : 'shadow-sm shadow-[#c8b480]/40') : ''
                 } ${
                   isBookmarkedPara
-                    ? darkMode ? 'border border-amber-700/60 bg-zinc-900' : 'border border-amber-300 bg-white'
-                    : darkMode ? 'border border-zinc-800 bg-zinc-900' : 'border border-stone-200 bg-white'
+                    ? darkMode ? 'border border-amber-700/60 bg-zinc-900' : 'border border-[#a08560] bg-[#ede4cc]'
+                    : darkMode ? 'border border-zinc-800 bg-zinc-900' : 'border border-[#c8b480] bg-[#ede4cc]'
                 }`}
               >
                 {/* ブックマーク左ボーダーアクセント */}
                 {isBookmarkedPara && (
-                  <div className={`absolute left-0 top-0 bottom-0 w-0.5 rounded-l-xl ${darkMode ? 'bg-amber-500' : 'bg-amber-400'}`} />
+                  <div className={`absolute left-0 top-0 bottom-0 w-0.5 rounded-l-sm ${darkMode ? 'bg-amber-500' : 'bg-[#a08560]'}`} />
                 )}
                 {/* 段落ヘッダー（折りたたみボタン） */}
                 <button
                   onClick={() => toggleParagraph(para.id)}
                   className={`w-full flex items-center justify-between px-4 py-3 text-left transition-colors ${
                     isBookmarkedPara
-                    ? darkMode ? 'hover:bg-amber-950/30 bg-amber-950/10' : 'hover:bg-amber-50/80 bg-amber-50/40'
-                    : darkMode ? 'hover:bg-zinc-800/60' : 'hover:bg-stone-50/80'
+                    ? darkMode ? 'hover:bg-amber-950/30 bg-amber-950/10' : 'hover:bg-[#e0d4b0]/60 bg-[#e0d4b0]/30'
+                    : darkMode ? 'hover:bg-zinc-800/60' : 'hover:bg-[#e8dfc0]/50'
                   }`}
                   >
                   <div className="flex items-center gap-2 min-w-0 overflow-hidden">
@@ -1829,7 +1837,7 @@ if (loading) {
 
                     {/* ── エピグラフ（Monna Innominata等、ダンテ・ペトラルカ引用） ── */}
                     {para.epigraphs && para.epigraphs.length > 0 && (
-                      <div className={`mt-4 mb-3 pl-4 border-l-2 space-y-2 ${darkMode ? 'border-stone-600' : 'border-stone-300'}`}>
+                      <div className={`mt-4 mb-3 pl-4 border-l-2 space-y-2 ${darkMode ? 'border-stone-600' : 'border-[#a08560]/60'}`}>
                         {para.epigraphs.map((ep, ei) => (
                           <div key={ei} className="flex flex-col gap-0.5">
                             <p translate="no" className={`notranslate text-sm italic leading-snug font-serif ${darkMode ? 'text-zinc-300' : 'text-stone-600'}`}>
@@ -1859,10 +1867,10 @@ if (loading) {
 
                   // 2. デザイン定数
                   const d = darkMode;
-                  const oBorder = d ? 'border-amber-900/40' : 'border-amber-200/60';
-                  const tBorder = d ? 'border-stone-800' : 'border-stone-100';
-                  const oText = d ? 'text-[#ddd0b3]' : 'text-stone-800';
-                  const tText = d ? 'text-[#8a7a5a]' : 'text-stone-600';
+                  const oBorder = d ? 'border-amber-900/40' : 'border-[#a08560]';
+                  const tBorder = d ? 'border-stone-800' : 'border-[#c8b480]';
+                  const oText = d ? 'text-[#ddd0b3]' : 'text-[#1a1208]';
+                  const tText = d ? 'text-[#8a7a5a]' : 'text-[#6b5a3a]';
                   const fS = fontSizeMap[fontSize] || 'text-base';
                   const fST = fontSize === 'xxlarge' ? 'text-xl' : fontSize === 'xlarge' ? 'text-lg' : fontSize === 'large' ? 'text-base' : fontSize === 'medium' ? 'text-sm' : 'text-xs';
 
@@ -1881,7 +1889,7 @@ if (loading) {
                           return (
                             <div key={i} className="mb-4">
                               {line.trim() && (
-                                <div className={`pl-2 border-l-2 ${oBorder}`}>
+                                <div className={`pl-2 border-l-2 ${oBorder}`} style={d ? {} : { borderLeftStyle: 'double', borderLeftWidth: '3px' }}>
                                   <span translate="no" className={`notranslate leading-relaxed ${oText} ${fS}`}>
                                     {showAnnotations && hasAnnotations ? renderTextWithAnchors(line, paraAnnotations, para.id) : line}
                                   </span>
@@ -1932,13 +1940,13 @@ if (loading) {
                                 {para.speaker.toUpperCase()}
                               </span>
                             )}
-                            <p translate="no" className={`notranslate leading-relaxed whitespace-pre-line pl-4 border-l-2 ${oBorder} ${oText} ${fS}`}>
+                            <p translate="no" className={`notranslate leading-relaxed whitespace-pre-line pl-4 border-l-2 ${oBorder} ${oText} ${fS}`} style={d ? {} : { borderLeftStyle: 'double', borderLeftWidth: '3px' }}>
                               {showAnnotations && hasAnnotations ? renderTextWithAnchors(orig, paraAnnotations, para.id) : orig}
                             </p>
                           </div>
                         )}
                         {showOfficial && translation && (
-                          <div className={`mt-4 pt-4 border-t ${d ? 'border-zinc-800/50' : 'border-stone-100'}`}>
+                          <div className={`mt-4 pt-4 border-t ${d ? 'border-zinc-800/50' : 'border-[#c8b480]/60'}`}>
                             <p className={`leading-relaxed whitespace-pre-line ${tText} ${fST}`}>
                               {translation}
                             </p>
@@ -1951,7 +1959,7 @@ if (loading) {
 
                     {/* 注釈パネル */}
                     {showAnnotations && hasAnnotations && (
-                      <div className={`mb-3 rounded-lg border ${darkMode ? 'border-amber-900/50 bg-amber-950/20' : 'border-amber-200 bg-amber-50/50'}`}>
+                      <div className={`mb-3 rounded-sm border ${darkMode ? 'border-amber-900/50 bg-amber-950/20' : 'border-[#a08560]/50 bg-[#e8dfc0]/60'}`}>
                         <button
                           onClick={() => setExpandedAnnotations(prev => ({ ...prev, [para.id]: !prev[para.id] }))}
                           className={`w-full flex items-center justify-between px-3 py-2 text-xs font-medium transition-colors rounded-lg ${
@@ -2136,28 +2144,28 @@ const TocDrawer = ({
 
     // ── ダーク／ライト切替スタイル ─────────────────────────────────
     const d = darkMode;
-    const tocBg        = d ? 'bg-[#0f0d09]'     : 'bg-stone-50';
-    const tocBorder    = d ? 'border-[#2e2a20]'  : 'border-stone-200';
-    const tocHeaderBg  = d ? 'bg-[#0f0d09]'     : 'bg-white';
-    const tocText      = d ? 'text-[#ddd0b3]'    : 'text-stone-900';
-    const tocSub       = d ? 'text-[#8a7a5a]'    : 'text-stone-500';
-    const tocDim       = d ? 'text-[#5a4a38]'    : 'text-stone-400';
-    const tocDimBorder = d ? 'border-[#2e2a20]'  : 'border-stone-200';
-    const tocSearchBg  = d ? 'bg-[#131008]'      : 'bg-stone-100';
-    const tocHoverBg   = d ? 'hover:bg-[#181510]' : 'hover:bg-stone-100';
-    const tocItemBorder= d ? 'border-[#221d14]'  : 'border-stone-100';
-    const tocItemHover = d ? 'hover:bg-[#1a1810]' : 'hover:bg-stone-50';
-    const tocActiveBg  = d ? 'bg-[#1e1b13]'      : 'bg-amber-50';
-    const tocActiveBdr = d ? 'border-[#a08560]'  : 'border-amber-400';
+    const tocBg        = d ? 'bg-[#0f0d09]'     : 'bg-[#f5efe0]';
+    const tocBorder    = d ? 'border-[#2e2a20]'  : 'border-[#c8b480]';
+    const tocHeaderBg  = d ? 'bg-[#0f0d09]'     : 'bg-[#f0e8d0]';
+    const tocText      = d ? 'text-[#ddd0b3]'    : 'text-[#1a1208]';
+    const tocSub       = d ? 'text-[#8a7a5a]'    : 'text-[#6b5a3a]';
+    const tocDim       = d ? 'text-[#5a4a38]'    : 'text-[#a08560]';
+    const tocDimBorder = d ? 'border-[#2e2a20]'  : 'border-[#c8b480]';
+    const tocSearchBg  = d ? 'bg-[#131008]'      : 'bg-[#ede4cc]';
+    const tocHoverBg   = d ? 'hover:bg-[#181510]' : 'hover:bg-[#e8dfc0]';
+    const tocItemBorder= d ? 'border-[#221d14]'  : 'border-[#d4c090]';
+    const tocItemHover = d ? 'hover:bg-[#1a1810]' : 'hover:bg-[#e8dfc0]';
+    const tocActiveBg  = d ? 'bg-[#1e1b13]'      : 'bg-[#e0d4a8]';
+    const tocActiveBdr = d ? 'border-[#a08560]'  : 'border-[#a08560]';
     const tocChipAct   = d ? 'bg-[#3a3018] text-[#ddd0b3] border-[#8a7a50]'
                            : 'bg-amber-100 text-amber-900 border-amber-400';
     const tocChipInact = d ? `${tocDim} border-[#2e2a20] hover:text-[#a08560] hover:border-[#3a3228]`
                            : 'text-stone-400 border-stone-200 hover:text-stone-600 hover:border-stone-400';
-    const tocSnipText  = d ? 'text-[#6a5840]'    : 'text-stone-500';
-    const tocMarkBg    = d ? 'bg-[#4a3a18] text-[#ddd0b3]' : 'bg-amber-200 text-amber-900';
-    const tocOrnament  = d ? 'text-[#2e2a20]'    : 'text-stone-200';
+    const tocSnipText  = d ? 'text-[#6a5840]'    : 'text-[#6b5a3a]';
+    const tocMarkBg    = d ? 'bg-[#4a3a18] text-[#ddd0b3]' : 'bg-[#d4b870] text-[#1a1208]';
+    const tocOrnament  = d ? 'text-[#2e2a20]'    : 'text-[#c8b480]';
     const tocHoverAuth = d ? 'group-hover:text-[#b8a880]' : 'group-hover:text-stone-700';
-    const tocFooterBg  = d ? '' : 'bg-white';
+    const tocFooterBg  = d ? '' : 'bg-[#f0e8d0]';
 
     return (
       <>
