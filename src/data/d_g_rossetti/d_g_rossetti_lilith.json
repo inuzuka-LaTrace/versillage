@@ -1,0 +1,105 @@
+{
+  "id": "d_g_rossetti_lilith",
+  "title": "Lilith",
+  "author": "Dante Gabriel Rossetti",
+  "source": "Pictures and Poems (1865); 改題・改稿後 Body's Beauty として Poems (1870) 所収。底本: Wikisource, Pictures & poems/Lilith (en.wikisource.org/wiki/Pictures_%26_poems/Lilith); 照合: Rossetti Archive (rossettiarchive.org); The Collected Works of Dante Gabriel Rossetti, ed. William M. Rossetti, Ellis and Elvey, London, 1886, vol. I.",
+  "year": "1865",
+  "firstPublication": "Pictures and Poems, 1865（絵画〈Lady Lilith〉の添詞として）。詩集収録時のタイトル Body's Beauty: Poems, F. S. Ellis, London, 1870.",
+  "difficulty": "中級",
+  "category": "d_g_rossetti",
+  "originalLang": "en-GB",
+  "modernRelevance": "★★★★☆",
+  "context": "ダンテ・ゲイブリエル・ロセッティによるペトラルカ風ソネット。画家でもあるロセッティが自作の絵画《Lady Lilith》（1866–68、油彩、現デラウェア美術館）のために書いた添詞として構想され、後に改稿・改題して詩集『Poems』（1870）に Body's Beauty のタイトルで収録した。ヘブライの伝説に登場するリリス——アダムの最初の妻にして魔女——を題材に、女の美と魔性が男を縛る様をペトラルカ的な転回（volta）構造で詠む。Wikisource テキスト（Pictures & poems/Lilith 版）は 1865 年の初出に近い表題と本文を伝える。\n\n詩形：シェイクスピア式変形を含むペトラルカ風ソネット。オクターヴ（8行）ABBABBAで女性の誘惑の本質を語り、セステット（6行）CDCDDCでリリスの呪縛の結末——「首の曲がった若者」「心を絞る一本の金の髪」——を焦点化する。最終行の一転した具体的視覚イメージ（「round his heart one strangling golden hair」）は、ロセッティ絵画と詩の相互浸透を示す典型的な技法。\n\nリリス神話はユダヤ教神秘主義文献（バビロニア・タルムード、Alphabet of Ben Sira 等）に由来。ロセッティはカバラ的文脈よりも前ラファエル派的な美の危険性の主題としてリリスを転用し、同作品群 Soul's Beauty（Sibylla Palmifera）と対置する——「Body's Beauty」vs「Soul's Beauty」という二項が詩集の構造軸を成す。",
+  "keywords": [
+    "Lilith",
+    "リリス",
+    "Body's Beauty",
+    "前ラファエル派",
+    "ソネット",
+    "魔性の女",
+    "アダムの最初の妻",
+    "黄金の髪",
+    "魔女",
+    "Pictures and Poems",
+    "絵画と詩の相互浸透"
+  ],
+  "relatedTexts": [
+    "rossetti_monna_innominata",
+    "rossetti_dead_before_death",
+    "swinburne_anactoria",
+    "keats_la_belle_dame",
+    "dante_inferno_canto_5"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "verses": "v.1–8",
+      "original": "Of Adam's first wife, Lilith, it is told\n(The witch he loved before the gift of Eve,)\nThat, ere the snake's, her sweet tongue could deceive,\nAnd her enchanted hair was the first gold.\nAnd still she sits, young while the earth is old,\nAnd, subtly of herself contemplative,\nDraws men to watch the bright web she can weave,\nTill heart and body and life are in its hold.",
+      "provisionalTranslation": "アダムの最初の妻リリスについては、こう伝えられている——\n（エヴァが贈られる前に彼が愛した魔女、）\n蛇よりも先に、その甘い舌は欺くことができ、\nその魔法の髪は最初の黄金であったと。\nそして今もなお彼女は座っている、地が老いるなかで若く、\n自らをひそかに観照しながら、\n男たちを引き寄せ、彼女が織れる輝く網を見つめさせ、\n心も身体も命もその中に捕われるまで。"
+    },
+    {
+      "id": 2,
+      "verses": "v.9–14",
+      "original": "The rose and poppy are her flowers; for where\nIs he not found, O Lilith, whom shed scent\nAnd soft-shed kisses and soft sleep shall snare?\nLo! as that youth's eyes burned at thine, so went\nThy spell through him, and left his straight neck bent\nAnd round his heart one strangling golden hair.",
+      "provisionalTranslation": "薔薇と罌粟が彼女の花——なぜなら、ああリリスよ、\n零れ落ちる香りと、\nそっと交わされる口づけと、やわらかな眠りとによって罠にかかる者が\n見つからない場所などあろうか？\n見よ！あの若者の目があなたの目に燃え上がったとき、そうして\nあなたの呪文が彼を貫き、まっすぐな首を曲げたまま残し、\n彼の心の周りに一本の絞め殺す黄金の髪を巻き付けていった。"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "Of Adam's first wife, Lilith, it is told",
+      "body": "ソネット冒頭の「it is told（伝えられている）」という間接話法の導入は、ロセッティがリリスをヘブライ神話の引用として提示することで詩的距離を設ける戦略。詩人自身の声ではなく「伝承」として語ることで、神話的権威と詩的虚構の境界を意図的に曖昧にする。バビロニア・タルムードでは「猫頭鷹のリリス」として言及され、後期ユダヤ教伝承では「男性を誘惑する夜の悪魔」として位置づけられる。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "glossary",
+      "anchor": "ere the snake's, her sweet tongue could deceive",
+      "body": "「蛇よりも先に（ere the snake's）」——創世記における蛇（ナハシュ）による誘惑より前に、リリスはすでに欺く能力を持っていたという神話的優先権の主張。「her sweet tongue」はリリスの言語的誘惑能力を指すが、同時に「舌」が蛇の舌（フォーク舌）を暗示する。ロセッティはリリスを蛇以前の、より根源的な誘惑者として提示する。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "prosody",
+      "anchor": "her enchanted hair was the first gold",
+      "body": "「魔法の髪（enchanted hair）」と「最初の黄金（the first gold）」の連接——ロセッティが絵画《Lady Lilith》で描いたシーン、すなわち鏡を見ながら豊かな金髪を梳かすリリスの姿と直接対応する。「first gold」はエデンの黄金（無垢の状態）を先取りし腐敗させる比喩。韻脚上、v.1「told」- v.4「gold」の行末韻（ABBA構造のA韻）がオクターヴの枠組みを形成する。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "subtly of herself contemplative",
+      "body": "「ひそかに自らを観照する（subtly of herself contemplative）」——自己愛的ナルシシズムの描写。鏡を持つ/見るリリスの図像的伝統と一致する。「contemplative」はキリスト教的観照（神への瞑想）を自己愛に転倒させた語。前ラファエル派の「美しい怠惰な女」の類型に対するロセッティ自身の複雑な関係——憧憬と批判——がこの一語に凝縮される。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "prosody",
+      "anchor": "Draws men to watch the bright web she can weave,\nTill heart and body and life are in its hold.",
+      "body": "「織る（weave）」と「捕われる（hold）」の行末韻はオクターヴのB韻（deceive / Eve / weave / contemplative）の完結。「bright web（輝く網）」はリリスの美を蜘蛛の巣として提示——絡め捕る罠でありながら輝いている。「heart and body and life」の三重列挙は人間の全存在を順番に侵食する誘惑の段階的進行を表す。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "The rose and poppy are her flowers",
+      "body": "薔薇（愛と美の象徴）と罌粟（眠りと死、阿片の象徴）の取り合わせ——セステットの転回（volta）で詩は神話的叙述から直接の呼びかけへ移行する。セステット冒頭「The rose and poppy are her flowers」は、快楽と忘却・麻痺を同時に提供するリリスの二重性を植物図像で圧縮する。ヴィクトリア朝の阿片文化（ド・クインシー『阿片常用者の告白』等）への暗示でもある。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "prosody",
+      "anchor": "Lo! as that youth's eyes burned at thine, so went\nThy spell through him, and left his straight neck bent\nAnd round his heart one strangling golden hair.",
+      "body": "ソネット最終3行——「went / bent / hair」で締まるこの結末は、詩全体の中で唯一の具体的・視覚的場面。「his straight neck bent（まっすぐな首が曲げられた）」は呪縛による身体変容、「one strangling golden hair（絞め殺す一本の金の髪）」はリリスの髪が文字通りの凶器となるイメージ。詩全体の抽象的・神話的語りが最終行で突然、細部への収束（ズームイン）を遂げる——ロセッティの絵画的な「焦点イメージ」技法の典型。「Lo!」という古語的感嘆詞が照応的叙述の転換を告げる。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "intertextual",
+      "anchor": "round his heart one strangling golden hair",
+      "body": "「心を絞める一本の黄金の髪」はロセッティ詩群における「致命的な美の身体部位」モチーフの典型例。同じ詩集の Soul's Beauty（Sibylla Palmifera）と対照的な Body's Beauty の表題が示すように、ロセッティは霊的な美と肉体的な美を二項として詩集全体で構造化している。フランチェスカ・ダ・リミニのエピソード（地獄篇第5歌）との比較：ダンテが愛に翻弄される魂を外から観察・描写するのに対し、ロセッティはリリスの呪縛を被る「若者」に視点を近づけ、読者をその位置に招く。",
+      "targetId": "dante_inferno_canto_5",
+      "targetParagraphId": 12
+    },
+    {
+      "paragraphId": 2,
+      "type": "allusion",
+      "anchor": "whom shed scent\nAnd soft-shed kisses and soft sleep shall snare",
+      "body": "「零れ落ちる香り・口づけ・眠り」による三段の罠——感覚の階梯的な誘惑の構造。嗅覚→触覚→意識喪失という順序は、ロマン派以来の「致命的な眠り」（キーツ「La Belle Dame sans Merci」の enchanted slumber や「Ode to a Nightingale」の drowsy numbness）の伝統を踏まえる。「shed」の繰り返し（shed scent / soft-shed kisses）が落下・零落のリズムを刻む。"
+    }
+  ]
+}
