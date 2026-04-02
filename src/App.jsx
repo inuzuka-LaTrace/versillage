@@ -916,7 +916,7 @@ export default function App() {
     );
   };
   
-/if (loading) {
+　if (loading) {
   return (
     <div className="fixed inset-0 z-[200] bg-[#0a0a0a] flex items-center justify-center overflow-hidden">
       <div className="relative w-full h-full flex items-center justify-center">
