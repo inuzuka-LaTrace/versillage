@@ -239,8 +239,13 @@ export default function App() {
       ...hoelderlinData,
     };
     setTexts(allTexts);
+  // 最低2000ms（2秒）はローディングを見せる
+  const timer = setTimeout(() => {
     setLoading(false);
-  }, []);
+  }, 2000);
+
+  return () => clearTimeout(timer);
+}, []);
 
   // ブラウザ戻る/進む → URL変化を検知してテキストを切り替え（段落直リンク対応）
   useEffect(() => {
