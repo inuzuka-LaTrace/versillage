@@ -1476,7 +1476,7 @@ if (loading) {
                 <span
                   key={k}
                   className={`text-xs font-sans px-2 py-0.5 rounded border ${
-                    darkMode ? 'text-[#8a7a5a] border-[#3a3228]' : 'text-stone-500 border-stone-200'
+                    darkMode ? 'text-[#8a7a5a] border-[#3a3228]' : 'text-stone-500 border-stone-500'
                   }`}
                 >{k}</span>
               ))}
