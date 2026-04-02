@@ -931,12 +931,10 @@ if (loading) {
   const settingsBg      = darkMode ? 'bg-[#17140e] border-[#3a3228] shadow-2xl'  : 'bg-white border-stone-200 shadow-2xl';
 
   const fontFamilyStyle =
-    fontFamily === 'garamond'     ? '"EB Garamond", "pori Mincho B1", serif' :
-    fontFamily === 'alice'        ? '"Alice", "pori Mincho B1", serif' :
-    fontFamily === 'ubuntu'       ? '"Ubuntu", "IBM Plex sans JP", sans-serif' :
-    fontFamily === 'poiret'       ? '"Poiret One", "IBM Plex sans JP", sans-serif' :
+    fontFamily === 'garamond'     ? '"EB Garamond", "Shippori Mincho B1", serif' :
+    fontFamily === 'alice'        ? '"Alice", "Shippori Mincho B1", serif' :
     fontFamily === 'jura'         ? '"Jura", "IBM Plex sans JP", sans-serif' :
-    '"EB Garamond", "pori Mincho B1", serif';
+    '"EB Garamond", "Shippori Mincho B1", serif';
 
   const fontSizeMap = { xxsmall: 'text-[10px]', xsmall: 'text-xs', small: 'text-sm', medium: 'text-base', large: 'text-lg', xlarge: 'text-xl', xxlarge: 'text-2xl' };
 
