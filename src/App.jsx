@@ -1846,9 +1846,9 @@ if (loading) {
                     )}
  {/* --- 1826行目：表示ロジック開始 --- */}
             {(() => {
-                  // 1. データの抽出：JSONの構造に合わせて para.content を優先
-                  const orig = para.content || para.original || para.originalText || para.french || "";
-                  const translation = para.provisionalTranslation || para.ja || "";
+                  // 1. データの抽出：getOriginalText/getTranslationで一元化
+                  const orig = getOriginalText(para);
+                  const translation = getTranslation(para);
                   const hasAnnotations = (currentText?.annotations || []).filter(a => a.paragraphId === para.id).length > 0;
                   const paraAnnotations = (currentText?.annotations || []).filter(a => a.paragraphId === para.id);
 
@@ -1858,8 +1858,8 @@ if (loading) {
                   const tBorder = d ? 'border-stone-800' : 'border-stone-100';
                   const oText = d ? 'text-[#ddd0b3]' : 'text-stone-800';
                   const tText = d ? 'text-[#8a7a5a]' : 'text-stone-600';
-                  const fS = fontSize === 'small' ? 'text-sm' : fontSize === 'large' ? 'text-xl' : 'text-base';
-                  const fST = fontSize === 'small' ? 'text-xs' : fontSize === 'large' ? 'text-lg' : 'text-sm';
+                  const fS = fontSizeMap[fontSize] || 'text-base';
+                  const fST = fontSize === 'xxlarge' ? 'text-xl' : fontSize === 'xlarge' ? 'text-lg' : fontSize === 'large' ? 'text-base' : fontSize === 'medium' ? 'text-sm' : 'text-xs';
 
                   // データが空の場合は何も表示しない
                   if (!orig && !translation) return null;
@@ -1923,7 +1923,7 @@ if (loading) {
                         {showFrench && orig && (
                           <div className="pt-3 mb-4">
                             {para.speaker && (
-                              <span className={`text-[10px] font-bold tracking-widest px-2 py-0.5 rounded border mb-2 inline-block ${d ? (speakerColors[para.speaker]?.dark || 'border-zinc-700 text-zinc-500') : (speakerColors[para.speaker]?.light || 'border-stone-200 text-stone-400')}`}>
+                              <span className={`text-[10px] font-bold tracking-widest px-2 py-0.5 rounded border mb-2 inline-block ${d ? speakerColor.dark : speakerColor.light}`}>
                                 {para.speaker.toUpperCase()}
                               </span>
                             )}
