@@ -182,7 +182,7 @@ export default function App() {
     const interval = setInterval(() => {
       const randomAuthor = uniqueAuthors[Math.floor(Math.random() * uniqueAuthors.length)];
       setDisplayAuthor(randomAuthor);
-    }, 800); // 0.2秒(200)は早すぎたため、0.8秒(800)程度に伸ばして「残像」を認識させます
+    }, 500); // 0.2秒(200)は早すぎたため、0.8秒(800)程度に伸ばして「残像」を認識させます
 
     return () => clearInterval(interval);
   }
