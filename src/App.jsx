@@ -1490,7 +1490,13 @@ export default function App() {
                 )}
               </div>
             )}
-            <p className={`text-sm font-IBM Plex sans JP ${textSecondary}`}>{currentText.author}　{currentText.source}（{currentText.year}年）</p>
+            <p className={`text-sm font-IBM Plex sans JP ${textSecondary}`}>{currentText.author}　{currentText.year}年</p>
+            {currentText.source && (
+              <p className={`mt-0.5 text-[10px] leading-relaxed font-sans truncate ${darkMode ? 'text-[#5a4a38]' : 'text-[#a08060]/80'}`}
+                title={currentText.source}>
+                {currentText.source}
+              </p>
+            )}
           </div>
           {currentText.context && (
             <div className={`mt-3 p-3 rounded-sm text-sm whitespace-pre-line ${darkMode ? 'bg-zinc-800/60 text-zinc-300 border border-zinc-700' : 'bg-[#e8dfc0] text-[#3a2e20] border border-[#c8b480]'}`}>
@@ -1895,9 +1901,9 @@ export default function App() {
                   // 2. デザイン定数
                   const d = darkMode;
                   const oBorder = d ? 'border-amber-900/40' : 'border-[#a08560]';
-                  const tBorder = d ? 'border-stone-800' : 'border-[#c8b480]';
+                  const tBorder = transBorderClass;
                   const oText = d ? 'text-[#ddd0b3]' : 'text-[#1a1208]';
-                  const tText = d ? 'text-[#8a7a5a]' : 'text-[#6b5a3a]';
+                  const tText = transTextClass;
                   const fS = fontSizeMap[fontSize] || 'text-base';
                   const fST = fontSize === 'xxlarge' ? 'text-xl' : fontSize === 'xlarge' ? 'text-lg' : fontSize === 'large' ? 'text-base' : fontSize === 'medium' ? 'text-sm' : 'text-xs';
 
@@ -2314,7 +2320,7 @@ const TocDrawer = ({
                               <div className="flex items-baseline gap-2 w-full" style={{ pointerEvents: 'none' }}>
                                 {/* タイトル部分だけ pointer-events を戻す */}
                                 <span
-                                  className={`text-base leading-snug text-left flex-shrink min-w-0 transition-colors cursor-pointer ${
+                                  className={`text-base leading-snug text-left flex-1 min-w-0 transition-colors cursor-pointer ${
                                     isSelected ? tocText : tocSub
                                   } ${!isSelected ? (d ? 'hover:text-[#ddd0b3]' : 'hover:text-stone-800') : ''}`}
                                   style={{ pointerEvents: 'auto' }}
@@ -2326,7 +2332,7 @@ const TocDrawer = ({
                                 >
                                   {t.title}
                                 </span>
-                                <span className={`text-[10px] font-Alice shrink-0 ${tocDim}`}>
+                                <span className={`text-[10px] font-Alice shrink-0 ml-auto tabular-nums ${tocDim}`}>
                                   {t.year}
                                 </span>
                               </div>
