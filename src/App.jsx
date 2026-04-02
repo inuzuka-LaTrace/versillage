@@ -182,10 +182,11 @@ export default function App() {
     const interval = setInterval(() => {
       const randomAuthor = uniqueAuthors[Math.floor(Math.random() * uniqueAuthors.length)];
       setDisplayAuthor(randomAuthor);
-    }, 250); // 切り替え速度（0.25秒）
+    }, 800); // 0.2秒(200)は早すぎたため、0.8秒(800)程度に伸ばして「残像」を認識させます
+
     return () => clearInterval(interval);
   }
-  }, [loading]);
+}, [loading, texts]);
   // コンポーネントアンマウント時・テキスト切替時に読み上げ停止
   useEffect(() => {
     window.speechSynthesis.cancel();
@@ -915,37 +916,27 @@ export default function App() {
     );
   };
   
-// loading が true の時の return 部分
-if (loading) {
-  // 作家リストを抽出（texts は App.jsx で定義済みの全データ）
-  const authorList = Object.values(texts).flat().map(item => item.author);
-  const uniqueAuthors = Array.from(new Set(authorList)).filter(Boolean);
-
-  // 表示する作家名を管理する State（既存の useState 群に追加してください）
-  // const [displayAuthor, setDisplayAuthor] = useState("");
-
+/if (loading) {
   return (
     <div className="fixed inset-0 z-[200] bg-[#0a0a0a] flex items-center justify-center overflow-hidden">
       <div className="relative w-full h-full flex items-center justify-center">
-        {/* ゴダール風タイポグラフィ：displayAuthor を表示 */}
+        {/* キー（key）に displayAuthor を指定することで、名前が変わった時だけアニメーションをリセットさせます */}
         <span 
-          className="text-[#8a7a5a] font-serif text-2xl md:text-4xl tracking-[0.2em] transition-all duration-200"
+          key={displayAuthor}
+          className="text-[#8a7a5a] font-serif text-2xl md:text-4xl tracking-[0.3em] animate-in fade-in zoom-in duration-500"
           style={{ 
             fontFamily: 'EB Garamond, serif',
-            // ここでランダムな位置や傾きをわずかに加えるとよりゴダール的になります
-            transform: `translate(${(Math.random() - 0.5) * 20}px, ${(Math.random() - 0.5) * 20}px)`
+            // 位置を固定、または微細なランダムに留める
+            transform: 'translate(0, -10%)', 
+            textShadow: '0 0 15px rgba(138, 122, 90, 0.3)'
           }}
         >
-          {/* displayAuthor がセットされるまで待機、またはランダムに初期値を出す */}
-          {displayAuthor || uniqueAuthors[0]}
+          {displayAuthor || "VANITISME"}
         </span>
       </div>
 
-      <div className="absolute bottom-12 opacity-20">
-        <span className="text-[9px] tracking-[0.8em] text-[#8a7a5a] uppercase font-serif">
-          Vanitisme Loading
-        </span>
-      </div>
+      {/* 装飾：ゴダール風の水平線（動かない静かな要素） */}
+      <div className="absolute w-16 h-[1px] bg-red-900/20 top-1/2 left-1/2 -translate-x-1/2 mt-12" />
     </div>
   );
 }
