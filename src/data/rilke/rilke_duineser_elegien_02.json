@@ -1,0 +1,115 @@
+{
+  "id": "rilke_duineser_elegien_02",
+  "title": "Duineser Elegien — Die zweite Elegie",
+  "author": "Rainer Maria Rilke",
+  "source": "Duineser Elegien, Insel-Verlag, Leipzig, 1923（初版）. 底本: Rainer Maria Rilke: Werke. Kommentierte Ausgabe in vier Bänden, Bd. 2, Insel Verlag, Frankfurt am Main, 1996. PDFテキスト照合: Project Gutenberg DE; Wikisource DE",
+  "year": "1912–1922",
+  "firstPublication": "第2悲歌執筆：1912年1–2月、ドゥイーノ城（第1悲歌執筆の直後）。全集初出版：Insel-Verlag, Leipzig, 1923年2月",
+  "difficulty": "上級",
+  "category": "rilke",
+  "originalLang": "de-DE",
+  "modernRelevance": "★★★★★",
+  "context": "第1悲歌の直後、1912年1〜2月にドゥイーノ城で執筆された第2悲歌。第1悲歌が「天使への叫び」から始まったのに対し、第2悲歌は「天使の本質とは何か」という問いを正面から引き受ける。\n\n三つの運動から構成される。第一部（v.1–17）：天使の讃歌──天使は「早く成功した者たち（Frühe Geglückte）」であり、「鏡（Spiegel）」として自らの美を自らに還流させる完結した存在。第二部（v.18–55）：人間の存在論的脆弱性──人間は感じた瞬間に「揮発（verflüchtigen）」し、痕跡を残せない。第三部（v.56–79）：恋人たちへの問い──アッティカの石碑（Stelen）の「自制した身振り（verhaltene Geste）」を対照として、人間の愛の過剰と不安定を批判的に問い直す。\n\n第2悲歌の核心命題：「われわれはどこに存在の痕跡を残せるのか？」──天使は完結した自己循環を持ち、動物は「開かれた存在（das Offene）」の中にいる。人間だけが意味を求めながら意味の中に留まれない存在として描かれる。最終行「神的な身体の中ではもはやそれを慰めることができない」という断念は、第9悲歌の「変容（Verwandlung）」論へと向かう出発点となる。",
+  "keywords": [
+    "天使（Engel）",
+    "トビアス",
+    "鏡（Spiegel）",
+    "揮発・消えること",
+    "恋人たち",
+    "アッティカの石碑",
+    "身振りの自制",
+    "人間の脆弱性",
+    "Frühe Geglückte",
+    "存在の痕跡",
+    "第2悲歌"
+  ],
+  "relatedTexts": [
+    "rilke_duineser_elegien_1",
+    "rilke_das_roseninnere",
+    "rilke_grabschrift",
+    "hofmannsthal_weltgeheimnis",
+    "trakl_helian"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "verses": "v.1–16",
+      "original": "Jeder Engel ist schrecklich. Und dennoch, weh mir,\nansing ich euch, fast tödliche Vögel der Seele,\nwissend um euch. Wohin sind die Tage Tobiae,\nda der Strahlendsten einer stand an der einfachen Haustür,\nzur Reise ein wenig verkleidet und schon nicht mehr furchtbar;\n(Jüngling dem Jüngling, wie er neugierig hinaussah).\nTräte der Erzengel jetzt, der gefährliche, hinter den Sternen\neines Schrittes nur nieder und herwärts: hochaufschlagend erschlüg uns das eigene Herz. Wer seid ihr?\nFrühe Geglückte, ihr Verwöhnten der Schöpfung,\nHöhenzüge, morgenrötliche Grate\naller Erschaffung, — Pollen der blühenden Gottheit,\nGelenke des Lichtes, Gänge, Treppen, Throne,\nRäume aus Wesen, Schilde aus Wonne, Tumulte\nstürmisch entzückten Gefühls und plötzlich, einzeln,\nSpiegel: die die entströmte eigene Schönheit\nwiederschöpfen zurück in das eigene Antlitz.",
+      "provisionalTranslation": "いかなる天使も恐ろしい。それでも、ああ悲しいかな、\n私はお前たちに歌いかける、魂のほとんど致死的な鳥たちよ、\nお前たちのことを知りながら。トビアスの日々はどこへ行ったのか、\n輝かしい者たちの一人が質素な玄関先に立っていた日々は、\n旅のために少し変装して、もはや恐ろしくはなく；\n（若者に対する若者として、好奇心いっぱいに外を見ながら）。\n今もし大天使が、あの危険な者が、星々の後ろから\nたった一歩だけ降りてきて此方へ向かえば：高く打ち上げて私たち自身の心が私たちを打ち殺してしまうだろう。お前たちは誰なのか？\n早く成功した者たちよ、創造に甘やかされた者たちよ、\nすべての創造の山稜よ、暁に染まる峰よ、\n──咲き誇る神性の花粉よ、\n光の関節よ、廊下よ、階段よ、玉座よ、\n存在から成る空間よ、歓喜の盾よ、嵐のように\n恍惚とした感情の喧騒よ、そして突然、それぞれ一つ、\n鏡：そこから流れ出た自らの美を\n自らの顔へと汲み戻す鏡よ。"
+    },
+    {
+      "id": 2,
+      "verses": "v.17–42",
+      "original": "Denn wir, wo wir fühlen, verflüchtigen; ach wir\natmen uns aus und dahin; von Holzglut zu Holzglut\ngeben wir schwächern Geruch. Da sagt uns wohl einer:\nja, du gehst mir ins Blut, dieses Zimmer, der Frühling\nfüllt sich mit dir ... Was hilfts, er kann uns nicht halten,\nwir schwinden in ihm und um ihn. Und jene, die schön sind,\no wer hält sie zurück? Unaufhörlich steht Anschein\nauf in ihrem Gesicht und geht fort. Wie Tau von dem Frühgras\nhebt sich das Unsre von uns, wie die Hitze von einem\nheißen Gericht. O Lächeln, wohin? O Aufschaun:\nneue, warme, entgehende Welle des Herzens —;\nweh mir: wir sinds doch. Schmeckt denn der Weltraum,\nin den wir uns lösen, nach uns? Fangen die Engel\nwirklich nur Ihriges auf, ihnen Entströmtes,\noder ist manchmal, wie aus Versehen, ein wenig\nunseres Wesens dabei? Sind wir in ihre\nZüge so viel nur gemischt wie das Vage in die Gesichter\nschwangerer Frauen? Sie merken es nicht in dem Wirbel\nihrer Rückkehr zu sich. (Wie sollten sie's merken.)\nLiebende könnten, verstünden sie's, in der Nachtluft\nwunderlich reden. Denn es scheint, daß uns alles\nverheimlicht. Siehe, die Bäume sind; die Häuser,\ndie wir bewohnen, bestehn noch. Wir nur\nziehen allem vorbei wie ein luftiger Austausch.\nUnd alles ist einig, uns zu verschweigen, halb als\nSchande vielleicht und halb als unsägliche Hoffnung.",
+      "provisionalTranslation": "というのも私たちは、感じる場所で揮発してしまう。ああ私たちは\n自らを外へ息として吐き出してしまう。薪火から薪火へと\n私たちはより弱い香りを放つ。するとある人が私たちに言う：\nそう、お前は私の血に入り込んでいる、この部屋も、春も\nお前で満たされる……何の役に立つのか、彼は私たちを留めておけない、\n私たちは彼の中で、彼の周りで消えていく。そして美しい人たちは、\nああ誰が彼らを引き留めるのか？絶えず仮象が\n彼らの顔に立ち上がり、去っていく。早朝の草の露のように\n私たちのものは私たちから離れていく、熱い料理から\n熱が逃げていくように。おお微笑みよ、どこへ？おお見上げる眼差しよ：\n新しい、温かい、逃げていく心の波よ──；\nああ悲しいかな：それでもそれは私たちなのだ。私たちが溶け込んでいく\n宇宙空間は私たちの味がするのか？天使たちは\n本当に自分たちのものだけを集めるのか、自分たちから流れ出たものを、\nそれとも時には、うっかりしたように、少し\n私たちの存在も混じっているのか？私たちは彼らの\n面差しの中に、妊婦の顔に漂うぼんやりとしたものが\n混じり込むほどだけ混じっているのか？彼らは気づかない、自己への\n帰還の渦の中で。（どうして気づけるだろう。）\n恋人たちは、理解できれば、夜の大気の中で\n不思議な言葉を語れるだろう。なぜなら何もかもが私たちに\n秘密にしているようだから。見よ、木々はある。家々も、\n私たちが住んでいる家々も、まだ存在している。私たちだけが\n空気のような交換のように、すべてのそばを通り過ぎる。\nそしてすべてのものが一致して私たちを沈黙させようとしている、半ば\nおそらく恥として、半ば言い表せない希望として。"
+    },
+    {
+      "id": 3,
+      "verses": "v.43–78",
+      "original": "Liebende, euch, ihr in einander Genügten,\nfrag ich nach uns. Ihr greift euch. Habt ihr Beweise?\nSeht, mir geschiehts, daß meine Hände einander\ninne werden oder daß mein gebrauchtes\nGesicht in ihnen sich schont. Das giebt mir ein wenig\nEmpfindung. Doch wer wagte darum schon zu sein?\nIhr aber, die ihr im Entzücken des anderen\nzunehmt, bis er euch überwältigt\nanfleht: nicht mehr —; die ihr unter den Händen\neuch reichlicher werdet wie Traubenjahre;\ndie ihr manchmal vergeht, nur weil der andre\nganz überhand nimmt: euch frag ich nach uns. Ich weiß,\nihr berührt euch so selig, weil die Liebkosung verhält,\nweil die Stelle nicht schwindet, die ihr, Zärtliche,\nzudeckt; weil ihr darunter das reine\nDauern verspürt. So versprecht ihr euch Ewigkeit fast\nvon der Umarmung. Und doch, wenn ihr der ersten\nBlicke Schrecken besteht und die Sehnsucht am Fenster,\nund den ersten gemeinsamen Gang, ein Mal durch den Garten:\nLiebende, seid ihrs dann noch? Wenn ihr einer dem andern\neuch an den Mund hebt und ansetzt —: Getränk an Getränk:\no wie entgeht dann der Trinkende seltsam der Handlung.\nErstaunte euch nicht auf attischen Stelen die Vorsicht\nmenschlicher Geste? war nicht Liebe und Abschied\nso leicht auf die Schultern gelegt, als wär es aus anderm\nStoffe gemacht als bei uns? Gedenkt euch der Hände,\nwie sie drucklos beruhen, obwohl in den Torsen die Kraft steht.\nDiese Beherrschten wußten damit: so weit sind wirs,\ndieses ist unser, uns so zu berühren; stärker\nstemmen die Götter uns an. Doch dies ist Sache der Götter.\nFänden auch wir ein reines, verhaltenes, schmales\nMenschliches, einen unseren Streifen Fruchtlands\nzwischen Strom und Gestein. Denn das eigene Herz übersteigt uns\nnoch immer wie jene. Und wir können ihm nicht mehr\nnachschaun in Bilder, die es besänftigen, noch in\ngöttliche Körper, in denen es größer sich mäßigt.",
+      "provisionalTranslation": "恋人たちよ、お前たち、互いの中で足りている者たちよ、\n私はお前たちに私たち人間について問う。お前たちは互いをつかむ。証拠があるか？\n見よ、私には起きる──私の手が互いを\n感知するということが、あるいは使い込まれた\n私の顔が手の中で自らを労わるということが。それが私に少し\n感覚を与える。しかし誰がそれゆえに既に存在することを敢えてしようか？\nしかしお前たち、他者の歓喜の中で\n成長していく者たちよ、ついに他者がお前たちを圧倒して\n頼む、もうやめてくれ、と懇願するまで──；お前たちの手の下で\n葡萄の豊作年のように豊かになっていく者たちよ；\n時に消えていく者たちよ、ただ他者が\n完全に圧倒するから──：お前たちに私は私たちについて問う。私は知っている、\nお前たちがこれほど幸福に触れ合うのは、愛撫が留まるから、\n優しい者たちよ、お前たちが覆っている場所が\n消えないからだ；その下に純粋な\n持続を感じるから。そうしてお前たちは抱擁から\nほとんど永遠を約束される。それでも、お前たちが最初の\n眼差しの恐怖を耐え、窓辺の憧れを、\nそして最初の共に歩くこと、庭を一度だけ歩くことを：\n恋人たちよ、その後もまだお前たちはそれなのか？お前たちが互いに\n口を持ち上げ当てるとき──：飲み物が飲み物に：\nおお、飲む者はどれほど奇妙に行為から逃れてしまうことか。\nアッティカの石碑に人間の身振りの\n慎重さがお前たちを驚かせなかったか？愛と別れは\nこれほど軽く肩に置かれていなかったか、まるで私たちとは\n別の素材で作られているかのように？あの手のことを思い出せ、\nいかに圧力なしに休んでいるかを、胸像の中には力が満ちているのに。\nこの自制した者たちはそれによって知っていた：これがわれわれの到達点、\nこれがわれわれのものだ、こうして触れ合うことが；より強く\n神々はわれわれを支えてくれる。しかしこれは神々の事柄。\nわれわれもまた見つけられるだろうか、純粋な、自制した、細い\n人間的なものを、流れと岩の間の\nわれわれ自身の一筋の沃土を。なぜなら自分の心はまだ\nいつもわれわれを超えている、あれらのように。そしてわれわれはもはやそれに\n続いて見ることができない、それを和らげる絵の中にも、\nそれがより大きく自らを制する神的な身体の中にも。"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "Wohin sind die Tage Tobiae,\nda der Strahlendsten einer stand an der einfachen Haustür,",
+      "body": "「トビアスの日々はどこへ」──旧約聖書外典『トビト記』（Tobit）への参照。トビトの息子トビアスは旅の途中で天使ラファエルと出会うが、彼は人間の若者に変装しており恐ろしくない。この「変装した天使（verkleideter Engel）」の逸話が、第1悲歌冒頭の「いかなる天使も恐ろしい」という命題と対照される。旧約の神話的時代には天使と人間が「若者として（Jüngling dem Jüngling）」対等に向き合えた──その親密さが失われたことへの哀悼がこの問いに込められている。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "glossary",
+      "anchor": "Frühe Geglückte, ihr Verwöhnten der Schöpfung,\nHöhenzüge, morgenrötliche Grate\naller Erschaffung",
+      "body": "天使の讃歌（v.10–16）──「早く成功した者たち（Frühe Geglückte）」「創造に甘やかされた者たち（Verwöhnten der Schöpfung）」から始まる名詞の連鎖：山稜、暁の峰、花粉、光の関節、廊下、階段、玉座、存在の空間、歓喜の盾、嵐の喧騒、そして鏡。この語群はいずれも「完全な自己充足」を示す意象であり、単なる形容でなく存在様式の記述として機能する。最後の「鏡（Spiegel）」──天使は外部に開かれないで自らの美を自らに還流させる完結した循環体として定義される。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "prosody",
+      "anchor": "Spiegel: die die entströmte eigene Schönheit\nwiederschöpfen zurück in das eigene Antlitz.",
+      "body": "「鏡：そこから流れ出た自らの美を自らの顔へと汲み戻す」──第2悲歌の天使論の核心。「wiederschöpfen（汲み戻す）」という動詞が、流出（Entströmen）と回帰（Rückkehr）の完全な循環を示す。人間の感情は「流れ出ると戻らない（v.18：verflüchtigen）」のに対し、天使の美は流れ出ても自らへ戻る。この対比が第二部（v.18–43）の人間の存在論的脆弱性の記述を準備する。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "Denn wir, wo wir fühlen, verflüchtigen",
+      "body": "「私たちは、感じる場所で揮発してしまう」──第2悲歌の人間論の核心命題。「verflüchtigen（揮発する・蒸発する）」は化学的な語──感情・存在・意識が感じる行為そのものによって散逸する。ハイデガーは『存在と時間』（Sein und Zeit, 1927）で人間の存在様式を「現存在（Dasein）」として分析したが、リルケのこの詩句はハイデガー以前に、存在するとは「留まること」でなく「絶えず消えながら関わること」だという認識を詩的に先取りしている。「薪火から薪火へとより弱い香りを放つ（v.19）」という比喩が、強度の漸減という時間経験を捉える。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "Schmeckt denn der Weltraum,\nin den wir uns lösen, nach uns? Fangen die Engel\nwirklich nur Ihriges auf",
+      "body": "「私たちが溶け込んでいく宇宙空間は私たちの味がするのか？天使たちは本当に自分たちのものだけを集めるのか」──人間の存在が痕跡を残すかどうかという問いの最も鋭い定式化。天使が完全な自己回帰的循環を持つのに対し、人間が宇宙へ溶け出すとき、その溶け出しは世界を変容させるのか？この問いはブランショが『文学の空間』（L'Espace littéraire）で「作品とは作者が消えることで残るもの」と論じた逆説に接続する──リルケの詩が後世に「残る」とき、リルケという主体はその痕跡に不在のまま存在し続ける。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "glossary",
+      "anchor": "Liebende könnten, verstünden sie's, in der Nachtluft\nwunderlich reden.",
+      "body": "「恋人たちは、理解できれば、夜の大気の中で不思議な言葉を語れるだろう」──「不思議な言葉（wunderlich reden）」は詩的言語そのものの隠喩でもある。恋人たちが「人間の消えやすさ」を理解した上で発する言葉──それは普通の愛の言葉でなく、不在・消逝・揮発を主題とした詩的発話となる。リルケ自身の悲歌的言語がこの「夜の大気の中での不思議な言葉」として機能する。"
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "Liebende, seid ihrs dann noch? Wenn ihr einer dem andern\neuch an den Mund hebt und ansetzt —: Getränk an Getränk:\no wie entgeht dann der Trinkende seltsam der Handlung.",
+      "body": "「恋人たちよ、その後もまだお前たちはそれなのか？」──恋愛関係の安定性への懐疑。口が口に触れる瞬間に「飲む者が行為から逃れてしまう（entgeht der Handlung）」──親密さの最高点においても主体は行為の外に滑り落ちる。ブランショは『来るべき書物』で「他者と触れること」の不可能性を「文学的コミュニケーションの不可能性」と並置した。リルケの恋人論においても、最大の接触の瞬間に自己は最も逸れる──これがリルケ的「愛からの解放（第1悲歌：liebend uns vom Geliebten befrein）」の詩的根拠となる。"
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "Erstaunte euch nicht auf attischen Stelen die Vorsicht\nmenschlicher Geste? war nicht Liebe und Abschied\nso leicht auf die Schultern gelegt",
+      "body": "「アッティカの石碑に人間の身振りの慎重さがお前たちを驚かせなかったか？」──ギリシャのアッティカ地方の墓碑（紀元前5〜4世紀）に浮き彫りにされた別れの場面への言及。石碑の人物たちは愛と別れを「軽く肩に置かれたもの（leicht auf die Schultern gelegt）」として示す──感情を抑制した身振りで。これがリルケにとって人間の身振りの理想型。「胸像の中には力が満ちているのに、手は圧力なしに休んでいる（v.70）」──自制（Beherrschung）が強度を増大させるという逆説は、第1悲歌の矢と弦の比喩（集中が飛翔を生む）の変奏。"
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "Fänden auch wir ein reines, verhaltenes, schmales\nMenschliches, einen unseren Streifen Fruchtlands\nzwischen Strom und Gestein.",
+      "body": "「われわれもまた見つけられるだろうか、純粋な、自制した、細い人間的なものを、流れと岩の間のわれわれ自身の一筋の沃土を」──第2悲歌の核心的願望。天使（完全な自己充足）と神（より大きな秩序）の間に、人間固有の「細い沃土（schmaler Streifen Fruchtlands）」を見出したいという。「流れ（Strom）と岩（Gestein）の間」──無常と不変の間、時間と永遠の間に挟まれた人間の存在様式。この「人間的なもの」の探索が、第9悲歌の「大地を変容させること（die Erde verwandeln）」という肯定的応答へと続く。"
+    },
+    {
+      "paragraphId": 3,
+      "type": "prosody",
+      "anchor": "Denn das eigene Herz übersteigt uns\nnoch immer wie jene. Und wir können ihm nicht mehr\nnachschaun in Bilder, die es besänftigen, noch in\ngöttliche Körper, in denen es größer sich mäßigt.",
+      "body": "第2悲歌の最終4行──「自分の心はまだいつもわれわれを超えている」。第1悲歌冒頭「天使が私たちを圧倒する」という構図が、ここで自分自身の心によって繰り返される──人間は天使だけでなく自己の内面によっても凌駕される。「それを和らげる絵の中にも」「神的な身体の中にも」もはや追えない──古代ギリシャの神々の彫像（神話的象徴体系）も、ルネサンスの宗教画も、人間の心の過剰を容れる容器として機能しなくなった。近代の「脱神話化」の後に、詩人はどこに心を向けるのか──この問いが残余として第3悲歌以降に手渡される。"
+    }
+  ]
+}
