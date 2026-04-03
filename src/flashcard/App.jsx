@@ -11,19 +11,35 @@ import baudelaireData    from '../data/baudelaire';
 import valeryData        from '../data/valery';
 import valmoreData       from '../data/valmore';
 import rimbaudData       from '../data/rimbaud';
-import verlaineData      from '../data/verlaine';
-import lecontelisleData  from '../data/lecontelisle';
-import rodenbachData     from '../data/rodenbach';
-import vanlerbergheData  from '../data/vanlerberghe';
-import gautierData       from '../data/gautier';
-import poeData           from '../data/poe';
-import wildeData         from '../data/wilde';
-import swinburneData     from '../data/swinburne';
-import yeatsData         from '../data/yeats';
-import georgeData        from '../data/george';
-import hofmannsthalData  from '../data/hofmannsthal';
-import traklData         from '../data/trakl';
-import hoelderlinData    from '../data/hoelderlin';
+import verlaineData from './data/verlaine';
+import lecontelisleData from './data/lecontelisle';
+import banvilleData from './data/banville';
+import rodenbachData from './data/rodenbach';
+import verhaerenData from './data/verhaeren';
+import maeterlinckData from './data/maeterlinck';
+import vanlerbergheData from './data/vanlerberghe';
+import gautierData from './data/gautier';
+import georgeData from './data/george';
+import hofmannsthalData from './data/hofmannsthal';
+import traklData from './data/trakl';
+import hoelderlinData from './data/hoelderlin';
+import rilkeData from './data/rilke';
+import danteData from './data/dante';
+import dannunzioData from './data/dannunzio';
+import pascoliData from './data/pascoli';
+import gozzanoData from './data/gozzano';
+import corazziniData from './data/corazzini';
+import bryusovData from './data/bryusov';
+import sologubData from './data/sologub';
+import blokData from './data/blok';
+import balmontData from './data/balmont';
+import poeData from './data/poe';
+import wildeData from './data/wilde';
+import dowsonData from './data/dowson';
+import swinburneData from './data/swinburne';
+import rossetti_cData from './data/rossetti_c';
+import d_g_rossettiData from './data/d_g_rossetti';
+import yeatsData from './data/yeats';
 
 import { CAT_SHORT } from '../constants';
 import { getOriginalText, getTranslation } from '../utils';
@@ -579,7 +595,7 @@ export default function FlashcardApp() {
         <div className="max-w-2xl mx-auto px-4 h-14 flex items-center justify-between">
           <div className="flex items-center gap-2">
             <GraduationCap size={15} strokeWidth={1.5} className={textSub} />
-            <span className={`text-sm font-Cinzel ${darkMode ? 'text-zinc-200' : 'text-stone-800'}`}>
+            <span className={`text-sm font-Cinzel ${darkMode ? 'text-[#8a7a5a]' : 'text-stone-800'}`}>
               SCHOLA VANITISME
             </span>
           </div>
