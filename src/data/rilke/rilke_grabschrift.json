@@ -1,0 +1,89 @@
+{
+  "id": "rilke_grabschrift",
+  "title": "Grabschrift",
+  "author": "Rainer Maria Rilke",
+  "source": "Grabstein, Kirchhof Raron, Wallis（墓碑銘として刻まれたテキスト）. 遺言書に記録：1925年10月27日. 初出版（活字）: Joachim Wolff, Rilkes Grabschrift, Stiehm, Heidelberg, 1983, S. 24. テキスト照合: quotepark.com; LiederNet Archive (lieder.net/lieder/get_text.html?TextId=154626)",
+  "year": "1925",
+  "firstPublication": "遺言書に墓碑銘として確定：1925年10月27日。リルケ没後（1926年12月29日）、スイス・ヴァレー州ラローンの教会墓地の墓石に刻まれた。",
+  "difficulty": "上級",
+  "category": "rilke",
+  "originalLang": "de-DE",
+  "modernRelevance": "★★★★★",
+  "context": "リルケが自ら遺言書に墓碑銘として定めた3行12語の詩。ラローン（ヴァレー州）の教会墓地の墓石に刻まれ、現在も残る。詩集への収録を前提としない──死を唯一の読者として書かれた、リルケの全作品の最後にして最小の詩。\n\n3行を一文として読む：「薔薇よ、おお純粋な矛盾よ、悦よ、かくも多くの瞼の下で誰の眠りでもないことの」。「Lidern（瞼）」が「Lieder（歌）」と同音であることはドイツ語圏の読者に即座に響く──薔薇の花びら＝瞼＝歌、という音と意味の三重の織物。\n\n「Widerspruch（矛盾）」「Lust（悦び）」という二語の並置が詩の謎の核心をなす。矛盾を「悦び」として定義すること──これはヘーゲル的な弁証法でも仏教的な無でもなく、リルケ固有の「開いたまま存在すること」の肯定である。ハイデガー、ブランショ、ボルノウら多くの哲学者・批評家がこの12語に繰り返し立ち戻った。",
+  "keywords": [
+    "墓碑銘",
+    "薔薇",
+    "矛盾（Widerspruch）",
+    "悦び（Lust）",
+    "瞼／歌（Lidern）",
+    "誰の眠りでもない",
+    "死と詩",
+    "リルケ",
+    "ラローン",
+    "遺言の詩",
+    "12語"
+  ],
+  "relatedTexts": [
+    "rilke_das_roseninnere",
+    "trakl_de_profundis",
+    "hofmannsthal_weltgeheimnis",
+    "mallarme_tombeau_charles_baudelaire",
+    "mallarme_toast_funebre"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "verses": "v.1–3",
+      "original": "Rose, oh reiner Widerspruch, Lust,\nNiemandes Schlaf zu sein unter soviel\nLidern.",
+      "provisionalTranslation": "薔薇よ、おお純粋な矛盾よ、悦よ、\nかくも多くの瞼の下で\n誰の眠りでもないことの。"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "glossary",
+      "anchor": "Lidern.",
+      "body": "「Lidern（瞼の下で）」──ドイツ語で「Lid」は眼の瞼、その複数与格が「Lidern」。しかしドイツ語話者には「Liedern（歌の、複数与格）」との完全な同音性が即座に響く──薔薇の花びら（Blütenblätter）は瞼（Lider）であり歌（Lieder）でもある。この音的二重性は偶然でなく、リルケが意図的に選び取ったものと解釈されてきた。Joachim Wolff の研究（1983）はこの同音性をテキストの中心問題として論じた。花びらが閉じるとき眠りのように見えながら、詩（歌）として開き続ける──墓碑銘に刻まれた詩そのものが「多くの瞼（歌）の下で誰の眠りでもないこと」を実演する。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "glossary",
+      "anchor": "reiner Widerspruch, Lust,",
+      "body": "「reiner Widerspruch（純粋な矛盾）」──「rein（純粋な）」は形而上学的・倫理的な純粋性でなく、混じりけのない、解消されない矛盾の純粋形式。「Lust（悦び・快楽）」は矛盾を「解消すべき問題」でなく「それ自体として楽しむべきもの」として定義する。日本語の「悦び」は性的含意を含まない「喜び」だが、ドイツ語の「Lust」は欲動・官能・快楽の全域を含む──死の床で書かれたこの語の過激さ。「矛盾の悦び」というフレーズは、ヘーゲルの弁証法（矛盾を止揚する）を明示的に拒絶する姿勢として読みうる。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "Niemandes Schlaf zu sein",
+      "body": "「誰の眠りでもないこと」──「Schlaf（眠り）」は死の古典的比喩（ギリシャ神話：ヒュプノス＝眠り、タナトス＝死）。しかし「誰の眠りでもない（Niemandes Schlaf）」は、死を「誰かの眠り」として所有・特定する読みを拒絶する。「Niemandes（誰のものでもない）」という無所有格の強調──このNiemandesは私（リルケ）の眠りでも、神の眠りでも、読者の眠りでもない。詩人の死は特定の主体に帰属しない。ボルノウ（Otto Friedrich Bollnow）が論じたように：「薔薇の眠りは汲みつくせない無意識の生命であり、それが意識へと開かれながら、しかし汲みつくせない無意識のままに留まる」──この逆説が「純粋な矛盾」の内実をなす。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "prosody",
+      "anchor": "Rose, oh reiner Widerspruch, Lust,\nNiemandes Schlaf zu sein unter soviel\nLidern.",
+      "body": "3行・1文・12語。ドイツ語の構文として：「Rose」は呼格、「oh reiner Widerspruch」「Lust, Niemandes Schlaf zu sein unter soviel Lidern」はいずれも同格の説明句（Apposition）──薔薇を呼び、その本質を二つの同格句で定義する。統語的に完結した文でありながら、意味的には開いたまま終わる。行区切りは「Lust,」と「soviel」で断ち切られ、「Lust（悦）」が行末に宙吊りになる。ヴォルフガング・レップマン（Wolfgang Leppmann）が指摘したように：読音すると暗い母音から明るい母音へと移行し、コンマによって区切られた滞留から自由な流れへと変容する──詩の音響が「矛盾と悦びの絡み合い」を体現する。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "Rose, oh reiner Widerspruch",
+      "body": "ハイデガーによる読解：ハイデガーは『形而上学入門』（Einführung in die Metaphysik, 1935/1953）においてアンゲルス・シレジウスの「薔薇はなぜ（Warum）なしに咲く」（die Ros ist ohn Warum）を論じた──薔薇は「なぜ」という根拠を持たずに咲く存在として、「根拠律（Satz vom Grund）」を超えた存在の開示を体現する。リルケの墓碑銘における薔薇もまた「純粋な矛盾」として根拠なき存在の姿勢を示す。ハイデガーが後に『根拠律』（Der Satz vom Grund, 1957）で展開したように、「薔薇はなぜなしに咲き、自らを気にかけない」──これはリルケの「誰の眠りでもないこと」との深い共鳴をなす。どちらも「存在すること」を所有や目的から解放された状態として語る。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "Niemandes Schlaf zu sein unter soviel\nLidern.",
+      "body": "ブランショによる読解：モーリス・ブランショは『文学の空間』（L'Espace littéraire, 1955）においてリルケの詩学を「死への関係」として論じた──詩人は死に向かって書くのでなく、「死の不可能性（l'impossibilité de mourir）」の経験から書く。「誰の眠りでもないこと」はブランショ的な意味で「死ぬことの不可能性」の表現として読みうる。誰も所有できない眠りとは、主体が溶解した後に残る何か──「il（それ）」、ブランショが「中性（le neutre）」と呼んだ場所。リルケが「誰の眠りでもない」と書くとき、死は私（リルケ）のものでも詩の読者のものでもなく、匿名的で中性的な何かとして存在する。ブランショが『来るべき書物』（Le Livre à venir, 1959）で論じたオルフェウスの身振り──振り返ることで失うことを引き受けながら歌う──がここに重なる：この墓碑銘もまた「失われた後に残る歌」として墓石に刻まれた。",
+      "targetId": "mallarme_toast_funebre",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 1,
+      "type": "intertextual",
+      "anchor": "Rose, oh reiner Widerspruch",
+      "body": "マラルメ「乾杯・葬礼」（Toast funèbre, 1873）との対照。マラルメはゴーティエの死に際して「詩人の理想は花（fleur）の中に宿る」と書き、詩人の死後に詩が花として残る主題を展開した。リルケは逆の方向から書く──詩人自身が墓碑銘として薔薇になる、その薔薇は「誰の眠りでもない」ことを宣言する。また「Das Roseninnere」（1907）との連続：あの詩でバラの内部空間が「夢の中の部屋」になるまで溢れ出したように、墓碑銘では詩人自身がバラの「純粋な矛盾」となる。リルケの薔薇詩群の最後の、最も圧縮された結晶。",
+      "targetId": "mallarme_toast_funebre",
+      "targetParagraphId": null
+    }
+  ]
+}
