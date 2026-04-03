@@ -79,6 +79,9 @@ const ALL_TEXTS = {
       ...d_g_rossettiData,
       ...georgeData,
 　　　　...hofmannsthalData,
+      ...traklData,
+      ...hoelderlinData,
+      ...rilkeData,
 };
 
 // ── カテゴリーカラー（VANITISMEと同系） ─────────────────────
