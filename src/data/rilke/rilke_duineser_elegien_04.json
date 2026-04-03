@@ -1,0 +1,154 @@
+{
+  "id": "rilke_duineser_elegien_04",
+  "title": "Duineser Elegien — Die vierte Elegie",
+  "author": "Rainer Maria Rilke",
+  "source": "Duineser Elegien, Insel-Verlag, Leipzig, 1923（初版）. 底本: Rainer Maria Rilke: Werke. Kommentierte Ausgabe in vier Bänden, Bd. 2, Insel Verlag, Frankfurt am Main, 1996. PDFテキスト照合: Kalliope-Manuskript（アップロードPDF）; Wikisource DE; Project Gutenberg DE",
+  "year": "1915",
+  "firstPublication": "草稿執筆：1915年11月22–23日、ミュンヘン。初出版：Insel-Verlag, Leipzig, 1923年2月",
+  "difficulty": "上級",
+  "category": "rilke",
+  "originalLang": "de-DE",
+  "modernRelevance": "★★★★★",
+  "context": "第4悲歌は1915年11月、第一次世界大戦の最中にミュンヘンで書かれた。第3悲歌が「血の神」と先祖的欲動を主題としたのに対し、第4悲歌は「人形（Puppe）」と「天使（Engel）」という二つの極の間で引き裂かれた人間存在を主題とする。\n\n構造：三部から成る。第一部（v.1–18）：冒頭の嘆き──人間は渡り鳥のように「了解（verständigt）」されておらず、花咲くことと枯れることを同時に意識する。ライオンは「威厳の中で無力を知らない」が、人間はいつも相手の動きを先取りして自らの動きを阻む。第二部（v.19–56）：心の劇場──「誰が心の幕前に怯えて座っていなかったか？」。幕が開くと「別れ」の場面が展開される。踊り手は仮面をつけた市民にすぎない。リルケは「生きた踊り手」より「人形」を好むと宣言する──人形は「完全（voll）」であり、人間のように「半分だけ満たされた仮面（halbgefüllten Masken）」ではない。父への呼びかけと、完全な「見ること（Zuschaun）」への要求。天使が人形劇の演者となって初めて「天使と人形：ついに演劇が」成立する。第三部（v.57–85）：子供時代の空間──子供は「世界と玩具の間の空間（Zwischenraum zwischen Welt und Spielzeug）」に立っていた。「誰が子供をそのままに示すか（Wer zeigt ein Kind, so wie es steht?）」──子供の死を「口の中の美しいリンゴの芯のように柔らかく含む」能力が失われた存在として人間が措定される。「殺人者は理解しやすい。しかしこれ──死全体を、生の前にこれほど柔らかく含んで、悪意なくいられることは、言葉では言えない」という結末。\n\n詩的核心：「天使と人形」の対置が第4悲歌の中心的形象。第1・2悲歌の「天使」（人間には耐えられない存在）と第3悲歌の「血の神」（無意識の力）の間で、第4悲歌の「人形」は第三の項として機能する──人形は意識を持たず、したがって「自己分裂（Entzweiung）」から解放されている。人間は天使にも人形にもなれない存在として定義される。",
+  "keywords": [
+    "人形（Puppe）",
+    "天使（Engel）",
+    "人形劇（Puppenbühne）",
+    "踊り手（Tänzer）",
+    "心の幕（Herzens Vorhang）",
+    "渡り鳥",
+    "子供時代",
+    "世界と玩具の間",
+    "子供の死",
+    "父への呼びかけ",
+    "Zuschaun（見ること）",
+    "第4悲歌"
+  ],
+  "relatedTexts": [
+    "rilke_duineser_elegien_01",
+    "rilke_duineser_elegien_02",
+    "rilke_duineser_elegien_03",
+    "hofmannsthal_weltgeheimnis",
+    "trakl_helian"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "verses": "v.1–9",
+      "original": "O Bäume Lebens, o wann winterlich?\nWir sind nicht einig. Sind nicht wie die Zugvögel verständigt. Überholt und spät,\nso drängen wir uns plötzlich Winden auf\nund fallen ein auf teilnahmslosen Teich.\nBlühn und verdorrn ist uns zugleich bewußt.\nUnd irgendwo gehn Löwen noch und wissen,\nsolang sie herrlich sind, von keiner Ohnmacht.\nUns aber, wo wir Eines meinen, ganz,\nist schon des andern Aufwand fühlbar.",
+      "provisionalTranslation": "おお生の木々よ、おおいつ冬枯れの？\nわれわれは一致していない。渡り鳥のように了解されてはいない。追い越され、遅れて、\nそのようにわれわれは突然風に押し込み\n無関心な池の上に落ちてくる。\n咲くことと枯れることがわれわれには同時に意識されている。\nそしてどこかでライオンたちはまだ歩き、知らない、\n威厳のある間は無力というものを。\nしかしわれわれは、一つのことを全力で意図するところで、\nすでに他のものの消耗が感じられる。"
+    },
+    {
+      "id": 2,
+      "verses": "v.10–18",
+      "original": "Feindschaft\nist uns das Nächste. Treten Liebende\nnicht immerfort an Ränder, eins im andern,\ndie sich versprachen Weite, Jagd und Heimat.\nDa wird für eines Augenblickes Zeichnung\nein Grund von Gegenteil bereitet, mühsam,\ndaß wir sie sähen; denn man ist sehr deutlich\nmit uns. Wir kennen den Kontur\ndes Fühlens nicht: nur, was ihn formt von außen.",
+      "provisionalTranslation": "対立が\nわれわれに最も近いものだ。恋人たちは\n絶えず縁へと歩み出ないか、お互いの中で一つになりながら、\n広さと狩りと故郷を約束し合った者たちが。\nそこでは一瞬のデッサンのために\n対立の地が苦労して用意される、\nわれわれがそれを見られるように；なぜなら人はわれわれに\n非常に明確に接してくるから。われわれは感情の輪郭を\n知らない：ただそれを外側から形作るものだけを。"
+    },
+    {
+      "id": 3,
+      "verses": "v.19–29",
+      "original": "Wer saß nicht bang vor seines Herzens Vorhang?\nDer schlug sich auf: die Szenerie war Abschied.\nLeicht zu verstehen. Der bekannte Garten,\nund schwankte leise: dann erst kam der Tänzer.\nNicht der. Genug! Und wenn er auch so leicht tut,\ner ist verkleidet und er wird ein Bürger\nund geht durch seine Küche in die Wohnung.\nIch will nicht diese halbgefüllten Masken,\nlieber die Puppe. Die ist voll. Ich will\nden Balg aushalten und den Draht und ihr\nGesicht und Aussehn. Hier. Ich bin davor.",
+      "provisionalTranslation": "誰が自らの心の幕前に怯えて座っていなかったか？\nそれが開いた：場面は別れだった。\n理解しやすい。おなじみの庭、\nそしてかすかに揺れた：その後でようやく踊り手が来た。\nその踊り手ではない。もう十分だ！彼がこれほど軽々とふるまっても、\n彼は仮装していて、市民になって\n台所を通って住まいへ入っていく。\n私はこの半分だけ満たされた仮面はいらない、\nむしろ人形の方がいい。人形は完全だ。私は\n外皮も針金もその顔と\n外見も耐えてみたい。ここに。私はその前にいる。"
+    },
+    {
+      "id": 4,
+      "verses": "v.30–56",
+      "original": "Wenn auch die Lampen ausgehn, wenn mir auch\ngesagt wird: Nichts mehr —, wenn auch von der Bühne\ndas Leere herkommt mit dem grauen Luftzug,\nwenn auch von meinen stillen Vorfahrn keiner\nmehr mit mir dasitzt, keine Frau, sogar\nder Knabe nicht mehr mit dem braunen Schielaug:\nIch bleibe dennoch. Es giebt immer Zuschaun.\nHab ich nicht recht? Du, der um mich so bitter\ndas Leben schmeckte, meines kostend, Vater,\nden ersten trüben Aufguß meines Müssens,\nda ich heranwuchs, immer wieder kostend\nund, mit dem Nachgeschmack so fremder Zukunft\nbeschäftigt, prüftest mein beschlagnes Aufschaun, —\nder du, mein Vater, seit du tot bist, oft\nin meiner Hoffnung, innen in mir, Angst hast,\nund Gleichmut, wie ihn Tote haben, Reiche\nvon Gleichmut, aufgiebst für mein bißchen Schicksal,\nhab ich nicht recht? Und ihr, hab ich nicht recht,\ndie ihr mich liebtet für den kleinen Anfang\nLiebe zu euch, von dem ich immer abkam,\nweil mir der Raum in eurem Angesicht,\nda ich ihn liebte, überging in Weltraum,\nin dem ihr nicht mehr wart ...: wenn mir zumut ist,\nzu warten vor der Puppenbühne, nein,\nso völlig hinzuschaun, daß, um mein Schauen\nam Ende aufzuwiegen, dort als Spieler\nein Engel hinmuß, der die Bälge hochreißt.",
+      "provisionalTranslation": "ランプが消えても、私に\n「もう何もない」と言われても、舞台から\n灰色の空気の流れとともに空虚が来ても、\n私の静かな先祖たちの誰も\nもはや私と並んで座っていなくても、女性もなく、\n茶色の斜視の目を持つあの少年さえもいなくても──\nそれでも私はとどまる。見ることは常にある。\n私は正しくないか？お前、私のことをこれほど苦く\n味わった者よ、私のものを味わいながら、父よ、\n私の義務の最初のにごった一注ぎを、\n私が育っていく中で、何度も味わいながら、\nそして見知らぬ未来のあの後味に\n占められながら、私の曇った仰ぎ見を試したお前よ──\n私の父よ、お前は死んでから、たびたび\n私の希望の中に、私の内側に、不安を抱き、\n死者が持つような平静を、平静の\n豊かな国を、私のわずかな運命のために手放す、\n私は正しくないか？そしてお前たちも、私は正しくないか、\n私をお前たちへの愛の小さな始まりのゆえに愛した者たちよ、\nその愛の始まりから私はいつも外れた、\nなぜなら私がお前たちの顔の中の空間を、\n愛したとき、それが宇宙空間へと移行し、\nお前たちはもはやそこにいなかったから……：私が\n人形劇の舞台の前で待ちたい気持ちになるとき、いや、\nこれほど完全に見つめたい気持ちになるとき、私の見ることを\n最後に釣り合わせるために、そこに演者として\n天使が行かねばならず、天使が外皮を高く引き上げる。"
+    },
+    {
+      "id": 5,
+      "verses": "v.57–75",
+      "original": "Engel und Puppe: dann ist endlich Schauspiel.\nDann kommt zusammen, was wir immerfort\nentzwein, indem wir da sind. Dann entsteht\naus unsern Jahreszeiten erst der Umkreis\ndes ganzen Wandelns. Über uns hinüber\nspielt dann der Engel. Sieh, die Sterbenden,\nsollten sie nicht vermuten, wie voll Vorwand\ndas alles ist, was wir hier leisten. Alles\nist nicht es selbst. O Stunden in der Kindheit,\nda hinter den Figuren mehr als nur\nVergangnes war und vor uns nicht die Zukunft.\nWir wuchsen freilich und wir drängten manchmal,\nbald groß zu werden, denen halb zulieb,\ndie andres nicht mehr hatten, als das Großsein.\nUnd waren doch, in unserem Alleingehn,\nmit Dauerndem vergnügt und standen da\nim Zwischenraume zwischen Welt und Spielzeug,\nan einer Stelle, die seit Anbeginn\ngegründet war für einen reinen Vorgang.",
+      "provisionalTranslation": "天使と人形：そこでついに演劇が成立する。\nそのとき、われわれが存在することで絶えず\n引き裂いているものが合わさる。そのとき\nわれわれの四季からようやく全体の移ろいの\n円環が生まれる。われわれを越えて\n天使はそのとき演ずる。見よ、死にゆく者たちよ、\nわれわれがここで成し遂げることの全てが\n口実に満ちているとどれほど感じているはずか。全ては\nそれ自体ではない。おお子供時代の時間よ、\nそこでは形象の背後に単なる\n過去以上のものがあり、われわれの前には未来がなかった。\nわれわれはもちろん育ち、時には急いだ、\n早く大人になろうと、半分は彼らのために、\n大人であること以外何も持たなかった者たちの。\nそれでもやはり、われわれの独り歩きの中で、\n持続するものとともに楽しみ、そこに立っていた\n世界と玩具の間の空間に、\n太初から\n純粋な出来事のために据えられていた場所に。"
+    },
+    {
+      "id": 6,
+      "verses": "v.76–85",
+      "original": "Wer zeigt ein Kind, so wie es steht? Wer stellt\nes ins Gestirn und giebt das Maß des Abstands\nihm in die Hand? Wer macht den Kindertod\naus grauem Brot, das hart wird, — oder läßt\nihn drin im runden Mund, so wie den Gröps\nvon einem schönen Apfel? ...... Mörder sind\nleicht einzusehen. Aber dies: den Tod,\nden ganzen Tod, noch vor dem Leben so\nsanft zu enthalten und nicht bös zu sein,\nist unbeschreiblich.",
+      "provisionalTranslation": "誰が子供を、そのままの姿で示すか？誰が\nそれを星座の中に置き、距離の尺度を\nその手に与えるか？誰が子供の死を\n硬くなる灰色のパンから作るか──あるいは\nそれを丸い口の中に残すか、美しいリンゴの\n芯のように？……殺人者は\n理解しやすい。しかしこれ──死を、\n死全体を、生の前にこれほど\n柔らかく含んで、悪意がないことは、\n言葉では言えない。"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "Wir sind nicht einig. Sind nicht wie die Zugvögel verständigt.",
+      "body": "「われわれは一致していない。渡り鳥のように了解されてはいない」──第4悲歌の中心的対立の宣言。渡り鳥は本能によって「了解（verständigt）」されており、季節と自らの飛行の間に分裂がない。人間は意識によってその了解を失っており、常に「一つのことを意図するところで他のものの消耗が感じられる」。第1悲歌の「われわれが美を感じるや、それはわれわれを破壊しようとする（denn das Schöne ist nichts / als des Schrecklichen Anfang）」という命題の人間論的展開。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "glossary",
+      "anchor": "Und irgendwo gehn Löwen noch und wissen,\nsolang sie herrlich sind, von keiner Ohnmacht.",
+      "body": "「どこかでライオンたちはまだ歩き、威厳のある間は無力というものを知らない」──動物の存在様式の理想化。第8悲歌（「Das Offene」）で本格的に展開される「動物の開かれた存在」の先取り。動物は自らの有限性を意識せず、その瞬間の充足の中に完全に存在する。リルケにとって動物は「開かれた（das Offene）」存在──人間のように意識によって世界と分離されていない。ここではライオンという王者的動物が選ばれることで、威厳と無力の不可分性（人間の場合）と可分性（動物の場合）が対比される。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "Wir kennen den Kontur\ndes Fühlens nicht: nur, was ihn formt von außen.",
+      "body": "「われわれは感情の輪郭を知らない：ただそれを外側から形作るものだけを」──第4悲歌の認識論的核心命題。人間の内的感情は外側から見える輪郭によってしか把握されない──内側からの直接的自己認識は不可能。これはカントの「物自体（Ding an sich）」の議論を感情論に適用した形式として読める；しかしリルケの関心はカント的認識論でなく、自己と感情の間の「分裂（Entzweiung）」の苦しみにある。「愛する者たちは縁に立つ（an Ränder treten）」という前行の比喩が示すように、人間はいつも自らの感情の「縁」にしかいられない。"
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "Wer saß nicht bang vor seines Herzens Vorhang?\nDer schlug sich auf: die Szenerie war Abschied.",
+      "body": "「誰が自らの心の幕前に怯えて座っていなかったか？それが開いた：場面は別れだった」──心を劇場として捉える比喩（心の劇場）が展開される。「幕（Vorhang）」が開くと現れるのは常に「別れ（Abschied）」の場面──第4悲歌において「別れ」は人間存在の基本的条件として機能する。第1悲歌「美はただ恐ろしいものの始まり（des Schrecklichen Anfang）」との連続で、期待と裏切りの構造が劇場的形式で提示される。"
+    },
+    {
+      "paragraphId": 3,
+      "type": "glossary",
+      "anchor": "Ich will nicht diese halbgefüllten Masken,\nlieber die Puppe. Die ist voll.",
+      "body": "「私はこの半分だけ満たされた仮面はいらない、むしろ人形の方がいい。人形は完全だ」──第4悲歌の中心的宣言。「半分だけ満たされた仮面（halbgefüllten Masken）」は生きた人間の俳優──意識と演技の間で引き裂かれ、完全には役割に没入できない。「人形（Puppe）」は意識を持たず、したがって「完全（voll）」である。ハインリヒ・フォン・クライストの論文「マリオネット劇場について（Über das Marionettentheater, 1810）」との思想的連続：クライストは「意識を持たぬマリオネットの優雅さ」が人間の自意識的な優雅さを超えると論じた。リルケはこの逆説をさらに急進化する──人形は「完全」であり、天使もまた「完全」である。人間だけが「半分」にすぎない。"
+    },
+    {
+      "paragraphId": 4,
+      "type": "commentary",
+      "anchor": "Ich bleibe dennoch. Es giebt immer Zuschaun.",
+      "body": "「それでも私はとどまる。見ることは常にある（Es giebt immer Zuschaun）」──第4悲歌の倫理的宣言。灯りが消え、共に座る者がなくなっても「見ること（Zuschaun）」という行為だけは残る。「見る」ことの絶対性──詩作という行為の自己正当化として読める。ただし「見ること」はここでは受動的な観客性でなく、完全な集中の行為として提示される（v.54「so völlig hinzuschaun」）。"
+    },
+    {
+      "paragraphId": 4,
+      "type": "commentary",
+      "anchor": "Du, der um mich so bitter\ndas Leben schmeckte, meines kostend, Vater",
+      "body": "「お前、私のことをこれほど苦く味わった者よ、私のものを味わいながら、父よ」──亡父への呼びかけ。リルケの父ヨーゼフ・リルケ（1906年没）への直接の参照。父が息子の人生を「味わう（kosten）」という感覚的比喩──父は息子の義務・未来・まなざしを自ら経験するかのように。「死者」として今も「内側で不安を持ち（in meiner Hoffnung, innen in mir, Angst hast）」ながら「平静（Gleichmut）」を放棄する父の姿が、生者と死者の連続性というリルケの死生観を体現する。"
+    },
+    {
+      "paragraphId": 4,
+      "type": "glossary",
+      "anchor": "so völlig hinzuschaun, daß, um mein Schauen\nam Ende aufzuwiegen, dort als Spieler\nein Engel hinmuß, der die Bälge hochreißt.",
+      "body": "「これほど完全に見つめたい、私の見ることを最後に釣り合わせるために、そこに演者として天使が行かねばならず、天使が外皮を高く引き上げる」──人形劇の天使という第4悲歌の核心的形象。人間の「見ること」の重さに対応するためには、天使が人形劇の演者（Spieler）となって人形を操らねばならない。「外皮を高く引き上げる（die Bälge hochreißt）」という暴力的な動作──天使の介入は優雅でなく、強力で超越的な行為として描かれる。v.57「天使と人形：ついに演劇が」という解決へのつなぎ。"
+    },
+    {
+      "paragraphId": 5,
+      "type": "commentary",
+      "anchor": "Engel und Puppe: dann ist endlich Schauspiel.\nDann kommt zusammen, was wir immerfort\nentzwein, indem wir da sind.",
+      "body": "「天使と人形：そこでついに演劇が成立する。そのとき、われわれが存在することで絶えず引き裂いているものが合わさる」──第4悲歌の解決的命題。「引き裂くこと（Entzweiung）」は意識を持つ人間が存在するだけで引き起こす分裂──第3悲歌の「血の神」と個人の意識の分裂が、ここでは「天使と人形」という二極の合一によって超克される。しかしこの合一は人間には不可能であり、天使が介入して初めて成立する──リルケの悲歌において解決は常に人間を「越えて（über uns hinüber）」起きる。"
+    },
+    {
+      "paragraphId": 5,
+      "type": "commentary",
+      "anchor": "O Stunden in der Kindheit,\nda hinter den Figuren mehr als nur\nVergangnes war und vor uns nicht die Zukunft.",
+      "body": "「おお子供時代の時間よ、そこでは形象の背後に単なる過去以上のものがあり、われわれの前には未来がなかった」──子供時代の時間性の特殊性。子供は過去を持たず未来も意識しない──現在の形象（Figuren）だけが充満した存在の様式を生きている。これは第3悲歌の「娘が先史時代を呼び起こす」という回顧的深層とは逆方向──子供は「形象の背後」に開かれているが、それは記憶でなく純粋な現在的奥行きとして。「世界と玩具の間の空間（Zwischenraum zwischen Welt und Spielzeug）」は子供が唯一占有できる「純粋な出来事のための場所（reinen Vorgang）」。"
+    },
+    {
+      "paragraphId": 6,
+      "type": "commentary",
+      "anchor": "Wer zeigt ein Kind, so wie es steht? Wer stellt\nes ins Gestirn und giebt das Maß des Abstands\nihm in die Hand?",
+      "body": "「誰が子供を、そのままの姿で示すか？誰がそれを星座の中に置き、距離の尺度をその手に与えるか？」──子供という存在の不可把握性への問い。「星座の中に置く（ins Gestirn stellen）」──第9悲歌の「見えないものを内的に変容させて星座を形成する」という詩人の使命と連動する。子供を「そのまま（so wie es steht）」示すことができる存在は、詩人でも親でも神でもない──これは答えのない問いとして宙吊りにされる。"
+    },
+    {
+      "paragraphId": 6,
+      "type": "prosody",
+      "anchor": "Mörder sind\nleicht einzusehen. Aber dies: den Tod,\nden ganzen Tod, noch vor dem Leben so\nsanft zu enthalten und nicht bös zu sein,\nist unbeschreiblich.",
+      "body": "第4悲歌の最終5行──「殺人者は理解しやすい。しかしこれ──言葉では言えない」。「殺人者（Mörder）」という唐突な語の導入が詩的衝撃を生む。殺人者は「理解しやすい（leicht einzusehen）」──なぜなら殺人は死を外部から能動的に加える行為であり、原因と結果の論理に従う。しかし「死全体を、生の前に柔らかく含む（den ganzen Tod, noch vor dem Leben so / sanft zu enthalten）」──子供が死を生まれながらに無意識に内包している状態──これは「言葉では言えない（unbeschreiblich）」。詩の結末が「言葉では言えない」という言語の限界宣言で終わることは、悲歌形式（エレジー）の伝統的な追悼不可能性のテーマを最も急進的な形式で体現する。"
+    },
+    {
+      "paragraphId": 6,
+      "type": "intertextual",
+      "anchor": null,
+      "body": "「子供の死を美しいリンゴの芯のように柔らかく含む」という形象は、ハインリヒ・フォン・クライスト「マリオネット劇場について（Über das Marionettentheater, 1810）」における「無垢の子供（無意識の優雅さ）」の議論と深く共鳴する。クライストは「鏡の前で足を高く上げた少年が一瞬優雅に見え、しかしその後意識することで優雅さが失われた」という逸話を通じて、「無意識＝完全」「意識＝分裂」という命題を立てた。リルケの「人形（Puppe）」はクライストの「マリオネット」に対応し、第4悲歌はクライストの散文的逆説を悲歌の詩的形式で反復する。",
+      "targetId": null,
+      "targetParagraphId": null
+    }
+  ]
+}
