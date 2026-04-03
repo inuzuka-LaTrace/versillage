@@ -26,6 +26,7 @@ import georgeData from './data/george';
 import hofmannsthalData from './data/hofmannsthal';
 import traklData from './data/trakl';
 import hoelderlinData from './data/hoelderlin';
+import rilkeData from './data/rilke';
 import danteData from './data/dante';
 import dannunzioData from './data/dannunzio';
 import pascoliData from './data/pascoli';
@@ -247,6 +248,7 @@ export default function App() {
 　　　　...hofmannsthalData,
       ...traklData,
       ...hoelderlinData,
+      ...rilkeData,
     };
     setTexts(allTexts);
   const timer = setTimeout(() => {
@@ -1026,6 +1028,7 @@ export default function App() {
     if (cat?.startsWith('hofmannsthal')) return darkMode ? 'bg-yellow-900/40 text-yellow-400' : 'bg-yellow-200 text-yellow-900';
     if (cat?.startsWith('trakl'))        return darkMode ? 'bg-blue-900/40 text-blue-400' : 'bg-blue-200 text-blue-900';
     if (cat?.startsWith('hoelderlin'))   return darkMode ? 'bg-indigo-900/40 text-indigo-300' : 'bg-indigo-100 text-indigo-800';
+    if (cat?.startsWith('rilke')) return darkMode ? 'bg-amber-900/40 text-amber-300' : 'bg-amber-100 text-amber-800';
     return darkMode ? 'bg-zinc-800 text-zinc-300' : 'bg-stone-100 text-stone-700';
   };
 
