@@ -1,0 +1,123 @@
+{
+  "id": "rilke_duineser_elegien_06",
+  "title": "Duineser Elegien — Die sechste Elegie",
+  "author": "Rainer Maria Rilke",
+  "source": "Duineser Elegien, Insel-Verlag, Leipzig, 1923（初版）. 底本: Rainer Maria Rilke: Werke. Kommentierte Ausgabe in vier Bänden, Bd. 2, Insel Verlag, Frankfurt am Main, 1996. PDFテキスト照合: アップロードPDF（Kalliope）; Wikisource DE; Project Gutenberg DE",
+  "year": "1912–1922",
+  "firstPublication": "草稿第一稿：1912年1月、ドゥイーノ城。大幅改稿・完成：1922年2月、ミューゾット城。初出版：Insel-Verlag, Leipzig, 1923年2月",
+  "difficulty": "上級",
+  "category": "rilke",
+  "originalLang": "de-DE",
+  "modernRelevance": "★★★★★",
+  "context": "第6悲歌は悲歌集の中で最も短い詩の一つ（44行）であり、同時に最も密度の高い詩として知られる。草稿はドゥイーノ滞在中の1912年に書かれ、1922年のミューゾット城での集中的完成期に大幅に改稿された。\n\n構造：三部から成る。第一部（v.1–10）：イチジクの木の比喩──イチジクは「花をほぼ完全に飛ばして（beinah ganz überschlägst）」直接果実へと向かう。これは「開花を讃えられることなく（ungerühmt）」密かな熟成を果たす存在様式として提示される。人間はこの逆──開花を誇りながら「裏切られて（verraten）」遅延した果実へと向かう。第二部（v.11–27）：英雄の様式──「行動の衝動（Andrang des Handelns）」が強く、開花の誘惑に動じない「少数の者（Wenige）」たち。英雄は「自らの微笑みに先んじる（dem eigenen Lächeln / sind sie voran）」存在──行為が自意識に先行する。カルナック（古代エジプト）の凱旋浮彫の馬車のように疾走する。英雄は「若くして死んだ者たちと奇妙なほど近い（Wunderlich nah ist der Held doch den jugendlich Toten）」──持続（Dauern）は彼を悩ませない。「彼の出発が存在である（Sein Aufgang ist Dasein）」。第三部（v.28–44）：英雄の母とサムソン──リルケ自身の「少年時代の読書」への回想。旧約聖書のサムソンが母の胎内ですでに「選択（Auswahl）」していた英雄として召喚される。「英雄はお前の中ですでに英雄だったのか、母よ（War er nicht Held schon in dir, o Mutter）」──英雄性は出生以前に起源を持つ。英雄の母は「轟く流れの源（Ursprung / reißender Ströme）」として讃えられ、娘たちが犠牲として飛び込む峡谷として形象化される。\n\n詩的核心：第6悲歌の中心的対立は「開花（Blühn）」対「果実（Frucht）」──開花は可視的・社会的な承認を求める段階であり、果実は不可視的・内的な充実の段階。「ungerühmt（讃えられることなく）」という語が詩的倫理の核心を担う：真の成熟は讃えを必要としない。ハイデガーが『存在と時間』で論じた「先駆的決意性（vorlaufende Entschlossenheit）」──死へと向かいながら自己の最も固有の可能性へと決意する──が英雄の様式と共鳴する。ブランショ『文学の空間』が論じるリルケの「死の空間」──英雄が「暗くわれわれに黙して（uns finster verschweigt）」いる「運命」によって「嵐の中に歌われ込む（singt ihn hinein in den Sturm）」という受動的=能動的な死との関係──が第6悲歌の英雄論の背景をなす。",
+  "keywords": [
+    "イチジクの木（Feigenbaum）",
+    "開花と果実（Blühn/Frucht）",
+    "ungerühmt（讃えられることなく）",
+    "英雄（Held）",
+    "行動の衝動（Andrang des Handelns）",
+    "Sein Aufgang ist Dasein",
+    "カルナック（Karnak）",
+    "サムソン（Simson）",
+    "英雄の母",
+    "先駆的決意性（ハイデガー）",
+    "死の空間（ブランショ）",
+    "第6悲歌"
+  ],
+  "relatedTexts": [
+    "rilke_duineser_elegien_01",
+    "rilke_duineser_elegien_02",
+    "rilke_duineser_elegien_05",
+    "trakl_helian",
+    "trakl_grodek",
+    "hoelderlin_brot_und_wein"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "verses": "v.1–10",
+      "original": "Feigenbaum, seit wie lange schon ists mir bedeutend,\nwie du die Blüte beinah ganz überschlägst\nund hinein in die zeitig entschlossene Frucht,\nungerühmt, drängst dein reines Geheimnis.\nWie der Fontäne Rohr treibt dein gebognes Gezweig\nabwärts den Saft und hinan: und er springt aus dem Schlaf,\nfast nicht erwachend, ins Glück seiner süßesten Leistung.\nSieh: wie der Gott in den Schwan .... Wir aber verweilen,\nach, uns rühmt es zu blühn, und ins verspätete Innre\nunserer endlichen Frucht gehn wir verraten hinein.",
+      "provisionalTranslation": "イチジクの木よ、それはもう長い間私にとって意味深い、\nお前がいかに花をほぼ完全に飛ばして\n時宜を得て決断された果実の中へ、\n讃えられることなく、お前の純粋な秘密を押し込んでいくかが。\n噴水の管のようにお前の曲がった枝は\n下へ向けて樹液を押し、上へと：そして樹液は眠りから跳び出す、\nほとんど目覚めずに、最も甘い達成の幸福へと。\n見よ：白鳥の中の神のように……しかしわれわれはとどまる、\nああ、開花することがわれわれの誇りとなり、裏切られて遅延した\nわれわれの有限の果実の内側へとわれわれは入っていく。"
+    },
+    {
+      "id": 2,
+      "verses": "v.11–19",
+      "original": "Wenigen steigt so stark der Andrang des Handelns,\ndaß sie schon anstehn und glühn in der Fülle des Herzens,\nwenn die Verführung zum Blühn wie gelinderte Nachtluft\nihnen die Jugend des Munds, ihnen die Lider berührt:\nHelden vielleicht und den frühe Hinüberbestimmten,\ndenen der gärtnernde Tod anders die Adern verbiegt.\nDiese stürzen dahin: dem eigenen Lächeln\nsind sie voran, wie das Rossegespann in den milden\nmuldigen Bildern von Karnak dem siegenden König.",
+      "provisionalTranslation": "少数の者にのみ、行動の衝動がこれほど強く湧き上がる、\n彼らがすでに昂り、心の充満の中で輝いている、\n開花への誘惑が和らいだ夜気のように\n彼らの口元の若さを、彼らの瞼を触れるときでさえ：\nおそらく英雄たちと、早く向こうへと定められた者たちが、\n彼らのために死という庭師が別の仕方で血管を曲げる。\n彼らはどっと突き進む：自らの微笑みより彼らは前にいる、\nカルナックの穏やかなくぼんだ浮彫の中で\n勝利する王に先んじる馬車のように。"
+    },
+    {
+      "id": 3,
+      "verses": "v.20–27",
+      "original": "Wunderlich nah ist der Held doch den jugendlich Toten. Dauern\nficht ihn nicht an. Sein Aufgang ist Dasein; beständig\nnimmt er sich fort und tritt ins veränderte Sternbild\nseiner steten Gefahr. Dort fänden ihn wenige. Aber,\ndas uns finster verschweigt, das plötzlich begeisterte Schicksal\nsingt ihn hinein in den Sturm seiner aufrauschenden Welt.\nHör ich doch keinen wie ihn. Auf einmal durchgeht mich\nmit der strömenden Luft sein verdunkelter Ton.",
+      "provisionalTranslation": "英雄は若くして死んだ者たちと奇妙なほど近い。持続が\n彼を悩ませることはない。彼の出発が存在である；絶えず\n彼は自らを前へ進め、その不断の危険の\n変わり続ける星座の中へと踏み込む。そこで彼を見出す者は少ない。しかし、\nわれわれに対して暗く黙する、突然熱狂した運命が\n彼を彼の轟く世界の嵐の中へと歌い込む。\nそれでも彼のような者の声を私は誰にも聞かない。突然に流れる空気とともに\n彼の暗くなった音調が私を通り過ぎる。"
+    },
+    {
+      "id": 4,
+      "verses": "v.28–44",
+      "original": "Dann, wie verbärg ich mich gern vor der Sehnsucht: O wär ich,\nwär ich ein Knabe und dürft es noch werden und säße\nin die künftigen Arme gestützt und läse von Simson,\nwie seine Mutter erst nichts und dann alles gebar.\nWar er nicht Held schon in dir, o Mutter, begann nicht\ndort schon, in dir, seine herrische Auswahl?\nTausende brauten im Schooß und wollten er sein,\naber sieh: er ergriff und ließ aus —, wählte und konnte.\nUnd wenn er Säulen zerstieß, so wars, da er ausbrach\naus der Welt deines Leibs in die engere Welt, wo er weiter\nwählte und konnte. O Mütter der Helden, o Ursprung\nreißender Ströme! Ihr Schluchten, in die sich\nhoch von dem Herzrand, klagend,\nschon die Mädchen gestürzt, künftig die Opfer dem Sohn.\nDenn hinstürmte der Held durch Aufenthalte der Liebe,\njeder hob ihn hinaus, jeder ihn meinende Herzschlag,\nabgewendet schon, stand er am Ende der Lächeln, — anders.",
+      "provisionalTranslation": "そのとき、私はいかにこの憧れから身を隠したいことか：ああ私が、\n私が少年であれば、まだなることが許されて、\n未来の腕にもたれて座り、サムソンについて読めれば、\n彼の母がいかにまず何も、そして全てを産んだかを。\n彼はお前の中ですでに英雄ではなかったか、母よ、始まらなかったか\nそこで既に、お前の中で、彼の支配的な選択が？\n何千ものものが胎の中で醸され、彼になろうとした、\nしかし見よ：彼は捉え、後者を手放した──、選び、そしてできた。\nそして彼が柱を壊した時、それはお前の体の世界から\nより狭い世界へと彼が突破した時のことだった、そこでさらに\n彼は選び、そしてできた。おお英雄の母たちよ、おお轟く\n流れの源よ！お前たち峡谷よ、その中へ\n心の縁から高く、嘆きながら、\nすでに娘たちが飛び込んだ、やがては息子への供犠として。\nなぜなら英雄は愛の逗留を疾走した、\nすべてが彼を外へと持ち上げた、彼を思うすべての鼓動が、\nすでに背を向けながら、微笑みの終わりに彼は立っていた──別の者として。"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "glossary",
+      "anchor": "wie du die Blüte beinah ganz überschlägst\nund hinein in die zeitig entschlossene Frucht,\nungerühmt, drängst dein reines Geheimnis.",
+      "body": "「いかに花をほぼ完全に飛ばして、時宜を得て決断された果実の中へ、讃えられることなく、お前の純粋な秘密を押し込んでいくかが」──イチジクは植物学的にほぼ花を持たないか、果実の内側に花を持つ（隠頭花序）。この植物学的事実がリルケの詩的形象の基盤となる。「ungerühmt（讃えられることなく）」は第6悲歌の倫理的核心語──承認・賞賛・可視性を必要とせずに達成が行われること。詩作における「不可視の成熟」の理想形として機能する。「zeitig entschlossene Frucht（時宜を得て決断された果実）」──「entschlossen（決断された）」はハイデガー的な「決意性（Entschlossenheit）」と同根の語であり、果実が自らの存在様式を決断的に引き受けていることを示す。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "Sieh: wie der Gott in den Schwan .... Wir aber verweilen,\nach, uns rühmt es zu blühn",
+      "body": "「見よ：白鳥の中の神のように……しかしわれわれはとどまる、ああ、開花することがわれわれの誇りとなり」──ゼウスの白鳥変身（レダ神話）への参照。神は変身によって直接目的（レダとの合一）へ突進する──開花の段階を経ない。「Wir aber（しかしわれわれ）」という逆接が人間の条件を神・イチジク・英雄と分離する。「verweilen（とどまる）」──第4悲歌の「verweilen（滞在する・遅延する）」の反響：人間は常に段階に「とどまり」すぎる。「verraten（裏切られて）」──開花を誇ることは果実への到達を「裏切る」行為として提示される。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "Diese stürzen dahin: dem eigenen Lächeln\nsind sie voran",
+      "body": "「彼らはどっと突き進む：自らの微笑みより彼らは前にいる」──英雄の時間性の核心的描写。「自らの微笑みに先んじる（dem eigenen Lächeln sind sie voran）」──英雄の行為は自己意識に先行する。微笑みは感情の認識・自己への反省の象徴であり、英雄はその反省が生まれる前にすでに行動を終えている。これはハイデガー「現存在の被投性（Geworfenheit）」の逆説的形式──被投された存在として投企（Entwurf）が先行する──と共鳴する。英雄においては、自意識の遅延なく投企が即座に実現する。第4悲歌の「踊り手は仮装した市民」という批判の対極──英雄は「仮面」なしに行為そのものである。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "glossary",
+      "anchor": "wie das Rossegespann in den milden\nmuldigen Bildern von Karnak dem siegenden König.",
+      "body": "「カルナックの穏やかなくぼんだ浮彫の中で勝利する王に先んじる馬車のように」──カルナック（Karnak）は古代エジプト、ルクソール近郊の神殿複合体。ラムセス二世の戦闘場面を描いた浮彫が有名。馬車（Rossegespann）が王よりも前を突進する──行為が意思決定の主体よりも前を走るという英雄の時間構造の視覚的表現。リルケがエジプトの記念碑的形象を引用することは、英雄の存在様式が歴史的・文明的に普遍的であることを示す。「muldigen Bildern（くぼんだ浮彫）」──浮彫は表面から浮き出した（あるいは削り込まれた）形象であり、「存在と非存在の境界」という悲歌的主題の視覚的形象でもある。"
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "Dauern\nficht ihn nicht an. Sein Aufgang ist Dasein; beständig\nnimmt er sich fort und tritt ins veränderte Sternbild\nseiner steten Gefahr.",
+      "body": "「持続が彼を悩ませることはない。彼の出発が存在である；絶えず彼は自らを前へ進め、その不断の危険の変わり続ける星座の中へと踏み込む」──第6悲歌の哲学的中心命題。「Sein Aufgang ist Dasein（彼の出発が存在である）」はハイデガーの「Dasein（現存在）」という概念との共鳴が批評史上繰り返し論じられてきた。ハイデガーにおける現存在は「そこに（da）あること（sein）」──投げ込まれた具体的な存在。リルケの英雄における「Aufgang（出発・上昇）」は、この「da」を絶えず更新する運動として理解できる。ハイデガー『存在と時間』（1927）の「先駆的決意性（vorlaufende Entschlossenheit）」──死を自己の最も固有の可能性として引き受けながら現在の行為へと決意すること──が英雄の「Dauern（持続）を悩みとしない」態度に先取りされている。「変わり続ける星座（veränderte Sternbild）」──第8悲歌のOrion・第5悲歌の絨毯と連続する「宇宙的な危機の空間」として英雄が移動する。"
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "das uns finster verschweigt, das plötzlich begeisterte Schicksal\nsingt ihn hinein in den Sturm seiner aufrauschenden Welt.",
+      "body": "「われわれに対して暗く黙する、突然熱狂した運命が、彼を彼の轟く世界の嵐の中へと歌い込む」──ブランショ『文学の空間（L'Espace littéraire, 1955）』のリルケ論と最も深く共鳴する箇所。ブランショはリルケにおける「死の空間」を論じ、死が「外部（dehors）」からではなく、詩的空間の内側から到来することを指摘する。「uns finster verschweigt（われわれに対して暗く黙する）」──運命は人間には黙したまま、英雄に対してのみ「歌い込む（singt hinein）」。ブランショが論じる「中性的なもの（le neutre）」──主体・客体の区別を溶解する空間──が「歌い込む」という受動的＝能動的な動詞構造に体現される。詩人は英雄の「暗くなった音調（verdunkelter Ton）」を「突然に流れる空気とともに」感受する──死者の声が気流として伝わるというリルケの霊感の形象。"
+    },
+    {
+      "paragraphId": 4,
+      "type": "commentary",
+      "anchor": "War er nicht Held schon in dir, o Mutter, begann nicht\ndort schon, in dir, seine herrische Auswahl?\nTausende brauten im Schooß und wollten er sein,\naber sieh: er ergriff und ließ aus —, wählte und konnte.",
+      "body": "「彼はお前の中ですでに英雄ではなかったか、母よ、始まらなかったかそこで既に、お前の中で、彼の支配的な選択が？何千ものものが胎の中で醸され、彼になろうとした、しかし見よ：彼は捉え、後者を手放した──、選び、そしてできた」──英雄の選択の起源の問い。旧約聖書「士師記」13–16章のサムソンが召喚される。「herrische Auswahl（支配的な選択）」──英雄性は母の胎内での生命の選択過程に既に在る。「Tausende brauten（何千もが醸された）」──第3悲歌の「数え切れない醸造（zahllos Brauende）」の英雄論的反響：先祖・可能性の多数が「醸され」た後に英雄として一者が出現する。「wählte und konnte（選び、そしてできた）」の対句──意志と能力の同時性が英雄の資質として定義される。ハイデガーの「本来性（Eigentlichkeit）」との共鳴：最も固有の（eigenst）可能性を選ぶ決意。"
+    },
+    {
+      "paragraphId": 4,
+      "type": "prosody",
+      "anchor": "Und wenn er Säulen zerstieß, so wars, da er ausbrach\naus der Welt deines Leibs in die engere Welt, wo er weiter\nwählte und konnte.",
+      "body": "「そして彼が柱を壊した時、それはお前の体の世界からより狭い世界へと彼が突破した時のことだった」──サムソンのダゴン神殿破壊（士師記16:29–30）が英雄の出生の反復として解釈される。「der Welt deines Leibs（お前の体の世界）」から「engere Welt（より狭い世界）」へ──母の胎という最初の世界から出生という突破が、柱の破壊という英雄的行為として繰り返される。ハイデガー「世界内存在（In-der-Welt-sein）」の複数的次元との共鳴：サムソンは複数の世界（胎内→現世→神殿内→死）を連続的に突破する存在として読める。「wo er weiter wählte（そこでさらに彼は選んだ）」──選択が反復されること、英雄の選択に終わりがないことが示される。"
+    },
+    {
+      "paragraphId": 4,
+      "type": "commentary",
+      "anchor": "O Mütter der Helden, o Ursprung\nreißender Ströme! Ihr Schluchten, in die sich\nhoch von dem Herzrand, klagend,\nschon die Mädchen gestürzt, künftig die Opfer dem Sohn.",
+      "body": "「おお英雄の母たちよ、おお轟く流れの源よ！お前たち峡谷よ、その中へ心の縁から高く、嘆きながら、すでに娘たちが飛び込んだ、やがては息子への供犠として」──英雄の母という女性的原理の神話化。「Ursprung reißender Ströme（轟く流れの源）」──第3悲歌の「血の神（Fluß-Gott des Bluts）」の母的形象への変容。英雄を産む母は単なる個人でなく、激流の源泉・峡谷という地形的・神話的スケールで形象化される。「Herzrand（心の縁）」から飛び込む娘たち──英雄が引き寄せる犠牲の予告。第5悲歌「均衡の市場果実」として公衆の前に置かれた女性の形象とは対照的に、ここでは女性が英雄的運命の「犠牲（Opfer）」として積極的な役割を担う。"
+    },
+    {
+      "paragraphId": 4,
+      "type": "glossary",
+      "anchor": "hinstürmte der Held durch Aufenthalte der Liebe,\njeder hob ihn hinaus, jeder ihn meinende Herzschlag,\nabgewendet schon, stand er am Ende der Lächeln, — anders.",
+      "body": "「英雄は愛の逗留を疾走した、すべてが彼を外へと持ち上げた、彼を思うすべての鼓動が、すでに背を向けながら、微笑みの終わりに彼は立っていた──別の者として」──第6悲歌の最終行。「Aufenthalte der Liebe（愛の逗留）」──「Aufenthalt（逗留・滞在）」は第4悲歌の「verweilen（とどまる）」と同根の概念。愛は英雄にとって「逗留」にすぎず、彼はそれを疾走する。「abgewendet（背を向けながら）」──英雄は愛する者に完全には向き合わない。「anders（別の者として）」という最終語が、英雄が愛の経験によって変容するのでなく、愛を超えて「別の者」として出現することを示す。ブランショ『来たるべき書物（Le Livre à venir）』が論じる「書くことの孤独」──書き手が作品へと向かう時に「別の者（quelqu'un d'autre）」になるという変容──がリルケの英雄論と深く共鳴する。"
+    }
+  ]
+}
