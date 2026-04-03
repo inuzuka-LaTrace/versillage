@@ -84,6 +84,36 @@ const textSizeClass = (text) => {
   return 'text-sm leading-loose';
 };
 
+/ テキスト内の特定の単語を「空所」に置き換える
+const renderClozeText = (text, isFlipped, darkMode) => {
+  if (!text) return null;
+
+  // 例: 6文字以上の単語を抽出（言語に合わせて調整）
+  // 詩のデータ構造に合わせ、正規表現で単語を分割
+  const tokens = text.split(/(\s+)/); 
+
+  return tokens.map((token, i) => {
+    // 記号を除いた長さが5文字以上、かつ一定確率で隠す（あるいは全て隠す）
+    const isTarget = token.trim().length >= 5; 
+
+    if (isTarget) {
+      return (
+        <span
+          key={i}
+          className={`mx-1 px-2 rounded transition-all duration-300 ${
+            isFlipped 
+              ? (darkMode ? 'bg-amber-900/30 text-amber-200' : 'bg-amber-100 text-amber-800')
+              : (darkMode ? 'bg-zinc-800 text-transparent select-none' : 'bg-stone-200 text-transparent select-none')
+          } border-b ${darkMode ? 'border-zinc-600' : 'border-stone-300'}`}
+        >
+          {token}
+        </span>
+      );
+    }
+    return <span key={i}>{token}</span>;
+  });
+};
+
 // ════════════════════════════════════════════════════════════
 // メインコンポーネント
 // ════════════════════════════════════════════════════════════
@@ -168,7 +198,7 @@ export default function FlashcardApp() {
             <GraduationCap size={20} className={textSub} strokeWidth={1.5} />
             <h1 className={`text-2xl font-serif ${textMain}`}>フラッシュカード</h1>
           </div>
-          <p className={`text-xs font-sans ${textSub}`}>VANITISME — 近代西洋詩・批評 対訳学習</p>
+          <p className={`text-xs font-sans ${textSub}`}>VANITISME — 近代西洋詩篇・批評 対訳学習</p>
         </div>
 
         {/* ソース選択 */}
@@ -225,10 +255,10 @@ export default function FlashcardApp() {
           )}
         </div>
 
-        {/* 表裏モード */}
+        {/* 学習モード */}
         <div className={`rounded-2xl border p-5 space-y-3 ${cardBg}`}>
           <label className={`text-xs font-semibold uppercase tracking-widest font-sans ${textSub} block`}>
-            表裏モード
+            モード選択
           </label>
           <div className={`flex rounded-xl overflow-hidden border ${border}`}>
             <ModeTab value="orig2trans" label="原文 → 訳" />
@@ -236,6 +266,9 @@ export default function FlashcardApp() {
             <ModeTab value="trans2orig" label="訳 → 原文" />
             <div className={`w-px ${darkMode ? 'bg-zinc-700' : 'bg-stone-200'}`} />
             <ModeTab value="head2full"  label="冒頭 → 全文" />
+            {/* ── ここに書き足します ── */}
+            <div className={`w-px ${darkMode ? 'bg-zinc-700' : 'bg-stone-200'}`} />
+            <ModeTab value="cloze"      label="空所補充" />
           </div>
         </div>
 
@@ -350,23 +383,45 @@ export default function FlashcardApp() {
           >
             {/* 表面 */}
             <div
-              className={`absolute inset-0 rounded-2xl border p-8 flex flex-col ${
-                darkMode ? 'bg-zinc-900 border-zinc-700' : 'bg-white border-stone-200'
-              }`}
-              style={{ backfaceVisibility: 'hidden' }}
-            >
-              <span className={`text-xs font-sans uppercase tracking-widest ${textSub} shrink-0`}>
-                {frontLabel}
-              </span>
-              <div className="flex-1 flex items-center justify-center overflow-y-auto py-4">
-                <p className={`font-serif whitespace-pre-line text-center ${textMain} ${textSizeClass(frontText)}`}>
-                  {frontText}
-                </p>
-              </div>
-              <p className={`text-xs font-sans text-center ${textSub} opacity-40 shrink-0`}>
-                タップ / Space で裏を見る
-              </p>
-            </div>
+  className={`absolute inset-0 rounded-2xl border p-8 flex flex-col ${
+    darkMode ? 'bg-zinc-900 border-zinc-700' : 'bg-white border-stone-200'
+  }`}
+  style={{ backfaceVisibility: 'hidden' }}
+>
+  <span className={`text-xs font-sans uppercase tracking-widest ${textSub} shrink-0`}>
+    {frontLabel}
+  </span>
+  <div className="flex-1 flex items-center justify-center overflow-y-auto py-4">
+    <p className={`font-serif whitespace-pre-line text-center ${textMain} ${textSizeClass(frontText)}`}>
+      {/* ── 修正ポイント: 空所補充モードの条件分岐 ── */}
+      {fc.mode === 'cloze' 
+        ? frontText.split(/(\s+)/).map((token, i) => {
+            // 5文字以上の単語を隠蔽対象とする（記号を除いた判定）
+            const isTarget = token.trim().length >= 5; 
+            if (isTarget) {
+              return (
+                <span
+                  key={i}
+                  className={`mx-0.5 px-1 rounded transition-all duration-500 ${
+                    fc.flipped 
+                      ? (darkMode ? 'bg-amber-900/30 text-amber-200' : 'bg-amber-100 text-amber-800')
+                      : (darkMode ? 'bg-zinc-800 text-transparent select-none' : 'bg-stone-200 text-transparent select-none')
+                  } border-b ${darkMode ? 'border-zinc-600' : 'border-stone-300'}`}
+                >
+                  {token}
+                </span>
+              );
+            }
+            return <span key={i}>{token}</span>;
+          })
+        : frontText /* 通常モード */
+      }
+    </p>
+  </div>
+  <p className={`text-xs font-sans text-center ${textSub} opacity-40 shrink-0`}>
+    タップ / Space で裏を見る
+  </p>
+</div>
 
             {/* 裏面 */}
             <div
