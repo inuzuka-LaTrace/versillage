@@ -1,0 +1,140 @@
+{
+  "id": "rilke_duineser_elegien_01",
+  "title": "Duineser Elegien — Die erste Elegie",
+  "author": "Rainer Maria Rilke",
+  "source": "Duineser Elegien, Insel-Verlag, Leipzig, 1923（初版）. 底本: Rainer Maria Rilke: Werke. Kommentierte Ausgabe in vier Bänden, Bd. 2, Insel Verlag, Frankfurt am Main, 1996. PDFテキスト照合: Project Gutenberg DE; Wikisource DE",
+  "year": "1912–1922",
+  "firstPublication": "第1悲歌執筆：1912年1月21–22日、ドゥイーノ城（トリエステ近郊）。全10篇の完成・出版：Insel-Verlag, Leipzig, 1923年2月",
+  "difficulty": "上級",
+  "category": "rilke",
+  "originalLang": "de-DE",
+  "modernRelevance": "★★★★★",
+  "context": "1912年1月、アドリア海を見下ろすドゥイーノ城（マリー・フォン・トゥルン＝タクシス侯爵夫人の館）で突風の中にリルケが聴いた声「誰が、私が叫んでも、天使の秩序から聞いてくれるだろうか？」から始まる。全10篇からなる悲歌群の第1篇。第10篇完成まで10年を要した（途中の創作中断期を経て1922年2月にズヴァルザムスト城で一気に完成）。\n\n詩学的核心：「天使（Engel）」は神学的存在でなくリルケ固有の概念──「美のより完全な実現」「絶対的な感受性」を体現する存在で、人間にとって圧倒的・危険な「純粋な強度」。「美はただ恐ろしいものの始まりにすぎない（Das Schöne ist nichts / als des Schrecklichen Anfang）」という冒頭の宣言が全悲歌の主題を提示する。\n\n第1悲歌は問いの詩──天使でも人間でも動物でも夜でも恋人でもなく、詩人が実際に拠れるものは何か？死者の声、歌うという行為、そして最終行でリノスの歌に行き着く。死と悲嘆の中から初めて音楽が生まれたというギリシャ神話の引用が、悲歌形式の正当化として機能する。",
+  "keywords": [
+    "天使（Engel）",
+    "美と恐怖",
+    "悲歌（Elegie）",
+    "ドゥイーノ",
+    "死者の声",
+    "ガスパラ・スタンパ",
+    "リノスの歌",
+    "恋人たち",
+    "Weltinnenraum（世界内部空間）",
+    "英雄",
+    "空虚",
+    "春・夜・声"
+  ],
+  "relatedTexts": [
+    "rilke_das_roseninnere",
+    "rilke_grabschrift",
+    "trakl_helian",
+    "hofmannsthal_weltgeheimnis",
+    "mallarme_crise_de_vers"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "verses": "v.1–17",
+      "original": "Wer, wenn ich schriee, hörte mich denn aus der Engel\nOrdnungen? und gesetzt selbst, es nähme\neiner mich plötzlich ans Herz: ich verginge von seinem\nstärkeren Dasein. Denn das Schöne ist nichts\nals des Schrecklichen Anfang, den wir noch grade ertragen,\nund wir bewundern es so, weil es gelassen verschmäht,\nuns zu zerstören. Ein jeder Engel ist schrecklich.\nUnd so verhalt ich mich denn und verschlucke den Lockruf\ndunkelen Schluchzens. Ach, wen vermögen\nwir denn zu brauchen? Engel nicht, Menschen nicht,\nund die findigen Tiere merken es schon,\ndaß wir nicht sehr verläßlich zu Haus sind\nin der gedeuteten Welt. Es bleibt uns vielleicht\nirgend ein Baum an dem Abhang, daß wir ihn täglich\nwiedersähen; es bleibt uns die Straße von gestern\nund das verzogene Treusein einer Gewohnheit,\nder es bei uns gefiel, und so blieb sie und ging nicht.",
+      "provisionalTranslation": "誰が、私が叫んでも、天使の\n序列から聞いてくれるだろうか？そして仮にも、\nその一人が突然私を胸に引き寄せたとしても：私はその\nより強い存在によって消えてしまうだろう。なぜなら美とはただ\n恐ろしいものの始まりにすぎないのだから、それをかろうじて私たちは耐えられる、\nそして私たちがそれをこれほど驚き讃えるのは、それが落ち着いて拒むからだ、\n私たちを滅ぼすことを。いかなる天使も恐ろしい。\nそして私はこうして身を慎み、暗い啜り泣きの\n誘い声を呑み込む。ああ、私たちは誰を\n使えるというのか？天使でなく、人間でなく、\nそして抜け目のない動物たちは既に気づいている、\n私たちが解釈された世界の中に\nそれほど確かには家にいないことを。おそらく私たちには残る\n斜面のどこかの木が、毎日\n再び見るために。残るのは昨日の道\nと、習慣のすれた忠実さ、\n私たちのもとが気に入って、だからここに留まり去らなかった。"
+    },
+    {
+      "id": 2,
+      "verses": "v.18–25",
+      "original": "O und die Nacht, die Nacht, wenn der Wind voller Weltraum\nuns am Angesicht zehrt —, wem bliebe sie nicht, die ersehnte,\nsanft enttäuschende, welche dem einzelnen Herzen\nmühsam bevorsteht. Ist sie den Liebenden leichter?\nAch, sie verdecken sich nur mit einander ihr Los.\nWeißt du's noch nicht? Wirf aus den Armen die Leere\nzu den Räumen hinzu, die wir atmen; vielleicht daß die Vögel\ndie erweiterte Luft fühlen mit innigerm Flug.",
+      "provisionalTranslation": "おお、夜よ、夜よ、宇宙に満ちた風が\n私たちの顔を蝕むとき──誰に残らないだろうか、あの待ち望まれた、\n穏やかに失望させる夜が、ひとりひとりの心に\n苦労しながら迫ってくるあの夜が。それは恋人たちには軽いのか？\nああ、彼らはただ互いに自分たちの運命を覆い隠しているだけだ。\nまだ知らないのか？両腕から空虚を\n私たちが息をする空間へと投げ加えよ。ひょっとしたら鳥たちが\n広がった大気をより深い飛翔で感じるかもしれない。"
+    },
+    {
+      "id": 3,
+      "verses": "v.26–35",
+      "original": "Ja, die Frühlinge brauchten dich wohl. Es muteten manche\nSterne dir zu, daß du sie spürtest. Es hob\nsich eine Woge heran im Vergangenen, oder\nda du vorüberkamst am geöffneten Fenster,\ngab eine Geige sich hin. Das alles war Auftrag.\nAber bewältigtest du's? Warst du nicht immer\nnoch von Erwartung zerstreut, als kündigte alles\neine Geliebte dir an? (Wo willst du sie bergen,\nda doch die großen fremden Gedanken bei dir\naus und ein gehn und öfters bleiben bei Nacht.)",
+      "provisionalTranslation": "そう、春たちはおそらくお前を必要としていた。いくつかの\n星はお前に感じることを求めた。過去の中で\nひとつの波が押し寄せてきた、あるいは\nお前が開いた窓の前を通り過ぎたとき、\nヴァイオリンが身を委ねた。それらすべてが課題だった。\nしかしお前はそれを成し遂げたか？お前はいつも\nまだ期待に散漫にされていなかったか、あたかもすべてが\nひとりの恋人をお前に告げているかのように？（お前はどこに彼女を匿いたいのか、\nしかし大きな見知らぬ思想たちはお前のもとを\n出入りし、夜はしばしば留まる。）"
+    },
+    {
+      "id": 4,
+      "verses": "v.36–53",
+      "original": "Sehnt es dich aber, so singe die Liebenden; lange\nnoch nicht unsterblich genug ist ihr berühmtes Gefühl.\nJene, du neidest sie fast, Verlassenen, die du\nso viel liebender fandst als die Gestillten. Beginn\nimmer von neuem die nie zu erreichende Preisung;\ndenk: es erhält sich der Held, selbst der Untergang war ihm\nnur ein Vorwand, zu sein: seine letzte Geburt.\nAber die Liebenden nimmt die erschöpfte Natur\nin sich zurück, als wären nicht zweimal die Kräfte,\ndieses zu leisten. Hast du der Gaspara Stampa\ndenn genügend gedacht, daß irgend ein Mädchen,\ndem der Geliebte entging, am gesteigerten Beispiel\ndieser Liebenden fühlt: daß ich würde wie sie?\nSollen nicht endlich uns diese ältesten Schmerzen\nfruchtbarer werden? Ist es nicht Zeit, daß wir liebend\nuns vom Geliebten befrein und es bebend bestehn:\nwie der Pfeil die Sehne besteht, um gesammelt im Absprung\nmehr zu sein als er selbst. Denn Bleiben ist nirgends.",
+      "provisionalTranslation": "しかしあこがれるなら、恋人たちを歌え。まだ長く\n十分に不滅ではないのだ、彼らの有名な感情は。\nあの捨てられた人たちを、お前はほとんど羨む、お前が\n満たされた人たちよりはるかに愛に満ちていると見出したあの人たちを。始めよ\n常に新たに決して到達できない讃美を。\n考えよ：英雄は持ちこたえる、没落でさえ彼には\nただ存在するための口実だった：彼の最後の誕生。\nしかし恋人たちを疲れ果てた自然は\n自らへと引き戻す、まるでこれを成し遂げる力が\n二度はないかのように。ガスパラ・スタンパのことを\n十分に考えたか、恋人に逃げられたどこかの娘が、\nこの恋人のより高められた例によって感じるように：\n私もあの方のようになれるのではないかと。\nこれらの最も古い苦しみはついに私たちに\nより実り多くなるべきではないのか？今こそ時ではないのか、愛しながら\n愛される者から自らを解き放ち、震えながら耐えることが：\n矢が弦に耐えるように、跳び立つ時に集中して\n自分自身より多くであるために。留まることはどこにもない。"
+    },
+    {
+      "id": 5,
+      "verses": "v.54–68",
+      "original": "Stimmen, Stimmen. Höre, mein Herz, wie sonst nur\nHeilige hörten: daß die der riesige Ruf\naufhob vom Boden; sie aber knieten,\nUnmögliche, weiter und achtetens nicht:\nSo waren sie hörend. Nicht, daß du Gottes ertrügest\ndie Stimme, bei weitem. Aber das Wehende höre,\ndie ununterbrochene Nachricht, die aus Stille sich bildet.\nEs rauscht jetzt von jenen jungen Toten zu dir.\nWo immer du eintratest, redete nicht in Kirchen\nzu Rom und Neapel ruhig ihr Schicksal dich an?\nOder es trug eine Inschrift sich erhaben dir auf,\nwie neulich die Tafel in Santa Maria Formosa.\nWas sie mir wollen? leise soll ich des Unrechts\nAnschein abtun, der ihrer Geister\nreine Bewegung manchmal ein wenig behindert.",
+      "provisionalTranslation": "声たち、声たち。聞け、わが心よ、かつて聖者だけが\n聞いたように：あの巨大な呼び声が\n彼らを地面から引き起こした。しかし彼らは、\n不可能な者たちよ、跪き続けて気にも留めなかった：\nそのように彼らは聞いていた。お前が神の声に\n耐えられるとはとても言えない。しかし吹き渡るものを聞け、\n沈黙から形成される絶え間のない知らせを。\n今はあの若い死者たちからお前へとざわめいている。\nお前がどこに入っても、ローマとナポリの教会で\n彼らの運命が静かにお前に語りかけなかったか？\nあるいは、ある碑文がお前に荘厳に課題を負わせた、\n先ごろのサンタ・マリア・フォルモーサの石版のように。\n彼らが私に何を望むのか？静かに、不正の\n外見を除いて欲しいのだ、彼らの魂の\n純粋な動きをときに少し妨げている外見を。"
+    },
+    {
+      "id": 6,
+      "verses": "v.69–95",
+      "original": "Freilich ist es seltsam, die Erde nicht mehr zu bewohnen,\nkaum erlernte Gebräuche nicht mehr zu üben,\nRosen, und andern eigens versprechenden Dingen\nnicht die Bedeutung menschlicher Zukunft zu geben;\ndas, was man war in unendlich ängstlichen Händen,\nnicht mehr zu sein, und selbst den eigenen Namen\nwegzulassen wie ein zerbrochenes Spielzeug.\nSeltsam, die Wünsche nicht weiterzuwünschen. Seltsam,\nalles, was sich bezog, so lose im Raume\nflattern zu sehen. Und das Totsein ist mühsam\nund voller Nachholn, daß man allmählich ein wenig\nEwigkeit spürt. — Aber Lebendige machen\nalle den Fehler, daß sie zu stark unterscheiden.\nEngel (sagt man) wüßten oft nicht, ob sie unter\nLebenden gehn oder Toten. Die ewige Strömung\nreißt durch beide Bereiche alle Alter\nimmer mit sich und übertönt sie in beiden.\nSchließlich brauchen sie uns nicht mehr, die Früheentrückten,\nman entwöhnt sich des Irdischen sanft, wie man den Brüsten\nmilde der Mutter entwächst. Aber wir, die so große\nGeheimnisse brauchen, denen aus Trauer so oft\nseliger Fortschritt entspringt —: könnten wir sein ohne sie?\nIst die Sage umsonst, daß einst in der Klage um Linos\nwagende erste Musik dürre Erstarrung durchdrang;\ndaß erst im erschrockenen Raum, dem ein beinah göttlicher Jüngling\nplötzlich für immer enttrat, die Leere in jene\nSchwingung geriet, die uns jetzt hinreißt und tröstet und hilft.",
+      "provisionalTranslation": "確かに奇妙なことだ、もはや地上に住まないことは、\nかろうじて学んだ習慣をもはや実践しないことは、\n薔薇に、そして他のとりわけ何かを約束するものに\n人間的な未来の意味を与えないことは。\n自分だったものを、無限に不安な手の中にあったものを、\nもはやでないこと、さらには自分の名前さえ\n壊れたおもちゃのように手放すこと。\n奇妙なことだ、願いをそれ以上願い続けないことは。奇妙なことだ、\n関わっていたすべてのものが、こんなにも緩やかに空間に\n漂っているのを見ることは。そして死んでいることは労苦に満ち\n追いつくことに満ちていて、だんだんと少し\n永遠が感じられる。──しかし生きている者たちは\nすべて誤りを犯す、あまりに強く区別しすぎるという誤りを。\n天使たちは（と言われる）しばしば知らない、自分が生ける者の間を\n歩いているのか死者の間を歩いているのかを。永遠の流れは\n両方の領域を貫いてすべての時代を\n常に引き連れ、その両方で彼らを響き超えてゆく。\nついには彼らはもはや私たちを必要としない、早く召された者たちは、\n人は優しく地上のものから離乳する、母の乳房から\n穏やかに育ち離れるように。しかし私たちは、これほど大きな\n秘密を必要とし、悲しみからこれほどしばしば\n幸いな前進が生まれる私たちは──：彼らなしにいられるだろうか？\n伝説は無駄だろうか、かつてリノスへの嘆きの中に\n大胆な最初の音楽が枯れた固まりを貫いたという伝説は；\nただ驚愕した空間の中でのみ、ほとんど神的な若者が\n突然永遠に立ち去ったその空間で、空虚があの\n振動に入り込んだのだと、今私たちを魅了し慰め助けるあの振動に。"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "Denn das Schöne ist nichts\nals des Schrecklichen Anfang, den wir noch grade ertragen",
+      "body": "「美はただ恐ろしいものの始まりにすぎない」──第1悲歌、ひいては『ドゥイノの悲歌』全体の根本命題。リルケにとって「美（Schöne）」は安堵でなく、人間が辛うじて耐えられる限界としての「恐怖（Schreckliche）」の入口。ハイデガーは『芸術作品の起源』（Der Ursprung des Kunstwerkes, 1950）でこれを「美と真理の裂け目（Riss）」として論じた──美は存在の開示であり、その開示は同時に人間を脅かす。リルケの天使概念はヘーゲル的な「精神（Geist）」でなく、人間の感受性を「より強い存在（stärkerem Dasein）」によって圧倒する力能として定義される。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "glossary",
+      "anchor": "Ein jeder Engel ist schrecklich.",
+      "body": "「いかなる天使も恐ろしい」──悲歌全体を貫くリルケ的「天使」概念の最初の明言。第2悲歌冒頭でさらに展開される。リルケはカトリック神学的な天使でなく、「より完全な存在様式の体現者」として天使を再定義した。1915年のルー・アンドレアス＝ザロメへの手紙：「悲歌の天使は、目に見えないものがより高度な実在において目に見えるものに変容するような存在の様式を持つ──恐怖すべき存在として」。リルケ固有のこの天使概念が『ドゥイノの悲歌』を従来の宗教詩から切り離す根本的な差異をなす。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "prosody",
+      "anchor": "in der gedeuteten Welt.",
+      "body": "「解釈された世界（gedeuteten Welt）」──「deuten（解釈する）」の過去分詞。人間が意味・言語・概念によって覆い尽くした世界。動物はこの「解釈」以前の直接的な存在様式を持つがゆえに「抜け目なく（findig）」気づいている──人間が世界に本当は「家にいない（zu Haus sein）」ことを。第8悲歌で「動物の眼差し（das Tier）」として展開されるリルケの動物論の核がここに現れる。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "Wirf aus den Armen die Leere\nzu den Räumen hinzu, die wir atmen",
+      "body": "「両腕から空虚を空間へと投げ加えよ」──空虚（Leere）を否定的なものとして抱え込むのでなく、積極的に外部空間に開放する身振り。この「空虚の開放」がリルケの「Weltinnenraum（世界内部空間）」概念に連なる──世界の外部と内部は空虚を媒介として交通する。「ひょっとしたら鳥たちが広がった大気をより深い飛翔で感じるかもしれない」──人間が解放した空虚が鳥によって「より深い飛翔（innigerm Flug）」として感知される。自己放棄が世界の豊かさに変容するというリルケ的逆説。"
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "das alles war Auftrag.",
+      "body": "「それらすべてが課題（Auftrag）だった」──春・星・波・ヴァイオリンという感覚的経験の断片が「課題」として定義される。しかし直後に問われる：「しかしお前はそれを成し遂げたか？」──詩人はそれを達成していない。この「未達成の課題」がリルケの詩的プログラムの核心：外部世界（das Äußere）を内部変容（Verwandlung）によって「見えないもの（das Unsichtbare）」として保存すること。第9悲歌で「大地はわれわれに何を求めるか」として展開される。"
+    },
+    {
+      "paragraphId": 4,
+      "type": "glossary",
+      "anchor": "der Gaspara Stampa",
+      "body": "ガスパラ・スタンパ（Gaspara Stampa, 1523–1554）：ヴェネツィアの女性詩人。コッラルディーノ・ディ・コラルト伯爵に棄てられた後、その苦しみを228篇のソネット（*Rime*, 1554）に昇華した。リルケは「棄てられた恋人（Verlassene）」のモデルとしてスタンパを持ち出す──失われた愛を嘆くのでなく、愛の強度そのものを詩に変換した人物として。「愛される者から愛しながら自らを解き放つ（liebend / uns vom Geliebten befrein）」という逆説的な愛の解放は、スタンパの実践に重なる。"
+    },
+    {
+      "paragraphId": 4,
+      "type": "prosody",
+      "anchor": "wie der Pfeil die Sehne besteht, um gesammelt im Absprung\nmehr zu sein als er selbst. Denn Bleiben ist nirgends.",
+      "body": "「矢が弦に耐えるように、跳び立つ時に集中して自分自身より多くであるために。留まることはどこにもない」──第1悲歌の詩句中で最も凝縮されたリルケ的時間論。弓と矢のイメージ：矢は弦（=関係・愛着・過去）に耐え（besteht）ることで、その緊張を跳躍のエネルギーに変換する。「Bleiben ist nirgends（留まることはどこにもない）」という宣言が全悲歌の移行・変容の主題を集約する──リルケにとって「住処（Heimat）」は固定した場所でなく変容の過程そのもの。"
+    },
+    {
+      "paragraphId": 5,
+      "type": "commentary",
+      "anchor": "die ununterbrochene Nachricht, die aus Stille sich bildet.",
+      "body": "「沈黙から形成される絶え間のない知らせ」──ブランショによる読解：モーリス・ブランショは『文学の空間』（L'Espace littéraire, 1955）でリルケの詩的経験を「中性的な声（la voix neutre）」「ざわめき（le murmure）」として論じた。ブランショにとってリルケの詩の声は、ある主体から別の主体へと伝達される「情報（message）」でなく、「言語そのものの沈黙から浮かび上がる絶え間のない響き」である──「沈黙から形成される知らせ」はこの「中性的なざわめき」の詩的定式。死者の声が「沈黙から形成される」のは、それが生者の言語体系の外側に属するから。"
+    },
+    {
+      "paragraphId": 5,
+      "type": "commentary",
+      "anchor": "Es rauscht jetzt von jenen jungen Toten zu dir.",
+      "body": "「今はあの若い死者たちからお前へとざわめいている（rauscht）」──「rauschen」はざわめく・潮騒のように鳴る、という動詞で、意味的な声でなく音響的な「気配」を指す。リルケが実際の死者を念頭に置いていた可能性：第1次世界大戦で死んだ若者たち（1914–1918年）の経験がこの詩行に影を落とす（第1悲歌は1912年執筆だが、1922年の最終改定時に意識された可能性）。ローマとナポリの教会、サンタ・マリア・フォルモーザの石板──具体的な固有名詞が「死者の声」を抽象から場所へと落下させる。"
+    },
+    {
+      "paragraphId": 6,
+      "type": "commentary",
+      "anchor": "Engel (sagt man) wüßten oft nicht, ob sie unter\nLebenden gehn oder Toten.",
+      "body": "「天使たちは（と言われる）しばしば知らない、自分が生ける者の間を歩いているのか死者の間を歩いているのかを」──リルケ的天使の存在論。天使は生と死の「区別（unterscheiden）」に拘束されない──第1悲歌の導入部「いかなる天使も恐ろしい」が再び響く。ここで「天使」は死者と生者の「永遠の流れ（ewige Strömung）」を体現する存在として機能する。ハイデガーは『ホルダーリンの詩の解明』（Erläuterungen zu Hölderlins Dichtung）でリルケとヘルダーリンの「開かれた（das Offene）」概念を並置して論じたが、リルケの「天使が区別しない」という命題は、まさにハイデガー的な「開かれた存在（das Offene）」──規定された境界なき存在の領域──の詩的形象化として読める。"
+    },
+    {
+      "paragraphId": 6,
+      "type": "commentary",
+      "anchor": "Ist die Sage umsonst, daß einst in der Klage um Linos\nwagende erste Musik dürre Erstarrung durchdrang;\ndaß erst im erschrockenen Raum, dem ein beinah göttlicher Jüngling\nplötzlich für immer enttrat, die Leere in jene\nSchwingung geriet, die uns jetzt hinreißt und tröstet und hilft.",
+      "body": "第1悲歌の最終5行──リノス（Linos）の神話による「悲歌形式の自己正当化」。リノスはギリシャ神話の音楽神で、その早い死の後に「嘆き歌（リノス歌）」が生まれたとされる（ホメロス『イリアス』第18歌）。「ほとんど神的な若者が突然永遠に立ち去った」後、「驚愕した空間」の「空虚（Leere）」が「振動（Schwingung）」に変容した──この神話的出来事が音楽の起源であり、悲歌（Elegie）という詩形式の起源でもある。ブランショ的読解：喪失（死）が芸術（音楽・詩）を生む──これはブランショが『来るべき書物』でオルフェウスの下降として論じた「芸術の死との関係」に重なる。詩とは不可能な喪失から生まれる振動であり、生者を「魅了し慰め助ける（hinreißt und tröstet und hilft）」。"
+    }
+  ]
+}
