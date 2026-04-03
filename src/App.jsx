@@ -43,10 +43,10 @@ import swinburneData from './data/swinburne';
 import rossetti_cData from './data/rossetti_c';
 import d_g_rossettiData from './data/d_g_rossetti';
 import yeatsData from './data/yeats';
-import { CATEGORIES, CAT_SHORT, ANNOTATION_TYPE_DEF, SPEECH_RATES, PREFER_VOICES } from './constants';
+import { CATEGORIES, CAT_SHORT, ANNOTATION_TYPE_DEF, SPEECH_RATES, PREFERRED_VOICES } from './constants';
 import { getTranslation, getOriginalText, getSpeechLang, getBestVoice, extractSnippet } from './utils';
 
-// getTranslation, getOriginalText, getSpeechLang, getBestVoice, PREFER_VOICES, SPEECH_RATES → constants.js / utils.js
+// getTranslation, getOriginalText, getSpeechLang, getBestVoice, PREFERRED_VOICES, SPEECH_RATES → constants.js / utils.js
 
 // ─── URLルーティング ユーティリティ ───────────────────────────
 // ハッシュ形式: #/text/<textId>  または  #/text/<textId>/para/<paraId>
@@ -215,11 +215,11 @@ export default function App() {
   useEffect(() => {
     const allTexts = {
       ...mallarmeData,
-      ...baudelaiata,
+      ...baudelaireData,
       ...valeryData,
       ...verlaineData,
       ...gautierData,
-      ...valmoata,
+      ...valmoreData,
       ...lecontelisleData,
       ...banvilleData,
       ...rodenbachData,
@@ -339,8 +339,8 @@ export default function App() {
 
   const loadUserTranslations = () => {
     try {
-      const sto = localStorage.getItem(`translations-${selectedText}`);
-      setUserTranslations(sto ? JSON.parse(sto) : {});
+      const stored = localStorage.getItem(`translations-${selectedText}`);
+      setUserTranslations(stored ? JSON.parse(stored) : {});
     } catch {
       setUserTranslations({});
     }
@@ -488,9 +488,9 @@ export default function App() {
 
   // anchor付き注釈：テキスト全体（改行含む）をparts配列に分割するヘルパー
   // anchorが複数行にまたがっていても正しくマッチする
-  const splitTextByAnchors = (fullText, ancho) => {
+  const splitTextByAnchors = (fullText, anchored) => {
     let parts = [{ text: fullText, type: 'plain' }];
-    for (const ann of ancho) {
+    for (const ann of anchored) {
       const next = [];
       for (const part of parts) {
         if (part.type !== 'plain') { next.push(part); continue; }
@@ -563,8 +563,8 @@ export default function App() {
 
   // anchor付き注釈レンダリング（全モード共通・複数行anchor対応）
   const renderTextWithAnchors = (text, annotations, paraId) => {
-    const ancho = annotations.filter(a => a.anchor);
-    if (!ancho.length) {
+    const anchored = annotations.filter(a => a.anchor);
+    if (!anchored.length) {
       return (
         <>
           {text.split('\n').map((line, i, arr) => (
@@ -573,7 +573,7 @@ export default function App() {
         </>
       );
     }
-    const parts = splitTextByAnchors(text, ancho);
+    const parts = splitTextByAnchors(text, anchored);
     return <>{renderParts(parts, paraId)}</>;
   };
 
@@ -709,7 +709,7 @@ export default function App() {
   // テキストオブジェクト全体の原文単語数合計
   const textWordCount = (textObj) => {
     if (!textObj?.paragraphs) return 0;
-    return textObj.paragraphs.uce((sum, p) => sum + countWords(getOriginalText(p)), 0);
+    return textObj.paragraphs.reduce((sum, p) => sum + countWords(getOriginalText(p)), 0);
   };
 
   // ─── ブックマーク一覧パネル ──────────────────────────────────
@@ -952,7 +952,7 @@ export default function App() {
       </div>
 
       {/* 装飾：ゴダール風の水平線（動かない静かな要素） */}
-      <div className="absolute w-16 h-[1px] bg--900/20 top-1/2 left-1/2 -translate-x-1/2 mt-12" />
+      <div className="absolute w-16 h-[1px] bg-red-900/20 top-1/2 left-1/2 -translate-x-1/2 mt-12" />
     </div>
   );
 }
@@ -979,8 +979,8 @@ export default function App() {
   // violet:    ダーク violet-300/80 / ライト violet-800/80
   // transTextClass: neutral / red / violet / ink
   const transTextClass =
-    transColor === 'red'    ? (darkMode ? 'text-red-500/80'     : 'text-red-500/80') :
-    transColor === 'violet' ? (darkMode ? 'text-violet-500/80'  : 'text-violet-500/80') :
+    transColor === 'red'    ? (darkMode ? 'text-red-600/80'     : 'text-red-800/80') :
+    transColor === 'violet' ? (darkMode ? 'text-violet-600/80'  : 'text-violet-700/80') :
     transColor === 'ink'    ? (darkMode ? 'text-[#b8a880]'      : 'text-[#3a2e20]') :
     /* neutral */             (darkMode ? 'text-zinc-300'        : 'text-[#4a3a28]');
   const transBorderClass =
