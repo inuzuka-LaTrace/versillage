@@ -84,7 +84,7 @@ const textSizeClass = (text) => {
   return 'text-sm leading-loose';
 };
 
-/ テキスト内の特定の単語を「空所」に置き換える
+// テキスト内の特定の単語を「空所」に置き換える
 const renderClozeText = (text, isFlipped, darkMode) => {
   if (!text) return null;
 
