@@ -6,6 +6,12 @@
 import { useState, useCallback } from 'react';
 import { getOriginalText, getTranslation, fcParaKey } from '../utils';
 
+const [userInput, setUserInput] = useState('');
+const checkAnswer = (input, gold) => {
+  const normalize = (str) => str.replace(/\s+/g, ' ').trim().toLowerCase();
+  return normalize(input) === normalize(gold);
+};
+
 // ── SRS localStorage ──────────────────────────────────────────
 const SRS_KEY = 'flashcard-status';
 const BOOKMARKS_KEY = 'bookmarks';
@@ -115,28 +121,33 @@ export const useFlashcard = (texts) => {
   }, [source, sourceId, texts, srsData]);
 
   // ── 判定 ──────────────────────────────────────────────────
-  const judge = useCallback((status) => {
-    const card = cards[index];
-    if (!card) return;
-    const key = fcParaKey(card.textId, card.paraId);
+  // ── 判定 ────────
+const judge = useCallback((status) => {
+  const card = cards[index];
+  if (!card) return;
+  const key = fcParaKey(card.textId, card.paraId);
 
-    // SRS 保存
-    setSrsData(prev => {
-      const next = { ...prev, [key]: { status, lastSeen: Date.now() } };
-      saveSrsToStorage(next);
-      return next;
-    });
+  // SRS 保存
+  setSrsData(prev => {
+    const next = { ...prev, [key]: { status, lastSeen: Date.now() } };
+    saveSrsToStorage(next);
+    return next;
+  });
 
-    setSessionResult(prev => ({ ...prev, [key]: status }));
+  setSessionResult(prev => ({ ...prev, [key]: status }));
 
-    if (index + 1 >= cards.length) {
-      setFinished(true);
-    } else {
-      setIndex(i => i + 1);
-      setFlipped(false);
+  if (index + 1 >= cards.length) {
+    setFinished(true);
+  } else {
+    setIndex(i => i + 1);
+    setFlipped(false);
+    
+    // ── 追加ポイント: 次のカードへ行く時にユーザー入力をクリアする ──
+    if (setUserInput) { 
+      setUserInput(''); 
     }
-  }, [cards, index]);
-
+  }
+}, [cards, index, setUserInput]); // 依存配列に setUserInput を追加
   // ── シャッフル ────────────────────────────────────────────
   const shuffle = useCallback(() => {
     setCards(prev => [...prev].sort(() => Math.random() - 0.5));
@@ -213,5 +224,9 @@ export const useFlashcard = (texts) => {
     // ユーティリティ
     getUserTrans,
     bookmarks,
+    // ...既存の戻り値
+    userInput,
+    setUserInput,
+    judge,
   };
 };
