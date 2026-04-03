@@ -1,0 +1,98 @@
+{
+  "id": "rilke_das_roseninnere",
+  "title": "Das Roseninnere",
+  "author": "Rainer Maria Rilke",
+  "source": "Der neuen Gedichte anderer Teil, Insel-Verlag, Leipzig, 1908. Wikisource底本: Das Roseninnere (de.wikisource.org, De_Rilke_Gedichte_1918_093.gif). テキスト照合: rainer-maria-rilke.de; LiederNet Archive (lieder.net)",
+  "year": "1907",
+  "firstPublication": "執筆：1907年8月2日、パリ。初出版：Der neuen Gedichte anderer Teil, Insel-Verlag, Leipzig, 1908",
+  "difficulty": "中級",
+  "category": "rilke",
+  "originalLang": "de-DE",
+  "modernRelevance": "★★★★★",
+  "context": "リルケが1907年8月2日パリで執筆した「Dinggedicht（物の詩）」の代表作のひとつ。『新詩集 第二部』（1908）所収。リルケはロダンの彫刻との深い交流を通じ、外部から対象を観察・記述するのでなく、対象の内部空間（Innenraum）そのものを言語で構成する方法論を獲得した──「物の詩」の詩学。\n\n「バラの内側」は18行・1連、定形韻律なし、enjambementが支配的な散文詩的形式。全体は二つの運動から成る。前半（v.1–10）：「内側に対応する外側はどこにあるか」という問いの連鎖──バラの開いた内部が「内なる湖（Binnensee）」として描かれ、天空を映す。後半（v.11–18）：バラが「内部空間（Innenraum）」に溢れ出し、日々へ流れ込み、ついに「夏全体が夢の中の一室」になるという変容の完成。\n\nリルケが同時期集中的に書いた「薔薇詩群」（Der Panther 1902; Die Rosenschale; Archaischer Torso Apollos 1908）の中核に位置する。「Innen/Außen（内/外）」「Innenraum（内部空間）」「Zimmer（部屋）」という語彙群が後期リルケ詩学の核心概念を先取りする。",
+  "keywords": [
+    "バラ",
+    "Dinggedicht（物の詩）",
+    "Innenraum（内部空間）",
+    "内と外",
+    "Binnensee（内なる湖）",
+    "新詩集",
+    "enjambement",
+    "夏",
+    "夢",
+    "ロダン的詩学",
+    "リルケ"
+  ],
+  "relatedTexts": [
+    "trakl_ein_winterabend",
+    "hofmannsthal_weltgeheimnis",
+    "george_komm_in_den_park",
+    "baudelaire_correspondances"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "verses": "v.1–10",
+      "original": "Wo ist zu diesem Innen\nein Außen? Auf welches Weh\nlegt man solches Linnen?\nWelche Himmel spiegeln sich drinnen\nin dem Binnensee\ndieser offenen Rosen,\ndieser sorglosen, sieh:\nwie sie lose im Losen\nliegen, als könnte nie\neine zitternde Hand sie verschütten.",
+      "provisionalTranslation": "この内側に対応する\n外側はどこにあるのか？どんな痛みの上に\nこのような布を敷くというのか？\nどんな天空がその内側に映るというのか\nこの開いた薔薇の\n内なる湖に、\nこの無頓着な薔薇の。見よ：\nいかに緩くほぐれた中に緩やかに\n横たわっているか、まるで決して\n震える手がこぼしてしまうことなどないかのように。"
+    },
+    {
+      "id": 2,
+      "verses": "v.11–18",
+      "original": "Sie können sich selber kaum\nhalten; viele ließen\nsich überfüllen und fließen\nüber von Innenraum\nin die Tage, die immer\nvoller und voller sich schließen,\nbis der ganze Sommer ein Zimmer\nwird, ein Zimmer in einem Traum.",
+      "provisionalTranslation": "薔薇たちは自らをかろうじて\n保っていられる。多くは\n溢れに身を委ね、内部空間から\n流れ出してしまった\n日々の中へと──日々は常に\nますます満ちて閉じていき、\nついには夏全体がひとつの部屋に\nなるまで、夢の中の部屋に。"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "prosody",
+      "anchor": "Wo ist zu diesem Innen\nein Außen?",
+      "body": "詩は問いで始まる──「この内側に対応する外側はどこにあるか」。18行・1連、定形韻律なし。しかし韻は緻密に織り込まれる：Innen / drinnen / Linnen（v.1, 3, 4）の三韻、Weh / Binnensee（v.2, 5）の二韻、Rosen / Losen（v.6, 8）、nie / sieh（v.7, 9）。enjambementがv.1–2, v.2–3, v.4–5, v.7–8等12箇所に及び、詩行の境界が溶け出すように次の行へ流れ込む──この形式的特徴が詩の主題「内部空間の溢れ出し」と完全に対応する。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "glossary",
+      "anchor": "dem Binnensee\ndieser offenen Rosen",
+      "body": "「Binnensee（内なる湖）」──リルケが造語として用いた複合名詞。Binnensee は本来「内陸湖」（海と直接つながらない湖）を意味するが、ここでは開いたバラの内部空間が天空を映す水面として比喩化される。「開いた薔薇（offenen Rosen）」の花びらが杯のように天空を受け取り、その内側に空が映る──バラの小宇宙。「Binnenraum（内部空間）」「Innenraum（内部空間）」というリルケの後期詩学の核心語彙がここで胚胎している。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "Auf welches Weh\nlegt man solches Linnen?",
+      "body": "「どんな痛みの上にこのような布を敷くというのか」──突然現れる「Weh（痛み・苦しみ）」と「Linnen（亜麻布）」という語が謎めいた問いを形成する。「Linnen」は傷の手当てに用いる布、あるいは死者に巻く白布（屍衣）の連想も含む。バラの花びらの白さと柔らかさが「白い布」として提示され、何らかの苦しみへの応答として暗示される──しかし「何の痛みか」は明かされない。この謎の問いが詩全体の底流をなす。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "wie sie lose im Losen\nliegen, als könnte nie\neine zitternde Hand sie verschütten.",
+      "body": "「いかに緩くほぐれた中に緩やかに横たわっているか、まるで決して震える手がこぼしてしまうことなどないかのように」──「lose（緩く）」「Losen（ほぐれた状態）」という同根語の反復（polyptoton）。「震える手（zitternde Hand）」という身体的な細部が突然挿入される──バラは極限まで開いていながら、こぼれ落ちない。この脆さと安定の逆説がリルケの「物の詩」における観察の精密さを体現する。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "viele ließen\nsich überfüllen und fließen\nüber von Innenraum",
+      "body": "「多くは溢れに身を委ね、内部空間から流れ出してしまった」──「Innenraum（内部空間）」はリルケ後期詩学の核心概念。1914年の「Ur-Geräusch」（原音）、1922年の「ドゥイノの悲歌」第1歌「誰が私の叫びを天使の序列の中から聞くだろうか」へと連なる「内側に充填されたもの」の詩学。ここでは薔薇の内部が「溢れ（überfüllen）」「流れ出す（fließen）」ことで、物の内側と外側の境界が解消される──内が外へ浸透する。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "prosody",
+      "anchor": "in die Tage, die immer\nvoller und voller sich schließen,",
+      "body": "「日々の中へ──日々は常にますます満ちて閉じていく」──「voller und voller（より満ちて、より満ちて）」という比較級の重複は詩の最大の音響的・意味的緊張点。「閉じる（schließen）」という動詞が「開く」の逆方向に向かうように見えながら、実際には満充という意味での「充実した閉合」──夏が一室として完成される。「schließen」は直前の「fließen（流れる）」と韻を踏み（fließen / schließen）、溢れ出す動きが閉合する動きへと転化される音響的変容を示す。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "bis der ganze Sommer ein Zimmer\nwird, ein Zimmer in einem Traum.",
+      "body": "最終二行の変容。「夏全体が夢の中の一室になる」──「Zimmer（部屋）」は前半の「Binnensee（内なる湖）」の変奏。バラの内部（小さな内部空間）が、日々を通じて夏全体（大きな外部空間）を飲み込み、それが夢という最も内的な空間の「一室」に変容する──マクロコスモスとミクロコスモスの逆転。「ein Zimmer in einem Traum（夢の中の部屋）」は不定冠詞「ein」が二度使われ、固有の特定の場所でなく普遍的な夢想的空間を示す。リルケがロダン論（1902）で述べた「芸術作品は内側の空間を持つ」という思想の詩的実践。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "intertextual",
+      "anchor": "ein Zimmer in einem Traum.",
+      "body": "トラークル「夢と夜霧」（Traum und Umnachtung）およびホフマンスタール「世界の秘密」（Weltgeheimnis）との対照。三者ともにドイツ語象徴主義的な「内部空間の詩学」を共有するが、方法が異なる。ホフマンスタールは「子供の頃の深い井戸」という記憶と夢の融合として内部を語り、トラークルは解体的なイメージ連鎖で内部の崩壊を示す。リルケは「物（バラ）」の外部観察から出発して物の内部空間に没入する──対象から主体へという「Dinggedicht」の独自性がここに極まる。",
+      "targetId": "hofmannsthal_weltgeheimnis",
+      "targetParagraphId": null
+    }
+  ]
+}
