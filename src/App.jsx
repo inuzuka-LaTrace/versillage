@@ -249,10 +249,9 @@ export default function App() {
       ...hoelderlinData,
     };
     setTexts(allTexts);
-  // 最低2000ms（2秒）はローディングを見せる
   const timer = setTimeout(() => {
     setLoading(false);
-  }, 4500);
+  }, 4800);
 
   return () => clearTimeout(timer);
 }, []);
