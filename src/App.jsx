@@ -193,7 +193,7 @@ export default function App() {
         setDisplayAuthor("VANITISME");
         clearInterval(interval);
       }
-    }, 500); // 500ms（0.5秒）間隔を維持
+    }, 540); // 500ms（0.5秒）間隔を維持
     return () => clearInterval(interval);
   }
 }, [loading, texts]);
@@ -251,7 +251,7 @@ export default function App() {
     setTexts(allTexts);
   const timer = setTimeout(() => {
     setLoading(false);
-  }, 4800);
+  }, 4700);
 
   return () => clearTimeout(timer);
 }, []);
