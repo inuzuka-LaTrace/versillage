@@ -1,0 +1,101 @@
+{
+  "id": "d_g_rossetti_proserpina",
+  "title": "Proserpina",
+  "author": "Dante Gabriel Rossetti",
+  "source": "The Athenaeum, no. 2494, 28 August 1875（英語・イタリア語版として初出）. 改訂収録: Ballads and Sonnets, Ellis & White, London, 1881. Wikisource底本: Pictures & poems/Proserpina (wikisource.org). テキスト照合: Rossetti Archive, University of Virginia (rossettiarchive.iath.virginia.edu/docs/1-1872.s233.raw.html); Wikipedia: Proserpine (Rossetti)",
+  "year": "1871–1875",
+  "firstPublication": "The Athenaeum, no. 2494, 28 August 1875（\"Sonnets for Pictures\" として英・伊二言語で掲載）; 書籍初収録: Ballads and Sonnets, 1881",
+  "difficulty": "上級",
+  "category": "d_g_rossetti",
+  "originalLang": "en-GB",
+  "modernRelevance": "★★★★★",
+  "context": "ロセッティが少なくとも八度描いた《プロセルピナ》（代表作：1874年油彩、テート・ブリテン所蔵）に付したソネット。モデルはすべてジェーン・モリス。ロセッティはまずイタリア語で詩を書き（「Aspra lontananza」と題され、キャンバス右上に直接書き込まれた）、それを英語に翻訳して額縁に刻んだ——詩と絵画の二重の「額縁」構造。\n\n詩の形式はペトラルカ形式ソネット、14行。「Afar（遥か）」という語が第1行から第7行まで五度反復され、冥府の女王が失ったすべて——光、エンナの花、空、かつての日々、そして自己——が距離として積み重なる。後半のセステットで視点が内側に転じ、「自分自身から遠く隔たった」という解離感から、最終行の嘆き「哀れな汝よ、不幸なプロセルピナよ」という他者の声へと溶解する。\n\n伝記的文脈：ジェーン・モリスはロセッティと夏（ケルムスコット・マナー）を過ごし、冬は夫ウィリアム・モリスのもとに戻った——プロセルピナが冥界と地上を半年ずつ行き来する神話と重なる。「禁断の果実を一口食べたことで永遠に縛られた」という主題は、ロセッティ自身の愛の不可能性の象徴として機能する。",
+  "keywords": [
+    "プロセルピナ",
+    "ペルセポネ",
+    "冥府",
+    "ソネット",
+    "前ラファエル派",
+    "ジェーン・モリス",
+    "ザクロ",
+    "エンナ",
+    "タルタロス",
+    "詩と絵画",
+    "「絵のための詩」",
+    "距離・遠さ",
+    "二言語詩"
+  ],
+  "relatedTexts": [
+    "d_g_rossetti_pandora",
+    "d_g_rossetti_lilith",
+    "swinburne_garden_of_proserpine",
+    "rossetti_monna_innominata",
+    "dante_inferno_canto_5"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "verses": "v.1–8",
+      "original": "Afar away the light that brings cold cheer\nUnto this wall,—one instant and no more\nAdmitted at my distant palace-door.\nAfar the flowers of Enna from this drear\nDire fruit, which, tasted once, must thrall me here.\nAfar those skies from this Tartarean grey\nThat chills me: and afar, how far away,\nThe nights that shall be from the days that were.",
+      "provisionalTranslation": "遥か、この壁に冷たい慰めをもたらす光は——\nひと瞬間ばかり、それ以上はなく\n私の遠い宮殿の扉に差し込む。\n遥か、この陰惨な場所からエンナの花々は——\n一度食べれば永遠に私をここに縛る恐ろしい果実から。\n遥か、あの空々は、この私を冷やす\nタルタロスの灰色から。そして遥か、いかに遥か、\nかつての日々から、これから来る夜々は。"
+    },
+    {
+      "id": 2,
+      "verses": "v.9–14",
+      "original": "Afar from mine own self I seem, and wing\nStrange ways in thought, and listen for a sign:\nAnd still some heart unto some soul doth pine,\n(Whose sounds mine inner sense is fain to bring,\nContinually together murmuring,)—\n“Woe’s me for thee, unhappy Proserpine!”",
+      "provisionalTranslation": "自分自身からも遥か隔たっているように思え、思念は\n奇妙な道を飛び、何らかの兆しに耳を澄ます。\nそして今なお何らかの心が何らかの魂を慕い焦がれる、\n（その音を私の内なる感覚が好んで取り込もうとする、\n絶えず共に呟きながら）——\n「哀れな汝よ、不幸なプロセルピナよ！」"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "prosody",
+      "anchor": "Afar away the light",
+      "body": "「Afar（遥か）」はオクターヴの8行中5行（v.1, v.4, v.6, v.7）の冒頭または文頭に置かれ、距離の蓄積による圧迫感を構築するアナフォラ（anaphora）。ロセッティのイタリア語原詩では「Aspra lontananza」の lontananza（遠さ）が対応する。英語ソネットとしてはペトラルカ形式（ABBA ABBA / CDE DCE に近い変形）を踏む。「cold cheer（冷たい慰め）」という逆説的な組み合わせが冒頭から冥府の光の性質を規定する。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "glossary",
+      "anchor": "the flowers of Enna",
+      "body": "エンナ（Enna）：シチリア島中央部の高原都市。古代ローマの神話伝承では、コレー（ペルセポネ）がプルートーに誘拐された場所として伝えられる（オウィディウス『変身物語』第5巻）。ロセッティがエンナの花々を持ち出すことで、プロセルピナが「失った世界」は地上の具体的な場所として現れる——抽象的な「自由」でなく、シチリアの野の花。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "glossary",
+      "anchor": "Dire fruit, which, tasted once, must thrall me here.",
+      "body": "「一度食べれば永遠に縛る恐ろしい果実」——ザクロ。神話ではプロセルピナがザクロの粒を食べたことで冥府に縛られる（ホメロス讃歌「デメテルへ」では六粒）。ロセッティの絵画では半分に割られたザクロが手に握られ、赤い果肉が彼女の唇の色と呼応する。「thrall（縛る・奴隷化する）」という古英語由来の語がロセッティの中世主義的語彙を体現する。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "this Tartarean grey\nThat chills me",
+      "body": "「タルタロスの灰色（Tartarean grey）」——タルタロスはギリシャ神話の最深部の冥界。絵画《プロセルピナ》の支配的な色調そのもの：冷たい青灰色が画面全体を覆い、右上から差し込む一筋の光だけが別の世界の存在を示す。ロセッティ自身が絵の説明文に記した：「彼女が通り過ぎる時、背後の壁に突然開いた明り取りから一条の光が差し込む……」"
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "Afar from mine own self I seem, and wing\nStrange ways in thought",
+      "body": "「自分自身から遠く隔たり、思念は奇妙な道を飛ぶ」──オクターヴが外部の距離（光・花・空・時間）を列挙したのに対し、セステットは内面への転換。「自己からの解離」という近代的な疎外感覚が冥府神話の衣をまとう。「wing strange ways（奇妙な道を飛ぶ）」という動詞の比喩的用法——肉体は幽閉されながら思念だけが逃走を試みる。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "some heart unto some soul doth pine,\n(Whose sounds mine inner sense is fain to bring,\nContinually together murmuring,)",
+      "body": "最終三行の括弧構造が独特の声の多層性を生む：プロセルピナが「聞こえてくる声」として引用する嘆き——それは彼女の内なる声なのか、外部から届く声なのか曖昧なまま。「fain to bring（好んで取り込もうとする）」は内なる感覚が嘆きを求めることを示す。詩人ロセッティはジェーン・モリスを描きながら、彼女の代わりに嘆いている——画家・詩人・モデル・神話の四者が「murmuring（呟き）」の中に溶け込む。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "prosody",
+      "anchor": "Woe’s me for thee, unhappy Proserpine!",
+      "body": "ソネット唯一の発話引用——14行詩の最終行で初めて声が顕在化する。「Woe's me for thee（汝のことが哀れ）」という古語的な嘆きの慣用句は、シェイクスピアやスペンサーにも用例がある。この最終行だけが一人称（Proserpina自身）でなく他者の目線から彼女を呼ぶ：自己嘆息が他者の嘆息へと転化し、詩は外から内へ、内から外へと循環して閉じる。ロセッティのイタリア語版では「Oh me! per me infelice」が対応する。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "intertextual",
+      "anchor": "Woe’s me for thee, unhappy Proserpine!",
+      "body": "スウィンバーン「プロセルピナの園」（'The Garden of Proserpine'、1866）との対照：スウィンバーンでは詩人が死の女神の庭への「帰還」を望む——Proserpina は疲れ果てた魂に安息を与える存在として描かれる。ロセッティでは逆に、Proserpina 自身が地上への帰還を望み冥府に閉じ込められる——視点が死者（安息者）から囚人へと反転する。両詩の「プロセルピナ」は同じ神話的人物でありながら、全く異なる象徴的機能を担う：死の安息（スウィンバーン）対 生の剥奪（ロセッティ）。",
+      "targetId": "swinburne_garden_of_proserpine",
+      "targetParagraphId": null
+    }
+  ]
+}
