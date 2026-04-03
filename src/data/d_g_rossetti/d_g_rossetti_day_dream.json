@@ -1,0 +1,92 @@
+{
+  "id": "d_g_rossetti_day_dream",
+  "title": "The Day-Dream",
+  "author": "Dante Gabriel Rossetti",
+  "source": "Ballads and Sonnets, Ellis & White, London, 1881（初出・書籍版）. Wikisource底本: Pictures & poems/The Day-Dream (en.wikisource.org/w/index.php?title=Pictures_%26_poems/The_Day-Dream&oldid=15462933). テキスト照合: Rossetti Archive, University of Virginia (rossettiarchive.iath.virginia.edu/docs/7-1880.s259.raw.html)",
+  "year": "1880–1881",
+  "firstPublication": "Ballads and Sonnets, Ellis & White, London, 1881（ロセッティ存命中最後の詩集）",
+  "difficulty": "中級",
+  "category": "d_g_rossetti",
+  "originalLang": "en-GB",
+  "modernRelevance": "★★★★☆",
+  "context": "1880年に制作したロセッティ晩年の大作《白昼夢》（1880年、ヴィクトリア&アルバート博物館所蔵）に付したソネット。モデルはジェーン・モリス。絵の当初のタイトルは「ヴァンナ」だったが、完成間際の1880年7月に改題、同月ソネットも書かれた。\n\n構造：ペトラルカ形式ソネット（ABBA ABBA / CDC DCD）。オクターヴ（v.1–8）でシカモアの木と夏の葉の描写が展開される──「まだ（Still）」という語が時間の停止と継続の逆説を担う。セステット（v.9–14）でReverie（夢想）という語が自然界の比喩から人間の内面へ転換し、「彼女」の白昼夢として結実する。最終二行で本が忘れられ、花が手から落ちる──詩の視点が彼女の内側から外側へと翻転する瞬間。\n\n三連作《プロセルピナ》《パンドラ》と異なり、この作品には神話的重圧がない。ジェーン・モリスが単に「夢を見ている女性」として描かれ、ロセッティ晩年の静謐な観察眼が際立つ。ロセッティ自身は「これは自然の崇高さの一場面にすぎない」と述べた。",
+  "keywords": [
+    "白昼夢",
+    "夢想（Reverie）",
+    "シカモア",
+    "ジェーン・モリス",
+    "前ラファエル派",
+    "ソネット",
+    "「絵のための詩」",
+    "忘れられた本",
+    "忘れられた花",
+    "春と夏",
+    "ロセッティ晩年"
+  ],
+  "relatedTexts": [
+    "d_g_rossetti_pandora",
+    "d_g_rossetti_proserpina",
+    "d_g_rossetti_lilith",
+    "rossetti_monna_innominata"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "verses": "v.1–8",
+      "original": "The thronged boughs of the shadowy sycamore\nStill bear young leaflets half the summer through;\nFrom when the robin 'gainst the unhidden blue\nPerched dark, till now, deep in the leafy core,\nThe embowered throstle's urgent wood-notes soar\nThrough summer silence. Still the leaves come new;\nYet never rosy-sheathed as those which drew\nTheir spiral tongues from spring-buds heretofore.",
+      "provisionalTranslation": "影あるシカモアの木の混み合った枝は\n夏の半ばまで若い葉をまだ帯びている。\n駒鳥が隠れなき青空を背に\n暗く止まっていたあの頃から、今や葉陰の奥深く、\n木立に篭ったツグミの急き立てる森の声が\n夏の沈黙を貫いて高く鳴る。葉はまだ新しく来る。\nしかし、かつて春の蕾から螺旋の舌を\n展いたあの薔薇色の鞘に包まれた葉ほどには、けっして。"
+    },
+    {
+      "id": 2,
+      "verses": "v.9–14",
+      "original": "Within the branching shade of Reverie\nDreams even may spring till autumn; yet none be\nLike woman's budding day-dream spirit-fann'd.\nLo, tow'rd deep skies, not deeper than her look,\nShe dreams; till now on her forgotten book\nDrops the forgotten blossom from her hand.",
+      "provisionalTranslation": "夢想の枝分かれした木陰の中では\n夢さえも秋まで芽吹くかもしれない。それでも、\n霊に煽られた女の萌え出づる白昼夢には及ばない。\n見よ──深い空へ向かって、しかし彼女の眼差しより深くはなく、\n彼女は夢を見る。今や彼女の忘れられた本の上に\n忘れられた花が手からこぼれ落ちる。"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "prosody",
+      "anchor": "Still bear young leaflets half the summer through",
+      "body": "「Still（まだ・依然として）」がオクターヴに二度（v.2「Still bear」、v.6「Still the leaves come new」）置かれるアナフォラ。この語は時間の逆説を担う──夏の盛りでもまだ葉が更新され続けることと、しかし春の葉の瑞々しさは二度と戻らないこと。「Still」は「静止」と「継続」の二重の意味を内包し、絵の中でジェーン・モリスが静止しながらも夢想が流動する状態に呼応する。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "glossary",
+      "anchor": "the embowered throstle's urgent wood-notes soar",
+      "body": "「throstle（ツグミ）」──イギリスの林に生息する歌鳥。シェイクスピアにも用例がある詩的な語（『夏の夜の夢』）。「embowered（葉陰に篭った）」「urgent（急き立てる）」「soar（高く鳴る）」の三語が連続して鳥の歌声の動態を描く。ロセッティが自然描写において音響的な活性を与える典型的な手法。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "Yet never rosy-sheathed as those which drew\nTheir spiral tongues from spring-buds heretofore.",
+      "body": "オクターヴ最終二行の回顧。「rosy-sheathed（薔薇色の鞘に包まれた）」「spiral tongues（螺旋の舌）」──春の新芽が巻かれた形で展開する様子の精密な視覚的描写。これらの春の葉は「heretofore（かつて）」と過去形で語られ、夏の葉は美しいが春の初初しさには及ばないという喪失感が植え込まれる。この「もはや戻らない春」のモチーフがセステットの白昼夢主題と呼応する。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "Within the branching shade of Reverie\nDreams even may spring till autumn; yet none be\nLike woman's budding day-dream spirit-fann'd.",
+      "body": "セステット冒頭の転換点。「Reverie（夢想）」という語が木の比喩（branching shade）と結びつくことで、自然界の描写が突然内面空間の比喩に転化する。「Dreams even may spring till autumn（夢さえも秋まで芽吹くかもしれない）」──「spring（芽吹く）」は春の季節と動詞「芽生える」の掛詞。「spirit-fann'd（霊に煽られた）」という複合形容詞がロセッティ的な神秘性を付与する。Rossetti Archive の注によれば「これは自然の崇高さの一場面にすぎない」とロセッティ自身は述べたが、この三行は詩の哲学的核心を担う。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "prosody",
+      "anchor": "Lo, tow'rd deep skies, not deeper than her look,",
+      "body": "「Lo（見よ）」──古語的な呼びかけの語で、詩人がここで初めて明示的に読者の注意を「彼女」の存在へと向ける。「tow'rd deep skies, not deeper than her look（深い空へ向かって、しかし彼女の眼差しより深くはなく）」──深さの逆転。空の深さが女性の内面の深さに劣るというロセッティの女性賛美の典型的修辞。絵画《白昼夢》でジェーン・モリスの眼差しが斜め上方を向く構図と完全に対応する。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "till now on her forgotten book\nDrops the forgotten blossom from her hand.",
+      "body": "最終二行の「forgotten（忘れられた）」の二重使用──「忘れられた本」と「忘れられた花」。白昼夢に沈む彼女が現実の物（読んでいた本、手に持っていた花）を忘却した瞬間を外から観察する視点。詩は彼女の内面（白昼夢）から彼女を外側から見る視点へと完全に翻転して閉じる──夢の深さが最終的に行為（花が落ちる）として外化される。絵の中でジェーン・モリスが持つスノードロップ（またはその代替の花）に対応し、ロセッティが額縁内に閉じ込めた「一瞬の記念碑（moment's monument）」として機能する。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "intertextual",
+      "anchor": "Within the branching shade of Reverie",
+      "body": "クリスティーナ・ロセッティ「Monna Innominata」との対照：兄ダンテ・ゲイブリエルが外から女性の夢想を観察・賛美するのに対し、妹クリスティーナは女性の一人称の内側から愛の不可能性を語る。「Reverie（夢想）」という主題はロセッティ兄妹の詩学に共通する語彙圏を形成するが、視点の位置（外部観察者か内部語り手か）が根本的に異なる。また「忘れられた本」のモチーフはダンテ『地獄篇』第5歌のフランチェスカとパオロが「ランスロ物語」の本を読んでいたエピソード（「その日それ以上読み進めなかった」）との共鳴も指摘できる。",
+      "targetId": "rossetti_monna_innominata",
+      "targetParagraphId": null
+    }
+  ]
+}
