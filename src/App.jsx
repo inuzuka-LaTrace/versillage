@@ -251,7 +251,7 @@ export default function App() {
     setTexts(allTexts);
   const timer = setTimeout(() => {
     setLoading(false);
-  }, 5000);
+  }, 5300);
 
   return () => clearTimeout(timer);
 }, []);
