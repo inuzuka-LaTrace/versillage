@@ -1,0 +1,88 @@
+{
+  "id": "d_g_rossetti_pandora",
+  "title": "Pandora",
+  "author": "Dante Gabriel Rossetti",
+  "source": "Poems, Ellis & Green, London, 1870 (初版). 改訂収録: Poems. A New Edition, Ellis & White, London, 1881. Wikisource底本: Pictures & poems/Pandora (wikisource.org). テキスト照合: Rossetti Archive, University of Virginia (rossettiarchive.iath.virginia.edu/docs/s224.rap.html)",
+  "year": "1869–1870",
+  "firstPublication": "Penkill Proofs, August 1869（私家版）; 公刊初出: Poems, Ellis & Green, London, 1870",
+  "difficulty": "上級",
+  "category": "d_g_rossetti",
+  "originalLang": "en-GB",
+  "modernRelevance": "★★★★☆",
+  "context": "ダンテ・ゲイブリエル・ロセッティが1869年末から制作した油彩画《パンドラ》（1871年完成、ジェーン・モリスをモデルとする）に付したソネット。画家がキャンバスを仕上げるのと並行して詩を書き、額縁内側にその全文を刻んだ。ペトラルカ形式のソネット（ABBA ABBA / CDE CDE）14行から成る。\n\n第一オクターヴ（問い）：「パンドラ、終わりとは何か？」という連続した問いかけ──オリュンポスの神々の合議（Olympian consistory）がなぜパンドラを「半神的」存在として造ったのか。ユノーの威厳、パラスの叡智、ウェヌスの眼差しに潜むプロセルピナ（死の女神）の視線──神の属性が人間の女性に宿ることで「致命的なもの」に転化する逆説。\n\n第二セステット（宣告）：箱（casket）から解き放たれた「翼ある情欲」が世界を飛び回る。「閉じることのできない潘朵拉の匣」というモチーフが、ロセッティ自身の伝記的文脈──亡き妻エリザベス・シダルの棺から詩稿を掘り起こした行為──と重なる。最終行「希望はまだ生きているのか死んでいるのか」という問いは回答なく終わる。\n\nジェーン・モリス（ウィリアム・モリスの妻）へのロセッティの長期的な愛着の産物。画中の閉じられた匣と、解答なき問いで閉じるソネットとが、詩と絵画の二重構造を形成する。",
+  "keywords": [
+    "パンドラ",
+    "ソネット",
+    "前ラファエル派",
+    "ジェーン・モリス",
+    "オリュンポス",
+    "希望",
+    "匣",
+    "「絵のための詩」",
+    "ロセッティ",
+    "プロセルピナ",
+    "半神的",
+    "情欲の翼"
+  ],
+  "relatedTexts": [
+    "d_g_rossetti_lilith",
+    "d_g_rossetti_mary_magdalene",
+    "rossetti_monna_innominata",
+    "swinburne_anactoria",
+    "rossetti_vanity_of_vanities"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "verses": "v.1–8",
+      "original": "What of the end, Pandora? Was it thine,\nThe deed that set these fiery pinions free?\nAh! wherefore did the Olympian consistory\nIn its own likeness make thee half divine?\nWas it that Juno's brow might stand a sign\nFor ever and the mien of Pallas be\nA deadly thing? and that all men might see\nIn Venus' eyes the gaze of Proserpine?",
+      "provisionalTranslation": "終わりとは何か、パンドラよ？それはそなたの\n行為だったのか──これらの炎ある翼を解き放った？\nああ、なぜオリュンポスの合議所は\nその似姿においてそなたを半神的に造ったのか？\nユノーの額が永遠に一つの兆しとして立ち、\nパラスの風貌が致命的なものであるように？\nそして人間の誰もがウェヌスの眼の中に\nプロセルピナの視線を見出すように？"
+    },
+    {
+      "id": 2,
+      "verses": "v.9–14",
+      "original": "What of the end? These beat their wings at will,\nThe ill-born things, the good things turned to ill,—\nPowers of the impassioned hours prohibited.\nAye, clench the casket now! Whither they go\nThou mayst not dare to think: nor canst thou know\nIf Hope still pent there be alive or dead.",
+      "provisionalTranslation": "終わりとは何か？それらは思うままに翼を打つ、\n生まれながらに悪しきもの、善きものが悪に転じたもの──\n禁じられた情熱の時間の諸力よ。\nそうだ、今こそ匣を握りしめよ！それらがどこへ行くか\nそなたは考えることさえ敢えてできない──知ることもできない、\n閉じ込められた希望がそこでまだ生きているのか死んでいるのかを。"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "the Olympian consistory\nIn its own likeness make thee half divine",
+      "body": "「オリュンポスの合議所（consistory）」──ローマ教会の用語（consistorium）を神話世界に転用した高度に詩的な表現。ヘシオドス『仕事と日』によれば、パンドラはヘパイストスが粘土で形作り、各神が贈り物を与えて完成させた──美はアフロディテ、知恵はアテナ、雄弁はヘルメスから。「その似姿において（In its own likeness）」という聖書的表現（創世記1:26「我々の像として」）の流用が、神話と宗教の重層を生む。神が自らの属性の写しを人間の女体に刻み込んだ行為への告発。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "glossary",
+      "anchor": "In Venus' eyes the gaze of Proserpine",
+      "body": "ウェヌス（愛・美・欲望）の眼の中にプロセルピナ（冥界の女王・死）の視線が宿る──美の中に死が隠れているという象徴的重層。プロセルピナはロセッティが繰り返し描いた主題（1874年の同名油彩画）。愛と死の混在は前ラファエル派女性像の核心であり、本詩の問い「なぜ神々は彼女をこのように造ったか」への答えが、この一行に圧縮されている。ジェーン・モリスをモデルとした絵画と照らすと、実在の女性への羨望と危惧が重なる。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "prosody",
+      "anchor": "Was it thine,\nThe deed that set these fiery pinions free?",
+      "body": "ペトラルカ形式ソネット（ABBA ABBA / CDE CDE）。韻脚はiambic pentameter（弱強五歩格）。第1行末の「thine」に対する第4行末「divine」、第2行末「free」に対する第7行末「see」というABBA韻が第一四行連句を締める。冒頭「WHAT of the end」の大文字Wはウロコ文字（versal）──画家が絵の付属ソネットとして版面に書いた際の装飾的慣習。本詩のオクターヴ全体は疑問文の連続で成り立ち、回答はセステットに持ち越されるが、セステットもまた疑問で終わる──問いが問いに解消される詩的構造。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "Powers of the impassioned hours prohibited.",
+      "body": "「禁じられた情熱の時間の諸力（Powers of the impassioned hours prohibited）」──頭韻（alliteration）に加え、三語全てがPで始まる音響的圧縮。「impassioned hours」は愛欲・野心・嫉妬・苦悩などパンドラの箱から解き放たれた諸悪の内容を示唆するが、ロセッティは具体名を与えない。「prohibited（禁じられた）」という形容が「powers（諸力）」に後置されることで、それらが神の禁令によって封印されていた──しかし今や解放された──という含意が生まれる。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "glossary",
+      "anchor": "clench the casket now",
+      "body": "「匣（casket）」──ロセッティはギリシャ語原典（ヘシオドス）の「pithos（甕）」でなく、ルネプリエールの神話辞典が誤って伝えた「box（箱）」の系譜に従う。絵画では豪華な宝石箱として描かれ、額縁の銘文「Nascitur ignescitur（炎より生まれ炎となる）」と対応する。「Aye, clench（そうだ、握りしめよ）」の命令形はパンドラへの直接呼びかけ──しかし諷刺的に、既に遅すぎる。絵の中でジェーン・モリスの手が匣を固く握る場面がこの詩行に対応する。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "intertextual",
+      "anchor": "If Hope still pent there be alive or dead.",
+      "body": "ヘシオドス神話において、パンドラの箱の底に最後に残ったのは「Elpis（希望）」──唯一飛び出さなかった存在。ロセッティはその希望が「まだ生きているのか死んでいるのか（alive or dead）」を問うことで、神話の楽観的な余韻を疑問に付す。同時代的文脈：1869年、ロセッティは亡き妻エリザベス・シダルの棺を掘り起こし、詩稿を回収した（Poems, 1870に収録）。「封印された箱を開ける」という行為の個人的なエコーが、この最終行に沈殿している。希望が生きているか死んでいるかを知ることができない──という不可知の宣言でソネットは閉じる。",
+      "targetId": "rossetti_vanity_of_vanities",
+      "targetParagraphId": null
+    }
+  ]
+}
