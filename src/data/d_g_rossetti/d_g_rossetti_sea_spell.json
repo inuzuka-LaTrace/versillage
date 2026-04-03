@@ -1,0 +1,99 @@
+{
+  "id": "d_g_rossetti_sea_spell",
+  "title": "A Sea-Spell",
+  "author": "Dante Gabriel Rossetti",
+  "source": "Ballads and Sonnets, Ellis & White, London, 1881（書籍初出）. Wikisource底本: Pictures & poems/A Sea-Spell (en.wikisource.org/w/index.php?title=Pictures_%26_poems/A_Sea-Spell&oldid=15462931). テキスト照合: Rossetti Archive, University of Virginia (rossettiarchive.iath.virginia.edu/docs/23-1869.s248.raw.html); Wikipedia: A Sea-Spell",
+  "year": "1869–1881",
+  "firstPublication": "ソネット執筆：1869年（フェアコピー：1870年4月、大英図書館蔵 MS. add 41130）; 書籍初出: Ballads and Sonnets, Ellis & White, London, 1881",
+  "difficulty": "上級",
+  "category": "d_g_rossetti",
+  "originalLang": "en-GB",
+  "modernRelevance": "★★★★☆",
+  "context": "1869年に書かれ1877年完成の油彩画《海の呪文》（ハーヴァード美術館所蔵）に付したソネット。モデルはロセッティの専属モデル、アレクサ・ウィルディング。兄弟ウィリアム・マイケル・ロセッティは主題を「海鳥を引き寄せ、やがて船乗りを死に招く竪琴弾きの海の妖精（セイレン）」と説明した。\n\n構造：ペトラルカ形式ソネット（ABBA ABBA / CDCD EE）。オクターヴ（v.1–8）がセイレンの演奏と彼女自身が聴く「冥界の囁き」の謎を描き、セステット（v.9–14）でその呪文が外部に向けて解放され、「運命の船乗り（fated mariner）」が死に向かって岩を登る場面で締め括られる。\n\n詩と絵画の「二重性」の特殊性：絵画より8年先にソネットが書かれた逆転関係。ロセッティ研究者アゴスタは「芸術が自然に対して独立し勝利する」という主題を読み取り、セイレンが海鳥を引き付ける場面を《ヴェロニカ・ヴェロネーゼ》（鳥が演奏者を鼓舞する）の逆転として解釈した。呪文（spell）は詩の韻律・音楽・魔法の三者を同時に指す語として機能する。",
+  "keywords": [
+    "セイレン",
+    "竪琴",
+    "呪文（spell）",
+    "アレクサ・ウィルディング",
+    "前ラファエル派",
+    "ソネット",
+    "「絵のための詩」",
+    "運命の船乗り",
+    "海の妖精",
+    "冥界の囁き",
+    "芸術と自然"
+  ],
+  "relatedTexts": [
+    "d_g_rossetti_pandora",
+    "d_g_rossetti_proserpina",
+    "d_g_rossetti_day_dream",
+    "d_g_rossetti_lilith",
+    "swinburne_anactoria"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "verses": "v.1–8",
+      "original": "Her lute hangs shadowed in the apple-tree,\nWhile flashing fingers weave the sweet-strung spell\nBetween its chords; and as the wild notes swell,\nThe sea-bird for those branches leaves the sea.\nBut to what sound her listening ear stoops she?\nWhat netherworld gulf-whispers doth she hear,\nIn answering echoes from what planisphere,\nAlong the wind, along the estuary?",
+      "provisionalTranslation": "彼女の竪琴はリンゴの木の陰に掛かっている、\n閃く指が弦の間に甘く張られた呪文を織りなす間も。\n野生の音が膨れ上がるにつれ、\n海鳥は海を離れ、その枝へと向かう。\nしかし彼女は何の音に耳を傾け身を屈めるのか？\n彼女はどんな冥界の淵の囁きを聞いているのか、\nいかなる天球からの答える木霊を、\n風に乗って、河口を伝って？"
+    },
+    {
+      "id": 2,
+      "verses": "v.9–14",
+      "original": "She sinks into her spell: and when full soon\nHer lips move and she soars into her song,\nWhat creatures of the midmost main shall throng\nIn furrowed surf-clouds to the summoning rune:\nTill he, the fated mariner, hears her cry,\nAnd up her rock, bare-breasted, comes to die?",
+      "provisionalTranslation": "彼女は自らの呪文の中へと沈んでいく。やがて間もなく\n彼女の唇が動き、歌へと羽ばたくとき、\n大海の真只中のいかなる生き物たちが群れをなすことか\n召喚のルーン文字に向かって、畝る波頭の雲の中を。\nついに彼──運命の船乗り──が彼女の叫びを聞き、\n裸の胸で岩を登り、死にやって来るまで。"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "glossary",
+      "anchor": "the sweet-strung spell",
+      "body": "「spell（呪文・綴り）」──ロセッティがこの語に込めた三重の意味。①呪術的な魔法（セイレンの誘惑力）、②詩の言語的魔力（音と意味の綴り）、③音楽の魅了（弦楽器の演奏）。「sweet-strung（甘く張られた）」という複合形容詞が竪琴の弦と呪文の甘美さを結合する。タイトルの「A Sea-Spell」はこの三重性を圧縮したもの──海という外部空間と呪文という言語・音楽的力の交点。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "The sea-bird for those branches leaves the sea.",
+      "body": "セイレンが海鳥を海から引き寄せるこの場面は、研究者アゴスタが指摘するように《ヴェロニカ・ヴェロネーゼ》との意図的な逆転。《ヴェロニカ》では鳥の歌が演奏者（人間）を鼓舞するのに対し、《海の呪文》では演奏者（セイレン）が鳥（自然）を支配する──芸術が自然に対して優位を占めるというロセッティ的主題の体現。ロセッティは手紙で「魔法の旋律（magic lay）」と表現した。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "prosody",
+      "anchor": "But to what sound her listening ear stoops she?\nWhat netherworld gulf-whispers doth she hear,\nIn answering echoes from what planisphere,\nAlong the wind, along the estuary?",
+      "body": "オクターヴ後半の四行が連続する疑問文として構成される──「何の音に？」「何の囁きを？」「いかなる天球から？」。これらの問いは答えられないまま風と河口に消える。「netherworld gulf-whispers（冥界の淵の囁き）」は呪文の起源が人間世界を超えた場所にあることを示す。「planisphere（天球儀）」という天文学的語彙が、呪文の宇宙的規模を暗示する。同じ構造が連続するアナフォラ「Along the wind, along the estuary」で締め括られる。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "glossary",
+      "anchor": "netherworld gulf-whispers",
+      "body": "「netherworld（冥界・地下世界）」──セイレンは単なる海の妖精でなく、冥界の声を媒介する存在として描かれる。ホメロス『オデュッセイア』でセイレンは過去と死者の知識を歌うと語られる。ロセッティの詩ではその声が「gulf（深淵）の囁き」として聴覚化される。「netherworld」という語はロセッティの詩群に繰り返し現れる地下・死・超自然の語彙圏と対応する。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "She sinks into her spell",
+      "body": "「呪文の中に沈む（sinks into her spell）」──セイレン自身が自らの呪文に呑み込まれるという逆説。批評家はここに「芸術家が自らの作品に囚われる」という自己言及的主題を読む。絵画でもアレクサ・ウィルディングの表情は「悲しみと倦怠感（sadness and ennui）」に満ちており、魅了する者自身もまた魅了されている。「sinks」と「soars（羽ばたく）」の下降・上昇の対立が同一行で展開される。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "prosody",
+      "anchor": "What creatures of the midmost main shall throng\nIn furrowed surf-clouds to the summoning rune:",
+      "body": "「midmost main（大海の真只中）」「furrowed surf-clouds（畝る波頭の雲）」「summoning rune（召喚のルーン文字）」──三連続する複合名詞・形容詞群が呪文の視覚的・聴覚的広がりを一気に展開する。「rune（ルーン）」はゲルマン・北欧の魔法文字であり、詩・呪文・秘密の書き文字を同時に意味する──セイレンの歌が文字（詩）と音楽と魔術の交点に置かれることを明示する語。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "Till he, the fated mariner, hears her cry,\nAnd up her rock, bare-breasted, comes to die?",
+      "body": "「the fated mariner（運命の船乗り）」──コールリッジ『老水夫の歌』（The Rime of the Ancient Mariner, 1798）との響き合い。しかしコールリッジの船乗りが呪いを受けながら生き続けるのに対し、ロセッティの船乗りは岩を登りきって死ぬ。「bare-breasted（裸の胸で）」という身体的な細部がソネットの最終行に唐突に現れ、官能と死の合一を体現する。詩全体が疑問形（「何の音を？」「いかなる生き物が？」「来るまで？」）の連鎖として構成され、最終行の「来るのか？」という問いが解答なく閉じる──呪文は詩の外で完成する。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "intertextual",
+      "anchor": "the fated mariner, hears her cry,\nAnd up her rock, bare-breasted, comes to die?",
+      "body": "スウィンバーン「アナクトリア」（Anactoria）との対照。スウィンバーンでは官能と死は詩人の声（サッポー）が歌い手として自ら担うのに対し、ロセッティではセイレンが歌い死ぬのは他者（船乗り）。どちらの詩でも「歌うこと」が「死」と不可分に結びつくが、死の主体と客体の配置が反転する。また両詩ともに女性の歌声が持つ破壊力を主題とし、前ラファエル派とスウィンバーンの「危険な女（femme fatale）」の詩学的系譜に位置する。",
+      "targetId": "swinburne_anactoria",
+      "targetParagraphId": null
+    }
+  ]
+}
