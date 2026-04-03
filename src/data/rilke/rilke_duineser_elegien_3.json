@@ -1,0 +1,122 @@
+{
+  "id": "rilke_duineser_elegien_3",
+  "title": "Duineser Elegien — Die dritte Elegie",
+  "author": "Rainer Maria Rilke",
+  "source": "Duineser Elegien, Insel-Verlag, Leipzig, 1923（初版）. 底本: Rainer Maria Rilke: Werke. Kommentierte Ausgabe in vier Bänden, Bd. 2, Insel Verlag, Frankfurt am Main, 1996. PDFテキスト照合: Project Gutenberg DE; Wikisource DE",
+  "year": "1912–1913",
+  "firstPublication": "草稿執筆：1912年秋、ドゥイーノ城；改稿：1913年初頭、ロンダ（スペイン）。初出版：Insel-Verlag, Leipzig, 1923年2月",
+  "difficulty": "上級",
+  "category": "rilke",
+  "originalLang": "de-DE",
+  "modernRelevance": "★★★★★",
+  "context": "第3悲歌は『ドゥイノの悲歌』の中で最も「深層心理」的な詩として知られる。第1・2悲歌が天使と人間の関係を主題としたのに対し、第3悲歌は恋愛の表層の下に潜む「血の神（Fluß-Gott des Bluts）」──性的衝動・先祖由来の暗い力・無意識の深層──を主題とする。\n\n構造：四部から成る。第一部（v.1–9）：「血の神」の呼び出し──恋愛の表向きの清潔さの背後に、海神ネプトゥヌスのような暗い欲動の神が潜む。第二部（v.10–25）：恋する若者の内面──愛する者は意識的に女性に引きつけられるのでなく、「古い恐怖（ältere Schrecken）」に触発される。第三部（v.26–65）：母親の保護と原初の世界──母は「混沌を遮った」存在であり、子の眠りを守ったが、眠りの中では制御できない「血の源流（Blut der Herkunft）」が溢れる。第四部（v.66–85）：娘への呼びかけ──女性（Mädchen）が意図せず「先史時代（Vorzeit）」を呼び起こし、死んだ子供たちまでが彼女を求める。最後の「彼を留めよ（Verhalt ihn）」という命令が宙吊りのまま終わる。\n\n詩的核心：個人の愛は「数え切れない醸造（das zahllos Brauende）」──数百万年の先祖の欲動・恐怖・記憶の結晶として体験される。「われわれは花のように一年だけから愛するのではない」（v.66）という宣言が、リルケの「愛の地質学」を定式化する。",
+  "keywords": [
+    "血の神（Fluß-Gott des Bluts）",
+    "ネプトゥヌス",
+    "先祖由来の欲動",
+    "母親",
+    "混沌",
+    "血の源流",
+    "Vorzeit（先史時代）",
+    "無意識",
+    "愛の地質学",
+    "娘（Mädchen）",
+    "死んだ子供たち",
+    "第3悲歌"
+  ],
+  "relatedTexts": [
+    "rilke_duineser_elegien_1",
+    "rilke_duineser_elegien_2",
+    "trakl_helian",
+    "trakl_de_profundis",
+    "hofmannsthal_weltgeheimnis"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "verses": "v.1–9",
+      "original": "Eines ist, die Geliebte zu singen. Ein anderes, wehe,\njenen verborgenen schuldigen Fluß-Gott des Bluts.\nDen sie von weitem erkennt, ihren Jüngling, was weiß er\nselbst von dem Herren der Lust, der aus dem Einsamen oft,\nehe das Mädchen noch linderte, oft auch als wäre sie nicht,\nach, von welchem Unkenntlichen triefend, das Gotthaupt\naufhob, aufrufend die Nacht zu unendlichem Aufruhr.\nO des Blutes Neptun, o sein furchtbarer Dreizack,\no der dunkele Wind seiner Brust aus gewundener Muschel.",
+      "provisionalTranslation": "一つのことは、愛する人を歌うことだ。もう一つのことは、ああ、\nあの隠された罪ある血の川の神を。\n彼女が遠くから認識する、あの若者を──彼は自分自身\n悦の主人のことをどれだけ知っているのか。孤独の中からしばしば、\n娘がまだ和らげる前に、しばしばまるで彼女が存在しないかのように、\nああ、なんという認識不可能なものから滴りながら、その神の頭を\n持ち上げ、夜を無限の騒乱へと呼び出していた神の頭を。\nおお、血のネプトゥヌスよ、おおその恐ろしい三叉の槍よ、\nおお螺旋の貝殻から吹く彼の胸の暗い風よ。"
+    },
+    {
+      "id": 2,
+      "verses": "v.10–25",
+      "original": "Horch, wie die Nacht sich muldet und höhlt. Ihr Sterne,\nstammt nicht von euch des Liebenden Lust zu dem Antlitz\nseiner Geliebten? Hat er die innige Einsicht\nin ihr reines Gesicht nicht aus dem reinen Gestirn?\nDu nicht hast ihm, wehe, nicht seine Mutter\nhat ihm die Bogen der Braun so zur Erwartung gespannt.\nNicht an dir, ihn fühlendes Mädchen, an dir nicht\nbog seine Lippe sich zum fruchtbarern Ausdruck.\nMeinst du wirklich, ihn hätte dein leichter Auftritt\nalso erschüttert, du, die wandelt wie Frühwind?\nZwar du erschrakst ihm das Herz; doch ältere Schrecken\nstürzten in ihn bei dem berührenden Anstoß.\nRuf ihn ... du rufst ihn nicht ganz aus dunkelem Umgang.\nFreilich, er will, er entspringt; erleichtert gewöhnt er\nsich in dein heimliches Herz und nimmt und beginnt sich.\nAber begann er sich je?",
+      "provisionalTranslation": "聞け、いかに夜が窪み、空洞になっていくかを。星々よ、\n愛する者の愛する人の顔への悦びは\nお前たちから来るのではないのか？お前たちは彼に、純粋な星から\n彼女の純粋な顔への深い洞察を与えなかったのか？\nお前ではなかった、ああ、彼の母親でもなかった\n彼に眉の弓をこれほど期待へと張ったのは。\nお前ではなかった、彼を感じる娘よ、お前ではなかった\n彼の唇をより豊かな表現へと曲げたのは。\n本当にお前は思うのか、お前の軽い登場が\nこれほど彼を震わせたと、春風のように歩くお前が？\n確かにお前は彼の心を驚かせた；しかし古い恐怖が\n触れるきっかけに彼の中へ突き崩れ込んだのだ。\n彼を呼べ……お前は彼を暗い交わりから完全には呼び出せない。\n確かに彼は望む、彼は解放される；解放されて彼は\nお前の秘密の心に慣れ、取り入り始める。\nしかし彼は自分自身を始めたことがあったか？"
+    },
+    {
+      "id": 3,
+      "verses": "v.26–65",
+      "original": "Mutter, du machtest ihn klein, du warsts, die ihn anfing;\ndir war er neu, du beugtest über die neuen\nAugen die freundliche Welt und wehrtest der fremden.\nWo, ach, hin sind die Jahre, da du ihm einfach\nmit der schlanken Gestalt wallendes Chaos vertratst?\nVieles verbargst du ihm so; das nächtlich-verdächtige Zimmer\nmachtest du harmlos, aus deinem Herzen voll Zuflucht\nmischtest du menschlichern Raum seinem Nacht-Raum hinzu.\nNicht in die Finsternis, nein, in dein näheres Dasein\nhast du das Nachtlicht gestellt, und es schien wie aus Freundschaft.\nNirgends ein Knistern, das du nicht lächelnd erklärtest,\nso als wüßtest du längst, wann sich die Diele benimmt ...\nUnd er horchte und linderte sich. So vieles vermochte\nzärtlich dein Aufstehn; hinter den Schrank trat\nhoch im Mantel sein Schicksal, und in die Falten des Vorhangs\npaßte, die leicht sich verschob, seine unruhige Zukunft.\nUnd er selbst, wie er lag, der Erleichterte, unter\nschläfernden Lidern deiner leichten Gestaltung\nSüße lösend in den gekosteten Vorschlaf —:\nschien ein Gehüteter ... Aber innen: wer wehrte,\nhinderte innen in ihm die Fluten der Herkunft?\nAch, da war keine Vorsicht im Schlafenden; schlafend,\naber träumend, aber in Fiebern: wie er sich ein-ließ.\nEr, der Neue, Scheuende, wie er verstrickt war,\nmit des innern Geschehens weiterschlagenden Ranken\nschon zu Mustern verschlungen, zu würgendem Wachstum, zu tierhaft\njagenden Formen. Wie er sich hingab —. Liebte.\nLiebte sein Inneres, seines Inneren Wildnis,\ndiesen Urwald in ihm, auf dessen stummem Gestürztsein\nlichtgrün sein Herz stand. Liebte. Verließ es, ging die\neigenen Wurzeln hinaus in gewaltigen Ursprung,\nwo seine kleine Geburt schon überlebt war. Liebend\nstieg er hinab in das ältere Blut, in die Schluchten,\nwo das Furchtbare lag, noch satt von den Vätern. Und jedes\nSchreckliche kannte ihn, blinzelte, war wie verständigt.\nJa, das Entsetzliche lächelte ... Selten\nhast du so zärtlich gelächelt, Mutter. Wie sollte\ner es nicht lieben, da es ihm lächelte. Vor dir\nhat ers geliebt, denn, da du ihn trugst schon,\nwar es im Wasser gelöst, das den Keimenden leicht macht.",
+      "provisionalTranslation": "母よ、お前が彼を小さくした、お前こそが彼を始めた者だった；\nお前にとって彼は新しかった、お前は新しい\n目の上に優しい世界を曲げかけ、異質な世界を遠ざけた。\nああ、どこへ行ったのか、お前が彼にただ\nほっそりした姿で波打つ混沌を遮った年月は？\nお前はこうして多くのものを彼から隠した；夜の怪しい部屋を\nお前は無害なものにした、避難場所に満ちたお前の心から\nお前は彼の夜の空間にもっと人間的な空間を混ぜた。\n暗闇の中にでなく、そうでなく、お前の近しい存在の中に\nお前は夜明かりを置いた、するとそれは友情のように輝いた。\nどんな軋みもお前が微笑みながら説明しなかったものはなく、\nまるでお前がとうの昔から知っているかのように、いつ床板が振る舞うかを……\nそして彼は聞き耳を立て、和らいだ。お前の立ち上がりの\n優しさがこれほど多くのことをした；戸棚の後ろへ退いた\nマントを高く羽織って彼の運命が、そしてカーテンの折り目の中に\n軽く動く折り目の中に、彼の不安な未来が収まった。\nそして彼自身、いかに横になっていたことか、解放された者として、\n眠りに誘う瞼の下でお前の軽い姿の\n甘さを味わいながら前眠りへと溶かしながら──：\n守られた者のように見えた……しかし内側では：誰が防ぎ、\n彼の内側で出自の洪水を妨げたか？\nああ、眠れる者には何の警戒もなかった；眠りながら、\nしかし夢見ながら、しかし熱の中で：いかに彼は身を委ねたことか。\n彼、新しい者、臆病な者、いかに絡め取られていたことか、\n内側の出来事のさらに打ち続けるつる草と共に\nすでに模様へと絡み合い、締め付けるような成長へ、獣のように\n追いかける形態へ。いかに彼は身を捧げたことか──。愛した。\n自らの内側を愛した、内側の荒野を愛した、\n彼の中にあるその原始の森を、その黙した倒れ込みの上に\n淡い緑に彼の心が立っていた。愛した。それを去り、\n自らの根を経て巨大な起源の中へと出ていった、\nそこでは彼の小さな誕生はすでに生き延びられていた。愛しながら\n彼はより古い血の中へ、峡谷の中へと降りていった、\nそこで恐ろしいものが横たわっていた、まだ父祖たちで満腹して。そしてすべての\n恐るべきものが彼を知っていた、瞬きし、了解したかのようだった。\nそう、戦慄させるものが微笑んだ……滅多に\nお前はこれほど優しく微笑まなかった、母よ。どうして\n彼はそれを愛さないでいられようか、それが彼に微笑んだのだから。お前より前に\n彼はそれを愛した、なぜならお前がすでに彼を宿していたとき、\nそれは発芽するものを軽くする水の中に溶けていたから。"
+    },
+    {
+      "id": 4,
+      "verses": "v.66–85",
+      "original": "Siehe, wir lieben nicht, wie die Blumen, aus einem\neinzigen Jahr; uns steigt, wo wir lieben,\nunvordenklicher Saft in die Arme. O Mädchen,\ndies: daß wir liebten in uns, nicht Eines, ein Künftiges, sondern\ndas zahllos Brauende; nicht ein einzelnes Kind,\nsondern die Väter, die wie Trümmer Gebirgs\nuns im Grunde beruhn; sondern das trockene Flußbett\neinstiger Mütter —; sondern die ganze\nlautlose Landschaft unter dem wolkigen oder\nreinen Verhängnis —: dies kam dir, Mädchen, zuvor.\nUnd du selber, was weißt du —, du locktest\nVorzeit empor in dem Liebenden. Welche Gefühle\nwühlten herauf aus entwandelten Wesen. Welche\nFrauen haßten dich da. Was für finstere Männer\nregtest du auf im Geäder des Jünglings? Tote\nKinder wollten zu dir ... O leise, leise,\ntu ein liebes vor ihm, ein verläßliches Tagwerk, — führ ihn\nnah an den Garten heran, gieb ihm der Nächte\nÜbergewicht ......\nVerhalt ihn ......",
+      "provisionalTranslation": "見よ、われわれは花のように一つの\n年だけから愛するのではない；われわれが愛する場所に\n太古からの樹液が腕へと昇ってくる。おお娘よ、\nこのことを：われわれが自らの中で愛したのは一つのもの、一人の未来の者ではなく、\n数え切れないほど醸造するものを；一人の子供ではなく、\n山の廃墟のようにわれわれの底に\n横たわる父祖たちを；かつての\n母たちの干上がった川床を──；曇った、あるいは\n澄んだ運命の下の全体の\n無音の景色を──：これがお前に先んじた、娘よ。\nそしてお前自身、何を知っているのか──お前は\n愛する者の中で先史時代を呼び起こした。どんな感情が\n変容した存在たちから湧き上がってきたことか。どんな\n女たちがそこでお前を憎んだことか。どんな暗い男たちが\n若者の血管の中でお前によって目覚めさせられたことか？死んだ\n子供たちがお前のところへ行こうとした……おお静かに、静かに、\n彼の前でなにか愛しいことをせよ、信頼できる日課を──彼を\n庭の近くへ連れ出せ、夜々の\n重さを彼に与えよ……\n彼を留めよ……"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "glossary",
+      "anchor": "jenen verborgenen schuldigen Fluß-Gott des Bluts.",
+      "body": "「血の川の神（Fluß-Gott des Bluts）」──リルケの造語的概念。川の神（Flußgott）という古典神話的形象を「血（Blut）」に結びつけることで、性的欲動・先祖由来の暗い力・集合的無意識を神話的に人格化する。「罪ある（schuldigen）」という形容は原罪的な含意を持ちつつ、ユダヤ＝キリスト教的な道徳的罪でなく存在論的な「古さ」「暗さ」を指す。フロイトのイドとの比較が批評史上度々なされるが、リルケの「血の神」はフロイトの「無意識」より地質学的・神話的な深さを持つ。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "O des Blutes Neptun, o sein furchtbarer Dreizack,\no der dunkele Wind seiner Brust aus gewundener Muschel.",
+      "body": "「血のネプトゥヌスよ、その恐ろしい三叉の槍よ、螺旋の貝殻から吹く彼の胸の暗い風よ」──三連の「o」による讃歌形式（Hymnus）が皮肉を含む：第1悲歌では天使を讃える形式で始まったが、ここでは暗い欲動の神を同じ讃歌形式で呼び出す。ネプトゥヌス（Neptun）は海神であり、血の流れ（Blut-Fluß）は血管を流れる河として神話化される。「螺旋の貝殻（gewundene Muschel）」から吹く風──貝殻は海の音を伝えるという民俗的信仰が、欲動の「原初の音響」として機能する。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "doch ältere Schrecken\nstürzten in ihn bei dem berührenden Anstoß.",
+      "body": "「古い恐怖が触れるきっかけに彼の中へ突き崩れ込んだ」──第3悲歌の中心命題。個人的な恋愛の「きっかけ（Anstoß）」が「古い恐怖（ältere Schrecken）」を解放する──恋する者は個人的欲望でなく、先祖由来の累積された恐怖・欲動・記憶の放出を経験する。ハイデガーが「気分（Stimmung）」として論じた「すでにそこにあること（Schon-sein）」の感覚に相当する：人間は常に自らが選ばなかった過去を「引き受けている（Geworfen）」存在。リルケはこの被投性を「古い恐怖」という詩的形象で捉える。"
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "du beugtest über die neuen\nAugen die freundliche Welt und wehrtest der fremden.",
+      "body": "「お前は新しい目の上に優しい世界を曲げかけ、異質な世界を遠ざけた」──母親の役割の哲学的定義。母は子の「世界形成（Weltbildung）」の最初の媒介者として、「友好的な世界（freundliche Welt）」と「異質な世界（fremde Welt）」を篩い分ける。この保護は愛情の行為でありながら、同時に限界を設ける行為でもある──保護された子は「原初の混沌（wallendes Chaos）」から切り離される。「スランクな姿で混沌を遮った（mit der schlanken Gestalt wallendes Chaos vertratst）」という詩句が、母体という「形態」が原初の無形の混沌を遮断することを示す。"
+    },
+    {
+      "paragraphId": 3,
+      "type": "prosody",
+      "anchor": "hinter den Schrank trat\nhoch im Mantel sein Schicksal, und in die Falten des Vorhangs\npaßte, die leicht sich verschob, seine unruhige Zukunft.",
+      "body": "「戸棚の後ろへ退いた、マントを高く羽織って彼の運命が、そしてカーテンの折り目の中に彼の不安な未来が収まった」──母に守られた眠りの空間における「運命の馴化」の映像。家具・戸棚・カーテンという日常的物象の中に、「運命（Schicksal）」と「未来（Zukunft）」という巨大な概念が収容される。この詩的手法──抽象を具体的空間に配置する──はリルケの「物の詩（Dinggedicht）」の応用であり、不安が「折り目」という縫い目に「収まる（paßte）」という動詞の精確さが際立つ。"
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "Liebte sein Inneres, seines Inneren Wildnis,\ndiesen Urwald in ihm, auf dessen stummem Gestürztsein\nlichtgrün sein Herz stand.",
+      "body": "「自らの内側を愛した、内側の荒野を──彼の中にある原始の森、その黙した倒れ込みの上に淡い緑に彼の心が立っていた」──第3悲歌の詩的核心。「原始の森（Urwald）」「倒れ込み（Gestürztsein）」「淡い緑（lichtgrün）」という三つの映像が、内的生命の最も原初的な層を描く。「倒れた木の上に新しい植物が育つ」という森の生態学的イメージが、先祖の廃墟（Trümmer）の上に個人的な感受性が育つという「愛の地質学」の視覚的表現。ブランショが論じた「原初の空間（l'espace originaire）」──意識以前の、しかし存在の根拠となる暗い深さ──との共鳴。"
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "Ja, das Entsetzliche lächelte ... Selten\nhast du so zärtlich gelächelt, Mutter.",
+      "body": "「戦慄させるものが微笑んだ……滅多にお前はこれほど優しく微笑まなかった、母よ」──第3悲歌の転倒点。「恐ろしいもの（Entsetzliche）」の微笑みと「母の微笑み」が突如比較される。両者ともに「愛する者を安心させる微笑み」だが、源泉が正反対──母の微笑みは保護・庇護であり、「恐ろしいもの」の微笑みは先祖由来の暗い力が若者を「認識（kennen）」した瞬間の信号。第1悲歌「美はただ恐ろしいものの始まり」という命題が、ここで母と欲動という身体的レベルで反復される。"
+    },
+    {
+      "paragraphId": 4,
+      "type": "commentary",
+      "anchor": "wir lieben nicht, wie die Blumen, aus einem\neinzigen Jahr; uns steigt, wo wir lieben,\nunvordenklicher Saft in die Arme.",
+      "body": "「われわれは花のように一つの年だけから愛するのではない；われわれが愛する場所に太古からの樹液が腕へと昇ってくる」──第3悲歌の哲学的核心。「一つの年（einem einzigen Jahr）」は現在の生の時間。「太古からの樹液（unvordenklicher Saft）」は先祖の数百万年を通じて流れてきた欲動の樹液。個人の恋愛感情は現在の意識の産物でなく、進化・系統・先祖の累積的経験の「流れ」として体験される。これはニーチェの「永遠回帰」とは異なる──リルケの「深層時間の愛」は反復でなく堆積・地層として把握される。"
+    },
+    {
+      "paragraphId": 4,
+      "type": "glossary",
+      "anchor": "das zahllos Brauende; nicht ein einzelnes Kind,\nsondern die Väter, die wie Trümmer Gebirgs\nuns im Grunde beruhn",
+      "body": "「数え切れないほど醸造するもの（zahllos Brauende）」──「brauen（醸造する）」という動詞が先祖の欲動の「発酵・醸成」を示す。「山の廃墟のように（wie Trümmer Gebirgs）」底に横たわる「父祖たち（Väter）」──山脈が崩れてできた瓦礫として先祖が個人の「底（Grunde）」に堆積する。ハイデガーは『存在と時間』で「歴史性（Geschichtlichkeit）」を現存在の「引き継ぎ（Erbe）」として論じたが、リルケの詩的表現はこの「引き継いだ過去」を地質学的・身体的イメージで捉える。「かつての母たちの干上がった川床（das trockene Flußbett / einstiger Mütter）」もまた、母系の記憶が「流れが去った後の地形」として残ることを示す。"
+    },
+    {
+      "paragraphId": 4,
+      "type": "prosody",
+      "anchor": "O leise, leise,\ntu ein liebes vor ihm, ein verläßliches Tagwerk, — führ ihn\nnah an den Garten heran, gieb ihm der Nächte\nÜbergewicht ......\nVerhalt ihn ......",
+      "body": "第3悲歌の最終5行──「おお静かに、静かに……彼を留めよ」。「leise（静かに）」の二重反復、「……」の三連省略、最後の「Verhalt ihn……（彼を留めよ）」の孤立した命令形──第3悲歌全体が「解放できない」という診断から始まり、「留める」という処方で宙吊りのまま終わる。「庭（Garten）」「夜々の重さ（Nächte Übergewicht）」という対照──庭は手入れされた人間の秩序、夜は制御できない「血の神」の領域。「留めよ」は不可能な命令として発せられる──第3悲歌は解決なく終わり、その未解決が第4悲歌（人形・劇場論）へ手渡される。"
+    }
+  ]
+}
