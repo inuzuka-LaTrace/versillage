@@ -7,6 +7,7 @@
   "firstPublication": "Le Figaro, 26 et 29 novembre, 3 décembre 1863",
   "difficulty": "上級",
   "category": "baudelaire_prose",
+  "originalLang": "fr-FR",
   "modernRelevance": "★★★★☆",
   "context": "第5章。ギースの制作方法——夜間の記憶作業、白紙への素早い書き付け——を論じながら、記憶と想像力を創造の中心に据える。印象派以前の「速度の美学」の理論化として重要。",
   "keywords": ["mémoire", "imagination", "composition", "rapidité", "nuit"],
