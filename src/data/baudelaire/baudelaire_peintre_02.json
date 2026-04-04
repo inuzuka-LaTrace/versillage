@@ -1,5 +1,5 @@
 {
-  "id": "baudelaire_peintre_2",
+  "id": "baudelaire_peintre_02",
   "title": "Le Peintre de la vie moderne (II) — Le Croquis de mœurs",
   "author": "Charles Baudelaire",
   "source": "Le Figaro, 1863",
@@ -11,7 +11,7 @@
   "modernRelevance": "★★★★☆",
   "context": "第2章。コンスタンタン・ギースのスケッチを論じながら、風俗画家の使命——新聞の挿絵や街頭スケッチに潜む詩的価値——を擁護する。速さと印象を重視する美学がここで明確に打ち出される。",
   "keywords": ["croquis", "mœurs", "rapidité", "impression", "journalisme"],
-  "relatedTexts": ["baudelaire_peintre_1", "baudelaire_peintre_3"],
+  "relatedTexts": ["baudelaire_peintre_01", "baudelaire_peintre_03"],
   "paragraphs": [
     {
       "id": 1,
