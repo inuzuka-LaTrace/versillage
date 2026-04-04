@@ -439,69 +439,68 @@ export default function FlashcardApp() {
   </span>
 
   <div className="flex-1 flex flex-col items-center justify-center overflow-y-auto py-4 w-full">
-    {/* ── ディクテーションモード専用の入力UI ── */}
-    {fc.mode === 'dictation' ? (
-      <div className="w-full h-full flex flex-col space-y-4">
-        {/* ヒントとしての訳文などを上部に小さく表示（オプション） */}
-        <p className={`text-sm font-serif text-center italic opacity-60 ${textMain}`}>
-          {frontText}
-        </p>
-        
-        {/* 入力エリア：反転（回答表示）前のみ表示 */}
-        {!fc.flipped && (
-          <textarea
-            autoFocus
-            className={`flex-1 w-full p-4 rounded-xl border font-serif text-base text-center leading-relaxed focus:outline-none focus:ring-2 focus:ring-amber-500/30 transition-all resize-none ${
-              darkMode ? 'bg-zinc-800/50 border-zinc-700 text-zinc-200' : 'bg-stone-50 border-stone-200 text-stone-800'
-            }`}
-            placeholder="ここに原文を書き写してください..."
-            value={fc.userInput || ''}
-            onChange={(e) => fc.setUserInput(e.target.value)}
-            onKeyDown={(e) => {
-              // Ctrl+Enter または Cmd+Enter で決定（めくる）
-              if ((e.ctrlKey || e.metaKey) && e.key === 'Enter') {
-                fc.setFlipped(true);
-              }
-            }}
-          />
-        )}
-        
-        {/* 回答表示後は、入力した内容を比較用に残すことも可能 */}
-        {fc.flipped && (
-          <div className={`p-4 rounded-xl border text-sm font-serif ${darkMode ? 'bg-zinc-800/30 border-zinc-700' : 'bg-stone-50 border-stone-100'}`}>
-             <p className={textSub}>あなたの入力:</p>
-             <p className={textMain}>{fc.userInput || '(未入力)'}</p>
-          </div>
-        )}
-      </div>
-    ) : (
-      /* ── 既存の通常モード / 空所補充モード ── */
-      <p className={`font-serif whitespace-pre-line text-center ${textMain} ${textSizeClass(frontText)}`}>
-        {fc.mode === 'cloze' 
-          ? frontText.split(/(\s+)/).map((token, i) => {
-              const isTarget = token.trim().length >= 5; 
-              if (isTarget) {
-                return (
-                  <span
-                    key={i}
-                    className={`mx-0.5 px-1 rounded transition-all duration-500 ${
-                      fc.flipped 
-                        ? (darkMode ? 'bg-amber-900/30 text-amber-200' : 'bg-amber-100 text-amber-800')
-                        : (darkMode ? 'bg-zinc-800 text-transparent select-none' : 'bg-stone-200 text-transparent select-none')
-                    } border-b ${darkMode ? 'border-zinc-600' : 'border-stone-300'}`}
-                  >
-                    {token}
-                  </span>
-                );
-              }
-              return <span key={i}>{token}</span>;
-            })
-          : frontText
-        }
+  {/* ── ディクテーションモード専用の入力UI ── */}
+  {fc.mode === 'dictation' ? (
+    <div className="w-full h-full flex flex-col space-y-4">
+      {/* ヒントとしての訳文などを上部に小さく表示（オプション） */}
+      <p className={`text-sm font-serif text-center italic opacity-60 ${textMain}`}>
+        {frontText}
       </p>
-    )}
-  </div>
-
+      
+      {/* 入力エリア：反転（回答表示）前のみ表示 */}
+      {!fc.flipped && (
+        <textarea
+          autoFocus
+          className={`flex-1 w-full p-4 rounded-xl border font-serif text-base text-center leading-relaxed focus:outline-none focus:ring-2 focus:ring-amber-500/30 transition-all resize-none ${
+            darkMode ? 'bg-zinc-800/50 border-zinc-700 text-zinc-200' : 'bg-stone-50 border-stone-200 text-stone-800'
+          }`}
+          placeholder="ここに原文を書き写してください..."
+          value={fc.userInput || ''}
+          onChange={(e) => fc.setUserInput(e.target.value)}
+          onKeyDown={(e) => {
+            if ((e.ctrlKey || e.metaKey) && e.key === 'Enter') {
+              fc.setFlipped(true);
+            }
+          }}
+        />
+      )}
+      
+      {/* 回答表示後は、入力した内容を比較用に残す */}
+      {fc.flipped && (
+        <div className={`p-4 rounded-xl border text-sm font-serif ${darkMode ? 'bg-zinc-800/30 border-zinc-700' : 'bg-stone-50 border-stone-100'}`}>
+           <p className={textSub}>あなたの入力:</p>
+           <p className={textMain}>{fc.userInput || '(未入力)'}</p>
+        </div>
+      )}
+    </div>
+  ) : (
+    /* ── 既存の通常モード / 空所補充モード ── */
+    <p className={`font-serif whitespace-pre-line text-center ${textMain} ${textSizeClass(frontText)}`}>
+      {fc.mode === 'cloze' 
+        ? frontText.split(/(\s+)/).map((token, i) => {
+            const isTarget = token.trim().length >= 5; 
+            if (isTarget) {
+              return (
+                <span
+                  key={i}
+                  className={`mx-0.5 px-1 rounded transition-all duration-500 ${
+                    fc.flipped 
+                      ? (darkMode ? 'bg-amber-900/30 text-amber-200' : 'bg-amber-100 text-amber-800')
+                      : (darkMode ? 'bg-zinc-800 text-transparent select-none' : 'bg-stone-200 text-transparent select-none')
+                  } border-b ${darkMode ? 'border-zinc-600' : 'border-stone-300'}`}
+                >
+                  {token}
+                </span>
+              );
+            }
+            return <span key={i}>{token}</span>;
+          })
+        : frontText
+      }
+    </p>
+  )}
+</div>
+              
   <p className={`text-xs font-sans text-center ${textSub} opacity-40 shrink-0`}>
     {fc.mode === 'dictation' && !fc.flipped ? "Ctrl + Enter で答え合わせ" : "タップ / Space で裏を見る"}
   </p>
