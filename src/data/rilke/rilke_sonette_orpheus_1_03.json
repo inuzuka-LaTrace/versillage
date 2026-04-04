@@ -1,0 +1,134 @@
+{
+  "id": "rilke_sonette_orpheus_1_03",
+  "title": "Die Sonette an Orpheus — Erster Teil, XI–XV",
+  "author": "Rainer Maria Rilke",
+  "source": "Die Sonette an Orpheus, Insel-Verlag, Leipzig, 1923（初版）. 底本: Rainer Maria Rilke: Werke. Kommentierte Ausgabe in vier Bänden, Bd. 1, Insel Verlag, Frankfurt am Main, 1996. テキスト照合: Wikisource DE (https://de.wikisource.org/wiki/Die_Sonette_an_Orpheus); Project Gutenberg DE",
+  "year": "1922",
+  "firstPublication": "草稿執筆：1922年2月2–5日、ミューゾット城（スイス）。初出版：Insel-Verlag, Leipzig, 1923年2月",
+  "difficulty": "上級",
+  "category": "rilke",
+  "originalLang": "de-DE",
+  "modernRelevance": "★★★★★",
+  "context": "第一部XI–XVは詩集の中でも特に「果実（Frucht）」と「大地（Erde）」の主題が密集する連作。XI「騎手と馬」は「形象（Figur）」への信頼という認識論的命題から始まり、XII「大地が贈る（Die Erde schenkt）」でその信頼が宇宙論的・農業的根拠を持つことが示される。XIII・XIV・XVは「果実三部作」として読める──XIIIでリンゴ・洋梨・バナナという果実が「言語を超えた味覚体験」として、XIVで花・葉・果実が「死者と大地の協同産物」として、XVでオレンジが「踊り」という身体的変容の命令として展開される。\n\nXV「オレンジを踊れ（Tanzt die Orange）」は詩集全体でも最も感覚的に強烈な詩として知られ、香り・色・形・甘さという共感覚的な豊かさを持つ。ジャン＝ピエール・リシャール『詩と深さ（Poésie et profondeur, 1955）』はリルケの「果実」表象が「内側への密度」と「外側への変容」という二極の間に張られた感覚的緊張として機能することを論じた。XIVの「死者たちは大地を強化し、粘土（Lehm）を自らの髄（Mark）で満たす」という命題はハイデガー「芸術作品の根源」における「大地（Erde）」──自らを閉じながら世界を担う──との深い共鳴を持つ。XIの「形象を信じることで十分だ（der Figur zu glauben. Das genügt）」はブランショ『文学の空間』が論じる「詩的形象の自律性」──形象は外部の真実でなくそれ自体として真実である──という命題と対話する。",
+  "keywords": [
+    "騎手と馬（Reiter）",
+    "形象（Figur）",
+    "形象への信頼",
+    "大地が贈る（Die Erde schenkt）",
+    "アンテナ（Antennen）",
+    "果実の味覚（Geschmack der Frucht）",
+    "名もなくなること（namenlos im Munde）",
+    "死者と大地の協同",
+    "粘土（Lehm）と髄（Mark）",
+    "オレンジを踊れ（Tanzt die Orange）",
+    "変容の命令",
+    "第一部XI–XV"
+  ],
+  "relatedTexts": [
+    "rilke_sonette_orpheus_1_02",
+    "rilke_sonette_orpheus_1_04",
+    "rilke_duineser_elegien_09",
+    "rilke_duineser_elegien_06",
+    "rilke_das_roseninnere"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "verses": "Erster Teil, XI",
+      "original": "Steh den Himmel. Heißt kein Sternbild »Reiter«?\nDenn dies ist uns seltsam eingeprägt:\ndieser Stolz aus Erde. Und ein Zweiter,\nder ihn treibt und hält und den er tragt.\n\nIst nicht so, gejagt und dann gebändigt,\ndiese sehnige Natur des Seins?\nWeg und Wendung. Doch ein Druck verständigt.\nNeue Weite. Und die zwei sind eins.\n\nAber sind sie's? Oder meinen beide\nnicht den Weg, den sie zusammen tun?\nNamenlos schon trennt sie Tisch und Weide.\n\nAuch die sternische Verbindung trügt.\nDoch uns freue eine Weile nun\nder Figur zu glauben. Das genügt.",
+      "provisionalTranslation": "空を見よ。「騎手」と呼ばれる星座はないのか？\nなぜならこれはわれわれに奇妙に刻み込まれている：\nこの大地からの誇り。そして第二のもの、\n彼を駆り立て抑え、彼が担うもの。\n\nそうでないか、追われ、そして手なずけられて、\n存在のこの筋骨たくましい本性が？\n道と転回。しかし一つの圧力が了解させる。\n新しい広さ。そして二つは一つになる。\n\nしかし本当にそうか？あるいは両方とも\n共に歩む道を意図していないのか？\n名もなくすでにテーブルと牧草地が彼らを分かつ。\n\n星の結合もまた欺く。\nしかしわれわれをしばらくの間喜ばせよ\n形象を信じることが。それで十分だ。"
+    },
+    {
+      "id": 2,
+      "verses": "Erster Teil, XII",
+      "original": "Heil dem Geist, der uns verbinden mag;\ndenn wir leben wahrhaft in Figuren.\nUnd mit kleinen Schritten gehn die Uhren\nneben unserm eigentlichen Tag.\n\nOhne unsern wahren Platz zu kennen,\nhandeln wir aus wirklichem Bezug.\nDie Antennen fühlen die Antennen,\nund die leere Ferne trug...\n\nReine Spannung. O Musik der Kräfte!\nIst nicht durch die läßlichen Geschäfte\njede Störung von dir abgelenkt?\n\nSelbst wenn sich der Bauer sorgt und handelt,\nwo die Saat in Sommer sich verwandelt,\nreicht er niemals hin. Die Erde schenkt.",
+      "provisionalTranslation": "われわれを結びつけることのできる精神に祝福あれ；\nなぜならわれわれは真実に形象の中で生きているから。\nそして小さな刻みで時計が歩む\nわれわれの本来の日の傍らを。\n\nわれわれの真の場所を知ることなく、\nわれわれは実際の関係から行為する。\nアンテナがアンテナを感じ取り、\nそして空虚な遠さが担った……\n\n純粋な張力。おお力々の音楽よ！\nおろそかな事柄を通じて\nすべての妨害はお前から逸らされているのではないか？\n\n農夫が心配し行為する時でさえ、\n種が夏へと変容するところで、\n彼は決して届かない。大地が贈る。"
+    },
+    {
+      "id": 3,
+      "verses": "Erster Teil, XIII",
+      "original": "Voller Apfel, Birne und Banane,\nStachelbeere... Alles dieses spricht\nTod und Leben in den Mund... Ich ahne...\nLest es einem Kind vom Angesicht,\n\nwenn es sie erschmeckt. Dies kommt von weit.\nWird euch langsam namenlos im Munde?\nWo sonst Worte waren, fließen Funde,\naus dem Fruchtfleisch überrascht befreit.\n\nWagt zu sagen, was ihr Apfel nennt.\nDiese Süße, die sich erst verdichtet,\num, im Schmecken leise aufgerichtet,\n\nklar zu werden, wach und transparent,\ndoppeldeutig, sonnig, erdig, hiesig -:\nO Erfahrung, Fühlung, Freude -, riesig!",
+      "provisionalTranslation": "熟れたリンゴ、洋梨、バナナ、\nグーズベリー……これ全てが\n死と生を口へと語る……私には予感がある……\n子供の顔からそれを読め、\n\n子供がそれを味わう時。これは遠くから来る。\n口の中でゆっくりと名もなくなるか？\nかつて言葉があった場所に発見が流れ出し、\n果実の肉から驚いて解放されて。\n\n敢えて言え、お前たちがリンゴと呼ぶものを。\nこの甘さが、まず凝縮して、\n味わうことの中で静かに起き上がりながら、\n\n明確になり、目覚め、透明に、\n二義的に、陽光に満ちて、土っぽく、現世的に──：\nおお経験よ、感触よ、喜びよ──、巨大な！"
+    },
+    {
+      "id": 4,
+      "verses": "Erster Teil, XIV",
+      "original": "Wir gehen um mit Blume, Weinblatt, Frucht.\nSie sprechen nicht die Sprache nur des Jahres.\nAus Dunkel steigt ein buntes Offenbares\nund hat vielleicht den Glanz der Eifersucht\n\nder Toten an sich, die die Erde stärken.\nWas wissen wir von ihrem Teil an dem?\nEs ist seit lange ihre Art, den Lehm\nmit ihrem freien Marke zu durchmärken.\n\nNun fragt sich nur: tun sie es gern?...\nDrängt diese Frucht, ein Werk von schweren Sklaven,\ngeballt zu uns empor, zu ihren Herrn?\n\nSind sie die Herrn, die bei den Wurzeln schlafen,\nund gönnen uns aus ihren Überflüssen\ndies Zwischending aus stummer Kraft und Küssen?",
+      "provisionalTranslation": "われわれは花・ブドウの葉・果実と交わる。\nそれらは年の言語だけを話さない。\n暗闇から色とりどりの明らかなものが立ち上がり、\nおそらく大地を強める死者たちの\n\n嫉妬の輝きを帯びている。\nわれわれはその中での彼らの役割について何を知るか？\n長い間彼らの流儀は、粘土を\n自らの自由な髄で満たすことだった。\n\n今となっては問いはただ一つ：彼らはそれを喜んでするのか？……\nこの果実は、重い奴隷たちの作品として、\n固まってわれわれへと押し上げてくるのか、彼らの主人たちへと？\n\n彼らが主人なのか、根のもとで眠る者たちが、\nそして自らの余剰からわれわれに与えるのか\n沈黙した力と接吻から成るこの中間物を？"
+    },
+    {
+      "id": 5,
+      "verses": "Erster Teil, XV",
+      "original": "Wartet..., das schmeckt... Schon ists auf der Flucht\n..... Wenig Musik nur, ein Stampfen, ein Summen -:\nMädchen, ihr warmen, Mädchen, ihr stummen,\ntanzt den Geschmack der erfahrenen Frucht!\n\nTanzt die Orange. Wer kann sie vergessen,\nwie sie, ertrinkend in sich, sich wehrt\nwieder ihr Süßsein. Ihr habt sie besessen.\nSie hat sich köstlich zu euch bekehrt.\n\nTanzt die Orange. Die wärmere Landschaft,\nwerft sie aus euch, daß die reife erstrahle\nin Lüften der Heimat! Erglühte, enthüllt\n\nDüfte um Düfte. Schafft die Verwandtschaft\nmit der reinen, sich weigernden Schale,\nmit dem Saft, der die Glückliche füllt!",
+      "provisionalTranslation": "待て……、これは味がする……もうそれは逃走中だ\n……ほんのわずかな音楽、踏み鳴らし、ざわめき──：\n娘たちよ、温かい娘たちよ、黙した娘たちよ、\n経験した果実の味を踊れ！\n\nオレンジを踊れ。誰がそれを忘れられるか、\nいかにそれが、自らの中で溺れながら、抵抗するかを\n自らの甘さに逆らって。お前たちはそれを所有していた。\nそれはお前たちへと美味しく改宗した。\n\nオレンジを踊れ。より温かい景色を、\nお前たちから投げ出せ、熟れたものが輝くように\n故郷の空気の中に！燃え上がれ、露わに\n\n香り々々。親族関係を作れ\n純粋な、拒む果皮と、\n幸せな者を満たす果汁と！"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "Doch uns freue eine Weile nun\nder Figur zu glauben. Das genügt.",
+      "body": "「しかしわれわれをしばらくの間喜ばせよ、形象を信じることが。それで十分だ（der Figur zu glauben. Das genügt）」──第11ソネットの最終二行。「Figur（形象）」は詩集全体の核心概念の一つ──第12ソネット「われわれは真実に形象の中で生きている（wir leben wahrhaft in Figuren）」と連動する。「Das genügt（それで十分だ）」という断言が注目される：形象が「真実かどうか」は問われない、「形象を信じることが十分だ」という詩的信仰の宣言。ブランショ『文学の空間』が論じる「詩的イメージの自律性」──イメージは外部の現実を指示することなくそれ自体として存在する──との対話。騎手と馬という「形象」が実際には「名もなく食卓と牧草地が分かつ（Namenlos schon trennt sie Tisch und Weide）」存在でありながら、形象として信じることができるという二重性がソネットの構造を支える。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "glossary",
+      "anchor": "Ist nicht so, gejagt und dann gebändigt,\ndiese sehnige Natur des Seins?\nWeg und Wendung. Doch ein Druck verständigt.\nNeue Weite. Und die zwei sind eins.",
+      "body": "「そうでないか、追われ、そして手なずけられて、存在のこの筋骨たくましい本性が？道と転回。しかし一つの圧力が了解させる。新しい広さ。そして二つは一つになる」──騎手と馬の関係が「存在の本性（Natur des Seins）」の比喩として展開される。「sehnige Natur（筋骨たくましい本性）」──「Sehne（腱）」という身体語が「存在（Sein）」に形容される。馬は追われて初めて手なずけられ、騎手は馬を通じて初めて「新しい広さ（Neue Weite）」に達する──この相互的緊張が「一つ（eins）」という統一へと向かう。ハイデガー「現存在の被投性（Geworfenheit）」──存在は「追われて（gejagt）」いる、すなわち状況の中に投げ込まれている──という存在論的形象との共鳴。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "denn wir leben wahrhaft in Figuren.",
+      "body": "「なぜならわれわれは真実に形象の中で生きているから（wir leben wahrhaft in Figuren）」──第12ソネットの詩的認識論の宣言。「in Figuren leben（形象の中で生きる）」──人間の生は形象（比喩・星座・騎手と馬）によって構成されるという命題。「wahrhaft（真実に）」という副詞が、形象を「単なる比喩」でなく「生の真実の様式」として定義する。第11ソネット「形象を信じることで十分だ」という結論への逆順的基礎付け──なぜ形象を信じることで十分なのか？われわれはすでに形象の中で生きているから。ブランショ『来たるべき書物』における「比喩が思考の補助でなく思考の本質的様式である」という命題との対話。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "prosody",
+      "anchor": "Die Antennen fühlen die Antennen,\nund die leere Ferne trug...\n\nReine Spannung. O Musik der Kräfte!",
+      "body": "「アンテナがアンテナを感じ取り、そして空虚な遠さが担った……純粋な張力。おお力々の音楽よ！」──第12ソネットの技術的・音楽的比喩。「Antennen（アンテナ）」──1920年代の無線通信技術の比喩として、当時きわめて新鮮だった。アンテナは「空虚な遠さ（leere Ferne）」を「担う（tragen）」──見えない電波の伝達が「純粋な張力（Reine Spannung）」として形象化される。「O Musik der Kräfte（おお力々の音楽よ）」──電磁気的な力の場が「音楽」として把握される：リルケにとって音楽は可視化されない力の秩序の比喩として一貫して機能する（第1ソネット「耳の中の神殿」）。ハイデガー「Gespräch」における「存在の呼び声」──沈黙を通じて届く声──との共鳴。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "Selbst wenn sich der Bauer sorgt und handelt,\nwo die Saat in Sommer sich verwandelt,\nreicht er niemals hin. Die Erde schenkt.",
+      "body": "「農夫が心配し行為する時でさえ、種が夏へと変容するところで、彼は決して届かない。大地が贈る（Die Erde schenkt）」──第12ソネットの最終三行。「Die Erde schenkt（大地が贈る）」という三語の宣言が詩を閉じる。「reicht er niemals hin（彼は決して届かない）」──農夫はどれだけ「心配し（sorgt）」「行為して（handelt）」も、種の変容の根拠に「届かない」。ハイデガー「芸術作品の根源」における「大地（Erde）」──自らを閉じ、自らを与える大地──との最も直接的な対応。「Sorge（気遣い・心配）」はハイデガー「存在と時間」における「現存在の存在様式」だが、リルケの農夫の「Sorge」は大地の根拠に届かない──ハイデガー的「Sorge」の限界を農業的形象で示す詩的逆説。"
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "Voller Apfel, Birne und Banane,\nStachelbeere... Alles dieses spricht\nTod und Leben in den Mund...",
+      "body": "「熟れたリンゴ、洋梨、バナナ、グーズベリー……これ全てが死と生を口へと語る」──第13ソネットの果実列挙。具体的な果実の名前（リンゴ・洋梨・バナナ・グーズベリー）が羅列される──第9悲歌「家、橋、井戸、門、水差し」という物の列挙との対応。「Tod und Leben in den Mund（死と生を口へと語る）」──味覚が「死と生」を同時に運ぶ：果実は大地（死者の領域）と太陽（生の領域）の両方の産物。ジャン＝ピエール・リシャール『詩と深さ（Poésie et profondeur, 1955）』のリルケ論において、リシャールはリルケの「果実（Frucht）」表象が「内側への密度（densité intérieure）」と「外側への変容（transformation vers l'extérieur）」という二極の間に成立することを論じた──熟れた果実は「内側に圧縮（verdichtet）」しながら、同時に「口の中で溶解（fließen）」する。"
+    },
+    {
+      "paragraphId": 3,
+      "type": "prosody",
+      "anchor": "Wird euch langsam namenlos im Munde?\nWo sonst Worte waren, fließen Funde,\naus dem Fruchtfleisch überrascht befreit.\n\nWagt zu sagen, was ihr Apfel nennt.\nDiese Süße, die sich erst verdichtet,\num, im Schmecken leise aufgerichtet,\n\nklar zu werden, wach und transparent,\ndoppeldeutig, sonnig, erdig, hiesig -:\nO Erfahrung, Fühlung, Freude -, riesig!",
+      "body": "第13ソネットの第二〜第四連──「名もなくなること」から「巨大な喜び」へ。「namenlos im Munde（口の中で名もなく）」──言語（名前）が味覚の経験の中で溶解する。「Wo sonst Worte waren, fließen Funde（かつて言葉があった場所に発見が流れ出す）」──言語の場所を「発見（Funde）」が占有する：これはブランショ「文学の空間」における「言語の外部」──言語が自らを超えて事物そのものに触れる瞬間──と対話する。「doppeldeutig, sonnig, erdig, hiesig（二義的に、陽光に満ちて、土っぽく、現世的に）」──四つの形容詞の畳み掛けが感覚的充実を体現する。「hiesig（現世的）」──第9悲歌「ein hiesig einmal ergriffenes Ding（ここで一度確かに掴まれたもの）」と同語根：リンゴは「現世的（hiesig）」な物として最高の詩的価値を担う。リシャールが「触覚的経験（expérience tactile）」と呼んだ、皮膚・口腔・舌による感覚的認識がここで言語の代替として提示される。"
+    },
+    {
+      "paragraphId": 4,
+      "type": "commentary",
+      "anchor": "Es ist seit lange ihre Art, den Lehm\nmit ihrem freien Marke zu durchmärken.",
+      "body": "「長い間彼らの流儀は、粘土を自らの自由な髄で満たすことだった（den Lehm / mit ihrem freien Marke zu durchmärken）」──第14ソネットの中心的形象。「Lehm（粘土）」はアダムの創造（「神は大地の粘土からアダムを形成した」、創世記2:7）への参照であり、大地の原初的物質。「Mark（髄・精髄）」──「freie Mark（自由な髄）」という「自由（frei）」という形容が重要：死者たちは強制されてではなく「自由に」大地を豊かにする。ハイデガー「芸術作品の根源」における「大地（Erde）」──大地は単なる物質でなく、自らを閉じながら全てを担う原理──と共鳴する。死者の「髄」が粘土に浸透することで大地が豊かになるという形象は、悲歌3「先祖の血の源流（Blut der Herkunft）」・悲歌10「根源的苦悩の山（Berge des Ur-Leids）」という「先祖と大地」の連続的形象系に属する。"
+    },
+    {
+      "paragraphId": 4,
+      "type": "commentary",
+      "anchor": "Sind sie die Herrn, die bei den Wurzeln schlafen,\nund gönnen uns aus ihren Überflüssen\ndies Zwischending aus stummer Kraft und Küssen?",
+      "body": "「彼らが主人なのか、根のもとで眠る者たちが、そして自らの余剰からわれわれに与えるのか、沈黙した力と接吻から成るこの中間物を？」──第14ソネットの最終三行。「Zwischending（中間物）」──果実は「沈黙した力（stummer Kraft）」と「接吻（Küssen）」から成る「中間物」として定義される。「stummer Kraft（沈黙した力）」──大地の力は言語化されない；「Küssen（接吻）」──死者たちの「愛情的な」関与を示す。問いが「彼らはそれをしているのか？」から「誰が主人か？」へと転換することで、生者と死者、農夫と大地の「力関係の逆転」が問われる。ブランショ『文学の空間』の「死者の語り」──死者は沈黙しながらも言語の根底を形成する──という命題が、ここでは農業的・身体的形象として展開される。"
+    },
+    {
+      "paragraphId": 5,
+      "type": "commentary",
+      "anchor": "Tanzt die Orange. Wer kann sie vergessen,\nwie sie, ertrinkend in sich, sich wehrt\nwieder ihr Süßsein.",
+      "body": "「オレンジを踊れ。誰がそれを忘れられるか、いかにそれが、自らの中で溺れながら、自らの甘さに逆らって抵抗するかを」──第15ソネットの核心形象。「Tanzt die Orange（オレンジを踊れ）」──命令形が果実を「踊りの対象」として召喚する；「踊ること」は身体的変容であり、オレンジの「味・香り・色」を身体で生きることの命令。「ertrinkend in sich（自らの中で溺れながら）」──オレンジが自らの果汁に「溺れる」という逆説的形象：熟れた果実は自らの充実の中で「内部圧力に抗する外皮」と「外皮を突破しようとする果汁」の緊張として存在する。ジャン＝ピエール・リシャール『詩と深さ』はリルケの「果実」が「内側への充実（remplissement intérieur）」と「外側への爆発（explosion vers l'extérieur）」の間の動的緊張として機能することを、オレンジを典型例として詳細に論じた。"
+    },
+    {
+      "paragraphId": 5,
+      "type": "prosody",
+      "anchor": "Tanzt die Orange. Die wärmere Landschaft,\nwerft sie aus euch, daß die reife erstrahle\nin Lüften der Heimat! Erglühte, enthüllt\n\nDüfte um Düfte. Schafft die Verwandtschaft\nmit der reinen, sich weigernden Schale,\nmit dem Saft, der die Glückliche füllt!",
+      "body": "第15ソネット最終六行──「Verwandtschaft（親族関係）」の命令。「Die wärmere Landschaft, / werft sie aus euch（より温かい景色を、お前たちから投げ出せ）」──踊る娘たちの身体がオレンジの「より温かい景色（地中海・南国の光と熱）」を内包し、それを踊りとして放出する。「Schafft die Verwandtschaft（親族関係を作れ）」──「Verwandtschaft（親族・親縁性）」は「Verwandlung（変容）」と語根を共有する：変容することで親縁関係が成立する。「der reinen, sich weigernden Schale（純粋な、拒む果皮）」──果皮は「拒む（weigernd）」：果汁を外に出すことを拒みながら保護する。この「拒みながら保持する」外皮と「満たす果汁」の対立が第15ソネットの構造的緊張。ハイデガー「詩の本質」における「詩的言語」──言語は意味を開放しながら同時に自らの中に閉じる──という形象との共鳴：果皮は詩的言語の「閉じ」として、果汁は詩的意味の「充満」として読める。"
+    }
+  ]
+}
