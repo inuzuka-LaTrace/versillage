@@ -1,0 +1,134 @@
+{
+  "id": "rilke_sonette_orpheus_1_02",
+  "title": "Die Sonette an Orpheus — Erster Teil, VI–X",
+  "author": "Rainer Maria Rilke",
+  "source": "Die Sonette an Orpheus, Insel-Verlag, Leipzig, 1923（初版）. 底本: Rainer Maria Rilke: Werke. Kommentierte Ausgabe in vier Bänden, Bd. 1, Insel Verlag, Frankfurt am Main, 1996. テキスト照合: Wikisource DE (https://de.wikisource.org/wiki/Die_Sonette_an_Orpheus); Project Gutenberg DE",
+  "year": "1922",
+  "firstPublication": "草稿執筆：1922年2月2–5日、ミューゾット城（スイス）。初出版：Insel-Verlag, Leipzig, 1923年2月",
+  "difficulty": "上級",
+  "category": "rilke",
+  "originalLang": "de-DE",
+  "modernRelevance": "★★★★★",
+  "context": "第一部VI–Xはオルフェウス像の展開と「讃えること（Rühmen）」の詩学的定義を中心とする。VIでは「彼は現世の者か？いや、両方の国から」という問いでオルフェウスの中間的存在様式が確立される。VII「讃えること、それがすべてだ（Rühmen, das ists!）」は詩集全体の詩的使命の宣言として機能し、第9悲歌の「讃えること（preisen）」と連動する。VIIIでは「嘆き（Klage）」が「讃えること（Rühmung）」の空間の中でのみ許されるという逆説的命題が提示される——嘆きは讃えの「末の姉妹（jüngste Schwester）」として位置づけられる。IXは詩集中で唯一の短詩行（Kurzzeilen）による変則ソネット——「冥界の経験者だけが不滅の讃えを与えられる」という存在論的条件が、短く断片的な行によって提示される。Xは古代ローマの石棺（Sarkophage）への呼びかけ——「沈黙の意味を知っていた者たち（die schon wußten, was schweigen heißt）」が「われわれは知っているか、知らないのか？」という開かれた問いへと転じ、知ることと知らないことの「両方が人間の顔を形成する（Beides bildet … das menschliche Angesicht）」という逆説的結末を迎える。",
+  "keywords": [
+    "両方の国（aus beiden Reichen）",
+    "讃えること（Rühmen）",
+    "永遠の使者（bleibende Boten）",
+    "嘆き（Klage）の姉妹性",
+    "讃えの空間（Raum der Rühmung）",
+    "嘆きの星座",
+    "冥界の経験（Tote / Mohn）",
+    "二重の領域（Doppelbereich）",
+    "石棺（Sarkophage）",
+    "沈黙の意味を知ること",
+    "人間の顔（menschliches Angesicht）",
+    "第一部VI–X"
+  ],
+  "relatedTexts": [
+    "rilke_sonette_orpheus_1_01",
+    "rilke_sonette_orpheus_1_03",
+    "rilke_duineser_elegien_07",
+    "rilke_duineser_elegien_09",
+    "rilke_duineser_elegien_10"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "verses": "Erster Teil, VI",
+      "original": "Ist er ein Hiesiger? Nein, aus beiden\nReichen erwuchs seine weite Natur.\nKundiger böge die Zweige der Weiden,\nwer die Wurzeln der Weiden erfuhr.\n\nGeht ihr zu Bette, so laßt auf dem Tische\nBrot nicht und Milch nicht; die Toten ziehts -.\nAber er, der Beschwörende, mische\nunter der Milde des Augenlids\n\nihre Erscheinung in alles Geschaute;\nund der Zauber von Erdrauch und Raute\nsei ihm so wahr wie der klarste Bezug.\n\nNichts kann das gültige Bild ihm verschlimmern;\nsei es aus Gräbern, sei es aus Zimmern,\nrühme er Fingerring, Spange und Krug.",
+      "provisionalTranslation": "彼は現世の者か？いや、両方の\n国から彼の広い本性は育った。\n柳の枝をより巧みに曲げるのは\n柳の根を経験した者だ。\n\n床に就く時、テーブルに\nパンも牛乳も残してはならない；死者が引き寄せられる。\nしかし彼は、呼び出す者として、混ぜ合わせよ\n瞼の柔らかさの下で\n\n彼らの姿を見えるもの全てに；\nそしてフマリアとヘンルーダの魔法が\n彼にとって最も明確な関係と同じくらい真実であれ。\n\n何も彼の有効なイメージを悪化させることはできない；\n墓から来ようと、部屋から来ようと、\n彼は指輪、留め金、水差しを讃えよ。"
+    },
+    {
+      "id": 2,
+      "verses": "Erster Teil, VII",
+      "original": "Rühmen, das ists! Ein zum Rühmen Bestellter,\nging er hervor wie das Erz aus des Steins\nSchweigen. Sein Herz, o vergängliche Kelter\neines den Menschen unendlichen Weins.\n\nNie versagt ihm die Stimme am Staube,\nwenn ihn das göttliche Beispiel ergreift.\nAlles wird Weinberg, alles wird Traube,\nin seinem fühlenden Süden gereift.\n\nNicht in den Grüften der Könige Moder\nstraft ihm die Rühmung lügen, oder\ndaß von den Göttern ein Schatten fällt.\n\nEr ist einer der bleibenden Boten,\nder noch weit in die Türen der Toten\nSchalen mit rühmlichen Früchten hält.",
+      "provisionalTranslation": "讃えること、それがすべてだ！讃えるために定められた者として、\n彼は石の沈黙から鉱石が出てくるように現れた。\n彼の心、おお、人間にとって無限のワインの\n消えゆく搾り機よ。\n\n神聖な手本が彼を捉える時、\n声は塵の中でも彼を裏切らない。\n全てがブドウ園になる、全てがブドウになる、\n彼の感じる南国の中で熟れて。\n\n王たちの地下室の腐敗の中でも\n讃えることは彼に嘘をつかせない、あるいは\n神々から影が落ちることも。\n\n彼は永遠の使者たちの一人、\nまだ遠く死者たちの扉の中へ\n讃えるべき果実の鉢を持ち続ける。"
+    },
+    {
+      "id": 3,
+      "verses": "Erster Teil, VIII",
+      "original": "Nur im Raum der Rühmung darf die Klage\ngehn, die Nymphe des geweinten Quells,\nwachend über unserm Niederschlage,\ndaß er klar sei an demselben Fels,\n\nder die Tore trägt und die Altäre. -\nSieh, um ihre stillen Schultern früht\ndas Gefühl, daß sie die jüngste wäre\nunter den Geschwistern im Gemüt.\n\nJubel weiß, und Sehnsucht ist geständig, -\nnur die Klage lernt noch; mädchenhändig\nzählt sie nächtelang das alte Schlimme.\n\nAber plötzlich, schräg und ungeübt,\nhält sie doch ein Sternbild unsrer Stimme\nin den Himmel, den ihr Hauch nicht trübt.",
+      "provisionalTranslation": "讃えの空間の中だけで嘆きは\n行くことができる、泣かれた泉のニンフとして、\nわれわれの沈殿の上で見張りながら、\nそれが同じ岩において澄んでいるように、\n\n扉と祭壇を担う岩において。——\n見よ、彼女の静かな肩の周りに夜明けてくる\n感情が、彼女が心の中の\n兄弟姉妹の末であるという。\n\n歓喜は知っており、憧れは打ち明けている——\nただ嘆きだけはまだ学んでいる；乙女の手で\n夜々古い悪を数え続ける。\n\nしかし突然、斜めに、不慣れながら、\n彼女はやはりわれわれの声の星座を\n彼女の息が曇らせない空に掲げる。"
+    },
+    {
+      "id": 4,
+      "verses": "Erster Teil, IX",
+      "original": "Nur wer die Leier schon hob\nauch unter Schatten,\ndarf das unendliche Lob\nahnend erstatten.\n\nNur wer mit Toten vom Mohn\naß, von dem ihren,\nwird nicht den leisesten Ton\nwieder verlieren.\n\nMag auch die Spieglung im Teich\noft uns verschwimmen:\nWisse das Bild.\nErst in dem Doppelbereich\nwerden die Stimmen\newig und mild.",
+      "provisionalTranslation": "すでに影の中でも\n竪琴を掲げた者だけが、\n無限の讃えを\n予感しながら果たすことができる。\n\n死者たちとともにケシを\n彼らのもので食べた者だけが、\n最も静かな音調を\n再び失わないだろう。\n\n池の中の映像が\n時に私たちにぼやけるとしても：\nイメージを知れ。\n二重の領域の中でだけ\n声々は\n永遠に穏やかになる。"
+    },
+    {
+      "id": 5,
+      "verses": "Erster Teil, X",
+      "original": "Euch, die ihr nie mein Gefühl verließt,\ngrüß ich, antikische Sarkophage,\ndie das fröhliche Wasser römischer Tage\nals ein wandelndes Lied durchfließt.\n\nOder jene so offenen, wie das Aug\neines frohen erwachenden Hirten,\n- innen voll Stille und Bienensaug -\ndenen entzückte Falter entschwirrten;\n\nalle, die man dem Zweifel entreißt,\ngrüß ich, die wiedergeöffneten Munde,\ndie schon wußten, was schweigen heißt.\n\nWissen wirs, Freunde, wissen wirs nicht?\nBeides bildet die zögernde Stunde\nin dem menschlichen Angesicht.",
+      "provisionalTranslation": "お前たちに、私の感情を決して離れなかったお前たちに、\n挨拶する、古代の石棺たちよ、\nローマの日々の陽気な水が\n動く歌として流れ通る石棺たちに。\n\nあるいはそれほど開かれた者たちに、まるで眼のように\n陽気に目覚めた羊飼いの、\n——内側は沈黙と蜂の蜜で満ちて——\n法悦した蝶が飛び出した者たちに；\n\n疑いから引き戻される者たち全てに\n挨拶する、再び開かれた口たちに、\nすでに沈黙の意味を知っていた者たちに。\n\n友よ、われわれは知っているか、知らないのか？\n両方が、ためらう時間を、\n人間の顔の中で形成する。"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "glossary",
+      "anchor": "Ist er ein Hiesiger? Nein, aus beiden\nReichen erwuchs seine weite Natur.",
+      "body": "「彼は現世の者か？いや、両方の国から彼の広い本性は育った」——第6ソネット冒頭。「Hiesiger（現世の者）」——「hiesig（ここに属する）」は第9悲歌「ein hiesig einmal ergriffenes Ding（ここで一度確かに掴まれたもの）」と同語根。オルフェウスは「現世（hier）」と「冥界（dort）」の両方に属する存在——ギリシャ神話においてエウリュディケを取り戻すために冥界に降りた唯一の生者。「両方の国（beiden Reichen）」——第10悲歌「嘆きの土地」と現世の二重性との対応。「wer die Wurzeln der Weiden erfuhr（柳の根を経験した者）」——根は地下（冥界）に達する；両界の経験者だけが柳の地上の枝を巧みに扱える。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "rühme er Fingerring, Spange und Krug.",
+      "body": "「彼は指輪、留め金、水差しを讃えよ（rühme er Fingerring, Spange und Krug）」——第6ソネットの最終行。具体的な物の列挙——「指輪・留め金・水差し」は第9悲歌「家、橋、井戸、門、水差し（Haus, Brücke, Brunnen, Tor, Krug）」の「水差し（Krug）」と完全に一致する。「墓から来ようと、部屋から来ようと（sei es aus Gräbern, sei es aus Zimmern）」——死者の持ち物であろうと生者の持ち物であろうと、オルフェウスにとって讃えの対象に差はない。これは第9悲歌の「物を天使に語れ」という詩的使命の、より具体的・神話的な形式として読める。ブランショ『文学の空間』が論じるオルフェウスの「死の世界への視線」——死者の物を讃えることで生と死の境界を詩的に越境する。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "Rühmen, das ists! Ein zum Rühmen Bestellter,\nging er hervor wie das Erz aus des Steins\nSchweigen.",
+      "body": "「讃えること、それがすべてだ！讃えるために定められた者として、彼は石の沈黙から鉱石が出てくるように現れた」——第7ソネットの冒頭宣言。「Rühmen, das ists（讃えること、それがすべてだ）」——感嘆符の後に即座に定義が続く：リルケは詩人の使命を「Rühmen（讃えること）」として断言する。第9悲歌「preise dem Engel die Welt（天使に世界を讃えよ）」・「er wird staunender stehn（彼はより驚いて立つだろう）」との完全な対応。「wie das Erz aus des Steins / Schweigen（石の沈黙から鉱石が出てくるように）」——石の「沈黙（Schweigen）」の内側に鉱石（詩）が既に在る：詩人は外から意味を付与するのでなく、石の沈黙の中にすでに存在する詩を取り出す。ハイデガー「芸術作品の根源」における「大地（Erde）」が自らを閉じることで現れる——石は閉じた大地であり、そこから鉱石として詩が現れる——との共鳴。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "prosody",
+      "anchor": "Sein Herz, o vergängliche Kelter\neines den Menschen unendlichen Weins.\n\nNie versagt ihm die Stimme am Staube,\nwenn ihn das göttliche Beispiel ergreift.\nAlles wird Weinberg, alles wird Traube,\nin seinem fühlenden Süden gereift.",
+      "body": "「彼の心、おお、人間にとって無限のワインの消えゆく搾り機よ」——「Kelter（搾り機）」という農業的比喩が中心。心は「消えゆく（vergänglich）」——有限な詩人の心がぶどうを搾るように感情を絞り出し、「人間にとって無限のワイン（den Menschen unendlichen Weins）」——つまり詩——を生産する。「Alles wird Weinberg, alles wird Traube（全てがブドウ園になる、全てがブドウになる）」——二重の反復が「全て」の変容を体現する。「fühlenden Süden（感じる南国）」——南の太陽が果実を熟すように、詩人の感受性が全てを詩的に熟成させる。悲歌9「物たちはわれわれに救済をゆだねる（traun sie ein Rettendes uns zu）」——物が詩人の感受性によって変容するという相互的信頼の形象の反響。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "Er ist einer der bleibenden Boten,\nder noch weit in die Türen der Toten\nSchalen mit rühmlichen Früchten hält.",
+      "body": "「彼は永遠の使者たちの一人、まだ遠く死者たちの扉の中へ讃えるべき果実の鉢を持ち続ける」——第7ソネットの最終三行。「bleibende Boten（永遠の使者・留まる使者）」——「bleibend（留まる・持続する）」は消えゆく世界の中で「持続する者」。悲歌7「天使よ、お前にまだ私はそれを示す（Engel, dir noch zeig ich es）」における詩人の「告示」の役割との対応；しかし第7ソネットではオルフェウス自身が使者として死者の扉まで「讃えるべき果実の鉢」を持ち続ける。「Schalen mit rühmlichen Früchten（讃えるべき果実の鉢）」——第6ソネット末の「指輪・留め金・水差し」という讃えの対象が、今度は「果実の鉢」という贈り物として死者に届けられる。"
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "Nur im Raum der Rühmung darf die Klage\ngehn, die Nymphe des geweinten Quells,",
+      "body": "「讃えの空間の中だけで嘆きは行くことができる、泣かれた泉のニンフとして」——第8ソネットの哲学的核心。「Raum der Rühmung（讃えの空間）」——「Rühmung（讃えること）」が空間を構成する；この空間の中でのみ「嘆き（Klage）」は正当に「行く」ことができる。嘆きは讃えの外では「泣かれた泉（geweinten Quells）」として溢れるだけだが、讃えの空間の中では「ニンフ」として——美的・神話的形象として——存在できる。第10悲歌の「嘆き（Klage）」の擬人化との直接の連絡：第10悲歌では嘆きが若者を案内するが、第8ソネットでは嘆きは「讃え」の空間の中にのみ許容される存在として定義される。"
+    },
+    {
+      "paragraphId": 3,
+      "type": "prosody",
+      "anchor": "Jubel weiß, und Sehnsucht ist geständig, -\nnur die Klage lernt noch; mädchenhändig\nzählt sie nächtelang das alte Schlimme.\n\nAber plötzlich, schräg und ungeübt,\nhält sie doch ein Sternbild unsrer Stimme\nin den Himmel, den ihr Hauch nicht trübt.",
+      "body": "「歓喜は知っており、憧れは打ち明けている——ただ嘆きだけはまだ学んでいる……しかし突然、斜めに、不慣れながら、彼女はやはりわれわれの声の星座を彼女の息が曇らせない空に掲げる」——第8ソネット最終六行。三者の対比：「歓喜（Jubel）は知る」「憧れ（Sehnsucht）は打ち明ける」「嘆き（Klage）はまだ学んでいる」——嘆きは三兄弟の末として「まだ学んでいる」だけの存在。しかし「plötzlich（突然）」という逆転——不慣れな嘆きが「われわれの声の星座（Sternbild unsrer Stimme）」を星空に掲げる。第10悲歌で「嘆き」が星座の名前を呼ぶ場面（「ここに見よ：騎手、杖……」）の先取りとして機能する。「den ihr Hauch nicht trübt（彼女の息が曇らせない空）」——嘆きの息は星空を曇らせない：嘆きが澄んでいる時、天が開かれる。"
+    },
+    {
+      "paragraphId": 4,
+      "type": "commentary",
+      "anchor": "Nur wer die Leier schon hob\nauch unter Schatten,\ndarf das unendliche Lob\nahnend erstatten.",
+      "body": "「すでに影の中でも竪琴を掲げた者だけが、無限の讃えを予感しながら果たすことができる」——第9ソネット第一連。「auch unter Schatten（影の中でも）」——冥界でも竪琴を掲げ続けたオルフェウスの行為への参照。「Nur wer（〜した者だけが）」という限定の繰り返し（第一・第二連冒頭）が存在論的条件の絶対性を体現する。「ahnend erstatten（予感しながら果たす）」——「ahnen（予感する）」は「知る」でなく「感じ取る」；完全な知識なしに予感だけで讃えを果たすこと。ハイデガー「詩人とは何か」における「詩人が存在の声を予感する」という詩的姿勢との共鳴。"
+    },
+    {
+      "paragraphId": 4,
+      "type": "prosody",
+      "anchor": "Erst in dem Doppelbereich\nwerden die Stimmen\newig und mild.",
+      "body": "第9ソネットの最終三行——変則形式の核心。「Doppelbereich（二重の領域）」——第6ソネット「両方の国（beiden Reichen）」の変奏：生と死、現世と冥界、音と沈黙の二重性。「ewig und mild（永遠に穏やかに）」——「ewig（永遠）」と「mild（穏やか）」の結合が重要：永遠は激しさでなく「穏やかさ」として提示される。詩集全体が「二重の領域」において成立する——単一の現実でも単一の冥界でもなく、その両方の間でのみ声は「永遠に穏やかになる」。第9ソネットが短詩行（Kurzzeilen）形式を取ることで、「断片性・分割」という形式が「二重の領域」という主題と一致する。"
+    },
+    {
+      "paragraphId": 5,
+      "type": "commentary",
+      "anchor": "Euch, die ihr nie mein Gefühl verließt,\ngrüß ich, antikische Sarkophage,",
+      "body": "「お前たちに、私の感情を決して離れなかったお前たちに、挨拶する、古代の石棺たちよ」——第10ソネット冒頭。「antikische Sarkophage（古代の石棺たち）」——リルケはローマ滞在（1903–04年）においてカピトリーノ美術館・ナポリ考古学博物館等の古代石棺を観察した。「die ihr nie mein Gefühl verließt（私の感情を決して離れなかった）」——石棺が詩人の「感情」を常に捉え続けていたという逆転：石棺が詩人を離れないのでなく、詩人の感情が石棺を離れない。第8悲歌のエトルリア人の石棺「死者を収容した空間、眠れる形象を蓋として」の反響——石棺は死と静寂の形象として詩集全体に浸透する。"
+    },
+    {
+      "paragraphId": 5,
+      "type": "prosody",
+      "anchor": "Wissen wirs, Freunde, wissen wirs nicht?\nBeides bildet die zögernde Stunde\nin dem menschlichen Angesicht.",
+      "body": "第10ソネットの最終三行——詩集前半の哲学的結語。「Wissen wirs, Freunde, wissen wirs nicht（友よ、われわれは知っているか、知らないのか）」——問いが答えられないまま投げかけられる。「Beides bildet（両方が形成する）」——知ることと知らないことの両方が「人間の顔（menschliches Angesicht）」を形成する。第9ソネット「Doppelbereich（二重の領域）」の主題が、ここでは認識論的次元で反復される：知と無知の二重性が人間存在の条件として肯定される。「zögernde Stunde（ためらう時間）」——「zögern（ためらう）」は決断できない状態だが、ここでは否定的でなく「人間の顔」を形成する肯定的条件として提示される。第7悲歌「讃えの空間」・第9悲歌「一度だけ（Ein Mal）」の「人間の時間」の問いへの応答として、「ためらいの中の顔」が結論として置かれる。"
+    }
+  ]
+}
