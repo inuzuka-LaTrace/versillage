@@ -1,5 +1,5 @@
 {
-  "id": "baudelaire_peintre_3",
+  "id": "baudelaire_peintre_03",
   "title": "Le Peintre de la vie moderne (III) — L'Artiste, homme du monde, homme des foules et enfant",
   "author": "Charles Baudelaire",
   "source": "Le Figaro, 1863",
@@ -11,7 +11,7 @@
   "modernRelevance": "★★★★★",
   "context": "第3章。近代の芸術家を「群衆の中の人」「世界人」「意志を持つ子供」として定義する。「天才とは意のままに取り戻された幼年期だ」という定式はボードレール美学の核心命題のひとつ。",
   "keywords": ["foule", "enfance", "génie", "flâneur", "monde"],
-  "relatedTexts": ["baudelaire_peintre_2", "baudelaire_peintre_4", "baudelaire_delacroix_3"],
+  "relatedTexts": ["baudelaire_peintre_02", "baudelaire_peintre_04", "baudelaire_delacroix_3"],
   "paragraphs": [
     {
       "id": 1,
