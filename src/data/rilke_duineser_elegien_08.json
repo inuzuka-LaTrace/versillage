@@ -1,0 +1,158 @@
+{
+  "id": "rilke_duineser_elegien_08",
+  "title": "Duineser Elegien — Die achte Elegie",
+  "author": "Rainer Maria Rilke",
+  "source": "Duineser Elegien, Insel-Verlag, Leipzig, 1923（初版）. 底本: Rainer Maria Rilke: Werke. Kommentierte Ausgabe in vier Bänden, Bd. 2, Insel Verlag, Frankfurt am Main, 1996. PDFテキスト照合: アップロードPDF（Kalliope）; Wikisource DE; Project Gutenberg DE",
+  "year": "1922",
+  "firstPublication": "草稿執筆：1922年2月7–8日、ミューゾット城（スイス）。初出版：Insel-Verlag, Leipzig, 1923年2月",
+  "difficulty": "上級",
+  "category": "rilke",
+  "originalLang": "de-DE",
+  "modernRelevance": "★★★★★",
+  "context": "第8悲歌はルドルフ・カスナー（Rudolf Kassner）に献呈される。カスナーはオーストリアの文化哲学者・エッセイストであり、リルケとは長年の友人だった。第8悲歌は悲歌集の中で最も哲学的な詩の一つであり、「動物の眼（Tierblick）」と「開かれたもの（das Offene）」という二つの概念を軸に、人間と動物の存在様式の根本的な差異を問う。\n\n構造：五部から成る。第一部（v.1–13）：「開かれたもの（das Offene）」の宣言──「被造物はすべての眼で開かれたものを見る（Mit allen Augen sieht die Kreatur / das Offene）」。人間の眼だけが「逆さまに（umgekehrt）」向けられており、世界を「罠（Fallen）」として把握する。動物は「死を常に背後に持ち」、前方に「神（Gott）」を見る。第二部（v.14–28）：純粋な空間の喪失──人間は「純粋な空間（reiner Raum）」を一日も持ったことがない。花は「無限に開く（unendlich aufgehn）」が、人間はそれを見られない。子供・瀕死の者・恋人たちが「開かれたもの」に一瞬近づく例として挙げられる。第三部（v.29–42）：運命の定義──「これが運命と呼ばれる：向かい合っていること（Dieses heißt Schicksal: gegenüber sein）」。動物の意識が「自らの状態を把握しない（ohne Blick auf seinen Zustand）」こと──この非自己対象化こそが「純粋」の条件。第四部（v.43–65）：動物の悲哀と幸福──動物にも「記憶（Erinnerung）」という重さがある。しかし「小さな被造物の至福（Seligkeit der kleinen Kreatur）」──蚊・鳥・蝙蝠という三段階の生物によって、胎内存在から飛翔・亀裂への変容が描かれる。第五部（v.66–75）：「われわれ：観客（Zuschauer）」──第4悲歌の「見ること（Zuschaun）」が否定的に反転する。「誰がわれわれをこうして逆さまにしたのか（Wer hat uns also umgedreht）」という問いの後に、「常に別れを告げながら生きる（nehmen immer Abschied）」という最終命題。\n\n詩的核心：「das Offene（開かれたもの）」という概念が第8悲歌の哲学的中心。ハイデガー「リルケとは何か──窮乏の時代の詩人（Wozu Dichter?, 1946）」において、ハイデガーはこの「Offene」を自らの「開示性（Erschlossenheit）」・「開かれ（Lichtung）」と比較しながら論じ、リルケの「Offene」は存在論的な開示でなく「自然的・生命的な開放性」だと慎重に区別した。ジャン＝リュック・ゴダール「さらば、言語よ（Adieu au Langage, 2014）」はこの詩の冒頭「Mit allen Augen sieht die Kreatur / das Offene」を映画内で引用する──ゴダールにとって動物の眼（映画内で犬の眼が反復的に登場する）と人間の言語・意識の非対称が、映像言語の限界と可能性の問いと重なる。ブランショ『文学の空間』が論じるオルフェウスの「見ること」──振り返ることで失う眼差し──が第8悲歌の「逆さまにされた眼（wie umgekehrt）」と深く共鳴する。",
+  "keywords": [
+    "開かれたもの（das Offene）",
+    "動物の眼（Tierblick）",
+    "純粋な空間（reiner Raum）",
+    "運命：向かい合うこと",
+    "観客（Zuschauer）",
+    "常に別れを告げながら（nehmen immer Abschied）",
+    "胎の幸福（Seligkeit der kleinen Kreatur）",
+    "蝙蝠（Fledermaus）",
+    "ハイデガー「Wozu Dichter?」",
+    "ゴダール「Adieu au Langage」",
+    "第8悲歌"
+  ],
+  "relatedTexts": [
+    "rilke_duineser_elegien_01",
+    "rilke_duineser_elegien_04",
+    "rilke_duineser_elegien_07",
+    "rilke_duineser_elegien_06",
+    "trakl_de_profundis",
+    "hofmannsthal_weltgeheimnis"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "verses": "v.1–13",
+      "original": "Mit allen Augen sieht die Kreatur\ndas Offene. Nur unsre Augen sind\nwie umgekehrt und ganz um sie gestellt\nals Fallen, rings um ihren freien Ausgang.\nWas draußen ist, wir wissens aus des Tiers\nAntlitz allein; denn schon das frühe Kind\nwenden wir um und zwingens, daß es rückwärts\nGestaltung sehe, nicht das Offne, das\nim Tiergesicht so tief ist. Frei von Tod.\nIhn sehen wir allein; das freie Tier\nhat seinen Untergang stets hinter sich\nund vor sich Gott, und wenn es geht, so gehts\nin Ewigkeit, so wie die Brunnen gehen.",
+      "provisionalTranslation": "すべての眼で被造物は\n開かれたものを見る。ただわれわれの眼だけが\n逆さまになったように、それらを取り囲んで配置されている\n罠として、その自由な出口を取り囲んで。\n外にあるものを、われわれは動物の\n顔からだけ知る；なぜならすでに幼い子供を\nわれわれは逆に向けて強いる、後ろ向きに\n形象を見るように、開かれたものでなく、\n動物の顔の中にこれほど深くあるものを。死から自由に。\n死だけをわれわれは見る；自由な動物は\nその滅びを常に背後に持ち\n前方に神を持ち、それが歩く時、歩く\n永遠の中へ、泉が流れるように。"
+    },
+    {
+      "id": 2,
+      "verses": "v.14–28",
+      "original": "Wir haben nie, nicht einen einzigen Tag,\nden reinen Raum vor uns, in den die Blumen\nunendlich aufgehn. Immer ist es Welt\nund niemals Nirgends ohne Nicht: das Reine,\nUnüberwachte, das man atmet und\nunendlich weiß und nicht begehrt. Als Kind\nverliert sich eins im Stilln an dies und wird\ngerüttelt. Oder jener stirbt und ists.\nDenn nah am Tod sieht man den Tod nicht mehr\nund starrt hinaus, vielleicht mit großem Tierblick.\nLiebende, wäre nicht der andre, der\ndie Sicht verstellt, sind nah daran und staunen ...\nWie aus Versehn ist ihnen aufgetan\nhinter dem andern ... Aber über ihn\nkommt keiner fort, und wieder wird ihm Welt.",
+      "provisionalTranslation": "われわれは一日も持ったことがない、\n花が無限に開く純粋な空間を\nわれわれの前に。常にそれは世界であり、\n決してどこにもなさではなく否定のない：純粋なもの、\n監視されない、吸い込まれ、\n無限に知られ、欲しがられることのない。子供として\n誰かがひそかにこれに迷い込み、揺さぶられる。あるいはあの者が死んでそれになる。\nなぜなら死に近づくと死がもはや見えなくなり、\n外をぼんやり見つめる、おそらく大きな動物の眼差しで。\n恋人たちは、もう一人が視界を遮らなければ、\nそれに近い、驚きながら……\n偶然のように彼らには開かれる\nもう一人の背後が……しかし彼を超えて\n誰も前へ進めず、またも世界が戻ってくる。"
+    },
+    {
+      "id": 3,
+      "verses": "v.29–42",
+      "original": "Der Schöpfung immer zugewendet, sehn\nwir nur auf ihr die Spiegelung des Frein,\nvon uns verdunkelt. Oder daß ein Tier,\nein stummes, aufschaut, ruhig durch uns durch.\nDieses heißt Schicksal: gegenüber sein\nund nichts als das und immer gegenüber.\nWäre Bewußtheit unsrer Art in dem\nsicheren Tier, das uns entgegenzieht\nin anderer Richtung —, riß es uns herum\nmit seinem Wandel. Doch sein Sein ist ihm\nunendlich, ungefaßt und ohne Blick\nauf seinen Zustand, rein, so wie sein Ausblick.\nUnd wo wir Zukunft sehn, dort sieht es Alles\nund sich in Allem und geheilt für immer.",
+      "provisionalTranslation": "常に被造物の方を向いて、われわれは\nその上に自由なものの映像を見るだけだ、\nわれわれ自身によって暗くされた映像を。あるいは動物が、\n黙した動物が、顔を上げ、静かにわれわれを通り抜けて見る。\nこれが運命と呼ばれる：向かい合っていること\nそれだけで、常に向かい合って。\nもしわれわれのような意識が\n逆の方向にわれわれに向かってくる\n確かな動物の中にあったなら──、それはわれわれを\nその変容とともに引っ張り回しただろう。しかしその存在は\n無限であり、把握されず、自らの状態への\n眼差しなしに、純粋に、その見通しのように。\nそしてわれわれが未来を見る場所で、動物は全てを見、\n全ての中に自らを見、永遠に癒されている。"
+    },
+    {
+      "id": 4,
+      "verses": "v.43–65",
+      "original": "Und doch ist in dem wachsam warmen Tier\nGewicht und Sorge einer großen Schwermut.\nDenn ihm auch haftet immer an, was uns\noft überwältigt, — die Erinnerung,\nals sei schon einmal das, wonach man drängt,\nnäher gewesen, treuer und sein Anschluß\nunendlich zärtlich. Hier ist alles Abstand,\nund dort wars Atem. Nach der ersten Heimat\nist ihm die zweite zwitterig und windig.\nO Seligkeit der kleinen Kreatur,\ndie immer bleibt im Schooße, der sie austrug;\no Glück der Mücke, die noch innen hüpft,\nselbst wenn sie Hochzeit hat: denn Schooß ist Alles.\nUnd sieh die halbe Sicherheit des Vogels,\nder beinah beides weiß aus seinem Ursprung,\nals wär er eine Seele der Etrusker,\naus einem Toten, den ein Raum empfing,\ndoch mit der ruhenden Figur als Deckel.\nUnd wie bestürzt ist eins, das fliegen muß\nund stammt aus einem Schooß. Wie vor sich selbst\nerschreckt, durchzuckts die Luft, wie wenn ein Sprung\ndurch eine Tasse geht. So reißt die Spur\nder Fledermaus durchs Porzellan des Abends.",
+      "provisionalTranslation": "それでもやはり、用心深く温かい動物の中に\n大きな悲哀の重さと憂慮がある。\nなぜなら動物にも常に付きまとう、われわれを\nしばしば打ち負かすもの──記憶が、\nまるでかつて一度、目指して突き進むものが、\nより近くにあったかのように、より忠実で、その接続が\n無限に優しかった。ここでは全てが距離であり、\nそこでは息だった。最初の故郷の後では、\n動物にとって第二の故郷は両義的で風当たりが強い。\nおお胎の中にずっと留まる小さな被造物の至福よ、\nそれを運び出した胎に；\nおお蚊の幸福よ、まだ結婚する時でも内側で跳び回る：\nなぜなら胎が全てだから。\nそして見よ、鳥の半ばの確かさを、\nその起源からほぼ両方を知っている鳥、\nまるでエトルリア人の魂のように、\n空間が受け取った死者から、\nしかし眠れる形象を蓋として。\nそして飛ばなければならず\n胎から生まれた者はどれほど狼狽しているか。自らに\n驚いて、稲妻のように空気を貫く、カップを\nひびが走るように。そのように蝙蝠の軌跡は\n夕暮れの磁器を引き裂く。"
+    },
+    {
+      "id": 5,
+      "verses": "v.66–75",
+      "original": "Und wir: Zuschauer, immer, überall,\ndem allen zugewandt und nie hinaus!\nUns überfüllts. Wir ordnens. Es zerfällt.\nWir ordnens wieder und zerfallen selbst.\nWer hat uns also umgedreht, daß wir,\nwas wir auch tun, in jener Haltung sind\nvon einem, welcher fortgeht? Wie er auf\ndem letzten Hügel, der ihm ganz sein Tal\nnoch einmal zeigt, sich wendet, anhält, weilt —,\nso leben wir und nehmen immer Abschied.",
+      "provisionalTranslation": "そしてわれわれ：観客、常に、どこにでも、\nすべてのものに向けられて、決して外へ出ない！\nそれがわれわれを溢れさせる。われわれは秩序づける。それは崩れる。\nわれわれはまた秩序づけ、われわれ自身が崩れる。\n誰がわれわれをこうして逆さまにしたのか、われわれが\n何をしても、去っていく者の\nあの姿勢でいるように？彼が\n最後の丘の上で、それが彼に谷全体を\nもう一度示す丘の上で、振り返り、立ち止まり、とどまる──\nそのようにわれわれは生き、常に別れを告げる。"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "Mit allen Augen sieht die Kreatur\ndas Offene.",
+      "body": "「すべての眼で被造物は開かれたものを見る」──第8悲歌の冒頭二行は悲歌集全体で最も引用される詩句の一つ。ジャン＝リュック・ゴダール「さらば、言語よ（Adieu au Langage, 2014）」はこの二行を映画内で引用する。ゴダールの映画は3Dというメディアの両眼性を主題化しており、「二つの眼の非対称」──一方の眼だけで見ることで3D画像が崩壊する瞬間──を繰り返し演出する。映画を通じて犬の眼差しが反復的に登場するが、それは「すべての眼で開かれたものを見る」動物の眼として機能する。人間の言語・意識・物語が「罠（Fallen）」を構成する一方で、犬は無言のまま「外」を見続ける。ゴダールにとってリルケの詩句は映画言語の限界──言語・論理・物語が「逆さまにされた眼」として世界を閉じ込める──への批判的参照となる。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "glossary",
+      "anchor": "das Offene",
+      "body": "「開かれたもの（das Offene）」──リルケが第8悲歌のために鍛造した概念。1926年のリルケ自身の書簡では「動物においては、意識（Bewußtsein）は外向きに向けられているのに対し、人間においては意識は内向きに向かい、世界と自己の間に立つ」と説明している。ハイデガー「詩人とは何か（Wozu Dichter?, 1946）」はこの「Offene」を詳細に論じ、リルケの「Offene」と自らの「開示性（Erschlossenheit）」・「開かれ（Lichtung）」を比較しながら、両者を慎重に区別した。ハイデガーによればリルケの「Offene」は「意志（Wille）の方向への開放」であり、「存在の開示」とは異なる次元にある──しかし両者の緊張が第8悲歌の哲学的豊かさの根拠をなす。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "prosody",
+      "anchor": "Nur unsre Augen sind\nwie umgekehrt und ganz um sie gestellt\nals Fallen, rings um ihren freien Ausgang.",
+      "body": "「ただわれわれの眼だけが逆さまになったように……罠として……その自由な出口を取り囲んで」──「Fallen（罠）」という語が複数形であることで「眼それぞれが罠」という読みと「人間の眼全体が罠の体系」という読みが重なる。「ihren freien Ausgang（その自由な出口）」──「開かれたもの」が出口を持つという空間的形象。ブランショ『文学の空間』におけるオルフェウスの「振り返り（le regard）」との共鳴：オルフェウスは冥界から出口へ向かいながら振り返ることで失う──人間の意識的な「見ること」は常に出口を「罠」に変換する。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "das freie Tier\nhat seinen Untergang stets hinter sich\nund vor sich Gott, und wenn es geht, so gehts\nin Ewigkeit, so wie die Brunnen gehen.",
+      "body": "「自由な動物はその滅びを常に背後に持ち前方に神を持ち……永遠の中へ歩く、泉が流れるように」──動物の時間性の定義。「Untergang（滅び・没落）」が「背後（hinter sich）」にある──動物は死を前方に意識しない。第6悲歌の英雄が「持続（Dauern）を悩みとしない」ことと対応する：英雄も動物も「死を前方に置かない」存在様式を生きる。「泉が流れるように（wie die Brunnen gehen）」──泉は尽きることなく流れ続ける無時間的運動。ハイデガー「先駆的決意性」における人間の「死への存在（Sein zum Tode）」の対極として、動物の「死なき前進」が位置づけられる。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "Wir haben nie, nicht einen einzigen Tag,\nden reinen Raum vor uns, in den die Blumen\nunendlich aufgehn.",
+      "body": "「われわれは一日も持ったことがない、花が無限に開く純粋な空間を」──第7悲歌「ここに在ることは素晴らしい（Hiersein ist herrlich）」との緊張。第7悲歌では人間の「現存在」の充実が肯定されたが、第8悲歌はその充実が「純粋な空間（reiner Raum）」への接近に過ぎないと相対化する。「花が無限に開く（die Blumen unendlich aufgehn）」──第6悲歌のイチジクが「果実の中へ直接進む」のに対し、花は「開く」という行為に充実する。人間はこの花の開きを外から眺めるだけで、それに「入る」ことができない。ブランショが論じる「作品の空間への進入不可能性」──詩人は作品の空間を指し示すことはできるが、そこへ入ることはできない──との共鳴。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "Denn nah am Tod sieht man den Tod nicht mehr\nund starrt hinaus, vielleicht mit großem Tierblick.",
+      "body": "「なぜなら死に近づくと死がもはや見えなくなり、外をぼんやり見つめる、おそらく大きな動物の眼差しで」──死の接近が「動物の眼差し（Tierblick）」への移行として描かれる。死が「見えなくなる」──死を対象として把握することが不可能になる時、人間は「動物の眼差し」に近づく。ハイデガー「存在と時間」の「死への存在（Sein zum Tode）」との緊張：ハイデガーは「死への向き合い」が人間の本来性の条件だと論じるが、リルケはここで「死が見えなくなること」──すなわち死への向き合いの溶解──が動物的純粋性への接近だと示唆する。死の「正視」でなく死の「消失」が開放へのアクセスとなる。"
+    },
+    {
+      "paragraphId": 3,
+      "type": "glossary",
+      "anchor": "Dieses heißt Schicksal: gegenüber sein\nund nichts als das und immer gegenüber.",
+      "body": "「これが運命と呼ばれる：向かい合っていること、それだけで、常に向かい合って」──「運命（Schicksal）」の最も簡潔な定義。「gegenüber sein（向かい合っていること）」──「gegen（に向かって）」と「über（を超えて）」が合成された前置詞的名詞。人間は世界・他者・死に対して常に「向かい合う（gegenüber）」立場にある──対象と向き合い、対象から分離する意識の構造そのものが「運命」。この対立が「自らの状態への眼差しなしに（ohne Blick auf seinen Zustand）」生きる動物との決定的差異。ハイデガー「Gegenstand（対象）」──「立ち向かわされたもの（gegen-stand）」──という概念との共鳴：人間の世界把握は常に対象化（Vergegenständlichung）として起きる。"
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "Doch sein Sein ist ihm\nunendlich, ungefaßt und ohne Blick\nauf seinen Zustand, rein, so wie sein Ausblick.",
+      "body": "「しかしその存在は無限であり、把握されず、自らの状態への眼差しなしに、純粋に、その見通しのように」──動物の存在様式の定義。「ungefaßt（把握されない）」──把握されることなく存在すること。「ohne Blick auf seinen Zustand（自らの状態への眼差しなしに）」──自己対象化の不在。これはハイデガー「現存在の自己性（Selbstheit）」──現存在が常に自らを「問題として」引き受けている──の対極。動物は自らを「問題」としない。この「把握されない存在」の「純粋さ（rein）」が第8悲歌の中心的価値として位置づけられる。「und sich in Allem und geheilt für immer（全ての中に自らを見、永遠に癒されている）」──人間が「分裂（Entzweiung）」の中に生きるのに対し、動物は「全体性（Heilheit）」の中に癒されている。「heilen（癒す）」と「Heil（全体・救済）」の語源的連絡。"
+    },
+    {
+      "paragraphId": 4,
+      "type": "commentary",
+      "anchor": "Denn ihm auch haftet immer an, was uns\noft überwältigt, — die Erinnerung",
+      "body": "「なぜなら動物にも常に付きまとう、われわれをしばしば打ち負かすもの──記憶が」──第8悲歌の転換点。v.1–42まで動物を理想化してきた詩が、ここで動物にも「記憶（Erinnerung）」という重さがあることを認める。「als sei schon einmal das, wonach man drängt, / näher gewesen（まるでかつて一度、目指して突き進むものが、より近くにあったかのように）」──動物の記憶も「失われた故郷」への郷愁の形を取る。第3悲歌の「先祖由来の記憶」が動物にも及ぶことで、「開かれたもの」と「記憶」の緊張が動物においても解消されていないことが示される。しかしv.50以降の「小さな被造物の至福」では、より原初的な生物（蚊）ほど完全に「胎」に収まっていることが示される。"
+    },
+    {
+      "paragraphId": 4,
+      "type": "prosody",
+      "anchor": "O Seligkeit der kleinen Kreatur,\ndie immer bleibt im Schooße, der sie austrug;\no Glück der Mücke, die noch innen hüpft,\nselbst wenn sie Hochzeit hat: denn Schooß ist Alles.",
+      "body": "「おお胎の中にずっと留まる小さな被造物の至福……おお蚊の幸福よ、まだ結婚する時でも内側で跳び回る：なぜなら胎が全てだから」──三段階の生物（蚊→鳥→蝙蝠）による「胎からの分離の段階的描写」の第一段。蚊は「交尾の時でも内側で跳び回る（noch innen hüpft, selbst wenn sie Hochzeit hat）」──性的行為でさえ「内側」から分離しない存在様式。「Schooß ist Alles（胎が全て）」──単純な繰り返しが命題の絶対性を体現する形式。第3悲歌の母親が「混沌を遮り」子を守ることと対称的に、蚊にとって胎は完全に「混沌＝外」から保護された空間として機能する。"
+    },
+    {
+      "paragraphId": 4,
+      "type": "glossary",
+      "anchor": "als wär er eine Seele der Etrusker,\naus einem Toten, den ein Raum empfing,\ndoch mit der ruhenden Figur als Deckel.",
+      "body": "「まるでエトルリア人の魂のように、空間が受け取った死者から、しかし眠れる形象を蓋として」──エトルリア人の石棺（sarcophago）への参照。エトルリア人は石棺の蓋に死者の横たわる像を彫った──「眠れる形象（ruhende Figur）」が「蓋（Deckel）」として死者を覆う。鳥は「ほぼ両方を知っている（beinah beides weiß）」──胎内と外の世界の両方の記憶を持つ中間的存在。石棺の「空間が受け取った死者（aus einem Toten, den ein Raum empfing）」という表現が、鳥の「起源（Ursprung）」──卵という閉じた空間──を死者を収容する石棺として形象化する。この形象はブランショ「文学と死への権利」における「死の空間の内側化」と共鳴する。"
+    },
+    {
+      "paragraphId": 4,
+      "type": "prosody",
+      "anchor": "Und wie bestürzt ist eins, das fliegen muß\nund stammt aus einem Schooß. Wie vor sich selbst\nerschreckt, durchzuckts die Luft, wie wenn ein Sprung\ndurch eine Tasse geht. So reißt die Spur\nder Fledermaus durchs Porzellan des Abends.",
+      "body": "「そして飛ばなければならず胎から生まれた者はどれほど狼狽しているか……そのように蝙蝠の軌跡は夕暮れの磁器を引き裂く」──第8悲歌の最も鮮烈な直喩。蝙蝠（Fledermaus）は哺乳類でありながら飛ぶ──「胎から生まれた（stammt aus einem Schooß）」ことと「飛ばなければならない（fliegen muß）」ことの矛盾が最大の「狼狽（Bestürzung）」を生む。「Wie wenn ein Sprung durch eine Tasse geht（カップをひびが走るように）」──ひびは表面を引き裂くが、カップの形を保つ──蝙蝠の飛行が夕暮れの大気（磁器）の表面を裂きながら、その大気の空間自体は存在し続ける。「Porzellan des Abends（夕暮れの磁器）」──夕暮れの空の透明な硬さを磁器として形象化する共感覚的比喩（Synästhesie）。"
+    },
+    {
+      "paragraphId": 5,
+      "type": "commentary",
+      "anchor": "Und wir: Zuschauer, immer, überall,\ndem allen zugewandt und nie hinaus!",
+      "body": "「そしてわれわれ：観客、常に、どこにでも、すべてのものに向けられて、決して外へ出ない！」──第4悲歌「見ることは常にある（Es giebt immer Zuschaun）」という肯定的命題が第8悲歌では否定的に反転する。第4悲歌では「見ること（Zuschaun）」が詩人の絶対的な行為として宣言されたが、第8悲歌では「観客（Zuschauer）」であることが「決して外へ出ない（nie hinaus）」という閉塞として診断される。「dem allen zugewandt（すべてのものに向けられて）」──「向き合う（gegenüber sein）」がv.33の「運命」の定義として既に置かれており、ここで「観客であること」が「運命」と等置される。ゴダール「さらば、言語よ」においても映画観客と映画スクリーンの「向き合い」は批判的に問い直される──観客は常に「外」を見ながら「外へ出る」ことができない。"
+    },
+    {
+      "paragraphId": 5,
+      "type": "commentary",
+      "anchor": "Wer hat uns also umgedreht, daß wir,\nwas wir auch tun, in jener Haltung sind\nvon einem, welcher fortgeht?",
+      "body": "「誰がわれわれをこうして逆さまにしたのか、われわれが何をしても、去っていく者のあの姿勢でいるように？」──v.7「われわれは（子供を）逆に向ける（wenden wir um）」という動詞が、ここで受動形として反転して現れる。「誰が（Wer）」という問いは答えられない──逆転が自然・歴史・言語によるものか、単なる意識の構造かは明示されない。ハイデガー「被投性（Geworfenheit）」──現存在は自らが「投げ込まれた」状況の起源を知らない──との共鳴。リルケの「誰が逆さまにしたか」という問いはハイデガー的な被投性の詩的表現として読める。"
+    },
+    {
+      "paragraphId": 5,
+      "type": "prosody",
+      "anchor": "Wie er auf\ndem letzten Hügel, der ihm ganz sein Tal\nnoch einmal zeigt, sich wendet, anhält, weilt —,\nso leben wir und nehmen immer Abschied.",
+      "body": "第8悲歌の最終4行──「常に別れを告げながら（nehmen immer Abschied）」。「最後の丘の上で谷全体を最後に見る者」という結末の形象は第6悲歌の英雄「すでに背を向けながら……別の者として（abgewendet schon ... anders）」と呼応する。しかし英雄は「別の者として」前進するのに対し、われわれは「振り返り、立ち止まり、とどまり（sich wendet, anhält, weilt）」──この三つの動詞が「別れの引き延ばし」を体現する。「nehmen immer Abschied（常に別れを告げる）」──「immer（常に）」が「別れ」を一回的な出来事でなく存在様式として定義する。第1悲歌「なぜなら美はただ恐ろしいものの始まりにすぎないから」以来積み重ねられてきた「人間の悲嘆」が、ここで最も簡潔に「常に別れを告げながら生きること」として結晶する。"
+    }
+  ]
+}
