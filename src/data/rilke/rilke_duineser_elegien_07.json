@@ -1,0 +1,148 @@
+{
+  "id": "rilke_duineser_elegien_07",
+  "title": "Duineser Elegien — Die siebente Elegie",
+  "author": "Rainer Maria Rilke",
+  "source": "Duineser Elegien, Insel-Verlag, Leipzig, 1923（初版）. 底本: Rainer Maria Rilke: Werke. Kommentierte Ausgabe in vier Bänden, Bd. 2, Insel Verlag, Frankfurt am Main, 1996. PDFテキスト照合: アップロードPDF（Kalliope）; Wikisource DE; Project Gutenberg DE",
+  "year": "1922",
+  "firstPublication": "草稿執筆：1922年2月26日、ミューゾット城（スイス）。初出版：Insel-Verlag, Leipzig, 1923年2月",
+  "difficulty": "上級",
+  "category": "rilke",
+  "originalLang": "de-DE",
+  "modernRelevance": "★★★★★",
+  "context": "第7悲歌は悲歌集の転換点であり、第1〜6悲歌の「嘆き（Klage）」から「讃歌（Rühmung）」への移行を体現する。第1悲歌の冒頭「誰かが私を叫んでも（Wer, wenn ich schriee）」という問いが、ここでは「求愛ではなく（Werbung nicht mehr）」という宣言によって応答される──もはや天使に呼びかけるのでなく、存在そのものを内側で変容させることが詩人の使命として定義される。\n\n構造：六部から成る。第一部（v.1–17）：求愛から呼びかけへの転換──成熟した声は「求愛（Werbung）」でなく「呼びかけ（Schrei）」として放たれる。鳥の声が春の告知として宇宙的な広がりを持つように、詩人の声も「보이지 않는 友人（die stille Freundin）」を目覚めさせる。春の告知・夏の予告という自然のリズムに詩の声が参与する。第二部（v.18–29）：夏の讃歌──「夜々！地の星々！」。単なる夏の景物の列挙（朝・昼・夕・夜）が否定の連鎖（nicht nur...nicht nur...）から肯定（sondern）へと転換し、「いつか死んで、それらを無限に知ること」という逆説的な認識論的欲望に達する。第三部（v.30–49）：愛する者と沈んだ娘たちの召喚──「ここに在ることは素晴らしい（Hiersein ist herrlich）」という第7悲歌の核心命題。弱い墓から立ち上がる娘たちが現れ、「一つのことを確かに掴むことが多くに値する（ein hiesig einmal ergriffenes Ding gälte für viele）」という存在論的命令が発せられる。第四部（v.50–64）：内面への転換──「どこにも世界はない、内側以外に（Nirgends, Geliebte, wird Welt sein, als innen）」。外部の建築（家・神殿）が崩壊する時代に、内的変容（Verwandlung）だけが「世界」を構成する。「時代精神（Zeitgeist）」が神殿を知らない者として批判される。第五部（v.65–85）：天使への告示──人間の建築的・音楽的・愛的達成を天使に示す。「柱・ピロン・スフィンクス」「シャルトル大聖堂」「音楽」「夜の窓辺の愛する女」──これらが「天使の膝に届く」ものとして提示される。第六部（v.86–93）：呼びかけの撤回──「私は求愛しない。天使よ、求愛したとしても！お前は来ない」。詩人の呼びかけは「常に離れ去ることに満ちている（immer voll Hinweg）」──天使は来ないが、呼びかけ自体が開かれた手として宙に残る。\n\n詩的核心：第7悲歌は「内的変容（innere Verwandlung）」という概念を中心に展開する。ブランショ『文学の空間』が論じるように、リルケにとって詩作は外部の世界を内側で変容させる行為──「見えないもの（das Unsichtbare）」を生み出す作業。「Nirgends, Geliebte, wird Welt sein, als innen（どこにも世界はない、内側以外に）」という命題はブランショの「内的な外部（dehors intérieur）」概念と共鳴する。ハイデガー『存在と時間』の「現（Da）」──存在が開示される場所──が、リルケでは「内側（innen）」という詩的空間として具体化される。第7悲歌の「讃歌（Rühmung）」は単なる賛美でなく、消えゆく外部を内的に保存する存在論的作業として理解される。",
+  "keywords": [
+    "求愛（Werbung）",
+    "呼びかけ（Schrei）",
+    "春の告知（Verkündigung）",
+    "ここに在ることは素晴らしい（Hiersein ist herrlich）",
+    "内的変容（innere Verwandlung）",
+    "Nirgends als innen",
+    "時代精神（Zeitgeist）",
+    "シャルトル大聖堂",
+    "天使への告示",
+    "讃歌（Rühmung）",
+    "第7悲歌"
+  ],
+  "relatedTexts": [
+    "rilke_duineser_elegien_01",
+    "rilke_duineser_elegien_02",
+    "rilke_duineser_elegien_06",
+    "rilke_duineser_elegien_03",
+    "hofmannsthal_weltgeheimnis",
+    "mallarme_coup_de_des"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "verses": "v.1–17",
+      "original": "Werbung nicht mehr, nicht Werbung, entwachsene Stimme,\nsei deines Schreies Natur; zwar schrieest du rein wie der Vogel,\nwenn ihn die Jahreszeit aufhebt, die steigende, beinah vergessend,\ndaß er ein kümmerndes Tier und nicht nur ein einzelnes Herz sei,\ndas sie ins Heitere wirft, in die innigen Himmel. Wie er, so\nwürbest du wohl, nicht minder —, daß, noch unsichtbar,\ndich die Freundin erführ, die stille, in der eine Antwort\nlangsam erwacht und über dem Hören sich anwärmt, —\ndeinem erkühnten Gefühl die erglühte Gefühlin.\nO und der Frühling begriffe —, da ist keine Stelle,\ndie nicht trüge den Ton der Verkündigung. Erst jenen kleinen\nfragenden Auflaut, den, mit steigernder Stille,\nweithin umschweigt ein reiner bejahender Tag.\nDann die Stufen hinan, Ruf-Stufen hinan, zum geträumten\nTempel der Zukunft —; dann den Triller, Fontäne,\ndie zu dem drängenden Strahl schon das Fallen zuvornimmt\nim versprechlichen Spiel .... Und vor sich, den Sommer.",
+      "provisionalTranslation": "求愛ではなく、もう求愛ではなく、成熟した声よ、\nお前の叫びの本性であれ；確かにお前は鳥のように清らかに叫んだ、\n上昇する季節が彼を持ち上げる時、ほとんど忘れながら、\n彼が苦労する動物であり、ただ一つの心だけではないことを、\nそれが彼を晴れた空へと、親密な空へと投げる。彼のように、\nお前もおそらく求愛するだろう、それ以上に──、まだ見えないながら、\n静かな友人がお前を感じ取るように、彼女の中で答えが\nゆっくりと目覚め、聴くことの上で温まりながら──\nお前の大胆になった感情への、燃え上がった感情の女性よ。\nおお春が理解するなら──、そこには一つの場所もない、\n告知の音調を運ばない場所は。まずあの小さな\n問うような音の立ち上がりを、それを、高まる沈黙とともに、\n遠くまで取り囲んで黙らせる純粋な肯定の日が。\nそれから段を上り、呼びかけの段を上り、夢見られた\n未来の神殿へと──；それからトリル、噴水、\nそれは押し進む水柱にすでに落下を先取りする\n約束に満ちた遊びの中で……そして自らの前に、夏を。"
+    },
+    {
+      "id": 2,
+      "verses": "v.18–29",
+      "original": "Nicht nur die Morgen alles des Sommers —, nicht nur\nwie sie sich wandeln in Tag und strahlen vor Anfang.\nNicht nur die Tage, die zart sind um Blumen, und oben,\num die gestalteten Bäume, stark und gewaltig.\nNicht nur die Andacht dieser entfalteten Kräfte,\nnicht nur die Wege, nicht nur die Wiesen im Abend,\nnicht nur, nach spätem Gewitter, das atmende Klarsein,\nnicht nur der nahende Schlaf und ein Ahnen, abends ...\nsondern die Nächte! Sondern die hohen, des Sommers,\nNächte, sondern die Sterne, die Sterne der Erde.\nO einst tot sein und sie wissen unendlich,\nalle die Sterne: denn wie, wie, wie sie vergessen!",
+      "provisionalTranslation": "夏のすべての朝だけでなく──、ただ\nそれらが昼へと変容し、始まりの前に輝くだけでなく。\n花の周りで繊細な日々だけでなく、そして上方で、\n形づくられた樹々の周りで、力強く威大なだけでなく。\nこれらの開かれた力々への敬虔さだけでなく、\n道々だけでなく、夕暮れの牧草地だけでなく、\n遅い雷雨の後の、呼吸する澄明さだけでなく、\n近づいてくる眠りと、夕べの予感だけでなく……\nしかし夜々！しかし夏の、高い、\n夜々、しかし星々、地の星々。\nおおいつか死んで、それらを無限に知ること、\nすべての星々を：なぜなら何と、何と、何と人はそれらを忘れることか！"
+    },
+    {
+      "id": 3,
+      "verses": "v.30–49",
+      "original": "Siehe, da rief ich die Liebende. Aber nicht sie nur\nkäme ... Es kämen aus schwächlichen Gräbern\nMädchen und ständen ... Denn wie beschränk ich,\nwie, den gerufenen Ruf? Die Versunkenen suchen\nimmer noch Erde. — Ihr Kinder, ein hiesig\neinmal ergriffenes Ding gälte für viele.\nGlaubt nicht, Schicksal sei mehr, als das Dichte der Kindheit;\nwie überholtet ihr oft den Geliebten, atmend,\natmend nach seligem Lauf, auf nichts zu, ins Freie.\nHiersein ist herrlich. Ihr wußtet es, Mädchen, ihr auch,\ndie ihr scheinbar entbehrtet, versankt —, ihr, in den ärgsten\nGassen der Städte, Schwärende, oder dem Abfall\nOffene. Denn eine Stunde war jeder, vielleicht nicht\nganz eine Stunde, ein mit den Maßen der Zeit kaum\nMeßliches zwischen zwei Weilen —, da sie ein Dasein\nhatte. Alles. Die Adern voll Dasein.\nNur, wir vergessen so leicht, was der lachende Nachbar\nuns nicht bestätigt oder beneidet. Sichtbar\nwollen wirs heben, wo doch das sichtbarste Glück uns\nerst zu erkennen sich giebt, wenn wir es innen verwandeln.",
+      "provisionalTranslation": "見よ、そのとき私は愛する者を呼んだ。しかし彼女だけが\n来るのではない……弱い墓から\n娘たちが来て、立っていた……なぜなら私はどうやって制限できるか、\nどうやって、すでに呼ばれた呼びかけを？沈んだ者たちは\nいまだに大地を求める。──お前たち子供よ、ここで\n一度確かに掴まれた一つのことが多くに値するだろう。\n運命が子供時代の密度以上のものだなどと信じるな；\n如何に頻繁にお前たちは愛する者を追い越したことか、息をしながら、\n至福の走りの後で息をしながら、何へでもなく、自由の中へ。\nここに在ることは素晴らしい。お前たちはそれを知っていた、娘たちよ、お前たちも、\n一見何も持たず、沈んでいった者たちも──、お前たち、都市の最も荒れた\n路地の中の、膿む者たち、あるいは屑に\n開かれた者たち。なぜなら一時間は誰もが、おそらく\n丸一時間ではなかったが、時の尺度ではかろうじて\n測られる何か、二つの滞留の間の──、そこで彼女は一つの現存在を\n持った。全て。現存在に満ちた血管。\nただ、われわれは笑う隣人がわれわれに\n確かめず羨ましがらないことをあまりにも容易に忘れる。\n見えるものとして私たちはそれを持ち上げたいが、最も見える幸福でさえ\nわれわれがそれを内側で変容させて初めてわれわれに認識させる。"
+    },
+    {
+      "id": 4,
+      "verses": "v.50–64",
+      "original": "Nirgends, Geliebte, wird Welt sein, als innen. Unser\nLeben geht hin mit Verwandlung. Und immer geringer\nschwindet das Außen. Wo einmal ein dauerndes Haus war,\nschlägt sich erdachtes Gebild vor, quer, zu Erdenklichem\nvöllig gehörig, als ständ es noch ganz im Gehirne.\nWeite Speicher der Kraft schafft sich der Zeitgeist, gestaltlos\nwie der spannende Drang, den er aus allem gewinnt.\nTempel kennt er nicht mehr. Diese, des Herzens, Verschwendung\nsparen wir heimlicher ein. Ja, wo noch eins übersteht,\nein einst gebetetes Ding, ein gedientes, geknietes —,\nhält es sich, so wie es ist, schon ins Unsichtbare hin.\nViele gewahrens nicht mehr, doch ohne den Vorteil,\ndaß sie's nun innerlich baun, mit Pfeilern und Statuen, größer!\nJede dumpfe Umkehr der Welt hat solche Enterbte,\ndenen das Frühere nicht und noch nicht das Nächste gehört.",
+      "provisionalTranslation": "どこにも、愛する者よ、世界はないだろう、内側以外に。われわれの\n命は変容とともに過ぎていく。そして外側は絶えず\n小さくなっていく。かつて持続する家があった場所に、\n思念された形象が横に立ちはだかる、思念可能なものに\n完全に属して、まるでそれがまだ完全に脳の中に立っているかのように。\n力の広大な貯蔵庫を時代精神は自ら作り出す、形なく\nそれが全てから得る張り詰めた衝動のように。\n彼はもはや神殿を知らない。心の、この浪費を\nわれわれはよりひそかに取り置いている。そう、まだ一つ残っているところ、\nかつて祈られた物、仕えられた、膝まずかれた──、\nそれは、そのままで、すでに見えないものへと向かって保たれている。\n多くの者はもはやそれに気づかないが、今それを内的に建てる利点もなく、\n柱と彫像で、より大きく！世界のすべての鈍い転換にはそのような相続人のない者たちがいる、\n彼らには以前のものも属さず、次のものはまだ属さない。"
+    },
+    {
+      "id": 5,
+      "verses": "v.65–85",
+      "original": "Denn auch das Nächste ist weit für die Menschen. Uns soll\ndies nicht verwirren; es stärke in uns die Bewahrung\nder noch erkannten Gestalt. — Dies stand einmal unter Menschen,\nmitten im Schicksal stands, im vernichtenden, mitten\nim Nichtwissen-Wohin stand es, wie seiend, und bog\nSterne zu sich aus gesicherten Himmeln. Engel,\ndir noch zeig ich es, da! in deinem Anschaun\nsteht es gerettet zuletzt, nun endlich aufrecht.\nSäulen, Pylone, der Sphinx, das strebende Stemmen,\ngrau aus vergehender Stadt oder aus fremder, des Doms.\nWar es nicht Wunder? O staune, Engel, denn wir sinds,\nwir, o du Großer, erzähls, daß wir solches vermochten, mein Atem\nreicht für die Rühmung nicht aus. So haben wir dennoch\nnicht die Räume versäumt, diese gewährenden, diese\nunseren Räume. (Was müssen sie fürchterlich groß sein,\n        da sie Jahrtausende nicht unseres Fühlns überfülln.)\nAber ein Turm war groß, nicht wahr? O Engel, er war es, —\ngroß, auch noch neben dir? Chartres war groß —, und Musik\nreichte noch weiter hinan und überstieg uns. Doch selbst nur\neine Liebende —, oh, allein am nächtlichen Fenster ....\nreichte sie dir nicht ans Knie —?",
+      "provisionalTranslation": "なぜなら次のものでさえ人間には遠いから。これが\nわれわれを惑わせることはないように；それがわれわれの中で強めるように\nまだ認識された形象の保存を。──これはかつて人間の間に立っていた、\n運命の真ん中に立っていた、滅ぼす運命の中に、\nどこへ向かうかを知らない真ん中に、存在するかのように立ち、\n保証された天空から星々を自らへと曲げた。天使よ、\nお前にまだ私はそれを示す、そこに！お前の眺めの中に\nそれはついに救われて立つ、今ついに直立して。\n柱、ピロン、スフィンクス、努力する支えること、\n消えゆく都市から、あるいは異邦の都市から、灰色に、大聖堂の。\n驚異ではなかったか？おお驚け、天使よ、なぜならわれわれがそれだから、\nわれわれが、おお偉大な者よ、語れ、われわれがそれを成し遂げたことを、私の息は\n讃えるためには足りない。そのようにしてわれわれは依然として\n見逃さなかった、この与える空間たちを、この\nわれわれの空間たちを。（それらは恐ろしく大きいに違いない、\nなぜなら幾千年にもわれわれの感情を溢れさせないから。）\nしかし一つの塔は大きかった、そうではないか？おお天使よ、それはそうだった──、\n大きく、お前の隣でさえ？シャルトルは大きかった──、そして音楽は\nさらに高くまで届き、われわれを超えた。しかし単に\n一人の愛する者だけでも──、おお、夜の窓辺にひとり……\nお前の膝まで届かなかったか──？"
+    },
+    {
+      "id": 6,
+      "verses": "v.86–93",
+      "original": "Glaub nicht, daß ich werbe.\nEngel, und würb ich dich auch! Du kommst nicht. Denn mein\nAnruf ist immer voll Hinweg; wider so starke\nStrömung kannst du nicht schreiten. Wie ein gestreckter\nArm ist mein Rufen. Und seine zum Greifen\noben offene Hand bleibt vor dir\noffen, wie Abwehr und Warnung,\nUnfaßlicher, weitauf.",
+      "provisionalTranslation": "私が求愛していると信じるな。\n天使よ、求愛したとしても！お前は来ない。なぜなら私の\n呼びかけは常に離れ去ることに満ちているから；これほど強い\n流れに逆らってお前は進めない。伸ばされた\n腕のように私の呼びかけはある。そしてその上方で\n掴もうとして開いた手はお前の前に\n開いたまま留まる、防御と警告のように、\n把握できない者よ、広く。"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "Werbung nicht mehr, nicht Werbung, entwachsene Stimme,\nsei deines Schreies Natur",
+      "body": "「求愛ではなく、もう求愛ではなく、成熟した声よ、お前の叫びの本性であれ」──第7悲歌の冒頭宣言。第1悲歌「誰かが私を叫んでも（Wer, wenn ich schriee）」という問いへの応答として機能する。「Werbung（求愛）」は天使に向けて承認を求める行為──その段階は「成熟した声（entwachsene Stimme）」を持つ詩人にはもはや不要。「entwachsen（成長して離れた）」という動詞が「über」でなく「ent」の接頭辞を持つことで、単純な成長でなく「求愛という段階からの脱皮」として提示される。第6悲歌の英雄が「開花の誘惑に動じない」ことと対応する──詩人もまた、承認（Rühmung）を外部から求めず、内から発する段階に至った。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "prosody",
+      "anchor": "Erst jenen kleinen\nfragenden Auflaut, den, mit steigernder Stille,\nweithin umschweigt ein reiner bejahender Tag.\nDann die Stufen hinan, Ruf-Stufen hinan, zum geträumten\nTempel der Zukunft —; dann den Triller, Fontäne,\ndie zu dem drängenden Strahl schon das Fallen zuvornimmt",
+      "body": "「まずあの小さな問うような音の立ち上がり……それから段を上り、呼びかけの段を上り……それからトリル、噴水、それは押し進む水柱にすでに落下を先取りする」──詩の声の生成過程が音楽的・建築的・水理学的な三重の比喩で描かれる。「fragender Auflaut（問うような音の立ち上がり）」→「Ruf-Stufen（呼びかけの段）」→「Triller（トリル）」──問いから確信へ、確信から歌へという声の成長。「Fontäne（噴水）」が「落下をすでに先取りする（das Fallen zuvornimmt）」──第5悲歌「噴水の管のように（Wie der Fontäne Rohr）」の反響であり、上昇と下降が同時に内包される完全な運動の形象。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "sondern die Nächte! Sondern die hohen, des Sommers,\nNächte, sondern die Sterne, die Sterne der Erde.\nO einst tot sein und sie wissen unendlich,\nalle die Sterne: denn wie, wie, wie sie vergessen!",
+      "body": "「しかし夜々！しかし夏の高い夜々、しかし星々、地の星々。おおいつか死んで、それらを無限に知ること」──「nicht nur…sondern（ただ…のみならず…しかし）」という修辞的転換が八行の否定連鎖の後に爆発する。「die Sterne der Erde（地の星々）」──天の星でなく大地に属する星として把握することが、「内的変容」という第7悲歌の主題を先取りする。「einst tot sein（いつか死ぬこと）」──死後に初めて星々を「無限に」知るという認識論的欲望。ブランショ『文学の空間』が論じる「詩人の死への欲望」──オルフェウスが冥界へ降りるように、詩人は「死の空間」において初めて存在の全体性を把握できるという逆説──と共鳴する。「wie, wie, wie sie vergessen（何と、何と、何と人はそれらを忘れることか）」の三重反復は、第6悲歌末「wählte und konnte（選び、そしてできた）」の対句構造とは逆に、喪失と忘却の深さを音的に体現する。"
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "Hiersein ist herrlich. Ihr wußtet es, Mädchen, ihr auch,\ndie ihr scheinbar entbehrtet, versankt",
+      "body": "「ここに在ることは素晴らしい（Hiersein ist herrlich）」──第7悲歌の核心命題であり、悲歌集全体の転換点。第1悲歌から続いた「人間の悲嘆」が初めて肯定へと転換する。「一見何も持たず、沈んでいった者たち（die ihr scheinbar entbehrtet, versankt）」──都市の貧民・売春婦・廃棄物に開かれた者たちが「ここに在ることの素晴らしさ」を知っていた者として召喚される。「都市の最も荒れた路地の中の、膿む者たち（in den ärgsten / Gassen der Städte, Schwärende）」──ボードレール「悪の華」の「パリの風景」との共鳴：都市の最も周縁的な存在が「存在の充実」を担う逆説。第9悲歌「大地よ、お前が望むのか」という大地への讃歌の先取り。"
+    },
+    {
+      "paragraphId": 3,
+      "type": "glossary",
+      "anchor": "ein hiesig\neinmal ergriffenes Ding gälte für viele.",
+      "body": "「ここで一度確かに掴まれた一つのことが多くに値するだろう（ein hiesig / einmal ergriffenes Ding gälte für viele）」──第7悲歌の存在論的命令。「hiesig（ここに属する）」という形容詞が詩的核心語として機能する──「ここ」という現在・現世への根ざしが「多く（viele）」──おそらく死後の無数の可能性──に値するという宣言。第9悲歌「物（Dinge）」への讃歌を先取りする。ブランショ『来たるべき書物』が論じる「作品の現前性（présence）」──一度確かに掴まれた詩的物は、それが表現する以上のものを担う──との共鳴。"
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "da sie ein Dasein\nhatte. Alles. Die Adern voll Dasein.",
+      "body": "「そこで彼女は一つの現存在を持った。全て。現存在に満ちた血管」──「Dasein（現存在）」という語のリルケ的使用。ハイデガーの「Dasein」は「そこにある（da-sein）」という現の存在様式を指すが、リルケにとって「Dasein」は身体的・感覚的な充満として体験される──「血管に満ちた（Adern voll）」という身体的表現が示すように。「一時間、おそらく丸一時間ではなかったが（eine Stunde war jeder, vielleicht nicht / ganz eine Stunde）」──現存在の充実は時間の長さでなく強度の問題。第5悲歌の曲芸師が「一瞬の充実」の中に存在したこと、第4悲歌の子供が「世界と玩具の間」に立ったことの連続として、ここでは最も周縁的な者たちの「現存在」の一瞬が措定される。"
+    },
+    {
+      "paragraphId": 4,
+      "type": "commentary",
+      "anchor": "Nirgends, Geliebte, wird Welt sein, als innen. Unser\nLeben geht hin mit Verwandlung.",
+      "body": "「どこにも、愛する者よ、世界はないだろう、内側以外に。われわれの命は変容とともに過ぎていく」──第7悲歌の哲学的核心命題。ブランショ『文学の空間』のリルケ論における「内的空間（innerer Raum）」の概念と正確に対応する。ブランショはリルケの「Weltinnenraum（世界内側空間）」──外部と内部が浸透し合う空間──を詩作の根本的条件として論じた。「変容（Verwandlung）」はオルフェウス的変容──詩人が外部の世界を内側の詩的現実へと変換する作業。ハイデガーが「芸術作品の根源」で論じる「大地（Erde）と世界（Welt）の闘争」において、リルケは「大地」を「外側（Außen）」として、「世界」を内的変容による構成として配置し直していると読める。"
+    },
+    {
+      "paragraphId": 4,
+      "type": "glossary",
+      "anchor": "Tempel kennt er nicht mehr. Diese, des Herzens, Verschwendung\nsparen wir heimlicher ein.",
+      "body": "「彼（時代精神）はもはや神殿を知らない。心の、この浪費を、われわれはよりひそかに取り置いている」──現代文明への批判と詩人の使命の定義。「Zeitgeist（時代精神）」が「力の広大な貯蔵庫（Weite Speicher der Kraft）」を「形なく（gestaltlos）」構築する一方で、詩人は「心の浪費（des Herzens Verschwendung）」──すなわち神殿に向けられた感情的・霊的エネルギー──を「ひそかに（heimlicher）」取り置く。「Verschwendung（浪費）」という語に経済的否定と感情的肯定の両義性がある──感情の「浪費」は物質的効率の対極であり、詩的価値の基盤。第9悲歌「物への讃歌」でさらに展開される「見えないもの（das Unsichtbare）への変容」の倫理的基盤。"
+    },
+    {
+      "paragraphId": 5,
+      "type": "commentary",
+      "anchor": "Engel,\ndir noch zeig ich es, da! in deinem Anschaun\nsteht es gerettet zuletzt, nun endlich aufrecht.",
+      "body": "「天使よ、お前にまだ私はそれを示す、そこに！お前の眺めの中にそれはついに救われて立つ、今ついに直立して」──天使への告示という第7悲歌の頂点。「gerettet（救われた）」「aufrecht（直立した）」──崩壊する外部世界の建築物が、天使の「眺め（Anschaun）」の中においてのみ「救われ、直立する」。詩人は天使に求愛するのでなく（v.1「Werbung nicht mehr」）、天使に「人間の達成」を示す（zeig）──方向が逆転している。これはブランショが論じた「詩人の証言（témoignage）」──死者・不在者・沈黙するものに代わって語ること──の形式として理解できる。天使の「Anschaun（眺め）」は第4悲歌の「Zuschaun（見ること）」の超越的形式。"
+    },
+    {
+      "paragraphId": 5,
+      "type": "commentary",
+      "anchor": "Aber ein Turm war groß, nicht wahr? O Engel, er war es, —\ngroß, auch noch neben dir? Chartres war groß —, und Musik\nreichte noch weiter hinan und überstieg uns. Doch selbst nur\neine Liebende —, oh, allein am nächtlichen Fenster ....\nreichte sie dir nicht ans Knie —?",
+      "body": "「塔は大きかった……シャルトルは大きかった──そして音楽はさらに高くまで届いた……しかし単に一人の愛する者だけでも──、夜の窓辺にひとり……お前の膝まで届かなかったか」──人間の建築的・音楽的・愛的達成の三段階の問いかけ。「塔（Turm）」──おそらくパリのノートルダムあるいはシャルトルの鐘楼。「Chartres（シャルトル）」──ゴシック大聖堂の頂点として西洋建築の最高形象。「音楽（Musik）」──音の非物質的な超越性。しかしこれら全てを超えて「夜の窓辺にひとりいる愛する一人の女（eine Liebende, allein am nächtlichen Fenster）」が最後に置かれる──個人の愛の行為が建築と音楽を超える可能性として。「天使の膝まで届く（ans Knie）」という測定の謙虚さが、同時に人間的なものの真剣な主張でもある。"
+    },
+    {
+      "paragraphId": 6,
+      "type": "commentary",
+      "anchor": "Denn mein\nAnruf ist immer voll Hinweg; wider so starke\nStrömung kannst du nicht schreiten.",
+      "body": "「私の呼びかけは常に離れ去ることに満ちているから；これほど強い流れに逆らってお前は進めない」──第7悲歌の逆説的結末。詩人の呼びかけは天使を引き寄せるのでなく「常に離れ去ること（Hinweg）」に満ちている──呼びかけ自体が「流れ去る力（Strömung）」を持つため、天使はその流れを遡ることができない。これはブランショ『文学の空間』が論じる「詩的言語の無限の運動」──詩は到達するためでなく離れ去るために書かれる──と共鳴する。呼びかけは「伸ばされた腕」であり「開いたまま留まる手（offen wie Abwehr und Warnung）」──掴もうとしながら掴まない手が「防御と警告」として機能する逆説。第1悲歌の「誰かが私を叫んでも」という問いが、ここで「呼んでも来ない」という認識によって完結する。"
+    },
+    {
+      "paragraphId": 6,
+      "type": "prosody",
+      "anchor": "Wie ein gestreckter\nArm ist mein Rufen. Und seine zum Greifen\noben offene Hand bleibt vor dir\noffen, wie Abwehr und Warnung,\nUnfaßlicher, weitauf.",
+      "body": "第7悲歌の最終5行──「伸ばされた腕……把握できない者よ、広く（Unfaßlicher, weitauf）」。「Unfaßlicher（把握できない者）」という呼格──天使は「把握できない（unfassbar）」存在として最終的に定義される。「weitauf（広く）」という副詞が詩の最終語として宙吊りになる──開いた手は閉じられることなく、呼びかけは応答されることなく、詩が終わる。マラルメ「骰子一擲」の最終行「いかなる思考も骰子の一擲を放つ（Toute Pensée émet un Coup de Dés）」が「開かれた問い」として終わることと構造的に共鳴する──どちらも詩的言語の根本的な「未完性・開放性」を形式として体現する。",
+      "targetId": "mallarme_coup_de_des",
+      "targetParagraphId": 10
+    }
+  ]
+}
