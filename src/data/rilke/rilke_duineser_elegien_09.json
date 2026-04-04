@@ -1,0 +1,147 @@
+{
+  "id": "rilke_duineser_elegien_09",
+  "title": "Duineser Elegien — Die neunte Elegie",
+  "author": "Rainer Maria Rilke",
+  "source": "Duineser Elegien, Insel-Verlag, Leipzig, 1923（初版）. 底本: Rainer Maria Rilke: Werke. Kommentierte Ausgabe in vier Bänden, Bd. 2, Insel Verlag, Frankfurt am Main, 1996. PDFテキスト照合: アップロードPDF（Kalliope）; Wikisource DE; Project Gutenberg DE",
+  "year": "1912–1922",
+  "firstPublication": "草稿第一稿：1912年、ドゥイーノ城。大幅改稿・完成：1922年2月、ミューゾット城。初出版：Insel-Verlag, Leipzig, 1923年2月",
+  "difficulty": "上級",
+  "category": "rilke",
+  "originalLang": "de-DE",
+  "modernRelevance": "★★★★★",
+  "context": "第9悲歌は悲歌集の実践的・倫理的核心として位置づけられる。第1〜8悲歌が「人間の悲嘆」と「天使への憧れ」を主題としたのに対し、第9悲歌は「なぜ人間として生きるのか（Warum Menschliches müssen）」という問いへの詩人の応答を体現する──答えは「物を言うこと（Sagen）」と「内的変容（Verwandlung）」として定式化される。\n\n構造：五部から成る。第一部（v.1–17）：「なぜ」の問い──月桂樹の比喩（植物として存在することの可能性）から始まり、「なぜ人間でなければならないのか」という問いを経て、「一度だけ（Ein Mal）」という存在の唯一性・不可逆性に至る。「一度だけ地上にあったことは、取り消せないように見える（irdisch gewesen zu sein, scheint nicht widerrufbar）」。第二部（v.18–28）：「何を持ち越すか」──「もう一つの次元へ何を持ち越せるか？眺めでも、ここで起きたことでも、何もない。苦しみだけを。愛の長い経験を。言いようのないものを」。しかし星の下では「言いようのないもの」はより言いようがない──持ち越しの不可能性。第三部（v.29–52）：「物を言うこと（Sagen）」──旅人が山から持ち帰るのは土でなく「獲得した言葉（erworbenes Wort）」。「家・橋・井戸・門・水差し・果樹・窓──せいぜい：柱・塔」という物の列挙。「言うべき時（Zeit des Säglichen）」という現在の緊急性。「ハンマーの間でわれわれの心は存在する、歯の間の舌のように──それでも、讃えるものとして」。第四部（v.53–67）：天使への告示──天使に「言いようのない」体験でなく「物の単純さ」を見せよ。ローマのロープ職人、ナイル川の陶芸師──人間の具体的な技によって形作られた物の「幸福（glücklich）」を。「物たちはわれわれに救済を委ねる、最も消えやすい者たちに（traun sie ein Rettendes uns zu）」。第五部（v.68–80）：大地への呼びかけ──「大地よ、お前が望むのは：われわれの内側で見えないものとして生まれ直すことではないか」。「名もなく私はお前へと決断している（Namenlos bin ich zu dir entschlossen）」。「見よ、私は生きている。どこから？子供時代も未来も少なくはならない……余剰の現存在がわれわれの心から湧き出る（Überzähliges Dasein entspringt mir im Herzen）」。\n\n詩的核心：「物を言うこと（Sagen）」と「内的変容（Verwandlung）」という二つの詩的使命が第9悲歌を規定する。ブランショ『文学の空間』が論じるリルケの「詩と物（Dichtung und Ding）」──詩は外部の物を内側の「見えない空間」へと変容させる作業──が「大地よ、お前が望むのは、われわれの内側で見えないものとして生まれ直すことではないか（Erde, ist es nicht dies, was du willst: unsichtbar in uns erstehn）」という命題として結晶する。ハイデガー「芸術作品の根源（Der Ursprung des Kunstwerkes, 1935/1950）」が論じる「物の物性（Dingheit）」──物が「道具」として透明になるのでなく「大地」として自らを閉じて現れる時、芸術が生まれる──と、リルケの「物を讃える（Rühmen）」という詩的行為が対話する。第9悲歌の「讃える（rühmen, preisen）」は単なる賛美でなく、消えゆく物を内的空間で不滅化する存在論的作業として位置づけられる。",
+  "keywords": [
+    "なぜ人間として（Warum Menschliches müssen）",
+    "一度だけ（Ein Mal）",
+    "言うこと（Sagen）",
+    "物の列挙（Haus, Brücke, Brunnen）",
+    "言いようのない時（Zeit des Säglichen）",
+    "ハンマーの間の心",
+    "物の変容（Verwandlung der Dinge）",
+    "大地よ（Erde）",
+    "内側で見えないものとして（unsichtbar in uns erstehn）",
+    "余剰の現存在（Überzähliges Dasein）",
+    "ハイデガー「物の物性」",
+    "第9悲歌"
+  ],
+  "relatedTexts": [
+    "rilke_duineser_elegien_01",
+    "rilke_duineser_elegien_07",
+    "rilke_duineser_elegien_08",
+    "rilke_das_roseninnere",
+    "mallarme_coup_de_des",
+    "hoelderlin_brot_und_wein"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "verses": "v.1–17",
+      "original": "Warum, wenn es angeht, also die Frist des Daseins\nhinzubringen, als Lorbeer, ein wenig dunkler als alles\nandere Grün, mit kleinen Wellen an jedem\nBlattrand (wie eines Windes Lächeln) —: warum dann\nMenschliches müssen — und, Schicksal vermeidend,\nsich sehnen nach Schicksal?...\nOh, nicht, weil Glück ist,\ndieser voreilige Vorteil eines nahen Verlusts.\nNicht aus Neugier, oder zur Übung des Herzens,\ndas auch im Lorbeer wäre .....\nAber weil Hiersein viel ist, und weil uns scheinbar\nalles das Hiesige braucht, dieses Schwindende, das\nseltsam uns angeht. Uns, die Schwindendsten. Ein Mal\njedes, nur ein Mal. Ein Mal und nichtmehr. Und wir auch\nein Mal. Nie wieder. Aber dieses\nein Mal gewesen zu sein, wenn auch nur ein Mal:\nirdisch gewesen zu sein, scheint nicht widerrufbar.",
+      "provisionalTranslation": "なぜ、もし可能なら、このように現存在の期間を\n過ごすのか、月桂樹として、他のすべての緑より\nわずかに暗く、それぞれの\n葉の縁に小さな波をつけて（風の微笑みのように）──：なぜそれなら\n人間的なものでなければならないのか──そして、運命を避けながら、\n運命を切望するのか？……\nおお、幸福があるからではない、\nこの差し迫った喪失の早まった利点。\n好奇心からでもなく、心の練習のためでもなく、\n心は月桂樹の中にもあるだろう……\nしかし、ここに在ることが多くを意味するから、そして見かけ上\nここにあるもの全てがわれわれを必要とするから、この消えゆくものが、\n奇妙にわれわれに関わってくる。われわれ、最も消えやすい者たちに。一度だけ\nそれぞれが、ただ一度だけ。一度だけ、そしてもう二度とない。われわれも\n一度だけ。二度とない。しかしこの\n一度あったこと、たとえ一度だけであっても：\n地上にあったことは、取り消せないように見える。"
+    },
+    {
+      "id": 2,
+      "verses": "v.18–28",
+      "original": "Und so drängen wir uns und wollen es leisten,\nwollens enthalten in unsern einfachen Händen,\nim überfüllteren Blick und im sprachlosen Herzen.\nWollen es werden. — Wem es geben? Am liebsten\nalles behalten für immer ... Ach, in den andern Bezug,\nwehe, was nimmt man hinüber? Nicht das Anschaun, das hier\nlangsam erlernte, und kein hier Ereignetes. Keins.\nAlso die Schmerzen. Also vor allem das Schwersein,\nalso der Liebe lange Erfahrung, — also\nlauter Unsägliches. Aber später,\nunter den Sternen, was solls: die sind besser unsäglich.",
+      "provisionalTranslation": "そのようにわれわれは急き立て、それを成し遂げたい、\nそれをわれわれの単純な手の中に含みたい、\nより満ちた眼差しの中に、言葉のない心の中に。\nそれになりたい。──誰にそれを与えるか？できるなら\n全てを永遠に持っておきたい……ああ、もう一つの次元に、\n悲しいことに、何を持ち越せるか？ここでゆっくりと\n学ばれた眺めでもなく、ここで起きたことでも何もない。どれも。\nとすれば苦しみを。とすればとりわけ重さを、\nとすれば愛の長い経験を──とすれば\nただ言いようのないものを。しかし後に、\n星の下では、それが何になるか：星々はより言いようがない。"
+    },
+    {
+      "id": 3,
+      "verses": "v.29–52",
+      "original": "Bringt doch der Wanderer auch vom Hange des Bergrands\nnicht eine Hand voll Erde ins Tal, die Allen unsägliche, sondern\nein erworbenes Wort, reines, den gelben und blaun\nEnzian. Sind wir vielleicht hier, um zu sagen: Haus,\nBrücke, Brunnen, Tor, Krug, Obstbaum, Fenster, —\nhöchstens: Säule, Turm ... aber zu sagen, verstehs,\noh zu sagen so, wie selber die Dinge niemals\ninnig meinten zu sein. Ist nicht die heimliche List\ndieser verschwiegenen Erde, wenn sie die Liebenden drängt,\ndaß sich in ihrem Gefühl jedes und jedes entzückt?\nSchwelle: was ists für zwei\nLiebende, daß sie die eigne ältere Schwelle der Tür\nein wenig verbrauchen, auch sie, nach den vielen vorher\nund vor den Künftigen ...., leicht.\nHier ist des Säglichen Zeit, hier seine Heimat.\nSprich und bekenn. Mehr als je\nfallen die Dinge dahin, die erlebbaren, denn,\nwas sie verdrängend ersetzt, ist ein Tun ohne Bild.\nTun unter Krusten, die willig zerspringen, sobald\ninnen das Handeln entwächst und sich anders begrenzt.\nZwischen den Hämmern besteht\nunser Herz, wie die Zunge\nzwischen den Zähnen, die doch,\ndennoch, die preisende bleibt.",
+      "provisionalTranslation": "旅人でさえ、山の斜面から\n谷へ、誰にも言いようのない土を一握り持ち帰るのでなく、\n獲得した言葉を、純粋なものを、黄と青の\n竜胆を持ち帰る。われわれはおそらくここにいる、言うために：家、\n橋、井戸、門、水差し、果樹、窓──\nせいぜい：柱、塔……しかし言うために、わかってくれ、\nおお言うために、物自体がかつて\n内心そうあろうと意図したことがなかったように。\nこの寡黙な大地の秘密の策略ではないか、愛する者たちを急き立てる時、\nそれぞれのものとそれぞれのものが彼らの感情の中で歓喜するように？\n敷居：二人の\n恋人にとってそれが何か、彼ら自身の古い\nドアの敷居をわずかに磨り減らすことが、彼らも、その前の多くの者たちに続いて\nそして未来の者たちの前に……、軽く。\nここが言えるものの時だ、ここがその故郷。\n語り、告白せよ。かつてより以上に\n体験できる物たちは消えていく、なぜなら、\nそれらを追い出して置き換えるものが像なき行為だから。\n外皮の下での行為、その外皮は進んで崩れる、\n内側で行為が育って別のものとして限界を引き直すや否や。\nハンマーの間でわれわれの心は存在する、\n歯の間の舌のように、\nそれでも、\nやはり、讃えるものとして留まる。"
+    },
+    {
+      "id": 4,
+      "verses": "v.53–67",
+      "original": "Preise dem Engel die Welt, nicht die unsägliche, ihm\nkannst du nicht großtun mit herrlich Erfühltem; im Weltall,\nwo er fühlender fühlt, bist du ein Neuling. Drum zeig\nihm das Einfache, das von Geschlecht zu Geschlechtern gestaltet,\nals ein Unsriges lebt, neben der Hand und im Blick.\nSag ihm die Dinge. Er wird staunender stehn; wie du standest\nbei dem Seiler in Rom, oder beim Töpfer am Nil.\nZeig ihm, wie glücklich ein Ding sein kann, wie schuldlos und unser,\nwie selbst das klagende Leid rein zur Gestalt sich entschließt,\ndient als ein Ding, oder stirbt in ein Ding —, und jenseits\nselig der Geige entgeht. — Und diese, von Hingang\nlebenden Dinge verstehn, daß du sie rühmst; vergänglich,\ntraun sie ein Rettendes uns, den Vergänglichsten, zu.\nWollen, wir sollen sie ganz im unsichtbarn Herzen verwandeln\nin — o unendlich — in uns! Wer wir am Ende auch seien.",
+      "provisionalTranslation": "天使に世界を讃えよ、言いようのない世界でなく、天使に\nお前は壮麗に感じられたもので自慢できない；宇宙の中で、\n彼がより感じながら感じる宇宙で、お前は新参者だ。だから見せよ\n彼に単純なものを、世代から世代へと形作られ、\nわれわれのものとして生きるもの、手の傍に、眼差しの中に。\n物を彼に語れ。彼はより驚いて立つだろう；お前がローマで\nロープ職人のところに立った時のように、あるいはナイル川の陶芸師のところに。\n見せよ彼に、いかに物が幸福でありえるか、いかに無咎でわれわれのものか、\nいかに嘆く苦しみでさえ純粋に形象へと決断するか、\n物として仕えるか、あるいは物の中で死ぬか──そして向こうで\n至福のうちにバイオリンを免れる。──そしてこの、去ることで\n生きる物たちは理解する、お前が彼らを讃えることを；消えゆきながら、\n彼らはわれわれに救済をゆだねる、最も消えゆく者たちであるわれわれに。\n望む、われわれが彼らを完全に見えない心の中で変容させることを\nに──おお無限に──われわれ自身へと！われわれが最終的に誰であれ。"
+    },
+    {
+      "id": 5,
+      "verses": "v.68–80",
+      "original": "Erde, ist es nicht dies, was du willst: unsichtbar\nin uns erstehn? — Ist es dein Traum nicht,\neinmal unsichtbar zu sein? — Erde! unsichtbar!\nWas, wenn Verwandlung nicht, ist dein drängender Auftrag?\nErde, du liebe, ich will. Oh glaub, es bedürfte\nnicht deiner Frühlinge mehr, mich dir zu gewinnen —, einer,\nach, ein einziger ist schon dem Blute zu viel.\nNamenlos bin ich zu dir entschlossen, von weit her.\nImmer warst du im Recht, und dein heiliger Einfall\nist der vertrauliche Tod.\nSiehe, ich lebe. Woraus? Weder Kindheit noch Zukunft\nwerden weniger ..... Überzähliges Dasein\nentspringt mir im Herzen.",
+      "provisionalTranslation": "大地よ、それがお前の望みではないか：われわれの内側で\n見えないものとして生まれ直すこと？──お前の夢ではないか、\nいつか見えなくなることが？──大地よ！見えないものよ！\n変容でなければ、お前の切迫した使命は何か？\n大地よ、愛しい者よ、私は望む。おお信じよ、もはやお前の\n春々も必要でない、お前へと私を引き寄せるのに──一つの春が、\nああ、ただ一つでさえ、すでに血には多すぎる。\n名もなく私はお前へと遠くから決断している。\nお前はいつも正しかった、そしてお前の神聖な着想は\n親しみ深い死だ。\n見よ、私は生きている。何から？子供時代も未来も\n少なくなることはない……余剰の現存在が\nわれわれの心から湧き出る。"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "Warum, wenn es angeht, also die Frist des Daseins\nhinzubringen, als Lorbeer",
+      "body": "「なぜ、もし可能なら、現存在の期間を月桂樹として過ごすのか」──第9悲歌の冒頭問いは「なぜ植物でなく人間なのか」という存在論的問いとして機能する。「月桂樹（Lorbeer）」はダフネの変身神話（アポロンとダフネ）への参照──愛の追跡から逃れるために樹木へと変身した存在。月桂樹は「風の微笑み（eines Windes Lächeln）」という感覚的接触を受けながらも、その接触に対して「人間的に」応じない存在様式。「Frist des Daseins（現存在の期間）」──「Dasein」という語が第3・7悲歌から引き継がれ、ここでは「限られた期間」を持つ存在として強調される。ハイデガー「現存在の有限性（Endlichkeit des Daseins）」──現存在は必ず終わりを持つ有限な存在として自らを把握する──との共鳴。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "glossary",
+      "anchor": "Ein Mal\njedes, nur ein Mal. Ein Mal und nichtmehr. Und wir auch\nein Mal. Nie wieder.",
+      "body": "「一度だけそれぞれが、ただ一度だけ。一度だけ、そしてもう二度とない。われわれも一度だけ。二度とない」──第9悲歌の律動的核心。「Ein Mal（一度だけ）」の反復は単純な繰り返しでなく、各反復が「二度とない」ことの更なる確証として機能する。ニーチェ「永遠回帰」との対極──リルケにとって存在の価値は反復でなく唯一性・不可逆性に宿る。「irdisch gewesen zu sein, scheint nicht widerrufbar（地上にあったことは、取り消せないように見える）」──「scheint（見える）」という留保が重要：絶対的確信でなく「そう見える」という詩的直観として提示される。ブランショ『文学の空間』が論じる「作品の一回性（singularité）」──作品はただ一度書かれ、その一回性が永続する──との共鳴。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "wehe, was nimmt man hinüber? Nicht das Anschaun, das hier\nlangsam erlernte, und kein hier Ereignetes. Keins.\nAlso die Schmerzen.",
+      "body": "「何を持ち越せるか？……どれも持ち越せない。とすれば苦しみを」──「もう一つの次元（andern Bezug）」への移行において持ち越せるものを問う。「Anschaun（眺め）」──第4悲歌「見ること（Zuschaun）」・第7悲歌「天使の眺め（Anschaun）」と同根で、リルケにとって最も高い認識行為。しかしそれでさえ持ち越せない。「Keins（どれも）」という単語の孤立した配置が、喪失の絶対性を形式として体現する。「また言いようのないものを（lauter Unsägliches）」──「言いようのない（unsäglich）」という語が第9悲歌のキーワードとして反復される（v.27, 30, 34, 53）；「言うこと（Sagen）」への使命と「言いようのなさ（Unsäglichkeit）」の緊張が詩全体の動力。"
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "Sind wir vielleicht hier, um zu sagen: Haus,\nBrücke, Brunnen, Tor, Krug, Obstbaum, Fenster, —\nhöchstens: Säule, Turm",
+      "body": "「われわれはおそらくここにいる、言うために：家、橋、井戸、門、水差し、果樹、窓──せいぜい：柱、塔」──第9悲歌の詩学的核心。物の列挙（Aufzählung）というレトリックが「言うこと（Sagen）」という行為そのものを詩の形式として体現する。「家・橋・井戸・門・水差し・果樹・窓」という七つの物は日常的・具体的な人間の生活世界に属する；「柱・塔」という二つは人間の建築的達成を示す──第7悲歌の「シャルトル」への参照。ハイデガー「芸術作品の根源」が論じる「道具（Zeug）」と「物（Ding）」の区別：道具は「使われることで透明になる」が、物は「大地」として自らを閉じて現れる。リルケの「言うこと」は道具的使用でなく、物が物として現れる詩的開示として読める。"
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "oh zu sagen so, wie selber die Dinge niemals\ninnig meinten zu sein.",
+      "body": "「言うために、物自体がかつて内心そうあろうと意図したことがなかったように」──詩的言語と物の関係の定義。物は「そうあろうと意図（meinen）」する能力を持たない──それは人間の言語によって初めて「そのように（so）」呼ばれる。詩人の「言うこと」は物が自ら達成できない「内的意味の表現」を代行する。ブランショ『来たるべき書物』が論じる「物と言語の非対称」──物は言語を待っており、言語は物の内側から来るのでなく物の外から物へと向かう──という命題との共鳴。ただしリルケの「言うこと」は物に意味を「付与する」のでなく物の「ありようそのもの（so wie ... meinen zu sein）」を開示する行為として提示される。"
+    },
+    {
+      "paragraphId": 3,
+      "type": "glossary",
+      "anchor": "Schwelle: was ists für zwei\nLiebende, daß sie die eigne ältere Schwelle der Tür\nein wenig verbrauchen",
+      "body": "「敷居：二人の恋人にとってそれが何か、古いドアの敷居をわずかに磨り減らすことが」──物の列挙の後に「敷居（Schwelle）」という一語が独立して置かれ、具体的な場面へと展開される。「Schwelle（敷居・閾）」は内と外の境界として、存在論的な「閾（Schwelle）」と重なる。二人の恋人が「磨り減らす（verbrauchen）」──使用によって物が消耗することが、しかし同時に物に「歴史」を刻む行為でもある。「nach den vielen vorher / und vor den Künftigen（その前の多くの者たちに続いて、未来の者たちの前に）」──個人的な行為が歴史的・世代的な連続性の中に位置づけられる。「leicht（軽く）」という最後の単語が、消耗という行為の軽やかさを体現する。"
+    },
+    {
+      "paragraphId": 3,
+      "type": "prosody",
+      "anchor": "Zwischen den Hämmern besteht\nunser Herz, wie die Zunge\nzwischen den Zähnen, die doch,\ndennoch, die preisende bleibt.",
+      "body": "「ハンマーの間でわれわれの心は存在する、歯の間の舌のように──それでも、やはり、讃えるものとして留まる」──第9悲歌で最も圧縮された形象。「Hammer（ハンマー）」──工業・技術・機械的な力の象徴（v.46「像なき行為（Tun ohne Bild）」の連続）。「Zunge（舌）」──言語の身体的器官。歯はいつでも舌を噛みうる潜在的な暴力として機能するが、舌は存在し続け「讃える（preisende）」ことを止めない。「dennoch（やはり）」の反復（「doch, / dennoch」）が確信の二重強調として機能する。ブランショ「文学と死への権利」が論じる「否定性の中で語り続ける言語」──言語は否定（沈黙・死）への誘惑の中で存在し続ける──という命題の詩的形象化。"
+    },
+    {
+      "paragraphId": 4,
+      "type": "commentary",
+      "anchor": "Preise dem Engel die Welt, nicht die unsägliche, ihm\nkannst du nicht großtun mit herrlich Erfühltem",
+      "body": "「天使に世界を讃えよ、言いようのない世界でなく、天使にお前は壮麗に感じられたもので自慢できない」──第7悲歌の「天使への告示」の発展的反復。第7悲歌では「柱・ピロン・スフィンクス・シャルトル・音楽・夜の窓辺の恋人」が天使に示されたが、ここでは「言いようのないもの（Unsägliches）」でなく「単純なもの（das Einfache）」が天使への示す対象として定義される。「im Weltall, wo er fühlender fühlt, bist du ein Neuling（宇宙の中で、彼がより感じながら感じる宇宙で、お前は新参者だ）」──天使の感受性は宇宙的規模であり、人間の「壮麗な感情体験」で圧倒することは不可能。人間の優位は「言いようのなさ」でなく「物の具体性」にある。"
+    },
+    {
+      "paragraphId": 4,
+      "type": "commentary",
+      "anchor": "Sag ihm die Dinge. Er wird staunender stehn; wie du standest\nbei dem Seiler in Rom, oder beim Töpfer am Nil.",
+      "body": "「物を彼に語れ。彼はより驚いて立つだろう；お前がローマでロープ職人のところに立った時のように、あるいはナイル川の陶芸師のところに」──天使が「より驚く（staunender）」という命題が第9悲歌の逆説的核心。天使は感情・観念では圧倒できないが、「ロープ職人」「陶芸師」という具体的な職人技には驚く。「ローマのロープ職人（Seiler in Rom）」──リルケは1903-04年のローマ滞在中に具体的な職人を観察している。「ナイル川の陶芸師（Töpfer am Nil）」──古代エジプトの陶芸を想起させる。どちらも「手の技（Handwerk）」──「neben der Hand und im Blick（手の傍に、眼差しの中に）」──として生きる物の形象。ハイデガー「道具と手（Das Zeug und die Hand）」──手が道具を通じて世界を「使いながら開示する」という議論との共鳴。"
+    },
+    {
+      "paragraphId": 4,
+      "type": "commentary",
+      "anchor": "Und diese, von Hingang\nlebenden Dinge verstehn, daß du sie rühmst; vergänglich,\ntraun sie ein Rettendes uns, den Vergänglichsten, zu.",
+      "body": "「この、去ることで生きる物たちは理解する、お前が彼らを讃えることを；消えゆきながら、彼らはわれわれに救済をゆだねる、最も消えゆく者たちであるわれわれに」──物と詩人の間の相互的信頼という第9悲歌の逆説的構造。「von Hingang lebenden Dinge（去ることで生きる物たち）」──消えゆくことが物の存在様式であり、その消えゆき自体が「生きること」として肯定される。「traun sie ein Rettendes uns zu（彼らはわれわれに救済をゆだねる）」──物が詩人に「救済（Rettendes）」を委ねるという逆転：通常は詩人が物を「救済」するが、ここでは物の側からの信頼の行為として提示される。ブランショ『文学の空間』のリルケ論における「物の内的空間（innerer Raum der Dinge）」──物が詩人の内側で「救済される」のでなく、物自身が詩人を「救済するもの」として機能する──という読みと共鳴する。"
+    },
+    {
+      "paragraphId": 5,
+      "type": "commentary",
+      "anchor": "Erde, ist es nicht dies, was du willst: unsichtbar\nin uns erstehn? — Ist es dein Traum nicht,\neinmal unsichtbar zu sein?",
+      "body": "「大地よ、それがお前の望みではないか：われわれの内側で見えないものとして生まれ直すこと？──お前の夢ではないか、いつか見えなくなることが？」──第9悲歌の哲学的頂点。「大地（Erde）」への直接の呼びかけが、詩人から大地への一方的な「決断（entschlossen sein）」として提示される。「unsichtbar in uns erstehn（われわれの内側で見えないものとして生まれ直す）」──ハイデガー「芸術作品の根源」における「大地（Erde）」と「世界（Welt）」の闘争において、大地は「自らを閉じる（sich verschließen）」ことで現れる。リルケでは逆に大地は「見えなくなること」──内側への変容──を「夢」として持つ。ブランショ『文学の空間』が論じる「見えない空間（espace invisible）」──詩作はこの見えない空間において起きる──との対応。第7悲歌「どこにも世界はない、内側以外に」という命題が、ここで「大地の夢」という神話的形象として完成される。"
+    },
+    {
+      "paragraphId": 5,
+      "type": "commentary",
+      "anchor": "Namenlos bin ich zu dir entschlossen, von weit her.\nImmer warst du im Recht, und dein heiliger Einfall\nist der vertrauliche Tod.",
+      "body": "「名もなく私はお前へと遠くから決断している。お前はいつも正しかった、そしてお前の神聖な着想は親しみ深い死だ」──「namenlos（名もなく）」という語が詩人と大地の関係の性格を定義する。第6悲歌「ungerühmt（讃えられることなく）」との連続：真の決断・成熟は「名前」「讃え」を必要としない。「dein heiliger Einfall / ist der vertrauliche Tod（お前の神聖な着想は親しみ深い死だ）」──大地が「死」を発明したという命題。「vertraulich（親しみ深い）」──死が「恐ろしいもの」でなく「親しい者（Vertrauter）」として定義されることで、第1悲歌以来の「死の克服」という主題が完成される。ハイデガー「先駆的決意性」において死が「最も固有の可能性」として引き受けられるのに対し、リルケでは死が大地の「神聖な着想（heiliger Einfall）」として外から贈られる。"
+    },
+    {
+      "paragraphId": 5,
+      "type": "prosody",
+      "anchor": "Siehe, ich lebe. Woraus? Weder Kindheit noch Zukunft\nwerden weniger ..... Überzähliges Dasein\nentspringt mir im Herzen.",
+      "body": "第9悲歌の最終3行──「見よ、私は生きている。何から？……余剰の現存在がわれわれの心から湧き出る（Überzähliges Dasein entspringt mir im Herzen）」。「Woraus（何から）？」という問いが「子供時代も未来も少なくならない」という逆説的答えを呼び出す──生きることは子供時代と未来を消費するのでなく、それらは常に充満しているまま。「Überzähliges Dasein（余剰の現存在）」──「überzählig（余剰の・数え切れない）」という語が現存在の豊かさを「余り」として表現する。第7悲歌「ここに在ることは素晴らしい（Hiersein ist herrlich）」と第8悲歌「常に別れを告げながら（nehmen immer Abschied）」の緊張が、ここで「余剰の現存在」という一語において統合される──別れながらも充満するという逆説。「entspringt mir im Herzen（心から湧き出る）」──「ent-springen（跳び出す・湧き出る）」は第5悲歌「噴水」・第6悲歌「轟く流れの源」と連続する、リルケの根源的な「湧き出し」の形象。"
+    }
+  ]
+}
