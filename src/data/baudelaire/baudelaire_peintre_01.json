@@ -1,5 +1,5 @@
 {
-  "id": "baudelaire_peintre_1",
+  "id": "baudelaire_peintre_01",
   "title": "Le Peintre de la vie moderne (I) — La Beauté, la Mode et le Bonheur",
   "author": "Charles Baudelaire",
   "source": "Le Figaro, 1863",
@@ -11,7 +11,7 @@
   "modernRelevance": "★★★★★",
   "context": "『近代生活の画家』第1章。ボードレールは美を永遠の要素と可変の要素の合成として定義し、モードと幸福を近代的美学の核心に据える。「近代性」概念の本格的展開の出発点。",
   "keywords": ["beauté", "mode", "bonheur", "éternel", "transitoire"],
-  "relatedTexts": ["baudelaire_peintre_2", "baudelaire_heroisme", "baudelaire_romantisme_complet"],
+  "relatedTexts": ["baudelaire_peintre_02", "baudelaire_heroisme", "baudelaire_romantisme_complet"],
   "paragraphs": [
     {
       "id": 1,
