@@ -463,11 +463,11 @@ export default function FlashcardApp() {
       {/* 入力エリア：反転（回答表示）前のみ表示 */}
       {!fc.flipped && (
       <textarea
+        key="dictation-input" // 強制的に同一要素として保持
         autoFocus
-        // 入力中の文字サイズも、問題文と同じサイズ感に合わせる
-        className={`flex-1 w-full p-4 rounded-xl border font-serif text-center leading-relaxed focus:outline-none focus:ring-2 focus:ring-amber-500/30 transition-all resize-none 
-          ${textSizeClass(fc.userInput || '')} 
-          ${darkMode ? 'bg-zinc-800/50 border-zinc-700 text-zinc-200' : 'bg-stone-50 border-stone-200 text-stone-800'}`}
+        className={`flex-1 w-full p-4 rounded-xl border font-serif text-center leading-relaxed focus:outline-none focus:ring-2 focus:ring-amber-500/30 transition-all resize-none ${
+          darkMode ? 'bg-zinc-800/50 border-zinc-700 text-zinc-200' : 'bg-stone-50 border-stone-200 text-stone-800'
+        } text-lg`} // サイズを一旦固定してテスト
         placeholder="ここに原文を書き写してください..."
         value={fc.userInput || ''}
         onChange={(e) => fc.setUserInput(e.target.value)}
