@@ -1,0 +1,170 @@
+{
+  "id": "rilke_sonette_orpheus_1_05",
+  "title": "Die Sonette an Orpheus — Erster Teil, XXI–XXVI",
+  "author": "Rainer Maria Rilke",
+  "source": "Die Sonette an Orpheus, Insel-Verlag, Leipzig, 1923（初版）. 底本: Rainer Maria Rilke: Werke. Kommentierte Ausgabe in vier Bänden, Bd. 1, Insel Verlag, Frankfurt am Main, 1996. テキスト照合: Wikisource DE (https://de.wikisource.org/wiki/Die_Sonette_an_Orpheus); Project Gutenberg DE",
+  "year": "1922",
+  "firstPublication": "草稿執筆：1922年2月2–5日、ミューゾット城（スイス）。初出版：Insel-Verlag, Leipzig, 1923年2月",
+  "difficulty": "上級",
+  "category": "rilke",
+  "originalLang": "de-DE",
+  "modernRelevance": "★★★★★",
+  "context": "第一部XXI–XXVIは第一部の完結群。XXIは「春が戻ってきた。大地は詩を知る子供のようだ」という大地讃歌──第12ソネット「Die Erde schenkt（大地が贈る）」の子供的・遊戯的形式として展開し、「彼女は歌う、彼女は歌う（sie singts, sie singts!）」という二重の感嘆で結ぶ。XXIIとXXIIIは飛行時代への応答──XXII「われわれは急ぐ者だが、時間の歩みを些細なことと見なせ」という留まることへの讃歌、XXIII「飛行が自分自身のためでなく純粋な方向（reines Wohin）のためになる時初めて」という条件的肯定。XXIVは現代文明批判の最高点──神々・死者・自然を「速度で追い越す」人間の孤立と衰弱。XXVはウェラ・オウカマ・クヌープへの直接の呼びかけ──「名前を知らない花のように」彼女を記憶し示す；踊り手として突然止まった瞬間、音楽が「変容した心（veränderte Herz）」に落ちた瞬間、疾患が彼女を捕らえ「慰めなく開いた門（trostlos offene Tor）」へと導いた経緯が語られる。XXVIは第一部の結末──マイナス（メナドたちに引き裂かれた）後の「お前は失われた神！お前は無限の痕跡！」という逆説的讃歌。「敵意がお前を引き裂き分配したから、われわれは今聴く者たち、自然の口となっている（ein Mund der Natur）」という最終行が第一部全体の詩的使命を定義する。\n\n形式的特記：XXIは4-4-3-3だが第二・第三連（第二quatrainと第一tercet）の間に空行なし──大地の歌の連続性・溢れを形式で体現。XXII・XXIII は短詩行（Kurzzeilen）形式。XXV・XXVIは詩集中最も重要な二篇として標準形式の中に最大の詩的密度を持つ。",
+  "keywords": [
+    "春の帰還（Frühling ist wiedergekommen）",
+    "大地は詩を知る子供（die Erde ist wie ein Kind）",
+    "急ぐ者（Treibende）",
+    "留まること（Verweilende）",
+    "純粋な方向（reines Wohin）",
+    "神々の追放（Götter verstoßen）",
+    "自然の口（ein Mund der Natur）",
+    "ウェラへの呼びかけ（Entwandte）",
+    "踊り手が止まった瞬間",
+    "慰めなく開いた門",
+    "オルフェウスの解体と遍在",
+    "第一部XXI–XXVI"
+  ],
+  "relatedTexts": [
+    "rilke_sonette_orpheus_1_04",
+    "rilke_sonette_orpheus_2_01",
+    "rilke_duineser_elegien_07",
+    "rilke_duineser_elegien_09",
+    "rilke_duineser_elegien_08"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "verses": "Erster Teil, XXI",
+      "original": "Frühling ist wiedergekommen. Die Erde\nist wie ein Kind, das Gedichte weiß;\nviele, o viele.... Für die Beschwerde\nlangen Lernens bekommt sie den Preis.\n\nStreng war ihr Lehrer. Wir mochten das Weiße\nan dem Barte des alten Manns.\nNun, wie das Grüne, das Blaue heiße,\ndürfen wir fragen: sie kanns, sie kanns!\nErde, die frei hat, du glückliche, spiele\nnun mit den Kindern. Wir wollen dich fangen,\nfröhliche Erde. Dem Frohsten gelingts.\n\nO, was der Lehrer sie lehrte, das Viele,\nund was gedruckt steht in Wurzeln und langen\nschwierigen Stammen: sie singts, sie singts!",
+      "provisionalTranslation": "春が戻ってきた。大地は\n詩を知る子供のようだ；\n多く、おお多く……長い\n学びの苦労に彼女は賞を得る。\n\n先生は厳しかった。われわれは好きだった\n老人の髭の白さを。\n今、緑が何と呼ばれるか、青が何と呼ばれるか、\n尋ねてよい：彼女はできる、彼女はできる！\n大地よ、休暇をもらった大地よ、幸せな者よ、遊べ\n今子供たちと。われわれはお前を捕まえたい、\n陽気な大地よ。最も陽気な者にうまくいく。\n\nおお、先生が彼女に教えた多くのものを、\nそして根々と長く\n難しい幹に印刷されているものを：彼女は歌う、彼女は歌う！"
+    },
+    {
+      "id": 2,
+      "verses": "Erster Teil, XXII",
+      "original": "Wir sind die Treibenden.\nAber den Schritt der Zeit,\nnehmt ihn als Kleinigkeit\nim immer Bleibenden.\n\nAlles das Eilende\nwird schon vorüber sein;\ndenn das Verweilende\nerst weiht uns ein.\n\nKnaben, o werft den Mut\nnicht in die Schnelligkeit,\nnicht in den Flugversuch.\n\nAlles ist ausgeruht:\nDunkel und Helligkeit,\nBlume und Buch.",
+      "provisionalTranslation": "われわれは急ぐ者たちだ。\nしかし時間の歩みを、\n常に留まるものの中の\n些細なことと見なせ。\n\n急ぐもの全ては\nもうすぐ過ぎ去るだろう；\nなぜなら留まるものだけが\nわれわれを入門させるから。\n\n少年たちよ、おお勇気を投げるな\n速さの中に、\n飛行の試みの中に。\n\n全ては安らいでいる：\n暗闇と明るさ、\n花と本。"
+    },
+    {
+      "id": 3,
+      "verses": "Erster Teil, XXIII",
+      "original": "O erst dann, wenn der Flug\nnicht mehr um seinetwillen\nwird in die Himmelstillen\nsteigen, sich selber genug,\n\num in lichten Profilen,\nals das Gerät, das gelang,\nLiebling der Winde zu spielen,\nsicher, schwenkend und schlank, -\n\nerst, wenn ein reines Wohin\nwachsender Apparate\nKnabenstolz überwiegt,\n\nwird, überstürzt von Gewinn,\njener den Fernen Genahte\nsein, was er einsam erfliegt.",
+      "provisionalTranslation": "おおその時だけ、飛行が\nもはや自分自身のためではなく\n天の静寂の中へ\n自己充足的に登らない時、\n\n明るい輪郭の中で、\n成功した機器として、\n風の寵児として遊ぶために、\n安定して、旋回して、しなやかに──\n\nその時だけ、成長する機器の\n純粋な方向が\n少年的な誇りを上回る時、\n\n利益に押し流されて、\n遠くに近づいたあの者は\n孤独に飛んで得るものになるだろう。"
+    },
+    {
+      "id": 4,
+      "verses": "Erster Teil, XXIV",
+      "original": "Sollen wir unsere uralte Freundschaft, die großen\nniemals werbenden Götter, weil sie der harte\nStahl, den wir streng erzogen, nicht kennt, verstoßen\noder sie plötzlich suchen auf einer Karte?\n\nDiese gewaltigen Freunde, die uns die Toten\nnehmen, rühren nirgends an unsere Räder.\nUnsere Gastmähler haben wir weit -, unsere Bäder,\nfortgerückt, und ihre uns lang schon zu langsamen Boten\n\nüberholen wir immer. Einsamer nun auf einander\nganz angewiesen, ohne einander zu kennen,\nführen wir nicht mehr die Pfade als schöne Mäander,\n\nsondern als Grade. Nur noch in Dampfkesseln brennen\ndie einstigen Feuer und heben die Hämmer, die immer\ngrößern. Wir aber nehmen an Kraft ab, wie Schwimmer.",
+      "provisionalTranslation": "われわれは太古の友情を、大きく\n決して求愛しない神々を、厳しく育てたかたい\n鋼が知らないからという理由で、追い払うべきか、\nあるいは地図の上で突然探すべきか？\n\nこれらの力強い友人たちは、われわれから死者たちを\n取り去り、どこでもわれわれの歯車には触れない。\nわれわれの宴を、われわれの浴場を、\n遠ざけてしまった、そして彼らのとうの昔にわれわれには遅すぎる使者たちを\n\nわれわれはいつも追い越す。今や互いにより孤独に\n全面的に依存して、互いを知らずに、\nわれわれはもはや道を美しい蛇行として歩まず、\n\n直線として。もはや蒸気釜の中だけに\nかつての火が燃えて、ますます大きくなる\n鎚を持ち上げる。しかしわれわれは力において弱まる、水泳者のように。"
+    },
+    {
+      "id": 5,
+      "verses": "Erster Teil, XXV",
+      "original": "Dich aber will ich nun, Dich, die ich kannte\nwie eine Blume, von der ich den Namen nicht weiß,\nnoch ein Mal erinnern und ihnen zeigen, Entwandte,\nschöne Gespielin des unüberwindlichen Schrei's.\n\nTänzerin erst, die plötzlich, den Körper voll Zögern,\nanhielt, als göß man ihr Jungsein in Erz;\ntrauernd und lauschend-. Da, von den hohen Vermögern\nfiel ihr Musik in das veränderte Herz.\n\nNah war die Krankheit. Schon von den Schatten bemächtigt,\ndrängte verdunkelt das Blut, doch, wie flüchtig verdächtigt,\ntrieb es in seinen natürlichen Frühling hervor.\n\nWieder und wieder, von Dunkel und Sturz unterbrochen,\nglänzte es irdisch. Bis es nach schrecklichen Pochen\ntrat in das trostlos offene Tor.",
+      "provisionalTranslation": "しかしお前を今、私は、私が知っていたお前を、\n名前を知らない花のように、\nもう一度思い出し、彼らに示したい、奪われた者よ、\n打ち克ちがたい叫びの美しい遊び仲間よ。\n\n踊り手として最初は、突然、身体を躊躇で満たして、\n立ち止まった、まるで彼女の若さが青銅に注ぎ込まれるかのように；\n悲しみながら、聴きながら──。そこで、高い力能者たちから\n音楽が変容した心へと落ちた。\n\n疾患は近かった。すでに影に捕らわれ、\n暗くなった血が押し進んだ、しかし、一時的に疑われたかのように、\nそれは自然な春へと突き進んだ。\n\n何度も何度も、暗闇と転落によって中断されながら、\nそれは地上的に輝いた。恐ろしい動悸の後、\n慰めなく開いた門へと入るまで。"
+    },
+    {
+      "id": 6,
+      "verses": "Erster Teil, XXVI",
+      "original": "Du aber, Göttlicher, du, bis zuletzt noch Ertöner,\nda ihn der Schwarm der verschmähten Mänaden befiel,\nhast ihr Geschrei übertönt mit Ordnung, du Schöner,\naus den Zerstörenden stieg dein erbauendes Spiel.\n\nKeine war da, daß sie Haupt dir und Leier zerstör.\nWie sie auch rangen und rasten, und alle die scharfen\nSteine, die sie nach deinem Herzen warfen,\nwurden zu Sanftem an dir und begabt mit Gehör.\n\nSchließlich zerschlugen sie dich, von der Rache gehetzt,\nwahrend dein Klang noch in Löwen und Felsen verweilte\nund in den Bäumen und Vögeln. Dort singst du noch jetzt.\n\nO du verlorener Gott! Du unendliche Spur!\nNur weil dich reißend zuletzt die Feindschaft\nverteilte, sind wir die Hörenden jetzt und ein Mund der Natur.",
+      "provisionalTranslation": "しかしお前は、神聖な者よ、お前は最後まで音を鳴らし続ける者、\n侮蔑されたマイナスの群れが彼を襲った時、\n秩序でもって彼女らの叫びを圧倒した、美しい者よ、\n破壊する者たちから、お前の建てるような遊びが昇った。\n\n誰もお前の頭と竪琴を破壊するためにそこにいなかった。\n彼女らがどれほど争い、荒れ狂っても、そしてお前の心に向けて\n投げたすべての鋭い石が、\nお前のところで柔らかいものになり、聴覚を授けられた。\n\n最終的に彼女らはお前を打ち砕いた、復讐に駆り立てられて、\nお前の響きがまだライオンと岩の中に留まっている間\nそして樹々と鳥たちの中に。そこでお前は今も歌う。\n\nおお、失われた神よ！おお、無限の痕跡よ！\nただお前を引き裂きながら最終的に敵意が\n配分したから、われわれは今聴く者たち、自然の口だ。"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "Die Erde\nist wie ein Kind, das Gedichte weiß;\nviele, o viele....",
+      "body": "「大地は詩を知る子供のようだ；多く、おお多く……」──第21ソネット冒頭。第12ソネット「Die Erde schenkt（大地が贈る）」の子供的・遊戯的展開。「Gedichte weiß（詩を知っている）」──「wissen（知っている）」は暗記・習得の意味だが、大地の「詩を知ること」は有機的な記憶として提示される：根・幹・枝という植物的形態が詩を「印刷された（gedruckt）」文字として担う。ブランショ『文学の空間』における「書物（Livre）の空間」──詩は外部に書かれるのでなく、世界の中にすでに書かれている──というマラルメ的命題とリルケが対話する箇所として読める：大地は「詩を外から受け取る」のでなく「根と幹の中に詩が印刷されている」存在として提示される。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "prosody",
+      "anchor": "sie kanns, sie kanns!\nErde, die frei hat, du glückliche, spiele\nnun mit den Kindern. Wir wollen dich fangen,\nfröhliche Erde. Dem Frohsten gelingts.\n\nO, was der Lehrer sie lehrte, das Viele,\nund was gedruckt steht in Wurzeln und langen\nschwierigen Stammen: sie singts, sie singts!",
+      "body": "第21ソネット第二〜第四連──形式的特異性。「sie kanns, sie kanns（彼女はできる、彼女はできる）」「sie singts, sie singts（彼女は歌う、彼女は歌う）」という二重反復のリフレインが、詩全体の「遊戯的・讃歌的」性格を音的に体現する。第二連（4行）と第三連（3行）の間に空行がなく8行ブロックとして続く──大地の歌が「連の境界を溶かす」形式的実現。リシャール『詩と深さ』はリルケにおける「喜び（Freude）」が感覚的充満として突然溢れる形象を論じており、第21ソネットの「sie singts！」という反復は「抑制できない溢れ（débordement）」の音声的体現として機能する。「Dem Frohsten gelingts（最も陽気な者にうまくいく）」──第7悲歌「Hiersein ist herrlich（ここに在ることは素晴らしい）」という命題の遊戯的反響。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "intertextual",
+      "anchor": "und was gedruckt steht in Wurzeln und langen\nschwierigen Stammen: sie singts, sie singts!",
+      "body": "「根々と長く難しい幹に印刷されているものを：彼女は歌う」──ハイデガー「詩人とは何か（Wozu Dichter?）」における「大地（Erde）」と「言語」の関係との対話。ハイデガーは詩人の使命を「存在の声を聴き、それを言語に運ぶ」こととして論じたが、第21ソネットでは大地自身が「印刷された詩（gedruckt steht）」を「歌う（singts）」：詩人の媒介なしに大地が直接「存在の歌」を発する形象。これはリルケにおける「詩の自然化（Naturalisierung der Dichtung）」の命題──詩は詩人が作るのでなく、自然が歌うもの──を体現する。リシャールの観点からは「根・幹・大地という深部（profondeur）」が「歌（Gesang）」として表面に現れる過程が、詩的創造の自然的モデルとして提示される。",
+      "targetId": "rilke_sonette_orpheus_1_02",
+      "targetParagraphId": 2
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "denn das Verweilende\nerst weiht uns ein.\n\nKnaben, o werft den Mut\nnicht in die Schnelligkeit,\nnicht in den Flugversuch.",
+      "body": "「なぜなら留まるものだけがわれわれを入門させるから。少年たちよ、勇気を速さの中に、飛行の試みの中に投げるな」──第22ソネットの倫理的核心。「Verweilende（留まるもの）」──第18ソネット「機械」批判・第24ソネット「神々との旧友情」と連続する「速度文明批判」の倫理的応答。「weiht uns ein（入門させる）」──「weihen（奉献する・入門させる）」は第20ソネット「ich weih's（私は奉献する）」と同根：「留まること」が詩的「奉献」の条件として定義される。ハイデガー「物（Das Ding, 1950）」における「留まること（Verweilen）」──「内的な収集（Innigkeit）」として物のもとに「留まる」ことが思索の根本条件──との深い対応。第8悲歌「われわれ：観客、常に、どこにでも、すべてのものに向けられて（Zuschauer, immer, überall）」という「急く観客性」への批判の詩的解決として、「Verweilende」が提示される。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "intertextual",
+      "anchor": "Alles ist ausgeruht:\nDunkel und Helligkeit,\nBlume und Buch.",
+      "body": "「全ては安らいでいる：暗闇と明るさ、花と本」──第22ソネットの最終三行。「ausgeruht（安らいでいる）」──速さと疲労の対極。対立物の並置（暗闇と明るさ・花と本）が「休息」において統一されるという命題。「Blume und Buch（花と本）」──感覚的自然（花）と知的文化（本）の結合が「安らぎ」の中で可能になる。リシャール『詩と深さ』はリルケにおける「対立の調和（réconciliation des contraires）」が「表面でなく深さ（profondeur）において」起きることを論じた──「暗闇と明るさ」が「安らぎ」において和解する形象がこれに対応する。ブランショが論じる「本の空間（espace du livre）」──本は「世界の全体性を一点に収集する」──と「花」という自然の形象が第22ソネットでは「等価（ausgeruht）」として並置される逆説。"
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "erst, wenn ein reines Wohin\nwachsender Apparate\nKnabenstolz überwiegt,",
+      "body": "「その時だけ、成長する機器の純粋な方向が少年的な誇りを上回る時」──第23ソネットの飛行論の核心。「reines Wohin（純粋な方向）」──第9悲歌「warum dann Menschliches müssen（なぜ人間的なものでなければならないのか）」という問いへの応答として読める：飛行が「自分自身のため（um seinetwillen）」でなく「純粋な方向」のためになる時、技術は詩的に肯定される。「Knabenstolz（少年的な誇り）」──第20ソネット「白馬の高慢な気概（Übermut）」の少年的形式：自己顕示的な速度への誇りが「純粋な方向」に超克される時、技術は第22ソネットの「飛行の試みに勇気を投げるな」という批判から解放される。ハイデガー「技術への問い（Die Frage nach der Technik）」における「技術が本来の意味での『開示（Entbergen）』として機能する」可能性──リルケはここでその条件を「reines Wohin」として定義する。"
+    },
+    {
+      "paragraphId": 3,
+      "type": "intertextual",
+      "anchor": "wird, überstürzt von Gewinn,\njener den Fernen Genahte\nsein, was er einsam erfliegt.",
+      "body": "「利益に押し流されて、遠くに近づいたあの者は、孤独に飛んで得るものになるだろう」──第23ソネットの最終三行の逆説。「überstürzt von Gewinn（利益に押し流されて）」──利益・成果への執着が飛行者を「押し流す（überstürzen）」：利益を求めることで逆に「遠くに近づいた者（den Fernen Genahte）」が「孤独に飛んで得るもの（was er einsam erfliegt）」と同一化される。「einsam（孤独に）」──第16ソネット「孤独（einsam）」・第22ソネット「孤独に互いに依存して（einsamer nun auf einander）」と連続する「孤独」の形象：孤独な飛行においてのみ「本来の達成」が起きる。ブランショ「詩人の孤独（la solitude de l'écrivain）」──創造的孤独は「他者との分離」でなく「作品の空間への参入」──との対話：「孤独に飛ぶ」ことが「遠くと一体化する」という逆説がブランショ的創造的孤独の飛行的形象として機能する。"
+    },
+    {
+      "paragraphId": 4,
+      "type": "commentary",
+      "anchor": "führen wir nicht mehr die Pfade als schöne Mäander,\n\nsondern als Grade. Nur noch in Dampfkesseln brennen\ndie einstigen Feuer und heben die Hämmer, die immer\ngrößern. Wir aber nehmen an Kraft ab, wie Schwimmer.",
+      "body": "「われわれはもはや道を美しい蛇行として歩まず、直線として。もはや蒸気釜の中だけにかつての火が燃えて……しかしわれわれは力において弱まる、水泳者のように」──第24ソネットの文明批判の最高点。「Mäander（蛇行）」→「Grade（直線）」：曲がりくねった自然の道が直線の工業的道路に置き換えられる──形態の変化が存在様式の変化を示す。「wie Schwimmer（水泳者のように）」──最終の直喩。水泳者は水の抵抗に逆らって進む：速度文明は「抵抗に逆らって進む」力を使い果たす。ハイデガー「技術への問い」における「総かり立て体制（Gestell）」──存在するもの全てが「役立てられる素材（Bestand）」として動員される──が、ここでは「蒸気釜の中のかつての火」という歴史的形象で示される：神聖な火が産業的エネルギーに変換されることで、人間は「力において弱まる」。リシャールの観点からは「蛇行する道（Mäander）」が「感覚的な豊かさ・深さ」を体現するのに対し「直線（Grade）」が「感覚の貧困化」を体現する。"
+    },
+    {
+      "paragraphId": 4,
+      "type": "intertextual",
+      "anchor": "Sollen wir unsere uralte Freundschaft, die großen\nniemals werbenden Götter, weil sie der harte\nStahl, den wir streng erzogen, nicht kennt, verstoßen",
+      "body": "「われわれは太古の友情を、大きく決して求愛しない神々を、かたい鋼が知らないからという理由で、追い払うべきか」──ブランショ『文学の空間』における「神々の去来（le départ des dieux）」の問いと直接対話する。ブランショはヘルダーリンの「神々の不在の時代」をリルケとともに論じ、「神々は去ったが、その不在は充満している」という逆説的命題を展開した。「niemals werbenden Götter（決して求愛しない神々）」──第7悲歌「Werbung nicht mehr（求愛ではもはやない）」の反響：神々は人間に求愛しない──人間が神々に「求愛（werben）」しなければならない。「追い払うべきか（verstoßen）」という問いが答えられないまま提示されることで、第24ソネットは「神々との関係」の危機を告発としてでなく問いとして開放する。ハイデガー「詩人とは何か」における「窮乏の時代（dürftige Zeit）」──神々が去った時代における詩人の使命──の具体的形象として第24ソネット全体が機能する。"
+    },
+    {
+      "paragraphId": 5,
+      "type": "commentary",
+      "anchor": "Tänzerin erst, die plötzlich, den Körper voll Zögern,\nanhielt, als göß man ihr Jungsein in Erz;\ntrauernd und lauschend-. Da, von den hohen Vermögern\nfiel ihr Musik in das veränderte Herz.",
+      "body": "「踊り手として最初は、突然、身体を躊躇で満たして、立ち止まった、まるで彼女の若さが青銅に注ぎ込まれるかのように；悲しみながら、聴きながら──。そこで、高い力能者たちから音楽が変容した心へと落ちた」──ウェラ・オウカマ・クヌープの疾患発症の瞬間の詩的記録。「den Körper voll Zögern（身体を躊躇で満たして）」──ダンサーの身体が突然「躊躇（Zögern）」で満たされる：神経的・身体的疾患が「躊躇」という感覚的・詩的語で表現される。「als göß man ihr Jungsein in Erz（まるで彼女の若さが青銅に注ぎ込まれるかのように）」──「青銅に注ぐ（gießen）」は鋳造の比喩：躍動する若さが突然「固体（青銅）」として凝固する。「das veränderte Herz（変容した心）」──疾患が心を変容させた後に、「高い力能者たちから」音楽が「落ちた（fiel）」：変容が詩的受容の条件として提示される。リシャール『詩と深さ』はリルケにおける「変容（Verwandlung）」が「表面から深さへの沈降」として起きることを論じており、ウェラの「立ち止まり」がその具体的形象として機能する。"
+    },
+    {
+      "paragraphId": 5,
+      "type": "prosody",
+      "anchor": "Wieder und wieder, von Dunkel und Sturz unterbrochen,\nglänzte es irdisch. Bis es nach schrecklichen Pochen\ntrat in das trostlos offene Tor.",
+      "body": "第25ソネットの最終三行──「慰めなく開いた門（trostlos offene Tor）」。「Wieder und wieder（何度も何度も）」──疾患の反復的な波。「glänzte es irdisch（地上的に輝いた）」──「irdisch（地上的）」という語が第9悲歌「irdisch gewesen zu sein, scheint nicht widerrufbar（地上にあったことは取り消せないように見える）」と共鳴する：死の前に「地上的に輝く」という詩的肯定。「trostlos offene Tor（慰めなく開いた門）」──「trostlos（慰めなく）」と「offen（開いた）」の結合が逆説：「開いた門」は通常希望の形象だが、「慰めなく」という形容で死への開口部として反転する。ブランショ「文学と死への権利」における「死への門」──文学は「死を経験する可能性」を与えるが、死そのものは「慰めを持たない」──というブランショ的命題が「trostlos offene Tor」に凝縮される。第10悲歌「喜びの源泉（Quelle der Freude）」との対照：悲歌では慰めが最終的に見出されるが、ここでは「trostlos（慰めなく）」のまま門が閉じる。"
+    },
+    {
+      "paragraphId": 5,
+      "type": "intertextual",
+      "anchor": "Dich aber will ich nun, Dich, die ich kannte\nwie eine Blume, von der ich den Namen nicht weiß,\nnoch ein Mal erinnern und ihnen zeigen, Entwandte,\nschöne Gespielin des unüberwindlichen Schrei's.",
+      "body": "「しかしお前を今、私は……もう一度思い出し、彼らに示したい、奪われた者よ、打ち克ちがたい叫びの美しい遊び仲間よ」──第25ソネットの冒頭4行。「Entwandte（奪われた者）」──「entwenden（盗む・奪う）」の過去分詞：死によって「奪われた」ウェラ。「wie eine Blume, von der ich den Namen nicht weiß（名前を知らない花のように）」──第9悲歌「物の列挙」における名前付き物（家・橋・井戸）と対照的に、ウェラは「名前なき花」として召喚される：名前を超えた個別性の形象。ブランショ「文学とは何か」における「名前を持たないもの（l'innommable）」──最も深い詩的対象は名前を持たない──という命題と共鳴。リシャール『詩と深さ』はリルケにおける「花（Blume）」が「感覚的充実の象徴」として機能することを論じた：ウェラが「名前なき花」として提示されることで、彼女の存在が「感覚的現前として記憶される」形式が確立される。",
+      "targetId": "rilke_sonette_orpheus_1_01",
+      "targetParagraphId": 2
+    },
+    {
+      "paragraphId": 6,
+      "type": "commentary",
+      "anchor": "Keine war da, daß sie Haupt dir und Leier zerstör.\nWie sie auch rangen und rasten, und alle die scharfen\nSteine, die sie nach deinem Herzen warfen,\nwurden zu Sanftem an dir und begabt mit Gehör.",
+      "body": "「誰もお前の頭と竪琴を破壊するためにそこにいなかった。……すべての鋭い石が、お前のところで柔らかいものになり、聴覚を授けられた」──第26ソネット第二連。「wurden zu Sanftem an dir（お前のところで柔らかいものになった）」──破壊の道具（石）が「柔らかさ（Sanftem）」へと変容する：これは第1ソネット「Brüllen, Schrei, Geröhr / schien klein in ihren Herzen（吠え声・叫び・唸りが動物たちの心の中で小さくなった）」の反響──オルフェウスの歌は暴力的な素材を変容させる力を持つ。「begabt mit Gehör（聴覚を授けられた）」──石が「聴覚」を与えられる：無機物が感受性を持つという変容。第1ソネット「Tempel im Gehör（聴覚の中の神殿）」と照応：石が「聴覚を授けられる」ことで第1ソネットの「聴覚」が全存在に遍在する過程が完成される。"
+    },
+    {
+      "paragraphId": 6,
+      "type": "prosody",
+      "anchor": "Schließlich zerschlugen sie dich, von der Rache gehetzt,\nwahrend dein Klang noch in Löwen und Felsen verweilte\nund in den Bäumen und Vögeln. Dort singst du noch jetzt.",
+      "body": "第26ソネット第三連──「そこでお前は今も歌う（Dort singst du noch jetzt）」。「während（〜している間）」という接続詞の機能：メナドたちがオルフェウスの体を打ち砕く「間」、彼の響きはすでにライオン・岩・樹・鳥の中に「留まっていた（verweilte）」──破壊と遍在が同時に起きる。「Dort singst du noch jetzt（そこでお前は今も歌う）」──現在形「singst」が神話的過去（メナドによる解体）と詩の「現在（jetzt）」を接続する。第22ソネット「Verweilende（留まるもの）」と「verweilte（留まっていた）」の語根的連絡：オルフェウスの歌こそが「留まるもの」の究極の形象として第一部を締める。リシャール『詩と深さ』が論じるリルケの「遍在する声（voix omnipresente）」──声は肉体の消滅後も自然の中に「留まる」──というテーマがここで神話的完結を迎える。"
+    },
+    {
+      "paragraphId": 6,
+      "type": "intertextual",
+      "anchor": "O du verlorener Gott! Du unendliche Spur!\nNur weil dich reißend zuletzt die Feindschaft\nverteilte, sind wir die Hörenden jetzt und ein Mund der Natur.",
+      "body": "「おお、失われた神よ！おお、無限の痕跡よ！ただお前を引き裂きながら最終的に敵意が配分したから、われわれは今聴く者たち、自然の口だ」──第一部の最終三行。詩集全体の詩的使命の定義として機能する。「Du unendliche Spur（無限の痕跡）」──「Spur（痕跡）」はブランショ・デリダ的な意味で「オリジナルなき痕跡」として読める：オルフェウスは体を失い「痕跡（Spur）」としてのみ存在する──これはブランショ『文学の空間』が論じる「死後に作品として残る詩人」の神話的完結。「ein Mund der Natur（自然の口）」──人間が「自然の口（Mund）」となる：第1ソネット「耳の中の神殿（Tempel im Gehör）」から第26ソネット「自然の口」へ──「聴く（Hören）」器官から「語る（sprechen）」器官への変容が第一部全体の弧として完成する。ハイデガー「言語が語る（Die Sprache spricht）」という命題──人間は言語を使うのでなく、言語が人間を通じて語る──の神話的形象として「ein Mund der Natur（自然の口）」が機能する。",
+      "targetId": "rilke_sonette_orpheus_1_01",
+      "targetParagraphId": 1
+    }
+  ]
+}
