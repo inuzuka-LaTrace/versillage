@@ -167,19 +167,27 @@ export default function FlashcardApp() {
 
   // ── キーボードショートカット ──────────────────────────────
   useEffect(() => {
-    const handler = (e) => {
-      if (fc.finished || fc.cards.length === 0) return;
-      if (e.code === 'Space') {
-        e.preventDefault();
-        if (!fc.flipped) fc.setFlipped(true);
+  const handler = (e) => {
+    if (fc.finished || fc.cards.length === 0) return;
+    
+    // ─── 修正ポイント ───
+    // 入力要素（textarea等）にフォーカスがある場合は、Spaceや矢印キーのショートカットを無効化する
+    if (document.activeElement.tagName === 'TEXTAREA' || document.activeElement.tagName === 'INPUT') {
+      // Ctrl+Enter だけは通したいので、それ以外は return
+      if (!(e.key === 'Enter' && (e.ctrlKey || e.metaKey))) {
+        return; 
       }
-      if (e.code === 'ArrowRight' && fc.flipped) fc.judge('good');
-      if (e.code === 'ArrowLeft'  && fc.flipped) fc.judge('again');
-    };
+    }
+
+    if (e.code === 'Space') {
+      e.preventDefault();
+      if (!fc.flipped) fc.setFlipped(true);
+    }
+    // ...以降の判定ロジック
+  };
     window.addEventListener('keydown', handler);
     return () => window.removeEventListener('keydown', handler);
-  }, [fc.flipped, fc.finished, fc.cards.length, fc.judge, fc.setFlipped]);
-
+  }, [fc.flipped, fc.finished, fc.cards.length, fc.judge, fc.setFlipped, fc.mode]); // fc.modeを依存配列に追加
   // ── カテゴリー一覧（存在するものだけ） ───────────────────
   const categories = [...new Set(Object.values(ALL_TEXTS).map(t => t.category))].sort();
 
@@ -445,40 +453,45 @@ export default function FlashcardApp() {
 
   <div className="flex-1 flex flex-col items-center justify-center overflow-y-auto py-4 w-full">
   {/* ── ディクテーションモード専用の入力UI ── */}
-  {fc.mode === 'dictation' ? (
-    <div className="w-full h-full flex flex-col space-y-4">
-      {/* ヒントとしての訳文などを上部に小さく表示（オプション） */}
-      <p className={`text-sm font-serif text-center italic opacity-60 ${textMain}`}>
-        {frontText}
-      </p>
+ {fc.mode === 'dictation' ? (
+  <div className="w-full h-full flex flex-col space-y-4">
+    {/* ヒント表示：textSizeClass を適用して文字量に合わせる */}
+    <p className={`font-serif text-center italic opacity-60 ${textMain} ${textSizeClass(frontText)}`}>
+      {frontText}
+    </p>
       
       {/* 入力エリア：反転（回答表示）前のみ表示 */}
       {!fc.flipped && (
-        <textarea
-          autoFocus
-          className={`flex-1 w-full p-4 rounded-xl border font-serif text-base text-center leading-relaxed ...`}
-          placeholder="ここに原文を書き写してください..."
-          value={fc.userInput || ''}
-          onChange={(e) => fc.setUserInput(e.target.value)}
-          // ─── 追加ポイント1 ───
-          onClick={(e) => e.stopPropagation()} // 親のクリックイベントを発火させない
-          onKeyDown={(e) => {
-            if ((e.ctrlKey || e.metaKey) && e.key === 'Enter') {
-              fc.setFlipped(true);
-            }
-          }}
-        />
-      )}
+      <textarea
+        autoFocus
+        // 入力中の文字サイズも、問題文と同じサイズ感に合わせる
+        className={`flex-1 w-full p-4 rounded-xl border font-serif text-center leading-relaxed focus:outline-none focus:ring-2 focus:ring-amber-500/30 transition-all resize-none 
+          ${textSizeClass(fc.userInput || '')} 
+          ${darkMode ? 'bg-zinc-800/50 border-zinc-700 text-zinc-200' : 'bg-stone-50 border-stone-200 text-stone-800'}`}
+        placeholder="ここに原文を書き写してください..."
+        value={fc.userInput || ''}
+        onChange={(e) => fc.setUserInput(e.target.value)}
+        onClick={(e) => e.stopPropagation()} // 前回の修正：クリック反転防止
+        onKeyDown={(e) => {
+          if ((e.ctrlKey || e.metaKey) && e.key === 'Enter') {
+            fc.setFlipped(true);
+          }
+        }}
+      />
+    )}
       
       {/* 回答表示後は、入力した内容を比較用に残す */}
       {fc.flipped && (
-        <div className={`p-4 rounded-xl border text-sm font-serif ${darkMode ? 'bg-zinc-800/30 border-zinc-700' : 'bg-stone-50 border-stone-100'}`}>
-           <p className={textSub}>あなたの入力:</p>
-           <p className={textMain}>{fc.userInput || '(未入力)'}</p>
-        </div>
-      )}
-    </div>
-  ) : (
+      <div className={`p-4 rounded-xl border font-serif ${darkMode ? 'bg-zinc-800/30 border-zinc-700' : 'bg-stone-50 border-stone-100'}`}>
+         <p className={`${textSub} text-xs mb-2`}>あなたの入力:</p>
+         {/* 比較用表示にも textSizeClass を適用 */}
+         <p className={`${textMain} ${textSizeClass(fc.userInput || '')}`}>
+           {fc.userInput || '(未入力)'}
+         </p>
+      </div>
+    )}
+  </div>
+) : (
     /* ── 既存の通常モード / 空所補充モード ── */
     <p className={`font-serif whitespace-pre-line text-center ${textMain} ${textSizeClass(frontText)}`}>
       {fc.mode === 'cloze' 
