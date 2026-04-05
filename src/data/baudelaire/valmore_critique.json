@@ -7,6 +7,7 @@
   "firstPublication": "Revue fantaisiste, 1861",
   "difficulty": "上級",
   "category": "baudelaire_prose",
+  "originalLang": "fr-FR",
   "modernRelevance": "★★★★☆",
   "context": "ボードレールが1861年に発表したヴァルモール夫人論。没後まもない詩人への追悼批評であり、後に『ロマン的芸術』（1868）に収録された。自らの美学的原則と相反するヴァルモールの「無技巧の詩」に魅了されることを逆説的に告白しながら、「永遠の女性的なもの」という概念でその詩の本質を定義する。アプリ収録のヴァルモール夫人作品群と直接対応する批評テキスト。",
   "keywords": ["naturel", "sincérité", "féminin", "larmes", "souvenir"],
@@ -15,7 +16,7 @@
     {
       "id": 1,
       "french": "Plus d'une fois un de vos amis, comme vous lui faisiez confidence d'un de vos goûts ou d'une de vos passions, ne vous a-t-il pas dit : « Voilà qui est singulier ! car cela est en complet désaccord avec toutes vos autres passions et avec votre doctrine » ? Et vous répondiez : « C'est possible, mais c'est ainsi. J'aime cela ; je l'aime, probablement à cause même de la violente contradiction qu'y trouve tout mon être. »",
-      "provisionalTranslation": "好みや情熱のひとつを友人に打ち明けた時、「それは奇妙だ！ というのもそれはあなたの他のすべての情念や主義と完全に相容れないから」と言われたことが一度ならずあるだろう。するとあなたはこう答えた——「そうかもしれないが、そういうことだ。私はそれを愛している。おそらく自分の存在全体がそこに見出す激烈な矛盾ゆえにこそ愛しているのだろう」と。"
+      "provisionalTranslation": "好みや情熱のひとつを友人に打ち明けた時、「それは奇妙だ！ というのもそれはあなたの他のすべての情念や主義と完全に相容れないから」と言われたことが一度ならずあるだろう。するとあなたはこう答えた──「そうかもしれないが、そういうことだ。私はそれを愛している。おそらく自分の存在全体がそこに見出す激烈な矛盾ゆえにこそ愛しているのだろう」と。"
     },
     {
       "id": 2,
@@ -30,22 +31,22 @@
     {
       "id": 4,
       "french": "Mme Desbordes-Valmore fut femme, fut toujours femme et ne fut absolument que femme ; mais elle fut à un degré extraordinaire l'expression poétique de toutes les beautés naturelles de la femme. Qu'elle chante les langueurs du désir dans la jeune fille, la désolation morne d'un Ariane abandonnée ou les chauds enthousiasmes de la charité maternelle, son chant garde toujours l'accent délicieux de la femme ; pas d'emprunt, pas d'ornement factice, rien que l'éternel féminin, comme dit le poète allemand. C'est donc dans sa sincérité même que Mme Valmore a trouvé sa récompense, c'est-à-dire une gloire que nous croyons aussi solide que celle des artistes parfaits. Cette torche qu'elle agite à nos yeux pour éclairer les mystérieux bocages du sentiment, ou qu'elle pose, pour le raviver, sur notre plus intime souvenir, amoureux ou filial, cette torche, elle l'a allumée au plus profond de son propre cœur. Victor Hugo a exprimé magnifiquement, comme tout ce qu'il exprime, les beautés et les enchantements de la vie de famille ; mais seulement dans les poésies de l'ardente Marceline vous trouverez cette chaleur de couvée maternelle, dont quelques-uns, parmi les fils de la femme, moins ingrats que les autres, ont gardé le délicieux souvenir.",
-      "provisionalTranslation": "ヴァルモール夫人は女性であり、常に女性であり、絶対に女性だけであった。しかし女性のあらゆる自然の美の詩的表現として並外れた程度にそうであった。若い娘の欲望の倦怠を歌おうと、見捨てられたアリアドネの暗澹とした荒廃を歌おうと、母性の慈しみの熱い熱狂を歌おうと、その歌は常に女性の優しいアクセントを保っている。借り物なく、人工的な飾りなく、ドイツの詩人が言う「永遠の女性的なもの」だけがある。かくしてヴァルモール夫人はその誠実さの中にこそ、すなわち完璧な芸術家たちの栄光と同様に確固としていると我々が信じる栄光を見出した。感情の神秘的な茂みを照らすために我々の目の前で振り回し、あるいは愛の、あるいは子への最も親密な記憶を再び燃え立たせるために置かれるその松明——彼女はそれを自らの心の最も奥深くから灯した。ユゴーは彼が表現するすべてのものと同様に家族の生の美と魅惑を壮麗に表現した。しかし情熱的なマルスリーヌの詩の中にのみ、他の者よりも恩知らずでない母の息子たちの一部が甘美な記憶として保持してきたあの母性の抱卵の温もりを見出すことができる。"
+      "provisionalTranslation": "ヴァルモール夫人は女性であり、常に女性であり、絶対に女性だけであった。しかし女性のあらゆる自然の美の詩的表現として並外れた程度にそうであった。若い娘の欲望の倦怠を歌おうと、見捨てられたアリアドネの暗澹とした荒廃を歌おうと、母性の慈しみの熱い熱狂を歌おうと、その歌は常に女性の優しいアクセントを保っている。借り物なく、人工的な飾りなく、ドイツの詩人が言う「永遠の女性的なもの」だけがある。かくしてヴァルモール夫人はその誠実さの中にこそ、すなわち完璧な芸術家たちの栄光と同様に確固としていると我々が信じる栄光を見出した。感情の神秘的な茂みを照らすために我々の目の前で振り回し、あるいは愛の、あるいは子への最も親密な記憶を再び燃え立たせるために置かれるその松明──彼女はそれを自らの心の最も奥深くから灯した。ユゴーは彼が表現するすべてのものと同様に家族の生の美と魅惑を壮麗に表現した。しかし情熱的なマルスリーヌの詩の中にのみ、他の者よりも恩知らずでない母の息子たちの一部が甘美な記憶として保持してきたあの母性の抱卵の温もりを見出すことができる。"
     },
     {
       "id": 5,
       "french": "On a dit que Mme Valmore, dont les premières poésies datent déjà de fort loin (1818), avait été de notre temps rapidement oubliée. Oubliée par qui, je vous prie ? Par ceux-là qui, ne sentant rien, ne peuvent se souvenir de rien. Elle a les grandes et vigoureuses qualités qui s'imposent à la mémoire, les trouées profondes faites à l'improviste dans le cœur, les explosions magiques de la passion. Aucun auteur ne cueille plus facilement la formule unique du sentiment, le sublime qui s'ignore. Comme les soins les plus simples et les plus faciles sont un obstacle invincible à cette plume fougueuse et inconsciente, en revanche ce qui est pour toute autre objet d'une laborieuse recherche vient naturellement s'offrir à elle ; c'est une perpétuelle trouvaille. Elle trace des merveilles avec l'insouciance qui préside aux billets destinés à la boîte aux lettres.",
-      "provisionalTranslation": "最初の詩がすでに遠い昔（1818年）にさかのぼるヴァルモール夫人が、我々の時代に速やかに忘れられたと言われた。誰に忘れられたのか、と私は問いたい。何も感じないがゆえに何も覚えられない者たちにだ。彼女は記憶に刻み込まれる大きく力強い資質を持っている——心に不意打ちで穿たれる深い穴、情念の魔法的な爆発を。感情の唯一無二の定式、自覚なき崇高を、これほど容易に摘み取る作家はいない。最も単純で容易な配慮がこの激烈で無意識的な筆にとって乗り越えがたい障害となる一方で、他のすべての者にとって労苦ある探求の対象であるものが自然に彼女のもとへ差し出される。それは永続的な発見だ。彼女は郵便箱へ宛てた手紙を書く時の無頓着さで奇蹟を描き出す。"
+      "provisionalTranslation": "最初の詩がすでに遠い昔（1818年）にさかのぼるヴァルモール夫人が、我々の時代に速やかに忘れられたと言われた。誰に忘れられたのか、と私は問いたい。何も感じないがゆえに何も覚えられない者たちにだ。彼女は記憶に刻み込まれる大きく力強い資質を持っている──心に不意打ちで穿たれる深い穴、情念の魔法的な爆発を。感情の唯一無二の定式、自覚なき崇高を、これほど容易に摘み取る作家はいない。最も単純で容易な配慮がこの激烈で無意識的な筆にとって乗り越えがたい障害となる一方で、他のすべての者にとって労苦ある探求の対象であるものが自然に彼女のもとへ差し出される。それは永続的な発見だ。彼女は郵便箱へ宛てた手紙を書く時の無頓着さで奇蹟を描き出す。"
     },
     {
       "id": 6,
       "french": "Âme charitable et passionnée, comme elle se définit bien, mais toujours involontairement, dans ce vers : « Tant que l'on peut donner, on ne peut pas mourir ! » Âme trop sensible, sur qui les aspérités de la vie laissaient une empreinte ineffaçable, à elle surtout, désireuse du Léthé, il était permis de s'écrier : « Mais si de la mémoire on ne doit pas guérir, / À quoi sert, ô mon âme, à quoi sert de mourir ? » Certes, personne n'eut plus qu'elle le droit d'écrire en tête d'un récent volume : « Prisonnière en ce livre une âme est renfermée ! »",
-      "provisionalTranslation": "慈悲深く情熱的な魂——彼女は常に無意識のうちにこの詩句で自らを定義している。「与えることができる限り、死ぬことはできない！」と。人生の荒々しさが消えない痕跡を残した過敏すぎる魂。レーテを渴望する彼女にはとりわけ、こう叫ぶことが許されていた——「しかし記憶から癒えてはならないなら、おお我が魂よ、死ぬことに何の意味があるのか？」と。確かに、最近の巻頭に「この本の中に一つの魂が閉じ込められている！」と書く権利を彼女以上に持った者はいなかった。"
+      "provisionalTranslation": "慈悲深く情熱的な魂──彼女は常に無意識のうちにこの詩句で自らを定義している。「与えることができる限り、死ぬことはできない！」と。人生の荒々しさが消えない痕跡を残した過敏すぎる魂。レーテを渴望する彼女にはとりわけ、こう叫ぶことが許されていた──「しかし記憶から癒えてはならないなら、おお我が魂よ、死ぬことに何の意味があるのか？」と。確かに、最近の巻頭に「この本の中に一つの魂が閉じ込められている！」と書く権利を彼女以上に持った者はいなかった。"
     },
     {
       "id": 7,
       "french": "Au moment où la mort est venue pour la retirer de ce monde où elle savait si bien souffrir, et la porter vers le ciel dont elle désirait si ardemment les paisibles joies, Mme Desbordes-Valmore, prêtresse infatigable de la Muse, et qui ne savait pas se taire, parce qu'elle était toujours pleine de cris et de chants qui voulaient s'épancher, préparait encore un volume, dont les épreuves venaient une à une s'étaler sur le lit de douleur qu'elle ne quittait plus depuis deux ans. Ceux qui l'aidaient pieusement dans cette préparation de ses adieux m'ont dit que nous y trouverions tout l'éclat d'une vitalité qui ne se sentait jamais si bien vivre que dans la douleur. Hélas ! ce livre sera une couronne posthume à ajouter à toutes celles, déjà si brillantes, dont doit être parée une de nos tombes les plus fleuries.",
-      "provisionalTranslation": "死がこの上手に苦しむことを知っていた世界から彼女を連れ去り、彼女があれほど熱烈に望んでいた穏やかな喜びの天国へと運んでいった時、ミューズの疲れを知らない女司祭であり、溢れ出したい叫びと歌で常に満たされていたがゆえに沈黙することを知らなかったヴァルモール夫人は、もう一冊の書を準備していた。その校正刷りが二年間もう離れることのなかった病床に一枚一枚広げられていた。この別れの準備を敬虔に手伝った人々は、苦悩の中でこそ最も生きていると感じるあの活力の輝きがすべてそこに見出されるだろうと私に語ってくれた。ああ！ この本は、すでに輝かしい花冠すべてに加えられる死後の花冠となるだろう——我々の最も花に満ちた墓のひとつを飾るべき花冠に。"
+      "provisionalTranslation": "死がこの上手に苦しむことを知っていた世界から彼女を連れ去り、彼女があれほど熱烈に望んでいた穏やかな喜びの天国へと運んでいった時、ミューズの疲れを知らない女司祭であり、溢れ出したい叫びと歌で常に満たされていたがゆえに沈黙することを知らなかったヴァルモール夫人は、もう一冊の書を準備していた。その校正刷りが二年間もう離れることのなかった病床に一枚一枚広げられていた。この別れの準備を敬虔に手伝った人々は、苦悩の中でこそ最も生きていると感じるあの活力の輝きがすべてそこに見出されるだろうと私に語ってくれた。ああ！ この本は、すでに輝かしい花冠すべてに加えられる死後の花冠となるだろう──我々の最も花に満ちた墓のひとつを飾るべき花冠に。"
     },
     {
       "id": 8,
@@ -55,7 +56,7 @@
     {
       "id": 9,
       "french": "Des massifs de fleurs y représentent les abondantes expressions du sentiment. Des étangs, limpides et immobiles, qui réfléchissent toutes choses s'appuyant à l'envers sur la voûte renversée des cieux, figurent la profonde résignation toute parsemée de souvenirs. Rien ne manque à ce charmant jardin d'un autre âge, ni quelques ruines gothiques se cachant dans un lieu agreste, ni le mausolée inconnu qui, au détour d'une allée, surprend notre âme et lui recommande de penser à l'éternité. Des allées sinueuses et ombragées aboutissent à des horizons subits. Ainsi la pensée du poète, après avoir suivi de capricieux méandres, débouche sur les vastes perspectives du passé ou de l'avenir ; mais ces ciels sont trop vastes pour être généralement purs, et la température du climat trop chaude pour n'y pas amasser des orages. Le promeneur, en contemplant ces étendues voilées de deuil, sent monter à ses yeux les pleurs de l'hystérie, hysterical tears. Les fleurs se penchent vaincues, et les oiseaux ne parlent qu'à voix basse. Après un éclair précurseur, un coup de tonnerre a retenti : c'est l'explosion lyrique ; enfin un déluge inévitable de larmes rend à toutes ces choses, prostrées, souffrantes et découragées, la fraîcheur et la solidité d'une nouvelle jeunesse !",
-      "provisionalTranslation": "花の茂みは感情の豊かな表現を表す。天の逆さまにされた丸天井に逆しまに寄りかかるすべてのものを映す、澄んで静かな池は、記憶で満ちた深い諦念を象る。この別の時代の魅力的な庭には何一つ欠けていない——田園風の場所に隠れるいくつかのゴシックの廃墟も、小道の曲がり角で我々の魂を驚かせ永遠を考えるよう促す無名の霊廟も。蛇行した木陰の小道は突然の地平線へと達する。かくして詩人の思考は気まぐれな曲折をたどった後に、過去あるいは未来の広大な展望へと開け出る。しかしこれらの空は一般に澄んでいるには広大すぎ、気候の気温は嵐を積み重ねずにはいられないほど暑い。これらの喪に覆われた広がりを眺める散策者の目に、ヒステリーの涙——hysterical tears——が込み上げてくるのを感じる。花々は打ち負かされてうなだれ、鳥たちはひそひそ声でしか語らない。先触れの閃光の後に雷鳴が轟く——それが叙情的な爆発だ。ついに避けがたい涙の氾濫が、打ちひしがれ、苦しみ、意気消沈したすべてのものに、新しい若さの清々しさと確かさを取り戻させる！"
+      "provisionalTranslation": "花の茂みは感情の豊かな表現を表す。天の逆さまにされた丸天井に逆しまに寄りかかるすべてのものを映す、澄んで静かな池は、記憶で満ちた深い諦念を象る。この別の時代の魅力的な庭には何一つ欠けていない──田園風の場所に隠れるいくつかのゴシックの廃墟も、小道の曲がり角で我々の魂を驚かせ永遠を考えるよう促す無名の霊廟も。蛇行した木陰の小道は突然の地平線へと達する。かくして詩人の思考は気まぐれな曲折をたどった後に、過去あるいは未来の広大な展望へと開け出る。しかしこれらの空は一般に澄んでいるには広大すぎ、気候の気温は嵐を積み重ねずにはいられないほど暑い。これらの喪に覆われた広がりを眺める散策者の目に、ヒステリーの涙──hysterical tears──が込み上げてくるのを感じる。花々は打ち負かされてうなだれ、鳥たちはひそひそ声でしか語らない。先触れの閃光の後に雷鳴が轟く──それが叙情的な爆発だ。ついに避けがたい涙の氾濫が、打ちひしがれ、苦しみ、意気消沈したすべてのものに、新しい若さの清々しさと確かさを取り戻させる！"
     }
   ]
 }
