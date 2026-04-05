@@ -447,145 +447,85 @@ export default function FlashcardApp() {
             }}
           >
             {/* 表面 */}
-            <div
-              className={`absolute inset-0 rounded-2xl border p-8 flex flex-col ${
-                darkMode ? 'bg-zinc-900 border-zinc-700' : 'bg-white border-stone-200'
-              }`}
-              style={{ backfaceVisibility: 'hidden' }}
-              >
-              <span className={`text-xs font-sans uppercase tracking-widest ${textSub} shrink-0`}>
-                {frontLabel}
-              </span>
-              <div className="flex-1 flex flex-col items-center justify-center overflow-y-auto py-4 w-full">
-                {/* ── ディクテーションモード専用の入力UI ── */}
-                {fc.mode === 'dictation' ? (
-                <div className="w-full h-full flex flex-col space-y-4">
-                  {/* ヒント表示：textSizeClass を適用して文字量に合わせる */}
-    <p className={`font-serif text-center italic opacity-60 ${textMain} ${textSizeClass(frontText)}`}>
-      {frontText}
-    </p>
+           <div
+  className={`absolute inset-0 rounded-2xl border p-8 flex flex-col ${
+    darkMode ? 'bg-zinc-900 border-zinc-700' : 'bg-white border-stone-200'
+  }`}
+  style={{ backfaceVisibility: 'hidden' }}
+>
+  <div className="flex-1 flex flex-col items-center justify-center overflow-y-auto w-full">
+    {fc.mode === 'dictation' ? (
+      <div className="w-full h-full flex flex-col space-y-4">
+        {/* ヒント（問題文） */}
+        <p className={`font-serif text-center italic opacity-60 ${textMain} ${textSizeClass(frontText)}`}>
+          {frontText}
+        </p>
                   {/* 入力エリア：反転（回答表示）前のみ表示 */}
-                  {!fc.flipped && (
-                  <textarea
-                    key={`dictation-${fc.index}`} // indexを含めることでカードごとの独立性を確保
-                    autoFocus
-                    className={`flex-1 w-full p-4 rounded-xl border font-serif text-center leading-relaxed focus:outline-none focus:ring-2 focus:ring-amber-500/30 transition-all resize-none text-lg ${
-      darkMode ? 'bg-zinc-800/50 border-zinc-700 text-zinc-200' : 'bg-stone-50 border-stone-200 text-stone-800'
-                    }`}
-                    placeholder="ここに原文を書き写してください..."
-                    value={localInput} // ✅ fc.userInput ではなく localInput を参照
-                    onChange={(e) => {
-      const val = e.target.value;
-      setLocalInput(val); // ✅ まずローカルを更新（これでカーソルが飛ばなくなります）
-      fc.setUserInput(val); // 親の状態も同期（判定用）
-    }}
-    onClick={(e) => e.stopPropagation()}
-    onKeyDown={(e) => {
-      if ((e.ctrlKey || e.metaKey) && e.key === 'Enter') {
-        fc.setFlipped(true);
-      }
-    }}
-  />
-)}
-      
-      {/* 回答表示後は、入力した内容を比較用に残す */}
-      {fc.flipped && (
-      <div className={`p-4 rounded-xl border font-serif ${darkMode ? 'bg-zinc-800/30 border-zinc-700' : 'bg-stone-50 border-stone-100'}`}>
-         <p className={`${textSub} text-xs mb-2`}>あなたの入力:</p>
-         {/* 比較用表示にも textSizeClass を適用 */}
-         <p className={`${textMain} ${textSizeClass(fc.userInput || '')}`}>
-           {fc.userInput || '(未入力)'}
-         </p>
+                {!fc.flipped && (
+          <textarea
+            key={`dictation-${fc.index}`}
+            autoFocus
+            className={`flex-1 w-full p-4 rounded-xl border font-serif text-center leading-relaxed focus:outline-none focus:ring-2 focus:ring-amber-500/30 transition-all resize-none text-lg ${
+              darkMode ? 'bg-zinc-800/50 border-zinc-700 text-zinc-200' : 'bg-stone-50 border-stone-200 text-stone-800'
+            }`}
+            placeholder="ここに原文を書き写してください..."
+            value={localInput}
+            onChange={(e) => {
+              setLocalInput(e.target.value);
+              fc.setUserInput(e.target.value);
+            }}
+            onClick={(e) => e.stopPropagation()}
+            onKeyDown={(e) => {
+              if ((e.ctrlKey || e.metaKey) && e.key === 'Enter') {
+                fc.setFlipped(true);
+              }
+            }}
+          />
+        )}
+      </div>
+    ) : (
+      <p className={`font-serif whitespace-pre-line text-center ${textMain} ${textSizeClass(frontText)}`}>
+        {fc.mode === 'cloze' ? renderClozeText(frontText, fc.flipped, darkMode) : frontText}
+      </p>
+    )}
+  </div>
+  <p className={`text-xs font-sans text-center ${textSub} opacity-40 shrink-0 mt-2`}>
+    {fc.mode === 'dictation' && !fc.flipped ? "Ctrl + Enter で判定" : "タップ / Space で裏を見る"}
+  </p>
+</div>
+            {/* 裏面 */}
+            <div
+  className={`absolute inset-0 rounded-2xl border p-8 flex flex-col ${
+    darkMode ? 'bg-zinc-900 border-zinc-700' : 'bg-white border-stone-200'
+  }`}
+  style={{ 
+    backfaceVisibility: 'hidden', 
+    transform: 'rotateY(180deg)' // ✅ ここでカード自体を反転
+  }}
+>
+        <div className="flex-1 flex flex-col items-center justify-center overflow-y-auto w-full">
+    {/* 裏面のメインテキスト */}
+    <p className={`font-serif whitespace-pre-line text-center ${textMain} ${textSizeClass(backText)} mb-6`}>
+      {backText}
+    </p>
+
+    {/* ディクテーションモード時のみ：自分の入力を比較表示 */}
+    {fc.mode === 'dictation' && (
+      <div className={`w-full p-4 rounded-xl border font-serif ${
+        darkMode ? 'bg-zinc-800/30 border-zinc-700' : 'bg-stone-50 border-stone-100'
+      }`}>
+        <p className={`${textSub} text-xs mb-2 uppercase tracking-widest opacity-50`}>Your Input</p>
+        <p className={`${textMain} ${textSizeClass(localInput)}`}>
+          {localInput || '(未入力)'}
+        </p>
       </div>
     )}
   </div>
-) : (
-    /* ── 既存の通常モード / 空所補充モード ── */
-    <p className={`font-serif whitespace-pre-line text-center ${textMain} ${textSizeClass(frontText)}`}>
-      {fc.mode === 'cloze' 
-        ? frontText.split(/(\s+)/).map((token, i) => {
-            const isTarget = token.trim().length >= 5; 
-            if (isTarget) {
-              return (
-                <span
-                  key={i}
-                  className={`mx-0.5 px-1 rounded transition-all duration-500 ${
-                    fc.flipped 
-                      ? (darkMode ? 'bg-amber-900/30 text-amber-200' : 'bg-amber-100 text-amber-800')
-                      : (darkMode ? 'bg-zinc-800 text-transparent select-none' : 'bg-stone-200 text-transparent select-none')
-                  } border-b ${darkMode ? 'border-zinc-600' : 'border-stone-300'}`}
-                >
-                  {token}
-                </span>
-              );
-            }
-            return <span key={i}>{token}</span>;
-          })
-        : frontText
-      }
-    </p>
-  )}
-</div>
-              
-  <p className={`text-xs font-sans text-center ${textSub} opacity-40 shrink-0`}>
-  {fc.mode === 'dictation' && !fc.flipped 
-    ? "入力後：Ctrl + Enter で答え合わせ" 
-    : "タップ / Space で裏を見る"}
+  
+  <p className={`text-xs font-sans text-center ${textSub} opacity-40 shrink-0 mt-2`}>
+    評価を選択してください
   </p>
 </div>
-
-            {/* 裏面 */}
-            <div
-              className={`absolute inset-0 rounded-2xl border p-8 flex flex-col ${
-                darkMode
-                  ? 'bg-zinc-900/90 border-amber-700/40'
-                  : 'bg-amber-50/60 border-amber-200'
-              }`}
-              style={{ backfaceVisibility: 'hidden', transform: 'rotateY(180deg)' }}
-            >
-              {/* 裏ヘッダー */}
-              <div className="flex items-center justify-between shrink-0">
-                <span className={`text-xs font-sans uppercase tracking-widest ${darkMode ? 'text-amber-400' : 'text-amber-700'} opacity-80`}>
-                  {backLabel}
-                </span>
-                {/* 仮訳 / 自訳 切替（head2full 以外） */}
-                {fc.mode !== 'head2full' && fc.mode !== 'trans2orig' && (
-                  <div className={`flex rounded-lg overflow-hidden border text-xs font-sans ${border}`}>
-                    <button
-                      onClick={e => { e.stopPropagation(); fc.setBackMode('provisional'); }}
-                      className={`px-2.5 py-1 transition-colors ${
-                        fc.backMode === 'provisional'
-                          ? darkMode ? 'bg-amber-700 text-amber-100' : 'bg-stone-700 text-white'
-                          : darkMode ? 'text-zinc-400 hover:bg-zinc-700' : 'text-stone-500 hover:bg-stone-100'
-                      }`}
-                    >仮訳</button>
-                    <button
-                      onClick={e => { e.stopPropagation(); fc.setBackMode('user'); }}
-                      disabled={!hasUser}
-                      className={`px-2.5 py-1 transition-colors border-l ${border} ${
-                        !hasUser
-                          ? 'opacity-30 cursor-not-allowed ' + textSub
-                          : fc.backMode === 'user'
-                            ? darkMode ? 'bg-amber-700 text-amber-100' : 'bg-stone-700 text-white'
-                            : darkMode ? 'text-zinc-400 hover:bg-zinc-700' : 'text-stone-500 hover:bg-stone-100'
-                      }`}
-                    >自訳</button>
-                  </div>
-                )}
-              </div>
-
-              <div className="flex-1 flex items-center justify-center overflow-y-auto py-4">
-                <p className={`font-serif whitespace-pre-line text-center ${textMain} ${textSizeClass(backText)}`}>
-                  {backText}
-                </p>
-              </div>
-
-              <p className={`text-xs font-sans text-center ${textSub} opacity-30 shrink-0`}>
-                ← もう一度　　覚えた →
-              </p>
-            </div>
-          </div>
-        </div>
 
         {/* ─── 判定ボタン or スキップ ───────────────────── */}
         <div className="space-y-3 shrink-0">
