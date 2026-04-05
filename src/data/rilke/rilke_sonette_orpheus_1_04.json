@@ -1,0 +1,148 @@
+{
+  "id": "rilke_sonette_orpheus_1_04",
+  "title": "Die Sonette an Orpheus — Erster Teil, XVI–XX",
+  "author": "Rainer Maria Rilke",
+  "source": "Die Sonette an Orpheus, Insel-Verlag, Leipzig, 1923（初版）. 底本: Rainer Maria Rilke: Werke. Kommentierte Ausgabe in vier Bänden, Bd. 1, Insel Verlag, Frankfurt am Main, 1996. テキスト照合: Wikisource DE (https://de.wikisource.org/wiki/Die_Sonette_an_Orpheus); Project Gutenberg DE",
+  "year": "1922",
+  "firstPublication": "草稿執筆：1922年2月2–5日、ミューゾット城（スイス）。初出版：Insel-Verlag, Leipzig, 1923年2月",
+  "difficulty": "上級",
+  "category": "rilke",
+  "originalLang": "de-DE",
+  "modernRelevance": "★★★★★",
+  "context": "第一部XVI–XXは詩集の後半部への橋渡しとなる連作。XVIは孤独な友人への呼びかけ──「言葉と指示によって世界を我が物にしようとする」人間の言語的限界が主題。「エサウの毛皮」という旧約的形象で締めくくられる変則形式（第一・第二quatrainの間に空行なし）。XVIIは「最も深くにいる老人（Zu unterst der Alte）」──樹として形象化された系譜・世代の積み重ねが最終的に「竪琴へと曲がる（biegt sich zur Leier）」枝として結実する。XVIIIは詩集中唯一の「機械（Maschine）」への批判と肯定の同時的提示──「機械は情熱なく（ohne Leidenschaft）われわれから力を得た上で、駆動し奉仕せよ」という逆説的命令。XIXは変容する世界を超えて「お前の前歌（Vor-Gesang）」が続くというオルフェウスへの讃歌──「歌だけが地を聖化し祝う（Einzig das Lied überm Land / heiligt und feiert）」。XXはロシアの白馬の記憶──「奉献（weih ich dir）」という献呈の語が詩集全体の献呈（ウェラへ）と響き合い、白馬が「お前の神話の円環が彼の中で閉じていた（dein Sagenkreis war in ihm geschlossen）」と宣言される。XXの最終行「Sein Bild: ich weih's.（彼の形象：私はそれを奉献する）」は詩集全体の「讃えること＝奉献すること」という詩的行為の定義として機能する。\n\n形式的多様性：XVIは4-4-3-3だが第一・第二連の間に空行なし。XVII–XIXは短詩行（Kurzzeilen）形式の変則ソネット。XXは8-3-4の15行拡張形式──最終行「Sein Bild: ich weih's.」が孤立した短行として詩全体を締める。",
+  "keywords": [
+    "言語と指示（Worten und Fingerzeigen）",
+    "エサウの毛皮（Esau in seinem Fell）",
+    "最も深くにいる老人（Zu unterst der Alte）",
+    "竪琴へと曲がる（biegt sich zur Leier）",
+    "機械（Maschine）",
+    "情熱なく（ohne Leidenschaft）",
+    "前歌（Vor-Gesang）",
+    "歌だけが地を聖化する",
+    "白馬の記憶（ロシア）",
+    "神話の円環（Sagenkreis）",
+    "奉献（ich weih's）",
+    "第一部XVI–XX"
+  ],
+  "relatedTexts": [
+    "rilke_sonette_orpheus_1_03",
+    "rilke_sonette_orpheus_1_05",
+    "rilke_duineser_elegien_07",
+    "rilke_duineser_elegien_09",
+    "rilke_duineser_elegien_08"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "verses": "Erster Teil, XVI",
+      "original": "Du, mein Freund, bist einsam, weil....\nWir machen mit Worten und Fingerzeigen\nuns allmählich die Welt zu eigen,\nvielleicht ihren schwächsten, gefährlichsten Teil.\nWer zeigt mit Fingern auf einen Geruch? -\nDoch von den Kräften, die uns bedrohten,\nfühlst du viele... Du kennst die Toten,\nund du erschrickst vor dem Zauberspruch.\n\nSieh, nun heißt es zusammen ertragen\nStückwerk und Teile, als sei es das Ganze.\nDir helfen, wird schwer sein. Vor allem: pflanze\n\nmich nicht in dein Herz. Ich wüchse zu schnell.\nDoch meines Herrn Hand will ich führen und sagen:\nHier. Das ist Esau in seinem Fell.",
+      "provisionalTranslation": "お前、私の友よ、孤独だ、なぜなら……\nわれわれは言葉と指示によって\n少しずつ世界を自分のものにする、\nおそらくその最も弱く、最も危険な部分を。\n誰が指で匂いを指し示せるか？──\nしかしわれわれを脅かす力々から、\nお前は多くを感じている……お前は死者たちを知り、\n魔法の呪文の前に驚いている。\n\n見よ、今は共に耐えねばならない\n断片と部分を、まるでそれが全体であるかのように。\nお前を助けることは難しい。何より先に：植えるな\n\n私をお前の心に。私は速く育ちすぎるだろう。\nしかし私の主人の手を私は導き、言いたい：\nここに。毛皮の中のエサウだ。"
+    },
+    {
+      "id": 2,
+      "verses": "Erster Teil, XVII",
+      "original": "Zu unterst der Alte, verworrn,\nall der Erbauten\nWurzel, verborgener Born,\nden sie nie schauten.\n\nSturmhelm und Jägerhorn,\nSpruch von Ergrauten,\nMänner im Bruderzorn,\nFrauen wie Lauten...\n\nDrängender Zweig an Zweig,\nnirgends ein freier.... Einer!\nO steig... o steig...\n\nAber sie brechen noch.\nDieser erst oben doch\nbiegt sich zur Leier.",
+      "provisionalTranslation": "最も深くに老人が、混乱して、\n建てられた者すべての\n根として、隠された源として、\n彼らが決して見なかった源として。\n\n嵐の兜と狩人の角笛、\n白髪になった者たちの格言、\n兄弟の怒りの中の男たち、\n竪琴のような女たち……\n\n押し合う枝と枝、\nどこにも自由なものはない……一つが！\nおお登れ……おお登れ……\n\nしかし彼らはまだ折れる。\nこの者だけが上でようやく\n竪琴へと曲がる。"
+    },
+    {
+      "id": 3,
+      "verses": "Erster Teil, XVIII",
+      "original": "Hörst du das Neue, Herr,\ndröhnen und beben?\nKommen Verkündiger,\ndie es erheben.\n\nZwar ist kein Hören heil\nin dem Durchtobtsein,\ndoch der Maschinenteil\nwill jetzt gelobt sein.\n\nSieh, die Maschine:\nwie sie sich wälzt und rächt\nund uns entstellt und schwächt.\n\nHat sie aus uns auch Kraft,\nsie, ohne Leidenschaft,\ntreibe und diene.",
+      "provisionalTranslation": "お前は聞くか、新しいものが、主よ、\n轟いて震えるのを？\n告知する者たちが来る、\nそれを高く掲げる者たちが。\n\n確かに何の聴くことも癒されていない\n荒れ狂う時代の中では、\nしかし機械の部分は\n今称讃されたがっている。\n\n見よ、機械を：\nいかにそれが転がり、復讐し\nわれわれを歪め弱めるかを。\n\nたとえ彼女がわれわれからも力を得たとしても、\n彼女は、情熱なく、\n駆動し、奉仕せよ。"
+    },
+    {
+      "id": 4,
+      "verses": "Erster Teil, XIX",
+      "original": "Wandelt sich rasch auch die Welt\nwie Wolkengestalten,\nalles Vollendete fällt\nheim zum Uralten.\n\nÜber dem Wandel und Gang,\nweiter und freier,\nwährt noch dein Vor-Gesang,\nGott mit der Leier.\n\nNicht sind die Leiden erkannt,\nnicht ist die Liebe gelernt,\nund was im Tod uns entfernt,\n\nist nicht entschleiert.\nEinzig das Lied überm Land\nheiligt und feiert.",
+      "provisionalTranslation": "世界が急速に変わるとしても\n雲の形のように、\n全ての完成されたものは\n太古のものへと帰る。\n\n変容と移ろいの上を、\nより広く自由に、\nまだお前の前歌が続く、\n竪琴を持つ神よ。\n\n苦しみは認識されておらず、\n愛は学ばれておらず、\n死においてわれわれを遠ざけるものは、\n\n明かされていない。\nただ大地の上の歌だけが\n聖化し祝う。"
+    },
+    {
+      "id": 5,
+      "verses": "Erster Teil, XX",
+      "original": "Dir aber, Herr, o was weih ich dir, sag,\nder das Ohr den Geschöpfen gelehrt? -\nMein Erinnern an einen Frühlingstag,\nseinen Abend, in Rußland -, ein Pferd...\nHerüber vom Dorf kam der Schimmel allein,\nan der vorderen Fessel den Pflock,\num die Nacht auf den Wiesen allein zu sein;\nwie schlug seiner Mähne Gelock\n\nan den Hals im Takte des Übermuts,\nbei dem grob gehemmten Galopp.\nWie sprangen die Quellen des Rossebluts!\n\nDer fühlte die Weiten, und ob!\nDer sang und der horte -, dein Sagenkreis\nwar in ihm geschlossen.\nSein Bild: ich weih's.",
+      "provisionalTranslation": "しかしお前に、主よ、おお何を私はお前に奉献するか、言え、\n被造物たちに耳を教えた者よ？──\n春の日の、\nその夕方の、ロシアでの、記憶──一頭の馬……\n村の向こうから白い馬が一頭でやってきた、\n前の蹄枷に杭を付けて、\n夜を牧草地に一人でいるために；\nいかに鬣のカールが打ち付けたことか\n\n首へと、高慢な気概のリズムで、\n荒々しく抑えられたギャロップで。\nいかに馬の血の泉が跳ねたことか！\n\n彼は広さを感じた、それも確かに！\n彼は歌い、そして聴いた──お前の神話の円環が\n彼の中で閉じていた。\n彼の形象：私はそれを奉献する。"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "Wir machen mit Worten und Fingerzeigen\nuns allmählich die Welt zu eigen,\nvielleicht ihren schwächsten, gefährlichsten Teil.\nWer zeigt mit Fingern auf einen Geruch? -",
+      "body": "「われわれは言葉と指示によって少しずつ世界を自分のものにする、おそらくその最も弱く、最も危険な部分を。誰が指で匂いを指し示せるか？」──言語の限界と感覚的経験の非言語性の問い。「mit Fingern auf einen Geruch zeigen（指で匂いを指し示す）」──匂いは空間的に局在せず、指示対象を持たない；視覚的・指示的言語には根本的に回収できない感覚。リシャール『詩と深さ』はリルケにおける「嗅覚的経験（expérience olfactive）」が「言語化以前の感覚的深さ」として機能することを論じた──匂いはそれ自体で「深さ（profondeur）」を持つが言語の「指示（Fingerzeigen）」に抵抗する。ブランショ「文学と死への権利（La Littérature et le droit à la mort）」における「言語は事物を死なせることで意味を生む」という命題との対話：「Welt zu eigen machen（世界を自分のものにする）」という言語的行為は世界の「最も弱い部分（schwächsten Teil）」しか掴めない──残りは言語の外に留まる。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "prosody",
+      "anchor": "Dir helfen, wird schwer sein. Vor allem: pflanze\n\nmich nicht in dein Herz. Ich wüchse zu schnell.\nDoch meines Herrn Hand will ich führen und sagen:\nHier. Das ist Esau in seinem Fell.",
+      "body": "第16ソネット最終4行（第三連・第四連）──形式的特異性と内容の緊張。「pflanze / mich nicht in dein Herz（私をお前の心に植えるな）」──動詞「pflanze（植えよ）」で第三連が終わり、第四連冒頭「mich nicht」と連が割れる（enjambement）：これは第16ソネット全体の空行なし第一・第二連（8行ブロック）と対照をなし、詩の形式的分裂が「孤独な友人」の内的分裂を体現する。「Esau in seinem Fell（毛皮の中のエサウ）」──旧約聖書創世記27章：ヤコブが父イサクを欺くため、兄エサウの毛皮を手に巻いて「毛深い者」と偽って祝福を得た場面。「盲目の父が手で触れることで認識する」という触覚的誤認の形象が、ここでは「主人の手を導く（meines Herrn Hand führen）」という詩人の行為と結びつく──詩人は「主人（Orpheus）」の手を「エサウの毛皮」という感覚的現実へと導く案内者として位置づけられる。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "intertextual",
+      "anchor": "Du, mein Freund, bist einsam, weil....",
+      "body": "「お前、私の友よ、孤独だ、なぜなら……」──省略記号で終わる冒頭行。ブランショ『文学の空間』における「孤独（la solitude）」の概念と共鳴する。ブランショによれば、詩人の「本質的な孤独（solitude essentielle）」は社会的孤立でなく、「作品の空間」に入ることによって引き起こされる孤独──書く者は書くことによって自らの「存在の核」から切り離される。「Du, mein Freund（お前、私の友よ）」という親密な二人称と「einsam（孤独）」の組み合わせが、孤独が「一人でいること」でなく「何かによって引き起こされること（weil…）」として提示される──省略記号がその「理由」を開放したまま留置する。ハイデガー「詩人の孤独」──詩人は「窮乏の時代」に最も露わな孤独の中で存在の声を聴く──という思想の詩的形象。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "Zu unterst der Alte, verworrn,\nall der Erbauten\nWurzel, verborgener Born,\nden sie nie schauten.",
+      "body": "「最も深くに老人が、混乱して、建てられた者すべての根として、隠された源として、彼らが決して見なかった源として」──第17ソネットの根の形象。「Zu unterst（最も深くに）」という空間的深部が詩の出発点：第三悲歌「父祖たちが山の廃墟のようにわれわれの底（Grunde）に横たわる」との連続。「verborgener Born（隠された源）」──「Born」は古語的な「泉・源泉」。先祖が「見られることなく」地下に潜む根として機能する──「Schauen（見ること）」の否定が、この根の存在様式を「見えないことで機能する」ものとして定義する。リシャール『詩と深さ』はリルケにおける「深さ（profondeur）」が「隠されながら支えるもの（ce qui soutient en se cachant）」として一貫して把握されることを論じた──第17ソネットの「老人＝根＝源泉」の形象はこの「隠れた深さ」の典型例。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "prosody",
+      "anchor": "Drängender Zweig an Zweig,\nnirgends ein freier.... Einer!\nO steig... o steig...\n\nAber sie brechen noch.\nDieser erst oben doch\nbiegt sich zur Leier.",
+      "body": "第17ソネット最終6行──「竪琴へと曲がる（biegt sich zur Leier）」。「Drängender Zweig an Zweig, / nirgends ein freier（押し合う枝と枝、どこにも自由なものはない）」──密集する枝群の中で「Einer（一つが）！」という孤立した感嘆が現れ、「O steig... o steig...（おお登れ……おお登れ……）」という省略記号付きの呼びかけに続く。形式が内容を体現する：短詩行（Kurzzeilen）という圧縮された行が「押し合う枝」の密度を音響的に実現し、「Einer！」という一語行がその中の「自由な一本」を際立たせる。「biegt sich zur Leier（竪琴へと曲がる）」──第1ソネット「耳の中の高い樹」と連動：樹の枝が最終的に竪琴の形象に変容する。ハイデガー「芸術作品の根源」における「大地から世界が立ち上がる」という運動──隠れた根から地上の「自由な枝」が伸び、それが「竪琴」という詩的形象に変容する過程──との対話。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "intertextual",
+      "anchor": "Sturmhelm und Jägerhorn,\nSpruch von Ergrauten,\nMänner im Bruderzorn,\nFrauen wie Lauten...",
+      "body": "「嵐の兜と狩人の角笛、白髪になった者たちの格言、兄弟の怒りの中の男たち、竪琴のような女たち……」──系譜的列挙。「Frauen wie Lauten（竪琴のような女たち）」という比喩が詩集全体の「女性と音楽」の連絡を示す：第1ソネット「耳の中の高い樹」、第2ソネット「ウェラ」と連続して、女性が「弦楽器（Laute）」として──つまり音楽の楽器として──形象化される。ブランショが論じるオルフェウス神話における「エウリュディケ」──オルフェウスが歌うことで動かす存在としての女性──の系譜的形象として読める。リシャール『詩と深さ』は「女性の顔・体が楽器として機能するリルケの比喩」を詳細に分析し、「感受性の外皮（la peau de la sensibilité）」として女性の身体が詩的空間を張り渡す機能を持つことを論じた。"
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "Sieh, die Maschine:\nwie sie sich wälzt und rächt\nund uns entstellt und schwächt.\n\nHat sie aus uns auch Kraft,\nsie, ohne Leidenschaft,\ntreibe und diene.",
+      "body": "「見よ、機械を：いかにそれが転がり、復讐し、われわれを歪め弱めるかを。たとえ彼女がわれわれからも力を得たとしても、彼女は、情熱なく、駆動し、奉仕せよ」──第18ソネットの機械論。「ohne Leidenschaft（情熱なく）」──機械の無情動性が「奉仕」の条件として提示される。これはリルケが機械を単純に否定しないことを示す：機械は「情熱なく」あることで、逆に「道具として奉仕する（diene）」ことができる。第12ソネット「Die Erde schenkt（大地が贈る）」との対比：大地は与えるが機械は「奪い（aus uns Kraft）」ながら奉仕する。ハイデガー『技術への問い（Die Frage nach der Technik, 1953）』における「Gestell（総かり立て体制）」──技術が全ての存在を「役立てられる素材」として設置する──の先取りとして読める。しかしリルケは拒絶でなく「情熱なく、しかし奉仕せよ」という条件的受容を選ぶ。"
+    },
+    {
+      "paragraphId": 3,
+      "type": "intertextual",
+      "anchor": "Zwar ist kein Hören heil\nin dem Durchtobtsein,\ndoch der Maschinenteil\nwill jetzt gelobt sein.",
+      "body": "「確かに何の聴くことも癒されていない、荒れ狂う時代の中では、しかし機械の部分は今称讃されたがっている」──ブランショ『来たるべき書物（Le Livre à venir, 1959）』における「現代と詩の不和」の問いと共鳴する。「kein Hören heil（何の聴くことも癒されていない）」──「heil（癒された・健全な）」という形容詞が第3悲歌「sehnige Natur des Seins」と同根の健全さの欠如を示す。機械時代には「聴くこと（Hören）」自体が汚染されている──第1ソネット「聴くことから（aus Hören）」動物たちが動いた純粋な聴覚が、ここでは「荒れ狂う時代（Durchtobtsein）」の騒音によって不可能になっている。ブランショが論じる「詩的言語の危機」──近代において詩は「自分が何者かを問わなければならない」状況に置かれる──がリルケにおいては機械の騒音に対する詩的聴覚の問いとして現れる。"
+    },
+    {
+      "paragraphId": 4,
+      "type": "commentary",
+      "anchor": "Über dem Wandel und Gang,\nweiter und freier,\nwährt noch dein Vor-Gesang,\nGott mit der Leier.",
+      "body": "「変容と移ろいの上を、より広く自由に、まだお前の前歌が続く、竪琴を持つ神よ」──「Vor-Gesang（前歌）」という第19ソネットの核心語。「Vor-Gesang」は「先行する歌・原初の歌」──オルフェウスの歌は世界の変容（Wandel）に先立ち、それを超えて続く。ハイデガー「詩人とは何か（Wozu Dichter?）」における「詩人は存在の到来を先取りする（vorlaufend）」という命題と共鳴する：オルフェウスの「Vor-Gesang」はハイデガー的な「先駆（Vorlaufen）」の詩的形象として読める──死への先駆的決意性が「先行する歌」として音楽化される。「weiter und freier（より広く自由に）」──世界が変容するほど歌は「より広く自由（freier）」になる逆説：変容は歌の制約でなく解放の条件。"
+    },
+    {
+      "paragraphId": 4,
+      "type": "intertextual",
+      "anchor": "Nicht sind die Leiden erkannt,\nnicht ist die Liebe gelernt,\nund was im Tod uns entfernt,\n\nist nicht entschleiert.\nEinzig das Lied überm Land\nheiligt und feiert.",
+      "body": "「苦しみは認識されておらず、愛は学ばれておらず、死においてわれわれを遠ざけるものは明かされていない。ただ大地の上の歌だけが聖化し祝う」──第19ソネットの核心命題。三つの否定（「〜されておらず」の連鎖）の後に「Einzig das Lied（ただ歌だけ）」という孤独な肯定が来る。「heiligt und feiert（聖化し祝う）」──第7悲歌「Rühmen（讃えること）」・第9悲歌「preisen（讃えること）」という詩集の詩的使命が、ここでは「神聖化（heiligen）」と「祝祭（feiern）」として宗教的・祝祭的な次元で定義される。ブランショ『文学の空間』における「詩と宗教の不一致」──詩は「聖化するが宗教的ではない」──との対話：「Einzig das Lied（ただ歌だけ）」という「唯一性」の強調は、詩が他のいかなる聖化手段（宗教・哲学・科学）の代替でもなく、独自の様式で「聖化」することを宣言する。リシャールの観点からは、「Land（大地）」という感覚的・具体的な土台の上に歌が「聖化する」という形象が、リルケの詩的空間の感覚的根拠を示す。"
+    },
+    {
+      "paragraphId": 5,
+      "type": "commentary",
+      "anchor": "Mein Erinnern an einen Frühlingstag,\nseinen Abend, in Rußland -, ein Pferd...",
+      "body": "「春の日の、その夕方の、ロシアでの、記憶──一頭の馬……」──第20ソネットの自伝的根拠。リルケは1899・1900年にロシアを旅し、この経験が彼の詩的世界形成に深く影響した。「ロシア（Rußland）」はリルケにとって「大地と動物と神の近さ」の象徴的空間。「ein Pferd（一頭の馬）」──第8悲歌「自由な動物はその滅びを常に背後に持ち、前方に神を持つ」という動物論の具体的形象：馬は「開かれたもの（das Offene）」に最も近い動物として機能する。「省略記号（...）」の多用──「Rußland -、ein Pferd...」──が記憶の断片性・非連続性を音響的に体現する。"
+    },
+    {
+      "paragraphId": 5,
+      "type": "prosody",
+      "anchor": "Wie sprangen die Quellen des Rossebluts!\n\nDer fühlte die Weiten, und ob!\nDer sang und der horte -, dein Sagenkreis\nwar in ihm geschlossen.\nSein Bild: ich weih's.",
+      "body": "第20ソネットの最終5行──「Sagenkreis（神話の円環）」と奉献。「Wie sprangen die Quellen des Rossebluts（いかに馬の血の泉が跳ねたことか）」──「Quellen des Rossebluts（馬の血の泉）」という形象が第12ソネット「Die Erde schenkt（大地が贈る）」・第17ソネット「verborgener Born（隠された源）」と連続する「泉・源」の形象系に属する：馬の血は大地の源泉と同質の生命力として把握される。「dein Sagenkreis war in ihm geschlossen（お前の神話の円環が彼の中で閉じていた）」──白馬がオルフェウスの神話的円環を「身体の内側で」完結させた：これは第9悲歌「物たちを内側で変容させる（innen verwandeln）」の動物的形象。「Sein Bild: ich weih's（彼の形象：私はそれを奉献する）」──第20ソネットの孤立した最終行。「Bild（形象・イメージ）」という語と「weih（奉献する）」の組み合わせが詩集全体の詩的行為──「形象を讃え・奉献すること（rühmen / weihen）」──を要約する。ブランショ「詩人の証言（témoignage du poète）」──詩人は形象を「保持」するのでなく「奉献する」ことで初めて形象が自律的に存在する──という命題がこの一行に凝縮される。"
+    },
+    {
+      "paragraphId": 5,
+      "type": "intertextual",
+      "anchor": "Der sang und der horte -, dein Sagenkreis\nwar in ihm geschlossen.",
+      "body": "「彼は歌い、そして聴いた──お前の神話の円環が彼の中で閉じていた」──リシャール『詩と深さ』におけるリルケの「円環（cercle）」形象の分析と直接対応する。リシャールはリルケの詩における「円環・球・密度」の形象が「自己完結的な感受性の充実（plénitude sensorielle auto-suffisante）」を体現することを論じた──白馬が「歌い（sang）かつ聴いた（horte）」という二重の音楽的行為で「神話の円環を閉じる」ことは、第9ソネット「Doppelbereich（二重の領域）」における「二重性の中での閉じ（Schließung）」の動物的実現として読める。ハイデガー「芸術作品の根源」における「世界と大地の闘争の円環」──作品は闘争を「閉じながら開く」──と対応する：白馬は「Sagenkreis（神話の円環）を閉じる」ことで詩的作品と同質の存在として提示される。",
+      "targetId": "rilke_sonette_orpheus_1_02",
+      "targetParagraphId": 4
+    }
+  ]
+}
