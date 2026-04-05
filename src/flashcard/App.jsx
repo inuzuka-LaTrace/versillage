@@ -381,194 +381,80 @@ export default function FlashcardApp() {
     setLocalInput(fc.userInput || '');
     }, [fc.index, fc.flipped]);
 
-    return (
-      <div className="max-w-2xl mx-auto px-4 py-6 flex flex-col gap-5" style={{ minHeight: 'calc(100dvh - 56px)' }}>
+    const textMain = darkMode ? 'text-stone-200' : 'text-stone-900';
+  const textSub  = darkMode ? 'text-stone-500' : 'text-stone-400';
 
-        {/* 進捗バー + 情報 */}
-        <div className="space-y-3">
-          <div className={`w-full h-1 rounded-full ${darkMode ? 'bg-zinc-800' : 'bg-stone-200'}`}>
-            <div
-              className="h-1 rounded-full bg-amber-500 transition-all duration-500"
-              style={{ width: `${progress}%` }}
-            />
-          </div>
-          <div className="flex items-center justify-between">
-            <div className="flex items-center gap-2">
-              <span className={`text-xs font-mono tabular-nums ${textSub}`}>
-                {fc.index + 1} / {fc.cards.length}
-              </span>
-              <span className={`text-xs font-sans px-2 py-0.5 rounded-full ${catBg(card.category)}`}>
-                {CAT_SHORT[card.category] || card.category}
-              </span>
-              <span className={`text-xs font-sans ${textSub} hidden sm:inline`}>{card.textAuthor}</span>
-            </div>
-            {/* セッション中モード切替 */}
-            <div className={`flex rounded-lg overflow-hidden border text-xs font-sans ${border}`}>
-              {[['orig2trans','原→訳'],['trans2orig','訳→原'],['head2full','冒頭→全']].map(([val, label], i) => (
-                <button
-                  key={val}
-                  onClick={() => { fc.setMode(val); fc.setFlipped(false); }}
-                  className={`px-2.5 py-1 transition-colors ${i > 0 ? `border-l ${border}` : ''} ${
-                    fc.mode === val
-                      ? darkMode ? 'bg-amber-700 text-amber-100' : 'bg-stone-800 text-white'
-                      : darkMode ? 'text-zinc-400 hover:bg-zinc-800' : 'text-stone-500 hover:bg-stone-100'
-                  }`}
-                >
-                  {label}
-                </button>
-              ))}
-            </div>
-          </div>
-        </div>
-
-        {/* テキスト名 */}
-        <p className={`text-xs font-serif ${textSub} truncate`}>
-          {card.textTitle}
-          <span className={`ml-2 font-mono opacity-50`}>§{card.paraId}</span>
-        </p>
-
-        {/* ─── カード本体（3D flip） ─────────────────────── */}
-        <div className="flex-1 flex flex-col justify-center" style={{ perspective: '1200px' }}>
-          <div
-            onClick={() => {
-              // ディクテーションモードかつ未反転の時は、クリックでの反転を無効化する
-              // （入力に専念させるため。反転は Ctrl+Enter に任せる）
-              if (fc.mode === 'dictation' && !fc.flipped) return;
-              
-              if (!fc.flipped) fc.setFlipped(true);
-            }}
-            className={(!fc.flipped && fc.mode !== 'dictation') ? 'cursor-pointer' : ''}
-            style={{
-              transformStyle: 'preserve-3d',
-              transition: 'transform 0.5s cubic-bezier(0.4,0.2,0.2,1)',
-              transform: fc.flipped ? 'rotateY(180deg)' : 'rotateY(0deg)',
-              position: 'relative',
-              minHeight: '280px',
-            }}
-          >
-            {/* 表面 */}
-           <div
-  className={`absolute inset-0 rounded-2xl border p-8 flex flex-col ${
-    darkMode ? 'bg-zinc-900 border-zinc-700' : 'bg-white border-stone-200'
-  }`}
-  style={{ backfaceVisibility: 'hidden' }}
->
-  <div className="flex-1 flex flex-col items-center justify-center overflow-y-auto w-full">
-    {fc.mode === 'dictation' ? (
-      <div className="w-full h-full flex flex-col space-y-4">
-        {/* ヒント（問題文） */}
-        <p className={`font-serif text-center italic opacity-60 ${textMain} ${textSizeClass(frontText)}`}>
+  return (
+    <div className="flex flex-col h-full max-w-3xl mx-auto w-full p-4 space-y-6">
+      
+      {/* ── 問題表示エリア ── */}
+      <div className={`flex-1 flex flex-col items-center justify-center p-8 rounded-3xl border transition-all ${
+        darkMode ? 'bg-zinc-900/50 border-zinc-800' : 'bg-white border-stone-200'
+      }`}>
+        
+        {/* ヒント文（訳、または冒頭） */}
+        <p className={`font-serif text-center italic mb-8 opacity-60 ${textMain} ${textSizeClass(frontText)}`}>
           {frontText}
         </p>
-                  {/* 入力エリア：反転（回答表示）前のみ表示 */}
-                {!fc.flipped && (
+
+        {/* 入力 or 結果表示 */}
+        {!fc.flipped ? (
           <textarea
-            key={`dictation-${fc.index}`}
+            key={`input-${fc.index}`}
             autoFocus
-            className={`flex-1 w-full p-4 rounded-xl border font-serif text-center leading-relaxed focus:outline-none focus:ring-2 focus:ring-amber-500/30 transition-all resize-none text-lg ${
-              darkMode ? 'bg-zinc-800/50 border-zinc-700 text-zinc-200' : 'bg-stone-50 border-stone-200 text-stone-800'
+            className={`w-full h-64 p-6 rounded-2xl border font-serif text-center leading-relaxed focus:outline-none focus:ring-2 focus:ring-amber-500/30 transition-all resize-none text-xl ${
+              darkMode ? 'bg-zinc-800/40 border-zinc-700 text-zinc-200' : 'bg-stone-50 border-stone-200 text-stone-800'
             }`}
-            placeholder="ここに原文を書き写してください..."
+            placeholder="Write the original text here..."
             value={localInput}
             onChange={(e) => {
               setLocalInput(e.target.value);
               fc.setUserInput(e.target.value);
             }}
-            onClick={(e) => e.stopPropagation()}
             onKeyDown={(e) => {
-              if ((e.ctrlKey || e.metaKey) && e.key === 'Enter') {
-                fc.setFlipped(true);
-              }
+              if ((e.ctrlKey || e.metaKey) && e.key === 'Enter') fc.setFlipped(true);
             }}
           />
+        ) : (
+          <div className="w-full space-y-8 animate-in fade-in duration-700">
+            {/* 正解の原文 */}
+            <div className="text-center space-y-2">
+              <p className={`${textSub} text-[10px] uppercase tracking-[0.2em]`}>Original</p>
+              <p className={`font-serif whitespace-pre-line ${textMain} ${textSizeClass(backText)}`}>
+                {backText}
+              </p>
+            </div>
+
+            {/* 自分の入力との比較 */}
+            <div className={`p-6 rounded-2xl border font-serif ${
+              darkMode ? 'bg-zinc-800/20 border-zinc-700' : 'bg-stone-50 border-stone-100'
+            }`}>
+              <p className={`${textSub} text-[10px] uppercase tracking-[0.2em] mb-3`}>Your Transcription</p>
+              <p className={`${textMain} ${textSizeClass(localInput)} opacity-80`}>
+                {localInput || '(No input)'}
+              </p>
+            </div>
+          </div>
         )}
       </div>
-    ) : (
-      <p className={`font-serif whitespace-pre-line text-center ${textMain} ${textSizeClass(frontText)}`}>
-        {fc.mode === 'cloze' ? renderClozeText(frontText, fc.flipped, darkMode) : frontText}
-      </p>
-    )}
-  </div>
-  <p className={`text-xs font-sans text-center ${textSub} opacity-40 shrink-0 mt-2`}>
-    {fc.mode === 'dictation' && !fc.flipped ? "Ctrl + Enter で判定" : "タップ / Space で裏を見る"}
-  </p>
-</div>
-            {/* 裏面 */}
-            <div
-  className={`absolute inset-0 rounded-2xl border p-8 flex flex-col ${
-    darkMode ? 'bg-zinc-900 border-zinc-700' : 'bg-white border-stone-200'
-  }`}
-  style={{ 
-    backfaceVisibility: 'hidden', 
-    transform: 'rotateY(180deg)' // ✅ ここでカード自体を反転
-  }}
->
-        <div className="flex-1 flex flex-col items-center justify-center overflow-y-auto w-full">
-    {/* 裏面のメインテキスト */}
-    <p className={`font-serif whitespace-pre-line text-center ${textMain} ${textSizeClass(backText)} mb-6`}>
-      {backText}
-    </p>
 
-    {/* ディクテーションモード時のみ：自分の入力を比較表示 */}
-    {fc.mode === 'dictation' && (
-      <div className={`w-full p-4 rounded-xl border font-serif ${
-        darkMode ? 'bg-zinc-800/30 border-zinc-700' : 'bg-stone-50 border-stone-100'
-      }`}>
-        <p className={`${textSub} text-xs mb-2 uppercase tracking-widest opacity-50`}>Your Input</p>
-        <p className={`${textMain} ${textSizeClass(localInput)}`}>
-          {localInput || '(未入力)'}
-        </p>
+      {/* ── 操作・ナビゲーション ── */}
+      <div className="shrink-0 pb-4">
+        {!fc.flipped ? (
+          <p className={`text-center text-xs font-sans ${textSub} opacity-50`}>
+            Ctrl + Enter to evaluate
+          </p>
+        ) : (
+          <div className="flex justify-center gap-8 animate-in slide-in-from-bottom-2">
+             {/* ここに Good / Again ボタンを配置 */}
+             <button onClick={() => fc.judge('again')} className="...">Again</button>
+             <button onClick={() => fc.judge('good')}  className="...">Good</button>
+          </div>
+        )}
       </div>
-    )}
-  </div>
-  
-  <p className={`text-xs font-sans text-center ${textSub} opacity-40 shrink-0 mt-2`}>
-    評価を選択してください
-  </p>
-</div>
-
-        {/* ─── 判定ボタン or スキップ ───────────────────── */}
-        <div className="space-y-3 shrink-0">
-          {fc.flipped ? (
-            <div className="grid grid-cols-2 gap-3">
-              <button
-                onClick={() => fc.judge('again')}
-                className={`flex items-center justify-center gap-2 py-4 rounded-2xl text-base font-semibold font-sans transition-all border ${btnSecondary}`}
-              >
-                <ThumbsDown size={16} strokeWidth={1.8} />
-                <span>もう一度</span>
-                <kbd className={`text-xs opacity-30 font-mono ml-1`}>←</kbd>
-              </button>
-              <button
-                onClick={() => fc.judge('good')}
-                className={`flex items-center justify-center gap-2 py-4 rounded-2xl text-base font-semibold font-sans transition-all ${btnPrimary}`}
-              >
-                <ThumbsUp size={16} strokeWidth={1.8} />
-                <span>覚えた</span>
-                <kbd className={`text-xs opacity-40 font-mono ml-1`}>→</kbd>
-              </button>
-            </div>
-          ) : (
-            <div className="flex items-center justify-between">
-              <button
-                onClick={fc.skip}
-                className={`text-xs font-sans ${textSub} opacity-40 hover:opacity-70 transition-opacity`}
-              >
-                スキップ →
-              </button>
-              <button
-                onClick={fc.shuffle}
-                className={`flex items-center gap-1 text-xs font-sans ${textSub} opacity-40 hover:opacity-70 transition-opacity`}
-              >
-                <Shuffle size={11} strokeWidth={2} />シャッフル
-              </button>
-            </div>
-          )}
-        </div>
-      </div>
-    );
-  };
-
+    </div>
+  );
+};
   // ════════════════════════════════════════════════════════════
   // ③ 終了サマリー
   // ════════════════════════════════════════════════════════════
