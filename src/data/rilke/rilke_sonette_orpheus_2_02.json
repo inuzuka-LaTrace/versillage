@@ -1,0 +1,135 @@
+{
+  "id": "rilke_sonette_orpheus_2_02",
+  "title": "Die Sonette an Orpheus — Zweiter Teil, VI–X",
+  "author": "Rainer Maria Rilke",
+  "source": "Die Sonette an Orpheus, Insel-Verlag, Leipzig, 1923（初版）. 底本: Rainer Maria Rilke: Werke. Kommentierte Ausgabe in vier Bänden, Bd. 1, Insel Verlag, Frankfurt am Main, 1996. テキスト照合: Wikisource DE (https://de.wikisource.org/wiki/Die_Sonette_an_Orpheus); Project Gutenberg DE",
+  "year": "1922",
+  "firstPublication": "草稿執筆：1922年2月15–23日、ミューゾット城（スイス）。初出版：Insel-Verlag, Leipzig, 1923年2月",
+  "difficulty": "上級",
+  "category": "rilke",
+  "originalLang": "de-DE",
+  "modernRelevance": "★★★★★",
+  "context": "第二部VI–Xは詩集の中で「薔薇・花・子供・慈しみ・機械」という多様な主題が密集する連作。\n\nVI「薔薇よ、玉座に着く者よ」は薔薇をめぐる「古代の単純さ」と「現代の無限の複雑さ」の対比──「個々の花びらは同時に全ての衣装の回避であり否定（Vermeidung und Verleugnung）」という逆説的定義。香りが「呼べる時間から借り受けた記憶」を運ぶという知覚論的命題。VII「花々よ、秩序立てる手の親族よ」は摘まれた花が娘の手の温もりによって「始まりかけた死から回復される」という接触論──花が「贖罪の告白（Beichten）」として摘まれた罪を手放す逆説的な形象。VIII「かつての幼年期の遊び仲間たちよ」は幼年期への追悼──エゴン・フォン・リルケ（1874–1880、リルケの従弟）の早世への追悼詩として書かれた（詩末尾の献辞による）。「ボールだけが本物（wirklich）だった」という逆説──子供時代に唯一本物だったのは遊ぶ行為の中の「ボールの弧」。IX「裁く者たちよ」は刑罰廃止への社会的自賛への批判──「真の慈しみは強力にやってきて、神々がそうであるように輝かしく周囲を掴む」という神学的・美学的命題。X「機械は獲得されたもの全てを脅かす」は第一部XVIII・XXIVの機械批判の継続と転換──最終三行「それでもまだ存在は魔法をかけられている……言葉と音楽は使いものにならない空間に神格化された家を建てる」という逆説的肯定。\n\n形式的特記：VIIIは5-3-3-3の変則形式（第一連が5行）。詩末の「(In memoriam Egon von Rilke)」は詩行でなく献辞として注釈で言及。",
+  "keywords": [
+    "薔薇（Rose）",
+    "玉座に着く薔薇",
+    "衣装の回避と否定（Vermeidung und Verleugnung）",
+    "摘まれた花と娘の手",
+    "始まりかけた死（begonnenen Tod）",
+    "ボールだけが本物（wirklich）",
+    "エゴン・フォン・リルケへの追悼",
+    "真の慈しみ",
+    "使いものにならない空間（unbrauchbarer Raum）",
+    "神格化された家（vergöttlichtes Haus）",
+    "存在は魔法をかけられている（Dasein verzaubert）",
+    "第二部VI–X"
+  ],
+  "relatedTexts": [
+    "rilke_sonette_orpheus_2_01",
+    "rilke_sonette_orpheus_2_03",
+    "rilke_sonette_orpheus_1_03",
+    "rilke_sonette_orpheus_1_04",
+    "rilke_duineser_elegien_09",
+    "rilke_das_roseninnere"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "verses": "Zweiter Teil, VI",
+      "original": "Rose, du thronende, denen im Altertume\nwarst du ein Kelch mit einfachem Rand.\nUns aber bist du die volle zahllose Blume,\nder unerschöpfliche Gegenstand.\n\nIn deinem Reichtum scheinst du wie Kleidung um Kleidung\num einen Leib aus nichts als Glanz;\naber dein einzelnes Blatt ist zugleich die Vermeidung\nund die Verleugnung jedes Gewands.\n\nSeit Jahrhunderten ruft uns dein Duft\nseine süßesten Namen herüber;\nplötzlich liegt er wie Ruhm in der Luft.\n\nDennoch, wir wissen ihn nicht zu nennen, raten...\nwir Und Erinnerung geht zu ihm über,\ndie wir von rufbaren Stunden erbaten.",
+      "provisionalTranslation": "薔薇よ、玉座に着く者よ、古代の人々にとって\nお前は単純な縁の杯だった。\nしかしわれわれにとってお前は満ちた数え切れない花、\n尽きることのない対象だ。\n\nお前の豊かさの中でお前は衣装の上に衣装のように見える\n輝きだけから成る身体の周りの；\nしかしお前の一枚の花びらは同時に\n全ての衣装の回避であり否定だ。\n\n何世紀もの間お前の香りは\nその最も甘い名前をわれわれに呼び越してくる；\n突然それは空気の中の名声のように漂う。\n\nそれでも、われわれはそれを名付けることを知らず、推測する……\nそして記憶がそれへと移っていく、\n呼べる時間からわれわれが借り受けた記憶が。"
+    },
+    {
+      "id": 2,
+      "verses": "Zweiter Teil, VII",
+      "original": "Blumen, ihr schließlich den ordnenden Händen verwandte,\n(Händen der Mädchen von einst und jetzt),\ndie auf dem Gartentisch oft von Kante zu Kante\nlagen, ermattet und sanft verletzt,\n\nwartend des Wassers, das sie noch einmal erhole\naus dem begonnenen Tod -, und nun\nwieder erhobene zwischen die strömenden Pole\nfühlender Finger, die wohlzutun\n\nmehr noch vermögen, als ihr ahntet, ihr leichten,\nwenn ihr euch wiederfandet im Krug,\nlangsam erkühlend und Warmes der Mädchen, wie Beichten,\n\nvon euch gebend, wie trübe ermüdende Sünden,\ndie das Gepflücktsein beging, als Bezug\nwieder zu ihnen, die sich euch blühend verbünden.",
+      "provisionalTranslation": "花々よ、最終的に秩序立てる手の親族よ、\n（昔と今の娘たちの手の）、\nガーデンテーブルの上で端から端まで\n横たわっていたもの、疲れ果てて、やさしく傷ついて、\n\n水を待ちながら、始まりかけた死から\nそれらをもう一度回復させてくれる水を──、そして今\n再び持ち上げられて、感じる指の\n流れる両極の間に、善いことをすること\n\nをお前たちが思っていたよりもさらに多くできる指の間に、\nお前たちが水差しの中で自分を再び見出した時、\nゆっくりと冷えながら、娘たちの温もりを、告白のように、\n\nお前たちから与えながら、暗い疲れる罪として、\n摘まれることが犯した罪として、関係として\n再び彼女たちへ、咲きながらお前たちと同盟を結ぶ彼女たちへ。"
+    },
+    {
+      "id": 3,
+      "verses": "Zweiter Teil, VIII",
+      "original": "Wenige ihr, der einstigen Kindheit Gespielen\nin den zerstreuten Gärten der Stadt:\nwie wir uns fanden und uns zögernd gefielen\nund, wie das Lamm mit dem redenden Blatt,\nsprachen als Schweigende. Wenn wir uns einmal freuten,\n\nkeinem gehörte es. Wessen wars?\nUnd wie zergings unter allen den gehenden Leuten\nund im Bangen des langen Jahrs.\n\nWagen umrollten uns fremd, vorübergezogen,\nHäuser umstanden uns stark, aber unwahr, - und keines\nkannte uns je. Was war wirklich im All?\n\nNichts. Nur die Bälle. Ihre herrlichen Bogen.\nAuch nicht die Kinder... Aber manchmal trat eines,\nach ein vergehendes, unter den fallenden Ball.",
+      "provisionalTranslation": "お前たち少数の者よ、都市の散らばった庭での\nかつての幼年期の遊び仲間たちよ：\nいかにわれわれは出会い、ためらいながらお互いが気に入り、\nそして言葉を語る葉を持つ子羊のように、\n沈黙者として語り合った。われわれが一度喜んだ時、\n\nそれは誰のものでもなかった。誰のものだったのか？\nそしていかにそれは歩く人々全ての間で、\n長い年の不安の中で消えていったことか。\n\n馬車がわれわれの周りを見知らぬものとして転がり過ぎた、\n家々がわれわれの周りに強く立っていたが、虚偽で──そして\n誰一人としてわれわれを知ることはなかった。全体の中で何が本物だったのか？\n\n何も。ただボールだけ。その壮麗な弧。\n子供たちでさえない……しかし時に一人が踏み込んだ、\nああ消えゆく一人が、落下するボールの下に。"
+    },
+    {
+      "id": 4,
+      "verses": "Zweiter Teil, IX",
+      "original": "Rühmt euch, ihr Richtenden, nicht der entbehrlichen Folter\nund daß das Eisen nicht länger an Hälsen sperrt.\nKeins ist gesteigert, kein Herz -, weil ein gewollter\nKrampf der Milde euch zarter verzerrt.\n\nWas es durch Zeiten bekam, das schenkt das Schafott\nwieder zurück, wie Kinder ihr Spielzeug vom vorig\nalten Geburtstag. Ins reine, ins hohe, ins thorig\noffene Herz träte er anders, der Gott\n\nwirklicher Milde. Er käme gewaltig und griffe\nstrahlender um sich, wie Göttliche sind.\nMehr als ein Wind für die großen gesicherten Schiffe.\n\nWeniger nicht, als die heimliche leise Gewahrung,\ndie uns im Innern schweigend gewinnt\nwie ein still spielendes Kind aus unendlicher Paarung.",
+      "provisionalTranslation": "自慢するな、裁く者たちよ、不要な拷問を廃したことを、\nそして鉄がもはや首に錠をかけないことを。\n何も高まっていない、心は一つも──、意図された\n慈しみの痙攣がお前たちをより繊細に歪めているから。\n\n断頭台が時代を通じて受け取ったものを、それは\nまた返し贈る、子供たちが去年の古い誕生日の\n玩具をそうするように。清純な、高い、門のように\n開いた心にはまた違う仕方でやってくるだろう、神が\n\n真の慈しみの。彼は力強くやってきて、輝かしく\n周囲を掴むだろう、神々がそうであるように。\n大きな安全な船のための風以上に。\n\nそれ以下でもなく、われわれを内側で静かに獲得する\n秘かな柔らかな気づきのように、\n無限の交わりから生まれた静かに遊ぶ子供のように。"
+    },
+    {
+      "id": 5,
+      "verses": "Zweiter Teil, X",
+      "original": "Alles Erworbne bedroht die Maschine, solange\nsie sich erdreistet, im Geist, statt im Gehorchen, zu sein.\nDaß nicht der herrlichen Hand schöneres Zögern mehr prange,\nzu dem entschlossenern Bau schneidet sie steifer den Stein.\n\nNirgends bleibt sie zurück, daß wir ihr ein Mal entrönnen\nund sie in stiller Fabrik ölend sich selber gehört.\nSie ist das Leben, - sie meint es am besten zu können,\ndie mit dem gleichen Entschluß ordnet und schafft und zerstört.\n\nAber noch ist uns das Dasein verzaubert; an hundert\nStellen ist es noch Ursprung. Ein Spielen von reinen\nKräften, die keiner berührt, der nicht kniet und bewundert.\n\nWorte gehen noch zart am Unsäglichen aus...\nUnd die Musik, immer neu, aus den bebendsten Steinen,\nbaut im unbrauchbaren Raum ihr vergöttlichtes Haus.",
+      "provisionalTranslation": "獲得されたもの全てを機械は脅かす、それが\n服従の中でなく、精神の中に居座ろうとする限り。\n輝かしい手の美しい躊躇がもはや誇れないように、\nより決然とした建設のためにそれはより硬く石を切る。\n\nどこにも留まらないので、われわれが一度それから逃れて\n静かな工場の中で油をさしながら自らに属することができない。\n機械こそが生だ──それは最もよくできると思っている、\n同じ決意で秩序立て、作り、破壊するものが。\n\nしかしまだわれわれにとって存在は魔法をかけられている；百の\n場所でそれはまだ起源だ。純粋な\n力の遊びが、跪いて讃えない者は誰も触れない。\n\n言葉はまだ優しく言いようのないものへと向かう……\nそして音楽は、常に新しく、最も震える石から、\n使いものにならない空間の中にその神格化された家を建てる。"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "aber dein einzelnes Blatt ist zugleich die Vermeidung\nund die Verleugnung jedes Gewands.",
+      "body": "「しかしお前の一枚の花びらは同時に全ての衣装の回避であり否定だ（die Vermeidung und die Verleugnung jedes Gewands）」──第二部VIの詩的逆説の核心。薔薇の花びら一枚が「衣装（Gewand）」の「回避（Vermeidung）」であり「否定（Verleugnung）」である：花びらは衣装のように見えるが、同時に衣装の必要性を無効化する。リシャール『詩と深さ』はリルケにおける「薔薇（Rose）」の形象を詳細に分析し、薔薇の「多層性（stratification）」──花びらが層をなす構造──が「外側（衣装）でありながら常に内側（核）へと向かう」運動として機能することを論じた。「Leib aus nichts als Glanz（輝きだけから成る身体）」──非物質的な「身体」の形象：薔薇の内側は「輝き（Glanz）」という純粋な非物質から成る。ハイデガー「物（Das Ding）」における「物の物性」──物が「道具的透明性」でなく「大地の閉じた充実」として現れる──が、薔薇という「最も閉じた」花の形象で体現される。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "intertextual",
+      "anchor": "Dennoch, wir wissen ihn nicht zu nennen, raten...\nwir Und Erinnerung geht zu ihm über,\ndie wir von rufbaren Stunden erbaten.",
+      "body": "「それでも、われわれはそれを名付けることを知らず、推測する……そして記憶がそれへと移っていく、呼べる時間からわれわれが借り受けた記憶が」──第二部VI最終三行。「wissen ihn nicht zu nennen（名付けることを知らない）」──第9悲歌「物を言うこと（Sagen）」という使命との緊張：薔薇の香りは「言えない（unsäglich）」。「rufbare Stunden（呼べる時間）」──「rufbar（呼び出せる）」：記憶の中に「呼び出せる（rufbar）」時間が存在する；しかしそれは薔薇の香りに完全には対応しない。ブランショ『文学の空間』における「名付けることの不可能性（l'impossibilité de nommer）」──詩的言語は事物を名付けることで接近するが、同時に事物は名付けの外に逃れる──という命題が「香りを名付けられない」という第二部VI末の経験として詩的に具現化される。第一部XVIの「誰が指で匂いを指し示せるか」という問いへの発展的応答として読める。",
+      "targetId": "rilke_sonette_orpheus_1_04",
+      "targetParagraphId": 1
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "wartend des Wassers, das sie noch einmal erhole\naus dem begonnenen Tod -, und nun\nwieder erhobene zwischen die strömenden Pole\nfühlender Finger",
+      "body": "「水を待ちながら、始まりかけた死からそれらをもう一度回復させてくれる水を──、そして今再び持ち上げられて、感じる指の流れる両極の間に」──第二部VIIの中心的転換点。「begonnenen Tod（始まりかけた死）」──摘まれた花は「死を始めている」：切断（摘み取り）が死の開始として定義される。「strömenden Pole fühlender Finger（感じる指の流れる両極）」──「Pole（両極）」という物理的比喩：指が「正極と負極」として花に生命的な電流を流す。リシャール『詩と深さ』はリルケにおける「接触（contact）」──感じる手・指・皮膚──が「最も深い存在論的交換の場」として機能することを詳細に論じた：指が花に触れることが「死から生への電流」を生む。第一部IVの「苦しみを大地の重みに返せ（gebt sie zurück an der Erde Gewicht）」という「返還」の形象が、ここでは「花が娘の温もりを返す（von euch gebend）」として変奏される。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "prosody",
+      "anchor": "langsam erkühlend und Warmes der Mädchen, wie Beichten,\n\nvon euch gebend, wie trübe ermüdende Sünden,\ndie das Gepflücktsein beging, als Bezug\nwieder zu ihnen, die sich euch blühend verbünden.",
+      "body": "第二部VII最終4行──「告白（Beichten）・罪（Sünden）・絆（verbünden）」という宗教的・倫理的語群。「Warmes der Mädchen, wie Beichten（娘たちの温もりを、告白のように）」──花が「娘の温もり」を「告白（Beichten）」として返す：告白は罪の放棄であり、花が吸収した娘の温もりを水の中に「告白として」放出する。「Sünden, die das Gepflücktsein beging（摘まれることが犯した罪）」──摘まれること自体が「罪（Sünde）」として定義される逆説：花を摘む行為が「罪」であり、花はその罪を「告白として」水に返す。ブランショ「文学と死への権利」における「文学は生を否定することで意味を生む」──摘まれること（死の開始）が意味の条件となる──という逆説的構造と共鳴する。「blühend verbünden（咲きながら同盟を結ぶ）」──現在分詞「blühend」：死の過程にある花が「咲きながら」娘たちと同盟する──死と生の同時性。"
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "Was war wirklich im All?\n\nNichts. Nur die Bälle. Ihre herrlichen Bogen.\nAuch nicht die Kinder... Aber manchmal trat eines,\nach ein vergehendes, unter den fallenden Ball.",
+      "body": "「全体の中で何が本物だったのか？何も。ただボールだけ。その壮麗な弧。子供たちでさえない……しかし時に一人が踏み込んだ、ああ消えゆく一人が、落下するボールの下に」──第二部VIIIの詩的核心。「Was war wirklich im All（全体の中で何が本物だったのか）」──「wirklich（本物の）」という語が第二部II「wirklichen Strich（本物の線）」と連続する。「Nichts. Nur die Bälle（何も。ただボールだけ）」──短い断言文の反復が問いに対する答えの絶対性を体現する。「Ihre herrlichen Bogen（その壮麗な弧）」──ボールの放物線が「壮麗な（herrlich）」として讃えられる：第9悲歌「ここに在ることは多くを意味する」という命題が、幼年期の遊びの瞬間に還元される。「ach ein vergehendes（ああ消えゆく一人が）」──「vergehend（消えゆく）」という現在分詞がエゴン・フォン・リルケへの追悼を匿名的に担う。詩末の「(In memoriam Egon von Rilke)」──エゴン・フォン・リルケ（1874–1880）はリルケの従弟で6歳で没した。献辞は詩行でなく追悼の枠組みとして付される。"
+    },
+    {
+      "paragraphId": 3,
+      "type": "intertextual",
+      "anchor": "wie wir uns fanden und uns zögernd gefielen\nund, wie das Lamm mit dem redenden Blatt,\nsprachen als Schweigende.",
+      "body": "「いかにわれわれは出会い、ためらいながらお互いが気に入り、言葉を語る葉を持つ子羊のように、沈黙者として語り合った」──ブランショ『文学の空間』における「沈黙の言語（langage du silence）」との共鳴。「sprachen als Schweigende（沈黙者として語り合った）」──沈黙しながら語ることという逆説：子供たちのコミュニケーションは言語化されず、沈黙の中で行われる。「das Lamm mit dem redenden Blatt（言葉を語る葉を持つ子羊）」──「redenden Blatt（語る葉）」は子供のおもちゃ（羊の玩具に取り付けられた文字板？）への参照か、より一般的な「語る自然の葉」への比喩。ブランショが論じる「幼年期の言語（langage de l'enfance）」──子供は言語を「意味の道具」でなく「音の遊び」として体験する──という命題と共鳴。リシャールの観点からは、子供の「ためらい（zögernd）」という身体的感覚が言語に先行する感受性の形式として機能する。",
+      "targetId": "rilke_sonette_orpheus_1_05",
+      "targetParagraphId": 5
+    },
+    {
+      "paragraphId": 4,
+      "type": "commentary",
+      "anchor": "Ins reine, ins hohe, ins thorig\noffene Herz träte er anders, der Gott\n\nwirklicher Milde. Er käme gewaltig und griffe\nstrahlender um sich, wie Göttliche sind.",
+      "body": "「清純な、高い、門のように開いた心にはまた違う仕方でやってくるだろう、真の慈しみの神が。彼は力強くやってきて、輝かしく周囲を掴むだろう、神々がそうであるように」──第二部IXの神学的核心。「thorig offene Herz（門のように開いた心）」──「thorig（門のような）」という稀な形容詞；「Tor（門）」は第25ソネット「trostlos offene Tor（慰めなく開いた門）」と反響する──ウェラの死の「慰めなく開いた門」に対して、真の慈しみは「thorig offene（門のように開いた）」心に入る。「er käme gewaltig（彼は力強くやってくる）」──「gewaltig」：第8悲歌「Gewaltsamen（暴力的な者たち）」との語根的連絡。真の慈しみも「力（Gewalt）」として到来するが、それは人間の「暴力的な持続」でなく「神的な輝き」として。ハイデガー「詩人とは何か」における「神聖なもの（das Heilige）」──詩人は「神聖なもの」の痕跡を辿る──がここでは「神（Gott）」という具体的形象として現れる。"
+    },
+    {
+      "paragraphId": 4,
+      "type": "intertextual",
+      "anchor": "Weniger nicht, als die heimliche leise Gewahrung,\ndie uns im Innern schweigend gewinnt\nwie ein still spielendes Kind aus unendlicher Paarung.",
+      "body": "「それ以下でもなく、われわれを内側で静かに獲得する秘かな柔らかな気づきのように、無限の交わりから生まれた静かに遊ぶ子供のように」──第二部IX最終三行。「heimliche leise Gewahrung（秘かな柔らかな気づき）」──「Gewahrung（気づき・気づかせること）」は「wahrnehmen（知覚する）」と同根：内側から静かに「知覚させる」力。「die uns im Innern schweigend gewinnt（われわれを内側で静かに獲得する）」──第7悲歌「Nirgends, Geliebte, wird Welt sein, als innen（どこにも世界はない、内側以外に）」との連続：真の慈しみは「内側（Innern）」から「静かに（schweigend）」働く。「still spielendes Kind aus unendlicher Paarung（無限の交わりから生まれた静かに遊ぶ子供）」──「unendliche Paarung（無限の交わり）」：神と人間・永遠と時間の「交わり」から生まれた子供。第二部VIIIの「ボールで遊ぶ子供」との反響──現実の子供の遊びが神学的「静かに遊ぶ神の子」へと昇華される。ブランショ「神の不在（l'absence de Dieu）」との対話：神は不在だが「気づき（Gewahrung）」として内側に働く。",
+      "targetId": "rilke_sonette_orpheus_2_02",
+      "targetParagraphId": 3
+    },
+    {
+      "paragraphId": 5,
+      "type": "commentary",
+      "anchor": "Aber noch ist uns das Dasein verzaubert; an hundert\nStellen ist es noch Ursprung. Ein Spielen von reinen\nKräften, die keiner berührt, der nicht kniet und bewundert.",
+      "body": "「しかしまだわれわれにとって存在は魔法をかけられている；百の場所でそれはまだ起源だ。純粋な力の遊びが、跪いて讃えない者は誰も触れない」──第二部Xの転換点（第三連）。機械批判の後に突然「しかしまだ（Aber noch）」という逆接で存在の魔法的充実が宣言される。「Dasein verzaubert（存在は魔法をかけられている）」──「Dasein（現存在）」という語はハイデガー的な含意を持つが、「verzaubert（魔法をかけられた）」という形容によって存在論的厳格さでなく詩的・感覚的な驚異として提示される。「an hundert Stellen ist es noch Ursprung（百の場所でそれはまだ起源だ）」──「Ursprung（起源）」が現在形「ist」で語られる：起源は過去でなく現在にある。「der nicht kniet und bewundert（跪いて讃えない者は触れない）」──「knien（跪く）」という姿勢が純粋な力への唯一のアクセス条件として定義される。ハイデガー「芸術作品の根源（Der Ursprung des Kunstwerkes）」における「起源（Ursprung）」──作品が「起源へと跳躍する（Ur-sprung）」──との語根的共鳴。"
+    },
+    {
+      "paragraphId": 5,
+      "type": "prosody",
+      "anchor": "Worte gehen noch zart am Unsäglichen aus...\nUnd die Musik, immer neu, aus den bebendsten Steinen,\nbaut im unbrauchbaren Raum ihr vergöttlichtes Haus.",
+      "body": "第二部X最終三行──詩集全体の詩的宣言として機能する。「Worte gehen noch zart am Unsäglichen aus（言葉はまだ優しく言いようのないものへと向かう）」──「am Unsäglichen ausgehen（言いようのないものへと向かう・そこで尽きる）」：言語は「言いようのないもの（das Unsägliche）」へと「向かい」ながら「そこで尽きる（ausgehn）」──言語の限界と対象の関係。第9悲歌「lauter Unsägliches（ただ言いようのないものを）」・第14ソネット「Zwischenräume der Zeit（時間の空隙）」と連続する「言いようのなさ」の主題の詩的総括。「im unbrauchbaren Raum ihr vergöttlichtes Haus（使いものにならない空間に神格化された家を建てる）」──「unbrauchbar（使いものにならない）」：機械的効率の外にある空間。音楽はその空間に「神格化された家（vergöttlichtes Haus）」を建てる──第7悲歌「Tempel kennt er nicht mehr（彼はもはや神殿を知らない）」という時代の中で、詩と音楽だけが「神格化された家」を「使いものにならない空間」に建て続ける。ブランショ「文学の空間（l'espace littéraire）」──文学は「有用な空間」でなく「使いものにならない空間」において成立する──という命題の最も精確な詩的定義として第二部X最終行が機能する。"
+    }
+  ]
+}
