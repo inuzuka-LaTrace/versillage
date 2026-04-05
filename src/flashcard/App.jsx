@@ -3,7 +3,6 @@ import {
   RotateCcw, ThumbsUp, ThumbsDown, Shuffle,
   GraduationCap, Sun, Moon,
 } from 'lucide-react';
-
 // ── データインポート（VANITISMEと共通） ──────────────────────
 import racineData        from '../data/racine';
 import mallarmeData      from '../data/mallarme';
@@ -508,7 +507,9 @@ export default function FlashcardApp() {
 </div>
               
   <p className={`text-xs font-sans text-center ${textSub} opacity-40 shrink-0`}>
-    {fc.mode === 'dictation' && !fc.flipped ? "Ctrl + Enter で答え合わせ" : "タップ / Space で裏を見る"}
+  {fc.mode === 'dictation' && !fc.flipped 
+    ? "入力後：Ctrl + Enter で答え合わせ" 
+    : "タップ / Space で裏を見る"}
   </p>
 </div>
 
