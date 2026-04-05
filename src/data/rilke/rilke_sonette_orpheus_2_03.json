@@ -1,0 +1,153 @@
+{
+  "id": "rilke_sonette_orpheus_2_03",
+  "title": "Die Sonette an Orpheus — Zweiter Teil, XI–XV",
+  "author": "Rainer Maria Rilke",
+  "source": "Die Sonette an Orpheus, Insel-Verlag, Leipzig, 1923（初版）. 底本: Rainer Maria Rilke: Werke. Kommentierte Ausgabe in vier Bänden, Bd. 1, Insel Verlag, Frankfurt am Main, 1996. テキスト照合: Wikisource DE (https://de.wikisource.org/wiki/Die_Sonette_an_Orpheus); Project Gutenberg DE",
+  "year": "1922",
+  "firstPublication": "草稿執筆：1922年2月15–23日、ミューゾット城（スイス）。初出版：Insel-Verlag, Leipzig, 1923年2月",
+  "difficulty": "上級",
+  "category": "rilke",
+  "originalLang": "de-DE",
+  "modernRelevance": "★★★★★",
+  "context": "第二部XI–XVは詩集の中で最も哲学的密度の高い連作として知られ、XIIIは詩集全体の倫理的・存在論的核心として批評史上繰り返し論じられてきた。\n\nXI「鳩罠の比喩」──狩りの道具（帆布の切れ端）が洞窟に仕掛けられ、夜が白い鳩の一握りを光の中に投げる。「見る者から全ての後悔の息吹を遠ざけよ」という無情の要求。「死は流浪の悲しみの一つの形象（Gestalt）だ」。XII「変容を欲せよ（Wolle die Wandlung）」──「燃え上がる炎への熱狂」と「転換点（wendenden Punkt）」への愛。「留まることへの閉塞」は「不在の鎚（abwesender Hammer）」によって警告される。変容した「ダフネ（月桂樹）」が「お前が風に変容することを望む（daß du dich wandelst in Wind）」という末行。XIII「全ての別れに先んじよ（Sei allem Abschied voran）」──詩集の倫理的・存在論的宣言の核心。「エウリュディケの中で常に死ね、より高く歌え」。「消えゆく者たちの中で、響きの中で砕ける鳴り響くグラスであれ」。「存在しながら同時に非存在の条件を知れ」。「歓喜しながら自らを全体に数え入れ、その数を消せ（vernichte die Zahl）」。XIV「花への降伏」──「全ては浮かびたい（Alles will schweben）。われわれは重し（Beschwerer）として動き回る」。物と共に深く眠ることへの招待──「牧草地の風の静かな兄弟姉妹（stillen Geschwistern im Winde der Wiesen）」として改心した者。XV「泉の口（Brunnen-Mund）」──ローマの泉の大理石の仮面が水道橋（アクアドゥクト）によってアペニン山脈から運ばれた水を語る。「大地の耳（Ohr der Erde）」という最終的な聴覚の形象──大地が自らと語り合う耳として泉の口が機能する。水差しが割り込む時、大地には「邪魔された」ように見える。\n\n形式的特記：テキストファイルのXI第二連に行幅折り返しがあるが、原典（Wikisource DE）に基づき「eine Handvoll von bleichen」を1行として14詩行・4-4-3-3形式で収録。",
+  "keywords": [
+    "鳩罠（Streifen von Segel）",
+    "死は悲しみの形象",
+    "変容を欲せよ（Wolle die Wandlung）",
+    "転換点（wendender Punkt）",
+    "ダフネ（Daphne）",
+    "全ての別れに先んじよ（Sei allem Abschied voran）",
+    "エウリュディケの中で死ね",
+    "鳴り響くグラス（klingendes Glas）",
+    "非存在の条件（Nicht-Seins Bedingung）",
+    "数を消せ（vernichte die Zahl）",
+    "全ては浮かびたい（Alles will schweben）",
+    "泉の口（Brunnen-Mund）",
+    "大地の耳（Ohr der Erde）",
+    "第二部XI–XV"
+  ],
+  "relatedTexts": [
+    "rilke_sonette_orpheus_2_02",
+    "rilke_sonette_orpheus_2_04",
+    "rilke_duineser_elegien_07",
+    "rilke_duineser_elegien_09",
+    "rilke_duineser_elegien_10",
+    "rilke_sonette_orpheus_1_05"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "verses": "Zweiter Teil, XI",
+      "original": "Manche, des Todes, entstand ruhig geordnete Regel,\nweiterbezwingender Mensch, seit du im Jagen beharrst;\nmehr doch als Falle und Netz, weiß ich dich, Streifen von Segel,\nden man hinuntergehängt in den höhligen Karst.\n\nLeise ließ man dich ein, als warst du ein Zeichen,\nFrieden zu feiern. Doch dann: rang dich am Rande der Knecht,\n- und, aus den Höhlen, die Nacht warf eine Handvoll von bleichen\ntaumelnden Tauben ins Licht... Aber auch das ist im Recht.\n\nFern von dem Schauenden sei jeglicher Hauch des Bedauerns,\nnicht nur vom Jäger allein, der, was sich zeitig erweist,\nwachsam und handelnd vollzieht.\n\nToten ist eine Gestalt unseres wandernden Trauerns...\nRein ist im heiteren Geist,\nwas an uns selber geschieht.",
+      "provisionalTranslation": "死のものとして多くの静かに秩序立てられた規則が生まれた、\nさらに征服し続ける人間よ、お前が狩りに執着してから；\nしかし罠と網以上に、私はお前を知っている、帆布の切れ端として、\n洞窟のあるカルスト台地へと吊り下げられた。\n\n静かにお前は中に入れられた、まるでお前が印であるかのように、\n平和を祝うための。しかしそれから：召使が端でお前をねじり、\n──そして、洞窟から、夜が一握りの白く\nよろめく鳩を光の中へと投げた……しかしこれもまた正当だ。\n\n見る者から全ての後悔の息吹を遠ざけよ、\n狩人だけからでなく、時宜を得て明らかになるものを\n用心深く行為しながら実行する者からも。\n\n死は流浪する悲しみの一つの形象だ……\n晴れやかな精神の中では清純だ、\nわれわれ自身に起きることは。"
+    },
+    {
+      "id": 2,
+      "verses": "Zweiter Teil, XII",
+      "original": "Wolle die Wandlung. O sei für die Flamme begeistert,\ndrin sich ein Ding dir entzieht, das mit Verwandlungen prunkt;\njener entwerfende Geist, welcher das Irdische meistert,\nliebt in dem Schwung der Figur nichts wie den wendenden Punkt.\n\nWas sich ins Bleiben verschließt, schon ists das Erstarrte;\nwähnt es sich sicher im Schutz des unscheinbaren Grau's?\nWarte, ein Härtestes warnt aus der Ferne das Harte.\nWehe -: abwesender Hammer holt aus!\n\nWer sich als Quelle ergießt, den erkennt die Erkennung;\nund sie fuhrt ihn entzückt durch das heiter Geschaffne,\ndas mit Anfang oft schließt und mit Ende beginnt.\n\nJeder glückliche Raum ist Kind oder Enkel von Trennung,\nden sie staunend durchgehn. Und die verwandelte Daphne\nwill, seit sie lorbeern fühlt, daß du dich wandelst in Wind.",
+      "provisionalTranslation": "変容を欲せよ。おお炎に熱狂せよ、\nその中で変容を誇る一つの物がお前から逃れる；\nあの素描する精神、地上的なものを支配する精神は、\n形象の弧の中で転換点ほど好きなものはない。\n\n留まることへ閉塞するもの、それはすでに凝固したものだ；\nそれは目立たない灰色の保護の中で安全だと思い込んでいるか？\n待て、最も硬いものが遠くから硬いものに警告する。\nああ──不在の鎚が振り上がる！\n\n自らを源として注ぐ者を、認識が認識する；\nそして認識は彼を歓喜させながら晴れやかに創られたものを通じて導く、\nそれはしばしば始まりで閉じ、終わりで始まる。\n\n全ての幸福な空間は分離の子か孫であり、\n認識はそれを驚きながら通り抜ける。そして変容したダフネは、\n月桂樹を感じてから、お前が風に変容することを望む。"
+    },
+    {
+      "id": 3,
+      "verses": "Zweiter Teil, XIII",
+      "original": "Sei allem Abschied voran, als wäre er hinter\ndir, wie der Winter, der eben geht.\nDenn unter Wintern ist einer so endlos Winter,\ndaß, überwinternd, dein Herz überhaupt übersteht.\n\nSei immer tot in Eurydike -, singender steige,\npreisender steige zurück in den reinen Bezug.\nHier, unter Schwindenden, sei, im Reiche der Neige,\nsei ein klingendes Glas, das sich im Klang schon zerschlug.\n\nSei - und wisse zugleich des Nicht-Seins Bedingung,\nden unendlichen Grund deiner innigen Schwingung,\ndaß du sie völlig vollziehst dieses einzige Mal.\n\nZu dem gebrauchten sowohl, wie zum dampfen und stummen\nVorrat der vollen Natur, den unsäglichen Summen,\nzähle dich jubelnd hinzu und vernichte die Zahl.",
+      "provisionalTranslation": "全ての別れに先んじよ、まるでそれがお前の\n後ろにあるかのように、ちょうど去っていく冬のように。\nなぜなら冬々の中に一つの冬がこれほど果てしない冬があって、\n越冬することで、お前の心はそもそも耐え抜く。\n\nエウリュディケの中で常に死ね──、より高く歌いながら、\n讃えながら、純粋な関係の中へ登り返せ。\nここで、消えゆく者たちの中で、傾きの王国の中で、\n鳴り響くグラスであれ、それは響きの中にすでに砕けた。\n\n存在せよ──そして同時に非存在の条件を知れ、\nお前の内密な振動の無限の根拠を、\nこの唯一の一度においてそれを完全に遂行するために。\n\n使い古されたものにも、蒸気立ち、黙した\n満ちた自然の貯えにも、言いようのない総計にも、\n歓喜しながら自らを数え入れ、その数を消せ。"
+    },
+    {
+      "id": 4,
+      "verses": "Zweiter Teil, XIV",
+      "original": "Siehe die Blumen, diese dem Irdischen treuen,\ndenen wir Schicksal vom Rande des Schicksals leihn, -\naber wer weiß es! Wenn sie ihr Welken bereuen,\nist es an uns, ihre Reue zu sein.\n\nAlles will schweben. Da gehn wir umher wie Beschwerer,\nlegen auf alles uns selbst, vom Gewichte entzückt;\no was sind wir den Dingen für zehrende Lehrer,\nweil ihnen ewige Kindheit glückt.\n\nNähme sie einer ins innige Schlafen und schliefe\ntief mit den Dingen -: o wie käme er leicht,\nanders zum anderen Tag, aus der gemeinsamen Tiefe.\n\nOder er bliebe vielleicht; und sie blühten und priesen\nihn, den Bekehrten, der nun den Ihrigen gleicht,\nallen den stillen Geschwistern im Winde der Wiesen.",
+      "provisionalTranslation": "見よ花々を、地上のものに忠実なこれらの花々を、\nわれわれが運命の縁から運命を貸し与える──、\nしかし誰が知るか！もし彼女らが自らの萎れを後悔するなら、\nその後悔であることがわれわれに求められる。\n\n全ては浮かびたい。そこでわれわれは重しのように動き回り、\n全てに自らをのせる、重さに魅了されて；\nおお、われわれは物にとって何という消耗させる教師だろう、\n物たちには永遠の子供時代が幸いにも授けられているから。\n\n誰かが物たちを内密な眠りの中に取り込んで\n物たちとともに深く眠るならば──：おお、いかに軽く彼は\n別の日へと、共通の深さから、変わって来ることか。\n\nあるいは彼は留まるかもしれない；そして物たちは咲き、讃えるだろう\n彼を、改心した者を、今や彼女らの者たちに似た者を、\n牧草地の風の中の全ての静かな兄弟姉妹たちに。"
+    },
+    {
+      "id": 5,
+      "verses": "Zweiter Teil, XV",
+      "original": "O Brunnen-Mund, du gebender, du Mund,\nder unerschöpflich Eines, Reines, spricht, -\ndu, vor des Wassers fließendem Gesicht,\nmarmorne Maske. Und im Hintergrund\n\nder Aquädukte Herkunft. Weither an\nGräbern vorbei, vom Hang des Apennins\ntragen sie dir dein Sagen zu, das dann\nam schwarzen Altern deines Kinns\n\nvorüberfällt in das Gefäß davor.\nDies ist das schlafend hingelegte Ohr,\ndas Marmorohr, in das du immer sprichst.\n\nEin Ohr der Erde. Nur mit sich allein\nredet sie also. Schiebt ein Krug sich ein,\nso scheint es ihr, daß du sie unterbrichst.",
+      "provisionalTranslation": "おお泉の口よ、与える者よ、口よ、\n尽きることなく一つのこと、清純なものを語る──、\nお前は、水の流れる顔の前に、\n大理石の仮面。そして背景に\n\n水道橋の起源が。はるか彼方から\n墓々を通り過ぎ、アペニン山脈の斜面から\n彼らはお前にお前の語りを運んでくる、そしてそれは\nお前の顎の黒い老いの上を\n\n前方の器の中に流れ落ちる。\nこれは眠りながら横たえた耳、\n大理石の耳、その中へお前はいつも語る。\n\n大地の耳。ただ自分自身とだけ\n大地はそのように語る。水差しが差し込まれると、\nお前が彼女の邪魔をしたように大地には見える。"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "Toten ist eine Gestalt unseres wandernden Trauerns...\nRein ist im heiteren Geist,\nwas an uns selber geschieht.",
+      "body": "「死は流浪する悲しみの一つの形象だ……晴れやかな精神の中では清純だ、われわれ自身に起きることは」──第二部XI最終三行。「Gestalt unseres wandernden Trauerns（流浪する悲しみの形象）」──死が「悲しみの形象（Gestalt）」として提示される：死は実体でなく、人間の「悲しみ」が特定の「形象」を取ったもの。第10悲歌の「嘆き（Klage）」が擬人化されたことと対応──悲しみは形象として存在する。「Rein ist im heiteren Geist, / was an uns selber geschieht（晴れやかな精神の中では清純だ、われわれ自身に起きることは）」──死を含む全ての経験が「晴れやかな精神（heiterer Geist）」の中では「清純（Rein）」となる。ハイデガー「存在と時間」の「死への存在（Sein zum Tode）」における死の「固有性（Eigentlichkeit）」との共鳴：自らに固有の死を引き受ける「晴れやかな精神」において、起きることは清純化される。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "intertextual",
+      "anchor": "mehr doch als Falle und Netz, weiß ich dich, Streifen von Segel,\nden man hinuntergehängt in den höhligen Karst.",
+      "body": "「しかし罠と網以上に、私はお前を知っている、帆布の切れ端として、洞窟のあるカルスト台地へと吊り下げられた」──鳩罠という具体的な狩りの方法。リシャール『詩と深さ』はリルケにおける「罠（Falle）と閉じ込め（Einschluß）」の形象が「存在の捕捉（capture de l'être）」として機能することを論じた。しかしここでリルケは「罠や網以上」の何かを指摘する──「帆布の切れ端」は平和の象徴にも見えながら（「平和を祝うための印」）、実は捕獲の道具。「Leise ließ man dich ein, als warst du ein Zeichen, Frieden zu feiern（静かにお前は中に入れられた、まるでお前が平和を祝うための印であるかのように）」──見せかけの平和が実は罠という構造は、第一部XVI「エサウの毛皮」（視覚的欺瞞）と主題的に連続する。ブランショ「文学の空間」における「詩的言語の欺くような開放性」──詩は「開かれているように見えながら、捕まえる」──との対話。",
+      "targetId": "rilke_sonette_orpheus_1_04",
+      "targetParagraphId": 1
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "Wolle die Wandlung. O sei für die Flamme begeistert,\ndrin sich ein Ding dir entzieht, das mit Verwandlungen prunkt;\njener entwerfende Geist, welcher das Irdische meistert,\nliebt in dem Schwung der Figur nichts wie den wendenden Punkt.",
+      "body": "「変容を欲せよ。おお炎に熱狂せよ……あの素描する精神は、形象の弧の中で転換点ほど好きなものはない」──第二部XIIの冒頭4行。「Wolle die Wandlung（変容を欲せよ）」──第一部Vの「Metamorphose（変容）」・第7悲歌の「Verwandlung（変容）」の倫理的命令形への転換。命令形「Wolle（欲せよ）」が重要：変容は受動的に「起きる」のでなく、能動的に「欲す」る対象として定義される。「entwerfende Geist（素描する精神）」──「entwerfen（素描する・投企する）」はハイデガー「現存在の投企（Entwurf）」と同根語：地上的なものを「支配する（meistert）」精神は「投企する」精神として存在する。「wendenden Punkt（転換点）」──リシャール『詩と深さ』はリルケにおける「点（point）」が「最大の集中と最大の変容の一致点」として機能することを論じた：転換点とは「形象が自らの弧の中で方向を変える」瞬間──変容の本質はこの「転換点」にある。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "prosody",
+      "anchor": "Warte, ein Härtestes warnt aus der Ferne das Harte.\nWehe -: abwesender Hammer holt aus!\n\nWer sich als Quelle ergießt, den erkennt die Erkennung;\nund sie fuhrt ihn entzückt durch das heiter Geschaffne,\ndas mit Anfang oft schließt und mit Ende beginnt.",
+      "body": "第二部XII第二連末〜第三連──「不在の鎚（abwesender Hammer）」と「逆転の創造」。「Wehe -: abwesender Hammer holt aus（ああ──不在の鎚が振り上がる）」──「abwesend（不在の）」鎚という矛盾：存在しない鎚が振り上がる。留まることへの閉塞（凝固）は「不在の鎚」──見えない力による打撃──によって砕かれる。ハイデガー「技術への問い」における「危機（Gefahr）」──技術的時代の最大の危機は技術そのものでなく、危機を「危機として見ることができない」状態──の詩的形象として読める。「Wer sich als Quelle ergießt（自らを源として注ぐ者）」──第17ソネット「verborgener Born（隠された源）」・第二部Xの「Brunnen（泉）」との連続。「das mit Anfang oft schließt und mit Ende beginnt（しばしば始まりで閉じ、終わりで始まる）」──逆転の時間性：創造的なものは通常の時間秩序を反転させる。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "intertextual",
+      "anchor": "Und die verwandelte Daphne\nwill, seit sie lorbeern fühlt, daß du dich wandelst in Wind.",
+      "body": "「そして変容したダフネは、月桂樹を感じてから、お前が風に変容することを望む（daß du dich wandelst in Wind）」──第二部XII最終二行。ダフネ（Daphne）はアポロンに追われて月桂樹（Lorbeer）に変身したギリシャ神話の登場人物──オウィディウス「変身物語」第1巻。「seit sie lorbeern fühlt（月桂樹を感じてから）」──「lorbeern」という動詞化：「月桂樹になる・月桂樹を体験する」。変容完了後のダフネが「お前（読者・詩人）が風に変容することを望む」という逆転：変容した者が他者の変容を求める。第7悲歌末尾「呼びかけの手は把握せずに開いたまま（offen … wie Abwehr und Warnung, Unfaßlicher, weitauf）」との連続──「風（Wind）」への変容は第3ソネット「Ein Hauch um nichts. Ein Wehn im Gott. Ein Wind（何もないものへの息吹。神の中の吐息。風）」の「風」形象の最終的展開として機能する。ブランショ「文学の空間」のオルフェウス論における「変容の連鎖（chaîne des métamorphoses）」──変容したものが次の変容を触発する──との共鳴。",
+      "targetId": "rilke_sonette_orpheus_1_01",
+      "targetParagraphId": 3
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "Sei allem Abschied voran, als wäre er hinter\ndir, wie der Winter, der eben geht.\nDenn unter Wintern ist einer so endlos Winter,\ndaß, überwinternd, dein Herz überhaupt übersteht.",
+      "body": "「全ての別れに先んじよ、まるでそれがお前の後ろにあるかのように……なぜなら冬々の中に一つの冬がこれほど果てしない冬があって、越冬することで、お前の心はそもそも耐え抜く」──第二部XIII冒頭。「Sei allem Abschied voran（全ての別れに先んじよ）」──「先んじよ（voran sein）」は「前に立つ」こと：別れが来る前に、すでに別れの位置に立っていること。ハイデガー「先駆的決意性（vorlaufende Entschlossenheit）」──死への先駆的な決意が現在の行為を本来的にする──の詩的命令形として読める。「als wäre er hinter dir, wie der Winter, der eben geht（まるでそれがお前の後ろにあるかのように、ちょうど去っていく冬のように）」──別れをすでに「背後」に置くことで、未来の別れを過去のものとして引き受ける時間的逆転。「endlos Winter（果てしない冬）」──存在の最大の試練：これほど長い「冬（苦しみ・喪失）」の中でこそ、「越冬（überwintern）」することで心が「そもそも耐え抜く（überhaupt übersteht）」。"
+    },
+    {
+      "paragraphId": 3,
+      "type": "prosody",
+      "anchor": "Sei immer tot in Eurydike -, singender steige,\npreisender steige zurück in den reinen Bezug.\nHier, unter Schwindenden, sei, im Reiche der Neige,\nsei ein klingendes Glas, das sich im Klang schon zerschlug.",
+      "body": "第二部XIII第二連──「エウリュディケ・鳴り響くグラス」。「Sei immer tot in Eurydike（エウリュディケの中で常に死ね）」──オルフェウスの冥界での経験の倫理的命令化：死者（エウリュディケ）の中に常に「死んでいること」が詩的存在の条件。「singender steige, preisender steige zurück（より高く歌いながら、讃えながら、登り返せ）」──「singend（歌いながら）」と「preisend（讃えながら）」という二つの現在分詞が並置：歌と讃えが「登ること（steigen）」の条件。ブランショ『文学の空間』のオルフェウス論の核心：オルフェウスは「冥界から戻る（steige zurück）」時こそが詩的行為の本質──「reinen Bezug（純粋な関係）」への回帰。「sei ein klingendes Glas, das sich im Klang schon zerschlug（鳴り響くグラスであれ、それは響きの中にすでに砕けた）」──「すでに砕けた（schon zerschlug）」過去完了が「なお鳴り響いている（klingendes）」現在分詞と共存する：存在と非存在の同時性の最も圧縮された形象。リシャールが「砕けながら鳴り響く」を「詩的存在の逆説的充実」として論じた箇所。"
+    },
+    {
+      "paragraphId": 3,
+      "type": "intertextual",
+      "anchor": "Sei - und wisse zugleich des Nicht-Seins Bedingung,\nden unendlichen Grund deiner innigen Schwingung,\ndaß du sie völlig vollziehst dieses einzige Mal.\n\nZu dem gebrauchten sowohl, wie zum dampfen und stummen\nVorrat der vollen Natur, den unsäglichen Summen,\nzähle dich jubelnd hinzu und vernichte die Zahl.",
+      "body": "第二部XIII最終6行──詩集全体の倫理的・存在論的宣言の完成点。「Sei - und wisse zugleich des Nicht-Seins Bedingung（存在せよ──そして同時に非存在の条件を知れ）」──ハイデガー「存在と時間」における「存在と無（Sein und Nichts）」の緊張の詩的命令形。「存在せよ」と「非存在を知れ」が「同時に（zugleich）」要求される──存在と非存在の同時的引き受け。「den unendlichen Grund deiner innigen Schwingung（お前の内密な振動の無限の根拠）」──「振動（Schwingung）」は物理的・音楽的：存在は「振動」として、そしてその「無限の根拠（Grund）」として把握される。ブランショ「来たるべき書物」における「存在と非存在の非弁証法的共存」──一方が他方を解消するのでなく、両者が同時に保持される──との対話。「zähle dich jubelnd hinzu und vernichte die Zahl（歓喜しながら自らを数え入れ、その数を消せ）」──逆説的命令の頂点：「数え入れる（hinzuzählen）」が即座に「数を消す（Zahl vernichten）」によって無効化される。第9悲歌「ein Mal（一度だけ）」の唯一性と、全体への参入という普遍性が「vernichte die Zahl」において統合される──個別の数（自己）が全体の中で消えながら残る。",
+      "targetId": "rilke_duineser_elegien_09",
+      "targetParagraphId": 1
+    },
+    {
+      "paragraphId": 4,
+      "type": "commentary",
+      "anchor": "Alles will schweben. Da gehn wir umher wie Beschwerer,\nlegen auf alles uns selbst, vom Gewichte entzückt;",
+      "body": "「全ては浮かびたい。そこでわれわれは重しのように動き回り、全てに自らをのせる、重さに魅了されて」──第二部XIV第二連冒頭。「Alles will schweben（全ては浮かびたい）」──第一部IV「Fürchtet euch nicht zu leiden, die Schwere, / gebt sie zurück an der Erde Gewicht（苦しむことを怖れるな、重さを、大地の重みに返せ）」との応答：そこでは「重さを返す」ことが求められたが、ここでは「全ては本来浮かびたい」という存在の本性が宣言される。「wie Beschwerer（重しのように）」──「Beschwerer（重しをのせる者）」：人間は「物を下に引く」力として自らを定義している。リシャール『詩と深さ』における「軽さと重さ（légèreté et pesanteur）」の対立──リルケの詩において「飛翔・浮かぶこと（schweben）」は「存在の本来的様式」として繰り返し登場するが、人間は「重さ（Gewicht）」への「魅了（entzückt）」によってその本来性を阻害する。「o was sind wir den Dingen für zehrende Lehrer（おお、われわれは物にとって何という消耗させる教師だろう）」──ハイデガー「物（Das Ding）」への反響：人間は物を「使いながら消耗させる」存在として自己批判される。"
+    },
+    {
+      "paragraphId": 4,
+      "type": "intertextual",
+      "anchor": "Nähme sie einer ins innige Schlafen und schliefe\ntief mit den Dingen -: o wie käme er leicht,\nanders zum anderen Tag, aus der gemeinsamen Tiefe.\n\nOder er bliebe vielleicht; und sie blühten und priesen\nihn, den Bekehrten, der nun den Ihrigen gleicht,\nallen den stillen Geschwistern im Winde der Wiesen.",
+      "body": "第二部XIV最終6行──「物との共同の眠りと改心」。「tief mit den Dingen（物たちとともに深く）」──第二部VIIの「摘まれた花と娘の手」の「接触」の主題がここでは「共に眠る」という根源的共存へと深化される。ブランショ『文学の空間』における「詩人は物の中の眠りを目覚めさせる」という命題との対話：「物と共に眠る」ことで「共通の深さ（gemeinsamen Tiefe）」から変わって来る者。リシャール『詩と深さ』はリルケにおける「眠り（Schlaf）」が「事物との最も深い接触の様式」として繰り返し機能することを詳細に論じた──第1部IIのウェラ「彼女は世界を眠った（Sie schlief die Welt）」との連続。「stillen Geschwistern im Winde der Wiesen（牧草地の風の中の静かな兄弟姉妹たち）」──改心した者が「物たちの静かな兄弟姉妹」として花・草・風と同族化される：第一部XVの「オレンジを踊れ」における「Verwandtschaft（親族関係）を作れ」の帰着点として、人間が自然と「兄弟姉妹」になる形象が完成する。",
+      "targetId": "rilke_sonette_orpheus_1_03",
+      "targetParagraphId": 5
+    },
+    {
+      "paragraphId": 5,
+      "type": "commentary",
+      "anchor": "O Brunnen-Mund, du gebender, du Mund,\nder unerschöpflich Eines, Reines, spricht, -\ndu, vor des Wassers fließendem Gesicht,\nmarmorne Maske.",
+      "body": "「おお泉の口よ、与える者よ、口よ、尽きることなく一つのこと、清純なものを語る──、お前は、水の流れる顔の前に、大理石の仮面」──第二部XV冒頭。「Brunnen-Mund（泉の口）」──リルケがローマ滞在（1903–04）に見たローマの噴水（ドーリア・パンフィーリ庭園等）への参照。「unerschöpflich Eines, Reines（尽きることなく一つのこと、清純なもの）」──「Eines（一つのもの）」と「Reines（清純なもの）」：泉は「一つの清純なもの」だけを語り続ける──これは第一部VIIの「Rühmen, das ists（讃えること、それがすべてだ）」という単一の使命の水的形象。「marmorne Maske（大理石の仮面）」──「Maske（仮面）」：流れる水の「顔（Gesicht）」の前に立つ大理石の仮面。第4悲歌の「半分だけ満たされた仮面（halbgefüllten Masken）」批判と対照的に、大理石の仮面は「完全（voll）」であり尽きない──水の無限の流れを担う。"
+    },
+    {
+      "paragraphId": 5,
+      "type": "prosody",
+      "anchor": "Ein Ohr der Erde. Nur mit sich allein\nredet sie also. Schiebt ein Krug sich ein,\nso scheint es ihr, daß du sie unterbrichst.",
+      "body": "第二部XV最終三行──「大地の耳（Ohr der Erde）」。「Ein Ohr der Erde（大地の耳）」──詩集全体でこれほど圧縮された形象は稀。「大地の口（Mund）」が「大地の耳（Ohr）」へと逆転する：泉の口は語るが同時に大地が自らに語りかける耳でもある。第一部XXVI「われわれは今聴く者たち（die Hörenden jetzt）、自然の口（ein Mund der Natur）だ」という第一部の結末が「大地の耳」として還流する──「Mund（口）」と「Ohr（耳）」の交換が詩集全体の聴覚的形象系の完成点として機能する。「Nur mit sich allein redet sie also（ただ自分自身とだけ、大地はそのように語る）」──自己との対話としての大地の言語：詩的言語の究極の形式として「大地が自らに語る」という閉じた循環。「Schiebt ein Krug sich ein（水差しが差し込まれると）」──第9悲歌「Haus, Brücke, Brunnen, Krug（家、橋、井戸、水差し）」の「水差し（Krug）」が再登場：詩人が「讃えることによって水差しを泉の中に差し込む」時、大地の自己対話は「邪魔される（unterbrichst）」──詩作とは大地の独り語りへの「邪魔する介入」として逆説的に定義される。ブランショが論じる「詩的言語の侵入性（intrusion de la parole poétique）」との共鳴。",
+      "targetId": "rilke_sonette_orpheus_1_05",
+      "targetParagraphId": 6
+    }
+  ]
+}
