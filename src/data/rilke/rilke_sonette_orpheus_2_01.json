@@ -1,0 +1,147 @@
+{
+  "id": "rilke_sonette_orpheus_2_01",
+  "title": "Die Sonette an Orpheus — Zweiter Teil, I–V",
+  "author": "Rainer Maria Rilke",
+  "source": "Die Sonette an Orpheus, Insel-Verlag, Leipzig, 1923（初版）. 底本: Rainer Maria Rilke: Werke. Kommentierte Ausgabe in vier Bänden, Bd. 1, Insel Verlag, Frankfurt am Main, 1996. テキスト照合: Wikisource DE (https://de.wikisource.org/wiki/Die_Sonette_an_Orpheus); Project Gutenberg DE",
+  "year": "1922",
+  "firstPublication": "草稿執筆：1922年2月15–23日、ミューゾット城（スイス）。初出版：Insel-Verlag, Leipzig, 1923年2月",
+  "difficulty": "上級",
+  "category": "rilke",
+  "originalLang": "de-DE",
+  "modernRelevance": "★★★★★",
+  "context": "第二部は第一部から約2週間後に書かれた。第一部が「オルフェウスの到来・歌・変容・解体」という神話的弧を辿ったのに対し、第二部はより個人的・実存的な問いへと向かう。第二部I–Vは第二部の開始音として、第一部の中心主題を新たな形象で変奏する。\n\n第二部I「呼吸（Atmen）、見えない詩よ」は第二部全体の冒頭声明──第一部I「樹が立ち上がった」に対応する。呼吸が「見えない詩（unsichtbares Gedicht）」として定義され、「われわれの自己存在が宇宙空間と純粋に交換される」という根本的な呼吸論が展開される。第二部II「鏡が少女の微笑みを奪う」は芸術的痕跡と喪失の問い──「それでも讃える声（dennoch preisendem Laut）」という第一部VII「Rühmen, das ists」の反響が最終行に現れる。第二部III「鏡よ、汝らを知って記述した者はいない」は詩集中最も形而上学的な鏡論──鏡は「時間の篩の穴で満たされた空隙（Zwischenräume der Zeit）」であり、ナルキッソスが「解け放たれて（gelöste）」彼女の中に入り込む。第二部IV「ユニコーン」──存在しないが愛されることで「純粋な動物（reines Tier）」となる逆説的存在論。「彼らは可能性だけを餌として与えた（nur immer mit der Möglichkeit）」という命題がリルケの詩的存在論の核心。第二部V「アネモネの花の筋肉（Blumenmuskel）」──開くことへの讃歌と閉じることへの問い。「いつわれわれは最終的に開いた受容者（offen und Empfänger）となるか？」という問いが第二部全体のライトモティーフを宣言する。",
+  "keywords": [
+    "呼吸する詩（Atmen, unsichtbares Gedicht）",
+    "宇宙空間の交換（Weltraum eingetauschter）",
+    "鏡が微笑みを奪う",
+    "それでも讃える声（dennoch preisendem Laut）",
+    "鏡の形而上学",
+    "時間の篩（Zwischenräume der Zeit）",
+    "ナルキッソス（Narziß）",
+    "ユニコーン（reines Tier）",
+    "可能性だけを餌として（Möglichkeit, es sei）",
+    "花の筋肉（Blumenmuskel）",
+    "無限の受容（unendlichen Empfangs）",
+    "第二部I–V"
+  ],
+  "relatedTexts": [
+    "rilke_sonette_orpheus_1_01",
+    "rilke_sonette_orpheus_1_02",
+    "rilke_sonette_orpheus_2_02",
+    "rilke_duineser_elegien_07",
+    "rilke_duineser_elegien_09",
+    "rilke_duineser_elegien_08"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "verses": "Zweiter Teil, I",
+      "original": "Atmen, du unsichtbares Gedicht!\nImmerfort um das eigne\nSein rein eingetauschter Weltraum. Gegengewicht,\nin dem ich mich rhythmisch ereigne.\n\nEinzige Welle, deren\nallmähliches Meer ich bin;\nsparsamstes du von allen möglichen Meeren, -\nRaumgewinn.\n\nWieviele von diesen Stellen der Raume waren schon\ninnen in mir. Manche Winde\nsind wie mein Sohn.\n\nErkennst du mich, Luft, du, voll noch einst meiniger Orte?\nDu, einmal glatte Rinde,\nRundung und Blatt meiner Worte.",
+      "provisionalTranslation": "呼吸よ、見えない詩よ！\n絶えず自己の\n存在の周りに純粋に交換される宇宙空間。対抗の重み、\nその中で私はリズム的に起きる。\n\n唯一の波、その\n漸進的な海が私であるような；\n全ての可能な海の中で最も倹約な、──\n空間の獲得。\n\nこれらの空間の場所のどれほどが\nすでに私の内側にあったことか。ある風々は\n私の息子のようだ。\n\nお前はまだ私を認識するか、空気よ、かつての私の場所で満ちた空気よ？\nお前は、かつて滑らかな樹皮、\n私の言葉の丸みと葉だった。"
+    },
+    {
+      "id": 2,
+      "verses": "Zweiter Teil, II",
+      "original": "So wie dem Meister manchmal das eilig\nnähere Blatt den wirklichen Strich\nabnimmt: so nehmen oft Spiegel das heilig\neinzige Lächeln der Mädchen in sich,\n\nwenn sie den Morgen erproben, allein, -\noder im Glanze der dienenden Lichter.\nUnd in das Atmen der echten Gesichter,\nspäter, fallt nur ein Widerschein.\n\nWas haben Augen einst ins umrußte\nlange Verglühn der Kamine geschaut:\nBlicke des Lebens, für immer verlorne.\n\nAch, der Erde, wer kennt die Verluste?\nNur, wer mit dennoch preisendem Laut\nsänge das Herz, das ins Ganze geborne.",
+      "provisionalTranslation": "画家に時にそうであるように、急いで\n近づく紙が本物の線を\n取り去ってしまうように：そのように鏡はしばしば神聖な\n少女たちの唯一の微笑みを自らの中に取り込む、\n\n彼女たちが朝を試す時、一人で──\nあるいは奉仕する灯りの輝きの中で。\nそして本物の顔の呼吸の中へ、\n後になって、ただ反映だけが落ちる。\n\n眼はかつて煤けた\n暖炉の長い輝き続ける燃え残りの中に何を見つめたことか：\n命の眼差し、永遠に失われた。\n\nああ、大地よ、誰がその喪失を知るか？\nただ、それでも讃える声で\n全体の中に生まれた心を歌う者だけが。"
+    },
+    {
+      "id": 3,
+      "verses": "Zweiter Teil, III",
+      "original": "Spiegel noch nie hat man wissend beschrieben,\nwas ihr in euerem Wesen seid.\nIhr, wie mit lauter Löchern von Sieben\nerfüllten Zwischenräume der Zeit.\n\nIhr, noch des leeren Saales Verschwender -,\nwenn es dämmmert, wie Wälder weit...\nUnd der Lüster geht wie ein Sechzehn-Ender\ndurch eure Unbetretbarkeit.\n\nManchmal seid ihr voll Malerei.\nEinige scheinen in euch gegangen -,\nandere schicktet ihr scheu vorbei.\n\nAber die Schönste wird bleiben -, bis\ndrüben in ihre enthaltenen Wangen\neindrang der klare gelöste Narziß.",
+      "provisionalTranslation": "鏡よ、お前たちが本質において何であるかを\n知って記述した者はまだいない。\nお前たちは、篩の穴だらけのように\n満たされた時間の空隙たち。\n\nお前たちは、まだ空の広間の浪費者──、\n薄暮になると、広大な森のように……\nそしてシャンデリアが16本角の鹿のように\nお前たちの立ち入れない空間を通り抜ける。\n\n時にお前たちは絵画で満ちている。\n何人かはお前たちの中に入っていったように見える──、\n他の者たちはお前たちは恥ずかしそうに通り過ぎさせた。\n\nしかし最も美しい者は留まるだろう──向こうで\n彼女の秘めた頬の中に\n澄んだ解け放たれたナルキッソスが入り込むまで。"
+    },
+    {
+      "id": 4,
+      "verses": "Zweiter Teil, IV",
+      "original": "O dieses ist das Tier, das es nicht giebt.\nSie wußtens nicht und habens jeden Falls\n- sein Wandeln, seine Haltung, seinen Hals,\nbis in des stillen Blickes Licht - geliebt.\n\nZwar war es nicht. Doch weil sie's liebten, ward\nein reines Tier. Sie ließen immer Raum.\nUnd in dem Raume, klar und ausgespart,\nerhob es leicht sein Haupt und brauchte kaum\n\nzu sein. Sie nährten es mit keinem Korn,\nnur immer mit der Möglichkeit, es sei.\nUnd die gab solche Stärke an das Tier,\n\ndaß es aus sich ein Stirnhorn trieb. Ein Horn.\nZu einer Jungfrau kam es weiß herbei -\nund war im Silber-Spiegel und in ihr.",
+      "provisionalTranslation": "おお、これは存在しない動物だ。\n彼らはそれを知らなかった、それでもいずれにせよ\n──その動き、その佇まい、その首、\n静かな眼差しの光の中まで──愛した。\n\n確かにそれは存在しなかった。しかし彼らが愛したから、\n純粋な動物となった。彼らは常に空間を残した。\nそしてその空間の中で、明確に切り出されて、\nそれは軽く頭を上げ、ほとんど必要としなかった\n\n存在することを。彼らはそれを一粒の穀物でも養わず、\nただ常に、それが存在するという可能性によって養った。\nそしてそれがこれほどの力を動物に与えたので、\n\nそれは自らから角を生やした。一本の角。\n白い姿で乙女のもとへやってきた──\nそして銀の鏡の中に、そして彼女の中にいた。"
+    },
+    {
+      "id": 5,
+      "verses": "Zweiter Teil, V",
+      "original": "Blumenmuskel, der der Anemone\nWiesenmorgen nach und nach erschließt,\nbis in ihren Schooß das polyphone\nLicht der lauten Himmel sich ergießt,\n\nin den stillen Blütenstern gespannter\nMuskel des unendlichen Empfangs,\nmanchmal so von Fülle übermannter,\ndaß der Ruhewink des Untergangs\n\nkaum vermag die weitzurückgeschnellten\nBlatterränder dir zurückzugeben:\ndu, Entschluß und Kraft von wieviel Welten!\n\nWir, Gewaltsamen, wir währen länger.\nAber wann, in welchem aller Leben,\nsind wir endlich offen und Empfänger?",
+      "provisionalTranslation": "花の筋肉よ、アネモネの\n牧草地の朝を少しずつ開くもの、\n彼女の胎の中へ喧騒の空の多声的な\n光が注ぎ込まれるまで、\n\n静かな花の星の中で張り詰めた\n無限の受容の筋肉、\n時に充実によってこれほど打ち負かされて、\n終わりの休息の合図でさえ\n\n遠く弾き戻された花びらの縁を\nお前に戻すことがかろうじてできないほど：\nお前よ、いくつの世界の決断と力よ！\n\nわれわれ、暴力的な者たちは、より長く続く。\nしかしいつ、いかなる全ての生の中で、\nわれわれは最終的に開いた受容者となるのか？"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "Atmen, du unsichtbares Gedicht!\nImmerfort um das eigne\nSein rein eingetauschter Weltraum. Gegengewicht,\nin dem ich mich rhythmisch ereigne.",
+      "body": "「呼吸よ、見えない詩よ！絶えず自己の存在の周りに純粋に交換される宇宙空間。対抗の重み、その中で私はリズム的に起きる」──第二部全体の開始声明。「unsichtbares Gedicht（見えない詩）」──詩は視覚的・印刷的対象でなく、「見えない（unsichtbar）」として定義される：第9悲歌「unsichtbar in uns erstehn（われわれの内側で見えないものとして生まれ直す）」の反響。「Sein rein eingetauschter Weltraum（自己存在と純粋に交換される宇宙空間）」──呼吸の往来（吸気・呼気）が「Weltraum（宇宙空間）」と「Sein（自己存在）」の「純粋な交換（rein eingetauscht）」として定義される。ハイデガー「詩人とは何か（Wozu Dichter?）」は「リルケにとって存在は開かれた（das Offene）」という命題を詳述したが、第二部Iでは「呼吸＝存在と宇宙の交換」という生理学的・存在論的等置が詩の冒頭を飾る。「ich mich rhythmisch ereigne（私はリズム的に起きる）」──「sich ereignen（起きる・生起する）」はハイデガーの後期思想の核心語「Ereignis（生起・固有化）」と共鳴する：呼吸のリズムの中で存在の「生起（Ereignis）」が起きる。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "prosody",
+      "anchor": "Erkennst du mich, Luft, du, voll noch einst meiniger Orte?\nDu, einmal glatte Rinde,\nRundung und Blatt meiner Worte.",
+      "body": "第二部I最終三行──「お前はまだ私を認識するか、かつての私の場所で満ちた空気よ？お前は、かつて滑らかな樹皮、私の言葉の丸みと葉だった」。「Erkennst du mich, Luft（お前はまだ私を認識するか、空気よ）」──詩人が空気に問いかける：これは第一部Iの「Da stieg ein Baum（樹が立ち上がった）」という神話的出来事への「呼吸的」応答。「Du, einmal glatte Rinde, / Rundung und Blatt meiner Worte（お前は、かつて滑らかな樹皮、私の言葉の丸みと葉だった）」──空気が「言葉の樹皮・丸み・葉」として形象化される：呼吸（空気）と言語（言葉）の統一。リシャール『詩と深さ』はリルケにおける「言葉の身体（corps des mots）」──言葉が感覚的・触覚的な物質性を持つ──という分析を展開した。「Rinde（樹皮）・Rundung（丸み）・Blatt（葉）」という植物的語群が言葉の「物質的厚み（épaisseur matérielle）」を体現する。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "intertextual",
+      "anchor": "Einzige Welle, deren\nallmähliches Meer ich bin;\nsparsamstes du von allen möglichen Meeren, -\nRaumgewinn.",
+      "body": "「唯一の波、その漸進的な海が私であるような；全ての可能な海の中で最も倹約な──空間の獲得（Raumgewinn）」──ブランショ『文学の空間』における「呼吸する詩」の形而上学と対話する。ブランショはリルケの「Weltinnenraum（世界内側空間）」を論じ、詩的空間が「外部と内部の浸透によって生まれる」ことを指摘した。「Raumgewinn（空間の獲得）」──呼吸によって「空間が獲得される」という命題はブランショの「詩が空間を開く（ouvrir l'espace）」という命題と正確に対応する。「sparsamstes du von allen möglichen Meeren（全ての可能な海の中で最も倹約な）」──呼吸は最小の（最も倹約な）気流だが、その波は「宇宙（Weltraum）」全体を含む；少ないものが多くを包む──ブランショが論じる「詩的言語の経済（économie de la parole poétique）」との共鳴。",
+      "targetId": "rilke_sonette_orpheus_1_01",
+      "targetParagraphId": 1
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "Ach, der Erde, wer kennt die Verluste?\nNur, wer mit dennoch preisendem Laut\nsänge das Herz, das ins Ganze geborne.",
+      "body": "「ああ、大地よ、誰がその喪失を知るか？ただ、それでも讃える声で、全体の中に生まれた心を歌う者だけが」──第二部IIの最終三行。詩集全体の「讃えること（Rühmen）」という使命の最も直接的な定式化の一つ。「dennoch preisendem Laut（それでも讃える声）」──「dennoch（それでも）」という逆接が核心：喪失・損失という現実の「にもかかわらず」讃える。第一部VII「Rühmen, das ists（讃えること、それがすべてだ）」の条件付き形式として──損失を経由した後の讃えだけが真正である。「das Herz, das ins Ganze geborne（全体の中に生まれた心）」──「Ganze（全体）」への帰属が「心（Herz）」の条件として定義される：個別の喪失を超えた全体的視点を持つ心だけが「讃えること」ができる。ハイデガー「詩人とは何か」における「詩人は存在の全体性を歌う」という命題の詩的定義として読める。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "intertextual",
+      "anchor": "So wie dem Meister manchmal das eilig\nnähere Blatt den wirklichen Strich\nabnimmt: so nehmen oft Spiegel das heilig\neinzige Lächeln der Mädchen in sich,",
+      "body": "「画家に時にそうであるように、急いで近づく紙が本物の線を取り去ってしまうように：そのように鏡はしばしば神聖な少女たちの唯一の微笑みを自らの中に取り込む」──第二部IIの冒頭直喩。「wirklichen Strich（本物の線）」──「wirklich（本物の・現実の）」が「実際に引かれた線」と「存在する線の現実性」の二義を持つ。「紙が線を取り去る（abnimmt）」──芸術的媒体（紙・鏡）が対象（線・微笑み）を「取り込む（abnehmen）」ことで、その一回性・本物性が失われる。リシャール『詩と深さ』はリルケにおける「芸術的痕跡（trace artistique）」と「生の直接性」の緊張を詳細に論じた──媒体は常に「本物の経験（wirkliche Erfahrung）」から何かを奪う。第二部IIと第二部III（鏡の形而上学）の橋渡しとして、「鏡が奪う」という問いが先取りされる。",
+      "targetId": "rilke_sonette_orpheus_2_01",
+      "targetParagraphId": 3
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "Spiegel noch nie hat man wissend beschrieben,\nwas ihr in euerem Wesen seid.\nIhr, wie mit lauter Löchern von Sieben\nerfüllten Zwischenräume der Zeit.",
+      "body": "「鏡よ、お前たちが本質において何であるかを知って記述した者はまだいない。お前たちは、篩の穴だらけのように満たされた時間の空隙たち」──第二部III冒頭。「wissend beschrieben（知って記述した）」──「wissend（知りながら）」という現在分詞が「知識」を条件とした「記述」を問題にする：鏡について「知って」書いた者はいないという挑発的宣言。「Zwischenräume der Zeit（時間の空隙）」──鏡が「時間の空隙」として定義される：鏡は空間を反映するのでなく、時間の中に開いた「穴」として存在する。「wie mit lauter Löchern von Sieben（篩の穴だらけのように）」──篩（sieben）は穴から通過させる：鏡も何かを「通過させる」──しかし「何が通過するか」は定義されない。ブランショ『文学の空間』における「鏡（le miroir）」──鏡は「他者の顔を自らの空間に引き込む」として論じられ、文学的イメージが鏡と同様に「現実を内部に取り込みながら現実とは異なる空間を生む」と指摘された。"
+    },
+    {
+      "paragraphId": 3,
+      "type": "prosody",
+      "anchor": "Aber die Schönste wird bleiben -, bis\ndrüben in ihre enthaltenen Wangen\neindrang der klare gelöste Narziß.",
+      "body": "第二部III最終三行──「ナルキッソス」の結末。「die Schönste wird bleiben（最も美しい者は留まるだろう）」──「最も美しい者」は鏡の中に最後まで「留まる」：第22ソネット「Verweilende（留まるもの）」との語根的連絡。「der klare gelöste Narziß（澄んだ解け放たれたナルキッソス）」──「gelöst（解け放たれた）」という過去分詞が核心：ナルキッソスは水面（鏡）に反映された自分の姿を「自分（Ich）」として認識したとき溺れるが、リルケのナルキッソスは「gelöst（解け放たれ）」て少女の「enthaltenen Wangen（秘めた頬）」へと「eindringen（入り込む）」──同一性の固執から解放されたナルキッソスが「他者の中へ入り込む」という神話の詩的転換。リシャールはリルケの「ナルキッソス」解釈を「自己愛から世界愛への転換」として論じた：第二部IIIのナルキッソスは「自己反映」でなく「他者への浸透」として機能する。"
+    },
+    {
+      "paragraphId": 3,
+      "type": "intertextual",
+      "anchor": "Ihr, noch des leeren Saales Verschwender -,\nwenn es dämmmert, wie Wälder weit...\nUnd der Lüster geht wie ein Sechzehn-Ender\ndurch eure Unbetretbarkeit.",
+      "body": "「お前たちは、まだ空の広間の浪費者──薄暮になると、広大な森のように……そしてシャンデリアが16本角の鹿のように、お前たちの立ち入れない空間を通り抜ける」──ブランショ『文学の空間』における「鏡の不可侵性（l'impénétrabilité du miroir）」の概念と対話する。「Unbetretbarkeit（立ち入れない空間）」──鏡は「踏み込めない（unbetretbar）」：その表面は視覚的には透過するが身体的には侵入不可能な空間。ブランショは「作品の空間（l'espace de l'œuvre）」が「立ち入れない（inaccessible）」性質を持つことを論じた──詩人は作品の中に入れない、ただ作品の「縁（bord）」に立つだけ。「Sechzehn-Ender（16本角の鹿）」──シャンデリアが16本の枝角を持つ鹿として形象化される：動物的形象による無機物の生命化は第2部IVのユニコーンへの橋渡し。",
+      "targetId": "rilke_sonette_orpheus_2_01",
+      "targetParagraphId": 4
+    },
+    {
+      "paragraphId": 4,
+      "type": "commentary",
+      "anchor": "Zwar war es nicht. Doch weil sie's liebten, ward\nein reines Tier. Sie ließen immer Raum.\nUnd in dem Raume, klar und ausgespart,\nerhob es leicht sein Haupt und brauchte kaum\n\nzu sein.",
+      "body": "「確かにそれは存在しなかった。しかし彼らが愛したから、純粋な動物となった。彼らは常に空間を残した。そしてその空間の中で、明確に切り出されて、それは軽く頭を上げ、ほとんど必要としなかった──存在することを」──第二部IVの存在論的核心。「brauchte kaum zu sein（ほとんど存在することを必要としなかった）」──存在の最小化：ユニコーンは「ほとんど存在しなくてよかった」。ハイデガー「存在と時間」における「現存在（Dasein）」は「存在することを問う（Sein-können）」存在として定義されるが、ユニコーンは「存在することをほとんど必要としない」──存在への要求の最小化が逆に純粋性の条件として機能する。「Sie ließen immer Raum（彼らは常に空間を残した）」──空間を「残す（lassen）」という受動的・開放的行為：第8悲歌「開かれたもの（das Offene）」の愛的形式として、愛することが「存在するための空間を残す」ことと定義される。"
+    },
+    {
+      "paragraphId": 4,
+      "type": "intertextual",
+      "anchor": "Sie nährten es mit keinem Korn,\nnur immer mit der Möglichkeit, es sei.\nUnd die gab solche Stärke an das Tier,\n\ndaß es aus sich ein Stirnhorn trieb. Ein Horn.",
+      "body": "「彼らはそれを一粒の穀物でも養わず、ただ常に、それが存在するという可能性によって養った。そしてそれがこれほどの力を動物に与えたので、それは自らから角を生やした。一本の角」──リシャール『詩と深さ』が第二部IVを「想像的存在の現実化」の典型例として詳細に論じた箇所。リシャールによれば、「可能性（Möglichkeit）」という非実在的な「餌」によって動物が「自らから（aus sich）」角を生やすことは、リルケにおける想像力（Einbildungskraft）が「単なる空想でなく存在論的な力」として機能することを示す──想像することが存在させることと等価になる。「es sei（それが存在するという）」の接続法形式──「sei（〜であるように）」という願望法が「可能性」の様式を文法的に体現する。ブランショ『来たるべき書物』における「詩は存在しないものを存在させる」という命題がユニコーンの「aus sich（自らから）」という自己生成力として詩的に具現化される。"
+    },
+    {
+      "paragraphId": 5,
+      "type": "commentary",
+      "anchor": "Blumenmuskel, der der Anemone\nWiesenmorgen nach und nach erschließt,\nbis in ihren Schooß das polyphone\nLicht der lauten Himmel sich ergießt,",
+      "body": "「花の筋肉よ、アネモネの牧草地の朝を少しずつ開くもの、彼女の胎の中へ喧騒の空の多声的な光が注ぎ込まれるまで」──第二部V冒頭。「Blumenmuskel（花の筋肉）」──リルケの造語。「Muskel（筋肉）」という身体語が植物（花）に結合されることで、花の開閉運動が意志的・身体的行為として再定義される。リシャール『詩と深さ』はこの「Blumenmuskel」を「植物と身体の合成形象」として分析し、リルケにおける「自然の意志性（volonté de la nature）」──植物が意志的力として開く──という主題の集約点として論じた。「das polyphone / Licht der lauten Himmel（喧騒の空の多声的な光）」──光が「多声的（polyphon）」──音楽的──に形容される共感覚的比喩：視覚的な光が聴覚的な多声性を持つ。ハイデガー「芸術作品の根源」における「大地の開示（Erschlossenheit der Erde）」──大地は閉じながら同時に光を通過させる──がここではアネモネの「開く（erschließt）」という具体的動作として体現される。"
+    },
+    {
+      "paragraphId": 5,
+      "type": "prosody",
+      "anchor": "Wir, Gewaltsamen, wir währen länger.\nAber wann, in welchem aller Leben,\nsind wir endlich offen und Empfänger?",
+      "body": "第二部V最終三行──「われわれ、暴力的な者たちは、より長く続く。しかしいつ、いかなる全ての生の中で、われわれは最終的に開いた受容者となるのか？」。「Gewaltsamen（暴力的な者たち）」──人間は「暴力的（gewaltsam）」：アネモネが「純粋な受容（unendlichen Empfangs）」として開くのに対し、人間は「閉じながら長く続く」存在として自己批判的に提示される。「wann … sind wir endlich offen und Empfänger（いつ……われわれは最終的に開いた受容者となるのか）」──第二部全体のライトモティーフとなる開かれた問い。第8悲歌「動物は開かれたもの（das Offene）を見る」という命題を受けて、「開いた受容者（offen und Empfänger）」は第二部が目指す人間の変容の目標として定義される。ブランショが論じる「詩的受容（réceptivité poétique）」──詩人は「存在の声を受け取る（受容する）者」──というモデルが「Empfänger（受容者）」という語に結晶する。問いが答えられないまま詩が終わることで、第二部I–Vの「問いの開放」という構造が確立される。"
+    }
+  ]
+}
