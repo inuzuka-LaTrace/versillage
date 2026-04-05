@@ -72,8 +72,12 @@ export const buildCards = (source, sourceId, texts, bookmarks, srsData) => {
 // ── カードテキスト取得 ────────────────────────────────────────
 export const getCardFront = (card, mode) => {
   if (!card) return '';
+  // ─── 修正ポイント ───
+  if (mode === 'dictation') return getOriginalText(card.para); // ディクテーションは常に全文
+  
   if (mode === 'orig2trans') return getOriginalText(card.para);
   if (mode === 'trans2orig') return getTranslation(card.para);
+  
   const orig = getOriginalText(card.para);
   return orig.slice(0, 30) + (orig.length > 30 ? '…' : '');
 };
