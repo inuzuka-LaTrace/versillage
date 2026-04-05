@@ -361,94 +361,132 @@ export default function FlashcardApp() {
   // ════════════════════════════════════════════════════════════
   // ② カード学習画面
   // ════════════════════════════════════════════════════════════
-  const StudyView = () => {
-    const card = fc.currentCard;
-    if (!card) return null;
+  const StudyView = ({ fc, darkMode }) => {
+  // 1. ローカルStateを定義（カーソル飛び・移動不能を防ぐ）
+  const [localInput, setLocalInput] = useState(fc.userInput || '');
 
-    const frontText = getCardFront(card, fc.mode);
-    const userTrans = fc.getUserTrans(card.textId, card.paraId);
-    const backText  = getCardBack(card, fc.mode, { [card.paraId]: userTrans ? { text: userTrans } : null }, fc.backMode);
-    const hasUser   = !!userTrans;
-
-    const frontLabel = fc.mode === 'orig2trans' ? '原文' : fc.mode === 'trans2orig' ? '訳' : '冒頭';
-    const backLabel  = fc.mode === 'orig2trans' ? '訳'   : fc.mode === 'trans2orig' ? '原文' : '原文（全体）';
-
-    const progress = (fc.index / fc.cards.length) * 100;
-
-    const [localInput, setLocalInput] = useState(fc.userInput || '');
-    // カードが切り替わった時にローカルの状態をリセットする
-    useEffect(() => {
+  // カード切り替え時にローカル入力をリセット
+  useEffect(() => {
     setLocalInput(fc.userInput || '');
-    }, [fc.index, fc.flipped]);
+  }, [fc.index, fc.flipped]);
 
-    const textMain = darkMode ? 'text-stone-200' : 'text-stone-900';
+  if (fc.cards.length === 0) return null;
+
+  const currentCard = fc.cards[fc.index];
+  const frontText = getCardFront(currentCard, fc.mode);
+  const backText  = getCardBack(currentCard, fc.mode);
+  const hasUser   = !!userTrans;
+
+  const textMain = darkMode ? 'text-stone-200' : 'text-stone-900';
   const textSub  = darkMode ? 'text-stone-500' : 'text-stone-400';
 
   return (
     <div className="flex flex-col h-full max-w-3xl mx-auto w-full p-4 space-y-6">
       
-      {/* ── 問題表示エリア ── */}
+      {/* ── メインパネル（シングルパネル構造） ── */}
       <div className={`flex-1 flex flex-col items-center justify-center p-8 rounded-3xl border transition-all ${
         darkMode ? 'bg-zinc-900/50 border-zinc-800' : 'bg-white border-stone-200'
       }`}>
         
-        {/* ヒント文（訳、または冒頭） */}
-        <p className={`font-serif text-center italic mb-8 opacity-60 ${textMain} ${textSizeClass(frontText)}`}>
-          {frontText}
-        </p>
+        {/* 上部：ヒント・原文表示（空所補充含む） */}
+        <div className="w-full mb-8 text-center">
+          <p className={`font-serif leading-relaxed ${textMain} ${textSizeClass(frontText)}`}>
+            {fc.mode === 'cloze' 
+              ? renderClozeText(frontText, fc.flipped, darkMode) 
+              : frontText}
+          </p>
+        </div>
 
-        {/* 入力 or 結果表示 */}
-        {!fc.flipped ? (
-          <textarea
-            key={`input-${fc.index}`}
-            autoFocus
-            className={`w-full h-64 p-6 rounded-2xl border font-serif text-center leading-relaxed focus:outline-none focus:ring-2 focus:ring-amber-500/30 transition-all resize-none text-xl ${
-              darkMode ? 'bg-zinc-800/40 border-zinc-700 text-zinc-200' : 'bg-stone-50 border-stone-200 text-stone-800'
-            }`}
-            placeholder="Write the original text here..."
-            value={localInput}
-            onChange={(e) => {
-              setLocalInput(e.target.value);
-              fc.setUserInput(e.target.value);
-            }}
-            onKeyDown={(e) => {
-              if ((e.ctrlKey || e.metaKey) && e.key === 'Enter') fc.setFlipped(true);
-            }}
-          />
-        ) : (
-          <div className="w-full space-y-8 animate-in fade-in duration-700">
-            {/* 正解の原文 */}
-            <div className="text-center space-y-2">
-              <p className={`${textSub} text-[10px] uppercase tracking-[0.2em]`}>Original</p>
-              <p className={`font-serif whitespace-pre-line ${textMain} ${textSizeClass(backText)}`}>
-                {backText}
-              </p>
-            </div>
+        {/* 下部：入力エリア または 正解表示エリア */}
+        <div className="w-full flex-1 flex flex-col">
+          {fc.mode === 'dictation' && !fc.flipped ? (
+            <textarea
+              key={`input-${fc.index}`}
+              autoFocus
+              className={`w-full flex-1 p-6 rounded-2xl border font-serif text-center leading-relaxed focus:outline-none focus:ring-2 focus:ring-amber-500/30 transition-all resize-none text-xl ${
+                darkMode ? 'bg-zinc-800/40 border-zinc-700 text-zinc-200' : 'bg-stone-50 border-stone-200 text-stone-800'
+              }`}
+              placeholder="Write the original text here..."
+              value={localInput}
+              onChange={(e) => setLocalInput(e.target.value)} // 親への反映を一旦止め、入力の軽快さを優先
+              onKeyDown={(e) => {
+                if ((e.ctrlKey || e.metaKey) && e.key === 'Enter') {
+                  fc.setUserInput(localInput); // 判定の瞬間に親の状態に同期
+                  fc.setFlipped(true);
+                }
+              }}
+            />
+          ) : fc.flipped ? (
+            /* 判定後の表示エリア */
+            <div className="w-full space-y-8 animate-in fade-in duration-700">
+              {/* 正解テキスト（ディクテーション時以外はこれがメイン回答） */}
+              <div className="text-center space-y-2">
+                <p className={`${textSub} text-[10px] uppercase tracking-[0.2em]`}>Answer / Context</p>
+                <p className={`font-serif whitespace-pre-line ${textMain} ${textSizeClass(backText)}`}>
+                  {backText}
+                </p>
+              </div>
 
-            {/* 自分の入力との比較 */}
-            <div className={`p-6 rounded-2xl border font-serif ${
-              darkMode ? 'bg-zinc-800/20 border-zinc-700' : 'bg-stone-50 border-stone-100'
-            }`}>
-              <p className={`${textSub} text-[10px] uppercase tracking-[0.2em] mb-3`}>Your Transcription</p>
-              <p className={`${textMain} ${textSizeClass(localInput)} opacity-80`}>
-                {localInput || '(No input)'}
-              </p>
+              {/* ディクテーションモード時のみ：自分の入力との比較 */}
+              {fc.mode === 'dictation' && (
+                <div className={`p-6 rounded-2xl border font-serif ${
+                  darkMode ? 'bg-zinc-800/20 border-zinc-700' : 'bg-stone-50 border-stone-100'
+                }`}>
+                  <p className={`${textSub} text-[10px] uppercase tracking-[0.2em] mb-3 opacity-50`}>Your Transcription</p>
+                  <p className={`${textMain} ${textSizeClass(localInput)} opacity-80`}>
+                    {localInput || '(No input)'}
+                  </p>
+                </div>
+              )}
             </div>
-          </div>
-        )}
+          ) : (
+            /* 通常・空所補充モードの「めくる前」のガイド表示 */
+            <div className="flex-1 flex items-center justify-center">
+               <p className={`${textSub} text-sm font-sans animate-pulse italic`}>
+                 Tap or Space to reveal the answer...
+               </p>
+            </div>
+          )}
+        </div>
       </div>
 
-      {/* ── 操作・ナビゲーション ── */}
-      <div className="shrink-0 pb-4">
+      {/* ── フッター操作エリア ── */}
+      <div className="h-20 flex items-center justify-center pb-4">
         {!fc.flipped ? (
-          <p className={`text-center text-xs font-sans ${textSub} opacity-50`}>
-            Ctrl + Enter to evaluate
-          </p>
+          <div className="text-center">
+            {fc.mode === 'dictation' ? (
+              <p className={`text-xs font-sans ${textSub} opacity-50`}>Ctrl + Enter to evaluate</p>
+            ) : (
+              <button 
+                onClick={() => fc.setFlipped(true)}
+                className={`text-sm px-6 py-2 rounded-full border ${darkMode ? 'border-zinc-700 text-stone-400 hover:bg-zinc-800' : 'border-stone-200 text-stone-500 hover:bg-stone-50'} transition-all`}
+              >
+                Reveal Answer
+              </button>
+            )}
+          </div>
         ) : (
-          <div className="flex justify-center gap-8 animate-in slide-in-from-bottom-2">
-             {/* ここに Good / Again ボタンを配置 */}
-             <button onClick={() => fc.judge('again')} className="...">Again</button>
-             <button onClick={() => fc.judge('good')}  className="...">Good</button>
+          /* 判定ボタン：これらが fc.judge を呼び出す */
+          <div className="flex items-center gap-12 animate-in slide-in-from-bottom-4 duration-500">
+            <button
+              onClick={() => fc.judge('again')}
+              className="group flex flex-col items-center gap-2 transition-transform active:scale-95"
+            >
+              <div className="w-12 h-12 rounded-full border border-red-500/30 flex items-center justify-center group-hover:bg-red-500/10 transition-colors">
+                <RotateCcw size={20} className="text-red-500/70" />
+              </div>
+              <span className="text-[10px] uppercase tracking-widest text-red-500/60 font-sans">Again</span>
+            </button>
+
+            <button
+              onClick={() => fc.judge('good')}
+              className="group flex flex-col items-center gap-2 transition-transform active:scale-95"
+            >
+              <div className="w-12 h-12 rounded-full border border-emerald-500/30 flex items-center justify-center group-hover:bg-emerald-500/10 transition-colors">
+                <ThumbsUp size={20} className="text-emerald-500/70" />
+              </div>
+              <span className="text-[10px] uppercase tracking-widest text-emerald-500/60 font-sans">Good</span>
+            </button>
           </div>
         )}
       </div>
