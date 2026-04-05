@@ -41,7 +41,7 @@
     {
       "id": 5,
       "originalText": "Und wächst und weiß nichts von sich selbst\nUnd wird ein Weib, das einer liebt\nUnd – wunderbar wie Liebe gibt!",
-      "provisionalTranslation": "そして育ち、自分自身について何も知らず\n一人の男に愛される女になる\n——そして愛がいかに与えることか！"
+      "provisionalTranslation": "そして育ち、自分自身について何も知らず\n一人の男に愛される女になる\n──そして愛がいかに与えることか！"
     },
     {
       "id": 6,
@@ -69,19 +69,19 @@
       "paragraphId": 1,
       "type": "glossary",
       "anchor": "tief und stumm",
-      "body": "「深く無口（tief und stumm）」——言語崩壊以前の始原状態。「tief（深い）」はタイトルの「Brunnen（井戸）」と共鳴し、知識が地下深くに蓄えられていた時代を指す。「stumm（無口・言語を持たない）」は逆説的にその時代の充満を示す——言語以前の沈黙が、言語喪失後の無口より豊かだった。"
+      "body": "「深く無口（tief und stumm）」──言語崩壊以前の始原状態。「tief（深い）」はタイトルの「Brunnen（井戸）」と共鳴し、知識が地下深くに蓄えられていた時代を指す。「stumm（無口・言語を持たない）」は逆説的にその時代の充満を示す──言語以前の沈黙が、言語喪失後の無口より豊かだった。"
     },
     {
       "paragraphId": 1,
       "type": "commentary",
       "anchor": "Weltgeheimnis",
-      "body": "「Geheimnis（秘密）」はドイツ語で「ge-heim」——「Heimat（故郷）」「heimlich（秘密の・家庭的な）」と同根で「家の奥に隠されたもの」を意味する。「世界の秘密」とは「世界という家の奥に仕舞われたもの」であり、詩はそれが言語として断片的に伝わり続ける様を描く。"
+      "body": "「Geheimnis（秘密）」はドイツ語で「ge-heim」──「Heimat（故郷）」「heimlich（秘密の・家庭的な）」と同根で「家の奥に隠されたもの」を意味する。「世界の秘密」とは「世界という家の奥に仕舞われたもの」であり、詩はそれが言語として断片的に伝わり続ける様を描く。"
     },
     {
       "paragraphId": 2,
       "type": "glossary",
       "anchor": "nachgelallt",
-      "body": "「後から唱えられた（nachgelallt）」——現在の言語の本質を示す決定的な語。「lallen（幼児語・たどたどしく話す）」の反復形で、意味の根拠（Grund）を失った反響・模倣としての言語を指す。ホフマンスタール詩学における言語の自己疎外の最初の定式。"
+      "body": "「後から唱えられた（nachgelallt）」──現在の言語の本質を示す決定的な語。「lallen（幼児語・たどたどしく話す）」の反復形で、意味の根拠（Grund）を失った反響・模倣としての言語を指す。ホフマンスタール詩学における言語の自己疎外の最初の定式。"
     },
     {
       "paragraphId": 2,
@@ -95,45 +95,45 @@
       "paragraphId": 3,
       "type": "commentary",
       "anchor": "begriffs ein Mann,\nBegriff es und verlor es dann",
-      "body": "「begreifen（把握する）」の物理的イメージ（掴む）と概念的イメージ（理解する）の両義を活かした動詞の反復。知識は保持できない——「会得してそして失った（Begriff es und verlor es dann）」という対称的な動詞の連鎖が、知ることと失うことが不可分だというホフマンスタールの根本経験を示す。"
+      "body": "「begreifen（把握する）」の物理的イメージ（掴む）と概念的イメージ（理解する）の両義を活かした動詞の反復。知識は保持できない──「会得してそして失った（Begriff es und verlor es dann）」という対称的な動詞の連鎖が、知ることと失うことが不可分だというホフマンスタールの根本経験を示す。"
     },
     {
       "paragraphId": 4,
       "type": "commentary",
       "anchor": "dunklen Spiegel",
-      "body": "「暗い鏡（dunklen Spiegel）」——失われた知識が「狂気の歌」として歌われた後、その歌が「暗い鏡」となり次世代の子どもを引き寄せる。「鏡」は自己像の反照であり知識の媒体だが「暗い（dunkel）」——完全には見通せない。知識の伝達が「井戸→歌→鏡→恍惚」という迂回路をたどる。"
+      "body": "「暗い鏡（dunklen Spiegel）」──失われた知識が「狂気の歌」として歌われた後、その歌が「暗い鏡」となり次世代の子どもを引き寄せる。「鏡」は自己像の反照であり知識の媒体だが「暗い（dunkel）」──完全には見通せない。知識の伝達が「井戸→歌→鏡→恍惚」という迂回路をたどる。"
     },
     {
       "paragraphId": 4,
       "type": "intertextual",
       "anchor": "redet' irr und sang ein Lied",
       "targetId": "trakl_hoelderlin",
-      "body": "「狂ったように語り、歌を歌った」——トラークルが「Hölderlin」詩で描く「柔かな狂気（weicher Wahnsinn）」のヘルダーリン像と照応する。知識の喪失後に「狂気」と「歌」が残るという構図——ホフマンスタールの詩では男→歌→子どもという系譜として、トラークルの詩ではヘルダーリンの詩人的狂気の記念として機能する。"
+      "body": "「狂ったように語り、歌を歌った」──トラークルが「Hölderlin」詩で描く「柔かな狂気（weicher Wahnsinn）」のヘルダーリン像と照応する。知識の喪失後に「狂気」と「歌」が残るという構図──ホフマンスタールの詩では男→歌→子どもという系譜として、トラークルの詩ではヘルダーリンの詩人的狂気の記念として機能する。"
     },
     {
       "paragraphId": 6,
       "type": "commentary",
       "anchor": "In ihren Küssen tief gemahnt",
-      "body": "「彼女のキスの中で深く思い起こされる（tief gemahnt）」——身体的接触による前意識的認識の覚醒。「mahnen（思い起こさせる）」はドイツ語で「記念・記憶（Mahnung）」と同根——エロスが記憶の媒体として機能する。ヘルダーリン「Hälfte des Lebens」の「trunken von Küssen（キスに酔った）」白鳥が自然の官能的充溢の担い手だったのに対し、こちらは人間的エロスが真理開示の回路となる。"
+      "body": "「彼女のキスの中で深く思い起こされる（tief gemahnt）」──身体的接触による前意識的認識の覚醒。「mahnen（思い起こさせる）」はドイツ語で「記念・記憶（Mahnung）」と同根──エロスが記憶の媒体として機能する。ヘルダーリン「Hälfte des Lebens」の「trunken von Küssen（キスに酔った）」白鳥が自然の官能的充溢の担い手だったのに対し、こちらは人間的エロスが真理開示の回路となる。"
     },
     {
       "paragraphId": 7,
       "type": "glossary",
       "anchor": "des Bettlers Fuß den Kies,\nDer eines Edelsteins Verlies",
-      "body": "詩全体で最も凝縮されたイメージ。「Kies（砂利）」と「Edelstein（宝石）」は同じ「石」でありながら価値の極端を示す。「Verlies（牢獄・地下牢）」——宝石が「牢獄」として埋まっているという逆説、解放されないまま踏まれている。最も卑賤なもの（乞食の足）と最も貴重なもの（宝石）が「踏む」という一点で接触する——言語は知らぬうちに宝石を踏んでいる。"
+      "body": "詩全体で最も凝縮されたイメージ。「Kies（砂利）」と「Edelstein（宝石）」は同じ「石」でありながら価値の極端を示す。「Verlies（牢獄・地下牢）」──宝石が「牢獄」として埋まっているという逆説、解放されないまま踏まれている。最も卑賤なもの（乞食の足）と最も貴重なもの（宝石）が「踏む」という一点で接触する──言語は知らぬうちに宝石を踏んでいる。"
     },
     {
       "paragraphId": 7,
       "type": "intertextual",
       "anchor": "In unsern Worten liegt es drin",
       "targetId": "mallarme_crise_de_vers",
-      "body": "「われわれの言葉の中にそれは潜んでいる」——マラルメ「詩の危機」の「言語は自分自身を見る」という自己反照的言語観との比較が有効。マラルメでは言語の純化・還元によって秘密へ近づこうとするのに対し、ホフマンスタールでは秘密は言語の中に埋蔵されたまま解放されない——能動的詩学と受動的詩学の対照。"
+      "body": "「われわれの言葉の中にそれは潜んでいる」──マラルメ「詩の危機」の「言語は自分自身を見る」という自己反照的言語観との比較が有効。マラルメでは言語の純化・還元によって秘密へ近づこうとするのに対し、ホフマンスタールでは秘密は言語の中に埋蔵されたまま解放されない──能動的詩学と受動的詩学の対照。"
     },
     {
       "paragraphId": 8,
       "type": "commentary",
       "anchor": "Nun zuckt im Kreis ein Traum herum",
-      "body": "「今は円環の中で夢がぴくぴく動いている（zuckt herum）」——「zucken（ぴくぴく動く・痙攣する）」という不安定な動詞が締め括る。世界の秘密は円環の中でかろうじて生き続けているが、誰にも把握されない。第1連の「すべての者が知っていた」という始原から「誰も知らない夢の痙攣」への変容がリフレインの微細な変化（Einst wußten alle → Nun zuckt ein Traum）に刻まれる。"
+      "body": "「今は円環の中で夢がぴくぴく動いている（zuckt herum）」──「zucken（ぴくぴく動く・痙攣する）」という不安定な動詞が締め括る。世界の秘密は円環の中でかろうじて生き続けているが、誰にも把握されない。第1連の「すべての者が知っていた」という始原から「誰も知らない夢の痙攣」への変容がリフレインの微細な変化（Einst wußten alle → Nun zuckt ein Traum）に刻まれる。"
     }
   ]
 }
