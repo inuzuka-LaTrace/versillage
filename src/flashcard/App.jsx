@@ -375,6 +375,12 @@ export default function FlashcardApp() {
 
     const progress = (fc.index / fc.cards.length) * 100;
 
+    const [localInput, setLocalInput] = useState(fc.userInput || '');
+    // カードが切り替わった時にローカルの状態をリセットする
+    useEffect(() => {
+    setLocalInput(fc.userInput || '');
+    }, [fc.index, fc.flipped]);
+
     return (
       <div className="max-w-2xl mx-auto px-4 py-6 flex flex-col gap-5" style={{ minHeight: 'calc(100dvh - 56px)' }}>
 
@@ -442,43 +448,45 @@ export default function FlashcardApp() {
           >
             {/* 表面 */}
             <div
-  className={`absolute inset-0 rounded-2xl border p-8 flex flex-col ${
-    darkMode ? 'bg-zinc-900 border-zinc-700' : 'bg-white border-stone-200'
-  }`}
-  style={{ backfaceVisibility: 'hidden' }}
->
-  <span className={`text-xs font-sans uppercase tracking-widest ${textSub} shrink-0`}>
-    {frontLabel}
-  </span>
-
-  <div className="flex-1 flex flex-col items-center justify-center overflow-y-auto py-4 w-full">
-  {/* ── ディクテーションモード専用の入力UI ── */}
- {fc.mode === 'dictation' ? (
-  <div className="w-full h-full flex flex-col space-y-4">
-    {/* ヒント表示：textSizeClass を適用して文字量に合わせる */}
+              className={`absolute inset-0 rounded-2xl border p-8 flex flex-col ${
+                darkMode ? 'bg-zinc-900 border-zinc-700' : 'bg-white border-stone-200'
+              }`}
+              style={{ backfaceVisibility: 'hidden' }}
+              >
+              <span className={`text-xs font-sans uppercase tracking-widest ${textSub} shrink-0`}>
+                {frontLabel}
+              </span>
+              <div className="flex-1 flex flex-col items-center justify-center overflow-y-auto py-4 w-full">
+                {/* ── ディクテーションモード専用の入力UI ── */}
+                {fc.mode === 'dictation' ? (
+                <div className="w-full h-full flex flex-col space-y-4">
+                  {/* ヒント表示：textSizeClass を適用して文字量に合わせる */}
     <p className={`font-serif text-center italic opacity-60 ${textMain} ${textSizeClass(frontText)}`}>
       {frontText}
     </p>
-      
-      {/* 入力エリア：反転（回答表示）前のみ表示 */}
-      {!fc.flipped && (
-      <textarea
-        key="dictation-input" // 強制的に同一要素として保持
-        autoFocus
-        className={`flex-1 w-full p-4 rounded-xl border font-serif text-center leading-relaxed focus:outline-none focus:ring-2 focus:ring-amber-500/30 transition-all resize-none ${
-          darkMode ? 'bg-zinc-800/50 border-zinc-700 text-zinc-200' : 'bg-stone-50 border-stone-200 text-stone-800'
-        } text-lg`} // サイズを一旦固定してテスト
-        placeholder="ここに原文を書き写してください..."
-        value={fc.userInput || ''}
-        onChange={(e) => fc.setUserInput(e.target.value)}
-        onClick={(e) => e.stopPropagation()} // 前回の修正：クリック反転防止
-        onKeyDown={(e) => {
-          if ((e.ctrlKey || e.metaKey) && e.key === 'Enter') {
-            fc.setFlipped(true);
-          }
-        }}
-      />
-    )}
+                  {/* 入力エリア：反転（回答表示）前のみ表示 */}
+                  {!fc.flipped && (
+                  <textarea
+                    key={`dictation-${fc.index}`} // indexを含めることでカードごとの独立性を確保
+                    autoFocus
+                    className={`flex-1 w-full p-4 rounded-xl border font-serif text-center leading-relaxed focus:outline-none focus:ring-2 focus:ring-amber-500/30 transition-all resize-none text-lg ${
+      darkMode ? 'bg-zinc-800/50 border-zinc-700 text-zinc-200' : 'bg-stone-50 border-stone-200 text-stone-800'
+                    }`}
+                    placeholder="ここに原文を書き写してください..."
+                    value={localInput} // ✅ fc.userInput ではなく localInput を参照
+                    onChange={(e) => {
+      const val = e.target.value;
+      setLocalInput(val); // ✅ まずローカルを更新（これでカーソルが飛ばなくなります）
+      fc.setUserInput(val); // 親の状態も同期（判定用）
+    }}
+    onClick={(e) => e.stopPropagation()}
+    onKeyDown={(e) => {
+      if ((e.ctrlKey || e.metaKey) && e.key === 'Enter') {
+        fc.setFlipped(true);
+      }
+    }}
+  />
+)}
       
       {/* 回答表示後は、入力した内容を比較用に残す */}
       {fc.flipped && (
