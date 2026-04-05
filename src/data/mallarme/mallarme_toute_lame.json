@@ -89,7 +89,7 @@
       "paragraphId": 3,
       "type": "intertextual",
       "anchor": "Exclus-en si tu commences\nLe réel parce que vil",
-      "body": "「危機de詩（mallarme_crise_de_vers）」との直接的連絡：「Je dis : une fleur ! et, hors de l'oubli où ma voix relègue aucun contour, en tant que quelque chose d'autre que les calices sus, musicalement se lève, idée même et suave, l'absente de tous bouquets（私は言う：一輪の花！ そして私の声がいかなる輪郭も追いやる忘却の外に、知られているがくではない何かとして、音楽的に立ち上がる、概念そのものが柔らかく、すべての花束から不在のものとして）」──「危機de詩」の「不在の花」がここでは「Le réel parce que vil」として否定的に定式化される。また「Mimique（mallarme_mimique）」の「rien n'aura eu lieu que le lieu（場所以外何も起きなかったであろう）」との連絡：詩的言語は「現実の出来事」の代わりに「純粋な出来事の可能性」を提示する。",
+      "body": "「詩の危機（mallarme_crise_de_vers）」との直接的連絡：「Je dis : une fleur ! et, hors de l'oubli où ma voix relègue aucun contour, en tant que quelque chose d'autre que les calices sus, musicalement se lève, idée même et suave, l'absente de tous bouquets（私は言う：一輪の花！ そして私の声がいかなる輪郭も追いやる忘却の外に、知られているがくではない何かとして、音楽的に立ち上がる、概念そのものが柔らかく、すべての花束から不在のものとして）」──「危機de詩」の「不在の花」がここでは「Le réel parce que vil」として否定的に定式化される。また「Mimique（mallarme_mimique）」の「rien n'aura eu lieu que le lieu（場所以外何も起きなかったであろう）」との連絡：詩的言語は「現実の出来事」の代わりに「純粋な出来事の可能性」を提示する。",
       "targetId": "mallarme_crise_de_vers",
       "targetParagraphId": null
     },
@@ -109,7 +109,7 @@
       "paragraphId": 4,
       "type": "intertextual",
       "anchor": "Trop précis sens que tu fixes\nSur la disparition\nLe sens trop précis rature\nTa vague littérature",
-      "body": "マラルメ「クリーズ・ド・ヴェール（mallarme_crise_de_vers）」および「ソネット・アレゴリーク（mallarme_sonnet_yx）」との三詩的連環：\n• 「危機de詩」：「名付けることは……詩的享受の四分の三を消し去る（nommer un objet, c'est supprimer les trois quarts de la jouissance du poème）」──sens trop précis の禁止命題が散文で展開される\n• 「ソネットYX」：存在しない語 ptyx によって「ゼロの指示対象（referent nul）」が詩の中心に置かれる実践──固定された意味を持たない語が詩を成立させる\n• 「骰子一擲」：大文字・空白・字体変化によって「意味の固定」そのものを版面の上で廃棄する最終的実践\nこの詩はその最も凝縮された格言的形態として、三テクストの詩学的核心を8行に要約する。",
+      "body": "マラルメ「詩の危機（mallarme_crise_de_vers）」および「yxのソネ（mallarme_sonnet_yx）」との三詩的連環：\n• 「詩の危機」：「名付けることは……詩的享受の四分の三を消し去る（nommer un objet, c'est supprimer les trois quarts de la jouissance du poème）」──sens trop précis の禁止命題が散文で展開される\n• 「yxのソネ」：存在しない語 ptyx によって「ゼロの指示対象（referent nul）」が詩の中心に置かれる実践──固定された意味を持たない語が詩を成立させる\n• 「骰子一擲」：大文字・空白・字体変化によって「意味の固定」そのものを版面の上で廃棄する最終的実践\nこの詩はその最も凝縮された格言的形態として、三テクストの詩学的核心を8行に要約する。",
       "targetId": "mallarme_coup_de_des",
       "targetParagraphId": null
     },
