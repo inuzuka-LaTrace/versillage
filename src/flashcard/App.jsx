@@ -417,8 +417,14 @@ export default function FlashcardApp() {
         {/* ─── カード本体（3D flip） ─────────────────────── */}
         <div className="flex-1 flex flex-col justify-center" style={{ perspective: '1200px' }}>
           <div
-            onClick={() => !fc.flipped && fc.setFlipped(true)}
-            className={!fc.flipped ? 'cursor-pointer' : ''}
+            onClick={() => {
+              // ディクテーションモードかつ未反転の時は、クリックでの反転を無効化する
+              // （入力に専念させるため。反転は Ctrl+Enter に任せる）
+              if (fc.mode === 'dictation' && !fc.flipped) return;
+              
+              if (!fc.flipped) fc.setFlipped(true);
+            }}
+            className={(!fc.flipped && fc.mode !== 'dictation') ? 'cursor-pointer' : ''}
             style={{
               transformStyle: 'preserve-3d',
               transition: 'transform 0.5s cubic-bezier(0.4,0.2,0.2,1)',
@@ -451,12 +457,12 @@ export default function FlashcardApp() {
       {!fc.flipped && (
         <textarea
           autoFocus
-          className={`flex-1 w-full p-4 rounded-xl border font-serif text-base text-center leading-relaxed focus:outline-none focus:ring-2 focus:ring-amber-500/30 transition-all resize-none ${
-            darkMode ? 'bg-zinc-800/50 border-zinc-700 text-zinc-200' : 'bg-stone-50 border-stone-200 text-stone-800'
-          }`}
+          className={`flex-1 w-full p-4 rounded-xl border font-serif text-base text-center leading-relaxed ...`}
           placeholder="ここに原文を書き写してください..."
           value={fc.userInput || ''}
           onChange={(e) => fc.setUserInput(e.target.value)}
+          // ─── 追加ポイント1 ───
+          onClick={(e) => e.stopPropagation()} // 親のクリックイベントを発火させない
           onKeyDown={(e) => {
             if ((e.ctrlKey || e.metaKey) && e.key === 'Enter') {
               fc.setFlipped(true);
