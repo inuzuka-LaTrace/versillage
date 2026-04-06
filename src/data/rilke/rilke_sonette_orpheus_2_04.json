@@ -1,0 +1,138 @@
+{
+  "id": "rilke_sonette_orpheus_2_04",
+  "title": "Die Sonette an Orpheus — Zweiter Teil, XVI–XX",
+  "author": "Rainer Maria Rilke",
+  "source": "Die Sonette an Orpheus, Insel-Verlag, Leipzig, 1923（初版）. 底本: Rainer Maria Rilke: Werke. Kommentierte Ausgabe in vier Bänden, Bd. 1, Insel Verlag, Frankfurt am Main, 1996. テキスト照合: Wikisource DE (https://de.wikisource.org/wiki/Die_Sonette_an_Orpheus); Project Gutenberg DE",
+  "year": "1922",
+  "firstPublication": "草稿執筆：1922年2月15–23日、ミューゾット城（スイス）。初出版：Insel-Verlag, Leipzig, 1923年2月",
+  "difficulty": "上級",
+  "category": "rilke",
+  "originalLang": "de-DE",
+  "modernRelevance": "★★★★★",
+  "context": "第二部XVI–XXは詩集の後半部へと向かう群。人間・神・死者・社会・距離というテーマが交錯する。\n\nXVI「神は癒しの場所」──「われわれが何度も引き裂いても、神は癒す場所だ」という逆説的神学。「われわれは鋭さ（Schärfe）、神は晴れやかで分配される（heiter und verteilt）」。「死者だけが泉から飲む」──死者と生者の非対称的なアクセス。「子羊は沈黙した本能から鈴を求める（erbittet seine Schelle aus dem stilleren Instinkt）」という最終形象。XVII「慰めの果実」──「どの常に聖なる水をやられた庭に、どの樹に、慰めの異質な果実が熟するのか」という問い。長詩行（Langzeilen）形式による広大さの感覚。天使が飛び回る樹。XVIII「踊り手」──法悦の踊りが「全ての消えゆくものを歩みへの転置（Verlegung alles Vergehens in Gang）」として定義される。渦巻きの終わりの「動きから成る樹（Baum aus Bewegung）」が「法悦の樹（Baum der Ekstase）」として果実（水差し・花瓶）を担う。踊り手の眉の動きが「絵の中に書かれ」残る。XIX「盲目の乞食の開いた手」──「ただ歌い上げる者にだけ言える（nur dem Aufsingenden säglich）、ただ神的なものにだけ聴こえる（nur dem Göttlichen hörbar）」という詩集の詩的使命の最も簡潔な定式化の一つ。XX「距離」──変則形式（5-4-3-3、15行）。「星々の間の距離よりも、ここで学ぶ隣人との距離の方が遠い」。「魚は黙っていると言われた……しかし、魚の言語であるものを、魚なしに語る場所はないか？」という問い。\n\n形式的特記：XVIIは長詩行（Langzeilen）形式。XXは5-4-3-3の15行変則形式──第一部XXと同様の拡張構造。",
+  "keywords": [
+    "神は癒しの場所（Gott die Stelle, welche heilt）",
+    "晴れやかで分配される（heiter und verteilt）",
+    "死者だけが源から飲む",
+    "沈黙した本能（stilleren Instinkt）",
+    "慰めの果実（Früchte der Tröstung）",
+    "天使が飛び回る樹",
+    "全ての消えゆくものを歩みへの転置",
+    "動きから成る樹（Baum aus Bewegung）",
+    "法悦の樹の果実",
+    "開いた手（immer offene Hand）",
+    "ただ歌い上げる者にだけ言える（Aufsingenden säglich）",
+    "魚の沈黙と魚なしの言語",
+    "第二部XVI–XX"
+  ],
+  "relatedTexts": [
+    "rilke_sonette_orpheus_2_03",
+    "rilke_sonette_orpheus_2_05",
+    "rilke_sonette_orpheus_1_02",
+    "rilke_sonette_orpheus_1_05",
+    "rilke_duineser_elegien_07",
+    "rilke_duineser_elegien_09"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "verses": "Zweiter Teil, XVI",
+      "original": "Immer wieder von uns aufgerissen,\nist der Gott die Stelle, welche heilt.\nWir sind Scharfe, denn wir wollen wissen,\naber er ist heiter und verteilt.\n\nSelbst die reine, die geweihte Spende\nnimmt er anders nicht in seine Welt,\nals indem er sich dem freien Ende\nunbewegt entgegenstellt.\n\nNur der Tote trinkt\naus der hier von uns gehörten Quelle,\nwenn der Gott ihm schweigend winkt, dem Toten.\n\nUns wird nur das Lärmen angeboten.\nUnd das Lamm erbittet seine Schelle\naus dem stilleren Instinkt.",
+      "provisionalTranslation": "われわれによって何度も引き裂かれながら、\n神は癒す場所だ。\nわれわれは鋭さだ、なぜならわれわれは知ることを欲するから、\nしかし神は晴れやかで分配される。\n\n清純な、奉献された供え物でさえ\n彼は別の仕方では彼の世界に取り込まない、\n彼が自由な終わりに向かって\n動かずに向き合うことによってでなければ。\n\nただ死者だけが飲む\nわれわれがここで聴いた源から、\n神が死者に黙して合図する時。\n\nわれわれには騒音だけが提供される。\nそして子羊は自分の鈴を請い求める\nより沈黙した本能から。"
+    },
+    {
+      "id": 2,
+      "verses": "Zweiter Teil, XVII",
+      "original": "Wo, in welchen immer selig bewässerten Garten, an welchen\nBäumen, aus welchen zärtlich entblätterten Blüten-Kelchen\nreifen die fremdartigen Früchte der Tröstung? Diese\nköstlichen, deren du eine vielleicht in der zertretenen Wiese\n\ndeiner Armut findest. Von einem zum anderen Male\nwunderst du dich über die Größe der Frucht,\nüber ihr Heilsein, über die Sanftheit der Schale,\nund daß sie der Leichtsinn des Vogels dir nicht vorwegnahm und nicht die Eifersucht\n\nunten des Wurms. Giebt es denn Bäume, von Engeln beflogen,\nund von verborgenen langsamen Gärtnern so seltsam gezogen,\ndaß sie uns tragen, ohne uns zu gehören?\n\nHaben wir niemals vermocht, wir Schatten und Schemen,\ndurch unser voreilig reifes und wieder welkes Benehmen\njener gelassenen Sommer Gleichmut zu stören?",
+      "provisionalTranslation": "どこに、いかなる常に聖なる水をやられた庭に、いかなる\n樹に、いかなる優しく花びらの散った花の杯から\n慰めの異質な果実が熟するのか？これらの\n美味しい果実を、お前はおそらく踏みにじられた牧草地で\n\n自分の貧しさの中に見つける。一度また一度\nお前は果実の大きさに驚く、\nその健全さに、その皮の柔らかさに、\nそして鳥の軽薄さもお前のためにそれを先取りせず、下の\n\n虫の嫉妬もしなかったことに。では天使が飛び回り\n隠れた遅い庭師たちによってかくも奇妙に育てられた樹々があるのか、\nそれらはわれわれのものになることなくわれわれを担う？\n\nわれわれは、影と幻影として、かつて成し遂げたことがあるか、\nわれわれの早まって熟し、また萎れた振る舞いによって\nあの物静かな夏々の平静を乱すことを？"
+    },
+    {
+      "id": 3,
+      "verses": "Zweiter Teil, XVIII",
+      "original": "Tänzerin: o du Verlegung\nalles Vergehens in Gang: wie brachtest du's dar.\nUnd der Wirbel am Schluß, dieser Baum aus Bewegung,\nnahm er nicht ganz in Besitz das erschwungene Jahr?\n\nBlühte nicht, daß ihn dein Schwingen von vorhin umschwärme,\nplötzlich sein Wipfel von Stille? Und über ihr,\nwar sie nicht Sonne, war sie nicht Sommer, die Wärme,\ndiese unzählige Wärme aus dir?\n\nAber er trug auch, er trug, dein Baum der Ekstase.\nSind sie nicht seine ruhigen Früchte: der Krug,\nreifend gestreift, und die gereiftere Vase?\n\nUnd in den Bildern: ist nicht die Zeichnung geblieben,\ndie deiner Braue dunkler Zug\nrasch an die Wendung der eigenen Wendung geschrieben?",
+      "provisionalTranslation": "踊り手よ：おお、全ての消えゆくものを\n歩みへと転置する者よ：いかにお前はそれを提示したことか。\nそして終わりの渦巻き、この動きから成る樹は、\n秋まで振り回された年を完全に占有しなかったか？\n\n咲きはしなかったか、お前の先ほどの振り回しが\nそれを群がり囲むように、突然その梢が静寂で？そしてその上に、\nそれは太陽でなかったか、夏でなかったか、温もりが、\nお前から来るこの数え切れない温もりが？\n\nしかしそれは担った、それは担った、お前の法悦の樹は。\nそれらは彼の静かな果実でないか：水差し、\n熟れながら縞模様に、そしてより熟れた花瓶が？\n\nそして絵の中に：線が残ってはいないか、\nお前の眉の暗い線が\n自らの転回の転回に素早く書いた線が？"
+    },
+    {
+      "id": 4,
+      "verses": "Zweiter Teil, XIX",
+      "original": "Irgendwo wohnt das Gold in der verwöhnenden Bank\nund mit Tausenden tut es vertraulich. Doch jener\nBlinde, der Bettler, ist selbst dem kupfernen Zehner\nwie ein verlorener Ort, wie das staubige Eck unterm Schrank.\n\nIn den Geschäften entlang ist das Geld wie zuhause\nund verkleidet sich scheinbar in Seide, Nelken und Pelz.\nEr, der Schweigende, steht in der Atempause\nalles des wach oder schlafend atmenden Gelds.\n\nO wie mag sie sich schließen bei Nacht, diese immer offene Hand.\nMorgen holt sie das Schicksal wieder, und täglich\nhält es sie hin: hell, elend, unendlich zerstörbar.\n\nDaß doch einer, ein Schauender, endlich ihren langen Bestand\nstaunend begriffe und rühmte. Nur dem Aufsingenden säglich.\nNur dem Göttlichen hörbar.",
+      "provisionalTranslation": "どこかで黄金は甘やかす銀行に住んでいて\n何千もの者と親密にしている。しかしあの\n盲目の乞食は、銅のコインにとってさえ\n失われた場所のように、戸棚の下の埃っぽい隅のようだ。\n\n商店街では金は我が家にいるようで\n見かけ上、絹、カーネーション、毛皮に変装している。\n彼は、沈黙した者は、目覚めながらまたは眠りながら\n呼吸する金のすべての呼吸の休止に立っている。\n\nおお夜には閉じることができるだろうか、この常に開いた手は。\n明日また運命がそれを取りに来て、毎日\nそれをそのまま差し出す：明るく、惨めに、無限に壊れやすく。\n\n誰かが、見る者が、ついに彼女の長い持続を\n驚きながら理解し讃えるように。ただ歌い上げる者にだけ言える。\nただ神的なものにだけ聴こえる。"
+    },
+    {
+      "id": 5,
+      "verses": "Zweiter Teil, XX",
+      "original": "Zwischen den Sternen, wie weit; und doch, um\nwievieles noch weiter,\nwas man am Hiesigen lernt.\nEiner, zum Beispiel, ein Kind... und ein Nächster, ein Zweiter -,\no wie unfaßlich entfernt.\n\nSchicksal, es mißt uns vielleicht mit des Seienden Spanne,\ndaß es uns fremd erscheint;\ndenk, wieviel Spannen allein vom Mädchen zum Manne,\nwenn es ihn meidet und meint.\n\nAlles ist weit -, und nirgends schließt sich der Kreis.\nSieh in der Schüssel, auf heiter bereitetem Tische,\nseltsam der Fische Gesicht.\n\nFische sind stumm..., meinte man einmal. Wer weiß?\nAber ist nicht am Ende ein Ort, wo man das, was der Fische\nSprache wäre, ohne sie spricht?",
+      "provisionalTranslation": "星々の間の距離はいかに遠いか；しかし、さらに\nどれほど遠いか、\nここにあるもので学ぶことは。\n一人が、例えば、子供……そして隣人、第二の者──、\nおおいかに把握しがたく遠いことか。\n\n運命は、おそらくわれわれを存在するものの尺度で測るので\nそれがわれわれに見知らぬものに見えるのだ；\n考えよ、少女から男へだけで何尺もの間があるかを、\n彼女が彼を避けながら意味する時。\n\n全ては遠い──そしてどこにも円環は閉じない。\n見よ皿の中を、晴れやかに用意されたテーブルの上の、\n魚の顔の奇妙さを。\n\n魚は黙っている……かつてそう言われた。誰が知るか？\nしかし最後に一つの場所がないだろうか、そこで、魚の\n言語であるものを、魚なしに語る？"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "Immer wieder von uns aufgerissen,\nist der Gott die Stelle, welche heilt.\nWir sind Scharfe, denn wir wollen wissen,\naber er ist heiter und verteilt.",
+      "body": "「われわれによって何度も引き裂かれながら、神は癒す場所だ。われわれは鋭さだ、なぜならわれわれは知ることを欲するから、しかし神は晴れやかで分配される」──第二部XVI冒頭。「Schärfe（鋭さ）」──「知ること（wissen）を欲する」という人間の認識的欲求が「鋭さ（Scharf）」として定義される：知ることへの欲求は「傷つける・引き裂く」力。「神は晴れやかで分配される（heiter und verteilt）」──「verteilt（分配された）」という形容が核心：神は集中した同一性でなく、分配・散在として存在する。第一部XXVI「敵意がお前を引き裂き分配したから（die Feindschaft verteilte）、われわれは自然の口となった」との語根的連絡──「verteilen（分配する）」がオルフェウスの解体と神の存在様式を結ぶ動詞。ハイデガー「詩人とは何か（Wozu Dichter?）」における「神聖なもの（das Heilige）」──人間の意識が「傷つける（verletzen）」ことで開かれる──との共鳴。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "intertextual",
+      "anchor": "Nur der Tote trinkt\naus der hier von uns gehörten Quelle,\nwenn der Gott ihm schweigend winkt, dem Toten.\n\nUns wird nur das Lärmen angeboten.\nUnd das Lamm erbittet seine Schelle\naus dem stilleren Instinkt.",
+      "body": "「ただ死者だけが飲む、われわれがここで聴いた源から、神が死者に黙して合図する時。われわれには騒音だけが提供される。そして子羊は沈黙した本能から鈴を求める」──ブランショ『文学の空間』のオルフェウス論における「死者だけが詩の真実にアクセスする」という命題との対話。第二部XV「泉の口（Brunnen-Mund）」・第二部XII「自らを源として注ぐ者（Wer sich als Quelle ergießt）」と連続する「源（Quelle）」の形象：生者には「騒音（Lärmen）」しか提供されず、源からの「水（詩的真実）」は死者だけが飲める。「das Lamm erbittet seine Schelle aus dem stilleren Instinkt（子羊は沈黙した本能から鈴を求める）」──「stilleren Instinkt（より沈黙した本能）」という比較級が核心：子羊は「より沈黙した（stilleren）」本能から鈴（音）を求める──沈黙の中から音楽・詩が生まれるという逆説。リシャール『詩と深さ』における「沈黙と音の弁証法」──詩は沈黙の「より深い」層から音として到来する──との共鳴。",
+      "targetId": "rilke_sonette_orpheus_2_03",
+      "targetParagraphId": 5
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "Giebt es denn Bäume, von Engeln beflogen,\nund von verborgenen langsamen Gärtnern so seltsam gezogen,\ndaß sie uns tragen, ohne uns zu gehören?",
+      "body": "「では天使が飛び回り、隠れた遅い庭師たちによってかくも奇妙に育てられた樹々があるのか、それらはわれわれのものになることなくわれわれを担う？」──第二部XVII第三連。「verborgenen langsamen Gärtnern（隠れた遅い庭師たち）」──「langsam（遅い）」という形容が核心：天使は「飛び回る（beflogen）」が庭師は「遅い（langsam）」──速度の非対称が「人間的なもの」と「神的なもの」の差異を示す。「uns tragen, ohne uns zu gehören（われわれのものになることなくわれわれを担う）」──所有なき担いの逆説：第12ソネット「Die Erde schenkt（大地が贈る）」・第22ソネット「大地は農夫のものでなく贈る」と連続して、「所有なき与え」という形式が繰り返される。ブランショ「文学の空間」における「作品は詩人のものでない」──作品は詩人に「属さない（nicht gehören）」──という命題の神話的・植物的形象として機能する。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "intertextual",
+      "anchor": "Haben wir niemals vermocht, wir Schatten und Schemen,\ndurch unser voreilig reifes und wieder welkes Benehmen\njener gelassenen Sommer Gleichmut zu stören?",
+      "body": "「われわれは、影と幻影として、かつて成し遂げたことがあるか、われわれの早まって熟し、また萎れた振る舞いによって、あの物静かな夏々の平静を乱すことを？」──第二部XVII最終三行。「Schatten und Schemen（影と幻影）」──「Schemen（輪郭・幻影）」という稀な語：人間は「影（Schatten）」であるだけでなく「輪郭（Schemen）」──つまり実体のない形象──として自己定義される。「gelassenen Sommer Gleichmut（物静かな夏々の平静）」──「gelassen（物静かな・落ち着いた）」は「ゆだねた（gelassen）」という意味も持つ（マイスター・エックハルトの「Gelassenheit（神への委ねること）」）：夏の「平静」は神秘主義的な「委ね」として読める。「voreilig reifes und wieder welkes Benehmen（早まって熟し、また萎れた振る舞い）」──第一部XIII「果実の密度から溶解への運動」の反転として、人間の「早まった熟し・萎れ」が慰めの果実の完全な熟成と対比される。ハイデガー「Gelassenheit（1959）」──「物への委ね（Gelassenheit zu den Dingen）」という思索的様式──との語根的共鳴。"
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "Tänzerin: o du Verlegung\nalles Vergehens in Gang: wie brachtest du's dar.\nUnd der Wirbel am Schluß, dieser Baum aus Bewegung,\nnahm er nicht ganz in Besitz das erschwungene Jahr?",
+      "body": "「踊り手よ：おお、全ての消えゆくものを歩みへと転置する者よ：いかにお前はそれを提示したことか。そして終わりの渦巻き、この動きから成る樹は、秋まで振り回された年を完全に占有しなかったか？」──第二部XVIII冒頭。「Verlegung alles Vergehens in Gang（全ての消えゆくものを歩みへの転置）」──詩集中最も圧縮された変容の定義。「Vergehen（消えゆくこと）」が「Gang（歩み・動き）」へと「verlegt（転置）」される：消えることが動くことに変換される──死への運動が踊りとして肯定される。第二部XII「Wolle die Wandlung（変容を欲せよ）」の踊り的形象として読める。「Baum aus Bewegung（動きから成る樹）」──第一部I「Da stieg ein Baum（樹が立ち上がった）」・第一部XVII「biegt sich zur Leier（竪琴へと曲がる）」との連続：踊りの渦巻きが「樹」として形象化される──植物的停止と運動的樹の結合。リシャール『詩と深さ』が「動きの凝固（solidification du mouvement）」として論じた形象に対応する。"
+    },
+    {
+      "paragraphId": 3,
+      "type": "intertextual",
+      "anchor": "Aber er trug auch, er trug, dein Baum der Ekstase.\nSind sie nicht seine ruhigen Früchte: der Krug,\nreifend gestreift, und die gereiftere Vase?\n\nUnd in den Bildern: ist nicht die Zeichnung geblieben,\ndie deiner Braue dunkler Zug\nrasch an die Wendung der eigenen Wendung geschrieben?",
+      "body": "「しかしそれは担った、それは担った、お前の法悦の樹は。それらは彼の静かな果実でないか：水差し、熟れながら縞模様に、そしてより熟れた花瓶が？そして絵の中に：線が残ってはいないか、お前の眉の暗い線が自らの転回の転回に素早く書いた線が？」──ウェラへの最終的参照の一つ。「dein Baum der Ekstase（お前の法悦の樹）」──「法悦（Ekstase）」の語根は「外に立つ（ex-stasis）」：踊りが自己の外に出ること。「静かな果実：水差し・花瓶（der Krug, die Vase）」──第9悲歌「Haus, Brücke, Brunnen, Krug（家、橋、井戸、水差し）」の「水差し」が「法悦の樹の果実」として再登場。「deiner Braue dunkler Zug（お前の眉の暗い線）」──踊り手の眉が「転回の転回（Wendung der eigenen Wendung）」に書いた線：顔の一部の動きが「絵の中に（in den Bildern）」永続する形象。ブランショ「文学と死への権利」における「詩的形象の永続（persistance de l'image）」──法悦の踊りが消えた後も「眉の線」という痕跡が絵の中に残る──との共鳴。",
+      "targetId": "rilke_sonette_orpheus_1_05",
+      "targetParagraphId": 5
+    },
+    {
+      "paragraphId": 4,
+      "type": "commentary",
+      "anchor": "O wie mag sie sich schließen bei Nacht, diese immer offene Hand.\nMorgen holt sie das Schicksal wieder, und täglich\nhält es sie hin: hell, elend, unendlich zerstörbar.",
+      "body": "「おお夜には閉じることができるだろうか、この常に開いた手は。明日また運命がそれを取りに来て、毎日それをそのまま差し出す：明るく、惨めに、無限に壊れやすく」──第二部XIX第三連。「immer offene Hand（常に開いた手）」──第7悲歌末「開いたまま留まる手（bleibt vor dir offen）」との連続：詩集全体で「手」が「把握しない開放性」として繰り返し登場する。乞食の手は「選択せず、常に開いた」──この「開いた手」がリルケにとって「純粋な受容性（reines Empfangen）」の形象。「hell, elend, unendlich zerstörbar（明るく、惨めに、無限に壊れやすく）」──三つの形容詞の並置が「開いた手」の逆説的充実を体現：「明るく（hell）」は「清純」、「惨め（elend）」は「受難」、「無限に壊れやすく（unendlich zerstörbar）」は「脆弱の無限性」。リシャール『詩と深さ』における「脆弱な存在（être fragile）」──リルケにとって最も脆弱なものが最も「受容的」という逆説──との共鳴。"
+    },
+    {
+      "paragraphId": 4,
+      "type": "intertextual",
+      "anchor": "Daß doch einer, ein Schauender, endlich ihren langen Bestand\nstaunend begriffe und rühmte. Nur dem Aufsingenden säglich.\nNur dem Göttlichen hörbar.",
+      "body": "「誰かが、見る者が、ついに彼女の長い持続を驚きながら理解し讃えるように。ただ歌い上げる者にだけ言える。ただ神的なものにだけ聴こえる」──詩集全体の「詩的使命」の最も簡潔な定式化。「Nur dem Aufsingenden säglich（ただ歌い上げる者にだけ言える）」──「säglich（言える・表現できる）」という稀な形容詞；「Aufsingenden（歌い上げる者）」は歌いながら「上へ（auf）」向かう者：詩人は「歌い上げることによってのみ」乞食の「開いた手」の真実を言語化できる。「Nur dem Göttlichen hörbar（ただ神的なものにだけ聴こえる）」──ハイデガー「詩人とは何か（Wozu Dichter?）」における「詩人の言語は神的なものだけが聴ける」という命題との最も直接的な対応。ブランショ「文学の空間」における「詩的言語の不可能な交流」──詩は「誰にも届かない声として」書かれる──という命題が、ここでは「神的なものにだけ届く」という形で肯定的に定式化される。第一部VII「Er ist einer der bleibenden Boten（彼は永遠の使者の一人）」への詩的応答として機能する。",
+      "targetId": "rilke_sonette_orpheus_1_02",
+      "targetParagraphId": 2
+    },
+    {
+      "paragraphId": 5,
+      "type": "commentary",
+      "anchor": "Zwischen den Sternen, wie weit; und doch, um\nwievieles noch weiter,\nwas man am Hiesigen lernt.",
+      "body": "「星々の間の距離はいかに遠いか；しかし、さらにどれほど遠いか、ここにあるもので学ぶことは」──第二部XX冒頭。「am Hiesigen lernt（ここにあるもので学ぶ）」──「hiesig（ここに属する・現世的）」は第一部I「Gesang ist Dasein（歌うことは存在だ）」・第9悲歌「ein hiesig einmal ergriffenes Ding（ここで一度確かに掴まれたもの）」と連続するキーワード。「ここ（hiesig）」で学ぶことの難しさが「星々の間の距離」より遠いという逆転：宇宙的距離より「日常的な隣人との距離」が遠い。「Einer, zum Beispiel, ein Kind（一人が、例えば、子供）」──省略記号「...」の後の「ein Nächster, ein Zweiter（隣人、第二の者）」への展開：子供は「なんと把握しがたく遠い（unfaßlich entfernt）」──把握することの不可能性が「距離」として定義される。ハイデガー「距離の廃止と近さの喪失（Die Aufhebung aller Entfernung und die Vernichtung der Nähe, 1950）」──技術は距離を縮めるが「近さ（Nähe）」を生まない──という命題との共鳴。"
+    },
+    {
+      "paragraphId": 5,
+      "type": "prosody",
+      "anchor": "Fische sind stumm..., meinte man einmal. Wer weiß?\nAber ist nicht am Ende ein Ort, wo man das, was der Fische\nSprache wäre, ohne sie spricht?",
+      "body": "第二部XX最終三行──「魚なしの言語」。「Fische sind stumm（魚は黙っている）」──魚の沈黙は詩集全体の「沈黙の言語」テーマの終末的形象：第一部Xの石棺「すでに沈黙の意味を知っていた（die schon wußten, was schweigen heißt）」・第二部IXの「Schweigende（沈黙した者）」・第二部XIXの「沈黙した本能（stilleren Instinkt）」という沈黙の系列が「魚の沈黙」として集約される。「was der Fische Sprache wäre, ohne sie spricht（魚の言語であるものを、魚なしに語る）」──ブランショ『文学の空間』における「文学の本質的なパラドックス（paradoxe essentiel de la littérature）」との対話：詩は「存在しないもの（魚なし）の言語」を語る──存在しないものが語ることで存在するという詩的逆説。「ein Ort（一つの場所）」──第二部IVのユニコーン「Sie ließen immer Raum（彼らは常に空間を残した）」・第二部Xの「unbrauchbaren Raum（使いものにならない空間）」と連続する「詩的場所」の終末的形象。「魚なしに魚の言語を語る場所」──これが詩の場所（locus）として提示される。",
+      "targetId": "rilke_sonette_orpheus_1_02",
+      "targetParagraphId": 5
+    }
+  ]
+}
