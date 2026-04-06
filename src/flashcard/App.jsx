@@ -362,44 +362,39 @@ export default function FlashcardApp() {
   // ② カード学習画面
   // ════════════════════════════════════════════════════════════
  const StudyView = ({ fc, darkMode }) => {
-  // ✅ ローカルStateの初期値を fc.userInput || '' にする
-  // fc.userInput が undefined でも空文字で受けるようにします
-  const [localInput, setLocalInput] = useState(fc.userInput || '');
+  // fc.userInput が undefined の場合に備えた安全な初期化
+  const [localInput, setLocalInput] = useState(fc?.userInput || '');
 
+  // カードが変わるたびにローカルの入力をクリア
   useEffect(() => {
-    setLocalInput(fc.userInput || '');
-  }, [fc.index, fc.flipped]);
+    setLocalInput(fc?.userInput || '');
+  }, [fc?.index, fc?.flipped]);
 
-  // もし fc 自体が読み込まれていない場合のガード
-  if (!fc) return null;
+  if (!fc || fc.cards.length === 0) return null;
 
   const currentCard = fc.cards[fc.index];
   const frontText = getCardFront(currentCard, fc.mode);
   const backText  = getCardBack(currentCard, fc.mode);
-  const hasUser   = !!userTrans;
 
   const textMain = darkMode ? 'text-stone-200' : 'text-stone-900';
   const textSub  = darkMode ? 'text-stone-500' : 'text-stone-400';
 
   return (
-    <div className="flex flex-col h-full max-w-3xl mx-auto w-full p-4 space-y-6">
-      
-      {/* ── メインパネル（シングルパネル構造） ── */}
-      <div className={`flex-1 flex flex-col items-center justify-center p-8 rounded-3xl border transition-all ${
+    <div className="flex flex-col h-full max-w-3xl mx-auto w-full p-4">
+      {/* ── メインパネル ── */}
+      <div className={`flex-1 flex flex-col p-8 rounded-3xl border ${
         darkMode ? 'bg-zinc-900/50 border-zinc-800' : 'bg-white border-stone-200'
       }`}>
         
-        {/* 上部：ヒント・原文表示（空所補充含む） */}
-        <div className="w-full mb-8 text-center">
+        {/* 上部：問題/ヒント */}
+        <div className="mb-10 text-center">
           <p className={`font-serif leading-relaxed ${textMain} ${textSizeClass(frontText)}`}>
-            {fc.mode === 'cloze' 
-              ? renderClozeText(frontText, fc.flipped, darkMode) 
-              : frontText}
+            {fc.mode === 'cloze' ? renderClozeText(frontText, fc.flipped, darkMode) : frontText}
           </p>
         </div>
 
-        {/* 下部：入力エリア または 正解表示エリア */}
-        <div className="w-full flex-1 flex flex-col">
+        {/* 中央：入力または回答 */}
+        <div className="flex-1 flex flex-col justify-center">
           {fc.mode === 'dictation' && !fc.flipped ? (
             <textarea
               key={`input-${fc.index}`}
@@ -407,86 +402,66 @@ export default function FlashcardApp() {
               className={`w-full flex-1 p-6 rounded-2xl border font-serif text-center leading-relaxed focus:outline-none focus:ring-2 focus:ring-amber-500/30 transition-all resize-none text-xl ${
                 darkMode ? 'bg-zinc-800/40 border-zinc-700 text-zinc-200' : 'bg-stone-50 border-stone-200 text-stone-800'
               }`}
-              placeholder="Write the original text here..."
               value={localInput}
-              onChange={(e) => setLocalInput(e.target.value)} // 親への反映を一旦止め、入力の軽快さを優先
+              onChange={(e) => setLocalInput(e.target.value)}
               onKeyDown={(e) => {
                 if ((e.ctrlKey || e.metaKey) && e.key === 'Enter') {
-                  fc.setUserInput(localInput); // 判定の瞬間に親の状態に同期
+                  fc.setUserInput(localInput); // 判定前に親の状態へ同期
                   fc.setFlipped(true);
                 }
               }}
+              placeholder="Write the original text..."
             />
           ) : fc.flipped ? (
-            /* 判定後の表示エリア */
-            <div className="w-full space-y-8 animate-in fade-in duration-700">
-              {/* 正解テキスト（ディクテーション時以外はこれがメイン回答） */}
-              <div className="text-center space-y-2">
-                <p className={`${textSub} text-[10px] uppercase tracking-[0.2em]`}>Answer / Context</p>
+            <div className="space-y-8 animate-in fade-in duration-700">
+              <div className="text-center">
+                <p className={`${textSub} text-[10px] uppercase tracking-widest mb-4`}>Correct Answer</p>
                 <p className={`font-serif whitespace-pre-line ${textMain} ${textSizeClass(backText)}`}>
                   {backText}
                 </p>
               </div>
-
-              {/* ディクテーションモード時のみ：自分の入力との比較 */}
               {fc.mode === 'dictation' && (
-                <div className={`p-6 rounded-2xl border font-serif ${
-                  darkMode ? 'bg-zinc-800/20 border-zinc-700' : 'bg-stone-50 border-stone-100'
-                }`}>
-                  <p className={`${textSub} text-[10px] uppercase tracking-[0.2em] mb-3 opacity-50`}>Your Transcription</p>
-                  <p className={`${textMain} ${textSizeClass(localInput)} opacity-80`}>
-                    {localInput || '(No input)'}
-                  </p>
+                <div className={`p-6 rounded-2xl border ${darkMode ? 'bg-zinc-800/20 border-zinc-700' : 'bg-stone-50 border-stone-100'}`}>
+                  <p className={`${textSub} text-[10px] uppercase tracking-widest mb-2`}>Your Input</p>
+                  <p className={`${textMain} ${textSizeClass(localInput)} opacity-80`}>{localInput || '(No input)'}</p>
                 </div>
               )}
             </div>
           ) : (
-            /* 通常・空所補充モードの「めくる前」のガイド表示 */
-            <div className="flex-1 flex items-center justify-center">
-               <p className={`${textSub} text-sm font-sans animate-pulse italic`}>
-                 Tap or Space to reveal the answer...
-               </p>
+            <div className="text-center py-20">
+              <p className={`${textSub} text-sm font-sans italic opacity-40`}>Tap "Reveal Answer" or Space to check</p>
             </div>
           )}
         </div>
       </div>
 
-      {/* ── フッター操作エリア ── */}
-      <div className="h-20 flex items-center justify-center pb-4">
+      {/* ── 下部：操作（fc.judgeを呼ぶボタン） ── */}
+      <div className="h-28 flex items-center justify-center">
         {!fc.flipped ? (
-          <div className="text-center">
-            {fc.mode === 'dictation' ? (
-              <p className={`text-xs font-sans ${textSub} opacity-50`}>Ctrl + Enter to evaluate</p>
-            ) : (
-              <button 
-                onClick={() => fc.setFlipped(true)}
-                className={`text-sm px-6 py-2 rounded-full border ${darkMode ? 'border-zinc-700 text-stone-400 hover:bg-zinc-800' : 'border-stone-200 text-stone-500 hover:bg-stone-50'} transition-all`}
-              >
-                Reveal Answer
-              </button>
-            )}
-          </div>
+          <button 
+            onClick={() => {
+              if (fc.mode === 'dictation') fc.setUserInput(localInput);
+              fc.setFlipped(true);
+            }}
+            className={`px-8 py-3 rounded-full border text-sm tracking-widest transition-all ${
+              darkMode ? 'border-zinc-700 text-stone-400 hover:bg-zinc-800' : 'border-stone-200 text-stone-600 hover:bg-stone-50'
+            }`}
+          >
+            REVEAL ANSWER
+          </button>
         ) : (
-          /* 判定ボタン：これらが fc.judge を呼び出す */
-          <div className="flex items-center gap-12 animate-in slide-in-from-bottom-4 duration-500">
-            <button
-              onClick={() => fc.judge('again')}
-              className="group flex flex-col items-center gap-2 transition-transform active:scale-95"
-            >
-              <div className="w-12 h-12 rounded-full border border-red-500/30 flex items-center justify-center group-hover:bg-red-500/10 transition-colors">
-                <RotateCcw size={20} className="text-red-500/70" />
+          <div className="flex gap-16 animate-in slide-in-from-bottom-4">
+            <button onClick={() => fc.judge('again')} className="group flex flex-col items-center gap-2">
+              <div className="w-14 h-14 rounded-full border border-red-500/20 flex items-center justify-center group-hover:bg-red-500/10 transition-colors">
+                <RotateCcw size={22} className="text-red-500/60" />
               </div>
-              <span className="text-[10px] uppercase tracking-widest text-red-500/60 font-sans">Again</span>
+              <span className="text-[10px] tracking-widest text-red-500/50 uppercase">Again</span>
             </button>
-
-            <button
-              onClick={() => fc.judge('good')}
-              className="group flex flex-col items-center gap-2 transition-transform active:scale-95"
-            >
-              <div className="w-12 h-12 rounded-full border border-emerald-500/30 flex items-center justify-center group-hover:bg-emerald-500/10 transition-colors">
-                <ThumbsUp size={20} className="text-emerald-500/70" />
+            <button onClick={() => fc.judge('good')} className="group flex flex-col items-center gap-2">
+              <div className="w-14 h-14 rounded-full border border-emerald-500/20 flex items-center justify-center group-hover:bg-emerald-500/10 transition-colors">
+                <ThumbsUp size={22} className="text-emerald-500/60" />
               </div>
-              <span className="text-[10px] uppercase tracking-widest text-emerald-500/60 font-sans">Good</span>
+              <span className="text-[10px] tracking-widest text-emerald-500/50 uppercase">Good</span>
             </button>
           </div>
         )}
