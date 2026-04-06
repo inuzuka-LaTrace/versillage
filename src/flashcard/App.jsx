@@ -192,14 +192,13 @@ export default function FlashcardApp() {
   const categories = [...new Set(Object.values(ALL_TEXTS).map(t => t.category))].sort();
 
   // ── テーマ変数 ────────────────────────────────────────────
-  const bg          = darkMode ? 'bg-zinc-950' : 'bg-stone-50';
-  const cardBg      = darkMode ? 'bg-zinc-900 border-zinc-800' : 'bg-white border-stone-200';
-  const textMain    = darkMode ? 'text-[#8a7a5a]' : 'text-stone-900';
-  const textSub     = darkMode ? 'text-zinc-400' : 'text-stone-500';
-  const border      = darkMode ? 'border-zinc-800' : 'border-stone-200';
-  const inputCls    = darkMode
-    ? 'bg-zinc-800 border-zinc-700 text-zinc-100 placeholder-zinc-500 focus:border-amber-500'
-    : 'bg-stone-100 border-stone-300 text-stone-900 placeholder-stone-400 focus:border-amber-500';
+　 const bg         = darkMode ? 'bg-[#131008]'                              : 'bg-[#f5efe0]';
+  const cardBg     = darkMode ? 'bg-[#17140e] border-[#2e2a20]'             : 'bg-[#ede4cc] border-[#c8b480]';
+  const textMain     = darkMode ? 'text-[#ddd0b3]'                            : 'text-[#1a1208]';
+  const textSub   = darkMode ? 'text-[#8a7a5a]'                            : 'text-[#6b5a3a]';
+  const border     = darkMode ? 'border-[#2e2a20]'                          : 'border-[#c8b480]';
+  const inputCls         = darkMode ? 'bg-[#0f0d09] text-[#ddd0b3] placeholder-[#5a4a38] border-[#3a3228]' : 'bg-[#ede4cc] text-[#1a1208] placeholder-[#a08560] border-[#c8b480]';
+  const settingsBg      = darkMode ? 'bg-[#17140e] border-[#3a3228] shadow-2xl'  : 'bg-[#ede4cc] border-[#c8b480] shadow-2xl';
   const btnSecondary = darkMode
     ? 'bg-zinc-800 border-zinc-700 text-zinc-300 hover:bg-zinc-700'
     : 'bg-stone-100 border-stone-300 text-stone-600 hover:bg-stone-200';
