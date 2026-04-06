@@ -1,0 +1,75 @@
+{
+  "id": "rilke_archaischer_torso_apollos",
+  "title": "Archaïscher Torso Apollos",
+  "author": "Rainer Maria Rilke",
+  "source": "Der neuen Gedichte anderer Teil, Insel-Verlag, Leipzig, 1908. 底本: Rainer Maria Rilke: Werke. Kommentierte Ausgabe in vier Bänden, Bd. 1, Insel Verlag, Frankfurt am Main, 1996. テキスト照合: Wikisource DE (https://de.wikisource.org/wiki/Archaïscher_Torso_Apollos)",
+  "year": "1908",
+  "firstPublication": "Der neuen Gedichte anderer Teil, Insel-Verlag, Leipzig, 1908（「新詩集・第二巻」冒頭）",
+  "difficulty": "上級",
+  "category": "rilke",
+  "originalLang": "de-DE",
+  "modernRelevance": "★★★★★",
+  "context": "「古代のアポロンのトルソ」はリルケの詩集「新詩集・第二巻（1908）」の冒頭に置かれた詩であり、リルケの「物の詩（Dinggedicht）」の最高峰として批評史上繰り返し論じられてきた。リルケはパリで彫刻家オーギュスト・ロダン（Auguste Rodin）の助手として働き（1905–06）、ロダンの彫刻論──「表面・光・物質」への集中的注視──から「物の詩」の概念を学んだ。この詩の素材はルーヴル美術館所蔵の古代ギリシャのアポロン像のトルソ（頭部・腕・脚を欠く断片）。\n\n「われわれは彼の前代未聞の頭を知らなかった」という冒頭──頭（＝顔・目）を持たないトルソが「それでも見る（sieht）」という最終行への逆説的弧が詩の構造を形成する。トルソは「見ること（Schauen）」を「ただ引き絞られた（zurückgeschraubt）」状態で保ち、胸・腰・中心から光として放射する。最終二行「なぜならそこには一つの場所もない、お前を見ない場所は。お前は自分の生を変えなければならない（Du mußt dein Leben ändern）」──「見ること」の主体と客体の逆転が、倫理的命令「Du mußt（お前は〜しなければならない）」として完成する。\n\nこの最終行はハイデガー、ブランショ、リシャールを含む20世紀の主要な思想家・批評家によって繰り返し論じられた。ハイデガー「芸術作品の根源（Der Ursprung des Kunstwerkes, 1935/50）」は「大地と世界の闘争」として彫刻を論じ、リルケのトルソ詩との親和性を示した。ブランショ『文学の空間（L'Espace littéraire, 1955）』は「詩的なものはわれわれを変容させるが、われわれにはそれができない」という詩と変容の非対称を論じた。ジャン＝ピエール・リシャール『詩と深さ（Poésie et profondeur, 1955）』は「トルソの密度（densité）と眼差しの内側化」を詳細に分析した。",
+  "keywords": [
+    "古代のトルソ（archaischer Torso）",
+    "アポロン（Apollos）",
+    "前代未聞の頭（unerhörtes Haupt）",
+    "引き絞られた眼差し（Schauen zurückgeschraubt）",
+    "燭台（Kandelaber）",
+    "星のように爆発する（wie ein Stern）",
+    "見ない場所はない（keine Stelle, die dich nicht sieht）",
+    "お前は自分の生を変えなければならない（Du mußt dein Leben ändern）",
+    "物の詩（Dinggedicht）",
+    "ロダン",
+    "見ることの逆転"
+  ],
+  "relatedTexts": [
+    "rilke_duineser_elegien_01",
+    "rilke_duineser_elegien_08",
+    "rilke_duineser_elegien_09",
+    "rilke_sonette_orpheus_1_01",
+    "rilke_das_roseninnere"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "verses": "v.1–14",
+      "original": "Wir kannten nicht sein unerhörtes Haupt,\ndarin die Augenäpfel reiften. Aber\nsein Torso glüht noch wie ein Kandelaber,\nin dem sein Schauen, nur zurückgeschraubt,\n\nsich hält und glänzt. Sonst könnte nicht der Bug\nder Brust dich blenden, und im leisen Drehen\nder Lenden könnte nicht ein Lächeln gehen\nzu jener Mitte, die die Zeugung trug.\n\nSonst stünde dieser Stein entstellt und kurz\nunter der Schultern durchsichtigem Sturz\nund flimmerte nicht so wie Raubtierfelle;\n\nund bräche nicht aus allen seinen Rändern\naus wie ein Stern: denn da ist keine Stelle,\ndie dich nicht sieht. Du mußt dein Leben ändern.",
+      "provisionalTranslation": "われわれは彼の前代未聞の頭を知らなかった、\nその中で眼球が熟れていた。しかし\n彼のトルソはまだ燭台のように輝いている、\nその中で彼の眼差しが、ただ引き絞られて、\n\n自らを保ち輝く。さもなくば胸の\n船首はお前を眩まし得ないだろう、そして腰の\n静かな回転の中でお前に向かって微笑みが流れ得ないだろう\n生殖を担ったあの中心へと。\n\nさもなくばこの石は歪み短く立つだろう\n肩の透明な落下の下に\nそして肉食動物の毛皮のようには輝かないだろう；\n\nそして全ての縁から\n星のように爆発し出ないだろう：なぜならそこには一つの場所もない、\nお前を見ない場所は。お前は自分の生を変えなければならない。"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "Wir kannten nicht sein unerhörtes Haupt,\ndarin die Augenäpfel reiften. Aber\nsein Torso glüht noch wie ein Kandelaber,\nin dem sein Schauen, nur zurückgeschraubt,",
+      "body": "「われわれは彼の前代未聞の頭を知らなかった……しかし彼のトルソはまだ燭台のように輝いている、その中で彼の眼差しが、ただ引き絞られて」──冒頭の逆説的構造。「unerhörtes Haupt（前代未聞の頭）」──「unerhört」は第二部XXVIII「unerhörte Mitte（聴かれたことのない中心）」と同語根：頭部が「前代未聞」であるのは、それが「見られたことがない・経験されていない」という詩的な意味と、字義的に「われわれが知らない」という両義を持つ。「wie ein Kandelaber（燭台のように）」──燭台は「灯りを保持する器」：頭（灯り・光源）を欠いたトルソが「それ自体が燭台」として輝く。「nur zurückgeschraubt（ただ引き絞られて）」──「zurückschrauben（引き絞る・ねじ戻す）」：眼差しが外に向かわず内側に「引き絞られた」状態で保たれている──圧縮された見ることの力。ハイデガー「芸術作品の根源」における「大地（Erde）は自らを閉じながら世界を開示する」という命題の彫刻的体現：頭部という「開口部」を持たないトルソが「自らを閉じ（zurückgeschraubt）ながら」全体として輝く。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "glossary",
+      "anchor": "Sonst könnte nicht der Bug\nder Brust dich blenden, und im leisen Drehen\nder Lenden könnte nicht ein Lächeln gehen\nzu jener Mitte, die die Zeugung trug.",
+      "body": "「さもなくば胸の船首はお前を眩まし得ないだろう、そして腰の静かな回転の中でお前に向かって微笑みが流れ得ないだろう、生殖を担ったあの中心へと」──第二連の「Sonst（さもなくば）」の論理。「der Bug der Brust（胸の船首）」──「Bug（船首・前部）」という航海的比喩：胸が船首のように前方へと突き出る形象。「im leisen Drehen der Lenden（腰の静かな回転の中で）」──腰の微妙な捻りが「微笑み（Lächeln）」として流れる：表情でなく身体の姿勢が「微笑む」という擬人化。「jener Mitte, die die Zeugung trug（生殖を担ったあの中心）」──性的な「中心（Mitte）」への参照：トルソの中心が「生殖（Zeugung）」を担った場所として、生命力の集中点として機能する。リシャール『詩と深さ』はこの「Mitte（中心）」がリルケの詩における「密度の最大点（point de densité maximale）」として機能することを論じた──トルソの中心に生命力が圧縮され、そこから光が放射される。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "prosody",
+      "anchor": "Sonst stünde dieser Stein entstellt und kurz\nunter der Schultern durchsichtigem Sturz\nund flimmerte nicht so wie Raubtierfelle;\n\nund bräche nicht aus allen seinen Rändern\naus wie ein Stern: denn da ist keine Stelle,\ndie dich nicht sieht.",
+      "body": "「さもなくばこの石は歪み短く立つだろう……そして全ての縁から星のように爆発し出ないだろう：なぜならそこには一つの場所もない、お前を見ない場所は」──詩の転換点（第三・第四連）。「wie Raubtierfelle（肉食動物の毛皮のように）」──石の表面が「肉食動物の毛皮」として形象化される：光の動的な揺らめきが「野生の生命力」として提示される。「bräche nicht aus allen seinen Rändern / aus wie ein Stern（全ての縁から星のように爆発し出ないだろう）」──「縁（Ränder）」から光が爆発的に放射される：欠けた部分（頭・腕・脚の切断面）が「縁」として光を放出する。ブランショ『文学の空間』における「詩的イメージの放射性（rayonnement de l'image poétique）」──イメージは「中心から縁へ」でなく「縁から全方向に」放射する──という命題が、ここでは彫刻の光学的形象として体現される。「keine Stelle, die dich nicht sieht（お前を見ない場所はない）」──見ること（Sehen）の完全な逆転：眼を持たないトルソの「全ての場所」がお前を「見る（sieht）」。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "Du mußt dein Leben ändern.",
+      "body": "「お前は自分の生を変えなければならない（Du mußt dein Leben ändern）」──詩の最終行。20世紀ドイツ語詩で最も有名な詩行の一つ。「mußt（〜しなければならない）」という義務の様相動詞──「知る（wissen）」でも「したい（wollen）」でもなく「しなければならない（müssen）」という強制的必然性。「ändern（変える）」──「変容（Verwandlung）」という詩集全体の主題語の簡潔な命令形：生そのものを変容させることの要請。この一行が前の13行の「Sonst（さもなくば）」という論理的連鎖の外に、突然、独立した命令として現れることが詩的衝撃を生む──それまでの全体が「見られることの記述」であり、この最終行だけが「見られた者への命令」として向けられる。\n\nハイデガー「芸術作品の根源」においてこの詩は、芸術作品が「ただ美しいものとして受容されるのでなく、われわれを変容させる要求を持つ」という命題の詩的証拠として言及される。ハイデガーにとって「Du mußt dein Leben ändern」は「存在の要求（Anspruch des Seins）」の詩的表現──芸術は「美的体験（Erlebnis）」でなく「存在論的変容の要求」として到来する。\n\nブランショ『文学の空間』はこの詩行を「詩と読者の関係の逆転」として論じた：通常詩人が詩に「何かを要求する（exiger）」が、ここでは詩（トルソ）が読者に「変容を要求する」──「詩的イメージはわれわれを見る（l'image poétique nous regarde）」というブランショ的命題の詩的完結。\n\nリシャール『詩と深さ』はこの最終行を「詩の倫理的次元の突然の噴出（irruption soudaine de la dimension éthique）」として論じた：詩の前半が「感覚的・視覚的記述」であるのに対し、最終行は「道徳的命令」として噴出する──感覚的密度が倫理へと転化する瞬間として。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "intertextual",
+      "anchor": "denn da ist keine Stelle,\ndie dich nicht sieht. Du mußt dein Leben ändern.",
+      "body": "「なぜならそこには一つの場所もない、お前を見ない場所は。お前は自分の生を変えなければならない」──詩集『オルフェウスへのソネット』との連絡。「keine Stelle, die dich nicht sieht（お前を見ない場所はない）」──第二部XXVIII「unerhörte Mitte（聴かれたことのない中心）」との共鳴：どちらもオルフェウスの竪琴・アポロンのトルソという「芸術的形象」が「聴かれる・見られる」主体へと転換される。「Du mußt（お前は〜しなければならない）」──第二部XXIXの「Zu der stillen Erde sag: Ich rinne（静かな大地に語れ：私は流れる）」という命令形との対応：どちらも「お前（Du）」という二人称単数に向けた直接的命令として詩が閉じる。「die dich nicht sieht（お前を見ない）」──第8悲歌「Mit allen Augen sieht die Kreatur das Offene（すべての眼で被造物は開かれたものを見る）」との連続：動物が「開かれたものを見る」のに対し、トルソは「お前を見る」──人間を見る芸術という逆転。",
+      "targetId": "rilke_sonette_orpheus_2_06",
+      "targetParagraphId": 4
+    }
+  ]
+}
