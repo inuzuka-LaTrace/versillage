@@ -574,5 +574,6 @@ export default function FlashcardApp() {
 
         </div>
       </main>
+       </div>
   );
 }
