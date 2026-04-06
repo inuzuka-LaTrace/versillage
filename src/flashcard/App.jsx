@@ -361,16 +361,17 @@ export default function FlashcardApp() {
   // ════════════════════════════════════════════════════════════
   // ② カード学習画面
   // ════════════════════════════════════════════════════════════
-  const StudyView = ({ fc, darkMode }) => {
-  // 1. ローカルStateを定義（カーソル飛び・移動不能を防ぐ）
+ const StudyView = ({ fc, darkMode }) => {
+  // ✅ ローカルStateの初期値を fc.userInput || '' にする
+  // fc.userInput が undefined でも空文字で受けるようにします
   const [localInput, setLocalInput] = useState(fc.userInput || '');
 
-  // カード切り替え時にローカル入力をリセット
   useEffect(() => {
     setLocalInput(fc.userInput || '');
   }, [fc.index, fc.flipped]);
 
-  if (fc.cards.length === 0) return null;
+  // もし fc 自体が読み込まれていない場合のガード
+  if (!fc) return null;
 
   const currentCard = fc.cards[fc.index];
   const frontText = getCardFront(currentCard, fc.mode);
