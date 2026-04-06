@@ -1,0 +1,138 @@
+{
+  "id": "rilke_sonette_orpheus_2_05",
+  "title": "Die Sonette an Orpheus — Zweiter Teil, XXI–XXV",
+  "author": "Rainer Maria Rilke",
+  "source": "Die Sonette an Orpheus, Insel-Verlag, Leipzig, 1923（初版）. 底本: Rainer Maria Rilke: Werke. Kommentierte Ausgabe in vier Bänden, Bd. 1, Insel Verlag, Frankfurt am Main, 1996. テキスト照合: Wikisource DE (https://de.wikisource.org/wiki/Die_Sonette_an_Orpheus); Project Gutenberg DE",
+  "year": "1922",
+  "firstPublication": "草稿執筆：1922年2月15–23日、ミューゾット城（スイス）。初出版：Insel-Verlag, Leipzig, 1923年2月",
+  "difficulty": "上級",
+  "category": "rilke",
+  "originalLang": "de-DE",
+  "modernRelevance": "★★★★★",
+  "context": "第二部XXI–XXVは詩集の終盤に向かう群であり、「詩的使命の肯定」「存在の過剰」「時間の逆説」「大地と大胆な冒険」「早春」という主題が展開する。\n\nXXI「知られぬ庭園を歌え」──「ガラスに注ぎ込まれたように、明確で手の届かない庭園」を、実際に訪れたことがなくても歌え・讃えよという命令。イスファハン・シラーズというペルシアの地名が召喚される。「讃えるべき絨毯（rühmliche Teppich）」──詩集全体の「讃えること」の使命がここで「絨毯」として形象化される。第5悲歌の「失われた絨毯（verlorener Teppich im Weltall）」が「讃えるべき絨毯」として反転する。XXII「存在の過剰（Überschüsse des Daseins）」──公園・石像・鐘・カルナックの柱という記念碑的存在の形象。現代では過剰が「ただ速度として」走り去るが、「飛行の曲線は無駄でない──しかし思考としてのみ（nur wie gedacht）」という逆説的肯定。XXIII「抵抗する時間」──「引き離されたものがお前のものだ（So Entzognes ist am meisten dein）」という所有の逆説。「われわれは讃える時だけ公正だ（gerecht nur, wo wir dennoch preisen）」という詩的倫理の核心。「枝であり、鉄であり、熟れゆく危険の甘さ（das Süße reifender Gefahr）」という逆説的三連句。XXIV「緩んだ粘土（gelockerter Lehm）」──第14ソネット「粘土と髄（Lehm und Mark）」の「粘土」が再登場：「誰も最初の大胆な試みを助けなかった、それでも都市が生まれた、神々をわれわれが計画し運命が壊すが神々は不死である」。「われわれ、無限に冒険した者たちよ（wir unendlich Gewagten）」。XXV「早春」──詩集を締めくくる早春の情景。「それはいつもお前が希望した、しかし取ることがなかった──それがお前を取った（Es hat dich genommen）」という受動的な受け取りの逆説。「過ぎゆく時間はより若くなる（Jede Stunde, die hingeht, wird jünger）」という詩集全体を貫く「死と誕生の同時性」の最終的な定式化。",
+  "keywords": [
+    "知られぬ庭園を歌え",
+    "ガラスに注ぎ込まれた庭園",
+    "イスファハン・シラーズ",
+    "讃えるべき絨毯（rühmliche Teppich）",
+    "存在の過剰（Überschüsse des Daseins）",
+    "ただ思考としてのみ（nur wie gedacht）",
+    "引き離されたものがお前のもの",
+    "われわれは讃える時だけ公正",
+    "熟れゆく危険の甘さ",
+    "緩んだ粘土からの喜び（gelockerter Lehm）",
+    "無限に冒険した者たち",
+    "過ぎゆく時間はより若くなる（wird jünger）",
+    "第二部XXI–XXV"
+  ],
+  "relatedTexts": [
+    "rilke_sonette_orpheus_2_04",
+    "rilke_sonette_orpheus_2_06",
+    "rilke_sonette_orpheus_1_02",
+    "rilke_duineser_elegien_05",
+    "rilke_duineser_elegien_09",
+    "rilke_duineser_elegien_07"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "verses": "Zweiter Teil, XXI",
+      "original": "Singe die Gärten, mein Herz, die du nicht kennst; wie in Glas\neingegossene Gärten, klar, unerreichbar.\nWasser und Rosen von Ispahan oder Schiras,\nsinge sie selig, preise sie, keinem vergleichbar.\n\nZeige, mein Herz, daß du sie niemals entbehrst.\nDaß sie dich meinen, ihre reifenden Feigen.\nDaß du mit ihren, zwischen den blühenden Zweigen\nwie zum Gesicht gesteigerten Lüften verkehrst.\n\nMeide den Irrtum, daß es Entbehrungen gebe\nfür den geschehnen Entschluß, diesen: zu sein!\nSeidener Faden, kamst du hinein ins Gewebe.\n\nWelchem der Bilder du auch im Innern geeint bist\n(sei es selbst ein Moment aus dem Leben der Pein),\nfühl, daß der ganze, der rühmliche Teppich gemeint ist.",
+      "provisionalTranslation": "知らぬ庭園を歌え、私の心よ；ガラスに\n注ぎ込まれたように、明確で、手の届かない庭園を。\nイスファハンまたはシラーズの水と薔薇を、\n幸福に歌え、讃えよ、何にも比べられない。\n\n示せ、私の心よ、お前が彼女らを決して欠くことがないことを。\n彼女らの熟れゆくイチジクがお前を意味していることを。\nお前が彼女らの、咲く枝々の間で\n顔へと高まった空気たちと交わることを。\n\n誤りを避けよ、欠乏があると考えることを\n起きた決断に対して、この決断に：存在することに！\n絹の糸よ、お前は織物の中に入ってきた。\n\nお前が内側でいかなる形象に合一されているとしても\n（たとえ苦しみの生からの一瞬であっても）、\n全体の、讃えるべき絨毯が意味されていると感じよ。"
+    },
+    {
+      "id": 2,
+      "verses": "Zweiter Teil, XXII",
+      "original": "O trotz Schicksal: die herrlichen Überflüsse\nunseres Daseins, in Parken übergeschäumt, -\noder als steinerne Männer neben die Schlüsse\nhoher Portale, unter Balkone gebäumt!\n\nO die eherne Glocke, die ihre Keule\ntäglich wider den stumpfen Alltag hebt.\nOder die eine, in Karnak, die Säule,\ndie Säule, die fast ewige Tempel überlebt.\n\nHeute stürzen die Überschüsse, dieselben,\nnur noch als Eile vorbei, aus dem waagrechten gelben\nTag in die blendend mit Licht übertriebene Nacht.\n\nAber das Rasen zergeht und läßt keine Spuren.\nKurven des Flugs durch die Luft und die, die sie fuhren,\nkeine vielleicht ist umsonst. Doch nur wie gedacht.",
+      "provisionalTranslation": "おお運命にもかかわらず：われわれの現存在の\n壮麗な過剰が、公園で泡立ち溢れ──、\nあるいは石の男たちとして高い\n玄関口の終わりの傍らに、バルコニーの下に生えている！\n\nおお、日々その棍棒を\n鈍い日常に逆らって持ち上げる青銅の鐘よ。\nあるいは、カルナックの、あの一本の柱、\nほぼ永遠の神殿よりも長く生き残るその柱よ。\n\n今日、同じ過剰が、\nただ速度としてのみ走り去る、水平な黄色い\n昼から眩しく光で過剰な夜へと。\n\nしかし疾走は消えて跡を残さない。\n空気を通る飛行の曲線と、それを飛んだ者たちが、\nどれも無駄でないかもしれない。しかしただ思考としてのみ。"
+    },
+    {
+      "id": 3,
+      "verses": "Zweiter Teil, XXIII",
+      "original": "Rufe mich zu jener deiner Stunden,\ndie dir unaufhörlich widersteht:\nflehend nah wie das Gesicht von Hunden,\naber immer wieder weggedreht,\n\nwenn du meinst, sie endlich zu erfassen.\nSo Entzognes ist am meisten dein.\nWir sind frei. Wir wurden dort entlassen,\nwo wir meinten, erst begrüßt zu sein.\n\nBang verlangen wir nach einem Halte,\nwir zu Jungen manchmal für das Alte\nund zu alt für das, was niemals war.\n\nWir, gerecht nur, wo wir dennoch preisen,\nweil wir, ach, der Ast sind und das Eisen\nund das Süße reifender Gefahr.",
+      "provisionalTranslation": "お前に絶えず抵抗するお前の時間の一つへ\n私を呼べ：\n犬の顔のように懇願しながら近く、\nしかし何度も背を向けられ、\n\nお前がついにそれを掴めると思う時。\nそのように引き離されたものが最もお前のものだ。\nわれわれは自由だ。われわれはそこで解放された、\nそこで最初に迎えられると思っていた場所で。\n\n不安に、われわれは何か支えを求める、\nわれわれは時に古いものには若すぎ\nかつて存在しなかったものには老いすぎ。\n\nわれわれは、それでも讃える時だけ公正であり、\nなぜならわれわれは、ああ、枝であり鉄であり\n熟れゆく危険の甘さだから。"
+    },
+    {
+      "id": 4,
+      "verses": "Zweiter Teil, XXIV",
+      "original": "O diese Lust, immer neu, aus gelockertem Lehm!\nNiemand beinah hat den frühesten Wagern geholfen.\nStädte entstanden trotzdem an beseligten Golfen,\nWasser und Öl füllten die Krüge trotzdem.\n\nGötter, wir planen sie erst in erkühnten Entwürfen,\ndie uns das mürrische Schicksal wieder zerstört.\nAber sie sind die Unsterblichen. Sehet, wir dürfen\njenen erhorchen, der uns am Ende erhört.\n\nWir, ein Geschlecht durch Jahrtausende: Mütter und Väter,\nimmer erfüllter von dem künftigen Kind,\ndaß es uns einst, übersteigend, erschüttere, später.\n\nWir, wir unendlich Gewagten, was haben wir Zeit!\nUnd nur der schweigsame Tod, der weiß, was wir sind\nund was er immer gewinnt, wenn er uns leiht.",
+      "provisionalTranslation": "おおこの歓喜、常に新しく、緩んだ粘土から！\n最初の大胆な者たちをほとんど誰も助けなかった。\nそれでも幸いな湾に都市が生まれ、\n水と油が水差しをそれでも満たした。\n\n神々を、われわれはまず大胆な投企の中で計画する、\n気難しい運命がそれをまた壊すが。\nしかし彼らは不死なのだ。見よ、われわれは\nわれわれを最後に聴き届ける者に聴き耳を立てることが許される。\n\nわれわれ、幾千年を通じた一つの世代：母と父が、\n来たるべき子供に常に満たされながら、\nやがて子供がわれわれを超えてわれわれを揺さぶるように。\n\nわれわれ、われわれ無限に冒険した者たちよ、われわれには何という時間があることか！\nそして沈黙した死だけが、われわれが何者かを知り、\nわれわれを貸し与える時何を常に得るかを知っている。"
+    },
+    {
+      "id": 5,
+      "verses": "Zweiter Teil, XXV",
+      "original": "Schon, horch, hörst du der ersten Harken\nArbeit; wieder den menschlichen Takt\nin der verhaltenen Stille der starken\nVorfrühlingserde. Unabgeschmackt\n\nscheint dir das Kommende. Jenes so oft\ndir schon Gekommene scheint dir zu kommen\nwieder wie Neues. Immer erhofft,\nnahmst du es niemals. Es hat dich genommen.\n\nSelbst die Blätter durchwinterter Eichen\nscheinen im Abend ein künftiges Braun.\nManchmal geben sich Lüfte ein Zeichen.\n\nSchwarz sind die Sträucher. Doch Haufen von Dünger\nlagern als satteres Schwarz in den Aun.\nJede Stunde, die hingeht, wird jünger.",
+      "provisionalTranslation": "もうすぐ、聴け、最初の熊手の\n作業が聞こえる；再び人間のリズムが\n力強い早春の大地の\n抑えた静寂の中に。食傷せずに\n\n来たるものがお前に見える。そんなにも頻繁に\nもうお前のところに来たあれが、また来るように思える\n新しいもののように。いつも希望しながら、\nお前はそれを取ることがなかった。それがお前を取った。\n\n越冬した樫の葉でさえ\n夕暮れに未来の茶色を漂わせる。\n時に空気たちは互いに合図をする。\n\n茂みは黒い。しかし肥料の山が\n草地でより濃い黒として横たわっている。\n過ぎゆく時間は一時間ごとに若くなる。"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "Singe die Gärten, mein Herz, die du nicht kennst; wie in Glas\neingegossene Gärten, klar, unerreichbar.\nWasser und Rosen von Ispahan oder Schiras,\nsinge sie selig, preise sie, keinem vergleichbar.",
+      "body": "「知らぬ庭園を歌え、私の心よ；ガラスに注ぎ込まれたように、明確で、手の届かない庭園を。イスファハンまたはシラーズの水と薔薇を、幸福に歌え、讃えよ、何にも比べられない」──第二部XXI冒頭。「die du nicht kennst（お前が知らない）」──知らないことが歌うことの条件として提示される逆説：直接体験の外にある「知られぬ庭園」こそが詩的讃えの対象。「wie in Glas eingegossene Gärten（ガラスに注ぎ込まれたように）」──ガラスに封じ込められた庭：リシャール『詩と深さ』はリルケにおける「閉じた完全性（complétude close）」の形象を論じており、ガラスが「明確（klar）でありながら手の届かない（unerreichbar）」という矛盾を体現する。「Ispahan oder Schiras（イスファハンまたはシラーズ）」──ペルシアの都市：リルケが直接訪れることなく知ったペルシア詩（ハーフィズ等）の風土。「知らないことで讃える」という第二部XXIの詩的命令は、第9悲歌「物を言うこと」の存在論的拡張──直接経験を超えた「讃えること」の可能性──として機能する。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "prosody",
+      "anchor": "Meide den Irrtum, daß es Entbehrungen gebe\nfür den geschehnen Entschluß, diesen: zu sein!\nSeidener Faden, kamst du hinein ins Gewebe.\n\nWelchem der Bilder du auch im Innern geeint bist\n(sei es selbst ein Moment aus dem Leben der Pein),\nfühl, daß der ganze, der rühmliche Teppich gemeint ist.",
+      "body": "第二部XXI最終6行──「讃えるべき絨毯（rühmliche Teppich）」。「Meide den Irrtum, daß es Entbehrungen gebe / für den geschehnen Entschluß, diesen: zu sein（欠乏があると考える誤りを避けよ、起きた決断に対して、この決断に：存在することに！）」──「zu sein（存在すること）」という不定詞が独立して置かれ、コロン「:」による強調。「存在することへの決断」は一度起きたら、それに対する「欠乏（Entbehrung）」はない。ハイデガー「先駆的決意性（vorlaufende Entschlossenheit）」──決意した存在には「欠乏」は論理的に不可能──との共鳴。「Seidener Faden, kamst du hinein ins Gewebe（絹の糸よ、お前は織物の中に入ってきた）」──第5悲歌「絨毯（Teppich）」との連続：存在することは織物の中の一本の絹の糸として定義される。「der ganze, der rühmliche Teppich gemeint ist（全体の、讃えるべき絨毯が意味されていると感じよ）」──第5悲歌「失われた絨毯（verlorener Teppich im Weltall）」が「讃えるべき絨毯（rühmliche Teppich）」として転換：第二部XXIで詩集全体の「失われた」絨毯が「讃えるべき」ものとして回収される。",
+      "targetId": "rilke_duineser_elegien_05",
+      "targetParagraphId": 1
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "O trotz Schicksal: die herrlichen Überflüsse\nunseres Daseins",
+      "body": "「おお運命にもかかわらず：われわれの現存在の壮麗な過剰」──第二部XXII冒頭。「trotz Schicksal（運命にもかかわらず）」──逆接の強さ：運命の抵抗にもかかわらず「現存在の過剰（Überschüsse des Daseins）」が存在する。「Überflüsse・Überschüsse（過剰・余剰）」──「溢れること」がリルケの詩的価値の核心：第一部IVの「Aber die Lüfte … aber die Räume（しかし空気……しかし空間）」という省略された過剰、第一部XXIの「sie singts, sie singts（彼女は歌う、彼女は歌う）」という大地の溢れと連続する。公園・石像・鐘・カルナックの柱という記念碑的形象は第7悲歌「柱・ピロン・スフィンクス・シャルトル」の系列として、人間の過剰な建築的達成を示す。ハイデガー「芸術作品の根源」における「大地と世界の闘争」──芸術作品は「存在の過剰」として「世界」を開示する──との対応。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "intertextual",
+      "anchor": "Kurven des Flugs durch die Luft und die, die sie fuhren,\nkeine vielleicht ist umsonst. Doch nur wie gedacht.",
+      "body": "「空気を通る飛行の曲線と、それを飛んだ者たちが、どれも無駄でないかもしれない。しかしただ思考としてのみ（nur wie gedacht）」──第二部XXII最終二行。「keine vielleicht ist umsonst（どれも無駄でないかもしれない）」──「vielleicht（かもしれない）」という留保と「keine…umsonst（無駄でない）」の肯定が共存。「Doch nur wie gedacht（しかしただ思考としてのみ）」──飛行の曲線は「思考（Gedanken）としてのみ」永続する：物理的痕跡は消えるが思考・詩的形象として残る。第一部XXIII「reines Wohin（純粋な方向）のためになる飛行」との連続──速度文明批判と飛行の詩的救済の緊張。ブランショ『文学の空間』における「詩的形象の永続性（persistance de l'image poétique）」──詩は「思考の形式で」現実を保存する──という命題が「nur wie gedacht」という最終的留保に凝縮される。",
+      "targetId": "rilke_sonette_orpheus_1_04",
+      "targetParagraphId": 3
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "So Entzognes ist am meisten dein.\nWir sind frei. Wir wurden dort entlassen,\nwo wir meinten, erst begrüßt zu sein.",
+      "body": "「そのように引き離されたものが最もお前のものだ。われわれは自由だ。われわれはそこで解放された、そこで最初に迎えられると思っていた場所で」──第二部XXIII第二連。「So Entzognes ist am meisten dein（引き離されたものが最もお前のものだ）」──「entzogen（引き離された）」という受動態：到達できないもの・手の届かないものが「最も（am meisten）」自分のものという逆転。「Wir sind frei. Wir wurden dort entlassen, / wo wir meinten, erst begrüßt zu sein（われわれは自由だ。われわれはそこで解放された、最初に迎えられると思っていた場所で）」──自由は「迎えられた場所からの解放（Entlassung）」として定義される逆説：「歓迎（Begrüßung）」と「解放（Entlassung）」が同一の場所で起きる。ハイデガー「被投性（Geworfenheit）」──われわれは「どこへ」でなく「そこに」投げ込まれ、その「投げ込まれた場所」が「存在の自由」の根拠となる──という思想的構造との対話。"
+    },
+    {
+      "paragraphId": 3,
+      "type": "intertextual",
+      "anchor": "Wir, gerecht nur, wo wir dennoch preisen,\nweil wir, ach, der Ast sind und das Eisen\nund das Süße reifender Gefahr.",
+      "body": "「われわれは、それでも讃える時だけ公正であり、なぜならわれわれは、ああ、枝であり鉄であり、熟れゆく危険の甘さだから」──第二部XXIII最終三行。詩集全体の「讃えること（preisen/rühmen）」の倫理的定式化。「gerecht nur, wo wir dennoch preisen（讃える時だけ公正）」──正義・公正（Gerechtigkeit）の条件が「讃えること」として定義される：法的・道徳的正義でなく「讃えること」こそが人間の「公正」な様式。「der Ast sind und das Eisen（枝であり鉄である）」──有機的なもの（枝）と無機的なもの（鉄）の並置：人間は自然と技術の「交差点」として定義される。「Süße reifender Gefahr（熟れゆく危険の甘さ）」──「危険が熟れる（reifen）」という動詞：危険が果実のように熟れ、その熟れの過程に「甘さ（Süße）」がある。第一部XIIIの「果実三部作」における「熟れること」と「危険」の連続。ブランショが論じる「文学の危険（danger de la littérature）」──文学は常に危険を伴うが、その危険の中に文学の「甘さ（douceur）」がある──との共鳴。",
+      "targetId": "rilke_sonette_orpheus_1_03",
+      "targetParagraphId": 3
+    },
+    {
+      "paragraphId": 4,
+      "type": "commentary",
+      "anchor": "O diese Lust, immer neu, aus gelockertem Lehm!\nNiemand beinah hat den frühesten Wagern geholfen.\nStädte entstanden trotzdem an beseligten Golfen,\nWasser und Öl füllten die Krüge trotzdem.",
+      "body": "「おおこの歓喜、常に新しく、緩んだ粘土から！最初の大胆な者たちをほとんど誰も助けなかった。それでも幸いな湾に都市が生まれ、水と油が水差しをそれでも満たした」──第二部XXIV冒頭。「gelockertem Lehm（緩んだ粘土）」──第一部XIV「den Lehm mit ihrem freien Marke zu durchmärken（自らの自由な髄で粘土を満たす）」との連続：死者の髄で満たされた粘土が「緩んで（gelockert）」新しい創造の源となる。「trotzdem（それでも）」の三重反復──「助けなかったにもかかわらず、それでも都市が生まれた、それでも水差しが満たされた」：「それでも（dennoch/trotzdem）」はリルケの詩的倫理の核心語として詩集全体に貫かれる（第二部IIの「dennoch preisendem Laut」等）。ハイデガー「大地（Erde）」──大地は「助けなくても」豊かさを生む自律的な与える力──との対応。"
+    },
+    {
+      "paragraphId": 4,
+      "type": "intertextual",
+      "anchor": "Götter, wir planen sie erst in erkühnten Entwürfen,\ndie uns das mürrische Schicksal wieder zerstört.\nAber sie sind die Unsterblichen.\n\nWir, wir unendlich Gewagten, was haben wir Zeit!\nUnd nur der schweigsame Tod, der weiß, was wir sind\nund was er immer gewinnt, wenn er uns leiht.",
+      "body": "「神々を、われわれはまず大胆な投企の中で計画する……しかし彼らは不死なのだ。……われわれ無限に冒険した者たちよ、われわれには何という時間があることか！そして沈黙した死だけが、われわれを貸し与える時何を常に得るかを知っている」──ハイデガー「詩人とは何か」における「神々の欠如の時代（die Zeit der Götter-Not）」の詩的形象と対話する。「erkühnte Entwürfen（大胆な投企）」──「Entwurf（投企）」はハイデガー「現存在の投企（Entwurf）」と同根：神々の計画が「投企（Entwurf）」として示されることで、詩的・存在論的次元が交差する。「schweigsame Tod（沈黙した死）」──第二部IXの「Schweigende（沈黙した乞食）」・第一部Xの「石棺が沈黙を知っていた」と連続する「沈黙の死」の系列。「wenn er uns leiht（われわれを貸し与える時）」──「貸し与える（leihen）」：生は死によって「貸し与えられた」もの──われわれは生命の所有者でなく借り手として定義される。ブランショ「文学と死への権利」における「生は死によって可能になる」という逆説的命題との共鳴。",
+      "targetId": "rilke_duineser_elegien_09",
+      "targetParagraphId": 5
+    },
+    {
+      "paragraphId": 5,
+      "type": "commentary",
+      "anchor": "Immer erhofft,\nnahmst du es niemals. Es hat dich genommen.",
+      "body": "「いつも希望しながら、お前はそれを取ることがなかった。それがお前を取った（Es hat dich genommen）」──第二部XXV第二連の核心。「nahmst du es niemals（お前はそれを取ることがなかった）」──人間が春・来たるもの・新しいものを「取る（nehmen）」ことはない。「Es hat dich genommen（それがお前を取った）」──主語と客語の逆転：人間が春を「取る」のでなく、春が人間を「取る」。この受動的受け取りの逆転は詩集全体を貫く「能動と受動の逆転」──第二部Vの「われわれはいつ開いた受容者（Empfänger）となるか」という問いへの応答。リシャール『詩と深さ』における「リルケの受動性（passivité rilkéenne）」──リルケにおける真の経験は「する（tun）」ことでなく「される（werden）」ことである──という分析の詩的完結。"
+    },
+    {
+      "paragraphId": 5,
+      "type": "prosody",
+      "anchor": "Schwarz sind die Sträucher. Doch Haufen von Dünger\nlagern als satteres Schwarz in den Aun.\nJede Stunde, die hingeht, wird jünger.",
+      "body": "第二部XXV最終三行──「過ぎゆく時間はより若くなる（Jede Stunde, die hingeht, wird jünger）」。詩集全体の結末に向かう三行として機能する。「Schwarz sind die Sträucher. Doch Haufen von Dünger / lagern als satteres Schwarz（茂みは黒い。しかし肥料の山が、より濃い黒として横たわっている）」──二種類の「黒」の対比：茂みの「黒」と肥料の「より濃い黒（satteres Schwarz）」。「satt（豊か・濃い・満ちた）」という形容詞が「豊かさ・充実」を含む──肥料は「豊かな黒」として早春の大地に充満する。「Jede Stunde, die hingeht, wird jünger（過ぎゆく時間は一時間ごとに若くなる）」──詩集全体を貫く「死と誕生の同時性」の最終的形象。時間は「過ぎゆく（hingeht）」ことで「古くなる」のでなく「より若くなる（jünger）」：第二部XIIの「Wolle die Wandlung（変容を欲せよ）」・第二部XIIIの「Sei allem Abschied voran（全ての別れに先んじよ）」という倫理的命令が、ここでは自然現象として──早春の時間の若返りとして──体現される。ブランショ「来たるべき書物」における「詩の時間は逆行する（le temps de la poésie est régressif）」──詩は「より原初的な時間」へと向かう──という命題が、「jünger（より若い）」という比較級の最終語として詩的に結晶する。"
+    }
+  ]
+}
