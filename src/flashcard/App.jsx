@@ -370,7 +370,9 @@ export default function FlashcardApp() {
     setLocalInput(fc?.userInput || '');
   }, [fc?.index, fc?.flipped]);
 
-  if (!fc || fc.cards.length === 0) return null;
+  if (!fc || !fc.cards || fc.cards.length === 0) {
+    return <div className="text-center p-10 opacity-50">Loading session...</div>;
+  }
 
   const currentCard = fc.cards[fc.index];
   const frontText = getCardFront(currentCard, fc.mode);
