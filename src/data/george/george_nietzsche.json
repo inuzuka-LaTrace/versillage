@@ -37,19 +37,19 @@
       "id": 2,
       "verses": "v.9-14",
       "original": "Blöd trabt die menge drunten · scheucht sie nicht!\nWas wäre stich der qualle · schnitt dem kraut!\nNoch eine weile walte fromme stille\nUnd das getier das ihn mit lob befleckt\nUnd sich im moderdunste weiter mästet\nDer ihn erwürgen half sei erst verendet!",
-      "provisionalTranslation": "下では愚かな群衆が小走りに行く──追い払うな！\nクラゲの刺しが何だというのか、草を切るのに！\nしばらくのあいだ敬虔な静寂よ支配せよ──\n賛辞で彼を汚した獣どもが、\n腐臭の霞の中でさらに肥え太りながら\n彼を絞め殺すのを助けた者どもが、先に死に絶えるまで！"
+      "provisionalTranslation": "下では愚かな群衆が小走りに行く──追い払うな！\n海月の一刺しが何だと云うのか───草葉の擦り傷にすぎぬ！\n暫くの間、敬虔なる静寂よ支配せよ──\n賛辞で彼を汚した獣どもが、\n腐臭の霞の中でさらに肥え太りながら\n彼を絞め殺すのを助けた者どもが、先に死に絶えるまで！"
     },
     {
       "id": 3,
       "verses": "v.15-24",
       "original": "Dann aber stehst du strahlend vor den zeiten\nWie andre führer mit der blutigen krone.\nErlöser du! selbst der unseligste –\nBeladen mit der wucht von welchen losen\nHast du der sehnsucht land nie lächeln sehn?\nErschufst du götter nur um sie zu stürzen\nNie einer rast und eines baues froh?\nDu hast das nächste in dir selbst getötet\nUm neu begehrend dann ihm nachzuzittern\nUnd aufzuschrein im schmerz der einsamkeit.",
-      "provisionalTranslation": "しかしそのとき、あなたは時代の前に輝かしく立つだろう\nほかの指導者たちのように、血の冠をいただいて。\n救済者よ、あなた自身が最も不幸な者──\nどんな骰子の重みを背負いながら、\n憧れの国が微笑むのをあなたは一度も見なかったのか？\n神々を作ったのはただ打ち倒すためだけだったのか、\nひとつの休息にも、ひとつの建造物の喜びにも恵まれず？\nあなたはもっとも近しいものを自分の中で殺しておきながら、\n新たに求めてはそのあとをあとずさりしながら追い、\n孤独の痛みの中で叫び声をあげたのだ。"
+      "provisionalTranslation": "しかしそのとき、あなたは時代の前に輝かしく立つだろう\n他の統帥者たちのように、血濡れの冠をいただいて。\n救済者よ、あなた自身が最も不幸な者──\nどんな骰子の重みを背負いながら、\n憧れの国が微笑むのをあなたは一度も見なかったのか？\n神々を創り給うたのはただ打ち倒す為だけであったのか、\nひとつの休息にも、ひとつの構築の安寧にも与ることなく？\nあなたはもっとも近しいものを自分の中で殺しておきながら、\n新たに求めてはその後をあとずさりしながら追い、\n孤独の痛みの中で叫び声をあげたのだ。"
     },
     {
       "id": 4,
       "verses": "v.25-32",
       "original": "Der kam zu spät der flehend zu dir sagte:\nDort ist kein weg mehr über eisige felsen\nUnd horste grauser vögel – nun ist not:\nSich bannen in den kreis den liebe schliesst ..\nUnd wenn die strenge und gequälte stimme\nDann wie ein loblied tönt in blaue nacht\nUnd helle flut – so klagt: sie hätte singen\nNicht reden sollen diese neue seele!",
-      "provisionalTranslation": "遅きに失した者は、哀願してあなたに言った：\nもうそこには氷の崖の上に道はない、\n灰色の鳥たちの巣もない──いまこそ必要なのは：\n愛が閉じる円の中に自らを縛ること……\nそしてあの厳しくて責め苦にある声が\n青い夜と明るい波の中へと\n讃歌のように鳴り響くとき──こう嘆かれる：歌うべきであったのに、\n語ってしまったのだ、この新しい魂は！"
+      "provisionalTranslation": "遅きに失した者は、哀願してあなたに言った：\nもうそこには、氷の崖の上に道は無い、\n灰色の鳥たちの巣も無い──いまこそ必要なのは：\n愛が閉じる円の中に自らを縛ること……\nそしてあの厳しくて責め苦にある声が\n青い夜と明るい波の中へと\n讃歌のように鳴り響くとき──こう嘆かれる：歌うべきであったのに、\n語ってしまったのだ、この新しい魂は！"
     }
   ],
   "annotations": [
@@ -87,7 +87,7 @@
       "paragraphId": 2,
       "type": "prosody",
       "anchor": "Was wäre stich der qualle · schnitt dem kraut!",
-      "body": "クラゲの刺しと草の刈り込み──二重の比喩による反語。クラゲ（群衆）の攻撃は雷鳴者には届かず、草（俗論）を払うことも無意味。中黒点「·」で二つの比喩が並置される。"
+      "body": "海月の一刺しと草葉の擦り傷──二重の比喩による反語。海月（群衆）の攻撃は雷鳴者には届かず、草葉が創る擦り傷（俗論）も無意味。中黒点「·」で二つの比喩が並置される。"
     },
     {
       "paragraphId": 3,
@@ -99,7 +99,7 @@
       "paragraphId": 3,
       "type": "commentary",
       "anchor": "Erschufst du götter nur um sie zu stürzen\nNie einer rast und eines baues froh?",
-      "body": "ニーチェ思想の「神の死」（『悦ばしき知識』§125, 1882）と価値の永続的転換を指す。ショーペンハウアー讃美→批判、ワーグナー崇拝→決別など、ニーチェが自らの師・偶像を次々と打ち倒した歴史的事実と重なる。"
+      "body": "ニーチェ思想の「神の死」（『悦ばしき知識』§125, 1882）と価値の永続的転換を指す。ショーペンハウアー讃美→批判、ワーグナー崇拝→決別など、ニーチェが自らの師・偶像を次々に構築しては打ち倒してきた歴史的事実と重なる。"
     },
     {
       "paragraphId": 3,
