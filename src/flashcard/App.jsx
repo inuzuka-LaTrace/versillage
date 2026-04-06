@@ -470,6 +470,45 @@ export default function FlashcardApp() {
     </div>
   );
 };
+  // ── 結果表示ビュー (StatsView) ─────────────────────────────────
+const StatsView = ({ fc, darkMode }) => {
+  const textMain = darkMode ? 'text-stone-200' : 'text-stone-900';
+  const textSub  = darkMode ? 'text-stone-500' : 'text-stone-400';
+
+  return (
+    <div className="flex flex-col items-center justify-center h-full max-w-md mx-auto p-8 space-y-8 animate-in fade-in duration-1000">
+      <div className="text-center space-y-2">
+        <h2 className={`font-Cinzel text-2xl tracking-widest ${textMain}`}>SESSION FINISHED</h2>
+        <p className={`font-serif italic ${textSub}`}>空虚のなかに、新たな記憶の墓碑を。</p>
+      </div>
+
+      <div className={`w-full p-6 rounded-2xl border ${darkMode ? 'bg-zinc-900 border-zinc-800' : 'bg-white border-stone-200'}`}>
+        <div className="flex justify-around text-center">
+          <div>
+            <p className={`text-[10px] uppercase tracking-tighter ${textSub} mb-1`}>Good</p>
+            <p className={`text-2xl font-serif text-emerald-500`}>{Object.values(fc.sessionResult).filter(v => v === 'good').length}</p>
+          </div>
+          <div className="w-px h-10 bg-stone-500/20 self-center"></div>
+          <div>
+            <p className={`text-[10px] uppercase tracking-tighter ${textSub} mb-1`}>Again</p>
+            <p className={`text-2xl font-serif text-red-500`}>{Object.values(fc.sessionResult).filter(v => v === 'again').length}</p>
+          </div>
+        </div>
+      </div>
+
+      <button
+        onClick={fc.resetSession}
+        className={`w-full py-4 rounded-full border font-sans text-xs tracking-[0.3em] transition-all ${
+          darkMode 
+            ? 'border-zinc-700 text-stone-400 hover:bg-zinc-800 hover:text-stone-200' 
+            : 'border-stone-200 text-stone-600 hover:bg-stone-50 hover:text-stone-900'
+        }`}
+      >
+        RETURN TO SCHOLA
+      </button>
+    </div>
+  );
+};
   // ════════════════════════════════════════════════════════════
   // ③ 終了サマリー
   // ════════════════════════════════════════════════════════════
