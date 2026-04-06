@@ -1,0 +1,120 @@
+{
+  "id": "rilke_sonette_orpheus_2_06",
+  "title": "Die Sonette an Orpheus — Zweiter Teil, XXVI–XXIX",
+  "author": "Rainer Maria Rilke",
+  "source": "Die Sonette an Orpheus, Insel-Verlag, Leipzig, 1923（初版）. 底本: Rainer Maria Rilke: Werke. Kommentierte Ausgabe in vier Bänden, Bd. 1, Insel Verlag, Frankfurt am Main, 1996. テキスト照合: Wikisource DE (https://de.wikisource.org/wiki/Die_Sonette_an_Orpheus); Project Gutenberg DE",
+  "year": "1922",
+  "firstPublication": "草稿執筆：1922年2月15–23日、ミューゾット城（スイス）。初出版：Insel-Verlag, Leipzig, 1923年2月",
+  "difficulty": "上級",
+  "category": "rilke",
+  "originalLang": "de-DE",
+  "modernRelevance": "★★★★★",
+  "context": "第二部XXVI–XXIXは『オルフェウスへのソネット』全55篇の終章。詩集全体の主題的弧が完結する。\n\nXXVI「鳥の叫びと子供の叫び」──「鳥の叫びはいかにわれわれを捉えるか」という問いから始まり、子供の「叫び（Schreien）」が「本物の叫びを通り越す（vorbei）」という診断、「歌う神よ、叫ぶ者たちを秩序立てよ（Ordne die Schreier, singender Gott!）」という呼びかけで終わる──第一部Iの「耳の中の神殿」への回帰。XXVII「時間の問い」──「破壊する時間は本当に存在するか」という形而上学的問い。「幽霊のような無常は、無防備な受容的な者の中を、煙のように通り過ぎる（wie wär es ein Rauch）」。「われわれは留まる力において神的な慣用（göttlicher Brauch）として通じる」という肯定的結論。XXVIII「ウェラへの最後の呼びかけ」──「来て、去れ。ほとんどまだ子供よ」という二重命令で始まる。踊りの形象が「純粋な星座（reines Sternbild）」を補完する。第二部Iの「オルフェウスが歌った時だけ自然は完全に聴いた（sich völlig hörend nur, da Orpheus sang）」。「聴かれたことのない中心（unerhörte Mitte）」──ウェラが感じていた竪琴の場所。XXIX「詩集の結末」──「多くの遠さの静かな友よ（Stiller Freund der vielen Fernen）」という呼びかけで始まる。「お前の呼吸がまだ空間を増やすと感じよ」。「飲むことが苦いなら、ワインになれ（Ist dir Trinken bitter, werde Wein）」。「感覚の十字路の魔法の力（Zauberkraft am Kreuzweg deiner Sinne）」。最終二行：「大地に：私は流れる（Ich rinne）と語れ。急ぐ水に：私は在る（Ich bin）と語れ」──詩集の存在論的締め括り。\n\n詩集全体の主題的完結：第一部Iの「耳の中の神殿」から第二部XXIXの「私は流れる・私は在る」まで、「聴くこと」と「存在すること」の弧が完成する。第一部IXの「Doppelbereich（二重の領域）」が第二部XXIXの「大地と水」という二重の語りかけとして実現される。",
+  "keywords": [
+    "鳥の叫び（Vogelschrei）",
+    "叫ぶ者たちを秩序立てよ（Ordne die Schreier）",
+    "破壊する時間は本当に存在するか",
+    "神的な慣用（göttlicher Brauch）",
+    "ウェラへの最後の呼びかけ",
+    "純粋な星座（reines Sternbild）",
+    "聴かれたことのない中心（unerhörte Mitte）",
+    "多くの遠さの静かな友",
+    "飲むことが苦いならワインになれ",
+    "感覚の十字路（Kreuzweg der Sinne）",
+    "私は流れる（Ich rinne）",
+    "私は在る（Ich bin）",
+    "第二部XXVI–XXIX"
+  ],
+  "relatedTexts": [
+    "rilke_sonette_orpheus_2_05",
+    "rilke_sonette_orpheus_1_01",
+    "rilke_sonette_orpheus_1_02",
+    "rilke_sonette_orpheus_1_05",
+    "rilke_duineser_elegien_09",
+    "rilke_duineser_elegien_10"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "verses": "Zweiter Teil, XXVI",
+      "original": "Wie ergreift uns der Vogelschrei...\nIrgend ein einmal erschaffenes Schreien.\nAber die Kinder schon, spielend im Freien,\nschreien an wirklichen Schreien vorbei.\n\nSchreien den Zufall. In Zwischenräume\ndieses, des Weltraums, (in welchen der heile\nVogelschrei eingeht, wie Menschen in Träume - )\ntreiben sie ihre, des Kreischens, Keile.\n\nWehe, wo sind wir? Immer noch freier,\nwie die losgerissenen Drachen\njagen wir halbhoch, mit Rändern von Lachen,\n\nwindig zerfetzten. - Ordne die Schreier,\nsingender Gott! daß sie rauschend erwachen,\ntragend als Strömung das Haupt und die Leier.",
+      "provisionalTranslation": "いかに鳥の叫びがわれわれを捉えることか……\nいつかどこかで作られた叫び。\nしかし子供たちはもう、外で遊びながら、\n本物の叫びの傍らで叫ぶ。\n\n偶然を叫ぶ。この宇宙空間の空隙の中へ、\n（その中に健全な鳥の叫びが入り込む、\n人が夢の中に入るように──）\n彼らは自分の金切り声の楔を打ち込む。\n\nああ、われわれはどこにいるか？ますます自由に、\n引きちぎられた凧のように\nわれわれは中間の高さで疾走する、笑いの縁と、\n\n風に引き裂かれた。──叫ぶ者たちを秩序立てよ、\n歌う神よ！彼らが轟きながら目覚めるように、\n流れとして頭と竪琴を担いながら。"
+    },
+    {
+      "id": 2,
+      "verses": "Zweiter Teil, XXVII",
+      "original": "Giebt es wirklich die Zeit, die zerstörende?\nWann, auf dem ruhenden Berg, zerbricht sie die Burg?\nDieses Herz, das unendlich den Göttern gehörende,\nwann vergewaltigts der Demiurg?\n\nSind wir wirklich so ängstlich Zerbrechliche,\nwie das Schicksal uns wahr machen will?\nIst die Kindheit, die tiefe, versprechliche,\nin den Wurzeln - später - still?\n\nAch, das Gespenst des Vergänglichen,\ndurch den arglos Empfänglichen\ngeht es, als wär es ein Rauch.\n\nAls die, die wir sind, als die Treibenden,\ngelten wir doch bei bleibenden\nKräften als göttlicher Brauch.",
+      "provisionalTranslation": "本当に破壊する時間は存在するのか？\nいつ、憩う山の上で、それは城を砕くのか？\nこの心は、神々に無限に属するこの心は、\nいつデミウルゴスが暴力を振るうのか？\n\nわれわれは本当に、運命がわれわれに信じさせようとするほど、\n不安に壊れやすいのか？\n深い、約束に満ちた子供時代は、\n根の中で──後に──静まるのか？\n\nああ、無常の幻影は、\n無防備な受容的な者を通して\n煙であるかのように通り過ぎる。\n\nわれわれが何者であるかとして、急く者として、\nわれわれは留まる力において\n神的な慣用として通じる。"
+    },
+    {
+      "id": 3,
+      "verses": "Zweiter Teil, XXVIII",
+      "original": "O komm und geh. Du, fast noch Kind, ergänze\nfür einen Augenblick die Tanzfigur\nzum reinen Sternbild einer jener Tänze,\ndarin wir die dumpf ordnende Natur\n\nvergänglich übertreffen. Denn sie regte\nsich völlig hörend nur, da Orpheus sang.\nDu warst noch die von damals her Bewegte\nund leicht befremdet, wenn ein Baum sich lang\n\nbesann, mit dir nach dem Gehör zu gehn.\nDu wußtest noch die Stelle, wo die Leier\nsich tönend hob -; die unerhörte Mitte.\n\nFür sie versuchtest du die schönen Schritte\nund hofftest, einmal zu der heilen Feier\ndes Freundes Gang und Antlitz hinzudrehn.",
+      "provisionalTranslation": "おお来て、去れ。お前、ほとんどまだ子供よ、補え\n一瞬のために踊りの形象を\nあれらの踊りの一つの純粋な星座へと、\nその中でわれわれは鈍く秩序立てる自然を\n\n儚く凌駕する。なぜなら自然はただ\nオルフェウスが歌った時だけ、完全に聴きながら動いたから。\nお前はまだあの時から動かされた者だった\nそして軽く戸惑っていた、樹が長い間\n\n考えた時に、お前とともに聴覚に従って歩くことを。\nお前はまだ竪琴が\n音を鳴らしながら持ち上げられた場所を知っていた──；聴かれたことのない中心を。\n\nそれのためにお前は美しい歩みを試みた\nそしていつか友の\n歩みと顔の傍らに癒しの祝いに加わることを希望した。"
+    },
+    {
+      "id": 4,
+      "verses": "Zweiter Teil, XXIX",
+      "original": "Stiller Freund der vielen Fernen, fühle,\nwie dein Atem noch den Raum vermehrt.\nIm Gebälk der finstern Glockenstühle\nlaß dich läuten. Das, was an dir zehrt,\n\nwird ein Starkes über dieser Nahrung.\nGeh in der Verwandlung aus und ein.\nWas ist deine leidendste Erfahrung?\nIst dir Trinken bitter, werde Wein.\n\nSei in dieser Nacht aus Übermaß\nZauberkraft am Kreuzweg deiner Sinne,\nihrer seltsamen Begegnung Sinn.\n\nUnd wenn dich das Irdische vergaß,\nzu der stillen Erde sag: Ich rinne.\nZu dem raschen Wasser sprich: Ich bin.",
+      "provisionalTranslation": "多くの遠さの静かな友よ、感じよ、\nお前の呼吸がまだ空間を増やすことを。\n暗い鐘楼の梁組みの中で\n自らを鳴らさせよ。お前を侵食するものが、\n\nこの糧の上で一つの力強いものになる。\n変容の中を出入りせよ。\nお前の最も苦しみに満ちた経験は何か？\n飲むことがお前にとって苦ければ、ワインになれ。\n\nこの夜に、過剰から\nお前の感覚の十字路での魔法の力になれ、\nそれらの奇妙な出会いの意味になれ。\n\nそして地上的なものがお前を忘れたなら、\n静かな大地に語れ：私は流れる。\n急ぐ水に語れ：私は在る。"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "Wie ergreift uns der Vogelschrei...\nIrgend ein einmal erschaffenes Schreien.\nAber die Kinder schon, spielend im Freien,\nschreien an wirklichen Schreien vorbei.",
+      "body": "「いかに鳥の叫びがわれわれを捉えることか……いつかどこかで作られた叫び。しかし子供たちはもう、外で遊びながら、本物の叫びの傍らで叫ぶ」──第二部XXVI冒頭。「einmal erschaffenes Schreien（いつかどこかで作られた叫び）」──鳥の叫びは「一度（einmal）作られた」原初の声として提示される：創造の一回性。「schreien an wirklichen Schreien vorbei（本物の叫びの傍らで叫ぶ）」──「vorbei（傍らで・を通り越して）」：子供の叫びは「本物の叫び（wirklichen Schreien）」を「通り越す（vorbei）」──本物に触れずに隣を通る。第一部Xの石棺「沈黙の意味を知っていた」・第二部IXの「沈黙した本能」と連続して「本物の声」への接触不可能性が問われる。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "intertextual",
+      "anchor": "Ordne die Schreier,\nsingender Gott! daß sie rauschend erwachen,\ntragend als Strömung das Haupt und die Leier.",
+      "body": "「叫ぶ者たちを秩序立てよ、歌う神よ！彼らが轟きながら目覚めるように、流れとして頭と竪琴を担いながら」──詩集全体への呼びかけとして機能する第二部XXVI最終三行。「singender Gott（歌う神）」──第一部XXVI「Du aber, Göttlicher, du, bis zuletzt noch Ertöner（しかしお前は、神聖な者よ、最後まで音を鳴らし続ける者）」への対称的回帰：第一部の結末で「失われた神（verlorener Gott）」と呼ばれたオルフェウスが、第二部の終盤で「歌う神（singender Gott）」として呼び返される。「rauschend erwachen（轟きながら目覚める）」──「rauschen（轟く）」は第一部XXVIの「aufrauschenden Welt（轟く世界）」と同根：オルフェウスの歌が「轟く目覚め」を引き起こす。「als Strömung das Haupt und die Leier（流れとして頭と竪琴を担いながら）」──第一部XXVIのオルフェウスの解体後に「頭と竪琴」が川に流されたという神話への参照：解体した部位が「流れ（Strömung）」として蘇る。ブランショ『文学の空間』のオルフェウス論──解体は消滅でなく遍在への変容──の詩的完結。",
+      "targetId": "rilke_sonette_orpheus_1_05",
+      "targetParagraphId": 6
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "Giebt es wirklich die Zeit, die zerstörende?\nWann, auf dem ruhenden Berg, zerbricht sie die Burg?\nDieses Herz, das unendlich den Göttern gehörende,\nwann vergewaltigts der Demiurg?",
+      "body": "「本当に破壊する時間は存在するのか？……この心は、神々に無限に属するこの心は、いつデミウルゴスが暴力を振るうのか？」──第二部XXVII冒頭。「die Zeit, die zerstörende（破壊する時間）」──時間に「破壊する」という能動的属格を付けることで、時間が「主体」として人間を「破壊する」という通常の時間観を疑問に付す。「das Herz, das unendlich den Göttern gehörende（神々に無限に属する心）」──「gehören（属する）」という動詞：心は「神々のもの」であるという主張。デミウルゴス（Demiurg）──プラトン「ティマイオス」における世界を創造した「職人神」：創造者でありながら「暴力を振るう（vergewaltigen）」という意外な形象。ハイデガー「時間と存在（Zeit und Sein, 1962）」における「時間の本質は贈ること（Geben）」──破壊する時間でなく「与える時間」という転換──との対話。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "intertextual",
+      "anchor": "Ach, das Gespenst des Vergänglichen,\ndurch den arglos Empfänglichen\ngeht es, als wär es ein Rauch.\n\nAls die, die wir sind, als die Treibenden,\ngelten wir doch bei bleibenden\nKräften als göttlicher Brauch.",
+      "body": "「ああ、無常の幻影は、無防備な受容的な者を通して煙であるかのように通り過ぎる。……われわれは留まる力において神的な慣用として通じる」──第二部XXVII最終6行。「arglos Empfänglichen（無防備な受容的な者）」──第二部Vの「Empfänger（受容者）」の問いへの応答：「無防備（arglos）」な受容性を持つ者にとって、無常の幻影は「煙のように通り過ぎる」──無防備な開放性が無常を無効化する。「göttlicher Brauch（神的な慣用）」──「Brauch（慣用・習慣・使用）」という語がハイデガー「形而上学入門（Einführung in die Metaphysik, 1935）」における「Brauch」──「使うこと・必要とすること（Brauch/brauchen）」として存在が現存在を「必要とする」という命題──と共鳴する。われわれが「留まる力において神的な慣用として通じる」──つまり存在（Sein）がわれわれを「使う（brauchen）」という逆転的な存在論がここに示される。ブランショが論じる「詩人は存在に使われる（être utilisé par l'être）」という受動的詩的様式との対話。",
+      "targetId": "rilke_sonette_orpheus_2_01",
+      "targetParagraphId": 5
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "O komm und geh. Du, fast noch Kind, ergänze\nfür einen Augenblick die Tanzfigur\nzum reinen Sternbild einer jener Tänze,\ndarin wir die dumpf ordnende Natur\n\nvergänglich übertreffen.",
+      "body": "「おお来て、去れ。お前、ほとんどまだ子供よ、補え一瞬のために踊りの形象を、あれらの踊りの一つの純粋な星座へと、その中でわれわれは鈍く秩序立てる自然を儚く凌駕する」──第二部XXVIII冒頭。ウェラ・オウカマ・クヌープへの最後の明示的呼びかけ（「Du, fast noch Kind（お前、ほとんどまだ子供）」は第一部II「Und fast ein Mädchen wars（そしてほとんど少女だった）」を反響する）。「für einen Augenblick（一瞬のために）」──詩集全体の「ein Mal（一度だけ）」の時間的集約：一瞬が全体を補完する。「reines Sternbild（純粋な星座）」──第二部VIII「Sternbild unsrer Stimme（われわれの声の星座）」・第10悲歌「嘆きの星座」と連続する「星座」形象：踊りの形象が天上的星座へと転換される。「die dumpf ordnende Natur vergänglich übertreffen（鈍く秩序立てる自然を儚く凌駕する）」──芸術が「一瞬だけ（vergänglich）」自然を超える：「vergänglich（儚く・一時的に）」が否定的でなく条件として提示される。"
+    },
+    {
+      "paragraphId": 3,
+      "type": "prosody",
+      "anchor": "Du wußtest noch die Stelle, wo die Leier\nsich tönend hob -; die unerhörte Mitte.\n\nFür sie versuchtest du die schönen Schritte\nund hofftest, einmal zu der heilen Feier\ndes Freundes Gang und Antlitz hinzudrehn.",
+      "body": "第二部XXVIII最終5行──「聴かれたことのない中心（unerhörte Mitte）」。「Du wußtest noch die Stelle, wo die Leier / sich tönend hob（お前はまだ竪琴が音を鳴らしながら持ち上げられた場所を知っていた）」──ウェラが「竪琴の場所（Stelle）」を「まだ（noch）」知っていた：疾患によって踊りを失う前のウェラが、オルフェウスの竪琴の「場所」を知っていた。「die unerhörte Mitte（聴かれたことのない中心）」──「unerhört」は「聴かれていない」と「前代未聞の（unheard-of）」という二重の意味：竪琴の「中心（Mitte）」は「聴かれたことのない」──つまり経験されていない、あるいは前代未聞の──中心。リシャール『詩と深さ』はリルケにおける「中心（centre）」が「最も深い詩的充実の点」として繰り返し機能することを論じた。「des Freundes Gang und Antlitz（友の歩みと顔）」──「Freund（友）」はオルフェウスへの参照：ウェラが「友（オルフェウス）」の「歩みと顔」に加わることを「希望した（hofftest）」という過去形──しかし彼女は死んでしまった。",
+      "targetId": "rilke_sonette_orpheus_1_05",
+      "targetParagraphId": 5
+    },
+    {
+      "paragraphId": 4,
+      "type": "commentary",
+      "anchor": "Stiller Freund der vielen Fernen, fühle,\nwie dein Atem noch den Raum vermehrt.\nIm Gebälk der finstern Glockenstühle\nlaß dich läuten. Das, was an dir zehrt,\n\nwird ein Starkes über dieser Nahrung.\nGeh in der Verwandlung aus und ein.\nWas ist deine leidendste Erfahrung?\nIst dir Trinken bitter, werde Wein.",
+      "body": "「多くの遠さの静かな友よ、感じよ……暗い鐘楼の梁組みの中で自らを鳴らさせよ……飲むことがお前にとって苦ければ、ワインになれ」──第二部XXIX第一・第二連。「Stiller Freund der vielen Fernen（多くの遠さの静かな友）」──「Fernen（遠さたち）」の複数形：遠さが一つでなく「多く（viele）」──詩集全体が向き合ってきた「遠さ（第二部XX「星々の間の距離」等）」の複数的存在。「laß dich läuten（自らを鳴らさせよ）」──「läuten（鐘を鳴らす）」の受動的使役：自ら鳴らすのでなく「鳴らされる」ことを許す──第二部Vの「offen und Empfänger（開いた受容者）」への応答。「Ist dir Trinken bitter, werde Wein（飲むことがお前にとって苦ければ、ワインになれ）」──苦しみを「克服する」のでなく苦しみの中で「変容する（werden）」：苦みが「ワイン（Wein）」になる──第一部VIIの「vergängliche Kelter eines den Menschen unendlichen Weins（人間にとって無限のワインの消えゆく搾り機）」との語根的連絡。ハイデガー「詩人とは何か」における「詩人は窮乏の中で豊かさへの痕跡を辿る」という命題が「苦みがワインになる」という変容の命令として実現される。"
+    },
+    {
+      "paragraphId": 4,
+      "type": "prosody",
+      "anchor": "Sei in dieser Nacht aus Übermaß\nZauberkraft am Kreuzweg deiner Sinne,\nihrer seltsamen Begegnung Sinn.\n\nUnd wenn dich das Irdische vergaß,\nzu der stillen Erde sag: Ich rinne.\nZu dem raschen Wasser sprich: Ich bin.",
+      "body": "第二部XXIX最終6行──詩集全体の存在論的結語。「Zauberkraft am Kreuzweg deiner Sinne（感覚の十字路での魔法の力）」──「Kreuzweg（十字路）」：感覚が交差する地点。第一部Iの「樹が立ち上がった」という全感覚の統一点が、ここでは「感覚の十字路」として身体的に実現される。「ihrer seltsamen Begegnung Sinn（それらの奇妙な出会いの意味）」──感覚たちの「出会い（Begegnung）」の「意味（Sinn）」となれ：詩人は感覚の媒介者・解釈者として定義される。「Und wenn dich das Irdische vergaß（地上的なものがお前を忘れたなら）」──逆説的条件：「地上的なもの（Irdische）」がお前を「忘れた（vergaß）」時こそ、大地と水への語りかけが可能になる。「zu der stillen Erde sag: Ich rinne（静かな大地に語れ：私は流れる）」──「rinnen（流れる・滴る）」：大地に対して「私は流れる（Ich rinne）」と語ること──大地は固体・停止・沈黙（still）であり、それに対して詩人は「流れる（rinnen）」という液体的・動的存在として自己定義する。「Zu dem raschen Wasser sprich: Ich bin（急ぐ水に語れ：私は在る）」──水に対して「私は在る（Ich bin）」と語ること──水は「急ぐ（rasch）」動的存在であり、それに対して詩人は「在る（sein）」という安定的・存在論的な宣言を行う。ハイデガー「存在（Sein）」の詩的命題として：大地への「Ich rinne（私は流れる）」は「存在の運動性」、水への「Ich bin（私は在る）」は「存在の安定性」──この二重の自己宣言が「Doppelbereich（二重の領域）」（第一部IX）を存在論的に完結させる。ブランショ『文学の空間』における「詩人の最後の語り──沈黙の寸前の言語」──「私は流れる・私は在る」という最も単純な二文が詩集全体の言語的達成の終着点として、同時に沈黙の手前として置かれる。",
+      "targetId": "rilke_sonette_orpheus_1_02",
+      "targetParagraphId": 4
+    }
+  ]
+}
