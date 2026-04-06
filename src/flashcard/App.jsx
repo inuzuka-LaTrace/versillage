@@ -375,8 +375,6 @@ export default function FlashcardApp() {
   const currentCard = fc.cards[fc.index];
   const frontText = getCardFront(currentCard, fc.mode);
   const backText  = getCardBack(currentCard, fc.mode);
-  const hasUser   = !!userTrans;
-
   const textMain = darkMode ? 'text-stone-200' : 'text-stone-900';
   const textSub  = darkMode ? 'text-stone-500' : 'text-stone-400';
 
