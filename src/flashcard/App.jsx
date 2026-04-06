@@ -194,7 +194,7 @@ export default function FlashcardApp() {
   // ── テーマ変数 ────────────────────────────────────────────
   const bg          = darkMode ? 'bg-zinc-950' : 'bg-stone-50';
   const cardBg      = darkMode ? 'bg-zinc-900 border-zinc-800' : 'bg-white border-stone-200';
-  const textMain    = darkMode ? 'text-zinc-100' : 'text-stone-900';
+  const textMain    = darkMode ? 'text-[#8a7a5a]' : 'text-stone-900';
   const textSub     = darkMode ? 'text-zinc-400' : 'text-stone-500';
   const border      = darkMode ? 'border-zinc-800' : 'border-stone-200';
   const inputCls    = darkMode
