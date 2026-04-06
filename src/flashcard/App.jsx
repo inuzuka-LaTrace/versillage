@@ -200,11 +200,8 @@ export default function FlashcardApp() {
   const inputCls         = darkMode ? 'bg-[#0f0d09] text-[#ddd0b3] placeholder-[#5a4a38] border-[#3a3228]' : 'bg-[#ede4cc] text-[#1a1208] placeholder-[#a08560] border-[#c8b480]';
   const settingsBg      = darkMode ? 'bg-[#17140e] border-[#3a3228] shadow-2xl'  : 'bg-[#ede4cc] border-[#c8b480] shadow-2xl';
   const btnSecondary = darkMode
-    ? 'bg-zinc-800 border-zinc-700 text-zinc-300 hover:bg-zinc-700'
-    : 'bg-stone-100 border-stone-300 text-stone-600 hover:bg-stone-200';
-  const btnPrimary = darkMode
-    ? 'bg-amber-700 hover:bg-amber-600 text-amber-100'
-    : 'bg-stone-800 hover:bg-stone-700 text-white';
+    ? 'bg-zinc-800 border-zinc-700 text-zinc-300 hover:bg-zinc-700' : 'bg-stone-100 border-stone-300 text-stone-600 hover:bg-stone-200';
+  const btnPrimary = darkMode ? 'bg-amber-700 hover:bg-amber-600 text-amber-100' : 'bg-stone-800 hover:bg-stone-700 text-white';
 
   // ── ソース選択タブ ─────────────────────────────────────────
   const SourceTab = ({ value, label }) => (
@@ -477,8 +474,8 @@ const StatsView = ({ fc, darkMode }) => {
   return (
     <div className="flex flex-col items-center justify-center h-full max-w-md mx-auto p-8 space-y-8 animate-in fade-in duration-1000">
       <div className="text-center space-y-2">
-      <h2 className={`font-Cinzel text-2xl tracking-[0.25em] ${textMain}`}>
-        FELIX QUI POTUIT RERUM COGNOSCERE CAUSAS</h2>
+      <h2 className={`font-Cinzel text-xl tracking-[0.25em] ${textMain}`}>
+        Felix qui potuit rerum cognoscere causas.</h2>
       </div>
 
       <div className={`w-full p-6 rounded-2xl border ${darkMode ? 'bg-zinc-900 border-zinc-800' : 'bg-white border-stone-200'}`}>
