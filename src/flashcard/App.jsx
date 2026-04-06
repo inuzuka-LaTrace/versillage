@@ -369,7 +369,13 @@ export default function FlashcardApp() {
     setLocalInput(fc?.userInput || '');
   }, [fc?.index, fc?.flipped]);
 
-  if (!fc || !fc.cards || fc.cards.length === 0) return null;
+  if (!fc || !fc.cards || fc.cards.length === 0) {
+    return (
+      <div className="flex items-center justify-center h-full">
+        <p className="text-stone-500 animate-pulse">Loading Cards...</p>
+      </div>
+    );
+  }
 
   const currentCard = fc.cards[fc.index];
   const frontText = getCardFront(currentCard, fc.mode);
@@ -510,7 +516,7 @@ export default function FlashcardApp() {
   // ════════════════════════════════════════════════════════════
   // ルートレンダリング
   // ════════════════════════════════════════════════════════════
-  const isStudying = fc.cards.length > 0 && !fc.finished;
+  const isStudying = fc.cards && fc.cards.length > 0 && !fc.finished;
   const isDone     = fc.finished;
 
   return (
