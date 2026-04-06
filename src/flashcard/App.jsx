@@ -468,8 +468,6 @@ export default function FlashcardApp() {
 };
   // ── 結果表示ビュー (StatsView) ─────────────────────────────────
 const StatsView = ({ fc, darkMode }) => {
-  const textMain = darkMode ? 'text-stone-200' : 'text-stone-900';
-  const textSub  = darkMode ? 'text-stone-500' : 'text-stone-400';
 
   return (
     <div className="flex flex-col items-center justify-center h-full max-w-md mx-auto p-8 space-y-8 animate-in fade-in duration-1000">
