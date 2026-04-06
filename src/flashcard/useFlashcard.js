@@ -110,6 +110,8 @@ export const useFlashcard = (texts) => {
   const [sessionResult, setSessionResult] = useState({});
   const [finished, setFinished]         = useState(false);
 
+  const [userInput, setUserInput] = useState('');
+
   // SRS
   const [srsData, setSrsData] = useState(loadSrs);
 
