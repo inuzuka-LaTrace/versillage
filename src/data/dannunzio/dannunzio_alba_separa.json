@@ -32,21 +32,21 @@
       "verses": "v.5–8",
       "speaker": null,
       "original": "Già il mancipio dell'alba, in un verziero\nin fondo all'orto, mattiniero\ncanta per te, che non tornerai. Distero\nnell'alba i fiori i calici di rosa.",
-      "provisionalTranslation": "もう夜明けの僕が、果樹園の\n庭の奥で、朝早くから\n歌っている──あなたのために、もう戻らないあなたのために。\n夜明けの中に花々はバラの萼（うてな）を開いた。"
+      "provisionalTranslation": "もう夜明けの僕が、果樹園の\n庭の奥で、朝早くから\n歌っている──あなたのために、もう戻らないあなたのために。\n夜明けの中に花々は薔薇の萼を開いた。"
     },
     {
       "id": 3,
       "verses": "v.9–11",
       "speaker": null,
       "original": "Dov'è il tuo caro viso? Dov'è il tuo corpo\nvivo d'amor? Dov'è il tuo piè leggero,\nquel piè leggero che mi prese il cor po-",
-      "provisionalTranslation": "あなたの愛しい顔はどこに？ あなたの、愛に\n生きる体はどこに？ あなたの軽やかな足はどこに、\n私の心（こころ）を奪ったあの軽やかな足は、少しず（つ）──"
+      "provisionalTranslation": "あなたの愛しい顔はどこに？ あなたの、愛に\n生きる体はどこに？ あなたの軽やかな足はどこに、\n私の心を奪ったあの軽やかな足は、少しずつ──"
     },
     {
       "id": 4,
       "verses": "v.12–14",
       "speaker": null,
       "original": "co a poco, in un'oncia? Ah, come il cuore\nvuol seguirti lontana! Elide, Amore\nè tutto fiele, a chi rimane a l'ora.",
-      "provisionalTranslation": "つ少しずつ、一オンスほどに。ああ、心はどれほど\nあなたに、遠くへゆく人についていきたいか！ エリデよ、愛は\nとどまる者には全て苦汁（にがみず）だ、この時に。"
+      "provisionalTranslation": "つ少しずつ、一オンスほどに。ああ、心はどれほど\nあなたに、遠くへゆく人についていきたいか！ エリデよ、愛は\nとどまる者には全て苦汁だ、この時に。"
     }
   ],
   "annotations": [
@@ -86,7 +86,7 @@
       "paragraphId": 2,
       "type": "prosody",
       "anchor": "Distero\nnell'alba i fiori i calici di rosa.",
-      "body": "「Distero（開いた）」──distendere の遠過去（passato remoto）三人称複数、詩的・古語形。「花々がバラの萼（calici di rosa）を夜明けの中に開いた」──calice は「聖杯（chalice）」であると同時に「花の萼」。宗教的・世俗的な二重性。「nell'alba（夜明けの中に）」──前置詞 in + definite article が「夜明けという空間の中に」という意味で使われる。花が開く行為と夜明けが浸透する空間性が重なる。連末の静的な美しさが、連全体の「もう戻らないあなたのために歌う」という喪失感を一時的に静止させる。"
+      "body": "「Distero（開いた）」──distendere の遠過去（passato remoto）三人称複数、詩的・古語形。「花々が薔薇の萼（calici di rosa）を夜明けの中に開いた」──calice は「聖杯（chalice）」であると同時に「花の萼」。宗教的・世俗的な二重性。「nell'alba（夜明けの中に）」──前置詞 in + definite article が「夜明けという空間の中に」という意味で使われる。花が開く行為と夜明けが浸透する空間性が重なる。連末の静的な美しさが、連全体の「もう戻らないあなたのために歌う」という喪失感を一時的に静止させる。"
     },
     {
       "paragraphId": 3,
