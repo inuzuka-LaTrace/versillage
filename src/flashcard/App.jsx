@@ -560,9 +560,19 @@ export default function FlashcardApp() {
       </header>
 
       {/* ── メインコンテンツ ───────────────────────────────── */}
-      {isDone      ? <SummaryView /> :
-       isStudying  ? <StudyView />   :
-                     <SetupView />   }
-    </div>
+      <main className="flex-1 overflow-y-auto relative">
+        <div className="max-w-4xl mx-auto h-full flex flex-col">
+          
+          {/* 🔍 ここが修正ポイントです */}
+          {isStudying ? (
+            <StudyView fc={fc} darkMode={darkMode} />
+          ) : fc.finished ? (
+            <StatsView fc={fc} darkMode={darkMode} />
+          ) : (
+            <SetupView fc={fc} darkMode={darkMode} />
+          )}
+
+        </div>
+      </main>
   );
 }
