@@ -472,7 +472,7 @@ const StatsView = ({ fc, darkMode }) => {
   return (
     <div className="flex flex-col items-center justify-center h-full max-w-md mx-auto p-8 space-y-8 animate-in fade-in duration-1000">
       <div className="text-center space-y-2">
-      <h2 className={`font-Cinzel text-xl tracking-[0.25em] ${textMain}`}>
+      <h2 className={`font-sans text-xl tracking-[0.2em] ${textMain}`}>
         Felix qui potuit rerum cognoscere causas.</h2>
       </div>
 
