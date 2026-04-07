@@ -1,0 +1,121 @@
+{
+  "id": "weil_eclair",
+  "title": "Éclair",
+  "author": "Simone Weil",
+  "source": "Poèmes suivis de Venise sauvée, Gallimard, Paris, 1968（死後刊行）。Wikisource: https://fr.wikisource.org/wiki/Poèmes_suivis_de_Venise_sauvée/Poèmes/Éclair",
+  "year": "1937–1943",
+  "firstPublication": "Poèmes suivis de Venise sauvée, Gallimard, 1968（死後25年）",
+  "difficulty": "上級",
+  "category": "weil",
+  "originalLang": "fr-FR",
+  "modernRelevance": "★★★★★",
+  "context": "シモーヌ・ヴェイユ（1909–1943）の詩篇。全5連4行の四行詩（quatrains）、交差韻（ABAB）、アレクサンドラン基調。タイトル「Éclair（稲妻）」が示す通り、詩全体が閃光の構造を持つ──第1連の祈願（風を送れ）から第2〜4連の「naîtront（生まれるだろう）」による世界の誕生の列挙へ、そして第5連での突然の消滅と回想へ。世界が「生まれる（naître）」のは夢を払った清浄な風の一瞬だけであり、その瞬間はすでに煙に覆われて失われている──稲妻が照らし出す世界は、照らし出されると同時に闇に戻る。ヴェイユの工場労働体験（1934–35）が「le fer mordu dans un cri de machine（機械の叫びの中に噛まれる鉄）」等の詩行に凝縮されており、詩的瞬間の閃光性と工業的苦悩の恒常性の対照が詩の緊張を生む。",
+  "keywords": [
+    "稲妻の閃光",
+    "世界の誕生",
+    "naître",
+    "風と清浄",
+    "工場労働",
+    "消滅と煙",
+    "一瞬の開示",
+    "ヴェイユ詩篇",
+    "注意と脱創造",
+    "déchirure"
+  ],
+  "relatedTexts": [
+    "weil_promethee",
+    "weil_la_mer",
+    "mallarme_brise_marine",
+    "hoelderlin_brot_und_wein"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "verses": "v.1–4",
+      "original": "Que le ciel pur sur la face m'envoie,\nCe ciel de longs nuages balayé,\nUn vent si fort, vent à l'odeur de joie,\nQue naisse tout, de rêves nettoyé :",
+      "provisionalTranslation": "純粋な空が顔の上に送ってくれますように、\n長い雲を払われたこの空が、\nこれほど強い風を、喜びの匂いのする風を、\nすべてが生まれますように、夢を払われて："
+    },
+    {
+      "id": 2,
+      "verses": "v.5–8",
+      "original": "Naîtront pour moi les humaines cités\nQu'un souffle pur a fait nettes de brume,\nLes toits, les pas, les cris, les cent clartés,\nLes bruits humains, ce que le temps consume.",
+      "provisionalTranslation": "私のために生まれるだろう、人間の都市が、\n純粋な息吹が霞から清潔にした都市が、\n屋根、足音、叫び声、百の輝き、\n人間の物音、時間が消費するもの全てが。"
+    },
+    {
+      "id": 3,
+      "verses": "v.9–12",
+      "original": "Naîtront les mers, la barque balancée,\nLe coup de rame et les feux de la nuit ;\nNaîtront les champs, la javelle lancée ;\nNaîtront les soirs, l'astre que l'astre suit.",
+      "provisionalTranslation": "生まれるだろう、海が、揺れる小舟が、\nオールの一漕ぎと夜の灯りが；\n生まれるだろう、野が、投げられた麦束が；\n生まれるだろう、夕暮れが、星が追う星が。"
+    },
+    {
+      "id": 4,
+      "verses": "v.13–16",
+      "original": "Naîtront la lampe et les genoux ployés,\nL'ombre, le heurt aux détours de la mine ;\nNaîtront les mains, les durs métaux broyés,\nLe fer mordu dans un cri de machine.",
+      "provisionalTranslation": "生まれるだろう、ランプと曲げられた膝が、\n影が、炭坑の曲がり角での衝突が；\n生まれるだろう、手が、砕かれた硬い金属が、\n機械の叫びの中に噛まれる鉄が。"
+    },
+    {
+      "id": 5,
+      "verses": "v.17–20",
+      "original": "Le monde est né ; vent, souffle afin qu'il dure !\nMais il périt recouvert de fumées.\nIl m'était né dans une déchirure\nDe ciel vert pâle au milieu des nuées.",
+      "provisionalTranslation": "世界は生まれた；風よ、それが続くように吹け！\nしかし世界は煙に覆われて消える。\n世界は私のために生まれていた、雲の中の\n青白い緑の空の、一筋の裂け目の中に。"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "Que le ciel pur sur la face m'envoie,\nCe ciel de longs nuages balayé,\nUn vent si fort, vent à l'odeur de joie,\nQue naisse tout, de rêves nettoyé :",
+      "body": "詩全体が接続法現在（Que... m'envoie / Que naisse）による祈願文として開始される──主語は現れず、天に向けた願いだけが先行する。「de rêves nettoyé（夢を払われて）」という形容は決定的：ヴェイユにとって「夢（rêves）」は幻想・自己欺瞞・想像力による現実の歪曲を意味する。『重力と恩寵』で彼女は「想像力は空虚を埋める──神の恩寵だけが空虚のままにしておける」と書く。夢を払う風は、現実を「ありのまま（tel quel）」に見るための脱幻想の力。「喜びの匂いのある風（vent à l'odeur de joie）」──喜びが抽象でなく嗅覚的・感覚的に到来することへの注目：ヴェイユは身体感覚を霊性から切り離さない。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "prosody",
+      "anchor": "Un vent si fort, vent à l'odeur de joie,",
+      "body": "「Un vent si fort, vent à l'odeur de joie」──アレクサンドランの第3行。「vent」の二重反復（un vent / vent）がこの行を言い直しの形式にする──同じ語を繰り返しながら形容を加えることで、風の感覚が増幅される。音響的には「vent（ヴァン）」の鼻母音が詩行に息吹の感触を与える。マラルメ「海の微風（Brise marine）」の「La chair est triste, hélas ! et j'ai lu tous les livres（肉体は悲しい、ああ！そして私はすべての本を読んだ）」が書物・夢からの逃走を船出として語るのに対し、ヴェイユの風は逃走でなく現実への到来を求める。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "Naîtront pour moi les humaines cités\nQu'un souffle pur a fait nettes de brume,\nLes toits, les pas, les cris, les cent clartés,\nLes bruits humains, ce que le temps consume.",
+      "body": "第2〜4連の「naîtront（生まれるだろう）」による列挙の連鎖が開始される。第2連は都市──屋根、足音、叫び、輝き、物音という感覚の詰め込み。「les cent clartés（百の輝き）」のような複数の光が乱立するイメージは、ヴェイユが工場労働中に体験した都市の感覚的過負荷を反映している可能性がある。「ce que le temps consume（時間が消費するもの全て）」──消費・消耗という語によって、この誕生がすでに消滅に向かっていることが予告される。第5連の「il périt（消える）」の伏線。"
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "Naîtront les mers, la barque balancée,\nLe coup de rame et les feux de la nuit ;\nNaîtront les champs, la javelle lancée ;\nNaîtront les soirs, l'astre que l'astre suit.",
+      "body": "第3連は都市から自然・農業・海へと広がる──「La Mer」詩篇の「barque errante（迷う船）」が「la barque balancée（揺れる小舟）」として再現する。「la javelle lancée（投げられた麦束）」はギリシャ的農業世界への参照──ヴェイユはホメロスの詩の農耕描写を愛した。「l'astre que l'astre suit（星が追う星）」──天体の連鎖。「La Mer」での「Les astres au loin sans effort ont puissance（星々は何の努力もなく力を持つ）」と同じ天体の秩序のイメージが、ここでは「追う・追われる」という動的な連続性として表れる。"
+    },
+    {
+      "paragraphId": 4,
+      "type": "commentary",
+      "anchor": "Naîtront la lampe et les genoux ployés,\nL'ombre, le heurt aux détours de la mine ;\nNaîtront les mains, les durs métaux broyés,\nLe fer mordu dans un cri de machine.",
+      "body": "第4連──列挙の頂点にして詩の内的核心。都市・自然・農業の後に「炭坑（mine）」と「機械（machine）」が現れる。「les genoux ployés（曲げられた膝）」は祈りと労働の両方のジェスチャー──礼拝と肉体的苦役の重なり。「le heurt aux détours de la mine（炭坑の曲がり角での衝突）」は坑内労働の閉塞と突然の衝撃。「Le fer mordu dans un cri de machine（機械の叫びの中に噛まれる鉄）」──ヴェイユの工場体験（1934–35、ルノー工場での肉体労働）の直接の反映。主語と目的語が逆転するような表現：鉄が機械に「噛まれる（mordu）」のか、機械が鉄を噛むのか──この曖昧さが労働者と機械の境界溶解を示す。「Prométhée」での「Le fer court, mord, arrache, étire et broie（鉄は走り、噛み、引き裂き……）」との直接の照応：同じ「mord（噛む）」という動詞が、そこでは技術文明の賛歌として、ここでは苦悩の閃光として現れる。"
+    },
+    {
+      "paragraphId": 4,
+      "type": "glossary",
+      "anchor": "L'ombre, le heurt aux détours de la mine",
+      "body": "「炭坑（mine）」への言及はヴェイユ詩篇の中で最も労働者への直接的な参照のひとつ。1934〜35年のヴェイユは哲学者としての身分を隠し、ルノー工場・アルストム社・カルノー社で実際に工員として働いた──この体験を記録した「工場日記（Journal d'usine）」は彼女の思想の転換点となった。「影（l'ombre）」は坑内の文字通りの暗さであると同時に、affliction（苦悩）の影であり、Prométhée詩篇の「Aveugle quand la nuit répand ses ombres（夜が影を広げるとき盲いになって）」のプロメテウス以前の人間の状態と共鳴する。"
+    },
+    {
+      "paragraphId": 5,
+      "type": "commentary",
+      "anchor": "Le monde est né ; vent, souffle afin qu'il dure !\nMais il périt recouvert de fumées.",
+      "body": "「世界は生まれた；風よ、それが続くように吹け！／しかし世界は煙に覆われて消える」──第5連の前半二行が詩の構造的転換を担う。「Le monde est né（世界は生まれた）」──接続法の祈願（naisse）と未来形の列挙（naîtront）の後に過去形（est né）が突然現れ、誕生がすでに完了していることを示す。しかし「vent, souffle afin qu'il dure（風よ……それが続くように吹け）」という命令は、その誕生が継続していないことを逆説的に示す。「Mais（しかし）」──詩篇「Prométhée」第6連の「Mais un sort sans douceur le tient plié（しかし柔らかさのない運命が彼を屈めたまま保つ）」と同じ転換の一語。「煙に覆われて消える（recouvert de fumées）」──工場の煙、戦争の煙、第4連の機械の排煙の全てが一語に収斂する。"
+    },
+    {
+      "paragraphId": 5,
+      "type": "commentary",
+      "anchor": "Il m'était né dans une déchirure\nDe ciel vert pâle au milieu des nuées.",
+      "body": "詩の最終二行──稲妻の視覚的形象の初めての明示。「déchirure（裂け目・引き裂き）」という語がタイトル「Éclair（稲妻）」の実体を遡及的に定義する：稲妻とは雲の「裂け目」であり、その一瞬の開口部から見える「青白い緑の空（ciel vert pâle）」が世界の誕生の場所だった。「Il m'était né（私のために生まれていた）」──過去半過去（était né）は誕生がすでに完了し、もはや取り戻せないことを示す時制。ブランショ『文学の空間』の「本質的な孤独」──芸術の経験は起きた瞬間にすでに「あった（avait été）」ものとして後退する──との共鳴。「ciel vert pâle（青白い緑の空）」という色彩は稲妻直後の空の特異な色であり、ヴェイユが注意の対象として愛した自然の細部の精密な観察を示す。",
+      "targetId": null,
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 5,
+      "type": "prosody",
+      "anchor": "Il m'était né dans une déchirure\nDe ciel vert pâle au milieu des nuées.",
+      "body": "詩の韻律構造的な収束点。第1〜4連は「naîtront」の未来形による前進的列挙だったが、最終二行は過去半過去（était né）へと突然反転する──時制の転換が詩の閃光的構造（稲妻は照らした後すぐ闇に戻る）を統語レベルで体現する。「déchirure（裂け目）」という語の音──破裂音「d」と摩擦音「ch」「r」の連続──が切り裂く動作を音響的に模倣する（擬音法・onomatopée）。全5連の唯一の脚韻の破格：「dure / déchirure」「fumées / nuées」──最終連でのみ完全な交差韻が視覚的消失（「青白い」「煙」「雲」）のイメージと一致する。"
+    }
+  ]
+}
