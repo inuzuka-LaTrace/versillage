@@ -1,0 +1,144 @@
+{
+  "id": "weil_promethee",
+  "title": "Prométhée",
+  "author": "Simone Weil",
+  "source": "Poèmes suivis de Venise sauvée, Gallimard, Paris, 1968（死後刊行）。Wikisource: https://fr.wikisource.org/wiki/Poèmes_suivis_de_Venise_sauvée/Poèmes/Prométhée",
+  "year": "1937–1943頃",
+  "firstPublication": "Poèmes suivis de Venise sauvée, Gallimard, 1968（死後25年）",
+  "difficulty": "上級",
+  "category": "weil",
+  "originalLang": "fr-FR",
+  "modernRelevance": "★★★★★",
+  "context": "シモーヌ・ヴェイユ（1909–1943）が生前に公刊しなかった詩篇のひとつ。1968年にガリマール社から『ヴェニス救われた女』とともに死後刊行。全6連10行のソネット変形詩（décasyllabe/hendécasyllabe基調）。ギリシャ神話のプロメテウスを主軸に、文明の贈り物（火・技術・言語・数・儀礼）を讃えた後、最終連で岩に縛られた苦しみへと転換する構造を持つ。ヴェイユにとってプロメテウスは、超自然的な善の媒介者として人類に苦しみを引き受けながら力を与えた存在──彼女のキリスト論的解釈と重なる。工場労働体験（1934–35）と重力と恩寵の思想（「affliction＝苦悩」）が詩の底流をなす。",
+  "keywords": [
+    "プロメテウス",
+    "火の贈り物",
+    "技術と苦悩",
+    "affliction",
+    "重力と恩寵",
+    "苦しみの哲学",
+    "犠牲と文明",
+    "ヴェイユ詩篇",
+    "キリスト論的プロメテウス",
+    "磔刑のイメージ"
+  ],
+  "relatedTexts": [
+    "mallarme_coup_de_des",
+    "dante_inferno_canto_5",
+    "hoelderlin_brot_und_wein"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "verses": "v.1–10",
+      "original": "Un animal hagard de solitude,\nSans cesse au ventre un rongeur qui le mord,\nLe fait courir, tremblant de lassitude,\nPour fuir la faim qu'il ne fuit qu'à la mort ;\nCherchant sa vie au travers des bois sombres ;\nAveugle quand la nuit répand ses ombres ;\nAu creux des rocs frappé de froids mortels ;\nNe s'accouplant qu'au hasard des étreintes ;\nEn proie aux dieux, criant sous leurs atteintes —\nSans Prométhée, hommes, vous seriez tels.",
+      "provisionalTranslation": "孤独に憔悴した一匹の獣、\n腹の中でひっきりなしに齧る者に噛まれ、\n疲労に震えながら走らされる、\n死に至るまでしか逃れられない飢えから逃れようとして；\n暗い森の中を自らの糧を求めて；\n夜がその影を広げるとき盲いになって；\n岩の窪みで死を呼ぶ冷たさに打たれ；\n抱擁の偶然でしか交わらず；\n神々の獲物となり、その打撃の下に叫ぶ──\nプロメテウスなしに、人よ、あなたたちはそのような者であっただろう。"
+    },
+    {
+      "id": 2,
+      "verses": "v.11–20",
+      "original": "Feu créateur, destructeur, flamme artiste !\nFeu, héritier des lueurs du couchant !\nL'aurore monte au cœur du soir trop triste ;\nLe doux foyer a joint les mains ; le champ\nA pris le lieu des broussailles brûlées.\nLe métal dur jaillit dans les coulées,\nLe fer ardent plie et cède au marteau.\nUne clarté sous un toit comble l'âme.\nLe pain mûrit comme un fruit dans la flamme.\nQu'il vous aima, pour faire un don si beau !",
+      "provisionalTranslation": "創造する火、破壊する火、芸術家である炎！\n火よ、夕暮れの光の後継者よ！\n曙は悲しすぎる夕べの心の中に昇る；\n温かな炉辺が手と手を結ばせた；野は\n燃やされた藪の跡を占めた。\n硬い金属が溶湯の中に流れ出て、\n赤熱した鉄が曲がり槌に従う。\n屋根の下の一条の光が魂を満たす。\nパンが炎の中で果実のように熟す。\nこれほど美しい贈り物をするほど、彼はあなたたちを愛したのだ！"
+    },
+    {
+      "id": 3,
+      "verses": "v.21–30",
+      "original": "Il donna roue et levier. Ô merveille !\nLe destin plie au poids faible des mains.\nLe besoin craint de loin la main qui veille\nSur les leviers, maîtresse des chemins.\nÔ vents des mers vaincus par une toile !\nÔ terre ouverte au soc, saignant sans voile !\nAbîme où frêle une lampe descend !\nLe fer court, mord, arrache, étire et broie,\nDocile et dur. Les bras portent leur proie,\nL'univers lourd qui donne et boit le sang.",
+      "provisionalTranslation": "彼は車輪とてこを与えた。ああ、驚異よ！\n運命が手の弱い重みに屈する。\n必要は遠くから、道を支配する\nてこを見張る手を恐れる。\nああ、一枚の帆に征服された海の風よ！\nああ、鋤に開かれた大地、隠しようなく血を流して！\n深淵よ、そこへ細くか細い灯が下りていく！\n鉄は走り、噛み、引き裂き、引き伸ばし、砕く、\n従順にして硬く。腕はその獲物を運ぶ、\n血を与え血を飲む、重い宇宙を。"
+    },
+    {
+      "id": 4,
+      "verses": "v.31–40",
+      "original": "Il fut l'auteur des rites et du temple,\nCercle magique à retenir les dieux\nLoin de ce monde ; ainsi l'homme contemple,\nSeul et muet, le sort, la mort, les cieux.\nIl fut l'auteur des signes, des langages.\nLes mots ailés vont à travers les âges\nPar monts, par vaux, mouvoir les cœurs, les bras.\nL'âme se parle et tâche à se comprendre.\nCiel, terre et mer se taisent pour entendre\nDeux amis, deux amants parler tout bas.",
+      "provisionalTranslation": "彼は儀礼と神殿の創始者だった、\n神々をこの世界から遠ざけておくための魔法の円；\nそのようにして人は独り黙して、\n運命を、死を、天を観想する。\n彼は記号と言語の創始者だった。\n翼をもつ言葉は時代を通じて\n山を越え谷を越えて、心を、腕を動かしに行く。\n魂は自らに語りかけ、自らを理解しようと努める。\n天と地と海が静まり、聞くために──\n二人の友が、二人の恋人が、ひそやかに語り合うのを。"
+    },
+    {
+      "id": 5,
+      "verses": "v.41–50",
+      "original": "Plus lumineux fut le présent des nombres.\nLes spectres, les démons s'en vont mourant.\nLa voix qui compte a su chasser les ombres.\nL'ouragan même est calme et transparent.\nAu ciel sans fond prend place chaque étoile ;\nSans un mensonge elle parle à la voile.\nL'acte s'ajoute à l'acte ; rien n'est seul ;\nTout se répond sur la juste balance.\nIl naît des chants purs comme le silence.\nParfois du temps s'entrouvre le linceul.",
+      "provisionalTranslation": "数の贈り物はさらに輝かしかった。\n幽霊たちや悪魔たちは死に絶えてゆく。\n数える声が影を追い払うことを知った。\n嵐さえも静かで透明になる。\n底なしの天に星ひとつひとつが場所を占める；\n嘘をひとつも言わずに帆に向かって語る。\n行為が行為に加わる；何も孤立していない；\nすべてが公正な天秤の上で応え合う。\n沈黙のように純粋な歌が生まれる。\n時に時の屍衣が半ば開かれる。"
+    },
+    {
+      "id": 6,
+      "verses": "v.51–60",
+      "original": "L'aube est par lui une joie immortelle.\nMais un sort sans douceur le tient plié.\nLe fer le cloue au roc ; son front chancelle ;\nEn lui, pendant qu'il pend crucifié,\nLa douleur froide entre comme une lame.\nHeures, saisons, siècles lui rongent l'âme,\nJour après jour fait défaillir son cœur.\nSon corps se tord en vain sous la contrainte ;\nL'instant qui fuit disperse aux vents sa plainte ;\nSeul et sans nom, chair livrée au malheur.",
+      "provisionalTranslation": "曙は彼によって不死の喜びとなった。\nしかし柔らかさのない運命が彼を屈めたまま保つ。\n鉄が彼を岩に釘付けにする；彼の頭は揺れ；\n彼の中に、磔にされてぶら下がりながら、\n冷たい苦しみが刃のように入り込む。\n時間が、季節が、世紀が彼の魂を齧り、\n日ごと日ごとに彼の心を衰弱させる。\n彼の体は拘束の下に空しくのた打ち回る；\n逃げ去る瞬間が彼の嘆きを風に散らす；\n独り名もなく、不幸に引き渡された肉。"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "Un animal hagard de solitude,\nSans cesse au ventre un rongeur qui le mord",
+      "body": "詩の冒頭は「動物（animal）」という語から始まる──人類をプロメテウス以前の獣として提示する大胆な選択。「腹の中でひっきりなしに齧る者（rongeur qui le mord）」は飢えの擬人化であると同時に、ヴェイユが「affliction（苦悩）」と呼ぶ苦しみの内在性を予告する。『重力と恩寵』（La Pesanteur et la Grâce, 1947）でヴェイユは「afflictionは肉体的苦しみ、霊的卑しめ、社会的排除の三要素が同時に現れるものだ」と定義した──この動物状態はまさにその全てを体現している。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "prosody",
+      "anchor": "Sans Prométhée, hommes, vous seriez tels.",
+      "body": "各連の最終行が定式として機能する詩の構造：第1連は問いかけ（「あなたたちはそのような者であっただろう」）、第2連は感嘆（「これほど美しい贈り物をするほど」）、以降は列挙からの転換（第6連で崩壊）。アポストロフ（呼格）「hommes（人よ）」の配置──詩の全6連中唯一の直接呼びかけがここにある。詩の語り手は第1連のみで人類に向かって語りかけ、残りの5連はプロメテウスの行為と苦しみの客観的叙述へと沈潜する。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "glossary",
+      "anchor": "Feu créateur, destructeur, flamme artiste !",
+      "body": "「創造する火、破壊する火、芸術家である炎（Feu créateur, destructeur, flamme artiste）」──火の三重の性格の宣言。ヘラクレイトスの火の哲学（万物は火の変容）への暗黙の参照。ヴェイユはギリシャ哲学への深い共感を持ち、プラトン論文集でも火と善のイメージを結びつけた。「artiste（芸術家）」という形容は工業的有用性を超えた次元──火は技術の道具であるのみならず、美と創造性の原理でもある。カミュ『シジフォスの神話』（1942）でも、人間の創造行為は無意味な宇宙への反抗として提示されるが、ヴェイユにとって火は「贈与（don）」の印であり、反抗ではなく愛の証だ。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "Le pain mûrit comme un fruit dans la flamme.\nQu'il vous aima, pour faire un don si beau !",
+      "body": "「パンが炎の中で果実のように熟す」──火と食と愛の三角形。この最終二行は第2連の感嘆符の連鎖を収束させる。「don（贈り物）」という語はヴェイユの思想において「恩寵（grâce）」と同義的に機能する──上から下への、重力に抗う贈与。工場労働体験（1934–35）でヴェイユは労働者の苦悩を身体で知り、それが「affliction」概念に結実した。パンを焼く行為の中に、プロメテウスの愛と苦しみの凝縮を見る。"
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "Le fer court, mord, arrache, étire et broie,\nDocile et dur. Les bras portent leur proie,\nL'univers lourd qui donne et boit le sang.",
+      "body": "「鉄は走り、噛み、引き裂き、引き伸ばし、砕く、従順にして硬く」──動詞の連鎖（court, mord, arrache, étire, broie）が機械的運動の猛烈さを音響的に体現する。「従順（docile）にして硬（dur）く」という矛盾の並置は、技術の本質をめぐるヴェイユの考察に対応する──道具は人間の意志に従いながら、世界の「重力（pesanteur）」を担う。「血を与え血を飲む宇宙（l'univers lourd qui donne et boit le sang）」：技術文明は生産と収奪の両面を持ち、ヴェイユは自身の工場体験でこの「血を飲む宇宙」を身体で知った。ブランショ『文学の空間』（L'Espace littéraire, 1955）は、労働において主体が消滅し「物」になる経験を「作品の空間」の基底として語るが、ヴェイユはその消滅を苦しみの中の神への開口として読む。"
+    },
+    {
+      "paragraphId": 4,
+      "type": "commentary",
+      "anchor": "Il fut l'auteur des rites et du temple,\nCercle magique à retenir les dieux\nLoin de ce monde",
+      "body": "「儀礼と神殿の創始者──神々をこの世界から遠ざけておくための魔法の円」。これはヴェイユの宗教哲学の核心を突く逆説的な定義。神殿は神々を迎える場ではなく「遠ざけておく魔法の円」──神の不在が人間の自律を可能にする空間。ヴェイユが後に「神の不在（absence de Dieu）」と呼ぶ思想の詩的先取り：神が遠ざかることによって人間の自由と苦悩が同時に成立する。ブランショ『来たるべき書物』（Le Livre à venir, 1959）での孤独と言語の問題──「Seul et muet, le sort, la mort, les cieux（独り黙して、運命を、死を、天を）」という静寂の観想がここに重なる。"
+    },
+    {
+      "paragraphId": 4,
+      "type": "glossary",
+      "anchor": "Les mots ailés vont à travers les âges\nPar monts, par vaux, mouvoir les cœurs, les bras.",
+      "body": "「翼をもつ言葉（mots ailés）」──ホメロス以来の叙事詩的常套句「翼のある言葉（ἔπεα πτερόεντα）」を踏まえる。ヴェイユはギリシャ語に堪能で、原典講読を生涯続けた。言語を人類への贈り物として描くことで、詩篇自体が「翼をもつ言葉」のひとつであるという自己言及的な構造が生まれる。「心を、腕を動かす（mouvoir les cœurs, les bras）」──言語が感情（cœurs）のみならず行動（bras）を動かすという把握は、ヴェイユの社会・政治哲学における言語の力の強調と一致する。"
+    },
+    {
+      "paragraphId": 5,
+      "type": "commentary",
+      "anchor": "Plus lumineux fut le présent des nombres.\nLes spectres, les démons s'en vont mourant.",
+      "body": "「数の贈り物はさらに輝かしかった」──火・技術・儀礼・言語の後に「数（nombres）」が最後の文明の贈り物として置かれる。ヴェイユにとって数学は神の秩序への窓──「数学的証明の美しさは神の美しさへの通路である」（『神への愛の諸形態』）。「幽霊や悪魔が死に絶える（Les spectres, les démons s'en vont mourant）」：数が迷信を駆逐するという啓蒙的理性への讃歌でもあるが、続く「時の屍衣が半ば開かれる（du temps s'entrouvre le linceul）」は、数が開示する永遠という次元への参照──カミュが『シジフォスの神話』で「不条理の人間は永遠を拒否する」と断言したのとは正反対に、ヴェイユは数的秩序の中に永遠の垣間見えを求める。"
+    },
+    {
+      "paragraphId": 5,
+      "type": "prosody",
+      "anchor": "L'acte s'ajoute à l'acte ; rien n'est seul ;\nTout se répond sur la juste balance.\nIl naît des chants purs comme le silence.",
+      "body": "第5連の後半3行は詩篇全体の詩学的宣言として機能する。「行為が行為に加わる；何も孤立していない（L'acte s'ajoute à l'acte ; rien n'est seul）」──因果連鎖の透明性。「すべてが公正な天秤の上で応え合う（Tout se répond sur la juste balance）」──「balance（天秤・均衡）」はヴェイユの正義論の核心語。「沈黙のように純粋な歌が生まれる（Il naît des chants purs comme le silence）」──詩の自己言及的な極限：純粋な詩は沈黙に等しい。マラルメ「骰子一擲」の白（余白）がそうであるように、ヴェイユにとっても詩の究極は沈黙の変容である。"
+    },
+    {
+      "paragraphId": 6,
+      "type": "commentary",
+      "anchor": "Mais un sort sans douceur le tient plié.\nLe fer le cloue au roc ; son front chancelle ;\nEn lui, pendant qu'il pend crucifié,\nLa douleur froide entre comme une lame.",
+      "body": "「しかし（Mais）」という逆接で始まる転換──詩全体の構造的転換点。5連にわたる文明の贈り物の讃歌が、この一語で崩壊する。「Le fer le cloue au roc（鉄が彼を岩に釘付けにする）」──プロメテウス神話の岩への鎖（アイスキュロス『縛られたプロメテウス』）を「鉄」で書き換え、人類に技術を与えた同じ「鉄」が贈与者を縛る逆説。「pendant qu'il pend crucifié（磔にされてぶら下がりながら）」──この磔刑のイメージはヴェイユのキリスト論的プロメテウス解釈の核心。ブランショ『文学の空間』での「死の不可能性」──死ねずに永遠に苦しみ続ける者、という形而上的苦悩の形象。"
+    },
+    {
+      "paragraphId": 6,
+      "type": "commentary",
+      "anchor": "Seul et sans nom, chair livrée au malheur.",
+      "body": "詩の最終行。「独り名もなく、不幸に引き渡された肉（Seul et sans nom, chair livrée au malheur）」──第1連の「En proie aux dieux, criant sous leurs atteintes（神々の獲物となり、その打撃の下に叫ぶ）」との鏡像。プロメテウス以前の人間の状態として描かれた「獣」のイメージが、最終行でプロメテウス自身の状態として還流する。「sans nom（名もなく）」──ヴェイユが「affliction」の定義として挙げる「社会的排除・非人格化」の極限。カミュが『反抗する人間』（L'Homme révolté, 1951）でプロメテウス的反抗を歴史的暴力の起源と読んだのとは異なり、ヴェイユはプロメテウスの苦しみの中に代受苦（substitution）の神学的構造を見る──与えることと苦しむことの不可分性。"
+    },
+    {
+      "paragraphId": 6,
+      "type": "intertextual",
+      "anchor": "pendant qu'il pend crucifié",
+      "body": "ヴェイユはアイスキュロス『縛られたプロメテウス』（Προμηθεὺς Δεσμώτης）を自らのプロメテウス解釈の基盤とした。ギリシャ悲劇論文（「神を愛することの諸形態」等）でヴェイユはプロメテウスを「先キリスト的な苦しむ神の形象」として読む──罰を受けながら人類への愛を維持する存在。同時代のカミュ（『シジフォスの神話』1942、『反抗する人間』1951）がプロメテウスを「反抗」の象徴として読んだのとの根本的差異：ヴェイユにとってプロメテウスの苦しみは反抗でなく「同意（consentement）」の極致──不条理な苦しみへの超自然的な同意こそが人類への愛の証である。",
+      "targetId": "dante_inferno_canto_5",
+      "targetParagraphId": null
+    }
+  ]
+}
