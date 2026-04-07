@@ -981,9 +981,9 @@ export default function App() {
   // violet:    ダーク violet-300/80 / ライト violet-800/80
   // transTextClass: neutral / red / violet / ink
   const transTextClass =
-    transColor === 'darkred'    ? (darkMode ? 'text-red-600/80'     : 'text-red-800/80') :
-    transColor === 'darkviolet' ? (darkMode ? 'text-violet-600/80'  : 'text-violet-700/80') :
-    transColor === 'darkink'    ? (darkMode ? 'text-[#b8a880]'      : 'text-[#3a2e20]') :
+    transColor === 'red'    ? (darkMode ? 'text-red-600/80'     : 'text-red-800/80') :
+    transColor === 'violet' ? (darkMode ? 'text-violet-600/80'  : 'text-violet-700/80') :
+    transColor === 'ink'    ? (darkMode ? 'text-[#b8a880]'      : 'text-838996]') :
     /* neutral */             (darkMode ? 'text-zinc-300'        : 'text-[#4a3a28]');
   const transBorderClass =
     transColor === 'red'    ? (darkMode ? 'border-red-700/50'    : 'border-red-300/60') :
@@ -1229,7 +1229,7 @@ export default function App() {
           <div>
             <label className={`text-xs font-semibold uppercase tracking-wider font-IBM Plex sans JP ${textSecondary} block mb-2.5`}>訳文の色</label>
             <div className={`flex rounded-lg overflow-hidden border ${darkMode ? 'border-zinc-700' : 'border-[#c8b480]'}`}>
-              {[['neutral','白黒'],['darkink','墨'],['darkred','赤'],['darkviolet','紫']].map(([val, label], i) => (
+              {[['neutral','白黒'],['ink','金銀'],['red','赤'],['violet','紫']].map(([val, label], i) => (
                 <button key={val} onClick={() => setTransColor(val)}
                   className={`flex-1 py-2 text-xs font-IBM Plex sans JP transition-colors ${transColor === val
                     ? darkMode ? 'bg-amber-700 text-amber-100' : 'bg-[#3a2e20] text-[#f5efe0]'
