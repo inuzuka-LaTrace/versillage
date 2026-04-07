@@ -2149,7 +2149,7 @@ const TocDrawer = ({
         if (!src) continue;
         const idx = src.toLowerCase().indexOf(q);
         const start = Math.max(0, idx - 20);
-        const end   = Math.min(src.length, idx + q.length + 20);
+        const end   = Math.min(src.length, idx + q.length + 25);
         return {
           pre:   (start > 0 ? '…' : '') + src.slice(start, idx),
           match: src.slice(idx, idx + q.length),
@@ -2217,7 +2217,7 @@ const TocDrawer = ({
             transition-transform duration-300 ease-in-out
             ${showToc ? 'translate-x-0' : '-translate-x-full'}
             ${tocBg} border-r ${tocBorder}`}
-          style={{ width: '340px', fontFamily: '"EB Garamond", "Shippori Mincho B1", serif' }}
+          style={{ width: '360px', fontFamily: '"EB Garamond", "Shippori Mincho B1", serif' }}
         >
           {/* ── ヘッダー ── */}
           <div className={`flex items-center justify-between px-4 py-3 border-b ${tocBorder} shrink-0 ${tocHeaderBg}`}>
