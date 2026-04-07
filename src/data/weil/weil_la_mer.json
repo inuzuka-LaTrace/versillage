@@ -1,0 +1,133 @@
+{
+  "id": "weil_la_mer",
+  "title": "La Mer",
+  "author": "Simone Weil",
+  "source": "Poèmes suivis de Venise sauvée, Gallimard, Paris, 1968（死後刊行）。Wikisource: https://fr.wikisource.org/wiki/Poèmes_suivis_de_Venise_sauvée/Poèmes/La_mer",
+  "year": "1937–1943頃",
+  "firstPublication": "Poèmes suivis de Venise sauvée, Gallimard, 1968（死後25年）",
+  "difficulty": "上級",
+  "category": "weil",
+  "originalLang": "fr-FR",
+  "modernRelevance": "★★★★★",
+  "context": "シモーヌ・ヴェイユ（1909–1943）の詩篇。全5連5行のカンソン変形（quintils）構造。韻律はアレクサンドランと10音節詩行の混在。詩全体が海の「服従（obéissance）」「待機（attente）」「正義（justice）」という三つの主題を段階的に展開する──まず宇宙的服従（第1連）、次に光の受容（第2連）、続いて重力の法則（第3連）、天秤と測量（第4連）、そして祈願と清めへの転換（第5連）。ヴェイユにとって海は「重力（pesanteur）」と「恩寵（grâce）」の対話の場であり、自然の法則そのものが神の正義の顕現である。「欲望なしに待つ（sans désir）」という海の在り方は、ヴェイユが「脱創造（décréation）」と呼んだ自己消滅の理想を体現する。",
+  "keywords": [
+    "海の服従",
+    "待機と欲望の不在",
+    "重力と恩寵",
+    "天秤と正義",
+    "脱創造",
+    "自然の法則",
+    "清め",
+    "ヴェイユ詩篇",
+    "obéissance",
+    "eaux de justice"
+  ],
+  "relatedTexts": [
+    "weil_promethee",
+    "mallarme_coup_de_des",
+    "hoelderlin_brot_und_wein",
+    "dante_purgatorio_canto_1"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "verses": "v.1–5",
+      "original": "Mer docile au frein, mer soumise en silence,\nMer éparse, aux flots enchaînés pour toujours,\nMasse offerte au ciel, miroir d'obéissance ;\nPour y tisser chaque nuit des plis nouveaux,\nLes astres au loin sans effort ont puissance.",
+      "provisionalTranslation": "手綱に従順な海、沈黙の中に服従する海、\n散らばる海、波は永遠に鎖でつながれて、\n天に差し出された塊、服従の鏡；\nそこに毎夜新しい襞を織るために、\n遠い星々は何の努力もなく力を持つ。"
+    },
+    {
+      "id": 2,
+      "verses": "v.6–10",
+      "original": "Lorsque le matin vient combler tout l'espace,\nElle accueille et rend le don de la clarté.\nUn éclat léger se pose à la surface.\nElle s'étend dans l'attente et sans désir,\nSous le jour qui croît, resplendit et s'efface.",
+      "provisionalTranslation": "朝が空間の全てを満たしに来るとき、\n海は光の賜物を迎え入れ、返す。\n軽い輝きが水面に降りる。\n海は欲望なしに待ちながら広がる、\n増し輝き消えていく昼の光の下で。"
+    },
+    {
+      "id": 3,
+      "verses": "v.11–15",
+      "original": "Les reflets du soir feront luire soudaine\nL'aile suspendue entre le ciel et l'eau.\nLes flots oscillants et fixés à la plaine,\nOù chaque goutte à son tour monte et descend,\nDemeurent en bas par la loi souveraine.",
+      "provisionalTranslation": "夕暮れの反射が突然光らせるだろう、\n天と水の間に吊るされた翼を。\n振動しながら平原に固定された波、\nそこで一滴一滴が順番に昇り降りし、\n主権ある法によって低いところに留まる。"
+    },
+    {
+      "id": 4,
+      "verses": "v.16–20",
+      "original": "La balance aux bras secrets d'eau transparente\nSe pèse elle-même, et l'écume, et le fer,\nJuste sans témoin pour chaque barque errante.\nSur le navire un fil bleu trace un rapport,\nSans aucune erreur dans sa ligne apparente.",
+      "provisionalTranslation": "透明な水の秘密の腕を持つ天秤が\n自分自身を、泡を、そして鉄を量る、\n迷う船一艘一艘のために証人なしに公正に。\n船の上で一本の青い糸が関係を描く、\nその現れた線に一つの誤りもなく。"
+    },
+    {
+      "id": 5,
+      "verses": "v.21–25",
+      "original": "Mer vaste, aux mortels malheureux sois propice,\nPressés sur tes bords, perdus sur ton désert.\nÀ qui va sombrer parle avant qu'il périsse.\nEntre jusqu'à l'âme, ô notre sœur la mer ;\nDaigne la laver dans tes eaux de justice.",
+      "provisionalTranslation": "広大な海よ、不幸な死すべき者たちに恵み深くあれ、\n汝の岸辺に押し込まれ、汝の砂漠に迷い込んだ者たちに。\n沈もうとする者に、滅びる前に語りかけよ。\n魂の奥まで入れ、ああ、われらの姉妹よ海よ；\n汝の正義の水の中で魂を洗ってくれることを。"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "Mer docile au frein, mer soumise en silence,\nMer éparse, aux flots enchaînés pour toujours,\nMasse offerte au ciel, miroir d'obéissance",
+      "body": "詩の冒頭三行による海の三重の定義──「従順（docile）」「服従（soumise）」「服従の鏡（miroir d'obéissance）」。ヴェイユにとって服従は卑屈さでなく、存在の正しい秩序への能動的な同意である。「鎖でつながれた波（flots enchaînés）」──束縛のイメージが「服従」と共鳴するが、これはアイスキュロス『縛られたプロメテウス』（Prométhée詩篇が想起させる）とは逆の方向性を持つ：プロメテウスの縛りは罰であるが、海の縛りは宇宙の秩序への参与である。「天に差し出された塊（Masse offerte au ciel）」──ヴェイユの「décréation（脱創造）」の中心イメージ：自己を完全に神に向けて開き差し出すこと。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "prosody",
+      "anchor": "Les astres au loin sans effort ont puissance.",
+      "body": "第1連の閉じ行。「星々は何の努力もなく力を持つ（sans effort ont puissance）」──「sans effort（努力なしに）」が詩全体の行為論的核心を設定する。強制なき影響、押しつけなき力。ヴェイユが好んだ荘子の「無為（wu wei）」──中国思想への言及がヴェイユの著作中に散見される──との共鳴。星々と海の関係は「重力（pesanteur）」を通じた神の働きかけの詩的形象：神は直接介入せず、法則（重力）を通じてのみ働く。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "Elle accueille et rend le don de la clarté.",
+      "body": "「海は光の賜物を迎え入れ、返す（accueille et rend le don de la clarté）」──受容と返礼の往復運動。「accueillir（迎え入れる）」と「rendre（返す）」の動詞対が、ヴェイユの贈与論の核心を圧縮する：受け取ることと与え返すことの同時性。『重力と恩寵』でヴェイユは「恩寵は重力に反する」と述べるが、この行では光の賜物（恩寵）を海（重力に従うもの）が返すという逆説──重力の服従の中にこそ恩寵の往還がある。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "glossary",
+      "anchor": "Elle s'étend dans l'attente et sans désir,",
+      "body": "「欲望なしに待ちながら（dans l'attente et sans désir）」──ヴェイユの霊性の核心概念「待機（attente）」の詩的表現。『神を待ちのぞむ』（Attente de Dieu, 1950年死後刊行）の表題と直結する。欲望なき待機は受動性ではなく、ヴェイユが「注意（attention）」と呼ぶ最高度の能動性──自己の欲求を停止させ、他者と神に向けて完全に開かれた在り方。マラルメが「白（ブラン）」によって詩の絶対的待機を表したとするなら、ヴェイユは海の水平線によってそれを表す。"
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "Les flots oscillants et fixés à la plaine,\nOù chaque goutte à son tour monte et descend,\nDemeurent en bas par la loi souveraine.",
+      "body": "「一滴一滴が順番に昇り降りし、主権ある法によって低いところに留まる」──波の運動の精密な観察が形而上学的命題に変換される。「loi souveraine（主権ある法）」は重力の法則であると同時に神の摂理の法則。各水滴の個別の運動（monte et descend）が全体としての海面の水平（demeurent en bas）を維持するという逆説──個の運動と集合的秩序の関係は、ヴェイユの社会哲学（個人と集団）にも対応する。ブランショ『文学の空間』で語られる「中性（le neutre）」──どちらでもない、上でも下でもない閾──がここでは波の振動として現れる。"
+    },
+    {
+      "paragraphId": 3,
+      "type": "prosody",
+      "anchor": "L'aile suspendue entre le ciel et l'eau.",
+      "body": "「天と水の間に吊るされた翼（L'aile suspendue entre le ciel et l'eau）」──詩篇中最も視覚的に鮮烈なイメージ。夕暮れの海に映る鳥の翼の反射。「suspendue（吊るされた）」という形容は天と水の「間（entre）」──どちらでもない閾の空間。ヴェイユ「Prométhée」の「pendant qu'il pend crucifié（磔にされてぶら下がりながら）」との響き合い：吊るされたもの、宙づりにされたものというモチーフがヴェイユ詩篇を貫く。"
+    },
+    {
+      "paragraphId": 4,
+      "type": "commentary",
+      "anchor": "La balance aux bras secrets d'eau transparente\nSe pèse elle-même, et l'écume, et le fer,\nJuste sans témoin pour chaque barque errante.",
+      "body": "第4連の「天秤（balance）」はヴェイユの思想世界における中心的形象。「証人なしに公正（Juste sans témoin）」──目撃者のない正義、外部的承認を必要としない公正さ。ヴェイユにとって本来の正義とは神の前での正義であり、人間の証言・評価とは無関係に存在するもの。「泡（l'écume）と鉄（le fer）を量る」──最軽量のものと最重量のものを同じ天秤で測る：海の法則は差別しない。アルキメデスの浮力原理（鉄の船が浮く）への参照も読める──数学的法則の公正さ。"
+    },
+    {
+      "paragraphId": 4,
+      "type": "glossary",
+      "anchor": "Sur le navire un fil bleu trace un rapport,\nSans aucune erreur dans sa ligne apparente.",
+      "body": "「船の上で一本の青い糸が関係を描く、その現れた線に一つの誤りもなく（Sur le navire un fil bleu trace un rapport / Sans aucune erreur dans sa ligne apparente）」──これは船の喫水線（水線）のこと。水面が船体に刻む水平線は、重力と浮力の正確な均衡点を可視化する。「rapport（関係・比率）」という語の二重性：視覚的な線であると同時に数学的な比率。ヴェイユが愛した数学の美しさ──「Il naît des chants purs comme le silence（沈黙のように純粋な歌が生まれる）」（Prométhée §5）と同じ次元での、誤りなき法則への讃嘆。"
+    },
+    {
+      "paragraphId": 5,
+      "type": "commentary",
+      "anchor": "Mer vaste, aux mortels malheureux sois propice,\nPressés sur tes bords, perdus sur ton désert.",
+      "body": "第5連の転換──観想的叙述から祈願へ。「不幸な死すべき者たち（mortels malheureux）」は「Prométhée」第1連の「孤独に憔悴した動物」と対応する──プロメテウス以前の人間の困窮状態がここでも現れるが、今度は詩人が海に代わって祈る形式をとる。「汝の岸辺に押し込まれ、汝の砂漠に迷い込んだ」──「presser（押し込む）」と「perdre（迷わせる）」は受動的苦しみの二形態：圧迫と方向喪失。ヴェイユ自身の亡命体験（1940年以降のマルセイユ、ニューヨーク、ロンドン）の影が読める。"
+    },
+    {
+      "paragraphId": 5,
+      "type": "commentary",
+      "anchor": "À qui va sombrer parle avant qu'il périsse.\nEntre jusqu'à l'âme, ô notre sœur la mer ;\nDaigne la laver dans tes eaux de justice.",
+      "body": "詩の最終三行──「沈もうとする者に、滅びる前に語りかけよ（À qui va sombrer parle avant qu'il périsse）」。海が言葉を持つという人格化が突然現れる。ヴェイユの霊性における「affliction（苦悩）」の定義──水没寸前の者、もはや叫ぶことすらできない者への語りかけ。「ô notre sœur la mer（ああ、われらの姉妹よ海よ）」──フランシスコ・アッシジの「太陽の賛歌（Cantico delle Creature）」の「Sister Water（姉妹水）」への参照。ヴェイユはアッシジへの強い親近感を記している。「正義の水（eaux de justice）」──第4連の「証人なしに公正な天秤」の結論：海の水そのものが正義の媒体。洗礼の清めのイメージを持ちながら、ヴェイユは生涯洗礼を受けなかった──教会の外に留まることで「すべての人類と連帯する」という彼女の選択の詩的表現として読める。"
+    },
+    {
+      "paragraphId": 5,
+      "type": "intertextual",
+      "anchor": "Daigne la laver dans tes eaux de justice.",
+      "body": "「正義の水の中で魂を洗う」というイメージは、ダンテ『煉獄篇』第1歌でヴィルギリウスがカトーの命令に従ってダンテの顔を露の草で清める場面（Purg. I, 94–99）と響き合う──煉獄山の麓、海辺での清めの儀式。ヴェイユの「La Mer」も海辺を舞台とした清めの詩として読める。また「水の正義」という概念は、ヴェイユが深く学んだプラトン『国家』の正義論──各ものが本来の場所・本来の法則に従うこと──の自然的・詩的形象化でもある。",
+      "targetId": "dante_purgatorio_canto_1",
+      "targetParagraphId": null
+    }
+  ]
+}
