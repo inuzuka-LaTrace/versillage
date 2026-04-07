@@ -1229,7 +1229,7 @@ export default function App() {
           <div>
             <label className={`text-xs font-semibold uppercase tracking-wider font-IBM Plex sans JP ${textSecondary} block mb-2.5`}>訳文の色</label>
             <div className={`flex rounded-lg overflow-hidden border ${darkMode ? 'border-zinc-700' : 'border-[#c8b480]'}`}>
-              {[['neutral','白黒'],['ink','金銀'],['red','赤'],['violet','紫']].map(([val, label], i) => (
+              {[['neutral','白黒'],['ink','金黒'],['red','赤'],['violet','紫']].map(([val, label], i) => (
                 <button key={val} onClick={() => setTransColor(val)}
                   className={`flex-1 py-2 text-xs font-IBM Plex sans JP transition-colors ${transColor === val
                     ? darkMode ? 'bg-amber-700 text-amber-100' : 'bg-[#3a2e20] text-[#f5efe0]'
