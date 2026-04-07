@@ -1,0 +1,82 @@
+{
+  "id": "weil_les_astres",
+  "title": "Les Astres",
+  "author": "Simone Weil",
+  "source": "Poèmes suivis de Venise sauvée, Gallimard, Paris, 1968（死後刊行）。Wikisource: https://fr.wikisource.org/wiki/Poèmes_suivis_de_Venise_sauvée/Poèmes/Les_astres",
+  "year": "1937–1943頃",
+  "firstPublication": "Poèmes suivis de Venise sauvée, Gallimard, 1968（死後25年）",
+  "difficulty": "上級",
+  "category": "weil",
+  "originalLang": "fr-FR",
+  "modernRelevance": "★★★★★",
+  "context": "シモーヌ・ヴェイユ（1909–1943）の詩篇。全1連10行の単一ブロック詩。各行10音節（décasyllabe）。連分割なしの単一ストローフという形式が、星の支配の中断なき連続性と対応する。「Nécessité」詩篇と同じく星・腕の拘束・沈黙・服従というモチーフを共有するが、「Les Astres」は短く凝縮された詩的形式によって、怒りから沈黙・服従へのより速い転換を示す。最終行「Il est là dans le cœur soudain, leur feu divin（突然心の中にある、彼らの神の火が）」における「突然（soudain）」の副詞が詩全体の閃光的転換を集約する──「Éclair」詩篇の構造と内的に呼応する。",
+  "keywords": [
+    "星の火",
+　　 "神の火",
+    "腕の縛り",
+    "沈黙と服従",
+    "神の火の内面化",
+    "必然への同意",
+    "時間の収奪",
+    "叫びの無効",
+    "ヴェイユ詩篇",
+    "affliction",
+    "feu divin"
+  ],
+  "relatedTexts": [
+    "weil_necessite",
+    "weil_promethee",
+    "weil_eclair",
+    "mallarme_coup_de_des"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "verses": "v.1–10",
+      "original": "Astres en feu peuplant la nuit les cieux lointains,\nAstres muets tournant sans voir toujours glacés,\nVous arrachez hors de nos cœurs les jours d'hier,\nVous nous jetez aux lendemains sans notre aveu,\nEt nous pleurons et tous nos cris vers vous sont vains.\nPuisqu'il le faut, nous vous suivrons, les bras liés,\nLes yeux tournés vers votre éclat pur mais amer.\nÀ votre aspect toute douleur importe peu.\nNous nous taisons, nous chancelons sur nos chemins.\nIl est là dans le cœur soudain, leur feu divin.",
+      "provisionalTranslation": "遠い天を夜に満たす炎の星々よ、\n常に凍ったまま見ることなく回転する無言の星々よ、\nあなたたちは我々の心から昨日の日々を引き剥がし、\nあなたたちは我々の同意なしに我々を明日へと投げ込む、\nそして我々は泣き、あなたたちへの我々の叫びはみな虚しい。\nそうしなければならないから、我々は続いていく、腕を縛られて、\n目をあなたたちの純粋だが苦い輝きに向けて。\nあなたたちの前にすれば、いかなる苦しみも大したことではない。\n我々は沈黙し、我々の道の上でよろめく。\n突然心の中にある、彼らの神の火が。"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "Astres en feu peuplant la nuit les cieux lointains,\nAstres muets tournant sans voir toujours glacés,",
+      "body": "詩は「Astres（星々）」のアナフォラ（冒頭反復）で開始される──二行連続して同じ語で始まることで、星の繰り返しの回転運動が統語上に刻まれる。「炎の（en feu）」と「常に凍った（toujours glacés）」という矛盾する形容の共存：星は輝くが冷たい、燃えるが近づけない。ブランショ『文学の空間』（L'Espace littéraire, 1955）が論じる「本質的孤独」──芸術作品は完成の瞬間に作者から切り離され、無名の空間へと帰属する──という主題が、「無言の（muets）」「見ることなく（sans voir）」という星の性格と共鳴する：星も作品も、作者（あるいは神）の意図から独立した匿名の存在として回転し続ける。「Nécessité」詩篇の「Seule danse fixe, éclat muet d'en haut（唯一の固定した踊り、上からの無言の輝き）」と同じ「muet（無言）」の形容が、二詩篇を結ぶ。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "Vous arrachez hors de nos cœurs les jours d'hier,\nVous nous jetez aux lendemains sans notre aveu,",
+      "body": "「あなたたちは我々の心から昨日の日々を引き剥がし（arrachez）、我々の同意なしに我々を明日へと投げ込む（jetez）」──星は時間を人間から収奪する主体として描かれる。「arracher（引き剥がす）」と「jeter（投げ込む）」という暴力的な動詞が、天体運動を人間に対する強制として定義する。ブランショ『来たるべき書物』（Le Livre à venir, 1959）での「時間の外側（hors du temps）」の問題：文学の経験は日常の時間から人間を引き剥がす──ヴェイユの星は同じ時間的収奪を「必然（Nécessité）」として行う。「notre aveu（我々の同意）なしに」──ここで「aveu（同意・承認）」という語が出現するが、その否定形で。詩の後半で「il le faut（そうしなければならない）」という必然への服従へと転化する伏線。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "prosody",
+      "anchor": "Et nous pleurons et tous nos cris vers vous sont vains.",
+      "body": "第5行──詩の中間点（10行中5行目）に「我々の叫びはみな虚しい（tous nos cris vers vous sont vains）」という無効宣言が置かれる。「Et...et...」という等位接続詞の二重反復が「泣く」と「叫ぶ」を並置しながら、どちらも無効であることを強調する。詩の前半（1〜5行）が「あなたたち（vous）」への二人称告発であるのに対し、後半（6〜9行）が「我々（nous）」の一人称複数の叙述へと移行する転換点。「Nécessité」詩篇では「Clamant et désirant（叫び欲望しながら）」という現在分詞で叫びの無効性が描かれたが、ここではより直接的な「vains（虚しい）」という形容で断言される。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "Puisqu'il le faut, nous vous suivrons, les bras liés,\nLes yeux tournés vers votre éclat pur mais amer.",
+      "body": "「そうしなければならないから（Puisqu'il le faut）」──「il faut」という非人称構文が必然の非人格性を統語上に体現する：主語がない、強制の主体が存在しない命題。ブランショ『無限の対話』（L'Entretien infini, 1969）で繰り返される「il y a（ある）」「il faut（なければならない）」という非人称構文の思想──主体のない要求、誰も発していない命令。「腕を縛られて（les bras liés）」──「Nécessité」の「Cloués（釘付けにされて）」と同じ拘束のモチーフ。しかし「nous vous suivrons（我々は続いていく）」という未来形の能動性：縛られながらも従っていくという、受動的能動性。「純粋だが苦い輝き（éclat pur mais amer）」──「Nécessité」の「chaînes de clarté pure（純粋な光の鎖）」と同じ「純粋（pur）」の形容が、ここでは「苦い（amer）」という味覚の形容を伴う。純粋さは美しさでも甘さでもない──afflictionの純粋さ。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "Nous nous taisons, nous chancelons sur nos chemins.\nIl est là dans le cœur soudain, leur feu divin.",
+      "body": "詩の最終二行──「我々は沈黙し、よろめく（Nous nous taisons, nous chancelons）」から「突然心の中にある、彼らの神の火が（Il est là dans le cœur soudain, leur feu divin）」への転換が詩全体の閃光的構造を完成させる。「taire（沈黙する）」──「Nécessité」の「sans un cri（叫びなしに）」と呼応する。沈黙とよろめきという弱さの極点で、突然「feu divin（神の火）」が内側に現れる──これはプロメテウスが外側から人類に与えた火（「Prométhée」詩篇）が、ここでは内側から突然現れる火として逆転している。ブランショ『文学の空間』での「インスピレーション（inspiration）」の逆説──詩人が最も弱く受動的な状態において、作品が「やってくる」という経験──との照応。「soudain（突然）」という副詞が「Éclair（稲妻）」詩篇の閃光的構造と内的に連絡する：沈黙とよろめきの闇の中の、一瞬の神的火の出現。",
+      "targetId": "weil_eclair",
+      "targetParagraphId": 5
+    },
+    {
+      "paragraphId": 1,
+      "type": "intertextual",
+      "anchor": "Il est là dans le cœur soudain, leur feu divin.",
+      "body": "「突然心の中にある、彼らの神の火（leur feu divin）」──プロメテウス神話の火が「外から与えられるもの」から「内から突然現れるもの」へと転換する最終行。「Prométhée」詩篇では火は人類への贈り物として外部から到来したが、ここでは星々の「神の火」が沈黙とよろめきの後に心の内側から現れる──afflictionの極限での逆転。この転換はヴェイユの神秘主義的体験（1938年のアッシジでの啓示体験、「何かが私よりも強いものが私を跪かせた」）の詩的形象化として読める。マラルメ「骰子一擲」の最終行「Toute Pensée émet un Coup de Dés（いかなる思考も骰子の一擲を放つ）」との対照：マラルメでは思考が能動的に偶然を生成するのに対し、ヴェイユでは沈黙と受動性の極点において神の火が受動的に受け取られる。",
+      "targetId": "weil_promethee",
+      "targetParagraphId": 2
+    }
+  ]
+}
