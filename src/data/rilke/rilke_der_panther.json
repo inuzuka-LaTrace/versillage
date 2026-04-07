@@ -1,0 +1,82 @@
+{
+  "id": "rilke_der_panther",
+  "title": "Der Panther",
+  "author": "Rainer Maria Rilke",
+  "source": "Neue Gedichte, Insel-Verlag, Leipzig, 1907. 底本: Rainer Maria Rilke: Werke. Kommentierte Ausgabe in vier Bänden, Bd. 1, Insel Verlag, Frankfurt am Main, 1996. テキスト照合: Wikisource DE (https://de.wikisource.org/wiki/Der_Panther)",
+  "year": "1902–1903",
+  "firstPublication": "草稿執筆：1902年11月6日、パリ。初出版：Neue Gedichte, Insel-Verlag, Leipzig, 1907",
+  "difficulty": "上級",
+  "category": "rilke",
+  "originalLang": "de-DE",
+  "modernRelevance": "★★★★★",
+  "context": "「豹」はリルケが1902年11月にパリのジャルダン・デ・プラント（植物園・動物園）で書いた詩であり、「新詩集（1907）」の中でも最も広く知られる「物の詩（Dinggedicht）」の一つ。サブタイトル「IM JARDIN DES PLANTES, PARIS」が示すように、詩は観察の記録として書かれた──「見ること」への完全な集中という、ロダンから学んだ詩的方法の実践。\n\n三連からなる構造：第一連「視線の消耗（Erschöpfung des Blicks）」──「棒（Stäbe）の通り過ぎるのを見ることで視線は疲れ果て、もはや何も保持しない」。「千本の棒」の向こうには「世界がない（keine Welt）」。第二連「歩みの踊り（Tanz des Gangs）」──「柔らかい歩み」が「最小の円」の中で「中心の周りの力の踊り（Tanz von Kraft um eine Mitte）」として提示される。その中心で「大きな意志（großer Wille）」が「麻痺している（betäubt）」。第三連「イメージの失踪（Verschwinden des Bildes）」──「瞳の幕が静かに開く」。「一つのイメージが入り込む」──しかしそれは「肢体の緊張した静寂を通り過ぎ、心の中で存在することをやめる（hört im Herzen auf zu sein）」。\n\n「Der Panther」は20世紀の多様な思想的・文学的伝統において論じられた：ジャン＝ピエール・リシャール『詩と深さ（1955）』は「視線の消耗と内側への密度の喪失」を分析。モーリス・ブランショ『文学の空間（1955）』は「閉じた空間の中でイメージが消滅する」という詩的逆説を論じた。ヴァルター・ベンヤミン「ボードレールにおける第二帝政期のパリ（1938）」は「ジャルダン・デ・プラントの動物」という視線の形象がパリの群衆・商品の視線と交差することを論じた。ジョルジョ・アガンベン『開かれ（L'Aperto, 2002）』は「動物は世界を持たない（das Tier hat keine Welt）」という命題の文脈でリルケの第8悲歌と「豹」を論じた。パウル・ツェランはリルケへの複雑な受容においてこの詩の「棒（Stäbe）」という形象──格子・鉄格子として後の詩的言語に変容する──との親和性が批評史上論じられてきた。",
+  "keywords": [
+    "ジャルダン・デ・プラント",
+    "豹（Panther）",
+    "棒・鉄格子（Stäbe）",
+    "視線の消耗（Blick müd）",
+    "千本の棒の向こうに世界なし",
+    "力の踊り（Tanz von Kraft）",
+    "麻痺した大きな意志（betäubt ein großer Wille）",
+    "瞳の幕（Vorhang der Pupille）",
+    "心の中でイメージが消える（hört im Herzen auf zu sein）",
+    "物の詩（Dinggedicht）",
+    "ベンヤミン・アガンベン・ツェラン受容"
+  ],
+  "relatedTexts": [
+    "rilke_archaischer_torso_apollos",
+    "rilke_duineser_elegien_08",
+    "rilke_sonette_orpheus_1_01",
+    "rilke_das_roseninnere"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "verses": "v.1–12",
+      "epigraphs": [
+        {
+          "author": "",
+          "source": "",
+          "text": "IM JARDIN DES PLANTES, PARIS",
+          "translation": "パリ、植物園にて"
+        }
+      ],
+      "original": "Sein Blick ist vom Vorübergehn der Stäbe\nso müd geworden, daß er nichts mehr hält.\nIhm ist, als ob es tausend Stäbe gäbe\nund hinter tausend Stäben keine Welt.\n\nDer weiche Gang geschmeidig starker Schritte,\nder sich im allerkleinsten Kreise dreht,\nist wie ein Tanz von Kraft um eine Mitte,\nin der betäubt ein großer Wille steht.\n\nNur manchmal schiebt der Vorhang der Pupille\nsich lautlos auf –. Dann geht ein Bild hinein,\ngeht durch der Glieder angespannte Stille –\nund hört im Herzen auf zu sein.",
+      "provisionalTranslation": "彼の視線は棒の通り過ぎるのを見ることで\nこれほど疲れ果てた、もはや何も保持しない。\n彼には、千本の棒があるかのようで\n千本の棒の向こうには世界がない。\n\n柔らかく滑らかな力強い歩みの歩き方、\n最も小さな円の中で回り続け、\nは中心の周りの力の踊りのようだ、\nその中心で麻痺した大きな意志が立っている。\n\nただ時たま、瞳の幕が\n静かに開く──。すると一つのイメージが入り込み、\n肢体の緊張した静寂を通り過ぎ──\n心の中で存在することをやめる。"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "Sein Blick ist vom Vorübergehn der Stäbe\nso müd geworden, daß er nichts mehr hält.\nIhm ist, als ob es tausend Stäbe gäbe\nund hinter tausend Stäben keine Welt.",
+      "body": "「彼の視線は棒の通り過ぎるのを見ることで、これほど疲れ果てた、もはや何も保持しない。彼には、千本の棒があるかのようで、千本の棒の向こうには世界がない」──第一連。「vom Vorübergehn der Stäbe（棒の通り過ぎるのを見ることで）」──「Vorübergehn（通り過ぎること）」が視線の消耗の原因として提示される：豹ではなく棒が「通り過ぎる（vorübergehen）」──豹の視線から見ると、静止した檻の棒が「次々と通り過ぎる」錯視として体験される。ジャン＝ピエール・リシャール『詩と深さ』はこの視線の「疲弊（épuisement）」を「外側への接触の失敗（échec du contact avec l'extérieur）」として分析した：豹の視線は「外世界との接触（Hält）」を失っている。「keine Welt（世界がない）」──第8悲歌「われわれは一日も持ったことがない、純粋な空間を（Wir haben nie den reinen Raum vor uns）」との対応：豹は人間とは別の理由で「世界を持たない」──檻という物理的制約によって。アガンベン『開かれ（L'Aperto）』は「動物は世界を持たない（das Tier hat keine Welt）」というユクスキュルの「環世界（Umwelt）」論を参照しながら、リルケの第8悲歌と「豹」の「世界のなさ」を論じた──しかし「豹」の「keine Welt」は第8悲歌の「動物の開かれたもの（das Offene）」と矛盾する：豹は「檻に閉じ込められることで」本来は「開かれたもの」を見るはずの動物が世界を失った状態として描かれる。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "Der weiche Gang geschmeidig starker Schritte,\nder sich im allerkleinsten Kreise dreht,\nist wie ein Tanz von Kraft um eine Mitte,\nin der betäubt ein großer Wille steht.",
+      "body": "「柔らかく滑らかな力強い歩みの歩き方……は中心の周りの力の踊りのようだ、その中心で麻痺した大きな意志が立っている」──第二連。「Tanz von Kraft um eine Mitte（中心の周りの力の踊り）」──「Tanz（踊り）」という形象は第二部XVIII「Tänzerin……Baum aus Bewegung（踊り手……動きから成る樹）」との連続：豹の反復的歩行が「踊り」として詩的に肯定される──しかしここでは「踊り」の中心に「麻痺した大きな意志（betäubt ein großer Wille）」がある。「betäubt（麻痺した）」──「betäuben（麻痺させる・鈍らせる）」：意志が「外部」に向かおうとしながら「麻痺」している。リシャール『詩と深さ』は「中心の麻痺（paralysie du centre）」をこの詩の詩的核心として分析した：力は存在するが、その中心で方向性・意志が「麻痺」している──最大の密度を持ちながら最大の閉塞という逆説。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "prosody",
+      "anchor": "Nur manchmal schiebt der Vorhang der Pupille\nsich lautlos auf –. Dann geht ein Bild hinein,\ngeht durch der Glieder angespannte Stille –\nund hört im Herzen auf zu sein.",
+      "body": "第三連──「イメージが心の中で消える」。「lautlos（静かに・音なく）」──「ohne Laut（音なく）」：幕の開きが音を持たない。第三連全体が「沈黙の音響学」として構成される：「lautlos（音なく）」「angespannte Stille（緊張した静寂）」そして最終行「hört…auf zu sein（存在することをやめる）」──動詞「aufhören（やめる）」が静寂の中で音もなく完結する。「ein Bild hinein（一つのイメージが入り込む）」──「Bild（イメージ・像）」の侵入：瞳が開いた瞬間に「イメージ」が豹の内側に「入る（hinein）」。しかしそのイメージは「肢体の緊張した静寂を通り過ぎ（geht durch der Glieder angespannte Stille）」──身体を「通過する」だけで留まらない。「hört im Herzen auf zu sein（心の中で存在することをやめる）」──詩の最終行。「aufhören zu sein（存在することをやめる）」という消滅の動詞句が詩を閉じる。ブランショ『文学の空間』はこの最終行を「詩的イメージの本質的消滅（disparition essentielle de l'image poétique）」として論じた：イメージは「入る（hinein）」が「心（Herz）」に達すると「存在することをやめる」──詩的空間に入ったイメージは現実空間では消える。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "intertextual",
+      "anchor": "Ihm ist, als ob es tausend Stäbe gäbe\nund hinter tausend Stäben keine Welt.",
+      "body": "「彼には、千本の棒があるかのようで、千本の棒の向こうには世界がない」──ヴァルター・ベンヤミン「ボードレールにおける第二帝政期のパリ（Charles Baudelaire: Ein Lyriker im Zeitalter des Hochkapitalismus, 1938）」はパリのジャルダン・デ・プラントにおける視線の形象を分析し、「群衆の中の視線（Blick in der Menge）」が「商品の視線（Blick der Ware）」と交差するパリの空間論を展開した。リルケの「豹」の「千本の棒（tausend Stäbe）」という形象は、ベンヤミン的な「群衆の身体が作る反復的な障壁」と相同的な構造を持つ──豹にとって「棒」が世界を遮断するように、ボードレールの都市詩においては「群衆」が視線を断片化する。「Stäbe（棒・格子）」という形象はパウル・ツェランの詩的言語においても重要な位置を占める：ツェランの「死のフーガ（Todesfuge, 1945）」の「黒いミルク（schwarze Milch）」等の詩的形象が「投獄・格子・閉塞」の主題を持つことと、リルケの「豹」の「千本の棒」の形象との系譜的連絡が批評史上論じられてきた（特にローズマリー・ラシュリー、ジョン・フェルスティナーらによる）。ツェラン自身はリルケへの複雑な態度を持ち──敬愛と距離──「豹」の「格子」形象がホロコーストという歴史的文脈の中でツェランの詩において変容・継承されるという読みは、リルケ受容史の重要な一側面をなす。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "intertextual",
+      "anchor": "und hört im Herzen auf zu sein.",
+      "body": "「心の中で存在することをやめる」──アガンベン『開かれ（L'Aperto: l'uomo e l'animale, 2002）』はリルケの第8悲歌「Mit allen Augen sieht die Kreatur / das Offene（すべての眼で被造物は開かれたものを見る）」と「豹」を対置して論じた。第8悲歌では動物が「開かれたもの（das Offene）」を持つ存在として肯定されているが、「豹」では「千本の棒の向こうに世界がない」──同じリルケの詩において動物の存在様式が「開かれた存在」と「世界なき存在」として矛盾的に提示される。アガンベンはこの矛盾を「動物の捕囚（la captivité animale）が開かれたものへのアクセスを遮断する」という命題として解釈した：豹の「心の中でイメージが消える」という最終行は、「開かれたもの（Offene）」へのアクセスを人工的に閉じられた動物の存在論的悲劇として読める。ブランショ『文学の空間』は「hört im Herzen auf zu sein」という最終行を「詩の内側でイメージが消えることで、詩が成立する」という詩的逆説として論じた：消えること（disparition）が詩的現前（présence poétique）の条件──「豹」という詩は「イメージの消滅」を描くことで最も生き生きとしたイメージを作る。",
+      "targetId": "rilke_duineser_elegien_08",
+      "targetParagraphId": 1
+    }
+  ]
+}
