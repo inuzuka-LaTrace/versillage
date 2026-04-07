@@ -1,0 +1,104 @@
+{
+  "id": "weil_necessite",
+  "title": "Nécessité",
+  "author": "Simone Weil",
+  "source": "Poèmes suivis de Venise sauvée, Gallimard, Paris, 1968（死後刊行）。Wikisource: https://fr.wikisource.org/wiki/Poèmes_suivis_de_Venise_sauvée/Poèmes/Nécessité",
+  "year": "1937–1943",
+  "firstPublication": "Poèmes suivis de Venise sauvée, Gallimard, 1968（死後25年）",
+  "difficulty": "上級",
+  "category": "weil",
+  "originalLang": "fr-FR",
+  "modernRelevance": "★★★★★",
+  "context": "シモーヌ・ヴェイユ（1909–1943）の詩篇。全4連4行の四行詩（quatrains）、アレクサンドラン（12音節）、交差韻（ABAB）。タイトル「Nécessité（必然）」はヴェイユの思想における中心概念のひとつ──宇宙を支配する盲目的・非人格的な力として、神の意志とは区別される「必然」。詩は天球の円環運動と星々の沈黙した支配を描き、人間の抵抗（怒り・叫び・欲望）の無効性を経て、最終連での逆説的な同意──「死ぬまで従いたい（Nous voulons vous obéir jusqu'à la mort）」──に至る。磔刑のイメージ（「Cloués sans un cri sur le point fixe au Nord（北の固定点に叫びなしに釘付けにされて）」）がヴェイユのキリスト論的affliction概念と直結する。「Les Astres」詩篇と同じ星の支配・腕の縛り・沈黙というモチーフを共有しながら、より長い詩的展開と明示的な服従の宣言によって区別される。",
+  "keywords": [
+    "必然",
+    "星の支配",
+    "服従と死",
+    "affliction",
+    "磔刑のイメージ",
+    "怒りの無効性",
+    "沈黙の命令",
+    "北極星",
+    "重力と恩寵",
+    "ブランショ",
+    "ヴェイユ詩篇"
+  ],
+  "relatedTexts": [
+    "weil_les_astres",
+    "weil_promethee",
+    "weil_la_mer",
+    "hoelderlin_brot_und_wein"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "verses": "v.1–4",
+      "original": "Le cercle des jours du ciel désert qui tourne\nParmi le silence aux regards des mortels,\nGueule ouverte ici-bas, où chaque heure enfourne\nTant de cris si suppliants et si cruels ;",
+      "provisionalTranslation": "死すべき者たちの眼差しの沈黙の中、\n回転する荒れた空の日々の円環、\n地上に開いた大口、そこに毎時間が投げ込む\nこれほど嘆願し、これほど残酷な叫びを；"
+    },
+    {
+      "id": 2,
+      "verses": "v.5–8",
+      "original": "Tous les astres lents dans les pas de leur danse,\nSeule danse fixe, éclat muet d'en haut,\nSans forme malgré nous, sans nom, sans cadence,\nTrop parfaits, que ne revêt aucun défaut ;",
+      "provisionalTranslation": "すべての星が遅くその踊りの歩みの中に、\n唯一の固定した踊り、上からの無言の輝き、\n我々には関わりなく形なく、名もなく、リズムもなく、\nあまりにも完全で、いかなる欠陥も纏わない；"
+    },
+    {
+      "id": 3,
+      "verses": "v.9–12",
+      "original": "À eux suspendus, notre colère est vaine.\nCalmez notre soif si vous brisez nos cœurs.\nClamant et désirant, leur cercle nous traîne ;\nNos maîtres brillants furent toujours vainqueurs.",
+      "provisionalTranslation": "彼らに吊るされて、我々の怒りは虚しい。\n我々の心を砕くなら、我々の渇きを静めよ。\n叫び欲望しながら、彼らの円環が我々を引きずる；\n我々の輝く主たちは常に征服者であった。"
+    },
+    {
+      "id": 4,
+      "verses": "v.13–16",
+      "original": "Déchirez les chairs, chaînes de clarté pure.\nCloués sans un cri sur le point fixe au Nord,\nL'âme nue exposée à toute blessure,\nNous voulons vous obéir jusqu'à la mort.",
+      "provisionalTranslation": "肉を引き裂け、純粋な光の鎖よ。\n北の固定点に叫びなしに釘付けにされて、\n魂は裸でいかなる傷にも晒されて、\n我々は死ぬまであなたたちに従いたい。"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "Le cercle des jours du ciel désert qui tourne\nParmi le silence aux regards des mortels,\nGueule ouverte ici-bas, où chaque heure enfourne\nTant de cris si suppliants et si cruels ;",
+      "body": "詩の冒頭は天球の「円環（cercle）」と地上の「大口（Gueule）」という二つのイメージの対位から始まる。「荒れた空（ciel désert）」──神の不在、空虚なる天。この空虚は恐怖ではなくヴェイユの「神の不在（absence de Dieu）」神学の詩的形象：神が退くことで宇宙の必然（Nécessité）が露わになる。「大口、そこに毎時間が投げ込む（Gueule ouverte...où chaque heure enfourne）」──時間を「炉（four）」に投げ入れる動詞「enf-ourner」は製パン・工業の語彙。「Éclair」詩篇の工場世界と同じ語彙圏が天体論に侵入する。ブランショ『文学の空間』（L'Espace littéraire, 1955）は「昼の空間」と「夜の空間」の対立を論じるが、ヴェイユの「荒れた空」は昼でも夜でもない──時間を消費し続ける空虚な天球という第三の空間。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "Tous les astres lents dans les pas de leur danse,\nSeule danse fixe, éclat muet d'en haut,\nSans forme malgré nous, sans nom, sans cadence,\nTrop parfaits, que ne revêt aucun défaut ;",
+      "body": "第2連は「Nécessité（必然）」の本質的な非人格性の定義：「形なく、名もなく、リズムもなく（Sans forme, sans nom, sans cadence）」。三重の否定による定義──これはアポファティック神学（否定神学）の方法と同じ。ブランショは『来たるべき書物』（Le Livre à venir, 1959）で「中性（le neutre）」を「いかなる規定にも属さない、肯定でも否定でもないもの」として定義するが、ヴェイユの「必然」の星々はまさにこの中性の特徴を持つ──「我々には関わりなく（malgré nous）」形もなく名もない存在。「あまりにも完全（Trop parfaits）」──過剰な完全性が却って人間から遠ざかる逆説。神的完全性の非人格的側面。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "prosody",
+      "anchor": "Sans forme malgré nous, sans nom, sans cadence,",
+      "body": "「Sans forme malgré nous, sans nom, sans cadence（形なく、名もなく、リズムもなく）」──アレクサンドランの中に三重の「sans（なく）」を並べるアナフォラ的列挙。詩行自体が「sans cadence（リズムなく）」と言いながら、リズムを持つ12音節詩行として存在する──この自己矛盾が意図的な詩的緊張を生む。必然は語られえないにもかかわらず、詩が語ろうとする──ブランショが「文学の不可能性」として繰り返し語る主題との共鳴。"
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "À eux suspendus, notre colère est vaine.\nCalmez notre soif si vous brisez nos cœurs.",
+      "body": "「彼らに吊るされて（À eux suspendus）」──ヴェイユ詩篇を貫く「吊るされたもの」のモチーフが三度目に現れる：「Prométhée」の「pendant qu'il pend crucifié」、「La Mer」の「L'aile suspendue entre le ciel et l'eau」、そしてここ。吊るされることは磔刑であると同時に、重力に抗えず必然に吊り下げられた人間の基本的条件。「我々の心を砕くなら、我々の渇きを静めよ（Calmez notre soif si vous brisez nos cœurs）」──逆説的な条件文：破壊することが癒しの条件。ブランショ『無限の対話』（L'Entretien infini, 1969）での「受難（passion）」の議論──主体が完全に破壊されることによってのみ他者への開口が生まれる──との共鳴。"
+    },
+    {
+      "paragraphId": 3,
+      "type": "glossary",
+      "anchor": "Nos maîtres brillants furent toujours vainqueurs.",
+      "body": "「我々の輝く主たち（Nos maîtres brillants）」──星々が「主（maîtres）」と呼ばれる。「La Mer」での「Les astres au loin sans effort ont puissance（星々は何の努力もなく力を持つ）」の「力（puissance）」が、ここでは「主（maîtres）」という支配の語彙に転換している。ヴェイユの「Nécessité」概念：宇宙の法則は人格を持たず命令もしないが、それに抵抗することは不可能──これが「必然」の本質。「常に征服者であった（furent toujours vainqueurs）」という過去形は永遠の過去──人類の歴史全体を通じて一度も例外なく。"
+    },
+    {
+      "paragraphId": 4,
+      "type": "commentary",
+      "anchor": "Déchirez les chairs, chaînes de clarté pure.\nCloués sans un cri sur le point fixe au Nord,\nL'âme nue exposée à toute blessure,\nNous voulons vous obéir jusqu'à la mort.",
+      "body": "詩の最終連──命令法への転換が逆説を完成させる。「肉を引き裂け（Déchirez les chairs）」は、星々に向けられた命令であると同時に、自己に向けられた意志の宣言。「純粋な光の鎖（chaînes de clarté pure）」──「Prométhée」の「岩への鎖」が光の鎖として再現する：プロメテウスの罰的な拘束が、ここでは自ら望む服従の鎖として受け取り直される。「北の固定点に釘付け（Cloués sur le point fixe au Nord）」──北極星（Polaris）への参照。「La Mer」の「Sans aucune erreur dans sa ligne apparente（一つの誤りもなく）」が天文学的精度として北極星に対応する。「叫びなしに（sans un cri）」──affliction（苦悩）がその極点で声を失うという、ヴェイユの苦悩論の核心。ブランショ『文学の空間』での「本質的孤独」──言葉が失われる場所、叫びさえ届かない空間──がここで詩的に体現される。「死ぬまで従いたい（Nous voulons vous obéir jusqu'à la mort）」：この「vouloir（欲する）」が決定的──強制されてではなく、意志として服従を選ぶ。これがヴェイユの「consentement（同意）」──必然への自由な同意が、afflictionを苦悩から超自然的経験へと転化させる。"
+    },
+    {
+      "paragraphId": 4,
+      "type": "intertextual",
+      "anchor": "Cloués sans un cri sur le point fixe au Nord,",
+      "body": "「北の固定点に叫びなしに釘付けにされて（Cloués sans un cri sur le point fixe au Nord）」──磔刑のイメージ（clouer＝釘で固定する）と天文学的固定点（北極星）の重合。ヴェイユの「待機（attente）」の神学では、afflictionの極点において人間は動けず叫べない状態に置かれるが、その不動性こそが神への最大の開口となる。ダンテ『地獄篇』第34歌でサタンが氷の中に固定されているイメージとの対照──ヴェイユの固定は地獄の罰ではなく、星への方向づけという逆説的な方向性を持つ。「Prométhée」の「Le fer le cloue au roc（鉄が彼を岩に釘付けにする）」との語彙的連絡：同じ「clouer」という動詞が、プロメテウスの罰とここでの自発的服従を結ぶ。",
+      "targetId": "weil_promethee",
+      "targetParagraphId": 6
+    }
+  ]
+}
