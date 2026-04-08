@@ -1,0 +1,269 @@
+{
+  "id": "weil_pesanteur_beaute",
+  "title": "La Pesanteur et la Grâce — Beauté",
+  "author": "Simone Weil",
+  "source": "La Pesanteur et la Grâce, Plon, Paris, 1947（死後刊行、編者Gustave Thibon）。底本: Wikisource: https://fr.wikisource.org/wiki/La_Pesanteur_et_la_Grâce/33",
+  "year": "1940–1942",
+  "firstPublication": "La Pesanteur et la Grâce, Plon, Paris, 1947（死後4年、Gustave Thibon編）",
+  "difficulty": "上級",
+  "category": "weil",
+  "originalLang": "fr-FR",
+  "modernRelevance": "★★★★★",
+  "context": "ヴェイユが1940〜42年に記した思想ノートから、没後Gustave Thibonが編集した箴言集『重力と恩寵』（La Pesanteur et la Grâce, 1947）の「美（Beauté）」章。断章形式（❖区切りの箴言群）で、美の定義・感覚と必然の結合・美と距離の関係・芸術の宗教的基底・1914年以降の芸術の危機まで、ヴェイユの美学思想の全体が展開される。「距離は美の魂である（La distance est l'âme du beau）」「美は肉体を誘惑して魂への通路を開かせる（La beauté séduit la chair pour obtenir la permission de passer jusqu'à l'âme）」等の定式がヴェイユ美学の核心を示す。詩篇（Prométhée、La Mer、Éclair、Nécessité、Les Astres）と並走する散文的思考の場として読むことができ、詩篇が感覚的・詩的に体現するものをここでは概念として展開する。",
+  "keywords": [
+    "美の定義",
+    "距離と美",
+    "必然と美",
+    "美と神の実在",
+    "匿名の芸術",
+    "降下運動",
+    "注意と観想",
+    "詩の不可能性",
+    "芸術の危機",
+    "ヴェイユ美学"
+  ],
+  "relatedTexts": [
+    "weil_promethee",
+    "weil_la_mer",
+    "weil_eclair",
+    "weil_necessite",
+    "weil_les_astres",
+    "mallarme_crise_de_vers",
+    "mallarme_coup_de_des",
+    "racine_phedre_acte4_sc4_6"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "original": "La beauté, c'est l'harmonie du hasard et du bien.",
+      "provisionalTranslation": "美とは、偶然と善との調和である。"
+    },
+    {
+      "id": 2,
+      "original": "Le beau est le nécessaire, qui, tout en demeurant conforme à sa loi propre et à elle seule, obéit au bien.",
+      "provisionalTranslation": "美しいものとは必然的なものであり、自らに固有の法則のみに従いながら、同時に善に従うものである。"
+    },
+    {
+      "id": 3,
+      "original": "Objet de la science : le beau (c'est-à-dire, l'ordre, la proportion, l'harmonie) en tant que suprasensible et nécessaire.\n\nObjet de l'art : le beau sensible et contingent, perçu à travers le filet du hasard et du mal.",
+      "provisionalTranslation": "科学の対象：超感覚的かつ必然的なものとしての美（すなわち秩序、比例、調和）。\n\n芸術の対象：感覚的かつ偶然的な美、偶然と悪の網を通して知覚されるもの。"
+    },
+    {
+      "id": 4,
+      "original": "Le beau dans la nature : union de l'impression sensible et du sentiment de la nécessité. \nCela doit être ainsi (en premier lieu), et précisément cela est ainsi.",
+      "provisionalTranslation": "自然の中の美：感覚的印象と必然性の感覚との結合。\nそうであらねばならない（まず第一に）、そしてまさにそうである。"
+    },
+    {
+      "id": 5,
+      "original": "La beauté séduit la chair pour obtenir la permission de passer jusqu'à l'âme.",
+      "provisionalTranslation": "美は肉体を誘惑して、魂の奥まで通り抜ける許しを得る。"
+    },
+    {
+      "id": 6,
+      "original": "Le beau enferme, entre autres unités des contraires, celle de l'instantané et de l'éternel.",
+      "provisionalTranslation": "美は、他の諸々の対立物の統一とともに、瞬間的なものと永遠なものとの統一を閉じ込めている。"
+    },
+    {
+      "id": 7,
+      "original": "Le beau est ce qu'on peut contempler. Une statue, un tableau qu'on peut regarder pendant des heures.\n\nLe beau, c'est quelque chose à quoi on peut faire attention.\n\nMusique grégorienne. \nQuand on chante les mêmes choses des heures chaque jour et tous les jours, ce qui est même un peu au-dessous de la suprême excellence devient insupportable et s'élimine.\n\nLes Grecs regardaient leurs temples. \nNous supportons les statues du Luxembourg parce que nous ne les regardons pas.\n\nUn tableau tel qu'on puisse le mettre dans la cellule d'un condamné à l'isolement perpétuel, sans que ce soit une atrocité, au contraire.",
+      "provisionalTranslation": "美しいものとは、観想できるものである。何時間でも見続けられる彫像、絵画。\n\n美しいものとは、注意を向けられるものである。\n\nグレゴリア聖歌。毎日毎日何時間も同じものを歌うとき、最高の卓越さより僅かに劣るものは耐えられなくなり脱落してゆく。\n\nギリシャ人は神殿を見ていた。私たちはリュクサンブール公園の彫像に耐えられる、なぜなら私たちはそれを見ていないから。\n\n絶対的孤独刑の死刑囚の独房に置けるような絵画──それが残酷なことでなく、むしろその逆であるような。"
+    },
+    {
+      "id": 8,
+      "original": "Le théâtre immobile est le seul vraiment beau. Les tragédies de Shakespeare sont de second ordre, sauf Lear.\nCelles de Racine de troisième ordre, sauf Phèdre.\nCelles de Corneille de Nème ordre.",
+      "provisionalTranslation": "動かない演劇だけが真に美しい。シェイクスピアの悲劇は二流である、リアを除いて。\nラシーヌのものは三流である、フェードルを除いて。\nコルネイユのものはN流である。"
+    },
+    {
+      "id": 9,
+      "original": "Une œuvre d'art a un auteur, et pourtant, quand elle est parfaite, elle a quelque chose d'essentiellement anonyme.\nElle imite l'anonymat de l'art divin.\nAinsi la beauté du monde prouve un Dieu à la fois personnel et impersonnel, et ni l'un ni l'autre.",
+      "provisionalTranslation": "芸術作品には作者がある、しかしそれが完全であるとき、本質的に匿名のものを持つ。\n芸術作品は神的芸術の匿名性を模倣する。\nこうして世界の美は、同時に人格的かつ非人格的であり、そのどちらでもない神を証明する。"
+    },
+    {
+      "id": 10,
+      "original": "Le beau est un attrait charnel qui tient à distance et implique une renonciation. Y compris la renonciation la plus intime, celle de l'imagination. On veut manger tous les autres objets de désir. Le beau est ce qu'on désire sans vouloir le manger. Nous désirons que cela soit.",
+      "provisionalTranslation": "美しいものとは、距離を保たせる肉体的な引力であり、放棄を含意する。最も親密な放棄、すなわち想像力の放棄を含めて。他のすべての欲望の対象は食べたいと思う。美しいものとは、食べたいとは思わずに欲するものである。我々はそれが在ることを欲する。"
+    },
+    {
+      "id": 11,
+      "original": "Rester immobile et s'unir à ce qu'on désire et dont on n'approche pas.\n\nOn s'unit à Dieu ainsi : on ne peut pas s'en approcher.\n\nLa distance est l'âme du beau.",
+      "provisionalTranslation": "動かないままでいて、欲するが近づかないものと合一する。\n\n神とはそのようにして合一する：神には近づけない。\n\n距離は美の魂である。"
+    },
+    {
+      "id": 12,
+      "original": "Le regard et l'attente, c'est l'attitude qui correspond au beau. Tant qu'on peut concevoir, vouloir, souhaiter, le beau n'apparaît pas. C'est pourquoi, dans toute beauté, il y a contradiction, amertume, absence irréductibles.",
+      "provisionalTranslation": "眼差しと待機、それが美に対応する態度である。構想し、欲し、望むことができる限り、美は現れない。それゆえ、いかなる美の中にも、還元不可能な矛盾、苦味、不在がある。"
+    },
+    {
+      "id": 13,
+      "original": "Poésie : douleur et joie impossibles. Touche poignante, nostalgie.\nTelle est la poésie provençale et anglaise. Une joie qui, à force d'être pure et sans mélange, fait mal.\nUne douleur qui, à force d'être pure et sans mélange, apaise.",
+      "provisionalTranslation": "詩：不可能な苦しみと喜び。胸を刺す感触、ノスタルジー。\nそれがプロヴァンスとイングランドの詩である。純粋で混じりけのない力によって、苦しめる喜び。\n純粋で混じりけのない力によって、なだめる苦しみ。"
+    },
+    {
+      "id": 14,
+      "original": "Beauté : un fruit qu'on regarde sans tendre la main.\n\nDe même un malheur qu'on regarde sans reculer.",
+      "provisionalTranslation": "美：手を伸ばさずに見る果実。\n\n同様に、後退せずに見る不幸。"
+    },
+    {
+      "id": 15,
+      "original": "Double mouvement descendant : refaire par amour ce que fait la pesanteur. \nLe double mouvement descendant n'est-il pas la clef de tout art ?",
+      "provisionalTranslation": "二重の降下運動：重力がなすことを愛によってやり直すこと。\n二重の降下運動こそが全ての芸術の鍵ではないか？"
+    },
+    {
+      "id": 16,
+      "original": "Le mouvement descendant, miroir de la grâce, est l'essence de toute musique. \nLe reste sert seulement à l'enchâsser.\n\nLa montée des notes est montée purement sensible.\nLa descente est à la fois descente sensible et montée spirituelle. \nC'est là le paradis que tout être désire ; que la pente de la nature fasse monter vers le bien.",
+      "provisionalTranslation": "恩寵の鏡である降下運動は、全ての音楽の本質である。\n残りのものはただそれを嵌め込むためにある。\n\n音符の上昇は純粋に感覚的な上昇である。\n降下は感覚的降下と同時に精神的上昇である。\nそこに全ての存在が欲するパラダイスがある；自然の傾斜が善へと上昇させること。"
+    },
+    {
+      "id": 17,
+      "original": "En tout ce qui suscite chez nous le sentiment pur et authentique du beau, il y a réellement présence de Dieu. \nIl y a comme une espèce d'incarnation de Dieu dans le monde, dont la beauté est la marque.\n\nLe beau est la preuve expérimentale que l'incarnation est possible.\n\nDès lors tout art de premier ordre est par essence religieux. (C'est ce qu'on ne sait plus aujourd'hui.) Une mélodie grégorienne témoigne autant que la mort d'un martyr.",
+      "provisionalTranslation": "純粋で真正な美の感情を我々に呼び起こすものすべての中に、神の実在が真に存在している。\n世界の中への神の受肉の一種があり、美はその印である。\n\n美は受肉が可能であることの実験的証明である。\n\nしたがって一流の芸術はすべて本質的に宗教的である。（これは今日もはや誰も知らないことだ。）グレゴリア聖歌の旋律は殉教者の死と同じくらい証言する。"
+    },
+    {
+      "id": 18,
+      "original": "Si le beau est présence réelle de Dieu dans la matière, si le contact avec le beau est au plein sens du mot un sacrement, comment y a-t-il tant d'esthètes pervers ?\nNéron.\nCela ressemble-t-il à la faim des amateurs de messes noires pour les hosties consacrées ?\nOu bien, plus probablement, ces gens ne s'attachent-ils pas au beau authentique, mais à une imitation mauvaise ?\nCar, comme il y a un art divin, il y a un art démoniaque.\nC'est celui-là sans doute qu'aimait Néron. Une grande partie de notre art est démoniaque.\n\nUn amateur passionné de musique peut fort bien être un homme pervers — mais je le croirais difficilement de quelqu'un qui a soif de chant grégorien.",
+      "provisionalTranslation": "もし美が物質の中への神の真の実在であり、美との接触が文字通りの意味で秘蹟であるなら、なぜこれほど多くの倒錯した唯美主義者がいるのか？\nネロ。\nこれは黒ミサの愛好者が聖体パンに抱く飢えに似ているか？\nあるいは、より可能性が高いことだが、こうした人々は真正な美ではなく、悪い模倣に執着するのではないか？\nなぜなら、神的な芸術があるように、悪魔的な芸術があるから。\nそれがネロの愛したものだ。我々の芸術の大部分は悪魔的である。\n\n音楽の情熱的な愛好家が倒錯した人間であることはあり得る──しかしグレゴリア聖歌への渇望を持つ人がそうだとは信じにくい。"
+    },
+    {
+      "id": 19,
+      "original": "Il faut bien que nous ayons commis des crimes qui nous ont rendus maudits, puisque nous avons perdu toute la poésie de l'univers.",
+      "provisionalTranslation": "我々が呪われた者となったような罪を犯したに違いない、宇宙の詩の全てを失ってしまったのだから。"
+    },
+    {
+      "id": 20,
+      "original": "L'art n'a pas d'avenir immédiat parce que tout art est collectif et qu'il n'y a plus de vie collective (il n'y a que des collectivités mortes), et aussi à cause de cette rupture du pacte véritable entre le corps et l'âme.\nL'art grec a coïncidé avec les débuts de la géométrie et avec l'athlétisme, l'art du Moyen Âge avec l'artisanat, l'art de la Renaissance avec les débuts de la mécanique, etc…\nDepuis 1914, il y a une coupure complète.\nLa comédie même est à peu près impossible : il n'y a place que pour la satire (quand a-t-il été plus facile de comprendre Juvénal) ?\nL'art ne pourra renaître que du sein de la grande anarchie — épique sans doute, parce que le malheur aura simplifié bien des choses… Il est donc bien inutile de ta part d'envier \nVinci ou Bach. \nLa grandeur, de nos jours, doit prendre d'autres voies. Elle ne peut d'ailleurs être que solitaire, obscure et sans écho… (or, pas d'art sans écho).",
+      "provisionalTranslation": "芸術に直接的な未来はない、なぜなら全ての芸術は集団的であり、もはや集団的な生（死んだ集合体しかない）が存在せず、また肉体と魂の真の契約のこの断絶のためでもある。\nギリシャ芸術は幾何学の黎明と体育競技と一致し、中世の芸術は職人仕事と、ルネサンスの芸術は機械学の黎明と一致した、等々。\n1914年以降、完全な断絶がある。\n喜劇さえもほぼ不可能だ：風刺の場所しかない（ユウェナリスを理解するのがこれほど容易だったことがあったか）。\n芸術は大いなる無政府状態の中からしか再生できない──おそらく叙事詩的に、なぜなら不幸が多くのことを単純化してしまうから……ヴィンチやバッハを羨むのはまったく無意味だ。\n偉大さは今日、別の道を取らなければならない。それはとにかく孤独で、暗く、反響なしのものとしてしかあり得ない……（しかし反響なしに芸術はない）。"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "La beauté, c'est l'harmonie du hasard et du bien.",
+      "body": "「美とは偶然と善との調和である」──章全体の冒頭に置かれた格言として機能する最短の定式。「hasard（偶然）」と「bien（善）」の結合は「Prométhée」詩篇の「偶然の廃棄不可能性」（マラルメ「骰子一擲」）とは逆の方向を持つ：マラルメが偶然を絶対として肯定するのに対し、ヴェイユは偶然を善が通り抜ける媒体として位置づける。「harmony（調和）」という語は§4の「nécessité（必然）」と対になる──偶然と必然、感覚と超感覚の間に美が成立する。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "Le beau est le nécessaire, qui, tout en demeurant conforme à sa loi propre et à elle seule, obéit au bien.",
+      "body": "「美しいものとは必然的なものであり、自らに固有の法則のみに従いながら、善に従う」──§1の定式の展開。「自らの法則のみに従う（conforme à sa loi propre et à elle seule）」は自律性の原理：美しいものは外部から強制されず、内的法則によって動く。同時にその内的法則が「善（bien）」への服従と一致する。「La Mer」詩篇の「Les astres au loin sans effort ont puissance（星々は何の努力もなく力を持つ）」と呼応する──星の運動は自らの法則のみに従いながら、宇宙の秩序（善）の体現でもある。ブランショ『来たるべき書物』（Le Livre à venir, 1959）での作品の「法則（loi）」の問題：作品は何に従うのか──作者の意図か、作品自体の内的必然か。"
+    },
+    {
+      "paragraphId": 3,
+      "type": "glossary",
+      "anchor": "Objet de la science : le beau (c'est-à-dire, l'ordre, la proportion, l'harmonie) en tant que suprasensible et nécessaire.\n\nObjet de l'art : le beau sensible et contingent, perçu à travers le filet du hasard et du mal.",
+      "body": "科学と芸術の対象の二分法。「科学の対象：超感覚的かつ必然的な美」──これはプラトンのイデア論の変奏。数学的秩序・比例・調和は感覚を超えた必然的な美として科学が探求する。「芸術の対象：偶然と悪の網を通して知覚される感覚的・偶然的な美」──ここで「mal（悪）」という語が出現する：芸術は悪（affliction・苦悩・欠陥）を通してのみ感覚的美に到達する。「filet du hasard et du mal（偶然と悪の網）」──網の比喩は漁業的：美は偶然と悪という粗い網を通って感覚に届く。ヴェイユの詩篇（Prométhée、Éclair等）は自らこの「網」の産物として、偶然と悪を素材として美を織る実践。"
+    },
+    {
+      "paragraphId": 4,
+      "type": "commentary",
+      "anchor": "Le beau dans la nature : union de l'impression sensible et du sentiment de la nécessité. \nCela doit être ainsi (en premier lieu), et précisément cela est ainsi.",
+      "body": "「自然の中の美：感覚的印象と必然性の感覚との結合。そうであらねばならない、そしてまさにそうである」──この二段階の定式が重要。「そうであらねばならない（Cela doit être ainsi）」は規範的必然性（当為）、「まさにそうである（précisément cela est ainsi）」は事実的必然性（存在）。美の経験とは、この二種の必然性が完全に一致する瞬間。「La Mer」詩篇の「Demeurent en bas par la loi souveraine（主権ある法によって低いところに留まる）」が感覚的体験（波の動き）と必然的法則（重力）の一致として、この定式の詩的体現となっている。ブランショ『来たるべき書物』での「必然性の体験」──作品の「正しさ」の感覚：これ以外ありえなかったという読者の確信──との照応。"
+    },
+    {
+      "paragraphId": 5,
+      "type": "commentary",
+      "anchor": "La beauté séduit la chair pour obtenir la permission de passer jusqu'à l'âme.",
+      "body": "「美は肉体を誘惑して、魂の奥まで通り抜ける許しを得る」──ヴェイユ美学の最も引用される定式のひとつ。「séduire（誘惑する）」という動詞が美の戦略的性格を示す：美は肉体に向けて偽装し、肉体を経由して魂に達する。感覚と精神の二段階通過モデル。この定式は§10の「美しいものとは食べたいとは思わずに欲するもの」と接続する：肉体は誘惑されるが、美の真の目標は肉体的消費でなく魂への開口。「La Mer」詩篇の「Daigne la laver dans tes eaux de justice（正義の水の中で魂を洗ってくれることを）」──海（美）が魂（âme）への通路として機能する詩的形象と重なる。"
+    },
+    {
+      "paragraphId": 6,
+      "type": "commentary",
+      "anchor": "Le beau enferme, entre autres unités des contraires, celle de l'instantané et de l'éternel.",
+      "body": "「美は瞬間的なものと永遠なものとの統一を閉じ込めている」──「Éclair」詩篇の閃光的構造の散文的定式：詩の瞬間（稲妻の一閃）が同時に永遠（「déchirure / De ciel vert pâle」）の開口である。ブランショ『文学の空間』での「本質的孤独」の時間論──芸術作品は「今（maintenant）」に属さず、「常に過去として（toujours passé）」あるという時間的逆説──と共鳴する。マラルメ「骰子一擲」が「偶然の廃棄不可能性」として瞬間を肯定したのに対し、ヴェイユは瞬間と永遠の「統一（unité）」として美を定義する。"
+    },
+    {
+      "paragraphId": 7,
+      "type": "commentary",
+      "anchor": "Le beau, c'est quelque chose à quoi on peut faire attention.",
+      "body": "「美しいものとは注意を向けられるものである」──ヴェイユの「注意（attention）」論の美学への直接的適用。「注意（attention）」はヴェイユの倫理・霊性の中心概念──他者の苦しみに向けて自己の欲望・先入観を停止し、存在するものをそのままに受け取る能力。美しいものはこの注意を持続させる対象として定義される。「グレゴリア聖歌」と「ギリシャの神殿」の例示：反復・持続に耐えるものだけが真に美しい。続く「絶対的孤独刑の死刑囚の独房に置けるような絵画」──affliction（苦悩）の極限においても耐えうる美、苦悩と共存できる美。ヴェイユの美学は苦悩の美学でもある。"
+    },
+    {
+      "paragraphId": 8,
+      "type": "commentary",
+      "anchor": "Le théâtre immobile est le seul vraiment beau. Les tragédies de Shakespeare sont de second ordre, sauf Lear.\nCelles de Racine de troisième ordre, sauf Phèdre.",
+      "body": "「動かない演劇（le théâtre immobile）」──ヴェイユの演劇美学の核心。ギリシャ悲劇の「動かなさ」──運命の不動性、超自然的必然への服従──が美の基準。シェイクスピアは二流（リアを除く）、ラシーヌは三流（フェードルを除く）という序列は挑発的だが、ヴェイユの基準では「affliction（苦悩）の極限での不動性」が尺度となる。「フェードル」がラシーヌ唯一の例外とされる理由：フェードルは自己の罪を完全に認識しながら叫ぶことを止め、「seul et sans nom（独り名もなく）」の状態へと降下する──「Nécessité」詩篇の「Cloués sans un cri sur le point fixe au Nord（叫びなしに釘付け）」と同じ身振り。ヴェイユにとってフェードルとプロメテウスは同じ構造の悲劇的人物。",
+      "targetId": "racine_phedre_acte4_sc4_6",
+      "targetParagraphId": 17
+    },
+    {
+      "paragraphId": 9,
+      "type": "commentary",
+      "anchor": "Une œuvre d'art a un auteur, et pourtant, quand elle est parfaite, elle a quelque chose d'essentiellement anonyme.\nElle imite l'anonymat de l'art divin.\nAinsi la beauté du monde prouve un Dieu à la fois personnel et impersonnel, et ni l'un ni l'autre.",
+      "body": "「芸術作品が完全であるとき、本質的に匿名のものを持つ。神的芸術の匿名性を模倣する」──ヴェイユの芸術論の最も重要な命題のひとつ。ブランショ『文学の空間』（L'Espace littéraire, 1955）の中心命題と直接的に対応する：「書くことは匿名へと引き渡されることである」──芸術家は作品の完成において自己の名前を失い、作品は「誰のものでもない（de personne）」空間へと帰属する。ヴェイユは同じ構造を神学的に定式化する：完全な作品が「essentiellement anonyme（本質的に匿名）」であることは、神が「同時に人格的かつ非人格的であり、そのどちらでもない」ことの鏡像。「Nécessité」詩篇の「Sans forme malgré nous, sans nom（形なく、名もなく）」という星の非人格性と対応する。"
+    },
+    {
+      "paragraphId": 10,
+      "type": "commentary",
+      "anchor": "Le beau est ce qu'on désire sans vouloir le manger. Nous désirons que cela soit.",
+      "body": "「美しいものとは食べたいとは思わずに欲するものである。我々はそれが在ることを欲する」──欲望の類型論の中の美の位置づけ。「食べる（manger）」という動詞が欲望の消費的・破壊的様式を代表する：性的欲望、所有欲、支配欲はすべて「食べる」ことを目指す。美への欲望だけが例外：「それが在ること（que cela soit）」を欲する──存在の肯定として。ブランショ『無限の対話』（L'Entretien infini, 1969）での「中性（le neutre）」の欲望論──「il y a（ある）」という非人称的存在への関係──との共鳴。「La Mer」詩篇の「Elle s'étend dans l'attente et sans désir（欲望なしに待ちながら）」：欲望の不在が美的・霊的態度として設定される。"
+    },
+    {
+      "paragraphId": 11,
+      "type": "commentary",
+      "anchor": "La distance est l'âme du beau.",
+      "body": "「距離は美の魂である（La distance est l'âme du beau）」──「Beauté」章の中で最も凝縮された定式、ヴェイユ美学全体の要約。「距離」は空間的概念でありながら、存在論的・神学的次元を持つ：神への近づきえなさ（「On s'unit à Dieu ainsi : on ne peut pas s'en approcher」）が距離の極致。ブランショ『文学の空間』でのオルフェウス神話解釈──オルフェウスがエウリュディケを見ようと振り返る瞬間に彼女を失う──は距離の消滅が作品の消滅であることを示す。ヴェイユにとっても距離の保持が美の条件：美を「食べる（消費する）」ことは美を破壊する。「Prométhée」詩篇でプロメテウスが人類から分離された岩の上に固定されていることが、その贈与の永続性の条件となるように。"
+    },
+    {
+      "paragraphId": 12,
+      "type": "commentary",
+      "anchor": "Le regard et l'attente, c'est l'attitude qui correspond au beau. Tant qu'on peut concevoir, vouloir, souhaiter, le beau n'apparaît pas. C'est pourquoi, dans toute beauté, il y a contradiction, amertume, absence irréductibles.",
+      "body": "「眼差しと待機、それが美に対応する態度」──§7の「注意（attention）」概念の深化。「構想し、欲し、望むことができる限り、美は現れない」：能動的な認識・意志・欲望の停止が美の条件。「神を待ちのぞむ（Attente de Dieu）」の書名が示す「待機（attente）」と「La Mer」詩篇の「Elle s'étend dans l'attente et sans désir」が同一の概念圏に属する。「いかなる美の中にも、還元不可能な矛盾、苦味、不在（contradiction, amertume, absence irréductibles）がある」──「Les Astres」詩篇の「votre éclat pur mais amer（純粋だが苦い輝き）」が詩的に体現するものが、ここで概念として提示される。"
+    },
+    {
+      "paragraphId": 13,
+      "type": "commentary",
+      "anchor": "Poésie : douleur et joie impossibles. Touche poignante, nostalgie.\nTelle est la poésie provençale et anglaise. Une joie qui, à force d'être pure et sans mélange, fait mal.\nUne douleur qui, à force d'être pure et sans mélange, apaise.",
+      "body": "「詩：不可能な苦しみと喜び」──詩の本質の簡潔な定式。「不可能（impossibles）」という形容は：喜びも苦しみも、詩においてその純粋な形では到達不可能──到達しようとする運動、閾（seuil）にあること自体が詩。「純粋で混じりけのない力によって苦しめる喜び / なだめる苦しみ」──苦しみと喜びの相互転換は「Nécessité」詩篇の「Calmez notre soif si vous brisez nos cœurs（心を砕くなら渇きを静めよ）」という逆説的条件文と対応する。マラルメ「詩の危機（Crise de vers）」が言語の危機として詩の不可能性を論じるのに対し、ヴェイユは感情の純粋性として不可能性を定義する。"
+    },
+    {
+      "paragraphId": 14,
+      "type": "prosody",
+      "anchor": "Beauté : un fruit qu'on regarde sans tendre la main.\n\nDe même un malheur qu'on regarde sans reculer.",
+      "body": "「美：手を伸ばさずに見る果実。同様に、後退せずに見る不幸」──この段落は章全体の構造的転換点として機能する。二つの短い並行文が§10の「食べる」比喩を「果実（fruit）」として具体化し、同時に「美」と「不幸（malheur）」を並置する。「後退せずに（sans reculer）」不幸を見ること──affliction（苦悩）を美と同じ「注意（attention）」の態度で見ること──がヴェイユの倫理的・美学的統合。「不幸（malheur）」はヴェイユのaffliction概念の日常語：afflictionは肉体的苦しみ・霊的卑しめ・社会的排除の三重苦。美と不幸の並置は「Prométhée」詩篇の構造（贈り物の讃歌→苦しみへの転換）の散文的要約。"
+    },
+    {
+      "paragraphId": 15,
+      "type": "commentary",
+      "anchor": "Double mouvement descendant : refaire par amour ce que fait la pesanteur. \nLe double mouvement descendant n'est-il pas la clef de tout art ?",
+      "body": "「二重の降下運動：重力がなすことを愛によってやり直すこと」──『重力と恩寵』全体のタイトル概念が芸術論に直結する命題。「重力（pesanteur）」は自然の下降力──物質的・社会的・心理的な力によって人間は下へ引かれる。「恩寵（grâce）」はその重力に抗う上昇の力。「二重の降下運動」は逆説的：愛によって「自発的に」下降することが、重力の盲目的下降と外見上同じでも内的に異なる──これが芸術の秘密。「Prométhée」詩篇でプロメテウスが「Seul et sans nom, chair livrée au malheur（独り名もなく、不幸に引き渡された肉）」へと降下するのは、愛による自発的降下として読める。"
+    },
+    {
+      "paragraphId": 16,
+      "type": "commentary",
+      "anchor": "La descente est à la fois descente sensible et montée spirituelle. \nC'est là le paradis que tout être désire ; que la pente de la nature fasse monter vers le bien.",
+      "body": "「降下は感覚的降下と同時に精神的上昇である」──「重力と恩寵」の核心逆説の音楽論的定式。音符が下がるとき（descente sensible）、精神は上昇する（montée spirituelle）。この音楽的観察はヴェイユが愛したバッハ、グレゴリア聖歌の経験から来ている。「自然の傾斜が善へと上昇させること（que la pente de la nature fasse monter vers le bien）」──「Nécessité」詩篇の「Nous voulons vous obéir jusqu'à la mort（死ぬまで従いたい）」は自然の傾斜（星の支配）への同意として、ここの定式の詩的版として読める。ブランショ『文学の空間』での「詩の降下（descente poétique）」──オルフェウスの冥界降下──との照応：芸術家の降下が精神的上昇を生む逆説。"
+    },
+    {
+      "paragraphId": 17,
+      "type": "commentary",
+      "anchor": "En tout ce qui suscite chez nous le sentiment pur et authentique du beau, il y a réellement présence de Dieu. \nIl y a comme une espèce d'incarnation de Dieu dans le monde, dont la beauté est la marque.\n\nLe beau est la preuve expérimentale que l'incarnation est possible.",
+      "body": "「純粋で真正な美の感情を我々に呼び起こすものの中に、神の実在が真に存在している」──美の神学的最高点。「présence réelle de Dieu（神の真の実在）」はカトリックの聖体論の術語（réelle présence）をそのまま使用する：聖体におけるキリストの真の実在（présence réelle）と同じ意味で、美の中に神が「真に（réellement）」存在する。「Le beau est la preuve expérimentale que l'incarnation est possible（美は受肉が可能であることの実験的証明）」──「実験的証明（preuve expérimentale）」という科学的語彙の使用が意図的：神学的命題を経験科学の方法で検証する試み。ヴェイユが愛した数学・物理学の思考様式が神学へと転用される。"
+    },
+    {
+      "paragraphId": 18,
+      "type": "commentary",
+      "anchor": "Si le beau est présence réelle de Dieu dans la matière, si le contact avec le beau est au plein sens du mot un sacrement, comment y a-t-il tant d'esthètes pervers ?",
+      "body": "「もし美が物質の中への神の真の実在であるなら、なぜこれほど多くの倒錯した唯美主義者がいるのか」──§17の神学的命題への自己批判的問い。「Néron（ネロ）」という一語の段落が詩的に機能する：美の享受と道徳的倒錯の共存の歴史的例証として、弁明不要の固有名詞だけが置かれる。「神的な芸術があるように、悪魔的な芸術（art démoniaque）がある」──ヴェイユの美学的二元論の明示。真正な美と悪い模倣（imitation mauvaise）の区別は「注意（attention）」の深さによって定まる：表面的な感覚的刺激への反応は「悪い模倣」への反応であり、§7で定義された「何時間でも見続けられる」真の注意の対象ではない。「グレゴリア聖歌への渇望を持つ人（quelqu'un qui a soif de chant grégorien）」──「soif（渇望）」という語が「Nécessité」詩篇の「Calmez notre soif（我々の渇きを静めよ）」と共鳴する：真の美への渇望は必然への服従と同じ欲望の質を持つ。"
+    },
+    {
+      "paragraphId": 19,
+      "type": "commentary",
+      "anchor": "Il faut bien que nous ayons commis des crimes qui nous ont rendus maudits, puisque nous avons perdu toute la poésie de l'univers.",
+      "body": "「我々は宇宙の詩の全てを失ってしまったのだから、呪われた者となったような罪を犯したに違いない」──§20の芸術の危機論への橋渡しとなる一文。「罪（crimes）」によって「詩（poésie）」を失うという因果関係は、「Prométhée」詩篇の構造の逆：プロメテウスが苦しみを引き受けることで人類に詩・言語を与えたように、人類の罪は詩を失わせる。「詩の喪失」は美との接続の断絶、神の実在の感知能力の喪失。§20と連動して、ヴェイユは1914年以降の断絶を文明的罪の結果として捉える──歴史の破局を美的・神学的に読む。"
+    },
+    {
+      "paragraphId": 20,
+      "type": "commentary",
+      "anchor": "Depuis 1914, il y a une coupure complète.\nLa comédie même est à peu près impossible : il n'y a place que pour la satire",
+      "body": "「1914年以降、完全な断絶がある」──ヴェイユの芸術史論の核心。第一次世界大戦を西洋芸術の決定的断絶点として定義する。「集団的生（vie collective）の消滅」──ヴェイユはギリシャ悲劇・中世芸術・ルネサンスが社会的共同体（幾何学/体育、職人仕事、機械学）と一致していたと見る。1914年以降はその共同体の基盤が失われ、「死んだ集合体（collectivités mortes）」だけが残る。ブランショが『文学の空間』で「文学の孤独」を論じる文脈と共鳴する──近代以降の作家は共同体から切り離された孤独な存在として書く。「偉大さは今日、孤独で、暗く、反響なしのものとしてしかあり得ない（or, pas d'art sans écho）」──最後の括弧内の逆説が最終的な不可能性：反響なしにしかあり得ない偉大さは、芸術たりえないという閉塞。ヴェイユ自身の死後刊行という事実がこの閉塞の証言となっている。"
+    },
+    {
+      "paragraphId": 20,
+      "type": "intertextual",
+      "anchor": "L'art ne pourra renaître que du sein de la grande anarchie — épique sans doute, parce que le malheur aura simplifié bien des choses…",
+      "body": "「芸術は大いなる無政府状態の中からしか再生できない──おそらく叙事詩的に、なぜなら不幸が多くのことを単純化してしまうから」──ヴェイユが1942〜43年に書いた時点では、大戦の最中である。「不幸（malheur）」が芸術を再生させるという逆説はaffliction論の芸術史的応用：苦悩の極点で「単純化」された詩──「Les Astres」「Nécessité」「Éclair」等の詩篇がまさに「不幸が単純化したもの」として書かれている。マラルメ「詩の危機」が言語の危機から詩の革新を論じたのに対し、ヴェイユは文明の崩壊から叙事詩的再生を予言する。詩篇群と散文章の間の内的な緊張──ヴェイユは理論上は芸術の不可能性を論じながら、実践上は詩を書き続けた。",
+      "targetId": "mallarme_crise_de_vers",
+      "targetParagraphId": null
+    }
+  ]
+}
