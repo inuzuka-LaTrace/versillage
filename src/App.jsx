@@ -255,7 +255,7 @@ export default function App() {
     setTexts(allTexts);
   const timer = setTimeout(() => {
     setLoading(false);
-  }, 5300);
+  }, 5400);
 
   return () => clearTimeout(timer);
 }, []);
@@ -2217,7 +2217,7 @@ const TocDrawer = ({
             transition-transform duration-300 ease-in-out
             ${showToc ? 'translate-x-0' : '-translate-x-full'}
             ${tocBg} border-r ${tocBorder}`}
-          style={{ width: '380px', fontFamily: '"EB Garamond", "Shippori Mincho B1", serif' }}
+          style={{ width: '375px', fontFamily: '"EB Garamond", "Shippori Mincho B1", serif' }}
         >
           {/* ── ヘッダー ── */}
           <div className={`flex items-center justify-between px-4 py-3 border-b ${tocBorder} shrink-0 ${tocHeaderBg}`}>
