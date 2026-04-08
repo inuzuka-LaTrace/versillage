@@ -20,7 +20,7 @@ export const CATEGORIES = {
   leconte_de_lisle:           { name: 'ルコント・ド・リール' },
   banville:                   { name: 'バンヴィル' },
   valmore:                    { name: 'ヴァルモール' },
-  weil:{ name: 'ヴェイユ' },
+  weil:                       { name: 'ヴェイユ' },
   rodenbach:                  { name: 'ローデンバック' },
   verhaeren:                  { name: 'ヴェルハーレン' },
   maeterlinck:                { name: 'メーテルリンク' },
@@ -41,7 +41,7 @@ export const CATEGORIES = {
   balmont:                    { name: 'バリモント' },
   poe:                        { name: 'ポー' },
   rossetti_c:                 { name: 'ロセッティ' },
-  d_g_rossetti:                { name: 'D.G.ロセッティ' },
+  d_g_rossetti:               { name: 'D.G.ロセッティ' },
   wilde:                      { name: 'ワイルド' },
   dowson:                     { name: 'ダウスン' },
   swinburne:                  { name: 'スウィンバーン' },
@@ -114,6 +114,7 @@ export const PREFERRED_VOICES = {
   'fr': ['Thomas', 'Google français', 'Microsoft Julie', 'Amelie'],
   'de': ['Anna', 'Google Deutsch', 'Microsoft Hedda'],
   'en': ['Daniel', 'Google UK English Female', 'Samantha', 'Google US English'],
+  'it': ['Alice', 'Google italiano', 'Microsoft Elsa', 'Luca'], 
   'ru': ['Google русский', 'Microsoft Irina', 'Milena'],
 };
 
