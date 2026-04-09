@@ -198,7 +198,7 @@ export default function App() {
     }, 600); // 500ms（0.5秒）間隔を維持
     return () => clearInterval(interval);
   }
-}, [loading, texts]);
+  }, [loading, texts]);
   // コンポーネントアンマウント時・テキスト切替時に読み上げ停止
   useEffect(() => {
     window.speechSynthesis.cancel();
@@ -1302,16 +1302,14 @@ export default function App() {
       {/* ─── ヘッダー ────────────────────────────────── */}
 <header 
   ref={headerRef} 
-  className={`sticky top-0 z-30 border-b backdrop-blur-md 
+  className={`fixed top-0 z-30 border-b backdrop-blur-md transition-all duration-300
     /* PWAモードで上端の隙間を埋めるための絶対配置要素 */
     before:content-[''] before:absolute before:bottom-full before:left-0 before:w-full before:h-20
     ${darkMode 
       ? 'bg-zinc-950/95 border-zinc-800 before:bg-zinc-950' 
       : 'bg-stone-50/95 border-stone-200 before:bg-stone-50'}
-    /* 下スクロール時は padding-top を最小化しつつ、セーフエリア分は死守 */
-    ${isScrollingDown 
-      ? 'pt-[env(safe-area-inset-top)] pb-1' 
-      : 'pt-[calc(env(safe-area-inset-top)+12px)] pb-3'}`}
+      /* 高さを固定、または最小高さを一定に保つ */
+    ${isScrollingDown ? 'h-12' : 'h-20'}`}
 >
   <div className="max-w-6xl mx-auto px-4 flex items-center justify-between gap-4">
     <div className="flex-1 min-w-0">
