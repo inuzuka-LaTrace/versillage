@@ -1764,7 +1764,7 @@ export default function App() {
                   <div className={`text-center select-none py-0.5 ${
                     darkMode ? 'text-[#3a3228]' : 'text-[#c8b480]'
                   }`} aria-hidden="true" style={{ fontSize: '10px', letterSpacing: '0.4em' }}>
-                    ✦
+                    ✦✦✦
                   </div>
                 )}
                 {/* ── Scène 区切り行（scene が変わった時のみ） ── */}
