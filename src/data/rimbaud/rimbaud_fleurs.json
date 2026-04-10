@@ -1,0 +1,87 @@
+{
+  "id": "rimbaud_fleurs",
+  "title": "Fleurs",
+  "author": "Arthur Rimbaud",
+  "source": "Œuvres, texte établi par Paul Hartmann, Mercure de France, 1958, p. 246; https://fr.wikisource.org/wiki/Œuvres_(Rimbaud)/Illuminations/Fleurs",
+  "year": "1886",
+  "firstPublication": "La Vogue, nos 5–6, 1886 (éd. Verlaine); Illuminations, Mercure de France, 1895",
+  "difficulty": "上級",
+  "category": "rimbaud",
+  "originalLang": "fr-FR",
+  "modernRelevance": "★★★★★",
+  "context": "散文詩集『イリュミナシオン（Illuminations）』所収。執筆年代は1872–75年頃と推定される。全3段落・わずか9行の極度に圧縮された散文詩。「黄金の段（gradin d'or）」から「絹の紐・灰色のガーゼ・緑のビロード・青銅のように黒くなるクリスタルの円盤」という工芸的・鉱物的素材の列挙の中にジギタリスが開く第1段落、黄金・瑪瑙・マホガニー・エメラルド・白サテン・ルビーが「水の薔薇」を囲む第2段落、そして「雪の形をした巨大な青い目を持つ神のように」海と空が若い強い薔薇たちを大理石のテラスへと引き寄せる第3段落。素材の精緻な異質性・鉱物と植物の混淆・神話的スケールへの拡大という三段階の運動がリシャールの言う「物質的想像力」の典型を示す。",
+  "keywords": [
+    "イリュミナシオン",
+    "ジギタリス",
+    "水の薔薇",
+    "鉱物と植物",
+    "物質的想像力",
+    "散文詩",
+    "工芸的美学",
+    "神話化"
+  ],
+  "relatedTexts": [
+    "mallarme_les_fleurs",
+    "mallarme_toast_funebre",
+    "baudelaire_correspondances",
+    "baudelaire_invitation_voyage",
+    "valery_naissance_de_venus"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "original": "D'un gradin d'or, — parmi les cordons de soie, les gazes grises, les velours verts et les disques de cristal qui noircissent comme du bronze au soleil, — je vois la digitale s'ouvrir sur un tapis de filigranes d'argent, d'yeux et de chevelures.",
+      "provisionalTranslation": "黄金の段から──絹の紐、灰色のガーゼ、緑のビロード、そして太陽の下で青銅のように黒くなるクリスタルの円盤の中に──、私はジギタリスが銀の透かし細工、目、髪の毛の絨毯の上に開くのを見る。"
+    },
+    {
+      "id": 2,
+      "original": "Des pièces d'or jaune semées sur l'agate, des piliers d'acajou supportant un dôme d'émeraudes, des bouquets de satin blanc et de fines verges de rubis entourent la rose d'eau.",
+      "provisionalTranslation": "瑪瑙の上に散りばめられた黄金の貨幣、エメラルドのドームを支えるマホガニーの柱、白サテンの花束と細いルビーの棒が水の薔薇を囲んでいる。"
+    },
+    {
+      "id": 3,
+      "original": "Tels qu'un dieu aux énormes yeux bleus et aux formes de neige, la mer et le ciel attirent aux terrasses de marbre la foule des jeunes et fortes roses.",
+      "provisionalTranslation": "巨大な青い目と雪の形を持つ神のように、海と空は若く強い薔薇たちの群れを大理石のテラスへと引き寄せる。"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "prosody",
+      "anchor": null,
+      "body": "全3段落の散文詩。段落ごとに視点・スケール・動詞の時制が変化する三段階の構造──§1「私は見る（je vois）」という個人的視点からの開花の観察、§2「囲んでいる（entourent）」という三人称現在による静的な配置の記述、§3「引き寄せる（attirent）」という神話的スケールへの拡大。各段落が異質な素材（絹・ガーゼ・クリスタル→黄金・瑪瑙・エメラルド→大理石）を列挙する構文を採用し、列挙の最後に核心的なイメージ（ジギタリス→水の薔薇→薔薇たちの群れ）が現れる。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "glossary",
+      "anchor": "la digitale s'ouvrir sur un tapis de filigranes d'argent, d'yeux et de chevelures.",
+      "body": "「ジギタリスが銀の透かし細工、目、髪の毛の絨毯の上に開く」。digitale（ジギタリス・キツネノテブクロ）は毒草であり医薬草でもある花──美と毒の二重性がランボーの花の選択に既に込められている。filigranes d'argent（銀の透かし細工）という金工技術の語が植物的・有機的な絨毯の描写に混入する。ジャン＝ピエール・リシャール（『詩と深さ』Poésie et profondeur, 1955）はランボーにおける物質の変容として「植物が鉱物の中に、あるいは鉱物が植物の中に侵入する瞬間」を詩的想像力の核として論じる──ジギタリスが銀の透かし細工の上に開くこの瞬間はその典型例である。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "D'un gradin d'or, — parmi les cordons de soie, les gazes grises, les velours verts et les disques de cristal qui noircissent comme du bronze au soleil,",
+      "body": "「黄金の段から──絹の紐、灰色のガーゼ、緑のビロード、太陽の下で青銅のように黒くなるクリスタルの円盤の中に」。冒頭の前置詞句「D'un gradin d'or（黄金の段から）」が視点の高みを設定し、長いダッシュに挟まれた素材の列挙が視点と花の間の空間を織物のように充填する。「太陽の下で青銅のように黒くなるクリスタル」という変質・変色のイメージが静的な陳列棚の描写に時間と変化を導入する。ボンヌフォワ（Yves Bonnefoy, Rimbaud par lui-même, 1961）はこのような素材の列挙に「世界を博物館にする」ランボーの工芸的・博物学的衝動を見る──詩が自然を人工的な完璧さで置換しようとする身振り。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "glossary",
+      "anchor": "la rose d'eau.",
+      "body": "「水の薔薇（la rose d'eau）」。段落全体の中心的な対象──黄金・瑪瑙・マホガニー・エメラルド・白サテン・ルビーという固体的・硬質の素材群に囲まれた「水の薔薇」という柔らかく流動的なイメージの対置。rose d'eau は睡蓮（スイレン）の別名でもあり、水面に浮かぶ花として§1のジギタリスの垂直的な開花とは異なる水平的・拡散的な存在様式を持つ。リシャール（『詩と深さ』）が「ランボーの詩における水は常に宝石化・硬化への抵抗として機能する」と指摘する素材論的対立がここで凝縮される。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "intertextual",
+      "anchor": "Des pièces d'or jaune semées sur l'agate, des piliers d'acajou supportant un dôme d'émeraudes, des bouquets de satin blanc et de fines verges de rubis",
+      "body": "黄金・瑪瑙・マホガニー・エメラルド・サテン・ルビーという素材の列挙はボードレール「旅への誘い（L'Invitation au voyage）」の「そこにはただ秩序と美、/ 豪奢と静寂と官能があるだけ」という理想郷の物質的充填と連絡する。しかしボードレールの「旅への誘い」が同一素材を繰り返しながら心理的調和を目指すのに対し、ランボーの列挙は素材の異質性・並置の唐突さによって調和の外部へと向かう──工芸的美学の継承と逸脱。",
+      "targetId": "baudelaire_invitation_voyage",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "Tels qu'un dieu aux énormes yeux bleus et aux formes de neige, la mer et le ciel attirent aux terrasses de marbre la foule des jeunes et fortes roses.",
+      "body": "「巨大な青い目と雪の形を持つ神のように、海と空は若く強い薔薇たちの群れを大理石のテラスへと引き寄せる」。詩の最終段落は§1の個人的視点・§2の静的陳列を経て神話的・宇宙的スケールへと拡大する。「雪の形（formes de neige）を持つ神」という比喩が海と空を人格化し、花々を「引き寄せる（attirent）」主体として神格化する。「若く強い（jeunes et fortes）薔薇たちの群れ（la foule）」という複数・集合的な薔薇が§2の孤独な「水の薔薇」と対比される──孤立した精緻な一輪から神に引き寄せられる群衆的な生命力へという詩の運動の完結。ボンヌフォワ（Rimbaud par lui-même）はここに「ランボーにおける神話への逃走──現実の物質を超えて存在が純粋なエネルギーとして解放される瞬間」を読む。"
+    }
+  ]
+}
