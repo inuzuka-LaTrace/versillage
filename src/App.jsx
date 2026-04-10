@@ -1596,7 +1596,7 @@ export default function App() {
             >
               <span className="flex items-center gap-2">
                 <List size={14} strokeWidth={1.6} className="shrink-0" />
-                <span>注釈インデックス</span>
+                <span>ANNOTAIONS</span>
                 <span className={`text-xs px-2 py-0.5 rounded-full ${darkMode ? 'bg-amber-900/50 text-amber-300' : 'bg-amber-100 text-amber-700'}`}>
                   {currentText.annotations.length}件
                 </span>
