@@ -37,6 +37,7 @@ import bryusovData from './data/bryusov';
 import sologubData from './data/sologub';
 import blokData from './data/blok';
 import balmontData from './data/balmont';
+import tsvetaevaData from './data/tsvetaeva';
 import poeData from './data/poe';
 import wildeData from './data/wilde';
 import dowsonData from './data/dowson';
@@ -239,6 +240,7 @@ export default function App() {
       ...sologubData,
       ...blokData,
       ...balmontData,
+      ...tsvetaevaData,
       ...poeData,
       ...wildeData,
       ...dowsonData,
@@ -1017,6 +1019,7 @@ export default function App() {
     if (cat?.startsWith('sologub'))      return darkMode ? 'bg-violet-900/40 text-violet-300' : 'bg-violet-100 text-violet-800';
     if (cat?.startsWith('blok'))         return darkMode ? 'bg-blue-900/40 text-blue-300' : 'bg-blue-100 text-blue-800';
     if (cat?.startsWith('balmont'))      return darkMode ? 'bg-emerald-900/40 text-emerald-300' : 'bg-emerald-100 text-emerald-800';
+    if (cat?.startsWith('tsvetaeva'))       return darkMode ? 'bg-rose-900/40 text-rose-300'     : 'bg-rose-100 text-rose-800';
     if (cat?.startsWith('rimbaud'))      return darkMode ? 'bg-amber-900/40 text-amber-300'   : 'bg-amber-100 text-amber-800';
     if (cat?.startsWith('verlaine'))     return darkMode ? 'bg-violet-900/40 text-violet-300' : 'bg-violet-100 text-violet-800';
     if (cat?.startsWith('gautier'))      return darkMode ? 'bg-cyan-900/40 text-cyan-300' : 'bg-cyan-100 text-cyan-800';
