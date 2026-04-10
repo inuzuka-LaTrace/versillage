@@ -1,0 +1,112 @@
+{
+  "id": "rimbaud_chanson_plus_haute_tour",
+  "title": "Chanson de la plus haute tour",
+  "author": "Arthur Rimbaud",
+  "source": "Œuvres complètes, 1942, p. 144–145; https://fr.wikisource.org/wiki/Œuvres_complètes_(Rimbaud)/Chanson_de_la_plus_haute_tour",
+  "year": "1872",
+  "firstPublication": "La Vogue, 1886; Œuvres complètes, 1942",
+  "difficulty": "上級",
+  "category": "rimbaud",
+  "originalLang": "fr-FR",
+  "modernRelevance": "★★★★★",
+  "context": "1872年作。『地獄の一季節』「錬金術的な言語（Alchimie du verbe）」章に引用された形でも知られ、「Éternité」と同時期に書かれた。全36行・4行＋2行という連形式が6回繰り返される。「怠惰な青春、すべてに隷属した、繊細さゆえに私は命を失った」という冒頭の告白が最終連で字義通り反復される額縁構造をとる。「高き塔の歌」というタイトルが塔の孤独・高みからの隔絶・垂直的な離脱を暗示する。中間部では「千の寡婦状態（mille veuvages）」「不健全な渇き（soif malsaine）」「忘却に引き渡された牧草地（prairie à l'oubli livrée）」「百匹の汚い蠅の野蛮な羽音（bourdon farouche de cent sales mouches）」という極端に異質なイメージ群が詩の告白的枠組みを破壊する。",
+  "keywords": [
+    "怠惰な青春",
+    "繊細さ",
+    "高き塔",
+    "忘却",
+    "不健全な渇き",
+    "寡婦状態",
+    "牧草地",
+    "額縁構造"
+  ],
+  "relatedTexts": [
+    "rimbaud_eternite",
+    "rimbaud_fleurs",
+    "rimbaud_barbare",
+    "verlaine_chanson_dautomne",
+    "mallarme_angoisse"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "verses": "v.1–6",
+      "original": "Oisive jeunesse\nA tout asservie,\nPar délicatesse\nJ'ai perdu ma vie.\nAh ! que le temps vienne\nOù les cœurs s'éprennent !",
+      "provisionalTranslation": "怠惰な青春、\nすべてに隷属した、\n繊細さゆえに\n私は命を失った。\nああ！その時が来ることを\n心たちが恋に落ちる時が！"
+    },
+    {
+      "id": 2,
+      "verses": "v.7–12",
+      "original": "Je me suis dit : laisse,\nEt qu'on ne te voie.\nEt sans la promesse\nDe plus hautes joies,\nQue rien ne t'arrête,\nAuguste retraite.",
+      "provisionalTranslation": "私は自分に言った：去れ、\n人に見られるな。\nそしてより高い喜びの\n約束もなく、\n何もお前を引き止めるな、\n厳かな退去よ。"
+    },
+    {
+      "id": 3,
+      "verses": "v.13–18",
+      "original": "Ô mille veuvages\nDe la si pauvre âme\nQui n'a que l'image\nDe la Notre-Dame :\nEst-ce que l'on prit\nLa Vierge Marie ?",
+      "provisionalTranslation": "おお千の寡婦状態よ\nこれほど貧しい魂の\nノートルダムの\nイメージしか持たない魂の：\n聖母マリアは\n取られてしまったのか？"
+    },
+    {
+      "id": 4,
+      "verses": "v.19–24",
+      "original": "J'ai tant fait patience\nQu'à jamais j'oublie.\nCraintes et souffrances\nAux cieux sont parties,\nEt la soif malsaine\nObscurcit mes veines.",
+      "provisionalTranslation": "私はこれほど忍耐したので\n永遠に忘れてしまった。\n恐れと苦しみは\n天に去り、\nそして不健全な渇きが\n私の静脈を暗くする。"
+    },
+    {
+      "id": 5,
+      "verses": "v.25–30",
+      "original": "Ainsi la prairie\nÀ l'oubli livrée ;\nGrandie et fleurie\nD'encens et d'ivraie ;\nAu bourdon farouche\nDe cent sales mouches.",
+      "provisionalTranslation": "こうして牧草地は\n忘却に引き渡された；\n乳香と毒麦で\n育ち咲き誇った；\n百匹の汚い蠅の\n野蛮な羽音の中で。"
+    },
+    {
+      "id": 6,
+      "verses": "v.31–36",
+      "original": "Oisive jeunesse\nA tout asservie,\nPar délicatesse\nJ'ai perdu ma vie.\nAh ! que le temps vienne\nOù les cœurs s'éprennent !",
+      "provisionalTranslation": "怠惰な青春、\nすべてに隷属した、\n繊細さゆえに\n私は命を失った。\nああ！その時が来ることを\n心たちが恋に落ちる時が！"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "prosody",
+      "anchor": null,
+      "body": "全36行・4行＋2行の連形式が6回繰り返される。韻律は3音節詩行（vers trisyllabique）──ランボーが1872年の「錬金術的言語」期に試みた極端な短縮詩行。韻はABAB（jeunesse／délicatesse、asservie／vie）＋CC（vienne／s'éprennent）の変形連句。詩全体は第1連と第6連の完全反復による額縁構造をとる──ただしブランショ（『来たるべき書物』Le Livre à venir, 1959）の指摘通り、反復は同一ではない：第1連の「J'ai perdu ma vie」が未だ現在に属するのに対し、第6連の同一行は詩全体の中間部（§3〜§5の牧草地・蠅・寡婦状態）を通過した後に語られ、失われた命の意味が根本的に変質して戻ってくる。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "glossary",
+      "anchor": "Oisive jeunesse\nA tout asservie,\nPar délicatesse\nJ'ai perdu ma vie.",
+      "body": "「怠惰な青春、すべてに隷属した、繊細さゆえに私は命を失った」。詩の核心的な自己告発──oisive（怠惰な）とasservie（隷属した）という矛盾した形容詞の並置が青春の逆説的な状態を定義する。「Par délicatesse（繊細さゆえに）」という前置詞句が命の喪失の原因として提示される──繊細さ（délicatesse）は美的感受性の高さであると同時に社会的不適応の原因。ボンヌフォワ（Rimbaud par lui-même, 1961）はこの詩句に「ランボーの詩的自伝の核──詩人であることと生きることの根本的な非両立性」を読む。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "Je me suis dit : laisse,\nEt qu'on ne te voie.\nEt sans la promesse\nDe plus hautes joies,\nQue rien ne t'arrête,\nAuguste retraite.",
+      "body": "「私は自分に言った：去れ、人に見られるな。そしてより高い喜びの約束もなく、何もお前を引き止めるな、厳かな退去よ」。自己命令の形式──「laisse（去れ）」という命令法が詩人の内的声として自らに向けられる。「Plus hautes joies（より高い喜び）」という比較級が詩のタイトル「la plus haute tour（最も高き塔）」と連動する──最高の高みへの到達の約束なしに退去せよという倫理的命令。「Auguste retraite（厳かな退去）」という閉幕が退去を悲嘆ではなく荘厳な選択として格上げする。リシャール（『詩と深さ』Poésie et profondeur, 1955）はランボーの「退去（retraite）」について「常に水平的な逃走ではなく垂直的な上昇あるいは下降を含む──退去は後退でなく深度への運動である」と論じる。"
+    },
+    {
+      "paragraphId": 3,
+      "type": "glossary",
+      "anchor": "Ô mille veuvages\nDe la si pauvre âme\nQui n'a que l'image\nDe la Notre-Dame :\nEst-ce que l'on prit\nLa Vierge Marie ?",
+      "body": "「おお千の寡婦状態よ、ノートルダムのイメージしか持たない貧しい魂の：聖母マリアは取られてしまったのか？」。「mille veuvages（千の寡婦状態）」という複数形の hyperbole が魂の反復的な喪失・繰り返される孤独を定義する。「Notre-Dame のイメージしか持たない」という貧困の定義が宗教的救済への切迫した問い「Est-ce que l'on prit / La Vierge Marie ?（聖母マリアは取られてしまったのか？）」へと直結する。ボンヌフォワ（Rimbaud par lui-même）はこの問いに「ランボーにおける宗教的帰依の不可能性──神の現前を求めながら常にその不在に突き当たる詩的条件」を読む。veuvage（寡婦状態）という語は神・愛・命のいずれかの喪失を指しうる多義的な語。"
+    },
+    {
+      "paragraphId": 4,
+      "type": "commentary",
+      "anchor": "J'ai tant fait patience\nQu'à jamais j'oublie.\nCraintes et souffrances\nAux cieux sont parties,\nEt la soif malsaine\nObscurcit mes veines.",
+      "body": "「私はこれほど忍耐したので永遠に忘れてしまった。恐れと苦しみは天に去り、そして不健全な渇きが私の静脈を暗くする」。忍耐の帰結が救済でなく忘却であるという逆説──「J'ai tant fait patience / Qu'à jamais j'oublie」は「Éternité」の「Science avec patience… / Le supplice est sûr（忍耐とともにある知……苦悶は確かだ）」と同一の倫理的命題を別の局面から提示する。「soif malsaine（不健全な渇き）」という形容詞付きの渇きが静脈を「暗くする（obscurcit）」──渇望が身体的・生理的な汚染として現れる。リシャール（『詩と深さ』）のランボー論における「渇き（soif）──ランボーの詩において渇きは常に解消不能な運動として、充足に到達するたびに新たな欠如を生む」という指摘がここで最も明示的に体現される。"
+    },
+    {
+      "paragraphId": 5,
+      "type": "commentary",
+      "anchor": "Ainsi la prairie\nÀ l'oubli livrée ;\nGrandie et fleurie\nD'encens et d'ivraie ;\nAu bourdon farouche\nDe cent sales mouches.",
+      "body": "「こうして牧草地は忘却に引き渡された；乳香と毒麦で育ち咲き誇った；百匹の汚い蠅の野蛮な羽音の中で」。詩全体で最も異質な連──告白的・抒情的な語りが突然、牧草地・乳香・毒麦・蠅という植物的・昆虫的な空間へと転換する。「encens（乳香）et ivraie（毒麦）」の対置は聖と俗・美と汚染の不可分な混淆。「bourdon farouche de cent sales mouches（百匹の汚い蠅の野蛮な羽音）」という閉幕が詩全体で最も散文的・即物的な感覚的暴力をもたらす。ブランショ（『文学空間』L'Espace littéraire, 1955）はランボーにおける自然描写の突然の介入について「詩が自らの抒情的言語を破壊するために自然を召喚する──自然は慰めでなく詩的秩序の解体として機能する」と論じる。リシャール（『詩と深さ』）は「ivraie（毒麦）」という語に「ランボーの植物的想像力の核──育ち咲くことと毒化することの同一性」を見る。"
+    },
+    {
+      "paragraphId": 6,
+      "type": "prosody",
+      "anchor": "Oisive jeunesse\nA tout asservie,\nPar délicatesse\nJ'ai perdu ma vie.\nAh ! que le temps vienne\nOù les cœurs s'éprennent !",
+      "body": "第1連と字義通り同一のテキストによる閉幕。しかし§3の「千の寡婦状態」・§4の「不健全な渇き」・§5の「汚い蠅の羽音」を経た後、この反復は冒頭とは全く異なる深さから語られる──「J'ai perdu ma vie（私は命を失った）」という完了形が、今や§3〜§5の具体的な腐敗・汚染・忘却の経験によって肉付けされた喪失として響く。「Ah ! que le temps vienne / Où les cœurs s'éprennent !（ああ！その時が来ることを、心たちが恋に落ちる時が！）」という接続法による願望の表現も、詩の中間部を経た後では素朴な希望でなく忘却と汚染の後になおも語られる逆説的な欲望として機能する。ブランショ（『来たるべき書物』）の「詩における反復は循環ではなく螺旋──同じ出発点に戻るのではなく、同じ言葉が異なる深さから語られる」という反復論が「Éternité」と並んでここに最も鮮明に現れる。"
+    }
+  ]
+}
