@@ -1,0 +1,98 @@
+{
+  "id": "rimbaud_barbare",
+  "title": "Barbare",
+  "author": "Arthur Rimbaud",
+  "source": "Œuvres, texte établi par Paul Hartmann, Mercure de France, 1958, p. 253; https://fr.wikisource.org/wiki/Œuvres_(Rimbaud)/Illuminations/Barbare",
+  "year": "1886",
+  "firstPublication": "La Vogue, nos 5–6, 1886 (éd. Verlaine); Illuminations, Mercure de France, 1895",
+  "difficulty": "上級",
+  "category": "rimbaud",
+  "originalLang": "fr-FR",
+  "modernRelevance": "★★★★★",
+  "context": "散文詩集『イリュミナシオン』所収。『フルール（Fleurs）』と並ぶイリュミナシオンの頂点のひとつ。「日々と季節の、存在たちと国々のはるか後に」という時間的廃墟の宣言から始まり、「血の滴る肉の旗（pavillon en viande saignante）」という中心的イメージが詩全体を貫く。「Douceurs！（甘美さ！）」「Ô monde！（おお世界！）」という感嘆詞の断片、「北極の花々（elles n'existent pas）」という括弧内の自己否定、「白く沸騰する涙」「女の声が火山の底に到達する」という末尾のイメージが積み重なる。英雄主義・歴史・旧世界の全否定として読む解釈と、新しい感覚的現実の探索として読む解釈が交差する。",
+  "keywords": [
+    "血の滴る肉の旗",
+    "北極の花",
+    "甘美さ",
+    "英雄主義の拒絶",
+    "感嘆詞",
+    "自己否定の括弧",
+    "イリュミナシオン",
+    "野蛮人"
+  ],
+  "relatedTexts": [
+    "rimbaud_fleurs",
+    "mallarme_crise_de_vers",
+    "baudelaire_correspondances",
+    "hoelderlin_brot_und_wein",
+    "trakl_abendlaendisches_lied"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "original": "Bien après les jours et les saisons, et les êtres et les pays,\nLe pavillon en viande saignante sur la soie des mers et des fleurs arctiques ; (elles n'existent pas,)\nRemis des vieilles fanfares d'héroïsme — qui nous attaquent encore le cœur et la tête — loin des anciens assassins —\nOh ! Le pavillon en viande saignante sur la soie des mers et des fleurs arctiques ; (elles n'existent pas.)",
+      "provisionalTranslation": "日々と季節の、存在たちと国々のはるか後に、\n海の絹と北極の花々の上の血の滴る肉の旗；（それらは存在しない、）\n英雄主義の古いファンファーレから立ち直って──それはまだ私たちの心と頭を攻撃してくる──古い暗殺者たちから遠く──\nおお！海の絹と北極の花々の上の血の滴る肉の旗；（それらは存在しない。）"
+    },
+    {
+      "id": 2,
+      "original": "Douceurs !\nLes brasiers, pleuvant aux rafales de givre, — Douceurs ! — les feux à la pluie du vent de diamants jetée par le cœur terrestre éternellement carbonisé pour nous.",
+      "provisionalTranslation": "甘美さ！\n霜の突風の中に降り注ぐ炉火、──甘美さ！──私たちのために永遠に炭化した地球の心臓によって投げかけられたダイヤモンドの風の雨の中の火。"
+    },
+    {
+      "id": 3,
+      "original": "— Ô monde ! —\n(Loin des vieilles retraites et des vieilles flammes, qu'on entend, qu'on sent,)\nLes brasiers et les écumes. La musique, virement des gouffres et choc des glaçons aux astres.",
+      "provisionalTranslation": "──おお世界！──\n（古い退却と、聞こえ、感じられる古い炎から遠く、）\n炉火と泡沫。音楽、深淵の旋回と星々への氷塊の衝突。"
+    },
+    {
+      "id": 4,
+      "original": "Ô Douceurs, ô monde, ô musique ! Et là, les formes, les sueurs, les chevelures et les yeux, flottant. Et les larmes blanches, bouillantes, — ô douceurs ! — et la voix féminine arrivée au fond des volcans et des grottes arctiques.\nLe pavillon…",
+      "provisionalTranslation": "おお甘美さ、おお世界、おお音楽！そしてそこに、形たち、汗、髪の毛と目が、漂っている。そして白く沸騰する涙──おお甘美さ！──そして火山の底と北極の洞窟に到達した女の声。\n旗……"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "prosody",
+      "anchor": null,
+      "body": "全4段落の散文詩。各段落が異なる統語的・修辞的モードを採用する──§1：反復と括弧内の自己否定による宣言、§2：感嘆詞の断片と素材の列挙、§3：ダッシュに挟まれた孤立した感嘆と音楽的定義、§4：三連の呼格（Ô Douceurs, ô monde, ô musique）による総合と解体。「Douceurs（甘美さ）」という語が§2・§3・§4に繰り返され詩全体のライトモティーフとして機能する。末尾「Le pavillon…」の省略記号が詩を未完として開放する──§1の「Le pavillon en viande saignante」という完全な句が最終行では「Le pavillon…」として断片化・消滅する。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "glossary",
+      "anchor": "Le pavillon en viande saignante sur la soie des mers et des fleurs arctiques ; (elles n'existent pas,)",
+      "body": "「海の絹と北極の花々の上の血の滴る肉の旗；（それらは存在しない、）」。pavillon en viande saignante（血の滴る肉の旗）は詩全体の中心的イメージにして最大の難題。生の肉（viande saignante）という身体的・腐敗的素材が旗（pavillon）という政治的・軍事的象徴の形態をとる──英雄主義・国家・歴史への還元不能な抵抗。括弧「(elles n'existent pas,)」はfleurs arctiques（北極の花々）への自己否定──詩が召喚したイメージを詩自身が即座に存在論的に否定する。ボンヌフォワ（Rimbaud par lui-même, 1961）はこの括弧を「ランボーにおける不可能な現実への意志──存在しないものだけが真に望まれる」というパラドックスの表現として読む。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "Bien après les jours et les saisons, et les êtres et les pays,",
+      "body": "「日々と季節の、存在たちと国々のはるか後に」。詩の開幕は時間的廃墟の宣言──歴史・自然・人間・地理のすべてが「はるか後に（bien après）」に置かれる。リシャール（『詩と深さ』Poésie et profondeur, 1955）はランボーの時間意識について「常に既に過ぎ去った後の地点から語る詩人──到来の詩学ではなく残滓の詩学」と論じる。「Bien après」という副詞句が後続するすべてのイメージを歴史的廃墟の空間に着地させる──英雄主義の「古いファンファーレ（vieilles fanfares d'héroïsme）」も「古い暗殺者たち（anciens assassins）」も既に過去の廃墟に属する。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "glossary",
+      "anchor": "les feux à la pluie du vent de diamants jetée par le cœur terrestre éternellement carbonisé pour nous.",
+      "body": "「私たちのために永遠に炭化した地球の心臓によって投げかけられたダイヤモンドの風の雨の中の火」。地球の心臓（cœur terrestre）という地質学的・神話的イメージが「永遠に炭化した（éternellement carbonisé）」という完了した消費として定義され、そこから「ダイヤモンドの風（vent de diamants）」が投げかけられる──炭化（石炭）からダイヤモンドへの変容という地質学的な時間の圧縮。リシャール（『詩と深さ』）のランボー論における「物質の変容──最も腐敗したものが最も輝くものへと転換される瞬間」がここで地球規模のスケールで展開する。"
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "La musique, virement des gouffres et choc des glaçons aux astres.",
+      "body": "「音楽、深淵の旋回と星々への氷塊の衝突」。音楽の定義として提示されるこの句は名詞句の連鎖──動詞を欠いた純粋な定義。「virement des gouffres（深淵の旋回）」と「choc des glaçons aux astres（星々への氷塊の衝突）」という二つの宇宙的運動が音楽の本質として提示される。マラルメ「音楽と文学（La Musique et les Lettres）」における「音楽は言語が目指す状態」という命題と連絡しながら、ランボーの音楽定義は調和ではなく衝突・旋回という動力学的な暴力として音楽を把握する点で根本的に異なる。",
+      "targetId": "mallarme_musique_lettres",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 4,
+      "type": "commentary",
+      "anchor": "Ô Douceurs, ô monde, ô musique ! Et là, les formes, les sueurs, les chevelures et les yeux, flottant.",
+      "body": "「おお甘美さ、おお世界、おお音楽！そしてそこに、形たち、汗、髪の毛と目が、漂っている」。三連の呼格（Ô Douceurs, ô monde, ô musique）による総合の後、「Et là（そしてそこに）」という指示詞が詩の空間に身体的断片を召喚する──形・汗・髪・目という身体部位の列挙が主語として宙吊りになり、「flottant（漂っている）」という分詞一語のみで述語が終わる。ボンヌフォワ（Rimbaud par lui-même）が「ランボーの詩において身体は決して統合された主体として現れない──常に断片・部位・流動として存在する」と指摘する解体された身体性がここで最も明示的に展開する。"
+    },
+    {
+      "paragraphId": 4,
+      "type": "glossary",
+      "anchor": "la voix féminine arrivée au fond des volcans et des grottes arctiques.\nLe pavillon…",
+      "body": "「火山の底と北極の洞窟に到達した女の声」と「旗……」。詩の最終2行。「女の声（voix féminine）」は詩全体で唯一の人格的・性別的な存在の痕跡──しかし「到達した（arrivée）」という過去分詞が既に完了した現前として声を提示し、声の主は不在のまま。北極の洞窟（grottes arctiques）は§1の「北極の花々（fleurs arctiques）」を反響する──存在しないとされた花の場所が詩の末尾で声の到達点として帰還する。「Le pavillon…」の省略記号が§1の完全な旗のイメージを断片として残して詩を閉じる──宣言が消滅として完結する。"
+    }
+  ]
+}
