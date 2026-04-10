@@ -1,0 +1,113 @@
+{
+  "id": "rimbaud_eternite",
+  "title": "Éternité",
+  "author": "Arthur Rimbaud",
+  "source": "Œuvres complètes, 1942, p. 142–143; https://fr.wikisource.org/wiki/Œuvres_complètes_(Rimbaud)/Éternité",
+  "year": "1872",
+  "firstPublication": "La Renaissance littéraire et artistique, 14 juin 1873; Œuvres complètes, 1942",
+  "difficulty": "上級",
+  "category": "rimbaud",
+  "originalLang": "fr-FR",
+  "modernRelevance": "★★★★★",
+  "context": "1872年作。散文詩集『地獄の一季節（Une saison en enfer）』の「錬金術的な言語（Alchimie du verbe）」章に組み込まれた形でも知られるが、独立した詩として『ヴィタリス（La Renaissance littéraire et artistique）』誌に発表された。4行6連・全24行。「彼女は再び見つかった。何が？永遠が。それは太陽とともに去った海だ」という冒頭の問答が詩全体の核を設定し、同一の4行が最終連で反復されて詩を閉じる額縁構造をとる。「orietur」という単独のラテン語・「Braises de satin（サテンの炭火）」という素材的比喩・「Sans qu'on dise : enfin !（ついに！と言わずに）」という否定の副詞節が詩の異質性を構成する。永遠の定義を哲学的命題としてではなく視覚的・感覚的イメージ（海と太陽の合一）として提示する点にランボー独自の詩的認識論がある。",
+  "keywords": [
+    "永遠",
+    "海と太陽",
+    "哨兵の魂",
+    "orietur",
+    "サテンの炭火",
+    "額縁構造",
+    "地獄の一季節",
+    "錬金術的言語"
+  ],
+  "relatedTexts": [
+    "rimbaud_fleurs",
+    "rimbaud_barbare",
+    "mallarme_lazur",
+    "mallarme_brise_marine",
+    "hoelderlin_haelfte_des_lebens",
+    "baudelaire_elevation"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "verses": "v.1–4",
+      "original": "Elle est retrouvée.\nQuoi ? L'éternité.\nC'est la mer allée\nAvec le soleil.",
+      "provisionalTranslation": "彼女は再び見つかった。\n何が？永遠が。\nそれは太陽とともに\n去った海だ。"
+    },
+    {
+      "id": 2,
+      "verses": "v.5–8",
+      "original": "Âme sentinelle,\nMurmurons l'aveu\nDe la nuit si nulle\nEt du jour en feu.",
+      "provisionalTranslation": "哨兵の魂よ、\nこれほど無の夜と\n炎の昼の告白を\nつぶやこう。"
+    },
+    {
+      "id": 3,
+      "verses": "v.9–12",
+      "original": "Des humains suffrages,\nDes communs élans,\nDonc tu te dégages :\nTu voles selon…",
+      "provisionalTranslation": "人間たちの賛同から、\n共通の衝動から、\nそうして君は解き放たれる：\n君は……に従って飛ぶ。"
+    },
+    {
+      "id": 4,
+      "verses": "v.13–16",
+      "original": "Jamais l'espérance ;\nPas d'orietur.\nScience avec patience…\nLe supplice est sûr.",
+      "provisionalTranslation": "決して希望はない；\norietur（昇る）もない。\n忍耐とともにある知……\n苦悶は確かだ。"
+    },
+    {
+      "id": 5,
+      "verses": "v.17–20",
+      "original": "De votre ardeur seule,\nBraises de satin,\nLe devoir s'exhale\nSans qu'on dise : enfin !",
+      "provisionalTranslation": "あなた方だけの熱情から、\nサテンの炭火よ、\n義務が立ち昇る\nついに！と言わずに。"
+    },
+    {
+      "id": 6,
+      "verses": "v.21–24",
+      "original": "Elle est retrouvée.\nQuoi ? L'éternité.\nC'est la mer allée\nAvec le soleil.",
+      "provisionalTranslation": "彼女は再び見つかった。\n何が？永遠が。\nそれは太陽とともに\n去った海だ。"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "prosody",
+      "anchor": null,
+      "body": "全24行・4行6連の規則的な短詩。韻律は2歩格ヤンブ（iambe dyssyllabique）──各行わずか4〜6音節という極端な短さが格言的・断章的な凝縮をもたらす。韻はABAB交差韻（retrouvée／allée、éternité／soleil）ただし完全韻ではなく音響的近似（assonance）を多用。第1連と第6連が同一テキストの反復という額縁構造──しかし末尾の反復は冒頭の「発見」の記録でなく、詩全体を経た後の「永遠」の再確認として機能する。ブランショ（『来たるべき書物』Le Livre à venir, 1959）は詩における反復について「繰り返しは同一ではない──最初の発話と最後の発話の間に詩の全行程があり、同一のテキストが別のものとして戻ってくる」と論じる。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "glossary",
+      "anchor": "C'est la mer allée\nAvec le soleil.",
+      "body": "「それは太陽とともに去った海だ」。永遠の定義が抽象的命題ではなく視覚的・感覚的イメージとして提示される──海（水平・拡散・消滅）と太陽（垂直・集中・発光）という相反する二元素が「ともに去る（allée avec）」という運動の中に統合される。リシャール（『詩と深さ』Poésie et profondeur, 1955）はランボーにおける海と光の融合について「二つの無限が接触する水平線──その線上にランボーの永遠のイメージは常に宿る」と論じる。「allée（去った）」という過去分詞が永遠を現在の充足ではなく常に去りつつある運動として定義する点が決定的──永遠は保持されるものでなく消滅し続けるものとして逆説的に把握される。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "Âme sentinelle,\nMurmurons l'aveu\nDe la nuit si nulle\nEt du jour en feu.",
+      "body": "「哨兵の魂よ、これほど無の夜と炎の昼の告白をつぶやこう」。「Âme sentinelle（哨兵の魂）」という呼格が詩の主体を「見張る魂」として定義する──保持するのではなく見張るという身振り。「la nuit si nulle（これほど無の夜）」と「le jour en feu（炎の昼）」という夜昼の対が第1連の「mer（海）」と「soleil（太陽）」の対応に重なる。ボンヌフォワ（Rimbaud par lui-même, 1961）は「ランボーの詩において夜と昼は常に非対称──夜は消去・無として、昼は燃焼・消尽として、双方が永遠の持続を不可能にする」と指摘する。「Murmurons（つぶやこう）」という一人称複数の勧誘形が語り手と読者を共同の証言者として結ぶ。"
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "Des humains suffrages,\nDes communs élans,\nDonc tu te dégages :\nTu voles selon…",
+      "body": "「人間たちの賛同から、共通の衝動から、そうして君は解き放たれる：君は……に従って飛ぶ」。詩の中心的な離脱の宣言──humains suffrages（人間的賛同・多数決）とcommuns élans（共通の衝動・集合的感情）という社会的拘束から魂が解き放たれる。「Tu voles selon…（君は……に従って飛ぶ）」の省略記号が最大の空白を生む──何に従って飛ぶのかが語られない。ブランショ（『文学空間』L'Espace littéraire, 1955）の「詩の言語における沈黙──言葉が意味を語るのでなく、言葉の終わりに沈黙が意味を開く」という詩学に照らすと、この省略記号は意味の欠如でなく意味の無限の開放として機能する。"
+    },
+    {
+      "paragraphId": 4,
+      "type": "glossary",
+      "anchor": "Jamais l'espérance ;\nPas d'orietur.\nScience avec patience…\nLe supplice est sûr.",
+      "body": "「決して希望はない；orietur（昇る）もない。忍耐とともにある知……苦悶は確かだ」。詩全体で最も過酷な連。orietur はラテン語動詞oriri（昇る・生まれる）の未来形三人称単数──「彼・それは昇るだろう」。典礼ラテン語・聖書的文脈（Malachi 4:2「義の太陽が昇るだろう」）との連絡が示唆されるが、ランボーは「Pas d'orietur（orietur はない）」と否定する──救済・復活・昇天の拒絶。「Science avec patience（忍耐とともにある知）」という格言的句が『地獄の一季節』「錬金術的言語」章の文脈では詩的探求の倫理として機能する。リシャール（『詩と深さ』）は「ランボーにとって苦悶（supplice）は詩的認識の代価──知ることは必ず苦しむことを含む」と論じる。"
+    },
+    {
+      "paragraphId": 5,
+      "type": "commentary",
+      "anchor": "De votre ardeur seule,\nBraises de satin,\nLe devoir s'exhale\nSans qu'on dise : enfin !",
+      "body": "「あなた方だけの熱情から、サテンの炭火よ、義務が立ち昇る、ついに！と言わずに」。「Braises de satin（サテンの炭火）」という呼格が詩全体で最も精緻な物質的比喩を形成する──炭火（braises）という消えかかる燃焼の素材にサテンという柔らかく光沢ある布の質感が重ねられる。リシャール（『詩と深さ』）のランボー論における「物質的想像力──最も抵抗的な素材と最も柔軟な素材の衝突がランボーの語彙の核をなす」という指摘の典型例。「Sans qu'on dise : enfin !（ついに！と言わずに）」という否定の副詞節が義務の完遂から達成感・解放感を剥奪する──義務は終わりを持たず、ついにという感嘆符が到来しない永続的な遂行として定義される。ボンヌフォワ（Rimbaud par lui-même）はこの連に「ランボーの倫理の核──目的への到達を拒絶し、到達不能な運動そのものを義務として引き受ける」姿勢を読む。"
+    },
+    {
+      "paragraphId": 6,
+      "type": "prosody",
+      "anchor": "Elle est retrouvée.\nQuoi ? L'éternité.\nC'est la mer allée\nAvec le soleil.",
+      "body": "第1連と同一テキストの反復による閉幕。しかし詩を読んだ後にこの反復は別の響きを持つ──§2の「無の夜と炎の昼」、§3の省略記号の飛翔、§4の「苦悶は確かだ」、§5の「ついに！と言わずに」という詩行程を経た後に「彼女は再び見つかった」は、安易な発見の宣言ではなくそれらすべての苦悶・拒絶・沈黙の後になおも主張される逆説的な永遠の肯定として響く。ブランショ（『来たるべき書物』）の「詩の反復は循環ではなく螺旋──同じ出発点に戻るのではなく、同じ言葉が異なる深さから語られる」という反復論が最もよく当てはまる詩的身振り。"
+    }
+  ]
+}
