@@ -1,0 +1,88 @@
+{
+  "id": "regnier_l_encelade",
+  "title": "L'Encelade",
+  "author": "Henri de Régnier",
+  "source": "La Cité des eaux, Mercure de France, s.d. (15e éd.), p. 22; https://fr.wikisource.org/wiki/L'Encelade",
+  "year": "1902",
+  "firstPublication": "La Cité des eaux, Mercure de France, 1902",
+  "difficulty": "中級",
+  "category": "regnier",
+  "originalLang": "fr-FR",
+  "modernRelevance": "★★★☆☆",
+  "context": "詩集『水の都（La Cité des eaux）』（1902）所収。「Le Bassin noir」に続く第9詩。ソネット形式（4・4・3・3行）。ヴェルサイユ庭園に実在するエンケラドスの噴水彫刻を主題とする。ギガース族エンケラドスはオリュンポスの神々への反乱の罰として溶岩の下に埋められた──ヴェルサイユの彫刻はその神話的瞬間を表現する。§1が水盤の神々の彫像（女神の三叉槍・神のハンマー）を配置し、§2がエンケラドスの巨大な身体と溶岩の重さを描写する。§3が一日中噴水として噴出してきた激しい泡の描写へと転じ、§4の逆説的な閉幕──「夜が来ると、噴水が弱まるにつれて沈黙が増す」──が詩集全体の廃墟的な静寂の美学を神話的スケールで完成させる。「L'Escalier」で既に言及されたエンケラドスがここで独立した詩の主題となる。",
+  "keywords": [
+    "エンケラドス",
+    "ギガース族",
+    "噴水彫刻",
+    "溶岩の下",
+    "怒りの鎖",
+    "沈黙の増大",
+    "神話的廃墟",
+    "水の都"
+  ],
+  "relatedTexts": [
+    "regnier_salut_versailles",
+    "regnier_l_escalier",
+    "regnier_le_bassin_noir",
+    "mallarme_toast_funebre",
+    "hoelderlin_mnemosyne"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "verses": "v.1–4",
+      "original": "Les hauts buis d'alentour bordent un rond-point d'eau.\nAux angles du bassin, devant leurs ombres graves,\nLa Déesse aux yeux durs et le Dieu aux yeux caves\nTiennent l'un le trident et l'autre le marteau.",
+      "provisionalTranslation": "まわりの高い黄楊が水の環状交差路を縁取る。\n水盤の四隅に、重い影の前に、\n硬い目の女神と窪んだ目の神が\n一方は三叉槍を、他方は槌を持つ。"
+    },
+    {
+      "id": 2,
+      "verses": "v.5–8",
+      "original": "Au centre, enseveli dans un vivant tombeau,\nUn Encelade tord, sous l'amas noir des laves,\nSon gigantesque corps qui, nu dans ses entraves,\nSent peser la vengeance et le roc pour fardeau.",
+      "provisionalTranslation": "中心に、生きた墓に埋葬されて、\nひとりのエンケラドスが、黒い溶岩の積み重なりの下で、捻る\n桎梏の中に裸の巨大な体を、\n復讐と岩を重荷として感じながら。"
+    },
+    {
+      "id": 3,
+      "verses": "v.9–11",
+      "original": "Sa gorge horrible, tout le jour, a fait jaillir\nL'écume qui retombe autour de lui, soupir\nMonstrueux et grondant de sa rage enchaînée.",
+      "provisionalTranslation": "その恐ろしい喉が、一日中、噴き出させてきた\nまわりに落ちる泡を、溜め息だ\n鎖につながれた怒りの怪物じみた唸りの。"
+    },
+    {
+      "id": 4,
+      "verses": "v.12–14",
+      "original": "Mais, avec le soir sombre et l'heure qui s'avance,\nÀ mesure, l'on voit, de sa bouche acharnée,\nLe jet d'eau qui décroît accroître le silence.",
+      "provisionalTranslation": "しかし、暗い夕べと進む時刻とともに、\n少しずつ、人は見る、その執拗な口から、\n弱まる噴水が沈黙を増やすのを。"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "prosody",
+      "anchor": null,
+      "body": "全14行のソネット形式（quatrain・quatrain・tercet・tercet）。12音節アレクサンドラン。韻はABBAのエンブラッセ韻──eau／tombeau（A）、graves／laves（B）。詩全体の時間的構造は昼から夕べへの推移──§1・§2が現在の静止した彫像の描写（現在形・複合過去）、§3が「一日中（tout le jour）」の噴水の活動（複合過去）、§4が「夕べ（le soir）」という時間的転換点での逆説的帰結（現在形）。詩集全体に貫かれた「夕べに廃墟が変容する」というモチーフ──「La Façade」§4の「chaque soir（毎晩）」の栄光の蘇生に対し、「L'Encelade」では夕べに噴水が弱まり沈黙が増す──廃墟化としての夕べ。「L'Escalier」§15でエンケラドスが「口に枯れ葉を咥えて」一行だけ言及された後、ここで独立した詩の主題として展開される。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "glossary",
+      "anchor": "La Déesse aux yeux durs et le Dieu aux yeux caves\nTiennent l'un le trident et l'autre le marteau.",
+      "body": "「硬い目の女神と窪んだ目の神が、一方は三叉槍を、他方は槌を持つ」。トリデント（三叉槍）はネプチューン（海神）の属性、槌はウルカーヌス（鍛冶の神）あるいはヘラクレスの属性──二柱の神がエンケラドスを圧する神々の秩序の番人として水盤の四隅に配置される。「yeux durs（硬い目）」と「yeux caves（窪んだ目）」という目の描写の対置が「Le Bassin vert」§1の「triste d'être statue（像であることを悲しむ）」とは逆の硬直した神々の顔として石の非情さを定義する。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "glossary",
+      "anchor": "Un Encelade tord, sous l'amas noir des laves,\nSon gigantesque corps qui, nu dans ses entraves,\nSent peser la vengeance et le roc pour fardeau.",
+      "body": "「ひとりのエンケラドスが、黒い溶岩の積み重なりの下で、捻る、桎梏の中に裸の巨大な体を、復讐と岩を重荷として感じながら」。エンケラドス（Encelade）はギリシャ神話のギガース族──神々への反乱の罰としてアテナによってシチリア島（あるいはエトナ火山）の下に埋められた巨人。「amas noir des laves（黒い溶岩の積み重なり）」という具体的な地質学的描写が神話的刑罰を物質的な重さとして提示する。「Sent peser（重さを感じる）」という動詞が埋没した巨大な体に触覚的な意識を付与する──エンケラドスは埋もれながらも感じる存在として生きている。"
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "Sa gorge horrible, tout le jour, a fait jaillir\nL'écume qui retombe autour de lui, soupir\nMonstrueux et grondant de sa rage enchaînée.",
+      "body": "「その恐ろしい喉が、一日中、噴き出させてきた、まわりに落ちる泡を、溜め息だ、鎖につながれた怒りの怪物じみた唸りの」。噴水の水の噴出が神話的な呼吸・溜め息・怒りの叫びとして再解釈される──ヴェルサイユの噴水機構という人工的な水力工学が巨人の生理的・感情的な吐き出しとして神話化される。「soupir monstrueux（怪物じみた溜め息）」という形容矛盾──溜め息は通常小さく個人的な音だが、「monstrueux（怪物じみた）」という形容詞がエンケラドスの体格に比例する宇宙的スケールの溜め息へと拡大する。「bouche acharnée（執拗な口）」──§4の「執拗な（acharnée）」という形容詞が怒りの持続性を強調する。"
+    },
+    {
+      "paragraphId": 4,
+      "type": "commentary",
+      "anchor": "Mais, avec le soir sombre et l'heure qui s'avance,\nÀ mesure, l'on voit, de sa bouche acharnée,\nLe jet d'eau qui décroît accroître le silence.",
+      "body": "詩の閉幕にして詩集全体の廃墟的美学の神話的完成。「Le jet d'eau qui décroît accroître le silence（弱まる噴水が沈黙を増やす）」という閉幕行は逆比例的な因果の定式──噴水が減るほど沈黙が増えるという数学的な関係。「décroît（減る）」と「accroître（増やす）」という反義語的動詞の対置がこの逆比例を統語的に体現する。「Salut à Versailles」§16の「ta dernière fontaine…pleurer（最後の泉が泣く）」という詩集の最終詩の閉幕と連絡する──詩集は最初の詩で最後の噴水が泣くという結末を予告し、「L'Encelade」でその過程を神話的スケールで演じる。「À mesure（少しずつ）」という副詞が「Le Bassin rose」§3の「peu à peu s'éboule（少しずつ崩れ落ちる）」と同一の漸進的な廃墟化のリズムを体現する。"
+    }
+  ]
+}
