@@ -1,0 +1,96 @@
+{
+  "id": "regnier_perspective",
+  "title": "Perspective",
+  "author": "Henri de Régnier",
+  "source": "La Cité des eaux, Mercure de France, s.d. (15e éd.), p. 17; https://fr.wikisource.org/wiki/Perspective_(Henri_de_Régnier)",
+  "year": "1902",
+  "firstPublication": "La Cité des eaux, Mercure de France, 1902",
+  "difficulty": "中級",
+  "category": "regnier",
+  "originalLang": "fr-FR",
+  "modernRelevance": "★★★☆☆",
+  "context": "詩集『水の都（La Cité des eaux）』（1902）所収。「L'Escalier」に続く第4詩。ソネット形式（4・4・3・3行）による宮殿内装の彫刻・素材・光の描写。「La Façade」が外観、「L'Escalier」が階段を扱うのに対し、「Perspective」は宮殿内部の遠近法的な視線──銅・青銅・錆青色・フレスコ・シャンデリア・クリスタル・鏡という素材と光の連鎖──を通じてヴェルサイユを静止した遠近法の空間として把握する。最終3行が窓の外へと視線を転じ、噴水の百合・糸杉の碑石・イチイの石碑という庭園の垂直的な要素が鏡に映る二重像として閉じる。「L'Escalier」の絶対的喪失に対し、「Perspective」は豊かな素材的共存の静止画として詩集の中で対照的な位置を占める。",
+  "keywords": [
+    "遠近法",
+    "鏡",
+    "フレスコ",
+    "シャンデリア",
+    "ケレス",
+    "ダイアナ",
+    "噴水の百合",
+    "糸杉の碑石"
+  ],
+  "relatedTexts": [
+    "regnier_salut_versailles",
+    "regnier_la_facade",
+    "regnier_l_escalier",
+    "mallarme_herodiade_scene",
+    "gautier_symphonie_en_blanc_majeur"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "verses": "v.1–4",
+      "original": "Le cuivre du trophée et le bronze du buste\nJuxtaposent l'or jaune et la patine verte ;\nLe carquois se suspend près de la corne ouverte,\nCérès en fleurs sourit à Diane robuste.",
+      "provisionalTranslation": "戦利品の銅と胸像の青銅が\n黄金色と緑青色を並置する；\n矢筒が開いた角笛の傍らに吊るされ、\n花咲くケレスが逞しいダイアナに微笑む。"
+    },
+    {
+      "id": 2,
+      "verses": "v.5–8",
+      "original": "Le parquet de bois clair mire la fresque inverse\nOù trône le Héros que la Victoire illustre ;\nL'éclair silencieux rôde de lustre en lustre,\nEt le soleil s'irise au cristal qu'il traverse.",
+      "provisionalTranslation": "明るい木のパルケットが逆さのフレスコを映す、\nそこに勝利が讃える英雄が玉座に坐す；\n沈黙の閃光がシャンデリアからシャンデリアへと彷徨い、\n太陽は貫くクリスタルの中で虹色に輝く。"
+    },
+    {
+      "id": 3,
+      "verses": "v.9–11",
+      "original": "Le glorieux Passé, nu sous son laurier d'or,\nPar les fenêtres, voit se refléter encor,\nDans l'échiquier verdi des portes de miroirs,",
+      "provisionalTranslation": "栄光ある過去は、金の月桂樹の下に裸で、\n窓を通して、まだ映るのを見る、\n緑色がかった鏡扉の市松模様の中に、"
+    },
+    {
+      "id": 4,
+      "verses": "v.12–14",
+      "original": "Le lys mystérieux du jet d'eau, et, votifs,\nDressant sur le ciel clair leur double bronze noir,\nLe cippe d'un cyprès et la stèle d'un if.",
+      "provisionalTranslation": "噴水の神秘的な百合を、そして、奉納的に、\n明るい空に向かってその二重の黒い青銅を立てて、\n糸杉の円柱碑と、イチイの石碑を。"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "prosody",
+      "anchor": null,
+      "body": "全14行のソネット形式（quatrain・quatrain・tercet・tercet）。12音節アレクサンドラン。韻はABBAのエンブラッセ韻──buste／robuste（A）、verte／ouverte（B）。詩全体の視線は内部から外部へと段階的に移動する──§1（彫刻・素材の並置）→§2（床・天井・光の反射）→§3（窓から鏡を通じた外への視線）→§4（庭園の垂直的要素の二重像）。「Perspective（遠近法）」というタイトルが詩の統語的構造にも体現される──視線が奥へと伸びながら、最終行で碑石という墓標的な閉幕へと収束する。「La Façade」「L'Escalier」が廃墟と喪失を扱うのに対し、「Perspective」は素材と光の共存という別の廃墟の様態を示す。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "glossary",
+      "anchor": "Cérès en fleurs sourit à Diane robuste.",
+      "body": "「花咲くケレスが逞しいダイアナに微笑む」。ケレス（Cérès）は農業・豊穰の女神、ダイアナ（Diane）は狩猟・月の女神──二柱の女神がヴェルサイユ宮殿の彫刻として対面する。「en fleurs（花咲く）」と「robuste（逞しい）」という形容詞の対置が、豊穰と力・柔らかさと強さという神話的二項を一行に圧縮する。矢筒（carquois）はダイアナの属性、角笛（corne）は豊穰の角（cornucopia）──ケレスの属性。二神の属性が先行詩行に既に配置されてから、名前による同定が最後に来る構成。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "Le parquet de bois clair mire la fresque inverse\nOù trône le Héros que la Victoire illustre ;",
+      "body": "「明るい木のパルケットが逆さのフレスコを映す、そこに勝利が讃える英雄が玉座に坐す」。「fresque inverse（逆さのフレスコ）」──天井画（フレスコ）が磨かれたパルケットに反転して映り込むという光学的現象の詩的描写。ヴェルサイユの鏡の間・大広間の天井には英雄としてのルイ14世を讃えるルーベンス様式のフレスコが描かれている。「逆さ（inverse）」という形容詞が栄光の転倒を暗示する──英雄は天井では正位置で玉座に坐すが、床に映った像は逆さになる。マラルメ「エロディアード」の「冷たい宝石の下に……逆さに映る空（le ciel renversé）」と連絡する鏡像の詩学。",
+      "targetId": "mallarme_herodiade_scene",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 2,
+      "type": "glossary",
+      "anchor": "L'éclair silencieux rôde de lustre en lustre,\nEt le soleil s'irise au cristal qu'il traverse.",
+      "body": "「沈黙の閃光がシャンデリアからシャンデリアへと彷徨い、太陽は貫くクリスタルの中で虹色に輝く」。「éclair silencieux（沈黙の閃光）」という矛盾語法──稲妻は音を伴うが、この閃光は「沈黙」して「彷徨う（rôde）」。シャンデリア（lustre）のクリスタルが太陽光を分散して虹色（s'irise）を生む物理的現象──プリズム効果の詩的描写。「rôde（彷徨う）」という動詞が光に夜行性の捕食者のような運動を付与する。「La Façade」§4の「vitres d'or（金色の窓ガラス）」に続く光と素材の共感覚的描写。"
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "Le glorieux Passé, nu sous son laurier d'or,\nPar les fenêtres, voit se refléter encor,\nDans l'échiquier verdi des portes de miroirs,",
+      "body": "「栄光ある過去は、金の月桂樹の下に裸で、窓を通して、まだ映るのを見る、緑色がかった鏡扉の市松模様の中に」。「Le glorieux Passé（栄光ある過去）」という大文字の擬人化が詩全体の主体として提示される──過去が窓を通じて鏡の中の自己像を「まだ（encor）」見るという再帰的な視線。「échiquier verdi des portes de miroirs（緑色がかった鏡扉の市松模様）」──ヴェルサイユの鏡の間の扉の描写。「verdi（緑色がかった）」という形容詞が鏡の経年変化による変色を示し、「Salut à Versailles」§12「Verdissent en silence（沈黙のうちに緑色になる）」の水盤と同一の廃墟化プロセスを鏡が辿っていることを示す。"
+    },
+    {
+      "paragraphId": 4,
+      "type": "glossary",
+      "anchor": "Le lys mystérieux du jet d'eau, et, votifs,\nDressant sur le ciel clair leur double bronze noir,\nLe cippe d'un cyprès et la stèle d'un if.",
+      "body": "「噴水の神秘的な百合、そして奉納的に、明るい空に向かってその二重の黒い青銅を立てて、糸杉の円柱碑とイチイの石碑」。詩の最終3行。「lys mystérieux du jet d'eau（噴水の神秘的な百合）」──噴水の水柱を百合の花として比喩化。「Salut à Versailles」§10の「Les clairs lys de cristal（クリスタルの明るい百合）」という王冠の百合と呼応し、ここでは水の百合として再現する。「cippe（円柱碑）」と「stèle（石碑）」はいずれも古代の墓標・記念碑の形式──糸杉（cyprès）とイチイ（if）はともに墓地に植えられる常緑樹。庭園の樹木が墓標として読まれる詩の閉幕が、「L'Escalier」の「過ぎ去った勝利の足跡」に続く詩集内の死の表層を形成する。"
+    }
+  ]
+}
