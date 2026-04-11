@@ -1,0 +1,89 @@
+{
+  "id": "regnier_le_bassin_noir",
+  "title": "Le Bassin noir",
+  "author": "Henri de Régnier",
+  "source": "La Cité des eaux, Mercure de France, s.d. (15e éd.), p. 21; https://fr.wikisource.org/wiki/Le_Bassin_noir",
+  "year": "1902",
+  "firstPublication": "La Cité des eaux, Mercure de France, 1902",
+  "difficulty": "中級",
+  "category": "regnier",
+  "originalLang": "fr-FR",
+  "modernRelevance": "★★★☆☆",
+  "context": "詩集『水の都（La Cité des eaux）』（1902）所収。「Le Bassin vert」に続く第8詩。ソネット形式（4・4・3・3行）。「春・冬・夏・秋」という四季の彫像の列挙と「薔薇・砂模様の並木道・木霊」という庭園の要素の列挙からなる二連の「Laisse（去れ）」が§1・§2を構成し、「来て、ある特別な水に自らを映せ」という招待へと転換する。§3が「楕円の水盤・烏のミラー・鳥の羽根も虫の羽も触れない」という黒い水の絶対的な完全性を描き、§4が「その黒いクリスタルの透明性から、半身の沈黙と半身の愛が浮かび上がるのをお前は見るだろう」という幻視的な閉幕で詩集のバッサン三部作（バラ・緑・黒）を締めくくる。",
+  "keywords": [
+    "黒い水盤",
+    "四季の彫像",
+    "烏のミラー",
+    "黒いクリスタル",
+    "半身の沈黙",
+    "半身の愛",
+    "完全な静止",
+    "水の自己鏡像"
+  ],
+  "relatedTexts": [
+    "regnier_salut_versailles",
+    "regnier_le_bassin_rose",
+    "regnier_le_bassin_vert",
+    "regnier_l_odeur",
+    "mallarme_herodiade_scene",
+    "mallarme_sonnet_yx"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "verses": "v.1–4",
+      "original": "Laisse le Printemps rire en sa gaine de pierre\nEt l'Hiver qui sanglote au socle où il est pris\nJusqu'au torse, et l'Été, grave en ses nœuds fleuris,\nPrès de l'Automne nu qui s'empampre et s'enlierre ;",
+      "provisionalTranslation": "石の鞘の中で笑う春を去れ\nそして胸まで台座に捕らわれて泣く冬を、\n花咲く結び目の中に重い夏を、\n葡萄と蔦に巻かれる裸の秋の傍らで；"
+    },
+    {
+      "id": 2,
+      "verses": "v.5–8",
+      "original": "Laisse la rose double et la rose trémière\nEt l'allée à dessins de sable jaune et gris\nEt l'écho qui répond au rire que tu ris,\nEt viens te regarder dans une eau singulière.",
+      "provisionalTranslation": "八重薔薇とタチアオイを去れ\nそして黄色と灰色の砂模様の並木道を\nそしてお前の笑いに応える木霊を、\nそして来て、ある特別な水に自らを映せ。"
+    },
+    {
+      "id": 3,
+      "verses": "v.9–11",
+      "original": "Elle occupe un bassin ovale et circonspecte ;\nNulle plume d'oiseau et nulle aile d'insecte\nNe raie en le frôlant l'ébène du miroir,",
+      "provisionalTranslation": "それは用心深く楕円の水盤を占める；\n鳥の羽根も虫の翅も\nかすりながらミラーの烏檀を引っかかない、"
+    },
+    {
+      "id": 4,
+      "verses": "v.12–14",
+      "original": "Et, de sa transparence où sommeillent des ors,\nTu verrais émerger d'entre son cristal noir\nLe Silence à mi-voix et l'Amour à mi-corps !",
+      "provisionalTranslation": "そして、黄金が眠るその透明さの中から、\nお前はその黒いクリスタルの間から浮かび上がるのを見るだろう\n半声の沈黙と半身の愛を！"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "prosody",
+      "anchor": null,
+      "body": "全14行のソネット形式（quatrain・quatrain・tercet・tercet）。12音節アレクサンドラン。韻はABBAのエンブラッセ韻──pierre／trémière（A）、pris／fleuris（B）。詩全体の統語的構造は二重の「Laisse（去れ）」による排除から「Et viens（そして来い）」による招待への転換──§1・§2が否定的な列挙（庭園のあらゆる要素の棄却）を行い、§2末尾の「et viens te regarder dans une eau singulière（来て特別な水に自らを映せ）」が§3・§4の黒い水盤の描写へと誘導する。「L'Odeur」の「Laisse l'allée oblique（斜めの並木道を捨てよ）」という棄却の命令が、ここでは庭園全体──四季の彫像・薔薇・並木道・木霊──を棄却する拡大された形で反復される。バッサン三部作の最終詩として、三色（バラ色・緑・黒）の水盤が廃墟の深度を段階的に深める。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "glossary",
+      "anchor": "Laisse le Printemps rire en sa gaine de pierre\nEt l'Hiver qui sanglote au socle où il est pris\nJusqu'au torse, et l'Été, grave en ses nœuds fleuris,\nPrès de l'Automne nu qui s'empampre et s'enlierre ;",
+      "body": "四季の擬人化彫像の連続──春（rire・笑う）・冬（sanglote・泣く）・夏（grave・重い）・秋（nu・裸）という四季がそれぞれ固有の感情・姿勢・属性として提示される。「gaine de pierre（石の鞘）」という春の比喩が彫像の石材を衣として定義する──石が包む（gainer）という身体的関係。「pris jusqu'au torse（胸まで捕らわれた）」という冬の描写が彫像を台座に半ば埋没した存在として提示する。「s'empampre et s'enlierre（葡萄と蔦に巻かれる）」というふたつの反射代動詞が秋の裸体に植物の絡みつきを付与する──「Salut à Versailles」§5の「if pyramidal（錐形イチイ）・buis taillé（刈り込まれた黄楊）」という庭園植物の幾何学に対し、ここでは植物が彫像に有機的に絡みつく。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "Et l'écho qui répond au rire que tu ris,\nEt viens te regarder dans une eau singulière.",
+      "body": "「お前の笑いに応える木霊を、そして来て、ある特別な水に自らを映せ」。詩集内の木霊のモチーフの最終形──「Salut à Versailles」§2の「écho qui toujours le devance（常に先を行く木霊）」→「Le Bassin rose」§2の「Écho muet（黙った木霊）」→ここでは「écho qui répond au rire que tu ris（お前の笑いに応える木霊）」という定義。「Le Bassin noir」の木霊は棄却されるべき対象として現れる──自己の笑いに応えるだけの反響は、黒い水盤の絶対的沈黙と対比される。「une eau singulière（ある特別な水）」という限定詞singulier（特別な・唯一の）が黒い水盤を詩集の他のいかなる水とも異なる絶対的な鏡として定義する。"
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "Elle occupe un bassin ovale et circonspecte ;\nNulle plume d'oiseau et nulle aile d'insecte\nNe raie en le frôlant l'ébène du miroir,",
+      "body": "「それは用心深く楕円の水盤を占める；鳥の羽根も虫の翅もかすりながらミラーの烏檀を引っかかない」。「circonspecte（用心深い）」という形容詞が水（elle）に擬人的な慎重さを付与する──黒い水は自らの完全性を保つために周囲に対して慎重に振る舞う。「Nulle…nulle（いかなる……もない）」という二重の否定が烏檀の鏡面の絶対的な完全性・無傷性を定義する──鳥の羽根も昆虫の翅も触れることができない。「ébène du miroir（ミラーの烏檀）」という素材的比喩が黒い水面を烏檀（最も硬い木材の一つ）として定義する。マラルメ「純粋なソネット（Sonnet en yx）」の「鏡の中の空虚（le vide néant）」との共鳴──何も映さない絶対的な鏡の詩学。"
+    },
+    {
+      "paragraphId": 4,
+      "type": "glossary",
+      "anchor": "Et, de sa transparence où sommeillent des ors,\nTu verrais émerger d'entre son cristal noir\nLe Silence à mi-voix et l'Amour à mi-corps !",
+      "body": "「黄金が眠るその透明さの中から、お前はその黒いクリスタルの間から浮かび上がるのを見るだろう、半声の沈黙と半身の愛を！」。詩集全体の幻視的頂点──「cristal noir（黒いクリスタル）」という矛盾語法がクリスタルの透明性と黒の不透明性を結合する。「Le Silence à mi-voix（半声の沈黙）」と「l'Amour à mi-corps（半身の愛）」という二つの「半（mi-）」による定義が、「Le Bassin rose」§2の「Amour mort（死せる愛）」とは異なる半存在として沈黙と愛を提示する──完全に存在するのでも完全に消滅するのでもなく、半ば水面から浮かび上がるという閾的な状態。感嘆符による詩の閉幕が詩集全体の廃墟的エレジーの中に唯一の幻視的驚嘆として打ち込まれる。"
+    }
+  ]
+}
