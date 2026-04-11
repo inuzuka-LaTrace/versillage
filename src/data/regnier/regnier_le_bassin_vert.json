@@ -1,0 +1,93 @@
+{
+  "id": "regnier_le_bassin_vert",
+  "title": "Le Bassin vert",
+  "author": "Henri de Régnier",
+  "source": "La Cité des eaux, Mercure de France, s.d. (15e éd.), p. 20; https://fr.wikisource.org/wiki/Le_Bassin_vert",
+  "year": "1902",
+  "firstPublication": "La Cité des eaux, Mercure de France, 1902",
+  "difficulty": "中級",
+  "category": "regnier",
+  "originalLang": "fr-FR",
+  "modernRelevance": "★★★☆☆",
+  "context": "詩集『水の都（La Cité des eaux）』（1902）所収。「Le Bassin rose」に続く第7詩。ソネット形式（4・4・3・3行）。「かつて肉体であった青銅が彼女を緑色に変わった水の中に立たせる、かつての女神は像であることを悲しむ」という開幕から、苔が裸の肩を覆い、黙った瓶が硬直した手に重くのしかかる彫像の物質的廃墟化を経て、「水が陰険に万物の影を映す」という鏡の裏切りへと展開する。§3が「芝生と水盤の等価性」という驚くべき同一性の命題を提示し、§4で「エメラルドの水と翠玉の草の中を交互に競い合う黄金として漂う黄色い枯れ葉と彷徨う金魚」という詩集随一の精緻な視覚的閉幕へと至る。",
+  "keywords": [
+    "緑色の水盤",
+    "廃墟の女神像",
+    "陰険な鏡",
+    "パロディの空",
+    "スマラグドの水",
+    "エメラルドの草",
+    "金魚",
+    "枯れ葉"
+  ],
+  "relatedTexts": [
+    "regnier_salut_versailles",
+    "regnier_la_facade",
+    "regnier_l_escalier",
+    "regnier_perspective",
+    "regnier_l_odeur",
+    "regnier_le_bassin_rose",
+    "mallarme_herodiade_scene",
+    "rilke_archaischer_torso_apollos"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "verses": "v.1–4",
+      "original": "Son bronze qui fut chair l'érige en l'eau verdie,\nDéesse d'autrefois triste d'être statue ;\nLa mousse peu à peu couvre l'épaule nue,\nEt l'urne qui se tait pèse à la main roidie ;",
+      "provisionalTranslation": "かつて肉体であった青銅が彼女を緑色に変わった水の中に立てる、\nかつての女神、像であることを悲しむ；\n苔が少しずつ裸の肩を覆い、\n黙った瓶が硬直した手に重くのしかかる；"
+    },
+    {
+      "id": 2,
+      "verses": "v.5–8",
+      "original": "L'onde qui s'engourdit mire avec perfidie\nL'ombre que toute chose en elle est devenue,\nEt son miroir fluide où s'allonge une nue\nImite inversement un ciel qu'il parodie.",
+      "provisionalTranslation": "麻痺していく波は陰険に映す\n万物がその中でなったところの影を、\nそして雲が伸びるその流れる鏡は\n逆さまにひとつの空を模倣するが、それをパロディ化する。"
+    },
+    {
+      "id": 3,
+      "verses": "v.9–11",
+      "original": "Le gazon toujours vert ressemble au bassin glauque.\nC'est le même carré de verdure équivoque\nDont le marbre ou le buis encadrent l'herbe ou l'eau.",
+      "provisionalTranslation": "常に緑の芝生は青灰色の水盤に似ている。\nそれは同じ正方形の曖昧な緑だ\n大理石か黄楊が草か水を縁取る。"
+    },
+    {
+      "id": 4,
+      "verses": "v.12–14",
+      "original": "Et dans l'eau smaragdine et l'herbe d'émeraude,\nRegarde, tour à tour, errer en ors rivaux\nLa jaune feuille morte et le cyprin qui rôde.",
+      "provisionalTranslation": "そしてスマラグドの水と翠玉の草の中を、\n見よ、交互に、競い合う黄金として漂うのを、\n黄色い枯れ葉と彷徨う金魚を。"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "prosody",
+      "anchor": null,
+      "body": "全14行のソネット形式（quatrain・quatrain・tercet・tercet）。12音節アレクサンドラン。韻はABBAのエンブラッセ韻──verdie／perfidie（A）、statue／nue（B）。詩全体が緑（vert）の変奏として構成される──eau verdie（緑色に変わった水）・bassin glauque（青灰色の水盤）・gazon vert（緑の芝生）・verdure équivoque（曖昧な緑）・eau smaragdine（スマラグドの水）・herbe d'émeraude（翠玉の草）という緑の色彩語の連鎖。タイトル「Le Bassin vert（緑の水盤）」が詩全体の色彩的主題として展開する。「Le Bassin rose」の赤色連鎖（porphyre saigne・or rougit）に対し、「Le Bassin vert」は緑色連鎖として詩集内で色彩的な対称を形成する。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "glossary",
+      "anchor": "Son bronze qui fut chair l'érige en l'eau verdie,\nDéesse d'autrefois triste d'être statue ;",
+      "body": "「かつて肉体であった青銅が彼女を緑色に変わった水の中に立てる、かつての女神、像であることを悲しむ」。「bronze qui fut chair（かつて肉体であった青銅）」という逆説──青銅は肉体の模倣として制作されたが、今では肉体でなく素材として定義される。「Déesse d'autrefois triste d'être statue（かつての女神、像であることを悲しむ）」という擬人化が彫像に過去の神話的自己への郷愁を付与する。リルケ「古代のアポロンのトルソ」との対照──リルケのトルソは目がなくとも光を放つが、レニエの女神像は目があっても自らの石化を悲しむ。「L'Escalier」§3の「Sans yeux pour regarder（見るための目もなく）」という盲目の胸像とは逆に、ここでは悲しむ意識を持つ女神として彫像が提示される。",
+      "targetId": "rilke_archaischer_torso_apollos",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "Et son miroir fluide où s'allonge une nue\nImite inversement un ciel qu'il parodie.",
+      "body": "「雲が伸びるその流れる鏡は逆さまにひとつの空を模倣するが、それをパロディ化する」。「Imite inversement un ciel qu'il parodie（逆さまに空を模倣するがそれをパロディ化する）」という詩集随一の批評的なイメージ──水面は空の鏡像であると同時に「パロディ（parodie）」として定義される。模倣と嘲笑の同時性がレニエの廃墟の鏡像詩学の核心を示す。「Perspective」§2の「fresque inverse（逆さのフレスコ）」に続く詩集内の逆転・反転のモチーフがここで最も明示的に「パロディ」という言葉で名指される。マラルメ「エロディアード」の「fluides miroirs（流れる鏡）」との語彙的連絡。"
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "Le gazon toujours vert ressemble au bassin glauque.\nC'est le même carré de verdure équivoque\nDont le marbre ou le buis encadrent l'herbe ou l'eau.",
+      "body": "「常に緑の芝生は青灰色の水盤に似ている。それは同じ正方形の曖昧な緑だ、大理石か黄楊が草か水を縁取る」。詩集全体で最も哲学的に凝縮された三行──芝生と水盤が「同一（le même）」であるという命題。「verdure équivoque（曖昧な緑）」という形容詞が芝生と水の区別の消滅を記述する。縁取るものも「marbre ou buis（大理石か黄楊）」、縁取られるものも「herbe ou eau（草か水）」という選言が、どちらがどちらかを縁取るかの不確定性として提示される──庭園の幾何学的秩序が等価性の霧の中に解体する。「Le Bassin rose」§4の「trop（〜すぎる）」による時間の過剰性に対し、ここでは空間的等価性という別の廃墟化の様態が提示される。"
+    },
+    {
+      "paragraphId": 4,
+      "type": "glossary",
+      "anchor": "Et dans l'eau smaragdine et l'herbe d'émeraude,\nRegarde, tour à tour, errer en ors rivaux\nLa jaune feuille morte et le cyprin qui rôde.",
+      "body": "「スマラグドの水と翠玉の草の中を、見よ、交互に、競い合う黄金として漂うのを、黄色い枯れ葉と彷徨う金魚を」。詩集全体で最も精緻な視覚的閉幕。smaragdine（スマラグド色の・エメラルドグリーンの）とherbe d'émeraude（翠玉の草）という宝石的色彩語の二項が§3の「verdure équivoque（曖昧な緑）」を宝石化する。「ors rivaux（競い合う黄金）」という隠喩が黄色い枯れ葉（植物的・死の黄金）と金魚（動物的・生の黄金）を同一の色調の「競争相手」として並置する──死（枯れ葉）と生（金魚）が同一の黄金色として緑の空間を「交互に（tour à tour）」漂う。cyprin（金魚・コイ）という具体的な魚の名称が詩集のヴェルサイユ描写の中で唯一の生きた動物として機能する。「Salut à Versailles」の廃墟的エレジーから始まった詩集が、ここで一匹の金魚の彷徨いという極小の生命の動きとして閉じる詩的転換。"
+    }
+  ]
+}
