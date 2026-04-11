@@ -1,0 +1,92 @@
+{
+  "id": "regnier_l_escalier",
+  "title": "L'Escalier",
+  "author": "Henri de Régnier",
+  "source": "La Cité des eaux, Mercure de France, s.d. (15e éd.), p. 16; https://fr.wikisource.org/wiki/L'Escalier",
+  "year": "1902",
+  "firstPublication": "La Cité des eaux, Mercure de France, 1902",
+  "difficulty": "中級",
+  "category": "regnier",
+  "originalLang": "fr-FR",
+  "modernRelevance": "★★★☆☆",
+  "context": "詩集『水の都（La Cité des eaux）』（1902）所収。「La Façade」に続く第3詩。ソネット形式（4・4・3・3行）によるヴェルサイユの階段の彫刻的描写。第1連・第2連が王朝の栄光の列挙とその消滅の弁証法を展開し、第3連・第4連が「目も手もない大理石の胸像」が「過ぎ去った勝利の血まみれの足跡」を守る階段の上に立つという彫刻的静止画として閉じる。「La Façade」が外観の廃墟化から夕陽による復活へと向かうのに対し、「L'Escalier」は栄光の絶対的な喪失と石の中に残された「木霊なき痕跡」という否定的な結末で終わる。",
+  "keywords": [
+    "階段",
+    "大理石の胸像",
+    "栄光の消滅",
+    "ポルフィリ",
+    "勝利の痕跡",
+    "匿名の作品",
+    "彫刻的描写",
+    "水の都"
+  ],
+  "relatedTexts": [
+    "regnier_salut_versailles",
+    "regnier_la_facade",
+    "gautier_l_art",
+    "mallarme_toast_funebre",
+    "rilke_archaischer_torso_apollos"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "verses": "v.1–4",
+      "original": "Toute la Gloire avec le glaive et l'étrier,\nEt la terre qui saigne et la mer qui écume,\nLe feutre balayant le parquet de sa plume,\nLa Puissance et l'Amour, la rose et le laurier,",
+      "provisionalTranslation": "剣と鐙を伴うすべての栄光、\n血を流す大地と泡立つ海、\n羽根で床を払うフェルト帽、\n権力と愛、薔薇と月桂樹、"
+    },
+    {
+      "id": 2,
+      "verses": "v.5–8",
+      "original": "De ce songe royal et de ce bruit guerrier,\nSoleil d'or qui s'efface ébloui dans la brume,\nIl ne reste que l'œuvre anonyme et posthume\nDu marteau d'un sculpteur dans le bloc du carrier ;",
+      "provisionalTranslation": "この王侯の夢とこの戦の騒音から、\n霞の中に眩惑されて消えゆく黄金の太陽から、\n残るのは石切り職人の石塊の中の\n彫刻家の槌の匿名の遺作だけだ；"
+    },
+    {
+      "id": 3,
+      "verses": "v.9–11",
+      "original": "Et le marbre du buste arrogant et romain,\nSans yeux pour regarder et pour prendre sans mains,\nSe dresse taciturne et solitaire, au haut",
+      "provisionalTranslation": "そして傲慢でローマ的な胸像の大理石が、\n見るための目もなく、取るための手もなく、\n無言で孤独に聳え立つ、頂に、"
+    },
+    {
+      "id": 4,
+      "verses": "v.12–14",
+      "original": "De l'escalier qui garde à ses marches tassées,\nDans le porphyre roux, la trace sans écho\nDu pas sanglant encor des Victoires passées.",
+      "provisionalTranslation": "積み重なった石段に守られた階段の、\n赤みがかったポルフィリの中に、木霊なき痕跡を──\n過ぎ去った勝利たちのなお血まみれの足跡の。"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "prosody",
+      "anchor": null,
+      "body": "全14行のソネット形式（quatrain・quatrain・tercet・tercet）。12音節アレクサンドラン。韻はABBAのエンブラッセ韻──étrier／guerrier（A）、écume／plume（B）。詩全体は一つの巨大な文として構成される──§1の「Toute la Gloire…」という列挙が§2の「Il ne reste que…（残るのは……だけだ）」に帰結し、§3・§4の「Et le marbre…Se dresse…De l'escalier qui garde…la trace（そして大理石が……聳え立つ……階段の……痕跡を）」という関係節の連鎖が詩を一つの彫刻的瞬間として凝固させる。「La Façade」が「Mais（しかし）」による逆転で閉じるのに対し、「L'Escalier」は同一の文法的流れが最後まで継続し、より絶対的な喪失の宣言で終わる。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "glossary",
+      "anchor": "Toute la Gloire avec le glaive et l'étrier,\nEt la terre qui saigne et la mer qui écume,\nLe feutre balayant le parquet de sa plume,\nLa Puissance et l'Amour, la rose et le laurier,",
+      "body": "王朝の栄光の四行列挙──剣（glaive）と鐙（étrier）という騎士的・軍事的秩序、血を流す大地と泡立つ海という征服の地理的広がり、羽根飾りのフェルト帽（17世紀宮廷服飾）という礼節の身振り、権力（Puissance）と愛（Amour）・薔薇（rose）と月桂樹（laurier）という政治的・詩的二項対。この列挙が「すべての（Toute）」という形容詞で包括される──王朝文明の全体が第1連に凝縮して召喚される。ゴーティエ「芸術（L'Art）」の「皇帝たちの治世は過ぎ去る……しかし強固な詩節は……存続する」という命題と同一の弁証法を展開するが、レニエの結論は異なる。",
+      "targetId": "gautier_l_art",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "Il ne reste que l'œuvre anonyme et posthume\nDu marteau d'un sculpteur dans le bloc du carrier ;",
+      "body": "「残るのは石切り職人の石塊の中の彫刻家の槌の匿名の遺作だけだ」。詩の中心的命題──王朝の全栄光が消滅した後に残るのは彫刻家の「匿名の遺作（œuvre anonyme et posthume）」だけという逆説。「anonyme（匿名の）」という形容詞が芸術の非人格的な持続を強調する──制作者の名ではなく物質（石）の中に残る労働の痕跡のみが時間を超える。ゴーティエ「芸術」の「詩人は死ぬ……しかし詩節は……存続する」という名人主義的芸術観を継承しながら、レニエは「匿名」という語によってその持続を非英雄化する──芸術の不死性は個人の不死性でなく素材の不死性として提示される。マラルメ「乾杯（Toast funèbre）」の「散らばった空白の喪の中に消えゆく詩人」という没後の非存在との共鳴。"
+    },
+    {
+      "paragraphId": 3,
+      "type": "glossary",
+      "anchor": "Et le marbre du buste arrogant et romain,\nSans yeux pour regarder et pour prendre sans mains,",
+      "body": "「傲慢でローマ的な胸像の大理石が、見るための目もなく、取るための手もなく」。「arrogant et romain（傲慢でローマ的）」という形容詞対がルイ14世をローマ皇帝の伝統に位置づける──ヴェルサイユの彫刻的イコノグラフィーはローマ帝国の彫刻様式を範とした。「Sans yeux pour regarder et pour prendre sans mains（目もなく……手もなく）」という否定の二項が彫刻の視覚的・触覚的無力を定義する──かつて権力の眼差しと把握の手を象徴した胸像が、今や見ることも取ることもできない石の塊として提示される。リルケ「古代のアポロンのトルソ（Archaischer Torso Apollos）」の「胸像には目がない」という開幕と対照的──リルケの胸像は盲目にもかかわらず光を放つが、レニエの胸像は盲目のまま廃墟に立つ。",
+      "targetId": "rilke_archaischer_torso_apollos",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 4,
+      "type": "commentary",
+      "anchor": "Dans le porphyre roux, la trace sans écho\nDu pas sanglant encor des Victoires passées.",
+      "body": "「赤みがかったポルフィリの中に、木霊なき痕跡──過ぎ去った勝利たちのなお血まみれの足跡の」。詩の最終2行。「porphyre roux（赤みがかったポルフィリ）」──ポルフィリは帝国的権力の素材として知られる赤紫色の斑岩（古代ローマ皇帝の石棺に使用）。その赤みがかった色調が「pas sanglant（血まみれの足跡）」という比喩と融合する──石の赤色が血の赤色として読まれる。「trace sans écho（木霊なき痕跡）」という句が「Salut à Versailles」§2の「écho qui toujours le devance（常に先を行く木霊）」を反響する──彼の詩では追いつけない木霊が先を行くのに対し、ここでは木霊そのものが存在しない痕跡だけが残る。廃墟の段階的な深化：木霊が先を行く（Salut）→木霊なき痕跡のみ（L'Escalier）。"
+    }
+  ]
+}
