@@ -1,0 +1,132 @@
+{
+  "id": "baudelaire_les_bijoux",
+  "title": "Les Bijoux",
+  "author": "Charles Baudelaire",
+  "source": "Les Fleurs du mal (1857), Poulet-Malassis et de Broise, 1857, p. 52–53; https://fr.wikisource.org/wiki/Les_Fleurs_du_mal_(éd._1857)/Les_Bijoux",
+  "year": "1857",
+  "firstPublication": "Les Fleurs du mal, Poulet-Malassis et de Broise, 1857 (pièce XX); supprimée par arrêt du 20 août 1857",
+  "difficulty": "上級",
+  "category": "baudelaire",
+  "originalLang": "fr-FR",
+  "modernRelevance": "★★★★★",
+  "context": "『悪の華』初版（1857）第20番。「六つの猥褻詩」として裁判で有罪判決を受け、初版刊行直後に削除を命じられた6篇のうちの一。黒人女性（ジャンヌ・デュヴァルと同定されることが多い）が宝飾品だけをつけて横たわる情景から出発し、「金属と石の輝く世界」「音と光の混淆」「クリスタルの岩礁」「アンティオペの腰」「琥珀色の肌を血で溢れさせる炎」へと展開する。官能・素材・光・神話が折り重なる詩学的複合体であり、ボードレール美学における correspondances（対応）の官能的極限として読まれてきた。",
+  "keywords": [
+    "宝飾品",
+    "音と光の対応",
+    "アンティオペ",
+    "琥珀色の肌",
+    "クリスタルの岩礁",
+    "悪の天使",
+    "削除詩",
+    "correspondances"
+  ],
+  "relatedTexts": [
+    "baudelaire_correspondances",
+    "baudelaire_la_chevelure",
+    "baudelaire_parfum_exotique",
+    "baudelaire_chat",
+    "valery_la_dormeuse"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "verses": "v.1–4",
+      "original": "La très-chère était nue, et, connaissant mon cœur,\nElle n'avait gardé que ses bijoux sonores,\nDont le riche attirail lui donnait l'air vainqueur\nQu'ont dans leurs jours heureux les esclaves des Maures.",
+      "provisionalTranslation": "愛しい人は裸で、私の心を知って、\n彼女は鳴り響く宝飾品だけをつけていた、\nその豊かな飾りが彼女に勝ち誇った様子を与えていた、\n幸福な日々のムーア人の奴隷たちが持つような。"
+    },
+    {
+      "id": 2,
+      "verses": "v.5–8",
+      "original": "Quand il jette en dansant son bruit vif et moqueur,\nCe monde rayonnant de métal et de pierre\nMe ravit en extase, et j'aime avec fureur\nLes choses où le son se mêle à la lumière.",
+      "provisionalTranslation": "それが踊りながら鋭く嘲笑的な音を放つとき、\n金属と石の輝くこの世界が\n私を法悦へと奪い去る、そして私は猛烈に愛する\n音が光と混ざり合うものたちを。"
+    },
+    {
+      "id": 3,
+      "verses": "v.9–12",
+      "original": "Elle était donc couchée, et se laissait aimer,\nEt du haut du divan elle souriait d'aise\nÀ mon amour profond et doux comme la mer\nQui vers elle montait comme vers sa falaise.",
+      "provisionalTranslation": "彼女はこうして横たわり、愛されるに任せていた、\nそしてディヴァンの高みから彼女は安らかに微笑んだ\n私の深く穏やかな愛に、海のような愛に、\nそれが崖に向かうように彼女へと満ちていく。"
+    },
+    {
+      "id": 4,
+      "verses": "v.13–16",
+      "original": "Les yeux fixés sur moi, comme un tigre dompté,\nD'un air vague et rêveur elle essayait des poses,\nEt la candeur unie à la lubricité\nDonnait un charme neuf à ses métamorphoses.",
+      "provisionalTranslation": "目を私に据えて、手なずけられた虎のように、\n漠然とした夢見がちな様子でポーズをとっていた、\nそして無垢と淫蕩が結びついて\n彼女の変容に新たな魅力を与えた。"
+    },
+    {
+      "id": 5,
+      "verses": "v.17–20",
+      "original": "Et son bras et sa jambe, et sa cuisse et ses reins,\nPolis comme de l'huile, onduleux comme un cygne,\nPassaient devant mes yeux clairvoyants et sereins ;\nEt son ventre et ses seins, ces grappes de ma vigne,",
+      "provisionalTranslation": "彼女の腕と脚、腿と腰が、\n油のように滑らかで、白鳥のように波打ちながら、\n私の澄み渡った静かな目の前を過ぎていった；\n彼女の腹と胸、私の葡萄樹の房が、"
+    },
+    {
+      "id": 6,
+      "verses": "v.21–24",
+      "original": "S'avançaient plus câlins que les anges du mal,\nPour troubler le repos où mon âme était mise,\nEt pour la déranger du rocher de cristal,\nOù calme et solitaire elle s'était assise.",
+      "provisionalTranslation": "悪の天使たちよりも甘えるように近づいてきた、\n私の魂が置かれた安らぎを乱すために、\nそしてクリスタルの岩礁から引き離すために、\nそこに静かに孤独に魂は座っていた。"
+    },
+    {
+      "id": 7,
+      "verses": "v.25–28",
+      "original": "Je croyais voir unis par un nouveau dessin\nLes hanches de l'Antiope au buste d'un imberbe,\nTant sa taille faisait ressortir son bassin.\nSur ce teint fauve et brun le fard était superbe !\n— Et la lampe s'étant résignée à mourir,\nComme le foyer seul illuminait la chambre,\nChaque fois qu'il poussait un flamboyant soupir,\nIl inondait de sang cette peau couleur d'ambre !",
+      "provisionalTranslation": "私は新たな意匠によって結ばれているように思った、\nアンティオペの腰と髭のない少年の胴を。\n彼女のウエストがそれほど腰を際立たせていた。\nこの褐色の肌の上に化粧は華麗だった！\n──そして明かりが死ぬことに甘んじて、\n炉だけが部屋を照らすと、\n炎が燃え盛る溜め息を放つたびに、\nそれは血でこの琥珀色の肌を溢れさせた！"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "prosody",
+      "anchor": null,
+      "body": "全28行（＋最終連8行）・4行連の交差韻（ABAB）によるアレクサンドラン。韻律は12音節詩行（alexandrin）を基調とする。詩全体は視点の二重構造を持つ──宝飾品の「鳴り響く（sonores）」聴覚的属性から出発して光学的・視覚的描写へと移行し、最終連で炎が「血（sang）」として皮膚を「溢れさせる（inondait）」という色彩的・触覚的頂点で閉じる。ヴァレリー（「ボードレールの位置」Situation de Baudelaire, 1924）はボードレールの詩を「感覚の綜合──音・光・匂いが一つの印象の中に融解する」詩学として評価する。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "glossary",
+      "anchor": "les esclaves des Maures.",
+      "body": "「ムーア人の奴隷たち」。ムーア人はイベリア半島・北アフリカのイスラム系民族を指す歴史的語彙。「ムーア人の奴隷」という比喩が被愛者に「勝ち誇った（vainqueur）」様子を与える──奴隷でありながら勝者であるという逆説。ボードレールが愛した黒人女性ジャンヌ・デュヴァルとの関係を背景に読まれることが多い。ヴァルター・ベンヤミン（『パサージュ論』Passagen-Werk, 1927–40）はボードレールにおける「異国性（exotisme）」について「パリという商品世界の内部に埋め込まれた他の世界への欲望──植民地的想像力と官能的欲望の不可分な絡み合い」として論じる。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "glossary",
+      "anchor": "Les choses où le son se mêle à la lumière.",
+      "body": "「音が光と混ざり合うものたちを」。詩全体の詩学的宣言──宝飾品が「鳴り響きながら（en dansant）」光を放つという共感覚（synesthésie）の提示。「Correspondances」ソネットの「色彩と音と匂いが互いに応え合う」という共感覚的宇宙論がここでは官能的身体の文脈で再演される。リシャール（『詩と深さ』Poésie et profondeur, 1955）はボードレールの共感覚について「感覚の融合は単なる修辞的技巧でなく、世界の深層的統一への存在論的直観──音と光が混ざり合う瞬間に詩人は correspondances の実質に触れる」と論じる。",
+      "targetId": "baudelaire_correspondances",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "À mon amour profond et doux comme la mer\nQui vers elle montait comme vers sa falaise.",
+      "body": "「私の深く穏やかな愛に、海のような愛に、それが崖に向かうように彼女へと満ちていく」。二重の直喩──愛が海として、被愛者が崖として比喩化される。「la mer（海）」と「sa falaise（その崖）」という地形的な対置が愛の関係を自然の物理的必然として定義する──引力・潮汐・侵食という非人格的な力として愛が提示される。ベンヤミン（『パサージュ論』）はボードレールの自然比喩について「都市詩人ボードレールにとって自然はロマン主義的慰めでなく、商品的美学の鏡として機能する──海・崖・嵐がすべて官能的商品の隠喩となる」と指摘する。"
+    },
+    {
+      "paragraphId": 4,
+      "type": "commentary",
+      "anchor": "Et la candeur unie à la lubricité\nDonnait un charme neuf à ses métamorphoses.",
+      "body": "「無垢と淫蕩が結びついて彼女の変容に新たな魅力を与えた」。「candeur（無垢）」と「lubricité（淫蕩）」という道徳的対立項の結合がボードレール美学の核心。「métamorphoses（変容）」という語がオウィディウス的な変身神話を召喚しながら、性的なポーズの連続を神話的変容として格上げする。ヴァレリー（「ボードレールの位置」）は「ボードレールの詩において矛盾する属性の結合──聖と俗、美と醜、無垢と堕落──が常に新たな美のカテゴリーを生産する」という弁証法的詩学を指摘する。"
+    },
+    {
+      "paragraphId": 5,
+      "type": "glossary",
+      "anchor": "Et son ventre et ses seins, ces grappes de ma vigne,",
+      "body": "「彼女の腹と胸、私の葡萄樹の房」。「grappes de ma vigne（私の葡萄樹の房）」という所有格付きの農耕的比喩──官能的身体部位が詩人自身の「葡萄樹」の実として定義される。聖書的連想（雅歌7章：「あなたの乳房は葡萄の房のよう」）と農耕的所有の結合がエロティシズムに宗教的・神話的厚みを与える。ベンヤミン（『パサージュ論』）はボードレールにおける「自然と商品の境界消滅──身体が自然の産物（葡萄）として提示されながら同時に享受される商品として機能する」という近代的官能性の構造を指摘する。「ma vigne（私の葡萄樹）」という所有格が愛の関係を農耕的・経済的な所有の修辞で語る点に特徴がある。"
+    },
+    {
+      "paragraphId": 6,
+      "type": "glossary",
+      "anchor": "Et pour la déranger du rocher de cristal,\nOù calme et solitaire elle s'était assise.",
+      "body": "「クリスタルの岩礁から引き離すために、そこに静かに孤独に魂は座っていた」。「rocher de cristal（クリスタルの岩礁）」という詩全体で最も精緻な物質的比喩──魂の平静を固体的・透明・不動の岩として提示し、官能的誘惑をその岩礁からの引き剥がしとして定義する。リシャール（『詩と深さ』）はボードレールにおける「クリスタル」の主題について「透明性と硬度の結合──魂が最も高次の純化に達した状態としての水晶的凝固」として論じる。この「クリスタルの岩礁」は「悪の天使たちよりも甘えるように（plus câlins que les anges du mal）」という§6冒頭の比喩と対照をなす──純化された魂が官能的・悪魔的な力によって侵される構図。"
+    },
+    {
+      "paragraphId": 7,
+      "type": "commentary",
+      "anchor": "Je croyais voir unis par un nouveau dessin\nLes hanches de l'Antiope au buste d'un imberbe,",
+      "body": "「私は新たな意匠によって結ばれているように思った、アンティオペの腰と髭のない少年の胴を」。アンティオペ（Antiope）はギリシャ神話のアマゾン族の女王、あるいはテーバイの王女──いずれも豊満な腰で知られる。「髭のない少年（imberbe）」の胴との結合が女性の身体に両性具有的な美を付与する。ベンヤミン（『パサージュ論』）はボードレールにおける古代神話の引用について「神話的イメージは歴史的連続性ではなく衝撃（Chock）として機能する──アンティオペの腰が近代パリの寝室に突然現れることで、過去と現在の弁証法的衝突が生まれる」と論じる。"
+    },
+    {
+      "paragraphId": 7,
+      "type": "prosody",
+      "anchor": "— Et la lampe s'étant résignée à mourir,\nComme le foyer seul illuminait la chambre,\nChaque fois qu'il poussait un flamboyant soupir,\nIl inondait de sang cette peau couleur d'ambre !",
+      "body": "詩の最終4行。「明かりが死ぬことに甘んじて（la lampe s'étant résignée à mourir）」という擬人化が光源の消滅を死の自発的受容として提示する。炉（foyer）だけが残り、炎の「燃え盛る溜め息（flamboyant soupir）」が「血（sang）」として「琥珀色の肌（peau couleur d'ambre）」を溢れさせる──光が血に変容するという詩全体の色彩的頂点。リシャール（『詩と深さ』）のボードレール論における「光の液化──固体的・安定的な光が流動的・血液的な赤に転換する瞬間としての詩的クライマックス」がここに集約される。「couleur d'ambre（琥珀色）」という素材的色彩語が§1の「bijoux sonores（鳴り響く宝飾品）」と呼応し、詩が宝飾品の色調の中に閉じる。"
+    }
+  ]
+}
