@@ -1,0 +1,90 @@
+{
+  "id": "regnier_le_bassin_rose",
+  "title": "Le Bassin rose",
+  "author": "Henri de Régnier",
+  "source": "La Cité des eaux, Mercure de France, s.d. (15e éd.), p. 19; https://fr.wikisource.org/wiki/Le_Bassin_rose",
+  "year": "1902",
+  "firstPublication": "La Cité des eaux, Mercure de France, 1902",
+  "difficulty": "中級",
+  "category": "regnier",
+  "originalLang": "fr-FR",
+  "modernRelevance": "★★★☆☆",
+  "context": "詩集『水の都（La Cité des eaux）』（1902）所収。「L'Odeur」に続く第6詩。ソネット形式（4・4・3・3行）。「もし噴水が沈黙したなら、もし彫像の金が剥落するなら、もしポルフィリが血を流すなら」という三重の条件節が§1を構成し、§2がその原因──「木霊が黙って沈黙に手を差し伸べ、死せる愛の傍らで沈黙が跪く」という擬人化の連鎖──を提示する。§3が「並木道・土手・扉・柱廊」という廃墟の建築的細部を列挙し、§4の「時間」の格言的な定義──「自らがかつてあったものに生き残り、常に自らが去ったままの姿で自らを見出す」──が「水を不安にし薔薇を高くしすぎる」という逆説的な作用として詩を閉じる。",
+  "keywords": [
+    "薔薇色の水盤",
+    "ポルフィリ",
+    "死せる愛",
+    "木霊と沈黙",
+    "時間の定義",
+    "廃墟の建築",
+    "不安な水",
+    "高すぎる薔薇"
+  ],
+  "relatedTexts": [
+    "regnier_salut_versailles",
+    "regnier_la_facade",
+    "regnier_l_escalier",
+    "regnier_perspective",
+    "regnier_l_odeur",
+    "mallarme_angoisse",
+    "rodenbach_loubli"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "verses": "v.1–4",
+      "original": "Si le jet d'eau s'est tu dans la vasque, si l'or\nDe la statue en pleurs au centre du bassin\nS'écaille sur la hanche et rougit sur le sein,\nSi le porphyre rose en l'onde saigne encor ;",
+      "provisionalTranslation": "もし噴水が水盤の中で沈黙したなら、もし水盤の中心で\n泣く彫像の金が\n腰で剥落し胸で赤らむなら、\nもし薔薇色のポルフィリが波の中でなお血を流すなら；"
+    },
+    {
+      "id": 2,
+      "verses": "v.5–8",
+      "original": "C'est que tout, alentour, s'engourdit et s'endort\nD'avoir été charmant, mystérieux et vain,\nEt que l'Écho muet dans l'ombre tend la main\nAu Silence à genoux auprès de l'Amour mort.",
+      "provisionalTranslation": "それはまわりのすべてが、魅力的で神秘的で虚ろであったために\n麻痺し眠りに落ちるからだ、\nそして黙った木霊が影の中で手を差し伸べるからだ\n死せる愛の傍らで跪く沈黙に。"
+    },
+    {
+      "id": 3,
+      "verses": "v.9–11",
+      "original": "L'allée est inquiète où l'on ne passe plus ;\nLa terre peu à peu s'éboule du talus ;\nLa porte attend la clef, le portique attend l'hôte,",
+      "provisionalTranslation": "並木道は不安だ、もはや誰も通らないところで；\n土は少しずつ土手から崩れ落ちる；\n扉は鍵を待ち、柱廊は客を待つ、"
+    },
+    {
+      "id": 4,
+      "verses": "v.12–14",
+      "original": "Et le Temps, qui survit à ce qu'il a été\nEt se retrouve toujours tel qu'il s'est quitté,\nFait l'eau trop anxieuse et les roses trop hautes.",
+      "provisionalTranslation": "そして時間は、自らがかつてあったものに生き残り\n常に自らが去ったままの姿で自らを見出し、\n水を不安にしすぎ薔薇を高くしすぎる。"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "prosody",
+      "anchor": null,
+      "body": "全14行のソネット形式（quatrain・quatrain・tercet・tercet）。12音節アレクサンドラン。韻はABBAのエンブラッセ韻──or／encor（A）、bassin／sein（B）。詩全体の統語的構造は因果論的──§1の三重の条件節「Si…si…si（もし…もし…もし）」が§2の「C'est que…（それは……からだ）」という原因節に帰結する。§3が結果としての廃墟の細部を列挙し、§4の「le Temps（時間）」という大文字の主体が詩全体の作用因として格言的に定義される。「L'Odeur」が感覚（嗅覚）への投降で閉じるのに対し、「Le Bassin rose」は時間の格言的な定義──時間は自らに生き残る──という哲学的命題で閉じる。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "glossary",
+      "anchor": "Si le porphyre rose en l'onde saigne encor ;",
+      "body": "「もし薔薇色のポルフィリが波の中でなお血を流すなら」。porphyre rose（薔薇色のポルフィリ）──ポルフィリは赤紫色の斑岩で帝国的権力の素材。「L'Escalier」§4の「porphyre roux（赤みがかったポルフィリ）」と同一の素材が詩集内で反復される。「saigne（血を流す）」という動詞が石の赤色を血の赤色として読む擬人化──水に映るポルフィリの赤が「なお（encor）」血を流し続けるという持続的な出血のイメージ。タイトル「薔薇色の水盤（bassin rose）」の「rose（薔薇色）」が彫像の金の赤らみ・ポルフィリの血という色彩的連鎖として§1全体に貫通する。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "Et que l'Écho muet dans l'ombre tend la main\nAu Silence à genoux auprès de l'Amour mort.",
+      "body": "「黙った木霊が影の中で手を差し伸べる、死せる愛の傍らで跪く沈黙に」。詩集全体で最も精緻な擬人化の連鎖──「l'Écho muet（黙った木霊）」「le Silence à genoux（跪く沈黙）」「l'Amour mort（死せる愛）」という三つの大文字の抽象名詞が劇的な空間の中に配置される。「Salut à Versailles」§2の「écho qui toujours le devance（常に先を行く木霊）」が「L'Escalier」§4の「trace sans écho（木霊なき痕跡）」を経てここでは「muet（黙った）」木霊として到達する──追いつけない木霊→木霊なき痕跡→黙った木霊という詩集内の木霊の段階的消滅の第三段階。"
+    },
+    {
+      "paragraphId": 3,
+      "type": "glossary",
+      "anchor": "L'allée est inquiète où l'on ne passe plus ;\nLa terre peu à peu s'éboule du talus ;\nLa porte attend la clef, le portique attend l'hôte,",
+      "body": "「並木道は不安だ、もはや誰も通らないところで；土は少しずつ土手から崩れ落ちる；扉は鍵を待ち、柱廊は客を待つ」。廃墟の建築的・地形的細部の三項列挙──「L'Odeur」§3の「clef perdue（失われた鍵）」が「La porte attend la clef（扉は鍵を待つ）」として反響する。「allée est inquiète（並木道は不安）」という形容詞の擬人化──「L'Odeur」§3の「allée oblique（斜めの並木道）」に続く詩集内の並木道モチーフ。「peu à peu s'éboule（少しずつ崩れ落ちる）」という動詞の進行性が廃墟化を完了した過去でなく現在進行中のプロセスとして提示する。"
+    },
+    {
+      "paragraphId": 4,
+      "type": "commentary",
+      "anchor": "Et le Temps, qui survit à ce qu'il a été\nEt se retrouve toujours tel qu'il s'est quitté,\nFait l'eau trop anxieuse et les roses trop hautes.",
+      "body": "詩の閉幕にして詩集全体の哲学的核心。「le Temps, qui survit à ce qu'il a été / Et se retrouve toujours tel qu'il s'est quitté（時間は、自らがかつてあったものに生き残り、常に自らが去ったままの姿で自らを見出す）」という定義が時間を自己同一的・循環的な存在として提示する──時間は変化するのでなく、常に自らと同一のまま事物を変化させる。「Fait l'eau trop anxieuse et les roses trop hautes（水を不安にしすぎ薔薇を高くしすぎる）」という閉幕行は時間の作用の逆説的な記述──水が「不安（anxieuse）」になり薔薇が「高くなりすぎる（trop hautes）」という異常な成長・異常な感情が時間の過剰な自己持続の結果として提示される。「trop（〜すぎる）」の反復が時間の働きの過剰性を強調する──廃墟は時間の不在でなく時間の過剰として生まれる。"
+    }
+  ]
+}
