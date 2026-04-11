@@ -1,0 +1,89 @@
+{
+  "id": "regnier_la_nymphe",
+  "title": "La Nymphe",
+  "author": "Henri de Régnier",
+  "source": "La Cité des eaux, Mercure de France, s.d. (15e éd.), p. 24; https://fr.wikisource.org/wiki/La_Nymphe",
+  "year": "1902",
+  "firstPublication": "La Cité des eaux, Mercure de France, 1902",
+  "difficulty": "中級",
+  "category": "regnier",
+  "originalLang": "fr-FR",
+  "modernRelevance": "★★★☆☆",
+  "context": "詩集『水の都（La Cité des eaux）』（1902）所収。「Léda」に続く第11詩。ソネット形式（4・4・3・3行）。§1が眠る水・ポルフィリの水盤・青灰色の霞を映す水という詩集内の既出の水のモチーフを糸杉と薔薇の対置として再召喚し、§2が神と女神の対立的な配置とその間に立つ「裸で直立した愛（L'Amour debout et nu）」を描写する。§3が運河の縁の庭園幾何学──芝生・イチイ・ヒイラギ・オベリスク・ピラミッド──を列挙し、§4の竜と蛇（ヒュドラ）の対立という神話的対話が「眠るニンフの上に銀の水柱を吐きかける」という閉幕へと至る。ニンフの「眠り（endormie）」が詩集全体の廃墟的「眠り（endormis・s'endort）」のモチーフの人格的集約として機能する。",
+  "keywords": [
+    "ニンフ",
+    "眠り",
+    "竜と蛇",
+    "愛の仲介",
+    "庭園幾何学",
+    "銀の水柱",
+    "ポルフィリ",
+    "水の都"
+  ],
+  "relatedTexts": [
+    "regnier_salut_versailles",
+    "regnier_leda",
+    "regnier_le_bassin_rose",
+    "regnier_le_bassin_vert",
+    "regnier_l_encelade",
+    "verlaine_clair_de_lune"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "verses": "v.1–4",
+      "original": "L'eau calme qui s'endort, déborde et se repose\nAu bassin de porphyre et dans la vasque en pleurs\nEn son trouble sommeil et ses glauques pâleurs\nReflète le cyprès et reflète la rose.",
+      "provisionalTranslation": "眠りにつき、溢れ、休む静かな水が\nポルフィリの水盤と泣く器の中で\nその乱れた眠りと青灰色の霞の中に\n糸杉を映し、薔薇を映す。"
+    },
+    {
+      "id": 2,
+      "verses": "v.5–8",
+      "original": "Le Dieu à la Déesse en souriant s'oppose ;\nL'un tient le sceptre et l'arc, l'autre l'urne et les fleurs,\nEt, dans l'allée entre eux, mêlant son ombre aux leurs,\nL'Amour debout et nu se dresse et s'interpose.",
+      "provisionalTranslation": "神は微笑みながら女神と向き合う；\n一方は笏と弓を、他方は瓶と花を持ち、\nそして二人の間の並木道に、影を彼らのものと混ぜながら、\n裸で直立した愛が聳え立ち割り込む。"
+    },
+    {
+      "id": 3,
+      "verses": "v.9–11",
+      "original": "Les talus du gazon bordent le canal clair ;\nL'if y mire son bloc, le houx son cône vert,\nEt l'obélisque alterne avec la pyramide ;",
+      "provisionalTranslation": "芝生の土手が明るい運河を縁取る；\nイチイはその塊を映し、ヒイラギは緑の円錐を映し、\nそしてオベリスクがピラミッドと交互に続く；"
+    },
+    {
+      "id": 4,
+      "verses": "v.12–14",
+      "original": "Un Dragon qui fait face à son Hydre ennemie,\nTous deux du trou visqueux de leurs bouches humides\nCrachent un jet d'argent sur la Nymphe endormie.",
+      "provisionalTranslation": "敵の蛇（ヒュドラ）と向き合う竜が、\n二匹ともその湿った口の粘液の穴から\n眠るニンフの上に銀の水柱を吐きかける。"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "prosody",
+      "anchor": null,
+      "body": "全14行のソネット形式（quatrain・quatrain・tercet・tercet）。12音節アレクサンドラン。韻はABBAのエンブラッセ韻──rose／s'oppose（A）、pleurs／fleurs（B）。詩全体の構造は同心円的──§1が水盤という最も内側の空間から始まり、§2が彫像群の配置、§3が運河の縁という外側の庭園幾何学へと拡大し、§4の竜と蛇の噴水が水柱を「眠るニンフ（Nymphe endormie）」の上に向けて閉じる。「眠るニンフ」という最終行が詩集全体の「眠り」のモチーフ──「Salut à Versailles」§12の「Tes bassins endormis（眠る水盤）」・「Le Bassin vert」§1の「eau verdie」・「L'Odeur」§1の「Tout dort（すべては眠る）」──を人格として集約する。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "glossary",
+      "anchor": "L'eau calme qui s'endort, déborde et se repose\nAu bassin de porphyre et dans la vasque en pleurs\nEn son trouble sommeil et ses glauques pâleurs\nReflète le cyprès et reflète la rose.",
+      "body": "「眠りにつき、溢れ、休む静かな水が、ポルフィリの水盤と泣く器の中で、その乱れた眠りと青灰色の霞の中に、糸杉を映し、薔薇を映す」。詩集内の既出の要素の再召喚──「bassin de porphyre（ポルフィリの水盤）」は「Le Bassin rose」§1の「porphyre rose」・「L'Escalier」§4の「porphyre roux」の反響；「vasque en pleurs（泣く器）」は「Salut à Versailles」§16の「pleurer（泣く）」を水器に転移させる；「glauques pâleurs（青灰色の霞）」は「Le Bassin vert」§1の「eau verdie」の色調を受け継ぐ。「le cyprès et la rose（糸杉と薔薇）」という対置が死（糸杉）と美（薔薇）の象徴論的二項として詩集全体の主題的緊張を凝縮する。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "L'Amour debout et nu se dresse et s'interpose.",
+      "body": "「裸で直立した愛が聳え立ち割り込む」。「L'Amour（愛）」という大文字の擬人化が神（sceptre・arc）と女神（urne・fleurs）の対立する属性の間に仲介者として立つ──エロス的な愛が対立する権力と豊穰の間を媒介する。「debout et nu（直立して裸）」という形容詞対が愛の無防備な現前性を定義する。「mêlant son ombre aux leurs（影を彼らのものと混ぜながら）」という分詞句が、愛の影が神と女神の影に混入する視覚的融合を描く。「Le Bassin rose」§2の「Amour mort（死せる愛）」・「Le Bassin noir」§4の「l'Amour à mi-corps（半身の愛）」という詩集内の愛の変奏系列に対し、ここでは「直立した愛」という最も活動的な姿態として愛が現れる。"
+    },
+    {
+      "paragraphId": 3,
+      "type": "glossary",
+      "anchor": "L'if y mire son bloc, le houx son cône vert,\nEt l'obélisque alterne avec la pyramide ;",
+      "body": "「イチイはその塊を映し、ヒイラギは緑の円錐を映し、オベリスクがピラミッドと交互に続く」。「Salut à Versailles」§5の「if pyramidal（錐形イチイ）・buis taillé（刈り込まれた黄楊）」という庭園幾何学の語彙が反響する──ここではイチイ（if）・ヒイラギ（houx）・オベリスク・ピラミッドという四つの垂直的形体が「Perspective」§4の「cippe d'un cyprès・stèle d'un if（糸杉の円柱碑・イチイの石碑）」の墓標的要素とは対照的に、幾何学的秩序の現役の要素として列挙される。「canal clair（明るい運河）」という形容詞が詩集内の水の廃墟化（verdie・glauque・léthargique）の系列の中で珍しく「明るい」清澄な水として際立つ。"
+    },
+    {
+      "paragraphId": 4,
+      "type": "commentary",
+      "anchor": "Un Dragon qui fait face à son Hydre ennemie,\nTous deux du trou visqueux de leurs bouches humides\nCrachent un jet d'argent sur la Nymphe endormie.",
+      "body": "詩の閉幕。「Dragon（竜）」と「Hydre ennemie（敵の蛇・ヒュドラ）」という対立する怪物二匹が噴水の吐出口として機能する──ヴェルサイユ庭園の実在する装飾的噴水彫刻への言及。「trou visqueux de leurs bouches humides（湿った口の粘液の穴）」という感覚的・身体的な描写が神話的怪物を生理的なリアリズムで描く──「L'Encelade」§3の「gorge horrible（恐ろしい喉）」と同一の噴水口の身体化。「jet d'argent（銀の水柱）」という色彩語──「Salut à Versailles」§15の「Neptune à sec ait brisé son trident（ネプチューンが乾いて三叉槍を折った）」という乾いた噴水の反対として、ここでは噴水がなお機能し銀の水柱を放出する。「Nymphe endormie（眠るニンフ）」という最終語が詩集全体の廃墟的眠りを人格として閉じる。"
+    }
+  ]
+}
