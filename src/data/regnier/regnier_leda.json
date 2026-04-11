@@ -1,0 +1,91 @@
+{
+  "id": "regnier_leda",
+  "title": "Léda",
+  "author": "Henri de Régnier",
+  "source": "La Cité des eaux, Mercure de France, s.d. (15e éd.), p. 23; https://fr.wikisource.org/wiki/Léda_(Henri_de_Régnier)",
+  "year": "1902",
+  "firstPublication": "La Cité des eaux, Mercure de France, 1902",
+  "difficulty": "中級",
+  "category": "regnier",
+  "originalLang": "fr-FR",
+  "modernRelevance": "★★★★☆",
+  "context": "詩集『水の都（La Cité des eaux）』（1902）所収。「L'Encelade」に続く第10詩。ソネット形式（4・4・3・3行）。ゼウスが白鳥に変身してレダを犯したギリシャ神話をヴェルサイユ庭園の噴水彫刻（レダと白鳥像）として再解釈する。§1が水盤の錆びた鏡と白鳥を配置し、§2が彫像の身体的な詳細──待機に硬直した体・裸足の爪先が水に触れる・荒岩に肘をつく倦怠・麻痺した金属に伸びる身振り──を官能的に描写する。§3で現実の白鳥たちが彫像のニンフを取り囲み、§4でブロンズが「寓話的な愛がその眠りの中でさえ黙した肉体を揺さぶる」という形で今なお振動するように見えるという幻視的な閉幕へと至る。イェイツ「レダと白鳥」（1923）と同一の神話的主題を扱いながら、暴力的な介入でなく彫刻的静止と官能的残響として神話を把握する点でレニエの詩学を象徴する。",
+  "keywords": [
+    "レダ",
+    "白鳥",
+    "ゼウス",
+    "噴水彫刻",
+    "倦怠",
+    "寓話的愛",
+    "ブロンズの振動",
+    "神話の彫刻化"
+  ],
+  "relatedTexts": [
+    "yeats_leda_and_the_swan",
+    "regnier_salut_versailles",
+    "regnier_le_bassin_vert",
+    "regnier_l_encelade",
+    "mallarme_herodiade_scene",
+    "baudelaire_les_bijoux"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "verses": "v.1–4",
+      "original": "Au centre du bassin où le marbre arrondi\nEntoure une onde léthargique qui tressaille\nD'une ride qu'y fait, de son bec qui l'entaille,\nUn cygne se mirant à son miroir verdi,",
+      "provisionalTranslation": "丸い大理石が\n嘴で刻む皺によって身震いする\n無気力な波を取り囲む水盤の中心に、\n緑色に変わった鏡に自らを映す白鳥が、"
+    },
+    {
+      "id": 2,
+      "verses": "v.5–8",
+      "original": "Elle cambre son corps qu'une attente roidit ;\nSon pied nu touche l'eau que son orteil éraille,\nEt sa langueur s'accoude à la rude rocaille,\nEt son geste s'étire au métal engourdi.",
+      "provisionalTranslation": "彼女は待機に硬直した体を反らせる；\n裸足が水に触れ爪先でそれを掻く、\nそして倦怠が荒岩に肘をつく、\nそして身振りが麻痺した金属の中へと伸びる。"
+    },
+    {
+      "id": 3,
+      "verses": "v.9–11",
+      "original": "Les cygnes nonchalants qui nagent autour d'elle\nApprochent de la Nymphe et la frôlent de l'aile\nEt caressent ses flancs de leurs cols onduleux ;",
+      "provisionalTranslation": "彼女のまわりを泳ぐ無関心な白鳥たちが\nニンフに近づき翼でかすり\n波打つ首で彼女の脇腹を撫でる；"
+    },
+    {
+      "id": 4,
+      "verses": "v.12–14",
+      "original": "Et le bronze anxieux dans l'eau qui le reflète\nSemble encor palpiter de l'amour fabuleux\nQui jusqu'en son sommeil trouble sa chair muette.",
+      "provisionalTranslation": "そして水の中で映る不安なブロンズが\nその眠りの中でさえ黙した肉体を揺さぶる\n寓話的な愛によってなお振動するように見える。"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "prosody",
+      "anchor": null,
+      "body": "全14行のソネット形式（quatrain・quatrain・tercet・tercet）。12音節アレクサンドラン。韻はABBAのエンブラッセ韻──arrondi／roidit（A）、tressaille／entaille（B）。詩全体の主語は§1末の「Un cygne（一羽の白鳥）」から§2の「Elle（彼女）」へと切り替わる──まず白鳥の動作が先行し、それが主語として未解決のまま宙吊りになった後、§2冒頭で主語がレダ（彫像）へと転換する。この統語的な遅延が神話の中心的行為──白鳥がレダに接近する──を内包したまま、詩が彫像の静止した肉体の描写へと移行する。§3で現実の白鳥たちが彫像を取り囲み、§4で「なお（encor）」という副詞が神話的愛の残響の持続を主張する。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "glossary",
+      "anchor": "une onde léthargique qui tressaille\nD'une ride qu'y fait, de son bec qui l'entaille,\nUn cygne se mirant à son miroir verdi,",
+      "body": "「嘴で刻む皺によって身震いする無気力な波を……緑色に変わった鏡に自らを映す白鳥」。「onde léthargique（無気力な波）」と「miroir verdi（緑色に変わった鏡）」という二つの形容詞が水盤の廃墟化を定義する──「Le Bassin vert」§1の「eau verdie（緑色に変わった水）」と同一の水の廃墟化のプロセス。「tressaille（身震いする）」という動詞が「léthargique（無気力な）」という形容詞と対置される逆説──無気力でありながら白鳥の嘴の一刻みで反応する水の感受性。白鳥が自らの鏡像を水面に求める自己陶酔的な身振りが、神話的行為の前の準備として提示される。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "Elle cambre son corps qu'une attente roidit ;\nSon pied nu touche l'eau que son orteil éraille,\nEt sa langueur s'accoude à la rude rocaille,\nEt son geste s'étire au métal engourdi.",
+      "body": "「彼女は待機に硬直した体を反らせる；裸足が水に触れ爪先でそれを掻く、倦怠が荒岩に肘をつく、身振りが麻痺した金属の中へと伸びる」。彫像の身体的描写が詩集随一の官能的細密さで展開する四行──cambre（反らせる）・touche（触れる）・éraille（掻く）・s'accoude（肘をつく）・s'étire（伸びる）という動詞の連続が静止した青銅に動的な身体性を付与する。「attente roidit（待機が硬直させる）」という句が神話的行為の前の緊張を「待機」の姿勢として彫刻化する──イェイツ「レダと白鳥」の突然の暴力的侵入とは対照的に、レニエの彫像は待機の状態で永続する。「langueur（倦怠）」という語がマラルメ「エロディアード」の「冷たい宝石」の中の孤独と同一の官能的受動性を体現する。"
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "Les cygnes nonchalants qui nagent autour d'elle\nApprochent de la Nymphe et la frôlent de l'aile\nEt caressent ses flancs de leurs cols onduleux ;",
+      "body": "「彼女のまわりを泳ぐ無関心な白鳥たちがニンフに近づき翼でかすり、波打つ首で彼女の脇腹を撫でる」。神話的行為が現実の白鳥たちの無関心な（nonchalants）動作として再演される──ゼウスの変身した白鳥の代わりに、無関心な複数の白鳥が彫像を取り囲む。「frôlent de l'aile（翼でかすり）」「caressent ses flancs de leurs cols onduleux（波打つ首で脇腹を撫でる）」という接触の動詞が、神話の性的暴力を極めて穏やかな愛撫として反復する。"
+    },
+    {
+      "paragraphId": 4,
+      "type": "intertextual",
+      "anchor": "Et le bronze anxieux dans l'eau qui le reflète\nSemble encor palpiter de l'amour fabuleux\nQui jusqu'en son sommeil trouble sa chair muette.",
+      "body": "「不安なブロンズがその眠りの中でさえ黙した肉体を揺さぶる寓話的な愛によってなお振動するように見える」。詩の閉幕。「l'amour fabuleux（寓話的な愛）」という語句がレダ神話を「寓話（fable）」として括弧に入れながら、その愛の振動が「なお（encor）」続くと主張する──神話は過去に属するが、その官能的な残響は彫刻の青銅の中で持続する。イェイツ「レダと白鳥」（1923）では神話的行為が現在進行形の暴力として記述されるのに対し、レニエの詩では神話は「寓話的」として距離化・彫刻化された後に「なお振動する」残響として提示される。「chair muette（黙した肉体）」という句が青銅という素材の沈黙と、その沈黙の中に残る官能的記憶の逆説として詩を閉じる。「anxieux（不安）」という形容詞が「Le Bassin rose」§4の「eau anxieuse（不安な水）」と連絡する詩集内の不安のモチーフ。",
+      "targetId": "yeats_leda_and_the_swan",
+      "targetParagraphId": null
+    }
+  ]
+}
