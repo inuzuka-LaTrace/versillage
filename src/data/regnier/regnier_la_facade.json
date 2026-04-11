@@ -1,0 +1,101 @@
+{
+  "id": "regnier_la_facade",
+  "title": "La Façade",
+  "author": "Henri de Régnier",
+  "source": "La Cité des eaux, Mercure de France, s.d. (15e éd.), p. 15; https://fr.wikisource.org/wiki/La_Façade",
+  "year": "1902",
+  "firstPublication": "La Cité des eaux, Mercure de France, 1902",
+  "difficulty": "中級",
+  "category": "regnier",
+  "originalLang": "fr-FR",
+  "modernRelevance": "★★★☆☆",
+  "context": "詩集『水の都（La Cité des eaux）』（1902）所収。「Salut à Versailles」に続く第2詩。古典的ソネット形式（4・4・3・3行）によるヴェルサイユ宮殿正面の彫刻的描写。「栄光ある、記念碑的で、単調な」という三重の形容詞で開幕し、崩れゆく柱頭・疲れた花飾り・錆びた彫像・眠る過去という廃墟の細部を経て、夕陽が金色の窓ガラスを燃やし「麻痺した栄光の毎晩の驚愕」を内側から点火するという逆説的な閉幕へと至る。「Salut à Versailles」の長詩的展開に対し、ソネットの凝縮された形式がヴェルサイユの外観を一枚の彫刻的静止画として把握する。",
+  "keywords": [
+    "ソネット",
+    "ヴェルサイユ正面",
+    "廃墟の美",
+    "パラス",
+    "ヘラクレス",
+    "麻痺した栄光",
+    "夕陽の窓",
+    "彫刻的描写"
+  ],
+  "relatedTexts": [
+    "regnier_salut_versailles",
+    "verlaine_clair_de_lune",
+    "mallarme_angoisse",
+    "gautier_l_art"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "verses": "v.1–4",
+      "original": "Glorieuse, monumentale et monotone,\nLa façade de pierre effrite au vent qui passe\nSon chapiteau friable et sa guirlande lasse\nEn face du parc jaune où s'accoude l'Automne.",
+      "provisionalTranslation": "栄光ある、記念碑的で、単調な、\n石の正面は通り過ぎる風に崩している\nその崩れやすい柱頭と疲れた花飾りを、\n秋が肘をつく黄色い公園の向かいで。"
+    },
+    {
+      "id": 2,
+      "verses": "v.5–8",
+      "original": "Au médaillon de marbre où Pallas la couronne,\nLa double lettre encor se croise et s'entrelace ;\nÀ porter le balcon l'Hercule se harasse ;\nLa fleur de lys s'effeuille au temps qui la moissonne.",
+      "provisionalTranslation": "パラスが彼女に王冠を授ける大理石のメダリオンに、\n二重の文字がまだ交差し絡み合っている；\nバルコニーを支えるためにヘラクレスは疲れ果てる；\n百合の花は自らを刈る時の中に花びらを散らす。"
+    },
+    {
+      "id": 3,
+      "verses": "v.9–11",
+      "original": "Le vieux Palais, miré dans ses bassins déserts,\nRegarde s'accroupir en bronze noir et vert\nLa Solitude nue et le Passé dormant ;",
+      "provisionalTranslation": "古い宮殿は、その砂漠の水盤に映りながら、\n黒と緑の青銅にしゃがみ込むのを眺める、\n裸の孤独と眠る過去が；"
+    },
+    {
+      "id": 4,
+      "verses": "v.12–14",
+      "original": "Mais le soleil aux vitres d'or qu'il incendie\nY semble rallumer intérieurement\nLe sursaut, chaque soir, de la Gloire engourdie.",
+      "provisionalTranslation": "しかし燃やす金色の窓ガラスへの太陽は\n内側から再点火するように思われる\n麻痺した栄光の毎晩の驚愕を。"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "prosody",
+      "anchor": null,
+      "body": "全14行のソネット形式（quatrain・quatrain・tercet・tercet）。12音節アレクサンドラン。韻はABBAのエンブラッセ韻（embrassée）──monotone／Automne（A）、passe／lasse（B）──パルナシスム的な彫刻的堅固さを象徴する形式の選択。「Salut à Versailles」の16連という長詩形式に対し、ソネットの14行がヴェルサイユ正面を一枚の浮き彫りとして静止させる。詩全体の統語的構造は逆接──§1〜§3の廃墟的静止（風が崩す・ヘラクレスが疲れる・孤独がしゃがむ）に対し、§4の「Mais（しかし）」による夕陽の逆転が詩を閉じる。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "glossary",
+      "anchor": "Glorieuse, monumentale et monotone,",
+      "body": "「栄光ある、記念碑的で、単調な」。三つの形容詞による詩の開幕──glorieuse（栄光ある）・monumentale（記念碑的）・monotone（単調な）という語群が過去の栄光と現在の廃墟的単調さを一行に圧縮する。三形容詞はいずれも女性形でla façade（正面）に係る──ヴェルサイユの正面が擬人化された女性的主体として詩全体を貫く。「単調な（monotone）」という形容詞が「栄光ある（glorieuse）」と並置されることで、栄光と単調さの同時性というパラドックスが開幕行から提示される。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "En face du parc jaune où s'accoude l'Automne.",
+      "body": "「秋が肘をつく黄色い公園の向かいで」。「s'accoude l'Automne（秋が肘をつく）」という擬人化がゴーティエ的な彫刻的隠喩──季節が人体の姿勢をとる。「parc jaune（黄色い公園）」という色彩的属性が秋の落葉を直接描写せず色調のみで喚起する。「Salut à Versailles」§6の「cette odeur d'automne（秋の匂い）」と呼応し、『水の都』詩集においてヴェルサイユは常に秋という季節に結びつく──夏の栄光の灰燼としての秋。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "glossary",
+      "anchor": "Au médaillon de marbre où Pallas la couronne,\nLa double lettre encor se croise et s'entrelace ;",
+      "body": "「パラスが彼女に王冠を授ける大理石のメダリオンに、二重の文字がまだ交差し絡み合っている」。ヴェルサイユ宮殿正面の実在する装飾への言及──パラス（アテネ）がルイ14世またはフランスを象徴する女性像に王冠を授ける大理石のレリーフ。「double lettre（二重の文字）」はルイ14世のモノグラム「LL」（Louis Le Grand）──王の頭字が廃墟の中でも「まだ（encor）」絡み合い続けるという時間的持続の強調。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "glossary",
+      "anchor": "À porter le balcon l'Hercule se harasse ;\nLa fleur de lys s'effeuille au temps qui la moissonne.",
+      "body": "「バルコニーを支えるためにヘラクレスは疲れ果てる；百合の花は自らを刈る時の中に花びらを散らす」。二つの動詞──se harasse（疲れ果てる）とs'effeuille（花びらを散らす）──が彫刻・紋章の廃墟化を擬人的に描写する。ヘラクレスはヴェルサイユ正面のアトラス的な柱像（アトランテ）への言及。「fleur de lys（百合の花）」はフランス王家の紋章──「時が自らを刈る（temps qui la moissonne）」という比喩が時間を農夫として、紋章の花を収穫される作物として提示する。ゴーティエ「芸術（L'Art）」の「彫刻は時に抵抗する」という命題の逆転として読める──ここでは彫刻もまた時に敗北する。",
+      "targetId": "gautier_l_art",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "Regarde s'accroupir en bronze noir et vert\nLa Solitude nue et le Passé dormant ;",
+      "body": "「黒と緑の青銅にしゃがみ込むのを眺める、裸の孤独と眠る過去が」。「La Solitude nue（裸の孤独）」と「le Passé dormant（眠る過去）」という大文字の抽象名詞が青銅彫刻として擬人化される──観念が彫刻素材の中に具現化するという比喩。「bronze noir et vert（黒と緑の青銅）」という色彩的描写が錆びた野外彫刻の具体的な物質性を提示する。「Salut à Versailles」§12「Tes bassins endormis（眠る水盤）」の「眠り」のモチーフが「le Passé dormant（眠る過去）」として彫刻的に凝固する。"
+    },
+    {
+      "paragraphId": 4,
+      "type": "commentary",
+      "anchor": "Mais le soleil aux vitres d'or qu'il incendie\nY semble rallumer intérieurement\nLe sursaut, chaque soir, de la Gloire engourdie.",
+      "body": "「しかし燃やす金色の窓ガラスへの太陽は、内側から再点火するように思われる、麻痺した栄光の毎晩の驚愕を」。ソネットの転換──§1〜§3の廃墟的静止が「Mais（しかし）」によって反転する。「vitres d'or（金色の窓ガラス）」は夕陽に反射するヴェルサイユの窓の実際の光景──物理的な光学現象が「内側から再点火する（rallumer intérieurement）」という詩的解釈を通じて宮殿の内部的復活として読まれる。「sursaut（驚愕・跳ね起き）」という語が「麻痺した栄光（Gloire engourdie）」の一時的な覚醒を動的に表現する──しかし「chaque soir（毎晩）」という副詞句が繰り返しの儀式として復活を限定する。廃墟は昼間は静止し、夕暮れに毎晩一瞬だけ蘇るという時間的構造が「Salut à Versailles」の廃墟の美学を凝縮してソネットに結晶させる。"
+    }
+  ]
+}
