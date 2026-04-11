@@ -1,0 +1,206 @@
+{
+  "id": "regnier_salut_versailles",
+  "title": "Salut à Versailles",
+  "author": "Henri de Régnier",
+  "source": "La Cité des eaux, Mercure de France, s.d. (15e éd.), p. 5; https://fr.wikisource.org/wiki/Salut_à_Versailles",
+  "year": "1902",
+  "firstPublication": "La Cité des eaux, Mercure de France, 1902",
+  "difficulty": "中級",
+  "category": "regnier",
+  "originalLang": "fr-FR",
+  "modernRelevance": "★★★☆☆",
+  "context": "詩集『水の都（La Cité des eaux）』（1902）の冒頭詩。標題は「Versailles, Cité des Eaux」というミシュレの言葉を掲げる。ヴェルサイユを王朝の栄光の舞台としてではなく、憂鬱な魂の孤独の場所として讃える。全16連・3部構成（⁂で区切られた第I部6連・第II部3連・第III部7連）。第I部：悲しい魂がヴェルサイユに求めるものの列挙（歴史的栄光でなく静寂・孤独・秋の香り）；第II部：都市の喧騒から逃れてヴェルサイユへ来ることへの誘い；第III部：枯れた噴水・曇った鏡・眠る水盤を通じて語られる廃墟の美。末尾「最後の泉がヴェルサイユよ、お前の上で泣くのを聞く」という結語が詩全体を廃墟的エレジーとして完成させる。アンリ・ド・レニエ（1864–1936）はパルナシスムと象徴主義の境界に位置する詩人。",
+  "keywords": [
+    "ヴェルサイユ",
+    "水の都",
+    "廃墟の美",
+    "孤独",
+    "秋",
+    "噴水",
+    "憂鬱な魂",
+    "象徴主義"
+  ],
+  "relatedTexts": [
+    "verlaine_clair_de_lune",
+    "verlaine_colloque_sentimental",
+    "mallarme_angoisse",
+    "rodenbach_du_silence",
+    "rodenbach_la_vie_des_chambres"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "verses": "v.1–4",
+      "original": "Celui dont l'âme est triste et qui porte à l'automne\nSon cœur brûlant encor des cendres de l'été,\nEst le Prince sans sceptre et le Roi sans couronne\nDe votre solitude et de votre beauté.",
+      "provisionalTranslation": "魂が悲しく、秋にもなお\n夏の灰燼で燃える心を携える者は、\nあなたの孤独とあなたの美の\n笏なき王子、冠なき王だ。"
+    },
+    {
+      "id": 2,
+      "verses": "v.5–8",
+      "original": "Car ce qu'il cherche en vous, ô jardins de silence,\nSous votre ombrage grave où le bruit de ses pas\nPoursuit en vain l'écho qui toujours le devance,\nCe qu'il cherche en votre ombre, ô jardins, ce n'est pas",
+      "provisionalTranslation": "なぜなら彼があなたの中に求めるものは、おお沈黙の庭よ、\n彼の足音が常に先を行く木霊を\n虚しく追いかける重い木陰の下で、\n彼があなたの影の中に求めるもの、おお庭よ、それではない"
+    },
+    {
+      "id": 3,
+      "verses": "v.9–12",
+      "original": "Le murmure secret de la rumeur illustre,\nDont le siècle a rempli vos bosquets toujours beaux,\nNi quelque vaine gloire accoudée au balustre,\nNi quelque jeune grâce au bord des fraîches eaux ;",
+      "provisionalTranslation": "世紀があなたの常に美しい林を満たした\n輝かしい噂のひそやかな囁きでも、\n欄干に肘をついた虚ろな栄光でも、\n清らかな水の縁の若やかな優雅でもない；"
+    },
+    {
+      "id": 4,
+      "verses": "v.13–16",
+      "original": "Il ne demande pas qu'y passe ou qu'y revienne\nLe héros immortel ou le vivant fameux\nDont la vie orgueilleuse, éclatante et hautaine\nFut l'astre et le soleil de ces augustes lieux.",
+      "provisionalTranslation": "彼は不死の英雄や著名な生者が\nそこを通り過ぎるか戻ってきてほしいとは求めない、\n誇り高く輝かしく高慢なその生が\nこの荘厳な場所の星であり太陽であった者たちの。"
+    },
+    {
+      "id": 5,
+      "verses": "v.17–20",
+      "original": "Ce qu'il veut, c'est le calme et c'est la solitude,\nLa perspective avec l'allée et l'escalier,\nEt le rond-point, et le parterre, et l'attitude\nDe l'if pyramidal auprès du buis taillé ;",
+      "provisionalTranslation": "彼が望むのは静けさと孤独だ、\n並木道と階段のある遠近法、\nそして環状交差路、そして花壇、そして\n刈り込まれた黄楊の傍らの錐形イチイの姿勢；"
+    },
+    {
+      "id": 6,
+      "verses": "v.21–24",
+      "original": "La grandeur taciturne et la paix monotone\nDe ce mélancolique et suprême séjour,\nEt ce parfum de soir et cette odeur d'automne\nQui s'exhalent de l'ombre avec la fin du jour.",
+      "provisionalTranslation": "この憂鬱で至高の滞在地の\n無言の偉大さと単調な平和、\nそして夕べの香りとこの秋の匂い、\n日の終わりとともに影から立ち昇るそれが。"
+    },
+    {
+      "id": 7,
+      "verses": "v.25–28",
+      "original": "Ô toi que l'aube effraie, ô toi qui crains l'aurore,\nEt que ne tentent plus la route et le chemin,\nQuitte la ville vaine, arrogante et sonore\nQui parle avec des voix de soleil ou d'airain.",
+      "provisionalTranslation": "夜明けを恐れる者よ、暁を恐れる者よ、\nもはや道も小道も誘わない者よ、\n太陽の声か青銅の声で語る\n虚ろで傲慢で騒がしい都市を去れ。"
+    },
+    {
+      "id": 8,
+      "verses": "v.29–32",
+      "original": "C'est là que l'homme fait sa boue et sa poussière\nPour élever son mur autour de l'horizon ;\nMais toi, dont le désir n'apporte plus sa pierre\nAu travail en commun qui bâtit la maison,",
+      "provisionalTranslation": "そこで人間は泥と塵を作る\n地平線の周りに壁を高くするために；\nしかしお前、欲望がもはや家を建てる\n共同の労働に石を持ち込まない者よ、"
+    },
+    {
+      "id": 9,
+      "verses": "v.33–36",
+      "original": "Laisse ceux dont le bloc charge, sans qu'elle plie,\nL'épaule, et dont les bras sont propres aux fardeaux,\nSe construire sans toi les demeures de vie\nEt va vivre ton songe en la Cité des Eaux.",
+      "provisionalTranslation": "岩が肩をたわめることなく圧する者たち、\n重荷に適した腕を持つ者たちに、\nお前なしに生の住処を建てさせ、\nそして水の都に行ってお前の夢を生きよ。"
+    },
+    {
+      "id": 10,
+      "verses": "v.37–40",
+      "original": "L'onde ne chante plus en tes mille fontaines,\nÔ Versailles, Cité des Eaux, Jardin des Rois !\nTa couronne ne porte plus, ô souveraine,\nLes clairs lys de cristal qui l'ornaient autrefois !",
+      "provisionalTranslation": "波はもはやお前の千の噴水で歌わない、\nおおヴェルサイユ、水の都、王たちの庭よ！\nお前の王冠はもはや纏わない、おお女王よ、\nかつてそれを飾っていたクリスタルの明るい百合を！"
+    },
+    {
+      "id": 11,
+      "verses": "v.41–44",
+      "original": "La nymphe qui parlait par ta bouche s'est tue\nEt le temps a terni sous le souffle des jours\nLes fluides miroirs où tu t'es jadis vue\nRoyale et souriante en tes jeunes atours.",
+      "provisionalTranslation": "お前の口を通じて語っていた水の精は黙ってしまった\nそして時は日々の息吹の下に曇らせた\nかつてお前が若やかな装いで\n王者らしく微笑みながら映っていた流れる鏡を。"
+    },
+    {
+      "id": 12,
+      "verses": "v.45–48",
+      "original": "Tes bassins endormis à l'ombre des grands arbres\nVerdissent en silence au milieu de l'oubli,\nEt leur tain qui s'encadre aux bordures de marbre\nNe reconnaîtrait plus ta face d'aujourd'hui.",
+      "provisionalTranslation": "大きな木々の陰に眠るお前の水盤は\n忘却の中で沈黙のうちに緑色になる、\nそして大理石の縁に縁取られたその錫箔は\nお前の今日の顔をもはや認識しないだろう。"
+    },
+    {
+      "id": 13,
+      "verses": "v.49–52",
+      "original": "Qu'importe ! ce n'est pas ta splendeur et ta gloire\nQue visitent mes pas et que veulent mes yeux ;\nEt je ne monte pas les marches de l'histoire\nAu-devant du Héros qui survit en tes Dieux.",
+      "provisionalTranslation": "何をか言わん！私の足が訪れ私の目が望むのは\nお前の輝きと栄光ではない；\nそして私は歴史の石段を上らない\nお前の神々の中に生き続ける英雄を迎えに。"
+    },
+    {
+      "id": 14,
+      "verses": "v.53–56",
+      "original": "Il suffit que tes eaux égales et sans fête\nReposent dans leur ordre et leur tranquillité,\nSans que demeure rien en leur noble défaite,\nDe ce qui fut jadis un spectacle enchanté.",
+      "provisionalTranslation": "お前の均一で祝宴なき水が\nその秩序と静穏の中に休んでいれば十分だ、\nかつて魅惑的な光景だったものの何も\nその気高い敗北の中に留まることなく。"
+    },
+    {
+      "id": 15,
+      "verses": "v.57–60",
+      "original": "Que m'importent le jet, la gerbe et la cascade\nEt que Neptune à sec ait brisé son trident,\nNi qu'en son bronze aride un farouche Encelade\nSe soulève, une feuille morte entre les dents,",
+      "provisionalTranslation": "噴水柱も水の束も滝も構わない\nネプチューンが乾いてその三叉槍を折ったことも、\n荒々しいエンケラドスがその乾いた青銅の中で\n口に枯れ葉を咥えて身を起こすことも、"
+    },
+    {
+      "id": 16,
+      "verses": "v.61–64",
+      "original": "Pourvu que faible, basse, et dans l'ombre incertaine,\nDu fond d'un vert bosquet qu'elle a pris pour tombeau,\nJ'entende longuement ta dernière fontaine,\nÔ Versailles, pleurer sur toi, Cité des Eaux !",
+      "provisionalTranslation": "か細く、低く、はっきりしない影の中で、\n自らの墓とした緑の林の奥底から、\nお前の最後の泉が長々と、\nおおヴェルサイユよ、水の都よ、お前の上で泣くのを聞ければ。"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "prosody",
+      "anchor": null,
+      "body": "全64行・16連4行詩。12音節アレクサンドラン（alexandrin）による交差韻ABAB。詩は⁂（花形記号）によって三部に分割される──第I部（§1–§6、v.1–24）：悲しい魂がヴェルサイユに求めるものの否定的列挙（歴史的英雄・栄光でなく静寂と秋の香り）；第II部（§7–§9、v.25–36）：都市の喧騒から逃れ水の都へ向かうことへの勧誘；第III部（§10–§16、v.37–64）：枯れた噴水・曇った鏡・眠る水盤・泣く最後の泉という廃墟の美の展開。アンリ・ド・レニエ（1864–1936）はヴェルレーヌ・マラルメの象徴主義を継承しながら、パルナシスム的な彫刻的堅固さとの総合を試みた詩人。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "glossary",
+      "anchor": "Est le Prince sans sceptre et le Roi sans couronne\nDe votre solitude et de votre beauté.",
+      "body": "「あなたの孤独とあなたの美の笏なき王子、冠なき王」。ヴェルサイユという権力の中枢が「笏なき（sans sceptre）」「冠なき（sans couronne）」者の場所として再定義される逆説──王権の記号を剥奪された者だけが真にヴェルサイユを所有する。詩集のタイトル『La Cité des eaux（水の都）』はヴェルサイユをルイ14世の権力の象徴としてでなく水と孤独の空間として捉え直す命名。ミシュレの言葉「Versailles, Cité des Eaux」をエピグラフとして掲げることで、歴史的権力の語りを詩人の孤独の語りへと転換する。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "Car ce qu'il cherche en vous, ô jardins de silence,\nSous votre ombrage grave où le bruit de ses pas\nPoursuit en vain l'écho qui toujours le devance,",
+      "body": "「おお沈黙の庭よ、彼の足音が常に先を行く木霊を虚しく追いかける重い木陰の下で」。「écho qui toujours le devance（常に先を行く木霊）」という追跡不可能な反響のイメージが詩全体の基調を設定する──ヴェルサイユの庭は追いつけない過去の木霊が先回りする空間として定義される。この「先を行く木霊」のモチーフは、ヴェルレーヌ「感傷的な対話（Colloque sentimental）」の亡霊的な声の不在と連絡し、フランス象徴主義における廃墟の記憶の詩学を継承する。",
+      "targetId": "verlaine_colloque_sentimental",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 5,
+      "type": "glossary",
+      "anchor": "La perspective avec l'allée et l'escalier,\nEt le rond-point, et le parterre, et l'attitude\nDe l'if pyramidal auprès du buis taillé ;",
+      "body": "「並木道と階段のある遠近法、そして環状交差路、そして花壇、そして刈り込まれた黄楊の傍らの錐形イチイの姿勢」。フランス式庭園の幾何学的要素の列挙──allée（並木道）・escalier（階段）・rond-point（環状交差路）・parterre（花壇）・if pyramidal（錐形イチイ）・buis taillé（刈り込まれた黄楊）という造形的語彙が詩行に庭園図面の明晰さをもたらす。「attitude（姿勢）」という語がイチイに擬人的な身体性を付与する──植物が姿勢を持つ存在として提示される。"
+    },
+    {
+      "paragraphId": 6,
+      "type": "commentary",
+      "anchor": "Et ce parfum de soir et cette odeur d'automne\nQui s'exhalent de l'ombre avec la fin du jour.",
+      "body": "「夕べの香りとこの秋の匂い、日の終わりとともに影から立ち昇るそれが」。第I部の閉幕。「parfum de soir（夕べの香り）」と「odeur d'automne（秋の匂い）」という嗅覚的二項が視覚的描写を支配してきた詩に官能的奥行きを加える──ボードレール「correspondances（対応）」における共感覚的宇宙の後継として、匂いが時間（夕べ・秋）と融合する。「s'exhaler（立ち昇る）」という動詞が官能的であると同時に消滅的──立ち昇ることは散逸することでもある。"
+    },
+    {
+      "paragraphId": 7,
+      "type": "commentary",
+      "anchor": "Ô toi que l'aube effraie, ô toi qui crains l'aurore,\nEt que ne tentent plus la route et le chemin,\nQuitte la ville vaine, arrogante et sonore",
+      "body": "「夜明けを恐れる者よ、暁を恐れる者よ、もはや道も小道も誘わない者よ、虚ろで傲慢で騒がしい都市を去れ」。第II部の開幕。二度の呼格「ô toi（お前）」による直接の呼びかけが第I部の三人称（「celui（その者）」）から二人称へと転換する──詩の名宛人が顕在化する。「l'aube effraie（夜明けを恐れる）」という逆説が第II部の倫理的前提──昼の社会・労働・共同性から締め出された者のみがヴェルサイユに来るべき者として定義される。ロダンバック『死の都（Bruges-la-Morte）』（1892）の生ける者を拒絶する廃墟都市のモチーフと共鳴する。"
+    },
+    {
+      "paragraphId": 9,
+      "type": "glossary",
+      "anchor": "Et va vivre ton songe en la Cité des Eaux.",
+      "body": "「そして水の都に行ってお前の夢を生きよ」。第II部の閉幕行。「vivre ton songe（お前の夢を生きよ）」という命令法が詩集全体の主題的宣言──夢（songe）を「生きる」という動詞の選択が、夢を現実の対立物としてでなく、廃墟の空間においてのみ可能な実存的様態として提示する。「Cité des Eaux（水の都）」という固有名詞が詩集タイトルとして初めて本文中に現れ、第III部への転換を準備する。"
+    },
+    {
+      "paragraphId": 10,
+      "type": "prosody",
+      "anchor": "L'onde ne chante plus en tes mille fontaines,\nÔ Versailles, Cité des Eaux, Jardin des Rois !",
+      "body": "第III部の開幕。代名詞が「toi（お前）」から「tes（お前の）」へと移行し、詩がヴェルサイユ自体への直接の呼びかけに転換する──第II部で「人間の読者」に語りかけた詩人が、第III部ではヴェルサイユという廃墟そのものを対話の相手とする。「L'onde ne chante plus（波はもはや歌わない）」という否定の開幕が第I部の「ce qu'il cherche ce n'est pas（彼が求めるものではない）」という否定の構造を反響する──詩全体が否定の積み重ねによって廃墟の現実を肯定するという逆説的な構造を持つ。"
+    },
+    {
+      "paragraphId": 11,
+      "type": "glossary",
+      "anchor": "Les fluides miroirs où tu t'es jadis vue\nRoyale et souriante en tes jeunes atours.",
+      "body": "「かつてお前が若やかな装いで王者らしく微笑みながら映っていた流れる鏡を」。「fluides miroirs（流れる鏡）」という矛盾語法──鏡は静止・固定のイメージを持つが、「流れる（fluides）」という形容詞が水の鏡の流動性・不安定性を強調する。「時は曇らせた（le temps a terni）」という主語（時間）が鏡を汚染する主体として機能する──時間の物理的作用が廃墟化の原因として提示される。ロダンバック（「Du silence」）の「水面に映る過去の像」というモチーフと連絡する。",
+      "targetId": "rodenbach_du_silence",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 12,
+      "type": "commentary",
+      "anchor": "Tes bassins endormis à l'ombre des grands arbres\nVerdissent en silence au milieu de l'oubli,",
+      "body": "「大きな木々の陰に眠るお前の水盤は忘却の中で沈黙のうちに緑色になる」。「bassins endormis（眠る水盤）」という擬人化が水盤に睡眠の受動性を付与する──かつての噴水の運動・音・光が完全に停止して「眠り」に入った状態。「verdissent（緑色になる）」という動詞が藻の繁殖という生物学的プロセスを詩的に記述する──廃墟は死でなく別の生命形態への移行として提示される。「l'oubli（忘却）」という語が詩集全体のキーワードとして機能する。"
+    },
+    {
+      "paragraphId": 15,
+      "type": "glossary",
+      "anchor": "Et que Neptune à sec ait brisé son trident,\nNi qu'en son bronze aride un farouche Encelade\nSe soulève, une feuille morte entre les dents,",
+      "body": "「ネプチューンが乾いてその三叉槍を折ったことも、荒々しいエンケラドスがその乾いた青銅の中で口に枯れ葉を咥えて身を起こすことも」。ヴェルサイユ庭園の具体的な彫刻群への言及──ネプチューン（海神）の噴水彫刻とエンケラドス（巨人族）の彫刻はヴェルサイユ庭園の実在する作品。「à sec（乾いて）」「bronze aride（乾いた青銅）」という水の欠如の繰り返しが、かつて水に濡れていた彫刻の廃墟化を強調する。「une feuille morte entre les dents（口に枯れ葉を咥えて）」という細部が廃墟の精密な視覚的イメージを完成させる。"
+    },
+    {
+      "paragraphId": 16,
+      "type": "commentary",
+      "anchor": "Pourvu que faible, basse, et dans l'ombre incertaine,\nDu fond d'un vert bosquet qu'elle a pris pour tombeau,\nJ'entende longuement ta dernière fontaine,\nÔ Versailles, pleurer sur toi, Cité des Eaux !",
+      "body": "詩の閉幕。「faible, basse, et dans l'ombre incertaine（か細く、低く、はっきりしない影の中で）」という三重の形容詞が最後の噴水の音を極限まで縮小する──第III部冒頭「tes mille fontaines（千の噴水）」から「ta dernière fontaine（最後の泉）」へという単数化・縮小の運動がここで完結する。「qu'elle a pris pour tombeau（自らの墓とした）」という関係節が泉を擬人化し、自らの消滅を予期した存在として提示する──泉の死の自意識。「pleurer sur toi（お前の上で泣く）」という動詞が噴水の水音を泣き声として定義する──詩全体の廃墟的エレジーがこの最終行で水音＝嘆き声という等式として結実する。"
+    }
+  ]
+}
