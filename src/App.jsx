@@ -18,6 +18,7 @@ import rimbaudData from './data/rimbaud';
 import verlaineData from './data/verlaine';
 import lecontelisleData from './data/lecontelisle';
 import banvilleData from './data/banville';
+import regnierData from './data/regnier';
 import rodenbachData from './data/rodenbach';
 import verhaerenData from './data/verhaeren';
 import maeterlinckData from './data/maeterlinck';
@@ -224,6 +225,7 @@ export default function App() {
       ...valmoreData,
       ...lecontelisleData,
       ...banvilleData,
+      ...regnierData,
       ...weilData,
       ...rodenbachData,
       ...verhaerenData,
@@ -1002,6 +1004,7 @@ export default function App() {
     if (cat?.startsWith('mallarme'))     return darkMode ? 'bg-sky-900/40 text-sky-300'       : 'bg-sky-100 text-sky-800';
     if (cat?.startsWith('valery'))       return darkMode ? 'bg-rose-900/40 text-rose-300'     : 'bg-rose-100 text-rose-800';
     if (cat?.startsWith('valmore'))      return darkMode ? 'bg-rose-900/40 text-rose-300'     : 'bg-rose-100 text-rose-800';
+    if (cat?.startsWith('regnier'))  return darkMode ? 'bg-blue-900/40 text-blue-300' : 'bg-blue-100 text-blue-800';
     if (cat?.startsWith('weil'))    return darkMode ? 'bg-sky-900/40 text-sky-400'       : 'bg-sky-200 text-sky-900';
     if (cat?.startsWith('leconte_de_lisle')) return darkMode ? 'bg-emerald-900/40 text-emerald-300': 'bg-emerald-100 text-emerald-800';
     if (cat?.startsWith('banville'))     return darkMode ? 'bg-violet-900/40 text-violet-300' : 'bg-violet-100 text-violet-800';
