@@ -1,0 +1,97 @@
+{
+  "id": "regnier_l_odeur",
+  "title": "L'Odeur",
+  "author": "Henri de Régnier",
+  "source": "La Cité des eaux, Mercure de France, s.d. (15e éd.), p. 18; https://fr.wikisource.org/wiki/L'Odeur",
+  "year": "1902",
+  "firstPublication": "La Cité des eaux, Mercure de France, 1902",
+  "difficulty": "中級",
+  "category": "regnier",
+  "originalLang": "fr-FR",
+  "modernRelevance": "★★★☆☆",
+  "context": "詩集『水の都（La Cité des eaux）』（1902）所収。「Perspective」に続く第5詩。ソネット形式（4・4・3・3行）。先行4詩が視覚的・彫刻的描写を主軸とするのに対し、「L'Odeur」は嗅覚──「黄楊の苦い匂い（l'amère odeur du buis）」──を詩の到達点として設定する。「もし愛を夢見るなら、もし死を夢見るなら」という二重の条件節で開幕し、迷宮（dédale）・木霊（écho）・斜めの並木道・鍵の失われた閉じた小屋という誘惑と罠の空間を経て、「沈黙！」という命令で転換し、ヘルメス像と白い彫像とともに「穏やかな水辺の黄楊の苦い匂いを吸え」という嗅覚的な命令で閉じる。『水の都』ソネット群の中で唯一、嗅覚が主題となる詩。",
+  "keywords": [
+    "黄楊の匂い",
+    "嗅覚",
+    "迷宮",
+    "木霊",
+    "ヘルメス像",
+    "白い彫像",
+    "九月の薔薇",
+    "沈黙"
+  ],
+  "relatedTexts": [
+    "regnier_salut_versailles",
+    "regnier_la_facade",
+    "regnier_l_escalier",
+    "regnier_perspective",
+    "baudelaire_correspondances",
+    "verlaine_clair_de_lune"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "verses": "v.1–4",
+      "original": "Si tu songes l'Amour, si tu rêves la Mort,\nSi ton miroir est trouble à te sourire, écoute\nLes feuilles, feuille à feuille, et l'onde, goutte à goutte,\nTomber de la fontaine et de l'arbre. Tout dort.",
+      "provisionalTranslation": "もし愛を夢想するなら、もし死を夢見るなら、\nもし鏡が曇ってあなたに微笑むなら、聞け\n葉を、一枚一枚、そして波を、一滴一滴、\n噴水と木から落ちるのを。すべては眠る。"
+    },
+    {
+      "id": 2,
+      "verses": "v.5–8",
+      "original": "La rose de septembre et le tournesol d'or\nOnt dit l'été qui brûle et l'automne qui doute ;\nLe bosquet s'entrelace et la grotte se voûte,\nLe dédale et l'écho te tromperaient encor.",
+      "provisionalTranslation": "九月の薔薇と黄金のひまわりは\n燃える夏と疑う秋を語った；\n林は絡み合い洞窟は丸天井をなし、\n迷宮と木霊がまたお前を欺くだろう。"
+    },
+    {
+      "id": 3,
+      "verses": "v.9–11",
+      "original": "Laisse l'allée oblique et le carrefour traître\nEt ne regarde pas à travers la fenêtre\nDu pavillon fermé dont la clef est perdue.",
+      "provisionalTranslation": "斜めの並木道と裏切りの交差路を捨てよ\nそして鍵が失われた閉じた小屋の\n窓越しに覗くな。"
+    },
+    {
+      "id": 4,
+      "verses": "v.12–14",
+      "original": "Silence ! L'ombre est là ; viens respirer plutôt,\nAinsi que les hermès et les blanches statues,\nL'amère odeur du buis autour des calmes eaux.",
+      "provisionalTranslation": "沈黙！影がそこにある；来て吸え、むしろ、\nヘルメス像と白い彫像たちのように、\n穏やかな水辺の黄楊の苦い匂いを。"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "prosody",
+      "anchor": null,
+      "body": "全14行のソネット形式（quatrain・quatrain・tercet・tercet）。12音節アレクサンドラン。韻はABBAのエンブラッセ韻──Mort／dort（A）、écoute／goutte（B）。詩全体の統語的構造は条件法から命令法への移行──§1・§2が「Si（もし）」・「te tromperaient（欺くだろう）」という条件的・仮想的モード、§3が「Laisse…Et ne regarde pas（捨てよ……覗くな）」という否定的命令、§4が「Silence ! …viens respirer（沈黙！……来て吸え）」という肯定的命令。詩は誘惑と罠の列挙から始まり、それらの拒絶を経て、嗅覚という最も原初的な感覚への投降として閉じる。『水の都』ソネット群で唯一、到達点が視覚でなく嗅覚として設定された詩。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "Si tu songes l'Amour, si tu rêves la Mort,\nSi ton miroir est trouble à te sourire, écoute",
+      "body": "「もし愛を夢想するなら、もし死を夢見るなら、もし鏡が曇ってあなたに微笑むなら、聞け」。三重の条件節による開幕──愛・死・曇った鏡という詩的憂鬱の三要素が名宛人（「お前」）の現状として提示される。「ton miroir est trouble（鏡が曇っている）」という描写が「Perspective」§3の「échiquier verdi des portes de miroirs（緑色がかった鏡扉）」と連絡する──廃墟の鏡は外の風景を歪めるだけでなく、自己像を正確に返さない。ヴェルレーヌ「感傷的な対話」の「曇った夜の公園」における幻の声の空間と同一の誘惑の構造。",
+      "targetId": "verlaine_colloque_sentimental",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 1,
+      "type": "glossary",
+      "anchor": "Les feuilles, feuille à feuille, et l'onde, goutte à goutte,\nTomber de la fontaine et de l'arbre. Tout dort.",
+      "body": "「葉を、一枚一枚、そして波を、一滴一滴、噴水と木から落ちるのを。すべては眠る」。「feuille à feuille（一枚一枚）」「goutte à goutte（一滴一滴）」という分配的反復が落下の極端な細分化・緩慢化を音響的に演出する──時間が聴覚的な細部に凝縮される。「Tout dort（すべては眠る）」という短い閉幕文が第1連を切断する──'Salut à Versailles'§12の「Verdissent en silence（沈黙のうちに緑色になる）」に続く詩集全体の眠りのモチーフ。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "glossary",
+      "anchor": "La rose de septembre et le tournesol d'or\nOnt dit l'été qui brûle et l'automne qui doute ;",
+      "body": "「九月の薔薇と黄金のひまわりは燃える夏と疑う秋を語った」。植物が季節の証言者として提示される──薔薇（rose）とひまわり（tournesol）という二つの花が「夏（été）」と「秋（automne）」の各々に対応する。「l'automne qui doute（疑う秋）」という擬人化が秋に認識論的な躊躇を付与する──「Salut à Versailles」§1の「cœur brûlant encor des cendres de l'été（夏の灰燼でまだ燃える心）」という詩集の基調となる夏と秋の境界の反響。ボードレール「correspondances」の植物的感覚宇宙への連絡。"
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "Laisse l'allée oblique et le carrefour traître\nEt ne regarde pas à travers la fenêtre\nDu pavillon fermé dont la clef est perdue.",
+      "body": "「斜めの並木道と裏切りの交差路を捨てよ、そして鍵が失われた閉じた小屋の窓越しに覗くな」。否定的命令の連続──「oblique（斜めの）」「traître（裏切りの）」という形容詞が庭園の幾何学的要素を倫理的・危険な空間として定義する。「pavillon fermé dont la clef est perdue（鍵が失われた閉じた小屋）」という描写が詩集全体の廃墟的閉鎖性を凝縮する──かつて開かれていた空間が今は閉じられ、その鍵は失われた。「ne regarde pas à travers la fenêtre（窓越しに覗くな）」という禁止が「Perspective」§2の「parquet mire la fresque（パルケットがフレスコを映す）」という視覚的誘惑への反転として機能する──見ることを禁じることで、次の感覚（嗅覚）への転換が準備される。"
+    },
+    {
+      "paragraphId": 4,
+      "type": "commentary",
+      "anchor": "Silence ! L'ombre est là ; viens respirer plutôt,\nAinsi que les hermès et les blanches statues,\nL'amère odeur du buis autour des calmes eaux.",
+      "body": "「沈黙！影がそこにある；来て吸え、むしろ、ヘルメス像と白い彫像たちのように、穏やかな水辺の黄楊の苦い匂いを」。詩の閉幕。「Silence !」という感嘆符付きの単独語が「L'Escalier」の「taciturne（無言）」と連絡する詩集内の沈黙のモチーフを命令として顕在化させる。「les hermès（ヘルメス像）」──ヴェルサイユ庭園に実在するヘルム（hermès）、上半身のみの石柱上の胸像。白い彫像たちとともに嗅覚の模範として提示される──石の彫像が匂いを「吸う」という擬人化が彫刻的存在を感覚的主体として復活させる。「l'amère odeur du buis（黄楊の苦い匂い）」──buis（黄楊・ツゲ）はフランス式庭園の刈り込み植木の代表種で、その独特の苦みを帯びた青草の匂いがヴェルサイユ庭園の嗅覚的同一性を担う。「苦い（amère）」という形容詞が詩集全体の廃墟的美学の嗅覚的等価物として機能する──美は快楽的でなく苦みを帯びて到来する。"
+    }
+  ]
+}
