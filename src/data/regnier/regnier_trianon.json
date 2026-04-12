@@ -1,0 +1,89 @@
+{
+  "id": "regnier_trianon",
+  "title": "Trianon",
+  "author": "Henri de Régnier",
+  "source": "La Cité des eaux, Mercure de France, s.d. (15e éd.), p. 32; https://fr.wikisource.org/wiki/Trianon",
+  "year": "1902",
+  "firstPublication": "La Cité des eaux, Mercure de France, 1902",
+  "difficulty": "中級",
+  "category": "regnier",
+  "originalLang": "fr-FR",
+  "modernRelevance": "★★★★☆",
+  "context": "詩集『水の都（La Cité des eaux）』（1902）所収。「Les Statues」に続く第19詩。ソネット形式（4・4・3・3行）。プチ・トリアノン（マリー・アントワネットの居所）を主題とする。「Poudre et fard devenus du sang et de la cendre（白粉と化粧が血と灰になった）」という第4行がフランス革命とマリー・アントワネットの処刑を暗示する。§1の「王侯的・憂鬱な・優しい思い出」が宮殿と並木道を彷徨い、§2の荒廃した庭園に斧の音・飛び去った鳩・霊廟の影の薔薇・待つベンチが配置される。§3の「思い出が肘椅子の背もたれに肘をつき・一歩が大理石の閾に鳴り響き・幻影が鏡の前で微笑み消える」という三連の「Un（一つの）」による列挙が、§4の「水盤が枯れ、黒い水の底に黄金の葉が絡み合って、数字の王冠と名前の文字を描く」という詩集全体で最も精緻な閉幕へと至る。",
+  "keywords": [
+    "トリアノン",
+    "マリー・アントワネット",
+    "フランス革命",
+    "血と灰",
+    "幻影",
+    "数字の王冠",
+    "名前の文字",
+    "黒い水の底"
+  ],
+  "relatedTexts": [
+    "regnier_salut_versailles",
+    "regnier_les_statues",
+    "regnier_le_bassin_noir",
+    "regnier_le_socle",
+    "verlaine_colloque_sentimental",
+    "mallarme_toast_funebre"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "verses": "v.1–4",
+      "original": "Un souvenir royal, mélancolique et tendre,\nErre dans le palais et rôde par l'allée,\nDestin à qui la Mort tragique s'est mêlée,\nPoudre et fard devenus du sang et de la cendre.",
+      "provisionalTranslation": "王侯的で、憂鬱で、優しい思い出が、\n宮殿を彷徨い並木道を徘徊する、\n悲劇的な死が混ざり込んだ運命、\n白粉と化粧が血と灰になった。"
+    },
+    {
+      "id": 2,
+      "verses": "v.5–8",
+      "original": "Dans le jardin désert j'entends la hache fendre\nLe saule où roucoula la colombe envolée ;\nLes roses ont fleuri l'ombre du mausolée,\nEt le ruisseau s'attarde et le banc semble attendre.",
+      "provisionalTranslation": "荒廃した庭園で私は聞く、斧が切り裂くのを\n飛び去った鳩がクークー鳴いていた柳を；\n薔薇は霊廟の影に花を咲かせ、\n小川は足を止め、ベンチは待っているように見える。"
+    },
+    {
+      "id": 3,
+      "verses": "v.9–11",
+      "original": "Un souvenir s'accoude au dossier des fauteuils ;\nUn pas résonne encor sur le marbre des seuils ;\nUn fantôme au miroir vient sourire et s'efface.",
+      "provisionalTranslation": "一つの思い出が肘椅子の背もたれに肘をつく；\n一歩が大理石の閾にまだ鳴り響く；\n一つの幻影が鏡の前に来て微笑み消える。"
+    },
+    {
+      "id": 4,
+      "verses": "v.12–14",
+      "original": "Le bassin se tarit, et les feuilles au fond\nDessinent, sous l'eau noire où leur or s'entrelace,\nLa couronne d'un chiffre et la lettre d'un nom.",
+      "provisionalTranslation": "水盤が枯れ、底の葉が\n黄金が絡み合う黒い水の下に描く、\n数字の王冠と名前の文字を。"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "prosody",
+      "anchor": null,
+      "body": "全14行のソネット形式（quatrain・quatrain・tercet・tercet）。12音節アレクサンドラン。韻はABBAのエンブラッセ韻──tendre／cendre（A）、allée／mêlée（B）。詩集全体を通じてヴェルサイユという空間を神話・自然・彫刻として描いてきた詩群の後に、「Trianon」は初めて具体的な歴史的事件（フランス革命・マリー・アントワネットの処刑）を暗示する。「Poudre et fard devenus du sang et de la cendre（白粉と化粧が血と灰になった）」という第4行が詩集全体でほぼ唯一の明示的な歴史的暴力への言及。§3の三連の「Un（一つの）」──「souvenir・pas・fantôme」という並行構文が思い出の遍在を圧縮する。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "glossary",
+      "anchor": "Poudre et fard devenus du sang et de la cendre.",
+      "body": "「白粉と化粧が血と灰になった」。poudre（白粉）とfard（化粧）は18世紀フランス宮廷貴族の化粧の二大要素──maison de Bourbon の宮廷文化の代名詞。「devenus du sang et de la cendre（血と灰になった）」という動詞が化粧の変質として革命とギロチン処刑を暗示する。マリー・アントワネット（1755–1793）はプチ・トリアノンを私邸として愛用した──「Trianon」というタイトルが彼女への暗示を確定させる。「cendre（灰）」が「Salut à Versailles」§1の「des cendres de l'été（夏の灰燼）」と呼応し、詩集の灰のモチーフを革命的暴力として顕在化させる。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "Dans le jardin désert j'entends la hache fendre\nLe saule où roucoula la colombe envolée ;",
+      "body": "「荒廃した庭園で私は聞く、斧が切り裂くのを、飛び去った鳩がクークー鳴いていた柳を」。「la hache fendre le saule（斧が柳を切り裂く）」という聴覚的な暴力が廃墟の庭園に時間的な裂け目として刻み込まれる──木を切る斧の音が革命的な暴力の音響的残像として機能する。「colombe envolée（飛び去った鳩）」が「La Rampe」§2の「blanche colombe（白い鳩）」の反響として──しかしここでは鳩は「飛び去った」ことで不在として提示される。「roucoula（クークー鳴いていた）」という半過去が過去の生の痕跡を聴覚的に保存する。"
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "Un souvenir s'accoude au dossier des fauteuils ;\nUn pas résonne encor sur le marbre des seuils ;\nUn fantôme au miroir vient sourire et s'efface.",
+      "body": "「一つの思い出が肘椅子の背もたれに肘をつく；一歩が大理石の閾にまだ鳴り響く；一つの幻影が鏡の前に来て微笑み消える」。三連の「Un（一つの）」による並行構文が三つの感覚的残像（触覚・聴覚・視覚）を列挙する──思い出が肘椅子に触れる（触覚）・足音が鳴り響く（聴覚）・幻影が鏡に微笑む（視覚）。「Un fantôme au miroir vient sourire et s'efface（幻影が鏡の前に来て微笑み消える）」──詩集の鏡の系列の最終形として、鏡は今や幻影を映し出す場として機能する。ヴェルレーヌ「感傷的な対話」の亡霊的な声の不在と同一の幽霊的空間。"
+    },
+    {
+      "paragraphId": 4,
+      "type": "glossary",
+      "anchor": "Le bassin se tarit, et les feuilles au fond\nDessinent, sous l'eau noire où leur or s'entrelace,\nLa couronne d'un chiffre et la lettre d'un nom.",
+      "body": "詩の閉幕。詩集全体で最も精緻な閉幕行。「La couronne d'un chiffre et la lettre d'un nom（数字の王冠と名前の文字）」──chiffre（数字・紋章・モノグラム）とnom（名前）の組み合わせがマリー・アントワネットのモノグラム「MA」への暗示として読める。黒い水の底に黄金の落ち葉が絡み合って王冠と文字を形成するという視覚的イメージが、「Le Socle」§4の「Il reste un bloc égal（同一の石塊が残る）」という哲学的命題に対して、葉と水という有機的・流動的な素材による名前の形成として対置される。「水盤が枯れる（se tarit）」──詩集全体を貫いた水の消滅の系列の最終形として、ここでは名前の形成によって閉じる──廃墟の中に名前が水底から浮かび上がる。"
+    }
+  ]
+}
