@@ -1,0 +1,91 @@
+{
+  "id": "regnier_le_socle",
+  "title": "Le Socle",
+  "author": "Henri de Régnier",
+  "source": "La Cité des eaux, Mercure de France, s.d. (15e éd.), p. 25; https://fr.wikisource.org/wiki/Le_Socle",
+  "year": "1902",
+  "firstPublication": "La Cité des eaux, Mercure de France, 1902",
+  "difficulty": "中級",
+  "category": "regnier",
+  "originalLang": "fr-FR",
+  "modernRelevance": "★★★★☆",
+  "context": "詩集『水の都（La Cité des eaux）』（1902）所収。「La Nymphe」に続く第13詩。ソネット形式（4・4・3・3行）。「La Nymphe」§2で「裸で直立した愛（L'Amour debout et nu）」として仲介者の役割を果たしていた愛の彫像が、「Le Socle」では水面の逆像に見入るうちに台座から転落し、水の底に沈んで眠るという叙事的な転換を描く。§1が彫像の転落の瞬間、§2が転落後の水面と水底の描写、§3が転落後の廃墟化した場所──「場所は悲しい；イチイは硬い；糸杉は裸だ」という三語文の連続──、§4が「台座を剥き出しにした愛の転落から、夢と沈黙と孤独の墓のように見える同一の石塊が残る」という詩集全体の廃墟美学の哲学的総括として閉じる。詩集の中で最も明確に「愛の死（あるいは失墜）」を物語として叙述する詩。",
+  "keywords": [
+    "台座",
+    "愛の転落",
+    "自己像への陶酔",
+    "水底の眠り",
+    "夢と沈黙と孤独の墓",
+    "廃墟の哲学的総括",
+    "エコー",
+    "水の都"
+  ],
+  "relatedTexts": [
+    "regnier_la_nymphe",
+    "regnier_le_bassin_noir",
+    "regnier_salut_versailles",
+    "regnier_l_escalier",
+    "mallarme_angoisse",
+    "valery_narcisse_parle"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "verses": "v.1–4",
+      "original": "L'Amour qui souriait en son bronze d'or clair\nAu centre du bassin qu'enfeuille, soir à soir,\nL'automne, a chancelé en se penchant pour voir\nEn l'onde son reflet lui rire, inverse et vert.",
+      "provisionalTranslation": "夕べごとに秋が葉で覆う水盤の中心で\n明るい金の青銅の中に微笑んでいた愛が、\n波の中に自らの逆さで緑色の笑う反射を見ようと\n身をかがめながらよろめいた。"
+    },
+    {
+      "id": 2,
+      "verses": "v.5–8",
+      "original": "Le prestige mystérieux s'est entr'ouvert ;\nSa chute, par sa ride, a brisé le miroir,\nEt dans la transparence en paix du cristal noir\nOn l'aperçoit qui dort sous l'eau qui l'a couvert.",
+      "provisionalTranslation": "神秘的な威光が半ば開いた；\nその転落が、その皺によって、鏡を砕いた、\nそして黒いクリスタルの平和な透明性の中に\n自らを覆った水の下で眠るのが見える。"
+    },
+    {
+      "id": 3,
+      "verses": "v.9–11",
+      "original": "Le lieu est triste ; l'if est dur ; le cyprès nu.\nL'allée au loin s'enfonce où nul n'est revenu\nDont le pas à jamais vibre au fond de l'écho ;",
+      "provisionalTranslation": "場所は悲しい；イチイは硬い；糸杉は裸だ。\n並木道は誰も戻ってこなかった遠くへ沈んでいく\nその足音が木霊の底に永遠に振動するところへ；"
+    },
+    {
+      "id": 4,
+      "verses": "v.12–14",
+      "original": "Et, de l'Amour tombé du socle qu'il dénude,\nIl reste un bloc égal qui semble le tombeau\nDu songe, du silence et de la solitude.",
+      "provisionalTranslation": "そして、台座を剥き出しにした愛の転落から、\n夢と沈黙と孤独の墓のように見える\n同一の石塊が残る。"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "prosody",
+      "anchor": null,
+      "body": "全14行のソネット形式（quatrain・quatrain・tercet・tercet）。12音節アレクサンドラン。韻はABBAのエンブラッセ韻──clair／vert（A）、voir／miroir（B）。詩全体が一つの完結した物語──愛の彫像が自己像に見入り転落し台座が空になるという過程──を叙述する。詩集全体のソネット群の中で唯一、明確な物語的時間性（転落以前→転落の瞬間→転落後）が展開する詩。「La Nymphe」§2の「L'Amour debout et nu（直立した愛）」という活動的な姿態が、「Le Socle」では転落した愛・水底で眠る愛・空になった台座へと変容する──詩集内の愛の変奏系列（Amour mort → Amour à mi-corps → Amour debout → Amour tombé）の最終形。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "a chancelé en se penchant pour voir\nEn l'onde son reflet lui rire, inverse et vert.",
+      "body": "「波の中に自らの逆さで緑色の笑う反射を見ようと身をかがめながらよろめいた」。愛の転落の原因は自己像への陶酔──水面の自らの鏡像を見ようとして台座から落下する。ナルキッソス神話の変奏──ナルキッソスが水面の自己像に恋して命を落とすように、愛の彫像は自らの笑う逆像に見入ってよろめく。「inverse et vert（逆さで緑色）」という二形容詞が「Le Bassin vert」§2の「fresque inverse（逆さのフレスコ）」・「Le Bassin vert」§1の「eau verdie（緑色に変わった水）」という詩集内の反転・緑化のモチーフを凝縮する。ヴァレリー「ナルシス語る（Narcisse parle）」との詩間テクスト的連絡──水面の自己像が転落の原因となる自己陶酔の神話。",
+      "targetId": "valery_narcisse_parle",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 2,
+      "type": "glossary",
+      "anchor": "Sa chute, par sa ride, a brisé le miroir,\nEt dans la transparence en paix du cristal noir\nOn l'aperçoit qui dort sous l'eau qui l'a couvert.",
+      "body": "「その転落が、その皺によって、鏡を砕いた、そして黒いクリスタルの平和な透明性の中に、自らを覆った水の下で眠るのが見える」。「par sa ride（その皺によって）」──転落の衝撃が水面に皺を作り、その皺が鏡を砕く。「cristal noir（黒いクリスタル）」という語句が「Le Bassin noir」§4の「cristal noir（黒いクリスタル）」の反響──黒い水が愛の彫像を飲み込む。「transparence en paix（平和な透明性）」という形容詞句が転落後の水面の静止を「平和」として描く──鏡は砕かれたがそれによってかえって平和な透明性が回復する逆説。「dort（眠る）」という動詞が詩集全体の眠りのモチーフの最終的な人格的適用。"
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "Le lieu est triste ; l'if est dur ; le cyprès nu.\nL'allée au loin s'enfonce où nul n'est revenu\nDont le pas à jamais vibre au fond de l'écho ;",
+      "body": "「場所は悲しい；イチイは硬い；糸杉は裸だ」という三語文の連続が詩集全体で最も簡潔な廃墟の定式を形成する──形容詞（triste・dur・nu）が空間・植物に付与される三段落の判断。「L'allée au loin s'enfonce où nul n'est revenu / Dont le pas à jamais vibre au fond de l'écho（並木道は誰も戻ってこなかった遠くへ沈んでいく、その足音が木霊の底に永遠に振動するところへ）」──詩集内の木霊の系列の最終形：先を行く木霊（Salut à Versailles §2）→木霊なき痕跡（L'Escalier §4）→黙った木霊（Le Bassin rose §2）→そして今、「木霊の底に永遠に振動する足音」として木霊が過去の足音の永続的な残響として定義される。"
+    },
+    {
+      "paragraphId": 4,
+      "type": "commentary",
+      "anchor": "Et, de l'Amour tombé du socle qu'il dénude,\nIl reste un bloc égal qui semble le tombeau\nDu songe, du silence et de la solitude.",
+      "body": "詩の閉幕にして詩集全体の哲学的総括。「Il reste un bloc égal（同一の石塊が残る）」──「L'Escalier」§2の「Il ne reste que l'œuvre anonyme et posthume（残るのは匿名の遺作だけだ）」という命題の反響として、愛の転落後に残るのは「同一の（égal）」──等質で無差別な──石塊のみ。「tombeau / Du songe, du silence et de la solitude（夢と沈黙と孤独の墓）」という三重の属格が詩集全体の主題的三位一体を凝縮する──「Salut à Versailles」§2の「gardins de silence（沈黙の庭）」・§9の「vivre ton songe（夢を生きよ）」・§1の「votre solitude（あなたの孤独）」という詩集冒頭の三主題が、最終詩群において一つの「墓」として閉じる。「dénude（剥き出しにする）」という動詞が愛の転落によって台座が裸になることを記述し、「Le Bassin noir」§1の「Automne nu（裸の秋）」という詩集の裸の系列に連絡する。"
+    }
+  ]
+}
