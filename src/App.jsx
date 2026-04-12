@@ -440,31 +440,31 @@ export default function App() {
     pushParaHash(textId, paraId);
   };
 
-  // ─── テキスト切り替え（インク滲み出しトランジション付き） ────────
-  const handleTextChange = (textId) => {
-    if (selectedText === textId) return; // 同じテキストなら何もしない
+  /// App.jsx 内の handleTextChange
+const handleTextChange = (textId) => {
+  if (selectedText === textId) return;
 
-    // 1. トランジション開始（インクが滲み出す）
-    setIsTransitioning(true);
+  // 1. 闇を深くする（フェードアウト開始）
+  setIsTransitioning(true);
 
-    // 2. アニメーションの途中（0.5秒後、画面がインクでほぼ覆われた瞬間）にテキストを切り替える
-    setTimeout(() => {
-      resetTextState(textId);
-      pushTextHash(textId);
-      // 目次を閉じる
-      setShowToc(false);
-    }, 500);
-
-    // 3. アニメーション終了（1秒後、画面全体がインクになる）、オーバーレイを消す
+  // 2. 0.5秒後（画面が完全に闇に染まった時）に中身を切り替える
+  setTimeout(() => {
+    resetTextState(textId);
+    pushTextHash(textId);
+    setShowToc(false);
+    
+    // テキスト切り替え後に少しだけ待ってから闇を晴らす
     setTimeout(() => {
       setIsTransitioning(false);
-      // 少し待ってからテキスト情報へスクロール
+      
+      // スクロール位置を上へ
       setTimeout(() => {
-        scrollToEl(textInfoRef.current, false); // スムーズスクロールはOFF
+        scrollToEl(textInfoRef.current, false);
       }, 50);
-    }, 1000);
-  };
-
+    }, 100); 
+  }, 500); // 闇が深まるまでの時間
+};
+  
   const toggleParagraph = (id) => {
     setCollapsedParagraphs(prev => ({ ...prev, [id]: !prev[id] }));
   };
@@ -1026,22 +1026,28 @@ export default function App() {
   return (
     <div className={`min-h-screen ${bgClass} relative`} style={{ fontFamily: fontFamilyStyle }}>
       {/* App.jsx 内の <style> タグの中身を以下に差し替え */}
-<style>{`
-  .fade-transition-overlay {
-    position: fixed;
-    inset: 0;
-    z-index: 9999;
-    /* 真っ黒ではなく、少し青みや茶みのある「インクのような闇」 */
-    background-color: ${darkMode ? '#000000' : '#1a1208'};
-    pointer-events: none;
-    transition: opacity 0.5s ease-in-out;
-    opacity: 0;
-  }
+      <style>{`
+      .fade-transition-overlay {
+      position: fixed;
+      inset: 0;
+      z-index: 9999;
+      /* 真っ黒ではなく、少し青みや茶みのある「インクのような闇」 */
+      background-color: ${darkMode ? '#000000' : '#1a1208'};
+      pointer-events: none;
+      transition: opacity 0.5s ease-in-out;
+      opacity: 0;
+      }
+      
+      .fade-transition-overlay.active {
+      opacity: 1;
+      }
+      `}</style>
 
-  .fade-transition-overlay.active {
-    opacity: 1;
-  }
-`}</style>
+      {/* App.jsx の return 最下部付近 */}
+<div 
+  className={`fade-transition-overlay ${isTransitioning ? 'active' : ''}`}
+/>
+      
       {/* ─── 目次ドロワー ─────────────────────────────────── */}
       <TocDrawer
       showToc={showToc}
