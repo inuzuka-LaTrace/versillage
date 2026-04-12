@@ -1,0 +1,89 @@
+{
+  "id": "regnier_la_rampe",
+  "title": "La Rampe",
+  "author": "Henri de Régnier",
+  "source": "La Cité des eaux, Mercure de France, s.d. (15e éd.), p. 30; https://fr.wikisource.org/wiki/La_Rampe",
+  "year": "1902",
+  "firstPublication": "La Cité des eaux, Mercure de France, 1902",
+  "difficulty": "中級",
+  "category": "regnier",
+  "originalLang": "fr-FR",
+  "modernRelevance": "★★★★☆",
+  "context": "詩集『水の都（La Cité des eaux）』（1902）所収。「Le Repos」に続く第17詩。ソネット形式（4・4・3・3行）。詩集全体でほぼ唯一、「tu（お前）」と「je（私）」という二人称と一人称が対話的に共存する詩。§1が大理石テラスの双曲の手すり（la double rampe）と泣く水器を描き、§2がカラスと鳩の交互の鳴き声・糸杉の碑石としての姿を提示し、§3の「もしお前が左を降りて私が右を登るなら、私たちは二人とも、薄暮が消す金緑の錆を映す水の中に」という条件節が、§4の「お前は逃げる女神、私は慎みある神、前進するか退く行進する彫像として、糸杉から糸杉へと逆さまに滑るのを見るだろう」という鏡像的幻視として閉じる。「私と私と向かいの彫像の鏡像」という詩集内で最も完結した鏡の詩学。",
+  "keywords": [
+    "双曲の手すり",
+    "逃げる女神",
+    "慎みある神",
+    "行進する彫像",
+    "逆さまに滑る",
+    "鏡の詩学",
+    "カラスと鳩",
+    "双曲の対称"
+  ],
+  "relatedTexts": [
+    "regnier_salut_versailles",
+    "regnier_les_feuilles",
+    "regnier_le_repos",
+    "regnier_le_bassin_vert",
+    "regnier_perspective",
+    "verlaine_colloque_sentimental"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "verses": "v.1–4",
+      "original": "La double rampe, auprès du bassin que surplombe\nLa terrasse de marbre où le buis nu serpente,\nIncurve sa montée et courbe sa descente,\nEt de la vasque en pleurs sanglote l'eau qui tombe.",
+      "provisionalTranslation": "裸の黄楊が蛇行する大理石のテラスが\n張り出す水盤の傍らで、双曲の手すりが\n登りを内曲させ下りを弧状にし、\nそして泣く水器から落ちる水が嗚咽する。"
+    },
+    {
+      "id": 2,
+      "verses": "v.5–8",
+      "original": "La corneille criarde et la blanche colombe\nAlternent, l'une rauque et l'autre gémissante ;\nChaque cyprès, le long de cette double pente,\nFigure un cippe noir d'où le lierre retombe.",
+      "provisionalTranslation": "甲高いカラスと白い鳩が\n交互に、一方は耳障りで他方は嘆かわしく；\nこの双曲の坂に沿った各糸杉が\n蔦が垂れ下がる黒い碑石を模る。"
+    },
+    {
+      "id": 3,
+      "verses": "v.9–11",
+      "original": "Si tu descends à gauche et si je monte à droite,\nNous verrons tous les deux, en l'onde dont miroite\nLa patine d'or vert qu'éteint le crépuscule,",
+      "provisionalTranslation": "もしお前が左を降りて私が右を登るなら、\n私たちは二人とも、薄暮が消す金緑の錆を\n映す水の中に見るだろう、"
+    },
+    {
+      "id": 4,
+      "verses": "v.12–14",
+      "original": "Toi, la Déesse en fuite et moi le Dieu discret,\nStatue en marche qui s'avance ou qui recule,\nGlisser inversement de cyprès en cyprès.",
+      "provisionalTranslation": "お前は逃げる女神、私は慎みある神、\n前進するか退く行進する彫像が、\n糸杉から糸杉へと逆さまに滑るのを。"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "prosody",
+      "anchor": null,
+      "body": "全14行のソネット形式（quatrain・quatrain・tercet・tercet）。12音節アレクサンドラン。韻はABBAのエンブラッセ韻──tombe／colombe（A）、serpente／descente（B）。詩全体の統語的構造は「Si tu descends…et si je monte…Nous verrons…Glisser（もしお前が降り…私が登るなら…私たちは…滑るのを見るだろう）」という条件文──§1・§2が条件節の前の場景描写、§3が条件節、§4が帰結節として機能する。詩集全体を通じて「tu」と「je」が同一詩の中に共存するのはほぼこの詩のみ──「Salut à Versailles」の語り手が「水の都」へと孤独に招待するのに対し、「La Rampe」では語り手と「お前」が同一の水面に鏡像として同時に現れる。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "glossary",
+      "anchor": "La double rampe, auprès du bassin que surplombe\nLa terrasse de marbre où le buis nu serpente,\nIncurve sa montée et courbe sa descente,",
+      "body": "「大理石のテラスが張り出す水盤の傍らで、双曲の手すりが登りを内曲させ下りを弧状にする」。「double rampe（双曲の手すり）」──ヴェルサイユのラトナの噴水周辺の実在する双曲階段の手すりへの言及。「Incurve sa montée et courbe sa descente（登りを内曲させ下りを弧状にする）」という二動詞が手すりの対称的な幾何学を描写する。この対称性が詩全体の「お前が降りて私が登る」という人物配置の幾何学的基礎となる。「le buis nu serpente（裸の黄楊が蛇行する）」──「L'Odeur」§4の「l'amère odeur du buis（黄楊の苦い匂い）」の視覚的反響として黄楊が再登場する。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "La corneille criarde et la blanche colombe\nAlternent, l'une rauque et l'autre gémissante ;\nChaque cyprès, le long de cette double pente,\nFigure un cippe noir d'où le lierre retombe.",
+      "body": "「甲高いカラスと白い鳩が交互に、一方は耳障りで他方は嘆かわしく；この双曲の坂に沿った各糸杉が蔦が垂れ下がる黒い碑石を模る」。カラスと鳩の対置──corneille（カラス）は不吉・死・喧騒の鳥、colombe（鳩）は純粋・嘆き・平和の鳥。「alternent（交互に）」という動詞が§1の「double rampe（双曲の手すり）」の対称性を聴覚的に反復する。「cippe noir（黒い碑石）」──「Perspective」§4の「cippe d'un cyprès（糸杉の円柱碑）」の反響として、糸杉が再び墓標的形態として定義される。蔦（lierre）が垂れ下がる動作が詩集内の植物の絡みつきのモチーフ（「Le Bassin noir」§1の`s'enlierre`）を受け継ぐ。"
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "Si tu descends à gauche et si je monte à droite,\nNous verrons tous les deux, en l'onde dont miroite\nLa patine d'or vert qu'éteint le crépuscule,",
+      "body": "「もしお前が左を降りて私が右を登るなら、私たちは二人とも、薄暮が消す金緑の錆を映す水の中に見るだろう」。詩集内で最も精緻な条件文──「左/右」「降りる/登る」という空間的対称が「tu/je（お前/私）」という人称的対称と連動する。「en l'onde dont miroite / La patine d'or vert qu'éteint le crépuscule（薄暮が消す金緑の錆を映す水の中に）」──「Le Bassin vert」§2の「miroir fluide（流れる鏡）」の系列に属する水面鏡。「patine d'or vert（金緑の錆）」は青銅彫像の錆が水に映る色調──「Le Repos」§3の「bronze jaune et vert（黄緑の青銅）」の反響。薄暮がこの錆色を「消す（éteint）」という動詞が「Fête d'eau」§3の「s'est tue avec le soir（夕べとともに沈黙した）」という夕べの終焉と連絡する。"
+    },
+    {
+      "paragraphId": 4,
+      "type": "glossary",
+      "anchor": "Toi, la Déesse en fuite et moi le Dieu discret,\nStatue en marche qui s'avance ou qui recule,\nGlisser inversement de cyprès en cyprès.",
+      "body": "詩の閉幕。「Toi, la Déesse en fuite et moi le Dieu discret（お前は逃げる女神、私は慎みある神）」──詩集内で語り手が初めて自らを神格として定義する瞬間。「逃げる女神（Déesse en fuite）」と「慎みある神（Dieu discret）」の対置が追いかけ・逃げるという古典的な神話的図式（アポロンとダフネ等）を暗示する。「Statue en marche qui s'avance ou qui recule（前進するか退く行進する彫像）」という矛盾語法──彫像は静止しているが「行進する」という運動の形容詞をとる。「Glisser inversement de cyprès en cyprès（糸杉から糸杉へと逆さまに滑る）」──「inversement（逆さまに）」が「Le Bassin vert」§2の「Imite inversement un ciel qu'il parodie（逆さまに空をパロディ化する）」・「Perspective」§2の「fresque inverse（逆さのフレスコ）」という詩集の反転のモチーフを最後に召喚する。"
+    }
+  ]
+}
