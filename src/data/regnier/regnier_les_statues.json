@@ -1,0 +1,91 @@
+{
+  "id": "regnier_les_statues",
+  "title": "Les Statues",
+  "author": "Henri de Régnier",
+  "source": "La Cité des eaux, Mercure de France, s.d. (15e éd.), p. 31; https://fr.wikisource.org/wiki/Les_Statues_(Henri_de_Régnier)",
+  "year": "1902",
+  "firstPublication": "La Cité des eaux, Mercure de France, 1902",
+  "difficulty": "中級",
+  "category": "regnier",
+  "originalLang": "fr-FR",
+  "modernRelevance": "★★★★☆",
+  "context": "詩集『水の都（La Cité des eaux）』（1902）所収。「La Rampe」に続く第18詩。ソネット形式（4・4・3・3行）。詩集全体を通じて個別の彫像を描いてきた詩群の後に、「Les Statues（彫像たち）」という複数形の題が示す通り、ヴェルサイユ庭園のあらゆる彫像を代表する女性神話的人物たち──イフィゲニア・ヘレネ・ダナエ・アンティゴネ・アリアドネ──を一連の名前として召喚する。§1が落ち葉と時間の分配的反復を水盤への落下と神話的人物の名前の列挙として接続し、§2が「大理石は風に叩かれ」という物質的暴力と「白い目の彫像は堅持する」という不屈の応答を対置し、§3が「永遠の美はいつまでも美しく存続する」という詩集最も明快な美の永続性の宣言を行い、§4の「沈黙が名前を書き記す台座に肘をつく」という最終擬人化で閉じる。",
+  "keywords": [
+    "彫像たち",
+    "イフィゲニア",
+    "ヘレネ",
+    "ダナエ",
+    "アンティゴネ",
+    "アリアドネ",
+    "永遠の美",
+    "白い目の彫像"
+  ],
+  "relatedTexts": [
+    "regnier_salut_versailles",
+    "regnier_le_repos",
+    "regnier_la_rampe",
+    "regnier_l_escalier",
+    "gautier_l_art",
+    "mallarme_toast_funebre"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "verses": "v.1–4",
+      "original": "Les feuilles, une à une, et le temps, heure à heure,\nTombent dans le bassin dont le jet d'eau larmoie ;\nIphigénie en sang près d'Hélène de Troie,\nDanaé, Antigone, Ariane qui pleure,",
+      "provisionalTranslation": "葉が、一枚一枚、そして時が、一時間ずつ、\n噴水が涙を流す水盤に落ちる；\n血まみれのイフィゲニアがトロイのヘレネの傍らに、\nダナエ、アンティゴネ、泣くアリアドネ、"
+    },
+    {
+      "id": 2,
+      "verses": "v.5–8",
+      "original": "Marbres purs que le vent soufflette ou qu'il effleure !\nSi le torse se cambre ou si la tête ploie,\nHéroïque au destin qui caresse ou rudoie,\nLa statue aux yeux blancs persévère ou demeure.",
+      "provisionalTranslation": "風が叩くかかすりかする純粋な大理石よ！\n胴が反るか頭が傾くか、\n愛撫するか荒々しくするか運命に英雄的に、\n白い目の彫像は堅持するか留まる。"
+    },
+    {
+      "id": 3,
+      "verses": "v.9–11",
+      "original": "L'éternelle beauté subsiste à jamais belle.\nLe Silence a ployé le crêpe de son aile\nEt songe, assis, le coude au socle où il inscrit",
+      "provisionalTranslation": "永遠の美はいつまでも美しく存続する。\n沈黙は翼の薄絹を折り畳み\nそして夢想する、座って、名前を書き記す台座に肘をつきながら"
+    },
+    {
+      "id": 4,
+      "verses": "v.12–14",
+      "original": "Le nom de l'héroïne énergique ou morose\nQui dérobe un sourire ou cache un sein meurtri\nDerrière les cyprès ou derrière des roses.",
+      "provisionalTranslation": "精力的か陰鬱かの女英雄の名を\n糸杉の陰かあるいは薔薇の陰に\n微笑みを盗むか傷ついた胸を隠す女英雄の。"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "prosody",
+      "anchor": null,
+      "body": "全14行のソネット形式（quatrain・quatrain・tercet・tercet）。12音節アレクサンドラン。韻はABBAのエンブラッセ韻──larmoise／pleure（A）、Troie／joie（B）。§1の「une à une（一枚一枚）・heure à heure（一時間ずつ）」という分配的反復が「L'Odeur」§1の「feuille à feuille（一枚一枚）・goutte à goutte（一滴一滴）」を反響する。詩全体の構造はBBへの収束──§1が複数の名前を列挙し、§2が統一的な「la statue（彫像）」という単数に収束し、§3が「L'éternelle beauté（永遠の美）」という抽象的命題として到達し、§4が「le nom（名前）」という単数の書き記しとして閉じる。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "glossary",
+      "anchor": "Iphigénie en sang près d'Hélène de Troie,\nDanaé, Antigone, Ariane qui pleure,",
+      "body": "ギリシャ神話の女性英雄四名──イフィゲニア（Iphigénie）：アガメムノンの娘、アウリスで生贄にされた（「血まみれの」という形容が指す）；ヘレネ（Hélène de Troie）：トロイ戦争の原因となったスパルタの王妃；ダナエ（Danaé）：ゼウスが黄金の雨として訪れた姫君；アンティゴネ（Antigone）：ソポクレスの悲劇の主人公、国法に反して兄を埋葬した；アリアドネ（Ariane）：テセウスを迷宮から救ったミノスの娘、のちに見捨てられた（「泣く」という形容が指す）。これらの女性が皆ヴェルサイユ庭園のどこかに彫像として存在する──歴史・神話・悲劇の全領域が庭園という単一の空間に共存する。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "La statue aux yeux blancs persévère ou demeure.",
+      "body": "「白い目の彫像は堅持するか留まる」。「aux yeux blancs（白い目の）」という形容詞句が大理石の彫像の眼窩──瞳孔のない白い石の目──を定義する。詩集内の「目」のモチーフの系列──「La Façade」§2の「Déesse aux yeux durs（硬い目の女神）・Dieu aux yeux caves（窪んだ目の神）」・「Le Bassin vert」§1の「triste d'être statue（像であることを悲しむ）」──の後に、ここでは「白い目」という素材的な無表情として定義される。「persévère ou demeure（堅持するか留まる）」という二動詞の並置が彫像の消極的な不屈性を定義する──積極的に抵抗するのでなく、ただ「持続する・留まる」ことによって廃墟的時間に対峙する。"
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "L'éternelle beauté subsiste à jamais belle.\nLe Silence a ployé le crêpe de son aile\nEt songe, assis, le coude au socle où il inscrit",
+      "body": "「永遠の美はいつまでも美しく存続する。沈黙は翼の薄絹を折り畳み、そして夢想する、座って、名前を書き記す台座に肘をつきながら」。「L'éternelle beauté subsiste à jamais belle（永遠の美はいつまでも美しく存続する）」──詩集全体で最も明快な美の永続性の宣言。ゴーティエ「芸術（L'Art）」の「皇帝たちの治世は過ぎ去る……しかし強固な詩節は……存続する」という命題の彫刻論的変奏として読める。「Le Silence a ployé le crêpe de son aile（沈黙は翼の薄絹を折り畳んだ）」──crêpe（薄絹・クレープ）は喪の衣として用いられる素材であり、沈黙の翼を折り畳むという身振りが弔いの準備の動作として提示される。",
+      "targetId": "gautier_l_art",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 4,
+      "type": "glossary",
+      "anchor": "Le nom de l'héroïne énergique ou morose\nQui dérobe un sourire ou cache un sein meurtri\nDerrière les cyprès ou derrière des roses.",
+      "body": "詩の閉幕。「Le nom de l'héroïne（女英雄の名前）」──沈黙が書き記すのは§1に列挙された神話的女性たちの名前。「dérobe un sourire（微笑みを盗む）」と「cache un sein meurtri（傷ついた胸を隠す）」という二つの身体的隠蔽の動作が、彫像が完全な感情を表出せず一部を糸杉や薔薇の陰に隠すという断片的な表出として提示される。「derrière les cyprès ou derrière des roses（糸杉の陰かあるいは薔薇の陰に）」──「Le Repos」§4の「la ciguë ou la rose（毒草か薔薇か）」と呼応し、糸杉（死）と薔薇（美）という詩集の二極が最終行に再召喚される。「Le Socle」§4の「tombeau du songe, du silence et de la solitude（夢と沈黙と孤独の墓）」という詩集の主題的三位一体に対し、ここでは「沈黙が名前を書く」という沈黙の能動的な記録者としての役割が提示される。"
+    }
+  ]
+}
