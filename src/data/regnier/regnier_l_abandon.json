@@ -1,0 +1,89 @@
+{
+  "id": "regnier_l_abandon",
+  "title": "L'Abandon",
+  "author": "Henri de Régnier",
+  "source": "La Cité des eaux, Mercure de France, s.d. (15e éd.), p. 33; https://fr.wikisource.org/wiki/L'Abandon",
+  "year": "1902",
+  "firstPublication": "La Cité des eaux, Mercure de France, 1902",
+  "difficulty": "中級",
+  "category": "regnier",
+  "originalLang": "fr-FR",
+  "modernRelevance": "★★★★☆",
+  "context": "詩集『水の都（La Cité des eaux）』（1902）所収。「Trianon」に続く第20詩。ソネット形式（4・4・3・3行）。「Trianon」が革命後のプチ・トリアノンの外観を描いたのに対し、「L'Abandon」は宮殿の放棄された内部──広大で空虚な王侯の中庭──へと視点を移す。§1が黄金の馬車・椅子籠・蹄鉄の音という廃絶した交通の聴覚的残像を提示し、§2が半開きの扉・風が削る黄色い石・灰の翼と木霊の口を持つ麻痺した沈黙を描写する。§3の「三重の否定（Ni…Ni…Ni）」──噴水も牧神も花瓶も白い彫像も──が「互いに微笑み合わせることができなかった」という不能を宣言し、§4の「鏡を持つ彼（過去）と裸でそこに映る彼女（孤独）」という詩集全体の主題的閉幕へと至る。",
+  "keywords": [
+    "放棄",
+    "廃絶した交通",
+    "麻痺した沈黙",
+    "灰の翼",
+    "木霊の口",
+    "座る孤独",
+    "徘徊する過去",
+    "鏡を持つ者"
+  ],
+  "relatedTexts": [
+    "regnier_trianon",
+    "regnier_salut_versailles",
+    "regnier_le_socle",
+    "regnier_le_bassin_noir",
+    "rodenbach_la_vie_des_chambres",
+    "verlaine_colloque_sentimental"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "verses": "v.1–4",
+      "original": "Le carrosse d'or roux, la chaise, le sabot\nQui piaffe au pavé clair et sonne sur la dalle,\nN'animent plus la cour vaste, vide et royale\nOù se sont tus les pas, le fouet et le grelot.",
+      "provisionalTranslation": "赤みがかった金の馬車、椅子籠、蹄鉄が\n明るい石畳で足踏みし石板に鳴り響くが、\nもはや活気を与えない、広大で空虚で王侯的な中庭を、\nそこで足音と鞭と鈴の音が沈黙した。"
+    },
+    {
+      "id": 2,
+      "verses": "v.5–8",
+      "original": "La porte s'entrebâille et le volet se clôt ;\nLe vent use, tout bas, la pierre jaune et pâle ;\nLe silence engourdi crispe de salle en salle\nSes deux ailes de cendre et sa bouche d'écho.",
+      "provisionalTranslation": "扉が半開きになり鎧戸が閉まる；\n風は低く低く、黄色く蒼白い石を磨耗させる；\n麻痺した沈黙が部屋から部屋へと縮める\n灰の二枚の翼と木霊の口を。"
+    },
+    {
+      "id": 3,
+      "verses": "v.9–11",
+      "original": "La fontaine qui chante en gouttes dans la vasque,\nNi le faune qui rit sous le marbre du masque,\nNi le vase fleuri, ni les blanches statues",
+      "provisionalTranslation": "水器の中で雫の歌を歌う噴水も、\n仮面の大理石の下で笑う牧神も、\n花の咲いた花瓶も、白い彫像たちも"
+    },
+    {
+      "id": 4,
+      "verses": "v.12–14",
+      "original": "N'ont pu faire s'entresourire l'un à l'autre,\nLui qui porte un miroir, elle qui s'y voit nue,\nLa Solitude assise et le Passé qui rôde.",
+      "provisionalTranslation": "互いに微笑み合わせることができなかった、\n鏡を持つ彼と、裸でそこに映る彼女、\n座っている孤独と徘徊する過去を。"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "prosody",
+      "anchor": null,
+      "body": "全14行のソネット形式（quatrain・quatrain・tercet・tercet）。12音節アレクサンドラン。韻はABBAのエンブラッセ韻──sabot／grelot（A）、dalle／royale（B）。詩全体の統語的構造は§1・§2の否定的描写（もはや活気づけない・沈黙した）から§3・§4の「Ni…Ni…Ni…N'ont pu（……も……も……も、できなかった）」という三重の否定へと収束する一文。詩集全体の抽象的擬人化（Silence・Passé・Solitude）が§2・§4に集約的に登場する──「Le Bassin rose」§2の「Écho muet・Silence à genoux・Amour mort」という三項的擬人化の系列の最終的な展開。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "glossary",
+      "anchor": "Le carrosse d'or roux, la chaise, le sabot\nQui piaffe au pavé clair et sonne sur la dalle,\nN'animent plus la cour vaste, vide et royale\nOù se sont tus les pas, le fouet et le grelot.",
+      "body": "「赤みがかった金の馬車・椅子籠・蹄鉄が、明るい石畳で足踏みし石板に鳴り響くが、もはや広大で空虚で王侯的な中庭を活気づけない」。馬車（carrosse d'or roux）・椅子籠（chaise）・蹄鉄（sabot）という三つの貴族的移動手段の聴覚的残像──「piaffe（足踏みする）」「sonne（鳴り響く）」という現在形の動詞が活動しているように見せながら、「N'animent plus（もはや活気を与えない）」という否定が直ちにその活動を廃棄する。「les pas, le fouet et le grelot（足音と鞭と鈴の音）」という三つの音が「se sont tus（沈黙した）」──「Trianon」§1の「Où se sont tus les pas（足音が沈黙したところで）」の完全な反響。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "glossary",
+      "anchor": "Le silence engourdi crispe de salle en salle\nSes deux ailes de cendre et sa bouche d'écho.",
+      "body": "「麻痺した沈黙が部屋から部屋へと縮める、灰の二枚の翼と木霊の口を」。詩集全体で最も精緻な沈黙の擬人化──「ailes de cendre（灰の翼）」と「bouche d'écho（木霊の口）」という二つの身体的属性が沈黙に付与される。「灰の翼」は飛ぶ能力を持ちながら灰という消滅の素材でできている矛盾；「木霊の口」は音を生産する器官でありながら反響のみを生産する木霊の口という矛盾──沈黙の本質が「飛べない翼・音を出せない口」として身体化される。「crispe（縮める・引きつらせる）」という動詞が沈黙の物理的な緊張を表す。「Les Statues」§3の「Le Silence a ployé le crêpe de son aile（沈黙は翼の薄絹を折り畳んだ）」との連絡。"
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "La fontaine qui chante en gouttes dans la vasque,\nNi le faune qui rit sous le marbre du masque,\nNi le vase fleuri, ni les blanches statues",
+      "body": "「水器の中で雫の歌を歌う噴水も、仮面の大理石の下で笑う牧神も、花の咲いた花瓶も、白い彫像たちも」。三連の「Ni（……も……ない）」による列挙が詩集全体の庭園要素──噴水（fontraines）・牧神彫像（faune）・花瓶・白い彫像──を否定の連鎖として召喚する。「la fontaine qui chante en gouttes（雫の歌を歌う噴水）」──「L'Encelade」§3の「Sa gorge horrible a fait jaillir / L'écume（恐ろしい喉が泡を噴き出した）」と対比される穏やかな噴水の歌。「le faune qui rit sous le marbre du masque（仮面の大理石の下で笑う牧神）」──「La Rampe」§4の「faune（牧神の仮面）」と連絡する。"
+    },
+    {
+      "paragraphId": 4,
+      "type": "commentary",
+      "anchor": "N'ont pu faire s'entresourire l'un à l'autre,\nLui qui porte un miroir, elle qui s'y voit nue,\nLa Solitude assise et le Passé qui rôde.",
+      "body": "詩の閉幕。「互いに微笑み合わせることができなかった、鏡を持つ彼と、裸でそこに映る彼女、座っている孤独と徘徊する過去を」。詩集全体の主題的総括──「La Solitude assise（座っている孤独）」と「le Passé qui rôde（徘徊する過去）」という二つの大文字の抽象名詞が「鏡を持つ彼（lui）」と「裸でそこに映る彼女（elle）」として具体的な人格として提示される。「Le Bassin noir」§4の「La Solitude nue et le Passé dormant（裸の孤独と眠る過去）」という詩集の早い段階での同一名詞の対に対し、ここでは孤独が「座り（assise）」過去が「徘徊する（rôde）」という異なる動詞として最終的に定義される。「鏡を持つ彼が裸の彼女を映す」というイメージが詩集全体の鏡の系列に人格的な閉幕を与える。"
+    }
+  ]
+}
