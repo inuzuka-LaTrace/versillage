@@ -2100,10 +2100,9 @@ const handleTextChange = (textId) => {
         <div className={`text-center text-[10px] font-IBM Plex sans JP ${textSecondary} pb-8 space-y-1`}>
           <p>{Object.keys(texts).length}編収録</p>
           <p>掲載の日本語訳は学習補助の為の試訳であり、確定した翻訳ではありません</p>
-          </footer>
         </div>
       </div>
-
+ </footer>
       {/* フローティングTOPボタン */}
       {showScrollTop && (
   <button
