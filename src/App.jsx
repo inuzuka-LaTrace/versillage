@@ -462,7 +462,7 @@ const handleTextChange = (textId) => {
         scrollToEl(textInfoRef.current, false);
       }, 50);
     }, 50); 
-  }, 300); // 闇が深まるまでの時間
+  }, 200); // 闇が深まるまでの時間
 };
   
   const toggleParagraph = (id) => {
@@ -1034,7 +1034,7 @@ const handleTextChange = (textId) => {
       /* 真っ黒ではなく、少し青みや茶みのある「インクのような闇」 */
       background-color: ${darkMode ? '#000000' : '#1a1208'};
       pointer-events: none;
-      transition: opacity 0.3s ease-in-out;
+      transition: opacity 0.2s ease-in-out;
       opacity: 0;
       }
       
@@ -1110,7 +1110,7 @@ const handleTextChange = (textId) => {
               </div>      
       {/* トグルスイッチ（既存のデザインに準拠） */}
       <div className={`relative w-10 h-5 rounded-full transition-colors
-        ${darkMode ? 'bg-amber-600' : 'bg-stone-300'}`}>
+        ${darkMode ? 'bg-[#8a7a5a]' : 'bg-stone-300'}`}>
         <div className={`absolute top-0.5 w-4 h-4 bg-white rounded-full shadow transition-transform
           ${darkMode ? 'translate-x-5' : 'translate-x-0.5'}`} />
       </div>
