@@ -290,8 +290,8 @@ export default function App() {
   }, []);
   
   // --- ステート・参照の定義 ---
-  const [isScrollingDown, setIsScrollingDown] = usestate(false);
-  const [showScrollTop, setShowScrollTop] = usestate(false);
+  const [isScrollingDown, setIsScrollingDown] = useState(false);
+  const [showScrollTop, setShowScrollTop] = useState(false);
   const lastScrollY = useRef(0);
 
   useEffect(() => {
