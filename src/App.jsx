@@ -479,7 +479,7 @@ export default function App() {
   const expandAll = () => setCollapsedParagraphs({});
 
   // 注釈インデックス
-  const [showAnnotationIndex, setShowAnnotationIndex] = usestate(false);
+  const [showAnnotationIndex, setShowAnnotationIndex] = useState(false);
   // intertextualインライン展開: key = `${paraId}-${annIdx}`
   const [intertextualExpanded, setIntertextualExpanded] = useState({});
 
