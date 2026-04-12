@@ -2082,14 +2082,14 @@ const handleTextChange = (textId) => {
         {/* アプリ概要（フランス語 / Cinzel） */}
   　<div className="mb-10 text-center select-none">
     <h2 
-      style={{ fontFamily: '"Cinzel", serif', letterSpacing: '0.4em' }}
-      className={`text-sm font-bold mb-3 ${textSecondary}`}
+      style={{ fontFamily: '"Cinzel", serif', letterSpacing: '0.2em' }}
+      className={`text-[10px] mb-3 ${textSecondary}`}
     >
       VANITISME
     </h2>
     <p 
       style={{ fontFamily: '"Cinzel", serif', letterSpacing: '0.15em' }}
-      className={`text-[10px] italic leading-relaxed max-w-xs mx-auto ${textSecondary}`}
+      className={`text-[10px] leading-relaxed max-w-xs mx-auto ${textSecondary}`}
     >
       Vanitas vanitatum et omnia vanitas.<br />
       Quare vanitatem repraesenta.
