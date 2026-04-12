@@ -1027,29 +1027,19 @@ export default function App() {
     <div className={`min-h-screen ${bgClass} relative`} style={{ fontFamily: fontFamilyStyle }}>
       {/* App.jsx 内の <style> タグの中身を以下に差し替え */}
 <style>{`
-  .ink-transition-active {
+  .fade-transition-overlay {
     position: fixed;
     inset: 0;
     z-index: 9999;
-    background-color: ${darkMode ? '#000' : '#1a1208'};
-    
-    /* マスクの設定 */
-    -webkit-mask-image: url("${INK_MASK_SVG}");
-    mask-image: url("${INK_MASK_SVG}");
-    -webkit-mask-size: 100% 100%;
-    mask-size: 100% 100%;
-    -webkit-mask-repeat: no-repeat;
-    mask-repeat: no-repeat;
-    
-    /* アニメーション */
-    animation: inkOpacity 1s ease-in-out forwards;
+    /* 真っ黒ではなく、少し青みや茶みのある「インクのような闇」 */
+    background-color: ${darkMode ? '#000000' : '#1a1208'};
+    pointer-events: none;
+    transition: opacity 0.5s ease-in-out;
+    opacity: 0;
   }
 
-  @keyframes inkOpacity {
-    0% { opacity: 0; }
-    20% { opacity: 1; }
-    80% { opacity: 1; }
-    100% { opacity: 0; }
+  .fade-transition-overlay.active {
+    opacity: 1;
   }
 `}</style>
       {/* ─── 目次ドロワー ─────────────────────────────────── */}
