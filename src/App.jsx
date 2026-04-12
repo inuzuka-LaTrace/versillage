@@ -2092,11 +2092,11 @@ const handleTextChange = (textId) => {
       style={{ fontFamily: '"Cinzel", serif', letterSpacing: '0.15em' }}
       className={`text-[9px] leading-relaxed max-w-xs mx-auto ${textSecondary}`}
     >
-      L'archive d’ombres et de silence. Ce dispositif met à nu le désespoir d’un langage qui ne rencontre que son propre vide. 
-      Pourtant, si le verbe est impuissant à saisir l’être, cela ne justifie en rien l’arrêt de cet acte de résistance, bien que vain. 
-      Contre le nihilisme de l'oubli, nous dressons la splendeur de l'éphémère. 
-      Si tout est vide, alors rien n'interdit de sculpter, au sein du néant, la lumière, l'ombre, le parfum et le rythme. 
-      Car représenter la vanité, c'est encore, et toujours, créer et renouveler un monde.
+      VANITISME; L'archive d’ombres et de silence. Ce dispositif met à nu le désespoir d’un langage qui ne rencontre que son propre vide.<br /> 
+      Pourtant, si le verbe est impuissant à saisir l’être, cela ne justifie en rien l’arrêt de cet acte de résistance, bien que vain.<br /> 
+      Contre le nihilisme de l'oubli, nous dressons la splendeur de l'éphémère.<br /> 
+      Si tout est vide, alors rien n'interdit de sculpter, au sein du néant, la lumière, l'ombre, le parfum et le rythme.<br /> 
+      Car représenter la vanité, c'est encore, et toujours, créer et renouveler un monde.<br />
     </p>
   </div>
         <div className={`text-center text-[9px] font-IBM Plex sans JP ${textSecondary} pb-8 space-y-1`}>
