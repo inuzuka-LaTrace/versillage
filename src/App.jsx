@@ -1025,6 +1025,44 @@ export default function App() {
 
   return (
     <div className={`min-h-screen ${bgClass} relative`} style={{ fontFamily: fontFamilyStyle }}>
+      {/* ─── インク滲み出しトランジション用 CSS ──────────── */}
+      <style>{`
+        .ink-transition-active {
+          /* ステップ1で定義したSVGマスクを適用 */
+          -webkit-mask-image: url("${INK_MASK_SVG}");
+          mask-image: url("${INK_MASK_SVG}");
+
+          /* マスクのサイズと位置を設定 */
+          -webkit-mask-size: 100% 100%;
+          mask-size: 100% 100%;
+          -webkit-mask-position: center;
+          mask-position: center;
+          -webkit-mask-repeat: no-repeat;
+          mask-repeat: no-repeat;
+
+          /* アニメーション：1秒かけて不透明にする（＝インクが滲みきって画面を覆う） */
+          animation: inkBleed 1s ease-in-out forwards;
+        }
+
+        @keyframes inkBleed {
+          0% {
+            /* 最初はマスクが「小さな点（＝透明）」 */
+            -webkit-mask-size: 0% 0%;
+            mask-size: 0% 0%;
+            opacity: 0;
+          }
+          10% {
+            /* すぐにインクが滴り落ち始める（＝不透明になり始める） */
+            opacity: 1;
+          }
+          100% {
+            /* 1秒後、マスクが「画面全体（＝不透明）」になる */
+            -webkit-mask-size: 100% 100%;
+            mask-size: 100% 100%;
+            opacity: 1;
+          }
+        }
+      `}</style>
       {/* ─── 目次ドロワー ─────────────────────────────────── */}
       <TocDrawer
       showToc={showToc}
