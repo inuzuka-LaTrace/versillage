@@ -2078,10 +2078,29 @@ const handleTextChange = (textId) => {
         </div>}
         </>)}
 
+        
         {/* フッター */}
+        <footer className="mt-20 pb-12 px-6">
+        {/* アプリ概要（フランス語 / Cinzel） */}
+          <div className="mb-10 text-center select-none">
+            <h2 
+              style={{ fontFamily: '"Cinzel", serif', letterSpacing: '0.4em' }}
+              className={`text-sm mb-3 ${textSecondary}`}
+              >
+              VANITISME
+            </h2>
+            <p 
+              style={{ fontFamily: '"Cinzel", serif', letterSpacing: '0.15em' }}
+              className={`text-[10px] italic leading-relaxed max-w-xs mx-auto ${textSecondary}`}
+              >
+              Vanité des vanités, tout est vanité.<br />
+              Une anthologie numérique de la poésie fin-de-siècle.
+            </p>
+          </div>
         <div className={`text-center text-[10px] font-IBM Plex sans JP ${textSecondary} pb-8 space-y-1`}>
           <p>{Object.keys(texts).length}編収録</p>
           <p>掲載の日本語訳は学習補助の為の試訳であり、確定した翻訳ではありません</p>
+          </footer>
         </div>
       </div>
 
