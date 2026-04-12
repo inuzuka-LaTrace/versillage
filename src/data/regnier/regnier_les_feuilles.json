@@ -1,0 +1,91 @@
+{
+  "id": "regnier_les_feuilles",
+  "title": "Les Feuilles",
+  "author": "Henri de Régnier",
+  "source": "La Cité des eaux, Mercure de France, s.d. (15e éd.), p. 28; https://fr.wikisource.org/wiki/Les_Feuilles_(Régnier)",
+  "year": "1902",
+  "firstPublication": "La Cité des eaux, Mercure de France, 1902",
+  "difficulty": "中級",
+  "category": "regnier",
+  "originalLang": "fr-FR",
+  "modernRelevance": "★★★★☆",
+  "context": "詩集『水の都（La Cité des eaux）』（1902）所収。「Fête d'eau」に続く第15詩。ソネット形式（4・4・3・3行）。詩集全体でほぼ唯一、「tu（貴女）」という二人称で語られる女性的な人物が通り過ぎるというシーンを描く──「Salut à Versailles」§7の「ô toi（貴女）」という勧誘の反響として。§1が衣の音と秋の疲れを、§2が彫像がこの「貴女」を認識しないという疎外を、§3が大理石の目の巫女（ウェスタの女神）と沈黙するヘルメス像の林の間の移動を描く。§4の「貴女が手に持つ澄んだ鏡の中に、神々・水・緑の芝生を映した陰鬱で黄色い公園を、貴女は運ぶ」という閉幕が詩集全体の廃墟空間を手鏡という携帯可能な像として凝縮する。",
+  "keywords": [
+    "落ち葉",
+    "秋の疲れ",
+    "手鏡",
+    "巫女",
+    "ヘルメス像",
+    "別の年",
+    "陰鬱な公園",
+    "boulingrin"
+  ],
+  "relatedTexts": [
+    "regnier_salut_versailles",
+    "regnier_l_odeur",
+    "regnier_le_socle",
+    "regnier_perspective",
+    "verlaine_colloque_sentimental",
+    "mallarme_herodiade_scene"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "verses": "v.1–4",
+      "original": "Ta robe lente, pas à pas, soulève et traîne\nUn bruit de feuilles d'or et de roses fanées,\nEt dans le crépuscule où finit la journée\nL'automne est las d'avoir entendu les fontaines.",
+      "provisionalTranslation": "貴女のゆったりした衣が、一歩一歩、持ち上げ引きずる\n黄金の葉と枯れた薔薇の音を、\nそして日が終わる薄暮の中で\n秋は噴水を聞き続けてきた疲れを感じる。"
+    },
+    {
+      "id": 2,
+      "verses": "v.5–8",
+      "original": "Si tu passes le long des eaux vastes et vaines,\nLa statue, anxieuse et la tête inclinée\nÉcoutant dans l'écho le pas de l'autre Année,\nNe te reconnaît plus et te regarde à peine.",
+      "provisionalTranslation": "もし貴女が広大で虚しい水の傍らを通るなら、\n不安で頭を傾けた彫像が、\n木霊の中に別の年の足音を聞きながら、\nもはや貴女を認識せず、かろうじて見るだけだ。"
+    },
+    {
+      "id": 3,
+      "verses": "v.9–11",
+      "original": "La Vestale au ciel gris lève ses yeux de marbre,\nL'Hermès silencieux dérobe d'arbre en arbre\nSon socle nu de terme et son masque de faune.",
+      "provisionalTranslation": "灰色の空に巫女が大理石の目を持ち上げ、\n沈黙するヘルメスが木から木へと隠れていく\n境界石としての裸の台座と牧神の仮面を。"
+    },
+    {
+      "id": 4,
+      "verses": "v.12–14",
+      "original": "Et, dans le miroir clair que tu tiens à la main,\nTu portes, reflétés, le parc morose et jaune\nAvec ses dieux, ses eaux et ses verts boulingrins.",
+      "provisionalTranslation": "そして、貴女が手に持つ澄んだ鏡の中に、\n貴女は運ぶ、映された、神々と水と緑の芝生を持つ\n陰鬱で黄色い公園を。"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "prosody",
+      "anchor": null,
+      "body": "全14行のソネット形式（quatrain・quatrain・tercet・tercet）。12音節アレクサンドラン。韻はABBAのエンブラッセ韻──traîne／fontaines（A）、fanées／journée（B）。詩全体を通じて「tu（貴女）」という二人称が語りの主体──「Salut à Versailles」§7の「ô toi que l'aube effraie（夜明けを恐れる貴女）」・「L'Odeur」§2の「viens te regarder（来て自らを映せ）」に続く詩集内の二人称の系列の中で、ここでは語り手の勧誘でなく語り手が「貴女」の存在を観察・記述するという構造をとる。§4の「手に持つ澄んだ鏡」という唐突な携帯可能な鏡が詩集全体の廃墟空間を一枚の手鏡に凝縮するという詩集内で最も驚くべき空間的転換。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "glossary",
+      "anchor": "Ta robe lente, pas à pas, soulève et traîne\nUn bruit de feuilles d'or et de roses fanées,",
+      "body": "「貴女のゆったりした衣が、一歩一歩、持ち上げ引きずる、黄金の葉と枯れた薔薇の音を」。衣の引きずる動作が「音（bruit）」を生産するという聴覚的描写──「L'Odeur」§1の「Les feuilles, feuille à feuille（葉を、一枚一枚）」という分配的反復と同一の落ち葉の音の提示。「pas à pas（一歩一歩）」という副詞が衣の緩慢な引きずりのリズムを刻む。「feuilles d'or（黄金の葉）」が「Fête d'eau」§1の「Diamantant d'écume et d'or（泡と黄金でダイヤモンドで飾る）」の黄金の反響として詩集内の黄金色を引き継ぐ。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "La statue, anxieuse et la tête inclinée\nÉcoutant dans l'écho le pas de l'autre Année,\nNe te reconnaît plus et te regarde à peine.",
+      "body": "「不安で頭を傾けた彫像が、木霊の中に別の年の足音を聞きながら、もはや貴女を認識せず、かろうじて見るだけだ」。詩集内で最も劇的な疎外の場面──彫像が通り過ぎる人物を認識しないという逆転。「Perspective」§3の「Le glorieux Passé…voit se refléter encor（栄光ある過去がまだ映るのを見る）」という彫像の視覚的活動に対し、ここでは彫像が認識を停止する。「l'autre Année（別の年）」という大文字の抽象的固有名詞が時間の他者性を定義する──彫像は現在の「貴女」でなく過去の「別の年」の足音に傾注している。ヴェルレーヌ「感傷的な対話」の幽霊的な非認識との共鳴。",
+      "targetId": "verlaine_colloque_sentimental",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 3,
+      "type": "glossary",
+      "anchor": "La Vestale au ciel gris lève ses yeux de marbre,\nL'Hermès silencieux dérobe d'arbre en arbre\nSon socle nu de terme et son masque de faune.",
+      "body": "「灰色の空に巫女が大理石の目を持ち上げ、沈黙するヘルメスが木から木へと隠れていく、境界石としての裸の台座と牧神の仮面を」。Vestale（ウェスタの巫女）──古代ローマの神殿の火を守る処女司祭。「ses yeux de marbre（大理石の目）」という素材的描写が「L'Escalier」§3の「Sans yeux pour regarder（見るための目もなく）」という盲目の胸像と対比される──ここでは巫女の目はあるが「大理石の目」として非人格化される。「L'Hermès silencieux dérobe d'arbre en arbre（沈黙するヘルメスが木から木へと隠れていく）」──「L'Odeur」§4の「les hermès（ヘルメス像）」が静止して匂いを吸っていたのに対し、ここでは「隠れる（dérober）」という運動の動詞が付与される。"
+    },
+    {
+      "paragraphId": 4,
+      "type": "commentary",
+      "anchor": "Et, dans le miroir clair que tu tiens à la main,\nTu portes, reflétés, le parc morose et jaune\nAvec ses dieux, ses eaux et ses verts boulingrins.",
+      "body": "詩の閉幕。「le miroir clair que tu tiens à la main（貴女が手に持つ澄んだ鏡）」──手鏡という携帯可能な反射面が詩集全体の水盤・鏡・反射の系列を極小のスケールに凝縮する。「Le Bassin vert」§2の「miroir fluide（流れる鏡）」・「Le Bassin noir」§3の「ébène du miroir（ミラーの烏檀）」・「Fête d'eau」§4の「bassin redevenu miroir（再び鏡となった水盤）」という詩集の鏡の系列の中で、ここでは水盤でなく手鏡という可搬性のある鏡として登場する。「parc morose et jaune（陰鬱で黄色い公園）」──「morose（陰鬱な）」という形容詞が「Salut à Versailles」§7の「ville vaine, arrogante et sonore（虚ろで傲慢で騒がしい都市）」の否定形として、廃墟的な公園の最終的な形容となる。「ses verts boulingrins（緑の芝生）」──boulingrin（イギリス英語bowling-greenから）はフランス式庭園の芝生の正方形区画を指す語で、詩集内では唯一の使用。"
+    }
+  ]
+}
