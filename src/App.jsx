@@ -2083,14 +2083,14 @@ const handleTextChange = (textId) => {
   　<div className="mb-10 text-center select-none">
     <h2 
       style={{ fontFamily: '"Cinzel", serif', letterSpacing: '0.15em' }}
-      className={`text-[8px] mb-3 ${textSecondary}`}
+      className={`text-[10px] mb-3 ${textSecondary}`}
     >
       Vanitas vanitatum et omnia vanitas.<br />
       Quare vanitatem repraesenta.
     </h2>
     <p 
-      style={{ fontFamily: '"Cinzel", serif', letterSpacing: '0.15em' }}
-      className={`text-[8px] leading-relaxed max-w-xs mx-auto ${textSecondary}`}
+      style={{ fontFamily: '"Cinzel", serif', letterSpacing: '0.13em' }}
+      className={`text-[9px] max-w-xs mx-auto ${textSecondary}`}
     >
       VANITISME; L'archive d’ombres et de silence. Ce dispositif met à nu le désespoir d’un langage qui ne rencontre que son propre vide.
       Pourtant, si le verbe est impuissant à saisir l’être, cela ne justifie en rien l’arrêt de cet acte de résistance, bien que vain. 
@@ -2099,7 +2099,7 @@ const handleTextChange = (textId) => {
       Car représenter la vanité, c'est encore, et toujours, créer et renouveler un monde.
     </p>
   </div>
-        <div className={`text-center text-[8px] font-IBM Plex sans JP ${textSecondary} pb-8 space-y-1`}>
+        <div className={`text-center text-[9px] font-IBM Plex sans JP ${textSecondary} pb-8 space-y-1`}>
           <p>{Object.keys(texts).length}編収録</p>
           <p>掲載の日本語訳は学習補助の為の試訳であり、確定した翻訳ではありません</p>
         </div>
