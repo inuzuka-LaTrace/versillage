@@ -1,0 +1,91 @@
+{
+  "id": "regnier_le_repos",
+  "title": "Le Repos",
+  "author": "Henri de Régnier",
+  "source": "La Cité des eaux, Mercure de France, s.d. (15e éd.), p. 29; https://fr.wikisource.org/wiki/Le_Repos",
+  "year": "1902",
+  "firstPublication": "La Cité des eaux, Mercure de France, 1902",
+  "difficulty": "中級",
+  "category": "regnier",
+  "originalLang": "fr-FR",
+  "modernRelevance": "★★★★☆",
+  "context": "詩集『水の都（La Cité des eaux）』（1902）所収。「Les Feuilles」に続く第16詩。ソネット形式（4・4・3・3行）。「Les Feuilles」が「tu」を公園を通り過ぎる生きた女性として描いたのに対し、「Le Repos」はその同一の「tu」を彫像──横たわり血の中に眠る女性像──として再提示するという詩集内の劇的な転換。§1が青銅の眠りと緑色に変わった顔を描き、§2が台座の赤と血の痕と「矢か斧か」という暴力の問いを提示し、§3が苦しみ滲み出す青銅が「永遠の屍骸を彫刻する」という逆説的な物質論的命題を展開し、§4が「素材がおまえを分解する」という廃墟化の最終段階を提示しながら、「運命が優しかろうと残酷だろうと、おまえの足元に毒草か薔薇を育てさせよ」という詩集全体で最も覚悟に満ちた受容の命令で閉じる。",
+  "keywords": [
+    "休息",
+    "横たわる彫像",
+    "血の台座",
+    "矢か斧か",
+    "永遠の屍骸",
+    "素材による分解",
+    "毒草と薔薇",
+    "運命の受容"
+  ],
+  "relatedTexts": [
+    "regnier_les_feuilles",
+    "regnier_le_bassin_rose",
+    "regnier_l_escalier",
+    "regnier_le_socle",
+    "baudelaire_une_charogne",
+    "rossetti_sweet_death"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "verses": "v.1–4",
+      "original": "Le bronze grave étreint de son sommeil pesant\nTon corps au geste las et ta face verdie ;\nEt quelle douloureuse et douce tragédie\nT'a faite la statue où tu dors à présent ?",
+      "provisionalTranslation": "重々しい青銅が重い眠りで抱きしめる\n疲れた身振りのおまえの体と緑色に変わったおまえの顔を；\nそしてどんな痛ましくも甘い悲劇が\nおまえを今眠る彫像にしたのか？"
+    },
+    {
+      "id": 2,
+      "verses": "v.5–8",
+      "original": "Le marbre de ton socle est rouge et l'on y sent\nPartout la pourpre encor d'une tache agrandie ;\nEst-ce la flèche aiguë ou la hache hardie\nQui t'a couchée ainsi plus belle dans ton sang ?",
+      "provisionalTranslation": "おまえの台座の大理石は赤く、そこに感じる\n至るところに広がった染みの深紅をまだ；\n鋭い矢か大胆な斧か、\nこうしておまえを血の中でより美しく横たえたのは？"
+    },
+    {
+      "id": 3,
+      "verses": "v.9–11",
+      "original": "Le bronze jaune et vert qui souffre et qui suppure,\nDont s'aigrit la patine et suinte la coulure,\nSculpte de ton repos un cadavre éternel ;",
+      "provisionalTranslation": "苦しみ滲み出す黄緑の青銅、\nそのサビが酸敗しく垂れが滲み出て、\nおまえの休息から永遠の屍骸を彫刻する；"
+    },
+    {
+      "id": 4,
+      "verses": "v.12–14",
+      "original": "Et la matière où tu survis te décompose ;\nMais, puisque tendre fut ton Destin ou cruel,\nLaisse croître à tes pieds la ciguë ou la rose.",
+      "provisionalTranslation": "そしておまえが生き残る素材がおまえを分解する；\nしかし、おまえの運命が優しかろうと残酷だろうと、\nおまえの足元に毒草か薔薇を育てさせよ。"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "prosody",
+      "anchor": null,
+      "body": "全14行のソネット形式（quatrain・quatrain・tercet・tercet）。12音節アレクサンドラン。韻はABBAのエンブラッセ韻──pesant／présent（A）、verdie／tragédie（B）。詩集全体を通じて「青銅（bronze）」と「大理石（marbre）」という二つの彫刻素材が詩の物質的基盤を形成してきたが、この詩では両素材が同時に登場し、それぞれの廃墟化プロセス（青銅の緑青・大理石の赤染み）が並置される。「Les Feuilles」の「tu」が生きた女性として公園を歩いていたのに対し、「Le Repos」の「tu」は横たわる彫像として死の静止に移行する──詩集内の二人称の運命的な転換。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "Et quelle douloureuse et douce tragédie\nT'a faite la statue où tu dors à présent ?",
+      "body": "「そしてどんな痛ましくも甘い悲劇が、おまえを今眠る彫像にしたのか？」。詩集全体で最も直接的な問いとして発せられる疑問──何がこの人物を彫像にしたのかという起源の問い。「douloureuse et douce（痛ましくも甘い）」という逆説的な形容詞対がボードレール的な「苦痛の甘美さ（douleur douce）」の美学と連絡する。「dors（眠る）」という動詞が「La Nymphe」§4の「Nymphe endormie（眠るニンフ）」・「Le Socle」§2の「dort sous l'eau（水の下で眠る）」という詩集の眠りの系列の最終局面として機能する──しかしここでは眠りが死の隠喩として最も明示的に提示される。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "glossary",
+      "anchor": "Le marbre de ton socle est rouge et l'on y sent\nPartout la pourpre encor d'une tache agrandie ;\nEst-ce la flèche aiguë ou la hache hardie\nQui t'a couchée ainsi plus belle dans ton sang ?",
+      "body": "「おまえの台座の大理石は赤く、広がった染みの深紅をまだ感じる；鋭い矢か大胆な斧か、こうしておまえを血の中でより美しく横たえたのは？」。「Le Bassin rose」§1の「porphyre rose en l'onde saigne（ポルフィリが波の中で血を流す）」という赤色の石のイメージが、ここでは台座の大理石の赤染みとして最も明示的な血の表象として帰還する。「plus belle dans ton sang（血の中でより美しく）」という句がボードレール「Une Charogne（腐肉）」の「おまえはこのように汚物に似るだろう」という死後の美の逆転と連絡する──ただしレニエの美化は腐敗ではなく血染めという形をとる。",
+      "targetId": "baudelaire_une_charogne",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 3,
+      "type": "glossary",
+      "anchor": "Le bronze jaune et vert qui souffre et qui suppure,\nDont s'aigrit la patine et suinte la coulure,\nSculpte de ton repos un cadavre éternel ;",
+      "body": "「苦しみ滲み出す黄緑の青銅、そのサビが酸敗し垂れが滲み出て、おまえの休息から永遠の屍骸を彫刻する」。詩集内で最も強烈な素材論的命題──青銅自体が「苦しみ（souffre）」「滲み出す（suppure）」という病理的な動詞で定義される。「s'aigrit la patine（サビが酸敗する）」「suinte la coulure（垂れが滲み出る）」という二つの動詞が青銅の劣化を生理的な排泄として描写する──「L'Encelade」§3の「gorge horrible（恐ろしい喉）」という生理的な噴水と同一の物質の身体化。「Sculpte de ton repos un cadavre éternel（おまえの休息から永遠の屍骸を彫刻する）」という逆説──彫刻が死体を作るという通常とは逆の制作論。"
+    },
+    {
+      "paragraphId": 4,
+      "type": "commentary",
+      "anchor": "Et la matière où tu survis te décompose ;\nMais, puisque tendre fut ton Destin ou cruel,\nLaisse croître à tes pieds la ciguë ou la rose.",
+      "body": "詩の閉幕。「Et la matière où tu survis te décompose（おまえが生き残る素材がおまえを分解する）」──「L'Escalier」§2の「Il ne reste que l'œuvre anonyme et posthume（匿名の遺作だけが残る）」・「Le Socle」§4の「un bloc égal qui semble le tombeau（墓のように見える石塊）」に続く詩集の素材論的系列の頂点。素材が保存であると同時に分解であるという逆説が一行に凝縮される。「Laisse croître à tes pieds la ciguë ou la rose（おまえの足元に毒草か薔薇を育てさせよ）」──ciguë（毒草・ドクニンジン）はソクラテスの死の毒として知られる。「Latone」§4の「obèse grenouille à la svelte Latone（太ったカエルの細身のラトナへの挨拶）」という滑稽さの逆側に位置する詩集の最も厳粛な命令──運命の正邪にかかわらず、毒草であれ薔薇であれ、足元に育つものを受け入れよという覚悟の倫理。"
+    }
+  ]
+}
