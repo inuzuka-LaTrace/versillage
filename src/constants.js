@@ -184,7 +184,15 @@ export const PREFERRED_VOICES = {
 
 // ─── インク滲み出しマスク SVG (base64エンコード) ────────────────────
 // 上から下にインクが滴り落ち、画面全体を覆うアニメーション。
-// デカダンスな雰囲気を出すため、不均一に滲む形状にしています。
-export const INK_MASK_SVG = 'data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMDAwIDEwMDAiIHByZXNlcnZlQXNwZWN0UmF0aW89Im5vbmUiPjxwYXRoIGQ9Ik0wLDAtNDYwLDBDMDU0NiwwLDgyNiwwLDEwMDAsMEwxMDAwLDAwLDAtNDYwLDBINC00NjAsMCBaIiBmaWxsPSJ3aGl0ZSI+PGFuaW1hdGUgYXR0cmlidXRlTmFtZT0iZCIgZHVyPSIxcyIgZmlsbD0iZnJlZXplIiBmcm9tPSJNMCwwLTQ2MCwwQzA1NDYsMCw4MjYsMCwxMDAwLDAwTDkxOSwwLjJDNDc0LDAuMiw1OCwwLjIsLTI1OCwwLjJINC00NjAsMCBaIiB0bz0iTTAwLDExNDYwTDEwMDAsMTAwMEM5NDYsMTAwMCwxMzU0LDEwMDAsMTQ2MCwxMDAwQzk0NiwxMDAwLDQ3MCwxMDAwLDE0NjAsMTAwMEgxMTQ2MEwwBaIiAvPjwvcGF0aD48L3N2Zz4=';
+export const INK_MASK_SVG = `data:image/svg+xml;charset=utf-8,${encodeURIComponent(`
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 1000" preserveAspectRatio="none">
+  <path fill="black">
+    <animate attributeName="d" dur="1s" fill="freeze" 
+      values="M0,0 L1000,0 L1000,0 L0,0 Z; 
+              M0,0 L1000,0 L1000,300 Q500,600 0,300 Z; 
+              M0,0 L1000,0 L1000,1000 L0,1000 Z" />
+  </path>
+</svg>
+`)}`;
 // フラッシュカード：長文除外しきい値（文字数）
 export const FC_MAX_CHARS = 300;
