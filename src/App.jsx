@@ -46,7 +46,7 @@ import swinburneData from './data/swinburne';
 import rossetti_cData from './data/rossetti_c';
 import d_g_rossettiData from './data/d_g_rossetti';
 import yeatsData from './data/yeats';
-import { CATEGORIES, CAT_SHORT, ANNOTATION_TYPE_DEF, SPEECH_RATES, PREFERRED_VOICES, SPEAKER_COLORS, SPEAKER_FIXED_COLORS } from './constants';
+import { CATEGORIES, CAT_SHORT, ANNOTATION_TYPE_DEF, SPEECH_RATES, PREFERRED_VOICES, SPEAKER_COLORS, SPEAKER_FIXED_COLORS, AUTHOR_COLOR_MAP } from './constants';
 import { getTranslation, getOriginalText, getSpeechLang, getBestVoice, extractSnippet } from './utils';
 
 // getTranslation, getOriginalText, getSpeechLang, getBestVoice, PREFERRED_VOICES, SPEECH_RATES → constants.js / utils.js
@@ -999,46 +999,10 @@ export default function App() {
   const catShort = CAT_SHORT; // constants.js
 
   const authorColor = (cat) => {
-    if (cat?.startsWith('racine'))       return darkMode ? 'bg-violet-900/40 text-violet-300' : 'bg-violet-100 text-violet-800';
-    if (cat?.startsWith('baudelaire'))   return darkMode ? 'bg-yellow-900/40 text-yellow-300'   : 'bg-yellow-100 text-yellow-800';
-    if (cat?.startsWith('mallarme'))     return darkMode ? 'bg-sky-900/40 text-sky-300'       : 'bg-sky-100 text-sky-800';
-    if (cat?.startsWith('valery'))       return darkMode ? 'bg-rose-900/40 text-rose-300'     : 'bg-rose-100 text-rose-800';
-    if (cat?.startsWith('valmore'))      return darkMode ? 'bg-rose-900/40 text-rose-300'     : 'bg-rose-100 text-rose-800';
-    if (cat?.startsWith('regnier'))  return darkMode ? 'bg-blue-900/40 text-blue-300' : 'bg-blue-100 text-blue-800';
-    if (cat?.startsWith('weil'))    return darkMode ? 'bg-sky-900/40 text-sky-400'       : 'bg-sky-200 text-sky-900';
-    if (cat?.startsWith('leconte_de_lisle')) return darkMode ? 'bg-emerald-900/40 text-emerald-300': 'bg-emerald-100 text-emerald-800';
-    if (cat?.startsWith('banville'))     return darkMode ? 'bg-violet-900/40 text-violet-300' : 'bg-violet-100 text-violet-800';
-    if (cat?.startsWith('rodenbach'))    return darkMode ? 'bg-sky-900/40 text-sky-400'       : 'bg-sky-200 text-sky-900';
-    if (cat?.startsWith('verhaeren'))    return darkMode ? 'bg-emerald-900/40 text-emerald-300': 'bg-emerald-100 text-emerald-800';
-    if (cat?.startsWith('maeterlinck'))  return darkMode ? 'bg-blue-900/40 text-blue-300' : 'bg-blue-100 text-blue-800';
-    if (cat?.startsWith('vanlerberghe')) return darkMode ? 'bg-red-900/40 text-red-300'       : 'bg-red-100 text-red-800';
-    if (cat?.startsWith('dante'))        return darkMode ? 'bg-red-900/40 text-red-300'       : 'bg-red-100 text-red-800';
-    if (cat?.startsWith('dannunzio'))    return darkMode ? 'bg-red-900/40 text-red-300' : 'bg-red-100 text-red-800';
-    if (cat?.startsWith('pascoli'))      return darkMode ? 'bg-sky-900/40 text-sky-400'       : 'bg-sky-200 text-sky-900';
-    if (cat?.startsWith('gozzano'))      return darkMode ? 'bg-yellow-900/40 text-yellow-300'   : 'bg-yellow-100 text-yellow-800';
-    if (cat?.startsWith('corazzini'))      return darkMode ? 'bg-pink-900/40 text-pink-300'     : 'bg-pink-100 text-pink-800';
-    if (cat?.startsWith('leconte_de_lisle')) return darkMode ? 'bg-cyan-900/40 text-cyan-300': 'bg-cyan-100 text-cyan-800';
-    if (cat?.startsWith('bryusov'))      return darkMode ? 'bg-red-900/40 text-red-300' : 'bg-red-100 text-red-800';
-    if (cat?.startsWith('sologub'))      return darkMode ? 'bg-violet-900/40 text-violet-300' : 'bg-violet-100 text-violet-800';
-    if (cat?.startsWith('blok'))         return darkMode ? 'bg-blue-900/40 text-blue-300' : 'bg-blue-100 text-blue-800';
-    if (cat?.startsWith('balmont'))      return darkMode ? 'bg-emerald-900/40 text-emerald-300' : 'bg-emerald-100 text-emerald-800';
-    if (cat?.startsWith('tsvetaeva'))       return darkMode ? 'bg-rose-900/40 text-rose-300'     : 'bg-rose-100 text-rose-800';
-    if (cat?.startsWith('rimbaud'))      return darkMode ? 'bg-amber-900/40 text-amber-300'   : 'bg-amber-100 text-amber-800';
-    if (cat?.startsWith('verlaine'))     return darkMode ? 'bg-violet-900/40 text-violet-300' : 'bg-violet-100 text-violet-800';
-    if (cat?.startsWith('gautier'))      return darkMode ? 'bg-cyan-900/40 text-cyan-300' : 'bg-cyan-100 text-cyan-800';
-    if (cat?.startsWith('poe'))        return darkMode ? 'bg-red-900/40 text-red-300' : 'bg-red-100 text-red-800';
-    if (cat?.startsWith('wilde'))        return darkMode ? 'bg-teal-900/40 text-teal-300' : 'bg-teal-100 text-teal-800';
-    if (cat?.startsWith('dowson'))        return darkMode ? 'bg-amber-900/40 text-amber-300' : 'bg-amber-100 text-amber-800';
-    if (cat?.startsWith('swinburne'))    return darkMode ? 'bg-indigo-900/40 text-indigo-300' : 'bg-indigo-100 text-indigo-800';
-    if (cat?.startsWith('rossetti_c'))       return darkMode ? 'bg-rose-900/40 text-rose-300'     : 'bg-rose-100 text-rose-800';
-    if (cat?.startsWith('d_g_rossetti'))       return darkMode ? 'bg-violet-900/40 text-violet-300' : 'bg-violet-100 text-violet-800';
-    if (cat?.startsWith('yeats'))        return darkMode ? 'bg-amber-900/40 text-amber-300'   : 'bg-amber-100 text-amber-800';
-    if (cat?.startsWith('george'))       return darkMode ? 'bg-teal-900/40 text-teal-300' : 'bg-teal-100 text-teal-800';
-    if (cat?.startsWith('hofmannsthal')) return darkMode ? 'bg-yellow-900/40 text-yellow-400' : 'bg-yellow-200 text-yellow-900';
-    if (cat?.startsWith('trakl'))        return darkMode ? 'bg-blue-900/40 text-blue-400' : 'bg-blue-200 text-blue-900';
-    if (cat?.startsWith('hoelderlin'))   return darkMode ? 'bg-indigo-900/40 text-indigo-300' : 'bg-indigo-100 text-indigo-800';
-    if (cat?.startsWith('rilke')) return darkMode ? 'bg-amber-900/40 text-amber-300' : 'bg-amber-100 text-amber-800';
-    return darkMode ? 'bg-zinc-800 text-zinc-300' : 'bg-stone-100 text-stone-700';
+  // カテゴリ名から著者キーを取得（例: racine_phedre -> racine）
+    const authorKey = Object.keys(AUTHOR_COLOR_MAP).find(key => cat?.startsWith(key)) || 'default';
+    const colors = AUTHOR_COLOR_MAP[authorKey];
+    return darkMode ? colors.dark : colors.light;
   };
 
   return (
