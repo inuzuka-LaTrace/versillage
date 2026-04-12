@@ -1136,7 +1136,7 @@ const handleTextChange = (textId) => {
       onClick={() => setViewMode('standard')}
       className={`flex flex-col items-center justify-center py-2 px-1 rounded-lg transition-all ${
         viewMode === 'standard' 
-          ? (darkMode ? 'bg-amber-700 text-amber-100 shadow-sm' : 'bg-white text-stone-800 shadow-sm')
+          ? (darkMode ? 'bg-[#8a7a5a] text-amber-100 shadow-sm' : 'bg-white text-stone-800 shadow-sm')
           : (darkMode ? 'text-zinc-500 hover:text-zinc-400' : 'text-stone-500 hover:text-stone-700')
       }`}
     >
@@ -1149,7 +1149,7 @@ const handleTextChange = (textId) => {
       onClick={() => setViewMode('vertical')}
       className={`flex flex-col items-center justify-center py-2 px-1 rounded-lg transition-all ${
         viewMode === 'vertical' 
-          ? (darkMode ? 'bg-amber-700 text-amber-100 shadow-sm' : 'bg-white text-stone-800 shadow-sm')
+          ? (darkMode ? 'bg-[#8a7a5a] text-amber-100 shadow-sm' : 'bg-white text-stone-800 shadow-sm')
           : (darkMode ? 'text-zinc-500 hover:text-zinc-400' : 'text-stone-500 hover:text-stone-700')
       }`}
     >
@@ -1165,7 +1165,7 @@ const handleTextChange = (textId) => {
       onClick={() => setViewMode('side')}
       className={`flex flex-col items-center justify-center py-2 px-1 rounded-lg transition-all ${
         viewMode === 'side' 
-          ? (darkMode ? 'bg-amber-700 text-amber-100 shadow-sm' : 'bg-white text-stone-800 shadow-sm')
+          ? (darkMode ? 'bg-[#8a7a5a] text-amber-100 shadow-sm' : 'bg-white text-stone-800 shadow-sm')
           : (darkMode ? 'text-zinc-500 hover:text-zinc-400' : 'text-stone-500 hover:text-stone-700')
       }`}
     >
@@ -1225,7 +1225,7 @@ const handleTextChange = (textId) => {
                 <button key={val} onClick={() => setFontFamily(val)}
                   className={`py-2.5 px-3.5 text-xs rounded-lg text-left transition-all flex items-center justify-between font-IBM Plex sans JP
                     ${fontFamily === val
-                      ? darkMode ? 'bg-amber-700 text-amber-100 shadow-sm' : 'bg-stone-800 text-white shadow-sm'
+                      ? darkMode ? 'bg-[#8a7a5a] text-amber-100 shadow-sm' : 'bg-stone-800 text-white shadow-sm'
                       : darkMode ? 'bg-zinc-800 text-zinc-300 hover:bg-zinc-700' : 'bg-[#e8dfc0] text-[#4a3a28] hover:bg-[#e0d4b0]'}`}
                 >
                   <span>{label}</span>
@@ -1242,7 +1242,7 @@ const handleTextChange = (textId) => {
               {[['neutral','白黒'],['ink','金黒'],['red','赤'],['violet','紫']].map(([val, label], i) => (
                 <button key={val} onClick={() => setTransColor(val)}
                   className={`flex-1 py-2 text-xs font-IBM Plex sans JP transition-colors ${transColor === val
-                    ? darkMode ? 'bg-amber-700 text-amber-100' : 'bg-[#3a2e20] text-[#f5efe0]'
+                    ? darkMode ? 'bg-[#8a7a5a] text-amber-100' : 'bg-[#3a2e20] text-[#f5efe0]'
                     : darkMode ? 'text-zinc-400 hover:bg-zinc-800' : 'text-[#6b5a3a] hover:bg-[#e8dfc0]'
                   }${i > 0 ? ` border-l ${darkMode ? 'border-zinc-700' : 'border-[#c8b480]'}` : ''}`}>
                   {label}
@@ -1265,7 +1265,7 @@ const handleTextChange = (textId) => {
           onClick={() => setSpeechRate(key)}
           className={`py-2.5 px-3.5 text-xs rounded-lg text-left flex items-center justify-between font-IBM Plex sans JP transition-all
             ${isActive
-              ? darkMode ? 'bg-amber-700 text-amber-100 shadow-sm' : 'bg-stone-800 text-white shadow-sm'
+              ? darkMode ? 'bg-[#8a7a5a] text-amber-100 shadow-sm' : 'bg-stone-800 text-white shadow-sm'
               : darkMode ? 'bg-zinc-800 text-zinc-300 hover:bg-zinc-700' : 'bg-stone-100 text-stone-600 hover:bg-stone-200'}`}
         >
           {/* value.label (標準、ゆっくり、など) を表示 */}
@@ -1298,7 +1298,7 @@ const handleTextChange = (textId) => {
                 >
                   <span className={`text-sm ${textClass}`}>{label}</span>
                   <div className={`relative w-10 h-5 rounded-full transition-colors
-                    ${checked ? (darkMode ? 'bg-amber-600' : 'bg-stone-700') : (darkMode ? 'bg-zinc-700' : 'bg-stone-300')}`}>
+                    ${checked ? (darkMode ? 'bg-[#8a7a5a]' : 'bg-stone-700') : (darkMode ? 'bg-zinc-700' : 'bg-stone-300')}`}>
                     <div className={`absolute top-0.5 w-4 h-4 bg-white rounded-full shadow transition-transform
                       ${checked ? 'translate-x-5' : 'translate-x-0.5'}`} />
                   </div>
