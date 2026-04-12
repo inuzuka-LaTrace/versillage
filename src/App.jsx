@@ -1043,7 +1043,6 @@ export default function App() {
 
   return (
     <div className={`min-h-screen ${bgClass} relative`} style={{ fontFamily: fontFamilyStyle }}>
-
       {/* ─── 目次ドロワー ─────────────────────────────────── */}
       {showToc && <TocDrawer
       showToc={showToc}
@@ -2212,19 +2211,21 @@ const TocDrawer = ({
     return (
       <>
         {/* ── オーバーレイ ── */}
-        <div
-          className="fixed inset-0 z-40 bg-black/50 backdrop-blur-sm"
-          onClick={() => setShowToc(false)}
-        />
+    <div
+      className={`fixed inset-0 z-[100] bg-black/50 backdrop-blur-sm transition-opacity duration-300 ${
+        showToc ? 'opacity-100 pointer-events-auto' : 'opacity-0 pointer-events-none'
+      }`}
+      onClick={() => setShowToc(false)}
+    />
 
-        {/* ── ドロワー本体 ── */}
-        <div
-          className={`fixed top-0 left-0 h-full z-50 flex flex-col shadow-2xl
-            transition-transform duration-300 ease-in-out
-            ${showToc ? 'translate-x-0' : '-translate-x-full'}
-            ${tocBg} border-r ${tocBorder}`}
-          style={{ width: '360px', fontFamily: '"EB Garamond", "Shippori Mincho B1", serif' }}
-        >
+    {/* ── ドロワー本体 ── */}
+    <div
+      className={`fixed top-0 left-0 h-full z-[110] flex flex-col shadow-2xl
+        transition-transform duration-300 ease-in-out transform
+        ${showToc ? 'translate-x-0' : '-translate-x-full'}
+        ${tocBg} border-r ${tocBorder}`}
+      style={{ width: '360px', fontFamily: '"EB Garamond", "Shippori Mincho B1", serif' }}
+    >
           {/* ── ヘッダー ── */}
           <div className={`flex items-center justify-between px-4 py-3 border-b ${tocBorder} shrink-0 ${tocHeaderBg}`}>
             <span className={`text-xs tracking-[0.2em] uppercase font-Shippori Mincho B1 ${tocDim}`}>目次</span>
