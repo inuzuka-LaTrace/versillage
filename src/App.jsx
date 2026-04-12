@@ -1044,7 +1044,7 @@ export default function App() {
   return (
     <div className={`min-h-screen ${bgClass} relative`} style={{ fontFamily: fontFamilyStyle }}>
       {/* ─── 目次ドロワー ─────────────────────────────────── */}
-      {showToc && <TocDrawer
+      <TocDrawer
       showToc={showToc}
       setShowToc={setShowToc}
       darkMode={darkMode}
@@ -1057,7 +1057,7 @@ export default function App() {
       tocOpenAuthors={tocOpenAuthors}
       setTocOpenAuthors={setTocOpenAuthors}
       handleTextChange={handleTextChange}
-      />}
+      />
 
       {/* ─── サイドドロワー オーバーレイ ─────────────────── */}
       {showSettings && (
