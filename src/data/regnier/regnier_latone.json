@@ -1,0 +1,89 @@
+{
+  "id": "regnier_latone",
+  "title": "Latone",
+  "author": "Henri de Régnier",
+  "source": "La Cité des eaux, Mercure de France, s.d. (15e éd.), p. 26; https://fr.wikisource.org/wiki/Latone_(Régnier)",
+  "year": "1902",
+  "firstPublication": "La Cité des eaux, Mercure de France, 1902",
+  "difficulty": "中級",
+  "category": "regnier",
+  "originalLang": "fr-FR",
+  "modernRelevance": "★★★☆☆",
+  "context": "詩集『水の都（La Cité des eaux）』（1902）所収。「Le Socle」に続く第14詩。ソネット形式（4・4・3・3行）。§1・§2が詩集全体を貫いてきた庭園要素──キンコンス（五点樹林）・黄楊・イチイ・糸杉・岩庭・水器・噴水・彫像・ヘルメス像・公園──の集大成的な列挙として機能し、§3の「夢想する沈黙と退くエコーが薄暮の甘美さを揺り籠に揺らす、思い出の中ですべてが元のままである」という叙情的な認識論的宣言へと至る。§4の「太ったカエルが黄金に蹲って細身のラトナに挨拶し続ける」という閉幕が詩集全体の廃墟美学を笑いとも哀愁ともとれる光景として締めくくる。ラトナ（Latone）はヴェルサイユ庭園に実在するラトナの噴水彫刻で、農民たちがカエルに変えられる神話を表現する。",
+  "keywords": [
+    "ラトナ",
+    "カエル",
+    "キンコンス",
+    "薄暮の甘美さ",
+    "思い出",
+    "沈黙と木霊",
+    "庭園要素の集大成",
+    "緑の水"
+  ],
+  "relatedTexts": [
+    "regnier_salut_versailles",
+    "regnier_la_facade",
+    "regnier_l_odeur",
+    "regnier_le_socle",
+    "regnier_le_bassin_vert",
+    "verlaine_clair_de_lune"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "verses": "v.1–4",
+      "original": "Le quinconce, le buis, les ifs et les cyprès,\nLa rocaille coquette et la vasque pensive\nD'où s'épanche ou jaillit l'onde dolente ou vive\nQui fait l'allée en pleurs ou le carrefour frais ;",
+      "provisionalTranslation": "キンコンス、黄楊、イチイ群と糸杉、\nこぢんまりとした岩庭と物思いにふける水器、\nそこから悲しげかあるいは活発な波が溢れるか噴き出して\n並木道を涙で満たすか交差路を涼しくする；"
+    },
+    {
+      "id": 2,
+      "verses": "v.5–8",
+      "original": "La fontaine qui jase et le bassin auprès\nQui stagne et que tarit la fissure furtive,\nLa statue et l'hermès que la mousse enjolive\nEt le parc qui finit en lointains de forêts ;",
+      "provisionalTranslation": "おしゃべりをする噴水と傍らの水盤、\nそこで水が滞り、ひそやかな亀裂が枯らす、\n苔が美しく飾る彫像とヘルメス像、\nそして森の遠景で終わる公園；"
+    },
+    {
+      "id": 3,
+      "verses": "v.9–11",
+      "original": "Le Silence qui songe et l'Écho qui recule\nBercent la douceur d'être en ce beau crépuscule\nOù, dans le souvenir, tout reste ce qu'il fut,",
+      "provisionalTranslation": "夢想する沈黙と退く木霊が\nこの美しい薄暮に在ることの甘美さを揺り籠に揺らす、\nそこでは、思い出の中に、すべてが元のままである、"
+    },
+    {
+      "id": 4,
+      "verses": "v.12–14",
+      "original": "Et, parmi l'eau verdie où s'effeuille l'automne,\nToujours s'obstine, en or accroupi, le salut\nDe l'obèse grenouille à la svelte Latone.",
+      "provisionalTranslation": "そして、秋が葉を散らす緑色の水の中で、\n黄金に蹲りながら、いつまでも頑強に続く、\n太ったカエルの細身のラトナへの挨拶が。"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "prosody",
+      "anchor": null,
+      "body": "全14行のソネット形式（quatrain・quatrain・tercet・tercet）。12音節アレクサンドラン。韻はABBAのエンブラッセ韻──cyprès／auprès（A）、pensive／vive（B）。§1・§2が詩集全体の庭園要素を集大成的に列挙する8行の主語節として機能し、§3の「Bercent（揺り籠に揺らす）」という述語でようやく統語的に閉じる──14行が一文の中に収まる壮大な文構造。§1・§2の列挙が「Le Silence qui songe et l'Écho qui recule（夢想する沈黙と退く木霊）」という詩集の主要抽象名詞を主語として、§3の「薄暮の甘美さ」という感覚的経験を目的語として抱き込む。§4の太ったカエルという具体的・滑稽な存在が詩集全体の廃墟的崇高さに対する逆打ちとして閉幕する。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "glossary",
+      "anchor": "Le quinconce, le buis, les ifs et les cyprès,\nLa rocaille coquette et la vasque pensive\nD'où s'épanche ou jaillit l'onde dolente ou vive\nQui fait l'allée en pleurs ou le carrefour frais ;",
+      "body": "詩集全体の庭園語彙の集約的回帰──quinconce（五点樹林配置・キンコンス）はフランス式庭園で5本の木を正方形の四隅と中心に配置する古典的技法；buis（黄楊）は「L'Odeur」§4の「l'amère odeur du buis（黄楊の苦い匂い）」の主役；ifs（イチイ）・cyprès（糸杉）は「Le Socle」§3の「l'if est dur ; le cyprès nu（イチイは硬い；糸杉は裸）」の反響。「onde dolente ou vive（悲しげか活発な波）」という二項が「Salut à Versailles」§10の「L'onde ne chante plus（波はもはや歌わない）」と対比される──ここでは水はまだ二つの様態（dolente・vive）として運動する。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "glossary",
+      "anchor": "La fontaine qui jase et le bassin auprès\nQui stagne et que tarit la fissure furtive,\nLa statue et l'hermès que la mousse enjolive",
+      "body": "「おしゃべりをする噴水と傍らの水盤、そこで水が滞り、ひそやかな亀裂が枯らす、苔が美しく飾る彫像とヘルメス像」。対立する水の動態──「jase（おしゃべりをする）」という擬人化された活発な噴水と「stagne（滞る）」という停止した水盤。「fissure furtive（ひそやかな亀裂）」という語が水盤の漏水を詩的に定義する──廃墟化は外部からの暴力でなく内側からのひそやかな亀裂として進む。「la mousse enjolive（苔が美しく飾る）」──苔は通常廃墟の記号だが、ここでは「enjoliver（美しく飾る）」という動詞がその廃墟化を装飾として肯定する。「L'Odeur」§4の「les hermès et les blanches statues（ヘルメス像と白い彫像たち）」が反響する。"
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "Le Silence qui songe et l'Écho qui recule\nBercent la douceur d'être en ce beau crépuscule\nOù, dans le souvenir, tout reste ce qu'il fut,",
+      "body": "「夢想する沈黙と退く木霊が、この美しい薄暮に在ることの甘美さを揺り籠に揺らす、思い出の中に、すべてが元のままである」。詩集全体の廃墟哲学の認識論的要約──「le souvenir（思い出）」という語が廃墟を時間的廃棄でなく記憶の保存として定義する。「tout reste ce qu'il fut（すべてが元のままである）」という命題が「Le Bassin rose」§4の「Le Temps, qui survit à ce qu'il a été（時間は自らがかつてあったものに生き残る）」という時間の格言と対応する──しかし時間の働きが過剰（trop）として記述されるのに対し、ここでは思い出の中での完全な保存として記述される。「Écho qui recule（退く木霊）」──詩集内の木霊系列の中で唯一「退く」という後退の動詞が付与される木霊。"
+    },
+    {
+      "paragraphId": 4,
+      "type": "commentary",
+      "anchor": "Et, parmi l'eau verdie où s'effeuille l'automne,\nToujours s'obstine, en or accroupi, le salut\nDe l'obèse grenouille à la svelte Latone.",
+      "body": "詩の閉幕。ラトナ（Latone）はアポロンとダイアナの母・ゼウスの愛人であるティタン神族の女神──ヴェルサイユのラトナの噴水（André Le Nôtre設計・Gaspard et Balthazar Marsy制作）は、農民たちをカエルに変えることをゼウスに頼んだラトナの神話を表現する。「obèse grenouille（太ったカエル）」と「svelte Latone（細身のラトナ）」という対置の滑稽さが詩集全体の廃墟的崇高を意表を突く笑いで破る──詩集がツェン全体を「夢と沈黙と孤独の墓（Le Socle）」という格調ある命題で閉じようとした直後に、太ったカエルの滑稽な挨拶が「いつまでも頑強に（toujours s'obstine）」続く。「l'eau verdie où s'effeuille l'automne（秋が葉を散らす緑色の水）」が「Le Bassin vert」§1の「eau verdie」という詩集の緑の水を再召喚する。"
+    }
+  ]
+}
