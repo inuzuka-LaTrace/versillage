@@ -1,0 +1,91 @@
+{
+  "id": "regnier_fete_d_eau",
+  "title": "Fête d'eau",
+  "author": "Henri de Régnier",
+  "source": "La Cité des eaux, Mercure de France, s.d. (15e éd.), p. 27; https://fr.wikisource.org/wiki/Fête_d'eau",
+  "year": "1902",
+  "firstPublication": "La Cité des eaux, Mercure de France, 1902",
+  "difficulty": "中級",
+  "category": "regnier",
+  "originalLang": "fr-FR",
+  "modernRelevance": "★★★★☆",
+  "context": "詩集『水の都（La Cité des eaux）』（1902）所収。「Latone」に続く第14詩。ソネット形式（4・4・3・3行）。「Latone」の太ったカエルを受け継ぎながら、§1がイルカ・トリトン・カエルという水の祝宴の出演者を列挙し、§2が噴水の水の動態──落ちる水盤・濡らす水柱・増減する水幕・虹色にする水煙──を視覚的に描写する。§3の「すべての水・クリスタル・喜びの祝宴が交差し笑い散らばり粉となって、魔法にかかった公園の中で夕べとともに沈黙した」という過去形の宣言が祝宴の終焉を告げ、§4の「沈黙の中で再び鏡となった穏やかな水盤の傍らに、イチイの噴水と糸杉の水柱が噴き出すのが見える」という逆説的な閉幕──祝宴の喧騒が消えた後に残る植物の静かな水が顕れる──へと至る。詩集全体を通じて最も音響的・動的な詩。",
+  "keywords": [
+    "水の祝宴",
+    "イルカ",
+    "トリトン",
+    "水の動態",
+    "祝宴の終焉",
+    "再び鏡となる水",
+    "イチイの噴水",
+    "糸杉の水柱"
+  ],
+  "relatedTexts": [
+    "regnier_salut_versailles",
+    "regnier_latone",
+    "regnier_l_encelade",
+    "regnier_le_bassin_noir",
+    "regnier_le_socle",
+    "verlaine_clair_de_lune"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "verses": "v.1–4",
+      "original": "Le dauphin, le triton et l'obèse grenouille\nDiamantant d'écume et d'or Latone nue,\nDivinité marine au dos de la tortue,\nDieu fluvial riant de l'eau qui le chatouille ;",
+      "provisionalTranslation": "イルカ、トリトン、そして太ったカエルが\n泡と黄金で裸のラトナをダイヤモンドで飾り、\n亀の背の海の神、\n自らをくすぐる水に笑う河の神；"
+    },
+    {
+      "id": 2,
+      "verses": "v.5–8",
+      "original": "La vasque qui retombe ou la gerbe qui mouille,\nLa nappe qui décroît, se gonfle ou diminue,\nEt la poussière humide irisant la statue\nDont s'emperle la mousse ou s'avive la rouille ;",
+      "provisionalTranslation": "落ちる水盤か、濡らす水柱か、\n減るか膨らむか縮むかする水幕、\nそして彫像を虹色に染める水煙、\nそこに苔が真珠をまとい錆が鮮やかになる；"
+    },
+    {
+      "id": 3,
+      "verses": "v.9–11",
+      "original": "Toute la fête d'eau, de cristal et de joie\nQui s'entrecroise, rit, s'éparpille et poudroie,\nDans le parc enchanté s'est tue avec le soir ;",
+      "provisionalTranslation": "交差し笑い散らばり粉となる\n水・クリスタル・喜びの祝宴のすべてが、\n魔法にかかった公園の中で夕べとともに沈黙した；"
+    },
+    {
+      "id": 4,
+      "verses": "v.12–14",
+      "original": "Et parmi le silence on voit jaillir, auprès\nDu tranquille bassin redevenu miroir,\nLa fontaine de l'if et le jet du cyprès.",
+      "provisionalTranslation": "そして沈黙の中で噴き出すのが見える、\n再び鏡となった穏やかな水盤の傍らに、\nイチイの噴水と糸杉の水柱が。"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "prosody",
+      "anchor": null,
+      "body": "全14行のソネット形式（quatrain・quatrain・tercet・tercet）。12音節アレクサンドラン。韻はABBAのエンブラッセ韻──grenouille／mouille（A）、nue／tortue（B）。詩全体の時間的構造は祭の喧騒から沈黙への移行──§1・§2が現在形・現在進行形で水の祝宴の動的な活動を描写し、§3の「s'est tue（沈黙した）」という複合過去が祭の終焉を過去として定位し、§4の「on voit jaillir（噴き出すのが見える）」という現在形が祭後の静寂の中の残余の運動を提示する。「Latone」の太ったカエルが詩冒頭で再登場し（obèse grenouille）、「Le Socle」§3の「l'if est dur ; le cyprès nu（イチイは硬い；糸杉は裸）」が最終行で「la fontaine de l'if et le jet du cyprès（イチイの噴水と糸杉の水柱）」として逆転する──廃墟化した植物が最後に噴水として動く。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "glossary",
+      "anchor": "Le dauphin, le triton et l'obèse grenouille\nDiamantant d'écume et d'or Latone nue,",
+      "body": "「イルカ、トリトン、そして太ったカエルが、泡と黄金で裸のラトナをダイヤモンドで飾る」。「Latone」の閉幕の太ったカエルが詩集内で継続する珍しい連続性──前詩の「滑稽な」存在が次詩の開幕でそのまま登場する。「Diamantant（ダイヤモンドで飾る）」という現在分詞の動詞化が噴水の飛沫を宝石化する──「Fleurs」のランボーにおける鉱物と植物の混淆と同様の、水を貴石として結晶化させる操作。「Divinité marine au dos de la tortue（亀の背の海の神）」はヴェルサイユ庭園の彫像群への言及──トリトンは亀の甲羅の上に立つ像として造形されることがある。",
+      "targetId": "rimbaud_fleurs",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 2,
+      "type": "glossary",
+      "anchor": "La nappe qui décroît, se gonfle ou diminue,\nEt la poussière humide irisant la statue\nDont s'emperle la mousse ou s'avive la rouille ;",
+      "body": "「減るか膨らむか縮むかする水幕、そして彫像を虹色に染める水煙、そこに苔が真珠をまとい錆が鮮やかになる」。水の動態の精緻な記述──nappe（水幕・水平に広がる水）が「décroît・se gonfle・diminue」という三動詞で変動する。「poussière humide irisant（虹色に染める水煙）」──水の微粒子がプリズム効果を生じさせる物理的現象の詩的描写。「s'emperle la mousse（苔が真珠をまとう）」という動詞が水滴を真珠として苔に付与する宝石化；「s'avive la rouille（錆が鮮やかになる）」──水に濡れて錆が鮮やかな赤を帯びるという観察が廃墟の素材を水によって活性化させる。"
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "Toute la fête d'eau, de cristal et de joie\nQui s'entrecroise, rit, s'éparpille et poudroie,\nDans le parc enchanté s'est tue avec le soir ;",
+      "body": "「交差し笑い散らばり粉となる、水・クリスタル・喜びの祝宴のすべてが、魔法にかかった公園の中で夕べとともに沈黙した」。詩集全体で最も音響的に豊かな三行──s'entrecroise（交差する）・rit（笑う）・s'éparpille（散らばる）・poudroie（粉となる）という四動詞が祭の多様な動きを凝縮する。「s'est tue（沈黙した）」という複合過去の一語が前の行の騒々しい動詞群を一挙に終止させる。「parc enchanté（魔法にかかった公園）」という形容詞が「Salut à Versailles」§9の「la Cité des Eaux（水の都）」という詩集の別名と同一の魔法的空間を指示する。「La Façade」§4の「chaque soir（毎晩）」という夕べの蘇生と逆転して、ここでは夕べが祝宴の終焉として機能する。"
+    },
+    {
+      "paragraphId": 4,
+      "type": "commentary",
+      "anchor": "Et parmi le silence on voit jaillir, auprès\nDu tranquille bassin redevenu miroir,\nLa fontaine de l'if et le jet du cyprès.",
+      "body": "詩の閉幕。「tranquille bassin redevenu miroir（再び鏡となった穏やかな水盤）」──「redevenu（再び〜となった）」という複合形容詞が祭の騒動によって乱されていた水面が本来の鏡状態に戻ることを記述する。「Le Bassin vert」§2の「miroir fluide qu'il parodie（パロディ化する流れる鏡）」・「Le Bassin noir」§3の「ébène du miroir（ミラーの烏檀）」という詩集の鏡の系列の最終形──祭の後に戻る穏やかな鏡として。「la fontaine de l'if et le jet du cyprès（イチイの噴水と糸杉の水柱）」──「Le Socle」§3の「l'if est dur（イチイは硬い）」・「le cyprès nu（糸杉は裸）」という廃墟化した植物が、今や「噴水（fontaine）」と「水柱（jet）」として水を噴出する主体として逆転する。詩集全体を通じて廃墟の記号であった植物（イチイ・糸杉）が、祝宴の喧騒が去った後の静寂の中でひそやかに噴水として機能するという最終的な逆転。"
+    }
+  ]
+}
