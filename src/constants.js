@@ -96,6 +96,23 @@ export const CAT_SHORT = {
   yeats:                   'イェイツ',
 };
 
+export const SPEAKER_COLORS = [
+              { light: 'bg-violet-100 text-violet-800 border-violet-300',  dark: 'bg-violet-900/40 text-violet-200 border-violet-700' },
+              { light: 'bg-sky-100 text-sky-800 border-sky-300',           dark: 'bg-sky-900/40 text-sky-200 border-sky-700' },
+              { light: 'bg-rose-100 text-rose-800 border-rose-300',        dark: 'bg-rose-900/40 text-rose-200 border-rose-700' },
+              { light: 'bg-teal-100 text-teal-800 border-teal-300',        dark: 'bg-teal-900/40 text-teal-200 border-teal-700' },
+              { light: 'bg-amber-100 text-amber-800 border-amber-300',     dark: 'bg-amber-900/40 text-amber-200 border-amber-700' },
+              { light: 'bg-indigo-100 text-indigo-800 border-indigo-300',  dark: 'bg-indigo-900/40 text-indigo-200 border-indigo-700' },
+              { light: 'bg-emerald-100 text-emerald-800 border-emerald-300', dark: 'bg-emerald-900/40 text-emerald-200 border-emerald-700' },
+              { light: 'bg-orange-100 text-orange-800 border-orange-300',  dark: 'bg-orange-900/40 text-orange-200 border-orange-700' },
+];
+
+export const SPEAKER_FIXED_COLORS = {
+  'Dante-narratore': { light: 'bg-stone-100 text-stone-600 border-stone-300', dark: 'bg-zinc-800 text-zinc-300 border-zinc-600' },
+  'Dante':           { light: 'bg-sky-100 text-sky-800 border-sky-300',       dark: 'bg-sky-900/40 text-sky-200 border-sky-700' },
+  'Virgilio':        { light: 'bg-violet-100 text-violet-800 border-violet-300', dark: 'bg-violet-900/40 text-violet-200 border-violet-700' },
+};
+
 // 注釈タイプ定義（ラベル・カラークラス）
 // darkMode に依存しないよう light/dark を両方持つ
 export const ANNOTATION_TYPE_DEF = {
