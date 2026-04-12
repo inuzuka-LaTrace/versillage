@@ -46,7 +46,7 @@ import swinburneData from './data/swinburne';
 import rossetti_cData from './data/rossetti_c';
 import d_g_rossettiData from './data/d_g_rossetti';
 import yeatsData from './data/yeats';
-import { CATEGORIES, CAT_SHORT, ANNOTATION_TYPE_DEF, SPEECH_RATES, PREFERRED_VOICES, SPEAKER_COLORS, SPEAKER_FIXED_COLORS, AUTHOR_COLOR_MAP } from './constants';
+import { CATEGORIES, CAT_SHORT, ANNOTATION_TYPE_DEF, SPEECH_RATES, PREFERRED_VOICES, SPEAKER_COLORS, SPEAKER_FIXED_COLORS, AUTHOR_COLOR_MAP, INK_MASK_SVG } from './constants';
 import { getTranslation, getOriginalText, getSpeechLang, getBestVoice, extractSnippet } from './utils';
 
 // getTranslation, getOriginalText, getSpeechLang, getBestVoice, PREFERRED_VOICES, SPEECH_RATES → constants.js / utils.js
@@ -176,6 +176,8 @@ export default function App() {
     speak(fullText, getSpeechLang(textObj), 'all');
   };
 
+  const [isTransitioning, setIsTransitioning] = useState(false);
+  
   const [displayAuthor, setDisplayAuthor] = useState("");
   
   useEffect(() => {
@@ -288,8 +290,8 @@ export default function App() {
   }, []);
   
   // --- ステート・参照の定義 ---
-  const [isScrollingDown, setIsScrollingDown] = useState(false);
-  const [showScrollTop, setShowScrollTop] = useState(false);
+  const [isScrollingDown, setIsScrollingDown] = (false);
+  const [showScrollTop, setShowScrollTop] = (false);
   const lastScrollY = useRef(0);
 
   useEffect(() => {
@@ -438,13 +440,29 @@ export default function App() {
     pushParaHash(textId, paraId);
   };
 
-  // テキスト切り替え（状態リセット + URL更新 + テキスト情報へスクロール）
+  // ─── テキスト切り替え（インク滲み出しトランジション付き） ────────
   const handleTextChange = (textId) => {
-    resetTextState(textId);
-    pushTextHash(textId);
+    if (selectedText === textId) return; // 同じテキストなら何もしない
+
+    // 1. トランジション開始（インクが滲み出す）
+    setIsTransitioning(true);
+
+    // 2. アニメーションの途中（0.5秒後、画面がインクでほぼ覆われた瞬間）にテキストを切り替える
     setTimeout(() => {
-      scrollToEl(textInfoRef.current);
-    }, 80);
+      resetTextState(textId);
+      pushTextHash(textId);
+      // 目次を閉じる
+      setShowToc(false);
+    }, 500);
+
+    // 3. アニメーション終了（1秒後、画面全体がインクになる）、オーバーレイを消す
+    setTimeout(() => {
+      setIsTransitioning(false);
+      // 少し待ってからテキスト情報へスクロール
+      setTimeout(() => {
+        scrollToEl(textInfoRef.current, false); // スムーズスクロールはOFF
+      }, 50);
+    }, 1000);
   };
 
   const toggleParagraph = (id) => {
@@ -461,7 +479,7 @@ export default function App() {
   const expandAll = () => setCollapsedParagraphs({});
 
   // 注釈インデックス
-  const [showAnnotationIndex, setShowAnnotationIndex] = useState(false);
+  const [showAnnotationIndex, setShowAnnotationIndex] = usestate(false);
   // intertextualインライン展開: key = `${paraId}-${annIdx}`
   const [intertextualExpanded, setIntertextualExpanded] = useState({});
 
@@ -2054,6 +2072,16 @@ export default function App() {
     <ChevronUp size={24} />
   </button>
 )}
+      {/* ─── インク滲み出し トランジション オーバーレイ ─────── */}
+      {isTransitioning && (
+        <div 
+          className="fixed inset-0 z-[150] pointer-events-none ink-transition-active"
+          style={{
+            // ダークモード時は漆黒、ライトモード時はインク色（#1a1208）
+            backgroundColor: darkMode ? '#000' : '#1a1208',
+          }}
+        />
+      )}
     </div>
   );
 }
