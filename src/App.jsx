@@ -461,8 +461,8 @@ const handleTextChange = (textId) => {
       setTimeout(() => {
         scrollToEl(textInfoRef.current, false);
       }, 50);
-    }, 100); 
-  }, 500); // 闇が深まるまでの時間
+    }, 50); 
+  }, 300); // 闇が深まるまでの時間
 };
   
   const toggleParagraph = (id) => {
@@ -1034,7 +1034,7 @@ const handleTextChange = (textId) => {
       /* 真っ黒ではなく、少し青みや茶みのある「インクのような闇」 */
       background-color: ${darkMode ? '#000000' : '#1a1208'};
       pointer-events: none;
-      transition: opacity 0.5s ease-in-out;
+      transition: opacity 0.3s ease-in-out;
       opacity: 0;
       }
       
