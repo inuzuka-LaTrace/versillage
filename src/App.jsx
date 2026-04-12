@@ -2089,7 +2089,7 @@ const handleTextChange = (textId) => {
       Quare vanitatem repræsenta.
     </h2>
     <p 
-      style={{ fontFamily: '"Cinzel", serif', letterSpacing: '0.13em' }}
+      style={{ fontFamily: '"Cinzel", serif', letterSpacing: '0.1em' }}
       className={`text-[9px] max-w-xs mx-auto ${textSecondary}`}
     >
       VANITISME; L'archive d’ombres et de silence. <br />
