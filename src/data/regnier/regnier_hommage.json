@@ -1,0 +1,89 @@
+{
+  "id": "regnier_hommage",
+  "title": "Hommage",
+  "author": "Henri de Régnier",
+  "source": "La Cité des eaux, Mercure de France, s.d. (15e éd.), p. 39; https://fr.wikisource.org/wiki/Hommage_(Henri_de_R%C3%A9gnier)",
+  "year": "1902",
+  "firstPublication": "La Cité des eaux, Mercure de France, 1902",
+  "difficulty": "中級",
+  "category": "regnier",
+  "originalLang": "fr-FR",
+  "modernRelevance": "★★★★☆",
+  "context": "詩集『水の都（La Cité des eaux）』（1902）所収。「Fond de jardin」に続く第26詩。ソネット形式（4・4・3・3行）。詩集全体を通じて初めて一人称「J'écoute（私は聴く）」が現れる詩として際立つ──それまで三人称の叙述・擬人化・二人称の呼びかけとして提示されてきた詩集の視点が、ここで初めて詩人自身の聴覚的主体として顕在化する。§1で12月が公園を冬の支配下に置く──イチイを黒くし水盤を凍らせ黄楊に霜を撒き、愛（Amour）を風が噛む。§2で女神の彫像が蔦に締め付けられ、酔った牧神が瓶が固まるのを見ながらニンフを追う足が鞘に絡まれる。§3の「祭りは音楽と喜びとともに死んだ！冬が夏を老人にする・公園は死んでいるように見える」という三つの断言が詩集全体の廃滅の論理を総括し、§4の「しかし（Mais）」という転換が「影と死と風を通して、雪の中で歌う弱音のフルート」を不滅の音楽として対置する。",
+  "keywords": [
+    "一人称の出現",
+    "冬の廃滅",
+    "愛を噛む風",
+    "蔦に締め付けられた女神",
+    "酔った牧神",
+    "祭りの死",
+    "雪の中のフルート",
+    "不滅の音楽"
+  ],
+  "relatedTexts": [
+    "regnier_fond_de_jardin",
+    "regnier_l_ile",
+    "regnier_le_repos",
+    "regnier_salut_versailles",
+    "mallarme_sainte",
+    "verlaine_chanson_dautomne"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "verses": "v.1–4",
+      "original": "Décembre a noirci l'if et gelé le bassin,\nLe buis silencieux est saupoudré de givre,\nL'aurore est d'acier clair et le couchant de cuivre,\nLe vent, qui rôde, hurle et mord l'Amour au sein.",
+      "provisionalTranslation": "12月がイチイを黒くし水盤を凍らせた、\n沈黙した黄楊は霜で白く覆われ、\n夜明けは鋼のように明るく夕暮れは銅色、\n徘徊する風が吠えて愛の胸元を噛む。"
+    },
+    {
+      "id": 2,
+      "verses": "v.5–8",
+      "original": "La Déesse frissonne et le lierre assassin\nÉtouffe la statue à la gorge. Un Faune ivre\nVoit l'outre se durcir, et son pas qui veut suivre\nLa Nymphe, sent monter la gaîne qui l'étreint.",
+      "provisionalTranslation": "女神が戦慄し、暗殺者の蔦が\n像の喉を締め付ける。酔った牧神は\n皮袋が固まるのを見ながら、ニンフを追おうとする足に\n締め上げてくる鞘が這い上がるのを感じる。"
+    },
+    {
+      "id": 3,
+      "verses": "v.9–11",
+      "original": "La fête est morte avec sa musique et sa joie !\nL'Hiver fait un vieillard de l'Été qu'il coudoie\nEt le parc semble mort qui fut jadis vivant.",
+      "provisionalTranslation": "祭りは音楽と喜びとともに死んだ！\n冬が隣で肘で突く夏を老人にする、\nかつて生きていた公園は死んでいるように見える。"
+    },
+    {
+      "id": 4,
+      "verses": "v.12–14",
+      "original": "Mais, immortelle encor par la gamme et l'arpège,\nJ'écoute, à travers l'ombre et la mort et le vent,\nUne flûte à mi-voix qui chante dans la neige.",
+      "provisionalTranslation": "しかし、音階とアルペジョによってまだ不滅であるものを、\n私は聴く、影と死と風を通して、\n雪の中で弱音で歌うフルートを。"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "prosody",
+      "anchor": null,
+      "body": "全14行のソネット形式（quatrain・quatrain・tercet・tercet）。12音節アレクサンドラン。韻はABBAのエンブラッセ韻──bassin／sein（A）、givre／cuivre（B）。詩集全体の構造的転換点として、§4第13行に初めて一人称「J'écoute（私は聴く）」が現れる──それまで「on voit（見える）」「on entend（聞こえる）」という不定称の知覚・三人称叙述・「tu」による二人称呼びかけが交替してきた詩集の語りの主体が、ここで初めて詩人自身の聴覚的主体として顕在化する。§3の感嘆符（La fête est morte avec sa musique et sa joie !）が詩集全体で最も強烈な感情的断言として廃滅を宣言し、§4の「Mais（しかし）」という逆接が詩集の唯一の希望的転換として不滅の音楽を対置する。この「廃滅の宣言→しかし→不滅の音楽の聴取」という構造が詩集全体の「水の都」への「オマージュ（Hommage）」の論理として機能する。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "glossary",
+      "anchor": "Décembre a noirci l'if et gelé le bassin,\nLe buis silencieux est saupoudré de givre,\nL'aurore est d'acier clair et le couchant de cuivre,",
+      "body": "「12月がイチイを黒くし水盤を凍らせた、沈黙した黄楊は霜で白く覆われ、夜明けは鋼のように明るく夕暮れは銅色」。if（イチイ）──常緑の針葉樹でヨーロッパの墓地・庭園に植えられる死と永遠の植物；「noirci（黒くなった）」という完了形が冬による変色を過去の完了した事実として提示する。buis（黄楊）──「Hommage」§1の「Le buis silencieux（沈黙した黄楊）」が「Le Bouquet」§4の「l'odeur du buis amer（苦い黄楊の香り）」と呼応し、詩集の嗅覚・植物モチーフとして接続する。「L'aurore est d'acier clair et le couchant de cuivre（夜明けは鋼のように明るく夕暮れは銅色）」──冬の光を金属の色彩で表現する比喩；鋼（acier）の冷たい輝きと銅（cuivre）の暗い赤錆色が夜明けと夕暮れの冬の光質を対比する。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "La Déesse frissonne et le lierre assassin\nÉtouffe la statue à la gorge. Un Faune ivre\nVoit l'outre se durcir, et son pas qui veut suivre\nLa Nymphe, sent monter la gaîne qui l'étreint.",
+      "body": "「女神が戦慄し、暗殺者の蔦が像の喉を締め付ける。酔った牧神は皮袋が固まるのを見ながら、ニンフを追おうとする足に締め上げてくる鞘が這い上がるのを感じる」。詩集全体の彫刻群──「Les Statues」・「Le Socle」・「Leda」・「La Nymphe」──が冬の中で生体的苦痛を被る存在として再召喚される。「le lierre assassin（暗殺者の蔦）」──「Fond de jardin」§1の「le noir lierre（黒い蔦）」が「assassin（暗殺者）」という形容詞で殺害の主体として定義される。「un Faune ivre（酔った牧神）」──詩集の牧神（faune）系列（「L'Abandon」§3の「le faune qui rit sous le marbre du masque」・「La Rampe」）が冬によって運動能力を奪われた存在として提示される。「la gaîne qui l'étreint（締め上げてくる鞘）」──凍結による植物の鞘が牧神の足を締め付けるという身体的拘束が、詩集の彫刻の石化・固定という主題を生体的苦痛として反転させる。"
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "La fête est morte avec sa musique et sa joie !\nL'Hiver fait un vieillard de l'Été qu'il coudoie\nEt le parc semble mort qui fut jadis vivant.",
+      "body": "「祭りは音楽と喜びとともに死んだ！冬が隣で肘で突く夏を老人にする、かつて生きていた公園は死んでいるように見える」。三行のテルセットが三つの異なる時間的断言を提示する──「祭りの死（現在完了）」・「冬が夏を老人にする（現在）」・「公園が死んでいるように見える（現在・但し過去との対比 jadis）」。感嘆符（!）──詩集全体で最も強烈な感情的断言として廃滅を宣言する；それまでの詩が廃滅を叙述的に提示してきたのに対し、ここでは感情的断言として宣言する。「L'Hiver fait un vieillard de l'Été qu'il coudoie（冬が隣で肘で突く夏を老人にする）」──擬人化された冬と夏の対立；coudoyer（肘で突く・接する）という動詞が冬と夏を同一空間に存在する二者として提示する。「Intérieur」§2の「L'enfant résiste et le vieillard s'opiniâtre（子供は抵抗し老人は頑固になる）」という時間と愛の老人/子供の対立の季節的変奏。"
+    },
+    {
+      "paragraphId": 4,
+      "type": "commentary",
+      "anchor": "Mais, immortelle encor par la gamme et l'arpège,\nJ'écoute, à travers l'ombre et la mort et le vent,\nUne flûte à mi-voix qui chante dans la neige.",
+      "body": "詩の閉幕。「しかし、音階とアルペジョによってまだ不滅であるものを、私は聴く、影と死と風を通して、雪の中で弱音で歌うフルートを」。「Mais（しかし）」──詩集全体で最も重要な逆接として、§3の廃滅の宣言に対して音楽の不滅を対置する。「immortelle encor par la gamme et l'arpège（音階とアルペジョによってまだ不滅）」──音楽の技法的要素（音階・アルペジョ）が不滅性の根拠として提示される；「L'Île」§4の「qui sait si le chant…N'en filtre pas encor（歌がまだ滲み出るかどうか）」という問いに対する、ここでの「J'écoute（私は聴く）」という聴覚的確信による応答。「Une flûte à mi-voix qui chante dans la neige（雪の中で弱音で歌うフルートを）」──「Le Pavillon」§1の「la double flûte（二重笛）」・「L'Île」§2のハープという楽器系列の最終形として、フルートが冬の廃滅の極点（雪）においてなお歌い続ける。「à mi-voix（弱音で・半声で）」という副詞句が音楽の完全な消滅でも完全な顕現でもない中間状態──マラルメ「聖女」の「selon nul chantoire（音無き歌に従い）」と同一の、限界上の音楽の残存──として詩集全体を閉じる。"
+    }
+  ]
+}
