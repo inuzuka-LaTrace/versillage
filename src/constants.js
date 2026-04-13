@@ -48,6 +48,7 @@ export const CATEGORIES = {
   dowson:                     { name: 'ダウスン' },
   swinburne:                  { name: 'スウィンバーン' },
   yeats:                      { name: 'イェイツ' },
+  juan_de_la_cruz:            { name: '十字架の聖ヨハネ' },
 };
 
 // カテゴリー省略ラベル（バッジ表示用）
@@ -94,6 +95,7 @@ export const CAT_SHORT = {
   dowson:                  'ダウスン',
   swinburne:               'スウィンバーン',
   yeats:                   'イェイツ',
+  juan_de_la_cruz:         '十字架の聖ヨハネ',
 };
 
 export const AUTHOR_COLOR_MAP = {
@@ -135,6 +137,7 @@ export const AUTHOR_COLOR_MAP = {
   trakl:            { dark: 'bg-blue-900/40 text-blue-400',    light: 'bg-blue-200 text-blue-900' },
   hoelderlin:       { dark: 'bg-indigo-900/40 text-indigo-300', light: 'bg-indigo-100 text-indigo-800' },
   rilke:            { dark: 'bg-amber-900/40 text-amber-300',   light: 'bg-amber-100 text-amber-800' },
+  juan_de_la_cruz:  { dark: 'bg-violet-900/40 text-violet-300', light: 'bg-violet-100 text-violet-800' },
   default:          { dark: 'bg-zinc-800 text-zinc-300',       light: 'bg-stone-100 text-stone-700' }
 };
 
@@ -179,20 +182,8 @@ export const PREFERRED_VOICES = {
   'en': ['Daniel', 'Google UK English Female', 'Samantha', 'Google US English'],
   'it': ['Alice', 'Google italiano', 'Microsoft Elsa', 'Luca'], 
   'ru': ['Google русский', 'Microsoft Irina', 'Milena'],
+  'es': ['Monica', 'Google español', 'Microsoft Helena', 'Microsoft Sabina', 'Jorge', 'Juan'],
 };
 // constants.js の最下部に追加
-
-// ─── インク滲み出しマスク SVG (base64エンコード) ────────────────────
-// 上から下にインクが滴り落ち、画面全体を覆うアニメーション。
-export const INK_MASK_SVG = `data:image/svg+xml;charset=utf-8,${encodeURIComponent(`
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 1000" preserveAspectRatio="none">
-  <path fill="black">
-    <animate attributeName="d" dur="1s" fill="freeze" 
-      values="M0,0 L1000,0 L1000,0 L0,0 Z; 
-              M0,0 L1000,0 L1000,300 Q500,600 0,300 Z; 
-              M0,0 L1000,0 L1000,1000 L0,1000 Z" />
-  </path>
-</svg>
-`)}`;
 // フラッシュカード：長文除外しきい値（文字数）
 export const FC_MAX_CHARS = 300;
