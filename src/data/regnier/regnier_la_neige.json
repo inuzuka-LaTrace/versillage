@@ -1,0 +1,89 @@
+{
+  "id": "regnier_la_neige",
+  "title": "La Neige",
+  "author": "Henri de Régnier",
+  "source": "La Cité des eaux, Mercure de France, s.d. (15e éd.), p. 40; https://fr.wikisource.org/wiki/La_Neige_(Henri_de_R%C3%A9gnier)",
+  "year": "1902",
+  "firstPublication": "La Cité des eaux, Mercure de France, 1902",
+  "difficulty": "中級",
+  "category": "regnier",
+  "originalLang": "fr-FR",
+  "modernRelevance": "★★★★☆",
+  "context": "詩集『水の都（La Cité des eaux）』（1902）所収。「Hommage」に続く第27詩。ソネット形式（4・4・3・3行）。ホメロス『オデュッセイア』第8歌のデモドコスの歌──ウルカヌス（ヘパイストス）がマルス（アレス）とウェヌス（アフロディテ）の密通を黄金の網で捕らえる神話──をヴェルサイユ公園の彫刻群の冬景色として読み替える。§1で「狡猾な雪と巧みな沈黙」が並木道の突き当たりに嫉妬するウルカヌス・驚くマルス・裸のウェヌスを固定する。§2で白い雪が大理石を包みながら見張りと足音と来訪を聞こえなくさせ、侮辱を目撃する裏切られた夫の白髪の髭に白毛を撒く。§3で二者が永遠に雪の網の罠に捕らえられた囚われの二人として停止し、§4でウルカヌスが青銅の金床と黄銅のノミで銀の公園を打ち、銅の空を鍛造するという閉幕へと至る。詩集全体の彫刻・金属・冬のモチーフが神話的三角関係の永遠の固定という形象で結晶化される。",
+  "keywords": [
+    "ウルカヌス",
+    "マルス",
+    "ウェヌス",
+    "雪の網",
+    "密通の発覚",
+    "永遠の囚われ",
+    "銀の公園",
+    "銅の空"
+  ],
+  "relatedTexts": [
+    "regnier_hommage",
+    "regnier_les_statues",
+    "regnier_le_socle",
+    "regnier_leda",
+    "mallarme_herodiade_scene",
+    "dannunzio_donna_sarcofago"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "verses": "v.1–4",
+      "original": "La neige astucieuse et le silence adroit\nOnt immobilisé au bout de l'avenue\nVulcain jaloux et Mars surpris et Vénus nue.\nLa Déesse est couchée et l'Amant se tient droit.",
+      "provisionalTranslation": "狡猾な雪と巧みな沈黙が\n並木道の突き当たりに固定した、\n嫉妬するウルカヌスと驚くマルスと裸のウェヌスを。\n女神は横たわり、愛人は直立している。"
+    },
+    {
+      "id": 2,
+      "verses": "v.5–8",
+      "original": "Les blancs flocons qui emmaillent le marbre froid\nOnt assourdi le guet, le pas et la venue\nEt semé des poils blancs dans la barbe chenue\nDe l'Époux outragé de sa honte qu'il voit ;",
+      "provisionalTranslation": "冷たい大理石を包む白い雪片が\n見張りと足音と来訪を聞こえなくさせ、\n白い毛を撒いた、目撃する恥辱に侮辱される\n夫の白髪の髭の中に；"
+    },
+    {
+      "id": 3,
+      "verses": "v.9–11",
+      "original": "Et tous deux à jamais pris aux ruses du piège\nDans l'enchevêtrement du filet de la neige\nRestent, couple captif autour de qui Vulcain,",
+      "provisionalTranslation": "そして二人は永遠に罠の策略に捕らえられ\n雪の網の絡み合いの中に\n残る、囚われの二人として、その周りでウルカヌスが、"
+    },
+    {
+      "id": 4,
+      "verses": "v.12–14",
+      "original": "Farouche et les bras nus sous le gel et le givre,\nÀ l'enclume de bronze et d'un ciseau d'airain,\nMartèle un parc d'argent et forge un ciel de cuivre.",
+      "provisionalTranslation": "凶暴に、氷と霜の下で腕を剥き出しにして、\n青銅の金床と黄銅のノミで、\n銀の公園を打ち、銅の空を鍛造する。"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "prosody",
+      "anchor": null,
+      "body": "全14行のソネット形式（quatrain・quatrain・tercet・tercet）。12音節アレクサンドラン。韻はABBAのエンブラッセ韻──droit／voit（A）、avenue／nue（B）。「Hommage」と同様に§3・§4が統語的に一体化──「tous deux…Restent, couple captif autour de qui Vulcain, / Farouche…Martèle…et forge」という単一文がテルセット二連を跨いで継続し、三者の永遠の固定とウルカヌスの金属細工という二つの行為を同一の統語的弧の中に封じ込める。ホメロス『オデュッセイア』第8歌のデモドコスの歌──神々の前でウルカヌスがマルスとウェヌスを網で捕らえる神話──をヴェルサイユの冬の彫刻景として読み替えるという詩集の神話の庭園化の最も大胆な例。「Hommage」の金属色彩（鋼・銅）が「La Neige」の銀・青銅・黄銅・銅という錬金術的金属語彙の展開へと接続する。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "glossary",
+      "anchor": "La neige astucieuse et le silence adroit\nOnt immobilisé au bout de l'avenue\nVulcain jaloux et Mars surpris et Vénus nue.",
+      "body": "「狡猾な雪と巧みな沈黙が並木道の突き当たりにウルカヌスとマルスと裸のウェヌスを固定した」。「astucieuse（狡猾な）」・「adroit（巧みな）」──雪と沈黙が知性的・策略的主体として擬人化される；この二形容詞が神話においてウルカヌス自身が仕掛けた網の狡猾さを、冬の自然現象に転位させる。Vulcain（ウルカヌス）はローマ神話の鍛冶の神（ギリシャ名ヘパイストス）──醜く足の不自由な神として知られ、美の女神ウェヌスの夫；Mars（マルス）は戦争の神（アレス）、Vénus（ウェヌス）は愛と美の女神（アフロディテ）。「au bout de l'avenue（並木道の突き当たりに）」──ヴェルサイユ公園の噴水広場・彫刻群が配置される並木道の視点が、神話的三者を庭園彫刻として空間的に固定する。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "Les blancs flocons qui emmaillent le marbre froid\nOnt assourdi le guet, le pas et la venue\nEt semé des poils blancs dans la barbe chenue\nDe l'Époux outragé de sa honte qu'il voit ;",
+      "body": "「冷たい大理石を包む白い雪片が、見張りと足音と来訪を聞こえなくさせ、目撃する恥辱に侮辱される夫の白髪の髭の中に白い毛を撒いた」。「emmaillent（包む・産着で包む）」──emmailloter（産着で包む）の転用；雪が大理石の彫像を産着で包む乳幼児のように覆うという身体的比喩。「assourdi（聞こえなくさせた）」──「L'Île」§3の「l'accord final que le silence embaume（沈黙が香油を注ぐ最後の和音）」という音の封印に対応する聴覚的遮断；雪が密会の音（見張り・足音・来訪）を消す。「semé des poils blancs dans la barbe chenue（白髪の髭の中に白い毛を撒いた）」──雪が白髪の髭に降り積もることで、ウルカヌスの老いという侮辱を倍加させるという残酷な詳細；「l'Époux outragé de sa honte qu'il voit（目撃する恥辱に侮辱される夫）」という関係節の連鎖が屈辱の重層化を統語的に体現する。"
+    },
+    {
+      "paragraphId": 3,
+      "type": "allusion",
+      "anchor": "Et tous deux à jamais pris aux ruses du piège\nDans l'enchevêtrement du filet de la neige\nRestent, couple captif autour de qui Vulcain,",
+      "body": "「二人は永遠に罠の策略に捕らえられ、雪の網の絡み合いの中に残る、囚われの二人として、その周りでウルカヌスが」。ホメロス『オデュッセイア』第8歌（343–366行）への直接的典故──デモドコスの歌において、ウルカヌスは寝台に目に見えない黄金の網（δεσμοί）を仕掛けてマルスとウェヌスを捕らえ、神々の前に晒す。「à jamais（永遠に）」という副詞が神話の一時的捕縛を永遠の固定へと変質させる──ヴェルサイユの彫像が冬の雪の中で永遠に捕縛されたままであるという詩集の石化・固定の論理の神話的確定。「l'enchevêtrement du filet de la neige（雪の網の絡み合い）」──神話の黄金の網がここでは雪の網として自然化され、同時に詩集全体の水（液体）→氷→雪（固体）という物質変換の頂点として提示される。"
+    },
+    {
+      "paragraphId": 4,
+      "type": "glossary",
+      "anchor": "À l'enclume de bronze et d'un ciseau d'airain,\nMartèle un parc d'argent et forge un ciel de cuivre.",
+      "body": "詩の閉幕。「青銅の金床と黄銅のノミで、銀の公園を打ち、銅の空を鍛造する」。四種の金属──bronze（青銅）・airain（黄銅・古語的表現）・argent（銀）・cuivre（銅）──が密集して閉幕行に登場する；ウルカヌスの鍛冶という職業的属性が冬の公園全体を金属製の工芸品として再定義する。「Martèle un parc d'argent（銀の公園を打つ）」──雪に覆われた公園の白銀の景色が金属の打製として提示される；「forge un ciel de cuivre（銅の空を鍛造する）」──「Hommage」§1の「le couchant de cuivre（銅色の夕暮れ）」という冬の空の色彩が、ここではウルカヌスによって鍛造される金属工芸品として最終化される。詩集全体の庭園が最後の行でウルカヌスの工房として──つまり詩人が神話的職人として公園という作品を鍛造するという自己言及的な比喩として──完結する。"
+    }
+  ]
+}
