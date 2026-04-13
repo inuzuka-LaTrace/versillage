@@ -1,0 +1,123 @@
+{
+  "id": "juan_de_la_cruz_llama_de_amor_viva",
+  "title": "Llama de amor viva",
+  "author": "Juan de la Cruz",
+  "source": "Obras espirituales que encaminan a una alma a la perfecta unión con Dios, Francisco de Orche, Barcelona, 1618　Wikisource: https://es.wikisource.org/wiki/Llama_de_amor_viva",
+  "year": "1585–1586頃",
+  "firstPublication": "Obras espirituales que encaminan a una alma a la perfecta unión con Dios, Francisco de Orche, Barcelona, 1618",
+  "difficulty": "上級",
+  "category": "juan_de_la_cruz",
+  "originalLang": "es-ES",
+  "modernRelevance": "★★★★★",
+  "context": "十字架の聖ヨハネ（Juan de la Cruz, 1542–1591）の代表的詩篇。全4連・各6行、sextilla lira（セクスティーリャ・リラ）詩形（7・7・11・7・7・11音節）。「Noche oscura」が神との合一への旅程を描くのに対し、「Llama」は合一の頂点──魂が神の愛の炎に「燃やされ」ながら変容する絶頂の瞬間──を直接詠む。詩篇全体がひとつの長い感嘆（apostrophe）として「¡Oh!」で始まる各連の呼びかけ構造を持ち、神の愛の炎（llama）・焼灼（cauterio）・ランプ（lámparas）・息吹（aspirar）という四つの感覚的イメージが霊的経験の異なる相を現す。ガストン・バシュラール『火の精神分析』（Psychanalyse du feu, 1938）は火のイメージの詩的・心理的次元を、ヨハネの神秘主義的文脈とは切り離した上で論じるが、「愛の炎」が「燃やすこと（brûler）」と「変容すること（transformer）」を同時に行う逆説的構造において両者は収斂する。",
+  "keywords": [
+    "愛の炎",
+    "llama de amor",
+    "焼灼",
+    "cauterio",
+    "感覚の洞窟",
+    "神の息吹",
+    "変容",
+    "神との合一の頂点",
+    "sextilla lira",
+    "バシュラール"
+  ],
+  "relatedTexts": [
+    "juan_de_la_cruz_noche_oscura",
+    "weil_accepter_le_vide",
+    "weil_les_astres",
+    "weil_eclair"
+  ],
+  "paragraphs": [
+    {
+      "id": 0,
+      "verses": "preface",
+      "original": "Canciones del alma en la íntima comunicación, de unión de amor de Dios.",
+      "provisionalTranslation": "神の愛の合一という親密な交わりの中にある魂の歌。"
+    },
+    {
+      "id": 1,
+      "verses": "v.1–6",
+      "original": "¡Oh llama de amor viva,\nque tiernamente hieres\nde mi alma en el más profundo centro!\nPues ya no eres esquiva,\nacaba ya, si quieres;\n¡rompe la tela de este dulce encuentro!",
+      "provisionalTranslation": "ああ、生ける愛の炎よ、\nなんと優しく傷つけることか\n私の魂の最も深い中心において！\nもうあなたは冷たくないのだから、\n今こそ終わらせておくれ、もし望むなら；\nこの甘い出会いの幕を破ってくれ！"
+    },
+    {
+      "id": 2,
+      "verses": "v.7–12",
+      "original": "¡Oh cauterio suave!\n¡Oh regalada llaga!\n¡Oh mano blanda! ¡Oh toque delicado,\nque a vida eterna sabe,\ny toda deuda paga!\nMatando. Muerte en vida la has trocado.",
+      "provisionalTranslation": "ああ、柔らかな焼灼よ！\nああ、恵みある傷よ！\nああ、優しい手よ！ああ、繊細な触れよ、\n永遠の命を味わわせ、\nすべての負債を払ってくれる！\n殺しながら。死を命へと変えてくれた。"
+    },
+    {
+      "id": 3,
+      "verses": "v.13–18",
+      "original": "¡Oh lámparas de fuego,\nen cuyos resplandores\nlas profundas cavernas del sentido,\nque estaba oscuro y ciego,\ncon extraños primores\ncalor y luz dan junto a su Querido!",
+      "provisionalTranslation": "ああ、火のランプたちよ、\nその輝きの中で\n感覚の深い洞窟たちが、\n暗く盲目だったのが、\n異様な巧みさで\n熱と光をその愛する方のそばで放つ！"
+    },
+    {
+      "id": 4,
+      "verses": "v.19–24",
+      "original": "¡Cuán manso y amoroso\nrecuerdas en mi seno,\ndonde secretamente solo moras\ny en tu aspirar sabroso,\nde bien y gloria lleno,\ncuán delicadamente me enamoras!",
+      "provisionalTranslation": "なんと穏やかに、そして愛情深く\n目覚めさせることか、私の胸の中で、\nそこにひそかにただひとり宿りながら、\nそして、あなたの美味なる息吹の中に、\n善と栄光に満ちて、\nなんとたおやかに私を恋に落とすことか！"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 0,
+      "type": "commentary",
+      "anchor": "Canciones del alma en la íntima comunicación, de unión de amor de Dios.",
+      "body": "副題が「Noche oscura」の副題「霊的否定の道による……神との合一」と対を成す。「Noche」が旅程（道・過程）を強調したのに対し、「Llama」は「íntima comunicación（親密な交わり）」という合一の内的な質を前面に出す──道ではなく合一そのものの状態の歌。「de unión de amor（愛の合一の）」という前置詞句の重ねが、合一の種差として「愛（amor）」を特定する：知的合一・存在論的合一ではなく、意志の愛による合一。ヨハネの神秘神学では三元的過程（煉化・照明・合一）の頂点が「神化的愛の合一（unión transformativa）」であり、この詩篇はその頂点のみを詠む。「Noche oscura」が前半の煉化過程を経て合一に至るドラマ的構造を持つのに対し、「Llama」は出発点からすでに頂点の状態にある。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "¡Oh llama de amor viva,\nque tiernamente hieres\nde mi alma en el más profundo centro!",
+      "body": "「生ける愛の炎（llama de amor viva）」──「viva（生ける・生きた）」という形容が炎を単なる燃焼現象ではなく人格的な生命として提示する：炎は存在する（生きている）と同時に活動する（傷つける）。「más profundo centro（最も深い中心）」──ヨハネの神学における「魂の根底（fondo del alma）」の概念：魂の最深部、あらゆる能力（知性・記憶・意志）の根底にある「中心」にのみ、神との真の合一が起こりうる。ガストン・バシュラール『火の精神分析』（Psychanalyse du feu, 1938）が論じる「火の垂直性（verticalité du feu）」：炎は常に上昇し、物質を変容させながら昇華する──その垂直性が「最も深い中心」という下降的空間イメージと逆転した構造で接する。ヴェイユ「Les Astres」最終行「Il est là dans le cœur soudain, leur feu divin」：外から降る「神の火」が「心の中心」へと突然現れる構造が、ヨハネの「魂の最も深い中心」に触れる炎と同型。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "prosody",
+      "anchor": "Pues ya no eres esquiva,\nacaba ya, si quieres;\n¡rompe la tela de este dulce encuentro!",
+      "body": "sextilla lira詩形の確認：7・7・11・7・7・11音節（押韻aBCaBCまたはaBCaBC）。第4–6行「Pues ya no eres esquiva（7）/ acaba ya si quieres（7）/ ¡rompe la tela de este dulce encuentro!（11）」。「rompe la tela（幕を破ってくれ）」──「tela（幕・布）」は肉体・現世的生命の比喩：魂と神の間に張られた薄い幕（肉体的生）を破ることが「死」であり、それが「甘い出会い（dulce encuentro）」という逆説的呼称を持つ。「esquiva（冷たい・よそよそしい）」の過去形──「もうあなたは冷たくない（ya no eres esquiva）」という否定が、過去の「神の不在（noche oscura）」期との対比を構造化する：暗夜では神は「冷たく遠い」存在だったが、今や炎として「優しく傷つける」存在へと変容している。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "¡Oh cauterio suave!\n¡Oh regalada llaga!\n¡Oh mano blanda! ¡Oh toque delicado,",
+      "body": "第2連冒頭の四重感嘆──「cauterio suave（柔らかな焼灼）」「regalada llaga（恵みある傷）」「mano blanda（優しい手）」「toque delicado（繊細な触れ）」──がいずれもオクシモロン（矛盾修辞）を構成する：焼灼は痛みを伴うが「柔らか（suave）」、傷は損傷だが「恵み（regalada）」をもたらす。オクタビオ・パス『弓と竪琴』（El arco y la lira, 1956）での「矛盾する詩的経験」論：詩の言語は論理的矛盾を超えて反対物の同一性を表現する特権的手段であり、ヨハネの「柔らかな焼灼」「恵みある傷」はその典範として引用される。パスはこれをエロスと死（タナトス）の詩的融合として読む──神秘主義的合一が愛の究極形態として「傷」と「恵み」を不可分に結ぶ。バシュラール『蝋燭の炎』（La Flamme d'une chandelle, 1961）での「傷つける光（lumière qui blesse）」：炎は見る者の目を傷つけながらも照らす──視覚的暴力と啓示の不可分性がヨハネの「cauterio suave」の現象学的基盤。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "Matando. Muerte en vida la has trocado.",
+      "body": "「殺しながら。死を命へと変えてくれた」──第2連の最終文が詩篇全体の神学的中心命題を最短の形で定式化する。「Matando（殺しながら）」という現在分詞の独立──句読点によって前後から切り離され、孤立した一語として行全体を占める。その後の「Muerte en vida la has trocado（死を命へと変えた）」との間の意味論的跳躍：殺すことが命をもたらすという神秘主義の逆説。「trocar（変換する・置き換える）」という動詞がヨハネの神秘神学の「変容（transformación）」概念を端的に表す。ヴェイユ「Accepter le vide」§4「La vérité est du côté de la mort（真理は死の側にある）」との照応：真理・恩寵への接近が死（自己消滅）を経由するという構造が、ヨハネの「殺しながら命をもたらす」と同じ方向を指す。「Noche oscura」§8「cesó todo y dejéme（すべては止み、我を手放した）」の自己消滅との連続。"
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "¡Oh lámparas de fuego,\nen cuyos resplandores\nlas profundas cavernas del sentido,\nque estaba oscuro y ciego,",
+      "body": "「感覚の深い洞窟たち（las profundas cavernas del sentido）」──ヨハネの散文注解書（Llama de amor viva, comentario）では「洞窟（cavernas）」を魂の三能力（知性・記憶・意志）の比喩として解釈する：それらは神への無限の容量を持ちながら、神が満たす前は「暗く盲目（oscuro y ciego）」の状態にある。バシュラール『大地と意志の夢想』（La Terre et les rêveries de la volonté, 1948）での「洞窟のイメージ」論：洞窟は物質的想像力において「最初の閉鎖性（la première intériorité）」を表す──暗闇・深さ・秘密性が蓄積される内的空間。ヨハネの「感覚の洞窟」がバシュラールの「物質的内部（intérieur matériel）」の神秘主義的先行形として読める。「Noche oscura」の「暗夜」が時間的プロセスを指したのに対し、「洞窟」は空間的な魂の内的構造を指す──両者は同じ「神の不在」状態の時間的・空間的表現。"
+    },
+    {
+      "paragraphId": 3,
+      "type": "intertextual",
+      "anchor": "calor y luz dan junto a su Querido!",
+      "body": "「熱と光をその愛する方のそばで放つ（calor y luz dan junto a su Querido）」──第3連の結尾が逆転を完成させる：「暗く盲目」だった洞窟が、神の「火のランプ（lámparas de fuego）」によって照らされた後、今度は自ら「熱と光を放つ（dan calor y luz）」能動的な光源となる。受動性（照らされること）から能動性（放つこと）への転換──これがヨハネの「神化（deificación）」の詩的定義：魂が神の光を受けて自ら光る存在となる。ヴェイユ「Les Astres」最終行「Il est là dans le cœur soudain, leur feu divin」との比較：ヴェイユでは神の火が受動的に「ある（Il est là）」のに対し、ヨハネでは照らされた魂が能動的に「放つ（dan）」──受容から発光への転換点の差異。",
+      "targetId": "weil_les_astres",
+      "targetParagraphId": 1
+    },
+    {
+      "paragraphId": 4,
+      "type": "commentary",
+      "anchor": "¡Cuán manso y amoroso\nrecuerdas en mi seno,\ndonde secretamente solo moras",
+      "body": "「なんと穏やかに、そして愛情深く目覚めさせることか、私の胸の中で、そこにひそかにただひとり宿りながら」──最終連の第1–3行が「炎→焼灼→ランプ」という前三連の強烈なイメージ系列から「穏やかさ（manso）」「愛情深さ（amoroso）」「秘密性（secretamente）」へと転換する。「recuerdas（目覚めさせる・思い出させる）」──スペイン語の語源は「corazón（心）」に「re-（再び）」：心を通じて再び目覚めさせること、心の中に宿るものを再び活性化させること。オクタビオ・パス『ソル・フアナ・イネス・デ・ラ・クルスあるいは信仰の罠』（Sor Juana Inés de la Cruz o Las trampas de la fe, 1982）での「内なる宿り（habitación interior）」の概念：スペイン神秘主義における神の内的臨在──「ひそかにただひとり宿る（secretamente solo moras）」──がヨハネの詩的言語において最も直接的に表現された箇所としてパスは引く。「Noche oscura」の「En mi pecho florido / que entero para él sólo se guardaba（花咲く胸に……彼のためだけにまるごと守られていた）」と同じ「胸（seno/pecho）」のイメージが両詩篇を結ぶ。"
+    },
+    {
+      "paragraphId": 4,
+      "type": "commentary",
+      "anchor": "y en tu aspirar sabroso,\nde bien y gloria lleno,\ncuán delicadamente me enamoras!",
+      "body": "詩篇の最終三行──「aspirar sabroso（美味なる息吹）」「bien y gloria（善と栄光）」「delicadamente me enamoras（たおやかに私を恋に落とす）」──が聴覚（息吹）・味覚（sabroso）・触覚（delicadamente）という三感覚の複合で締める。「aspirar（息吹・呼吸）」はヨハネの散文注解では聖霊（Spiritus Sanctus）の息吹──三位一体における愛の流れ──として解釈される：神が魂の中で息吹くことで、魂は神の愛の循環の中に参与する。バシュラール『空気と夢』（L'Air et les songes, 1943）での「息吹の詩学（poétique du souffle）」：空気的想像力において息吹は物質の最も非物質的な形態であり、精神性の直接的表現──ヨハネの「aspirar sabroso」が空気・精神・愛の三重の合一を「味覚（sabroso）」という最も物質的な感覚で定義する逆説をバシュラールの元素論は照らし出す。「cuán delicadamente me enamoras（なんとたおやかに私を恋に落とすことか）」──詩篇は終止形ではなく感嘆疑問の形で閉じる：感嘆が完結しないことで、合一の経験がいまだ継続中であることを統語上に示す。ヴェイユ「Accepter le vide」最終行「Mais il ne faut pas s'y jeter（しかし自ら飛び込んではならない）」との対照：ヴェイユの「制止」に対し、ヨハネの結尾は神が魂を「恋に落とす」という神の側の能動性──魂は「待つ（attente）」のではなく「恋に落とされる（me enamoras）」。",
+      "targetId": "weil_accepter_le_vide",
+      "targetParagraphId": 5
+    }
+  ]
+}
