@@ -1,0 +1,72 @@
+{
+  "id": "mallarme_soupir",
+  "title": "Soupir",
+  "author": "Stéphane Mallarmé",
+  "source": "Les poésies de Stéphane Mallarmé, la Revue indépendante, 1887, p. 33; https://fr.wikisource.org/wiki/Soupir_(1887)",
+  "year": "1864",
+  "firstPublication": "Le Parnasse contemporain, 1866; Les poésies de Stéphane Mallarmé, Revue indépendante, 1887",
+  "difficulty": "上級",
+  "category": "mallarme",
+  "originalLang": "fr-FR",
+  "modernRelevance": "★★★★★",
+  "context": "マラルメ初期の代表作。10行・12音節アレクサンドラン。全詩が二つの長い文として構成される──第一文（v.1–5）が「私の魂があなたの額へと昇る」という上昇運動を、第二文（v.6–10）が「十月の蒼ざめた空が大きな水盤に無限の倦怠を映し、黄色い太陽が長い光線を引きずる」という水平・下降の運動を提示する。ジャン＝ピエール・リシャールのマラルメ論『マラルメの想像的宇宙（L'univers imaginaire de Mallarmé）』が詳細に分析するように、「Soupir」は上昇（âme → azur）と下降（feuilles → eau morte → sillon）という垂直的対立を、白い噴水の弧という単一の運動の中に凝縮する。「ため息（soupir）」というタイトルが示す息の放出──上昇と消滅が一致する瞬間──が詩全体の時間的構造を形成する。",
+  "keywords": [
+    "ため息",
+    "上昇と下降",
+    "白い噴水",
+    "十月の空",
+    "倦怠",
+    "落ち葉の苦悶",
+    "黄色い太陽",
+    "冷たい溝"
+  ],
+  "relatedTexts": [
+    "mallarme_apparition",
+    "mallarme_angoisse",
+    "mallarme_lazur",
+    "mallarme_brise_marine",
+    "verlaine_chanson_dautomne",
+    "regnier_hommage"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "verses": "v.1–5",
+      "original": "Mon âme vers ton front où rêve, ô calme sœur,\nUn automne jonché de taches de rousseur,\nEt vers le ciel errant de ton œil angélique,\nMonte, comme dans un jardin mélancolique,\nFidèle, un blanc jet d'eau soupire vers l'azur !",
+      "provisionalTranslation": "私の魂があなたの額へと昇る、そこで夢見る、ああ穏やかな姉妹よ、\n赤みがかった斑点で覆われた秋が、\nそしてあなたの天使のような目の彷徨う空へと、\n昇る、憂鬱な庭園の中でのように、\n忠実に、白い噴水がため息をついて紺碧へと昇るように！"
+    },
+    {
+      "id": 2,
+      "verses": "v.6–10",
+      "original": "— Vers l'azur attendri d'Octobre pâle et pur\nQui mire aux grands bassins sa langueur infinie,\nEt laisse, sur l'eau morte où la fauve agonie\nDes feuilles erre au vent et creuse un froid sillon,\nSe traîner le soleil jaune d'un long rayon.",
+      "provisionalTranslation": "──蒼ざめて純粋な十月の柔らかくなった紺碧へと\n大きな水盤に無限の倦怠を映す、\nそして、死んだ水の上に、褐色の苦悶が\n葉を風の中に彷徨わせ冷たい溝を穿つ中、\n黄色い太陽が長い光線をゆっくりと引きずるに任せる。"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "prosody",
+      "anchor": null,
+      "body": "10行・12音節アレクサンドラン。韻はAABBCCDDEEの連韻（rimes plates）──sœur／rousseur（A）、angélique／mélancolique（B）、azur／pur（C）、infinie／agonie（D）、sillon／rayon（E）。詩全体が二つの長文から構成される──第一文（v.1–5）の主動詞「Monte（昇る）」が倒置によって第4行まで保留され、比較節「comme dans un jardin mélancolique, / Fidèle, un blanc jet d'eau soupire vers l'azur（憂鬱な庭園の中でのように、忠実に、白い噴水がため息をついて紺碧へと昇るように）」が比喩として挿入される構文的遅延が詩の上昇の緊張を生む。第二文（v.6–10）はダッシュ（—）で開始され、第一文末尾の「azur（紺碧）」を「Vers l'azur attendri（柔らかくなった紺碧へと）」として引き継ぐ──上昇から下降への折り返しが統語的接続によって一つの息の弧として連続する。リシャールの『マラルメの想像的宇宙』が指摘するように、「Soupir」の形式的構造は上昇と下降という垂直的対立が「ため息」という単一の呼気運動の中に同時に含まれることを体現する。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "Mon âme vers ton front où rêve, ô calme sœur,\nUn automne jonché de taches de rousseur,\nEt vers le ciel errant de ton œil angélique,\nMonte, comme dans un jardin mélancolique,\nFidèle, un blanc jet d'eau soupire vers l'azur !",
+      "body": "「私の魂があなたの額──そこで秋が赤みがかった斑点で夢見る──とあなたの天使のような目の彷徨う空へと昇る、憂鬱な庭園の中で忠実に白い噴水が紺碧へとため息をつくように！」。リシャールは「Soupir」における上昇運動の逆説を分析する──魂の上昇（âme → azur）は目的地に到達する前に「comme（〜のように）」という比喩によって噴水の上昇に転換され、噴水自体が「soupire（ため息をつく）」という動詞によって上昇と同時に消滅する存在として定義される。「ton front où rêve…un automne（秋が夢見るあなたの額）」──額が秋の風景（赤みがかった斑点の散らばる）として提示されるという共感覚的転置；リシャールはこの「額の秋」を肌の色彩と季節の色彩の物質的同一化として読む。「calme sœur（穏やかな姉妹）」──姉妹（sœur）という呼格が官能的な距離を保ちながら親密さを示す；「L'azur」の苛烈な天空への衝動に対し、ここでの上昇は「calme（穏やか）」という形容詞によって抑制されている。「Fidèle（忠実に）」──「L'Île」§1の「un silence fidèle（忠実な沈黙）」・「Le Bouquet」§3の「les choses sont fidèles（物は忠実だ）」というレニエの忠実さのモチーフと同一の語彙が、ここでは噴水の上昇の一貫性として機能する。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "— Vers l'azur attendri d'Octobre pâle et pur\nQui mire aux grands bassins sa langueur infinie,\nEt laisse, sur l'eau morte où la fauve agonie\nDes feuilles erre au vent et creuse un froid sillon,\nSe traîner le soleil jaune d'un long rayon.",
+      "body": "「──蒼ざめて純粋な十月の柔らかくなった紺碧へと、大きな水盤に無限の倦怠を映し、死んだ水の上で褐色の苦悶が葉を風の中に彷徨わせ冷たい溝を穿つ中、黄色い太陽が長い光線をゆっくりと引きずるに任せる」。リシャールは第二文の「下降の物質性」を詳細に分析する──「l'eau morte（死んだ水）」・「la fauve agonie des feuilles（葉の褐色の苦悶）」・「un froid sillon（冷たい溝）」・「le soleil jaune（黄色い太陽）」という系列が、第一文の白・青・上昇という色彩的・方向的系列に対して、黄・褐・下降・水平という物質的重力の系列を対置する。「l'azur attendri（柔らかくなった紺碧）」──第一文の「azur」が「attendri（柔らかくなった・和らいだ）」という形容詞を得て変質する；リシャールは「attendri」を空の感情的・物質的軟化として読む──上昇してきた魂／噴水を受け入れるために柔らかくなった空が、しかし同時に「pâle et pur（蒼ざめて純粋）」という冷たい形容詞によって生命力を欠いた状態として提示される。「la fauve agonie / Des feuilles erre au vent et creuse un froid sillon（褐色の苦悶が葉を風の中に彷徨わせ冷たい溝を穿つ）」──fauve（褐色・野性的）という形容詞が葉の秋色と苦悶の感情的強度を同時に担う；「creuse un froid sillon（冷たい溝を穿つ）」という農耕的比喩が水面を大地として、落ち葉の漂流を鋤の運動として提示する。「Se traîner le soleil jaune d'un long rayon（黄色い太陽が長い光線をゆっくりと引きずる）」──リシャールは「se traîner（引きずる）」という動詞の物質的重力を強調する；太陽が光線を「引きずる」という運動が、第一文の噴水の上昇という軽さに対して、太陽の疲弊した水平運動という重さを対置する。詩全体の構造──「魂の上昇→噴水の上昇→紺碧への到達→水盤への反射→落ち葉の水平漂流→太陽光線の引きずり」──がリシャールの言う「上昇と下降の単一の呼気」として、ため息（soupir）という詩のタイトルを構造的に体現する。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "intertextual",
+      "anchor": "Qui mire aux grands bassins sa langueur infinie,",
+      "body": "「大きな水盤に無限の倦怠を映す」。「grands bassins（大きな水盤）」──ヴェルサイユ公園の大水盤への参照として、レニエの「La Cité des eaux」の水盤系列（Le Bassin rose・Le Bassin vert・Le Bassin noir）と同一の空間的モチーフを共有する。「sa langueur infinie（無限の倦怠）」──langueur（倦怠・物憂さ）はヴェルレーヌ「秋の歌（Chanson d'automne）」の「la langueur / De mon cœur（私の心の倦怠）」と同一の感情的モチーフとして象徴主義的秋の感情を定義する語彙；しかしマラルメにおいて倦怠は十月の空（azur）の属性として天空そのものに投影される──リシャールの言う「空の物質化」。targetId: verlaine_chanson_dautomne",
+      "targetId": "verlaine_chanson_dautomne"
+    }
+  ]
+}
