@@ -1,0 +1,160 @@
+{
+  "id": "juan_de_la_cruz_noche_oscura",
+  "title": "Noche oscura",
+  "author": "Juan de la Cruz",
+  "source": "Wikisource: https://es.wikisource.org/wiki/Noche_oscura",
+  "year": "1578–1579頃（詩作）；1618年初版刊行（死後27年）",
+  "firstPublication": "Obras espirituales que encaminan a una alma a la perfecta unión con Dios, Francisco de Orche, Barcelona, 1618",
+  "difficulty": "上級",
+  "category": "juan_de_la_cruz",
+  "originalLang": "es-ES",
+  "modernRelevance": "★★★★★",
+  "context": "十字架の聖ヨハネ（Juan de la Cruz, 1542–1591）の代表的詩篇。全8連、各5行、lira（リラ）詩形（7・11・7・7・11音節の交互押韻）。1578年のトレドの修道院幽閉中に着想され、後に散文的注解書『霊魂の暗夜』（Noche oscura del alma）として展開された。詩篇の「暗夜」は感覚と霊性の双重の浄化過程──神秘主義的上昇途上で魂が経験する神の不在・乾燥の時期──を指す。ヴェイユ『重力と恩寵』「Accepter le vide」章での「Vide : nuit obscure（空虚：暗い夜）」という定式が、この詩篇の直接引用であり、空虚と暗夜の同一視というヴェイユ思想の根幹にヨハネの神秘主義が置かれている。ブランショ『文学の空間』もこの「暗夜」概念を文学的経験に転用し、詩人が書くことの不可能性に直面する「本質的孤独」の夜として論じた。",
+  "keywords": [
+    "暗夜",
+    "noche oscura",
+    "神秘主義",
+    "霊魂の上昇",
+    "感覚の否定",
+    "lira詩形",
+    "unión mística",
+    "神との合一",
+    "空虚",
+    "ヨハネの神秘主義"
+  ],
+  "relatedTexts": [
+    "weil_accepter_le_vide",
+    "weil_necessite",
+    "weil_eclair",
+    "weil_les_astres",
+    "weil_pesanteur_beaute"
+  ],
+  "paragraphs": [
+    {
+      "id": 0,
+      "verses": "preface",
+      "original": "Canciones del alma que se goza de haber llegado al alto estado de la perfección, que es la unión con Dios, por el camino de la negación espiritual.",
+      "provisionalTranslation": "霊的否定の道によって、完徳の高い境地──すなわち神との合一──に達した喜びを歌う魂の歌。"
+    },
+    {
+      "id": 1,
+      "verses": "v.1–5",
+      "original": "En una noche oscura,\ncon ansias, en amores inflamada\n¡oh dichosa ventura!,\nsalí sin ser notada\nestando ya mi casa sosegada.",
+      "provisionalTranslation": "ある暗い夜に、\n思い焦がれながら、愛の炎に燃えて\n──ああ、幸いな巡り合わせ！──\n気づかれることなく出ていった\nすでに私の家は静まり返っていた。"
+    },
+    {
+      "id": 2,
+      "verses": "v.6–10",
+      "original": "A oscuras y segura,\npor la secreta escala disfrazada,\n¡Oh dichosa ventura!,\na oscuras y en celada,\nestando ya mi casa sosegada.",
+      "provisionalTranslation": "暗闇の中で、しかし確かに、\n秘密の梯子を変装して、\n──ああ、幸いな巡り合わせ！──\n暗闇の中で身を潜めながら、\nすでに私の家は静まり返っていた。"
+    },
+    {
+      "id": 3,
+      "verses": "v.11–15",
+      "original": "En la noche dichosa\nen secreto, que nadie me veía,\nni yo miraba cosa,\nsin otra luz y guía\nsino la que en el corazón ardía.",
+      "provisionalTranslation": "幸いな夜の中で\n秘密のうちに、誰も私を見ておらず、\n私もまた何も見ていなかった、\n他の光も道標もなく\nただ心の中で燃えていたものだけを頼りに。"
+    },
+    {
+      "id": 4,
+      "verses": "v.16–20",
+      "original": "Aquésta me guiaba\nmás cierto que la luz del mediodía,\nadonde me esperaba\nquien yo bien me sabía,\nen parte donde nadie parecía.",
+      "provisionalTranslation": "それが私を導いた\n真昼の光よりも確かに、\n私をそこで待っていた\n私がよく知っているあの方のもとへと、\n誰もいないと思われる場所へ。"
+    },
+    {
+      "id": 5,
+      "verses": "v.21–25",
+      "original": "¡Oh noche que guiaste!\n¡Oh noche amable más que el alborada!\n¡Oh noche que juntaste\nAmado con amada,\namada en el Amado transformada!",
+      "provisionalTranslation": "ああ、導いてくれた夜よ！\nああ、夜明けよりも愛おしい夜よ！\nああ、結び合わせてくれた夜よ\n愛する者と愛される者を、\n愛される者が愛する者の中へと変容されて！"
+    },
+    {
+      "id": 6,
+      "verses": "v.26–30",
+      "original": "En mi pecho florido\nque entero para él sólo se guardaba,\nallí quedó dormido,\ny yo le regalaba,\ny el ventalle de cedros aire daba",
+      "provisionalTranslation": "私の花咲く胸に──\nそれはただ彼のためだけにまるごと守られていたのだが──\nそこで彼は眠りに就き、\n私は彼を慈しみ、\n杉の扇が風を送ってくれた。"
+    },
+    {
+      "id": 7,
+      "verses": "v.31–35",
+      "original": "El aire de la almena,\ncuando yo sus cabellos esparcía,\ncon su mano serena\nen mi cuello hería\ny todos mis sentidos suspendía.",
+      "provisionalTranslation": "城壁の狭間の風が、\n私が彼の髪を広げていたとき、\n穏やかな手で\n私の首を打ち、\n私のすべての感覚を宙吊りにした。"
+    },
+    {
+      "id": 8,
+      "verses": "v.36–40",
+      "original": "Quedéme y olvidéme,\nel rostro recliné sobre el Amado,\ncesó todo y dejéme,\ndejando mi cuidado\nentre las azucenas olvidado.",
+      "provisionalTranslation": "私は留まり、自らを忘れた、\n顔を愛する者の上に傾けて、\nすべては止み、私は我を手放した、\n私の憂いを\n百合の花々の中に忘れ去って。"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 0,
+      "type": "commentary",
+      "anchor": "Canciones del alma que se goza de haber llegado al alto estado de la perfección, que es la unión con Dios, por el camino de la negación espiritual.",
+      "body": "副題が詩篇全体の神学的座標を定める：「霊的否定（negación espiritual）の道」──これはヨハネの神秘神学の核心概念「無（nada）」の実践、すなわちすべての被造物的な快楽・知識・意志を系統的に否定する行程──による「神との合一（unión con Dios）」の達成。副題はすでに「幸福な終点」から語っており、詩篇本文の「夜の旅」は回顧的叙述となる。ヴェイユ「Accepter le vide」の「自分が持てる全ての力を行使しないことは、空虚を耐え忍ぶことだ」という「霊的否定」の哲学的再定式が、ヨハネのこの副題と直接対応する──どちらも「否定」を目的ではなく「合一（あるいは恩寵）」への手段として位置づける。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "En una noche oscura,\ncon ansias, en amores inflamada",
+      "body": "「ある暗い夜に、思い焦がれながら、愛の炎に燃えて」──開始の二行が「暗夜」概念の逆説的二重性を確立する。「noche oscura（暗い夜）」は感覚的・霊的乾燥の時期であると同時に、「ansias（思い焦がれ）」と「amores inflamada（愛の炎）」という強烈な情動を抱えた魂の出発点でもある。ヴェイユ「Accepter le vide」§2の「Vide : nuit obscure（空虚：暗い夜）」という二語の定式がこの詩行を直接典拠とする──ヴェイユはヨハネの「noche oscura」を「vide（空虚）」と同一視することで、神秘主義的乾燥を哲学的空虚概念へと変換した。ブランショ『文学の空間』（L'Espace littéraire, 1955）での「暗夜」論：ブランショはヨハネの神秘主義的夜を「書くことの不可能性の夜」として転用し、詩人が言語の失敗に直面する「本質的孤独」の空間として論じる。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "prosody",
+      "anchor": "¡oh dichosa ventura!,\nsalí sin ser notada\nestando ya mi casa sosegada.",
+      "body": "lira詩形（7・11・7・7・11音節）の確認：第1行「En una noche oscura」7音節、第2行「con ansias, en amores inflamada」11音節（スペイン語の詩では語末母音の融合élisionを考慮）、第3行「¡oh dichosa ventura!」7音節。押韻構造はaBabB（小文字=7音節行、大文字=11音節行）。「¡oh dichosa ventura!（ああ、幸いな巡り合わせ！）」の感嘆が第2連でも反復され（v.8）、アナフォラ的構造を形成する。「salí sin ser notada（気づかれることなく出ていった）」──行為主体が「notada（女性分詞）」であることから、魂は女性として設定される──神秘主義文学における「花嫁と花婿」の比喩（雅歌に由来）。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "A oscuras y segura,\npor la secreta escala disfrazada,",
+      "body": "「暗闇の中で、しかし確かに（a oscuras y segura）」──暗闇と確実性の逆説。感覚的な光（理性・感情・知覚）が失われることが、かえって霊的な「確かさ（seguridad）」をもたらす──これがヨハネの神秘神学の核心的逆説。「secreta escala（秘密の梯子）」：ヨハネの散文注解書では「信仰（fe）」の梯子として解釈される。信仰は感覚でも理性でも捉えられない「暗い認識」であり、それゆえに「秘密の（secreta）」梯子。ヴェイユ「Beauté」章での「距離は美の魂（La distance est l'âme du beau）」：感覚的把握を超えた「距離」においてのみ真の対象に近づけるという構造が、ヨハネの「暗闇の中の確かさ」と同型。"
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "sin otra luz y guía\nsino la que en el corazón ardía.",
+      "body": "「他の光も道標もなく、ただ心の中で燃えていたものだけを頼りに」──第3連の最終二行が詩篇の認識論的中心命題を形成する。外部の光（感覚・理性・伝統）をすべて消去した後に残る「心の火（la que en el corazón ardía）」──これがヨハネの「信仰の光」であり、逆説的に最も確かな認識の源泉。「Les Astres」詩篇最終行「Il est là dans le cœur soudain, leur feu divin（突然心の中にある、彼らの神の火が）」との照応：ヴェイユの「心の中の神の火」がヨハネのこの行の詩的変奏として読める──外部の星の火（必然・重力）が沈黙とよろめきの後に内部から突然現れる構造。ヴァレリー「Orphée」（L'amateur de poèmes）での「内的光（lumière intérieure）」との比較：ヴァレリーの詩人の自己照明は意識の産物であるのに対し、ヨハネの心の火は受動的に燃え続けるものとして描かれる。"
+    },
+    {
+      "paragraphId": 4,
+      "type": "commentary",
+      "anchor": "Aquésta me guiaba\nmás cierto que la luz del mediodía,",
+      "body": "「それが私を導いた、真昼の光よりも確かに」──「más cierto que la luz del mediodía（真昼の光よりも確かに）」という比較级が、暗夜の逆説を極限まで押し進める：もっとも明るい光（真昼）よりも、暗闇の中の「心の火」の方が確かな道標となる。ヨハネの散文注解ではこれを「知的認識（lumbres de fe）」の優越性として説明する：感覚的明証性は霊的認識の前では「盲目的」であり、逆に信仰の暗さこそが「最も明るい光」となる。ヴェイユ「Accepter le vide」§4「La vérité est du côté de la mort（真理は死の側にある）」──真理への接近が感覚的・社会的生の回路を外れることを要求するという命題が、ヨハネの「真昼の光よりも確かな暗夜」と同じ認識論的構造を持つ。"
+    },
+    {
+      "paragraphId": 5,
+      "type": "commentary",
+      "anchor": "¡Oh noche que guiaste!\n¡Oh noche amable más que el alborada!\n¡Oh noche que juntaste\nAmado con amada,\namada en el Amado transformada!",
+      "body": "詩篇の転換点──第5連が叙事的回顧から直接的な「夜への讃歌（apostrophe）」へと様式を転換する。「¡Oh noche...! ¡Oh noche...! ¡Oh noche...!」という三重のアナフォラが感嘆の高揚を形成する。「Amado con amada, / amada en el Amado transformada（愛する者と愛される者を……愛される者が愛する者の中へと変容されて）」──「amado/amada」の語根反復による包含と変容の論理：分離していた二者が「変容（transformada）」によって一者となる。神秘神学における「神化（theosis/deificación）」──魂が神の性質に参与することで神そのものへと変容する──の詩的表現。ヴェイユが「脱創造（décréation）」と呼ぶ自己消滅の過程：「私」が消えて「神の中に」変容されることと、「amada en el Amado transformada」の変容は同じ方向を指す。"
+    },
+    {
+      "paragraphId": 6,
+      "type": "commentary",
+      "anchor": "En mi pecho florido\nque entero para él sólo se guardaba,\nallí quedó dormido,",
+      "body": "「私の花咲く胸に──それはただ彼のためだけにまるごと守られていたのだが──そこで彼は眠りに就き」──「pecho florido（花咲く胸）」は雅歌（Cantar de los Cantares）の花園のイメージを継承する：「私の愛する者は自分の園に下り、香料の畑に赴き……（雅歌6:2）」。「entero para él sólo（彼のためだけにまるごと）」──「entero（まるごと）」という副詞が「空虚を受け入れること」の完全性を示す：自分の内側の全てを神のためだけに空けておく状態。ヴェイユ「Accepter le vide」§1「恩寵が入れるのはそれを受け取る空虚がある場所だけであり、その空虚を作るのもまた恩寵である」──「花咲く胸」の「守られてきた空虚」が恩寵の受け皿として機能する構造の詩的先行形。"
+    },
+    {
+      "paragraphId": 7,
+      "type": "commentary",
+      "anchor": "con su mano serena\nen mi cuello hería\ny todos mis sentidos suspendía.",
+      "body": "「穏やかな手で私の首を打ち、私のすべての感覚を宙吊りにした」──「todos mis sentidos suspendía（すべての感覚を宙吊りにした）」が神秘主義的エクスタシーの身体的定義を与える。「suspenso（宙吊り）」はヨハネの散文注解でも神との合一における感覚停止の状態を指す専門用語。「herir（打つ）」という暴力的な動詞と「serena（穏やか）」という形容の矛盾──愛の打撃は暴力的であると同時に穏やかである。ヴェイユ「affliction（苦悩）」論との対照：afflictionとは身体的・心理的・社会的な三重の苦しみであるが、ヨハネの「打撃」は苦しみを通じた感覚停止というaffiction的契機を神秘主義的文脈で用いている。「Accepter le vide」§5「L'homme n'échappe aux lois de ce monde que la durée d'un éclair（人間はこの世界の法則から稲妻の時間だけしか逃れられない）」──「感覚の宙吊り（suspendía）」がヴェイユの「稲妻の瞬間」に対応する：世界の法則が一時的に停止する閾。"
+    },
+    {
+      "paragraphId": 8,
+      "type": "commentary",
+      "anchor": "Quedéme y olvidéme,\nel rostro recliné sobre el Amado,\ncesó todo y dejéme,\ndejando mi cuidado\nentre las azucenas olvidado.",
+      "body": "詩篇の結尾連──「留まり（Quedéme）、忘れ（olvidéme）……すべては止み（cesó todo）、我を手放した（dejéme）……忘れ去って（olvidado）」という自己消滅の動詞の連鎖が収束する。「olvidarse（忘れる）」という再帰動詞の二度の使用：自らを忘れる（olvidéme）と、憂いを忘れる（olvidado）──自己が消え去った後に憂いも消える。「cesó todo（すべては止み）」──ヨハネの神秘主義における「万物の停止」：時間・感覚・自己意識のすべてが合一の瞬間に停止する。ブランショ『文学の空間』での「作品の完成」──作品は完成の瞬間に詩人の意識から離れて「それ自身の夜」へと入る──という命題が、「cesó todo」の後に訪れる「azucenas（百合）の中の忘却」と共鳴する：詩人も魂も、完成の後に自己を手放す。ヴェイユ「Accepter le vide」最終命題「Mais il ne faut pas s'y jeter（しかし自ら飛び込んではならない）」との対照：ヴェイユが「空虚への自発的な飛び込み」を禁じたのに対し、ヨハネの結尾は飛び込みではなく「静かな手放し（dejéme）」として描かれる──能動的放棄ではなく、合一の後の自然な忘却として。",
+      "targetId": "weil_accepter_le_vide",
+      "targetParagraphId": 5
+    },
+    {
+      "paragraphId": 8,
+      "type": "intertextual",
+      "anchor": "cesó todo y dejéme,\ndejando mi cuidado\nentre las azucenas olvidado.",
+      "body": "「すべては止み、我を手放した……百合の花々の中に忘れ去って」──雅歌2:16「私の愛する者は私のもの、私は彼のもの。彼は百合の花の間で群れを養う」の直接的典拠。ヴェイユ「Les Astres」最終行「Il est là dans le cœur soudain, leur feu divin（突然心の中にある、彼らの神の火が）」との構造的対応：「Les Astres」では沈黙とよろめきの後に「突然（soudain）」神の火が内から現れ、「Noche oscura」ではすべてが止んだ後に忘却と休息が訪れる──どちらも人間の能動性の極限における逆転として描かれる。",
+      "targetId": "weil_les_astres",
+      "targetParagraphId": 1
+    }
+  ]
+}
