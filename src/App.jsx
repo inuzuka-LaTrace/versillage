@@ -258,6 +258,7 @@ export default function App() {
       ...traklData,
       ...hoelderlinData,
       ...rilkeData,
+      ...juan_de_la_cruzData,
     };
     setTexts(allTexts);
   const timer = setTimeout(() => {
