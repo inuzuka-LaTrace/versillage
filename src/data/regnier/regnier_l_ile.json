@@ -1,0 +1,89 @@
+{
+  "id": "regnier_l_ile",
+  "title": "L'Île",
+  "author": "Henri de Régnier",
+  "source": "La Cité des eaux, Mercure de France, s.d. (15e éd.), p. 37; https://fr.wikisource.org/wiki/L%27%C3%8Ele_(Henri_de_R%C3%A9gnier)",
+  "year": "1902",
+  "firstPublication": "La Cité des eaux, Mercure de France, 1902",
+  "difficulty": "中級",
+  "category": "regnier",
+  "originalLang": "fr-FR",
+  "modernRelevance": "★★★★☆",
+  "context": "詩集『水の都（La Cité des eaux）』（1902）所収。「Le Bouquet」に続く第24詩。ソネット形式（4・4・3・3行）。島（île）の孤立した空間に四角いパヴィリオンが閉じ込められ、その内部に眠るハープの最後の和音が沈黙に封じ込められるという詩集全体の音楽的終焉の形象を描く。§1で低い島が柳の涙とポプラの戦慄の中に四角いパヴィリオンを孤立させ、§2でガラス越しに見えるハープの骨ばった翼がかつての指の触れの記憶を弦に保持する。§3で白いパヴィリオンが最後の和音を内に宿して眠りにつき、§4の問い──「閉じた窓から歌がまだ滲み出て、緑みがかった水を魅了し、ポプラを震わせ柳に啜り泣かせているのではないか？」──が詩集全体の音楽の残存という主題的問いかけとして閉じる。「tremble（ポプラ）／tremble（震える）」「saule（柳）／sangloter le saule（柳が啜り泣く）」という音響的反響が詩の論理を体現する。",
+  "keywords": [
+    "島",
+    "孤立",
+    "ハープ",
+    "最後の和音",
+    "沈黙に封じ込められた音楽",
+    "ポプラと柳",
+    "閉じた窓",
+    "音の残存"
+  ],
+  "relatedTexts": [
+    "regnier_le_bouquet",
+    "regnier_le_pavillon",
+    "regnier_le_bassin_vert",
+    "regnier_l_abandon",
+    "mallarme_sainte",
+    "rodenbach_du_silence"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "verses": "v.1–4",
+      "original": "L'île basse, parmi les eaux, isole en elle,\nSous les pleurs du vieux saule et le frisson du tremble,\nLe pavillon carré dont la tristesse semble\nEnclore en son secret un silence fidèle.",
+      "provisionalTranslation": "低い島が、水の中に、その内に孤立させる、\n古い柳の涙とポプラの戦慄の下に、\n四角いパヴィリオンを、その哀愁は\n忠実な沈黙をその秘密の内に閉じ込めているように見える。"
+    },
+    {
+      "id": 2,
+      "verses": "v.5–8",
+      "original": "Par les vitres, on voit, qui se décharne, l'aile\nD'une harpe tendre ses cordes où il tremble\nUn peu du frôlement des doigts qui l'ont ensemble\nFait vibrer doucement jadis, sonore et grêle.",
+      "provisionalTranslation": "ガラス越しに見える、骨ばっていく、ハープの翼が\nその弦を張り、そこには震えている、\nかつて共に柔らかく振動させた指の触れの\nほんのわずかが、澄んで細やかな音色として。"
+    },
+    {
+      "id": 3,
+      "verses": "v.9–11",
+      "original": "Et le blanc pavillon de marbre et de cristal\nS'est endormi, avec en lui l'accord final\nQue le silence embaume en son ombre engourdie ;",
+      "provisionalTranslation": "そして大理石とクリスタルの白いパヴィリオンは\n眠りについた、その内に最後の和音を宿して、\nその麻痺した影の中に沈黙が香油を注ぐ最後の和音を；"
+    },
+    {
+      "id": 4,
+      "verses": "v.12–14",
+      "original": "Et qui sait si le chant, par la fenêtre close,\nN'en filtre pas encor pour charmer l'eau verdie,\nFaire trembler le tremble et sangloter le saule ?",
+      "provisionalTranslation": "そして誰が知ろう、歌が、閉じた窓から、\nまだ滲み出て緑みがかった水を魅了し、\nポプラを震わせ柳に啜り泣かせているかどうかを？"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "prosody",
+      "anchor": null,
+      "body": "全14行のソネット形式（quatrain・quatrain・tercet・tercet）。12音節アレクサンドラン。韻はABBAのエンブラッセ韻──elle／grêle（A）、tremble／semble（B）。詩の最大の音響的特徴は第14行の「Faire trembler le tremble et sangloter le saule（ポプラを震わせ柳に啜り泣かせる）」──tremble（ポプラ）という植物名とtrembler（震える）という動詞の同音的衝突、saule（柳）とsangloter（啜り泣く）の頭韻（s音の連鎖）が、音楽の残存という詩の主題を言語の音響レベルで体現する。§1の韻語tremble（ポプラ）が§2のtremble（震える）として意味を変えて反響するという同一語の意味論的二重化も同様の音響的戦略。詩集全体の「音楽の消滅」というモチーフ──「Le Bassin vert」のナイアードの歌・「La Nymphe」の沈黙──の楽器（ハープ）による最終的な定式化。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "glossary",
+      "anchor": "L'île basse, parmi les eaux, isole en elle,\nSous les pleurs du vieux saule et le frisson du tremble,",
+      "body": "「低い島が水の中に孤立させる、古い柳の涙とポプラの戦慄の下に」。「les pleurs du vieux saule（古い柳の涙）」──柳（saule）の垂れ下がる枝が「涙（pleurs）」として擬人化される。西洋詩の柳の図像学──哀悼・喪・エレジーの植物──がここでは「古い（vieux）」という形容詞によって時間の堆積を帯びる。「le frisson du tremble（ポプラの戦慄）」──ポプラ（tremble）の学名的特性（葉が風に常時震える）が「戦慄（frisson）」として擬人化される；この「tremble」という語が第14行の「trembler le tremble（ポプラを震わせる）」という動詞・名詞の同音衝突を準備する。「Trianon」§2の「le saule où roucoula la colombe envolée（飛び去った鳩が鳴いていた柳）」への参照。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "Par les vitres, on voit, qui se décharne, l'aile\nD'une harpe tendre ses cordes où il tremble\nUn peu du frôlement des doigts qui l'ont ensemble\nFait vibrer doucement jadis, sonore et grêle.",
+      "body": "「ガラス越しに見える、骨ばっていくハープの翼がその弦を張り、そこにはかつて共に柔らかく振動させた指の触れのほんのわずかが震えている」。「qui se décharne（骨ばっていく）」──harpeの翼柱が肉を失って骨格化していくという身体的腐朽の過程が、同時に弦楽器の解体として提示される。「l'aile d'une harpe（ハープの翼）」──詩集全体の翼のモチーフ（「L'Abandon」の灰の翼・「Intérieur」の愛の翼）がここではハープの共鳴板の比喩として楽器に転用される。「Un peu du frôlement des doigts（指の触れのほんのわずか）」という量的縮小──過去の音楽の記憶が弦に「ほんのわずか（un peu）」残存するという詩集の物の忠実さ（「Le Bouquet」§3の「les choses sont fidèles」）の楽器的体現。"
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "Et le blanc pavillon de marbre et de cristal\nS'est endormi, avec en lui l'accord final\nQue le silence embaume en son ombre engourdie ;",
+      "body": "「大理石とクリスタルの白いパヴィリオンは眠りについた、その内に最後の和音を宿して、その麻痺した影の中に沈黙が香油を注ぐ最後の和音を」。「l'accord final（最後の和音）」──音楽の終焉の形象として、パヴィリオンが「眠り」という死の隠喩によって最後の音を内部に封印する。「que le silence embaume（沈黙が香油を注ぐ）」──embaume（香油を注ぐ・防腐処理する）という動詞が沈黙を死体保存の行為として提示する；最後の和音が沈黙によって「腐敗から守られた（防腐処理された）」状態として保存されるという逆説。「engourdie（麻痺した）」──「L'Abandon」§2の「Le silence engourdi（麻痺した沈黙）」の反響として、沈黙の麻痺状態が音楽の保存容器として機能する。"
+    },
+    {
+      "paragraphId": 4,
+      "type": "commentary",
+      "anchor": "Et qui sait si le chant, par la fenêtre close,\nN'en filtre pas encor pour charmer l'eau verdie,\nFaire trembler le tremble et sangloter le saule ?",
+      "body": "詩の閉幕。「誰が知ろう、歌が閉じた窓からまだ滲み出て、緑みがかった水を魅了し、ポプラを震わせ柳に啜り泣かせているかどうかを？」。「Et qui sait si…（そして誰が知ろうか……かどうかを）」という修辞的疑問が、「閉じた窓から音楽が滲み出る可能性」を断定せずに開いたまま閉じる──詩集全体の「沈黙の内に保存された音楽」という主題を問いとして最終化する。「Faire trembler le tremble et sangloter le saule（ポプラを震わせ柳に啜り泣かせる）」──tremble（ポプラ）とtrembler（震える）の同音衝突、saule（柳）とsangloter（啜り泣く）の頭韻という二重の音響的反響が、「音楽が自然を震わせ泣かせる」というオルフェウス的主題を言語の音そのもので体現する。マラルメ「聖女」の「selon nul chantoire / Du soir Volant sans aile / Un peu de ciel enfantin（翼なく飛ぶ夕べの / 音無き歌に従い / 少しばかりの幼き空）」という閉じた音楽の残存と同一の詩的論理。"
+    }
+  ]
+}
