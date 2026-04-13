@@ -2097,7 +2097,7 @@ const handleTextChange = (textId) => {
       Dispositif de lecture, de traduction et de mémoire.<br />
       <br />
       Recueil de {Object.keys(texts).length} textes<br />
-      掲載の日本語訳は学習補助の為の試訳であり、確定した翻訳ではありません
+      掲載の日本語訳は学習を補助する試訳であり、確定した翻訳ではありません
     </p>
   </div>
 </div>
