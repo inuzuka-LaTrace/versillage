@@ -1,0 +1,89 @@
+{
+  "id": "mallarme_mes_bouquins",
+  "title": "Mes bouquins refermés sur le nom de Paphos",
+  "author": "Stéphane Mallarmé",
+  "source": "Album de vers et de prose, Bruxelles, 1887; https://fr.wikisource.org/wiki/Album_de_vers_et_de_prose_(Mallarm%C3%A9)/%C2%AB_Mes_bouquins_referm%C3%A9s_sur_le_nom_de_Paphos_%C2%BB",
+  "year": "1878",
+  "firstPublication": "Album de vers et de prose, Bruxelles, 1887",
+  "difficulty": "上級",
+  "category": "mallarme",
+  "originalLang": "fr-FR",
+  "modernRelevance": "★★★★★",
+  "context": "14行・12音節アレクサンドラン、ABBA-ABBA-CCD-EDE の韻型。詩全体が「不在」と「欠如」の詩学の最も精緻な実践として読まれる。§1で「パフォスの名の上で閉じた書物」から出発し、唯一の天才で廃墟を選ぶという行為を「戯れ（il m'amuse）」として提示する。§2で「大鎌の沈黙とともに寒さが走る」冬景色に対して「虚ろな哀歌をフクロウのように鳴かない」という二重否定的抵抗が続き、「処女のような跳躍（très vierge ébat）」が偽りの風景の名誉を拒否する。§3で「飢えはどんな果実でも自分を養えないが、博学な欠如の中に等しい味わいを見出す──人間的で香り立つ肉の閃きが爆発するならば！」という逆説的充足が提示され、§4の「愛を焚き付けるトカゲの上に足を置いて、私はより長く、より狂おしく、別の者を──古代のアマゾンの焼かれた乳房を──思う」という閉幕へと至る。サルトル（『マラルメ』、1986）の「不在の想像力と書物の閉鎖」論、リシャール（『マラルメの想像的宇宙』）の「欠如の物質論と飢え」の分析、ブランショ（『文学の空間』・『来るべき書物』）の「書物の閉鎖と開口」論が交差する。",
+  "keywords": [
+    "パフォスの名の上で閉じた書物",
+    "廃墟の選択",
+    "大鎌の沈黙",
+    "虚ろな哀歌",
+    "博学な欠如",
+    "肉の閃き",
+    "トカゲと愛の焚き付け",
+    "古代のアマゾンの焼かれた乳房"
+  ],
+  "relatedTexts": [
+    "mallarme_quand_l_ombre",
+    "mallarme_victorieusement",
+    "mallarme_sonnet_yx",
+    "mallarme_lazur",
+    "mallarme_herodiade_scene",
+    "mallarme_toast_funebre"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "verses": "v.1–4",
+      "original": "Mes bouquins refermés sur le nom de Paphos,\nIl m'amuse d'élire avec le seul génie\nUne ruine, par mille écumes bénie\nSous l'hyacinthe, au loin, de ses jours triomphaux.",
+      "provisionalTranslation": "パフォスの名の上で閉じた私の書物、\n唯一の天才で廃墟を選ぶことが私を楽しませる、\n千の波泡で祝福された廃墟を\n遠くに、その凱旋の日々のヒュアキントスの下に。"
+    },
+    {
+      "id": 2,
+      "verses": "v.5–8",
+      "original": "Coure le froid avec ses silences de faulx,\nJe n'y hululerai pas de vide nénie\nSi ce très vierge ébat au ras du sol dénie\nÀ tout site l'honneur du paysage faux.",
+      "provisionalTranslation": "大鎌の沈黙とともに寒さが走るがいい、\n私はそこで虚ろな哀歌をフクロウのように鳴かないだろう\nこの至って処女のような跳躍が地面すれすれに\nすべての場所に偽りの風景の名誉を拒むなら。"
+    },
+    {
+      "id": 3,
+      "verses": "v.9–11",
+      "original": "Ma faim qui d'aucuns fruits ici ne se régale\nTrouve en leur docte manque une saveur égale :\nQu'un éclate de chair humain et parfumant !",
+      "provisionalTranslation": "ここではどんな果実でも自分を養えない私の飢えは\n博学な欠如の中に等しい味わいを見出す：\n人間的で香り立つ肉の閃きが爆発するならば！"
+    },
+    {
+      "id": 4,
+      "verses": "v.12–14",
+      "original": "Le pied sur quelque guivre où notre amour tisonne,\nJe pense plus longtemps peut-être éperdûment\nÀ l'autre, au sein brûlé d'une antique amazone.",
+      "provisionalTranslation": "私たちの愛が焚き付けるトカゲの上に足を置いて、\n私はより長く、おそらくより狂おしく思う\n別の者を──古代のアマゾンの焼かれた乳房を。"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "prosody",
+      "anchor": null,
+      "body": "14行・12音節アレクサンドラン。韻型ABBA-ABBA-CCD-EDE──Paphos／faux（A）、génie／bénie（B）、régale／égale（C）、parfumant／éperdûment（D）、tisonne／amazone（E）。詩の統語的核心は「Mes bouquins refermés（閉じた私の書物）」という過去分詞の絶対分詞構文による開始──書物の閉鎖という完了した行為から詩全体が出発する。ブランショ（『来るべき書物』「書物と書くことの欲求」）はこの「refermés（閉じた）」を書物の本質的運命として分析する──書物は読まれることによって閉じられ、閉じることによってはじめてその内部の理念が解放される；「パフォスの名の上で閉じた」という「名の上での閉鎖」が書物の自己完結的閉鎖の最も純粋な形式。サルトル（『マラルメ』、1986）はこのソネットを「不在の想像力の最高の実践」として位置づける──現前する廃墟・寒さ・地面という知覚的現実に対して、不在のパフォス・アマゾンという想像的対象が詩人の意識を占領するという意識論的構造。リシャール（『マラルメの想像的宇宙』）は「avec le seul génie（唯一の天才で）」という句を「精神の孤立した創造力」として──外部の現実（廃墟・波泡）から詩的理念を抽出する孤独な創造行為として──分析する。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "Mes bouquins refermés sur le nom de Paphos,\nIl m'amuse d'élire avec le seul génie\nUne ruine, par mille écumes bénie\nSous l'hyacinthe, au loin, de ses jours triomphaux.",
+      "body": "「パフォスの名の上で閉じた私の書物──唯一の天才で、凱旋の日々のヒュアキントスの下に遠くで千の波泡で祝福された廃墟を選ぶことが私を楽しませる」。サルトル（『マラルメ』）は冒頭の「Mes bouquins refermés sur le nom de Paphos（パフォスの名の上で閉じた書物）」を「書物の名辞的閉鎖」として詳細に分析する──書物が「パフォス」という固有名詞の上で閉じられることで、パフォス（ウェヌスの島・愛と美の聖地）は書物の内部に封印された理念的対象として不在化される；サルトルの意識論において、想像的対象（パフォスの廃墟）は知覚的対象（目前の風景）の非措定的否定として機能する──詩人は目の前の現実を「パフォスでないもの」として意識することで、不在のパフォスを想像的に召喚する。「il m'amuse（私を楽しませる）」──amuser（楽しませる）という軽いトーンの動詞が詩的創造行為に付与されることをリシャール（『マラルメの想像的宇宙』）は強調する；崇高な美的行為が「戯れ（amusement）」として提示されることで、詩人の創造的自由が脅迫的義務ではなく遊戯的選択として定義される──「L'Azur」の強迫的天空に対するこの詩の解放的軽さ。「par mille écumes bénie（千の波泡で祝福された）」──パフォスはウェヌス（アフロディテ）が海の泡から生まれた場所として神話的に定義される；「mille écumes（千の波泡）」がウェヌスの誕生の物質的基盤として廃墟を祝福する。「Sous l'hyacinthe（ヒュアキントスの下に）」──ヒュアキントス（ヒヤシンス）はギリシャ神話でアポロンに愛されながら死んだ美少年の花として変身した植物；「jours triomphaux（凱旋の日々）」のヒヤシンスという時間的遠景が廃墟の過去的栄光を嗅覚・色彩的に保存する。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "Coure le froid avec ses silences de faulx,\nJe n'y hululerai pas de vide nénie\nSi ce très vierge ébat au ras du sol dénie\nÀ tout site l'honneur du paysage faux.",
+      "body": "「大鎌の沈黙とともに寒さが走るがいい──この至って処女のような跳躍が地面すれすれにすべての場所に偽りの風景の名誉を拒むなら、私はそこで虚ろな哀歌をフクロウのように鳴かないだろう」。「ses silences de faulx（大鎌の沈黙）」──faulx（大鎌）は「Quand l'ombre menaça」の「fatale loi（運命の法）」・「Tout Orgueil」§1の「Torche étouffée（窒息した炬火）」という詩集の死的消滅のモチーフへの参照；大鎌という死の図像学的属性が「沈黙（silences）」として音響的に提示される。「Je n'y hululerai pas de vide nénie（虚ろな哀歌をフクロウのように鳴かないだろう）」──hululer（フクロウのように鳴く）という動詞が「Renouveau」§3の「Mordant la terre chaude（温かい土を噛む）」という大地的接触とは対照的に、ここでは詩人が感傷的喪の嘆きを拒絶することの宣言として機能する。ブランショ（『文学の空間』「詩の孤独」）はこの「虚ろな哀歌の拒絶」を「詩人の孤独な沈黙の保持」として──感傷的な声の放出に対する詩的内部化の選択として──読む。「ce très vierge ébat au ras du sol（地面すれすれの至って処女のような跳躍）」──リシャール（『マラルメの想像的宇宙』）はこの「très vierge ébat（至って処女のような跳躍）」を「詩的想像力の純粋な遊戯的運動」として分析する；「au ras du sol（地面すれすれ）」という低い跳躍の高度が§1の「廃墟の選択」の謙虚さを運動的に体現する。「À tout site l'honneur du paysage faux（すべての場所に偽りの風景の名誉を拒む）」──「paysage faux（偽りの風景）」という否定的判断がサルトルの「知覚的現実の非措定的否定」の運動として機能する──目前の実際の風景が「偽り（faux）」として否定されることで、不在のパフォスという真の風景が想像的に肯定される。"
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "Ma faim qui d'aucuns fruits ici ne se régale\nTrouve en leur docte manque une saveur égale :\nQu'un éclate de chair humain et parfumant !",
+      "body": "「ここではどんな果実でも自分を養えない私の飢えは、博学な欠如の中に等しい味わいを見出す：人間的で香り立つ肉の閃きが爆発するならば！」。リシャール（『マラルメの想像的宇宙』）はこの三行を「欠如の物質論の核心」として詳細に分析する──「Ma faim（私の飢え）」という官能的・肉体的欲求が「d'aucuns fruits ici ne se régale（ここではどんな果実でも自分を養えない）」という不満足として提示される；しかし「leur docte manque（博学な欠如）」という欠如に「saveur égale（等しい味わい）」が見出されるという逆説がリシャールの「欠如の充足論」の核心。「docte manque（博学な欠如）」──docte（博学な）という知的形容詞が「manque（欠如）」という否定的存在に付与される；リシャールはこれを「欠如が知識として機能する」という認識論的命題として読む──満たされない飢えがその満たされなさを通じて対象の実在性を逆説的に確認する。サルトル（『マラルメ』）はこの「欠如の味わい」を「不在の想像的対象の現前感」として分析する──想像的対象（パフォスの廃墟・アマゾンの乳房）は現前しないことによってこそその充実した実在性を意識に与える；「docte manque」の「docte（博学な）」はこの欠如が無知の欠如ではなく知に裏打ちされた欠如──つまりパフォスとアマゾンを知る者だけが感じる欠如──であることを定義する。「Qu'un éclate de chair humain et parfumant !（人間的で香り立つ肉の閃きが爆発するならば！）」──感嘆符付きの条件節が欲望の頂点として機能する；ブランショ（『文学の空間』）はこの「肉の閃き（éclat de chair）」を「言語が到達できない身体的現前の閃光」として──「Tout Orgueil」§4の「fulgurante console（閃光するコンソール）」という詩的言語の自己照明に対して、ここでは言語の外部にある肉体的閃光が条件的に召喚される──読む。"
+    },
+    {
+      "paragraphId": 4,
+      "type": "commentary",
+      "anchor": "Le pied sur quelque guivre où notre amour tisonne,\nJe pense plus longtemps peut-être éperdûment\nÀ l'autre, au sein brûlé d'une antique amazone.",
+      "body": "詩の閉幕。「私たちの愛が焚き付けるトカゲの上に足を置いて、私はより長く、おそらくより狂おしく、別の者を──古代のアマゾンの焼かれた乳房を──思う」。「quelque guivre où notre amour tisonne（私たちの愛が焚き付けるトカゲ）」──guivre（グイーヴル、古フランス語でトカゲ・蛇・竜を意味する）という中世紋章学的な動物が「tisonne（焚き付ける）」という動詞の目的語として；tisonner（火を突いて燃やす）という動詞が愛という感情を炎として保持し続ける行為として提示される。リシャール（『マラルメの想像的宇宙』）は「notre amour（私たちの愛）」という複数の一人称を「現前する女性との現実的な愛の場面」として読む──詩人は現実の愛の相手（tu）とともにありながら、より強烈に不在の他者（l'autre）を思うという欲望の分裂を提示する。「Je pense plus longtemps peut-être éperdûment / À l'autre（より長く、おそらくより狂おしく、別の者を思う）」──「éperdûment（狂おしく）」という副詞の強度と「peut-être（おそらく）」という認識的留保の共存がサルトル（『マラルメ』）の言う「想像的対象への意識の集中」の精度として機能する；現実の愛の相手への「より短い」思考に対して、不在の他者への「より長く・より狂おしい」思考という非対称的強度の比較。「au sein brûlé d'une antique amazone（古代のアマゾンの焼かれた乳房）」──詩集全体の閃光的閉幕の中で最も暴力的かつ最も性的なイメージとして、アマゾン（右の乳房を弓を引くために焼き切ったとされる古代の女戦士）の「焼かれた乳房（sein brûlé）」が欲望の最終対象として提示される。ブランショ（『文学の空間』「書くことの孤独」）はこの閉幕を「書物の閉鎖の向こう側にある到達不可能な身体の召喚」として読む──「Mes bouquins refermés（閉じた書物）」という開始から「sein brûlé d'une antique amazone（古代のアマゾンの焼かれた乳房）」という閉幕への詩の弧が、書物という閉じた言語空間が最終的に指示しようとする「不在の身体」を、書物の閉鎖の外部に永遠に残存させるという文学の根本的逆説を体現する。リシャールはこの「焼かれた乳房」を「欠如の物質論の極点」として──§3の「docte manque（博学な欠如）」が具体的な傷として身体化された形象として──読む；乳房の焼失という欠如が最も強烈な官能的想像を生産するという「欠如の充足論」の肉体的完成として。"
+    }
+  ]
+}
