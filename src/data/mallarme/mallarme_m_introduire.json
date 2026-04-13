@@ -1,0 +1,89 @@
+{
+  "id": "mallarme_m_introduire",
+  "title": "M'introduire dans ton histoire",
+  "author": "Stéphane Mallarmé",
+  "source": "Vers et Prose, Perrin et Cie, 1893, p. 38–39; https://fr.wikisource.org/wiki/Vers_et_Prose_(Mallarm%C3%A9)/%C2%AB_M%27introduire_dans_ton_histoire_%C2%BB",
+  "year": "1885",
+  "firstPublication": "La Revue indépendante, 1885; Vers et Prose, Perrin et Cie, 1893",
+  "difficulty": "上級",
+  "category": "mallarme",
+  "originalLang": "fr-FR",
+  "modernRelevance": "★★★★★",
+  "context": "マラルメの最も難解なソネットの一篇。14行・8音節詩（オクトシラブ）、ABBA-ABBA-CCD-EDE の韻型。詩集『Vers et Prose』（1893）所収、「Quelle soie aux baumes de temps」の直前に位置する。詩全体が句読点を完全に欠くという形式的特徴を持ち、「私があなたの歴史に侵入すること」という一人称的侵入の行為から始まり、怯えた英雄・氷河への攻撃・純朴な罪・大笑いする勝利・雷と紅玉髄・死にゆく紫の車輪という密度の高い語彙連鎖へと展開する。§1で「あなたの歴史に侵入すること」が「裸の才能で領土の芝生に触れた怯えた英雄として」と定義される。§2で「氷河への攻撃者」として「あなたが阻もうとしなかった純朴な罪が高らかに笑う」という逆説的勝利が提示される。§3の「言え、私が喜ばしくないかどうかを──車軸に雷と紅玉髄──この火が穿つ空中に、散らばる王国とともに見ること」という感嘆的命令が続き、§4の「私の戦車の唯一の夕暮れの車輪が紫に死んでいくように」という日没の太陽戦車的閉幕へと至る。ジャン＝ピエール・リシャール（『マラルメの想像的宇宙』）のエロス・侵入・色彩論、ジャック・デリダ（「マラルメ」、『散種』）の「歴史（histoire）」という語の二義性──物語／歴史──をめぐる分析が交差する。",
+  "keywords": [
+    "歴史への侵入",
+    "怯えた英雄",
+    "裸の才能",
+    "氷河への攻撃",
+    "純朴な罪",
+    "車軸の雷と紅玉髄",
+    "散らばる王国",
+    "紫に死んでいく車輪"
+  ],
+  "relatedTexts": [
+    "mallarme_quelle_soie",
+    "mallarme_victorieusement",
+    "mallarme_tout_orgueil",
+    "mallarme_lazur",
+    "mallarme_renouveau",
+    "mallarme_herodiade_scene"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "verses": "v.1–4",
+      "original": "M'introduire dans ton histoire\nC'est en héros effarouché\nS'il a du talent nu touché\nQuelque gazon de territoire",
+      "provisionalTranslation": "あなたの歴史に侵入すること、\nそれは怯えた英雄として、\n裸の才能で、もし彼が触れたとしたら\n領土のいくらかの芝生に"
+    },
+    {
+      "id": 2,
+      "verses": "v.5–8",
+      "original": "À des glaciers attentatoire\nJe ne sais le naïf péché\nQue tu n'auras pas empêché\nDe rire très haut sa victoire",
+      "provisionalTranslation": "氷河への攻撃者として\n私の知らない純朴な罪が\nあなたが阻もうとしなかったのだが\n高らかにその勝利を笑う"
+    },
+    {
+      "id": 3,
+      "verses": "v.9–11",
+      "original": "Dis si je ne suis pas joyeux\nTonnerre et rubis aux moyeux\nDe voir en l'air que ce feu troue",
+      "provisionalTranslation": "言え、私が喜ばしくないかどうかを\n車軸に雷と紅玉髄\nこの火が穿つ空中に見ることで"
+    },
+    {
+      "id": 4,
+      "verses": "v.12–14",
+      "original": "Avec des royaumes épars\nComme mourir pourpre la roue\nDu seul vespéral de mes chars",
+      "provisionalTranslation": "散らばる王国とともに\n車輪が紫に死んでいくように\n私の戦車の唯一の夕暮れの"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "prosody",
+      "anchor": null,
+      "body": "14行・8音節詩（オクトシラブ）。韻型ABBA-ABBA-CCD-EDE──histoire／territoire（A）、effarouché／touché（B）、joyeux／moyeux（C）、troue／roue（D）、épars／chars（E）。詩全体が句読点を完全に欠く──マラルメの詩の中でも際立つ形式的特徴として、意味的区切りが韻律的境界のみによって管理される。リシャール（『マラルメの想像的宇宙』）はこの「句読点の不在」を「詩の意味的浮遊」として分析する──句読点の欠如が読み手に統語的再構成を強制し、複数の統語的解釈が同時に成立するという多義的空間を生む。詩の統語的核心は「M'introduire dans ton histoire / C'est…（侵入すること、それは…）」という不定詞主語の定義文として始まりながら、§2以降で定義の主語が「英雄」から「純朴な罪」へと滑走し、§3で突然の「Dis（言え）」という命令法へと転換する──この統語的不安定性がデリダ（「マラルメ」、『散種』）の分析する「意味の散種」の形式的実現として機能する。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "M'introduire dans ton histoire\nC'est en héros effarouché\nS'il a du talent nu touché\nQuelque gazon de territoire",
+      "body": "「あなたの歴史に侵入すること──それは怯えた英雄として、裸の才能で領土のいくらかの芝生に触れたとしたら」。デリダ（「マラルメ」、『散種』）は冒頭の「ton histoire（あなたの歴史）」の「histoire」という語の二義性を分析の起点とする──「histoire」はフランス語で「物語（story）」と「歴史（history）」を同時に意味する；詩人が侵入するのは女性の「物語（肉体的・親密な語り）」であると同時に「歴史（公的・時間的な記録）」でもあるという二重性が、詩全体の私的／公的、親密／公的という対立を内包する。リシャール（『マラルメの想像的宇宙』）は「héros effarouché（怯えた英雄）」という矛盾的形容を詩人の詩的侵入の身体的感情として分析する──英雄性（heroïsme）と怯え（effarouchement）の矛盾が「裸の才能（du talent nu）」という無防備な芸術的能力の提示と連動する。「talent nu（裸の才能）」──「Quelle soie」§1の「torse et native nue（捩れた生来の裸）」という裸の系列として、ここでは才能という精神的能力が「裸（nu）」という形容詞によって身体的脆弱性として提示される。「Quelque gazon de territoire（領土のいくらかの芝生）」──「Renouveau」§3の「Mordant la terre chaude（温かい土を噛む）」という大地との接触に対し、ここでは「芝生（gazon）」という整備された小規模な自然的表面への「触れる（touché）」という軽い接触として、詩的侵入の謙虚さを提示する。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "À des glaciers attentatoire\nJe ne sais le naïf péché\nQue tu n'auras pas empêché\nDe rire très haut sa victoire",
+      "body": "「氷河への攻撃者として──私の知らない純朴な罪が、あなたが阻もうとしなかったのだが、高らかにその勝利を笑う」。「À des glaciers attentatoire（氷河への攻撃者として）」──attentatoire（攻撃的・侵犯的）という形容詞が英雄の侵入行為を法律的・暴力的な攻撃として定義する；glaciers（氷河）はマラルメの詩的語彙において純粋性・冷却・高所という価値系列に属する──「Renouveau」§1の「L'hiver lucide（明晰な冬）」の延長線上に氷河の純粋な硬質性として位置づけられる。リシャール（『マラルメの想像的宇宙』）は「氷河への攻撃」を「硬質な純粋物への詩的エロスの侵入」として分析する──氷河という難攻不落の高山的純粋性に芝生という低地の柔らかな自然性で挑むという非対称な詩的身振り。「le naïf péché（純朴な罪）」──naïf（純朴な・無垢な）という形容詞が罪（péché）に付与される逆説；「あなたが阻もうとしなかった（que tu n'auras pas empêché）」という未来完了形による過去の確定が、女性側の黙認という積極的な共犯性を示す。デリダ（「マラルメ」、『散種』）はこの「純朴な罪」を「書く行為の無垢な犯罪性」として読む──詩的侵入（M'introduire）という書き込みの行為が「罪」でありながら「純朴（naïf）」である──テクストは意図せずして意味の制度に犯罪的侵入を行うという書字論的議論。「De rire très haut sa victoire（高らかにその勝利を笑う）」──「Victorieusement fui」§1の「Victorieusement（勝利的に）」という副詞に対応する笑いとしての勝利；高笑いという音響的・空間的展開が氷河の沈黙的純粋性への対極的行為として機能する。"
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "Dis si je ne suis pas joyeux\nTonnerre et rubis aux moyeux\nDe voir en l'air que ce feu troue",
+      "body": "「言え、私が喜ばしくないかどうかを──車軸に雷と紅玉髄──この火が穿つ空中に見ることで」。「Dis si je ne suis pas joyeux（言え、私が喜ばしくないかどうかを）」──突然の命令法「Dis（言え）」が§1・§2の叙述的定義から§3の感嘆的命令への転換を刻む；この命令法が向けられる「tu（あなた）」が冒頭の「ton histoire（あなたの歴史）」の女性と同一か否かが詩の統語的曖昧性の中心をなす。リシャール（『マラルメの想像的宇宙』）は「joyeux（喜ばしい）」という形容詞を詩集全体における「否定的経験から喜びへの逆説的転換」の語として分析する──「Renouveau」§4の「l'azur rit（空が笑う）」という詩人への無関心な笑いに対し、ここでは詩人自身が「joyeux（喜ばしい）」を要求する。「Tonnerre et rubis aux moyeux（車軸に雷と紅玉髄）」──詩集の中で最も凝縮された共感覚的イメージ；tonnerre（雷）という聴覚的現象とrubis（紅玉髄）という視覚的宝石が「moyeux（車軸）」という機械的回転部位に同時に付与される。リシャールはこの「雷と紅玉髄の車軸」を「回転する光の物質化」として分析する──車軸が高速回転することで雷の轟音と紅玉髄の赤い閃光が同時に生産されるという動的な色彩・音響の合体。デリダ（「マラルメ」、『散種』）は「rubis（紅玉髄）」を「pourpre（紫）」（§4）との色彩的連絡として──赤から紫への夕暮れの色の推移──として読み、詩の色彩論的弧を追跡する。「ce feu troue（この火が穿つ）」──「Tout Orgueil」§4の「fulgurante console（閃光するコンソール）」という火の瞬間的閃光に対し、ここでは火が空間を「穿つ（troue）」という貫通的・暴力的な光として提示される。"
+    },
+    {
+      "paragraphId": 4,
+      "type": "commentary",
+      "anchor": "Avec des royaumes épars\nComme mourir pourpre la roue\nDu seul vespéral de mes chars",
+      "body": "詩の閉幕。「散らばる王国とともに、私の戦車の唯一の夕暮れの車輪が紫に死んでいくように」。「Avec des royaumes épars（散らばる王国とともに）」──royaumes épars（散らばる王国）という複数・分散した政治的空間が太陽の沈没に伴う世界の崩壊として提示される；「Victorieusement fui」§1の「Tison de gloire…or, tempête（栄光の燃え差し……黄金、嵐）」という日没の宇宙的燃焼と同一の場面。リシャール（『マラルメの想像的宇宙』）はこの「散らばる王国」を「日没における光の分散・色彩の拡散」として物質論的に読む──太陽光が地平線で屈折・分散することで「王国」という広大な空間的広がりが色彩的に散布される。「Comme mourir pourpre la roue（車輪が紫に死んでいくように）」──pourpre（紫）という日没の終末的色彩が「mourir（死んでいく）」という動詞の主語「la roue（車輪）」と結合する；§3の「rubis（紅玉髄）」の赤から§4の「pourpre（紫）」への色彩的推移がリシャールの言う「日没の色彩弧──赤→紫→消滅」を構成する。デリダ（「マラルメ」、『散種』）は「Du seul vespéral de mes chars（私の戦車の唯一の夕暮れの）」の「seul（唯一の）」という形容詞に詩集全体の「唯一性の詩学」を読む──「mes chars（私の戦車）」の複数形に対する「seul vespéral（唯一の夕暮れ）」という限定が、詩人の詩的行為の唯一不可反復的性格を確定する。太陽戦車（ヘリオスの車）の神話的典故──日毎に天空を横断して海に沈む太陽の車輪が詩人の詩的行為の壮麗な自己比喩として機能し、「M'introduire dans ton histoire（あなたの歴史に侵入すること）」という謙虚な芝生への接触から「Du seul vespéral de mes chars（私の戦車の唯一の夕暮れ）」という壮大な太陽戦車的自己提示への詩全体の弧が、詩的侵入という行為の逆説的誇大化として完結する。「Victorieusement fui」§4の「il tomberait des roses（薔薇が降るだろう）」・「Tout Orgueil」§4の「fulgurante console（閃光するコンソール）」という詩集の閃光的閉幕の系列において、本詩の「mourir pourpre la roue（紫に死んでいく車輪）」は最も壮麗かつ最も暴力的な消滅として位置づけられる。"
+    }
+  ]
+}
