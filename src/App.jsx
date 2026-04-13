@@ -46,6 +46,7 @@ import swinburneData from './data/swinburne';
 import rossetti_cData from './data/rossetti_c';
 import d_g_rossettiData from './data/d_g_rossetti';
 import yeatsData from './data/yeats';
+import juan_de_la_cruzData from './data/juan_de_la_cruz';
 import { CATEGORIES, CAT_SHORT, ANNOTATION_TYPE_DEF, SPEECH_RATES, PREFERRED_VOICES, SPEAKER_COLORS, SPEAKER_FIXED_COLORS, AUTHOR_COLOR_MAP } from './constants';
 import { getTranslation, getOriginalText, getSpeechLang, getBestVoice, extractSnippet } from './utils';
 
@@ -2077,7 +2078,7 @@ export default function App() {
       className={`text-[8px] max-w-xs mx-auto ${textSecondary}`}
     >
       VANITISME ; L'archive polyglotte de la modernité :<br />
-      français, allemand, anglais, italien et russe. <br />
+      français, allemand, anglais, russe, italien et espagnol. <br />
       Dispositif de lecture, de traduction et de mémoire.<br />
       <br />
       Recueil de {Object.keys(texts).length} textes<br />
@@ -2123,7 +2124,7 @@ const TocDrawer = ({
   setTocOpenAuthors,
   handleTextChange
 }) => {
-    const langMap = { 'fr': 'fr-FR', 'de': 'de-DE', 'en': 'en-GB', 'it': 'it-IT', 'ru': 'ru-RU' };
+    const langMap = { 'fr': 'fr-FR', 'de': 'de-DE', 'en': 'en-GB', 'ru': 'ru-RU', 'it': 'it-IT', 'es': 'es-ES' };
 
     // ── フィルタリング（言語 + 検索：タイトル/作家/年/本文） ──────────
     const allTextsArr = Object.values(texts);
@@ -2271,8 +2272,9 @@ const TocDrawer = ({
               { key: 'fr',  label: 'fr' },
               { key: 'de',  label: 'de' },
               { key: 'en',  label: 'en' },
-              { key: 'it',  label: 'it' },
               { key: 'ru',  label: 'ru' },
+              { key: 'it',  label: 'it' },
+              { key: 'es',  label: 'es' },
             ].map(({ key, label }) => (
               <button
                 key={key}
