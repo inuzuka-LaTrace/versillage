@@ -2095,10 +2095,13 @@ const handleTextChange = (textId) => {
       VANITISME ; L'archive polyglotte de la modernité :<br />
       français, allemand, anglais, italien et russe. <br />
       Dispositif de lecture, de traduction et de mémoire des fragments.
+      <br />
+      <br />
+      Recueil de {Object.keys(texts).length} textes
     </p>
   </div>
         <div className={`text-center text-[9px] font-IBM Plex sans JP ${textSecondary} pb-8 space-y-1`}>
-          <p>{Object.keys(texts).length}編収録</p>
+          <p></p>
           <p>掲載の日本語訳は学習補助の為の試訳であり、確定した翻訳ではありません</p>
         </div>
       </div>
