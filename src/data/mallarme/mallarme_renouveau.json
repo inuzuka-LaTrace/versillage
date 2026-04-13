@@ -1,0 +1,89 @@
+{
+  "id": "mallarme_renouveau",
+  "title": "Renouveau",
+  "author": "Stéphane Mallarmé",
+  "source": "Les poésies de Stéphane Mallarmé, la Revue indépendante, 1887, p. 23; https://fr.wikisource.org/wiki/Renouveau_(St%C3%A9phane_Mallarm%C3%A9)_(1887)",
+  "year": "1862",
+  "firstPublication": "Le Papillon, 1862; Les poésies de Stéphane Mallarmé, Revue indépendante, 1887",
+  "difficulty": "上級",
+  "category": "mallarme",
+  "originalLang": "fr-FR",
+  "modernRelevance": "★★★★★",
+  "context": "マラルメ最初期（1862年）の詩。14行・変則ソネット（4・4・3・3行）、12音節アレクサンドラン。春の到来が詩人にとって苦悩の源であるという逆説的主題──冬こそが「穏やかな芸術の季節（saison de l'art serein）」であり、春の生命力は詩的無能（impuissance）をもたらすという定式は、後のマラルメ芸術論の萌芽として読まれる。§1で病んだ春が冬を追い払い、詩人の内部で無能が長い欠伸として伸びをする。§2で白い薄明が鉄の輪で締め付けられた頭蓋の下に温み、夢を追って大地の樹液が誇り高く闊歩する野を彷徨う。§3で樹木の香りに弱って倒れ、夢のために顔で墓穴を掘り、ライラックが芽吹く温かい土を噛む。§4で無聊が高まるのを待ちながら深淵に沈む一方、空は垣根と花咲く鳥たちの目覚めの上で笑う。ジャン＝ピエール・リシャール（『マラルメの想像的宇宙』）とガストン・バシュラール（『大地と意志の夢想』）の両者が本詩の土との接触という身体的契機を分析する。",
+  "keywords": [
+    "病んだ春",
+    "冬の芸術",
+    "詩的無能",
+    "鉄の輪の頭蓋",
+    "夢の追求",
+    "ライラックの土を噛む",
+    "無聊の上昇",
+    "笑う空"
+  ],
+  "relatedTexts": [
+    "mallarme_lazur",
+    "mallarme_angoisse",
+    "mallarme_soupir",
+    "mallarme_brise_marine",
+    "trakl_fruehling_der_seele",
+    "hoelderlin_haelfte_des_lebens"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "verses": "v.1–4",
+      "original": "Le printemps maladif a chassé tristement\nL'hiver, saison de l'art serein, l'hiver lucide,\nEt dans mon être à qui le sang morne préside\nL'impuissance s'étire en un long baîllement.",
+      "provisionalTranslation": "病んだ春が悲しく追い払った\n冬を、穏やかな芸術の季節、明晰な冬を、\nそして私の存在の中で、憂鬱な血が統べる存在の中で\n無能が長い欠伸として伸びをする。"
+    },
+    {
+      "id": 2,
+      "verses": "v.5–8",
+      "original": "Des crépuscules blancs tiédissent sous le crâne\nQu'un cercle de fer serre ainsi qu'un vieux tombeau,\nEt, triste, j'erre après un rêve vague et beau,\nPar les champs où la sève immense se pavane",
+      "provisionalTranslation": "白い薄明が温む、頭蓋の下に、\n鉄の輪が古い墓のように締め付ける頭蓋の、\nそして悲しく、私は漠然と美しい夢を追って彷徨う、\n広大な樹液が誇り高く闊歩する野を"
+    },
+    {
+      "id": 3,
+      "verses": "v.9–11",
+      "original": "Puis je tombe énervé de parfums d'arbres, las,\nEt creusant de ma face une fosse à ce rêve,\nMordant la terre chaude où poussent les lilas,",
+      "provisionalTranslation": "それから私は倒れる、樹木の香りに弱って、疲れ果て、\n顔でこの夢のための墓穴を掘りながら、\nライラックが芽吹く温かい土を噛みながら、"
+    },
+    {
+      "id": 4,
+      "verses": "v.12–14",
+      "original": "J'attends, en m'abîmant que mon ennui s'élève…\nCependant l'azur rit sur la haie et l'éveil\nDe tant d'oiseaux en fleur gazouillant au soleil.",
+      "provisionalTranslation": "私は待つ、深淵に沈みながら、無聊が高まるのを……\nしかしその間、空は垣根の上で笑い、そして目覚めが\n太陽の中でさえずる花咲くほどの鳥たちの。"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "prosody",
+      "anchor": null,
+      "body": "14行・変則ソネット（4・4・3・3行）。12音節アレクサンドラン。韻はABBAのエンブラッセ韻──tristement／baîllement（A）、serein／préside（B）──続く第2カトラン：crâne／pavane（A）、tombeau／beau（B）。詩の統語的構造は§1の定言的宣言から§2の現在形の彷徨・§3の連鎖する分詞構文（énervé・creusant・mordant）という身体的下降・§4の「J'attends（私は待つ）」という停止と「Cependant（しかしその間）」という逆接の笑う空という四段階として展開する。「Soupir」の垂直的対立（上昇↔下降）が本詩では水平的・身体的対立（詩人の土への沈下↔空の笑い）として提示される──リシャール（『マラルメの想像的宇宙』）が「マラルメにおける上と下の弁証法」として分析する構造の初期形態。§4末尾の「l'azur rit（空が笑う）」は「L'azur」の「L'Azur ! l'Azur ! l'Azur ! l'Azur !」という迫害的反復に先行する、空の笑いという詩人に対する無関心の最初の定式化。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "Le printemps maladif a chassé tristement\nL'hiver, saison de l'art serein, l'hiver lucide,\nEt dans mon être à qui le sang morne préside\nL'impuissance s'étire en un long baîllement.",
+      "body": "「病んだ春が悲しく冬を──穏やかな芸術の季節、明晰な冬を──追い払い、私の存在の中で無能が長い欠伸として伸びをする」。「L'hiver, saison de l'art serein, l'hiver lucide（冬、穏やかな芸術の季節、明晰な冬）」──冬と芸術・明晰さの同一化という定式がマラルメ最初期（1862年）にすでに確立していることをリシャール（『マラルメの想像的宇宙』）は強調する；リシャールによれば、マラルメにとって冬の白・硬さ・純粋さは詩的理念（Idée）の物質的対応物であり、春の生命力・有機的豊かさは詩的不能の原因として機能する。「le sang morne（憂鬱な血）」──血という生命の液体が「morne（憂鬱な・生気のない）」という形容詞によって生命力を剥奪される；バシュラール（『大地と意志の夢想』）が指摘する「生命的液体の死的固定」として、春の血の流動が詩人には停滞として感じられる逆説。「L'impuissance s'étire en un long baîllement（無能が長い欠伸として伸びをする）」──impuissance（無能・不能）の身体化；欠伸（baîllement）という睡眠と覚醒の境界の身体的運動が無能の持続的性格を物理的に提示する。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "Des crépuscules blancs tiédissent sous le crâne\nQu'un cercle de fer serre ainsi qu'un vieux tombeau,\nEt, triste, j'erre après un rêve vague et beau,\nPar les champs où la sève immense se pavane",
+      "body": "「白い薄明が鉄の輪で古い墓のように締め付けられた頭蓋の下に温み、悲しく私は漠然と美しい夢を追って、広大な樹液が誇り高く闊歩する野を彷徨う」。「Des crépuscules blancs tiédissent sous le crâne（白い薄明が頭蓋の下に温む）」──リシャール（『マラルメの想像的宇宙』）はこの行を「内部の景色（paysage intérieur）」の典型として分析する；薄明（crépuscules）という外部の光現象が頭蓋（crâne）という閉じた骨の器の内部に移植され、温まる（tiédissent）という熱的変化を経る。「Qu'un cercle de fer serre ainsi qu'un vieux tombeau（鉄の輪が古い墓のように締め付ける）」──頭蓋が鉄の拷問具と古い墓の二重比喩によって圧迫と埋葬の空間として提示される；バシュラール（『大地と意志の夢想』）の「硬い物質による閉塞」の図式──鉄（fer）という金属の硬さが詩人の思考空間を墓として封じる。「la sève immense se pavane（広大な樹液が誇り高く闊歩する）」──se pavaner（孔雀のように誇り高く歩く）という動詞が植物の樹液という液体に傲慢な自己顕示の身振りを付与する；この樹液の「誇り」が詩人の「無能」と対照される春の生命力の擬人化。「Soupir」§1の「un blanc jet d'eau soupire vers l'azur（白い噴水がため息をついて紺碧へと昇る）」における上昇の軽さに対し、ここでの白い薄明は上昇せず頭蓋の下に閉じ込められる。"
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "Puis je tombe énervé de parfums d'arbres, las,\nEt creusant de ma face une fosse à ce rêve,\nMordant la terre chaude où poussent les lilas,",
+      "body": "「それから私は倒れる、樹木の香りに弱って疲れ果て、顔でこの夢のための墓穴を掘りながら、ライラックが芽吹く温かい土を噛みながら」。バシュラール（『大地と意志の夢想』第3章「意志と激怒」）が詳細に分析する場面──「creusant de ma face une fosse（顔で墓穴を掘る）」という顔面と土の直接接触が、バシュラールにとって「攻撃的な大地への沈降（enfoncement agressif dans la terre）」として読まれる；顔が道具（fosse を掘る器官）となるという身体的倒錯が、夢の埋葬という行為の具体性を極限まで高める。「Mordant la terre chaude où poussent les lilas（ライラックが芽吹く温かい土を噛む）」──mordre（噛む）という動詞が土との接触を食・攻撃・侵入として複数化する；バシュラールはこの「土を噛む」という行為を意志の挫折が攻撃性へと転換する瞬間として分析し、ライラックの香りという嗅覚的誘惑が倒れた詩人を地面に引き留める罠として機能すると読む。リシャール（『マラルメの想像的宇宙』）はこの場面を「物質への下降と埋没」──マラルメにおける例外的な大地的接触として、通常の上昇志向（azur）の暴力的な反転として位置づける。「énervé de parfums d'arbres（樹木の香りに弱って）」──「Soupir」§2の「parfums d'arbres」が「La Brise marine」の「Je partirai ! Steamer balançant ta mâture（私は出発する！帆柱を揺らす汽船よ）」という逃走衝動とは逆に、ここでは香りが詩人を地面に縛り付ける物質的力として機能する。"
+    },
+    {
+      "paragraphId": 4,
+      "type": "commentary",
+      "anchor": "J'attends, en m'abîmant que mon ennui s'élève…\nCependant l'azur rit sur la haie et l'éveil\nDe tant d'oiseaux en fleur gazouillant au soleil.",
+      "body": "詩の閉幕。「私は待つ、深淵に沈みながら、無聊が高まるのを……しかしその間、空は垣根の上で笑い、花咲くほどの鳥たちの太陽の中でさえずる目覚めが」。「J'attends, en m'abîmant que mon ennui s'élève（私は待つ、深淵に沈みながら、無聊が高まるのを）」──「m'abîmant（深淵に沈みながら）」と「s'élève（高まる）」という下降と上昇の同時性がリシャールの言う「マラルメの垂直的弁証法」の凝縮；詩人が土に沈むにつれて無聊（ennui）が逆説的に「上昇」するという対位法が、§3の顔面の埋没から§4の精神的上昇への転換として機能する。三点リーダー（…）──「Ombre d'eau」の認識論的未決と同一の視覚的開放として、無聊の上昇という逆説を断定せず宙吊りにする。「Cependant l'azur rit sur la haie（しかしその間、空は垣根の上で笑う）」──「Soupir」§1の「l'azur（紺碧）」が本詩では「rit（笑う）」という動詞を持つ；リシャールはこの「空の笑い」を詩人の苦悩に対する天空の無関心──あるいは嘲笑──として読む。後の「L'azur」における「L'Azur ! l'Azur ! l'Azur ! l'Azur !」という反復強迫に先行する空の人格化の最初の形態。「De tant d'oiseaux en fleur gazouillant au soleil（太陽の中でさえずる花咲くほどの鳥たちの）」──バシュラールが「空気と夢想」で分析する鳥の軽さ・さえずり・花という三重の軽量性が、地面に埋没した詩人に対して天空の豊かな生命として対置される；「en fleur（花咲く）」という形容詞が鳥に植物的属性を付与するという共感覚的転置が、§3のライラックの植物的香りを逆転させて天空の軽さとして再提示する。"
+    }
+  ]
+}
