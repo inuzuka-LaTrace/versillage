@@ -1,0 +1,77 @@
+{
+  "id": "regnier_ombre_d_eau",
+  "title": "Ombre d'eau",
+  "author": "Henri de Régnier",
+  "source": "Ode et poésies, Mercure de France, s.d. (15e éd.), p. 112–113; https://fr.wikisource.org/wiki/Ombre_d%27eau",
+  "year": "1900",
+  "firstPublication": "Ode et poésies, Mercure de France, 1900",
+  "difficulty": "初級",
+  "category": "regnier",
+  "originalLang": "fr-FR",
+  "modernRelevance": "★★★★☆",
+  "context": "詩集『頌歌と詩篇（Ode et poésies）』（1900）所収。4行3連・全12行、8音節詩（オクトシラブ）。タイトル「Ombre d'eau（水の影）」が詩集全体の水と反射・影のモチーフを最も凝縮した形で提示する。§1で彫像が「かつてあった女性から愛らしい」と提示され──裸の大理石を眠る水が映す以前に──彫像の魅力がその原型の女性への魅力として定義される。§2では「しかし、水の中に彫像を映す楕円形の明るい水盤において、影が肉体の思い出から作られているように見える」という認識論的逆転が提示される──彫像は大理石であるが、その水面の影は肉体の記憶である。§3の「そして不確かな思考は、泉の声が風の声と混ざり合うにつれてこうもあれあちらもこうもあれと揺れる……」という三点リーダーによる未決の閉幕が、彫像と肉体・影と実体・大理石と記憶の間の認識論的不確定性を詩集全体で最も端的に定式化する。",
+  "keywords": [
+    "水の影",
+    "彫像と女性",
+    "肉体の思い出",
+    "水面の反射",
+    "不確かな思考",
+    "泉の声と風の声",
+    "三点リーダーの開幕",
+    "認識論的不確定性"
+  ],
+  "relatedTexts": [
+    "regnier_l_urne",
+    "regnier_fond_de_jardin",
+    "regnier_le_bassin_noir",
+    "regnier_les_statues",
+    "regnier_la_nymphe",
+    "mallarme_sonnet_yx"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "verses": "v.1–4",
+      "original": "Cette statue est charmante\nDe la femme qu'elle fut\nAvant que cette eau dormante\nReflétât son marbre nu ;",
+      "provisionalTranslation": "この彫像は愛らしい\nかつてあった女性から、\n眠る水が\n裸の大理石を映す以前から；"
+    },
+    {
+      "id": 2,
+      "verses": "v.5–8",
+      "original": "Mais dans l'eau qui la reflète\nAu bassin ovale et clair\nSon ombre me semble faite\nDu souvenir de sa chair ;",
+      "provisionalTranslation": "しかし彫像を映す水の中に、\n楕円形の明るい水盤に、\n影が作られているように見える\n肉体の思い出から；"
+    },
+    {
+      "id": 3,
+      "verses": "v.9–12",
+      "original": "Et la pensée incertaine\nEst telle ou telle, suivant\nQue la voix de la fontaine\nSe mêle à la voix du vent…",
+      "provisionalTranslation": "そして不確かな思考は\nこうもあれあちらもこうもあれと揺れる、\n泉の声が\n風の声と混ざり合うにつれて……"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "prosody",
+      "anchor": null,
+      "body": "4行3連・全12行。8音節詩（オクトシラブ）。韻はABABのアルタネ韻──charmante／dormante（A）、fut／nu（B）。詩集『水の都』のソネット群・「L'Urne」と同一の8音節形式として「Chanson」に連なる軽快な短詩形。詩の最大の形式的特徴は末行の三点リーダー（…）──詩集のレニエにおいて最も明示的な未決・開放の記号として、§3の認識論的不確定性を視覚的に体現する。§1の「Avant que cette eau dormante / Reflétât son marbre nu（眠る水が裸の大理石を映す以前から）」という時間的先行──彫像の魅力は水面の反射に先行して、かつてあった女性の記憶の中に根を持つという論理が、詩全体の「実体→影→思考」という三段階の認識論的後退を準備する。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "Cette statue est charmante\nDe la femme qu'elle fut\nAvant que cette eau dormante\nReflétât son marbre nu ;",
+      "body": "「この彫像は、眠る水が裸の大理石を映す以前から、かつてあった女性から愛らしい」。「charmante / De la femme qu'elle fut（かつてあった女性から愛らしい）」──属格の「de」が魅力の源泉を示す；彫像の魅力（charme）は彫像自体ではなく、彫像がかつてあった女性に由来する。この「かつてあった（qu'elle fut）」という半過去が、彫像と原型の女性の時間的乖離を確定する。「cette eau dormante（眠る水）」──「Le Bassin noir」・「L'Île」・「Fond de jardin」という詩集の停止した水のモチーフの最も簡潔な形容；dormante（眠る）という分詞が水面の静止を睡眠として擬人化する。「son marbre nu（裸の大理石）」──詩集の彫像の「裸」のモチーフ（「La Neige」§1の「Vénus nue（裸のウェヌス）」・「L'Abandon」§4の「elle qui s'y voit nue（裸でそこに映る彼女）」）への参照として、ここでは大理石の彫像の裸体が眠る水に映されるという光学的状況を提示する。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "Mais dans l'eau qui la reflète\nAu bassin ovale et clair\nSon ombre me semble faite\nDu souvenir de sa chair ;",
+      "body": "「しかし彫像を映す水の中に、楕円形の明るい水盤に、影が肉体の思い出から作られているように見える」。「Mais（しかし）」──詩集の「Mais」系列（Hommage・Chanson・L'Oubli suprême）の転換詞として、§1の「彫像の大理石」から§2の「水面の影」への認識論的転換を導く。詩の核心的逆転──彫像（大理石）を水が映したものが「影（ombre）」であるなら、その影は大理石の影ではなく「肉体の思い出（souvenir de sa chair）」から作られているように見えるという認識論的飛躍；水面の影が大理石を超えて失われた肉体の記憶へと直接接続されるという象徴主義的論理。「me semble faite（作られているように見える）」という認識の留保──「semble（〜のように見える）」という動詞が断定を回避し、認識論的不確定性を保存する；§3の「la pensée incertaine（不確かな思考）」の萌芽。「Fond de jardin」§4の「L'image, inverse en l'eau（水に逆さになったイメージ）」という詩集の水面反転の最終形に対し、ここでは水面の影が実体（大理石）を超えて記憶（肉体）へと読み替えられるという更なる非物質化。"
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "Et la pensée incertaine\nEst telle ou telle, suivant\nQue la voix de la fontaine\nSe mêle à la voix du vent…",
+      "body": "詩の閉幕。「そして不確かな思考は、泉の声が風の声と混ざり合うにつれてこうもあれあちらもこうもあれと揺れる……」。「la pensée incertaine（不確かな思考）」──§1の「彫像の魅力」・§2の「影が肉体の思い出から作られているように見える」という認識の連鎖が、ここで「不確かな思考」として主題化される；詩全体が「確信→留保→不確定性」という認識論的後退の三段階として構成される。「telle ou telle（こうもあれあちらもこうもあれ）」──「L'Oubli suprême」§3の「blanche ou noire（白か黒か）」・「Chanson」§3の「Est-ce moi, si ce sont elles ?（これは私なのか？）」という詩集の二項的不確定性の系列への参照。「la voix de la fontaine / Se mêle à la voix du vent（泉の声が風の声と混ざり合う）」──二つの声の混合が思考の不確定性の原因として提示される；「L'Île」§4の「qui sait si le chant…N'en filtre pas encor（歌がまだ滲み出るかどうかを誰が知ろう）」という修辞的疑問の開かれた問いに対応する、ここでの三点リーダー（…）による視覚的未決。詩集全体の「水と影と記憶」という三主題が最も短い形式（12行）で凝縮され、未決のまま開かれて終わる。"
+    }
+  ]
+}
