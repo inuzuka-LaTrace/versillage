@@ -1,0 +1,89 @@
+{
+  "id": "mallarme_victorieusement",
+  "title": "Victorieusement fui le suicide beau",
+  "author": "Stéphane Mallarmé",
+  "source": "Les poésies de Stéphane Mallarmé, la Revue indépendante, 1887, p. 72; https://fr.wikisource.org/wiki/%C2%AB_Victorieusement_fui_le_suicide_beau_%C2%BB_(1887)",
+  "year": "1885",
+  "firstPublication": "La Revue indépendante, 1885; Les poésies de Stéphane Mallarmé, 1887",
+  "difficulty": "上級",
+  "category": "mallarme",
+  "originalLang": "fr-FR",
+  "modernRelevance": "★★★★★",
+  "context": "14行・12音節アレクサンドラン、ABBA-ABBA-CCD-EDE の韻型。詩の統語的構造は日没（夕陽の自殺的消滅）から真夜中（暗闇）へ、そして女性の髪という残照の宝庫へと移行する三段階として展開する。§1で日没の紫・炎・黄金・嵐という燃焼的消滅が「勝利的に逃げた美しい自殺（victorieusement fui le suicide beau）」として提示される。§2で真夜中に至り、その燃焼の残滓が何も留まらない──ただし「傲慢な頭の宝が松明なしに愛撫された無頓着さを注ぐ」という例外を除いて。§3・§4で「あなたの（la tienne）」という女性の髪が、消えた天空の「幼稚な勝利のほんの少し」を保持するものとして提示され、「子供の女帝の戦士の兜のように枕の上に置かれると薔薇が降るだろう」という閉幕に至る。ジャン＝ピエール・リシャール（『マラルメの想像的宇宙（L'Univers imaginaire de Mallarmé）』、1961）が日没の物質的色彩論・髪の光の保存という主題を詳細に分析する。",
+  "keywords": [
+    "美しい自殺",
+    "日没の燃焼",
+    "炎・血・黄金・嵐",
+    "真夜中",
+    "松明なしの無頓着さ",
+    "女性の髪",
+    "消えた天空の残照",
+    "子供の女帝の兜"
+  ],
+  "relatedTexts": [
+    "mallarme_sonnet_yx",
+    "mallarme_toute_lame",
+    "mallarme_lazur",
+    "mallarme_soupir",
+    "mallarme_renouveau",
+    "mallarme_toast_funebre"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "verses": "v.1–4",
+      "original": "Victorieusement fui le suicide beau\nTison de gloire, sang par écume, or, tempête !\nÔ rire si là-bas une pourpre s'apprête\nÀ ne tendre royal que mon absent tombeau.",
+      "provisionalTranslation": "勝利的に逃げた、美しい自殺が\n栄光の燃え差し、泡を通した血、黄金、嵐！\nああ笑え、もし彼方で紫が準備しているなら\n王侯的に差し出すだけのために、私の不在の墓を。"
+    },
+    {
+      "id": 2,
+      "verses": "v.5–8",
+      "original": "Quoi ! de tout cet éclat pas même le lambeau\nS'attarde, il est minuit, à l'ombre qui nous fête\nExcepté qu'un trésor présomptueux de tête\nVerse son caressé nonchaloir sans flambeau",
+      "provisionalTranslation": "なんと！あの輝きのすべてから切れ端ひとつさえ\n留まらない、真夜中だ、私たちを祝う影の中に\nただし傲慢な頭の宝が\n松明なしに愛撫された無頓着さを注ぐことを除いて"
+    },
+    {
+      "id": 3,
+      "verses": "v.9–11",
+      "original": "La tienne si toujours le délice ! la tienne\nOui seule qui du ciel évanoui retienne\nUn peu de puéril triomphe en t'en coiffant",
+      "provisionalTranslation": "あなたの、いつも喜びである！あなたのが\nそう、消えた天空から唯一留めるもの\nあなたをそれで飾ることで幼稚な勝利のほんの少しを"
+    },
+    {
+      "id": 4,
+      "verses": "v.12–14",
+      "original": "Avec clarté quand sur ces coussins tu la poses\nComme un casque guerrier d'impératrice enfant\nDont pour te figurer il tomberait des roses.",
+      "provisionalTranslation": "明晰さとともに、これらの枕の上に置くとき\n子供の女帝の戦士の兜のように\nそれはあなたを表すために薔薇が降るだろう。"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "prosody",
+      "anchor": null,
+      "body": "14行・ソネット形式。12音節アレクサンドラン。韻型ABBA-ABBA-CCD-EDE──beau／lambeau（A）、tête／fête（B）、tienne／retienne（C）、coiffant／enfant（D）、poses／roses（E）。詩の統語的構造において最大の特徴は第一行の絶対分詞構文──「Victorieusement fui le suicide beau（勝利的に逃げた、美しい自殺が）」は主語も助動詞も持たない絶対分詞として、日没という出来事をすでに完了した事態として提示する。リシャール（『マラルメの想像的宇宙』）はこの詩の時間構造を「消滅の三段階──燃焼（§1）・消滅の確認（§2）・残照の保存（§3・§4）」として分析する。詩全体の運動は「宇宙的燃焼→暗闇への移行→女性の髪という微小な光の残存」という縮小的収束として展開し、「Ses purs ongles très haut dédiant leur onyx」（yxのソネ)の虚無的閉幕に対してここでは髪という物質的残照が虚無を埋める。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "Victorieusement fui le suicide beau\nTison de gloire, sang par écume, or, tempête !\nÔ rire si là-bas une pourpre s'apprête\nÀ ne tendre royal que mon absent tombeau.",
+      "body": "「勝利的に逃げた美しい自殺──栄光の燃え差し、泡を通した血、黄金、嵐！──ああ笑え、もし彼方で紫が私の不在の墓だけを王侯的に差し出すために準備しているなら」。リシャール（『マラルメの想像的宇宙』）は§1の色彩語彙を詳細に分析する──pourpre（紫）・sang（血）・or（黄金）・tison（燃え差し）・tempête（嵐）という五つの語が日没の燃焼的色彩の系列として機能する；リシャールはマラルメの日没が常に「自己消滅的な（suicidaire）」光の極大として提示されることを指摘する。「le suicide beau（美しい自殺）」──日没という自然現象が自死という人格的行為として提示される擬人化；「victorieusement fui（勝利的に逃げた）」という副詞的強調が自殺の逃走を讃える逆説を生む──消滅が勝利として定義される。「sang par écume（泡を通した血）」──リシャールは「écume（泡）」を液体と気体の境界物質として、血という濃密な赤が泡の軽量化を経て空中に散布される物質的過程として読む。「mon absent tombeau（私の不在の墓）」──詩人自身の墓が「不在（absent）」として提示される；日没の紫が準備する王侯的展示の対象が詩人の「不在」であるというこの逆説が、詩集全体の「不在の詩学」の核心命題を一語で提示する。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "Quoi ! de tout cet éclat pas même le lambeau\nS'attarde, il est minuit, à l'ombre qui nous fête\nExcepté qu'un trésor présomptueux de tête\nVerse son caressé nonchaloir sans flambeau",
+      "body": "「なんと！あの輝きのすべてから切れ端ひとつさえ留まらない、真夜中だ、私たちを祝う影の中に──ただし傲慢な頭の宝が松明なしに愛撫された無頓着さを注ぐことを除いて」。「il est minuit（真夜中だ）」──詩の時間軸が§1の日没から§2の真夜中へと跳躍する；この時間的切断がリシャール（『マラルメの想像的宇宙』）の言う「燃焼の消滅の確認」として機能する──日没の燃焼は完全に消滅し、真夜中という絶対的暗闇だけが残る。「pas même le lambeau（切れ端ひとつさえない）」──lambeau（切れ端・断片）という語が燃焼の残滓の微小性を極限まで表現する；リシャールはこの「残滓ゼロ」の確認を詩の否定的基底として、§3・§4の「例外（Excepté）」による転換の準備として読む。「un trésor présomptueux de tête（傲慢な頭の宝）」──「tête（頭）」が女性の頭・髪として第二連の終わりで初めて姿を現す；「présomptueux（傲慢な・僭越な）」という形容詞が日没の栄光を引き継ぐ僭越さとして髪の自負を定義する。「son caressé nonchaloir sans flambeau（松明なしに愛撫された無頓着さ）」──PDFが確認する語形「caressé」（過去分詞）は記憶版の「caressant」（現在分詞）に対して重要な意味的差異を持つ；「愛撫された（caressé）無頓着さ」は無頓着さが他者によって愛撫される受動的状態として、松明（光源）なしに光を持つ髪の自足的輝きを提示する。"
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "La tienne si toujours le délice ! la tienne\nOui seule qui du ciel évanoui retienne\nUn peu de puéril triomphe en t'en coiffant",
+      "body": "「あなたの、いつも喜びである！あなたのが──そう、消えた天空から唯一留めるもの──あなたをそれで飾ることで幼稚な勝利のほんの少しを」。「La tienne（あなたの）」の二重反復──最初の「La tienne」は感嘆的呼格として、二度目の「la tienne」は関係節の先行詞として機能する；この統語的二重性がリシャール（『マラルメの想像的宇宙』）の言う「髪の二重の地位──喜びの対象であり同時に光の保存者」を体現する。「du ciel évanoui retienne / Un peu de puéril triomphe（消えた天空から幼稚な勝利のほんの少しを留める）」──リシャールはこの「保存」の動詞（retenir）を詩の認識論的核心として分析する；日没という宇宙的消滅の後に何も残らない（§2の「pas même le lambeau」）にもかかわらず、女性の髪だけが「ほんの少し（un peu）」を保持する。「puéril triomphe（幼稚な勝利）」──§1の「victorieusement（勝利的に）」という日没の巨大な勝利に対して、髪が保持するのは「幼稚な（puéril）」勝利の「ほんの少し（un peu）」に過ぎないという縮小；しかしこの縮小こそが虚無に対する唯一の抵抗として機能する。「en t'en coiffant（あなたをそれで飾ることで）」──髪が頭を覆う・飾るという行為が光の保存の物理的メカニズムとして提示される。「Soupir」§1の「Fidèle, un blanc jet d'eau soupire vers l'azur（忠実に、白い噴水がため息をついて紺碧へと昇る）」という上昇に対し、ここでは天空から髪への下降という逆方向の保存として対応する。"
+    },
+    {
+      "paragraphId": 4,
+      "type": "commentary",
+      "anchor": "Avec clarté quand sur ces coussins tu la poses\nComme un casque guerrier d'impératrice enfant\nDont pour te figurer il tomberait des roses.",
+      "body": "詩の閉幕。「明晰さとともに、これらの枕の上に置くとき──子供の女帝の戦士の兜のように──それはあなたを表すために薔薇が降るだろう」。「Avec clarté（明晰さとともに）」──松明なしの（§2）暗闇の中で「clarté（明晰さ・輝き）」という語が閉幕に登場する；リシャール（『マラルメの想像的宇宙』）はこの「clarté」を日没の燃焼（§1）・真夜中の暗闇（§2）・天空の残照の保存（§3）という三段階を経て最終的に定着した光として読む──宇宙的燃焼が縮小・保存されて「明晰さ」という静的な輝きに転換される過程。「sur ces coussins（これらの枕の上に）」──PDFが確認する「ces（これらの）」は記憶版「les（その）」の代わりに指示代名詞を用い、枕という具体的近接した空間を指示する；室内の枕という日常的・親密な空間が宇宙的消滅の縮小的帰着点として機能する。「un casque guerrier d'impératrice enfant（子供の女帝の戦士の兜）」──リシャールはこの複合的比喩を「権力（impératrice）と幼児性（enfant）の矛盾した同居」として読む；「戦士の兜」という武装のイメージが§1の宇宙的戦闘（suicide・tempête）を髪という微小な規模で反復する。「il tomberait des roses（薔薇が降るだろう）」──条件法（tomberait）が薔薇の降下を仮想的現実として提示する；「Le Bouquet」§1の「rosace éclose（開いた薔薇窓）」・§4の「Effeuille le bouquet（花束の花びらをむしれ）」という薔薇の散布と同一の閉幕的運動として、ここでは女帝の兜としての髪から薔薇が降るという逆説的優雅さで詩全体を閉じる。マラルメの「不在の詩学」──§1の「absent tombeau（不在の墓）」から§4の「il tomberait des roses（薔薇が降るだろう）」という条件法への移行が、宇宙的消滅を微小な官能的残照として肯定する詩全体の弧を完成させる。"
+    }
+  ]
+}
