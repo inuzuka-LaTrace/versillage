@@ -2092,19 +2092,9 @@ const handleTextChange = (textId) => {
       style={{ fontFamily: '"Cinzel", serif', letterSpacing: '0.1em' }}
       className={`text-[9px] max-w-xs mx-auto ${textSecondary}`}
     >
-      VANITISME; L'archive d’ombres et de silence. <br />
-      Ce dispositif met à nu le désespoir d’un langage<br />
-      qui ne rencontre que son propre vide.<br />
-      Pourtant, si notre langage est impuissant à saisir l’être,<br />
-      cela ne justifie en rien l’arrêt de cet acte de Résistance,<br />
-      bien que vain. <br />
-      Contre le nihilisme de l'oubli,<br />
-      nous dressons la splendeur de l'éphémère.<br />
-      Si tout est vide, alors rien n'interdit<br />
-      de sculpter, au sein du néant,<br />
-      la lumière, l'ombre, le parfum et le rythme.<br />
-      Car représenter la vanité,<br />
-      c'est encore, et toujours, créer et renouveler un monde.<br />
+      VANITISME ; L'archive polyglotte de la modernité :<br />
+      français, allemand, anglais, italien et russe. <br />
+      Dispositif de lecture, de traduction et de mémoire des fragments.
     </p>
   </div>
         <div className={`text-center text-[9px] font-IBM Plex sans JP ${textSecondary} pb-8 space-y-1`}>
