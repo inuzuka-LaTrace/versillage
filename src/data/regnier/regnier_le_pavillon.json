@@ -1,0 +1,89 @@
+{
+  "id": "regnier_le_pavillon",
+  "title": "Le Pavillon",
+  "author": "Henri de Régnier",
+  "source": "La Cité des eaux, Mercure de France, s.d. (15e éd.), p. 35; https://fr.wikisource.org/wiki/Le_Pavillon",
+  "year": "1902",
+  "firstPublication": "La Cité des eaux, Mercure de France, 1902",
+  "difficulty": "中級",
+  "category": "regnier",
+  "originalLang": "fr-FR",
+  "modernRelevance": "★★★★☆",
+  "context": "詩集『水の都（La Cité des eaux）』（1902）所収。「Intérieur」に続く第22詩。ソネット形式（4・4・3・3行）。詩全体が主動詞を持たない名詞句・分詞句の純粋な列挙として構成される──「Intérieur」が時間と愛の対話という叙述的構造を持っていたのに対し、「Le Pavillon」は述語の消滅によって事物そのものを宙吊りにする。§1が田園装飾の小物（籠・パン籠・リボン・二重笛・牧杖・楕円形メダリオン）を列挙し、§2が時計類（急ぐ置き時計・遅い柱時計）・鏡・扉・カーテンを重ね、§3が「去った誰か・来る誰か・眠る記憶と思い出・遅れる接近」という時間的宙吊りへと転じ、§4が苦い黄楊の香りの開いた窓・薔薇・風が揺らすシャンデリアという閉幕へと至る。詩集のあらゆるモチーフ──鏡・扉・窓・薔薇・シャンデリア──が述語なき空間に同時に召喚される。",
+  "keywords": [
+    "名詞句の列挙",
+    "述語の消滅",
+    "田園装飾",
+    "時計",
+    "記憶と思い出",
+    "黄楊の香り",
+    "開いた窓",
+    "宙吊りの時間"
+  ],
+  "relatedTexts": [
+    "regnier_interieur",
+    "regnier_l_abandon",
+    "regnier_le_bassin_noir",
+    "regnier_l_odeur",
+    "rodenbach_la_vie_des_chambres",
+    "mallarme_sainte"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "verses": "v.1–4",
+      "original": "La corbeille, la pannetière et le ruban\nNouant la double flûte à la houlette droite,\nLe médaillon ovale où la moulure étroite\nEncadre un profil gris dans le panneau plus blanc ;",
+      "provisionalTranslation": "籠と、パン籠と、リボン、\n二重笛を真っ直ぐな牧杖に結びながら、\n楕円形のメダリオン、そこで細い縁取りが\n白みがかった板の中に灰色の横顔を縁取る；"
+    },
+    {
+      "id": 2,
+      "verses": "v.5–8",
+      "original": "La pendule hâtive et l'horloge au pas lent\nOù l'heure, tour à tour, se contrarie et boite ;\nLe miroir las qui semble une eau luisante et moite,\nLa porte entrebâillée et le rideau tremblant ;",
+      "provisionalTranslation": "急ぐ置き時計と、歩みの遅い柱時計、\nそこで時間は交互に、食い違い跛行する；\n疲れた鏡、ぬめぬめ光る湿った水のように見える、\n半開きの扉と、震えるカーテン；"
+    },
+    {
+      "id": 3,
+      "verses": "v.9–11",
+      "original": "Quelqu'un qui est parti, quelqu'un qui va venir,\nLa Mémoire endormie avec le Souvenir,\nUne approche qui tarde et date d'une absence,",
+      "provisionalTranslation": "去った誰か、来ようとしている誰か、\n思い出とともに眠る記憶、\n遅れており不在から日付を持つ接近、"
+    },
+    {
+      "id": 4,
+      "verses": "v.12–14",
+      "original": "Une fenêtre, sur l'odeur du buis amer,\nOuverte, et sur des roses d'où le vent balance\nLe lustre de cristal au parquet de bois clair.",
+      "provisionalTranslation": "一つの窓、苦い黄楊の香りの上に、\n開いており、そして薔薇の上に、そこから風が揺らす、\n明るい木の床の上のクリスタルのシャンデリアを。"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "prosody",
+      "anchor": null,
+      "body": "全14行のソネット形式（quatrain・quatrain・tercet・tercet）。12音節アレクサンドラン。韻はABBAのエンブラッセ韻──ruban／lent（A）、droite／étroite（B）。詩全体の最大の特異性は主動詞の完全な不在──全14行が名詞句・分詞句・関係節の連鎖として構成され、述語による判断・叙述を持たない。唯一の動詞はいずれも関係節内部（「Nouant」「Encadre」「se contrarie et boite」「semble」「est parti」「va venir」「endormie」「tarde」「date」「balance」）に埋め込まれており、主文の述語として自立しない。この統語的構造が詩の「亭（pavillon）」を出来事でなく純粋な事物の同時的空間として提示する。マラルメ「聖女」のソネットが楽器と聖女という静止した図像を提示する構造と同型。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "glossary",
+      "anchor": "La corbeille, la pannetière et le ruban\nNouant la double flûte à la houlette droite,",
+      "body": "「籠・パン籠・リボン、二重笛を真っ直ぐな牧杖に結びながら」。corbeille（籠）・pannetière（狩猟や田園画に登場するパン籠）・double flûte（二重笛、パンフルート）・houlette（牧杖）という田園画（pastorale）の小道具群が冒頭に列挙される。18世紀フランス装飾美術における田園趣味（rocaille）の典型的モチーフ──ヴァトー（Watteau）やブーシェ（Boucher）の絵画における宮廷田園画の小物と同一の図像圏。「Le Pavillon（東屋・亭）」というタイトルが田園庭園の建築物を指し、トリアノンの庭園に実際に存在するハムeau（農場）の小屋との連絡を示唆する。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "La pendule hâtive et l'horloge au pas lent\nOù l'heure, tour à tour, se contrarie et boite ;",
+      "body": "「急ぐ置き時計と歩みの遅い柱時計、そこで時間は交互に食い違い跛行する」。二種類の時計が「hâtive（急ぐ）」と「au pas lent（歩みの遅い）」という対立する時間性を体現する──室内の二つの時計が異なる速度で刻む時間の不一致が、「l'heure se contrarie et boite（時間が食い違い跛行する）」という擬人化によって表される。「boite（跛行する）」という動詞が時間の均質性の破綻を身体的に提示する。「Intérieur」§1の「Le Temps sentencieux（判決を下すような時間）」という大文字の擬人化に対し、ここでは時間が二つの機械装置の不一致として複数化・矮小化される。"
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "Quelqu'un qui est parti, quelqu'un qui va venir,\nLa Mémoire endormie avec le Souvenir,\nUne approche qui tarde et date d'une absence,",
+      "body": "「去った誰か、来ようとしている誰か、思い出とともに眠る記憶、遅れており不在から日付を持つ接近」。三行のテルセットが事物の列挙から時間的宙吊りの列挙へと転じる──§1・§2の具体的な室内の小物から、§3では「去った誰か／来る誰か」という不在の人物、「眠る記憶と思い出」という大文字の擬人化、「不在から日付を持つ接近（une approche qui date d'une absence）」というパラドックスへと抽象化が進む。「date d'une absence（不在から日付を持つ）」──到来の起点が不在であるという時間的矛盾が、「L'Abandon」§4の「le Passé qui rôde（徘徊する過去）」と同一の宙吊りの時間意識を体現する。"
+    },
+    {
+      "paragraphId": 4,
+      "type": "glossary",
+      "anchor": "Une fenêtre, sur l'odeur du buis amer,\nOuverte, et sur des roses d'où le vent balance\nLe lustre de cristal au parquet de bois clair.",
+      "body": "詩の閉幕。「苦い黄楊の香りの上に開いた窓、そして薔薇の上に、そこから風がクリスタルのシャンデリアを明るい木の床の上で揺らす」。「fenêtre ouverte（開いた窓）」──「L'Abandon」§2の「La porte entrebâille（半開きの扉）」、「Intérieur」§4の「La porte s'entrebâille（扉が半開きになる）」という詩集の扉・窓のモチーフが、ここでは「開いた窓」として外部との接続を果たす。「l'odeur du buis amer（苦い黄楊の香り）」──「L'Odeur」という詩集内の香りのモチーフへの参照；黄楊（buis）はフランス庭園の生け垣として典型的な植物であり、その苦い香りが田園装飾の視覚的モチーフに嗅覚的次元を加える。「le lustre de cristal（クリスタルのシャンデリア）」──「Intérieur」§3の「lustres au plafond（天井のシャンデリア）」の反響。風が薔薇を介して屋外からシャンデリアを揺らすという運動連鎖が、閉じた室内と外部の庭園を最終行で接続する。"
+    }
+  ]
+}
