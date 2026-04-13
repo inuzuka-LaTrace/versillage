@@ -1,0 +1,89 @@
+{
+  "id": "regnier_chanson",
+  "title": "Chanson",
+  "author": "Henri de Régnier",
+  "source": "Ode et poésies, Mercure de France, s.d. (15e éd.), p. 119–120; https://fr.wikisource.org/wiki/Chanson_(Henri_de_R%C3%A9gnier)",
+  "year": "1900",
+  "firstPublication": "Ode et poésies, Mercure de France, 1900",
+  "difficulty": "初級",
+  "category": "regnier",
+  "originalLang": "fr-FR",
+  "modernRelevance": "★★★★☆",
+  "context": "詩集『頌歌と詩篇（Ode et poésies）』（1900）所収。4行4連・全16行、8音節詩（オクトシラブ）。『水の都』のソネット群（12音節・三人称・庭園空間）に対し、「Chanson」は短い8音節・一人称・恋愛的叙情という対極的な形式を取る。§1で「私は今日の薔薇の息絶える香りで、香り立つ影を花で飾り夜に香りを与えた」と宣言し、§2でその薔薇の中に「あなたが炎の中ですべてを摘み取るのを見たという魅力が花びらごとに続く」という恋愛的記憶の保存を提示する。§3の「これは私か、これは薔薇か？──すべては変わり、神聖だった瞬間から永遠の時間を作ろうとすることは無駄だ」という問いと諦念が続き、§4の「しかし薔薇が生きている限り、彼の中に残るものから、今日の薔薇の香り立つ影を呼吸せよ」というリフレーン的反復閉幕へと至る。詩的記憶の保存と消滅の必然性という主題を最も簡潔な形式で提示する。",
+  "keywords": [
+    "今日の薔薇",
+    "香り立つ影",
+    "息絶える香り",
+    "花びらごとの記憶",
+    "瞬間と永遠",
+    "ロンドー的反復",
+    "恋愛的記憶",
+    "消滅の必然"
+  ],
+  "relatedTexts": [
+    "regnier_l_oubli_supreme",
+    "regnier_le_bouquet",
+    "regnier_fond_de_jardin",
+    "verlaine_chanson_dautomne",
+    "dowson_vanitas",
+    "mallarme_apparition"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "verses": "v.1–4",
+      "original": "J'ai fleuri l'ombre odorante\nEt j'ai parfumé la nuit\nDe la senteur expirante\nDe ces roses d'aujourd'hui.",
+      "provisionalTranslation": "私は香り立つ影を花で飾り、\nそして夜に香りを与えた、\n息絶えていく香りで、\n今日のこれらの薔薇の。"
+    },
+    {
+      "id": 2,
+      "verses": "v.5–8",
+      "original": "En elles se continue,\nPétale à pétale, un peu\nDu charme de t'avoir vue\nLes cueillir toutes en feu.",
+      "provisionalTranslation": "薔薇の中に続いている、\n花びらから花びらへと、少しばかり、\nあなたが炎の中で\nすべてを摘み取るのを見たという魅力が。"
+    },
+    {
+      "id": 3,
+      "verses": "v.9–12",
+      "original": "Est-ce moi, si ce sont elles ?\nTout change et l'on cherche en vain\nÀ faire une heure éternelle\nD'un instant qui fut divin ;",
+      "provisionalTranslation": "これは私なのか、これが薔薇なら？\nすべては変わり、無駄に探し求める\n神聖だった瞬間から\n永遠の時間を作ることを；"
+    },
+    {
+      "id": 4,
+      "verses": "v.13–16",
+      "original": "Mais tant qu'elles sont vivantes\nDe ce qui reste de lui\nRespire l'ombre odorante\nDe ces roses d'aujourd'hui.",
+      "provisionalTranslation": "しかし、薔薇が生きている限り、\n彼の中に残るものから、\n呼吸せよ、香り立つ影を、\n今日のこれらの薔薇の。"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "prosody",
+      "anchor": null,
+      "body": "4行4連・全16行のシャンソン（変奏ロンドー）形式。8音節詩（オクトシラブ）。各連の韻はABAB交韻──odorante／expirante（A）、nuit／aujourd'hui（B）。詩集『水の都』の12音節ソネット群と対極をなす軽快な短詩形。最大の形式的特徴は§1の冒頭2行「l'ombre odorante / De ces roses d'aujourd'hui」が§4の結末2行で「l'ombre odorante / De ces roses d'aujourd'hui」としてほぼ完全に反復されるロンドー的回帰構造──しかし§1の「J'ai fleuri（私は花で飾った）」という一人称能動から§4の「Respire（呼吸せよ）」という二人称命令への統語的転換が、繰り返しの中に差異を刻む。§3の「Est-ce moi, si ce sont elles ?（これは私なのか、これが薔薇なら？）」という自己同一性への問いが詩全体の哲学的核心──主体（私）と客体（薔薇）の区別が記憶の中で消失するという象徴主義的認識論。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "glossary",
+      "anchor": "J'ai fleuri l'ombre odorante\nEt j'ai parfumé la nuit\nDe la senteur expirante\nDe ces roses d'aujourd'hui.",
+      "body": "「私は香り立つ影を花で飾り、夜に今日の薔薇の息絶えていく香りで香りを与えた」。「l'ombre odorante（香り立つ影）」──影（ombre）という視覚的不在と香り（odorante）という嗅覚的現前の共感覚的結合；光のない空間が香りによって充填されるという逆説。「senteur expirante（息絶えていく香り）」──expirante（息絶える・死にゆく）という現在分詞が薔薇の香りの消滅過程を継続的に提示する；「今日の薔薇（roses d'aujourd'hui）」という時間的限定が香りの一時性を確定する。「L'Oubli suprême」§4の「Que m'importe le soir（夕暮れなど何が問題か）」という死への超克に対し、「Chanson」は「今日」という現在の一時性を正面から受け入れる態度を採る。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "En elles se continue,\nPétale à pétale, un peu\nDu charme de t'avoir vue\nLes cueillir toutes en feu.",
+      "body": "「薔薇の中に、花びらから花びらへと、少しばかり、あなたが炎の中ですべてを摘み取るのを見たという魅力が続いている」。「Pétale à pétale（花びらから花びらへと）」という漸進的反復が記憶の保存を薔薇の物質的構造──花びらの重なり──として提示する；「Le Bouquet」§4の「Effeuille le bouquet（花束の花びらをむしれ）」という花びらをむしる行為の逆過程として、ここでは花びらが記憶を保存する方向で機能する。「t'avoir vue / Les cueillir toutes en feu（あなたが炎の中ですべてを摘み取るのを見たという）」──「te（あなたを）」という二人称対格が詩集のこの時点で初めて恋愛的な具体的人物への言及として登場する；「en feu（炎の中で）」という副詞句が薔薇摘みの行為に情熱的・官能的な強度を付与する。「un peu（少しばかり）」という量的縮小──「L'Île」§2の「Un peu du frôlement des doigts（指の触れのほんのわずか）」という記憶の微量的残存と同一の詩的認識論。"
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "Est-ce moi, si ce sont elles ?\nTout change et l'on cherche en vain\nÀ faire une heure éternelle\nD'un instant qui fut divin ;",
+      "body": "「これは私なのか、これが薔薇なら？──すべては変わり、神聖だった瞬間から永遠の時間を作ることを無駄に探し求める」。「Est-ce moi, si ce sont elles ?（これは私なのか、これが薔薇なら？）」──詩全体の哲学的核心としての自己同一性への問い；記憶が薔薇に保存されているなら、記憶を持つ主体（私）と記憶を宿す客体（薔薇）の区別はどこにあるか、という問いが一行の問答形式で提示される。この主客融合の問いはマラルメ「白鳥のソネット」の「le Cygne d'autrefois（かつての白鳥）」──詩人と白鳥の同一化──と同一の象徴主義的自己解体の論理。「Tout change et l'on cherche en vain / À faire une heure éternelle / D'un instant qui fut divin（すべては変わり、神聖だった瞬間から永遠の時間を作ることを無駄に探し求める）」──「L'Oubli suprême」§4の「Que m'importe le soir…Si l'été fut fécond（夏が豊かだったなら夕暮れなど問題ない）」という記憶の充足による死の超克に対し、ここでは「en vain（無駄に）」という副詞が瞬間の永遠化という詩的野心の不可能性を率直に認める。"
+    },
+    {
+      "paragraphId": 4,
+      "type": "commentary",
+      "anchor": "Mais tant qu'elles sont vivantes\nDe ce qui reste de lui\nRespire l'ombre odorante\nDe ces roses d'aujourd'hui.",
+      "body": "詩の閉幕。「しかし、薔薇が生きている限り、彼の中に残るものから、今日のこれらの薔薇の香り立つ影を呼吸せよ」。「Mais（しかし）」──§3の「en vain（無駄に）」という諦念に対する逆接；「L'Oubli suprême」§5の「Ce ne sera pas trop（十分ではないだろう）」という死後的逆説・「Hommage」§4の「Mais, immortelle encor（しかし、まだ不滅）」という詩集の「Mais」の系列に属する転換として機能する。「De ce qui reste de lui（彼の中に残るものから）」──「lui」の指示対象が詩の内部で意図的に曖昧化される：「lui」は詩人自身（je→lui という三人称化）か、あるいは神聖な瞬間（l'instant divin）か。「Respire（呼吸せよ）」──§1の「J'ai fleuri（私は花で飾った）」という一人称能動から、ここでは二人称命令への転換；「Le Bouquet」§1の「Pose ton pied léger（軽い足を置け）」という命令法への参照。冒頭句「l'ombre odorante / De ces roses d'aujourd'hui」のほぼ完全な反復が、消滅の中にある残存の肯定という詩集全体の主題を最も軽やかな形式で閉じる。"
+    }
+  ]
+}
