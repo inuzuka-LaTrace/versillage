@@ -2083,7 +2083,7 @@ const handleTextChange = (textId) => {
   　<div className="mb-10 text-center select-none">
     <h2 
       style={{ fontFamily: '"Cinzel", serif', letterSpacing: '0.2em' }}
-      className={`text-[10px] mb-3 ${textSecondary}`}
+      className={`text-[11px] mb-3 ${textSecondary}`}
     >
       Vanitas vanitatum et omnia vanitas.<br />
       Quare vanitatem repræsenta.
@@ -2094,17 +2094,12 @@ const handleTextChange = (textId) => {
     >
       VANITISME ; L'archive polyglotte de la modernité :<br />
       français, allemand, anglais, italien et russe. <br />
-      Dispositif de lecture, de traduction et de mémoire des fragments.
+      Dispositif de lecture, de traduction et de mémoire.<br />
       <br />
-      <br />
-      Recueil de {Object.keys(texts).length} textes
+      Recueil de {Object.keys(texts).length} textes<br />
+      掲載の日本語訳は学習補助の為の試訳であり、確定した翻訳ではありません
     </p>
   </div>
-        <div className={`text-center text-[9px] font-IBM Plex sans JP ${textSecondary} pb-8 space-y-1`}>
-          <p></p>
-          <p>掲載の日本語訳は学習補助の為の試訳であり、確定した翻訳ではありません</p>
-        </div>
-      </div>
 
       {/* フローティングTOPボタン */}
       {showScrollTop && (
