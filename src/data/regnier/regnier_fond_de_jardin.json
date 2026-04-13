@@ -1,0 +1,89 @@
+{
+  "id": "regnier_fond_de_jardin",
+  "title": "Fond de jardin",
+  "author": "Henri de Régnier",
+  "source": "La Cité des eaux, Mercure de France, s.d. (15e éd.), p. 38; https://fr.wikisource.org/wiki/Fond_de_jardin",
+  "year": "1902",
+  "firstPublication": "La Cité des eaux, Mercure de France, 1902",
+  "difficulty": "中級",
+  "category": "regnier",
+  "originalLang": "fr-FR",
+  "modernRelevance": "★★★★☆",
+  "context": "詩集『水の都（La Cité des eaux）』（1902）所収。「L'Île」に続く第26詩。ソネット形式（4・4・3・3行）。「庭の奥（fond de jardin）」という最も奥まった空間に詩集全体のモチーフが凝縮される。§1で黒い蔦が柔らかな薔薇に絡みつき、緑のトレリスを飾るポルティコと、蔦の葉の間で開く肉色の花びらを提示する。§2が「夜と過去の愛らしい香り」と「大地の苦い香り」の混合・「血の花が鉄の葉に微笑む」という花と葉の緊張を描く。§3で離れた水盤に金色の影として漂うコイが青灰色の水草に絡まれながら、永遠に無気力なモアレの水面を形成し、§4でザクセン磁器のイルカ像を映し、ポルティコの頂点の最も高い薔薇が水に逆さに映るイメージで閉じる。詩集全体の「水が像を反転させる」というモチーフの最終的・最も精緻な結晶化。",
+  "keywords": [
+    "庭の奥",
+    "黒い蔦と薔薇",
+    "血の花と鉄の葉",
+    "コイ",
+    "モアレ",
+    "ザクセン磁器のイルカ",
+    "逆さの薔薇",
+    "水の反転"
+  ],
+  "relatedTexts": [
+    "regnier_l_ile",
+    "regnier_le_bassin_noir",
+    "regnier_le_bassin_rose",
+    "regnier_le_bassin_vert",
+    "regnier_trianon",
+    "mallarme_sonnet_yx"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "verses": "v.1–4",
+      "original": "Le noir lierre aux douces roses enlacé\nDécore le portique et son treillage vert,\nEt l'on voit s'entr'ouvrir le pétale de chair\nPrès du feuillage en cœur qui vers lui s'est glissé ;",
+      "provisionalTranslation": "黒い蔦が柔らかな薔薇に絡みついて\nポルティコとその緑のトレリスを飾り、\n肉色の花びらが半開きになるのが見える、\nそこへと滑り込んできたハート形の葉の傍らで；"
+    },
+    {
+      "id": 2,
+      "verses": "v.5–8",
+      "original": "Une amoureuse odeur de soir et de passé\nSe mêle au dur parfum terrestrement amer ;\nLa fleur de sang sourit à la feuille de fer,\nCar de leur double poids son orgueil s'est lassé.",
+      "provisionalTranslation": "夜と過去の愛らしい香りが\n大地の苦い固い香りと混ざり合う；\n血の花が鉄の葉に微笑む、\nなぜならその誇りは両者の重みに疲れたから。"
+    },
+    {
+      "id": 3,
+      "verses": "v.9–11",
+      "original": "Un bassin, à l'écart, où rôde, ombre d'or grave,\nUn cyprin, ça et là, qu'une herbe glauque entrave,\nS'engourdit, et sa moire à jamais léthargique",
+      "provisionalTranslation": "離れた水盤、そこに金色の深い影として漂う、\nコイが、あちこちを、青灰色の水草が絡まり、\n麻痺し、その永遠に無気力なモアレの水面が"
+    },
+    {
+      "id": 4,
+      "verses": "v.12–14",
+      "original": "Mire un dauphin de saxe arqué sur son piédouche\nEt, seule, la plus haute au faîte du portique,\nL'image, inverse en l'eau, d'une rose à sa bouche.",
+      "provisionalTranslation": "台座の上に弧を描くザクセン磁器のイルカを映し、\nそして、ただ一輪、ポルティコの頂点の最も高い薔薇の、\n水に逆さになったイメージが、その口に薔薇を。"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "prosody",
+      "anchor": null,
+      "body": "全14行のソネット形式（quatrain・quatrain・tercet・tercet）。12音節アレクサンドラン。韻はABBAのエンブラッセ韻──enlacé／passé（A）、vert／chair（B）。詩集全体の韻律的特異点として、§3（v.9–11）と§4（v.12–14）が文法的に一体の文を形成する──「Un bassin…S'engourdit…Mire un dauphin…Et…L'image…」という単一の主語（bassin）が§3・§4を跨いで継続する。このテルセット二連の統語的一体化が、水盤の反射という主題（水が上部の薔薇の逆像を映す）を詩の形式そのもので体現する。詩集全体の水の反転・鏡映モチーフの最終的な結晶化──「Le Bassin noir」§4の「数字の王冠と名前の文字」・「Trianon」§4の黒い水底の金の葉に続く、水底の像の系列の閉幕。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "glossary",
+      "anchor": "Le noir lierre aux douces roses enlacé\nDécore le portique et son treillage vert,",
+      "body": "「黒い蔦が柔らかな薔薇に絡みついてポルティコとその緑のトレリスを飾る」。lierre noir（黒い蔦）とdouces roses（柔らかな薔薇）という色彩的・質感的対立──黒と柔らかさ／硬さと甘さ。portique（ポルティコ）は柱廊、treillage（トレリスまたはトレリス格子）は薔薇や蔦を這わせる格子状の庭園構造物──フランス式庭園の典型的装飾要素として詩集の庭園モチーフに接続する。「feuillage en cœur（ハート形の葉）」──蔦の葉の植物学的形状（心臓形）が「心臓・愛」の意味と重なり、「vers lui s'est glissé（そこへと滑り込んだ）」という動詞が蔦の葉の接近を愛の動作として擬人化する。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "La fleur de sang sourit à la feuille de fer,\nCar de leur double poids son orgueil s'est lassé.",
+      "body": "「血の花が鉄の葉に微笑む、なぜならその誇りは両者の重みに疲れたから」。「fleur de sang（血の花）」──薔薇の深紅を「血」として提示する色彩的転義；薔薇の赤と血の赤の同一化が詩集全体の vanitas 的モチーフ（生の輝きと死の隣接）と連絡する。「feuille de fer（鉄の葉）」──蔦の葉を「鉄」として提示する質感的転義；柔らかな花びら（§1の「pétale de chair（肉の花びら）」）と硬い葉という対立が「血と鉄」として強化される。「de leur double poids son orgueil s'est lassé（その誇りは両者の重みに疲れた）」──「son orgueil（その誇り）」の指示対象が意図的に曖昧──薔薇の誇りか蔦の誇りか、あるいは花全体の誇りか。「L'Abandon」§1の「N'animent plus la cour vaste, vide et royale（もはや活気を与えない）」という廃絶の疲労と同一の消耗の論理。"
+    },
+    {
+      "paragraphId": 3,
+      "type": "glossary",
+      "anchor": "Un bassin, à l'écart, où rôde, ombre d'or grave,\nUn cyprin, ça et là, qu'une herbe glauque entrave,\nS'engourdit, et sa moire à jamais léthargique",
+      "body": "「離れた水盤、そこに金色の深い影として漂うコイが、青灰色の水草に絡まれながら、麻痺し、その永遠に無気力なモアレの水面が」。cyprin（コイ）──金魚・コイは18世紀フランス庭園の装飾的水盤の典型的な生き物；「ombre d'or grave（金色の深い影）」という倒置が、コイ自体でなくその水中の影として提示する。「herbe glauque（青灰色の水草）」──glauque（青灰色・暗緑色）は詩集の水の色彩語彙（「L'Abandon」の「pierre jaune et pâle（黄色く蒼白い石）」）に接続する。「moire（モアレ）」──布地の波状光沢模様であり同時に水面の光の波紋──水盤の表面が布の光沢として提示されることで、水面が静止した物質的表面（鏡）として定義される。「à jamais léthargique（永遠に無気力な）」──「L'Île」§3の「S'est endormi（眠りについた）」・「L'Abandon」§2の「Le silence engourdi（麻痺した沈黙）」という詩集の麻痺・無気力の系列の継続。"
+    },
+    {
+      "paragraphId": 4,
+      "type": "commentary",
+      "anchor": "Mire un dauphin de saxe arqué sur son piédouche\nEt, seule, la plus haute au faîte du portique,\nL'image, inverse en l'eau, d'une rose à sa bouche.",
+      "body": "詩の閉幕。「台座の上に弧を描くザクセン磁器のイルカを映し、そしてただ一輪、ポルティコの頂点の最も高い薔薇の、水に逆さになったイメージが、その口に薔薇を」。「dauphin de saxe（ザクセン磁器のイルカ）」──マイセン（Saxe）磁器のイルカ像は18世紀フランス庭園の噴水装飾として典型的；その「arqué（弧を描く）」という形状が水盤の円弧と呼応する。「L'image, inverse en l'eau（水に逆さになったイメージ）」──詩集全体の水面反転モチーフの最終定式化；「Le Bassin noir」§4の黒い水底の金の葉・「Trianon」§4の数字の王冠という水底の形象の系列に対し、ここでは「逆さの薔薇のイメージ」という最も純粋な光学的倒立として閉じる。「d'une rose à sa bouche（その口に薔薇を）」──最終行の「sa bouche」の指示対象はイルカの口か・薔薇自身の口か・水面の口か意図的に曖昧であり、逆さのイメージが語り手の視点ごと反転する。マラルメ「yx のソネット」の鏡の空虚な反射──「Elle, défunte nue en le miroir（裸で死んで鏡の中にある彼女）」──と同一の、像の不在・逆転という詩的論理の帰着点。"
+    }
+  ]
+}
