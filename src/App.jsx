@@ -46,7 +46,7 @@ import swinburneData from './data/swinburne';
 import rossetti_cData from './data/rossetti_c';
 import d_g_rossettiData from './data/d_g_rossetti';
 import yeatsData from './data/yeats';
-import { CATEGORIES, CAT_SHORT, ANNOTATION_TYPE_DEF, SPEECH_RATES, PREFERRED_VOICES, SPEAKER_COLORS, SPEAKER_FIXED_COLORS, AUTHOR_COLOR_MAP, INK_MASK_SVG } from './constants';
+import { CATEGORIES, CAT_SHORT, ANNOTATION_TYPE_DEF, SPEECH_RATES, PREFERRED_VOICES, SPEAKER_COLORS, SPEAKER_FIXED_COLORS, AUTHOR_COLOR_MAP } from './constants';
 import { getTranslation, getOriginalText, getSpeechLang, getBestVoice, extractSnippet } from './utils';
 
 // getTranslation, getOriginalText, getSpeechLang, getBestVoice, PREFERRED_VOICES, SPEECH_RATES → constants.js / utils.js
@@ -202,7 +202,7 @@ export default function App() {
     }, 600); // 500ms（0.5秒）間隔を維持
     return () => clearInterval(interval);
   }
-}, [loading, texts]);
+  }, [loading, texts]);
   // コンポーネントアンマウント時・テキスト切替時に読み上げ停止
   useEffect(() => {
     window.speechSynthesis.cancel();
@@ -314,7 +314,6 @@ export default function App() {
 
       lastScrollY.current = currentY;
     };
-
     window.addEventListener('scroll', handleScroll, { passive: true });
     return () => window.removeEventListener('scroll', handleScroll);
   }, []);
@@ -440,30 +439,15 @@ export default function App() {
     pushParaHash(textId, paraId);
   };
 
-  /// App.jsx 内の handleTextChange
-const handleTextChange = (textId) => {
-  if (selectedText === textId) return;
-
-  // 1. 闇を深くする（フェードアウト開始）
-  setIsTransitioning(true);
-
-  // 2. 0.5秒後（画面が完全に闇に染まった時）に中身を切り替える
-  setTimeout(() => {
+  // テキスト切り替え（状態リセット + URL更新 + テキスト情報へスクロール）
+  const handleTextChange = (textId) => {
     resetTextState(textId);
     pushTextHash(textId);
-    setShowToc(false);
-    
-    // テキスト切り替え後に少しだけ待ってから闇を晴らす
     setTimeout(() => {
-      setIsTransitioning(false);
-      
-      // スクロール位置を上へ
-      setTimeout(() => {
-        scrollToEl(textInfoRef.current, false);
-      }, 50);
-    }, 50); 
-  }, 200); // 闇が深まるまでの時間
-};
+      scrollToEl(textInfoRef.current);
+    }, 80);
+  };
+
   
   const toggleParagraph = (id) => {
     setCollapsedParagraphs(prev => ({ ...prev, [id]: !prev[id] }));
