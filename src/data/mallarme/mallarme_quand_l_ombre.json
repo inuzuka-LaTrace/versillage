@@ -1,0 +1,89 @@
+{
+  "id": "mallarme_quand_l_ombre",
+  "title": "Quand l'ombre menaça de la fatale loi",
+  "author": "Stéphane Mallarmé",
+  "source": "Album de vers et de prose, Bruxelles, 1887; https://fr.wikisource.org/wiki/Album_de_vers_et_de_prose_(Mallarm%C3%A9)/%C2%AB_Quand_l%27ombre_mena%C3%A7a_de_la_fatale_loi_%C2%BB",
+  "year": "1883",
+  "firstPublication": "Album de vers et de prose, Bruxelles, 1887",
+  "difficulty": "上級",
+  "category": "mallarme",
+  "originalLang": "fr-FR",
+  "modernRelevance": "★★★★★",
+  "context": "14行・12音節アレクサンドラン、ABBA-ABBA-CCD-EDE の韻型。宇宙論的スケールで詩人の創造的天才と宇宙の無関心な反復の対置を主題とする。§1で「運命の法の影が古い夢に脅威を与えたとき」、夢が「疑いようのない翼を私の中に折り畳んだ」という内部への撤退が描かれる。§2で「黒檀の広間の豪奢」という空間において「有名な花飾りが王を誘惑するために死の中で身をよじる」という廃墟的美が提示され、「孤独な者の信仰によって眩惑された目には、あなたたちは闇によって嘘をつかれた誇りにすぎない」という告発が続く。§3で「そう、私は知っている、この夜の遠くで、地球が隠れた世紀の下で異常な神秘を大いなる閃光で投げかけると」という宇宙論的確信が提示され、§4の「空間は、それが拡大しようと否定しようと自らに等しく、この倦怠の中で卑俗な火々を証人として転がす、祝祭の星の天才が燃え上がったことの」という閉幕へと至る。ジャン＝ピエール・リシャール（『マラルメの想像的宇宙』）の「ennui（倦怠）」論・夢の翼の折り畳み論、ブランショ（『文学の空間』）の「作品の不在と文学の可能性」、デリダ（「マラルメ」、『散種』）の「génie（天才）」と「s'est allumé（燃え上がった）」の分析が交差する。",
+  "keywords": [
+    "運命の法",
+    "古い夢の翼の折り畳み",
+    "黒檀の広間",
+    "孤独な者の信仰",
+    "地球の神秘",
+    "卑俗な火の証人",
+    "祝祭の星",
+    "天才の点灯"
+  ],
+  "relatedTexts": [
+    "mallarme_victorieusement",
+    "mallarme_sonnet_yx",
+    "mallarme_lazur",
+    "mallarme_tout_orgueil",
+    "mallarme_toast_funebre",
+    "mallarme_m_introduire"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "verses": "v.1–4",
+      "original": "Quand l'ombre menaça de la fatale loi\nTel vieux Rêve, désir et mal de mes vertèbres,\nAffligé de périr sous les plafonds funèbres\nIl a ployé son aile indubitable en moi,",
+      "provisionalTranslation": "影が運命の法で脅かしたとき\n私の背骨の欲望と苦しみである、あの古い夢を、\n葬礼の天井の下に消えることを嘆きながら\n夢は疑いようのない翼を私の中に折り畳んだ、"
+    },
+    {
+      "id": 2,
+      "verses": "v.5–8",
+      "original": "Luxe, ô salle d'ébène où, pour séduire un roi,\nSe tordent dans leur mort des guirlandes célèbres,\nVous n'êtes qu'un orgueil menti par les ténèbres\nAux yeux du solitaire ébloui de sa foi,",
+      "provisionalTranslation": "豪奢よ、ああ黒檀の広間よ、そこで王を誘惑するために\n有名な花飾りが死の中で身をよじる、\nあなたたちは闇によって嘘をつかれた誇りにすぎない\n自らの信仰によって眩惑された孤独な者の目には、"
+    },
+    {
+      "id": 3,
+      "verses": "v.9–11",
+      "original": "Oui, je sais qu'au lointain de cette nuit, la Terre\nJette d'un grand éclat l'insolite mystère\nSous les siècles hideux qui l'obscurcissent moins.",
+      "provisionalTranslation": "そう、私は知っている、この夜の遠くで、地球が\n異常な神秘を大いなる閃光で投げかけると\nそれをいっそう暗くする醜い世紀の下でさえ。"
+    },
+    {
+      "id": 4,
+      "verses": "v.12–14",
+      "original": "L'espace à soi pareil qu'il s'accroisse ou se nie\nRoule dans cet ennui des feux vils pour témoins\nQue s'est d'un astre en fête allumé le génie.",
+      "provisionalTranslation": "空間は、拡大しようと否定しようと自らに等しく、\nこの倦怠の中で証人として卑俗な火々を転がす、\n祝祭の星の天才が燃え上がったことの。"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "prosody",
+      "anchor": null,
+      "body": "14行・12音節アレクサンドラン。韻型ABBA-ABBA-CCD-EDE──loi／foi（A）、vertèbres／funèbres（B）、Terre／mystère（C）、moins／témoins（D）、nie／génie（E）。「夜のソネット」三部作の第二番として、第三番「Victorieusement fui」の日没的宇宙論・第四番「Ses purs ongles」の虚無的室内論と対照的に、本詩は宇宙論的スケール（地球・空間・星・世紀）と詩人の内部的撤退（翼の折り畳み）という垂直的対立を12音節の重みある形式で展開する。統語的構造として§1の「Quand（〜したとき）…Il a ployé（折り畳んだ）」という時間節と主節の因果関係・§2の「Vous n'êtes que（あなたたちはすぎない）」という告発的断定・§3の「Oui, je sais que（そう、私は知っている）」という確信的宣言・§4の「Roule dans cet ennui（この倦怠の中で転がす）」という宇宙的無関心という四段階。リシャール（『マラルメの想像的宇宙』）はこのソネットを「夢の内部化と宇宙的外部性の対立」として、ブランショ（『文学の空間』）を「作品の自己収縮と世界の無関心の弁証法」として読む。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "Quand l'ombre menaça de la fatale loi\nTel vieux Rêve, désir et mal de mes vertèbres,\nAffligé de périr sous les plafonds funèbres\nIl a ployé son aile indubitable en moi,",
+      "body": "「影が運命の法で古い夢を脅かしたとき──私の背骨の欲望と苦しみである夢は──葬礼の天井の下に消えることを嘆きながら、疑いようのない翼を私の中に折り畳んだ」。リシャール（『マラルメの想像的宇宙』）は「Il a ployé son aile indubitable en moi（疑いようのない翼を私の中に折り畳んだ）」という行を詳細に分析する──「ployer（折り畳む）」という動詞が鳥の翼の格納という身体的運動として夢の内部化を提示する；「indubitable（疑いようのない）」という形容詞が折り畳まれた翼の確実な実在性を主張し、消滅の脅威に対して翼の存在そのものは否定されないという逆説。リシャールはこの「翼の内部への折り畳み」を「外部の脅威に対する詩的理念の内部的保存」として──「Victorieusement fui」§3の「Un peu de puéril triomphe en t'en coiffant（あなたを飾ることで幼稚な勝利のほんの少しを留める）」という髪による残照保存の翼的先行形として──読む。「désir et mal de mes vertèbres（私の背骨の欲望と苦しみ）」──vertèbres（背骨）という解剖学的・身体的語彙が夢という精神的・観念的存在の物質的基盤として提示される；リシャールの「身体的物質論（matérialisme corporel）」の典型として、夢が背骨という脊柱の生理的欲望と苦しみとして定義される。ブランショ（『文学の空間』「作品の空間」）はこの「葬礼の天井の下に消えることを嘆く夢」を「作品の自己消滅への抵抗」として読む──夢（作品の理念）は消滅の脅威を認識しながら消滅せずに内部化するという「文学的抵抗」の身振りとして。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "Luxe, ô salle d'ébène où, pour séduire un roi,\nSe tordent dans leur mort des guirlandes célèbres,\nVous n'êtes qu'un orgueil menti par les ténèbres\nAux yeux du solitaire ébloui de sa foi,",
+      "body": "「豪奢よ、ああ黒檀の広間よ、そこで王を誘惑するために有名な花飾りが死の中で身をよじる、あなたたちは孤独な者の信仰によって眩惑された目には闇によって嘘をつかれた誇りにすぎない」。「salle d'ébène（黒檀の広間）」──「Tout Orgueil fume-t-il du soir」§4の「la fulgurante console（閃光するコンソール）」という闇の中の唯一の光に対し、ここでは黒檀（ébène）という黒一色の硬質な空間が提示される；リシャール（『マラルメの想像的宇宙』）は黒檀を「光の絶対的否定としての黒の物質」として──「Renouveau」§1の「L'hiver lucide（明晰な冬）」の白の純粋性に対する黒の純粋性として──分析する。「Se tordent dans leur mort des guirlandes célèbres（有名な花飾りが死の中で身をよじる）」──「Tout Orgueil」§2の「De maint riche mais chu trophée（豊かだが落ちた戦利品）」という廃墟的美と同一の論理として、かつての「有名な（célèbres）」花飾りが「死の中で身をよじる（se tordent dans leur mort）」という腐朽の動的過程。ブランショ（『文学の空間』「文学と死への権利」）はこの「死の中で身をよじる花飾り」を「言語の自己腐朽」として読む──詩的言語は意味の充実において同時に自らの腐朽を開始するという文学の根本的逆説。「Vous n'êtes qu'un orgueil menti par les ténèbres（あなたたちは闇によって嘘をつかれた誇りにすぎない）」──デリダ（「マラルメ」、『散種』）はこの「menti（嘘をつかれた）」という受動分詞を「記号の虚偽性」の告発として読む；豪奢・広間・花飾りという豊かな視覚的記号が実は「闇によって嘘をつかれた（= 闇が生産した虚偽の）誇り」にすぎないという批判が、詩的記号体系全体への懐疑として機能する。「du solitaire ébloui de sa foi（自らの信仰によって眩惑された孤独な者）」──solitaire（孤独な者）という詩人の自己指示が「ébloui（眩惑された）」という受動的光学的状態として提示される；「Renouveau」§4の「l'azur rit（空が笑う）」に対して眩惑された孤独な詩人というこの構図が、詩人と宇宙的光の非対称な関係を確定する。"
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "Oui, je sais qu'au lointain de cette nuit, la Terre\nJette d'un grand éclat l'insolite mystère\nSous les siècles hideux qui l'obscurcissent moins.",
+      "body": "「そう、私は知っている、この夜の遠くで、地球が──それをいっそう暗くする醜い世紀の下でさえ──異常な神秘を大いなる閃光で投げかけると」。「Oui, je sais（そう、私は知っている）」──§2の「Vous n'êtes que（あなたたちはすぎない）」という否定的告発から§3の「Oui（そう）」という肯定的確信への転換が詩の認識論的転換点；「Hommage」§4の「Mais, immortelle encor（しかし、まだ不滅）」・「L'Oubli suprême」§5の「Ce ne sera pas trop（十分ではないだろう）」という詩集全体の否定から肯定への逆接系列に属する転換。リシャール（『マラルメの想像的宇宙』）は「la Terre / Jette d'un grand éclat l'insolite mystère（地球が異常な神秘を大いなる閃光で投げかける）」を「マラルメにおける地球の詩論的機能」として分析する──地球が自ら詩的神秘（mystère）を光（éclat）として宇宙に向かって投射するという能動的行為；これは「Renouveau」§4の「l'azur rit（空が笑う）」という天空の地球への無関心とは逆方向の、地球から宇宙への能動的発光として。「Sous les siècles hideux qui l'obscurcissent moins（それをいっそう暗くする醜い世紀の下でさえ）」──「hideux（醜い）」という強烈な形容詞が歴史的時代（siècles）に付与される；「moins（いっそう〜ない）」という比較の否定が醜い世紀でさえ地球の神秘を完全に暗くできないという持続的輝きを主張する。ブランショ（『文学の空間』「書くことの孤独」）はこの「醜い世紀の下でさえ燃え続ける地球の神秘」を「文学の歴史的条件の超克」──いかなる歴史的暗闇も文学の本質的輝きを消滅させることができないという主張──として読む。"
+    },
+    {
+      "paragraphId": 4,
+      "type": "commentary",
+      "anchor": "L'espace à soi pareil qu'il s'accroisse ou se nie\nRoule dans cet ennui des feux vils pour témoins\nQue s'est d'un astre en fête allumé le génie.",
+      "body": "詩の閉幕。「空間は、拡大しようと否定しようと自らに等しく、この倦怠の中で証人として卑俗な火々を転がす、祝祭の星の天才が燃え上がったことの」。「L'espace à soi pareil qu'il s'accroisse ou se nie（空間は拡大しようと否定しようと自らに等しく）」──リシャール（『マラルメの想像的宇宙』）はこの行を「マラルメの空間論の核心命題」として位置づける；空間は膨張しても収縮しても「自らに等しい（à soi pareil）」という同一性を保つ──これは変化を超えた自己同一性として空間の無限的無関心を定義する。デリダ（「マラルメ」、『散種』）はこの「à soi pareil（自らに等しい）」という反射的同一性を「空間の鏡的自己完結」として──「Quelle soie」§1の「hors de ton miroir（鏡の外に）」という鏡的境界と同一の問題圏において──読む。「Roule dans cet ennui des feux vils pour témoins（この倦怠の中で証人として卑俗な火々を転がす）」──ennui（倦怠）という語が「Soupir」§2の「sa langueur infinie（無限の倦怠）」という天空の倦怠と連絡しながら、ここでは宇宙的空間の恒常的状態として提示される；「feux vils（卑俗な火々）」という侮辱的形容詞が星々（feux）に付与されることで、詩人の天才に対する宇宙の証人たちの低劣さが確定される。ブランショ（『文学の空間』「マラルメの経験」）はこの「倦怠の中の卑俗な火々」を「文学的天才に対する世界の無関心な証言」として読む──世界は詩的天才の燃え上がりを記録するが、それを理解せず倦怠の中で転がすだけである。「Que s'est d'un astre en fête allumé le génie（祝祭の星の天才が燃え上がったことの）」──詩の最終行。デリダ（「マラルメ」、『散種』）は「génie（天才）」という語の語源的二義性を分析する──「génie」はラテン語genius（守護霊・創造的精神）に由来し、同時に「燃え上がる（s'est allumé）」という過去の完了した自己点火を示す；「d'un astre en fête（祝祭の星の）」という属格が天才を星の祝祭という宇宙的事件として提示する。リシャールはこの閉幕を「詩集全体の自己正当化」として読む──「Quand l'ombre menaça（影が脅かしたとき）」という開始の脅威に対して、「s'est allumé le génie（天才が燃え上がった）」という過去完了の確定によって詩人の天才の宇宙的証明が成立する。詩集の閃光的閉幕の系列──「Victorieusement fui」の「clarté（明晰さ）」・「Tout Orgueil」の「fulgurante console（閃光するコンソール）」・「M'introduire」の「mourir pourpre la roue（紫に死んでいく車輪）」──の中で、本詩の「s'est allumé le génie（天才が燃え上がった）」は過去完了という既成事実として最も確定的な光の宣言として位置づけられる。"
+    }
+  ]
+}
