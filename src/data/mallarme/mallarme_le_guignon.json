@@ -1,0 +1,221 @@
+{
+  "id": "mallarme_le_guignon",
+  "title": "Le Guignon",
+  "author": "Stéphane Mallarmé",
+  "source": "Les poésies de Stéphane Mallarmé, la Revue indépendante, 1887, p. 6–9; https://fr.wikisource.org/wiki/Le_Guignon_(St%C3%A9phane_Mallarm%C3%A9)_(1887)",
+  "year": "1862",
+  "firstPublication": "L'Artiste, 1862 (初稿); Les poésies de Stéphane Mallarmé, 1887 (改訂版)",
+  "difficulty": "上級",
+  "category": "mallarme",
+  "originalLang": "fr-FR",
+  "modernRelevance": "★★★★☆",
+  "context": "マラルメ最初期の大作。3行連（テルツェット）21連＋最終1行・全64行、12音節アレクサンドラン。詩集冒頭に配置され、「呪われた詩人（poète maudit）」という主題を最も直接的に展開する。テルツィーナ的な三行連が詩集全体の序曲として「紺碧の乞食（mendieurs d'azur）」という詩人集団の行進・苦難・敗北・嘲笑・自殺的終末を叙事詩的スケールで描く。詩人たちは三つのタイプに区別される──苦難の血に酔いながら民衆の跪拝を得る「慰められた者（consolés）」（§5–§7）・不運（guignon）に翻弄されて嘲笑されるだけの「呪われた者（maudits）」（§8–§14）・最終的に街灯に首を吊る「へなへなの英雄（héros excédés）」（§19–最終行）。ヴェルレーヌ（『呪われた詩人たち（Les Poètes maudits）』、1884）が「マラルメ」の章でこの詩の「mendieurs d'azur（紺碧の乞食）」という表現を「マラルメ詩学の核心語」として引用・分析する。リシャール（『マラルメの想像的宇宙』）は「citron d'or de l'idéal amer（苦い理想の黄金の檸檬）」を「理想の物質的苦味の形象」として、「Guignon（不運）」という固有名詞化された運命を分析する。",
+  "keywords": [
+    "紺碧の乞食",
+    "苦い理想の黄金の檸檬",
+    "呪われた詩人",
+    "不運という固有名詞",
+    "慰められた者と嘲笑される者",
+    "プロメテウスに秃鷹が足りない",
+    "街灯への首吊り",
+    "詩人の三類型"
+  ],
+  "relatedTexts": [
+    "mallarme_lazur",
+    "mallarme_renouveau",
+    "mallarme_angoisse",
+    "mallarme_apparition",
+    "verlaine_poetes_maudits_mallarme",
+    "baudelaire_elevation"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "verses": "v.1–3",
+      "original": "Au dessus du bétail ahuri des humains\nBondissaient en clartés les sauvages crinières\nDes mendieurs d'azur le pied dans nos chemins.",
+      "provisionalTranslation": "呆然とした人間の畜群の上に\n光の中を跳ね上がっていた、荒々しい鬣が\n私たちの道に足をつけた紺碧の乞食たちの。"
+    },
+    {
+      "id": 2,
+      "verses": "v.4–6",
+      "original": "Un noir vent sur leur marche éployé pour bannières\nLa flagellait de froid tel jusque dans la chair,\nQu'il y creusait aussi d'irritables ornières.",
+      "provisionalTranslation": "彼らの行進の上に旗として広げられた黒い風が\n冷たさで肉の奥まで鞭打ち、\nそこに苛立たしい轍をも穿った。"
+    },
+    {
+      "id": 3,
+      "verses": "v.7–9",
+      "original": "Toujours avec l'espoir de rencontrer la mer,\nIls voyageaient sans pain, sans bâtons et sans urnes,\nMordant au citron d'or de l'idéal amer.",
+      "provisionalTranslation": "常に海に出会う希望とともに、\n彼らはパンも杖も壺もなしに旅をした、\n苦い理想の黄金の檸檬に噛みつきながら。"
+    },
+    {
+      "id": 4,
+      "verses": "v.10–12",
+      "original": "La plupart râla dans les défilés nocturnes,\nS'enivrant du bonheur de voir couler son sang,\nÔ Mort le seul baiser aux bouches taciturnes !",
+      "provisionalTranslation": "大半は夜の行列の中で喘ぎながら死んだ、\n自分の血が流れるのを見る幸福に酔いながら、\nああ死よ、寡黙な口への唯一のキスよ！"
+    },
+    {
+      "id": 5,
+      "verses": "v.13–15",
+      "original": "Leur défaite, c'est par un ange très puissant\nDebout à l'horizon dans le nu de son glaive :\nUne pourpre se caille au sein reconnaissant.",
+      "provisionalTranslation": "彼らの敗北とは、地平線に裸の剣で立つ\n非常に強力な天使によるものだ：\n感謝する胸に紫が凝固する。"
+    },
+    {
+      "id": 6,
+      "verses": "v.16–18",
+      "original": "Ils tettent la douleur comme ils tétaient le rêve\nEt quand ils vont rythmant des pleurs voluptueux\nLe peuple s'agenouille et leur mère se lève.",
+      "provisionalTranslation": "彼らは夢を吸ったように苦痛を吸い、\n官能的な涙をリズムに乗せて進むとき、\n民衆は跪き、彼らの母は立ち上がる。"
+    },
+    {
+      "id": 7,
+      "verses": "v.19–21",
+      "original": "Ceux-là sont consolés, sûrs et majestueux ;\nMais traînent à leurs pas cent frères qu'on bafoue,\nDérisoires martyrs de hazards tortueux.",
+      "provisionalTranslation": "それらの者たちは慰められ、確かで威厳がある；\nしかし彼らの足元に嘲笑される百人の兄弟を引き連れる、\n曲がりくねった偶然の嘲笑的な殉教者たちを。"
+    },
+    {
+      "id": 8,
+      "verses": "v.22–24",
+      "original": "Le sel pareil des pleurs ronge leur douce joue,\nIls mangent de la cendre avec le même amour,\nMais vulgaire ou bouffon le destin qui les roue.",
+      "provisionalTranslation": "同じ塩の涙が柔らかな頬を腐食し、\n同じ愛で灰を食べるが、\n彼らを車輪に縛る運命は下品か道化じみている。"
+    },
+    {
+      "id": 9,
+      "verses": "v.25–27",
+      "original": "Ils pouvaient exciter aussi comme un tambour\nLa servile pitié des races à voix ternes,\nÉgaux de Prométhée à qui manque un vautour !",
+      "provisionalTranslation": "彼らも太鼓のように\n単調な声の種族の卑屈な同情を煽ることができたのだが、\nプロメテウスに等しいが、禿鷹が足りない者たちよ！"
+    },
+    {
+      "id": 10,
+      "verses": "v.28–30",
+      "original": "Non, vils et fréquentant les déserts sans citernes,\nIls courent sous le fouet d'un monarque rageur,\nLe Guignon, dont le rire inouï les prosterne.",
+      "provisionalTranslation": "否、卑しく貯水池のない砂漠を彷徨い、\n激怒した君主の鞭の下を走る、\n不運──その前代未聞の笑いが彼らを平伏させる。"
+    },
+    {
+      "id": 11,
+      "verses": "v.31–33",
+      "original": "Amants, il saute en croupe à trois, le partageur !\nPuis le torrent franchi, vous plonge en une mare\nEt laisse un bloc boueux du blanc couple nageur.",
+      "provisionalTranslation": "恋人たちのとき、不運は三人目に後ろに跳び乗る、分かち合い屋！\nそして激流を渡った後、あなたを水たまりに沈め、\n白い水泳する二人から泥の塊を残す。"
+    },
+    {
+      "id": 12,
+      "verses": "v.34–36",
+      "original": "Grâce à lui, si l'un souffle à son buccin bizarre,\nDes enfants nous tordront en un rire obstiné\nQui, le poing à leur cul, singeront sa fanfare.",
+      "provisionalTranslation": "彼のおかげで、誰かが奇妙な法螺貝を吹けば、\n子供たちは頑固な笑いで私たちをねじり、\n拳を尻に当てて、その fanfare を猿真似する。"
+    },
+    {
+      "id": 13,
+      "verses": "v.37–39",
+      "original": "Grâce à lui, si l'une orne à pont un sein fané\nPar une rose qui nubile le rallume,\nDe la bave luira sur son bouquet damné.",
+      "provisionalTranslation": "彼のおかげで、誰かが萎れた乳房を\nそれを再び若々しく点す薔薇で飾れば、\n呪われた花束の上に唾液が光る。"
+    },
+    {
+      "id": 14,
+      "verses": "v.40–42",
+      "original": "Et ce squelette nain, coiffé d'un feutre à plume\nEt botté, dont l'aisselle a pour poils vrais des vers,\nEst pour eux l'infini de la vaste amertume.",
+      "provisionalTranslation": "そして羽根付き帽子を被り長靴を履いたこの小人の骸骨が、\nその脇の下の毛として本物の蛆虫を持つのが、\n彼らにとっては広大な苦さの無限だ。"
+    },
+    {
+      "id": 15,
+      "verses": "v.43–45",
+      "original": "Vexés ne vont-ils pas provoquer le pervers,\nLeur rapière grinçant suit le rayon de lune\nQui neige en sa carcasse et qui passe au travers.",
+      "provisionalTranslation": "苛立って彼らは倒錯者に挑まないか、\n軋む細剣は月光の筋を追うが\nそれは骸骨の中に雪のように降り、通り抜ける。"
+    },
+    {
+      "id": 16,
+      "verses": "v.46–48",
+      "original": "Désolés sans l'orgueil qui sacre l'infortune,\nEt tristes de venger leurs os de coups de bec,\nIls convoitent la haine, au lieu de la rancune.",
+      "provisionalTranslation": "不運を聖化する誇りなしに絶望し、\n嘴の一突きから骨を守ろうとして悲しく、\n彼らは恨みの代わりに憎しみを欲望する。"
+    },
+    {
+      "id": 17,
+      "verses": "v.49–51",
+      "original": "Ils sont l'amusement des racleurs de rebec,\nDes marmots, des putains et de la vieille engeance\nDes loqueteux dansant quand le broc est à sec.",
+      "provisionalTranslation": "彼らはレベック弾きの余興であり、\n餓鬼ども、娼婦たち、そしてジョッキが空のとき踊る\nぼろを纏ったやからの古い種族の余興だ。"
+    },
+    {
+      "id": 18,
+      "verses": "v.52–54",
+      "original": "Les poëtes bons pour l'aumône ou la vengeance,\nNe connaissant le mal de ces dieux effacés,\nLes disent ennuyeux et sans intelligence.",
+      "provisionalTranslation": "施しか復讐にしか役立たぬ詩人たちは、\nこれらの消えた神々の苦しみを知らないので、\n彼らを退屈で知性がないと言う。"
+    },
+    {
+      "id": 19,
+      "verses": "v.55–57",
+      "original": "« Ils peuvent fuir ayant de chaque exploit assez,\n« Comme un vierge cheval écume de tempête\n« Plutôt que de partir en galops cuirassés.",
+      "provisionalTranslation": "「彼らはどんな冒険にも飽き飽きして逃げることができる、\n嵐の泡を立てる処女の馬のように\n甲冑に身を固めた疾走で出発するよりも。"
+    },
+    {
+      "id": 20,
+      "verses": "v.58–60",
+      "original": "« Nous soûlerons d'encens le vainqueur dans la fête :\n« Mais eux, pourquoi n'endosser pas, ces baladins,\n« D'écarlate haillon hurlant que l'on s'arrête ! »",
+      "provisionalTranslation": "「私たちは祭りで勝者を香煙で酔わせよう：\n「しかし彼らは、なぜ身につけないのか、これらの道化師たちは、\n「立ち止まれと叫ぶ真紅のぼろ切れを！」"
+    },
+    {
+      "id": 21,
+      "verses": "v.61–64",
+      "original": "Quand en face tous leur ont craché les dédains,\nNuls et la barbe à mots bas priant le tonnerre,\nCes héros excédés de malaises badins\nVont ridiculement se pendre au réverbère.",
+      "provisionalTranslation": "向き合って全員が侮蔑を吐きかけたとき、\n無である彼らは口ひげに低く雷に祈りながら、\n軽薄な不快に耐えきれないこれらの英雄たちは\n滑稽にも街灯に首を吊りに行く。"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "prosody",
+      "anchor": null,
+      "body": "3行連（テルツェット）21連＋最終1行・全64行・12音節アレクサンドラン。韻構造はダンテ的テルツィーナ（ABA-BCB-CDC…）を参照しながら変形した連結韻──humains／chemins（A）、crinières／bannières（B）、chair／mer（C）と各連が次連と韻を共有する連鎖構造。詩集冒頭に置かれ、詩集全体の序曲として機能する。ヴェルレーヌ（『呪われた詩人たち』、1884）は「マラルメ」の章でこの詩の「mendieurs d'azur（紺碧の乞食）」という表現を特筆し、マラルメの詩学における「azur（紺碧）」への飢えを詩人の本質的条件として定義した最初の批評的分析として位置づける。詩全体の構造は三段階──§1–§4（行進・苦難・死）・§5–§7（慰められた詩人）・§7–最終行（呪われた詩人の嘲笑と自殺）──として展開する。詩人の三類型──慰められた者（consolés）・プロメテウスに等しいが禿鷹を持たない者・不運に服従して街灯に吊る者──が詩集全体の詩人論的骨格を形成する。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "Au dessus du bétail ahuri des humains\nBondissaient en clartés les sauvages crinières\nDes mendieurs d'azur le pied dans nos chemins.",
+      "body": "「呆然とした人間の畜群の上に、光の中を跳ね上がっていた、私たちの道に足をつけた紺碧の乞食たちの荒々しい鬣が」。ヴェルレーヌ（『呪われた詩人たち』「ステファン・マラルメ」）はこの第一連──特に「mendieurs d'azur（紺碧の乞食）」という表現──をマラルメ詩学の核心語として強調する；ヴェルレーヌはこの詩人集団の「紺碧への乞食行為」をボードレールの「上昇（Élévation）」・ランボーの「見者（voyant）」と並ぶ象徴主義的詩人定義として位置づける。リシャール（『マラルメの想像的宇宙』）は「mendieurs d'azur（紺碧の乞食）」を「L'Azur」の「L'Azur ! l'Azur ! l'Azur !」という強迫的反復の叙事詩的先行形として分析する──天空という理念に飢えながらも「le pied dans nos chemins（私たちの道に足をつけ）」るという地上性との分裂が詩人の根本的条件として提示される。「bétail ahuri des humains（呆然とした人間の畜群）」──ボードレール「上昇（Élévation）」の「il plane sur la vie, et comprend sans effort / Le langage des fleurs et des choses muettes（努力なしに生命の上を飛翔し、花々と物言わぬものの言語を理解する）」という上昇する詩人と地上の大衆の対比の叙事詩的拡大版。「sauvages crinières（荒々しい鬣）」という動物的比喩が詩人集団を飼いならされていない馬・獅子として提示する。"
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "Toujours avec l'espoir de rencontrer la mer,\nIls voyageaient sans pain, sans bâtons et sans urnes,\nMordant au citron d'or de l'idéal amer.",
+      "body": "「常に海に出会う希望とともに、パンも杖も壺もなしに旅をした、苦い理想の黄金の檸檬に噛みつきながら」。リシャール（『マラルメの想像的宇宙』）は「Mordant au citron d'or de l'idéal amer（苦い理想の黄金の檸檬に噛みつく）」を詩集全体で最も重要な物質論的形象の一つとして詳細に分析する──「citron d'or（黄金の檸檬）」という二重の感覚的矛盾（視覚的黄金の美しさ×味覚的苦味）が理想（idéal）の本質的性格を物質化する；リシャールはマラルメにとって理想が常に「苦い（amer）」──到達するほど苦く・逃げ去るほど美しい──という矛盾した物質として経験されることを指摘する。「sans pain, sans bâtons et sans urnes（パンも杖も壺もなしに）」──三重の欠如が詩人の根本的な手ぶら性として提示される；パン（生活的糧）・杖（身体的支柱）・壺（死後の骨壺）という三種の欠如が生の全域にわたる欠乏を体現する。「avec l'espoir de rencontrer la mer（海に出会う希望とともに）」──「Brise marine」の「je partirai ! Steamer balançant ta mâture（私は出発する！）」という逃走衝動の集団的反復として、ここでの「海」は到達されることなく常に期待される地平として機能する。"
+    },
+    {
+      "paragraphId": 4,
+      "type": "commentary",
+      "anchor": "La plupart râla dans les défilés nocturnes,\nS'enivrant du bonheur de voir couler son sang,\nÔ Mort le seul baiser aux bouches taciturnes !",
+      "body": "「大半は夜の行列の中で喘ぎながら死んだ、自分の血が流れるのを見る幸福に酔いながら──ああ死よ、寡黙な口への唯一のキスよ！」。「S'enivrant du bonheur de voir couler son sang（自分の血が流れるのを見る幸福に酔いながら）」──詩人の苦難への倒錯的陶酔としての自己血の見物；ヴェルレーヌ（『呪われた詩人たち』）は「呪われた詩人」の条件として「苦難への自己耽溺」を挙げ、この行をその詩的定式化として引用する文脈を持つ。「Ô Mort le seul baiser aux bouches taciturnes !（ああ死よ、寡黙な口への唯一のキスよ！）」──感嘆符付きの呼格が詩全体の叙事詩的叙述を中断する直接的抒情的発話として機能する；「bouches taciturnes（寡黙な口）」は詩人が沈黙を強いられているという言語的抑圧の身体化。リシャール（『マラルメの想像的宇宙』）はこの「死のキス」を「沈黙の官能化」として──寡黙な口に与えられる唯一の接触として死という否定的経験を官能的に肯定する逆説──として読む。"
+    },
+    {
+      "paragraphId": 7,
+      "type": "commentary",
+      "anchor": "Ceux-là sont consolés, sûrs et majestueux ;\nMais traînent à leurs pas cent frères qu'on bafoue,\nDérisoires martyrs de hazards tortueux.",
+      "body": "「それらの者たちは慰められ、確かで威厳がある；しかし彼らの足元に嘲笑される百人の兄弟を引き連れる、曲がりくねった偶然の嘲笑的な殉教者たちを」。詩の構造的転換点──「consolés（慰められた者）」と「bafoués（嘲笑される者）」という詩人の二類型の分岐。ヴェルレーヌ（『呪われた詩人たち』序文）はこの区分を詩人論的に重要視する──「呪われた詩人」が「consolés（慰められた）」者ではなく「嘲笑的な殉教者」に属するという定義がヴェルレーヌ自身の詩人論の枠組みと一致する。「Dérisoires martyrs de hazards tortueux（曲がりくねった偶然の嘲笑的な殉教者）」──「dérisoires（嘲笑的な）」という形容詞が殉教（martyrs）という崇高な自己犠牲を嘲笑的なものとして矮小化する；リシャール（『マラルメの想像的宇宙』）はこの「嘲笑的な殉教者」を「崇高さを持てない者の二重の悲惨」として──苦しむが認められないという不運な詩人の条件──として分析する。"
+    },
+    {
+      "paragraphId": 9,
+      "type": "commentary",
+      "anchor": "Ils pouvaient exciter aussi comme un tambour\nLa servile pitié des races à voix ternes,\nÉgaux de Prométhée à qui manque un vautour !",
+      "body": "「彼らも太鼓のように単調な声の種族の卑屈な同情を煽ることができたのだが──プロメテウスに等しいが、禿鷹が足りない者たちよ！」。「Égaux de Prométhée à qui manque un vautour（プロメテウスに等しいが、禿鷹が足りない）」──詩集全体で最も鋭烈な逆説的命題。プロメテウスはその罰（禿鷹に肝臓を啄まれる）によってこそ英雄的苦難の象徴として機能するが、「呪われた詩人」たちはプロメテウスに等しい苦難を持ちながら「禿鷹が足りない」──つまり彼らの苦難を劇的に認証する罰が与えられないという逆説。リシャール（『マラルメの想像的宇宙』）はこの「禿鷹のないプロメテウス」を「認証されない崇高さ」として──苦難が苦難として認められない詩人の最深の悲惨──として分析する。ヴェルレーヌ（『呪われた詩人たち』）はこの行を「呪われた詩人たちが英雄でありながら滑稽である理由の詩的定式」として位置づける。"
+    },
+    {
+      "paragraphId": 10,
+      "type": "glossary",
+      "anchor": "Non, vils et fréquentant les déserts sans citernes,\nIls courent sous le fouet d'un monarque rageur,\nLe Guignon, dont le rire inouï les prosterne.",
+      "body": "「否、卑しく貯水池のない砂漠を彷徨い、激怒した君主──不運──の鞭の下を走る、その前代未聞の笑いが彼らを平伏させる」。詩のタイトルである「Le Guignon（不運）」が固有名詞として大文字で初登場する§10。リシャール（『マラルメの想像的宇宙』）は「Le Guignon」という固有名詞化を「運命の人格化」として──「Tout Orgueil」の「fulgurante console（閃光するコンソール）」・「Intérieur」の「le Temps sentencieux（判決を下すような時間）」という詩集全体の擬人化の系列の先行形として──位置づける。「dont le rire inouï les prosterne（その前代未聞の笑いが彼らを平伏させる）」──「不運」が「笑う」という特性を持つことが詩人の絶望を倍加させる；「Renouveau」§4の「l'azur rit（空が笑う）」という天空の無関心な笑いと同一の構造として、ここでは「不運」が笑いながら詩人たちを平伏させる。「des déserts sans citernes（貯水池のない砂漠）」──§3の「sans pain, sans bâtons et sans urnes」という三重の欠如に続く、貯水という生命的必要物の不在。"
+    },
+    {
+      "paragraphId": 14,
+      "type": "commentary",
+      "anchor": "Et ce squelette nain, coiffé d'un feutre à plume\nEt botté, dont l'aisselle a pour poils vrais des vers,\nEst pour eux l'infini de la vaste amertume.",
+      "body": "「羽根付き帽子を被り長靴を履いたこの小人の骸骨が、脇の下の毛として本物の蛆虫を持つのが、彼らにとっては広大な苦さの無限だ」。詩集全体で最もグロテスクな視覚的イメージとして、「Le Guignon」という不運の擬人化が「小人の骸骨（squelette nain）・羽根付き帽子・長靴・蛆虫の毛」という滑稽かつ恐怖的な形象として具体化される。リシャール（『マラルメの想像的宇宙』）はこの「骸骨の不運」を「死の喜劇的矮小化」として──死という崇高な形象が小人化・滑稽化されることで詩人の苦難がさらに嘲笑的なものとなる──として読む。「l'aisselle a pour poils vrais des vers（脇の下の毛として本物の蛆虫）」──腐朽の身体的詳細（蛆虫）が笑劇的精度で描写される；ヴェルレーヌ（『呪われた詩人たち』）はマラルメの詩的語彙のこのような「精密な醜さ」の使用をマラルメ早期詩の特徴として言及する文脈を持つ。「l'infini de la vaste amertume（広大な苦さの無限）」──「苦い理想の黄金の檸檬（§3）」の「苦さ（amertume）」が「広大な無限（infini de la vaste）」として宇宙的スケールに拡大される。"
+    },
+    {
+      "paragraphId": 18,
+      "type": "commentary",
+      "anchor": "Les poëtes bons pour l'aumône ou la vengeance,\nNe connaissant le mal de ces dieux effacés,\nLes disent ennuyeux et sans intelligence.",
+      "body": "「施しか復讐にしか役立たぬ詩人たちは、これらの消えた神々の苦しみを知らないので、彼らを退屈で知性がないと言う」。詩の認識論的転換──語りの「彼ら（ils）」という三人称の叙述から「Les poètes bons pour l'aumône ou la vengeance（施しか復讐にしか役立たぬ詩人たち）」という詩人集団への批判的外部視点の導入。「施しか復讐にしか役立たぬ詩人たち」──感傷的詩人と怒りの詩人を同時に批判する；リシャール（『マラルメの想像的宇宙』）はこの「詩人内部の詩人批判」をマラルメの詩論的自己定義の核心として──「ennuyeux et sans intelligence（退屈で知性がない）」という非難こそが真の詩人の条件を定義する──として読む。「ces dieux effacés（これらの消えた神々）」──「Quand l'ombre menaça」§4の「s'est allumé le génie（天才が燃え上がった）」という天才の宇宙的点灯に対し、ここでの詩人たちは「消えた（effacés）」神々として提示される；ヴェルレーヌはこの「消えた神々」という表現をマラルメの詩人論における最も重要な自己定義語として引用する。"
+    },
+    {
+      "paragraphId": 21,
+      "type": "commentary",
+      "anchor": "Quand en face tous leur ont craché les dédains,\nNuls et la barbe à mots bas priant le tonnerre,\nCes héros excédés de malaises badins\nVont ridiculement se pendre au réverbère.",
+      "body": "詩の閉幕。「向き合って全員が侮蔑を吐きかけたとき、無である彼らは口ひげに低く雷に祈りながら、軽薄な不快に耐えきれないこれらの英雄たちは滑稽にも街灯に首を吊りに行く」。詩集全体で最も苦烈な閉幕として、「héros excédés de malaises badins（軽薄な不快に耐えきれない英雄たち）」という矛盾的形容が詩人の崇高さと滑稽さの不可分性を最終確定する。「ridiculement se pendre au réverbère（滑稽にも街灯に首を吊りに行く）」──自殺という究極の行為が「ridiculement（滑稽にも）」という副詞によって崇高さを剥奪される；リシャール（『マラルメの想像的宇宙』）はこの「滑稽な首吊り」を「英雄的悲劇の笑劇的転落」として──プロメテウスに等しい者が禿鷹なき滑稽な死で終わるという詩全体の逆説の最終確定──として読む。ヴェルレーヌ（『呪われた詩人たち』「ステファン・マラルメ」）はこの閉幕を「マラルメが1862年にすでに予感していた詩人の社会的孤立と嘲笑的死の詩的定式」として評価する──詩人とは「vont ridiculement se pendre（滑稽にも首を吊りに行く）」者であるという定義が、ヴェルレーヌ自身の「呪われた詩人」概念の詩的先行形として機能する。「Nuls et la barbe à mots bas priant le tonnerre（無である彼らは口ひげに低く雷に祈りながら）」──「Nuls（無である）」という形容詞が詩人の存在論的無価値を確定する；「雷に祈る」という逆説的行為が「Quand l'ombre menaça」§4の「s'est allumé le génie（天才が燃え上がった）」という宇宙的点灯への虚しい訴求として、詩集全体の宇宙論的問いへの最後の連絡点として機能する。"
+    }
+  ]
+}
