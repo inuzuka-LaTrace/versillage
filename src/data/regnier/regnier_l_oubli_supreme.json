@@ -1,0 +1,101 @@
+{
+  "id": "regnier_l_oubli_supreme",
+  "title": "L'Oubli suprême",
+  "author": "Henri de Régnier",
+  "source": "La Cité des eaux, Mercure de France, s.d. (15e éd.), p. 179–180; https://fr.wikisource.org/wiki/L%27Oubli_supr%C3%AAme",
+  "year": "1902",
+  "firstPublication": "La Cité des eaux, Mercure de France, 1902",
+  "difficulty": "中級",
+  "category": "regnier",
+  "originalLang": "fr-FR",
+  "modernRelevance": "★★★★★",
+  "context": "詩集『水の都（La Cité des eaux）』（1902）所収。詩集末尾のセクション「Inscriptions lues au soir tombant（夕暮れに読まれた碑文）」収録。ソネット群（第1〜29詩）の庭園的・彫刻的・三人称的空間から一変し、一人称「je」による内省的な死の前夜の独白として提示される。5行5連（キャンテン形式）、12音節アレクサンドラン。§1が「夕暮れなど問題ない、私の魂は生きた日の大きな喧騒で満ちているから」と宣言し、泉の水を惜しむ者たちを退け、§2が生の音の遠い近いエコー・葡萄の赤い味・金の葡萄の官能的充足を列挙する。§3で記憶が快楽と愛を繋ぎ、過去が黒檀か象牙のフルートで悲しみか喜びを歌うという二項対称を提示し、§4の「人生はいつも私の中で歌い羽音を立てる」という確信の後に「夕暮れも秋も問題ない──夏が豊かで、夜明けが善く、欲望が強く、愛が美しかったなら」という四つの条件節が続く。§5の閉幕が「日数も数えようのない時間と、暗い墓で永遠に人間を圧迫する沈黙と夜の全体でさえ──それでも、彼の内に生きたものを忘れさせるには足りない」という逆説的な記憶の勝利として詩を閉じる。",
+  "keywords": [
+    "最高の忘却",
+    "夕暮れの超克",
+    "生の喧騒",
+    "葡萄と蜜蜂",
+    "黒檀と象牙のフルート",
+    "過去の歌",
+    "暗い墓",
+    "記憶の勝利"
+  ],
+  "relatedTexts": [
+    "regnier_l_heure",
+    "regnier_hommage",
+    "regnier_salut_versailles",
+    "verlaine_chanson_dautomne",
+    "mallarme_toast_funebre",
+    "hoelderlin_haelfte_des_lebens"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "verses": "v.1–5",
+      "original": "Que m'importe le soir puisque mon âme est pleine\nDe la vaste rumeur du jour où j'ai vécu !\nQue d'autres en pleurant maudissent la fontaine\nD'avoir entre leurs doigts écoulé son eau vaine\nOù brille au fond l'argent de quelque anneau perdu.",
+      "provisionalTranslation": "夕暮れなど何が問題か、私の魂は満ちているのだから\n私が生きた日の大きな喧騒で！\n泣きながら他の者たちに呪わせておけ、泉を\n指の間に空しい水を流したことで、\nその底に失われた何らかの輪の銀が輝く。"
+    },
+    {
+      "id": 2,
+      "verses": "v.6–10",
+      "original": "Tous les bruits de ma vie emplissent mes oreilles\nDe leur écho lointain déjà et proche encor ;\nUne rouge saveur aux grappes de ma treille\nBourdonne sourdement son ivresse d'abeilles,\nEt du pampre de pourpre éclate un raisin d'or.",
+      "provisionalTranslation": "私の人生のすべての音が私の耳を満たす\nその既に遠く、しかしまだ近いエコーで；\n私の蔓棚の葡萄房に宿る赤い味が\n蜜蜂の陶酔を低くざわめかせ、\n緋色の葉から金の葡萄が弾ける。"
+    },
+    {
+      "id": 3,
+      "verses": "v.11–15",
+      "original": "Le souvenir unit en ma longue mémoire\nLa volupté rieuse au souriant amour,\nEt le Passé debout me chante, blanche ou noire,\nSur sa flûte d'ébène ou sa flûte d'ivoire,\nSa tristesse ou sa joie, au pas léger ou lourd.",
+      "provisionalTranslation": "思い出は私の長い記憶の中で結びつける\n笑う官能と微笑む愛を、\nそして立っている過去が私に歌う、白か黒か、\n黒檀のフルートか象牙のフルートで、\nその悲しみか喜びを、軽い足取りか重い足取りで。"
+    },
+    {
+      "id": 4,
+      "verses": "v.16–20",
+      "original": "Toute ma vie en moi toujours chante ou bourdonne ;\nMa grappe a son abeille et ma source a son eau ;\nQue m'importe le soir, que m'importe l'automne,\nSi l'été fut fécond et si l'aube fut bonne,\nSi le désir fut fort et si l'amour fut beau.",
+      "provisionalTranslation": "私の人生のすべてが私の中でいつも歌い羽音を立てる；\n私の葡萄には蜜蜂があり、私の泉には水がある；\n夕暮れなど何が問題か、秋など何が問題か、\n夏が豊かで、夜明けが善かったなら、\n欲望が強く、愛が美しかったなら。"
+    },
+    {
+      "id": 5,
+      "verses": "v.21–25",
+      "original": "Ce ne sera pas trop du Temps sans jours ni nombre\nEt de tout le silence et de toute la nuit\nQui sur l'homme à jamais pèse au sépulcre sombre,\nCe ne sera pas trop, vois-tu, de toute l'ombre\nPour lui faire oublier ce qui vécut en lui.",
+      "provisionalTranslation": "日数も数えようのない時間でさえ、十分ではないだろう\nそして沈黙の全体と夜の全体でさえ、\n暗い墓で永遠に人間を圧する、\nわかるか、影の全体でさえ十分ではないだろう\n彼の内に生きたものを忘れさせるには。"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "prosody",
+      "anchor": null,
+      "body": "5行5連・全25行のキャンテン（quintil）形式。12音節アレクサンドラン。各連の韻構造はABABA──pleine／fontaine／vaine（A）、vécu／perdu（B）。詩集『水の都』のソネット群（14行・三人称・庭園空間）から一変し、「Inscriptions lues au soir tombant（夕暮れに読まれた碑文）」というセクションに属する本詩は一人称「je／ma／mon」による死の前夜の内省的独白として提示される。リフレーン的反復──§1冒頭の「Que m'importe le soir（夕暮れなど何が問題か）」が§4で「Que m'importe le soir, que m'importe l'automne（夕暮れなど何が問題か、秋など何が問題か）」として拡張されて再現する。§5の閉幕は詩全体の二重否定的逆説──「時間・沈黙・夜・影のすべてでさえ十分ではない、記憶を消すには」──として、死後においても記憶が勝利するという詩論的確信を提示する。マラルメ「乾杯、葬礼の」（Toast funèbre）の「Le Néant à cet Homme aboli de jadis（かつての廃絶された人間のための虚無）」という死後の記憶論と同一の問題圏。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "glossary",
+      "anchor": "Que d'autres en pleurant maudissent la fontaine\nD'avoir entre leurs doigts écoulé son eau vaine\nOù brille au fond l'argent de quelque anneau perdu.",
+      "body": "「泣きながら他の者たちに呪わせておけ、泉を、指の間に空しい水を流したことで、その底に失われた何らかの輪の銀が輝く」。詩集全体を貫く水のモチーフ──「Le Bassin noir」・「Trianon」・「Fond de jardin」のすべての水盤──が、ここでは「泉の水が指の間を流れる」という哀惜の身振りとして召喚され、しかし即座に「Que d'autres（他の者たちに）」という距離化によって詩人自身の態度から分離される。「l'argent de quelque anneau perdu（失われた何らかの輪の銀）」──失われた指輪が水底に銀として輝くという詩的イメージが、「L'Heure」§4の「Une aile d'ombre oblique（斜めの影の翼）」という詩集末尾の光の映像と同一の「水底の光」として連絡する。詩人は泉を呪う者（失ったものを悼む者）と距離を置き、生の充足（「mon âme est pleine（魂は満ちている）」）を対置する。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "Une rouge saveur aux grappes de ma treille\nBourdonne sourdement son ivresse d'abeilles,\nEt du pampre de pourpre éclate un raisin d'or.",
+      "body": "「私の蔓棚の葡萄房に宿る赤い味が蜜蜂の陶酔を低くざわめかせ、緋色の葉から金の葡萄が弾ける」。葡萄（grappe）・蜜蜂（abeille）・蔓葉（pampre）という収穫・醸造のモチーフ群が官能的生の充足を農耕的・自然的イメージで提示する。「Une rouge saveur（赤い味）」──味覚的感覚（赤という色彩と味という感覚の共感覚的結合）が「Bourdonne sourdement（低くざわめく）」という聴覚と結びつき、三感覚（視覚・味覚・聴覚）の共感覚的融合として機能する。「du pampre de pourpre éclate un raisin d'or（緋色の葉から金の葡萄が弾ける）」──pourpre（緋色・葡萄葉の秋色）とor（金・完熟葡萄の色）という二金属色彩が詩集の金属語彙（「La Neige」の銀・青銅・黄銅・銅）に接続しながら、収穫の充足として転化される。"
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "Et le Passé debout me chante, blanche ou noire,\nSur sa flûte d'ébène ou sa flûte d'ivoire,\nSa tristesse ou sa joie, au pas léger ou lourd.",
+      "body": "「立っている過去が私に歌う、白か黒か、黒檀のフルートか象牙のフルートで、その悲しみか喜びを、軽い足取りか重い足取りで」。「le Passé debout（立っている過去）」──「L'Abandon」§4の「le Passé qui rôde（徘徊する過去）」・「L'Heure」§4の「le Temps qui s'en va（去っていく時間）」という詩集の時間の擬人化系列が、ここでは「立っている（debout）」という直立した存在として変容する。「sa flûte d'ébène ou sa flûte d'ivoire（黒檀のフルートか象牙のフルートで）」──黒（ébène）と白（ivoire）という色彩的二項対称がフルートという楽器に付与される；「Hommage」§4の「Une flûte à mi-voix qui chante dans la neige（雪の中で弱音で歌うフルート）」・「Le Pavillon」の「la double flûte（二重笛）」という詩集のフルートの系列の内省的完成形。「blanche ou noire」・「sa tristesse ou sa joie」・「au pas léger ou lourd」という三重の二項対称が過去の記憶の全域性を網羅する。"
+    },
+    {
+      "paragraphId": 4,
+      "type": "commentary",
+      "anchor": "Que m'importe le soir, que m'importe l'automne,\nSi l'été fut fécond et si l'aube fut bonne,\nSi le désir fut fort et si l'amour fut beau.",
+      "body": "「夕暮れなど何が問題か、秋など何が問題か、夏が豊かで、夜明けが善かったなら、欲望が強く、愛が美しかったなら」。§1冒頭の「Que m'importe le soir（夕暮れなど何が問題か）」のリフレーン的反復が「Que m'importe l'automne（秋など何が問題か）」という拡張を伴って再現する──夕暮れ（一日の終わり）と秋（一年の終わり）、つまり死の複数の時間的比喩を同時に退ける。「Si l'été fut fécond et si l'aube fut bonne, / Si le désir fut fort et si l'amour fut beau」という四つの条件節（単純過去形）が生の充足を四つの条件として最終確定する──夏の豊穣・夜明けの善さ・欲望の強さ・愛の美しさ。「Hommage」§4の「Mais, immortelle encor（しかし、まだ不滅）」という詩集の「しかし」による逆接に対応する、ここでの「Que m'importe…Si（……であったなら問題ない）」という条件的超克。"
+    },
+    {
+      "paragraphId": 5,
+      "type": "commentary",
+      "anchor": "Ce ne sera pas trop du Temps sans jours ni nombre\nEt de tout le silence et de toute la nuit\nQui sur l'homme à jamais pèse au sépulcre sombre,\nCe ne sera pas trop, vois-tu, de toute l'ombre\nPour lui faire oublier ce qui vécut en lui.",
+      "body": "詩の閉幕。「日数も数えようのない時間でさえ、暗い墓で永遠に人間を圧する沈黙と夜の全体でさえ──わかるか、影の全体でさえ十分ではないだろう、彼の内に生きたものを忘れさせるには」。「Ce ne sera pas trop（十分ではないだろう）」という二重否定（否定の否定）が閉幕の逆説的論理を構成する──死後の時間・沈黙・夜・影のすべてが足り「ない」という否定によって、記憶の勝利という肯定が産出される。「vois-tu（わかるか）」という二人称挿入句──「Hommage」の「J'écoute（私は聴く）」という一人称の聴覚的主体に続き、ここでは死後の自己あるいは読者への呼びかけとして「tu」が挿入される；「Le Bouquet」の命令法的「tu」と同一の二人称が、詩集の最終的な局面で死の超克の証人として召喚される。マラルメ「乾杯、葬礼の」の「le sépulcre（墓）」・ヘルダーリン「パルツェンへ」の「Ihr ehernes Gesetz（鉄の法則）」という死の絶対性への言及と同一の詩的モチーフ圏において、レニエは「時間・沈黙・夜・影」という死の四要素すべてを記憶の充足によって超克するという詩集全体の唯一の死後的勝利の宣言として本詩を閉じる。"
+    }
+  ]
+}
