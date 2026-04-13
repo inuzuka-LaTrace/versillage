@@ -2100,7 +2100,7 @@ const handleTextChange = (textId) => {
       掲載の日本語訳は学習補助の為の試訳であり、確定した翻訳ではありません
     </p>
   </div>
-
+</div>
       {/* フローティングTOPボタン */}
       {showScrollTop && (
   <button
