@@ -2090,7 +2090,7 @@ const handleTextChange = (textId) => {
     </h2>
     <p 
       style={{ fontFamily: '"Cinzel", serif', letterSpacing: '0.1em' }}
-      className={`text-[9px] max-w-xs mx-auto ${textSecondary}`}
+      className={`text-[8px] max-w-xs mx-auto ${textSecondary}`}
     >
       VANITISME ; L'archive polyglotte de la modernité :<br />
       français, allemand, anglais, italien et russe. <br />
