@@ -1,0 +1,89 @@
+{
+  "id": "regnier_le_bouquet",
+  "title": "Le Bouquet",
+  "author": "Henri de Régnier",
+  "source": "La Cité des eaux, Mercure de France, s.d. (15e éd.), p. 36; https://fr.wikisource.org/wiki/Le_Bouquet_(Henri_de_R%C3%A9gnier)",
+  "year": "1902",
+  "firstPublication": "La Cité des eaux, Mercure de France, 1902",
+  "difficulty": "中級",
+  "category": "regnier",
+  "originalLang": "fr-FR",
+  "modernRelevance": "★★★★☆",
+  "context": "詩集『水の都（La Cité des eaux）』（1902）所収。「Le Pavillon」に続く第23詩。ソネット形式（4・4・3・3行）。詩集のこの時点まで抽象的擬人化・名詞句列挙・三人称の叙述が支配的であったのに対し、「Le Bouquet」は二人称「tu」による直接呼びかけとして突出する──「Pose ton pied léger（軽い足を置け）」「écoute（聴け）」「sois furtive（こっそりしていろ）」「crois-tu（おまえは信じるか）」「Effeuille（花びらをむしれ）」という命令法・疑問法の連鎖が、廃墟の館に足を踏み入れる女性（あるいは読者）への語りかけとして機能する。§1で床の薔薇窓の上に軽い足を置くよう促し、孤独が来訪者に語りかけ大理石が軋む音を問う。§2でハープが震え・シャンデリアが揺れ・鏡に幽霊が宿るという感覚的反応を列挙する。§3の「時間は過ぎる・すべては逃げる・物は忠実だ」という三つの命題が詩集全体の時間論の核心を提示し、§4で大理石のテーブルの上に愛が与えた花束の花びらをむしるという行為で閉じる。",
+  "keywords": [
+    "二人称呼びかけ",
+    "命令法",
+    "孤独",
+    "幽霊",
+    "物の忠実さ",
+    "花束",
+    "花びらをむしる",
+    "大理石のテーブル"
+  ],
+  "relatedTexts": [
+    "regnier_le_pavillon",
+    "regnier_interieur",
+    "regnier_l_abandon",
+    "regnier_le_bassin_noir",
+    "verlaine_colloque_sentimental",
+    "mallarme_herodiade_scene"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "verses": "v.1–4",
+      "original": "Sur la rosace éclose au centre du parquet\nPose ton pied léger, écoute et sois furtive ;\nLa solitude parle à celle qui arrive ;\nN'as-tu pas entendu le marbre qui craquait ?",
+      "provisionalTranslation": "床の中央に開いた薔薇窓の上に\n軽い足を置け、聴け、そしてこっそりしていろ；\n孤独は来た者に語りかける；\n軋む大理石の音が聞こえなかったか？"
+    },
+    {
+      "id": 2,
+      "verses": "v.5–8",
+      "original": "La harpe tremble et vibre à ton pas indiscret,\nLe lustre se balance et son cristal s'avive ;\nDe ce qui semble mort crois-tu que rien ne vive ?\nLa glace a son fantôme et tout a son secret.",
+      "provisionalTranslation": "ハープはおまえの無遠慮な足音に震え振動する、\nシャンデリアは揺れその水晶が輝きを増す；\n死んでいるように見えるものから何も生きていないと信じるか？\n鏡には幽霊があり、すべてに秘密がある。"
+    },
+    {
+      "id": 3,
+      "verses": "v.9–11",
+      "original": "Le temps passe ; tout fuit ; les choses sont fidèles,\nL'invisible silence évente de ses ailes\nLa poussière pensive et l'ombre transparente ;",
+      "provisionalTranslation": "時間は過ぎる；すべては逃げる；物は忠実だ、\n目に見えない沈黙がその翼で扇いでいる、\n物思いにふける塵と透明な影を；"
+    },
+    {
+      "id": 4,
+      "verses": "v.12–14",
+      "original": "Et, sur la table nue où le marbre veiné\nÀ quelque chair ancienne et pâle s'apparente,\nEffeuille le bouquet que l'Amour t'a donné.",
+      "provisionalTranslation": "そして、剥き出しのテーブルの上に、そこで脈打つ大理石が\nある古く蒼白い肉体を連想させる、\n愛がおまえに与えた花束の花びらをむしれ。"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "prosody",
+      "anchor": null,
+      "body": "全14行のソネット形式（quatrain・quatrain・tercet・tercet）。12音節アレクサンドラン。韻はABBAのエンブラッセ韻──parquet／indiscret（A）、furtive／arrive（B）。詩集のこの段階まで三人称叙述・擬人化・名詞句列挙が支配的であったのに対し、「Le Bouquet」は命令法（Pose・écoute・sois・Effeuille）と疑問法（N'as-tu pas…？ crois-tu…？）による二人称呼びかけとして突出する──詩人が廃墟の館に足を踏み入れる女性（あるいは読者自身）に直接語りかける。この二人称構造は詩集のこの時点（第24詩）で初めて顕在化し、それまでの描写的叙述を行為的呼びかけへと転換する。§3の「Le temps passe ; tout fuit ; les choses sont fidèles（時間は過ぎる；すべては逃げる；物は忠実だ）」という三つのセミコロン区切りの命題が詩集全体の時間論の核心的定式化。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "glossary",
+      "anchor": "Sur la rosace éclose au centre du parquet\nPose ton pied léger, écoute et sois furtive ;",
+      "body": "「床の中央に開いた薔薇窓の上に軽い足を置け、聴け、こっそりしていろ」。rosace（薔薇窓）は建築装飾の円形パターン──大聖堂のバラ窓を室内の寄木細工の床に投影した小型化。「éclose（開いた）」という形容詞が薔薇窓を花として提示し、§4の「Effeuille le bouquet（花束の花びらをむしれ）」という閉幕の行為との照応を準備する──詩は「開いた」薔薇窓から始まり「むしられた」花束で終わる。「sois furtive（こっそりしていろ）」──来訪者に対する密かな侵入の要求が、廃墟の館を生きた幽霊の空間として提示する。「Le Pavillon」の主動詞不在による静止に対し、ここでは命令法が空間への侵入を動作として要求する。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "De ce qui semble mort crois-tu que rien ne vive ?\nLa glace a son fantôme et tout a son secret.",
+      "body": "「死んでいるように見えるものから何も生きていないと信じるか？鏡には幽霊があり、すべてに秘密がある」。二重否定の疑問文──「crois-tu que rien ne vive（何も生きていないと信じるか）」が「死んでいるように見えるものも生きている」という逆説的命題を問いかけとして提示する。「La glace a son fantôme（鏡には幽霊がある）」──詩集全体の鏡の系列（「Trianon」§3の「Un fantôme au miroir vient sourire et s'efface」、「Intérieur」§1の「miroir verdâtre」）の最も簡潔な定式化。鏡が幽霊を持つという命題が詩集の廃墟の論理──物は記憶と幻影を宿すという論理──を一行で完結させる。「tout a son secret（すべてに秘密がある）」がこの論理を全事物に拡張する。"
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "Le temps passe ; tout fuit ; les choses sont fidèles,\nL'invisible silence évente de ses ailes\nLa poussière pensive et l'ombre transparente ;",
+      "body": "「時間は過ぎる；すべては逃げる；物は忠実だ、目に見えない沈黙がその翼で塵と透明な影を扇いでいる」。三つのセミコロン区切りの命題──「時間は過ぎる」・「すべては逃げる」・「物は忠実だ」──が詩集全体の時間論と物論の核心的定式化として提示される。「les choses sont fidèles（物は忠実だ）」──人間（来訪者・去った者）が逃げる（fuit）のに対し、物（choses）だけが忠実（fidèles）であるという逆説。この「物の忠実さ」という命題がロダンバックの「物の生」（「La Vie des chambres」）と同一の詩的物論に属し、物が時間の変化に抗って記憶を保存するという象徴主義的信念を体現する。「L'invisible silence évente de ses ailes（目に見えない沈黙がその翼で扇ぐ）」──「L'Abandon」§2の「ses deux ailes de cendre（灰の二枚の翼）」・「Intérieur」§4の「aile de cendre／aile d'or」という翼のモチーフが、ここでは沈黙が塵と影を扇ぐという繊細な運動として具体化される。"
+    },
+    {
+      "paragraphId": 4,
+      "type": "glossary",
+      "anchor": "Et, sur la table nue où le marbre veiné\nÀ quelque chair ancienne et pâle s'apparente,\nEffeuille le bouquet que l'Amour t'a donné.",
+      "body": "詩の閉幕。「剥き出しのテーブルの上に、脈打つ大理石が古く蒼白い肉体を連想させる、愛がおまえに与えた花束の花びらをむしれ」。「le marbre veiné（脈打つ大理石）」が「quelque chair ancienne et pâle（ある古く蒼白い肉体）」に類比される──大理石の静止した硬さが人間の肉体（かつてそこにいた者の体）の記憶として生動化される。この大理石と肉体の照応が詩集の彫刻系列（「Le Socle」・「Les Statues」）における「石が人間を記憶する」という主題の内部空間への移行。「Effeuille le bouquet que l'Amour t'a donné（愛がおまえに与えた花束の花びらをむしれ）」──命令法effeuillerが詩集の唯一の明示的な破壊的行為として閉じる；花びらをむしるという行為がvanitas的消滅（花の死）と同時に愛の行為（花びら占い）として二重化される。「Intérieur」§4の「l'Espoir（希望）」という条件法的不在に対し、ここでは「l'Amour（愛）」が現在完了（t'a donné）として実現済みの行為として登場する。"
+    }
+  ]
+}
