@@ -1,0 +1,77 @@
+{
+  "id": "regnier_l_urne",
+  "title": "L'Urne",
+  "author": "Henri de Régnier",
+  "source": "Ode et poésies, Mercure de France, s.d. (15e éd.), p. 124–125; https://fr.wikisource.org/wiki/L%27Urne",
+  "year": "1900",
+  "firstPublication": "Ode et poésies, Mercure de France, 1900",
+  "difficulty": "初級",
+  "category": "regnier",
+  "originalLang": "fr-FR",
+  "modernRelevance": "★★★★☆",
+  "context": "詩集『頌歌と詩篇（Ode et poésies）』（1900）所収。4行3連・全12行、12音節アレクサンドラン。冒頭句「Sépulcre de silence et tombeau de beauté（沈黙の墓所と美の墓）」が末行で感嘆符付きで反復されるという額縁構造を持つ。§1で大文字の「悲しみ（la Tristesse）」が秋の葡萄と夏の果実を灰として壺に保存し、その愛しい重荷が彼女を寡黙にするという擬人化が提示される。§2で記憶が壺の中に生・消えた時刻・死んだ季節・かつての陶酔と花盛りの中で感じた豊かで健全で力強い香りを見出すという詳述が続く。§3の「だからこそあなたは行く、暗い若さの中で、夏の灰を黄金の壺に運びながら──ああ、通りすがりの人よ、悲しみよ、沈黙の墓所と美の墓よ！」という擬人化された悲しみへの直接的な呼びかけと挨拶で閉じる。vanitas的な灰の保存という主題が、「Chanson」の薔薇・「L'Oubli suprême」の記憶の充足と対照される消滅の形象として提示される。",
+  "keywords": [
+    "沈黙の墓所",
+    "美の墓",
+    "悲しみの擬人化",
+    "壺の中の灰",
+    "夏の灰",
+    "黄金の壺",
+    "暗い若さ",
+    "額縁構造"
+  ],
+  "relatedTexts": [
+    "regnier_chanson",
+    "regnier_l_oubli_supreme",
+    "regnier_trianon",
+    "regnier_hommage",
+    "dowson_vanitas",
+    "mallarme_toast_funebre"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "verses": "v.1–4",
+      "original": "Sépulcre de silence et tombeau de beauté,\nLa Tristesse conserve en cendres dans son urne\nLes grappes de l'automne et les fruits de l'été,\nEt c'est ce cher fardeau qui la rend taciturne,",
+      "provisionalTranslation": "沈黙の墓所であり美の墓である、\n悲しみは灰として壺に保存する\n秋の葡萄と夏の果実を、\nそしてその愛しい重荷が彼女を寡黙にする、"
+    },
+    {
+      "id": 2,
+      "verses": "v.5–8",
+      "original": "Car sa mémoire encore y retrouve sa vie\nEt l'heure disparue avec la saison morte\nEt tout ce dont jadis, enivrée et fleurie,\nElle a senti l'odeur féconde, saine et forte ;",
+      "provisionalTranslation": "なぜなら記憶はそこにまだ生を見出すから\nそして消えた時刻を死んだ季節とともに\nそしてかつて、陶酔し花盛りだった中で、\n彼女が感じた豊かで健全で力強い香りのすべてを；"
+    },
+    {
+      "id": 3,
+      "verses": "v.9–12",
+      "original": "Et c'est pourquoi tu vas, en ta sombre jeunesse,\nPortant en l'urne d'or les cendres de l'été\nEt que je te salue, ô passante, Tristesse,\nSépulcre de silence et tombeau de beauté !",
+      "provisionalTranslation": "だからこそあなたは行く、暗い若さの中で、\n黄金の壺に夏の灰を運びながら、\nだから私はあなたに挨拶する、ああ、通りすがりの者よ、悲しみよ、\n沈黙の墓所であり美の墓よ！"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "prosody",
+      "anchor": null,
+      "body": "4行3連・全12行。12音節アレクサンドラン。韻はABABのアルタネ韻──beauté／été（A）、urne／taciturne（B）。詩の最大の形式的特徴は冒頭句「Sépulcre de silence et tombeau de beauté」が末行で「Sépulcre de silence et tombeau de beauté !」として感嘆符付きで完全反復される額縁構造──§1の呼格的提示が§3の感嘆的呼びかけへと転換する。この反復は「Chanson」の「l'ombre odorante / De ces roses d'aujourd'hui」の変奏反復と同一のロンドー的回帰構造として、詩集全体の反復・変奏という音楽的技法の一例。「La Tristesse（悲しみ）」という大文字の擬人化──詩集の擬人化の系列（「L'Abandon」の「La Solitude・le Passé」、「Intérieur」の「le Temps・l'Amour」、「Intérieur」の「l'Espoir」）に属しながら、この詩では擬人化が三人称叙述から二人称呼びかけへと移行するという構造的独自性を持つ。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "glossary",
+      "anchor": "Sépulcre de silence et tombeau de beauté,\nLa Tristesse conserve en cendres dans son urne\nLes grappes de l'automne et les fruits de l'été,",
+      "body": "「沈黙の墓所であり美の墓である悲しみは、秋の葡萄と夏の果実を灰として壺に保存する」。「Sépulcre de silence（沈黙の墓所）」──sepulcre（聖なる墓・石棺）という語が「silence（沈黙）」の属格に従属することで、沈黙そのものが埋葬の空間として定義される；「tombeau de beauté（美の墓）」という第二の複合名詞が悲しみを美の埋葬者として提示する。urne（壺・骨壺）──古代ローマの葬礼における火葬骨壺であり、同時にギリシャ・ローマ美術における装飾壺でもある；詩集のヴェルサイユ庭園における花瓶（vase）・水盤（bassin）という容器のモチーフが、ここでは骨壺という死の容器として最終化される。「en cendres（灰として）」──「Salut à Versailles」§1の「des cendres de l'été（夏の灰燼）」・「Trianon」§1の「du sang et de la cendre（血と灰）」という詩集の灰のモチーフの直接的な参照；夏と秋の豊かな産物が灰として保存されるというvanitas的逆転。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "Car sa mémoire encore y retrouve sa vie\nEt l'heure disparue avec la saison morte\nEt tout ce dont jadis, enivrée et fleurie,\nElle a senti l'odeur féconde, saine et forte ;",
+      "body": "「なぜなら記憶はそこにまだ生を見出すから──消えた時刻を死んだ季節とともに、そしてかつて陶酔し花盛りだった中で感じた豊かで健全で力強い香りのすべてを」。§2全体が「Car（なぜなら）」に導かれた悲しみが寡黙である理由の展開──悲しみが寡黙なのは、壺の灰の中に記憶がまだ生（sa vie）を見出すからという逆説的論理。「l'heure disparue avec la saison morte（消えた時刻と死んだ季節）」──「L'Heure」§4の「le jour qui tombe（落ちていく日）」・「L'Abandon」§1の「se sont tus（沈黙した）」という詩集の時間的消滅の系列への参照。「enivrée et fleurie（陶酔し花盛りだった）」──「L'Oubli suprême」§2の「son ivresse d'abeilles（蜜蜂の陶酔）」という生の充足の官能的イメージとの連絡；しかしここでは陶酔と花盛りが過去の状態（jadis）として悲しみの記憶の内容として提示される。「l'odeur féconde, saine et forte（豊かで健全で力強い香り）」──「Le Bouquet」§4の「l'odeur du buis amer（苦い黄楊の香り）」という苦い嗅覚モチーフに対し、ここでは生命力ある香りが過去の充足として三形容詞で列挙される。"
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "Et c'est pourquoi tu vas, en ta sombre jeunesse,\nPortant en l'urne d'or les cendres de l'été\nEt que je te salue, ô passante, Tristesse,\nSépulcre de silence et tombeau de beauté !",
+      "body": "詩の閉幕。「だからこそあなたは行く、暗い若さの中で、黄金の壺に夏の灰を運びながら──だから私はあなたに挨拶する、ああ、通りすがりの者よ、悲しみよ、沈黙の墓所であり美の墓よ！」。「en ta sombre jeunesse（暗い若さの中で）」──悲しみが「若さ（jeunesse）」として提示されることの逆説；若さという活力と暗さという消沈の矛盾が悲しみの本質を定義する。「l'urne d'or（黄金の壺）」──§1の無修飾の「urne（壺）」が「d'or（黄金の）」という形容詞を得て貴重な容器として変容する；「La Neige」§4の「forge un ciel de cuivre（銅の空を鍛造する）」・「Fond de jardin」§3の「ombre d'or grave（金色の深い影）」という詩集の黄金モチーフへの参照。「ô passante（ああ、通りすがりの者よ）」──「Le Bouquet」の「celle qui arrive（来た者）」という来訪者に対し、悲しみは「通りすがる（passante）」──到着するのではなく通過するという動態性が悲しみの不定的・普遍的性格を定義する。「je te salue（私はあなたに挨拶する）」──詩集の擬人化系列の中で最も明示的な詩人から擬人化への直接的挨拶；「Hommage」というタイトルが持つ「賛辞・致敬」の行為と同一の詩的身振り。"
+    }
+  ]
+}
