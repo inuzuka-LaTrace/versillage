@@ -1,0 +1,89 @@
+{
+  "id": "regnier_interieur",
+  "title": "Intérieur",
+  "author": "Henri de Régnier",
+  "source": "La Cité des eaux, Mercure de France, s.d. (15e éd.), p. 34; https://fr.wikisource.org/wiki/Int%C3%A9rieur_(Henri_de_R%C3%A9gnier)",
+  "year": "1902",
+  "firstPublication": "La Cité des eaux, Mercure de France, 1902",
+  "difficulty": "中級",
+  "category": "regnier",
+  "originalLang": "fr-FR",
+  "modernRelevance": "★★★★☆",
+  "context": "詩集『水の都（La Cité des eaux）』（1902）所収。「L'Abandon」に続く第21詩。ソネット形式（4・4・3・3行）。「L'Abandon」が宮殿の外部・中庭の廃絶を描いたのに対し、「Intérieur」は室内へと視点を移す。§1で「判決を下すような時間（le Temps sentencieux）」と「無言の愛（le muet Amour）」が暖炉の前に並んで立ち、鈍い緑色の鏡の中で時間の空ろな大鎌と愛の翼が交差する。§2でその二者が言葉を交わす──穏やかな声（愛）と気難しい声（時間）、老人（時間）と子供（愛）──しかし子供は愛であるがゆえに理解を拒む。§3の三行が閃光・薔薇という予兆的イメージと「鏡が鏡を問い質す」という自己言及的な反射を提示し、§4で「灰の翼を黄金の翼に変えたであろう希望」を待ちながら扉が半開きのまま終わる。詩集の鏡・翼・扉というモチーフが「室内」という閉じた空間で凝縮される。",
+  "keywords": [
+    "時間と愛",
+    "鏡",
+    "暖炉",
+    "大鎌と翼",
+    "老人と子供",
+    "希望",
+    "灰の翼",
+    "黄金の翼"
+  ],
+  "relatedTexts": [
+    "regnier_l_abandon",
+    "regnier_trianon",
+    "regnier_le_bassin_noir",
+    "regnier_les_statues",
+    "verlaine_colloque_sentimental",
+    "mallarme_herodiade_scene"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "verses": "v.1–4",
+      "original": "Le Temps sentencieux et le muet Amour\nSe tiennent côte à côte et debout devant l'âtre,\nEt l'on voit se croiser dans le miroir verdâtre\nLa faulx vaine du Temps et l'aile de l'Amour.",
+      "provisionalTranslation": "判決を下すような時間と無言の愛が\n並んで暖炉の前に立っており、\n鈍い緑の鏡の中に交差するのが見える、\n時間の空ろな大鎌と愛の翼が。"
+    },
+    {
+      "id": 2,
+      "verses": "v.5–8",
+      "original": "L'aile est lasse. Le Temps parfois parle à l'Amour ;\nLa voix douce reprend la voix acariâtre ;\nL'enfant résiste et le vieillard s'opiniâtre,\nEt l'enfant ne veut pas comprendre, étant l'Amour.",
+      "provisionalTranslation": "翼は疲れている。時間は時折愛に語りかける；\n穏やかな声が気難しい声を引き継ぐ；\n子供は抵抗し老人は頑固になる、\nそして子供は理解しようとしない、愛であるがゆえに。"
+    },
+    {
+      "id": 3,
+      "verses": "v.9–11",
+      "original": "Rosaces au parquet et lustres au plafond,\nÉclair qui va tonner, roses qui fleuriront !\nLe miroir s'interroge et scrute le miroir.",
+      "provisionalTranslation": "床にロザス模様、天井にシャンデリア、\n雷鳴を伴う稲妻、咲こうとしている薔薇！\n鏡が鏡を問い質し精査する。"
+    },
+    {
+      "id": 4,
+      "verses": "v.12–14",
+      "original": "Le meuble se contracte et crispe ses pieds tors ;\nLa porte s'entrebâille et l'on attend l'Espoir\nQui de l'aile de cendre eût fait une aile d'or.",
+      "provisionalTranslation": "家具は縮こまり捩れた脚を引きつらせる；\n扉が半開きになり、希望を待っている、\n灰の翼を黄金の翼に変えたであろう希望を。"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "prosody",
+      "anchor": null,
+      "body": "全14行のソネット形式（quatrain・quatrain・tercet・tercet）。12音節アレクサンドラン。韻はABBAのエンブラッセ韻──Amour／Amour（A）、âtre／verdâtre（B）。§1・§2で同一の脚韻語（Amour・âtre）を繰り返すという特異な韻律構造──第1連と第2連が同一の音韻的枠組みを共有することで、時間と愛の対話が閉じた反復の中で行われることを韻律的に体現する。詩集全体の擬人化の系列──「Le Bassin rose」の「Écho muet・Silence・Amour mort」、「L'Abandon」の「La Solitude・le Passé」──に対し、「Intérieur」は「le Temps・l'Amour」という西洋図像学の古典的対（老翁クロノスと翼の生えたエロース）を室内に配置する。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "glossary",
+      "anchor": "La faulx vaine du Temps et l'aile de l'Amour.",
+      "body": "「時間の空ろな大鎌と愛の翼」。faulx（大鎌）はクロノス／サトゥルヌスの図像学的属性──時間が万物を刈り取る大鎌。「vaine（空ろな・虚しい）」という形容詞が大鎌の機能（刈り取る力）を否定する──時間は大鎌を持ちながらこの室内では何も刈り取ることができない。l'aile de l'Amour（愛の翼）はエロース／クピドの翼──「L'Abandon」§2の「ailes de cendre（灰の翼）」と連絡し、§4の「aile de cendre」・「aile d'or」という翼の変質へと接続する。「miroir verdâtre（鈍い緑の鏡）」──ヴェルサイユの古い水銀鏡の緑がかった反射を想起させる色彩形容。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "L'enfant résiste et le vieillard s'opiniâtre,\nEt l'enfant ne veut pas comprendre, étant l'Amour.",
+      "body": "「子供は抵抗し老人は頑固になる、そして子供は理解しようとしない、愛であるがゆえに」。時間（le Temps）が老人（vieillard）、愛（l'Amour）が子供（enfant）として具体化される──西洋図像学における翁クロノスと幼エロースの古典的対置。「étant l'Amour（愛であるがゆえに）」という分詞構文が愛の本質的な非合理性を定義する──愛は愛である限り時間の論理を理解しない。ヴェルレーヌ「感傷的な対話」の二つの亡霊の対話が感情の不在として提示されたのに対し、ここでは感情（愛）が頑強に存続しながら時間との対話を拒絶する。"
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "Rosaces au parquet et lustres au plafond,\nÉclair qui va tonner, roses qui fleuriront !\nLe miroir s'interroge et scrute le miroir.",
+      "body": "「床にロザス模様、天井にシャンデリア、雷鳴を伴う稲妻、咲こうとしている薔薇！鏡が鏡を問い質し精査する」。三行のテルセットが三つの異なる論理を圧縮する──第9行は室内の装飾的細部（ロザス・シャンデリア）の列挙、第10行は外部自然の予兆的現在（稲妻・薔薇）の感嘆符付き列挙、第11行は鏡の自己言及的反射という哲学的命題。「Éclair qui va tonner（雷鳴を伴う稲妻）」の近未来形と「roses qui fleuriront（咲こうとしている薔薇）」の単純未来形が、閉じた室内に外部からの変化の予兆として侵入する。「Le miroir s'interroge et scrute le miroir（鏡が鏡を問い質す）」──詩集全体の鏡の系列の最も自己言及的な表現。鏡が別の鏡を映すという無限後退が、時間と愛の対話の解決不能性を視覚的に体現する。"
+    },
+    {
+      "paragraphId": 4,
+      "type": "glossary",
+      "anchor": "La porte s'entrebâille et l'on attend l'Espoir\nQui de l'aile de cendre eût fait une aile d'or.",
+      "body": "詩の閉幕。「扉が半開きになり、希望を待っている、灰の翼を黄金の翼に変えたであろう希望を」。「l'Espoir（希望）」が三つ目の大文字の擬人化として登場──しかし希望は「待たれる（l'on attend）」ものとして不在のまま提示される。「eût fait（変えたであろう）」という条件法過去が希望の実現不可能性を文法的に確定する──希望は来なかった、あるいは来ることができなかった。「aile de cendre（灰の翼）」──「L'Abandon」§2の「ses deux ailes de cendre（灰の二枚の翼）」という沈黙の属性が、ここでは愛の翼として引き継がれ、「aile d'or（黄金の翼）」への変質という条件法的可能性として閉じる。「La porte s'entrebâille（扉が半開きになる）」──「L'Abandon」§2の同一表現との完全な反響。詩集全体の扉・閾のモチーフが、希望の不在という条件法の中で最終的に停止する。"
+    }
+  ]
+}
