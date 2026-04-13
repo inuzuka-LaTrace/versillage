@@ -1,0 +1,89 @@
+{
+  "id": "mallarme_quelle_soie",
+  "title": "Quelle soie aux baumes de temps",
+  "author": "Stéphane Mallarmé",
+  "source": "Vers et Prose, Perrin et Cie, 1893, p. 40–41; https://fr.wikisource.org/wiki/Vers_et_Prose_(Mallarm%C3%A9)/%C2%AB_Quelle_soie_aux_baumes_de_temps_%C2%BB",
+  "year": "1885",
+  "firstPublication": "La Revue indépendante, 1885; Vers et Prose, Perrin et Cie, 1893",
+  "difficulty": "上級",
+  "category": "mallarme",
+  "originalLang": "fr-FR",
+  "modernRelevance": "★★★★★",
+  "context": "マラルメの「髪のソネット」の一篇。14行・8音節詩（オクトシラブ）、ABBA-ABBA-CCD-EDE の韻型。詩集『Vers et Prose』（1893）所収。「Victorieusement fui le suicide beau」と同様に女性の髪を宇宙的・美的基準として提示するが、本詩は§2に「Les trous de drapeaux méditants / S'exaltent dans notre avenue（思索する旗の穴が私たちの通りで高揚する）」という政治的公共空間を挿入することで、詩的・私的空間と歴史的・公的空間の対置を明示化する。§1で「時間の香膏の中のどんな絹が、キメラが消耗するところで、鏡の外に差し出す捩れた生来の裸に値するか」という修辞的問いが提示される。§2で旗の穴という集団的昂揚に対して「私には（Moi, j'ai）」という一人称的対置として髪が示される。§3・§4でその口が噛むことで何も味わえないだろう──「高貴な恋人が巨大な房の中でダイアモンドのように呼吸を止めながら彼が窒息させる栄光の叫びを吐き出させない限り」という条件節が詩全体を閉じる。ジャン＝ピエール・リシャール（『マラルメの想像的宇宙』）の繊維・接触・絹の物質論、およびジャック・デリダ（『マラルメ』、『散種』所収）の「hymen（処女膜／結婚）」論が交差する詩。",
+  "keywords": [
+    "時間の香膏の絹",
+    "キメラの消耗",
+    "捩れた裸",
+    "旗の穴",
+    "髪への埋没",
+    "ダイアモンドのように息絶える",
+    "栄光の叫び",
+    "高貴な恋人"
+  ],
+  "relatedTexts": [
+    "mallarme_victorieusement",
+    "mallarme_sonnet_yx",
+    "mallarme_toute_lame",
+    "mallarme_renouveau",
+    "mallarme_soupir",
+    "mallarme_placet_futile"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "verses": "v.1–4",
+      "original": "Quelle soie aux baumes de temps\nOù la Chimère s'exténue\nVaut la torse et native nue\nQue, hors de ton miroir, tu tends !",
+      "provisionalTranslation": "時間の香膏の中のどんな絹が\nキメラが消耗するところで\n捩れた生来の裸に値するか\n鏡の外に、あなたが差し出す！"
+    },
+    {
+      "id": 2,
+      "verses": "v.5–8",
+      "original": "Les trous de drapeaux méditants\nS'exaltent dans notre avenue :\nMoi, j'ai ta chevelure nue\nPour enfouir mes yeux contents.",
+      "provisionalTranslation": "思索する旗の穴が\n私たちの通りで高揚する：\n私には、あなたの裸の髪がある\n満足した目を埋めるために。"
+    },
+    {
+      "id": 3,
+      "verses": "v.9–11",
+      "original": "Non ! la bouche ne sera sûre\nDe rien goûter à sa morsure\nS'il ne fait, ton princier amant,",
+      "provisionalTranslation": "いや！口は確信できないだろう\n噛むことで何かを味わうことを\nもし彼が果たさなければ、あなたの高貴な恋人が、"
+    },
+    {
+      "id": 4,
+      "verses": "v.12–14",
+      "original": "Dans la considérable touffe\nExpirer, comme un diamant,\nLe cri des Gloires qu'il étouffe.",
+      "provisionalTranslation": "巨大な房の中で\nダイアモンドのように、吐き出させることを\n彼が窒息させる栄光の叫びを。"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "prosody",
+      "anchor": null,
+      "body": "14行・8音節詩（オクトシラブ）。韻型ABBA-ABBA-CCD-EDE──temps／méditants（A）、exténue／nue（B）、sûre／morsure（C）、amant／diamant（D）、touffe／étouffe（E）。「Victorieusement fui」（12音節）に対する8音節という軽量化が、日没という宇宙的主題から髪という身体的・親密的主題への縮小と対応する。詩全体の統語的構造は§1の「Quelle soie…vaut…（どんな絹が…に値するか）」という修辞的疑問──§2の「Moi, j'ai（私には）」という対置──§3・§4の「Non ! la bouche ne sera sûre…S'il ne fait…（口は確信できない…もし彼が…しなければ）」という二重否定の条件節という三段階として展開する。リシャール（『マラルメの想像的宇宙』）はこの詩を「接触の詩学（poétique du contact）」の極致として位置づける──絹・髪・口・噛む・埋める・窒息させるという身体的接触語彙の連鎖が詩の物質的骨格を形成する。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "Quelle soie aux baumes de temps\nOù la Chimère s'exténue\nVaut la torse et native nue\nQue, hors de ton miroir, tu tends !",
+      "body": "「時間の香膏の中でキメラが消耗するところのどんな絹が、鏡の外にあなたが差し出す捩れた生来の裸に値するか」。「soie aux baumes de temps（時間の香膏の中の絹）」──リシャール（『マラルメの想像的宇宙』）は「soie（絹）」をマラルメの繊維的物質想像力の中心的素材として分析する；絹の光沢・滑らかさ・半透明性が髪という有機的繊維の比喩として機能し、「baumes de temps（時間の香膏）」という嗅覚的・粘性的属性が絹に時間的な腐食作用を付与する。「la Chimère s'exténue（キメラが消耗する）」──キメラ（想像的理想）が「s'exténue（消耗する・衰弱する）」という動詞によって疲弊した存在として提示される；マラルメにとってキメラ＝詩的理想の疲弊が逆説的にその超克の契機として機能する。「la torse et native nue（捩れた生来の裸）」──torse（捩れた）は髪の自然な螺旋構造を形容する形容詞；native（生来の）という形容詞が裸を人工的装飾に対する自然的素地として定義する。「hors de ton miroir（鏡の外に）」──デリダ（「マラルメ」、『散種』所収）はマラルメの鏡モチーフを「模倣と差異の境界としての鏡面」として分析する；「鏡の外」という位置指定が、鏡の内部（模倣・反射）に対する外部（実在・差し出される身体）という対立を設定しながら、しかし「差し出す（tu tends）」という動詞がその実在を鏡的提示として再び宙吊りにする。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "Les trous de drapeaux méditants\nS'exaltent dans notre avenue :\nMoi, j'ai ta chevelure nue\nPour enfouir mes yeux contents.",
+      "body": "「思索する旗の穴が私たちの通りで高揚する：私には、満足した目を埋めるために、あなたの裸の髪がある」。「Les trous de drapeaux méditants（思索する旗の穴）」──詩人が1885年に書いた詩であることを踏まえると、これは第三共和政期フランスの公共的・愛国的祝祭（国旗掲揚）への参照として読まれる；デリダ（「マラルメ」、『散種』）はこの「旗の穴」という表現を「国家的記号（旗）の空洞性──記号が指示するものの不在」として読む。「méditants（思索する）」という分詞が旗の穴に内省的主体性を付与するという擬人化の奇妙さが、公共的昂揚の空虚さを暗示する。「Moi, j'ai（私には）」──コロン（：）による対置の直後に置かれる強調的一人称が、集団的・公共的高揚（旗の穴の昂揚）に対して詩人の私的・親密的選択（髪への埋没）を対置する；リシャール（『マラルメの想像的宇宙』）はこの「Moi」を詩人の「身体的退避（retrait corporel）」として──公共空間からの撤退と親密空間への没入という対立──として読む。「Pour enfouir mes yeux contents（満足した目を埋めるために）」──enfouir（埋める・埋没させる）という動詞が「Renouveau」§3の「creusant de ma face une fosse（顔で墓穴を掘る）」という大地への埋没の視覚的変奏として、ここでは目が髪の中に埋没するという官能的行為として提示される。「contents（満足した）」という形容詞が埋没の充足を積極的に定義する。"
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "Non ! la bouche ne sera sûre\nDe rien goûter à sa morsure\nS'il ne fait, ton princier amant,",
+      "body": "「いや！口は噛むことで何かを味わうことを確信できないだろう──もしあなたの高貴な恋人が果たさなければ」。「Non !（いや！）」という感嘆詞──§2の「Moi, j'ai（私には）」という一人称に続き、§3の「Non !」という否定が詩の情動的転換点として機能する；「Victorieusement fui」§2の「Quoi !（なんと！）」という感嘆詞と同一の役割として、これまでの叙述の論理を中断・転換する。「la bouche ne sera sûre / De rien goûter à sa morsure（口は噛むことで何かを味わうことを確信できないだろう）」──二重否定の条件節が味覚的接触（morsure＝噛む行為）の不確実性として提示される；リシャール（『マラルメの想像的宇宙』）は「morsure（噛む）」をマラルメの接触語彙の中で最も攻撃的・侵入的な動詞として分析する──口が対象に噛みつくという行為が官能的接触を暴力的次元へと押し上げる。デリダ（「マラルメ」、『散種』）はこの「morsure」と「bouche」の関係を「書くこと（écriture）の口・ペン・切断」というテクスト論的文脈で読む──詩の書き込みが噛む行為として、紙への刻印が歯の痕として。「ton princier amant（あなたの高貴な恋人）」──三人称「il/son」の突然の登場が詩の人称構造を「私（Moi）/あなた（ton/tu）」という二項から「私/あなた/彼（高貴な恋人）」という三項へと複雑化する；この三人称は詩人自身の三人称的自己客体化として読むことも可能。"
+    },
+    {
+      "paragraphId": 4,
+      "type": "commentary",
+      "anchor": "Dans la considérable touffe\nExpirer, comme un diamant,\nLe cri des Gloires qu'il étouffe.",
+      "body": "詩の閉幕。「巨大な房の中でダイアモンドのように、彼が窒息させる栄光の叫びを吐き出させることを」。「la considérable touffe（巨大な房）」──touffe（房・茂み）は髪の束を指す；「considérable（巨大な・相当な）」という形容詞が§2の「chevelure nue（裸の髪）」を規模的に拡張する。リシャール（『マラルメの想像的宇宙』）はこの「considérable touffe」を「密度の極致としての髪」として分析する──髪の密度・暗さ・内部の深さが外部の光（太陽・公共空間の旗）に対する対極的な物質的空間を形成する。「Expirer, comme un diamant（ダイアモンドのように息絶える）」──expirer（息絶える・吐き出す）という動詞が「死ぬ」と「息を吐き出す」という二義を持つ；「comme un diamant（ダイアモンドのように）」という比喩がリシャールの分析する「圧縮による純化」を体現する──ダイアモンドは炭素という不純な物質が極限の圧縮によって純粋な輝きに転換されたもの；髪の巨大な房という暗い密度の中で栄光の叫びが圧縮・純化されてダイアモンド的に輝くという過程。「Le cri des Gloires qu'il étouffe（彼が窒息させる栄光の叫び）」──デリダ（「マラルメ」、『散種』）はこの閉幕を「抑圧された声の詩学」として読む；「étouffe（窒息させる）」という動詞が栄光（Gloires）の叫びを抑圧しながら同時にそれを「吐き出させる（Expirer）」という矛盾が、詩における沈黙と発話の不可分性として機能する。「Victorieusement fui」§4の「il tomberait des roses（薔薇が降るだろう）」という条件法的閉幕に対し、ここでは「S'il ne fait…Expirer…le cri（もし彼が…吐き出させなければ）」という否定的条件節による閉幕が、発話の条件としての抑圧という逆説を詩全体の結論として提示する。"
+    }
+  ]
+}
