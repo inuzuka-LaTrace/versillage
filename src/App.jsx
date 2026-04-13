@@ -2095,8 +2095,8 @@ const handleTextChange = (textId) => {
       VANITISME; L'archive d’ombres et de silence. <br />
       Ce dispositif met à nu le désespoir d’un langage<br />
       qui ne rencontre que son propre vide.<br />
-      Pourtant, si le verbe est impuissant à saisir l’être, 
-      cela ne justifie en rien l’arrêt de cet acte de Résistance, 
+      Pourtant, si notre langage est impuissant à saisir l’être,<br />
+      cela ne justifie en rien l’arrêt de cet acte de Résistance,<br />
       bien que vain. <br />
       Contre le nihilisme de l'oubli,<br />
       nous dressons la splendeur de l'éphémère.<br />
