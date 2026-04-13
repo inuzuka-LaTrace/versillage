@@ -1,0 +1,89 @@
+{
+  "id": "regnier_l_heure",
+  "title": "L'Heure",
+  "author": "Henri de Régnier",
+  "source": "La Cité des eaux, Mercure de France, s.d. (15e éd.), p. 41; https://fr.wikisource.org/wiki/L%27Heure_(Henri_de_R%C3%A9gnier)",
+  "year": "1902",
+  "firstPublication": "La Cité des eaux, Mercure de France, 1902",
+  "difficulty": "中級",
+  "category": "regnier",
+  "originalLang": "fr-FR",
+  "modernRelevance": "★★★★★",
+  "context": "詩集『水の都（La Cité des eaux）』（1902）所収。「La Neige」に続く第28詩・最終詩。ソネット形式（4・4・3・3行）。詩集全体の集大成として、「不変の黄楊と一定のイトスギ」という冒頭の二形容詞が詩集を貫いた固定・不動のモチーフを最終的に確定する。§1でトリトン・§2でヘルメス像とペガサスという三体の神話的彫像が「待ち・伸び・蹄を上げる」という停止した動作の中に提示される。§3の「時間は長い、彫像に固まった者たちにとって——折れた飛翔・囚われの跳躍・沈黙した声——が広大で記念碑的な庭園に留まる」という詩集全体の彫刻的固定の総括が続き、§4の「去っていく時間が——黒いフクロウか鳩か——石と金属の古い日時計の文字盤に、落ちていく日が逃げる斜めの影の翼を描く」という閉幕が、詩集全体の時間・光・影・翼というモチーフを日時計の針の影として最終的に一致させる。",
+  "keywords": [
+    "不変の黄楊",
+    "一定のイトスギ",
+    "トリトン",
+    "ヘルメス像",
+    "ペガサス",
+    "彫像に固まった者",
+    "日時計",
+    "影の翼"
+  ],
+  "relatedTexts": [
+    "regnier_la_neige",
+    "regnier_hommage",
+    "regnier_les_statues",
+    "regnier_le_socle",
+    "regnier_salut_versailles",
+    "mallarme_toast_funebre"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "verses": "v.1–4",
+      "original": "L'invariable buis et le cyprès constant\nBordent l'allée égale et le parterre où songe\nDans le bassin carré l'eau qui reflète et ronge\nUn Triton fatigué de sa conque qu'il tend ;",
+      "provisionalTranslation": "不変の黄楊と一定のイトスギが\n均整のとれた並木道と花壇を縁取り、そこで夢想する\n四角い水盤の中で、映し反射しながら腐食する水が\n差し出し続ける法螺貝に疲れたトリトンを；"
+    },
+    {
+      "id": 2,
+      "verses": "v.5–8",
+      "original": "En sa gaîne de pierre aussi l'hermès attend\nQue tourne autour de lui son socle qui s'allonge ;\nUn Pégase cabré, le pied pris dans sa longe,\nLève un sabot de bronze et gonfle un crin flottant.",
+      "provisionalTranslation": "石の鞘の中でヘルメス像もまた待っている\n周囲を回転するよう延びる台座を；\n後ろ足で立つペガサスが、足を繋ぎ紐に捕らえられ、\n青銅の蹄を上げ、たなびくたてがみを膨らませる。"
+    },
+    {
+      "id": 3,
+      "verses": "v.9–11",
+      "original": "L'heure est longue pour ceux qui, figés en statues,\nVol brisé, saut captif, dont les voix se sont tues,\nDemeurent au jardin vaste et monumental ;",
+      "provisionalTranslation": "時間は長い、彫像に固まった者たちにとって、\n折れた飛翔、囚われの跳躍、声は沈黙した、\n広大で記念碑的な庭園に留まる者たちにとって；"
+    },
+    {
+      "id": 4,
+      "verses": "v.12–14",
+      "original": "Et le Temps qui s'en va, hibou noir ou colombe,\nDessine au vieux cadran de pierre et de métal\nUne aile d'ombre oblique où fuit le jour qui tombe.",
+      "provisionalTranslation": "そして去っていく時間が——黒いフクロウか鳩か——\n石と金属の古い日時計の文字盤に描く\n落ちていく日が逃げる斜めの影の翼を。"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "prosody",
+      "anchor": null,
+      "body": "全14行のソネット形式（quatrain・quatrain・tercet・tercet）。12音節アレクサンドラン。韻はABBAのエンブラッセ韻——constant／tend（A）、songe／ronge（B）。詩集『水の都』の最終詩として、冒頭の二形容詞「L'invariable（不変の）」・「constant（一定の）」が詩集全体を貫いた固定・不動・永続のモチーフを最終的に確定する——「Salut à Versailles」から「La Neige」まで、庭園の植物・水・彫像はすべて変化しながら「不変」であり続けてきた。詩集全体の構造的対称として、「Salut à Versailles」§1の「les bassins où miroir vif se mire（鏡が映る水盤）」という開幕に対し、「L'Heure」§4の「le vieux cadran de pierre et de métal（石と金属の古い日時計）」という閉幕が「水の反射→日時計の影」という時間の計測手段の最終的な移行として機能する。§4の「Une aile d'ombre oblique（斜めの影の翼）」——詩集全体の翼のモチーフ（愛の翼・灰の翼・沈黙の翼・ハープの翼）が日時計の影針として時間の計測という機能に最終的に収斂する。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "glossary",
+      "anchor": "L'invariable buis et le cyprès constant\nBordent l'allée égale et le parterre où songe\nDans le bassin carré l'eau qui reflète et ronge\nUn Triton fatigué de sa conque qu'il tend ;",
+      "body": "「不変の黄楊と一定のイトスギが均整のとれた並木道と花壇を縁取り、四角い水盤の中で映しながら腐食する水が、差し出し続ける法螺貝に疲れたトリトンを」。buis（黄楊）——詩集全体を通じて登場する植物（「Le Bouquet」§4の「l'odeur du buis amer」・「Hommage」§1の「le buis silencieux」）が、ここでは「L'invariable（不変の）」という形容詞によって詩集の開始から継続する不動の証人として定義される。cyprès（イトスギ）——地中海的な墓地・永遠の植物；「constant（一定の）」という形容詞が黄楊の「invariable（不変）」と対をなす。「Un Triton fatigué de sa conque qu'il tend（差し出し続ける法螺貝に疲れたトリトン）」——トリトンは海神ポセイドンの息子、法螺貝（conque）を吹く半人半魚の神；「fatigué（疲れた）」という形容詞が彫像の永遠の動作保持という石化の苦痛を一語で提示する。詩集の「疲れ」の系列——「Intérieur」§1の「L'aile est lasse（翼は疲れている）」・「Fond de jardin」§2の「son orgueil s'est lassé（誇りが疲れた）」——の最終形。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "En sa gaîne de pierre aussi l'hermès attend\nQue tourne autour de lui son socle qui s'allonge ;\nUn Pégase cabré, le pied pris dans sa longe,\nLève un sabot de bronze et gonfle un crin flottant.",
+      "body": "「石の鞘の中でヘルメス像もまた待っている、周囲を回転するよう延びる台座を；後ろ足で立つペガサスが、足を繋ぎ紐に捕らえられ、青銅の蹄を上げ、たなびくたてがみを膨らませる」。l'hermès——ヘルメス（マーキュリー）の半身像（胸像）；台座（socle）の上に置かれる首像・胸像形式の彫刻——詩集の台座（「Le Socle」）と彫像の連絡。「sa gaîne de pierre（石の鞘）」——「La Neige」§2の「la gaîne qui l'étreint（締め上げる鞘）」という彫像の石化的拘束の反響として、ここではヘルメス像自体の胸像形式（上半身のみで下半身が台座に溶け込む）を「石の鞘」として提示する。「Un Pégase cabré, le pied pris dans sa longe（後ろ足で立つペガサスが、繋ぎ紐に捕らえられた足で）」——天馬ペガサスが後ろ足で立った動作のまま石化し、かつその足が「longe（繋ぎ紐）」に捕らえられているという二重の拘束；「La Neige」§3の「couple captif（囚われの二人）」という神話的拘束の動物的反復。"
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "L'heure est longue pour ceux qui, figés en statues,\nVol brisé, saut captif, dont les voix se sont tues,\nDemeurent au jardin vaste et monumental ;",
+      "body": "「時間は長い、彫像に固まった者たちにとって——折れた飛翔・囚われの跳躍・声は沈黙した——広大で記念碑的な庭園に留まる者たちにとって」。詩集全体の彫刻的固定の主題的総括——「figés en statues（彫像に固まった）」という分詞句が詩集のすべての神話的人物（ニンフ・牧神・女神・トリトン・ヘルメス・ペガサス）の運命を単一の述語として集約する。「Vol brisé, saut captif（折れた飛翔・囚われの跳躍）」——ペガサス（飛翔）とトリトン（跳躍、あるいは「La Neige」のマルスとウェヌスの囚われ）の動作の停止を絶対分詞として圧縮する；この構文的省略が石化という行為の暴力的な突然さを統語的に体現する。「dont les voix se sont tues（声は沈黙した）」——「L'Île」§1の「un silence fidèle（忠実な沈黙）」・「Hommage」§3の「La fête est morte avec sa musique（祭りは音楽とともに死んだ）」という詩集の音楽の消滅系列の最終的な彫像的定式化。"
+    },
+    {
+      "paragraphId": 4,
+      "type": "commentary",
+      "anchor": "Et le Temps qui s'en va, hibou noir ou colombe,\nDessine au vieux cadran de pierre et de métal\nUne aile d'ombre oblique où fuit le jour qui tombe.",
+      "body": "詩集の閉幕。「去っていく時間が——黒いフクロウか鳩か——石と金属の古い日時計の文字盤に、落ちていく日が逃げる斜めの影の翼を描く」。「le Temps qui s'en va（去っていく時間）」——「Intérieur」§1の「Le Temps sentencieux（判決を下すような時間）」という大文字の擬人化が、ここでは「去っていく（s'en va）」という推移の動詞を伴って詩集から退場する。「hibou noir ou colombe（黒いフクロウか鳩か）」——二つの鳥の選択的提示；フクロウは夜・死・智慧の鳥、鳩は昼・愛・平和の鳥——詩集全体の昼と夜・愛と死の対立が、時間の去り方の不確定性として最終化される。「Une aile d'ombre oblique（斜めの影の翼）」——詩集全体の翼のモチーフ（「Intérieur」§4の「aile de cendre／aile d'or」・「Le Bouquet」§3の「L'invisible silence évente de ses ailes」・「L'Île」のハープの翼・「Hommage」§4の「gamme et l'arpège」の音楽的不滅）が、ここでは日時計の針の影として時間の計測という純粋な機能に収斂し、詩集全体が「影の翼」という一語で閉じる。「où fuit le jour qui tombe（落ちていく日が逃げる）」——日没という光の消滅が、詩集冒頭「Salut à Versailles」の「des cendres de l'été（夏の灰燼）」という出発点に応答して、詩集全体を一つの傾く一日の光の弧として完結させる。"
+    }
+  ]
+}
