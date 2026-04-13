@@ -1,0 +1,89 @@
+{
+  "id": "mallarme_une_dentelle",
+  "title": "Une dentelle s'abolit",
+  "author": "Stéphane Mallarmé",
+  "source": "Vers et Prose, Perrin et Cie, 1893, p. 46–47; https://fr.wikisource.org/wiki/Vers_et_Prose_(Mallarm%C3%A9)/%C2%AB_Une_dentelle_s%27abolit_%C2%BB",
+  "year": "1887",
+  "firstPublication": "Vers et Prose, Perrin et Cie, 1893",
+  "difficulty": "上級",
+  "category": "mallarme",
+  "originalLang": "fr-FR",
+  "modernRelevance": "★★★★★",
+  "context": "マラルメの「三つの室内詩（Triptyque）」──「Tout Orgueil fume-t-il du soir」・「Surgi de la croupe et du bond」・「Une dentelle s'abolit」──の第三番。14行・8音節詩（オクトシラブ）、ABBA-ABBA-CCD-EDE の韻型。詩集『Vers et Prose』（1893）所収。三詩篇の中で最も形而上学的な深みを持つソネットとして、レースのカーテン・ベッドの不在・音楽的な虚ろな虚無・条件法的誕生という四つの主題が重なる。§1でレース（dentelle）が「最高の遊びの疑いの中で自ら廃絶する」──「ベッドの永遠の不在」という冒涜的な開口部を開くためだけに。§2でその「満場一致の白い争い」が蒼ざめた窓ガラスに逃げ去り、埋めるより浮かぶ。§3で「夢によって黄金色になる者のもとで、一つのマンドーラが悲しく眠る、音楽的な虚ろな虚無の中で」。§4の「何らかの窓に向かって、その腹だけに従って、子として生まれることができたであろう」という条件法過去による非誕生の閉幕へと至る。ジャン＝ピエール・リシャール（『マラルメの想像的宇宙』）の「白・浮遊・窓の物質論」、ブランショ（『文学の空間』）の「作品の虚無と誕生の不可能性」、デリダ（「マラルメ」、『散種』）の「hymen（処女膜／結婚）」論と「s'abolit」の自己廃絶論が交差する詩。",
+  "keywords": [
+    "レースの自己廃絶",
+    "最高の遊びの疑い",
+    "ベッドの永遠の不在",
+    "白い争い",
+    "蒼ざめた窓ガラス",
+    "音楽的な虚ろな虚無",
+    "マンドーラ",
+    "子として誕生できたであろう"
+  ],
+  "relatedTexts": [
+    "mallarme_tout_orgueil",
+    "mallarme_sonnet_yx",
+    "mallarme_victorieusement",
+    "mallarme_sainte",
+    "mallarme_herodiade_scene",
+    "mallarme_quand_l_ombre"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "verses": "v.1–4",
+      "original": "Une dentelle s'abolit\nDans le doute du Jeu suprême\nÀ n'entr'ouvrir comme un blasphème\nQu'absence éternelle de lit.",
+      "provisionalTranslation": "一枚のレースが自ら廃絶する\n最高の遊びの疑いの中で\n冒涜のように半開きにするためだけに\nベッドの永遠の不在を。"
+    },
+    {
+      "id": 2,
+      "verses": "v.5–8",
+      "original": "Cet unanime blanc conflit\nD'une guirlande avec la même,\nEnfui contre la vitre blême\nFlotte plus qu'il n'ensevelit.",
+      "provisionalTranslation": "この満場一致の白い争い、\n花飾りと同じものの争いが、\n蒼ざめた窓ガラスに向かって逃げ去り、\n埋めるよりも浮かぶ。"
+    },
+    {
+      "id": 3,
+      "verses": "v.9–11",
+      "original": "Mais, chez qui du rêve se dore\nTristement dort une mandore\nAu creux néant musicien",
+      "provisionalTranslation": "しかし、夢によって黄金色になる者のもとで\n一つのマンドーラが悲しく眠る\n音楽的な虚ろな虚無の中で"
+    },
+    {
+      "id": 4,
+      "verses": "v.12–14",
+      "original": "Telle que vers quelque fenêtre\nSelon nul ventre que le sien,\nFilial on aurait pu naître.",
+      "provisionalTranslation": "何らかの窓に向かって、\nその腹だけに従って、\n子として生まれることができたであろう。"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "prosody",
+      "anchor": null,
+      "body": "14行・8音節詩（オクトシラブ）。韻型ABBA-ABBA-CCD-EDE──abolit／conflit（A）、suprême／même（B）、dore／mandore（C）、musicien／sien（D）、fenêtre／naître（E）。「三つの室内詩」の第三番として最も形而上学的な深みを持ち、三詩篇の中で唯一の「Mais（しかし）」（§3冒頭）による転換を持つ。統語的構造として§1・§2が「Une dentelle s'abolit…（レースが廃絶する）」という単一主語の展開、§3・§4が「Mais…dort une mandore / Telle que…on aurait pu naître（マンドーラが眠る、そのような形で生まれることができたであろう）」という比較節の条件法過去で閉じる。ブランショ（『文学の空間』「作品の不在」）はこの詩を「三つの室内詩の中で虚無が最も完全に自己言及する詩」として──「Tout Orgueil」の「fulgurante console（閃光するコンソール）」という最後の光に対して、「Une dentelle」では唯一の存在が「creux néant（虚ろな虚無）」というオクシモロンとして提示される──位置づける。デリダ（「マラルメ」、『散種』）はソネットの韻型を「abolit／conflit（廃絶／争い）」という対立する語の音韻的一致として読み、詩の意味論的対立が形式的同一性によって解消されるという「hymen（処女膜）」的構造として分析する。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "Une dentelle s'abolit\nDans le doute du Jeu suprême\nÀ n'entr'ouvrir comme un blasphème\nQu'absence éternelle de lit.",
+      "body": "「一枚のレースが最高の遊びの疑いの中で自ら廃絶する──冒涜のようにベッドの永遠の不在を半開きにするためだけに」。デリダ（「マラルメ」、『散種』）は「s'abolit（自ら廃絶する）」という再帰的動詞を詩集全体の自己廃絶的運動の純粋な形式として分析する──レースが外部の力によって廃絶されるのではなく「自ら（s'）」廃絶するという自己否定性；デリダはこれをマラルメの詩的言語の本質的運動として──言語は意味を生産しながら同時に自らを廃絶するという「auto-abolition」として──位置づける。「Dans le doute du Jeu suprême（最高の遊びの疑いの中で）」──「Jeu suprême（最高の遊び）」という大文字の「遊び」がリシャール（『マラルメの想像的宇宙』）の分析する「マラルメの賭けとしての詩的行為」として機能する；「doute（疑い）」という認識的不確定性が「最高の遊び」の前提条件として提示される──確信なき賭けとしての詩的創造。「À n'entr'ouvrir comme un blasphème / Qu'absence éternelle de lit（冒涜のようにベッドの永遠の不在を半開きにするためだけに）」──entr'ouvrir（半開きにする）という動詞が「Tout Orgueil」§2の「La porte entrebâillée（半開きの扉）」・「L'Abandon」§2の「La porte s'entrebâille（半開きになる扉）」という詩集全体の半開きのモチーフと連絡する；しかしここでの半開きは「ベッドの永遠の不在」という非存在の開示であり、「blasphème（冒涜）」という宗教的語彙がその開示行為を冒涜的なものとして定義する。ブランショ（『文学の空間』「書くことの孤独」）はこの「ベッドの永遠の不在」を「作品の誕生の不可能性」として──ベッドという誕生と性愛と死の場所の永遠の空虚として──読む。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "Cet unanime blanc conflit\nD'une guirlande avec la même,\nEnfui contre la vitre blême\nFlotte plus qu'il n'ensevelit.",
+      "body": "「この満場一致の白い争い──花飾りと同じものの争いが──蒼ざめた窓ガラスに向かって逃げ去り、埋めるよりも浮かぶ」。リシャール（『マラルメの想像的宇宙』）は「unanime blanc conflit（満場一致の白い争い）」を「白の自己対立」として詳細に分析する──「unanime（満場一致の）」という形容詞が争い（conflit）の当事者の同一性を確定する；レース（dentelle）という単一の白い物質が「une guirlande avec la même（花飾りと同じもの）」として自分自身と争うという自己対立の構造。リシャールはこれを「白の自己分裂」──白という色彩の内的緊張として──マラルメの白の詩学の最も精緻な形式として位置づける。「Enfui contre la vitre blême（蒼ざめた窓ガラスに向かって逃げ去り）」──「Soupir」§1の「Fidèle, un blanc jet d'eau soupire vers l'azur（忠実に、白い噴水が紺碧へとため息をつく）」という上昇的移動に対し、ここではレースが「逃げ去る（Enfui）」という離散的移動として窓ガラスに向かう；blême（蒼ざめた）という形容詞が窓ガラスを人間の顔の蒼白さとして擬人化する。デリダ（「マラルメ」、『散種』）は「vitre blême（蒼ざめた窓ガラス）」を「hymen（処女膜）」の物質的対応物として読む──窓ガラスは外部と内部を分けながら透過させる半透明の膜として、デリダの「hymen」概念（分離と融合の境界線）を物質的に体現する。「Flotte plus qu'il n'ensevelit（埋めるよりも浮かぶ）」──「Tout Orgueil」§1の「Torche dans un branle étouffée（揺れの中で窒息させられた炬火）」という消滅に対し、ここでは「浮かぶ（flotter）」という継続的軽量的運動が「埋める（ensevelit）」という完了的重量的運動を超過する；ブランショ（『文学の空間』）はこの「浮かぶことが埋めることを超過する」という命題を「作品の自己保持」として──廃絶（s'abolit）を宣言しながらも浮かび続けるという詩の逆説──として読む。"
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "Mais, chez qui du rêve se dore\nTristement dort une mandore\nAu creux néant musicien",
+      "body": "「しかし、夢によって黄金色になる者のもとで、一つのマンドーラが音楽的な虚ろな虚無の中で悲しく眠る」。「Mais（しかし）」──「三つの室内詩」の中で唯一の「Mais」による転換として、§1・§2のレースと白の世界から§3・§4のマンドーラと夢の世界へと詩的空間が移行する；「Tout Orgueil」§4の「Ne s'allume pas d'autre feu / Que la fulgurante console（閃光するコンソール以外には他の火は燃えない）」という光の孤立的肯定に対し、ここでの「Mais」は音楽的楽器という別種の存在への転換。「chez qui du rêve se dore（夢によって黄金色になる者のもとで）」──「se dore（黄金色になる）」という再帰的動詞が夢による意識の自己変容として提示される；リシャール（『マラルメの想像的宇宙』）は「se dore（黄金色になる）」を「夢の物質論的変容」として──夢が意識を黄金という物質的色彩に変換するという過程──として分析する。「Tristement dort une mandore（一つのマンドーラが悲しく眠る）」──mandore（マンドーラ）はリュート族の古い弦楽器；「dort（眠る）」という動詞が楽器に付与されることで楽器の沈黙が睡眠として擬人化される。「L'Île」§3の「S'est endormi, avec en lui l'accord final（最後の和音を宿して眠りについた）」というパヴィリオンの眠りと同一の音楽的沈黙の擬人化として機能する。「Au creux néant musicien（音楽的な虚ろな虚無の中で）」──詩集全体で最も凝縮された形而上学的オクシモロン；「néant（虚無）」という存在の根本的否定が「musicien（音楽的な）」という属性を持つという矛盾がデリダ（「マラルメ」、『散種』）の分析の核心。デリダはこの「creux néant musicien」を「空虚が音楽を生産する」という詩的言語の根本的逆説として読む──マンドーラの空洞（creux）が共鳴箱として音を生産するように、虚無（néant）が音楽的（musicien）であるという命題が楽器の物理的構造を存在論的命題として転用する。ブランショ（『文学の空間』「詩の孤独」）はこの「音楽的な虚ろな虚無」を「文学の根本的条件としての空虚」として──文学は充実した意味ではなく虚ろな空虚から音楽的な言語を生産するという主張として──読む。"
+    },
+    {
+      "paragraphId": 4,
+      "type": "commentary",
+      "anchor": "Telle que vers quelque fenêtre\nSelon nul ventre que le sien,\nFilial on aurait pu naître.",
+      "body": "詩の閉幕。「何らかの窓に向かって、その腹だけに従って、子として生まれることができたであろう」。詩集全体で最も形而上学的な閉幕行として、条件法過去「on aurait pu naître（生まれることができたであろう）」が非誕生という反事実的命題を提示する。デリダ（「マラルメ」、『散種』）は「Selon nul ventre que le sien（その腹だけに従って）」の「nul ventre（いかなる腹でもない）」という否定的属格に「hymen（処女膜）」論の核心を見る──「nul ventre（どんな腹でもない）」という否定が実際の母の腹という生物的誕生を否定しながら、「le sien（その腹）」──マンドーラの空洞（creux）という楽器的腹──のみによる誕生を肯定する；デリダにとってこれは詩的言語の「処女膜的誕生」──生物的母胎を持たない純粋な言語的誕生──の命題。リシャール（『マラルメの想像的宇宙』）は「vers quelque fenêtre（何らかの窓に向かって）」を「開口部への指向性」として──§2の「vitre blême（蒼ざめた窓ガラス）」という逃げ去る先としての窓が、§4では誕生の方向として再召喚される──分析する；窓という半透明の境界面が「Soupir」の「like a fountain sighing toward the azure」という上昇の終着点として機能する。「Filial on aurait pu naître（子として生まれることができたであろう）」──「Filial（子として・子のように）」という形容詞的副詞がこの誕生の性格を定義する；ブランショ（『文学の空間』「作品の不在」）はこの「子として生まれることができたであろう」を「作品の潜在的誕生の永遠の条件法」として読む──「aurait pu（できたであろう）」という条件法過去が誕生を実現された事実としてではなく永遠に可能でありながら実現されなかった事態として確定する；ブランショにとって文学作品はこの「条件法的誕生」の様態においてのみ存在する──実現された産物としてではなく、誕生の可能性として虚無の中に留まる。詩集の閉幕的閃光系列──「Tout Orgueil」の「fulgurante console（閃光するコンソール）」・「Victorieusement fui」の「clarté（明晰さ）」・「Quand l'ombre menaça」の「s'est allumé le génie（天才が燃え上がった）」──に対して、「Une dentelle s'abolit」の閉幕は光でも天才の炎でもなく「Filial on aurait pu naître（子として生まれることができたであろう）」という条件法的非誕生として、詩集全体の閃光的肯定に対する最も静かな形而上学的否定として位置づけられる。"
+    }
+  ]
+}
