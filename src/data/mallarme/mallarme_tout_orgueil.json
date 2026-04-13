@@ -1,0 +1,89 @@
+{
+  "id": "mallarme_tout_orgueil",
+  "title": "Tout Orgueil fume-t-il du soir",
+  "author": "Stéphane Mallarmé",
+  "source": "Vers et Prose, Perrin et Cie, 1893, p. 42–43; https://fr.wikisource.org/wiki/Vers_et_Prose_(Mallarm%C3%A9)/%C2%AB_Tout_Orgueil_fume-t-il_du_soir_%C2%BB",
+  "year": "1885",
+  "firstPublication": "La Revue indépendante, 1885; Vers et Prose, Perrin et Cie, 1893",
+  "difficulty": "上級",
+  "category": "mallarme",
+  "originalLang": "fr-FR",
+  "modernRelevance": "★★★★★",
+  "context": "マラルメの「三つの室内詩（Triptyque）」──「Tout Orgueil fume-t-il du soir」・「Surgi de la croupe et du bond」・「Une dentelle s'abolit」──の第一番。14行・8音節詩（オクトシラブ）、ABBA-ABBA-CCB-DAD の変則韻型。詩集『Vers et Prose』（1893）所収。「誇り（Orgueil）」という抽象的・倫理的観念が夕暮れの煙として物質化される冒頭から、相続人（hoir）の古い部屋・落ちた戦利品・廊下・必要な過去の苦悶・否認の墓所・重い大理石・閃光するコンソールという具体的室内空間の語彙へと収束する。§1で誇りの煙滅という問いが提示され、§2で空の部屋の冷たさという不在が確定し、§3で過去の苦悶が鷲の爪で墓所を掴むという暴力的イメージが続き、§4の「閃光するコンソール」という唯一の光が詩全体の否定的空間を照らす閉幕へと至る。ジャン＝ピエール・リシャール（『マラルメの想像的宇宙』）の消滅と光の弁証法、モーリス・ブランショ（『文学の空間』）の「作品と不在」、ジャック・デリダ（「マラルメ」、『散種』）の「sépulcre de désaveu（否認の墓所）」論が交差する詩。",
+  "keywords": [
+    "誇りの煙",
+    "炬火の消滅",
+    "不死の一吹き",
+    "相続人の古い部屋",
+    "落ちた戦利品",
+    "過去の苦悶",
+    "否認の墓所",
+    "閃光するコンソール"
+  ],
+  "relatedTexts": [
+    "mallarme_quelle_soie",
+    "mallarme_surgi_de_la_croupe",
+    "mallarme_sonnet_yx",
+    "mallarme_victorieusement",
+    "mallarme_toast_funebre",
+    "mallarme_herodiade_ouverture"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "verses": "v.1–4",
+      "original": "Tout Orgueil fume-t-il du soir,\nTorche dans un branle étouffée\nSans que l'immortelle bouffée\nNe puisse à l'abandon surseoir !",
+      "provisionalTranslation": "あらゆる誇りは夕暮れから煙るのか、\n揺れの中で窒息させられた炬火のように、\n不死の一吹きが\n放棄に猶予を与えることができないまま！"
+    },
+    {
+      "id": 2,
+      "verses": "v.5–8",
+      "original": "La chambre ancienne de l'hoir\nDe maint riche mais chu trophée\nNe serait pas même chauffée\nS'il survenait par le couloir.",
+      "provisionalTranslation": "多くの豊かだが落ちた戦利品を持つ\n相続人の古い部屋は\n暖められさえしないだろう\n彼が廊下から訪れたとしても。"
+    },
+    {
+      "id": 3,
+      "verses": "v.9–11",
+      "original": "Affres du passé nécessaires\nAgrippant comme avec des serres\nLe sépulcre de désaveu,",
+      "provisionalTranslation": "必要な過去の苦悶が\n鷲の爪でもって掴むように\n否認の墓所を、"
+    },
+    {
+      "id": 4,
+      "verses": "v.12–14",
+      "original": "Sous un marbre lourd qu'elle isole\nNe s'allume pas d'autre feu\nQue la fulgurante console.",
+      "provisionalTranslation": "それが孤立させる重い大理石の下に\n他のどんな火も燃えない\n閃光するコンソール以外には。"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "prosody",
+      "anchor": null,
+      "body": "14行・8音節詩（オクトシラブ）。変則韻型ABBA-ABBA-CCB-DAD──soir／hoir（A）、étouffée／bouffée（B）、nécessaires／serres（C）、désaveu／feu（特異配置）、isole／console（D）。「三つの室内詩（Triptyque）」の第一番として、「Surgi de la croupe et du bond」（第二番）・「Une dentelle s'abolit」（第三番）とともに室内という閉じた空間における不在・消滅・光の問題を扱う。リシャール（『マラルメの想像的宇宙』）はこのソネットを「消滅の三段階──煙滅（§1）・冷却（§2）・墓所化（§3）──と唯一の閃光（§4）」という弁証法的構造として分析する。詩全体の統語的特徴として§1の「Tout Orgueil fume-t-il…（あらゆる誇りは煙るのか）」という修辞的疑問が確定的消滅を問いの形式で提示し、§2の「Ne serait pas même chauffée（暖められさえしないだろう）」という否定的条件節・§3の絶対分詞「Agrippant（掴むように）」・§4の「Ne s'allume pas d'autre feu / Que（他の火は燃えない……以外）」という否定の排他的例外として一貫して否定的統語が支配する──唯一の肯定的例外が閉幕の「fulgurante console（閃光するコンソール）」。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "Tout Orgueil fume-t-il du soir,\nTorche dans un branle étouffée\nSans que l'immortelle bouffée\nNe puisse à l'abandon surseoir !",
+      "body": "「あらゆる誇りは夕暮れから煙るのか、揺れの中で窒息させられた炬火のように、不死の一吹きが放棄に猶予を与えることができないまま！」。リシャール（『マラルメの想像的宇宙』）は「Tout Orgueil fume-t-il du soir（あらゆる誇りは夕暮れから煙るのか）」という冒頭の修辞的疑問を「抽象的観念の物質化」の最初の運動として分析する──誇り（Orgueil）という倫理的・抽象的観念が「fume（煙る）」という動詞によって煙という物質的現象に変換される。この「観念→煙」という物質化が詩集全体の「理念の消滅」のモチーフの物質的基礎。「Torche dans un branle étouffée（揺れの中で窒息させられた炬火）」──branle（揺れ・揺動）という運動が炬火の消滅原因として提示される；炬火は燃えながら揺れ、その揺れが窒息をもたらすという逆説的自己消滅。ブランショ（『文学の空間』「作品の不在」）はマラルメの炬火モチーフを「作品の自己消滅」として読む──炬火が燃えることで自らを消費し尽くすように、詩の言語は意味を生産しながら同時に自らの消滅を遂行する。「l'immortelle bouffée（不死の一吹き）」──bouffée（一吹き・一瞬の噴出）という束の間の気体的存在が「immortelle（不死の）」という永続性の形容詞と結合する逆説；ブランショはこの「不死の一吹き」をマラルメ詩学における「消滅することでしか存在できない不死性」の核心として位置づける。「à l'abandon surseoir（放棄に猶予を与える）」──surseoir（猶予する・延期する）という法律的語彙が「放棄（abandon）」に対する抵抗の不可能性を確定する。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "La chambre ancienne de l'hoir\nDe maint riche mais chu trophée\nNe serait pas même chauffée\nS'il survenait par le couloir.",
+      "body": "「多くの豊かだが落ちた戦利品を持つ相続人の古い部屋は、彼が廊下から訪れたとしても、暖められさえしないだろう」。「La chambre ancienne de l'hoir（相続人の古い部屋）」──hoir（相続人）という古語的・法律的語彙がリシャール（『マラルメの想像的宇宙』）の分析する「遺産の詩学」を開く；マラルメにとって詩は遺産であり相続であるが、その相続人はすでに「古い部屋」──過去の遺物として冷え切った空間──を引き継ぐ。「De maint riche mais chu trophée（多くの豊かだが落ちた戦利品を持つ）」──trophée（戦利品）という軍事的功績の記念物が「chu（落ちた）」という形容詞によって失墜した状態として提示される；過去の栄光の記念物がすでに廃墟化していることが「maint riche mais chu（豊かだが落ちた）」という逆接によって確定される。デリダ（「マラルメ」、『散種』）はこの「chu trophée（落ちた戦利品）」を「記号の転落」として読む──かつて充実した意味を持っていた記号（戦利品）がその意味内容を失い空虚な物質として「落ちる」過程。「Ne serait pas même chauffée（暖められさえしないだろう）」──§1の炬火の消滅が§2では室内の冷却として空間化される；リシャールの言う「熱の消滅→冷却」という物質論的系列の第二段階。「S'il survenait par le couloir（彼が廊下から訪れたとしても）」──「il（彼）」の指示対象が詩内部で明示されないという意図的な曖昧性；hoir（相続人）として読む場合、栄光の後継者が訪れても部屋は暖まらないという絶望的確定となる。"
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "Affres du passé nécessaires\nAgrippant comme avec des serres\nLe sépulcre de désaveu,",
+      "body": "「必要な過去の苦悶が、鷲の爪でもって掴むように、否認の墓所を」。「Affres du passé nécessaires（必要な過去の苦悶）」──affres（苦悶・苦闘）という語が「nécessaires（必要な）」という形容詞によって積極的に要請される──過去の苦悶は回避すべきものではなく詩的認識の必要条件として定義される。リシャール（『マラルメの想像的宇宙』）はこの「必要な苦悶」を「マラルメ的否定性の生産力」として分析する──消滅・冷却・否認という否定的経験が「必要（nécessaires）」という述語によって詩的意識の構成要素として肯定的に組み込まれる。「Agrippant comme avec des serres（鷲の爪でもって掴むように）」──serres（鷲の爪・温室）という二義的語彙；raptorial（猛禽類的）な把握という動物的暴力が過去の苦悶の身体的強度として提示される。ブランショ（『文学の空間』）はこの「鷲の爪による把握」をマラルメの詩的形式の「暴力的捕捉」として読む──詩の形式（ソネット）が意味を鷲の爪で掴むように強制的に固定するという詩形論的議論。「Le sépulcre de désaveu（否認の墓所）」──デリダ（「マラルメ」、『散種』）がこの句を詳細に分析する；désaveu（否認・否定）の墓所という複合体が「過去の意味の否定がそれ自体埋葬される場所」として機能する──つまり否認することの否認という二重否定的空間。デリダにとってこの「否認の墓所」はマラルメの詩における「書かれたものの自己抹消」の形象──テクストは自らを否認しながら、その否認を埋葬する墓所として存続する。"
+    },
+    {
+      "paragraphId": 4,
+      "type": "commentary",
+      "anchor": "Sous un marbre lourd qu'elle isole\nNe s'allume pas d'autre feu\nQue la fulgurante console.",
+      "body": "詩の閉幕。「それが孤立させる重い大理石の下に、閃光するコンソール以外には他のどんな火も燃えない」。「Sous un marbre lourd qu'elle isole（それが孤立させる重い大理石の下に）」──「elle（それ）」の指示対象が詩内部で明示されない──§3の「affres（苦悶）」か「sépulcre（墓所）」か。いずれにせよ重い大理石が孤立させる閉塞空間が§1の「chambre ancienne（古い部屋）」の最終形として提示される。リシャール（『マラルメの想像的宇宙』）はこの「重い大理石の孤立」を詩集全体の「硬質な物質による封鎖」の極点として──「Ses purs ongles（純粋な爪）」の「ptyx」という虚無の容器と同一の閉塞論理として──読む。「Ne s'allume pas d'autre feu / Que la fulgurante console（閃光するコンソール以外には他のどんな火も燃えない）」──詩全体で最初にして唯一の肯定的光として閉幕に登場する「fulgurante console（閃光するコンソール）」；fulgurante（閃光する・稲妻のような）という形容詞が瞬間的・暴力的な光の爆発を表し、console（コンソール台・装飾台座）という家具的固定物と結合する。ブランショ（『文学の空間』「マラルメの経験」）はこの「閃光するコンソール」を「詩の言語の自己照明」として読む──消滅・冷却・否認という否定的系列の終点に現れる閃光が外部の光源を持たない自己発光として、詩的言語の自律的な輝きを体現する。デリダ（「マラルメ」、『散種』）は「fulgurante console（閃光するコンソール）」の「console」を「consoler（慰める）」との語根的連絡として読む──「慰めとしての閃光」が詩全体の否定的経験の唯一の肯定的帰結として機能する。「Victorieusement fui」§4の「Avec clarté（明晰さとともに）」・「Quelle soie」§4の「comme un diamant（ダイアモンドのように）」という詩集の閃光的閉幕の系列における本詩の位置──消滅・冷却・否認という否定性の最も徹底した展開の後に現れる「fulgurante console」の閃光が、三詩篇の中で最も暗い背景に対して最も純粋な光として輝く。"
+    }
+  ]
+}
