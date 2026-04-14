@@ -1,0 +1,115 @@
+{
+  "id": "weil_atheisme_purificateur",
+  "title": "La Pesanteur et la Grâce — L'athéisme purificateur",
+  "author": "Simone Weil",
+  "source": "La Pesanteur et la Grâce, Plon, Paris, 1947（死後刊行、編者Gustave Thibon）。底本: Wikisource: https://fr.wikisource.org/wiki/La_Pesanteur_et_la_Grâce/25",
+  "year": "1940–1942頃（ノート執筆）",
+  "firstPublication": "La Pesanteur et la Grâce, Plon, Paris, 1947（死後4年、Gustave Thibon編）",
+  "difficulty": "上級",
+  "category": "weil",
+  "originalLang": "fr-FR",
+  "modernRelevance": "★★★★★",
+  "context": "『重力と恩寵』第25章「浄化する無神論（L'athéisme purificateur）」。前章「愛さなければならない方は不在」の神の不在論を受け、ヴェイユが無神論を肯定的に再定義する章。「神が存在する・神が存在しない」という「真の矛盾対（contradictoires vrais）」の提示から始まり、「浄化する無神論」と「信仰の障害としての宗教」という逆説的命題を展開する。ヴェイユが「前章（24章）」で定式化した「神は不在としてのみ現われる」という命題の認識論的帰結として、「神の観念の浄化としての無神論」が位置づけられる。第二次世界大戦期の強制収容所・植民地絶滅という極限的苦悩の経験から出発し、いかなる歴史的afflictionにも耐えられる「慈悲の観念」の構築という実践的課題で章を閉じる。",
+  "keywords": [
+    "浄化する無神論",
+    "真の矛盾対",
+    "神の観念の浄化",
+    "偽の神",
+    "超自然なきキリスト教",
+    "慰めの障害",
+    "affliction",
+    "ホロコースト",
+    "普遍的慈悲の観念",
+    "ヴェイユ神論"
+  ],
+  "relatedTexts": [
+    "weil_celui_quil_faut_aimer",
+    "weil_accepter_le_vide",
+    "weil_decreation",
+    "weil_effacement",
+    "weil_pesanteur_beaute",
+    "weil_necessite"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "original": "Cas de contradictoires vrais. Dieu existe, Dieu n'existe pas. Où est le problème ? Je suis tout à fait sûre qu'il y a un Dieu, en ce sens que je suis tout à fait sûre que mon amour n'est pas illusoire. Je suis tout à fait sûre qu'il n'y a pas de Dieu, en ce sens que je suis tout à fait sûre que rien de réel ne ressemble à ce que je peux concevoir quand je prononce ce nom. Mais cela que je ne puis concevoir n'est pas une illusion.",
+      "provisionalTranslation": "真の矛盾対の場合。神が存在する、神が存在しない。問題はどこにあるのか？私は神が存在することを全く確信している、その意味で私の愛が幻想でないことを全く確信しているという意味において。私は神が存在しないことを全く確信している、その意味で現実のものは何も私がこの名を発するときに思い描けることに似ていないことを全く確信しているという意味において。しかし私が思い描けないそのものは幻想ではない。"
+    },
+    {
+      "id": 2,
+      "original": "Il y a deux athéismes dont l'un est une purification de la notion de Dieu.\nPeut-être que tout ce qui est mal a un autre aspect qui est une purification au cours du progrès vers le bien et un troisième qui est le bien supérieur.\nTrois aspects à bien distinguer, car les confondre est un grand danger pour la pensée et pour la conduite effective de la vie.",
+      "provisionalTranslation": "二種類の無神論があり、そのうちのひとつは神の観念の浄化だ。\nおそらく悪であるものはすべて、善への進歩の過程における浄化である別の相と、より高い善である第三の相を持つ。\n三つの相をよく区別しなければならない、なぜならそれらを混同することは思想と生の実際の行いにとって大きな危険だから。"
+    },
+    {
+      "id": 3,
+      "original": "Entre deux hommes qui n'ont pas l'expérience de Dieu, celui qui le nie en est peut-être le plus près.\nLe faux Dieu qui ressemble en tout au vrai, excepté qu'on ne le touche pas, empêche à jamais d'accéder au vrai.\nCroire en un Dieu qui ressemble en tout au vrai, excepté qu'il n'existe pas, car on ne se trouve pas au point où Dieu existe.",
+      "provisionalTranslation": "神の経験を持たない二人の人間の間では、神を否定する者の方がおそらく神に最も近い。\n偽の神──触れることができないことを除いてあらゆる点で真の神に似ている──は真の神へのアクセスを永久に妨げる。\n存在しないことを除いてあらゆる点で真の神に似た神を信じること、なぜなら自分が神の存在する地点に位置していないから。"
+    },
+    {
+      "id": 4,
+      "original": "Les erreurs de notre époque sont du christianisme sans surnaturel. Le laïcisme en est la cause — et d'abord l'humanisme.",
+      "provisionalTranslation": "私たちの時代の誤りは超自然なきキリスト教だ。世俗主義がその原因であり──まずは人文主義が。"
+    },
+    {
+      "id": 5,
+      "original": "La religion en tant que source de consolation est un obstacle à la véritable foi : en ce sens l'athéisme est une purification. Je dois être athée avec la partie de moi-même qui n'est pas faite pour Dieu. Parmi les hommes chez qui la partie surnaturelle d'eux-mêmes n'est pas éveillée, les athées ont raison et les croyants ont tort.",
+      "provisionalTranslation": "慰めの源泉としての宗教は真の信仰への障害だ：この意味において無神論は浄化だ。私は神のためにできていない自分自身の部分において無神論者でなければならない。超自然的部分が目覚めていない人間たちの間では、無神論者が正しく、信者が誤っている。"
+    },
+    {
+      "id": 6,
+      "original": "Un homme dont toute la famille aurait péri dans les tortures, qui lui-même aurait été longtemps torturé dans un camp de concentration. Ou un Indien du XVIe siècle échappé seul à l'extermination complète de tout son peuple. De tels hommes, s'ils ont cru à la miséricorde de Dieu, ou bien n'y croient plus, ou bien la conçoivent tout autrement qu'auparavant. Je n'ai pas passé par de telles choses. Mais je sais qu'elles existent : dès lors, quelle différence ?\nJe dois tendre à avoir de la miséricorde divine une conception qui ne s'efface pas, qui ne change pas, quelque événement que le destin envoie sur moi, et qui puisse être communiquée à n'importe quel être humain.",
+      "provisionalTranslation": "家族全員が拷問によって死に、自分自身も長期間強制収容所で拷問を受けた男。あるいは16世紀のインディオで、自分の民族全体の完全な絶滅から一人だけ逃れた者。そのような人間たちは、神の慈悲を信じていたとすれば、もはやそれを信じないか、あるいは以前とは全く異なる形でそれを思い描く。私はそのような経験を通ってきていない。しかし私はそれらが存在することを知っている：とすれば、何の違いがあるのか？\n私は神の慈悲について、消えることなく、変わることなく、運命が私に何の出来事を送ろうとも、そしてどんな人間にも伝達できる観念を持つよう努力しなければならない。"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "Cas de contradictoires vrais. Dieu existe, Dieu n'existe pas. Où est le problème ?",
+      "body": "「真の矛盾対（contradictoires vrais）」──スコラ哲学の論理学用語（contradictoria）を逆用する：通常「矛盾対」は一方が真なら他方は偽であるが、ヴェイユは「神が存在する」と「神が存在しない」の両者が「全く確信している（tout à fait sûre）」という様式で同時に真であると主張する。「Où est le problème？（問題はどこにあるのか？）」という修辞的問いが矛盾を問題として解消するのではなく逆説として受け入れる態度を示す。「私の愛が幻想でないことを確信する→神が存在する」という論証：神の存在は客体的命題ではなく、愛の経験の非幻想性から逆算される。「rien de réel ne ressemble à ce que je peux concevoir（現実のものは何も私が思い描けることに似ていない）→神が存在しない」──カントの「思い描けること＝現象」、ヴェイユの「神＝物自体（Ding an sich）」の平行：概念によって表象可能な神はすべて「偽の神」。「Celui qu'il faut aimer est absent」章§1「神は被造物の中に不在の形においてのみ現われることができる」の認識論的展開として§1が機能する。",
+      "targetId": "weil_celui_quil_faut_aimer",
+      "targetParagraphId": 1
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "Il y a deux athéismes dont l'un est une purification de la notion de Dieu.",
+      "body": "「二種類の無神論（deux athéismes）」──無神論を単純に否定せず二分割する：「神の観念の浄化としての無神論」と、おそらく「表象された（偽の）神への単純な否定としての無神論」。前者がここで「浄化（purification）」と呼ばれるもの。「悪の三相（trois aspects）」──悪・浄化（過渡）・より高い善という三段階：ヘーゲル的弁証法（正・反・合）との照応だが、ヴェイユは「合（Aufhebung）」を「人間的理性の自己展開」ではなく「超自然的善」として定義する点で異なる。「Décréation」章§19「種が死なないなら……死なねばならない」──種の死（悪）→解放されたエネルギー（浄化）→新たな結合（より高い善）という同じ三相構造の植物的比喩。「三つの相をよく区別しなければならない（Trois aspects à bien distinguer）」──思考と行為の両面での区別の要請：神学的精確さの要求。",
+      "targetId": "weil_decreation",
+      "targetParagraphId": 19
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "Le faux Dieu qui ressemble en tout au vrai, excepté qu'on ne le touche pas, empêche à jamais d'accéder au vrai.",
+      "body": "「偽の神──触れることができないことを除いてあらゆる点で真の神に似ている──は真の神へのアクセスを永久に妨げる（empêche à jamais d'accéder au vrai）」──「à jamais（永久に）」という時間的絶対性が決定的：偽の神は一時的な障害ではなく構造的な閉塞をもたらす。「触れることができない（on ne le touche pas）」──「Accepter le vide」章§3「神だけが恩寵を作り出せる」との照応：「触れること（toucher）」はヴェイユの認識論において超自然的接触の比喩として機能する──物質的・知的・感情的な把握とは異なる「霊的接触」。「Celui qu'il faut aimer est absent」章§3「これが神秘の中の神秘だ。それに触れるとき（quand on le touche）、人は安全だ」──「触れる」という動詞が両章を結ぶ：真の神には「触れる」ことができ、偽の神には「触れることができない」という逆説的区別。「Croire en un Dieu qui ressemble en tout au vrai, excepté qu'il n'existe pas（存在しないことを除いて真の神に似た神を信じること）」──パラドックスの極限：「存在しない神」への信仰が「偽の神への信仰」より真に近い──存在の不在が「触れることのできなさ」より誠実な態度。",
+      "targetId": "weil_celui_quil_faut_aimer",
+      "targetParagraphId": 3
+    },
+    {
+      "paragraphId": 4,
+      "type": "prosody",
+      "anchor": "Les erreurs de notre époque sont du christianisme sans surnaturel. Le laïcisme en est la cause — et d'abord l'humanisme.",
+      "body": "章全体で最も短い段落──二文のみ。「超自然なきキリスト教（christianisme sans surnaturel）」という定式がヴェイユの文明批判の核心を圧縮する。「世俗主義（laïcisme）」──フランス第三共和国以来の政教分離・公教育の世俗化を指す：宗教から「超自然」を除去し「人間的・社会的」次元のみを残す運動。「まずは人文主義（d'abord l'humanisme）」──ダッシュによる追加：ルネサンス以来の人間中心主義が世俗化の根源的原因として措定される。マルクス「宗教はアヘン」という批判との対比：マルクスは宗教全体を「慰め」として批判するが、ヴェイユは「慰めとしての宗教（§5）」のみを批判し、超自然的次元を持つ宗教を擁護する。この二文段落は「Effacement」章§6「Que je disparaisse（私が消えるように）」と同じ機能を果たす：短い断言として前後の議論の論理的要約が孤立する。",
+      "targetId": "weil_effacement",
+      "targetParagraphId": 6
+    },
+    {
+      "paragraphId": 5,
+      "type": "commentary",
+      "anchor": "La religion en tant que source de consolation est un obstacle à la véritable foi : en ce sens l'athéisme est une purification.",
+      "body": "「慰めの源泉としての宗教は真の信仰への障害（La religion en tant que source de consolation est un obstacle à la véritable foi）」──「Celui qu'il faut aimer est absent」章§3「不幸の中のあらゆる慰めは愛と真理から遠ざける（toute consolation dans le malheur éloigne de l'amour et de la vérité）」の宗教的適用。「慰め（consolation）」の拒否がここでは宗教批判として展開される：宗教が「慰め」として機能する限り、それは「幕の前の神（神の慈悲が現実の苦悩の前にあると信じること）」への信仰となり（前章§8参照）、神の不在という真理を隠蔽する。「Je dois être athée avec la partie de moi-même qui n'est pas faite pour Dieu（神のためにできていない自分自身の部分において無神論者でなければならない）」──魂の二分割：「神のためにできている部分」（超自然的部分）と「できていない部分」（自然的自我）。「Décréation」章§11「自然的能力によって把握されるものはすべて仮説的。超自然的愛だけが定立する」──「神のためにできていない部分（自然的能力）」は神についての正確な認識を持てない：その部分においては無神論が誠実な立場。「Effacement」章§7「Je est caché pour moi（私は私に隠されている）」──「神のためにできている部分」は「幕の背後の魂」と同一の概念。",
+      "targetId": "weil_celui_quil_faut_aimer",
+      "targetParagraphId": 8
+    },
+    {
+      "paragraphId": 6,
+      "type": "commentary",
+      "anchor": "Je n'ai pas passé par de telles choses. Mais je sais qu'elles existent : dès lors, quelle différence ?",
+      "body": "「私はそのような経験を通ってきていない。しかし私はそれらが存在することを知っている：とすれば、何の違いがあるのか？（Je n'ai pas passé par de telles choses. Mais je sais qu'elles existent : dès lors, quelle différence？）」──ヴェイユ思想で最も強烈な一人称的承認のひとつ。強制収容所の拷問・植民地絶滅という極限的afflictionを「自分は経験していない」と認めながら、「それらが存在することを知る」ことで差異を無化する。「dès lors（とすれば）」という論理的接続詞：「存在することを知る」ことが経験と等価になるという認識論的主張──afflictionへの想像的参与が実際の経験と「何の違いもない」。「Cántico espiritual」§20「me hice perdidiza, y fui ganada（自ら迷子になり、得られた）」の「能動的自己喪失」と対照：ヴェイユのここでの命題は「他者の苦悩の知」による自己の苦悩化──受動的共感による脱自。「何の違いがあるのか？（quelle différence？）」という問いが修辞的問いとして使われる：「差異なし」という答えが前提されている。最終文「いかなる人間にも伝達できる（communiquée à n'importe quel être humain）」──普遍的伝達可能性の要請：afflictionのあらゆる形態を経た者に語りかけられる「慈悲の観念」という倫理的課題で章が閉じる。",
+      "targetId": "weil_celui_quil_faut_aimer",
+      "targetParagraphId": 16
+    }
+  ]
+}
