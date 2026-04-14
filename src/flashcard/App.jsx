@@ -145,7 +145,7 @@ const renderClozeText = (text, isFlipped, darkMode) => {
           key={i}
           className={`mx-1 px-2 rounded transition-all duration-300 ${
             isFlipped 
-              ? (darkMode ? 'bg-amber-900/30 text-amber-200' : 'bg-amber-100 text-amber-800')
+              ? (darkMode ? 'bg-[#8a7a5a] text-amber-200' : 'bg-amber-100 text-[#8a7a5a] ')
               : (darkMode ? 'bg-zinc-800 text-transparent select-none' : 'bg-stone-200 text-transparent select-none')
           } border-b ${darkMode ? 'border-zinc-600' : 'border-stone-300'}`}
         >
@@ -201,7 +201,7 @@ export default function FlashcardApp() {
   const settingsBg      = darkMode ? 'bg-[#17140e] border-[#3a3228] shadow-2xl'  : 'bg-[#ede4cc] border-[#c8b480] shadow-2xl';
   const btnSecondary = darkMode
     ? 'bg-zinc-800 border-zinc-700 text-zinc-300 hover:bg-zinc-700' : 'bg-stone-100 border-stone-300 text-stone-600 hover:bg-stone-200';
-  const btnPrimary = darkMode ? 'bg-amber-700 hover:bg-amber-600 text-amber-100' : 'bg-stone-800 hover:bg-stone-700 text-white';
+  const btnPrimary = darkMode ? 'bg-[#8a7a5a]  hover:bg-[#ccbfa5] text-amber-100' : 'bg-stone-800 hover:bg-stone-700 text-white';
 
   // ── ソース選択タブ ─────────────────────────────────────────
   const SourceTab = ({ value, label }) => (
