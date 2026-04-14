@@ -1344,7 +1344,7 @@ export default function App() {
       onClick={() => { setShowToc(v => !v); setShowBookmarks(false); }}
       className={`w-8 h-8 flex items-center justify-center rounded-full transition-colors ${
         showToc
-          ? darkMode ? 'bg-amber-700 text-[#8a7a5a]' : 'bg-stone-800 text-white'
+          ? darkMode ? 'bg-[#ddd0b3] text-[#8a7a5a]' : 'bg-stone-800 text-white'
           : darkMode ? 'bg-zinc-800 hover:bg-zinc-700 text-[#8a7a5a]' : 'bg-stone-100 hover:bg-stone-200 text-stone-600'
       }`}
     >
@@ -1356,7 +1356,7 @@ export default function App() {
       onClick={() => { setShowBookmarks(v => !v); setShowToc(false); }}
       className={`w-8 h-8 flex items-center justify-center rounded-full transition-colors ${
         showBookmarks
-          ? darkMode ? 'bg-amber-700 text-[#8a7a5a]' : 'bg-stone-800 text-white'
+          ? darkMode ? 'bg-[#ddd0b3] text-[#8a7a5a]' : 'bg-stone-800 text-white'
           : darkMode ? 'bg-zinc-800 hover:bg-zinc-700 text-[#8a7a5a]' : 'bg-stone-100 hover:bg-stone-200 text-stone-600'
       }`}
     >
@@ -1368,7 +1368,7 @@ export default function App() {
       onClick={() => setShowSettings(v => !v)}
       className={`w-8 h-8 flex items-center justify-center rounded-full transition-colors ${
         showSettings
-          ? darkMode ? 'bg-amber-700 text-[#8a7a5a]' : 'bg-stone-800 text-white'
+          ? darkMode ? 'bg-[#ddd0b3] text-[#8a7a5a]' : 'bg-stone-800 text-white'
           : darkMode ? 'bg-zinc-800 hover:bg-zinc-700 text-[#8a7a5a]' : 'bg-stone-100 hover:bg-stone-200 text-stone-600'
       }`}
     >
