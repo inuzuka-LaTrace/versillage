@@ -1,0 +1,305 @@
+{
+  "id": "weil_decreation",
+  "title": "La Pesanteur et la Grâce — Décréation",
+  "author": "Simone Weil",
+  "source": "La Pesanteur et la Grâce, Plon, Paris, 1947（死後刊行、編者Gustave Thibon）。底本: Wikisource: https://fr.wikisource.org/wiki/La_Pesanteur_et_la_Grâce/09",
+  "year": "1940–1942頃（ノート執筆）",
+  "firstPublication": "La Pesanteur et la Grâce, Plon, Paris, 1947（死後4年、Gustave Thibon編）",
+  "difficulty": "上級",
+  "category": "weil",
+  "originalLang": "fr-FR",
+  "modernRelevance": "★★★★★",
+  "context": "『重力と恩寵』第9章「脱創造（Décréation）」。ヴェイユ思想の最も中核的な概念を展開する章。「脱創造（Décréation）」とは被造物（créé）から非被造物（incréé）への移行──「破壊（Destruction）」（被造物から無への移行）の「罪深い代用品（ersatz coupable）」と対比される。創造が神の愛の行為であるならば、脱創造は人間の側からの神の愛への応答：存在することへの同意を撤回し、存在しないことへの同意を与えること。この章はヴェイユが自己消滅の哲学的・神学的・実践的次元を最も組織的に論じたテクストであり、「Accepter le vide」章（空虚の受け入れ）と「Beauté」章（美の神学）を結ぶ概念的要とも読める。十字架のヨハネ「Noche oscura」の「霊的否定（negación espiritual）」との思想的連絡が深く、「脱創造」はヨハネの神秘主義的否定神学の哲学的散文への変換として読むことができる。",
+  "keywords": [
+    "脱創造",
+    "décréation",
+    "共創造",
+    "神の物乞い",
+    "無への祈り",
+    "放棄",
+    "逆転",
+    "幕",
+    "ヴェイユ思想",
+    "自己消滅"
+  ],
+  "relatedTexts": [
+    "weil_accepter_le_vide",
+    "weil_pesanteur_beaute",
+    "weil_necessite",
+    "weil_les_astres",
+    "weil_eclair",
+    "juan_de_la_cruz_noche_oscura",
+    "juan_de_la_cruz_cantico_espiritual"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "original": "Décréation : faire passer du créé dans l'incréé.\nDestruction : faire passer du créé dans le néant. Ersatz coupable de la décréation.",
+      "provisionalTranslation": "脱創造：被造物から非被造物へと移行させること。\n破壊：被造物から無へと移行させること。脱創造の罪深い代用品。"
+    },
+    {
+      "id": 2,
+      "original": "La création est un acte d'amour et elle est perpétuelle. À chaque instant notre existence est amour de Dieu pour nous. Mais Dieu ne peut aimer que soi-même.\nSon amour pour nous est amour pour soi à travers nous. Ainsi, lui qui nous donne l'être, il aime en nous le consentement à ne pas être.",
+      "provisionalTranslation": "創造は愛の行為であり、それは永続する。各瞬間に私たちの存在は私たちへの神の愛である。しかし神は自己しか愛することができない。\n私たちへの神の愛は私たちを通じた自己への愛である。このように、存在を私たちに与える神は、存在しないことへの同意を私たちの中に愛する。"
+    },
+    {
+      "id": 3,
+      "original": "Notre existence n'est faite que de son attente, de notre consentement à ne pas exister.",
+      "provisionalTranslation": "私たちの存在は神の待機から、私たちの存在しないことへの同意からのみ作られている。"
+    },
+    {
+      "id": 4,
+      "original": "Perpétuellement il mendie auprès de nous cette existence qu'il nous donne. Il nous la donne pour nous la mendier.",
+      "provisionalTranslation": "神は絶えず私たちに与えるこの存在を私たちに物乞いする。神はそれを私たちに物乞いするために与える。"
+    },
+    {
+      "id": 5,
+      "original": "L'inflexible nécessité, la misère, la détresse, le poids écrasant du besoin et du travail qui épuise, la cruauté, les tortures, la mort violente, la contrainte, la terreur, les maladies — tout cela c'est l'amour divin. C'est Dieu qui par amour se retire de nous afin que nous puissions l'aimer. Car si nous étions exposés au rayonnement direct de son amour, sans la protection de l'espace, du temps et de la matière, nous serions évaporés comme l'eau au soleil ; il n'y aurait pas assez de je en nous pour abandonner le je par amour. La nécessité est l'écran mis entre Dieu et nous pour que nous puissions être. C'est à nous de percer l'écran pour cesser d'être.",
+      "provisionalTranslation": "容赦ない必然性、悲惨、苦悩、必要と疲弊させる労働の押しつぶすような重さ、残酷さ、拷問、暴力的な死、強制、恐怖、病──これらすべては神的な愛である。神は愛によって私たちから身を引き、私たちが神を愛することができるようにする。なぜなら、もし私たちが空間・時間・物質の保護なく、神の愛の直接的な放射にさらされるなら、私たちは太陽の下の水のように蒸発してしまうだろう；愛のために「私」を手放すための十分な「私」が私たちの中に残らないだろう。必然性は神と私たちの間に置かれた幕であり、私たちが存在できるようにするものだ。幕を突き破って存在することを止めるのは私たちの側の課題である。"
+    },
+    {
+      "id": 6,
+      "original": "Il existe une force « déifuge ». Sinon tout serait Dieu.",
+      "provisionalTranslation": "「離神的な」力が存在する。そうでなければすべてが神であろう。"
+    },
+    {
+      "id": 7,
+      "original": "Il a été donné à l'homme une divinité imaginaire pour qu'il puisse s'en dépouiller comme le Christ de sa divinité réelle.",
+      "provisionalTranslation": "人間には想像上の神性が与えられた、キリストが現実の神性を脱ぎ捨てたように、人間もそれを脱ぎ捨てることができるように。"
+    },
+    {
+      "id": 8,
+      "original": "Renoncement. Imitation du renoncement de Dieu dans la création. Dieu renonce — en un sens — à être tout. Nous devons renoncer à être quelque chose. C'est le seul bien pour nous.",
+      "provisionalTranslation": "放棄。創造における神の放棄の模倣。神は──ある意味で──すべてであることを放棄する。私たちは何かであることを放棄しなければならない。それが私たちにとって唯一の善である。"
+    },
+    {
+      "id": 9,
+      "original": "Nous sommes des tonneaux sans fond tant que nous n'avons pas compris que nous avons un fond.",
+      "provisionalTranslation": "私たちは底があることを理解していない限り、底なしの桶である。"
+    },
+    {
+      "id": 10,
+      "original": "Élévation et abaissement. Une femme qui se regarde dans un miroir et se pare ne sent pas la honte de réduire soi, cet être infini qui regarde toutes choses, à un petit espace. De même toutes les fois qu'on élève le moi (le moi social, psychologique, etc.) si haut qu'on l'élève, on se dégrade infiniment en se réduisant à n'être que cela. Quand le moi est abaissé (à moins que l'énergie ne tende à l'élever en désir), on sait qu'on n'est pas cela.\nUne très belle femme qui regarde son image au miroir peut très bien croire qu'elle est cela. Une femme laide sait qu'elle n'est pas cela.",
+      "provisionalTranslation": "高揚と貶下。鏡を見て着飾る女性は、あらゆるものを見るその無限の存在である自己を、小さな空間に縮小することへの恥を感じない。同様に、自我（社会的・心理的な自我など）をどれほど高く高揚させても、それだけであることに自己を縮小することで無限に自己を貶める。自我が貶下されるとき（欲望において自我を高揚させようとエネルギーが働かない限り）、人はそれが自分ではないことを知る。\n鏡に自分の姿を見る非常に美しい女性は、それが自分だと信じることができる。醜い女性はそれが自分ではないことを知っている。"
+    },
+    {
+      "id": 11,
+      "original": "Tout ce qui est saisi par les facultés naturelles est hypothétique. Seul l'amour surnaturel pose. Ainsi nous sommes cocréateurs.\nNous participons à la création du monde en nous décréant nous-mêmes.",
+      "provisionalTranslation": "自然的能力によって把握されるものはすべて仮説的である。超自然的愛だけが定立する。このように私たちは共創造者である。\n私たちは自己を脱創造することによって世界の創造に参与する。"
+    },
+    {
+      "id": 12,
+      "original": "On ne possède que ce à quoi on renonce. Ce à quoi on ne renonce pas nous échappe. En ce sens, on ne peut posséder quoi que ce soit sans passer par Dieu.",
+      "provisionalTranslation": "放棄したものだけを所有する。放棄しないものは私たちから逃げていく。この意味で、神を経ずに何かを所有することはできない。"
+    },
+    {
+      "id": 13,
+      "original": "Communion catholique. Dieu ne s'est pas seulement fait une fois chair, il se fait tous les jours matière pour se donner à l'homme et en être consommé.\nRéciproquement, par la fatigue, le malheur, la mort, l'homme est fait matière et consommé par Dieu. Comment refuser cette réciprocité ?",
+      "provisionalTranslation": "カトリックの聖体拝領。神は一度だけ肉体になったのではなく、毎日物質となって人間に自らを与え、消費されるようにする。\n逆に、疲労・不幸・死によって、人間は物質となり神に消費される。この相互性を拒むことができようか？"
+    },
+    {
+      "id": 14,
+      "original": "Il s'est vidé de sa divinité. Nous devons nous vider de la fausse divinité avec laquelle nous sommes nés.",
+      "provisionalTranslation": "神は自らの神性を空にした。私たちは生まれながらに持つ偽の神性を空にしなければならない。"
+    },
+    {
+      "id": 15,
+      "original": "Une fois qu'on a compris qu'on n'est rien, le but de tous les efforts est de devenir rien. C'est à cette fin qu'on souffre avec acceptation, c'est à cette fin qu'on agit, c'est à cette fin qu'on prie.\nMon Dieu, accordez-moi de devenir rien.\nÀ mesure que je deviens rien, Dieu s'aime à travers moi.",
+      "provisionalTranslation": "自分が無であることを理解したならば、すべての努力の目的は無になることだ。この目的のために受け入れながら苦しみ、この目的のために行動し、この目的のために祈る。\n神よ、私が無になることをお与えください。\n私が無になるにつれて、神は私を通じて自己を愛する。"
+    },
+    {
+      "id": 16,
+      "original": "Ce qui est en bas ressemble à ce qui est en haut. Par là l'esclavage est une image de l'obéissance à Dieu, l'humiliation une image de l'humilité, la nécessité physique une image de la poussée irrésistible de la grâce, l'abandon des saints au jour le jour une image du morcellement du temps chez les criminels et les prostituées, etc.\nÀ ce titre, il faut rechercher ce qui est le plus bas ; à titre d'image.",
+      "provisionalTranslation": "下にあるものは上にあるものに似る。それゆえ奴隷状態は神への服従の似姿であり、屈辱は謙遜の似姿であり、物理的必然は恩寵の抗いがたい力の似姿であり、聖人の日々の委ね身は犯罪者と娼婦の時間の断片化の似姿である、等々。\nこのために、最も低いものを探し求めなければならない；似姿として。"
+    },
+    {
+      "id": 17,
+      "original": "Que ce qui en nous est bas aille vers le bas afin que ce qui est haut puisse aller en haut. Car nous sommes retournés. Nous naissons tels. Rétablir l'ordre, c'est défaire en nous la créature.",
+      "provisionalTranslation": "私たちの中の低いものが下へ向かうように、そうすれば高いものが上へ向かうことができるように。なぜなら私たちは逆転しているから。私たちはそのように生まれる。秩序を回復することは、私たちの中の被造物を解体することである。"
+    },
+    {
+      "id": 18,
+      "original": "Retournement de l'objectif et du subjectif.\nDe même, retournement du positif et du négatif. C'est aussi le sens de la philosophie des Upanishads.\nNous naissons et vivons à contresens, car nous naissons et vivons dans le péché qui est un renversement de la hiérarchie. La première opération est le retournement. La conversion.",
+      "provisionalTranslation": "客観と主観の逆転。\n同様に、肯定と否定の逆転。これはウパニシャッドの哲学の意味でもある。\n私たちは逆方向に生まれ生きる、なぜなら私たちは位階の転覆である罪の中に生まれ生きるからだ。最初の操作は逆転である。回心である。"
+    },
+    {
+      "id": 19,
+      "original": "Si le grain ne meurt… Il doit mourir pour libérer l'énergie qu'il porte en lui afin qu'il s'en forme d'autres combinaisons.\nDe même nous devons mourir pour libérer l'énergie attachée, pour posséder une énergie libre susceptible d'épouser le vrai rapport des choses.",
+      "provisionalTranslation": "もし種が死なないなら……種は自らの中に持つエネルギーを解放するために死なねばならない、そこから他の結合が形成されるために。\n同様に私たちは束縛されたエネルギーを解放するために、物事の真の関係と結婚することができる自由なエネルギーを持つために、死なねばならない。"
+    },
+    {
+      "id": 20,
+      "original": "L'extrême difficulté que j'éprouve souvent à exécuter la moindre action est une faveur qui m'est faite. Car ainsi, avec des actions ordinaires et sans attirer l'attention, je peux couper des racines de l'arbre. Si détaché qu'on soit de l'opinion, les actions extraordinaires enferment un stimulant qu'on ne peut pas en ôter. Ce stimulant est tout à fait absent des actions ordinaires. Trouver une difficulté extraordinaire à faire une action ordinaire est une faveur dont il faut être reconnaissant. Il ne faut pas demander la disparition de cette difficulté ; il faut implorer la grâce d'en faire usage.\nD'une manière générale, ne souhaiter la disparition d'aucune de ses misères, mais la grâce qui les transfigure.",
+      "provisionalTranslation": "最小の行為を実行することにしばしば感じる極度の困難さは、私に与えられた恩寵である。なぜならそのようにして、普通の行為によって注目を集めることなく、私は木の根を切ることができるからだ。どれほど他人の意見から超然としていても、非凡な行為は取り除くことのできない刺激を含んでいる。この刺激は普通の行為には全く存在しない。普通の行為を行うことに非凡な困難を見出すことは感謝すべき恩寵である。この困難の消滅を求めてはならない；それを使用する恩寵を懇願しなければならない。\n一般的に言って、自分の苦悩のいずれの消滅も望まず、それらを変容させる恩寵を望む。"
+    },
+    {
+      "id": 21,
+      "original": "Les souffrances physiques (et les privations) sont souvent pour les hommes courageux une épreuve d'endurance et de force d'âme. Mais il en est un meilleur usage. Quelles ne soient donc pas cela pour moi. Qu'elles soient un témoignage sensible de la misère humaine. Que je les subisse d'une manière entièrement passive. Quoi qu'il arrive, comment pourrais-je jamais trouver le malheur trop grand, puisque la morsure du malheur et l'abaissement auquel il condamne permettent la connaissance de la misère humaine, connaissance qui est la porte de toute sagesse ?",
+      "provisionalTranslation": "肉体的苦しみ（と欠乏）は、勇敢な人間にとってしばしば忍耐と魂の強さの試練である。しかしより良い使い方がある。それらが私にとってそういうものでないように。それらが人間の悲惨の感覚的な証言であるように。私がそれらを完全に受動的な仕方で受けるように。何が起ころうとも、どうして不幸が大きすぎると思えようか、不幸の噛みつきとそれが断罪する貶下が人間の悲惨の知を可能にするのだから、そしてその知はすべての知恵への門である。"
+    },
+    {
+      "id": 22,
+      "original": "Mais le plaisir, le bonheur, la prospérité, si on sait y reconnaître ce qui vient du dehors, (du hasard, des circonstances, etc.) témoignent aussi de la misère humaine. En faire aussi cet usage. Et même la grâce, en tant que phénomène sensible…\nÊtre rien pour être à sa vraie place dans le tout.",
+      "provisionalTranslation": "しかし喜び・幸福・繁栄も、外から（偶然・状況等から）来るものを認識できるなら、人間の悲惨を証言する。これらにも同じ使い方をすること。そして恩寵でさえ、感覚的現象として……\n全体の中の真の場所にあるために無であること。"
+    },
+    {
+      "id": 23,
+      "original": "Le renoncement exige qu'on passe par des angoisses équivalentes à celles que causerait en réalité la perte de tous les êtres chers et de tous les biens, y compris les facultés et acquisitions dans l'ordre de l'intelligence et du caractère, les opinions et les croyances sur ce qui est bien et ce qui est stable, etc. Et tout cela il ne faut pas se l'ôter soi-même, mais le perdre — comme Job —. Mais l'énergie ainsi coupée de son objet ne doit pas être gaspillée en oscillations, dégradée. L'angoisse doit donc être plus grande encore que dans le malheur réel, elle ne doit pas être morcelée au long du temps ni dirigée vers une espérance.",
+      "provisionalTranslation": "放棄は、愛するすべての者とすべての財の喪失が現実に引き起こすであろう苦悩と等しい苦悩を通過することを要求する──知性と品性の秩序における能力と獲得物、善と安定についての意見と信念なども含む。そしてこれらすべてを自ら奪ってはならず、失わなければならない──ヨブのように──。しかしそのように対象から切り離されたエネルギーは動揺の中で浪費され、堕落してはならない。苦悩は現実の不幸においてよりもさらに大きくなければならず、時間の中で断片化されても希望へと向けられてもならない。"
+    },
+    {
+      "id": 24,
+      "original": "Quand la passion de l'amour va jusqu'à l'énergie végétative, alors on a des cas comme Phèdre, Arnolphe, etc. « Et je sens là dedans qu'il faudra que je crève… »\nHippolyte est vraiment plus nécessaire à la vie de Phèdre, au sens le plus littéral, que la nourriture.\nPour que l'amour de Dieu pénètre aussi bas, il faut que la nature ait subi la dernière violence. Job, croix…\nL'amour de Phèdre, d'Arnolphe est impur. Un amour qui descendrait aussi bas et qui serait pur…\nDevenir rien jusqu'au niveau végétatif ; c'est alors que Dieu devient du pain.",
+      "provisionalTranslation": "愛の情念が植物的エネルギーにまで達するとき、フェードルやアルノルフのような場合が生じる。「そして私はその中で、破裂しなければならないと感じる……」\nイポリットはフェードルの命にとって、最も文字通りの意味で、食料よりも真に必要である。\n神への愛がそれほど低いところまで浸透するためには、自然が究極の暴力を被っていなければならない。ヨブ、十字架……\nフェードル・アルノルフの愛は不純である。同じほど低く降り、しかし純粋であるような愛……\n植物的レベルまで無になること；そのときに神はパンになる。"
+    },
+    {
+      "id": 25,
+      "original": "Si nous nous considérons à un moment déterminé — l'instant présent, coupé du passé et de l'avenir — nous sommes innocents. Nous ne pouvons être à cet instant que ce que nous sommes : tout progrès implique une durée. Il est dans l'ordre du monde, à cet instant, que nous soyons tels.\nIsoler ainsi un instant implique le pardon. Mais cet isolement est détachement.",
+      "provisionalTranslation": "私たちが確定した瞬間──過去と未来から切り離された現在の瞬間──において自分自身を考察するとき、私たちは無垢である。その瞬間に私たちは自分たちであるものでしかあることができない：すべての進歩は持続を含意する。その瞬間に私たちがそうであることは世界の秩序の中にある。\nこのように一瞬間を切り離すことは赦しを含意する。しかしこの切り離しは超然とした態度である。"
+    },
+    {
+      "id": 26,
+      "original": "Il n'y a que deux instants de nudité et de pureté parfaites dans la vie humaine : la naissance et la mort. On ne peut adorer Dieu sous la forme humaine sans souiller la divinité que comme nouveau-né et comme agonisant.",
+      "provisionalTranslation": "人間の生において完全な裸と純粋さの瞬間は二つしかない：誕生と死。神性を汚すことなく人間の形において神を崇めることができるのは、新生児としてと臨死者としてだけである。"
+    },
+    {
+      "id": 27,
+      "original": "Mort. État instantané, sans passé ni avenir. Indispensable pour l'accès à l'éternité.",
+      "provisionalTranslation": "死。過去も未来もない瞬間的な状態。永遠へのアクセスに不可欠。"
+    },
+    {
+      "id": 28,
+      "original": "Si on trouve la plénitude de la joie dans la pensée que Dieu est, il faut trouver la même plénitude dans la connaissance que soi-même on n'est pas, car c'est la même pensée. Et cette connaissance n'est étendue à la sensibilité que par la souffrance et la mort.",
+      "provisionalTranslation": "神が存在するという思いに喜びの充満を見出すなら、自分自身が存在しないという知においても同じ充満を見出さなければならない、なぜならそれは同じ思いだからだ。そしてこの知は苦しみと死によってのみ感性にまで拡張される。"
+    },
+    {
+      "id": 29,
+      "original": "Joie en Dieu. Il y a réellement joie parfaite et infinie en Dieu. Ma participation ne peut rien ajouter, ma non-participation rien ôter à la réalité de cette joie parfaite et infinie. Dès lors, quelle importance que je doive y avoir part ou non ? Une importance nulle.",
+      "provisionalTranslation": "神における喜び。神の中に本当に完全で無限の喜びが存在する。私の参与はこの完全で無限の喜びの現実に何も加えられず、私の不参与は何も奪えない。とすれば、私が参与しなければならないかどうかはどんな重要性を持つのか？重要性はゼロである。"
+    },
+    {
+      "id": 30,
+      "original": "Ceux qui désirent leur salut ne croient pas vraiment à la réalité de la joie en Dieu.\nLa croyance à l'immortalité est nuisible parce qu'il n'est pas en notre pouvoir de nous représenter l'âme comme vraiment incorporelle. Ainsi cette croyance est en fait croyance au prolongement de la vie, et elle ôte l'usage de la mort.",
+      "provisionalTranslation": "自分の救いを望む者は神の喜びの現実を本当には信じていない。\n不死への信仰は有害である、なぜなら魂を真に非肉体的なものとして表象することは私たちの力の及ばないことだからだ。したがってこの信仰は実際には生命の延長への信仰であり、死の使用を奪う。"
+    },
+    {
+      "id": 31,
+      "original": "Présence de Dieu. Cela doit s'entendre de deux façons. Pour autant qu'il est créateur, Dieu est présent en toute chose qui existe, dès lors qu'elle existe. La présence pour laquelle Dieu a besoin de la coopération de la créature, c'est la présence de Dieu, non pas pour autant qu'il est le Créateur, mais pour autant qu'il est l'Esprit. La première présence est la présence de création. La seconde est la présence de dé-création. (Celui qui nous a créés sans nous ne nous sauvera pas sans nous. Saint Augustin).",
+      "provisionalTranslation": "神の臨在。これは二通りに理解されなければならない。神は創造者である限りにおいて、存在するすべてのものの中に、存在する限りにおいて現われている。神が被造物の協力を必要とする臨在は、神が創造者である限りにおいてではなく、霊である限りにおいての神の臨在である。最初の臨在は創造の臨在である。第二の臨在は脱創造の臨在である。（私たちなしに私たちを創造された方は、私たちなしに私たちを救わない。聖アウグスティヌス。）"
+    },
+    {
+      "id": 32,
+      "original": "Dieu n'a pu créer qu'en se cachant. Autrement il n'y aurait que lui.\nLa sainteté doit donc aussi être cachée, même à la conscience dans une certaine mesure. Et elle doit l'être dans le monde.",
+      "provisionalTranslation": "神は隠れることによってのみ創造することができた。そうでなければ神だけが存在したであろう。\nしたがって聖性もまた隠れていなければならない、ある程度において意識に対しても。そして世界においても隠れていなければならない。"
+    },
+    {
+      "id": 33,
+      "original": "Être et avoir. — L'homme n'a pas d'être, il n'a que de l'avoir. L'être de l'homme est situé derrière le rideau, du côté du surnaturel. Ce qu'il peut connaître de lui-même c'est seulement ce qui lui est prêté par les circonstances. Je est caché pour moi (et pour autrui) ; il est du côté de Dieu, il est en Dieu, il est Dieu. Être orgueilleux, c'est oublier qu'on est Dieu… Le rideau, c'est la misère humaine : il y avait un rideau même pour le Christ.",
+      "provisionalTranslation": "存在と持有。──人間は存在（être）を持たず、持有（avoir）しか持たない。人間の存在は幕の背後、超自然の側にある。人間が自分自身について知ることができるのは、状況によって貸し出されたものだけである。「私」は私に（そして他者に）隠されている；それは神の側にあり、神の中にあり、神である。傲慢であることは、自分が神であることを忘れることだ……幕とは人間の悲惨である：キリストにさえ幕があった。"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "Décréation : faire passer du créé dans l'incréé.\nDestruction : faire passer du créé dans le néant. Ersatz coupable de la décréation.",
+      "body": "章の冒頭二文が「脱創造（Décréation）」と「破壊（Destruction）」の定義をコロン構文で鋭く対比する。「非被造物（incréé）」──神・永遠・絶対の領域──への移行と、「無（néant）」への移行の差異がヴェイユ思想の核心的区別。「ersatz coupable（罪深い代用品）」──自殺・虚無主義・絶望を「破壊」として脱創造の「代用品」に位置づける：形式上は似ているが目的と方向が正反対。ブランショ『文学の空間』（L'Espace littéraire, 1955）での「死の二重性」論：「本質的な死（mort essentielle）」と「経験的な死」の区別──前者が脱創造に、後者が破壊に対応する構造的平行。「Accepter le vide」章の「空虚と暗夜」がこの「脱創造」概念の前段階的提示として位置づけられる。",
+      "targetId": "weil_accepter_le_vide",
+      "targetParagraphId": 1
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "La création est un acte d'amour et elle est perpétuelle. À chaque instant notre existence est amour de Dieu pour nous. Mais Dieu ne peut aimer que soi-même.",
+      "body": "「神は自己しか愛することができない（Dieu ne peut aimer que soi-même）」──新プラトン主義的命題：神の愛は自己愛（amor sui）であり、被造物への愛は自己愛の延長として成立する。トマス・アクィナス『神学大全』「神は自己を第一に愛し、他のものをそれ自体のためではなく神への関係において愛する」の変奏。「私たちへの愛は私たちを通じた自己への愛（amour pour soi à travers nous）」──「を通じて（à travers）」という前置詞が人間を媒介として位置づける：人間は神の自己愛の通路。ヴェイユ独自の転覆：「愛する」の目的語が「存在しないことへの同意（consentement à ne pas être）」──神が愛するのは私たちの「存在」ではなく私たちの「自己消滅への同意」。"
+    },
+    {
+      "paragraphId": 4,
+      "type": "commentary",
+      "anchor": "Perpétuellement il mendie auprès de nous cette existence qu'il nous donne. Il nous la donne pour nous la mendier.",
+      "body": "「神は絶えず物乞いする（Perpétuellement il mendie）」──神を「物乞い（mendiant）」とする大胆な転倒：全能の神が人間に存在の自発的放棄を「物乞い」する。この命題はヴェイユ思想の最も挑発的な定式の一つ。「与えるために物乞いする（la donne pour nous la mendier）」──循環的逆説：神は存在を与えるが、その目的はその存在を物乞いして取り返すことにある。ブランショ『無限の対話』（L'Entretien infini, 1969）での「求める声（la voix qui demande）」：絶対者は命令せず求める──ヴェイユの「物乞いする神」と構造的に共鳴する。「Les Astres」詩篇の「Puisqu'il le faut（そうしなければならないから）」という必然性と、ここの「物乞い」の柔らかさの対比：必然性と懇願の両面が神の要求の二相。",
+      "targetId": "weil_les_astres",
+      "targetParagraphId": 1
+    },
+    {
+      "paragraphId": 5,
+      "type": "commentary",
+      "anchor": "L'inflexible nécessité, la misère, la détresse, le poids écrasant du besoin et du travail qui épuise, la cruauté, les tortures, la mort violente, la contrainte, la terreur, les maladies — tout cela c'est l'amour divin.",
+      "body": "§5がヴェイユ思想の最もラディカルな命題を含む──苦悩・拷問・死・恐怖・病のすべてが「神的な愛（l'amour divin）」として定義される。これはサディズム的神学への批判（ヴォルテール『カンディード』のリスボン地震論を想起）を正面から受けながら、逆転によって答える：神の愛の直接的放射は蒸発をもたらすほど強大であり、必然性・苦悩はその過剰な愛から人間を保護する「幕（écran）」として機能する。「La nécessité est l'écran（必然性は幕）」──「Nécessité」詩篇タイトルとの照応：宇宙的必然性が神と人間の間の保護的隔壁として再定義される。「幕を突き破ること（percer l'écran）」が脱創造の実践的定義：保護的幕（存在・自我・必然性）を自ら突き破って「存在しないこと」へ移行する。",
+      "targetId": "weil_necessite"
+    },
+    {
+      "paragraphId": 7,
+      "type": "commentary",
+      "anchor": "Il a été donné à l'homme une divinité imaginaire pour qu'il puisse s'en dépouiller comme le Christ de sa divinité réelle.",
+      "body": "「キリストが現実の神性を脱ぎ捨てたように（comme le Christ de sa divinité réelle）」──キリストの「ケノーシス（kenōsis／自己空化）」論の哲学的変換。パウロ書簡フィリピ2:7「キリストは神の形でありながら、神と等しいことに固執せず、自らを空にした（ékénōsen）」の解釈。ヴェイユ独自の転覆：人間の「神性」は「想像上の（imaginaire）」もの──実体なき虚構の自我の膨張──であり、キリストの「現実の神性」の脱棄の模倣として人間も自己の虚構的神性を脱ぎ捨てる。「Il a été donné（与えられた）」という受動態の非人称構文──誰が与えたかを曖昧にする：これは神の配慮か、それとも人間の堕落（原罪）か。「Cántico espiritual」§18「y yo le di de hecho / a mí, sin dejar cosa（自分自身を何も残さずに与えた）」のヨハネ的自己贈与との照応。",
+      "targetId": "juan_de_la_cruz_cantico_espiritual",
+      "targetParagraphId": 18
+    },
+    {
+      "paragraphId": 11,
+      "type": "commentary",
+      "anchor": "Nous participons à la création du monde en nous décréant nous-mêmes.",
+      "body": "「私たちは自己を脱創造することによって世界の創造に参与する（Nous participons à la création du monde en nous décréant nous-mêmes）」──章全体の神学的核心命題。脱創造が単なる自己消滅ではなく「共創造（cocréation）」として定義される逆説：自分を消すことが世界の創造への参与となる。「Tout ce qui est saisi par les facultés naturelles est hypothétique. Seul l'amour surnaturel pose（自然的能力によって把握されるものはすべて仮説的。超自然的愛だけが定立する）」──カントの認識論（感性・悟性の能力による現象の構成）の神秘主義的変換：自然的認識能力は「仮説的」（超越論的幻象）であり、超自然的愛のみが実在（Dieu）を「定立（pose）」する。ブランショ『来たるべき書物』（Le Livre à venir, 1959）での「作品を創ることと自己を解体すること」の同一性：詩人は作品を創ることで自己を消す──ヴェイユの「共創造」の文学的等価物。"
+    },
+    {
+      "paragraphId": 14,
+      "type": "commentary",
+      "anchor": "Il s'est vidé de sa divinité. Nous devons nous vider de la fausse divinité avec laquelle nous sommes nés.",
+      "body": "「神は自らの神性を空にした（Il s'est vidé de sa divinité）」──ケノーシス論の最も簡潔な定式。動詞「se vider（空にする）」が能動再帰形で使われることで、神の自己空化が能動的行為として強調される。「私たちは偽の神性を空にしなければならない（nous devons nous vider de la fausse divinité）」──神の「現実の神性の空化」の模倣として人間の「偽の神性の空化」が要求される：構造的平行によって要求が根拠づけられる。「Accepter le vide」章「恩寵が入れるのはそれを受け取る空虚がある場所だけ（elle ne peut entrer que là où il y a un vide pour la recevoir）」──「空虚」（vide）を創ることとしての「空にすること（se vider）」の対応。「Noche oscura」の「感覚と霊性の否定（negación）」がここでは「偽の神性を空にすること」として哲学的に再定式化されている。",
+      "targetId": "weil_accepter_le_vide",
+      "targetParagraphId": 1
+    },
+    {
+      "paragraphId": 15,
+      "type": "prosody",
+      "anchor": "Mon Dieu, accordez-moi de devenir rien.\nÀ mesure que je deviens rien, Dieu s'aime à travers moi.",
+      "body": "二文の構造的対：「神よ、私が無になることをお与えください（Mon Dieu, accordez-moi de devenir rien）」という祈りの文と、「私が無になるにつれて、神は私を通じて自己を愛する（À mesure que je deviens rien, Dieu s'aime à travers moi）」という神学的帰結。祈りの文が散文の中に唐突に現れることで、論述から実践への転換を刻印する。「devenir rien（無になる）」──「rien（無）」は否定語であると同時に名詞（「無」）として使われる：文法的な否定が存在論的カテゴリになる。「à mesure que（……につれて）」という比例的接続詞：無への漸進的接近と神の愛の媒介としての自己の出現の比例関係。この二文が「Cántico espiritual」§20「me hice perdidiza, y fui ganada（自ら迷子になり、得られた）」のヨハネ的逆転の哲学的散文として読める。",
+      "targetId": "juan_de_la_cruz_cantico_espiritual",
+      "targetParagraphId": 20
+    },
+    {
+      "paragraphId": 16,
+      "type": "commentary",
+      "anchor": "Ce qui est en bas ressemble à ce qui est en haut.",
+      "body": "「下にあるものは上にあるものに似る（Ce qui est en bas ressemble à ce qui est en haut）」──ヘルメス文書『エメラルド板（Tabula Smaragdina）』「上にあるものは下にあるものの如く、下にあるものは上にあるものの如し（Quod est superius est sicut quod est inferius）」の直接引用・変奏。ヴェイユが錬金術的・ヘルメス主義的伝統をキリスト教神秘主義に接続する稀な箇所。「奴隷状態は神への服従の似姿（l'esclavage est une image de l'obéissance à Dieu）」──ヴェイユの工場労働経験（1934–35）の神学的昇華：最も屈辱的な労働が神への服従の「似姿（image）」として価値を得る。「最も低いものを探し求めなければならない（il faut rechercher ce qui est le plus bas）」──「Accepter le vide」章の「空虚を受け入れること」が、ここでは「最も低い場所を求めること」として具体化される。"
+    },
+    {
+      "paragraphId": 18,
+      "type": "commentary",
+      "anchor": "La première opération est le retournement. La conversion.",
+      "body": "「最初の操作は逆転である。回心である（La première opération est le retournement. La conversion）」──二語の完全な同一視。「逆転（retournement）」という物理的・空間的語と「回心（conversion）」という宗教的語が同一視されることで、宗教的転換が認識論的・存在論的逆転として定義される。「客観と主観の逆転（Retournement de l'objectif et du subjectif）」「肯定と否定の逆転（du positif et du négatif）」──ヴェイユの逆転論はカントの「コペルニクス的転回」の神秘主義的変換：「私が世界を見る」から「世界が私を通じて見られる」へ。ウパニシャッドへの参照：「これはウパニシャッドの哲学の意味でもある（C'est aussi le sens de la philosophie des Upanishads）」──ヴェイユの思想的射程の普遍性の主張。"
+    },
+    {
+      "paragraphId": 22,
+      "type": "commentary",
+      "anchor": "Être rien pour être à sa vraie place dans le tout.",
+      "body": "「全体の中の真の場所にあるために無であること（Être rien pour être à sa vraie place dans le tout）」──§22の末尾の一文が章全体の目的論を最短形式で定式化する。「rien（無）」と「tout（全体）」の対：「無」になることが「全体」の中の「真の場所（vraie place）」への参入条件となる。「真の場所（vraie place）」──プラトン的宇宙論（各存在はその本性に固有の「場所」を持つ）のヴェイユ的変換：人間の「真の場所」は「無」であること。「喜び・幸福・繁栄」もまた人間の悲惨の証言として使用できる（§22前半）──afflictionのみならず幸福もまた脱創造の素材となるという拡張。「Accepter le vide」§5「停止の瞬間、観想……精神の空虚」と同じ「無（rien）」への到達目標の共有。",
+      "targetId": "weil_accepter_le_vide",
+      "targetParagraphId": 5
+    },
+    {
+      "paragraphId": 24,
+      "type": "commentary",
+      "anchor": "Devenir rien jusqu'au niveau végétatif ; c'est alors que Dieu devient du pain.",
+      "body": "「植物的レベルまで無になること；そのときに神はパンになる（Devenir rien jusqu'au niveau végétatif ; c'est alors que Dieu devient du pain）」──§24の最終文が「脱創造」の生物学的・聖体的次元を定式化する。「植物的レベル（niveau végétatif）」──自律神経・本能・生存本能のレベルまで自己消滅が及ぶこと：単なる知的・意志的放棄ではなく、身体の最深部まで貫く脱創造。「神はパンになる（Dieu devient du pain）」──聖体（Eucharistie）の神学：神が物質（パン）に変容する聖体の論理が、魂が植物的無に変容する脱創造と鏡像関係を構成する。「聖体拝領」§13（神が物質となり消費される）の逆方向への運動：§13が神→物質への変容を語るのに対し、§24は人間→無への変容を語る。ラシーヌ『フェードル』への言及：「Hyppolyte est vraiment plus nécessaire à la vie de Phèdre…」──フェードルの情念が「植物的エネルギー」まで達した愛の純粋なもの（神への愛）の世俗的等価物として読まれる。",
+      "targetId": "weil_pesanteur_beaute"
+    },
+    {
+      "paragraphId": 31,
+      "type": "commentary",
+      "anchor": "La première présence est la présence de création. La seconde est la présence de dé-création.",
+      "body": "「第一の臨在は創造の臨在。第二の臨在は脱創造の臨在（La première présence est la présence de création. La seconde est la présence de dé-création）」──章全体のタイトル概念「脱創造」が、神論において「創造」と対をなす第二の神の様式として体系的に位置づけられる。「創造者としての神」と「霊（Esprit）としての神」の二区別：前者は存在するすべてに自動的に現われ、後者は被造物の「協力（coopération）」を必要とする。「Celui qui nous a créés sans nous ne nous sauvera pas sans nous（聖アウグスティヌス）」──アウグスティヌス引用による権威付け：神は一方的に創造したが、救い（脱創造の完成）は人間の協力（自由な同意）を必要とする。「Noche oscura」副題「霊的否定の道（el camino de la negación espiritual）」──ヨハネの「霊的否定」がここでの「霊（Esprit）としての神の臨在」条件の詩的形象。",
+      "targetId": "juan_de_la_cruz_noche_oscura",
+      "targetParagraphId": 0
+    },
+    {
+      "paragraphId": 33,
+      "type": "commentary",
+      "anchor": "Je est caché pour moi (et pour autrui) ; il est du côté de Dieu, il est en Dieu, il est Dieu.",
+      "body": "「『私』は私に隠されている；それは神の側にあり、神の中にあり、神である（Je est caché pour moi ; il est du côté de Dieu, il est en Dieu, il est Dieu）」──文法的主語「Je（私）」を名詞として使用する（大文字・イタリック）哲学的操作。サルトルの「自己意識（conscience de soi）」論との対比：サルトルにとって「私（Je）」は反省的意識によって構成されるが、ヴェイユにとって「私」は神の側にあり意識から隠されている。「Être et avoir（存在と持有）」──マルセル・ガブリエル『存在と持有』（Être et Avoir, 1935）の問題系を神秘主義的方向へ転換：「持有（avoir）」は経験的・偶然的なものであり、「存在（être）」は神に属する超越的なものとして区別される。「Le rideau, c'est la misère humaine（幕とは人間の悲惨）」──§5の「La nécessité est l'écran（必然性は幕）」の反復・変奏：章の冒頭（§5）と末尾（§33）が「幕（écran/rideau）」によって構造的に括られる。章が「幕」イメージによって円環を形成する。",
+      "targetId": "weil_accepter_le_vide",
+      "targetParagraphId": 5
+    }
+  ]
+}
