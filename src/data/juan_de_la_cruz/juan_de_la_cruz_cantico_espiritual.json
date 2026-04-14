@@ -1,0 +1,403 @@
+{
+  "id": "juan_de_la_cruz_cantico_espiritual",
+  "title": "Cántico espiritual",
+  "author": "Juan de la Cruz",
+  "source": "Obras espirituales que encaminan a una alma a la perfecta unión con Dios, Francisco de Orche, Barcelona, 1618 Wikisource: https://es.wikisource.org/wiki/Cántico_espiritual",
+  "year": "1577–1586",
+  "firstPublication": "Obras espirituales que encaminan a una alma a la perfecta unión con Dios, Francisco de Orche, Barcelona, 1618",
+  "difficulty": "上級",
+  "category": "juan_de_la_cruz",
+  "originalLang": "es-ES",
+  "modernRelevance": "★★★★★",
+  "context": "十字架の聖ヨハネ（Juan de la Cruz, 1542–1591）最長の詩篇。全39連・各5行、lira詩形（7・11・7・7・11音節）。雅歌（Cantar de los Cantares）の構造を神秘主義的枠組みに移植した対話詩──魂（Esposa／花嫁）と神（Esposo／花婿）の探求・発見・合一・完成という四段階の劇的構造を持つ。1577年のトレドの修道院幽閉中に詩の原型が着想され、後に散文注解書として展開された。詩篇はヨハネの三作品（Noche oscura・Llama de amor viva・Cántico espiritual）の中で最も広大な詩的宇宙を構成し、自然界（山・谷・川・島・林）が神の美の痕跡として読まれる「被造物の神学」を展開する。バタイユ『エロティシズム』（L'Érotisme, 1957）は神秘主義的合一を「存在の連続性への回帰」として論じ、ヨハネの詩篇を孤立した自己が死（個体の溶解）を経て連続性に参与する最高形態として位置づける。ブランショ『文学の空間』（L'Espace littéraire, 1955）は「本質的孤独」の空間において作品が作者を超えて「語り始める」経験を論じるが、§1「あなたはどこに隠れたのか」という問いから始まるこの詩篇の探求構造は、その「不在の現前」の詩的先行形として読める。オクタビオ・パス『弓と竪琴』（El arco y la lira, 1956）はヨハネの詩篇を「スペイン語詩の頂点」と位置づけ、その「音楽的沈黙（silencio musical）」の次元を分析する。",
+  "keywords": [
+    "霊的頌歌",
+    "花嫁と花婿",
+    "雅歌",
+    "神の探求",
+    "被造物の神学",
+    "神の痕跡",
+    "音楽的沈黙",
+    "バタイユ",
+    "存在の連続性",
+    "神との合一"
+  ],
+  "relatedTexts": [
+    "juan_de_la_cruz_noche_oscura",
+    "juan_de_la_cruz_llama_de_amor_viva",
+    "weil_accepter_le_vide",
+    "weil_pesanteur_beaute",
+    "weil_les_astres"
+  ],
+  "paragraphs": [
+    {
+      "id": 0,
+      "verses": "preface",
+      "speaker": "—",
+      "original": "Canciones entre el alma y el Esposo",
+      "provisionalTranslation": "魂と花婿の間の歌"
+    },
+    {
+      "id": 1,
+      "verses": "v.1–5",
+      "speaker": "Esposa",
+      "original": "¿Adónde te escondiste,\nAmado, y me dejaste con gemido?\nComo el ciervo huiste,\nhabiéndome herido;\nsalí tras ti clamando, y eras ido.",
+      "provisionalTranslation": "あなたはどこに隠れたのか、\n愛する方よ、そして私を嘆きの中に残したのか？\n鹿のように逃げてしまった、\n私を傷つけながら；\n私はあなたを呼び叫びながら後を追ったが、あなたはいなかった。"
+    },
+    {
+      "id": 2,
+      "verses": "v.6–10",
+      "speaker": "Esposa",
+      "original": "Pastores, los que fuerdes\nallá por las majadas al otero:\nsi por ventura vierdes\naquel que yo más quiero,\ndecilde que adolezco, peno y muero.",
+      "provisionalTranslation": "牧人たちよ、牧場を経て\nあの丘へと行く者たちよ：\nもし縁あって\n私が最も愛するあの方を見かけたなら、\nお伝えください、私は病み、苦しみ、死んでいると。"
+    },
+    {
+      "id": 3,
+      "verses": "v.11–15",
+      "speaker": "Esposa",
+      "original": "Buscando mis amores,\niré por esos montes y riberas;\nni cogeré las flores,\nni temeré las fieras,\ny pasaré los fuertes y fronteras.",
+      "provisionalTranslation": "私の愛する方を探して、\n私はあの山々と川辺を行く；\n花を摘むこともなく、\n野獣を恐れることもなく、\n砦と国境を越えていく。"
+    },
+    {
+      "id": 4,
+      "verses": "v.16–20",
+      "speaker": "Esposa",
+      "original": "¡Oh bosques y espesuras,\nplantadas por la mano del Amado!\n¡Oh prado de verduras,\nde flores esmaltado!\nDecid si por vosotros ha pasado.",
+      "provisionalTranslation": "ああ、森よ、茂みよ、\n愛する方の手によって植えられた！\nああ、緑の草原よ、\n花で飾られた！\nお伝えください、あの方があなたたちの間を通ったかどうかを。"
+    },
+    {
+      "id": 5,
+      "verses": "v.21–25",
+      "speaker": "criaturas",
+      "original": "Mil gracias derramando\npasó por estos sotos con presura,\ne, yéndolos mirando,\ncon sola su figura\nvestidos los dejó de hermosura.",
+      "provisionalTranslation": "千の恵みを撒き散らしながら\nあの方はこれらの木立を足早に通り過ぎた、\nそして、それらを見ながら行き、\nただその姿だけで\nそれらを美しさで装わせた。"
+    },
+    {
+      "id": 6,
+      "verses": "v.26–30",
+      "speaker": "Esposa",
+      "original": "¡Ay, quién podrá sanarme!\nAcaba de entregarte ya de vero:\nno quieras enviarme\nde hoy más ya mensajero,\nque no saben decirme lo que quiero.",
+      "provisionalTranslation": "ああ、誰が私を癒してくれるのか！\n今こそ本当に自らを渡してくれ：\nもうこれ以上\n使者を送ろうとするな、\n彼らは私が望むことを伝える術を知らないから。"
+    },
+    {
+      "id": 7,
+      "verses": "v.31–35",
+      "speaker": "Esposa",
+      "original": "Y todos cuantos vagan\nde ti me van mil gracias refiriendo,\ny todos más me llagan,\ny déjame muriendo\nun no sé qué que quedan balbuciendo.",
+      "provisionalTranslation": "そして彷徨うすべての者たちが\nあなたについて千の恵みを私に告げながら、\nそして皆がよりいっそう私を傷つけ、\n私を死にかけのまま残す、\n彼らが口ごもりながら残す何とも言えない何かが。"
+    },
+    {
+      "id": 8,
+      "verses": "v.36–40",
+      "speaker": "Esposa",
+      "original": "Mas ¿cómo perseveras,\n¡oh vida!, no viviendo donde vives,\ny haciendo porque mueras\nlas flechas que recibes\nde lo que del Amado en ti concibes?",
+      "provisionalTranslation": "しかし、どうして持ちこたえるのか、\nああ、命よ！あなたが生きている場所に生きていないのに、\nそして死ぬ原因を作りながら、\nあなたが受ける矢を、\n愛する方についてあなたの中に宿る想いから。"
+    },
+    {
+      "id": 9,
+      "verses": "v.41–45",
+      "speaker": "Esposa",
+      "original": "¿Por qué, pues has llagado\naqueste corazón, no le sanaste?\nY, pues me le has robado,\n¿por qué así le dejaste,\ny no tomas el robo que robaste?",
+      "provisionalTranslation": "なぜ、この心を傷つけておきながら、\n癒してはくれないのか？\nそして、あなたがそれを奪ってしまったのに、\nなぜそのように放置したのか、\nそして、奪い去った盗みを取り返しに来ないのか？"
+    },
+    {
+      "id": 10,
+      "verses": "v.46–50",
+      "speaker": "Esposa",
+      "original": "Apaga mis enojos,\npues que ninguno basta a deshacellos,\ny véante mis ojos,\npues eres lumbre dellos,\ny sólo para ti quiero tenellos.",
+      "provisionalTranslation": "私の怒りを鎮めておくれ、\n誰もそれを解くことができないから、\nそして私の目があなたを見るようにしておくれ、\nあなたはその光であるのだから、\nただあなたのためだけに、私はそれを持っていたい。"
+    },
+    {
+      "id": 11,
+      "verses": "v.51–55",
+      "speaker": "Esposa",
+      "original": "¡Oh cristalina fuente,\nsi en esos tus semblantes plateados\nformases de repente\nlos ojos deseados\nque tengo en mis entrañas dibujados!",
+      "provisionalTranslation": "ああ、水晶の泉よ、\nもし、あなたの銀色に輝く面に\n突然に形作るなら\n待ち望んだあの目を\n私の奥底に描かれているあの目を！"
+    },
+    {
+      "id": 12,
+      "verses": "v.56–61",
+      "speaker": "Esposa／Esposo",
+      "original": "¡Apártalos, Amado,\nque voy de vuelo!\n\nVuélvete, paloma,\nque el ciervo vulnerado\npor el otero asoma\nal aire de tu vuelo, y fresco toma.",
+      "provisionalTranslation": "それらを遠ざけてください、愛する方よ、\n私は飛んでいってしまいます！\n\n戻っておいで、鳩よ、\n傷ついた鹿が\n丘の向こうに現れ、\nあなたの飛翔の風に、爽やかさを取り込んでいるから。"
+    },
+    {
+      "id": 13,
+      "verses": "v.62–66",
+      "speaker": "Esposa",
+      "original": "Mi Amado, las montañas,\nlos valles solitarios nemorosos,\nlas ínsulas extrañas,\nlos ríos sonorosos,\nel silbo de los aires amorosos,",
+      "provisionalTranslation": "私の愛する方は、山々、\n木々に満ちた孤独な谷々、\n見知らぬ島々、\n響き渡る川々、\n愛情に満ちた風のさやかな音、"
+    },
+    {
+      "id": 14,
+      "verses": "v.67–71",
+      "speaker": "Esposa",
+      "original": "la noche sosegada\nen par de los levantes del aurora,\nla música callada,\nla soledad sonora,\nla cena que recrea y enamora.",
+      "provisionalTranslation": "夜明けの到来と並ぶ\n静まり返った夜、\n黙した音楽、\n響き渡る孤独、\n魂を喜ばせ恋に落とす晩餐。"
+    },
+    {
+      "id": 15,
+      "verses": "v.72–76",
+      "speaker": "Esposa",
+      "original": "Nuestro lecho florido,\nde cuevas de leones enlazado,\nen púrpura tendido,\nde paz edificado,\nde mil escudos de oro coronado.",
+      "provisionalTranslation": "私たちの花咲く寝床は、\n獅子の洞窟に囲まれ、\n紫に覆われ、\n平和で築かれ、\n千の黄金の盾で飾られている。"
+    },
+    {
+      "id": 16,
+      "verses": "v.77–81",
+      "speaker": "Esposa",
+      "original": "A zaga de tu huella\nlas jóvenes discurren al camino,\nal toque de centella,\nal adobado vino,\nemisiones de bálsamo divino.",
+      "provisionalTranslation": "あなたの足跡を辿って\n若い女たちは道を駆けていく、\n火花の触れに、\n熟成されたぶどう酒に、\n神聖な香油の流れに。"
+    },
+    {
+      "id": 17,
+      "verses": "v.82–86",
+      "speaker": "Esposa",
+      "original": "En la interior bodega\nde mi Amado bebí, y cuando salía\npor toda aquesta vega,\nya cosa no sabía;\ny el ganado perdí que antes seguía.",
+      "provisionalTranslation": "私の愛する方の内なる酒蔵で\n私は飲んだ、そして出てきたとき\nこの野原をすべて通って、\nもう何も知らなかった；\nそれまで従っていた群れも失った。"
+    },
+    {
+      "id": 18,
+      "verses": "v.87–91",
+      "speaker": "Esposa",
+      "original": "Allí me dio su pecho,\nallí me enseñó ciencia muy sabrosa;\ny yo le di de hecho\na mí, sin dejar cosa:\nallí le prometí de ser su Esposa.",
+      "provisionalTranslation": "そこで彼は胸を私に与えてくれた、\nそこで甘美な学識を私に教えてくれた；\nそして私は実際に\n自分自身を、何も残さずに与えた：\nそこで私は彼の花嫁になることを約束した。"
+    },
+    {
+      "id": 19,
+      "verses": "v.92–96",
+      "speaker": "Esposa",
+      "original": "Mi alma se ha empleado,\ny todo mi caudal en su servicio;\nya no guardo ganado,\nni ya tengo otro oficio,\nque ya sólo en amar es mi ejercicio.",
+      "provisionalTranslation": "私の魂は費やされた、\nそして私のすべての財も彼への奉仕に；\nもう群れを守ることもなく、\nもう他の仕事もない、\nなぜなら今や愛することだけが私の務めだから。"
+    },
+    {
+      "id": 20,
+      "verses": "v.97–101",
+      "speaker": "Esposa",
+      "original": "Pues ya si en el ejido\nde hoy más no fuere vista ni hallada,\ndiréis que me he perdido;\nque, andando enamorada,\nme hice perdidiza, y fui ganada.",
+      "provisionalTranslation": "もし野原で\nこれ以上見かけられも見つけられもしなくなったなら、\n私は迷子になったと言ってくれ；\n恋に落ちながら歩んで、\n私は自ら迷子になり、そして得られたのだから。"
+    },
+    {
+      "id": 21,
+      "verses": "v.102–106",
+      "speaker": "Esposa",
+      "original": "De flores y esmeraldas,\nen las frescas mañanas escogidas,\nharemos las guirnaldas\nen tu amor florecidas\ny en un cabello mío entretejidas.",
+      "provisionalTranslation": "花とエメラルドで、\n涼しい朝に選ばれた、\n私たちは花輪を作ろう\nあなたの愛の中で咲き誇り、\n私の一本の髪に絡み合った。"
+    },
+    {
+      "id": 22,
+      "verses": "v.107–111",
+      "speaker": "Esposa",
+      "original": "En solo aquel cabello\nque en mi cuello volar consideraste,\nmirástele en mi cuello,\ny en él preso quedaste,\ny en uno de mis ojos te llagaste.",
+      "provisionalTranslation": "ただあの一本の髪だけで、\nあなたが私の首を飛ぶのを見たあの髪、\nあなたは私の首でそれを見つめ、\nそしてそれに捕らわれてしまった、\nそして私の一つの目であなたは傷ついた。"
+    },
+    {
+      "id": 23,
+      "verses": "v.112–116",
+      "speaker": "Esposa",
+      "original": "Cuando tú me mirabas\nsu gracia en mí tus ojos imprimían;\npor eso me adamabas,\ny en eso merecían\nlos míos adorar lo que en ti vían.",
+      "provisionalTranslation": "あなたが私を見つめていたとき、\nあなたの目はその恵みを私の中に刻み込んだ；\nそれゆえにあなたは私を愛でた、\nそしてそれにおいて私の目は\nあなたの中に見るものを崇めることに値した。"
+    },
+    {
+      "id": 24,
+      "verses": "v.117–121",
+      "speaker": "Esposa",
+      "original": "No quieras despreciarme,\nque, si color moreno en mi hallaste,\nya bien puedes mirarme\ndespués que me miraste,\nque gracia y hermosura en mi dejaste.",
+      "provisionalTranslation": "私を蔑もうとしないでくれ、\nもし私の中に浅黒い色を見つけたなら、\nもう十分に私を見ることができる\nあなたが私を見つめた後は、\nあなたが恵みと美しさを私の中に残してくれたのだから。"
+    },
+    {
+      "id": 25,
+      "verses": "v.122–126",
+      "speaker": "Esposa",
+      "original": "Cogednos las raposas,\nque está ya florecida nuestra viña,\nen tanto que de rosas\nhacemos una piña,\ny no parezca nadie en la montiña.",
+      "provisionalTranslation": "キツネたちを捕まえておくれ、\n私たちのぶどう畑はもう花咲いているから、\nバラで\n松ぼっくりを作る間に、\nそして誰も山に姿を現さないように。"
+    },
+    {
+      "id": 26,
+      "verses": "v.127–131",
+      "speaker": "Esposa",
+      "original": "Detente, cierzo muerto;\nven, austro, que recuerdas los amores,\naspira por mi huerto,\ny corran sus olores,\ny pacerá el Amado entre las flores.",
+      "provisionalTranslation": "止まれ、死んだ北風よ；\n来い、南風よ、愛を目覚めさせる風よ、\n私の園に吹き抜けてくれ、\nその香りを漂わせてくれ、\nそして愛する方は花々の間で憩われるだろう。"
+    },
+    {
+      "id": 27,
+      "verses": "v.132–136",
+      "speaker": "Esposo",
+      "original": "Entrado se ha la esposa\nen el ameno huerto deseado,\ny a su sabor reposa,\nel cuello reclinado\nsobre los dulces brazos del Amado.",
+      "provisionalTranslation": "花嫁は入っていった\n望まれていた心地よい園へと、\nそして心地よく休んでいる、\n首を傾けて\n愛する方の甘い腕の上に。"
+    },
+    {
+      "id": 28,
+      "verses": "v.137–141",
+      "speaker": "Esposo",
+      "original": "Debajo del manzano,\nallí conmigo fuiste desposada.\nallí te di la mano,\ny fuiste reparada\ndonde tu madre fuera violada.",
+      "provisionalTranslation": "リンゴの木の下で、\nそこであなたは私と婚約した。\nそこで私はあなたに手を差し伸べた、\nそしてあなたは修復された\nあなたの母が辱められた場所で。"
+    },
+    {
+      "id": 29,
+      "verses": "v.142–146",
+      "speaker": "Esposo",
+      "original": "A las aves ligeras,\nleones, ciervos, gamos saltadores,\nmontes, valles, riberas,\naguas, aires, ardores\ny miedos de las noches veladores,",
+      "provisionalTranslation": "軽やかな鳥たちに、\n獅子たち、鹿たち、跳ねるカモシカたちに、\n山々、谷々、川辺に、\n水に、空気に、熱に、\nそして夜を守る者たちの恐れに、"
+    },
+    {
+      "id": 30,
+      "verses": "v.147–151",
+      "speaker": "Esposo",
+      "original": "Por las amenas liras\ny canto de serenas os conjuro\nque cesen vuestras iras,\ny no toquéis al muro,\nporque la esposa duerma más seguro.",
+      "provisionalTranslation": "愉快な竪琴と\nセイレーンの歌によって私はあなたたちに命じる\nあなたたちの怒りを止め、\n壁に触れないよう、\n花嫁がより安らかに眠れるように。"
+    },
+    {
+      "id": 31,
+      "verses": "v.152–156",
+      "speaker": "Esposa",
+      "original": "Oh ninfas de Judea!,\nen tanto que en las flores y rosales\nel ámbar perfumea,\nmorá en los arrabales,\ny no queráis tocar nuestros umbrales",
+      "provisionalTranslation": "ああ、ユダの乙女たちよ、\n花々とバラ園に\n琥珀が香る間は、\n郊外に留まっておくれ、\nそして私たちの敷居に触れようとしないで。"
+    },
+    {
+      "id": 32,
+      "verses": "v.157–161",
+      "speaker": "Esposa",
+      "original": "Escóndete, Carillo,\ny mira con tu haz a las montañas,\ny no quieras decillo;\nmas mira las compañas\nde la que va por ínsulas extrañas",
+      "provisionalTranslation": "隠れておくれ、愛しい方よ、\nそして顔を山々に向けておくれ、\nそれを言おうとしないで；\nしかし連れを見ておくれ\n見知らぬ島々を行く者の。"
+    },
+    {
+      "id": 33,
+      "verses": "v.162–166",
+      "speaker": "Esposo",
+      "original": "La blanca palomita\nal arca con el ramo se ha tornado\ny ya la tortolica\nal socio deseado\nen las riberas verdes ha hallado.",
+      "provisionalTranslation": "白い小鳩が\n枝を持って箱舟に戻ってきた\nそしてもう小さな山鳩は\n待ち望んだ伴侶を\n緑の川辺で見つけた。"
+    },
+    {
+      "id": 34,
+      "verses": "v.167–171",
+      "speaker": "Esposo",
+      "original": "En soledad vivía,\ny en soledad ha puesto ya su nido,\ny en soledad la guía\na solas su querido,\ntambién en soledad de amor herido.",
+      "provisionalTranslation": "孤独の中に生きていた、\nそして孤独の中に巣を構えた、\nそして孤独の中に導く\n独りで、愛する方が、\n愛によって傷ついた孤独の中でも。"
+    },
+    {
+      "id": 35,
+      "verses": "v.172–176",
+      "speaker": "Esposa",
+      "original": "Gocémonos, Amado,\ny vámonos a ver en tu hermosura\nal monte ó al collado\ndo mana el agua pura;\nentremos más adentro en la espesura.",
+      "provisionalTranslation": "喜び合おう、愛する方よ、\nそしてあなたの美しさの中に私たちを見に行こう\n山へ、丘へ\n清らかな水が湧き出る場所へ；\n茂みの奥へとさらに入っていこう。"
+    },
+    {
+      "id": 36,
+      "verses": "v.177–181",
+      "speaker": "Esposa",
+      "original": "Y luego a las subidas\ncavernas de la piedra nos iremos,\nque están bien escondidas,\ny allí nos entraremos,\ny el mosto de granadas gustaremos",
+      "provisionalTranslation": "そして岩の高い\n洞窟へと行こう、\nよく隠された場所に、\nそしてそこに入ろう、\nザクロの新酒を味わいながら。"
+    },
+    {
+      "id": 37,
+      "verses": "v.182–186",
+      "speaker": "Esposa",
+      "original": "Allí me mostrarías\naquello que mi alma pretendía,\ny luego me darías\nallí, tú, vida mía,\naquello que me diste el otro día:",
+      "provisionalTranslation": "そこであなたは私に示してくれるだろう\n私の魂が求めていたものを、\nそしてすぐに与えてくれるだろう\nそこで、あなたは、私の命よ、\n先日あなたが私に与えてくれたものを："
+    },
+    {
+      "id": 38,
+      "verses": "v.187–191",
+      "speaker": "Esposa",
+      "original": "El aspirar del aire,\nel canto de la dulce Filomena,\nel soto y su donaire,\nen la noche serena,\ncon llama que consume y no da pena",
+      "provisionalTranslation": "風の息吹、\n甘いフィロメラの歌、\n木立とその優美さ、\n静かな夜の中に、\n苦しみなく燃やす炎とともに"
+    },
+    {
+      "id": 39,
+      "verses": "v.192–196",
+      "speaker": "Esposa",
+      "original": "Que nadie lo miraba,\nAminadab tampoco parecía,\ny el cerco sosegaba,\ny la caballería\na vista de las aguas descendía.",
+      "provisionalTranslation": "誰もそれを見ていなかった、\nアミナダブも現れなかった、\n包囲は静まり返り、\nそして騎馬隊は\n水を前にして降りていった。"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "¿Adónde te escondiste,\nAmado, y me dejaste con gemido?",
+      "body": "詩篇の第一声──「あなたはどこに隠れたのか（¿Adónde te escondiste?）」という問いが全39連の探求構造を起動する。雅歌3:1「夜ごと、寝床で、私は魂の愛する方を求めた」の直接的継承。ブランショ『文学の空間』（L'Espace littéraire, 1955）における「作品の問い」の構造：詩人は答えではなく「問い」として作品に入る──問うことそのものが詩的存在の様式。ヨハネの詩篇はこの問いから始まることで、到達（答え）ではなく探求（問い）を詩的主体の本来的な姿として定義する。「me dejaste con gemido（嘆きの中に残した）」──「dejaste（残した）」という動詞の完了形が、去ることの既成事実性を刻印する：神は去り、魂は残される。ヴェイユ「Accepter le vide」§1「ガスのように、魂は与えられた空間の全体を占めようとする」──その「占めようとする」力が神によって空にされた（隠れられた）状態がここの「残された嘆き」。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "prosody",
+      "anchor": "Como el ciervo huiste,\nhabiéndome herido;\nsalí tras ti clamando, y eras ido.",
+      "body": "「鹿のように逃げてしまった（Como el ciervo huiste）」──雅歌2:9「私の愛する方は若い鹿か小鹿のよう」の典拠。§12でヨハネ自身（Esposo）が「傷ついた鹿（el ciervo vulnerado）」として再登場し、§1の比喩が逆転する：逃げる鹿→傷ついて丘に現れる鹿。lira詩形の韻律確認：「¿Adónde te escondiste（7）/ Amado, y me dejaste con gemido（11）/ Como el ciervo huiste（7）/ habiéndome herido（7）/ salí tras ti clamando, y eras ido（11）」。押韻：aBaBB。最終行「y eras ido（そしてあなたはいなかった）」の半過去形（eras）──過去における状態の継続的不在を示す時制選択：到着した瞬間にはすでに去っていたという時間的逆説。"
+    },
+    {
+      "paragraphId": 5,
+      "type": "commentary",
+      "anchor": "Mil gracias derramando\npasó por estos sotos con presura,\ne, yéndolos mirando,\ncon sola su figura\nvestidos los dejó de hermosura.",
+      "body": "被造物による神の応答──「千の恵みを撒き散らしながら（Mil gracias derramando）」が、ヨハネの神学における「神の痕跡（huellas de Dios）」論を定式化する。被造物は神の直接的顕現ではなく神が通過した痕跡として美しい──「ただその姿だけで美しさで装わせた（con sola su figura vestidos los dejó de hermosura）」。ヴェイユ「Beauté」章での「美は世界に対するdieu（神）の微笑みである」との対応：ヴェイユの美が神の超自然的臨在の感覚的痕跡であるように、ヨハネの被造物の美は神が通過した後に残された美の痕跡。バタイユ『エロティシズム』（L'Érotisme, 1957）における「不連続な存在の連続性への欲望」：被造物は神（連続性）が通過した跡として「連続性の残響」を宿す──この世界観がヨハネの「被造物の神学」と構造的に平行する。「con presura（足早に）」という副詞：神は止まらず通過する──痕跡のみが残る。",
+      "targetId": "weil_pesanteur_beaute"
+    },
+    {
+      "paragraphId": 7,
+      "type": "commentary",
+      "anchor": "un no sé qué que quedan balbuciendo.",
+      "body": "「彼らが口ごもりながら残す何とも言えない何か（un no sé qué que quedan balbuciendo）」──詩篇全体で最も注釈された一語。「no sé qué（不知何物）」はスペイン神秘主義における言語不可能性の定式的表現。オクタビオ・パス『弓と竪琴』（El arco y la lira, 1956）がこの語を「詩的言語の核心的逆説」として分析する：詩は言えないもの（no sé qué）を言うための言語であり、言えないものに名前を与えることで自己を成立させる。「balbuciendo（口ごもりながら）」──言語の失敗の擬音的表現：使者も被造物も神を「口ごもりながら」しか語れない。ブランショ『文学の空間』での「中性的なもの（le neutre）」：作品は意味を超えた「語り得ないもの」を宿し、それが読者を引き寄せる──ヨハネの「no sé qué」がその神秘主義的原型。"
+    },
+    {
+      "paragraphId": 13,
+      "type": "commentary",
+      "anchor": "Mi Amado, las montañas,\nlos valles solitarios nemorosos,\nlas ínsulas extrañas,\nlos ríos sonorosos,\nel silbo de los aires amorosos,",
+      "body": "§13–14は「Mi Amado（私の愛する方）は……」という同格命題の連鎖──神が山・谷・島・川・風・夜・音楽・孤独・晩餐として同定される「神の感覚的カタログ」。名詞列挙による詩的技法：動詞も述語もなく、名詞の列が神の同定を構成する。「las ínsulas extrañas（見知らぬ島々）」──ヨハネの散文注解では「まだ経験されたことのない知識の高み」として解釈される：感覚的に未知な領域。バシュラール的意味では「島」は孤立した内的空間──大陸的連続性から切り離された精神の孤島。「el silbo de los aires amorosos（愛情に満ちた風のさやかな音）」──列王記上19:12「エリヤへの神の声は、静かな細い声（voz apacible y delicada）」の反響：神の声は嵐でも地震でも火でもなく、細い風の音として現れる。"
+    },
+    {
+      "paragraphId": 14,
+      "type": "commentary",
+      "anchor": "la música callada,\nla soledad sonora,",
+      "body": "「黙した音楽（la música callada）」「響き渡る孤独（la soledad sonora）」──二つの矛盾修辞（oxymora）が神秘主義的経験の言語不可能性を統語上に体現する。「音楽」は音であるが「黙している（callada）」、「孤独」は沈黙であるが「響き渡る（sonora）」──二組の矛盾が互いを鏡像として反映し、感覚の超越を示す。オクタビオ・パス『弓と竪琴』での「詩的沈黙」論：「音楽的沈黙（silencio musical）」はヨハネ特有の詩的達成として、音楽と沈黙の境界を溶解させる言語の臨界点を示す。ブランショ『文学の空間』における「詩的空間の沈黙」：作品は語ることで沈黙を生み出す──「la música callada」はその逆説の完璧な定式。ヴァレリーが「純粋詩（poésie pure）」として求めた「音楽と詩の境界の溶解」の神秘主義的先行形。"
+    },
+    {
+      "paragraphId": 17,
+      "type": "commentary",
+      "anchor": "En la interior bodega\nde mi Amado bebí, y cuando salía\npor toda aquesta vega,\nya cosa no sabía;\ny el ganado perdí que antes seguía.",
+      "body": "「私の愛する方の内なる酒蔵で私は飲んだ（En la interior bodega de mi Amado bebí）」──雅歌2:4「彼は私を酒宴の場に連れて行き、その旗じるしは愛であった」の継承。「内なる（interior）」という形容が方向性を示す：上昇（Noche oscura）でも外的到達でもなく、内部への沈潜。「もう何も知らなかった（ya cosa no sabía）」──認識の停止：神秘主義的合一が知的認識能力の超越として体験される。「それまで従っていた群れも失った（el ganado perdí que antes seguía）」──日常的責務・社会的役割の喪失。バタイユ『エロティシズム』での「仕事と禁忌の一時的停止」：エロス的（および神秘主義的）合一の経験は、仕事・生産・目的性という「不連続的存在」の特性を一時的に消去する──「群れを失う」がその詩的定式。ヴェイユ「Accepter le vide」§2「自然的であれ超自然的であれ、報酬なしに過ごす時間が必要だ」：合一の後の「群れを失う」は報酬の放棄の詩的形象。"
+    },
+    {
+      "paragraphId": 20,
+      "type": "commentary",
+      "anchor": "me hice perdidiza, y fui ganada.",
+      "body": "「私は自ら迷子になり、そして得られた（me hice perdidiza, y fui ganada）」──詩篇最も精密な逆説命題のひとつ。「perdidiza（意図的に迷子になった者）」という語はヨハネが造語に近い形で使用する：「迷子になる（perderse）」に意図性（-iza）を加えた形で、能動的な自己喪失を表す。「自ら迷子になること（hacerse perdidizo）」がヴェイユの「脱創造（décréation）」の詩的等価物：自己を意図的に消去することで、より大きなものに「得られる（ganada）」。バタイユ『内的体験』（L'Expérience intérieure, 1943）での「喪失の主権（souveraineté de la perte）」：失うことそのものが最高の得ることであるという逆説──「me hice perdidiza, y fui ganada」はその定式の詩的原型としてバタイユが参照する。ブランショ『文学の空間』での「詩人の自己喪失」：詩人は作品の中に自己を喪失することで作品を「得る」。"
+    },
+    {
+      "paragraphId": 34,
+      "type": "commentary",
+      "anchor": "En soledad vivía,\ny en soledad ha puesto ya su nido,\ny en soledad la guía\na solas su querido,\ntambién en soledad de amor herido.",
+      "body": "「孤独（soledad）」の語が5行中4度反復される──アナフォラ的密度によって孤独が単なる状態ではなく詩的存在の本質的様式として確立される。「孤独の中に生き……孤独の中に巣を構え……孤独の中に導き……愛に傷ついた孤独の中でも」──孤独が魂の歴史（過去・現在・未来・状態）のすべての次元を覆う。最終行「también en soledad de amor herido（愛によって傷ついた孤独の中でも）」──神（Esposo）自身もまた孤独の中にいる：神の側の孤独と魂の側の孤独の鏡像関係。ブランショ『文学の空間』での「本質的孤独（solitude essentielle）」：詩人は作品において「すべての関係の外」に置かれる──ヨハネの「孤独の四重奏」がその神秘主義的先行形として読める。"
+    },
+    {
+      "paragraphId": 38,
+      "type": "commentary",
+      "anchor": "con llama que consume y no da pena",
+      "body": "「苦しみなく燃やす炎（con llama que consume y no da pena）」──「Llama de amor viva」の「tiernamente hieres（優しく傷つける）」「cauterio suave（柔らかな焼灼）」と同じ「愛の炎の無痛的暴力」の定式が、詩篇の結尾直前に置かれる。三作品の連絡：「Noche oscura」→「Cántico espiritual」→「Llama de amor viva」という三段階の上昇において、炎のイメージが旅程（暗夜）→合一の風景（頌歌）→合一の絶頂（炎）と深化する。バタイユ『エロティシズム』での「暴力なき消費（consumation sans violence）」：神秘主義的合一は個体を消費（consume）しながらも個体を傷つけない──「llama que consume y no da pena」がその定式。「no da pena（苦しみを与えない）」──ヴェイユ「Accepter le vide」§5「空虚をひとときでも耐え忍ぶ者は、超自然のパンを受け取るか、倒れるかだ」の二択を超えた第三の状態：受け取っても倒れない炎の経験。"
+    },
+    {
+      "paragraphId": 39,
+      "type": "commentary",
+      "anchor": "Que nadie lo miraba,\nAminadab tampoco parecía,\ny el cerco sosegaba,\ny la caballería\na vista de las aguas descendía.",
+      "body": "詩篇の最終連──「誰もそれを見ておらず（Que nadie lo miraba）……包囲は静まり返り（el cerco sosegaba）……騎馬隊は水を前にして降りていった（la caballería a vista de las aguas descendía）」。ヨハネの散文注解は「Aminadab（アミナダブ）」を悪魔的騒音・外的誘惑として解釈し、「騎馬隊」を感覚的情念として解釈する──合一の状態において外部世界の一切の騒音・誘惑・情念が沈黙する。詩篇は問い（§1「どこに隠れたのか？」）から沈黙（§39「誰もそれを見ていなかった」）へと収束する：問いの言語から沈黙の非言語へ。オクタビオ・パス『弓と竪琴』での「詩の沈黙への帰還」：詩は言語から出発して言語を超え、最終的に「音楽的沈黙」へと帰還する──「Cántico espiritual」の最終連がその構造を完全に実現する。ブランショ『文学の空間』での「作品の沈黙」：真の作品は完成した瞬間に沈黙する──「nadie lo miraba（誰もそれを見ていなかった）」という最終行が、完成した詩篇が目撃者なき孤独の中に置かれることの詩的自己言及。"
+    },
+    {
+      "paragraphId": 12,
+      "type": "intertextual",
+      "anchor": "Vuélvete, paloma,\nque el ciervo vulnerado\npor el otero asoma\nal aire de tu vuelo, y fresco toma.",
+      "body": "詩篇全体の構造的転換点──Esposa（花嫁）の独白からEsposo（花婿）の初めての発話への移行。§1で「鹿のように逃げた（Como el ciervo huiste）」と告発されたEsposo自身が「傷ついた鹿（el ciervo vulnerado）」として返答する：逃げる鹿→傷ついた鹿という比喩の逆転が、神の側の「傷」──神も魂を求めて傷ついている──を開示する。「Llama de amor viva」§1「¡Oh llama de amor viva, / que tiernamente hieres（優しく傷つける愛の炎）」との照応：傷は魂だけでなく神にも及ぶ双方向性。「al aire de tu vuelo, y fresco toma（あなたの飛翔の風に、爽やかさを取り込む）」──花嫁の「飛翔（vuelo）」が花婿を癒す：魂の熱望が神を「爽やかにする（fresco toma）」という逆転した因果。",
+      "targetId": "juan_de_la_cruz_llama_de_amor_viva",
+      "targetParagraphId": 1
+    },
+    {
+      "paragraphId": 18,
+      "type": "commentary",
+      "anchor": "Allí me dio su pecho,\nallí me enseñó ciencia muy sabrosa;\ny yo le di de hecho\na mí, sin dejar cosa:\nallí le prometí de ser su Esposa.",
+      "body": "「そこで彼は胸を私に与えた……そして私は自分自身を何も残さずに与えた（allí me dio su pecho... y yo le di de hecho / a mí, sin dejar cosa）」──相互の自己贈与の定式。神が与え（胸・知識）、魂が与える（自己全体）という交換の構造。「ciencia muy sabrosa（甘美な学識）」──ヨハネの神秘神学における「愛の知識（conocimiento amoroso）」：概念的・分析的知識ではなく、愛において直接体験される知識。バタイユ『内的体験』での「知の犠牲」：通常の知識（有用性・目的性を持つ知）を犠牲にした後に開かれる「内的体験」──ヨハネの「甘美な学識」はその神秘主義的先行形。「a mí, sin dejar cosa（自分自身を、何も残さずに）」──ヴェイユの「脱創造（décréation）」の完成形：自己の完全な手放しとして魂が花婿への自己贈与を行う。"
+    },
+    {
+      "paragraphId": 35,
+      "type": "commentary",
+      "anchor": "Gocémonos, Amado,\ny vámonos a ver en tu hermosura",
+      "body": "「喜び合おう（Gocémonos）」という一人称複数の接続法現在──詩篇全体で初めて魂と神が共同主語「私たち（nos）」として行為する動詞形が出現する。探求（§1–11）→発見（§12）→合一の語り（§13–34）→共同の行為（§35–39）という構造的段階。「あなたの美しさの中に私たちを見に行こう（vámonos a ver en tu hermosura）」──自分たちを神の美の中に「見る」：鏡としての神、あるいは神の美の中に自己を発見するという認識論的転換。「Noche oscura」の逃走・探求の終着点として、「Cántico」の最終部が「共に行く」という共同運動で締まる──三作品の弧の完成。"
+    }
+  ]
+}
