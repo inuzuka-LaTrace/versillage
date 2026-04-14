@@ -1,0 +1,125 @@
+{
+  "id": "weil_effacement",
+  "title": "La Pesanteur et la Grâce — Effacement",
+  "author": "Simone Weil",
+  "source": "La Pesanteur et la Grâce, Plon, Paris, 1947（死後刊行、編者Gustave Thibon）。底本: Wikisource: https://fr.wikisource.org/wiki/La_Pesanteur_et_la_Grâce/10",
+  "year": "1940–1942頃（ノート執筆）",
+  "firstPublication": "La Pesanteur et la Grâce, Plon, Paris, 1947（死後4年、Gustave Thibon編）",
+  "difficulty": "上級",
+  "category": "weil",
+  "originalLang": "fr-FR",
+  "modernRelevance": "★★★★★",
+  "context": "『重力と恩寵』第10章「消去（Effacement）」。「Décréation（脱創造）」章の直後に置かれ、脱創造の実践的・現象学的次元を展開する。「脱創造」が神学的概念として定義された（被造物から非被造物への移行）のに対し、「Effacement（消去）」は自己消去の具体的経験──鉛筆の比喩、「邪魔な第三者」の比喩、風景から消えることの逆説──によって肉付けする。章を貫く動詞「se retirer（身を引く）」の三重反復が構造的ライトモチーフを形成し、最終段落はラシーヌ『フェードル』からの引用で閉じる──フェードルの死（目が汚していた昼の光に純粋さを返す）がヴェイユの消去思想の詩的定式として機能する。「Décréation」章と並んで、十字架のヨハネ「Noche oscura」の「霊的否定」との照応が最も直接的に感じられる章。",
+  "keywords": [
+    "消去",
+    "effacement",
+    "自我の影",
+    "媒介者",
+    "鉛筆の比喩",
+    "第三者の撤退",
+    "汚染としての存在",
+    "風景の純粋さ",
+    "謙遜",
+    "脱創造の実践"
+  ],
+  "relatedTexts": [
+    "weil_decreation",
+    "weil_accepter_le_vide",
+    "weil_pesanteur_beaute",
+    "weil_necessite",
+    "juan_de_la_cruz_noche_oscura",
+    "juan_de_la_cruz_cantico_espiritual"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "original": "Dieu m'a donné l'être pour que je le lui rende. C'est comme une de ces épreuves qui ressemblent à des pièges et qu'on voit dans les contes et les histoires d'initiation. Si j'accepte ce don, il est mauvais et fatal ; sa vertu apparaît par le refus. Dieu me permet d'exister en dehors de lui. À moi de refuser cette autorisation.\nL'humilité, c'est le refus d'exister en dehors de Dieu. Reine des vertus.",
+      "provisionalTranslation": "神は私に存在を与えた、私がそれを神に返すために。これはお伽噺や入門物語に見られる罠に似た試練のひとつのようだ。もし私がこの贈り物を受け取るなら、それは悪く致命的なものとなる；その徳は拒否によって現われる。神は私が神の外に存在することを許す。この許可を拒否するのは私の側の課題だ。\n謙遜とは神の外に存在することの拒否である。徳の女王。"
+    },
+    {
+      "id": 2,
+      "original": "Le moi, ce n'est que l'ombre projetée par le péché et l'erreur qui arrêtent la lumière de Dieu, et que je prends pour un être.\nMême si on pouvait être comme Dieu, il vaudrait mieux être de la boue qui obéit à Dieu.",
+      "provisionalTranslation": "自我とは、神の光を遮る罪と誤りが投影した影にすぎず、私はそれを存在と見なしてしまう。\nたとえ神のようになれるとしても、神に従う泥であった方がよい。"
+    },
+    {
+      "id": 3,
+      "original": "Ce que le crayon est pour moi quand, les yeux fermés, je palpe la table avec la pointe — être cela pour le Christ. Nous avons la possibilité d'être des médiateurs entre Dieu et la partie de création qui nous est confiée. Il faut notre consentement pour qu'à travers nous il perçoive sa propre création. Avec notre consentement il opère cette merveille. Il suffirait que j'aie su me retirer de ma propre âme pour que cette table que j'ai devant moi ait l'incomparable fortune d'être vue par Dieu. Dieu ne peut aimer en nous que ce consentement à nous retirer pour le laisser passer, comme lui-même, créateur, s'est retiré pour nous laisser être. Cette double opération n'a pas d'autre sens que l'amour, comme le père donne à son enfant ce qui permettra à l'enfant de faire un présent le jour de l'anniversaire de son père. Dieu qui n'est pas autre chose qu'amour n'a pas créé autre chose que de l'amour.",
+      "provisionalTranslation": "目を閉じて指先でテーブルを触るとき、鉛筆が私にとってそうであるもの──キリストにとってそれになること。私たちには、神と私たちに委ねられた創造の部分との間の媒介者となる可能性がある。私たちのうちを通じて神が自らの創造を知覚するためには私たちの同意が必要だ。私たちの同意によって神はこの奇跡を行う。もし私が自らの魂から身を引くことができたなら、私の前にあるこのテーブルが神に見られるという比類ない幸運を持てるだろう。神が私たちの中で愛することができるのは、神が通り過ぎられるように身を引くこの同意だけであり、それは神自身が、創造者として、私たちが存在できるように身を引いたのと同様だ。この二重の操作は愛以外のいかなる意味も持たない、ちょうど父親が子どもに、子どもが父親の誕生日に贈り物をできるものを与えるように。愛以外の何ものでもない神は、愛以外の何ものも創造しなかった。"
+    },
+    {
+      "id": 4,
+      "original": "Toutes les choses que je vois, entends, respire, touche, mange, tous les êtres que je rencontre, je prive tout cela du contact avec Dieu, et je prive Dieu du contact avec tout cela dans la mesure où quelque chose en moi dit je.\nJe peux faire quelque chose pour tout cela et pour Dieu, à savoir me retirer, respecter le tête-à-tête.\nL'accomplissement strict du devoir simplement humain est une condition pour que je puisse me retirer. Il use peu à peu les cordes qui me retiennent sur place et m'en empêchent.",
+      "provisionalTranslation": "私が見、聞き、呼吸し、触れ、食べるすべてのもの、私が出会うすべての存在から、私はそれらと神との接触を奪い、私の中の何かが「私」と言う限りにおいて、神からそれらとの接触を奪う。\n私はそれらすべてと神のために何かができる、すなわち身を引くこと、二者の向かい合いを尊重すること。\n単に人間的な義務を厳密に果たすことは、私が身を引けるための条件だ。それは私をその場に引き留め妨げている縄を少しずつ擦り切る。"
+    },
+    {
+      "id": 5,
+      "original": "Je ne puis pas concevoir la nécessité que Dieu m'aime, alors que je sens si clairement que, même chez les êtres humains, de l'affection pour moi ne peut être qu'une méprise. Mais je me représente sans peine qu'il aime cette perspective de la création qu'on ne peut avoir que du point où je suis. Mais je fais écran. Je dois me retirer pour qu'il puisse la voir.\nJe dois me retirer pour que Dieu puisse entrer en contact avec les êtres que le hasard met sur ma route et qu'il aime. Ma présence est indiscrète comme si je me trouvais entre deux amants ou deux amis. Je suis non pas la jeune fille qui attend un fiancé, mais le tiers importun qui est avec deux fiancés et doit s'en aller afin qu'ils soient vraiment ensemble.\nSi seulement je savais disparaître, il y aurait union d'amour parfait entre Dieu et la terre où je marche, la mer que j'entends…\nQu'importe ce qu'il y a en moi d'énergie, de dons, etc. ? J'en ai toujours assez pour disparaître.",
+      "provisionalTranslation": "神が私を愛する必然性を私は思い描くことができない、人間たちの間でさえ私への愛情は誤解にすぎないと感じるほど明確なのだから。しかし私が立つ地点からしか持てない創造のこの眺めを神が愛することは容易に思い描ける。しかし私は幕となっている。神がそれを見ることができるように、私は身を引かなければならない。\n偶然が私の道に置く、神が愛する存在たちと神が接触できるように、私は身を引かなければならない。私の存在は、二人の恋人か二人の友人の間に自分がいるかのように、無遠慮だ。私は婚約者を待つ娘ではなく、二人の婚約者と一緒にいて、彼らが本当に一緒になれるよう立ち去らなければならない邪魔な第三者である。\nもし私が消えることを知っていたならば、私が歩く大地と、私が聞く海と神との間に完全な愛の合一があるだろう……\n私の中にエネルギーや才能等がどれほどあろうと何の意味があるか？消えるには常に十分すぎるほどある。"
+    },
+    {
+      "id": 6,
+      "original": "Que je disparaisse afin que ces choses que je vois deviennent, du fait qu'elles ne seront plus choses que je vois, parfaitement belles.",
+      "provisionalTranslation": "私が消えるように、私が見るものだったものではなくなることによって、私が見るこれらのものが完全に美しくなるように。"
+    },
+    {
+      "id": 7,
+      "original": "Je ne désire nullement que ce monde créé ne me soit plus sensible, mais que ce ne soit plus à moi qu'il soit sensible. À moi, il ne peut dire son secret qui est trop haut. Que je parte, et le créateur et la créature échangeront leurs secrets.\nVoir un paysage tel qu'il est quand je n'y suis pas…\nQuand je suis quelque part, je souille le silence du ciel et de la terre par ma respiration et le battement de mon cœur.\n« Et la mort à mes yeux ravissant la clarté\nRend au jour qu'ils souillaient toute sa pureté… »",
+      "provisionalTranslation": "私はこの被造世界がもはや私に感じられなくなることを全く望まない、ただそれが私にではなく感じられることを望む。私に対してこの世界はあまりにも高い秘密を語ることができない。私が去れば、創造者と被造物は秘密を交換し合うだろう。\n私がそこにいないときのあるがままの風景を見ること……\n私がどこかにいるとき、私の呼吸と心臓の鼓動で天と地の沈黙を汚す。\n「そして死が私の目から光を奪うことで\n私の目が汚していた昼に、その純粋さすべてを返す……」"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "Dieu m'a donné l'être pour que je le lui rende.",
+      "body": "章の冒頭一文が「Décréation」章の定義（「被造物から非被造物への移行」）を物語的形式で再開する。「与えた……返すために（donné…pour que…rende）」という目的節構造：存在が贈り物として与えられるが、その贈り物の「徳（vertu）」は受け取ることではなく返すことによって現われる。「罠に似た試練（épreuves qui ressemblent à des pièges）」──お伽噺・入門物語の形式：試練は表面的には誘惑（「受け取れ」）として現われるが、正しい応答は逆（「拒否せよ」）である。「À moi de refuser cette autorisation（この許可を拒否するのは私の側）」──「À moi de（私の課題は）」という構文が一人称的責任を強調。「Décréation」章§5「幕を突き破って存在することを止めるのは私たちの側」との同型。「L'humilité, c'est le refus d'exister en dehors de Dieu（謙遜とは神の外に存在することの拒否）」──「Effacement（消去）」というタイトル概念の神学的定義：謙遜とは存在の消去。「Reine des vertus（徳の女王）」というトマス的称号が、この逆説的な「存在の拒否」に与えられる。",
+      "targetId": "weil_decreation",
+      "targetParagraphId": 8
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "Le moi, ce n'est que l'ombre projetée par le péché et l'erreur qui arrêtent la lumière de Dieu, et que je prends pour un être.",
+      "body": "「自我とは……神の光を遮る罪と誤りが投影した影にすぎない（Le moi, ce n'est que l'ombre projetée par le péché et l'erreur qui arrêtent la lumière de Dieu）」──光学的比喩による自我論。「影（ombre）」という比喩：自我は実体ではなく遮蔽の効果──光（神）を遮るものがあることで生じる副産物として定義される。「私はそれを存在と見なす（que je prends pour un être）」──認識論的誤謬の告発：影を実体と見誤る錯覚が「自我（moi）」の本質。プラトン『国家』洞窟の比喩（影を実在と信じる囚人）の神秘主義的変換：ただしプラトンが「知識」による解放を求めるのに対し、ヴェイユは「自我の消去」による解放を求める。「Décréation」章§10「鏡を見て着飾る女性」の比喩と対応：鏡の中の自己像（影）を自分だと信じる──自我は光の遮蔽が作る「鏡像」に過ぎない。「même si on pouvait être comme Dieu, il vaudrait mieux être de la boue qui obéit à Dieu（たとえ神のようになれるとしても、神に従う泥であった方がよい）」──創世記3:5「神のようになる」という誘惑への逆転的応答。",
+      "targetId": "weil_decreation",
+      "targetParagraphId": 10
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "Ce que le crayon est pour moi quand, les yeux fermés, je palpe la table avec la pointe — être cela pour le Christ.",
+      "body": "「目を閉じて指先でテーブルを触るとき、鉛筆が私にとってそうであるもの──キリストにとってそれになること」──現象学的比喩による「媒介（médiation）」の定義。鉛筆の現象学：目を閉じて鉛筆でテーブルを触るとき、意識はテーブルを「直接」知覚するが、実際には鉛筆という媒介を経ている──鉛筆はその透明性において完全な媒介者となる。「存在しながら透明であること」が完全な媒介の条件：自己を主張せず、ただ通過させる。メルロ＝ポンティ『知覚の現象学』（Phénoménologie de la perception, 1945）との接点：盲者の杖の現象学（杖が身体図式に統合され透明になる）──ヴェイユの鉛筆の比喩は同じ「道具の透明性」の問題だが、認識論ではなく神学的文脈に置かれる。「Il suffirait que j'aie su me retirer de ma propre âme pour que cette table ait l'incomparable fortune d'être vue par Dieu（私が自らの魂から身を引けたなら、このテーブルが神に見られるという幸運を持てる）」──「魂からの撤退」が神の知覚の条件として定式化される。「Cántico espiritual」§5「千の恵みを撒き散らしながら通り過ぎた（pasó por estos sotos）」の神の通過と対比：ヨハネでは神が通過して被造物を美しくするが、ヴェイユでは人間が退くことで神が被造物を見る。",
+      "targetId": "juan_de_la_cruz_cantico_espiritual",
+      "targetParagraphId": 5
+    },
+    {
+      "paragraphId": 4,
+      "type": "commentary",
+      "anchor": "Toutes les choses que je vois, entends, respire, touche, mange, tous les êtres que je rencontre, je prive tout cela du contact avec Dieu",
+      "body": "「私が見、聞き、呼吸し、触れ、食べるすべてのもの……私はそれらと神との接触を奪う（je prive tout cela du contact avec Dieu）」──五感の列挙（見る・聞く・呼吸する・触れる・食べる）が自我の存在による遮蔽の普遍性を示す。「私の中の何かが『私』と言う限りにおいて（dans la mesure où quelque chose en moi dit je）」──「je（私）」を発話する行為そのものが遮蔽の機制として定義される。サルトル『存在と無』（L'Être et le Néant, 1943）での「第一人称的意識」との対比：サルトルにとって「私（Je）」は反省的意識の産物であり存在論的基盤を持たないが、ヴェイユにとっては「私」を発話することが神と被造物の接触を遮断する罪的行為。「L'accomplissement strict du devoir simplement humain（単に人間的な義務の厳密な履行）」──ヴェイユの工場労働・農業労働体験が神学的実践として位置づけられる：日常的・強制的な義務の遂行が「縄を擦り切る」脱創造的実践。"
+    },
+    {
+      "paragraphId": 5,
+      "type": "commentary",
+      "anchor": "Je suis non pas la jeune fille qui attend un fiancé, mais le tiers importun qui est avec deux fiancés et doit s'en aller afin qu'ils soient vraiment ensemble.",
+      "body": "「私は婚約者を待つ娘ではなく……邪魔な第三者（le tiers importun）である」──比喩の精密な自己規定。「婚約者を待つ娘（la jeune fille qui attend un fiancé）」という期待される自己像（神の花嫁としての魂）をヴェイユは明確に拒否する：「Cántico espiritual」のEsposa（花嫁）の立場を、ヴェイユは自分には相応しくないとして退ける。「邪魔な第三者（le tiers importun）」──神と被造物の間に入り込んだ余計な存在としての自己。「身を引く（se retirer）」という動詞が§3・§4・§5と三度反復されて章のライトモチーフを形成する。「Si seulement je savais disparaître（もし私が消えることを知っていたならば）」──仮定法接続詞の「seulement」が達成の困難性を示す：消えることは「知ること（savoir）」の問題として提示される──意志や努力ではなく、「どうやって消えるか」を知る知識の問題。「消えるには常に十分すぎるほどある（J'en ai toujours assez pour disparaître）」──皮肉な逆転：才能・エネルギーは消えるためにのみ十分に持っている。",
+      "targetId": "juan_de_la_cruz_cantico_espiritual",
+      "targetParagraphId": 35
+    },
+    {
+      "paragraphId": 6,
+      "type": "prosody",
+      "anchor": "Que je disparaisse afin que ces choses que je vois deviennent, du fait qu'elles ne seront plus choses que je vois, parfaitement belles.",
+      "body": "章全体で最も短い段落──一文のみ。「私が消えるように……完全に美しくなるように（Que je disparaisse afin que…deviennent…parfaitement belles）」という接続法現在の祈願文が、「Décréation」章§15「Mon Dieu, accordez-moi de devenir rien（神よ、私が無になることをお与えください）」の美学的変奏として機能する。「私が見るものではなくなることによって（du fait qu'elles ne seront plus choses que je vois）」──知覚主体の消去が美の完全化の条件として定式化される。「Beauté」章の「距離は美の魂（La distance est l'âme du beau）」との関係：「距離」が空間的隔たりであるのに対し、ここでは「主体の消滅」という究極の距離が完全な美の条件となる。この一文は「Effacement（消去）」というタイトルの詩的定式として機能する：自己消去→美の完全化という等式。",
+      "targetId": "weil_decreation",
+      "targetParagraphId": 15
+    },
+    {
+      "paragraphId": 7,
+      "type": "commentary",
+      "anchor": "Quand je suis quelque part, je souille le silence du ciel et de la terre par ma respiration et le battement de mon cœur.",
+      "body": "「私がどこかにいるとき、私の呼吸と心臓の鼓動で天と地の沈黙を汚す（je souille le silence du ciel et de la terre par ma respiration et le battement de mon cœur）」──生命の最小単位（呼吸・心拍）が「汚染（souillure）」として定義される：自我の消去の要求が生命プロセスそのものの消去まで及ぶ。「Voir un paysage tel qu'il est quand je n'y suis pas（私がそこにいないときのあるがままの風景を見ること）」──認識論的逆説：「私がいないときの風景」は定義上「私には見えない」──この命題は達成不可能な認識を指す。「Le créateur et la créature échangeront leurs secrets（創造者と被造物は秘密を交換し合う）」──「私」の不在が神と世界の直接的「秘密の交換」を可能にする。最終引用「Et la mort à mes yeux ravissant la clarté / Rend au jour qu'ils souillaient toute sa pureté（死が私の目から光を奪うことで、私の目が汚していた昼に、その純粋さを返す）」──ラシーヌ『フェードル』第5幕第7場のテレジーヌ（Théramène）の語りからの引用：フェードルの死の描写が、ヴェイユの「消去」の詩的定式として章を閉じる。「死→光の純粋化」という逆転が「自我の消去→美の完全化」（§6）の詩的形象として機能する。",
+      "targetId": "weil_pesanteur_beaute"
+    }
+  ]
+}
