@@ -221,7 +221,7 @@ export default function FlashcardApp() {
       onClick={() => fc.setMode(value)}
       className={`flex-1 py-2 text-xs font-medium transition-colors font-sans ${
         fc.mode === value
-          ? darkMode ? 'bg-amber-700 text-amber-100' : 'bg-stone-800 text-white'
+          ? darkMode ? 'bg-[#8a7a5a] text-amber-100' : 'bg-stone-800 text-white'
           : darkMode ? 'text-zinc-400 hover:bg-zinc-800' : 'text-stone-500 hover:bg-stone-100'
       }`}
     >
