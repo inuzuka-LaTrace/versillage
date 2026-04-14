@@ -1,0 +1,99 @@
+{
+  "id": "weil_la_violence",
+  "title": "La Pesanteur et la Grâce — La violence",
+  "author": "Simone Weil",
+  "source": "La Pesanteur et la Grâce, Plon, Paris, 1947（死後刊行、編者Gustave Thibon）。底本: Wikisource: https://fr.wikisource.org/wiki/La_Pesanteur_et_la_Grâce/17",
+  "year": "1940–1942",
+  "firstPublication": "La Pesanteur et la Grâce, Plon, Paris, 1947（死後4年、Gustave Thibon編）",
+  "difficulty": "上級",
+  "category": "weil",
+  "originalLang": "fr-FR",
+  "modernRelevance": "★★★★★",
+  "context": "『重力と恩寵』第17章「暴力（La violence）」。ヴェイユの暴力論・非暴力論・戦争倫理の核心的テクスト。「死は人間に与えられた最も貴重なもの」という逆説的命題から始まり、「有効な非暴力（non-violence efficace）」の条件、戦争の原因としての宇宙所有の誤解、戦時における殺害の条件という四つの主題を展開する。「有効な非暴力」の概念──単なる不抵抗主義ではなく、物理的力と等価の「放射（rayonnement）」の力を持つ非暴力のみが道徳的に正当化される──はガンジーとの比較において定式化される。章は「戦争とエロスは人間の間の幻想と嘘の二大源泉」という命題によって、ヴェイユの愛論・affliction論と暴力論を接続する。ホメロス読解エッセイ「イリアスまたは力の詩篇（L'Iliade ou le poème de la force, 1940）」との直接的連絡がある。",
+  "keywords": [
+    "暴力",
+    "非暴力",
+    "有効な非暴力",
+    "死の貴重さ",
+    "戦争とエロス",
+    "放射のエネルギー",
+    "殺害の条件",
+    "ガンジー",
+    "宇宙の所有",
+    "ヴェイユ思想"
+  ],
+  "relatedTexts": [
+    "weil_accepter_le_vide",
+    "weil_decreation",
+    "weil_effacement",
+    "weil_necessite",
+    "weil_les_astres"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "original": "La mort est ce qui a été donné de plus précieux à l'homme. C'est pourquoi l'impiété suprême est d'en mal user. Mal mourir. Mal tuer. (Mais comment échapper à la fois au suicide et au meurtre ?) Après la mort, l'amour. Problème analogue : ni mauvaise jouissance, ni mauvaise privation. La guerre et Éros sont les deux sources d'illusion et de mensonge parmi les hommes. Leur mélange est la plus grande impureté.",
+      "provisionalTranslation": "死は人間に与えられた最も貴重なものだ。それゆえに、それを悪用することが最高の不敬である。悪く死ぬこと。悪く殺すこと。（しかしどうやって自殺と殺人の双方を同時に逃れるのか？）死の後に、愛。同様の問題：悪い享楽も悪い剥奪もいけない。戦争とエロスは人間の間の幻想と嘘の二大源泉である。両者の混合が最大の不純である。"
+    },
+    {
+      "id": 2,
+      "original": "S'efforcer de substituer de plus en plus dans le monde la non-violence efficace à la violence.",
+      "provisionalTranslation": "世界の中で暴力に代わる有効な非暴力を次第に増やしていくよう努力すること。"
+    },
+    {
+      "id": 3,
+      "original": "La non-violence n'est bonne que si elle est efficace. Ainsi, question du jeune homme à Ghandi concernant sa sœur. La réponse devrait être : use de la force, à moins que tu ne sois tel que tu puisses la défendre, avec autant de probabilité de succès, sans violence. À moins que tu ne possèdes un rayonnement dont l'énergie (c'est-à-dire l'efficacité possible, au sens le plus matériel) soit égale à celle contenue dans tes muscles.\nS'efforcer de devenir tel qu'on puisse être non-violent.\nCela dépend aussi de l'adversaire.",
+      "provisionalTranslation": "非暴力は有効である場合にのみ良いものだ。こうして、ガンジーへの若者の妹についての問い。答えはこうあるべきだ：力を使え、ただしお前が、同程度の成功の確率で、暴力なしに彼女を守ることができるような存在でない限り。お前の筋肉の中に含まれるエネルギーと等しいエネルギー（すなわち最も物質的な意味での可能な有効性）を持つ放射を持っていない限り。\n非暴力でいられるような存在になるよう努力すること。\nそれはまた相手にも依る。"
+    },
+    {
+      "id": 4,
+      "original": "Cause des guerres : chaque homme, chaque groupe humain se sent à juste titre légitime maître et possesseur de l'univers. Mais cette possession est mal comprise, faute de savoir que l'accès — pour autant qu'il est possible à l'homme sur terre — en passe, pour chacun, par son propre corps.\nAlexandre est à un paysan propriétaire ce qu'est don Juan à un mari heureux.",
+      "provisionalTranslation": "戦争の原因：すべての人間、すべての人間集団が、宇宙の正当な主人かつ所有者として正当に自分を感じる。しかしこの所有は誤って理解されている、アクセスが──地上の人間に可能な限りにおいて──各人にとって自分自身の身体を通るということを知らないために。\nアレクサンドロスと土地所有の農民の関係は、ドン・ファンと幸福な夫の関係に等しい。"
+    },
+    {
+      "id": 5,
+      "original": "Guerre. Maintenir intact en soi l'amour de la vie ; ne jamais infliger la mort sans l'accepter pour soi.\nAu cas où la vie de X… serait liée à la sienne propre au point que les deux morts doivent être simultanées, voudrait-on pourtant qu'il meure ? Si le corps et l'âme tout entière aspirent à la vie et si pourtant, sans mentir, on peut répondre oui, alors on a le droit de tuer.",
+      "provisionalTranslation": "戦争。自分の中に生への愛を損なわずに保つ；自分のために受け入れることなしに決して死を与えないこと。\nもしXの命が自分自身の命に、二つの死が同時でなければならないほど結びついているとした場合、それでもなお彼の死を望むだろうか？身体と魂全体が生を切望しながら、それでもなお、嘘をつかずに、イエスと答えられるなら、そのときに殺す権利がある。"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "La mort est ce qui a été donné de plus précieux à l'homme. C'est pourquoi l'impiété suprême est d'en mal user.",
+      "body": "「死は人間に与えられた最も貴重なもの（La mort est ce qui a été donné de plus précieux à l'homme）」──受動態の非人称構文「a été donné（与えられた）」が贈与の主体を隠す：誰が死を与えたか？神か、必然性か。「貴重さ（précieux）」という価値語を死に適用する大胆な逆転──ヴェイユの思想において死は「脱創造」の最終形態として最高の価値を持つ（「Décréation」章§27「死。過去も未来もない瞬間的な状態。永遠へのアクセスに不可欠」）。「悪く死ぬ（mal mourir）。悪く殺す（mal tuer）」──二つの「悪用」の並列。括弧内「どうやって自殺と殺人の双方を同時に逃れるのか（Mais comment échapper à la fois au suicide et au meurtre）」という問い──「悪く死ぬ」（自己への殺人）と「悪く殺す」（他者への暴力）の二項が対称的に提示される。「戦争とエロスは人間の間の幻想と嘘の二大源泉（La guerre et Éros sont les deux sources d'illusion et de mensonge）」──「Iliade ou le poème de la force」（1940）でのホメロス読解の核心命題との連絡：「力（force）」は所有者を破壊し、対象者を物化する──力としての戦争が幻想を生む同じ構造が、エロスにも働く。「Accepter le vide」§2「敬嘆と憐憫（とりわけその混合）は現実のエネルギーをもたらす。しかしそれなしで済まさなければならない」──戦争とエロスの「混合（mélange）」が最大の不純であるというここの命題と対応。",
+      "targetId": "weil_decreation",
+      "targetParagraphId": 27
+    },
+    {
+      "paragraphId": 2,
+      "type": "prosody",
+      "anchor": "S'efforcer de substituer de plus en plus dans le monde la non-violence efficace à la violence.",
+      "body": "章全体で最も短い段落──一文のみ。不定詞「S'efforcer de（努力すること）」の命令的使用が非人称的要求を形成する。「有効な（efficace）」というイタリック体の強調──ヴェイユの非暴力論が単純な不抵抗主義ではないことの予告：§3で「有効性（efficacité）」の条件が詳細に展開される。「de plus en plus（次第に増やしながら）」という漸進的副詞句：理想の即時実現ではなく段階的置換としての非暴力──歴史的実践論の含意。「Décréation」章§20「普通の行為を行うことに非凡な困難を見出すことは感謝すべき恩寵」との照応：実践（「努力すること」）の重視。この一文段落は「Effacement」章§6「Que je disparaisse（私が消えるように）」と同じ機能を果たす：前後の議論の圧縮された核心として孤立する。",
+      "targetId": "weil_effacement",
+      "targetParagraphId": 6
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "La non-violence n'est bonne que si elle est efficace.",
+      "body": "「非暴力は有効である場合にのみ良いものだ（La non-violence n'est bonne que si elle est efficace）」──ヴェイユの非暴力論の核心的逆説。道徳的優位性（非暴力は善い）を認めながら、即座に条件（「有効である場合にのみ」）を付す：有効でない非暴力は「良い」とは言えない。これは単純平和主義・絶対的非暴力主義への批判。「ガンジーへの若者の妹についての問い」──ガンジーの非暴力運動への実際の批判：「もし妹が暴力的な攻撃を受けたら非暴力で守れるか？」という問い。ヴェイユの答えは「守れないなら力を使え」という現実主義。「放射（rayonnement）」──ヴェイユの独自概念。精神的卓越性・存在の純粋さが物理的な力と等価の「有効性（efficacité）」を持つという命題：魂の「重力（pesanteur）」に対する「恩寵（grâce）」の力の等式化。「Décréation」章§5「もし私たちが神の愛の直接的な放射（rayonnement direct）にさらされるなら蒸発してしまう」──神の「放射」という語が人間的文脈に転用されている：聖人の「放射」が神の愛の放射の人間的等価物として機能する。"
+    },
+    {
+      "paragraphId": 4,
+      "type": "commentary",
+      "anchor": "Cause des guerres : chaque homme, chaque groupe humain se sent à juste titre légitime maître et possesseur de l'univers.",
+      "body": "「戦争の原因：すべての人間、すべての人間集団が、宇宙の正当な主人かつ所有者として正当に自分を感じる（à juste titre…légitime）」──「正当に（à juste titre）」と「正当な（légitime）」の二重の正当化が逆説を構造化する：宇宙への欲求そのものは正当であり、その「誤解（mal comprise）」が戦争を引き起こす。「アクセスが自分自身の身体を通る（en passe, pour chacun, par son propre corps）」──身体の固有性が宇宙へのアクセスの条件：各人は自分の感覚・知覚・身体を通じてのみ「宇宙の所有者」となれる。これは普遍（宇宙の所有）と個別（各自の身体）の媒介論。「アレクサンドロスと農民」「ドン・ファンと幸福な夫」という二つの比較──征服者と所有者の対比：アレクサンドロスは宇宙を「征服」しようとするが、農民は自分の土地を「所有」している──征服は所有ではなく、その誤解が戦争の原因。ドン・ファンの比喩：享楽的征服（エロス的暴力）と真の愛（幸福な夫の愛）の対比──§1「戦争とエロス」という二大幻想源泉が§4でこの比喩によって統合される。",
+      "targetId": "weil_accepter_le_vide",
+      "targetParagraphId": 1
+    },
+    {
+      "paragraphId": 5,
+      "type": "commentary",
+      "anchor": "Guerre. Maintenir intact en soi l'amour de la vie ; ne jamais infliger la mort sans l'accepter pour soi.",
+      "body": "「生への愛を損なわずに保つ；自分のために受け入れることなしに決して死を与えないこと（Maintenir intact en soi l'amour de la vie ; ne jamais infliger la mort sans l'accepter pour soi）」──殺害の倫理的条件の二命題。「l'amour de la vie（生への愛）」を保ちながら死を与えるという緊張：生を愛しながら死を受け入れ、その受け入れを条件として他者の死を与える。「自分のために受け入れる（l'accepter pour soi）」──「Accepter le vide」の「空虚を受け入れること」の暴力的文脈への適用：死の受け入れ（自己への死の同意）なしに他者への死の付与は「悪用」となる。「身体と魂全体が生を切望しながら、それでもなお、嘘をつかずに、イエスと答えられるなら（Si le corps et l'âme tout entière aspirent à la vie et si pourtant, sans mentir, on peut répondre oui）」──殺害の権利の条件：生を最大限に愛しながら、なおかつ嘘なく（sans mentir）他者の死を望める場合にのみ殺す権利がある。「sans mentir（嘘をつかずに）」という副詞句が決定的：自己欺瞞の排除が倫理的条件の核心。ヴェイユが1942年に自由フランス軍への参加を求めて作成した「看護師計画（projet d'infirmières de première ligne）」──前線での死の受け入れを前提とした活動計画──との思想的連絡。",
+      "targetId": "weil_accepter_le_vide",
+      "targetParagraphId": 5
+    }
+  ]
+}
