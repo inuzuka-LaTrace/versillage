@@ -9,7 +9,7 @@
   "category": "juan_de_la_cruz",
   "originalLang": "es-ES",
   "modernRelevance": "★★★★★",
-  "context": "十字架の聖ヨハネ（Juan de la Cruz, 1542–1591）の詩篇。「神的なものへの注解（Glosa a lo divino）」。glosa（注解詩）形式──4行の序連（cabeza）を設け、各連の末尾4行でその句を反復・変奏する。序連の核心は「no sé qué（何とも言えない何か）」──感覚・理性・意志・言語によって捉えられない神的なものへの欲望の定式。この「no sé qué」は「Cántico espiritual」§7「un no sé qué que quedan balbuciendo（何とも言えない何かが口ごもりながら残る）」と同一の定式であり、ヨハネ詩篇全体を貫く言語不可能性の標識。各連は「no sé qué」への道程を異なる視点から展開する：有限の味覚の飽和（第1連）・寛大な心の上昇（第2連）・神的afflictionによる味覚の転覆（第3連）・被造物全体の疎外（第4連）・神性による意志の充填（第5連）・形なき孤独（第6連）・内的なものの卓越（第7連）・未獲得のものへの傾き（第8連）・感覚と知性の超越（第9連）。ヴェイユ「Cántico espiritual」注釈での「no sé qué」論（オクタビオ・パス引用）との直接的連絡。",
+  "context": "十字架の聖ヨハネ（Juan de la Cruz, 1542–1591）の詩篇。「神的なものへの注解（Glosa a lo divino）」。glosa（注解詩）形式──4行の序連（cabeza）を設け、各連の末尾4行でその句を反復・変奏する。序連の核心は「no sé qué（何とも語り得ない何か）」──感覚・理性・意志・言語によって捉えられない神的なものへの欲望の定式。この「no sé qué」は「Cántico espiritual」§7「un no sé qué que quedan balbuciendo（何とも語り得ない何かが口ごもりながら残る）」と同一の定式であり、ヨハネ詩篇全体を貫く言語不可能性の標識。各連は「no sé qué」への道程を異なる視点から展開する：有限の味覚の飽和（第1連）・寛大な心の上昇（第2連）・神的afflictionによる味覚の転覆（第3連）・被造物全体の疎外（第4連）・神性による意志の充填（第5連）・形なき孤独（第6連）・内的なものの卓越（第7連）・未獲得のものへの傾き（第8連）・感覚と知性の超越（第9連）。ヴェイユ「Cántico espiritual」注釈での「no sé qué」論（オクタビオ・パス引用）との直接的連絡。あるいはルートヴィヒ・ウィトゲンシュタイン『論理哲学論考』における名高い沈黙律「語り得ないものについては沈黙しなければならない」との共鳴。",
   "keywords": [
     "no sé qué",
     "言語不可能性",
@@ -35,61 +35,61 @@
       "id": 0,
       "verses": "preface",
       "original": "Por toda la hermosura\nnunca yo me perderé,\nsino por un no sé qué\nque se alcanza por ventura.",
-      "provisionalTranslation": "いかなる美のためにも\n私は迷子になることはない、\nただ何とも言えない何かのためだけに\n幸運によって達せられるその何かのために。"
+      "provisionalTranslation": "いかなる美のためにも\n私は迷子になることはない、\nただ何とも語り得ない何かのためだけに\n幸運によって達せられるその何かのために。"
     },
     {
       "id": 1,
       "verses": "v.1–8",
       "original": "Sabor de bien que es finito,\nlo más que puede llegar\nes cansar el apetito\ny estragar el paladar;\ny así, por toda dulzura\nnunca yo me perderé,\nsino por un no sé qué\nque se halla por ventura.",
-      "provisionalTranslation": "有限の善の味は、\n到達できる最大限において\n食欲を疲れさせ\n味覚を損なうことだ；\nこのように、いかなる甘さのためにも\n私は迷子になることはない、\nただ何とも言えない何かのためだけに\n幸運によって見つかるその何かのために。"
+      "provisionalTranslation": "有限の善の味は、\n到達できる最大限において\n食欲を疲れさせ\n味覚を損なうことだ；\nこのように、いかなる甘さのためにも\n私は迷子になることはない、\nただ何とも語り得ない何かのためだけに\n幸運によって見つかるその何かのために。"
     },
     {
       "id": 2,
       "verses": "v.9–16",
       "original": "El corazón generoso\nnunca cura de parar\ndonde se puede pasar,\nsino en más dificultoso;\nnada le causa hartura,\ny sube tanto su fe,\nque gusta de un no sé qué\nque se halla por ventura.",
-      "provisionalTranslation": "寛大な心は\n通り過ぎることのできる場所に\n留まることを気にかけない、\nより困難な場所にのみ留まる；\n何も飽満をもたらさず、\n信仰はこれほど高く昇り、\n何とも言えない何かを味わう\n幸運によって見つかるその何かを。"
+      "provisionalTranslation": "寛大な心は\n通り過ぎることのできる場所に\n留まることを気にかけない、\nより困難な場所にのみ留まる；\n何も飽満をもたらさず、\n信仰はこれほど高く昇り、\n何とも語り得ない何かを味わう\n幸運によって見つかるその何かを。"
     },
     {
       "id": 3,
       "verses": "v.17–24",
       "original": "El que de amor adolece,\ndel divino ser tocado,\ntiene el gusto tan trocado\nque a los gustos desfallece;\ncomo el que con calentura\nfastidia el manjar que ve,\ny apetece un no sé qué\nque se halla por ventura.",
-      "provisionalTranslation": "愛によって病む者は、\n神的存在に触れられて、\n味覚をこれほど転覆させられているので\n喜びに対して衰弱する；\n熱で食べ物を見て\n嫌悪する者のように、\n何とも言えない何かを欲望する\n幸運によって見つかるその何かを。"
+      "provisionalTranslation": "愛によって病む者は、\n神的存在に触れられて、\n味覚をこれほど転覆させられているので\n喜びに対して衰弱する；\n熱で食べ物を見て\n嫌悪する者のように、\n何とも語り得ない何かを欲望する\n幸運によって見つかるその何かを。"
     },
     {
       "id": 4,
       "verses": "v.25–32",
       "original": "No os maravilléis de aquesto\nque el gusto se quede tal,\nporque es la causa del mal\najena de todo el resto;\ny así toda criatura\nenajenada se ve\ny gusta de un no sé qué\nque se halla por ventura.",
-      "provisionalTranslation": "これに驚くことはない、\n味覚がそのような状態に留まることは、\nなぜなら悪の原因が\n他のすべてと無縁だから；\nこのようにすべての被造物は\n疎外されているのを見て\n何とも言えない何かを味わう\n幸運によって見つかるその何かを。"
+      "provisionalTranslation": "これに驚くことはない、\n味覚がそのような状態に留まることは、\nなぜなら悪の原因が\n他のすべてと無縁だから；\nこのようにすべての被造物は\n疎外されているのを見て\n何とも語り得ない何かを味わう\n幸運によって見つかるその何かを。"
     },
     {
       "id": 5,
       "verses": "v.33–40",
       "original": "Que estando la voluntad\nde Divinidad tocada,\nno puede quedar pagada\nsino con Divinidad;\nmas, por ser tal su hermosura\nque sólo se ve por fe,\ngústala en un no sé qué\nque se halla por ventura.",
-      "provisionalTranslation": "意志が\n神性に触れられているとき、\n神性によってしか\n満たされることができない；\nしかし、その美がこのようなものゆえ\n信仰によってのみ見られるので、\n何とも言えない何かの中でそれを味わう\n幸運によって見つかるその何かを。"
+      "provisionalTranslation": "意志が\n神性に触れられているとき、\n神性によってしか\n満たされることができない；\nしかし、その美がこのようなものゆえ\n信仰によってのみ見られるので、\n何とも語り得ない何かの中でそれを味わう\n幸運によって見つかるその何かを。"
     },
     {
       "id": 6,
       "verses": "v.41–48",
       "original": "Pues, de tal enamorado,\ndecidme si habréis dolor,\npues que no tiene sabor\nentre todo lo criado;\nsolo, sin forma y figura,\nsin hallar arrimo y pie,\ngustando allá un no sé qué\nque se halla por ventura.",
-      "provisionalTranslation": "さて、そのような恋する者について\n教えてくれ、あなたたちは苦しむだろうか、\nなぜなら彼は被造物すべての中に\n味を持たないのだから；\n孤独に、形も姿もなく、\n支えも足場も見つけずに、\nあちらで何とも言えない何かを味わいながら\n幸運によって見つかるその何かを。"
+      "provisionalTranslation": "さて、そのような恋する者について\n教えてくれ、あなたたちは苦しむだろうか、\nなぜなら彼は被造物すべての中に\n味を持たないのだから；\n孤独に、形も姿もなく、\n支えも足場も見つけずに、\nあちらで何とも語り得ない何かを味わいながら\n幸運によって見つかるその何かを。"
     },
     {
       "id": 7,
       "verses": "v.49–56",
       "original": "No penséis que el interior,\nque es de mucha más valía,\nhalla gozo y alegría\nen lo que acá da sabor;\nmas sobre toda hermosura,\ny lo que es y será y fue,\ngusta de allá un no sé qué\nque se halla por ventura.",
-      "provisionalTranslation": "内的なものが、\nはるかに価値が高いのだが、\nここで味を与えるものに\n喜びと歓びを見出すとは思わないでくれ；\nしかし、あらゆる美を超えて、\nあるもの・あるであろうもの・あったものを超えて、\nあちらで何とも言えない何かを味わう\n幸運によって見つかるその何かを。"
+      "provisionalTranslation": "内的なものが、\nはるかに価値が高いのだが、\nここで味を与えるものに\n喜びと歓びを見出すとは思わないでくれ；\nしかし、あらゆる美を超えて、\nあるもの・あるであろうもの・あったものを超えて、\nあちらで何とも語り得ない何かを味わう\n幸運によって見つかるその何かを。"
     },
     {
       "id": 8,
       "verses": "v.57–64",
       "original": "Más emplea su cuidado,\nquien se quiere aventajar,\nen lo que está por ganar\nque en lo que tiene ganado;\ny así, para más altura,\nyo siempre me inclinaré\nsobre todo a un no sé qué\nque se halla por ventura.",
-      "provisionalTranslation": "より多くの心を傾けるのは、\n優れたいと望む者が、\nすでに獲得したものより\nまだ獲得されていないものへ；\nこのように、より高みのために、\n私はいつもすべての上に\n何とも言えない何かへと傾くだろう\n幸運によって見つかるその何かへ。"
+      "provisionalTranslation": "より多くの心を傾けるのは、\n優れたいと望む者が、\nすでに獲得したものより\nまだ獲得されていないものへ；\nこのように、より高みのために、\n私はいつもすべての上に\n何とも語り得ない何かへと傾くだろう\n幸運によって見つかるその何かへ。"
     },
     {
       "id": 9,
       "verses": "v.65–72",
       "original": "Por lo que por el sentido\npuede acá comprehenderse\ny todo lo que entenderse,\naunque sea muy subido,\nni por gracia y hermosura\nyo nunca me perderé,\nsino por un no sé qué\nque se halla por ventura.",
-      "provisionalTranslation": "感覚によって\nここで把握できるものと、\nいかに崇高であっても\n理解できるものすべての、\nいかなる恩寵と美のためにも\n私は決して迷子になることはない、\nただ何とも言えない何かのためだけに\n幸運によって見つかるその何かのために。"
+      "provisionalTranslation": "感覚によって\nここで把握できるものと、\nいかに崇高であっても\n理解できるものすべての、\nいかなる恩寵と美のためにも\n私は決して迷子になることはない、\nただ何とも語り得ない何かのためだけに\n幸運によって見つかるその何かのために。"
     }
   ],
   "annotations": [
@@ -97,7 +97,7 @@
       "paragraphId": 0,
       "type": "commentary",
       "anchor": "sino por un no sé qué\nque se alcanza por ventura.",
-      "body": "序連の核心──「no sé qué（何とも言えない何か）」という定式が詩篇全体のライトモチーフとして確立される。この語はヨハネの詩篇で最も哲学的に密度の高い定式のひとつ。「no sé qué」は文法的に「私は知らない何か（I-know-not-what）」──知識・名称・定義の失敗として語られながら、欲望の対象を指定する逆説的命名。「Cántico espiritual」§7「un no sé qué que quedan balbuciendo（何とも言えない何かが口ごもりながら残る）」と同一定式の使用──被造物や使者が神について「口ごもりながら」しか語れない残余として「no sé qué」が出現するあの場面が、ここでは詩篇全体の主題として展開される。オクタビオ・パス『弓と竪琴』（El arco y la lira, 1956）が「no sé qué」をスペイン語詩における「言語の限界の定式」として分析する：詩は言えないものを言うための言語であり、「no sé qué」はその不可能性の自己言及的表現。「por ventura（幸運によって）」──「alcanza por ventura」の「por ventura」は偶然性・恩寵の非意図性：「no sé qué」は能動的探求によってではなく「幸運（=恩寵）によって」達せられる。ヴェイユ「Accepter le vide」最終命題「しかし自ら飛び込んではならない」──「no sé qué」は「飛び込み」ではなく「幸運」として訪れる。",
+      "body": "序連の核心──「no sé qué（何とも語り得ない何か）」という定式が詩篇全体のライトモチーフとして確立される。この語はヨハネの詩篇で最も哲学的に密度の高い定式のひとつ。「no sé qué」は文法的に「私は知らない何か（I-know-not-what）」──知識・名称・定義の失敗として語られながら、欲望の対象を指定する逆説的命名。これは、ウィトゲンシュタインが『論理哲学論考』の結びで提示した「語りえぬもの（Das Unaussprechliche）」の詩的変奏と言える。ウィトゲンシュタインにとって、世界の論理的構造を超えた「生の意味」や「神秘」は、言語によって写像（記述）することは不可能であり、ただ「示される（es zeigt sich）」だけのものである。「Cántico espiritual」における「no sé qué」は、まさにこの「示されるもの」を、記述の断念を通じて指示している。「Cántico espiritual」§7「un no sé qué que quedan balbuciendo（何とも語り得ない何かが口ごもりながら残る）」と同一定式の使用──被造物や使者が神について「口ごもりながら」しか語れない残余として「no sé qué」が出現するあの場面が、ここでは詩篇全体の主題として展開される。ここで「口ごもる（balbucear）」という行為は、ウィトゲンシュタインが論理的に厳密な言語（写像理論）の外部を指そうとして直面した「限界」の象徴的表現に他ならない。オクタビオ・パス『弓と竪琴』が「no sé qué」をスペイン語詩における「言語の限界の定式」として分析する：詩は語り得ないものを語るための言語であり、「no sé qué」はその不可能性の自己言及的表現。ウィトゲンシュタインが「語りえぬものについては、沈黙しなければならない」と命じたとき、その沈黙は単なる空白ではなく、言語の限界を画定することでその「外側」にある価値を際立たせる倫理的態度であった。聖ヨハネの「no sé qué」もまた、語り得なさを告白することで、語り得る領域を超えた絶対者を逆説的に召喚している。「por ventura（幸運によって）」──「alcanza por ventura」の「por ventura」は偶然性・恩寵の非意図性：「no sé qué」は能動的探求によってではなく「幸運（=恩寵）によって」達せられる。ヴェイユ「Accepter le vide」最終命題「しかし自ら飛び込んではならない」──「no sé qué」は「飛び込み」ではなく「幸運」として訪れる。『論考』におけるウィトゲンシュタインも、幸福や価値を「意図的な意志の結果」ではなく、「世界がそのままであること」の現れ（恩寵に近いもの）として捉えた。ヨハネにおける「幸運」とウィトゲンシュタインにおける「限界の外側からの示し」は、人間の理知の支配が及ばない場所で生じるという点において一致している。",
       "targetId": "juan_de_la_cruz_cantico_espiritual",
       "targetParagraphId": 7
     },
@@ -129,7 +129,7 @@
       "paragraphId": 5,
       "type": "commentary",
       "anchor": "Que estando la voluntad\nde Divinidad tocada,\nno puede quedar pagada\nsino con Divinidad;",
-      "body": "「意志が神性に触れられているとき、神性によってしか満たされることができない（no puede quedar pagada sino con Divinidad）」──第5連が詩篇の神学的核心命題を定式化する。「touched by Divinity」の不可逆性：一度神性に触れた意志は有限の対象では満たされない──欲望の根本的再編成。「mas, por ser tal su hermosura / que sólo se ve por fe（しかし、その美がこのようなものゆえ信仰によってのみ見られる）」──神性の美は信仰の「暗い認識」によってのみアクセス可能：「Noche oscura」§2「秘密の梯子（信仰）」の認識論的定式の反復。「gústala en un no sé qué（何とも言えない何かの中でそれを味わう）」──「信仰によってしか見られない美」を「no sé qué」として「味わう」：視覚的把握（ver）の不可能性と味覚的体験（gustar）の可能性の逆転。ヴェイユ「Celui qu'il faut aimer est absent」章§6「Rien de ce qui existe n'est absolument digne d'amour. Il faut donc aimer ce qui n'existe pas（存在するものはいずれも絶対的には愛に値しない。それゆえに存在しないものを愛さなければならない）」──「神性によってしか満たされない意志」がヴェイユの「存在しないものへの愛」の神秘主義的原型。",
+      "body": "「意志が神性に触れられているとき、神性によってしか満たされることができない（no puede quedar pagada sino con Divinidad）」──第5連が詩篇の神学的核心命題を定式化する。「touched by Divinity」の不可逆性：一度神性に触れた意志は有限の対象では満たされない──欲望の根本的再編成。「mas, por ser tal su hermosura / que sólo se ve por fe（しかし、その美がこのようなものゆえ信仰によってのみ見られる）」──神性の美は信仰の「暗い認識」によってのみアクセス可能：「Noche oscura」§2「秘密の梯子（信仰）」の認識論的定式の反復。「gústala en un no sé qué（何とも語り得ない何かの中でそれを味わう）」──「信仰によってしか見られない美」を「no sé qué」として「味わう」：視覚的把握（ver）の不可能性と味覚的体験（gustar）の可能性の逆転。ヴェイユ「Celui qu'il faut aimer est absent」章§6「Rien de ce qui existe n'est absolument digne d'amour. Il faut donc aimer ce qui n'existe pas（存在するものはいずれも絶対的には愛に値しない。それゆえに存在しないものを愛さなければならない）」──「神性によってしか満たされない意志」がヴェイユの「存在しないものへの愛」の神秘主義的原型。",
       "targetId": "weil_celui_quil_faut_aimer",
       "targetParagraphId": 6
     },
@@ -145,7 +145,7 @@
       "paragraphId": 7,
       "type": "prosody",
       "anchor": "mas sobre toda hermosura,\ny lo que es y será y fue,\ngusta de allá un no sé qué\nque se halla por ventura.",
-      "body": "第7連の後半──「あらゆる美を超えて（sobre toda hermosura）、あるもの・あるであろうもの・あったものを超えて（lo que es y será y fue）、あちらで何とも言えない何かを味わう」。「y lo que es y será y fue」──三時制（現在・未来・過去）の網羅的列挙：時間の全様態を包含する形で「no sé qué」が時間を超越する。スペイン語の動詞順序（es / será / fue）が論理的順序（es / fue / será）を逆転させる：「過去（fue）」が最後に置かれることで、「no sé qué」が時間の流れを逆行する超越的次元として定位される。「sobre toda hermosura（あらゆる美を超えて）」──序連「Por toda la hermosura / nunca yo me perderé（いかなる美のためにも迷子になることはない）」との照応：「美（hermosura）」が各連末尾の「no sé qué」への否定的対比として繰り返し使われ、第7連でその「美」を「超える（sobre）」ものとして「no sé qué」が再定義される。「allá（あちらで）」──「Cántico espiritual」§13「las ínsulas extrañas（見知らぬ島々）」の彼方への指示詞：「no sé qué」は「ここ（acá）」ではなく「あちら（allá）」にあるという空間的超越。"
+      "body": "第7連の後半──「あらゆる美を超えて（sobre toda hermosura）、あるもの・あるであろうもの・あったものを超えて（lo que es y será y fue）、あちらで何とも語り得ない何かを味わう」。「y lo que es y será y fue」──三時制（現在・未来・過去）の網羅的列挙：時間の全様態を包含する形で「no sé qué」が時間を超越する。スペイン語の動詞順序（es / será / fue）が論理的順序（es / fue / será）を逆転させる：「過去（fue）」が最後に置かれることで、「no sé qué」が時間の流れを逆行する超越的次元として定位される。「sobre toda hermosura（あらゆる美を超えて）」──序連「Por toda la hermosura / nunca yo me perderé（いかなる美のためにも迷子になることはない）」との照応：「美（hermosura）」が各連末尾の「no sé qué」への否定的対比として繰り返し使われ、第7連でその「美」を「超える（sobre）」ものとして「no sé qué」が再定義される。「allá（あちらで）」──「Cántico espiritual」§13「las ínsulas extrañas（見知らぬ島々）」の彼方への指示詞：「no sé qué」は「ここ（acá）」ではなく「あちら（allá）」にあるという空間的超越。"
     },
     {
       "paragraphId": 9,
