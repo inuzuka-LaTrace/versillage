@@ -1491,7 +1491,7 @@ export default function App() {
                 )}
               </div>
             )}
-            <p className={`text-sm font-IBM Plex sans JP ${textSecondary}`}>{currentText.author}　{currentText.year}年</p>
+            <p className={`text-sm font-IBM Plex sans JP ${textSecondary}`}>{currentText.author}　{currentText.year}</p>
             {currentText.source && (
               <p className={`mt-0.5 text-[10px] leading-relaxed font-sans truncate ${darkMode ? 'text-[#5a4a38]' : 'text-[#a08060]/80'}`}
                 title={currentText.source}>
