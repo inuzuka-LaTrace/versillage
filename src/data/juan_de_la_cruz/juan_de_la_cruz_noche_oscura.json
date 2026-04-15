@@ -2,7 +2,7 @@
   "id": "juan_de_la_cruz_noche_oscura",
   "title": "Noche oscura",
   "author": "San Juan de la Cruz",
-  "source": "Obras espirituales que encaminan a una alma a la perfecta unión con Dios, Francisco de Orche, Barcelona, 1618 Wikisource: https://es.wikisource.org/wiki/Noche_oscura",
+  "source": "  "Obras espirituales que encaminan a una alma a la perfecta unión con Dios, Francisco de Orche, Barcelona, 1618, Wikisource: https://es.wikisource.org/wiki/Noche_oscura",
   "year": "1578–1579",
   "firstPublication": "Obras espirituales que encaminan a una alma a la perfecta unión con Dios, Francisco de Orche, Barcelona, 1618",
   "difficulty": "上級",
@@ -27,7 +27,12 @@
     "weil_necessite",
     "weil_eclair",
     "weil_les_astres",
-    "weil_pesanteur_beaute"
+    "weil_pesanteur_beaute",
+    "weil_decreation",
+    "weil_effacement",
+    "weil_celui_quil_faut_aimer",
+    "weil_atheisme_purificateur",
+    "weil_dressage"
   ],
   "paragraphs": [
     {
@@ -90,13 +95,17 @@
       "paragraphId": 0,
       "type": "commentary",
       "anchor": "Canciones del alma que se goza de haber llegado al alto estado de la perfección, que es la unión con Dios, por el camino de la negación espiritual.",
-      "body": "副題が詩篇全体の神学的座標を定める：「霊的否定（negación espiritual）の道」──これはヨハネの神秘神学の核心概念「無（nada）」の実践、すなわちすべての被造物的な快楽・知識・意志を系統的に否定する行程──による「神との合一（unión con Dios）」の達成。副題はすでに「幸福な終点」から語っており、詩篇本文の「夜の旅」は回顧的叙述となる。ヴェイユ「Accepter le vide」の「自分が持てる全ての力を行使しないことは、空虚を耐え忍ぶことだ」という「霊的否定」の哲学的再定式が、ヨハネのこの副題と直接対応する──どちらも「否定」を目的ではなく「合一（あるいは恩寵）」への手段として位置づける。"
+      "body": "副題が詩篇全体の神学的座標を定める：「霊的否定（negación espiritual）の道」──これはヨハネの神秘神学の核心概念「無（nada）」の実践、すなわちすべての被造物的な快楽・知識・意志を系統的に否定する行程──による「神との合一（unión con Dios）」の達成。副題はすでに「幸福な終点」から語っており、詩篇本文の「夜の旅」は回顧的叙述となる。ヴェイユ「Accepter le vide」の「自分が持てる全ての力を行使しないことは、空虚を耐え忍ぶことだ」という「霊的否定」の哲学的再定式が、ヨハネのこの副題と直接対応する──どちらも「否定」を目的ではなく「合一（あるいは恩寵）」への手段として位置づける。さらに「Décréation」章§31「神が被造物の協力を必要とする臨在は、神が霊である限りにおいての臨在であり、第二の臨在は脱創造の臨在である」──ヴェイユの「脱創造の臨在」がヨハネの「霊的否定の道」の哲学的散文として機能する：どちらも「被造物の協力（同意・否定）」によって「霊としての神」との接触が開かれる構造を持つ。",
+      "targetId": "weil_decreation",
+      "targetParagraphId": 31
     },
     {
       "paragraphId": 1,
       "type": "commentary",
       "anchor": "En una noche oscura,\ncon ansias, en amores inflamada",
-      "body": "「ある暗い夜に、思い焦がれながら、愛の炎に燃えて」──開始の二行が「暗夜」概念の逆説的二重性を確立する。「noche oscura（暗い夜）」は感覚的・霊的乾燥の時期であると同時に、「ansias（思い焦がれ）」と「amores inflamada（愛の炎）」という強烈な情動を抱えた魂の出発点でもある。ヴェイユ「Accepter le vide」§2の「Vide : nuit obscure（空虚：暗い夜）」という二語の定式がこの詩行を直接典拠とする──ヴェイユはヨハネの「noche oscura」を「vide（空虚）」と同一視することで、神秘主義的乾燥を哲学的空虚概念へと変換した。ブランショ『文学の空間』（L'Espace littéraire, 1955）での「暗夜」論：ブランショはヨハネの神秘主義的夜を「書くことの不可能性の夜」として転用し、詩人が言語の失敗に直面する「本質的孤独」の空間として論じる。"
+      "body": "「ある暗い夜に、思い焦がれながら、愛の炎に燃えて」──開始の二行が「暗夜」概念の逆説的二重性を確立する。「noche oscura（暗い夜）」は感覚的・霊的乾燥の時期であると同時に、「ansias（思い焦がれ）」と「amores inflamada（愛の炎）」という強烈な情動を抱えた魂の出発点でもある。ヴェイユ「Accepter le vide」§2の「Vide : nuit obscure（空虚：暗い夜）」という二語の定式がこの詩行を直接典拠とする──ヴェイユはヨハネの「noche oscura」を「vide（空虚）」と同一視することで、神秘主義的乾燥を哲学的空虚概念へと変換した。「Décréation」章§14「神は自らの神性を空にした（Il s'est vidé de sa divinité）」──神のケノーシス的「暗夜」（神が自己の神性を空にする）が、魂の「noche oscura」（感覚・霊性の空虚化）の神学的根拠として機能する。「Effacement」章§1「神は私に存在を与えた、私がそれを神に返すために」との照応：「暗夜」の出発点（家を出ること）が「存在の返還」という脱創造的行為の詩的形象。ブランショ『文学の空間』（L'Espace littéraire, 1955）での「暗夜」論：ブランショはヨハネの神秘主義的夜を「書くことの不可能性の夜」として転用し、詩人が言語の失敗に直面する「本質的孤独」の空間として論じる。",
+      "targetId": "weil_decreation",
+      "targetParagraphId": 14
     },
     {
       "paragraphId": 1,
@@ -114,7 +123,9 @@
       "paragraphId": 3,
       "type": "commentary",
       "anchor": "sin otra luz y guía\nsino la que en el corazón ardía.",
-      "body": "「他の光も道標もなく、ただ心の中で燃えていたものだけを頼りに」──第3連の最終二行が詩篇の認識論的中心命題を形成する。外部の光（感覚・理性・伝統）をすべて消去した後に残る「心の火（la que en el corazón ardía）」──これがヨハネの「信仰の光」であり、逆説的に最も確かな認識の源泉。「Les Astres」詩篇最終行「Il est là dans le cœur soudain, leur feu divin（突然心の中にある、彼らの神の火が）」との照応：ヴェイユの「心の中の神の火」がヨハネのこの行の詩的変奏として読める──外部の星の火（必然・重力）が沈黙とよろめきの後に内部から突然現れる構造。ヴァレリー「Orphée」（L'amateur de poèmes）での「内的光（lumière intérieure）」との比較：ヴァレリーの詩人の自己照明は意識の産物であるのに対し、ヨハネの心の火は受動的に燃え続けるものとして描かれる。"
+      "body": "「他の光も道標もなく、ただ心の中で燃えていたものだけを頼りに」──第3連の最終二行が詩篇の認識論的中心命題を形成する。外部の光（感覚・理性・伝統）をすべて消去した後に残る「心の火（la que en el corazón ardía）」──これがヨハネの「信仰の光」であり、逆説的に最も確かな認識の源泉。「Les Astres」詩篇最終行「Il est là dans le cœur soudain, leur feu divin（突然心の中にある、彼らの神の火が）」との照応：ヴェイユの「心の中の神の火」がヨハネのこの行の詩的変奏として読める──外部の星の火（必然・重力）が沈黙とよろめきの後に内部から突然現れる構造。「Celui qu'il faut aimer est absent」章§4「荒野にいなければならない。なぜなら愛さなければならない方は不在だから」──ヴェイユが引くラシーヌ「荒れた東方（Dans l'Orient désert）」の荒野が、この第3連「他の光も道標もなく（sin otra luz y guía）」という内的孤立の状態と同型：外的支えをすべて失った後に「心の火」だけが残る荒野の構造。「Athéisme purificateur」章§1「私は神が存在しないことを全く確信している、その意味で現実のものは何も私が思い描けることに似ていないことを確信している」──ヨハネの「心の火」は「思い描けない（inconcevable）」神の認識を体現する：感覚・理性では把握できないものへの確信。",
+      "targetId": "weil_celui_quil_faut_aimer",
+      "targetParagraphId": 4
     },
     {
       "paragraphId": 4,
@@ -126,7 +137,9 @@
       "paragraphId": 5,
       "type": "commentary",
       "anchor": "¡Oh noche que guiaste!\n¡Oh noche amable más que el alborada!\n¡Oh noche que juntaste\nAmado con amada,\namada en el Amado transformada!",
-      "body": "詩篇の転換点──第5連が叙事的回顧から直接的な「夜への讃歌（apostrophe）」へと様式を転換する。「¡Oh noche...! ¡Oh noche...! ¡Oh noche...!」という三重のアナフォラが感嘆の高揚を形成する。「Amado con amada, / amada en el Amado transformada（愛する者と愛される者を……愛される者が愛する者の中へと変容されて）」──「amado/amada」の語根反復による包含と変容の論理：分離していた二者が「変容（transformada）」によって一者となる。神秘神学における「神化（theosis/deificación）」──魂が神の性質に参与することで神そのものへと変容する──の詩的表現。ヴェイユが「脱創造（décréation）」と呼ぶ自己消滅の過程：「私」が消えて「神の中に」変容されることと、「amada en el Amado transformada」の変容は同じ方向を指す。"
+      "body": "詩篇の転換点──第5連が叙事的回顧から直接的な「夜への讃歌（apostrophe）」へと様式を転換する。「¡Oh noche...! ¡Oh noche...! ¡Oh noche...!」という三重のアナフォラが感嘆の高揚を形成する。「Amado con amada, / amada en el Amado transformada（愛する者と愛される者を……愛される者が愛する者の中へと変容されて）」──「amado/amada」の語根反復による包含と変容の論理：分離していた二者が「変容（transformada）」によって一者となる。神秘神学における「神化（theosis/deificación）」──魂が神の性質に参与することで神そのものへと変容する──の詩的表現。ヴェイユ「Décréation」§15「私が無になるにつれて、神は私を通じて自己を愛する（À mesure que je deviens rien, Dieu s'aime à travers moi）」──「amada en el Amado transformada」の変容の哲学的散文：魂が「無」になることで神の自己愛の通路となる。「脱創造」は「変容（transformación）」の哲学的等価物。「Effacement」章§3「私が自らの魂から身を引くことができたなら、このテーブルが神に見られるという比類ない幸運を持てる」──「消去」としての変容：魂が自己を消去することで神が世界を「見る」通路となる──「amada en el Amado」の変容の現象学的定式。",
+      "targetId": "weil_decreation",
+      "targetParagraphId": 15
     },
     {
       "paragraphId": 6,
@@ -144,7 +157,7 @@
       "paragraphId": 8,
       "type": "commentary",
       "anchor": "Quedéme y olvidéme,\nel rostro recliné sobre el Amado,\ncesó todo y dejéme,\ndejando mi cuidado\nentre las azucenas olvidado.",
-      "body": "詩篇の結尾連──「留まり（Quedéme）、忘れ（olvidéme）……すべては止み（cesó todo）、我を手放した（dejéme）……忘れ去って（olvidado）」という自己消滅の動詞の連鎖が収束する。「olvidarse（忘れる）」という再帰動詞の二度の使用：自らを忘れる（olvidéme）と、憂いを忘れる（olvidado）──自己が消え去った後に憂いも消える。「cesó todo（すべては止み）」──ヨハネの神秘主義における「万物の停止」：時間・感覚・自己意識のすべてが合一の瞬間に停止する。ブランショ『文学の空間』での「作品の完成」──作品は完成の瞬間に詩人の意識から離れて「それ自身の夜」へと入る──という命題が、「cesó todo」の後に訪れる「azucenas（百合）の中の忘却」と共鳴する：詩人も魂も、完成の後に自己を手放す。ヴェイユ「Accepter le vide」最終命題「Mais il ne faut pas s'y jeter（しかし自ら飛び込んではならない）」との対照：ヴェイユが「空虚への自発的な飛び込み」を禁じたのに対し、ヨハネの結尾は飛び込みではなく「静かな手放し（dejéme）」として描かれる──能動的放棄ではなく、合一の後の自然な忘却として。",
+      "body": "詩篇の結尾連──「留まり（Quedéme）、忘れ（olvidéme）……すべては止み（cesó todo）、我を手放した（dejéme）……忘れ去って（olvidado）」という自己消滅の動詞の連鎖が収束する。「olvidarse（忘れる）」という再帰動詞の二度の使用：自らを忘れる（olvidéme）と、憂いを忘れる（olvidado）──自己が消え去った後に憂いも消える。「cesó todo（すべては止み）」──ヨハネの神秘主義における「万物の停止」：時間・感覚・自己意識のすべてが合一の瞬間に停止する。ブランショ『文学の空間』での「作品の完成」──作品は完成の瞬間に詩人の意識から離れて「それ自身の夜」へと入る──という命題が、「cesó todo」の後に訪れる「azucenas（百合）の中の忘却」と共鳴する。ヴェイユ「Accepter le vide」最終命題「しかし自ら飛び込んではならない（Mais il ne faut pas s'y jeter）」との対照：ヴェイユが「空虚への自発的な飛び込み」を禁じたのに対し、ヨハネの結尾は飛び込みではなく「静かな手放し（dejéme）」として描かれる──能動的放棄ではなく、合一の後の自然な忘却として。「Dressage」章§13「霊的領域において善は確実に善を生産する──自分では何も手に入れられず、すべてを別のところから待つ領域」──「cesó todo y dejéme」という万物の停止・自己放棄が「すべてを別のところから待つ」霊的領域への到達の詩的形象：訓練の終点として「dejarse（手放すこと）」が位置づけられる。",
       "targetId": "weil_accepter_le_vide",
       "targetParagraphId": 5
     },
@@ -155,6 +168,30 @@
       "body": "「すべては止み、我を手放した……百合の花々の中に忘れ去って」──雅歌2:16「私の愛する者は私のもの、私は彼のもの。彼は百合の花の間で群れを養う」の直接的典拠。ヴェイユ「Les Astres」最終行「Il est là dans le cœur soudain, leur feu divin（突然心の中にある、彼らの神の火が）」との構造的対応：「Les Astres」では沈黙とよろめきの後に「突然（soudain）」神の火が内から現れ、「Noche oscura」ではすべてが止んだ後に忘却と休息が訪れる──どちらも人間の能動性の極限における逆転として描かれる。",
       "targetId": "weil_les_astres",
       "targetParagraphId": 1
+    },
+    {
+      "paragraphId": 2,
+      "type": "intertextual",
+      "anchor": "A oscuras y segura,\npor la secreta escala disfrazada,",
+      "body": "「暗闇の中で、しかし確かに（a oscuras y segura）、秘密の梯子を変装して」──「変装（disfrazada）」という動詞が自己の消去・不可視化を意味する：神に「気づかれずに」出ていくためには自己を「変装」させる──存在の透明化として。ヴェイユ「Effacement」章§5「私の中の何かが『私』と言う限りにおいて、私はそれらと神との接触を奪う（dans la mesure où quelque chose en moi dit je）」──「変装（disfrazada）」は「je（私）」の発話を消去する行為として読める：自己を変装させること＝「私」と言うことをやめること。「Effacement」§1「謙遜とは神の外に存在することの拒否（L'humilité, c'est le refus d'exister en dehors de Dieu）」──「secreta escala（秘密の梯子）」を降りる謙遜な行為として第2連が定義される：「変装」は謙遜の詩的形象。",
+      "targetId": "weil_effacement",
+      "targetParagraphId": 1
+    },
+    {
+      "paragraphId": 4,
+      "type": "intertextual",
+      "anchor": "adonde me esperaba\nquien yo bien me sabía,\nen parte donde nadie parecía.",
+      "body": "「私をそこで待っていた、私がよく知っているあの方のもとへと、誰もいないと思われる場所へ（en parte donde nadie parecía）」──「誰もいないと思われる場所（en parte donde nadie parecía）」が神の待つ場所として指定される：「誰もいない」という不在が神の現前の条件として機能する。ヴェイユ「Celui qu'il faut aimer est absent」章§1「神は被造物の中に不在の形においてのみ現われることができる（Dieu ne peut être présent dans la création que sous la forme de l'absence）」──「誰もいないと思われる場所」がまさに「不在の形の神の現前」の詩的空間として読める。「Athéisme purificateur」章§3「偽の神──触れることができないことを除いてあらゆる点で真の神に似ている──は真の神へのアクセスを永久に妨げる」──「誰もいないと思われる場所」で「私がよく知っているあの方」を待つことは、表象可能な「偽の神」を超えた「触れることのできない真の神」への接近として読める。",
+      "targetId": "weil_celui_quil_faut_aimer",
+      "targetParagraphId": 1
+    },
+    {
+      "paragraphId": 6,
+      "type": "intertextual",
+      "anchor": "En mi pecho florido\nque entero para él sólo se guardaba,",
+      "body": "「私の花咲く胸に──それはただ彼のためだけにまるごと守られていた」──「まるごと守られていた（entero…se guardaba）」という受動完了態が、胸の空虚の能動的維持を示す：完全に「彼のためだけ」に保たれた空間。ヴェイユ「Décréation」章§2「私たちの存在は神の待機から、私たちの存在しないことへの同意からのみ作られている（Notre existence n'est faite que de son attente, de notre consentement à ne pas exister）」──「花咲く胸」が「存在しないことへの同意」として維持される空虚の空間：神の「待機（attente）」を迎え入れるために「まるごと守られた」器。「Effacement」章§3「私が自らの魂から身を引くことができたなら、このテーブルが神に見られるという幸運を持てる」──「花咲く胸」の「守られた空虚」は「Effacement」の実践の完成形として読める：完全に身を引いた魂の空間に神が「眠りに就く（quedó dormido）」。",
+      "targetId": "weil_decreation",
+      "targetParagraphId": 2
     }
   ]
 }
