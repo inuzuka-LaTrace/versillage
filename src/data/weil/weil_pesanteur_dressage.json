@@ -1,0 +1,170 @@
+{
+  "id": "weil_dressage",
+  "title": "La Pesanteur et la Grâce — Dressage",
+  "author": "Simone Weil",
+  "source": "La Pesanteur et la Grâce, Plon, Paris, 1947（死後刊行、編者Gustave Thibon）。底本: Wikisource: https://fr.wikisource.org/wiki/La_Pesanteur_et_la_Grâce/27",
+  "year": "1940–1942",
+  "firstPublication": "La Pesanteur et la Grâce, Plon, Paris, 1947（死後4年、Gustave Thibon編）",
+  "difficulty": "上級",
+  "category": "weil",
+  "originalLang": "fr-FR",
+  "modernRelevance": "★★★★★",
+  "context": "『重力と恩寵』第27章「訓練（Dressage）」。ヴェイユの実践的倫理学の核心的テクスト。「Dressage（動物の調教）」という語を意図的に選ぶことで、自己の「動物的部分（l'animal en soi）」を訓練する作業の非ロマン主義的・身体的次元を強調する。「不可能に触れるために可能を果たすこと」という命題から始まり、義務の履行・自己への暴力・欲望と嫌悪への受動的態度・内なる祈り・希望・霊的領域の法則という主題群を展開する。章全体を通じて「自然的領域」（心理・意志・欲求）と「霊的領域」（恩寵・超自然的愛）の二層構造が維持され、「自己への暴力」は自然的手段として霊的変容の条件を整える作業として定義される。十字架の聖ヨハネへの明示的言及（§8：「低く容易な義務の履行から遠ざける霊感は悪の側から来る」）が章を神秘主義的伝統に位置づける。",
+  "keywords": [
+    "訓練",
+    "dressage",
+    "自己への暴力",
+    "義務の履行",
+    "受動的受容",
+    "内なる祈り",
+    "希望",
+    "霊的領域の法則",
+    "自然と超自然",
+    "十字架の聖ヨハネ"
+  ],
+  "relatedTexts": [
+    "weil_accepter_le_vide",
+    "weil_decreation",
+    "weil_effacement",
+    "weil_la_violence",
+    "weil_celui_quil_faut_aimer",
+    "weil_atheisme_purificateur",
+    "juan_de_la_cruz_noche_oscura",
+    "juan_de_la_cruz_llama_de_amor_viva"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "original": "Il faut accomplir le possible pour toucher l'impossible. L'exercice correct, conforme au devoir, des facultés naturelles de volonté, d'amour et de connaissance est exactement à l'égard des réalités spirituelles ce qu'est le mouvement du corps par rapport à la perception des objets sensibles. Un paralysé ne perçoit pas.",
+      "provisionalTranslation": "不可能に触れるために可能を果たさなければならない。意志・愛・認識という自然的能力の義務に従った正しい行使は、霊的現実に対して、感覚的対象の知覚に対する身体の動きと全く同じ関係にある。麻痺した者は知覚しない。"
+    },
+    {
+      "id": 2,
+      "original": "L'accomplissement du devoir strictement humain est du même ordre que la correction dans les opérations de rédiger, de traduire, de calculer, etc. Rédiger cette correction est un manque de respect à l'égard de l'objet. De même négliger le devoir.",
+      "provisionalTranslation": "厳密に人間的な義務の履行は、文章を書き、翻訳し、計算するなどの操作における正確さと同じ秩序に属する。この正確さを記述することはその対象への敬意の欠如だ。同様に義務を怠ることも。"
+    },
+    {
+      "id": 3,
+      "original": "Les choses relatives à l'inspiration seules se nourrissent de délais. Celles relatives au devoir naturel, à la volonté ne souffrent pas de délai.",
+      "provisionalTranslation": "霊感に関わることだけが遅延によって養われる。自然的義務・意志に関わることは遅延を許さない。"
+    },
+    {
+      "id": 4,
+      "original": "Les préceptes ne sont pas donnés pour être pratiqués, mais la pratique est prescrite pour l'intelligence des préceptes. Ce sont des gammes. On ne joue pas Bach sans avoir fait des gammes. Mais on ne fait pas non plus la gamme pour la gamme.",
+      "provisionalTranslation": "戒律は実践されるために与えられるのではなく、実践が戒律の理解のために命じられる。それは音階練習だ。音階練習なしにバッハは弾けない。しかし音階練習のために音階練習をするのでもない。"
+    },
+    {
+      "id": 5,
+      "original": "Dressage. — À chaque pensée d'orgueil involontaire qu'on surprend en soi, tourner quelques instants le plein regard de l'attention sur le souvenir d'une humiliation de la vie passée, et choisir la plus amère, la plus intolérable possible.",
+      "provisionalTranslation": "訓練。──自分の中に思いがけず生じる傲慢の思いごとに、過去の生の屈辱の記憶に注意の完全な眼差しを数瞬間向けること、そして最も苦く、最も耐えがたい可能な限りのものを選ぶこと。"
+    },
+    {
+      "id": 6,
+      "original": "Il ne faut pas essayer de changer en soi ou d'effacer désirs et aversions, plaisirs et douleurs. Il faut les subir passivement, comme les sensations de couleur et sans leur accorder plus de crédit. Si ma vitre est rouge, je ne peux pas, quand je me raisonnerais jour et nuit pendant un an, ne pas voir ma chambre en rose. Je sais aussi qu'il est nécessaire, juste et bon que je la voie ainsi. En même temps, je n'accorde à cette couleur, en tant que renseignement, qu'un crédit limité par la connaissance de son rapport avec la vitre. Accepter ainsi et non autrement les désirs et aversions, plaisirs et douleurs de toute espèce qui se produisent en moi.",
+      "provisionalTranslation": "自分の中の欲望と嫌悪、喜びと苦痛を変えようとし、または消そうとしてはならない。それらを受動的に耐えなければならない、色の感覚のように、それらに必要以上の信用を与えずに。もし私の窓ガラスが赤なら、一年間昼夜それを考えても、私は部屋をバラ色に見ずにいられない。そのように見ることが必要で、正当で善いと私は知っている。同時に私はこの色に、情報として、窓ガラスとの関係を知ることによって限定された信用しか与えない。このように、かつこのようにだけ、自分の中に生じるあらゆる種類の欲望と嫌悪、喜びと苦痛を受け入れること。"
+    },
+    {
+      "id": 7,
+      "original": "D'autre part, comme on a aussi en soi un principe de violence, à savoir la volonté, il faut aussi, dans une mesure limitée, mais dans la plénitude de cette mesure, user violemment de ce principe violent ; se contraindre par violence à agir comme si on n'avait pas tel désir, telle aversion, sans essayer de persuader la sensibilité, en la contraignant d'obéir. Elle se révolte alors, et il faut subir passivement cette révolte, la goûter, la savourer, l'accepter comme une chose extérieure, comme la couleur rose de la chambre dont la vitre est rouge.\nChaque fois qu'on se fait violence dans cet esprit, on avance peu ou beaucoup mais réellement, dans l'opération du dressage de l'animal en soi.\nBien entendu, il faut pour que cette violence sur soi serve vraiment au dressage, qu'elle ne soit qu'un simple moyen. Quand on dresse un chien pour en faire un chien savant, on ne le fouette pas pour le fouetter, mais pour le dresser et, à cet effet, on le frappe seulement quand il manque un exercice. Si on le fouette sans méthode, on finit par le rendre impropre à tout dressage, et c'est ce que produit le mauvais ascétisme.\nLes violences sur soi ne sont permises que lorsqu'elles procèdent de la raison (en vue d'exécuter ce qu'on se représente clairement comme le devoir) — ou bien lorsqu'elles sont imposées par une impulsion irrésistible de la grâce (mais alors ce n'est pas de soi que procède la violence).",
+      "provisionalTranslation": "一方、自分の中にも暴力の原理──すなわち意志──があるので、限定された範囲において、しかしその範囲の充満において、この暴力的原理を暴力的に使わなければならない；感性を説得しようとせずに、服従を強いながら、そのような欲望・そのような嫌悪がないかのように行動することを暴力によって強制する。感性はそのとき反乱を起こし、この反乱を受動的に耐え、それを味わい、吟味し、外的なものとして、窓ガラスが赤い部屋のバラ色と同様に受け入れなければならない。\nこの精神で自分に暴力を加えるたびに、自分の中の動物の訓練の作業において、少ないかもしれないが多いかもしれないが、現実に前進する。\nもちろん、自己への暴力が本当に訓練に役立つためには、それが単なる手段であることが必要だ。利口な犬に仕立てるために犬を訓練するとき、鞭打つために鞭打つのではなく、訓練するために鞭打ち、そのために練習を失敗したときだけ打つ。方法なしに鞭打つと、結局あらゆる訓練に不向きにしてしまい、それが悪い苦行の生み出すものだ。\n自己への暴力は、それが理性から来るとき（義務として自分が明確に表象するものを実行するために）──あるいは恩寵の抗いがたい衝動によって課されるとき（しかしそのときは自分から暴力が生じるのではない）だけ許される。"
+    },
+    {
+      "id": 8,
+      "original": "La source de mes difficultés est que par épuisement, par absence d'énergie vitale, je suis au-dessous du niveau de l'activité normale. Et si quelque chose me prend et me soulève, je suis au-dessus. Alors il me semblerait malheureux de gaspiller ce temps en activités ordinaires. Dans les autres moments, j'aurais à me faire une violence que je ne parviens pas à tirer de moi.\nJe pourrais accepter l'anomalie de comportement qui en résulte. Mais je sais, je crois savoir que je ne dois pas. Elle comporte des crimes d'omission envers autrui. Et moi, elle m'emprisonne.\nQuelle méthode alors ?",
+      "provisionalTranslation": "私の困難の源泉は、疲弊によって、生命エネルギーの欠如によって、私が通常の活動のレベル以下にいることだ。そして何かが私を捕らえ高みへ引き上げると、私はその上にいる。そのとき普通の活動にその時間を無駄遣いすることが不幸に思える。他の瞬間には、自分から引き出せない暴力を自分に加えなければならないだろう。\nこれから生じる行動の異常を受け入れられるだろう。しかし私はそうすべきでないと知っている、知っていると信じている。それは他者への不作為の罪を含む。そして私自身、それが私を監禁する。\nでは、どんな方法が？"
+    },
+    {
+      "id": 9,
+      "original": "ἐὰν θέλῃς δύνασαί µε καθαρίσαι.\nJe dois m'exercer à transformer le sentiment d'effort en sentiment passif de souffrance. Quoique j'en aie, quand Dieu m'envoie la souffrance, je suis bien forcée de souffrir tout ce qu'il y a à souffrir. Pourquoi, en face du devoir, ne pas faire de la même manière tout ce qu'il y a à faire ?",
+      "provisionalTranslation": "「もし望むなら、あなたは私を清めることができる。」（福音書のテクスト）\n私は努力の感覚を苦しみの受動的感覚へと変容させる訓練をしなければならない。どれほど嫌がっても、神が私に苦しみを送るとき、私は苦しまなければならないすべてを苦しむよう余儀なくされる。義務に面して、なぜ同じ仕方でしなければならないすべてをしないのか？"
+    },
+    {
+      "id": 10,
+      "original": "Montagnes, rochers, tombez sur nous et cachez-nous loin de la colère de l'agneau.\nJe mérite en ce moment cette colère.\nNe pas oublier que d'après saint Jean de la Croix les inspirations qui détournent de l'accomplissement des obligations faciles et basses viennent du mauvais côté.\nLe devoir nous est donné pour tuer le moi. Et je laisse rouiller un instrument si précieux.\nIl faut accomplir son devoir au moment prescrit pour croire à la réalité du monde extérieur.\nIl faut croire à la réalité du temps. Autrement on rêve.\nIl y a des années que j'ai reconnu cette tare en moi, que j'en ai reconnu l'importance et que je n'ai rien fait pour l'abolir. Quelle excuse pourrais-je trouver ?\nNe s'est-elle pas accrue en moi depuis l'âge de dix ans ? Mais si grande qu'elle soit, elle est finie. Cela suffit. Si elle est grande au point de m'ôter la possibilité de l'effacer pendant cette vie et par suite de parvenir à l'état de perfection, cela doit être accepté comme tout ce qui est, d'une acceptation accompagnée d'amour. Il suffit que je sache qu'elle est, qu'elle est mauvaise, qu'elle est finie. Mais savoir effectivement chacune de ces trois choses et les trois ensemble implique le commencement et la continuation ininterrompue du processus de l'effacement. Si ce processus ne commence pas à se produire, c'est le signe que cela même que j'écris, je ne le sais pas en vérité.\nL'énergie nécessaire réside en moi, puisque j'en ai pour vivre. Je dois l'arracher de moi, dussé-je en mourir.",
+      "provisionalTranslation": "山よ、岩よ、私たちの上に崩れ落ち、子羊の怒りから遠くに私たちを隠してくれ。\n私は今この怒りを受けるに値する。\n十字架の聖ヨハネによれば、低く容易な義務の履行から遠ざける霊感は悪の側から来るということを忘れないこと。\n義務は自我を殺すために私たちに与えられている。そして私はこれほど貴重な道具を錆びさせている。\n外的世界の現実を信じるために、定められた瞬間に義務を果たさなければならない。\n時間の現実を信じなければならない。そうでなければ夢を見ている。\n私がこの欠陥を自分の中に認め、その重要性を認めながら、それを廃絶するために何もしていないことが何年もある。どんな言い訳が見つかるだろうか？\n10歳の頃から私の中でそれは大きくなっていないだろうか？しかしそれがどれほど大きくても、それは有限だ。それで十分だ。もしそれがこの生の間にそれを消去する可能性を私から奪い、したがって完全の状態に達することを妨げるほど大きいなら、それはあらゆる存在するものと同様に、愛を伴った受け入れによって受け入れられなければならない。それが存在すること、それが悪いこと、それが有限であること、この三つをそれぞれ知り、三つを合わせて知ることで十分だ。しかしこれらの三つを実際にそれぞれ、そして合わせて知ることは消去の過程の始まりと中断なき継続を含意する。この過程が始まらないなら、それは私が書くこのことを私が真実において知っていないというしるしだ。\n必要なエネルギーは私の中にある、生きるためのエネルギーがあるのだから。たとえ死ぬとしても、私はそれを自分から引き剥がさなければならない。"
+    },
+    {
+      "id": 11,
+      "original": "Il n'y a pas d'autre critérium parfait du bien et du mal que la prière intérieure ininterrompue. Tout ce qui ne l'interrompt pas est permis, tout ce qui l'interrompt est défendu. Il est impossible de faire du mal à autrui quand on agit en état de prière. À condition que ce soit prière véritable. Mais avant d'en arriver là, il faut avoir usé sa volonté propre contre l'observation des règles.",
+      "provisionalTranslation": "善と悪の完全な基準は中断なき内なる祈り以外にない。それを中断しないものはすべて許され、それを中断するものはすべて禁じられる。祈りの状態で行動するとき、他者に悪を行うことは不可能だ。それが真の祈りであることを条件として。しかしそこに達する前に、規則の遵守に対して自分自身の意志を使い切っていなければならない。"
+    },
+    {
+      "id": 12,
+      "original": "L'espérance est la connaissance que le mal qu'on porte en soi est fini et que la moindre orientation de l'âme vers le bien, ne durât-elle qu'un instant, en abolit un peu, et que, dans le domaine spirituel, tout bien, infailliblement, produit du bien. Ceux qui ne savent pas cela sont voués au supplice des Danaïdes.",
+      "provisionalTranslation": "希望とは、自分の中に持つ悪が有限であるという知であり、最小限の魂の善への向きが、それが一瞬しか続かなくても、それを少し廃絶し、そして霊的領域において、すべての善が、確実に、善を生産するという知だ。これを知らない者はダナイデスの苦行に運命づけられている。"
+    },
+    {
+      "id": 13,
+      "original": "Infailliblement, le bien produit du bien et le mal produit du mal dans le domaine du spirituel pur. Au contraire, dans le domaine du naturel (y compris le psychologique), le bien et le mal se produisent réciproquement. Ainsi on ne peut avoir de sécurité qu'une fois parvenu dans le domaine du spirituel — le domaine précisément où l'on ne peut rien se procurer par soi-même, où l'on attend tout d'ailleurs.",
+      "provisionalTranslation": "純粋な霊的領域において、確実に善は善を生産し、悪は悪を生産する。反対に、自然的領域（心理的なものを含む）においては、善と悪は互いに生産し合う。したがって霊的領域に達して初めて安全を持てる──まさに自分では何も手に入れられず、すべてを別のところから待つ領域において。"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "Il faut accomplir le possible pour toucher l'impossible.",
+      "body": "章の冒頭命題──「不可能に触れるために可能を果たすこと（Il faut accomplir le possible pour toucher l'impossible）」──が章全体の論理的骨格を形成する。「可能（possible）」＝自然的能力の行使（義務・意志・愛・認識）、「不可能（impossible）」＝超自然的現実（恩寵・神）。「触れる（toucher）」──「Athéisme purificateur」章§3「偽の神──触れることができないことを除いてあらゆる点で真の神に似ている」との照応：「可能の履行」によって「触れることができない」神へのアクセスが開かれる。「身体の動きと感覚知覚の関係（ce qu'est le mouvement du corps par rapport à la perception des objets sensibles）」──メルロ＝ポンティ『知覚の現象学』（1945）との照応：知覚は受動的受容ではなく身体的運動を含む能動的プロセス──ヴェイユは同じ構造を「霊的知覚」に適用する。「麻痺した者は知覚しない（Un paralysé ne perçoit pas）」──簡潔な結語が比喩の論理的帰結として機能：霊的「麻痺」（義務の不履行）は霊的知覚を不可能にする。",
+      "targetId": "weil_atheisme_purificateur",
+      "targetParagraphId": 3
+    },
+    {
+      "paragraphId": 3,
+      "type": "prosody",
+      "anchor": "Les choses relatives à l'inspiration seules se nourrissent de délais. Celles relatives au devoir naturel, à la volonté ne souffrent pas de délai.",
+      "body": "章全体で最も短い段落──二文の対比が「霊感（inspiration）」と「義務・意志（devoir naturel, volonté）」の時間的差異を定式化する。「霊感は遅延によって養われる（se nourrissent de délais）」──詩的・神秘主義的インスピレーションは「待機（attente）」の実践であり、強制・急ぎは逆効果：「Accepter le vide」§5「しかし自ら飛び込んではならない」の対応。「義務は遅延を許さない（ne souffrent pas de délai）」──ソフォクレス的な「今・ここ」の行動倫理：「ἐπεί σ᾽ ὁρῶ（今あなたを見ているから）」。この二分法が§7・§8の個人的告白（遅延・怠惰への告白）の理論的前提として機能する。「Dressage」という章のタイトル概念：動物の調教は「適切な時機（moment prescrit）」に実行することが不可欠──§10「定められた瞬間に義務を果たさなければならない」との照応。"
+    },
+    {
+      "paragraphId": 4,
+      "type": "commentary",
+      "anchor": "Les préceptes ne sont pas donnés pour être pratiqués, mais la pratique est prescrite pour l'intelligence des préceptes. Ce sont des gammes.",
+      "body": "「戒律は実践されるために与えられるのではなく、実践が戒律の理解のために命じられる（Les préceptes ne sont pas donnés pour être pratiqués, mais la pratique est prescrite pour l'intelligence des préceptes）」──目的論の逆転：通常「実践」は「戒律の遵守」のための手段だが、ヴェイユにとって「戒律の遵守」は「戒律の理解（intelligence）」のための手段。「理解（intelligence）」──ヴェイユにおいてこの語は知的理解と霊的洞察の両方を含む：実践することで初めて戒律の意味が「霊的に理解」される。「バッハを弾くために音階練習（gammes pour Bach）」という音楽的比喩：手の技術（自然的能力の訓練）がバッハの演奏（霊的表現）の条件──「音階練習＝義務の履行」「バッハ＝霊的現実への接触」。「しかし音階練習のために音階練習をするのでもない（on ne fait pas non plus la gamme pour la gamme）」──手段と目的の区別の強調：義務の履行は自己目的化してはならない──§7「鞭打つために鞭打つのではない」という訓練論の先取り。",
+      "targetId": "weil_decreation",
+      "targetParagraphId": 20
+    },
+    {
+      "paragraphId": 6,
+      "type": "commentary",
+      "anchor": "Si ma vitre est rouge, je ne peux pas, quand je me raisonnerais jour et nuit pendant un an, ne pas voir ma chambre en rose.",
+      "body": "「もし私の窓ガラスが赤なら、一年間昼夜考えても部屋をバラ色に見ずにいられない（Si ma vitre est rouge, je ne peux pas…ne pas voir ma chambre en rose）」──色ガラスの比喩による知覚論的根拠。欲望・嫌悪・感情の「色ガラス的」性質：それらは対象を変形して知覚させるが、理性的推論によって「消す」ことはできない──知覚の構造的条件として受け入れるしかない。「窓ガラスとの関係を知ることによって限定された信用（un crédit limité par la connaissance de son rapport avec la vitre）」──メタ認知的戦略：感情・欲望を消そうとするのではなく、それが「窓ガラス（条件的要因）」に由来することを知ることで「信用を限定する」。ストア哲学（エピクテトス：「意見に伴う苦しみは取り除けるが、事実の苦しみは取り除けない」）との照応だが、ヴェイユは「取り除く」ではなく「受動的に受け入れながら信用を限定する」という独自の処方を提示する。「Effacement」章§7「Je souille le silence du ciel et de la terre par ma respiration（私の呼吸で天と地の沈黙を汚す）」──感情・欲望の「汚染的」性質への同じ認識が根底にある。"
+    },
+    {
+      "paragraphId": 7,
+      "type": "commentary",
+      "anchor": "Chaque fois qu'on se fait violence dans cet esprit, on avance peu ou beaucoup mais réellement, dans l'opération du dressage de l'animal en soi.",
+      "body": "「自分の中の動物の訓練（dressage de l'animal en soi）」──章タイトル「Dressage」の内的定義。「動物（animal）」は感情・欲求・感性の自然的次元の比喩：「理性（raison）」によって「意志（volonté）」を道具として訓練される対象。「犬の訓練（dresse un chien）」の比喩：「鞭打つために鞭打つ（fouette pour fouetter）」のではなく「訓練するために鞭打つ（pour le dresser）」──自己への暴力の条件的正当性。「悪い苦行（mauvais ascétisme）」──方法なき自己への暴力が訓練不能をもたらす：「Décréation」章§20「困難の消滅を求めてはならない；それを使用する恩寵を懇願しなければならない」という方法論的警戒の実践的展開。「Les violences sur soi ne sont permises que lorsqu'elles procèdent de la raison…ou bien lorsqu'elles sont imposées par une impulsion irrésistible de la grâce（理性から来るか、恩寵の抗いがたい衝動から来るときだけ）」──自己への暴力の二重の正当化条件：理性的義務（自然的）か恩寵の衝動（超自然的）か。",
+      "targetId": "weil_decreation",
+      "targetParagraphId": 20
+    },
+    {
+      "paragraphId": 10,
+      "type": "commentary",
+      "anchor": "Ne pas oublier que d'après saint Jean de la Croix les inspirations qui détournent de l'accomplissement des obligations faciles et basses viennent du mauvais côté.",
+      "body": "「十字架の聖ヨハネによれば、低く容易な義務の履行から遠ざける霊感は悪の側から来る（d'après saint Jean de la Croix les inspirations qui détournent de l'accomplissement des obligations faciles et basses viennent du mauvais côté）」──ヨハネへの明示的言及。「Llama de amor viva」「Noche oscura」「Cántico espiritual」の詩人が、ここでは実践的霊的識別（discernement）の権威として引用される：崇高な霊的体験への渇望が日常的義務の怠惰を正当化するとき、それは「悪の霊（mauvais côté）」から来る。「低く容易な義務（obligations faciles et basses）」──「Dressage」章の訓練論の核心：崇高なものへの憧れが卑近な義務を無視させる誘惑への警戒。「義務は自我を殺すために私たちに与えられている（Le devoir nous est donné pour tuer le moi）」──「Effacement」章§1「謙遜とは神の外に存在することの拒否」の実践的言い換え：義務履行という反復的・非スペクタクル的行為が自我の「殺害」の手段。「外的世界の現実を信じるために（pour croire à la réalité du monde extérieur）」──義務の認識論的機能：他者・時間・現実への信念が義務の履行によって維持される。",
+      "targetId": "juan_de_la_cruz_noche_oscura",
+      "targetParagraphId": 1
+    },
+    {
+      "paragraphId": 11,
+      "type": "commentary",
+      "anchor": "Il n'y a pas d'autre critérium parfait du bien et du mal que la prière intérieure ininterrompue.",
+      "body": "「善と悪の完全な基準は中断なき内なる祈り（la prière intérieure ininterrompue）以外にない」──倫理の最終基準が「内なる祈り」として定義される逆説。「行為の規範（devoir・règles）」ではなく「祈りの状態（état de prière）」が倫理の完全な基準：これは規範倫理学（カント）・帰結主義（功利主義）・徳倫理学（アリストテレス）のいずれとも異なる「祈りの倫理学」。「それを中断するものはすべて禁じられる（tout ce qui l'interrompt est défendu）」──否定的定義：善と悪は行為の内容ではなく、祈りの継続性との関係で定義される。「祈りの状態で行動するとき、他者に悪を行うことは不可能（Il est impossible de faire du mal à autrui quand on agit en état de prière）」──祈りの倫理的保証。「しかしそこに達する前に（Mais avant d'en arriver là）」──ここで規範・義務・意志による訓練が「祈りの状態」への前段階として位置づけられる：§1の「可能を果たして不可能に触れる」という命題の最終展開。",
+      "targetId": "weil_accepter_le_vide",
+      "targetParagraphId": 5
+    },
+    {
+      "paragraphId": 12,
+      "type": "commentary",
+      "anchor": "L'espérance est la connaissance que le mal qu'on porte en soi est fini",
+      "body": "「希望とは……知（connaissance）だ」──希望を感情・期待・欲望としてではなく「知（connaissance）」として定義する点がヴェイユの独自性。三つの「知」の構造：①「自分の中の悪が有限」②「最小の善への向きが悪を廃絶する」③「霊的領域で善は確実に善を生産する」。「一瞬しか続かなくても（ne durât-elle qu'un instant）」──一瞬の善への向きの十分性：「Accepter le vide」§5「稲妻の時間だけしか世界の法則から逃れられない」という瞬間論の倫理的応用。「ダナイデスの苦行（supplice des Danaïdes）」──水を汲んでも穴のある桶から流れ出し続ける永遠の徒労（ギリシャ神話）：霊的領域の「善は善を確実に生産する」という法則を知らない者は、自然的領域での善悪の相互産出（§13）という「底なし桶」の徒労に陥る。「Atheisme purificateur」章§1「真の矛盾対」の認識論的態度──どちらも「知（connaissance）」が信仰・希望の基盤として機能する。"
+    },
+    {
+      "paragraphId": 13,
+      "type": "commentary",
+      "anchor": "Infailliblement, le bien produit du bien et le mal produit du mal dans le domaine du spirituel pur.",
+      "body": "「純粋な霊的領域において、確実に善は善を生産し、悪は悪を生産する（Infailliblement, le bien produit du bien et le mal produit du mal dans le domaine du spirituel pur）」──章の最終命題が「霊的領域の法則」を「自然的領域の法則」と対比する形で定式化する。「自然的領域（y compris le psychologique）では善と悪は互いに生産し合う」──心理的・自然的次元の複雑性：善い意図が悪い結果を生み、悪い状況が善い応答を生む──因果の複雑性。「霊的領域では確実（infailliblement）」──この「確実性」が§12「希望」の認識論的根拠：霊的領域に達したとき、最小の善への向きが確実に善を生産する。「自分では何も手に入れられず（on ne peut rien se procurer par soi-même）、すべてを別のところから待つ（on attend tout d'ailleurs）」──「待機（attente）」という「Accepter le vide」以来の中心概念が章の最終語として現われる：霊的領域は「待機」の領域であり、自己努力（dressage）の目的は自己を「待機」の状態に置くことだった。",
+      "targetId": "weil_accepter_le_vide",
+      "targetParagraphId": 5
+    }
+  ]
+}
