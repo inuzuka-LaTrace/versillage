@@ -1,0 +1,297 @@
+{
+  "id": "hieronymus_ecclesiastes_2",
+  "title": "Ecclesiastes, Caput II",
+  "author": "Hieronymus",
+  "source": "Biblia Sacra Vulgata, Liber Ecclesiastes (Qohelet), Caput II. Bible Gateway: https://www.biblegateway.com/passage/?search=Ecclesiastes+2&version=VULGATE",
+  "year": "Antiquitas",
+  "firstPublication": "Vulgata Latina, c. 382–405 AD（ヒエロニムス訳）",
+  "difficulty": "中級",
+  "category": "hieronymus",
+  "originalLang": "la-LA",
+  "modernRelevance": "★★★★★",
+  "context": "コヘレトの言葉（Qohelet）第2章。第1章の宇宙論的・認識論的「虚無」の命題を、コヘレト自身の王としての体験──快楽・建築・農業・音楽・財産蓄積・知恵の探求──の実験的試みとして具体化する。すべての享楽・業績を「試みた（cogitavi・magnificavi・feci・possedi）」という一人称過去形の連続が実験の記録として機能し、その結論が繰り返し「vanitas et afflictio animi/spiritus（虚無と霊の苦悩）」として確認される。第2章の核心的転換：v.12–16では「知恵は愚かさに光が暗闇に勝るほど勝る（tantum praecederet sapientia stultitiam, quantum differt lux a tenebris）」と一旦知恵を称揚しながら、v.16で「賢者も愚者も同じ滅び（unus utriusque esset interitus）」という死の平等性によってその優越が無効化される。労苦の成果が「知らない者（ignoro utrum sapiens an stultus）」に相続されるという不条理がv.18–21で展開し、章末v.24–26では「食べ、飲み、労苦の中に善を見出す」という神から与えられた日常的享受への転換で締め括られる。",
+  "keywords": [
+    "vanitas",
+    "afflictio spiritus",
+    "快楽の試み",
+    "知恵と愚かさ",
+    "労苦の相続",
+    "光と闇",
+    "死の平等",
+    "享受",
+    "神の賜物",
+    "実験的自己観察"
+  ],
+  "relatedTexts": [
+    "hieronymus_ecclesiastes_1",
+    "weil_accepter_le_vide",
+    "weil_pesanteur_beaute",
+    "weil_dressage",
+    "weil_decreation",
+    "baudelaire_spleen",
+    "baudelaire_une_charogne",
+    "mallarme_coup_de_des",
+    "rodenbach_du_silence",
+    "rodenbach_loubli",
+    "dowson_vanitas",
+    "rossetti_vanity_of_vanities"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "verses": "v.1",
+      "original": "Dixi ego in corde meo: Vadam, et affluam deliciis, et fruar bonis; et vidi quod hoc quoque esset vanitas.",
+      "provisionalTranslation": "私は心の中でこう言った。「さあ行って、快楽にあふれ、善きものを享受しよう。」しかしこれもまた虚無であることを私は見た。"
+    },
+    {
+      "id": 2,
+      "verses": "v.2",
+      "original": "Risum reputavi errorem, et gaudio dixi: Quid frustra deciperis?",
+      "provisionalTranslation": "笑いを誤りと見なし、喜びにこう言った。「なぜ空しく欺かれるのか。」"
+    },
+    {
+      "id": 3,
+      "verses": "v.3",
+      "original": "Cogitavi in corde meo abstrahere a vino carnem meam, ut animam meam transferrem ad sapientiam, devitaremque stultitiam, donec viderem quid esset utile filiis hominum,",
+      "provisionalTranslation": "私は心に、ぶどう酒から肉体を引き離し、愚かさを避けながら魂を知恵へと移すことを思い定めた。人の子らにとって何が有益かを見届けるまで、"
+    },
+    {
+      "id": 4,
+      "verses": "v.4",
+      "original": "quo facto opus est sub sole numero dierum vitae suae.",
+      "provisionalTranslation": "太陽の下での生涯の日数の間、なされるべき業とはいかなるものかを。"
+    },
+    {
+      "id": 5,
+      "verses": "v.5",
+      "original": "Magnificavi opera mea, aedificavi mihi domos, et plantavi vineas;",
+      "provisionalTranslation": "私は自分の業を大いにした。自分のために家々を建て、ぶどう畑を植えた。"
+    },
+    {
+      "id": 6,
+      "verses": "v.6",
+      "original": "feci hortos et pomaria, et consevi ea cuncti generis arboribus;",
+      "provisionalTranslation": "庭園と果樹園を作り、あらゆる種類の木を植えた。"
+    },
+    {
+      "id": 7,
+      "verses": "v.7",
+      "original": "et exstruxi mihi piscinas aquarum, ut irrigarem silvam lignorum germinantium.",
+      "provisionalTranslation": "水の貯水池を自分のために築き、芽吹く木々の林を潤すために。"
+    },
+    {
+      "id": 8,
+      "verses": "v.8",
+      "original": "Possedi servos et ancillas, multamque familiam habui: armenta quoque, et magnos ovium greges, ultra omnes qui fuerunt ante me in Jerusalem;",
+      "provisionalTranslation": "男女の奴隷を所有し、多くの家族を持った。また牛の群れと大きな羊の群れも──エルサレムで私の前にいたすべての者を超えて。"
+    },
+    {
+      "id": 9,
+      "verses": "v.9",
+      "original": "coacervavi mihi argentum et aurum, et substantias regum ac provinciarum; feci mihi cantores et cantatrices, et delicias filiorum hominum, scyphos, et urceos in ministerio ad vina fundenda;",
+      "provisionalTranslation": "自分のために銀と金を積み上げ、王たちと地方の財産を集めた。男女の歌い手を持ち、人の子らの快楽として、ぶどう酒を注ぐための杯や壺を備えた。"
+    },
+    {
+      "id": 10,
+      "verses": "v.10",
+      "original": "et supergressus sum opibus omnes qui ante me fuerunt in Jerusalem: sapientia quoque perseveravit mecum.",
+      "provisionalTranslation": "そして財産においてエルサレムで私の前にいた者すべてを超えた。知恵もまた私とともにあり続けた。"
+    },
+    {
+      "id": 11,
+      "verses": "v.11",
+      "original": "Et omnia quae desideraverunt oculi mei non negavi eis, nec prohibui cor meum quin omni voluptate frueretur, et oblectaret se in his quae praeparaveram; et hanc ratus sum partem meam si uterer labore meo.",
+      "provisionalTranslation": "目が欲したものはすべて、私はそれを拒まなかった。心があらゆる快楽を享受し、自分が準備したものの中に喜びを見出すことを妨げなかった。これが私の労苦を用いることによる私の分け前だと思った。"
+    },
+    {
+      "id": 12,
+      "verses": "v.12",
+      "original": "Cumque me convertissem ad universa opera quae fecerant manus meae, et ad labores in quibus frustra sudaveram, vidi in omnibus vanitatem et afflictionem animi, et nihil permanere sub sole.",
+      "provisionalTranslation": "そして自分の手がなしたすべての業へと、空しく汗を流した労苦へと向き直ったとき、私はすべての中に虚無と魂の苦悩を見た──太陽の下には何も留まることがない。"
+    },
+    {
+      "id": 13,
+      "verses": "v.13",
+      "original": "Transivi ad contemplandam sapientiam, erroresque, et stultitiam. (Quid est, inquam, homo, ut sequi possit regem, factorem suum?)",
+      "provisionalTranslation": "私は知恵と、誤りと、愚かさとを観照することへと移った。（「人間とは何者か、自分を造った王に続くことができるとでも言うのか」と私は言った。）"
+    },
+    {
+      "id": 14,
+      "verses": "v.14",
+      "original": "Et vidi quod tantum praecederet sapientia stultitiam, quantum differt lux a tenebris.",
+      "provisionalTranslation": "そして私は見た──知恵が愚かさに勝ること、光が暗闇と異なるほどに。"
+    },
+    {
+      "id": 15,
+      "verses": "v.15",
+      "original": "Sapientis oculi in capite ejus; stultus in tenebris ambulat: et didici quod unus utriusque esset interitus.",
+      "provisionalTranslation": "賢者の目はその頭にある。愚者は暗闇の中を歩む。しかし両者の滅びは一つであることを私は学んだ。"
+    },
+    {
+      "id": 16,
+      "verses": "v.16",
+      "original": "Et dixi in corde meo: Si unus et stulti et meus occasus erit, quid mihi prodest quod majorem sapientiae dedi operam? Locutusque cum mente mea, animadverti quod hoc quoque esset vanitas.",
+      "provisionalTranslation": "そして私は心の中でこう言った。「愚者と私の没落が一つであるなら、知恵により多く努力したことが私に何の益があるのか。」心と語り合い、これもまた虚無であることに気づいた。"
+    },
+    {
+      "id": 17,
+      "verses": "v.17",
+      "original": "Non enim erit memoria sapientis similiter ut stulti in perpetuum, et futura tempora oblivione cuncta pariter operient: moritur doctus similiter ut indoctus.",
+      "provisionalTranslation": "なぜなら、賢者の記憶も愚者と同様に永遠にはなく、未来の時代はすべてを等しく忘却で覆うだろうから。学ある者も無学な者と同様に死ぬ。"
+    },
+    {
+      "id": 18,
+      "verses": "v.18",
+      "original": "Et idcirco taeduit me vitae meae, videntem mala universa esse sub sole, et cuncta vanitatem et afflictionem spiritus.",
+      "provisionalTranslation": "そのために私は生を厭った──太陽の下のすべてが悪であり、すべてが虚無であり霊の苦悩であることを見て。"
+    },
+    {
+      "id": 19,
+      "verses": "v.19",
+      "original": "Rursus detestatus sum omnem industriam meam, qua sub sole studiosissime laboravi, habiturus haeredem post me,",
+      "provisionalTranslation": "私はまた自分のすべての勤勉を憎んだ──太陽の下でこの上なく熱心に働いたその勤勉を。後に自分の後継者を持つことになるから。"
+    },
+    {
+      "id": 20,
+      "verses": "v.20",
+      "original": "quem ignoro utrum sapiens an stultus futurus sit, et dominabitur in laboribus meis, quibus desudavi et sollicitus fui: et est quidquam tam vanum?",
+      "provisionalTranslation": "その者が賢者となるか愚者となるかを私は知らない。しかし彼は私が汗を流し心を砕いた労苦の成果を支配するだろう。これほど虚無なものがあろうか。"
+    },
+    {
+      "id": 21,
+      "verses": "v.21",
+      "original": "Unde cessavi, renuntiavitque cor meum ultra laborare sub sole.",
+      "provisionalTranslation": "そこで私は止まり、心は太陽の下でこれ以上労することを諦めた。"
+    },
+    {
+      "id": 22,
+      "verses": "v.22",
+      "original": "Nam cum alius laboret in sapientia, et doctrina, et sollicitudine, homini otioso quaesita dimittit; et hoc ergo vanitas et magnum malum.",
+      "provisionalTranslation": "知恵と学識と配慮のうちに労している者が、働かない者のために自分の得たものを残していく。これもまた虚無であり大いなる悪である。"
+    },
+    {
+      "id": 23,
+      "verses": "v.23",
+      "original": "Quid enim proderit homini de universo labore suo, et afflictione spiritus, qua sub sole cruciatus est?",
+      "provisionalTranslation": "人は太陽の下で苦しんだすべての労苦と霊の苦悩から、いったい何を得るのか。"
+    },
+    {
+      "id": 24,
+      "verses": "v.24",
+      "original": "Cuncti dies ejus doloribus et aerumnis pleni sunt, nec per noctem mente requiescit. Et hoc nonne vanitas est?",
+      "provisionalTranslation": "その日々はすべて苦痛と悩みで満ちており、夜も心は休まらない。これもまた虚無ではないか。"
+    },
+    {
+      "id": 25,
+      "verses": "v.25",
+      "original": "Nonne melius est comedere et bibere, et ostendere animae suae bona de laboribus suis? et hoc de manu Dei est.",
+      "provisionalTranslation": "食べ、飲み、自分の労苦から魂に善きものを示すことの方が、より良くはないか。これもまた神の手からのものである。"
+    },
+    {
+      "id": 26,
+      "verses": "v.26",
+      "original": "Homini bono in conspectu suo dedit Deus sapientiam, et scientiam, et laetitiam; peccatori autem dedit afflictionem et curam superfluam, ut addat, et congreget, et tradat ei qui placuit Deo; sed et hoc vanitas est, et cassa sollicitudo mentis.",
+      "provisionalTranslation": "神は自らの御前に善い人に知恵と知識と喜びを与えた。しかし罪人には苦悩と余分な心配を与えた──積み上げ、集め、神に喜ばれた者に渡すように。しかしこれもまた虚無であり、心の空しい配慮である。"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "Dixi ego in corde meo: Vadam, et affluam deliciis, et fruar bonis; et vidi quod hoc quoque esset vanitas.",
+      "body": "第2章の構造的出発点──「心の中で言った（dixi in corde meo）」という内的独白の様式は第1章v.16にも登場し、コヘレトの自己実験の語り口を特徴づける。「et vidi quod hoc quoque esset vanitas（これもまた虚無であることを見た）」──「quoque（もまた）」という副詞が第2章全体の反復的リフレインとして機能する：v.11・v.15・v.16・v.17・v.19・v.21・v.23・v.26と繰り返され、蓄積的に「あらゆる試みが虚無に帰する」という命題を証明していく。ボードレール「旅への誘い」の「luxe, calme et volupté（贅沢、平静、官能）」がコヘレトの「affluam deliciis（快楽にあふれ）」の詩的変奏──ただしボードレールの誘いが理念的・逃避的であるのに対し、コヘレトは実際に試みてその虚無を確認する。"
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "Cogitavi in corde meo abstrahere a vino carnem meam, ut animam meam transferrem ad sapientiam",
+      "body": "「肉体をぶどう酒から引き離し、魂を知恵へと移す」──感覚的享楽の放棄と知的探求への転換を、肉体（caro）と魂（anima）の分離として定式化する。この「禁欲的知恵の追求」は後にv.12–16で「それでも賢者も愚者も同じく死ぬ」という逆転によって崩壊する。ヨハネの十字架「noche oscura」の「感覚の否定（negación espiritual）」との類型的対応──しかしコヘレトの禁欲は神秘的合一を目指さず、純粋に認識論的（「何が有益か（quid esset utile）を見届けるため」）という点で根本的に異なる。ヴェイユ「Dressage」章の「霊的訓練としての感覚制御」もこの文脈で読める。",
+      "targetId": "juan_de_la_cruz_noche_oscura",
+      "targetParagraphId": 1
+    },
+    {
+      "paragraphId": 5,
+      "type": "commentary",
+      "anchor": "Magnificavi opera mea, aedificavi mihi domos, et plantavi vineas;",
+      "body": "v.5–10が「業績の列挙（catalogus operum）」を形成する──家・ぶどう畑・庭園・果樹園・貯水池・奴隷・家畜・金銀・歌い手・快楽の器。この列挙の蓄積的効果は、v.11「これらすべてを振り返ったとき……すべてに虚無を見た」という転換の落差を最大化するためのレトリック的準備。ダヌンツィオ「詩人たち（I poeti）」での詩的業績の誇示とその虚無感との構造的対応。ロセッティ「Vanity of Vanities」での「いかなる栄光も永続しない（no glory lasts）」という命題の旧約的源泉。"
+    },
+    {
+      "paragraphId": 11,
+      "type": "commentary",
+      "anchor": "Et omnia quae desideraverunt oculi mei non negavi eis",
+      "body": "「目が欲したものはすべて拒まなかった」──第1章v.8「目は見ることに飽くことなく（Non saturatur oculus visu）」の視覚的欲望の主題が実践的に展開される。第1章では欲望の不飽和性が一般命題として述べられたが、第2章ではコヘレト自身がその欲望を完全に解放する実験として実行する。そしてv.12で「これらすべてを振り返ったとき……虚無を見た」──欲望の完全な充足もまた不飽和と同じく虚無に帰することが証明される。マラルメ「骰子一擲」§7「RIEN N'AURA EU LIEU QUE LE LIEU（場所以外何も起きなかっただろう）」──すべての業・欲望・試みの後に残るのは「場所（locus）」だけという空虚の構造。",
+      "targetId": "mallarme_coup_de_des",
+      "targetParagraphId": 7
+    },
+    {
+      "paragraphId": 12,
+      "type": "glossary",
+      "anchor": "vidi in omnibus vanitatem et afflictionem animi, et nihil permanere sub sole.",
+      "body": "「afflictionem animi（魂の苦悩）」──第1章の「afflictio spiritus（霊の苦悩）」と並行するが、「spiritus」の代わりに「animus（魂・精神・心）」が使われる。ウルガータではこの二つの表現が交互に用いられ、どちらもヘブライ語「re'ut ruach（風を追うこと）」を訳している。「nihil permanere sub sole（太陽の下には何も留まることがない）」──第1章の「世代は過ぎ去り」・「新しいものは何もない」という命題の動詞的表現：何も「永続しない（permanere）」という否定的持続性。ローデンバック「沈黙について」の静水・死んだ都市のイメージが「nihil permanere」の詩的空間化として機能する。"
+    },
+    {
+      "paragraphId": 14,
+      "type": "commentary",
+      "anchor": "Et vidi quod tantum praecederet sapientia stultitiam, quantum differt lux a tenebris.",
+      "body": "「知恵が愚かさに勝ること、光が暗闇と異なるほどに」──v.13–15は章全体の弁証法的核心を形成する。まず知恵の優越性が「光と闇」という鮮明な対比で肯定される（v.14）。しかし直後のv.15「両者の滅びは一つ（unus utriusque esset interitus）」でその優越が死によって無効化される──という三段論法的な反転。「lux a tenebris（光と闇）」の対比はヨハネ福音書1:5「光は闇の中に輝いている（lux in tenebris lucet）」の創造論的文脈を背景に持ちながら、コヘレトはその光を死という等化作用が消去することを言う。トラークル「没落（Verfall）」・「深みより（De Profundis）」での光と闇の逆転的詩学との照応。"
+    },
+    {
+      "paragraphId": 15,
+      "type": "prosody",
+      "anchor": "Sapientis oculi in capite ejus; stultus in tenebris ambulat",
+      "body": "「賢者の目はその頭にある──愚者は暗闇の中を歩む」──格言的対句（antithesis）構造。「in capite ejus（その頭の中に）」という表現は「目が機能すべき場所に正しくある」という当然の事実を言いながら、愚者の「暗闇の中を歩む（in tenebris ambulat）」との対比によって「賢者は見ることができる」という優越性を暗示する。しかしこの格言がv.15後半で即座に「両者の滅びは一つ」によって転覆される──格言的確信の崩壊としての修辞的構造。"
+    },
+    {
+      "paragraphId": 17,
+      "type": "commentary",
+      "anchor": "moritur doctus similiter ut indoctus.",
+      "body": "「学ある者も無学な者と同様に死ぬ」──章の思想的頂点の一つ。ラテン語の格言的簡潔さ（doctus / indoctus の対）が、「死の前の平等性」という命題を極限まで圧縮する。第1章v.11「先のことどもの記憶はない」の死後的視点が、ここでは死そのものの平等性として再定式化される。ホラティウス「オーデ」I.4「pallida Mors aequo pulsat pede pauperum tabernas / regumque turres（蒼白い死は貧者の小屋も王の塔も等しく叩く）」というローマ詩の死の平等性のモチーフとの伝統的連続性。ゴーティエ「コケットリー死後（Coquetterie posthume）」の「死後には美醜の区別もない」という命題がコヘレトのこの「moritur doctus similiter ut indoctus」の詩的変奏として読める。",
+      "targetId": "gautier_coquetterie_posthume",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 18,
+      "type": "commentary",
+      "anchor": "taeduit me vitae meae",
+      "body": "「私は生を厭った（taeduit me vitae meae）」──ラテン語非人称動詞構文「taedet me + 属格」は「～に倦怠を感じる」。「生への倦怠（taedium vitae）」はストア哲学・セネカにおける自死の哲学的正当化の文脈でも用いられる表現だが、コヘレトの「taeduit」は絶望ではなく「見てしまったがゆえの倦怠」として機能する──「videntem mala universa esse sub sole（太陽の下のすべてが悪であることを見て）」という現在分詞節がその原因を明示する。ボードレール「憂鬱（Spleen）」の「ennui（倦怠）」概念の聖書的源泉：「taedium vitae」→「ennui」という語義の伝承。ローデンバック「女性の悲しみ（Les Femmes tristes）」での生の重さとの照応。"
+    },
+    {
+      "paragraphId": 19,
+      "type": "commentary",
+      "anchor": "Rursus detestatus sum omnem industriam meam, qua sub sole studiosissime laboravi, habiturus haeredem post me,",
+      "body": "v.19–21が「労苦の相続問題」として展開する──自分が積み上げたものを「知恵があるかどうかも分からない者（quem ignoro utrum sapiens an stultus futurus sit）」に残すという不条理。この「継承者への嫌悪」はコヘレトの「労苦の虚無」論証の最も具体的な社会的・実存的形象。ヴェイユ「Décréation」§2「私たちの存在は神の待機から、私たちの存在しないことへの同意からのみ作られている」との逆説的対比：コヘレトが継承者への労苦の引き渡しを「虚無」と見るのに対し、ヴェイユは自己消去・手放しを恩寵の条件として肯定的に捉える──同じ「労苦の手放し」に対する正反対の評価。",
+      "targetId": "weil_decreation",
+      "targetParagraphId": 2
+    },
+    {
+      "paragraphId": 23,
+      "type": "commentary",
+      "anchor": "Quid enim proderit homini de universo labore suo, et afflictione spiritus, qua sub sole cruciatus est?",
+      "body": "第1章v.3「人は太陽の下でのすべての労苦から何を得るのか（Quid habet amplius homo de universo labore suo）」の反復・深化。ただしここでは「afflictione spiritus（霊の苦悩）」と「cruciatus est（苦しんだ）」が加わり、労苦が単なる身体的・経済的な努力ではなく「十字架的苦しみ（cruciare）」として定義される。「cruciatus」はcrux（十字架）から派生──コヘレトの「afflictio spiritus」が後のキリスト教的苦難神学と接続する語彙的布石。ヨハネの十字架「noche oscura」v.7「すべての感覚を宙吊りにした（todos mis sentidos suspendía）」との対応：感覚の「十字架的停止」。",
+      "targetId": "juan_de_la_cruz_noche_oscura",
+      "targetParagraphId": 7
+    },
+    {
+      "paragraphId": 24,
+      "type": "commentary",
+      "anchor": "Cuncti dies ejus doloribus et aerumnis pleni sunt, nec per noctem mente requiescit.",
+      "body": "「その日々はすべて苦痛と悩みで満ちており、夜も心は休まらない」──昼（dies）と夜（nox）の双方で苦悩が持続するという全時間的な休息の不在。「nec per noctem mente requiescit（夜も心は休まらない）」──コヘレトの「夜の不眠」が後の章（第5章v.12「眠れない夜」）でも繰り返される。ヨハネの十字架「noche oscura」との対比的照応：コヘレトの「夜の不安（non requiescit）」に対し、ヨハネの「暗夜」は苦悩の中でも「幸いな巡り合わせ（dichosa ventura）」として把握される──同じ「夜」が神秘主義では変容の機会として転換される。",
+      "targetId": "juan_de_la_cruz_noche_oscura",
+      "targetParagraphId": 3
+    },
+    {
+      "paragraphId": 25,
+      "type": "commentary",
+      "anchor": "Nonne melius est comedere et bibere, et ostendere animae suae bona de laboribus suis? et hoc de manu Dei est.",
+      "body": "「食べ、飲み……これもまた神の手からのものである」──章の逆説的転換点。全章を通じた「虚無」の確認の後に、「食べ飲む」という最も日常的・身体的な享受が「神からの賜物（de manu Dei）」として肯定される。この逆転はコヘレト全体の思想的構造──「虚無の確認」と「日常的享受の勧め」の弁証法──の最初の定式化。後にコヘレト第3章v.22・第5章v.18・第8章v.15・第9章v.7で反復・発展される。ヴェイユ「affliction」論との対照：ヴェイユがコヘレト的「afflictio spiritus」の中に恩寵の入口を見出すのに対し、コヘレトは「食べ飲む」という地上的享受の肯定へと向かう──ただし「神の手から（de manu Dei）」という留保が重要。"
+    },
+    {
+      "paragraphId": 26,
+      "type": "commentary",
+      "anchor": "Homini bono in conspectu suo dedit Deus sapientiam, et scientiam, et laetitiam; peccatori autem dedit afflictionem et curam superfluam",
+      "body": "章の結語──「善い人への知恵・知識・喜び」と「罪人への苦悩・余分な心配」という二項対立が提示される。しかし最終句「sed et hoc vanitas est, et cassa sollicitudo mentis（しかしこれもまた虚無であり、心の空しい配慮である）」によってこの神学的区別さえも虚無に帰す──神の配分の公正さ自体が「空しい配慮（cassa sollicitudo）」として括弧に入れられる。ヴェイユ「Athéisme purificateur（浄化としての無神論）」§1「私は神が存在しないことを全く確信している──現実のものは何も私が思い描けることに似ていない」──コヘレトの「この配分もまた虚無」という結語が、「思い描かれた（神学的に体系化された）神」への不信として読める。",
+      "targetId": "weil_atheisme_purificateur",
+      "targetParagraphId": 1
+    }
+  ]
+}
