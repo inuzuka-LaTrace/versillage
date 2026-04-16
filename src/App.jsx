@@ -47,6 +47,7 @@ import rossetti_cData from './data/rossetti_c';
 import d_g_rossettiData from './data/d_g_rossetti';
 import yeatsData from './data/yeats';
 import juan_de_la_cruzData from './data/juan_de_la_cruz';
+import hieronymusData from './data/hieronymus';
 import { CATEGORIES, CAT_SHORT, ANNOTATION_TYPE_DEF, SPEECH_RATES, PREFERRED_VOICES, SPEAKER_COLORS, SPEAKER_FIXED_COLORS, AUTHOR_COLOR_MAP } from './constants';
 import { getTranslation, getOriginalText, getSpeechLang, getBestVoice, extractSnippet } from './utils';
 
@@ -259,6 +260,7 @@ export default function App() {
       ...hoelderlinData,
       ...rilkeData,
       ...juan_de_la_cruzData,
+      ...hieronymusData,
     };
     setTexts(allTexts);
   const timer = setTimeout(() => {
@@ -2125,7 +2127,7 @@ const TocDrawer = ({
   setTocOpenAuthors,
   handleTextChange
 }) => {
-    const langMap = { 'fr': 'fr-FR', 'de': 'de-DE', 'en': 'en-GB', 'ru': 'ru-RU', 'it': 'it-IT', 'es': 'es-ES' };
+    const langMap = { 'fr': 'fr-FR', 'de': 'de-DE', 'en': 'en-GB', 'ru': 'ru-RU', 'it': 'it-IT', 'es': 'es-ES', 'la': 'la-LA' };
 
     // ── フィルタリング（言語 + 検索：タイトル/作家/年/本文） ──────────
     const allTextsArr = Object.values(texts);
