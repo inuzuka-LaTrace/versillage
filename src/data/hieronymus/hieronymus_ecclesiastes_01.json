@@ -1,0 +1,243 @@
+{
+  "id": "hieronymus_ecclesiastes_1",
+  "title": "Ecclesiastes, Caput I",
+  "author": "Hieronymus",
+  "source": "Biblia Sacra Vulgata, Liber Ecclesiastes (Qohelet), Caput I. Bible Gateway: https://www.biblegateway.com/passage/?search=Ecclesiastes+1&version=VULGATE",
+  "year": "Antiquitas",
+  "firstPublication": "Vulgata Latina, c. 382–405 AD（ヒエロニムス訳）",
+  "difficulty": "中級",
+  "category": "hieronymus",
+  "originalLang": "la-LA",
+  "modernRelevance": "★★★★★",
+  "context": "コヘレトの言葉（Qohelet）第1章。ラテン語ウルガータ訳はヒエロニムス（Eusebius Sophronius Hieronymus, c.347–420）によって382〜405年頃に完成した。「Vanitas vanitatum」（虚無の虚無）という書出しは西洋文学・哲学における「虚無」概念の原型的定式であり、VANITISME（アプリ名）の直接の語源。ヘブライ語原典「הֲבֵל הֲבָלִים（havel havelim）」は「息・蒸気」を意味し、つかの間の実体のなさを指す。コヘレトは「集める者・説教者」を意味するヘブライ語で、ダヴィデの子・エルサレムの王（ソロモン）の仮面のもとで語られる。太陽の運行・川と海の循環・世代の交代という自然の反復運動が「新しいものは何もない（Nihil sub sole novum）」という根本命題を下支えする。VANITISMEの詩的核心──ヴェイユ・ボードレール・マラルメ・ゴーティエ・ローデンバックら全収録作家の「虚無」の詩学──はこの第1章に淵源する。",
+  "keywords": [
+    "vanitas vanitatum",
+    "虚無",
+    "コヘレト",
+    "Qohelet",
+    "nihil sub sole novum",
+    "afflictio spiritus",
+    "循環",
+    "労苦",
+    "知恵",
+    "ウルガータ"
+  ],
+  "relatedTexts": [
+    "weil_accepter_le_vide",
+    "weil_pesanteur_beaute",
+    "weil_necessite",
+    "baudelaire_spleen",
+    "baudelaire_horloge",
+    "mallarme_coup_de_des",
+    "rodenbach_du_silence",
+    "dowson_vanitas",
+    "rossetti_vanity_of_vanities",
+    "rossetti_days_of_vanity"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "verses": "v.1",
+      "original": "Verba Ecclesiastae, filii David, regis Jerusalem.",
+      "provisionalTranslation": "エルサレムの王、ダヴィデの子、コヘレトの言葉。"
+    },
+    {
+      "id": 2,
+      "verses": "v.2",
+      "original": "Vanitas vanitatum, dixit Ecclesiastes; vanitas vanitatum, et omnia vanitas.",
+      "provisionalTranslation": "虚無の虚無、とコヘレトは言った。虚無の虚無、すべては虚無である。"
+    },
+    {
+      "id": 3,
+      "verses": "v.3",
+      "original": "Quid habet amplius homo de universo labore suo quo laborat sub sole?",
+      "provisionalTranslation": "太陽の下で人が営むすべての労苦から、人は何を得るのか？"
+    },
+    {
+      "id": 4,
+      "verses": "v.4",
+      "original": "Generatio praeterit, et generatio advenit; terra autem in aeternum stat.",
+      "provisionalTranslation": "世代は過ぎ去り、世代は来る。しかし大地は永遠に立ち続ける。"
+    },
+    {
+      "id": 5,
+      "verses": "v.5",
+      "original": "Oritur sol et occidit, et ad locum suum revertitur; ibique renascens,",
+      "provisionalTranslation": "太陽は昇り、沈み、その場所へと戻る。そしてそこで再び生まれ、"
+    },
+    {
+      "id": 6,
+      "verses": "v.6",
+      "original": "gyrat per meridiem, et flectitur ad aquilonem. Lustrans universa in circuitu pergit spiritus, et in circulos suos revertitur.",
+      "provisionalTranslation": "南を旋回し、北へと曲がる。風はあらゆるところを照らしながら巡り続け、その巡回へと戻っていく。"
+    },
+    {
+      "id": 7,
+      "verses": "v.7",
+      "original": "Omnia flumina intrant in mare, et mare non redundat; ad locum unde exeunt flumina revertuntur ut iterum fluant.",
+      "provisionalTranslation": "すべての川は海へと入る、しかし海はあふれない。川が出ていったその場所へと、再び流れるために戻っていく。"
+    },
+    {
+      "id": 8,
+      "verses": "v.8",
+      "original": "Cunctae res difficiles; non potest eas homo explicare sermone. Non saturatur oculus visu, nec auris auditu impletur.",
+      "provisionalTranslation": "すべての事柄は困難であり、人はそれを言葉で説明することができない。目は見ることに飽くことなく、耳は聴くことで満たされることがない。"
+    },
+    {
+      "id": 9,
+      "verses": "v.9",
+      "original": "Quid est quod fuit? Ipsum quod futurum est. Quid est quod factum est? Ipsum quod faciendum est.",
+      "provisionalTranslation": "あったものとは何か？それはこれから来るものである。なされたこととは何か？それはなされるべきことである。"
+    },
+    {
+      "id": 10,
+      "verses": "v.10",
+      "original": "Nihil sub sole novum, nec valet quisquam dicere: Ecce hoc recens est: jam enim praecessit in saeculis quae fuerunt ante nos.",
+      "provisionalTranslation": "太陽の下に新しいものは何もない。「見よ、これは新しい」と言える者は誰もいない。それはすでに私たちの前にあった時代に先行していたのだから。"
+    },
+    {
+      "id": 11,
+      "verses": "v.11",
+      "original": "Non est priorum memoria; sed nec eorum quidem quae postea futura sunt erit recordatio apud eos qui futuri sunt in novissimo.",
+      "provisionalTranslation": "先のことどもの記憶はない。また後に来るものたちのうちにも、最後に来るであろう者たちのもとでは、それらの記憶はないであろう。"
+    },
+    {
+      "id": 12,
+      "verses": "v.12",
+      "original": "Ego Ecclesiastes fui rex Israel in Jerusalem;",
+      "provisionalTranslation": "私、コヘレトはエルサレムにてイスラエルの王であった。"
+    },
+    {
+      "id": 13,
+      "verses": "v.13",
+      "original": "et proposui in animo meo quaerere et investigare sapienter de omnibus quae fiunt sub sole. Hanc occupationem pessimam dedit Deus filiis hominum, ut occuparentur in ea.",
+      "provisionalTranslation": "そして私は心に、太陽の下でなされるすべてのことについて知恵をもって探求し調査することを定めた。神は人の子らにこの最も過酷な営みを与えた、彼らがそれに従事するように。"
+    },
+    {
+      "id": 14,
+      "verses": "v.14",
+      "original": "Vidi cuncta quae fiunt sub sole, et ecce universa vanitas et afflictio spiritus.",
+      "provisionalTranslation": "私は太陽の下でなされるすべてを見た。そして見よ、すべては虚無であり、霊の苦悩である。"
+    },
+    {
+      "id": 15,
+      "verses": "v.15",
+      "original": "Perversi difficile corriguntur, et stultorum infinitus est numerus.",
+      "provisionalTranslation": "曲がったものは正すことが難しく、愚か者の数は無限である。"
+    },
+    {
+      "id": 16,
+      "verses": "v.16",
+      "original": "Locutus sum in corde meo, dicens: Ecce magnus effectus sum, et praecessi omnes sapientia qui fuerunt ante me in Jerusalem; et mens mea contemplata est multa sapienter, et didici.",
+      "provisionalTranslation": "私は心の中でこう言った。「見よ、私は偉大になり、私の前にエルサレムにいた者すべてを知恵において超えた。私の心は多くのことを知恵をもって観照し、学んだ。」"
+    },
+    {
+      "id": 17,
+      "verses": "v.17",
+      "original": "Dedique cor meum ut scirem prudentiam atque doctrinam, erroresque et stultitiam; et agnovi quod in his quoque esset labor et afflictio spiritus:",
+      "provisionalTranslation": "そして私は心を向けた、賢明さと知識を、そして誤りと愚かさを知るために。しかしこれらの中にもまた労苦と霊の苦悩があることを私は悟った。"
+    },
+    {
+      "id": 18,
+      "verses": "v.18",
+      "original": "eo quod in multa sapientia multa sit indignatio; et qui addit scientiam, addit et laborem.",
+      "provisionalTranslation": "なぜなら、多くの知恵には多くの憤りがあり、知識を加える者は労苦をも加えるからである。"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 2,
+      "type": "glossary",
+      "anchor": "Vanitas vanitatum",
+      "body": "ヘブライ語原典「הֲבֵל הֲבָלִים（havel havelim）」の直訳。「havel」は「息・蒸気・水蒸気」を原義とし、実体のないもの・つかの間のものを指す。ヒエロニムスは「vanitas」（空虚・虚栄・無意味）を選択した──これが西洋語における「虚無」概念の標準的定式となる。「vanitatum」は属格複数で「虚無のうちの虚無」すなわち最上級の強調（ヘブライ語的最上級構文：「雅歌（Canticum canticorum）」・「聖なる聖なる（Sanctus sanctorum）」と同形）。アプリ名「VANITISME」の直接の語源。クリスティーナ・ロセッティ「Vanity of Vanities」・「Days of Vanity」・ダウスン「Vanitas」はこの定式の英語圏受容。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "intertextual",
+      "anchor": "omnia vanitas",
+      "body": "「すべては虚無である」──ゴーティエ「コケットリー死後」・ランボー「花々」・ヴェイユ全章での「空虚」論の共通の底流をなす。ボードレール「憂鬱（Spleen）」のアカシア・荒野のイメージが「vanitas」の詩的変容であり、ロセッティ兄妹の Pre-Raphaelite 作品群もヴァニタス絵画の文学的等価物として位置づけられる。バロック絵画「ヴァニタス」（アドリアーン・ファン・ユトレフトの静物画──アプリの未選択画面に実装済み）の絵画的伝統もここに源流を持つ。",
+      "targetId": "rossetti_vanity_of_vanities",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "Quid habet amplius homo de universo labore suo quo laborat sub sole?",
+      "body": "「太陽の下での労苦（labor sub sole）」という問い──「sub sole（太陽の下で）」という定式がコヘレトの反復句として29回登場する。人間の活動全体を「太陽の下の」有限な地上的営みとして括る視座。ヴェイユ「重力と恩寵」の「重力（pesanteur）」概念──地上の力学的法則に縛られたすべての人間的努力──がこの「sub sole」の哲学的展開として読める。「労苦（labor）」は§13「最も過酷な営み（occupationem pessimam）」・§14「afflictio spiritus（霊の苦悩）」・§17・§18と連動する章全体のライトモチーフ。"
+    },
+    {
+      "paragraphId": 4,
+      "type": "commentary",
+      "anchor": "Generatio praeterit, et generatio advenit; terra autem in aeternum stat.",
+      "body": "「世代は過ぎ去り……大地は永遠に立ち続ける」──人間の世代の無常と大地の永続性の対比。ヘブライ語「דּוֹר（dor）」は「世代・時代・周期」を意味し、循環の概念が人間にも適用される。「terra autem in aeternum stat」──大地の永続性は慰めではなく、人間の短命を際立たせる背景として機能する。ヴェイユ「Les Astres」の「星々」が同様に人間の時間性と宇宙的時間の対比を展開する。ホフマンスタール「テルツィーネン」の「私たちはみな死んでいる者の生から来る（Wir alle sterben）」という世代継承の感覚がこの節の詩的変容。",
+      "targetId": "weil_les_astres",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 6,
+      "type": "prosody",
+      "anchor": "gyrat per meridiem, et flectitur ad aquilonem. Lustrans universa in circuitu pergit spiritus, et in circulos suos revertitur.",
+      "body": "v.5–6は太陽の日周運動を描くが、ヴルガータではv.5末尾「ibique renascens（そしてそこで再び生まれ）」でv.6の主語が変わる──「spiritus（風・霊）」の循環運動へと転換する。「in circulos suos revertitur（その巡回へと戻る）」という動詞の繰り返し──v.7の「revertuntur（戻っていく）」・v.5の「revertitur（戻る）」と三重の反復をなし、「循環（circulus）」という主題を文体的に実演する。"
+    },
+    {
+      "paragraphId": 7,
+      "type": "commentary",
+      "anchor": "Omnia flumina intrant in mare, et mare non redundat",
+      "body": "「すべての川は海へと入る、しかし海はあふれない」──充足しない欲望の宇宙的形象。川が海へと流れ込んでも海は満たされないという逆説は、§8の「目は見ることに飽くことなく（Non saturatur oculus visu）」と照応する──自然の循環と人間の欲望・認識の不飽和性が同型として提示される。マラルメ「骰子一擲」§7「RIEN / N'AURA EU LIEU / QUE LE LIEU（場所以外何も起きなかっただろう）」──川が海へと消える「場所（locus）」だけが残る虚無の構造と響き合う。ロデンバック「沈黙について」の静水のイメージにもコヘレトの水の循環が底流する。",
+      "targetId": "mallarme_coup_de_des",
+      "targetParagraphId": 7
+    },
+    {
+      "paragraphId": 8,
+      "type": "glossary",
+      "anchor": "Non saturatur oculus visu, nec auris auditu impletur.",
+      "body": "ヘブライ語原典「רְעוּת רוּחַ（re'ut ruach）」──「風（ruach）を追うこと・霊の苦悩」。「ruach」は「風・息・霊」を多義的に指すヘブライ語で、コヘレトでは「空をつかむような徒労感」の慣用句として使われる。ヒエロニムスは「afflictio spiritus（霊の苦悩）」と訳し、「vexatio spiritus（霊の煩悶）」とも並存する異読がある。この「霊の苦悩」という語が§14でも反復され、知的探求の結論として確立される──「afflictio spiritus」はアプリ収録作品全体に通底する情動の定式として機能する。"
+    },
+    {
+      "paragraphId": 9,
+      "type": "commentary",
+      "anchor": "Quid est quod fuit? Ipsum quod futurum est. Quid est quod factum est? Ipsum quod faciendum est.",
+      "body": "「あったものはこれから来るもの、なされたことはなされるべきこと」──過去・現在・未来の循環的同一性の命題。ヘブライ語の不定詞絶対形「shehayah（あったもの）／sheyihyeh（あるであろうもの）」が時制を宙吊りにする。v.10「Nihil sub sole novum（太陽の下に新しいものは何もない）」の前言として機能し、歴史・記憶・革新の可能性を根底から疑問に付す。マラルメ「骰子一擲」の「偶然の廃棄不可能性」──思考がいかなる形でも新しい秩序を生み出せないという命題──が、コヘレトのこの循環的同一性の詩的展開として読める。",
+      "targetId": "mallarme_coup_de_des",
+      "targetParagraphId": 10
+    },
+    {
+      "paragraphId": 10,
+      "type": "glossary",
+      "anchor": "Nihil sub sole novum",
+      "body": "「太陽の下に新しいものは何もない」──コヘレト第1章で最も広く引用される定式。ラテン語格言として西洋文学全体に流通した。「sub sole（太陽の下で）」という地上的限定が重要──天上・永遠の領域では新しさが存在しうるが、人間的・地上的な営みの圏内では循環だけがある。ニーチェ「永劫回帰（ewige Wiederkehr）」思想の聖書的先行形として読める──ゲオルゲ「ニーチェ」（`george_nietzsche`）収録との対話的関係。"
+    },
+    {
+      "paragraphId": 11,
+      "type": "commentary",
+      "anchor": "Non est priorum memoria; sed nec eorum quidem quae postea futura sunt erit recordatio",
+      "body": "「先のことどもの記憶はない……後に来るものたちの記憶もないであろう」──記憶の不在という二重の抹消。過去に対しては「記憶がない（non est memoria）」、未来に対しては「記憶はないであろう（non erit recordatio）」──現在もまた記憶されない現在として括弧に入る。ロデンバック「忘却（L'Oubli）」の主題との直接的照応。ヴァレリー「アマチュアの詩篇（L'Amateur de poèmes）」の「忘却の至福」がこのコヘレト的忘却の審美的変容として機能する。",
+      "targetId": "rodenbach_loubli",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 13,
+      "type": "commentary",
+      "anchor": "Hanc occupationem pessimam dedit Deus filiis hominum, ut occuparentur in ea.",
+      "body": "「神は人の子らにこの最も過酷な営みを与えた」──知的探求・知恵の追求そのものが「最も過酷な営み（occupatio pessima）」として神から与えられた課題として定義される。「pessimam（最も悪い・最も過酷な）」という最上級──神が人間に課した試練としての知識への衝動。ヴェイユ「Dressage（訓練）」章での「神が課す訓練」という概念との照応：神は人間を直接助けるのではなく、苦難を通じて精錬する。ランボー「見者の手紙」での詩人の「地獄」としての認識論的使命がコヘレトのこの命題の詩的変奏として読める。",
+      "targetId": "weil_dressage",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 14,
+      "type": "commentary",
+      "anchor": "universa vanitas et afflictio spiritus",
+      "body": "「すべては虚無であり、霊の苦悩である（universa vanitas et afflictio spiritus）」──v.2「omnia vanitas」の結論的反復であり拡張。「et afflictio spiritus」が加わることで、虚無が単なる客観的状態ではなく主体が「苦しむ（afflictio）」経験として定義される。ヴェイユ「Accepter le vide」§1「恩寵が入れるのはそれを受け取る空虚がある場所だけ」──「afflictio spiritus」としての虚無体験が恩寵の前提条件として再解釈される。ボードレール「悪の華」全体が「afflictio spiritus」の19世紀的詩的展開として位置づけられる。",
+      "targetId": "weil_accepter_le_vide",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 18,
+      "type": "commentary",
+      "anchor": "qui addit scientiam, addit et laborem",
+      "body": "「知識を加える者は労苦をも加える」──第1章の結語。知識の蓄積が苦悩の蓄積と比例するというパラドクス。v.17「agnovi quod in his quoque esset labor et afflictio spiritus（これらの中にもまた労苦と霊の苦悩があることを悟った）」の格言的集約。ヴァレリー「詩学講義（Première leçon du cours de poétique）」での「詩的認識の苦悩」──詩を書くことが知識を加えることであり同時に苦悩を加えることであるという詩人論がここに根拠を持つ。マラルメ「骰子一擲」最終行「Toute Pensée émet un Coup de Dés（いかなる思考も骰子の一擲を放つ）」──思考が偶然性（＝制御不能の苦悩）を放出するという命題が、コヘレトの「知識を加える者は労苦をも加える」の詩的変奏として読める。",
+      "targetId": "mallarme_coup_de_des",
+      "targetParagraphId": 10
+    }
+  ]
+}
