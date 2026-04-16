@@ -2081,7 +2081,7 @@ export default function App() {
       className={`text-[8px] max-w-xs mx-auto ${textSecondary}`}
     >
       VANITISME ; L'archive polyglotte de la modernité :<br />
-      français, allemand, anglais, russe, italien et espagnol. <br />
+      français, allemand, anglais, russe, italien, espagnol et latin. <br />
       Dispositif de lecture, de traduction et de mémoire.<br />
       <br />
       Recueil de {Object.keys(texts).length} textes<br />
