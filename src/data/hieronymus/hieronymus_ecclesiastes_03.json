@@ -1,0 +1,276 @@
+{
+  "id": "hieronymus_ecclesiastes_3",
+  "title": "Ecclesiastes, Caput III",
+  "author": "Hieronymus",
+  "source": "Biblia Sacra Vulgata, Liber Ecclesiastes (Qohelet), Caput III. Bible Gateway: https://www.biblegateway.com/passage/?search=Ecclesiastes+3&version=VULGATE",
+  "year": "Antiquitas",
+  "firstPublication": "Vulgata Latina, c. 382–405 AD（ヒエロニムス訳）",
+  "difficulty": "中級",
+  "category": "hieronymus",
+  "originalLang": "la-LA",
+  "modernRelevance": "★★★★★",
+  "context": "コヘレトの言葉（Qohelet）第3章。冒頭v.1–8の「時の詩（carmen temporum）」は西洋文学で最も広く引用されるコヘレト箇所──「すべてに時がある（Omnia tempus habent）」という定式のもとに14組28項の対句が連なる。生・死・植える・根こそぎにする・殺す・癒す・破壊する・建てる……という対立項の完全な列挙が、人間の行為全体を「神が定めた時間の枠組み」の中に包摂する。v.9以降で時の詩を受ける問い「人は労苦から何を得るのか（Quid habet amplius homo de labore suo?）」が第1・2章の問いを圧縮した形で再提起される。第3章の思想的核心はv.11「神はすべてを時に応じて美しく造り、永遠（mundum）を人の心に与えた──しかし神が初めから終わりまで行う業を人は見出すことができない」という逆説：神的時間の全体性（永遠）への渇望が与えられているが、その全体は決して把握できない。v.18–20では人間と家畜の死の同一性が第2章の「賢者も愚者も同じく死ぬ」を動物的次元に拡張し、「土から造られ土に戻る（De terra facta sunt, et in terram pariter revertuntur）」という創世記的定式で確認される。",
+  "keywords": [
+    "時の詩",
+    "omnia tempus habent",
+    "対位法",
+    "永遠",
+    "mundum",
+    "人間と動物の死の平等",
+    "spiritus",
+    "土への回帰",
+    "神の業の不可知性",
+    "時間と虚無"
+  ],
+  "relatedTexts": [
+    "hieronymus_ecclesiastes_1",
+    "hieronymus_ecclesiastes_2",
+    "weil_accepter_le_vide",
+    "weil_necessite",
+    "weil_les_astres",
+    "weil_pesanteur_beaute",
+    "mallarme_coup_de_des",
+    "baudelaire_horloge",
+    "baudelaire_une_charogne",
+    "hofmannsthal_terzinen",
+    "rilke_duineser_elegien_01"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "verses": "v.1",
+      "original": "Omnia tempus habent, et suis spatiis transeunt universa sub caelo.",
+      "provisionalTranslation": "すべてのことには時がある。天の下のあらゆることはその定められた時に過ぎ去っていく。"
+    },
+    {
+      "id": 2,
+      "verses": "v.2",
+      "original": "Tempus nascendi, et tempus moriendi; tempus plantandi, et tempus evellendi quod plantatum est.",
+      "provisionalTranslation": "生まれる時、そして死ぬ時。植える時、そして植えられたものを根こそぎにする時。"
+    },
+    {
+      "id": 3,
+      "verses": "v.3",
+      "original": "Tempus occidendi, et tempus sanandi; tempus destruendi, et tempus aedificandi.",
+      "provisionalTranslation": "殺す時、そして癒す時。破壊する時、そして建てる時。"
+    },
+    {
+      "id": 4,
+      "verses": "v.4",
+      "original": "Tempus flendi, et tempus ridendi; tempus plangendi, et tempus saltandi.",
+      "provisionalTranslation": "泣く時、そして笑う時。嘆く時、そして踊る時。"
+    },
+    {
+      "id": 5,
+      "verses": "v.5",
+      "original": "Tempus spargendi lapides, et tempus colligendi, tempus amplexandi, et tempus longe fieri ab amplexibus.",
+      "provisionalTranslation": "石を散らす時、そして集める時。抱きしめる時、そして抱擁から遠ざかる時。"
+    },
+    {
+      "id": 6,
+      "verses": "v.6",
+      "original": "Tempus acquirendi, et tempus perdendi; tempus custodiendi, et tempus abjiciendi.",
+      "provisionalTranslation": "得る時、そして失う時。守る時、そして捨てる時。"
+    },
+    {
+      "id": 7,
+      "verses": "v.7",
+      "original": "Tempus scindendi, et tempus consuendi; tempus tacendi, et tempus loquendi.",
+      "provisionalTranslation": "裂く時、そして縫う時。沈黙する時、そして語る時。"
+    },
+    {
+      "id": 8,
+      "verses": "v.8",
+      "original": "Tempus dilectionis, et tempus odii; tempus belli, et tempus pacis.",
+      "provisionalTranslation": "愛する時、そして憎む時。戦いの時、そして平和の時。"
+    },
+    {
+      "id": 9,
+      "verses": "v.9",
+      "original": "Quid habet amplius homo de labore suo?",
+      "provisionalTranslation": "人は自分の労苦から何を得るのか。"
+    },
+    {
+      "id": 10,
+      "verses": "v.10",
+      "original": "Vidi afflictionem quam dedit Deus filiis hominum, ut distendantur in ea.",
+      "provisionalTranslation": "私は神が人の子らに与えた苦悩を見た──彼らがその中で引き伸ばされるように。"
+    },
+    {
+      "id": 11,
+      "verses": "v.11",
+      "original": "Cuncta fecit bona in tempore suo, et mundum tradidit disputationi eorum, ut non inveniat homo opus quod operatus est Deus ab initio usque ad finem.",
+      "provisionalTranslation": "神はすべてをその時において美しく造った。そして永遠を彼らの議論に委ねた──神が初めから終わりまで行う業を人が見出すことができないように。"
+    },
+    {
+      "id": 12,
+      "verses": "v.12",
+      "original": "Et cognovi quod non esset melius nisi laetari, et facere bene in vita sua;",
+      "provisionalTranslation": "そして私は知った──喜び、生きている間に善を行うこと以上のものはないと。"
+    },
+    {
+      "id": 13,
+      "verses": "v.13",
+      "original": "omnis enim homo qui comedit et bibit, et videt bonum de labore suo, hoc donum Dei est.",
+      "provisionalTranslation": "食べ飲み、自分の労苦のうちに善を見る者──これは神の賜物である。"
+    },
+    {
+      "id": 14,
+      "verses": "v.14",
+      "original": "Didici quod omnia opera quae fecit Deus perseverent in perpetuum; non possumus eis quidquam addere, nec auferre, quae fecit Deus ut timeatur.",
+      "provisionalTranslation": "私は学んだ──神が行ったすべての業は永遠に続く。私たちはそれに何も加えることも取り去ることもできない。神はそれを、畏れられるために行った。"
+    },
+    {
+      "id": 15,
+      "verses": "v.15",
+      "original": "Quod factum est, ipsum permanet; quae futura sunt jam fuerunt, et Deus instaurat quod abiit.",
+      "provisionalTranslation": "なされたことはそれ自体留まる。これから来るものはすでにあった。そして神は去ったものを回復させる。"
+    },
+    {
+      "id": 16,
+      "verses": "v.16",
+      "original": "Vidi sub sole in loco judicii impietatem, et in loco justitiae iniquitatem:",
+      "provisionalTranslation": "私は太陽の下で、裁きの場に不敬虔を、正義の場に不正を見た。"
+    },
+    {
+      "id": 17,
+      "verses": "v.17",
+      "original": "et dixi in corde meo: Justum et impium judicabit Deus, et tempus omnis rei tunc erit.",
+      "provisionalTranslation": "そして私は心の中でこう言った。「神は正しい者も不正な者も裁くだろう。なぜならすべての事柄の時はその時に来るのだから。」"
+    },
+    {
+      "id": 18,
+      "verses": "v.18",
+      "original": "Dixi in corde meo de filiis hominum, ut probaret eos Deus, et ostenderet similes esse bestiis.",
+      "provisionalTranslation": "私は人の子らについて心の中でこう言った──神が彼らを試し、彼らが動物に似ていることを示すように。"
+    },
+    {
+      "id": 19,
+      "verses": "v.19",
+      "original": "Idcirco unus interitus est hominis et jumentorum, et aequa utriusque conditio. Sicut moritur homo, sic et illa moriuntur. Similiter spirant omnia, et nihil habet homo jumento amplius: cuncta subjacent vanitati,",
+      "provisionalTranslation": "それゆえ人間と家畜の滅びは一つであり、両者の条件は等しい。人が死ぬように、それらも死ぬ。すべてのものは同様に息をし、人間は家畜より何も多くは持っていない。すべては虚無のもとにある。"
+    },
+    {
+      "id": 20,
+      "verses": "v.20",
+      "original": "et omnia pergunt ad unum locum. De terra facta sunt, et in terram pariter revertuntur.",
+      "provisionalTranslation": "すべては一つの場所へと向かう。土から造られ、等しく土へと戻る。"
+    },
+    {
+      "id": 21,
+      "verses": "v.21",
+      "original": "Quis novit si spiritus filiorum Adam ascendat sursum, et si spiritus jumentorum descendat deorsum?",
+      "provisionalTranslation": "アダムの子らの霊が上へと昇り、家畜の霊が下へと降るかどうか、誰が知るのか。"
+    },
+    {
+      "id": 22,
+      "verses": "v.22",
+      "original": "Et deprehendi nihil esse melius quam laetari hominem in opere suo, et hanc esse partem illius. Quis enim eum adducet ut post se futura cognoscat?",
+      "provisionalTranslation": "そして私は見出した──人が自分の業の中で喜ぶこと、これが彼の分け前であること以上のものはないと。誰が彼を連れて行き、死後に来ることを知らせるというのか。"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "prosody",
+      "anchor": "Omnia tempus habent, et suis spatiis transeunt universa sub caelo.",
+      "body": "v.1–8の「時の詩（carmen temporum）」の序詞。「Omnia tempus habent（すべてのことには時がある）」──「tempus（時）」を主格補語とする簡潔な宣言が28項の対句群の枠を設定する。「suis spatiis（その定められた間隔において）」──「spatium」は空間的距離と時間的間隔の双方を意味し、時間が「空間的に区画された」ものとして把握される。v.2–8の構造：「Tempus + 不定詞, et tempus + 不定詞」という格式が14回反復される。ヘブライ語詩篇の対句法（parallelismus membrorum）がラテン語の対句構文に変換されており、肯定項と否定項・積極的行為と受動的行為が交互に現れる。ボードレール「時計（L'Horloge）」との対比：ボードレールの「時」が消費・喪失の一方向的流れとして脅迫的に現れるのに対し、コヘレトの「時」は対称的・循環的で、どちらの極も等しく「神の時」として肯定される。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "Tempus nascendi, et tempus moriendi; tempus plantandi, et tempus evellendi quod plantatum est.",
+      "body": "詩の第一対──生・死・植える・根こそぎにするという存在の根本的な起点と終点。「evellendi（根こそぎにする）」という動詞の選択が重要──単に「枯れる（mori）」ではなく「暴力的に引き抜く」という能動的な行為として「終わりの時」が定義される。リルケ「ドゥイーノ悲歌・第1歌」の「誰が私を天使の列のなかに叫んでも聞いてくれるだろうか（Wer, wenn ich schriee, hörte mich denn aus der Engel Ordnungen?）」──存在の根源的な不安定さ・「今ここにある」ことの束の間の性質がコヘレトの「生まれる時・死ぬ時」の緊張として共鳴する。",
+      "targetId": "rilke_duineser_elegien_01",
+      "targetParagraphId": 1
+    },
+    {
+      "paragraphId": 7,
+      "type": "commentary",
+      "anchor": "tempus tacendi, et tempus loquendi.",
+      "body": "「沈黙する時、そして語る時」──時の詩の28項の中で唯一、言語的行為の対を形成する。28項の中央部（v.7の第2対）に配置され、詩全体の言語的枢軸として機能する。マラルメ「クリーズ・ド・ヴェール」での「沈黙と語りの弁証法」──詩語は沈黙を含む語りとして定義される──が、このコヘレトの「沈黙の時・語りの時」の詩学的展開として読める。ヴェイユ「Effacement（消去）」章の「語ることをやめること（ne pas dire je）」も「tacendi（沈黙の時）」の神秘主義的変奏。ロデンバック「沈黙について（Du Silence）」がコヘレトのこの「沈黙の時」の象徴主義的詩篇として位置づけられる。",
+      "targetId": "rodenbach_du_silence",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 9,
+      "type": "commentary",
+      "anchor": "Quid habet amplius homo de labore suo?",
+      "body": "第1章v.3「Quid habet amplius homo de universo labore suo quo laborat sub sole?」の圧縮された反復。「universo labore suo quo laborat sub sole（太陽の下で営むすべての労苦から）」という詳細な限定が削除され、「de labore suo（自分の労苦から）」という端的な問いになっている──時の詩の28項全体が「人間の行為の全体」として括弧に入れられた後の問いとして、その圧縮は自明である。第1章からの問い・第2章の実験的試みを経て、第3章でその問いが時間論的文脈で再定式化される。"
+    },
+    {
+      "paragraphId": 10,
+      "type": "glossary",
+      "anchor": "Vidi afflictionem quam dedit Deus filiis hominum, ut distendantur in ea.",
+      "body": "「ut distendantur in ea（彼らがその中で引き伸ばされるように）」──「distendere（引き伸ばす・引き裂く）」という動詞が注目に値する。神が与えた「苦悩（afflictio）」の目的が「引き伸ばされること」として定義される──苦悩は破壊ではなく拡張・緊張として機能する。ヴェイユ「affliction（苦悩）」論：afflictionとは身体的・心理的・社会的な三重の苦しみであり、人格を「破壊する（détruire）」力を持つ──ただしヴェイユは同時にafflictionを神の注意（attention de Dieu）の入口として読む。「distendantur（引き伸ばされるように）」はヴェイユ的afflictionの「拡張する苦悩」の語源的根拠を提供する。"
+    },
+    {
+      "paragraphId": 11,
+      "type": "commentary",
+      "anchor": "Cuncta fecit bona in tempore suo, et mundum tradidit disputationi eorum, ut non inveniat homo opus quod operatus est Deus ab initio usque ad finem.",
+      "body": "章の思想的核心──「mundum tradidit disputationi eorum（永遠を彼らの議論に委ねた）」。ウルガータの「mundus」はここでヘブライ語「עֹלָם（olam）」の訳で、「永遠・遠い時」を意味する──神が人間の心に「永遠への渇望」を植え付けたが、その全体は決して把握できないという逆説。「ut non inveniat homo opus quod operatus est Deus ab initio usque ad finem（神が初めから終わりまで行う業を人が見出すことができないように）」──神の業の全体的把握の不可能性が、永遠への渇望とともに人間条件として定義される。ヴェイユ「Les Astres」での「神の業の不可知性」──星々の必然性の下で人間が「沈黙する」しかない状況がコヘレトのこの「ut non inveniat（見出すことができないように）」に照応する。マラルメ「骰子一擲」の「偶然の廃棄不可能性」──人間的思考がいかなる形でも神の「初めから終わり」を把握・制御できないという認識論的限界として読める。",
+      "targetId": "mallarme_coup_de_des",
+      "targetParagraphId": 10
+    },
+    {
+      "paragraphId": 13,
+      "type": "intertextual",
+      "anchor": "omnis enim homo qui comedit et bibit, et videt bonum de labore suo, hoc donum Dei est.",
+      "body": "第2章v.24–25「食べ飲む、これは神の手からのものである」の主題的反復・発展。第2章では「Nonne melius est comedere et bibere（食べ飲む方が良くはないか）」という疑問形だったものが、ここでは「hoc donum Dei est（これは神の賜物である）」という肯定的断言として確立される。コヘレト全体を通じて「食べ飲む」という日常的享受の肯定が繰り返されるたびに（第5章v.18・第8章v.15・第9章v.7）その確信の重みが増す──虚無の確認と日常的享受の肯定という弁証法の定型句として機能する。",
+      "targetId": "hieronymus_ecclesiastes_2",
+      "targetParagraphId": 25
+    },
+    {
+      "paragraphId": 14,
+      "type": "commentary",
+      "anchor": "non possumus eis quidquam addere, nec auferre, quae fecit Deus ut timeatur.",
+      "body": "「神が行ったものに何も加えることも取り去ることもできない──神はそれを、畏れられるために行った」。「quae fecit Deus ut timeatur（神が畏れられるために行ったもの）」──神の業の不可変性・完全性の根拠が「畏れ（timor Dei）」として定義される。ユダヤ思想における「神への畏れ（yir'at Elohim）」は宗教的実践の根本であり、知恵文学（箴言1:7「知恵の初めは神への畏れ」）の主題的核心。ヴェイユ「必然（Nécessité）」章での「世界の必然性への服従」──神の業の不可変性をコヘレト的「timor Dei」としてではなく「必然への愛（amor fati）的同意」として読み替えるヴェイユの変換。",
+      "targetId": "weil_necessite",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 15,
+      "type": "commentary",
+      "anchor": "Quod factum est, ipsum permanet; quae futura sunt jam fuerunt, et Deus instaurat quod abiit.",
+      "body": "第1章v.9「あったものはこれから来るもの（Quid est quod fuit? Ipsum quod futurum est）」の発展的反復。ここでは神の役割が明示される──「Deus instaurat quod abiit（神は去ったものを回復させる）」。「instaurare（回復する・更新する・繰り返す）」という動詞が循環の主体として神を置く：自然の循環（第1章の太陽・風・川）が神の「instauratio（回復・更新）」として神学的に根拠づけられる。ホフマンスタール「テルツィーネン（Terzinen）」での「過ぎ去ったものが現在に現れる」という詩的経験──「quae futura sunt jam fuerunt（これから来るものはすでにあった）」の詩的変奏として読める。",
+      "targetId": "hofmannsthal_terzinen",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 16,
+      "type": "commentary",
+      "anchor": "Vidi sub sole in loco judicii impietatem, et in loco justitiae iniquitatem",
+      "body": "「裁きの場に不敬虔を、正義の場に不正を見た」──v.16–17が社会的・法的秩序の転倒という新しい主題を導入する。「loco judicii（裁きの場）」・「loco justitiae（正義の場）」という制度的空間に「impietas（不敬虔）」・「iniquitas（不正）」という転倒した内実が満ちている。この制度的腐敗への観察が「神が裁くだろう（v.17）」という神学的解決と「人間は動物に過ぎない（v.18–19）」という懐疑主義的転換の間に置かれ、コヘレトの思想的揺れ（正義への期待と存在論的虚無の間の振動）を体現する。"
+    },
+    {
+      "paragraphId": 19,
+      "type": "commentary",
+      "anchor": "Idcirco unus interitus est hominis et jumentorum, et aequa utriusque conditio. Sicut moritur homo, sic et illa moriuntur. Similiter spirant omnia, et nihil habet homo jumento amplius: cuncta subjacent vanitati,",
+      "body": "第2章v.16「賢者も愚者も同じく死ぬ（moritur doctus similiter ut indoctus）」の動物的次元への拡張──今度は人間と家畜（jumenta）が「同一の滅び（unus interitus）」・「等しい条件（aequa conditio）」として並置される。「Similiter spirant omnia（すべてのものは同様に息をする）」──「spirare（息をする）」という動詞が「spiritus（霊・息）」と語根を共有することで、「霊（spiritus）」の有無が人間と動物を分けるはずだという前提が「しかし同様に息をする」という事実によって宙吊りにされる。ボードレール「腐屍（Une Charogne）」での人間と動物の死の等値──愛人の美しい肉体が「腐肉と変わらない」という衝撃的な等置がコヘレトのこの「人間と家畜の等しい条件」の詩的変奏として読める。ヴェイユ「affliction」論：afflictionが人間を「動物以下（une bête）」にする──コヘレトは死においての等値を言い、ヴェイユは苦悩においての等値を言う。",
+      "targetId": "baudelaire_une_charogne",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 20,
+      "type": "commentary",
+      "anchor": "De terra facta sunt, et in terram pariter revertuntur.",
+      "body": "創世記2:7「神は地の塵から人を形作り（formavit Deus hominem de limo terrae）」・3:19「あなたは土に帰る、あなたは土から取られたから（in terram reverteris, de qua sumptus es）」の直接的引用・変奏。コヘレトは創世記の人間への言葉を人間と動物の双方（pariter = 等しく）に拡張する──「pariter（等しく）」という副詞が動物を人間と同じ創世記的条件のもとに置く。ハイデガー「存在と時間」（Sein und Zeit）での「死への存在（Sein-zum-Tode）」──人間の実存が根本的に「土への回帰」として有限化されているという現象学的命題がコヘレトのこの節の哲学的展開として読める。リルケ「ドゥイーノ悲歌・第1歌」の「私たちは一夜にして過ぎ去る（Wir vergehen)」との響き合い。",
+      "targetId": "rilke_duineser_elegien_01",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 21,
+      "type": "commentary",
+      "anchor": "Quis novit si spiritus filiorum Adam ascendat sursum, et si spiritus jumentorum descendat deorsum?",
+      "body": "「アダムの子らの霊が上へと昇り、家畜の霊が下へと降るかどうか、誰が知るのか」──v.19で「Similiter spirant omnia（すべては同様に息をする）」と人間と動物の霊的同一性を示唆しながら、v.21では「人間の霊が上昇し動物の霊が下降するかもしれない」という伝統的区別の可能性を疑問形で提示する。この疑問は肯定でも否定でもない──コヘレトが死後の霊魂について知識を持たないことの率直な告白。後にコヘレト第12章v.7で「霊は神に帰す（spiritus revertatur ad Deum qui dedit illum）」という一定の答えが提示されるが、第3章の疑問は解決を急がない。ヴェイユ「Que faut-il aimer / Celui qu'il faut aimer est absent」での「神の不在における問い」と同型の認識論的誠実さ。"
+    },
+    {
+      "paragraphId": 22,
+      "type": "commentary",
+      "anchor": "Et deprehendi nihil esse melius quam laetari hominem in opere suo, et hanc esse partem illius. Quis enim eum adducet ut post se futura cognoscat?",
+      "body": "第3章の結語──第2章v.24–25・第3章v.12–13の「食べ飲む喜び」のテーマが、「これが彼の分け前（partem illius）」という所有的断言とともに確立される。「Quis enim eum adducet ut post se futura cognoscat?（誰が彼を連れて行き、死後に来ることを知らせるというのか）」──死後の不知がまさに「今この喜びに留まること」の論理的根拠として機能する：死後を知る方法がないがゆえに、「今・ここ・自分の業の中の喜び」が唯一確かな「分け前」として残る。ヴェイユ「Accepter le vide」§5「人間は稲妻の時間だけ世界の法則から逃れる」──コヘレトの「喜びの分け前」がヴェイユの「稲妻の時間」に対応する：どちらも有限な現在的瞬間に与えられた享受として定義される。",
+      "targetId": "weil_accepter_le_vide",
+      "targetParagraphId": null
+    }
+  ]
+}
