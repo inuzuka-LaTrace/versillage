@@ -2278,6 +2278,7 @@ const TocDrawer = ({
               { key: 'ru',  label: 'ru' },
               { key: 'it',  label: 'it' },
               { key: 'es',  label: 'es' },
+              { key: 'la',  label: 'la' },
             ].map(({ key, label }) => (
               <button
                 key={key}
