@@ -1,0 +1,240 @@
+{
+  "id": "hieronymus_ecclesiastes_9",
+  "title": "Ecclesiastes, Caput IX",
+  "author": "Eusebius Sophronius Hieronymus",
+  "source": "Biblia Sacra Vulgata, Liber Ecclesiastes (Qohelet), Caput IX. Bible Gateway: https://www.biblegateway.com/passage/?search=Ecclesiastes+9&version=VULGATE",
+  "year": "Antiquitas",
+  "firstPublication": "Vulgata Latina, c. 382–405 AD（ヒエロニムス訳）",
+  "difficulty": "上級",
+  "category": "hieronymus",
+  "originalLang": "la-LA",
+  "modernRelevance": "★★★★★",
+  "context": "コヘレトの言葉（Qohelet）第9章。章は四つのブロックに分かれる。v.1–6：死の絶対的平等性の最終確認──正しい者も賢者も「神の手の中（in manu Dei）」にあるが、「愛するに値するか憎むに値するか、人間は知らない（nescit homo utrum amore an odio dignus sit）」という神の意図の不可知性が冒頭に提示される。v.2–4で「正しい者も不正な者も、聖なる者も汚れた者も同じことが起こる」という死の普遍的平等性が反復され、v.4–6では「生ける犬は死んだライオンよりも良い（melior est canis vivus leone mortuo）」という格言が「死者は何も知らない（mortui vero nihil noverunt amplius）」という死の絶対的忘却と対置される。v.7–10：最も直接的・命令的な享受の勧め──「行け、喜びとともにパンを食べよ（Vade ergo, et comede in laetitia panem tuum）」という二人称命令形による享受の招き。白い衣・頭に油・愛する妻との生活（v.7–9）という具体的な享受の形象が列挙され、v.10「手のできることは何でも熱心にせよ（Quodcumque facere potest manus tua, instanter operare）」という行為の勧めで締められる。v.11–12：「時と偶然（tempus casumque）」──速い者が競走に勝つわけではなく・強い者が戦いに勝つわけではない、という「時と偶然」の支配が提示され、「人間は自分の終わりを知らない（Nescit homo finem suum）」という魚・鳥の比喩で締められる。v.13–18：貧しく知恵ある者の小話──包囲された小さな都市を貧しい知恵ある者が救ったが誰も覚えていない、という逸話が「知恵は力に勝る（sapientia fortitudine）」命題と「しかし知恵ある者の言葉は聴かれない」という逆説を展開する。",
+  "keywords": [
+    "死の平等性",
+    "amore an odio dignus",
+    "canis vivus leone mortuo",
+    "mortui nihil noverunt",
+    "Vade et comede",
+    "tempus casumque",
+    "Nescit homo finem suum",
+    "貧しい知恵ある者",
+    "verba sapientium in silentio",
+    "神の手の中"
+  ],
+  "relatedTexts": [
+    "hieronymus_ecclesiastes_1",
+    "hieronymus_ecclesiastes_2",
+    "hieronymus_ecclesiastes_3",
+    "hieronymus_ecclesiastes_5",
+    "hieronymus_ecclesiastes_7",
+    "hieronymus_ecclesiastes_8",
+    "weil_accepter_le_vide",
+    "weil_necessite",
+    "weil_decreation",
+    "weil_effacement",
+    "juan_de_la_cruz_noche_oscura",
+    "mallarme_coup_de_des",
+    "baudelaire_une_charogne",
+    "rodenbach_du_silence",
+    "dowson_vanitas"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "verses": "v.1",
+      "original": "Omnia haec tractavi in corde meo, ut curiose intelligerem. Sunt justi atque sapientes, et opera eorum in manu Dei; et tamen nescit homo utrum amore an odio dignus sit.",
+      "provisionalTranslation": "これらすべてを私は注意深く理解しようと心で考察した。正しい者と賢者がいて、その業は神の手の中にある。しかし人間は自分が愛されるに値するのか憎まれるに値するのかを知らない。"
+    },
+    {
+      "id": 2,
+      "verses": "v.2",
+      "original": "Sed omnia in futurum servantur incerta, eo quod universa aeque eveniant justo et impio, bono et malo, mundo et immundo, immolanti victimas et sacrificia contemnenti.",
+      "provisionalTranslation": "しかしすべては未来へ向けて不確かなまま保たれる──正しい者と不正な者、善い者と悪い者、清い者と汚れた者、生贄を捧げる者と生贄を蔑む者に、すべてが等しく起こるのだから。"
+    },
+    {
+      "id": 3,
+      "verses": "v.3a",
+      "original": "Sicut bonus, sic et peccator; ut perjurus, ita et ille qui verum dejerat.",
+      "provisionalTranslation": "善い者のように、罪人もまた。偽りの誓いをする者のように、真実を誓う者もまた。"
+    },
+    {
+      "id": 4,
+      "verses": "v.3b",
+      "original": "Hoc est pessimum inter omnia quae sub sole fiunt: quia eadem cunctis eveniunt. Unde et corda filiorum hominum implentur malitia et contemptu in vita sua, et post haec ad inferos deducentur.",
+      "provisionalTranslation": "これが太陽の下でなされるすべての中で最悪のことだ──同じことがすべての者に起こるから。そのため人の子らの心は生きている間に悪意と軽蔑で満たされ、その後に冥府へと連れて行かれる。"
+    },
+    {
+      "id": 5,
+      "verses": "v.4",
+      "original": "Nemo est qui semper vivat, et qui hujus rei habeat fiduciam; melior est canis vivus leone mortuo.",
+      "provisionalTranslation": "永遠に生きる者はなく、このことへの確信を持つ者もいない。生ける犬は死んだライオンよりも良い。"
+    },
+    {
+      "id": 6,
+      "verses": "v.5",
+      "original": "Viventes enim sciunt se esse morituros; mortui vero nihil noverunt amplius, nec habent ultra mercedem, quia oblivioni tradita est memoria eorum.",
+      "provisionalTranslation": "生きている者は自分が死ぬことを知っている。しかし死者はもはや何も知らず、もはや報酬を持たない──その記憶は忘却に引き渡されたのだから。"
+    },
+    {
+      "id": 7,
+      "verses": "v.6",
+      "original": "Amor quoque, et odium, et invidiae simul perierunt; nec habent partem in hoc saeculo, et in opere quod sub sole geritur.",
+      "provisionalTranslation": "愛も、憎しみも、嫉妬も同様に滅びた。彼らはもはやこの世において、太陽の下で行われる業において、何の分け前も持たない。"
+    },
+    {
+      "id": 8,
+      "verses": "v.7",
+      "original": "Vade ergo, et comede in laetitia panem tuum, et bibe cum gaudio vinum tuum, quia Deo placent opera tua.",
+      "provisionalTranslation": "行け、喜びとともにパンを食べよ。喜びとともにぶどう酒を飲め。なぜなら神はあなたの業を喜びとされるからだ。"
+    },
+    {
+      "id": 9,
+      "verses": "v.8",
+      "original": "Omni tempore sint vestimenta tua candida, et oleum de capite tuo non deficiat.",
+      "provisionalTranslation": "いつもあなたの衣は白くあれ。頭への油が欠けることがないように。"
+    },
+    {
+      "id": 10,
+      "verses": "v.9",
+      "original": "Perfruere vita cum uxore quam diligis, cunctis diebus vitae instabilitatis tuae, qui dati sunt tibi sub sole omni tempore vanitatis tuae: haec est enim pars in vita et in labore tuo quo laboras sub sole.",
+      "provisionalTranslation": "あなたが愛する妻とともに、あなたに与えられた不安定な生涯のすべての日々、太陽の下でのあなたの虚無のすべての時に、生を十分に楽しめ。これがあなたの生と、太陽の下で労するあなたの労苦における分け前だ。"
+    },
+    {
+      "id": 11,
+      "verses": "v.10",
+      "original": "Quodcumque facere potest manus tua, instanter operare, quia nec opus, nec ratio, nec sapientia, nec scientia erunt apud inferos, quo tu properas.",
+      "provisionalTranslation": "手のできることは何でも熱心にせよ。なぜなら業も、理も、知恵も、知識も、あなたが急いで向かう冥府にはないのだから。"
+    },
+    {
+      "id": 12,
+      "verses": "v.11",
+      "original": "Verti me ad aliud, et vidi sub sole nec velocium esse cursum, nec fortium bellum, nec sapientium panem, nec doctorum divitias, nec artificum gratiam; sed tempus casumque in omnibus.",
+      "provisionalTranslation": "私は他のことへと向いた。そして太陽の下で見た──速い者が競走に勝つわけではなく、強い者が戦いに勝つわけではなく、知恵ある者にパンがあるわけではなく、学識ある者に富があるわけではなく、巧みな者が好意を得るわけではないことを。すべてのものに時と偶然がある。"
+    },
+    {
+      "id": 13,
+      "verses": "v.12",
+      "original": "Nescit homo finem suum; sed sicut pisces capiuntur hamo, et sicut aves laqueo comprehenduntur, sic capiuntur homines in tempore malo, cum eis extemplo supervenerit.",
+      "provisionalTranslation": "人間は自分の終わりを知らない。魚が釣り針に捕らえられるように、鳥が罠に捕らえられるように、人間も悪い時に、それが突然やってくると捕らえられる。"
+    },
+    {
+      "id": 14,
+      "verses": "v.13",
+      "original": "Hanc quoque sub sole vidi sapientiam, et probavi maximam:",
+      "provisionalTranslation": "これもまた私は太陽の下で見た知恵であり、それを最大のものと見定めた。"
+    },
+    {
+      "id": 15,
+      "verses": "v.14",
+      "original": "civitas parva, et pauci in ea viri; venit contra eam rex magnus, et vallavit eam, exstruxitque munitiones per gyrum, et perfecta est obsidio.",
+      "provisionalTranslation": "ある小さな都市があり、その中には人が少なかった。偉大な王がそこに攻め込み、それを包囲し、周囲に防備を築き、包囲は完了した。"
+    },
+    {
+      "id": 16,
+      "verses": "v.15",
+      "original": "Inventusque est in ea vir pauper et sapiens, et liberavit urbem per sapientiam suam; et nullus deinceps recordatus est hominis illius pauperis.",
+      "provisionalTranslation": "その中に貧しく知恵ある者が見出され、彼はその知恵によって都市を救った。しかしその後、その貧しい者を覚えている者は誰もいなかった。"
+    },
+    {
+      "id": 17,
+      "verses": "v.16–17",
+      "original": "Et dicebam ego meliorem esse sapientiam fortitudine. Quomodo ergo sapientia pauperis contempta est, et verba ejus non sunt audita?\nVerba sapientium audiuntur in silentio, plus quam clamor principis inter stultos.",
+      "provisionalTranslation": "そして私は言った──知恵は力よりも良いと。では貧しい者の知恵はなぜ蔑まれ、その言葉は聴かれなかったのか。\n知恵ある者の言葉は沈黙の中で聴かれる──愚者たちの中での支配者の叫びよりも。"
+    },
+    {
+      "id": 18,
+      "verses": "v.18",
+      "original": "Melior est sapientia quam arma bellica; et qui in uno peccaverit, multa bona perdet.",
+      "provisionalTranslation": "知恵は戦争の武器よりも良い。しかし一つの罪を犯した者は多くの善を失う。"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "opera eorum in manu Dei; et tamen nescit homo utrum amore an odio dignus sit.",
+      "body": "「その業は神の手の中にある──しかし人間は自分が愛されるに値するか憎まれるに値するかを知らない」──章の神学的出発点として「神の主権」と「人間の不知」の緊張が設定される。「in manu Dei（神の手の中）」という表現が庇護と支配の両義性を持つ：神の手が守りであると同時に、そこに置かれた者が何を受けるかを人間が知れない。「amore an odio dignus（愛されるに値するか憎まれるに値するか）」──神の感情的態度の不可知性という極めてラディカルな命題。ヴェイユ「Celui qu'il faut aimer est absent」章での「神の不在における愛」との照応：愛するに値するかどうかを知らないまま愛し・仕えることが信仰の本質的様態として提示される。",
+      "targetId": "weil_celui_quil_faut_aimer",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 4,
+      "type": "commentary",
+      "anchor": "Hoc est pessimum inter omnia quae sub sole fiunt: quia eadem cunctis eveniunt.",
+      "body": "「これが太陽の下でなされるすべての中で最悪のことだ──同じことがすべての者に起こるから」──第2章v.14「賢者も愚者も同じく死ぬ」・第3章v.19「人間と家畜の滅びは一つ」・第7章v.15「正しい者はその正しさの中で滅ぶ」という死の平等性の系列が、ここで「pessimum（最悪）」という最上級により決定的に確認される。「Unde et corda filiorum hominum implentur malitia（そのため心は悪意で満たされる）」──この普遍的平等への洞察が道徳的絶望を引き起こすという因果連鎖：死の不可避的平等性が道徳的努力の無意味感をもたらし、「悪を行っても善を行っても同じ」という虚無的結論を生む。"
+    },
+    {
+      "paragraphId": 5,
+      "type": "glossary",
+      "anchor": "melior est canis vivus leone mortuo.",
+      "body": "「生ける犬は死んだライオンよりも良い」──コヘレト全体で最も鮮烈な格言の一つ。古代近東における動物の価値位階では「ライオン（leo）」が王者的尊厳の象徴、「犬（canis）」が最も卑賤な動物として位置づけられていた（パレスティナ文化では犬は通常軽蔑的な文脈で用いられる）。しかしコヘレトはこの価値位階を「生（vivus）」と「死（mortuo）」という一軸によって完全に転倒させる：最も卑しい生は最も高貴な死に勝る。「生であること」の価値が存在論的に純化された形で提示される──生の質・地位・道徳ではなく、生であること自体の絶対的優越。ボードレール「腐屍（Une Charogne）」で腐乱する死体が「すべての者が行く場所」として提示されるのに対し、コヘレトは生の側からその絶対的優越を宣言する。"
+    },
+    {
+      "paragraphId": 6,
+      "type": "commentary",
+      "anchor": "mortui vero nihil noverunt amplius, nec habent ultra mercedem, quia oblivioni tradita est memoria eorum.",
+      "body": "「死者はもはや何も知らず、もはや報酬を持たない──その記憶は忘却に引き渡された」──コヘレトの死後論の最も明示的な定式。「nihil noverunt amplius（もはや何も知らない）」──死後の知識・意識・感情の完全な停止。「oblivioni tradita est memoria（記憶は忘却に引き渡された）」──受動態の「tradita（引き渡された）」が忘却を能動的な過程として、記憶を忘却へと「引き渡す」力があることを示唆する：忘却が記憶を呑み込む、という時間的な力の関係。第1章v.11「先のことの記憶はない」・第4章v.4「名が忘却によって消し去られる」・第6章v.4「名が忘却によって消される」の反復主題が、ここで「mercedem（報酬）」の消失と結合する：死後には記憶も報酬もない。ローデンバック「忘却（L'Oubli）」がコヘレトの「oblivioni tradita」の象徴主義的詩的空間化として直接的に機能する。",
+      "targetId": "rodenbach_loubli",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 7,
+      "type": "commentary",
+      "anchor": "Amor quoque, et odium, et invidiae simul perierunt; nec habent partem in hoc saeculo",
+      "body": "「愛も、憎しみも、嫉妬も同様に滅びた──もはやこの世に何の分け前も持たない」──v.1「amore an odio dignus（愛されるに値するか憎まれるに値するか）」という問いが、「死によってその問いごと消える」という形で回答される。生における最も強烈な感情的状態（愛・憎しみ・嫉妬）が死によって等しく「perierunt（滅びた）」──動詞の完了形が一括的・不可逆的な消滅を示す。「nec habent partem（何の分け前も持たない）」──「pars（分け前）」という語が第3章v.22・第5章v.17・v.18・第9章v.10と連鎖する「生者の分け前」に対する死者の完全な排除として機能する：生の「分け前」は生者にのみ与えられる。ダウスン「Vanitas」での「愛も憎しみも消える」という抒情的虚無のコヘレト的源流。",
+      "targetId": "dowson_vanitas",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 8,
+      "type": "commentary",
+      "anchor": "Vade ergo, et comede in laetitia panem tuum, et bibe cum gaudio vinum tuum, quia Deo placent opera tua.",
+      "body": "「行け、喜びとともにパンを食べよ──なぜなら神はあなたの業を喜びとされるからだ」──コヘレト全体を通じて最も直接的・命令的な享受の招き。これまでの享受の勧め（第2章・第3章・第5章・第8章）が「〜の方が良い（melius est）」・「〜を私は見出した（reperi）」・「〜と私は称えた（laudavi）」という回顧的・間接的な表現で提示されたのに対し、ここでは「Vade（行け）・comede（食べよ）・bibe（飲め）」という二人称命令形が直接的に読者に向けられる。「quia Deo placent opera tua（なぜなら神はあなたの業を喜びとされるから）」──これは条件ではなく理由節：あなたが喜ぶことを神はすでに喜んでいる、という神の先行的同意。ヨハネの十字架「noche oscura」v.37「すべては止み、我を手放した（cesó todo y dejéme）」との対照：コヘレトが「行け・食べよ・飲め」という積極的活動への招きを行うのに対し、ヨハネは「手放し・忘却」という静的放棄へと向かう──どちらも「神の喜びの中にあること」を目指しながら全く異なる方向性を持つ。",
+      "targetId": "juan_de_la_cruz_noche_oscura",
+      "targetParagraphId": 8
+    },
+    {
+      "paragraphId": 10,
+      "type": "commentary",
+      "anchor": "Perfruere vita cum uxore quam diligis, cunctis diebus vitae instabilitatis tuae",
+      "body": "「あなたが愛する妻とともに、あなたに与えられた不安定な生涯のすべての日々に、生を十分に楽しめ」──コヘレト全体で唯一、人格的・関係的な享受の形象が提示される節。「uxore quam diligis（あなたが愛する妻）」という具体的な関係性が享受の場として定義される──富・財産・食物という非人称的対象ではなく、「愛する（diligis）」という関係の動詞によって結ばれた他者との生が「分け前（pars）」として指定される。「vitae instabilitatis tuae（あなたの不安定な生涯）」──ヘブライ語「חַיֵּי הֶבְלֶֽךָ（ḥayyê hebelekhā）」の直訳。「instabilitas」はヴルガータの選択で、「hebel（息・虚無）」の「実体のなさ・不安定さ」を時間的不安定として解釈する。生涯が「虚無（vanitas）」であると同時に「不安定（instabilitas）」として二重に定義される。"
+    },
+    {
+      "paragraphId": 11,
+      "type": "commentary",
+      "anchor": "Quodcumque facere potest manus tua, instanter operare, quia nec opus, nec ratio, nec sapientia, nec scientia erunt apud inferos, quo tu properas.",
+      "body": "「手のできることは何でも熱心にせよ──業も・理も・知恵も・知識も、あなたが急いで向かう冥府にはないのだから」──v.5–6の「死者は何も知らない」という消極的命題が、ここでは「だから今行動せよ」という積極的命令への根拠として転換される。「instanter（熱心に・即座に）」という副詞が時間的切迫感を加える：冥府（inferi）への「急ぎ（properas）」に対抗する現在の熱心。「nec opus, nec ratio, nec sapientia, nec scientia（業も・理も・知恵も・知識も）」という四重の否定が死後の知的・実践的能力の全滅を体系的に列挙する──第8章v.17「知恵ある者が知っていると言っても見出せない」という生における知の限界が、死においては知の完全な不在へと極限化される。ヴェイユ「Dressage」章の「今・ここの行為」への集中──死後に何も残らないがゆえに今の行為に全力を尽くすという倫理がコヘレトとヴェイユで異なる神学的根拠を持ちながら収束する。",
+      "targetId": "weil_dressage",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 12,
+      "type": "commentary",
+      "anchor": "sed tempus casumque in omnibus.",
+      "body": "「すべてのものに時と偶然がある（tempus casumque in omnibus）」──第8章v.5–6の「時と機会（tempus et opportunitas）」・第3章v.1「すべてのことには時がある（Omnia tempus habent）」の系列が、ここで「casus（偶然・落下・出来事）」という語の追加によって転換される。「casus」はラテン語で「落下・偶然の出来事・運命」を多義的に意味する：賞罰の正当な配分ではなく「偶然（casus）」が勝敗・富貧・生死を決定するという実証的観察。マラルメ「骰子一擲」のタイトル命題「骰子の一擲は決して偶然を廃棄しない（Un coup de dés jamais n'abolira le hasard）」──コヘレトの「tempus casumque（時と偶然）」がマラルメの「hasard（偶然）」の廃棄不可能性へと直接的に接続する：競走・戦争・知恵・富・技芸のすべてに「casus」が介入する。",
+      "targetId": "mallarme_coup_de_des",
+      "targetParagraphId": 1
+    },
+    {
+      "paragraphId": 13,
+      "type": "commentary",
+      "anchor": "Nescit homo finem suum; sed sicut pisces capiuntur hamo, et sicut aves laqueo comprehenduntur, sic capiuntur homines in tempore malo",
+      "body": "「人間は自分の終わりを知らない──魚が釣り針に、鳥が罠に捕らえられるように、人間も悪い時に捕らえられる」──第7章v.27の「死よりも苦い女──彼女は狩人の罠（laqueus venatorum）」の捕縛イメージが、ここでは時間（tempus malum）そのものが罠として機能する形象へと展開する。「pisces hamo / aves laqueo / homines in tempore malo」という三重の比較が、人間を動物と同列に置く（第3章v.19「人間と家畜の滅びは一つ」の動物的平等性の反復）と同時に、「知らないこと（nescit）」という認識の欠如を人間の動物的捕捉の原因として提示する。"
+    },
+    {
+      "paragraphId": 17,
+      "type": "commentary",
+      "anchor": "Verba sapientium audiuntur in silentio, plus quam clamor principis inter stultos.",
+      "body": "「知恵ある者の言葉は沈黙の中で聴かれる──愚者たちの中での支配者の叫びよりも」──章の最も詩的な節。「in silentio（沈黙の中で）」という条件が知恵の言葉の受容条件として定義される：騒音・権力の叫びの中では知恵は聴こえない。これはv.15–16の逆説──貧しい知恵ある者が都市を救ったが誰も覚えていない、という「聴かれなかった知恵」──への補足的解説として機能する：知恵が聴かれるのは「沈黙」においてのみであり、戦争・包囲という騒乱の中では聴かれない。第5章v.1「神の前で言葉は少なくあれ（sint pauci sermones tui）」・ローデンバック「沈黙について（Du Silence）」・マラルメの沈黙の詩学と三者で響き合う──「沈黙の中での聴取」という知恵論的・詩学的命題。",
+      "targetId": "rodenbach_du_silence",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 18,
+      "type": "commentary",
+      "anchor": "Melior est sapientia quam arma bellica; et qui in uno peccaverit, multa bona perdet.",
+      "body": "「知恵は戦争の武器よりも良い──しかし一つの罪を犯した者は多くの善を失う」──章の結語にして鋭い逆接。「Melior est sapientia quam arma bellica（知恵は武器よりも良い）」はv.14–16の小話（知恵ある者が都市を救った）の格言的総括として「知恵の優越」を確認する。しかし「et qui in uno peccaverit, multa bona perdet（一つの罪を犯した者は多くの善を失う）」という後半が、この知恵の優越を即座に「一つの罪（unum peccatum）」の破壊力によって相対化する：v.16「なぜ貧しい者の知恵は蔑まれたのか」という問いへの答え──一つの欠点（貧しさ）が知恵の業を忘却させた、という読みも可能。「multa bona perdet（多くの善を失う）」──第6章v.2「homo extraneus vorabit（見知らぬ者が貪り食う）」という外部からの喪失に対して、ここでは「罪（peccatum）」という内部からの自壊として「善の喪失」が定式化される。"
+    }
+  ]
+}
