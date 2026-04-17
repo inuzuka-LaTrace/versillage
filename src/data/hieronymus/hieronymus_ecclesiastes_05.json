@@ -1,0 +1,243 @@
+{
+  "id": "hieronymus_ecclesiastes_5",
+  "title": "Ecclesiastes, Caput V",
+  "author": "Eusebius Sophronius Hieronymus",
+  "source": "Biblia Sacra Vulgata, Liber Ecclesiastes (Qohelet), Caput V. Bible Gateway: https://www.biblegateway.com/passage/?search=Ecclesiastes+5&version=VULGATE",
+  "year": "Antiquitas",
+  "firstPublication": "Vulgata Latina, c. 382–405 AD（ヒエロニムス訳）",
+  "difficulty": "中級",
+  "category": "hieronymus",
+  "originalLang": "la-LA",
+  "modernRelevance": "★★★★★",
+  "context": "コヘレトの言葉（Qohelet）第5章。章は大きく三つのブロックに分かれる。v.1–6：神の前での言葉の節制──「神は天にいて、あなたは地の上にいる（Deus enim in caelo, et tu super terram）」という垂直的距離の定式のもとに、軽率な言葉・誓い・夢の多さが「stultitia（愚かさ）」として批判される。神への畏れ（Deum time, v.6）が沈黙の神学的根拠として提示される。v.7–11：富と権力の虚無──「貪欲な者は金で満たされない（Avarus non implebitur pecunia）」という格言から富の所有論へ、そして「働く者の眠りは甘い（Dulcis est somnus operanti）」という逆説的反転へ。v.12–19：裸の帰還と日常的享受の神学的根拠──「母の胎から裸で出たように、そのように戻り（Sicut egressus est nudus de utero matris suae, sic revertetur）」という来たように去るという定式が、第3章v.20「土から造られ土に戻る」の人格的・財産的次元での反復。v.17–19では「食べ飲み喜ぶこと」が初めて明示的に「神の賜物（donum Dei）」かつ「彼の分け前（pars illius）」として神学的に根拠づけられ、「神が心を快楽で占めるので日々を数えない（Deus occupet deliciis cor ejus）」という章末の逆説で締め括られる。",
+  "keywords": [
+    "言葉の節制",
+    "神の前の沈黙",
+    "Deum time",
+    "誓い",
+    "夢と虚無",
+    "富の不飽和",
+    "裸の帰還",
+    "donum Dei",
+    "pars illius",
+    "快楽による忘却"
+  ],
+  "relatedTexts": [
+    "hieronymus_ecclesiastes_1",
+    "hieronymus_ecclesiastes_2",
+    "hieronymus_ecclesiastes_3",
+    "hieronymus_ecclesiastes_4",
+    "weil_accepter_le_vide",
+    "weil_necessite",
+    "weil_effacement",
+    "weil_decreation",
+    "juan_de_la_cruz_noche_oscura",
+    "mallarme_coup_de_des",
+    "rodenbach_du_silence",
+    "baudelaire_spleen"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "verses": "v.1",
+      "original": "Ne temere quid loquaris, neque cor tuum sit velox ad proferendum sermonem coram Deo. Deus enim in caelo, et tu super terram; idcirco sint pauci sermones tui.",
+      "provisionalTranslation": "軽率に何かを語るな。神の前に言葉を早々と発するよう心を急がせるな。神は天にいて、あなたは地の上にいる。それゆえ、あなたの言葉は少なくあれ。"
+    },
+    {
+      "id": 2,
+      "verses": "v.2",
+      "original": "Multas curas sequuntur somnia, et in multis sermonibus invenietur stultitia.",
+      "provisionalTranslation": "多くの心配の後に夢が来る。そして多くの言葉の中に愚かさが見出される。"
+    },
+    {
+      "id": 3,
+      "verses": "v.3",
+      "original": "Si quid vovisti Deo, ne moreris reddere: displicet enim ei infidelis et stulta promissio, sed quodcumque voveris redde:",
+      "provisionalTranslation": "神に何かを誓ったなら、返すことを遅らせるな。不誠実で愚かな約束は神の不興を買う。誓ったものは何であれ返せ。"
+    },
+    {
+      "id": 4,
+      "verses": "v.4",
+      "original": "multoque melius est non vovere, quam post votum promissa non reddere.",
+      "provisionalTranslation": "誓った後に約束したことを果たさないよりも、誓わない方がはるかに良い。"
+    },
+    {
+      "id": 5,
+      "verses": "v.5",
+      "original": "Ne dederis os tuum ut peccare facias carnem tuam, neque dicas coram angelo: Non est providentia: ne forte iratus Deus contra sermones tuos dissipet cuncta opera manuum tuarum.",
+      "provisionalTranslation": "あなたの口に、あなたの肉体を罪に陥れることをさせるな。天使の前で「摂理はない」などと言うな。神が怒ってあなたの言葉に対してあなたの手の業をすべて散らしてしまわないように。"
+    },
+    {
+      "id": 6,
+      "verses": "v.6",
+      "original": "Ubi multa sunt somnia, plurimae sunt vanitates, et sermones innumeri; tu vero Deum time.",
+      "provisionalTranslation": "夢が多いところには、虚無が多くあり、言葉は無数にある。しかしあなたは神を畏れよ。"
+    },
+    {
+      "id": 7,
+      "verses": "v.7",
+      "original": "Si videris calumnias egenorum, et violenta judicia, et subverti justitiam in provincia, non mireris super hoc negotio: quia excelso excelsior est alius, et super hos quoque eminentiores sunt alii;",
+      "provisionalTranslation": "貧しい者への圧迫と、暴力的な裁き、そして地方での正義の転倒を見ても、この事柄に驚くな。高い者の上にさらに高い者がいて、その上にもさらに高い者たちがいるのだから。"
+    },
+    {
+      "id": 8,
+      "verses": "v.8",
+      "original": "et insuper universae terrae rex imperat servienti.",
+      "provisionalTranslation": "さらにすべての大地の王が、仕える者を治めている。"
+    },
+    {
+      "id": 9,
+      "verses": "v.9",
+      "original": "Avarus non implebitur pecunia, et qui amat divitias fructum non capiet ex eis; et hoc ergo vanitas.",
+      "provisionalTranslation": "貪欲な者は金で満たされず、富を愛する者はそこから果実を得ない。これもまた虚無である。"
+    },
+    {
+      "id": 10,
+      "verses": "v.10",
+      "original": "Ubi multae sunt opes, multi et qui comedunt eas. Et quid prodest possessori, nisi quod cernit divitias oculis suis?",
+      "provisionalTranslation": "富が多いところには、それを食べる者も多い。所有者に何の益があるのか──ただ目で富を見ること以外に。"
+    },
+    {
+      "id": 11,
+      "verses": "v.11",
+      "original": "Dulcis est somnus operanti, sive parum sive multum comedat; saturitas autem divitis non sinit eum dormire.",
+      "provisionalTranslation": "働く者の眠りは甘い──食べることが少なくても多くても。しかし富んだ者の飽食は彼が眠ることを許さない。"
+    },
+    {
+      "id": 12,
+      "verses": "v.12",
+      "original": "Est et alia infirmitas pessima quam vidi sub sole: divitiae conservatae in malum domini sui.",
+      "provisionalTranslation": "さらに私が太陽の下で見た別の最も過酷な弱さがある──その主人の害のために蓄えられた富。"
+    },
+    {
+      "id": 13,
+      "verses": "v.13",
+      "original": "Pereunt enim in afflictione pessima: generavit filium qui in summa egestate erit.",
+      "provisionalTranslation": "それらは最も過酷な苦悩の中で失われる。彼は極度の貧困に陥るであろう息子を生んだ。"
+    },
+    {
+      "id": 14,
+      "verses": "v.14",
+      "original": "Sicut egressus est nudus de utero matris suae, sic revertetur, et nihil auferet secum de labore suo.",
+      "provisionalTranslation": "母の胎から裸で出たように、そのように彼は戻る。自分の労苦から何も持ち去ることはない。"
+    },
+    {
+      "id": 15,
+      "verses": "v.15",
+      "original": "Miserabilis prorsus infirmitas: quomodo venit, sic revertetur. Quid ergo prodest ei quod laboravit in ventum?",
+      "provisionalTranslation": "まことに哀れな弱さ──来たように戻る。では風のために労したことが彼に何の益になるのか。"
+    },
+    {
+      "id": 16,
+      "verses": "v.16",
+      "original": "cunctis diebus vitae suae comedit in tenebris, et in curis multis, et in aerumna atque tristitia.",
+      "provisionalTranslation": "生涯のすべての日々、彼は暗闇の中で食べ、多くの心配と、困難と悲しみの中で。"
+    },
+    {
+      "id": 17,
+      "verses": "v.17",
+      "original": "Hoc itaque visum est mihi bonum, ut comedat quis et bibat, et fruatur laetitia ex labore suo quo laboravit ipse sub sole, numero dierum vitae suae quos dedit ei Deus; et haec est pars illius.",
+      "provisionalTranslation": "それゆえ私にはこのことが善に見えた──人が食べ飲み、神が彼に与えた生涯の日数の間、太陽の下で自ら労した業から喜びを享受すること。これが彼の分け前である。"
+    },
+    {
+      "id": 18,
+      "verses": "v.18",
+      "original": "Et omni homini cui dedit Deus divitias atque substantiam, potestatemque ei tribuit ut comedat ex eis, et fruatur parte sua, et laetetur de labore suo: hoc est donum Dei.",
+      "provisionalTranslation": "神が富と財産を与え、そこから食べ、自分の分け前を享受し、自分の労苦から喜ぶ力を与えたすべての人に──これが神の賜物である。"
+    },
+    {
+      "id": 19,
+      "verses": "v.19",
+      "original": "Non enim satis recordabitur dierum vitae suae, eo quod Deus occupet deliciis cor ejus.",
+      "provisionalTranslation": "なぜなら、神が心を快楽で占めているがゆえに、彼は自分の生涯の日々をさほど思い起こすことがないからである。"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "Deus enim in caelo, et tu super terram; idcirco sint pauci sermones tui.",
+      "body": "「神は天にいて、あなたは地の上にいる──それゆえ言葉は少なくあれ」──第5章の神学的公理。天（caelum）と地（terra）という垂直的距離が言語的節制の形而上学的根拠として提示される：無限の距離を前にして人間の言葉は本質的に「余分（superflua）」である。この「垂直的沈黙」の神学がv.6の「Deum time（神を畏れよ）」に結実する。ヴェイユ「Effacement（消去）」章の「私が語るのをやめ、神が語るとき、全体のうちの何かが増す（Quand je me tais et que Dieu parle, quelque chose d'entier augmente）」──コヘレトの「言葉の節制」がヴェイユの「消去の神学」の聖書的先行形として読める。マラルメ「沈黙の詩学」──詩において沈黙（白・余白）が意味を担うという詩学的原理がコヘレトの「sint pauci sermones tui（言葉は少なくあれ）」の詩的展開として読める。ロデンバック「沈黙について（Du Silence）」がこの「神の前の沈黙」を象徴主義的空間として詩化したテキストとして位置づけられる。",
+      "targetId": "weil_effacement",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 2,
+      "type": "prosody",
+      "anchor": "Multas curas sequuntur somnia, et in multis sermonibus invenietur stultitia.",
+      "body": "「多くの心配の後に夢が来る──多くの言葉の中に愚かさが見出される」──対句的格言構造。「somnia（夢）」と「sermones（言葉）」の並置が重要：どちらも「意識の制御を外れた産物」として機能する──夢は睡眠中に心配が生み出す幻想であり、過多な言葉は理性が制御を失った愚かさの産物。v.6「夢が多いところには虚無が多い（Ubi multa sunt somnia, plurimae sunt vanitates）」との照応で、「夢・言葉・虚無・愚かさ」が同一連鎖として確立される。"
+    },
+    {
+      "paragraphId": 5,
+      "type": "commentary",
+      "anchor": "ne forte iratus Deus contra sermones tuos dissipet cuncta opera manuum tuarum.",
+      "body": "「神が怒ってあなたの言葉に対してあなたの手の業をすべて散らしてしまわないように」──「dissipet（散らす）」という動詞が「言語的過誤」の実存的帰結として「業の消滅」を提示する。言葉が作品を破壊する逆説──言葉の軽率さが手の業（opera manuum）の全体を無効化する。マラルメ「危機（Crise de vers）」での「言語は自らを消去する（le langage s'efface）」という詩語の自己消去的機能との照応：コヘレトは軽率な言語が神の怒りを招くと言い、マラルメは詩語が事物を消去することで詩的効果を生むと言う──どちらも言語と消去・散逸の関係を問う。",
+      "targetId": "mallarme_crise_de_vers",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 6,
+      "type": "glossary",
+      "anchor": "tu vero Deum time.",
+      "body": "「しかしあなたは神を畏れよ（tu vero Deum time）」──第4章v.17「聞くために近づけ（appropinqua ut audias）」と第5章冒頭v.1「言葉は少なくあれ（sint pauci sermones tui）」の神学的総括として機能する格言的断章。「vero（しかし・真に）」という逆接・強調の副詞が「夢・虚無・無数の言葉」からの鮮明な転換を標示する。「timor Dei（神への畏れ）」は箴言1:7「知恵の初めは神への畏れ（initium sapientiae timor Domini）」の伝統に連なるユダヤ知恵文学の中心概念──コヘレトはその形式を保持しながら、内容を「語らないこと・節制」という沈黙の実践として具体化する。"
+    },
+    {
+      "paragraphId": 7,
+      "type": "commentary",
+      "anchor": "quia excelso excelsior est alius, et super hos quoque eminentiores sunt alii;",
+      "body": "「高い者の上にさらに高い者がいて、その上にもさらに高い者たちがいる」──権力の無限連鎖の記述。第4章v.13–16の「老いた王と知恵ある少年」・「無限の前任者」の主題を権力ヒエラルキーの無限後退として展開する。社会的圧迫（v.7の「calumnias egenorum・violenta judicia」）に「驚くな（non mireris）」という勧告の根拠として、この権力の無限連鎖が提示される──どの階層も上位の権力に服属しており、責任の帰着点が消失する構造。ヴェイユ「La Violence」章での「力（la force）は盲目的に連鎖する」という社会分析がコヘレトのこの権力連鎖の現象学的展開として読める。",
+      "targetId": "weil_la_violence",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 9,
+      "type": "commentary",
+      "anchor": "Avarus non implebitur pecunia, et qui amat divitias fructum non capiet ex eis; et hoc ergo vanitas.",
+      "body": "「貪欲な者は金で満たされず、富を愛する者はそこから果実を得ない」──第1章v.8「目は見ることに飽くことなく（Non saturatur oculus visu）」の欲望の不飽和性が、富への具体的欲望として再定式化される。「non implebitur（満たされない）」という未来受動形が欲望の構造的不飽和を時間的に確定する──これは偶発的失敗ではなく、富への愛の本質的帰結として提示される。第3章v.11「mundum tradidit disputationi eorum（永遠を彼らの議論に委ねた）」──永遠への渇望と富への渇望は同型の構造的不飽和として読める：どちらも人間の有限な受容能力を超えた充足を求める。"
+    },
+    {
+      "paragraphId": 11,
+      "type": "commentary",
+      "anchor": "Dulcis est somnus operanti, sive parum sive multum comedat; saturitas autem divitis non sinit eum dormire.",
+      "body": "「働く者の眠りは甘い──食べることが少なくても多くても。しかし富んだ者の飽食は彼が眠ることを許さない」──第4章v.6「安息とともにある一握り（pugillus cum requie）」の主題が「眠り（somnus）」という身体的安息の形象で再演される。「sive parum sive multum（少なくても多くても）」──食事の量ではなく労働という行為そのものが甘い眠りをもたらす：充足は量的蓄積ではなく行為との対応関係から生まれる。「saturitas divitis non sinit eum dormire（富んだ者の飽食は眠ることを許さない）」──飽食という過剰な充足が逆説的に安息を奪う：「満たされすぎること」がもたらす不眠が、欲望の不飽和と対称をなす。第4章v.6「afflictio animi（魂の苦悩）」としての両手分の労苦と「requies（安息）」としての一握りの対比が、ここでは「眠れる貧しい労働者」と「眠れない富んだ者」として社会的に具体化される。"
+    },
+    {
+      "paragraphId": 14,
+      "type": "commentary",
+      "anchor": "Sicut egressus est nudus de utero matris suae, sic revertetur, et nihil auferet secum de labore suo.",
+      "body": "「母の胎から裸で出たように、そのように戻る──自分の労苦から何も持ち去ることはない」──コヘレト第5章の思想的核心。第3章v.20「土から造られ、等しく土へと戻る（De terra facta sunt, et in terram pariter revertuntur）」の宇宙論的「土への帰還」が、ここでは「裸の帰還（nudus revertetur）」という実存的・財産的次元で個人化される。「nudus（裸）」という形容は単なる無財産の状態ではなく、出生という到来と死という去りが完全に対称をなすという根本的な「来たように去る」構造を提示する。ヨブ記1:21「裸で母の胎から出た、裸で戻ろう（Nudus egressus sum de utero matris meae, et nudus revertar illuc）」との直接的並行──コヘレトがヨブ記のこの定式を継承・変奏する。ヴェイユ「Décréation（脱創造）」§1「私たちは神から存在を受け取り、神に返す」──「裸の帰還」がヴェイユ的「脱創造」の聖書的形象として読める：持ち去れるものは何もない。",
+      "targetId": "weil_decreation",
+      "targetParagraphId": 1
+    },
+    {
+      "paragraphId": 15,
+      "type": "glossary",
+      "anchor": "Quid ergo prodest ei quod laboravit in ventum?",
+      "body": "「では風のために労したことが彼に何の益になるのか」──「in ventum laborare（風のために労する）」という慣用句的表現。「ventus（風）」は第1章v.6「風（spiritus）は巡回へと戻る」の循環的自然現象としての風とは異なり、ここでは「空虚・無（nihil）」の慣用的同義語として機能する──「風をつかむ（ventum comprehendere）」・「風に向かって書く」等のラテン語慣用句と連続する。「Quid prodest（何の益があるのか）」は第1章v.3・第3章v.9の反復句「Quid habet amplius homo de labore suo?」の変奏として、章内での問いの系列を閉じる。"
+    },
+    {
+      "paragraphId": 17,
+      "type": "commentary",
+      "anchor": "Hoc itaque visum est mihi bonum, ut comedat quis et bibat, et fruatur laetitia ex labore suo quo laboravit ipse sub sole, numero dierum vitae suae quos dedit ei Deus; et haec est pars illius.",
+      "body": "「これが彼の分け前（haec est pars illius）」──第2章v.24・第3章v.12–13・第3章v.22の「食べ飲む喜び」の主題が、ここで最も展開した形式で定式化される。「numero dierum vitae suae quos dedit ei Deus（神が彼に与えた生涯の日数の間）」という限定節が「分け前（pars）」の有限性・特定性を確定する：どこまでも延長される蓄積ではなく、神が与えた「限られた日数」の中の享受として定義される。「haec est pars illius（これが彼の分け前）」──「pars（分け前・部分・役割）」という語が相続・所有ではなく「配分された分」として享受を財産的言語から切り離す。ヴェイユ「Accepter le vide」での「恩寵を受け入れる空虚（vide）」──コヘレトの「分け前」は積極的獲得ではなく「与えられたものを受け取ること」の神学的定式として読める。",
+      "targetId": "weil_accepter_le_vide",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 18,
+      "type": "commentary",
+      "anchor": "hoc est donum Dei.",
+      "body": "「これが神の賜物（donum Dei）である」──第2章v.24「de manu Dei est（神の手からのもの）」・第3章v.13「hoc donum Dei est（これは神の賜物）」の反復・確立。三章にわたって準備されてきた「食べ飲む喜び」の神学的根拠が、ここで「donum Dei（神の賜物）」として最終的に確定される。「donum（贈り物・賜物）」という語が「獲得（acquisitio）」・「所有（possessio）」・「蓄積（coacervatio）」とは原理的に異なる享受の様式を指示する：贈り物は受け取るものであり、蓄積するものではない。ヨハネの十字架「noche oscura」v.37「すべては止み、我を手放した（cesó todo y dejéme）」との照応──「受け取る」という受動的開放性において「donum Dei」と「dejarse（手放すこと）」が同型の構造を持つ。",
+      "targetId": "juan_de_la_cruz_noche_oscura",
+      "targetParagraphId": 8
+    },
+    {
+      "paragraphId": 19,
+      "type": "commentary",
+      "anchor": "Non enim satis recordabitur dierum vitae suae, eo quod Deus occupet deliciis cor ejus.",
+      "body": "「神が心を快楽で占めているがゆえに、彼は自分の生涯の日々をさほど思い起こすことがない」──第5章の締め括りにして最も逆説的な節。「日々を思い起こさない（non recordabitur dierum vitae suae）」という忘却が、苦悩や虚無に由来するのではなく「Deus occupet deliciis cor ejus（神が心を快楽で占めているがゆえに）」という充足から来る──神が与えた喜びの充実が時間的自意識を解消する。第1章v.11「先のことの記憶はない（Non est priorum memoria）」という存在論的忘却が、ここでは神が与える喜びによる「忘却の祝福」として書き換えられる：前者の忘却は喪失であり、後者の忘却は充満の結果。ヴェイユ「Celui qu'il faut aimer est absent」での「不在の中の現前」──神が直接「心を占める（occupet cor）」という現前の過剰な充満がコヘレトのこの逆説において成立する。",
+      "targetId": "weil_celui_quil_faut_aimer",
+      "targetParagraphId": null
+    }
+  ]
+}
