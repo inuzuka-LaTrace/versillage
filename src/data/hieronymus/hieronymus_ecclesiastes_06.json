@@ -1,0 +1,173 @@
+{
+  "id": "hieronymus_ecclesiastes_6",
+  "title": "Ecclesiastes, Caput VI",
+  "author": "Eusebius Sophronius Hieronymus",
+  "source": "Biblia Sacra Vulgata, Liber Ecclesiastes (Qohelet), Caput VI. Bible Gateway: https://www.biblegateway.com/passage/?search=Ecclesiastes+6&version=VULGATE",
+  "year": "Antiquitas",
+  "firstPublication": "Vulgata Latina, c. 382–405 AD（ヒエロニムス訳）",
+  "difficulty": "中級",
+  "category": "hieronymus",
+  "originalLang": "la-LA",
+  "modernRelevance": "★★★★★",
+  "context": "コヘレトの言葉（Qohelet）第6章。第5章v.17–19の「食べ飲む喜び＝神の賜物」という肯定的結論の直後に、その賜物を「享受する力（potestas）」を神から与えられない者の悲劇が提示される──富・名誉・財産を持ちながら、そこから食べる力を与えられず「見知らぬ者（homo extraneus）」が貪り食う逆説（v.1–2）。これは第5章の「donum Dei（神の賜物）」が普遍的に与えられるのではなく、その「享受する力」もまた神の主権的賦与であることを示す。v.3–5では「百人の子と長寿を持ちながら享受できない者は流産児（abortivus）より劣る」という極端な比較が提示され、「善いものを享受できないこと」が存在そのものの否定として定式化される。v.6–7では人間の労苦の不飽和性（「魂は満たされない」）が再確認され、v.8–9では「見えるものを欲する方が、知らないものを望むよりも良い（Melius est videre quod cupias, quam desiderare quod nescias）」という現在的・具体的享受の優越が格言として結晶する。v.10–11では「すでに名前が呼ばれている（jam vocatum est nomen ejus）」という運命論的諦念と「言葉の多さは虚無（Verba sunt plurima multamque vanitatem）」という言語批判で章が閉じられる。",
+  "keywords": [
+    "享受する力",
+    "abortivus",
+    "流産児の祝福",
+    "魂の不飽和",
+    "見ることと望むこと",
+    "praesumptio spiritus",
+    "運命の先決",
+    "言葉の虚無",
+    "homo extraneus",
+    "善の享受不能"
+  ],
+  "relatedTexts": [
+    "hieronymus_ecclesiastes_1",
+    "hieronymus_ecclesiastes_2",
+    "hieronymus_ecclesiastes_3",
+    "hieronymus_ecclesiastes_4",
+    "hieronymus_ecclesiastes_5",
+    "weil_accepter_le_vide",
+    "weil_necessite",
+    "weil_decreation",
+    "weil_effacement",
+    "mallarme_coup_de_des",
+    "baudelaire_spleen",
+    "rodenbach_loubli"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "verses": "v.1",
+      "original": "Est et aliud malum quod vidi sub sole, et quidem frequens apud homines:",
+      "provisionalTranslation": "さらに私が太陽の下で見た別の悪がある──しかも人々の間でしばしば起こる。"
+    },
+    {
+      "id": 2,
+      "verses": "v.2",
+      "original": "vir cui dedit Deus divitias, et substantiam, et honorem, et nihil deest animae suae ex omnibus quae desiderat; nec tribuit ei potestatem Deus ut comedat ex eo, sed homo extraneus vorabit illud: hoc vanitas et miseria magna est.",
+      "provisionalTranslation": "神が富と財産と名誉を与え、その魂が欲するものは何一つ欠けていない者に──しかし神はそこから食べる力を彼に与えず、見知らぬ者がそれを貪り食う。これが虚無であり大いなる悲惨である。"
+    },
+    {
+      "id": 3,
+      "verses": "v.3",
+      "original": "Si genuerit quispiam centum liberos, et vixerit multos annos, et plures dies aetatis habuerit, et anima illius non utatur bonis substantiae suae, sepulturaque careat: de hoc ergo pronuntio quod melior illo sit abortivus.",
+      "provisionalTranslation": "もしある者が百人の子を生み、多くの年を生き、長い生涯の日々を持ちながら、その魂が財産の善きものを享受せず、葬礼さえ受けないなら──私はこう宣言する、流産児の方が彼よりも幸福だと。"
+    },
+    {
+      "id": 4,
+      "verses": "v.4",
+      "original": "Frustra enim venit, et pergit ad tenebras, et oblivione delebitur nomen ejus.",
+      "provisionalTranslation": "なぜなら彼は空しく来て、暗闇へと去り、その名は忘却によって消し去られるからだ。"
+    },
+    {
+      "id": 5,
+      "verses": "v.5",
+      "original": "Non vidit solem, neque cognovit distantiam boni et mali.",
+      "provisionalTranslation": "彼は太陽を見ず、善と悪の違いを知らなかった。"
+    },
+    {
+      "id": 6,
+      "verses": "v.6",
+      "original": "Etiam si duobus millibus annis vixerit, et non fuerit perfruitus bonis, nonne ad unum locum properant omnia?",
+      "provisionalTranslation": "たとえ二千年生きても、善きものを十分に享受しなかったなら──すべては一つの場所へと急いで向かうのではないか。"
+    },
+    {
+      "id": 7,
+      "verses": "v.7",
+      "original": "Omnis labor hominis in ore ejus; sed anima ejus non implebitur.",
+      "provisionalTranslation": "人間のすべての労苦はその口のためにある。しかし魂は満たされない。"
+    },
+    {
+      "id": 8,
+      "verses": "v.8",
+      "original": "Quid habet amplius sapiens a stulto? et quid pauper, nisi ut pergat illuc ubi est vita?",
+      "provisionalTranslation": "知恵ある者は愚者より何を多く持つのか。貧しい者は何を持つのか──ただ命のある場所へと向かうこと以外に。"
+    },
+    {
+      "id": 9,
+      "verses": "v.9",
+      "original": "Melius est videre quod cupias, quam desiderare quod nescias. Sed et hoc vanitas est, et praesumptio spiritus.",
+      "provisionalTranslation": "知らないものを望むよりも、欲するものを見る方が良い。しかしこれもまた虚無であり、霊の思い上がりである。"
+    },
+    {
+      "id": 10,
+      "verses": "v.10",
+      "original": "Qui futurus est, jam vocatum est nomen ejus; et scitur quod homo sit, et non possit contra fortiorem se in judicio contendere.",
+      "provisionalTranslation": "これから来る者については、すでにその名前が呼ばれている。そして人間であることが知られており、自分より強い者と裁きで争うことができない。"
+    },
+    {
+      "id": 11,
+      "verses": "v.11",
+      "original": "Verba sunt plurima, multamque in disputando habentia vanitatem.",
+      "provisionalTranslation": "言葉は非常に多く、議論においては多くの虚無を持つ。"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "nec tribuit ei potestatem Deus ut comedat ex eo, sed homo extraneus vorabit illud: hoc vanitas et miseria magna est.",
+      "body": "「神はそこから食べる力を彼に与えず、見知らぬ者がそれを貪り食う」──第5章v.17–18の「食べ飲む喜び＝神の賜物（donum Dei）」の裏面として配置される。「potestas（力・権能）」という語が決定的：富・財産・名誉の所有（habere）と、そこから享受する力（potestas）は別のものとして峻別される。「homo extraneus（見知らぬ者）」──第2章v.18–21の「知恵ある者か愚か者か分からない相続者」が「見知らぬ者」として具体化される：労苦と所有の主体と享受の主体の乖離。ヴェイユ「Décréation」§2「私たちの存在しないことへの同意」との逆対応：コヘレトは享受する力の剥奪を「miseria magna（大いなる悲惨）」として嘆くが、ヴェイユはその自発的剥奪を恩寵の条件として肯定する──同じ「享受からの離脱」に対する根本的に異なる評価。",
+      "targetId": "weil_decreation",
+      "targetParagraphId": 2
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "de hoc ergo pronuntio quod melior illo sit abortivus.",
+      "body": "「私はこう宣言する──流産児の方が彼よりも幸福だ」──第4章v.3「まだ生まれていない者が最も幸福（feliciorem utroque judicavi qui necdum natus est）」の主題が、今度は「百人の子・長寿・財産を持つが享受できない者」との比較として具体化される。「abortivus（流産児）」──生まれながらに享受の可能性を持たない者が、持ちながら享受できない者に勝るという論理：享受の不在より享受の剥奪の方が存在論的に深刻な「悲惨」として定義される。「sepulturaque careat（葬礼さえ受けない）」──第2章の「相続者問題」に加えて、死後の尊厳という社会的次元でも否定される者。"
+    },
+    {
+      "paragraphId": 4,
+      "type": "commentary",
+      "anchor": "Frustra enim venit, et pergit ad tenebras, et oblivione delebitur nomen ejus.",
+      "body": "「空しく来て、暗闇へと去り、その名は忘却によって消し去られる」──流産児の「三重の虚無」として構造化される：①「frustra venit（空しく来た）」＝到来の無意味性、②「pergit ad tenebras（暗闇へと去る）」＝存在の消滅、③「oblivione delebitur nomen ejus（名が忘却によって消される）」＝記憶の消去。第1章v.11「先のことの記憶はない（Non est priorum memoria）」の宇宙論的忘却が、ここでは「名前（nomen）」という個人的アイデンティティの抹消として個人化される。「tenebras（暗闇）」──第5章v.16「cunctis diebus vitae suae comedit in tenebris（生涯のすべての日々、暗闇の中で食べた）」の生の暗闇と対称をなす死の暗闇。ロデンバック「忘却（L'Oubli）」との照応：忘却が存在を遡及的に消去するという主題。",
+      "targetId": "rodenbach_loubli",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 6,
+      "type": "commentary",
+      "anchor": "Etiam si duobus millibus annis vixerit, et non fuerit perfruitus bonis, nonne ad unum locum properant omnia?",
+      "body": "「たとえ二千年生きても……すべては一つの場所へと急いで向かう」──第3章v.20「omnia pergunt ad unum locum（すべては一つの場所へと向かう）」の反復。「duobus millibus annis（二千年）」という天文学的長寿が設定される逆説：いかに長く生きても享受なければ等しい──時間の量的蓄積は質的享受を代替しない。「nonne ad unum locum properant omnia?（すべては一つの場所へと急いで向かうのではないか）」──「properant（急ぐ）」という動詞が死への時間的収斂に緊迫感を与える：二千年も一生も同じ速度で死へと「急ぐ」。"
+    },
+    {
+      "paragraphId": 7,
+      "type": "glossary",
+      "anchor": "Omnis labor hominis in ore ejus; sed anima ejus non implebitur.",
+      "body": "「人間のすべての労苦はその口のためにある──しかし魂は満たされない」──コヘレト第6章の格言的核心。「in ore ejus（その口のために）」──労苦の究極目的が「食べること（os = 口）」という最も基本的な身体的必要に還元される：すべての建築・農業・蓄積・社会的活動が「口を養うため」に存在する。しかし「anima ejus non implebitur（魂は満たされない）」──口（肉体）が満たされても魂（anima）は満たされない：第1章v.8「目は見ることに飽くことなく」という視覚的欲望の不飽和が、ここでは口（食欲）と魂の乖離として再定式化される。欲求の階層：肉体的欲求（口）の充足は魂的欲求の充足を保証しない。"
+    },
+    {
+      "paragraphId": 8,
+      "type": "commentary",
+      "anchor": "Quid habet amplius sapiens a stulto? et quid pauper, nisi ut pergat illuc ubi est vita?",
+      "body": "「知恵ある者は愚者より何を多く持つのか」──第2章v.14–16の「賢者も愚者も同じく死ぬ」という死の平等性が、ここでは「享受できないなら知恵も愚かさも等しい」という享受の平等性として変奏される。「quid pauper, nisi ut pergat illuc ubi est vita?（貧しい者は何を持つのか──命のある場所へと向かうこと以外に）」──「ubi est vita（命のある場所）」という表現が注目に値する：コヘレトが「命のある場所」を目的地として指示することは、この語が天上・彼岸・神の国を指す可能性を開くが、文脈は意図的に曖昧なまま残される。"
+    },
+    {
+      "paragraphId": 9,
+      "type": "commentary",
+      "anchor": "Melius est videre quod cupias, quam desiderare quod nescias. Sed et hoc vanitas est, et praesumptio spiritus.",
+      "body": "「知らないものを望むよりも、欲するものを見る方が良い──しかしこれもまた虚無であり、霊の思い上がりである」──第6章の思想的極点。「Melius est videre quod cupias（欲するものを見る方が良い）」は一見「現在・具体・実現可能な享受の優越」という第5章の「donum Dei（神の賜物）」路線の継続に見える。しかし即座に「sed et hoc vanitas est（しかしこれもまた虚無）」によって転覆される──現在的享受の優越を肯定することすら虚無として括弧に入れられる。「praesumptio spiritus（霊の思い上がり）」──ヘブライ語原典「רְעוּת רוּחַ（re'ut ruach、風を追うこと）」の別訳。「praesumptio（前もって取ること・思い上がり）」という訳語が重要：「現在が良い」と判断すること自体が「霊の思い上がり」として批判される──コヘレトは快楽主義的享受の肯定さえも自己批判する。マラルメ「骰子一擲」最終行「Toute Pensée émet un Coup de Dés（いかなる思考も骰子の一擲を放つ）」──思考という行為が制御不能な偶然性を放出する、という「praesumptio」の詩的等価物として読める。",
+      "targetId": "mallarme_coup_de_des",
+      "targetParagraphId": 10
+    },
+    {
+      "paragraphId": 10,
+      "type": "commentary",
+      "anchor": "Qui futurus est, jam vocatum est nomen ejus; et scitur quod homo sit, et non possit contra fortiorem se in judicio contendere.",
+      "body": "「これから来る者については、すでにその名前が呼ばれている」──「jam vocatum est nomen ejus（すでに名前が呼ばれている）」という完了受動態が運命の先決定を示す。v.4「oblivione delebitur nomen ejus（名が忘却によって消される）」の名前の抹消に対して、ここでは「名前がすでに呼ばれている」という名前の先行的付与が提示される：存在に先立って名前がある──これはヘブライ語的命名論（神が存在に先立って名を与える）の反映。「non possit contra fortiorem se in judicio contendere（自分より強い者と裁きで争うことができない）」──ヨブ記9:3「神と争うことができない（si voluerit contendere cum eo, non poterit ei respondere unum pro mille）」の反響。人間の認識論的・存在論的限界が「裁きにおける敗北」という法廷的メタファーで定式化される。ヴェイユ「Nécessité（必然）」章の「必然への服従」──「自分より強い者と争えない」という認識がヴェイユ的な「必然への愛（amor necessitatis）」の前提条件として読める。",
+      "targetId": "weil_necessite",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 11,
+      "type": "commentary",
+      "anchor": "Verba sunt plurima, multamque in disputando habentia vanitatem.",
+      "body": "「言葉は非常に多く、議論においては多くの虚無を持つ」──第5章v.1「言葉は少なくあれ（sint pauci sermones tui）」・v.2「多くの言葉の中に愚かさが見出される（in multis sermonibus invenietur stultitia）」・v.6「言葉は無数にある（sermones innumeri）」の言語批判の系列がここで締め括られる。「in disputando（議論において）」──単なる多言ではなく、「論争・弁論（disputatio）」という知的言語活動そのものが虚無の生産場として定義される。第3章v.11「mundum tradidit disputationi eorum（永遠を彼らの議論に委ねた）」との照応：神が人間に「永遠」を「議論（disputatio）」として与えたが、その議論が生産するのは虚無──言語的思考の根本的限界として章が閉じられる。マラルメ「危機（Crise de vers）」での「言語の危機」──詩語の日常的・論争的使用からの逸脱としての詩の探求が、コヘレトの「disputando vanitatem（議論の虚無）」への根本的応答として読める。",
+      "targetId": "mallarme_crise_de_vers",
+      "targetParagraphId": null
+    }
+  ]
+}
