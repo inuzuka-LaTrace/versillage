@@ -2080,7 +2080,7 @@ export default function App() {
       style={{ fontFamily: '"Cinzel", serif', letterSpacing: '0.1em' }}
       className={`text-[8px] max-w-xs mx-auto ${textSecondary}`}
     >
-      VANITISME ; L'archive polyglotte de la modernité :<br />
+      VANITISME ; L'archive polyglotte de l'écriture :<br />
       français, allemand, anglais, russe, italien, espagnol et latin. <br />
       Dispositif de lecture, de traduction et de mémoire.<br />
       <br />
