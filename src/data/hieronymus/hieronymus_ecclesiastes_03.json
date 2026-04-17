@@ -180,7 +180,7 @@
       "paragraphId": 2,
       "type": "commentary",
       "anchor": "Tempus nascendi, et tempus moriendi; tempus plantandi, et tempus evellendi quod plantatum est.",
-      "body": "詩の第一対──生・死・植える・根こそぎにするという存在の根本的な起点と終点。「evellendi（根こそぎにする）」という動詞の選択が重要──単に「枯れる（mori）」ではなく「暴力的に引き抜く」という能動的な行為として「終わりの時」が定義される。リルケ「ドゥイーノ悲歌・第1歌」の「誰が私を天使の列のなかに叫んでも聞いてくれるだろうか（Wer, wenn ich schriee, hörte mich denn aus der Engel Ordnungen?）」──存在の根源的な不安定さ・「今ここにある」ことの束の間の性質がコヘレトの「生まれる時・死ぬ時」の緊張として共鳴する。",
+      "body": "詩の第一対──生・死・植える・根こそぎにするという存在の根本的な起点と終点。「evellendi（根こそぎにする）」という動詞の選択が重要──単に「枯れる（mori）」ではなく「暴力的に引き抜く」という能動的な行為として「終わりの時」が定義される。リルケ「ドゥイノの悲歌（Duineser Elegien）」第1歌(Die erste Elegie)の「誰が私が叫んでも天使の序列から聞いてくれるだろうか（Wer, wenn ich schriee, hörte mich denn aus der Engel Ordnungen?）」──存在の根源的な不安定さ・「今ここにある」ことの束の間の性質がコヘレトの「生まれる時・死ぬ時」の緊張として共鳴する。",
       "targetId": "rilke_duineser_elegien_01",
       "targetParagraphId": 1
     },
@@ -188,7 +188,7 @@
       "paragraphId": 7,
       "type": "commentary",
       "anchor": "tempus tacendi, et tempus loquendi.",
-      "body": "「沈黙する時、そして語る時」──時の詩の28項の中で唯一、言語的行為の対を形成する。28項の中央部（v.7の第2対）に配置され、詩全体の言語的枢軸として機能する。マラルメ「クリーズ・ド・ヴェール」での「沈黙と語りの弁証法」──詩語は沈黙を含む語りとして定義される──が、このコヘレトの「沈黙の時・語りの時」の詩学的展開として読める。ヴェイユ「Effacement（消去）」章の「語ることをやめること（ne pas dire je）」も「tacendi（沈黙の時）」の神秘主義的変奏。ロデンバック「沈黙について（Du Silence）」がコヘレトのこの「沈黙の時」の象徴主義的詩篇として位置づけられる。",
+      "body": "「沈黙する時、そして語る時」──時の詩の28項の中で唯一、言語的行為の対を形成する。28項の中央部（v.7の第2対）に配置され、詩全体の言語的枢軸として機能する。マラルメ「詩の危機（Crise de Vers）」での「沈黙と語りの弁証法」──詩語は沈黙を含む語りとして定義される──が、このコヘレトの「沈黙の時・語りの時」の詩学的展開として読める。ヴェイユ『重力と恩寵』「Effacement（消去）」章の「語ることをやめること（ne pas dire je）」も「tacendi（沈黙の時）」の神秘主義的変奏。ロデンバック「沈黙について（Du Silence）」がコヘレトのこの「沈黙の時」の象徴主義的詩篇として位置づけられる。",
       "targetId": "rodenbach_du_silence",
       "targetParagraphId": null
     },
@@ -254,7 +254,7 @@
       "paragraphId": 20,
       "type": "commentary",
       "anchor": "De terra facta sunt, et in terram pariter revertuntur.",
-      "body": "創世記2:7「神は地の塵から人を形作り（formavit Deus hominem de limo terrae）」・3:19「あなたは土に帰る、あなたは土から取られたから（in terram reverteris, de qua sumptus es）」の直接的引用・変奏。コヘレトは創世記の人間への言葉を人間と動物の双方（pariter = 等しく）に拡張する──「pariter（等しく）」という副詞が動物を人間と同じ創世記的条件のもとに置く。ハイデガー「存在と時間」（Sein und Zeit）での「死への存在（Sein-zum-Tode）」──人間の実存が根本的に「土への回帰」として有限化されているという現象学的命題がコヘレトのこの節の哲学的展開として読める。リルケ「ドゥイーノ悲歌・第1歌」の「私たちは一夜にして過ぎ去る（Wir vergehen)」との響き合い。",
+      "body": "創世記2:7「神は地の塵から人を形作り（formavit Deus hominem de limo terrae）」・3:19「あなたは土に帰る、あなたは土から取られたから（in terram reverteris, de qua sumptus es）」の直接的引用・変奏。コヘレトは創世記の人間への言葉を人間と動物の双方（pariter = 等しく）に拡張する──「pariter（等しく）」という副詞が動物を人間と同じ創世記的条件のもとに置く。ハイデガー「存在と時間」（Sein und Zeit）での「死への存在（Sein-zum-Tode）」──人間の実存が根本的に「土への回帰」として有限化されているという現象学的命題がコヘレトのこの節の哲学的展開として読める。リルケ「ドゥイノの悲歌」第1歌の「私たちは一夜にして過ぎ去る（Wir vergehen)」との響き合い。",
       "targetId": "rilke_duineser_elegien_01",
       "targetParagraphId": null
     },
