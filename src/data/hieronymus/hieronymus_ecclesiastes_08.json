@@ -1,0 +1,214 @@
+{
+  "id": "hieronymus_ecclesiastes_8",
+  "title": "Ecclesiastes, Caput VIII",
+  "author": "Eusebius Sophronius Hieronymus",
+  "source": "Biblia Sacra Vulgata, Liber Ecclesiastes (Qohelet), Caput VIII. Bible Gateway: https://www.biblegateway.com/passage/?search=Ecclesiastes+8&version=VULGATE",
+  "year": "Antiquitas",
+  "firstPublication": "Vulgata Latina, c. 382–405 AD（ヒエロニムス訳）",
+  "difficulty": "上級",
+  "category": "hieronymus",
+  "originalLang": "la-LA",
+  "modernRelevance": "★★★★★",
+  "context": "コヘレトの言葉（Qohelet）第8章。章は大きく三つのブロックに分かれる。v.1–8：権力への服従と時間的限界──王の命令への服従が「praeceptum（戒め）・juramentum（誓い）」の神学的枠組みで正当化され、v.5–8で「時と機会（tempus et opportunitas）」の認識が賢者の心の属性として定義される。v.7「未来を知る者はいない（futura nullo scire potest nuntio）」・v.8「霊を止める力は人間にない（Non est in hominis potestate prohibere spiritum）」という二重の認識論的・実存的限界が確認される。v.9–14：正義の逆転の観察──不正な者が聖所で称えられ（v.9–10）・罰が遅いがゆえに悪が繁殖し（v.11）・正しい者に悪が、不正な者に善が来るという第7章v.15の主題が反復・深化される。v.15–17：享受の肯定と知恵の認識論的限界の最終確認──「食べ飲み喜ぶこと」の肯定（第2・3・5章の定式を「laudavi igitur laetitiam（それゆえ私は喜びを称えた）」として最も肯定的に表現）の後、v.17で「神のすべての業の理を人は見出せない──知恵ある者が知っていると言っても、見出すことはできない（etiam si dixerit sapiens se nosse, non poterit reperire）」という章全体・そしてコヘレト前半の認識論的結語が置かれる。",
+  "keywords": [
+    "王への服従",
+    "tempus et opportunitas",
+    "霊を止める力",
+    "正義の逆転",
+    "罰の遅延",
+    "laudavi laetitiam",
+    "神の業の不可知性",
+    "sapientia lucet",
+    "impietas impium",
+    "non poterit reperire"
+  ],
+  "relatedTexts": [
+    "hieronymus_ecclesiastes_1",
+    "hieronymus_ecclesiastes_2",
+    "hieronymus_ecclesiastes_3",
+    "hieronymus_ecclesiastes_5",
+    "hieronymus_ecclesiastes_6",
+    "hieronymus_ecclesiastes_7",
+    "weil_necessite",
+    "weil_accepter_le_vide",
+    "weil_la_violence",
+    "weil_dressage",
+    "mallarme_coup_de_des",
+    "baudelaire_horloge",
+    "rilke_duineser_elegien_01"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "verses": "v.1",
+      "original": "Sapientia hominis lucet in vultu ejus, et potentissimus faciem illius commutabit.",
+      "provisionalTranslation": "人間の知恵はその顔に輝く。そして最も強力な者さえその顔の表情を変えるだろう。"
+    },
+    {
+      "id": 2,
+      "verses": "v.2",
+      "original": "Ego os regis observo, et praecepta juramenti Dei.",
+      "provisionalTranslation": "私は王の命令と、神への誓いの戒めを守る。"
+    },
+    {
+      "id": 3,
+      "verses": "v.3",
+      "original": "Ne festines recedere a facie ejus, neque permaneas in opere malo: quia omne quod voluerit faciet.",
+      "provisionalTranslation": "彼の御前から急いで退くな。悪い業に留まるな。なぜなら彼は望むことを何でも行うのだから。"
+    },
+    {
+      "id": 4,
+      "verses": "v.4",
+      "original": "Et sermo illius potestate plenus est, nec dicere ei quisquam potest: Quare ita facis?",
+      "provisionalTranslation": "その言葉は権力に満ちており、誰も彼に「なぜそのようにするのか」と言うことができない。"
+    },
+    {
+      "id": 5,
+      "verses": "v.5",
+      "original": "Qui custodit praeceptum non experietur quidquam mali. Tempus et responsionem cor sapientis intelligit.",
+      "provisionalTranslation": "戒めを守る者は何の悪も経験しない。賢者の心は時と応答を理解する。"
+    },
+    {
+      "id": 6,
+      "verses": "v.6",
+      "original": "Omni negotio tempus est, et opportunitas: et multa hominis afflictio,",
+      "provisionalTranslation": "すべての事柄には時と機会がある。そして人間の苦悩は多い。"
+    },
+    {
+      "id": 7,
+      "verses": "v.7",
+      "original": "quia ignorat praeterita, et futura nullo scire potest nuntio.",
+      "provisionalTranslation": "なぜなら彼は過去を知らず、いかなる使者によっても未来を知ることができないのだから。"
+    },
+    {
+      "id": 8,
+      "verses": "v.8",
+      "original": "Non est in hominis potestate prohibere spiritum, nec habet potestatem in die mortis: nec sinitur quiescere ingruente bello, neque salvabit impietas impium.",
+      "provisionalTranslation": "霊を止める力は人間にない。死の日に力を持つこともない。迫りくる戦いの中で休むことも許されず、不敬虔が不敬虔な者を救うこともない。"
+    },
+    {
+      "id": 9,
+      "verses": "v.9",
+      "original": "Omnia haec consideravi, et dedi cor meum in cunctis operibus quae fiunt sub sole. Interdum dominatur homo homini in malum suum.",
+      "provisionalTranslation": "これらすべてを私は考察し、太陽の下でなされるすべての業に心を注いだ。ある時は人間が人間を自分の害のために支配する。"
+    },
+    {
+      "id": 10,
+      "verses": "v.10",
+      "original": "Vidi impios sepultos, qui etiam cum adhuc viverent in loco sancto erant, et laudabantur in civitate quasi justorum operum. Sed et hoc vanitas est.",
+      "provisionalTranslation": "私は不正な者たちが葬られるのを見た──生きていた間も聖所にいて、都市で正しい業を行った者のように称えられていた者たちが。これもまた虚無である。"
+    },
+    {
+      "id": 11,
+      "verses": "v.11",
+      "original": "Etenim quia non profertur cito contra malos sententia, absque timore ullo filii hominum perpetrant mala.",
+      "provisionalTranslation": "悪い者たちに対して判決が素早く下されないがゆえに、人の子たちはいかなる畏れもなく悪を行い続ける。"
+    },
+    {
+      "id": 12,
+      "verses": "v.12",
+      "original": "Attamen peccator ex eo quod centies facit malum, et per patientiam sustentatur; ego cognovi quod erit bonum timentibus Deum, qui verentur faciem ejus.",
+      "provisionalTranslation": "しかし罪人は百度も悪を行い、忍耐によって持ちこたえる。それでも私は知った──神を畏れ、その御前を敬う者たちには善があるであろうと。"
+    },
+    {
+      "id": 13,
+      "verses": "v.13",
+      "original": "Non sit bonum impio, nec prolongentur dies ejus, sed quasi umbra transeant qui non timent faciem Domini.",
+      "provisionalTranslation": "不正な者には善があるな。その日数も延ばされるな──主の御前を畏れない者は影のように過ぎ去るだろう。"
+    },
+    {
+      "id": 14,
+      "verses": "v.14",
+      "original": "Est et alia vanitas quae fit super terram: sunt justi quibus mala proveniunt quasi opera egerint impiorum: et sunt impii qui ita securi sunt quasi justorum facta habeant. Sed et hoc vanissimum judico.",
+      "provisionalTranslation": "地の上で起こる別の虚無がある──不正な者の業を行ったかのように悪が来る正しい者がいる。また正しい者の業を持つかのように安穏としている不正な者がいる。これもまた最も虚無だと私は判断する。"
+    },
+    {
+      "id": 15,
+      "verses": "v.15",
+      "original": "Laudavi igitur laetitiam; quod non esset homini bonum sub sole, nisi quod comederet, et biberet, atque gauderet, et hoc solum secum auferret de labore suo, in diebus vitae suae quos dedit ei Deus sub sole.",
+      "provisionalTranslation": "それゆえ私は喜びを称えた。太陽の下で人間に善なるものはなく、ただ食べ、飲み、喜び、これだけを神が太陽の下で与えた生涯の日々において自分の労苦から持ち去ること以外に。"
+    },
+    {
+      "id": 16,
+      "verses": "v.16",
+      "original": "Et apposui cor meum ut scirem sapientiam, et intelligerem distentionem quae versatur in terra. Est homo qui diebus et noctibus somnum non capit oculis.",
+      "provisionalTranslation": "そして私は心を向けた、知恵を知り、地上で展開する苦悩を理解するために。昼も夜も目に眠りをとらない者がいる。"
+    },
+    {
+      "id": 17,
+      "verses": "v.17",
+      "original": "Et intellexi quod omnium operum Dei nullam possit homo invenire rationem eorum quae fiunt sub sole; et quanto plus laboraverit ad quaerendum, tanto minus inveniat: etiam si dixerit sapiens se nosse, non poterit reperire.",
+      "provisionalTranslation": "そして私は悟った──神のすべての業について、太陽の下でなされることの理を人は何も見出すことができない。求めて労すれば労するほど、より少なしか見出さない。たとえ知恵ある者が知っていると言っても、見出すことはできない。"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "Sapientia hominis lucet in vultu ejus, et potentissimus faciem illius commutabit.",
+      "body": "「人間の知恵はその顔に輝く──最も強力な者さえその顔の表情を変えるだろう」──第8章の冒頭命題として知恵の可視的・社会的効果が提示される。「lucet in vultu（顔に輝く）」という光の比喩が、第7章v.24「深い深淵──誰がそれを見出せるのか」という知恵の不可達性の直後に置かれる逆説：知恵は把握できないが、それを持つ者の顔には可視的に現れる。「potentissimus faciem illius commutabit（最も強力な者さえその顔を変えるだろう）」──権力者でさえ知恵ある者の顔の前で表情を変えるという知恵の社会的権威。v.2以降の「王への服従」論との緊張：知恵は王権を超える権威を持つが（v.1）、それでも王の命令に服従すべきとされる（v.2–4）。"
+    },
+    {
+      "paragraphId": 5,
+      "type": "glossary",
+      "anchor": "Tempus et responsionem cor sapientis intelligit.",
+      "body": "「賢者の心は時と応答を理解する（Tempus et responsionem cor sapientis intelligit）」──第3章v.1「すべてのことには時がある（Omnia tempus habent）」の社会的・実践的適用。「responsio（応答・答え）」──ヘブライ語原典「מִשְׁפָּט（mishpat）」は「判断・裁き・適切な仕方」を意味し、ヴルガータの「responsio」はやや狭い訳だが、「状況に対する適切な応答を知ること」という賢慮（prudentia）的認識を指す。「cor sapientis（賢者の心）」が時間的認識の座として定義される──賢者の優越性は情報の多さではなく「時を読む（tempus intelligere）」能力に存する。"
+    },
+    {
+      "paragraphId": 6,
+      "type": "commentary",
+      "anchor": "Omni negotio tempus est, et opportunitas: et multa hominis afflictio,",
+      "body": "「すべての事柄には時と機会がある──そして人間の苦悩は多い」──第3章「時の詩」の格言的要約として機能しながら、「et multa hominis afflictio（そして人間の苦悩は多い）」という附加が時間論的認識の喜びを即座に打ち消す。「tempus et opportunitas（時と機会）」の認識は賢者の能力（v.5）だが、その認識自体が「afflictio（苦悩）」の重さを増す──知ることが苦悩を増すという第1章v.18「知識を加える者は労苦をも加える（qui addit scientiam, addit et laborem）」の反復。"
+    },
+    {
+      "paragraphId": 8,
+      "type": "commentary",
+      "anchor": "Non est in hominis potestate prohibere spiritum, nec habet potestatem in die mortis:",
+      "body": "「霊を止める力は人間にない──死の日に力を持つこともない」──「potestas（力・権能）」という語の二重否定が人間的権力の根本的限界を定式化する。第5章v.1–2での王への服従（「彼は望むことを何でも行う」）という絶対的権力の直後に、「死の日（dies mortis）」という境界によってその権力が無効化される逆説。「spiritum prohibere（霊を止める）」──「spiritus（霊・息）」を制御する力の欠如は死の実存的定義として機能する：人は息が止まることを止められない。第3章v.21「アダムの子らの霊が上へと昇るかどうか誰が知るのか（Quis novit si spiritus filiorum Adam ascendat sursum）」の霊の行方への問いと連続する霊の不制御性の主題。ヴェイユ「Nécessité」章の「必然の力は人間の意志を超える」──コヘレトの「spiritus prohibere」の不可能性がヴェイユ的必然論の聖書的先行形として読める。",
+      "targetId": "weil_necessite",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 9,
+      "type": "commentary",
+      "anchor": "Interdum dominatur homo homini in malum suum.",
+      "body": "「ある時は人間が人間を自分の害のために支配する」──「homo homini（人間が人間を）」というラテン語定型句の逆説的使用。ホッブズ「homo homini lupus（人間は人間にとって狼）」の古典的先行形だが、コヘレトの定式はさらに鋭い：支配する側が「自分の害のために（in malum suum）」支配する──他者への支配が支配者自身を傷つけるという自壊的権力論。「dedi cor meum in cunctis operibus（すべての業に心を注いだ）」という観察の構え──コヘレトは参加者ではなく観察者として社会的権力関係を記述する。ヴェイユ「La Violence（暴力）」章での「力の自壊論」との照応：力は持つ者も扱われる者も等しく石化させる。",
+      "targetId": "weil_la_violence",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 11,
+      "type": "commentary",
+      "anchor": "quia non profertur cito contra malos sententia, absque timore ullo filii hominum perpetrant mala.",
+      "body": "「悪い者たちに対して判決が素早く下されないがゆえに、いかなる畏れもなく悪を行い続ける」──「刑罰の遅延」が悪の繁殖の社会的原因として定式化される。「sententia（判決）」の遅延という法律的観察が「timor（畏れ）」の欠如という宗教的結果に接続される──社会的制裁と神への畏れが道徳的抑制として等値されている。第5章v.6「Deum time（神を畏れよ）」・第7章v.18「qui timet Deum nihil negligit（神を畏れる者は何も等閑にしない）」の「神への畏れ」主題が、ここでは社会的不正の分析に組み込まれる。"
+    },
+    {
+      "paragraphId": 14,
+      "type": "commentary",
+      "anchor": "sunt justi quibus mala proveniunt quasi opera egerint impiorum: et sunt impii qui ita securi sunt quasi justorum facta habeant. Sed et hoc vanissimum judico.",
+      "body": "「不正な者の業を行ったかのように悪が来る正しい者がいる……これもまた最も虚無（vanissimum）だと私は判断する」──第7章v.15–17「正しい者はその正しさの中で滅び、不正な者はその悪の中で長く生きる」の主題が、ここでは「quasi（〜のように）」という外見的類似の言語で精密化される。「vanissimum（最も虚無な）」──コヘレト全体で「vanissimum」という最上級が使われるのは稀であり、道徳的秩序の転倒がコヘレトにとって最大級の虚無として位置づけられていることを示す。第7章v.29「神は人間を真っ直ぐに造ったが、人間は無限の問いに混乱した」という創造論的逆説が、ここでは社会的現実として具体化される。"
+    },
+    {
+      "paragraphId": 15,
+      "type": "commentary",
+      "anchor": "Laudavi igitur laetitiam; quod non esset homini bonum sub sole, nisi quod comederet, et biberet, atque gauderet, et hoc solum secum auferret de labore suo",
+      "body": "「それゆえ私は喜びを称えた（Laudavi igitur laetitiam）」──第2章v.24・第3章v.12–13・v.22・第5章v.17–18・第8章v.15と連鎖する「食べ飲む喜び」の定式が、ここで最も積極的な動詞「laudavi（称えた）」によって表現される。「igitur（それゆえ）」という接続詞が重要：v.9–14の正義の逆転・道徳的混乱の観察を受けての結論として「喜びを称える」──逆説的倫理が明示される。「hoc solum secum auferret（これだけを持ち去ること）」──第5章v.14「nihil auferet secum de labore suo（労苦から何も持ち去れない）」の「裸の帰還」との対比：物質的財産は持ち去れないが、喜びの経験は「持ち去れる」ものとして再定義される。ヴェイユ「Accepter le vide」§1「恩寵が入れるのはそれを受け取る空虚がある場所だけ」──喜びを享受することが「受け取ること」の実践として、恩寵の受容の等価物として読める。",
+      "targetId": "weil_accepter_le_vide",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 16,
+      "type": "commentary",
+      "anchor": "Est homo qui diebus et noctibus somnum non capit oculis.",
+      "body": "「昼も夜も目に眠りをとらない者がいる」──v.15の「喜びを称える」という肯定的結論の直後に挿入される、知恵の探求に伴う不眠の形象。第5章v.11「富んだ者の飽食は眠ることを許さない（saturitas divitis non sinit eum dormire）」では財産が不眠の原因だったが、ここでは知恵の探求が不眠をもたらす──「apposui cor meum ut scirem sapientiam（知恵を知るために心を向けた）」という探求の結果としての不眠。ロデンバック「女性の悲しみ（Les Femmes tristes）」での夜の覚醒・眠れない魂のイメージとの詩的照応。"
+    },
+    {
+      "paragraphId": 17,
+      "type": "commentary",
+      "anchor": "Et intellexi quod omnium operum Dei nullam possit homo invenire rationem eorum quae fiunt sub sole; et quanto plus laboraverit ad quaerendum, tanto minus inveniat: etiam si dixerit sapiens se nosse, non poterit reperire.",
+      "body": "「求めて労すれば労するほど、より少なしか見出さない──たとえ知恵ある者が知っていると言っても、見出すことはできない」──第8章・そしてコヘレト前半部（第1章〜第8章）の認識論的総結語。「quanto plus laboraverit ad quaerendum, tanto minus inveniat（労すれば労するほど、より少なしか見出す）」──第7章v.24「知恵はさらに私から遠ざかった（ipsa longius recessit a me）」の「逆比例的離遠」が、ここでは普遍的命題として定式化される：探求の強度と成果の量は反比例する。「etiam si dixerit sapiens se nosse（たとえ知恵ある者が知っていると言っても）」──知識の主張と実際の発見能力の乖離：自称「知者」の言語的権威が「non poterit reperire（見出すことはできない）」という認識論的失敗によって解体される。第3章v.11「神が初めから終わりまで行う業を人は見出すことができない（non inveniat homo opus quod operatus est Deus）」の命題が八章にわたる探求の実践的証明を経て確認される。マラルメ「骰子一擲」の「骰子の一擲は決して偶然を廃棄しない」──人間の認識的努力がいかなる形でも神の業の偶然性・不可知性を廃棄できないという命題として読める。リルケ「ドゥイノの悲歌」第1歌の「私たちには美は知覚できない（das Schöne ist nichts als des Schrecklichen Anfang）」──知恵・美・存在の根本的な人間的不可把握性がコヘレトのこの最終節のドイツ語的変奏として響き合う。",
+      "targetId": "mallarme_coup_de_des",
+      "targetParagraphId": 1
+    }
+  ]
+}
