@@ -1,0 +1,330 @@
+{
+  "id": "hieronymus_ecclesiastes_7",
+  "title": "Ecclesiastes, Caput VII",
+  "author": "Eusebius Sophronius Hieronymus",
+  "source": "Biblia Sacra Vulgata, Liber Ecclesiastes (Qohelet), Caput VII. Bible Gateway: https://www.biblegateway.com/passage/?search=Ecclesiastes+7&version=VULGATE",
+  "year": "Antiquitas",
+  "firstPublication": "Vulgata Latina, c. 382–405 AD（ヒエロニムス訳）",
+  "difficulty": "上級",
+  "category": "hieronymus",
+  "originalLang": "la-LA",
+  "modernRelevance": "★★★★★",
+  "context": "コヘレトの言葉（Qohelet）第7章。12章全体で最長の章であり、格言・逆説・自己批判・実存的嘆きが最も密度高く凝縮される。冒頭v.1–14は「Melius est（〜の方が良い）」という比較格言の連鎖──良い評判は高価な香油に勝り、死の日は誕生の日に勝り、嘆きの家は宴会の家に勝る──という逆説的価値転倒の系列。これらの「死と悲しみの優越」格言は単純な厭世論ではなく、「生ける者は死について考える（vivens cogitat quid futurum sit）」という認識論的実践として提示される。v.15–19は「中庸の倫理」──「正しすぎるな・知恵ありすぎるな（Noli esse justus multum, neque plus sapias quam necesse est）」・「不敬虔すぎるな・愚か者であるな」という四重の否定命令が神への畏れ（v.18「qui timet Deum nihil negligit」）を中心に配置される。v.20「地上に罪を犯さない正しい人はいない（non est enim homo justus in terra qui faciat bonum et non peccet）」という人間の普遍的罪性の宣言が中間的頂点を形成する。v.23–29は章の思想的極点──知恵を求めて「知恵に達しようとしたが、知恵はさらに遠ざかった（Sapiens efficiar: et ipsa longius recessit a me）」という認識論的失敗の告白。さらにv.26の「死よりも苦い女（inveni amariorem morte mulierem）」という謎めいた格言、v.28の「千人に一人の男・女は一人も見つからない」という絶望的認識、v.29の「神は人間を真っ直ぐに造ったが、人間は無限の問いに自ら混乱した（ipse se infinitis miscuerit quaestionibus）」という創造論的逆説で章が締め括られる。",
+  "keywords": [
+    "melius est格言",
+    "死の日の優越",
+    "悲しみの優越",
+    "中庸の倫理",
+    "知恵の不可達性",
+    "死よりも苦い女",
+    "人間の普遍的罪性",
+    "peregrinatio",
+    "umbra",
+    "infinitae quaestiones"
+  ],
+  "relatedTexts": [
+    "hieronymus_ecclesiastes_1",
+    "hieronymus_ecclesiastes_2",
+    "hieronymus_ecclesiastes_3",
+    "hieronymus_ecclesiastes_4",
+    "hieronymus_ecclesiastes_5",
+    "hieronymus_ecclesiastes_6",
+    "weil_accepter_le_vide",
+    "weil_necessite",
+    "weil_decreation",
+    "weil_dressage",
+    "juan_de_la_cruz_noche_oscura",
+    "mallarme_coup_de_des",
+    "baudelaire_une_charogne",
+    "trakl_de_profundis",
+    "rilke_duineser_elegien_01"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "verses": "v.1a",
+      "original": "Quid necesse est homini majora se quaerere, cum ignoret quid conducat sibi in vita sua, numero dierum peregrinationis suae, et tempore quod velut umbra praeterit?",
+      "provisionalTranslation": "自分より大きなものを求めることが人間に何の必要があるのか──自分の人生において何が自分の益になるかを知らないでいるのに。その旅の日数の間、影のように過ぎ去る時の間に。"
+    },
+    {
+      "id": 2,
+      "verses": "v.1b",
+      "original": "aut quis ei poterit indicare quod post eum futurum sub sole sit?",
+      "provisionalTranslation": "あるいは誰が彼に、太陽の下で彼の死後に何が起こるかを告げることができるのか。"
+    },
+    {
+      "id": 3,
+      "verses": "v.2",
+      "original": "Melius est nomen bonum quam unguenta pretiosa, et dies mortis die nativitatis.",
+      "provisionalTranslation": "良い評判は高価な香油よりも良く、死の日は誕生の日よりも良い。"
+    },
+    {
+      "id": 4,
+      "verses": "v.3",
+      "original": "Melius est ire ad domum luctus quam ad domum convivii; in illa enim finis cunctorum admonetur hominum, et vivens cogitat quid futurum sit.",
+      "provisionalTranslation": "宴会の家よりも嘆きの家に行く方が良い。なぜなら、そこではすべての人間の終わりが思い起こされ、生ける者は自分の未来について考えるからだ。"
+    },
+    {
+      "id": 5,
+      "verses": "v.4",
+      "original": "Melior est ira risu, quia per tristitiam vultus corrigitur animus delinquentis.",
+      "provisionalTranslation": "笑いよりも怒りの方が良い。なぜなら顔の悲しみによって過ちを犯した者の心が正されるからだ。"
+    },
+    {
+      "id": 6,
+      "verses": "v.5",
+      "original": "Cor sapientium ubi tristitia est, et cor stultorum ubi laetitia.",
+      "provisionalTranslation": "賢者の心は悲しみのあるところにあり、愚者の心は喜びのあるところにある。"
+    },
+    {
+      "id": 7,
+      "verses": "v.6",
+      "original": "Melius est a sapiente corripi, quam stultorum adulatione decipi;",
+      "provisionalTranslation": "愚者たちの追従によって欺かれるよりも、賢者に叱られる方が良い。"
+    },
+    {
+      "id": 8,
+      "verses": "v.7",
+      "original": "quia sicut sonitus spinarum ardentium sub olla, sic risus stulti. Sed et hoc vanitas.",
+      "provisionalTranslation": "なぜなら、燃える茨の鍋の下での音のように、愚者の笑いはそのようだから。これもまた虚無である。"
+    },
+    {
+      "id": 9,
+      "verses": "v.8",
+      "original": "Calumnia conturbat sapientem, et perdet robur cordis illius.",
+      "provisionalTranslation": "中傷は賢者を乱し、その心の強さを失わせる。"
+    },
+    {
+      "id": 10,
+      "verses": "v.9",
+      "original": "Melior est finis orationis quam principium. Melior est patiens arrogante.",
+      "provisionalTranslation": "言葉の始まりよりも終わりの方が良い。傲慢な者よりも忍耐強い者の方が良い。"
+    },
+    {
+      "id": 11,
+      "verses": "v.10",
+      "original": "Ne sis velox ad irascendum, quia ira in sinu stulti requiescit.",
+      "provisionalTranslation": "怒りに急ぐな。なぜなら怒りは愚者の懐に宿るからだ。"
+    },
+    {
+      "id": 12,
+      "verses": "v.11",
+      "original": "Ne dicas: Quid putas causae est quod priora tempora meliora fuere quam nunc sunt? stulta enim est hujuscemodi interrogatio.",
+      "provisionalTranslation": "「昔の時代が今よりも良かった原因は何だと思うか」と言うな。そのような問いは愚かだからだ。"
+    },
+    {
+      "id": 13,
+      "verses": "v.12",
+      "original": "Utilior est sapientia cum divitiis, et magis prodest videntibus solem.",
+      "provisionalTranslation": "知恵は富とともにある方がより有益であり、太陽を見る者たちにとってより役に立つ。"
+    },
+    {
+      "id": 14,
+      "verses": "v.13",
+      "original": "Sicut enim protegit sapientia, sic protegit pecunia; hoc autem plus habet eruditio et sapientia, quod vitam tribuunt possessori suo.",
+      "provisionalTranslation": "知恵が守るように、金も守る。しかし学識と知恵がさらに優れるのは、それがその所有者に命を与えるからだ。"
+    },
+    {
+      "id": 15,
+      "verses": "v.14",
+      "original": "Considera opera Dei, quod nemo possit corrigere quem ille despexerit.",
+      "provisionalTranslation": "神の業を考えよ──神が見くだした者を誰も正すことができない。"
+    },
+    {
+      "id": 16,
+      "verses": "v.15",
+      "original": "In die bona fruere bonis, et malam diem praecave; sicut enim hanc, sic et illam fecit Deus, ut non inveniat homo contra eum justas querimonias.",
+      "provisionalTranslation": "良い日には善きものを享受し、悪い日には用心せよ。なぜなら神はこの日もあの日も同様に造ったのだから──人間が神に対して正当な不満を見出すことができないように。"
+    },
+    {
+      "id": 17,
+      "verses": "v.16",
+      "original": "Haec quoque vidi in diebus vanitatis meae: justus perit in justitia sua, et impius multo vivit tempore in malitia sua.",
+      "provisionalTranslation": "これもまた私は自分の虚無の日々に見た──正しい者はその正しさの中で滅び、不正な者はその悪の中で長く生きる。"
+    },
+    {
+      "id": 18,
+      "verses": "v.17",
+      "original": "Noli esse justus multum, neque plus sapias quam necesse est, ne obstupescas.",
+      "provisionalTranslation": "正しすぎるな。必要以上に知恵があるふりをするな──愚かになってしまわないように。"
+    },
+    {
+      "id": 19,
+      "verses": "v.18",
+      "original": "Ne impie agas multum, et noli esse stultus, ne moriaris in tempore non tuo.",
+      "provisionalTranslation": "不敬虔に振る舞いすぎるな。また愚か者になるな──あなたの時でないときに死ぬことのないように。"
+    },
+    {
+      "id": 20,
+      "verses": "v.19",
+      "original": "Bonum est te sustentare justum: sed et ab illo ne subtrahas manum tuam; quia qui timet Deum nihil negligit.",
+      "provisionalTranslation": "正しい者を支えることは良いことだ。しかしそこからも手を引くな。神を畏れる者は何も等閑にしない。"
+    },
+    {
+      "id": 21,
+      "verses": "v.20",
+      "original": "Sapientia confortavit sapientem super decem principes civitatis;",
+      "provisionalTranslation": "知恵は都市の十人の有力者に勝って賢者を強くした。"
+    },
+    {
+      "id": 22,
+      "verses": "v.21",
+      "original": "non est enim homo justus in terra qui faciat bonum et non peccet.",
+      "provisionalTranslation": "なぜなら、善を行いながら罪を犯さない正しい人間は地上にいないからだ。"
+    },
+    {
+      "id": 23,
+      "verses": "v.22",
+      "original": "Sed et cunctis sermonibus qui dicuntur ne accomodes cor tuum, ne forte audias servum tuum maledicentem tibi;",
+      "provisionalTranslation": "また語られるすべての言葉に心を向けるな──あなたの僕があなたを呪っているのを聞くことがないように。"
+    },
+    {
+      "id": 24,
+      "verses": "v.23",
+      "original": "scit enim conscientia tua quia et tu crebro maledixisti aliis.",
+      "provisionalTranslation": "なぜなら、あなたもしばしば他の者を呪ったことを、あなたの良心は知っているからだ。"
+    },
+    {
+      "id": 25,
+      "verses": "v.24",
+      "original": "Cuncta tentavi in sapientia. Dixi: Sapiens efficiar: et ipsa longius recessit a me,",
+      "provisionalTranslation": "私はすべてを知恵において試みた。「私は知恵ある者になろう」と言った。しかし知恵はさらに私から遠ざかった。"
+    },
+    {
+      "id": 26,
+      "verses": "v.25",
+      "original": "multo magis quam erat. Et alta profunditas, quis inveniet eam?",
+      "provisionalTranslation": "以前よりもはるかに。深い深淵よ──誰がそれを見出せるのか。"
+    },
+    {
+      "id": 27,
+      "verses": "v.26",
+      "original": "Lustravi universa animo meo, ut scirem et considerarem, et quaererem sapientiam, et rationem, et ut cognoscerem impietatem stulti, et errorem imprudentium:",
+      "provisionalTranslation": "私は心で万事を調べた──知り、考え、知恵と理性を求め、愚者の不敬虔と無思慮な者の誤りを知るために。"
+    },
+    {
+      "id": 28,
+      "verses": "v.27",
+      "original": "et inveni amariorem morte mulierem, quae laqueus venatorum est, et sagena cor ejus; vincula sunt manus illius. Qui placet Deo effugiet illam; qui autem peccator est capietur ab illa.",
+      "provisionalTranslation": "そして私は死よりも苦い女を見出した──彼女は狩人の罠であり、その心は網であり、その手は枷である。神に喜ばれる者は彼女から逃れ、罪人は彼女に捕らわれる。"
+    },
+    {
+      "id": 29,
+      "verses": "v.28",
+      "original": "Ecce hoc inveni, dixit Ecclesiastes, unum et alterum ut invenirem rationem, quam adhuc quaerit anima mea, et non inveni. Virum de mille unum reperi; mulierem ex omnibus non inveni.",
+      "provisionalTranslation": "「見よ、これを私は見出した」とコヘレトは言った。「一つまた一つと理を見出すために──私の魂が今もなお求めているのに見出せない理を。千人のうち一人の男を見出した。しかしすべての者の中に女は一人も見出せなかった。」"
+    },
+    {
+      "id": 30,
+      "verses": "v.29–30",
+      "original": "Solummodo hoc inveni, quod fecerit Deus hominem rectum, et ipse se infinitis miscuerit quaestionibus. Quis talis ut sapiens est? et quis cognovit solutionem verbi?",
+      "provisionalTranslation": "ただこれだけを私は見出した──神は人間を真っ直ぐに造ったが、人間は自ら無限の問いに混乱した。誰が知恵ある者のようであり得るのか。誰が言葉の解釈を知っているのか。"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "glossary",
+      "anchor": "numero dierum peregrinationis suae, et tempore quod velut umbra praeterit?",
+      "body": "「旅の日数（numero dierum peregrinationis suae）」・「影のように過ぎ去る時（tempore quod velut umbra praeterit）」──第7章の二つの時間的比喩が冒頭に配置される。「peregrinatio（旅・巡礼・他郷での滞在）」は地上的生を「本来の場所ではない場所での一時的滞在」として定義する──キリスト教的「地上の旅人（homo viator）」概念の聖書的根拠の一つ。「velut umbra praeterit（影のように過ぎ去る）」──ヨブ記14:2「花のように咲いて萎み、影のように逃げ去って留まらない（quasi flos egreditur et conteritur, et fugit velut umbra）」との並行。「影（umbra）」という比喩が時間の実体のなさを視覚的に定式化する。ホフマンスタール「テルツィーネン（Terzinen）」での「影のように過ぎ去る子供時代の面影」とのモチーフ的照応。",
+      "targetId": "hofmannsthal_terzinen",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "Melius est nomen bonum quam unguenta pretiosa, et dies mortis die nativitatis.",
+      "body": "「死の日は誕生の日よりも良い（dies mortis die nativitatis）」──第7章の「melius est格言」系列の最も逆説的な命題。第4章v.3「まだ生まれていない者が最も幸福」の死と誕生の価値転倒が、ここでは「死の日の優越」として再提示される。「nomen bonum（良い評判）」対「unguenta pretiosa（高価な香油）」という比較は、物質的・感覚的価値に対する象徴的・評判的価値の優越。ただし「良い評判」が「死の日」と並列されることで、評判の完成は死においてのみ確定するという含意が生まれる──人生の途上では評判は変動するが、死によって固定される。"
+    },
+    {
+      "paragraphId": 4,
+      "type": "commentary",
+      "anchor": "in illa enim finis cunctorum admonetur hominum, et vivens cogitat quid futurum sit.",
+      "body": "「そこではすべての人間の終わりが思い起こされ、生ける者は自分の未来について考える」──「嘆きの家（domus luctus）」の認識論的機能の定義：宴会の家が現在の快楽に意識を向けさせるのに対し、嘆きの家は「死（finis cunctorum）」という普遍的終点への思考を促す。「vivens cogitat（生ける者は考える）」──死者の存在が生ける者の認識を変容させる：死が思考の触媒として機能する。「memento mori（死を思え）」という伝統的実践の聖書的根拠として機能する箇所。バロック絵画「ヴァニタス」の頭蓋骨のモチーフ──ローデンバック「骸骨の前で（Devant Tête de Mort）」がこの「嘆きの家における思考」の象徴主義的詩的形象として読める。",
+      "targetId": "rodenbach_devant_tete_de_mort",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 6,
+      "type": "prosody",
+      "anchor": "Cor sapientium ubi tristitia est, et cor stultorum ubi laetitia.",
+      "body": "「賢者の心は悲しみのあるところにあり、愚者の心は喜びのあるところにある」──対句格言の典型的構造（chiasmus的対比）。心（cor）の位置が「悲しみ（tristitia）」と「喜び（laetitia）」によって定義される──心が「ある場所（ubi）」として感情的状態が空間化される。v.3「嘆きの家に行く方が良い」・v.4「怒りは笑いより良い」・v.5「賢者に叱られる方が良い」という格言連鎖の中間に位置し、「悲しみ」が賢者の認識論的な「正しい居場所」として定式化される。"
+    },
+    {
+      "paragraphId": 8,
+      "type": "commentary",
+      "anchor": "quia sicut sonitus spinarum ardentium sub olla, sic risus stulti. Sed et hoc vanitas.",
+      "body": "「燃える茨の鍋の下での音のように、愚者の笑いはそのようだ」──音声的比喩。「sonitus spinarum ardentium（燃える茨の音）」はパチパチという急激な燃焼音を喚起する──短く激しく、すぐに消える。愚者の笑いもまた激しくすぐに消える、実質のない音として定義される。ヘブライ語ではさらに「茨（sirîm）」と「鍋（sir）」・「笑い（sehōq）」の間に語呂合わせがあり、原典の音響的効果がラテン語では「sonitus / sic」の頭韻として部分的に再現される。"
+    },
+    {
+      "paragraphId": 12,
+      "type": "commentary",
+      "anchor": "Ne dicas: Quid putas causae est quod priora tempora meliora fuere quam nunc sunt? stulta enim est hujuscemodi interrogatio.",
+      "body": "「昔の時代が今よりも良かった原因は何だと思うか」と言うな──「過去の美化（nostalgia）」への批判。第1章v.9–10「新しいものは何もない（Nihil sub sole novum）」という反復・循環の命題に照らせば、過去を現在より良いとする「nostalgic interrogatio（懐古的問い）」は循環する時間の本質を誤認するものとして「stulta（愚か）」と断定される。ヴェイユ「affliction」論での「過去への執着」批判との照応──afflictionが人格を破壊する一様式として「失われた過去への固着」が挙げられる。"
+    },
+    {
+      "paragraphId": 16,
+      "type": "commentary",
+      "anchor": "In die bona fruere bonis, et malam diem praecave; sicut enim hanc, sic et illam fecit Deus, ut non inveniat homo contra eum justas querimonias.",
+      "body": "「神はこの日もあの日も同様に造った──人間が神に対して正当な不満を見出すことができないように」──「良い日」と「悪い日」の神学的同格性の宣言。神が良い日も悪い日も等しく造ったという摂理論が、人間の「神への不満（querimoniae）」を原理的に封鎖する：悪い日さえ神の意志であるなら、それへの不満は神の意志への反抗となる。v.15「神が見くだした者を誰も正せない（nemo possit corrigere quem ille despexerit）」と連動して、神の主権的恣意性がコヘレト神学の中心的緊張として浮上する。ヴェイユ「Nécessité（必然）」章の「必然への服従と愛」──悪い日を「神が造った」として受け入れることがヴェイユ的「amor necessitatis（必然への愛）」の宗教的定式として読める。",
+      "targetId": "weil_necessite",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 17,
+      "type": "commentary",
+      "anchor": "justus perit in justitia sua, et impius multo vivit tempore in malitia sua.",
+      "body": "「正しい者はその正しさの中で滅び、不正な者はその悪の中で長く生きる」──道徳的秩序の根本的転倒の観察。第4章v.16「裁きの場に不敬虔を、正義の場に不正を見た」という社会的不正の観察が、ここでは個人の生死という実存的次元での正義の逆転として提示される。「in diebus vanitatis meae（私の虚無の日々に）」──コヘレトが「vanitatis meae（私の虚無）」と一人称で言うのは珍しい：「虚無」が客観的世界の性質であると同時に、観察者であるコヘレト自身の実存的様態として内面化される。"
+    },
+    {
+      "paragraphId": 18,
+      "type": "commentary",
+      "anchor": "Noli esse justus multum, neque plus sapias quam necesse est, ne obstupescas.",
+      "body": "「正しすぎるな、必要以上に知恵があるふりをするな──愚かになってしまわないように」──第7章の「中庸の倫理」の定式。「multum（過剰に）」という副詞が重要：正義も知恵も、それ自体としては推奨されるが、過剰は「obstupescas（愚かになる）」という逆効果をもたらす。v.16–19の四重の否定命令（正しすぎるな・知恵ありすぎるな・不敬虔すぎるな・愚か者になるな）がアリストテレス的「中庸（mesotēs）」の聖書的先行形として読める。ただしコヘレトの中庸はアリストテレスの「徳の実現としての中庸」ではなく、「いかなる極端も裏目に出るという実証的観察」に基づく──v.17「正しい者は正しさの中で滅びる」という観察がその実証的根拠。"
+    },
+    {
+      "paragraphId": 22,
+      "type": "commentary",
+      "anchor": "non est enim homo justus in terra qui faciat bonum et non peccet.",
+      "body": "「善を行いながら罪を犯さない正しい人間は地上にいない」──章の思想的中間頂点として人間の普遍的罪性を宣言する。v.17–19の中庸の倫理の帰結として──いかなる者も「正しすぎ・知恵ありすぎ・不敬虔すぎ・愚かすぎ」のいずれかの過剰に陥る──この普遍的罪性が導かれる。「in terra（地上に）」という限定が重要：地上的次元での人間の完全性の不可能性を宣言する一方で、天上的次元についての判断を保留する。パウロ「ローマ書」3:10「義しい者はいない、一人もいない（Non est justus quisquam）」の旧約的先行形として機能する。ヴェイユ「Effacement（消去）」§1「謙遜とは神の外に存在することの拒否」──普遍的罪性の認識がヴェイユ的謙遜の前提条件として読める。",
+      "targetId": "weil_effacement",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 25,
+      "type": "commentary",
+      "anchor": "Cuncta tentavi in sapientia. Dixi: Sapiens efficiar: et ipsa longius recessit a me,",
+      "body": "「私はすべてを知恵において試みた。『私は知恵ある者になろう』と言った。しかし知恵はさらに私から遠ざかった」──章の思想的極点にして、コヘレト全体で最も重要な認識論的告白の一つ。「Sapiens efficiar（知恵ある者になろう）」という決意が「ipsa longius recessit a me（知恵自体がさらに私から遠ざかった）」という逆説的失敗で応じられる。追求すること自体が対象を遠ざける──マラルメ「エロディアード（Hérodiade）」での「近づくことが遠ざかりを生む」という触れることの不可能性の詩的論理と同型。ヴェイユ「Athéisme purificateur（浄化としての無神論）」§1「神は思い描けないものに似ている」──知恵の遠ざかりがヴェイユ的「思い描けない神」の認識論的等価物として読める：求めれば求めるほど遠ざかるもの。",
+      "targetId": "mallarme_herodiade_scene",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 26,
+      "type": "commentary",
+      "anchor": "Et alta profunditas, quis inveniet eam?",
+      "body": "「深い深淵よ──誰がそれを見出せるのか」──知恵の不可達性が空間的比喩（「深淵（profunditas）」）で定式化される。「alta profunditas（深い深さ）」という重語的表現が知恵の無限の深度を示す。第3章v.11「神が初めから終わりまで行う業を人は見出すことができない（non inveniat homo opus quod operatus est Deus）」の認識論的限界が、ここでは「知恵そのもの」の不可達性として個人化される。リルケ「ドゥイノの悲歌・第1歌」の「私たちは住み慣れていない（wir sind nicht sehr zuverlässig zuhause）」という実存的不可能性との照応──求めることの本質的な不完遂性。",
+      "targetId": "rilke_duineser_elegien_01",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 28,
+      "type": "commentary",
+      "anchor": "et inveni amariorem morte mulierem, quae laqueus venatorum est, et sagena cor ejus; vincula sunt manus illius.",
+      "body": "「死よりも苦い女（amariorem morte mulierem）──彼女は狩人の罠であり、その心は網であり、その手は枷」──第7章で最も論争的な節。「mulier（女）」の解釈は広く争われてきた：①文字通りの危険な女性（「愚かさの女（mulier stultitiae）」、箴言9章の「愚かさの女人格」との並行）、②「愚かさ（stultitia）」・「罪（peccatum）」の女性名詞的人格化、③「人間の欲望一般」の象徴。「laqueus venatorum（狩人の罠）・sagena（網）・vincula（枷）」という三重の捕縛のイメージが「女」を捕食者的罠として定義する。v.29「神に喜ばれる者は逃れ、罪人は捕らわれる」という神学的区別が、「女」を道徳的試金石として機能させる。"
+    },
+    {
+      "paragraphId": 29,
+      "type": "commentary",
+      "anchor": "Virum de mille unum reperi; mulierem ex omnibus non inveni.",
+      "body": "「千人のうち一人の男を見出した──しかしすべての者の中に女は一人も見出せなかった」──v.28の「死よりも苦い女」との連続で読むと「善き・正しい女は一人も見出せなかった」という極端な女性否定として現れる。ただしこの節のヘブライ語解釈は複雑で、「男（adam）」は「人間」一般を、「女（ishshah）」は特定の女性的誘惑・愚かさを指すという読みも有力。「理（rationem）を見出すために一つまた一つと」という方法論的記述がコヘレト自身の帰納的探求の様式を露わにする──「sum-rationem（合計の理）」という普遍的知恵の探求が個別的観察の連鎖として実践されてきたことの自己記述。"
+    },
+    {
+      "paragraphId": 30,
+      "type": "commentary",
+      "anchor": "Solummodo hoc inveni, quod fecerit Deus hominem rectum, et ipse se infinitis miscuerit quaestionibus.",
+      "body": "「神は人間を真っ直ぐに造ったが、人間は自ら無限の問いに混乱した（ipse se infinitis miscuerit quaestionibus）」──第7章・そしてコヘレト全体の人間論的核心命題。「rectum（真っ直ぐ）」──ヘブライ語「יָשָׁר（yashar）」は道徳的正直さ・存在論的完全さを指す：神の創造は「善い（tob）」かつ「真っ直ぐ（yashar）」であった。しかし「ipse se（人間自ら）」が「infinitis quaestionibus（無限の問い）」に混乱した──外的な誘惑ではなく、人間自身の内発的な問いへの衝動が「混乱（miscere）」の原因として定義される。「infinitis quaestionibus（無限の問い）」──v.25「Et alta profunditas, quis inveniet eam?」の知恵の深淵が、ここでは人間自身が生み出す問いの無限連鎖として言い換えられる。コヘレト全体が「infinitae quaestiones（無限の問い）」の実践的展開であり、この最終節で自己参照的に閉じられる。マラルメ「骰子一擲」の「いかなる思考も骰子の一擲を放つ（Toute Pensée émet un Coup de Dés）」──思考が偶然性・問いを放出し続けるという命題が「infinitis miscuerit quaestionibus」の詩的等価物として読める。ヴェイユ「Dressage（訓練）」章での「神の課す試練」との対比：神は人間を真っ直ぐに造ったが、人間の「問いへの衝動」がその直線性を曲げる──ヴェイユ的「重力（pesanteur）」の人間論的定式として読める。",
+      "targetId": "mallarme_coup_de_des",
+      "targetParagraphId": 10
+    }
+  ]
+}
