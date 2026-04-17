@@ -1,0 +1,229 @@
+{
+  "id": "hieronymus_ecclesiastes_10",
+  "title": "Ecclesiastes, Caput X",
+  "author": "Eusebius Sophronius Hieronymus",
+  "source": "Biblia Sacra Vulgata, Liber Ecclesiastes (Qohelet), Caput X. Bible Gateway: https://www.biblegateway.com/passage/?search=Ecclesiastes+10&version=VULGATE",
+  "year": "Antiquitas",
+  "firstPublication": "Vulgata Latina, c. 382–405 AD（ヒエロニムス訳）",
+  "difficulty": "中級",
+  "category": "hieronymus",
+  "originalLang": "la-LA",
+  "modernRelevance": "★★★★★",
+  "context": "コヘレトの言葉（Qohelet）第10章。第9章末尾の「知恵対力・一つの罪による善の喪失」を受けて、第10章は格言の密集した実践的知恵の章として展開する。章は五つの主題群に分かれる。v.1–4：知恵と愚かさの逆転の形象──「死んだ蝿が香油壷を腐らせる（Muscae morientes perdunt suavitatem unguenti）」という冒頭の格言が「一つの罪が多くの善を滅ぼす」（第9章v.18）の具象化として機能し、「賢者の心は右に、愚者の心は左に（v.2）」・「愚者は道を歩いても誰もが愚かと分かる（v.3）」という対比の後、「支配者の怒りに対して場所を去るな（v.4）」という現実的服従の知恵が述べられる。v.5–7：社会的秩序の転倒──「愚者が高い地位に、富んだ者が低い席に（v.6）」・「奴隷が馬に乗り、貴族が徒歩で（v.7）」という逆転が「支配者の前から出る誤り（errorem egrediens a facie principis）」として批判される。v.8–11：危険と慎重の格言群──穴を掘る者・垣根を壊す者・石を動かす者・木を割る者、それぞれが自分の行為による危険に晒されるという「行為の反作用」の系列。v.12–15：言葉と愚かさ──「賢者の言葉の口は恩恵（gratia）、愚者の唇は彼を転落させる（v.12）」・「愚者は言葉を増やす（stultus verba multiplicat, v.14）」という言語論的格言。v.16–20：良い統治と悪い統治の対比──「王が子供で朝から食べる国は哀れ（v.16）」・「王が高貴で適切な時に食べる国は幸い（v.17）」、v.20「鳥があなたの言葉を運ぶ（aves caeli portabunt vocem tuam）」という警句で章が閉じられる。",
+  "keywords": [
+    "死んだ蝿と香油",
+    "右と左",
+    "社会的秩序の転倒",
+    "行為の反作用",
+    "stultus verba multiplicat",
+    "良い統治と悪い統治",
+    "aves caeli",
+    "慎重と格言",
+    "ferrum retusum",
+    "in silentio"
+  ],
+  "relatedTexts": [
+    "hieronymus_ecclesiastes_1",
+    "hieronymus_ecclesiastes_7",
+    "hieronymus_ecclesiastes_8",
+    "hieronymus_ecclesiastes_9",
+    "weil_necessite",
+    "weil_la_violence",
+    "weil_effacement",
+    "mallarme_coup_de_des",
+    "rodenbach_du_silence",
+    "baudelaire_spleen"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "verses": "v.1",
+      "original": "Muscae morientes perdunt suavitatem unguenti. Pretiosior est sapientia et gloria, parva et ad tempus stultitia.",
+      "provisionalTranslation": "死んだ蝿が香油の甘さを失わせる。知恵と栄光は価値あるものだが、わずかな一時の愚かさもそうだ。"
+    },
+    {
+      "id": 2,
+      "verses": "v.2",
+      "original": "Cor sapientis in dextera ejus, et cor stulti in sinistra illius.",
+      "provisionalTranslation": "賢者の心はその右にあり、愚者の心はその左にある。"
+    },
+    {
+      "id": 3,
+      "verses": "v.3",
+      "original": "Sed et in via stultus ambulans, cum ipse insipiens sit, omnes stultos aestimat.",
+      "provisionalTranslation": "しかし愚者は道を歩いているとき、自分が無知であるにもかかわらず、すべての者を愚かだと見なす。"
+    },
+    {
+      "id": 4,
+      "verses": "v.4",
+      "original": "Si spiritus potestatem habentis ascenderit super te, locum tuum ne demiseris, quia curatio faciet cessare peccata maxima.",
+      "provisionalTranslation": "権力を持つ者の怒りがあなたの上に昇るなら、あなたの場所を去るな。なぜなら穏やかな対応が最大の罪を収めるからだ。"
+    },
+    {
+      "id": 5,
+      "verses": "v.5",
+      "original": "Est malum quod vidi sub sole, quasi per errorem egrediens a facie principis:",
+      "provisionalTranslation": "私が太陽の下で見た悪がある──支配者の前からまるで誤りのように生じてくるものだ。"
+    },
+    {
+      "id": 6,
+      "verses": "v.6",
+      "original": "positum stultum in dignitate sublimi, et divites sedere deorsum.",
+      "provisionalTranslation": "愚者が高い地位に置かれ、富んだ者が低い席に座る。"
+    },
+    {
+      "id": 7,
+      "verses": "v.7",
+      "original": "Vidi servos in equis, et principes ambulantes super terram quasi servos.",
+      "provisionalTranslation": "私は奴隷が馬に乗り、貴族が奴隷のように地上を歩くのを見た。"
+    },
+    {
+      "id": 8,
+      "verses": "v.8",
+      "original": "Qui fodit foveam incidet in eam, et qui dissipat sepem mordebit eum coluber.",
+      "provisionalTranslation": "穴を掘る者はそこに落ちるだろう。垣根を壊す者は蛇に噛まれるだろう。"
+    },
+    {
+      "id": 9,
+      "verses": "v.9",
+      "original": "Qui transfert lapides affligetur in eis, et qui scindit ligna vulnerabitur ab eis.",
+      "provisionalTranslation": "石を運ぶ者はそれによって傷つくだろう。木を割る者はそれによって傷を受けるだろう。"
+    },
+    {
+      "id": 10,
+      "verses": "v.10",
+      "original": "Si retusum fuerit ferrum, et hoc non ut prius, sed hebetatum fuerit, multo labore exacuetur, et post industriam sequetur sapientia.",
+      "provisionalTranslation": "鉄が鈍くなり、以前のようでなく刃が鈍くなったなら、多くの労苦で研がれる。そして勤勉の後に知恵が続く。"
+    },
+    {
+      "id": 11,
+      "verses": "v.11",
+      "original": "Si mordeat serpens in silentio, nihil eo minus habet qui occulte detrahit.",
+      "provisionalTranslation": "蛇が沈黙の中で噛むなら、陰で中傷する者はそれより劣ることは何もない。"
+    },
+    {
+      "id": 12,
+      "verses": "v.12",
+      "original": "Verba oris sapientis gratia, et labia insipientis praecipitabunt eum;",
+      "provisionalTranslation": "賢者の口の言葉は恩恵であり、愚者の唇は彼を転落させるだろう。"
+    },
+    {
+      "id": 13,
+      "verses": "v.13",
+      "original": "initium verborum ejus stultitia, et novissimum oris illius error pessimus.",
+      "provisionalTranslation": "彼の言葉の始まりは愚かさであり、その口の最後は最も過酷な誤りである。"
+    },
+    {
+      "id": 14,
+      "verses": "v.14",
+      "original": "Stultus verba multiplicat. Ignorat homo quid ante se fuerit; et quid post se futurum sit, quis ei poterit indicare?",
+      "provisionalTranslation": "愚者は言葉を増やす。人間は自分の前にあったものを知らず、自分の後に何が起こるかを、誰が彼に告げることができるのか。"
+    },
+    {
+      "id": 15,
+      "verses": "v.15",
+      "original": "Labor stultorum affliget eos, qui nesciunt in urbem pergere.",
+      "provisionalTranslation": "愚者たちの労苦は彼らを苦しめるだろう──都市へ向かう道も知らない者たちを。"
+    },
+    {
+      "id": 16,
+      "verses": "v.16",
+      "original": "Vae tibi, terra, cujus rex puer est, et cujus principes mane comedunt.",
+      "provisionalTranslation": "哀れだ、汝の国よ──その王が子供で、貴族たちが朝から食べる国よ。"
+    },
+    {
+      "id": 17,
+      "verses": "v.17",
+      "original": "Beata terra cujus rex nobilis est, et cujus principes vescuntur in tempore suo, ad reficiendum, et non ad luxuriam.",
+      "provisionalTranslation": "幸いだ、その王が高貴で、貴族たちが適切な時に、贅沢のためでなく体を養うために食べる国よ。"
+    },
+    {
+      "id": 18,
+      "verses": "v.18",
+      "original": "In pigritiis humiliabitur contignatio, et in infirmitate manuum perstillabit domus.",
+      "provisionalTranslation": "怠惰の中で梁は沈み、手の弱さの中で家は雨漏りする。"
+    },
+    {
+      "id": 19,
+      "verses": "v.19",
+      "original": "In risum faciunt panem et vinum ut epulentur viventes; et pecuniae obediunt omnia.",
+      "provisionalTranslation": "笑いのためにパンを作り、生きている者が宴を開くためにぶどう酒を作る。そしてすべては金に従う。"
+    },
+    {
+      "id": 20,
+      "verses": "v.20",
+      "original": "In cogitatione tua regi ne detrahas, et in secreto cubiculi tui ne maledixeris diviti: quia et aves caeli portabunt vocem tuam, et qui habet pennas annuntiabit sententiam.",
+      "provisionalTranslation": "心の中で王を中傷するな。寝室の秘密の中で富んだ者を呪うな。なぜなら空の鳥があなたの声を運び、翼を持つ者があなたの言葉を告げるだろうから。"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "glossary",
+      "anchor": "Muscae morientes perdunt suavitatem unguenti. Pretiosior est sapientia et gloria, parva et ad tempus stultitia.",
+      "body": "「死んだ蝿が香油の甘さを失わせる」──第9章v.18「一つの罪を犯した者は多くの善を失う（qui in uno peccaverit, multa bona perdet）」の具象化として章冒頭に置かれる格言。「Muscae morientes（死にかけの蝿）」が「unguenti suavitatem（香油の甘さ）」を損なう──微細な混入物が全体の価値を破壊する構造。「Pretiosior est sapientia et gloria（知恵と栄光は価値あるもの）」という主文の後に「parva et ad tempus stultitia（わずかな一時の愚かさもそうだ）」という付加句が逆説を生む：ヴルガータのこの訳は「知恵と栄光は価値あるが、わずかな愚かさがそれを損なう」という読みと「一時の愚かさにも価値がある」という読みの双方を許容する曖昧さを持つ。ヘブライ語原典は「一時の愚かさが知恵と栄光より重い」という意味で前者の読みが妥当。第5章v.1「言葉は少なくあれ（sint pauci sermones tui）」との照応：微細な言語的・行為的愚かさが全体の知恵を腐敗させる。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "Cor sapientis in dextera ejus, et cor stulti in sinistra illius.",
+      "body": "「賢者の心は右に、愚者の心は左に」──「dextera（右）」と「sinistra（左）」という方位の対立が知恵と愚かさを空間的に定式化する。古代文化において「右」は吉祥・有利・正しい方向、「左」は不吉・不利・誤った方向という価値位階が普遍的に存在する（ラテン語「sinister」自体が「不吉な」を意味するように変化した）。「心の位置」という比喩は単なる方向ではなく志向性・傾向性として機能する：賢者の心は正しい方向に向かって傾いており、愚者の心は誤った方向に傾いている。第7章v.29「神は人間を真っ直ぐに造ったが、人間は無限の問いに混乱した（ipse se infinitis miscuerit quaestionibus）」という「直線からの逸脱」が、ここでは「左への逸脱」として空間化される。"
+    },
+    {
+      "paragraphId": 4,
+      "type": "commentary",
+      "anchor": "Si spiritus potestatem habentis ascenderit super te, locum tuum ne demiseris, quia curatio faciet cessare peccata maxima.",
+      "body": "「権力を持つ者の怒りがあなたの上に昇るなら、場所を去るな──穏やかな対応が最大の罪を収める」──第8章v.2–4の「王の命令に服従せよ」という服従論が、ここでは「怒った権力者の前でも逃げずに穏やかに応じる」という実践的知恵として具体化される。「curatio（治療・穏やかな対応）」という語が権力関係を医学的メタファーで捉える：怒りという「病」に対して「治療（curatio）」としての穏和な応答が「最大の罪（peccata maxima）」を「cessare（止める）」。ヴェイユ「La Violence」章での「力に対する非暴力的応答」との照応──支配者の暴力的怒りに対して場所を去らず穏やかに留まることが、力の連鎖を断ち切る可能性として読める。",
+      "targetId": "weil_la_violence",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 6,
+      "type": "commentary",
+      "anchor": "positum stultum in dignitate sublimi, et divites sedere deorsum.",
+      "body": "「愚者が高い地位に置かれ、富んだ者が低い席に座る」──第4章v.13「貧しくとも知恵ある少年が老いて愚かな王よりも良い」という知恵と権力の逆比例の主題が、ここでは社会的秩序の実際の転倒として観察される。「quasi per errorem egrediens a facie principis（支配者の前からまるで誤りのように生じてくる）」──この転倒が「errorem（誤り）」として括弧に入れられるが、その誤りが「支配者の前から（a facie principis）」生じるという逆説：権力の座から誤りが発生する。第5章v.7–8「権力の無限連鎖と不正の観察」・第8章v.9「人間が人間を自分の害のために支配する（dominatur homo homini in malum suum）」の主題との連続。"
+    },
+    {
+      "paragraphId": 8,
+      "type": "prosody",
+      "anchor": "Qui fodit foveam incidet in eam, et qui dissipat sepem mordebit eum coluber.",
+      "body": "v.8–9の「行為の反作用」格言群。四つの格言が並行構造をなす：「穴を掘る者→穴に落ちる」・「垣根を壊す者→蛇に噛まれる」・「石を運ぶ者→石に傷つく」・「木を割る者→木に傷を受ける」。格言の論理：危険な行為はその行為者に跳ね返る──「自業自得」の聖書的定式。「qui…incidet / mordebit / affligetur / vulnerabitur」という動詞の時制（未来形）が格言の普遍的必然性を示す：必ず起こる、という断定。第9章v.12「魚が釣り針に、鳥が罠に捕らえられるように」の「予期しない危険」と対置される：こちらは自分の行為が招く予測可能な危険。箴言26:27「穴を掘る者は自分が落ちる（Qui fodit foveam, incidet in eam）」との並行──コヘレトが箴言の格言伝統を継承する。"
+    },
+    {
+      "paragraphId": 10,
+      "type": "commentary",
+      "anchor": "Si retusum fuerit ferrum, et hoc non ut prius, sed hebetatum fuerit, multo labore exacuetur, et post industriam sequetur sapientia.",
+      "body": "「鉄が鈍くなったなら、多くの労苦で研がれる──そして勤勉の後に知恵が続く」──v.8–9の「行為の反作用」格言群から「準備と技術の重要性」格言へと転換する節。「retusum / hebetatum（鈍くなった・刃が鈍くなった）」という受動態が道具の自然な摩耗を示し、「multo labore exacuetur（多くの労苦で研がれる）」という能動的修復が続く。「post industriam sequetur sapientia（勤勉の後に知恵が続く）」──知恵が「努力の結果」として提示される：第7章v.24「知恵はさらに遠ざかった」という知恵の逃避的性格との緊張──そこでは追求が知恵を遠ざけたが、ここでは勤勉が知恵をもたらす。この矛盾はコヘレトの思想的揺れ（実用的知恵論と認識論的絶望の間の振動）の一形象。"
+    },
+    {
+      "paragraphId": 11,
+      "type": "commentary",
+      "anchor": "Si mordeat serpens in silentio, nihil eo minus habet qui occulte detrahit.",
+      "body": "「蛇が沈黙の中で噛むなら、陰で中傷する者はそれより劣ることは何もない」──「in silentio（沈黙の中で）」という語が第9章v.17「知恵ある者の言葉は沈黙の中で聴かれる（verba sapientium audiuntur in silentio）」の肯定的「沈黙」とは対照的な否定的「沈黙」として機能する：沈黙が知恵の受容の場（第9章）であると同時に、沈黙の中の中傷（occulte detrahere）という危険の場（第10章）でもある。「serpens（蛇）」──第9章v.13の「蛇が罠に捕らえる」・第7章v.26「彼女の心は網（sagena cor ejus）」の捕縛イメージと連続しながら、ここでは「silent bite（沈黙の噛みつき）」という内側からの危険として現れる。"
+    },
+    {
+      "paragraphId": 14,
+      "type": "commentary",
+      "anchor": "Stultus verba multiplicat. Ignorat homo quid ante se fuerit; et quid post se futurum sit, quis ei poterit indicare?",
+      "body": "「愚者は言葉を増やす──人間は自分の前にあったものを知らず、自分の後に何が起こるかを誰が告げられるのか」──「stultus verba multiplicat（愚者は言葉を増やす）」という格言が、第6章v.11「言葉は多く、議論に多くの虚無がある（Verba sunt plurima, multamque in disputando habentia vanitatem）」・第5章v.1「言葉は少なくあれ（sint pauci sermones tui）」の言語批判の系列に加わる。そして即座に「Ignorat homo quid ante se fuerit（人間は自分の前にあったものを知らない）」という認識論的限界が附加される──言葉の過剰増殖が過去と未来の不知という認識論的空虚の上に置かれる：無知が弁舌を生む、という逆説。第1章v.9–11「新しいものは何もない・記憶はない」の主題との照応。"
+    },
+    {
+      "paragraphId": 16,
+      "type": "commentary",
+      "anchor": "Vae tibi, terra, cujus rex puer est, et cujus principes mane comedunt.",
+      "body": "「哀れだ、汝の国よ──その王が子供で、貴族たちが朝から食べる国よ」──「Vae tibi（汝に禍あれ）」という預言書的嘆きの定式が政治論的文脈で使用される。「rex puer（子供の王）」──第4章v.13の「老いて愚かな王」と対称をなす：少年の王は経験と判断力を欠く。「principes mane comedunt（貴族たちが朝から食べる）」──「朝食（mane comedere）」が節制なき享楽の象徴として機能する：第9章v.7「喜びとともにパンを食べよ（Vade et comede in laetitia panem tuum）」という推奨される享受との対比として、「適切な時（in tempore suo）」の外での食事が国家的悪として定義される。v.17「適切な時に食べる（vescuntur in tempore suo）」との対句的対比が第3章の「時（tempus）」主題の政治的応用として機能する。"
+    },
+    {
+      "paragraphId": 19,
+      "type": "commentary",
+      "anchor": "In risum faciunt panem et vinum ut epulentur viventes; et pecuniae obediunt omnia.",
+      "body": "「笑いのためにパンを作り、生きている者が宴を開くためにぶどう酒を作る──そしてすべては金に従う」──v.17「体を養うため・贅沢のためではない（ad reficiendum, et non ad luxuriam）」という節制ある食事から、ここでは「笑いのため（in risum）」という享楽的食事へと転換する。「et pecuniae obediunt omnia（すべては金に従う）」──第5章v.9「貪欲な者は金で満たされない（Avarus non implebitur pecunia）」という富の不飽和性が、ここでは「金への服従」という普遍的社会的事実として確認される：すべての社会関係が最終的に金銭関係に従属するという鋭い観察。"
+    },
+    {
+      "paragraphId": 20,
+      "type": "commentary",
+      "anchor": "quia et aves caeli portabunt vocem tuam, et qui habet pennas annuntiabit sententiam.",
+      "body": "「空の鳥があなたの声を運び、翼を持つ者があなたの言葉を告げるだろう」──第10章・そして第10章全体の「言葉と権力」主題の締め括り。「aves caeli portabunt vocem tuam（空の鳥があなたの声を運ぶ）」──格言的・神話的形象が言語的秘密の保持不可能性を提示する：寝室の密かな言葉（in secreto cubiculi）でさえ、鳥によって伝播される。「qui habet pennas（翼を持つ者）」──天使的・使者的存在としての鳥の機能、あるいは単に「鳥」の換喩的反復。現代語「a little bird told me（小鳥が教えてくれた）」という慣用句の聖書的源泉として広く引用される節。第5章v.1「神の前では言葉は少なくあれ」・第9章v.17「知恵ある者の言葉は沈黙の中で聴かれる」の言語論的主題が、「言葉の不可制御的伝播」という反面として章全体を閉じる。"
+    }
+  ]
+}
