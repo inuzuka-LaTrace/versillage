@@ -1,0 +1,166 @@
+{
+  "id": "hieronymus_ecclesiastes_11",
+  "title": "Ecclesiastes, Caput XI",
+  "author": "Eusebius Sophronius Hieronymus",
+  "source": "Biblia Sacra Vulgata, Liber Ecclesiastes (Qohelet), Caput XI. Bible Gateway: https://www.biblegateway.com/passage/?search=Ecclesiastes+11&version=VULGATE",
+  "year": "Antiquitas",
+  "firstPublication": "Vulgata Latina, c. 382–405 AD（ヒエロニムス訳）",
+  "difficulty": "中級",
+  "category": "hieronymus",
+  "originalLang": "la-LA",
+  "modernRelevance": "★★★★★",
+  "context": "コヘレトの言葉（Qohelet）第11章。章は二つのブロックに分かれる。v.1–6：不確実性の中での行動の倫理──「水の上にパンを投げよ（Mitte panem tuum super transeuntes aquas）」という冒頭の格言から始まる「不確実性の中でも行動せよ」という実践的知恵の系列。「風を観察する者は種を蒔かない・雲を見続ける者は決して刈り取らない（v.4）」という過度な慎重への批判、「霊の道を知らないように神の業を知らない（v.5）」という認識論的謙遜、「朝も種を蒔き夕べも手を休めるな（v.6）」という持続的行動の勧め。v.7–10：光と若さの享受、そして「虚無」──「光は甘く、太陽を見ることは目に喜ばしい（v.7）」という生の喜びの肯定から、「多くの年を生きても暗い時を覚えておくべき（v.8）」という死への記憶の保持、v.9「若者よ、若さに喜べ──しかし神があなたをすべてのことについて裁きに連れて行くことを知れ」という喜びと審判の緊張、章末v.10「若さと快楽は虚無である（adolescentia enim et voluptas vana sunt）」という最終的な「vanitas」の確認で締め括られる。第12章の「老いと死の詩」への直接的な橋渡しとして機能する章。",
+  "keywords": [
+    "水の上のパン",
+    "不確実性と行動",
+    "風と雲の観察",
+    "spiritus",
+    "神の業の不知",
+    "光は甘い",
+    "若さの享受",
+    "暗い時の記憶",
+    "adolescentia vana",
+    "審判"
+  ],
+  "relatedTexts": [
+    "hieronymus_ecclesiastes_1",
+    "hieronymus_ecclesiastes_3",
+    "hieronymus_ecclesiastes_5",
+    "hieronymus_ecclesiastes_8",
+    "hieronymus_ecclesiastes_9",
+    "hieronymus_ecclesiastes_10",
+    "hieronymus_ecclesiastes_12",
+    "weil_accepter_le_vide",
+    "weil_necessite",
+    "weil_decreation",
+    "juan_de_la_cruz_noche_oscura",
+    "mallarme_coup_de_des",
+    "baudelaire_horloge",
+    "rilke_duineser_elegien_01",
+    "hofmannsthal_terzinen"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "verses": "v.1",
+      "original": "Mitte panem tuum super transeuntes aquas, quia post tempora multa invenies illum.",
+      "provisionalTranslation": "あなたのパンを流れる水の上に投げよ。多くの時の後にそれを見つけるだろうから。"
+    },
+    {
+      "id": 2,
+      "verses": "v.2",
+      "original": "Da partem septem necnon et octo, quia ignoras quid futurum sit mali super terram.",
+      "provisionalTranslation": "七人にも、また八人にも分け与えよ。地上に何の悪が起こるかを知らないのだから。"
+    },
+    {
+      "id": 3,
+      "verses": "v.3",
+      "original": "Si repletae fuerint nubes, imbrem super terram effundent. Si ceciderit lignum ad austrum aut ad aquilonem, in quocumque loco ceciderit, ibi erit.",
+      "provisionalTranslation": "雲が満ちれば、地の上に雨を降らせるだろう。木が南に倒れようと北に倒れようと、倒れたその場所にそれはあるだろう。"
+    },
+    {
+      "id": 4,
+      "verses": "v.4",
+      "original": "Qui observat ventum non seminat; et qui considerat nubes numquam metet.",
+      "provisionalTranslation": "風を観察する者は種を蒔かない。雲を見続ける者は決して刈り取らない。"
+    },
+    {
+      "id": 5,
+      "verses": "v.5",
+      "original": "Quomodo ignoras quae sit via spiritus, et qua ratione compingantur ossa in ventre praegnantis, sic nescis opera Dei, qui fabricator est omnium.",
+      "provisionalTranslation": "霊の道がいかなるものかを知らないように、また妊娠した者の胎内で骨がいかにして形成されるかを知らないように、そのようにあなたはすべてを造った神の業を知らない。"
+    },
+    {
+      "id": 6,
+      "verses": "v.6",
+      "original": "Mane semina semen tuum, et vespere ne cesset manus tua: quia nescis quid magis oriatur, hoc aut illud; et si utrumque simul, melius erit.",
+      "provisionalTranslation": "朝に種を蒔け。夕べも手を休めるな。なぜならこちらとあちら、どちらがより多く育つかを知らないのだから。両方が同時に育てば、さらに良いだろう。"
+    },
+    {
+      "id": 7,
+      "verses": "v.7",
+      "original": "Dulce lumen, et delectabile est oculis videre solem.",
+      "provisionalTranslation": "光は甘く、太陽を見ることは目に喜ばしい。"
+    },
+    {
+      "id": 8,
+      "verses": "v.8",
+      "original": "Si annis multis vixerit homo, et in his omnibus laetatus fuerit, meminisse debet tenebrosi temporis, et dierum multorum, qui cum venerint, vanitatis arguentur praeterita.",
+      "provisionalTranslation": "人が多くの年を生き、そのすべてにおいて喜んだなら、暗い時を、多くの日々を覚えておくべきだ──それらが来たとき、過ぎ去ったことは虚無として証明されるのだから。"
+    },
+    {
+      "id": 9,
+      "verses": "v.9",
+      "original": "Laetare ergo, juvenis, in adolescentia tua, et in bono sit cor tuum in diebus juventutis tuae: et ambula in viis cordis tui, et in intuitu oculorum tuorum, et scito quod pro omnibus his adducet te Deus in judicium.",
+      "provisionalTranslation": "それゆえ、若者よ、あなたの若さに喜べ。あなたの若い日々において心を善きことに向けよ。心の望む道を歩き、目の見るものに従え。しかしこれらすべてのことについて神があなたを裁きに連れて行くことを知れ。"
+    },
+    {
+      "id": 10,
+      "verses": "v.10",
+      "original": "Aufer iram a corde tuo, et amove malitiam a carne tua: adolescentia enim et voluptas vana sunt.",
+      "provisionalTranslation": "怒りを心から取り除け。悪意を肉体から遠ざけよ。なぜなら若さと快楽は虚無だから。"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "glossary",
+      "anchor": "Mitte panem tuum super transeuntes aquas, quia post tempora multa invenies illum.",
+      "body": "「水の上にパンを投げよ──多くの時の後にそれを見つけるだろう」──コヘレト全体で最も解釈が多様な格言の一つ。伝統的解釈：①慈善の行為（施し）は後に報われる、②海上貿易への投資──遠方に商品を送り出し後に利益を得る、③農業的比喩──洪水後の沖積地に種を蒔く行為。「post tempora multa（多くの時の後に）」という時間的遅延が重要：即座の見返りを期待しない行為として定義される。不確実性の中での行動という章の主題を最も圧縮した形で提示する格言。ヴェイユ「Accepter le vide」§1「恩寵が入れるのはそれを受け取る空虚がある場所だけ──その空虚を作るのも恩寵」との照応：「水の上に投げること」が「何も確実でない場所への放棄的行為」として、空虚への投棄として読める。"
+    },
+    {
+      "paragraphId": 4,
+      "type": "commentary",
+      "anchor": "Qui observat ventum non seminat; et qui considerat nubes numquam metet.",
+      "body": "「風を観察する者は種を蒔かない──雲を見続ける者は決して刈り取らない」──章の実践的倫理の核心。第8章v.7「未来を知る者はいない（futura nullo scire potest nuntio）」という認識論的限界が、ここでは「だから行動をやめるな」という実践的命令として転換される。「観察（observare / considerare）」という知的活動そのものが行動の妨げとして批判される──完全な情報を待って行動することの不可能性・有害性。マラルメ「骰子一擲」の逆説的照応：マラルメの詩人が「嵐の海で骰子を投げる決断」（あるいはその放棄）に直面するのに対し、コヘレトは「嵐の兆候を見ても種を蒔け」と命じる──偶然に向き合いながら行動するという構造。",
+      "targetId": "mallarme_coup_de_des",
+      "targetParagraphId": 3
+    },
+    {
+      "paragraphId": 5,
+      "type": "commentary",
+      "anchor": "Quomodo ignoras quae sit via spiritus, et qua ratione compingantur ossa in ventre praegnantis, sic nescis opera Dei, qui fabricator est omnium.",
+      "body": "「霊の道を知らないように、胎内で骨が形成されることを知らないように、神の業を知らない」──第3章v.21「アダムの子らの霊が上昇するかどうか誰が知るのか（Quis novit si spiritus filiorum Adam ascendat sursum）」・第8章v.17「神の業の理を人は見出せない（nullam possit homo invenire rationem）」の認識論的限界が、「霊の道（via spiritus）」と「胎内の骨の形成（ossa in ventre praegnantis）」という二つの自然的神秘の無知を類比として提示する。「spiritus（霊・風）」の二義性──v.4の「ventum（風）」・v.5の「spiritus（霊）」が同一語根を持ち、「風の道（via venti）」と「霊の道（via spiritus）」が重なる：人間は風の行方も霊の行方も知らない。第3章v.21の「spiritus」問題の継続として読める。リルケ「ドゥイーノ悲歌・第1歌」の「被造物の業が生まれる場所を人は見られない」という創造論的不可知性との照応。",
+      "targetId": "rilke_duineser_elegien_01",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 6,
+      "type": "commentary",
+      "anchor": "Mane semina semen tuum, et vespere ne cesset manus tua: quia nescis quid magis oriatur, hoc aut illud; et si utrumque simul, melius erit.",
+      "body": "「朝に種を蒔け、夕べも手を休めるな──どちらが育つかを知らないのだから、両方が育てばさらに良い」──v.4の「観察して動けなくなるな」への実践的解決として提示される行動の倫理。「Mane…et vespere（朝…夕べ）」という時間的全体性──一日の全時間にわたる持続的行為が「知らない」という不確実性への応答として定式化される。「si utrumque simul, melius erit（両方が同時に育てばさらに良い）」──「melius（より良い）」という比較級が第7章の「melius est格言」系列（死の日・嘆きの家・知恵ある叱責）の響きを持ちながら、ここでは実践的楽観主義の文脈で使われる：どちらが育つか分からないなら両方蒔けという複数性の論理。ヴェイユ「Dressage（訓練）」章の「今この行為に全力を尽くす」という倫理との照応。",
+      "targetId": "weil_dressage",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 7,
+      "type": "commentary",
+      "anchor": "Dulce lumen, et delectabile est oculis videre solem.",
+      "body": "「光は甘く（dulce lumen）、太陽を見ることは目に喜ばしい」──章の転換点として、v.1–6の実践的行動論からv.7–10の享受・記憶・審判の主題へと移行する。最も短い節の一つでありながら、その感嘆的簡潔さが際立つ：「dulce（甘い）」という味覚的形容が視覚的対象（lumen・sol）に転用される共感覚的表現。「sub sole（太陽の下）」という第1章以来の反復句が「solem videre（太陽を見る）」という直接的な視覚的喜びへと収縮する──「太陽の下での虚無」という否定的文脈から「太陽を見ることの喜び」という肯定的文脈への転換。ヴァレリー「水の精（Le Sylphe）」での「光・純粋な現象」への詩的接近との照応。ホフマンスタール「前春（Vorfrühling）」での感覚的世界の甘美な一瞬の把握とのモチーフ的共鳴。"
+    },
+    {
+      "paragraphId": 8,
+      "type": "commentary",
+      "anchor": "meminisse debet tenebrosi temporis, et dierum multorum, qui cum venerint, vanitatis arguentur praeterita.",
+      "body": "「暗い時を、多くの日々を覚えておくべきだ──それらが来たとき、過ぎ去ったことは虚無として証明される」──「光の喜び（v.7）」と「暗い時の記憶（v.8）」という対極が章の弁証法的中核を形成する。「meminisse debet（覚えておくべきだ）」──第1章v.11「記憶はない（non est memoria）」・第6章v.4「名が忘却によって消される（oblivione delebitur nomen）」という反復する「忘却」主題に対して、ここでは「忘却への抵抗としての記憶の義務」が提示される：享受の喜びの中でも「暗い時（tempus tenebrosum）」を能動的に記憶すること。「vanitatis arguentur praeterita（過ぎ去ったことは虚無として証明される）」──過去が遡及的に「vanitas」として確認される：享受の時でさえ、それが過ぎ去った後には虚無として顕れる。ボードレール「時計（L'Horloge）」での過去の遡及的喪失の脅迫との照応。",
+      "targetId": "baudelaire_horloge",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 9,
+      "type": "commentary",
+      "anchor": "Laetare ergo, juvenis, in adolescentia tua, et in bono sit cor tuum in diebus juventutis tuae: et ambula in viis cordis tui, et in intuitu oculorum tuorum, et scito quod pro omnibus his adducet te Deus in judicium.",
+      "body": "「若者よ、若さに喜べ──しかしこれらすべてのことについて神があなたを裁きに連れて行くことを知れ」──第9章v.7「行け、喜びとともにパンを食べよ（Vade ergo, et comede in laetitia）」の命令形の享受への招きが、ここでは「juvenis（若者）」という受取人の特定とともに再演される。「et ambula in viis cordis tui, et in intuitu oculorum tuorum（心の望む道を歩き、目の見るものに従え）」──感覚・欲望への肯定が最大化される。しかし「et scito（しかし知れ）」という逆接の命令形が「judicium（裁き）」という神学的留保を即座に附加する：享受の招きと審判の予告が単一文の中で共存する緊張が、コヘレトの倫理の最も典型的な形として現れる。ヨハネの十字架「noche oscura」の「magis quam el alborada（夜明けよりも愛おしい夜）」──若さの喜びの最大化と「暗い時の記憶（v.8）」が、ヨハネの「暗夜の逆説（暗くて幸いな夜）」と対称的な構造を持つ。",
+      "targetId": "juan_de_la_cruz_noche_oscura",
+      "targetParagraphId": 5
+    },
+    {
+      "paragraphId": 10,
+      "type": "commentary",
+      "anchor": "adolescentia enim et voluptas vana sunt.",
+      "body": "「若さと快楽は虚無である（adolescentia enim et voluptas vana sunt）」──第11章の結語にして第12章への直接の橋渡し。「adolescentia（若さ）」と「voluptas（快楽）」という、v.9で最大限に肯定されたものが即座に「vana（虚無）」として確認される──第11章全体の弁証法的運動（不確実性の中での行動→光の喜び→暗い時の記憶→若さへの享受→審判の予告）が最終的に「vana」という一語へと収束する。第1章v.2「vanitas vanitatum, et omnia vanitas」の書出し定式が、ここでは「adolescentia et voluptas」という具体的対象を持って反復される：人生の最も生き生きとした時期（若さ）と最も強烈な感覚（快楽）でさえ「vana」として括弧に入れられる。「Aufer iram a corde tuo, et amove malitiam a carne tua（怒りを心から、悪意を肉体から）」という否定的命令が「vanitas」の実践的帰結として前置される──「虚無ゆえに怒るな・悪意を持つな」。ホフマンスタール「テルツィーネン」での若い世代の消滅への悲哀と、リルケ「ドゥイーノ悲歌・第1歌」の「美は恐ろしさの始まり」という若さと美の脆弱性との照応。",
+      "targetId": "hofmannsthal_terzinen",
+      "targetParagraphId": null
+    }
+  ]
+}
