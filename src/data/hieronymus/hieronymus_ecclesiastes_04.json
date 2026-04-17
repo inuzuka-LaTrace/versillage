@@ -1,0 +1,212 @@
+{
+  "id": "hieronymus_ecclesiastes_4",
+  "title": "Ecclesiastes, Caput IV",
+  "author": "Hieronymus",
+  "source": "Biblia Sacra Vulgata, Liber Ecclesiastes (Qohelet), Caput IV. Bible Gateway: https://www.biblegateway.com/passage/?search=Ecclesiastes+4&version=VULGATE",
+  "year": "Antiquitas",
+  "firstPublication": "Vulgata Latina, c. 382–405 AD（ヒエロニムス訳）",
+  "difficulty": "中級",
+  "category": "hieronymus",
+  "originalLang": "la-LA",
+  "modernRelevance": "★★★★★",
+  "context": "コヘレトの言葉（Qohelet）第4章。前章の宇宙論的・人間論的考察から、より社会的・実存的な次元へと転換する。v.1–3の「未生者の祝福」──圧迫と暴力を目撃したコヘレトが「まだ生まれていない者が最も幸福だ」と宣言する逆説──は西洋ニヒリズム文学の重要な先行形。v.4では労苦の動機が「隣人への嫉妬（invidia proximi）」に還元され、v.5–6では「怠惰な愚者」対「労苦する賢者」の通念的対立が「一握りの安息」と「両手分の労苦」の対比によって転換される。v.7–12の「孤独と共同体」論は章の中心的主題──「二人でいることの益（emolumentum societatis）」を「倒れたとき・寒いとき・敵に攻められるとき」という三つの実存的場面で論証し、「三つ縒りの縄は切れにくい（funiculus triplex difficile rumpitur）」という格言で締める。v.13–16は権力と世代交代の虚無を描き、章末v.17では神の家に入る際の「聞くこと（audire）」の優越──「従順は愚者の生贄に勝る（melior est obedientia quam stultorum victimae）」──で締め括られる。",
+  "keywords": [
+    "未生者の祝福",
+    "圧迫",
+    "嫉妬",
+    "孤独と連帯",
+    "funiculus triplex",
+    "労苦と安息",
+    "世代の忘却",
+    "obedientia",
+    "権力の虚無",
+    "社会的虚無"
+  ],
+  "relatedTexts": [
+    "hieronymus_ecclesiastes_1",
+    "hieronymus_ecclesiastes_2",
+    "hieronymus_ecclesiastes_3",
+    "weil_accepter_le_vide",
+    "weil_la_violence",
+    "weil_necessite",
+    "weil_decreation",
+    "baudelaire_spleen",
+    "rodenbach_loubli",
+    "rodenbach_les_femmes_tristes",
+    "trakl_de_profundis"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "verses": "v.1",
+      "original": "Verti me ad alia, et vidi calumnias quae sub sole geruntur, et lacrimas innocentium, et neminem consolatorem, nec posse resistere eorum violentiae, cunctorum auxilio destitutos,",
+      "provisionalTranslation": "私は他のことへと向いた。そして太陽の下で行われる圧迫を見た──無実の者たちの涙を。慰める者は誰もおらず、彼らを圧迫する者の暴力に抵抗することもできず、すべての助けから見捨てられていた。"
+    },
+    {
+      "id": 2,
+      "verses": "v.2",
+      "original": "et laudavi magis mortuos quam viventes;",
+      "provisionalTranslation": "そして私は生きている者よりも死んだ者を、より幸福だと称えた。"
+    },
+    {
+      "id": 3,
+      "verses": "v.3",
+      "original": "et feliciorem utroque judicavi qui necdum natus est, nec vidit mala quae sub sole fiunt.",
+      "provisionalTranslation": "そして両者よりもさらに幸福だと私は判断した──まだ生まれておらず、太陽の下で行われる悪を見ていない者を。"
+    },
+    {
+      "id": 4,
+      "verses": "v.4",
+      "original": "Rursum contemplatus sum omnes labores hominum, et industrias animadverti patere invidiae proximi; et in hoc ergo vanitas et cura superflua est.",
+      "provisionalTranslation": "私は再び人間のすべての労苦と勤勉を観察した。そしてそれが隣人への嫉妬に開かれていることに気づいた。これもまた虚無であり、余分な心配である。"
+    },
+    {
+      "id": 5,
+      "verses": "v.5",
+      "original": "Stultus complicat manus suas, et comedit carnes suas, dicens:",
+      "provisionalTranslation": "愚者は両手を組み、自分の肉を食べながらこう言う。"
+    },
+    {
+      "id": 6,
+      "verses": "v.6",
+      "original": "Melior est pugillus cum requie, quam plena utraque manus cum labore et afflictione animi.",
+      "provisionalTranslation": "「安息とともにある一握りの方が、労苦と魂の苦悩とともにある両手いっぱいよりも良い。」"
+    },
+    {
+      "id": 7,
+      "verses": "v.7",
+      "original": "Considerans, reperi et aliam vanitatem sub sole.",
+      "provisionalTranslation": "考察しながら、私は太陽の下にさらに別の虚無を見出した。"
+    },
+    {
+      "id": 8,
+      "verses": "v.8",
+      "original": "Unus est, et secundum non habet, non filium, non fratrem, et tamen laborare non cessat, nec satiantur oculi ejus divitiis; nec recogitat, dicens: Cui laboro, et fraudo animam meam bonis? In hoc quoque vanitas est et afflictio pessima.",
+      "provisionalTranslation": "ある者は一人で、二番目の者を持たない──息子も兄弟も持たない。それでも労することをやめず、目は富に飽くことがない。「誰のために私は働き、自分の魂を善きものから奪っているのか」とも考えない。これもまた虚無であり、最も過酷な苦悩である。"
+    },
+    {
+      "id": 9,
+      "verses": "v.9",
+      "original": "Melius est ergo duos esse simul quam unum; habent enim emolumentum societatis suae.",
+      "provisionalTranslation": "したがって二人でいる方が一人よりも良い。なぜなら彼らは共同体の益を得るから。"
+    },
+    {
+      "id": 10,
+      "verses": "v.10",
+      "original": "Si unus ceciderit, ab altero fulcietur. Vae soli, quia cum ceciderit, non habet sublevantem se.",
+      "provisionalTranslation": "一人が倒れれば、もう一人によって支えられる。一人の者は哀れだ──倒れても自分を起こしてくれる者がいないのだから。"
+    },
+    {
+      "id": 11,
+      "verses": "v.11",
+      "original": "Et si dormierint duo, fovebuntur mutuo; unus quomodo calefiet?",
+      "provisionalTranslation": "二人が眠れば、互いに温め合う。一人でどうして温まれるだろうか。"
+    },
+    {
+      "id": 12,
+      "verses": "v.12",
+      "original": "Et si quispiam praevaluerit contra unum, duo resistunt ei; funiculus triplex difficile rumpitur.",
+      "provisionalTranslation": "もし誰かが一人に勝っても、二人はそれに抵抗できる。三つ縒りの縄は切れにくい。"
+    },
+    {
+      "id": 13,
+      "verses": "v.13",
+      "original": "Melior est puer pauper et sapiens, rege sene et stulto, qui nescit praevidere in posterum.",
+      "provisionalTranslation": "貧しくとも知恵ある少年の方が、老いて愚かな王よりも良い──将来を見通すことを知らない王よりも。"
+    },
+    {
+      "id": 14,
+      "verses": "v.14",
+      "original": "Quod de carcere catenisque interdum quis egrediatur ad regnum; et alius, natus in regno, inopia consumatur.",
+      "provisionalTranslation": "ある者は牢獄と鎖から王国へと出ることもある。また別の者は王国に生まれながら、貧困によって滅びることもある。"
+    },
+    {
+      "id": 15,
+      "verses": "v.15",
+      "original": "Vidi cunctos viventes qui ambulant sub sole cum adolescente secundo, qui consurget pro eo.",
+      "provisionalTranslation": "私は太陽の下を歩くすべての生きている者を見た──彼に代わって立ち上がるであろう二番目の若者とともに。"
+    },
+    {
+      "id": 16,
+      "verses": "v.16",
+      "original": "Infinitus numerus est populi omnium qui fuerunt ante eum, et qui postea futuri sunt non laetabuntur in eo; sed et hoc vanitas et afflictio spiritus.",
+      "provisionalTranslation": "彼の前にいた者すべての民の数は無限であり、後に来る者たちも彼において喜ばないだろう。これもまた虚無であり霊の苦悩である。"
+    },
+    {
+      "id": 17,
+      "verses": "v.17",
+      "original": "Custodi pedem tuum ingrediens domum Dei, et appropinqua ut audias. Multo enim melior est obedientia quam stultorum victimae, qui nesciunt quid faciunt mali.",
+      "provisionalTranslation": "神の家に入るとき、あなたの足を守れ。聞くために近づけ。愚者の生贄よりも、従順の方がはるかに良い──彼らは自分が何という悪をしているかを知らないのだから。"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "vidi calumnias quae sub sole geruntur, et lacrimas innocentium, et neminem consolatorem",
+      "body": "「無実の者たちの涙を──慰める者は誰もおらず」──「neminem consolatorem（慰める者は誰もいない）」という否定的孤立の定式が第4章全体の情緒的基調を設定する。第2章の快楽・知恵の個人的試みから、ここでは社会的暴力の目撃へと観察の視座が転換する。「lacrimas innocentium（無実の者の涙）」──ヴェイユ「La Violence（暴力）」章での「affliction（苦悩）」の社会的次元：afflictionは個人の精神的経験ではなく、社会的力学による人格の破壊として定義される。コヘレトの「慰める者なき涙」はヴェイユの「afflictionが生み出す絶対的孤立」の聖書的先行形として読める。トラークル「深みより（De Profundis）」の「誰も知らない荒野の道（Niemand kennt diesen dunklen Weg）」との照応──救済の不在という実存的孤立。",
+      "targetId": "weil_la_violence",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "feliciorem utroque judicavi qui necdum natus est, nec vidit mala quae sub sole fiunt.",
+      "body": "「まだ生まれておらず、太陽の下で行われる悪を見ていない者を、両者よりもさらに幸福だと判断した」──「未生者の祝福（beatitudo nondum nati）」。v.2で「死んだ者の方が生きている者より幸福」、v.3でさらに「まだ生まれていない者が最も幸福」という三段階の逆転が成立する。この「未生者の優越」は西洋文学における「反出生主義（anti-natalism）」的感性の聖書的源泉。ソフォクレス「コロノスのオイディプス」v.1225「生まれないことが最善（μὴ φῦναι）」という格言との並行──コヘレトの「未生者の幸福」がギリシア悲劇の「生の重さ」への嫌悪と同型。ボードレール「旅（Le Voyage）」の「真の旅人は出発のためだけに出発する」という生への根本的な倦怠感がコヘレトのこの命題の詩的変奏として読める。"
+    },
+    {
+      "paragraphId": 4,
+      "type": "commentary",
+      "anchor": "industrias animadverti patere invidiae proximi",
+      "body": "「すべての勤勉が隣人への嫉妬に開かれていることに気づいた」──人間の労苦の動機を「invidia proximi（隣人への嫉妬）」という一語に還元する。この心理的洞察は第2章の「業績の列挙（magnificavi opera mea…）」を遡及的に照らし出す──コヘレト自身の「エルサレムで私の前にいた者すべてを超えた（supergressus sum opibus omnes qui ante me fuerunt）」という誇示もまた「invidia」の産物として解体される。ヴェイユ「affliction」論における「社会的軽蔑（mépris social）」──afflictionの三要素の一つが社会的軽蔑であり、嫉妬はその裏面として社会関係を毒する。"
+    },
+    {
+      "paragraphId": 6,
+      "type": "glossary",
+      "anchor": "Melior est pugillus cum requie, quam plena utraque manus cum labore et afflictione animi.",
+      "body": "「安息とともにある一握りの方が、労苦と魂の苦悩とともにある両手いっぱいよりも良い」──v.5–6は愚者の台詞として提示されるが、その内容は第2章の「食べ飲む（comedere et bibere）」による日常的享受の肯定と論理的に整合する。「pugillus（一握り）」対「plena utraque manus（両手いっぱい）」という量的対比が「requies（安息）」対「afflictio animi（魂の苦悩）」という質的対比によって転倒される──量の少なさが質の豊かさに勝る。「requies（安息）」はコヘレト的「喜びの分け前（pars）」の別名として機能する：積極的な充足ではなく、苦悩からの解放としての安息。"
+    },
+    {
+      "paragraphId": 8,
+      "type": "commentary",
+      "anchor": "Cui laboro, et fraudo animam meam bonis?",
+      "body": "「誰のために私は働き、自分の魂を善きものから奪っているのか」──第2章v.18–20の「相続者問題」を孤独な者の内的独白として再演する。「fraudo animam meam bonis（魂を善きものから奪う）」──「fraudare（欺く・奪う）」という動詞が自己欺瞞の構造を露わにする：労苦が「誰かのため」という社会的正当化を持たない場合、魂は自分自身を「善きもの（bona）」から奪う行為に従事している。ヴェイユ「Décréation」§2「私たちの存在しないことへの同意」との逆対応：コヘレトの孤独な労働者が「bona（善きもの）」の享受を自ら拒否する不合理を嘆くのに対し、ヴェイユは自己の「善」からの離脱を恩寵への準備として肯定する。",
+      "targetId": "weil_decreation",
+      "targetParagraphId": 2
+    },
+    {
+      "paragraphId": 10,
+      "type": "commentary",
+      "anchor": "Vae soli, quia cum ceciderit, non habet sublevantem se.",
+      "body": "「一人の者は哀れだ──倒れても自分を起こしてくれる者がいないのだから」──「Vae soli（一人の者は哀れ）」は西洋文学で広く引用される格言的断章。「soli（一人の者）」という与格単数形が絶対的孤立を指示する：孤独は美的状態や精神的集中ではなく、危機において「起こしてくれる者のない（non habet sublevantem se）」実存的脆弱性として定義される。ロデンバック「悲しみの女たち（Les Femmes tristes）」での孤独な魂の形象──「動かない水」・「閉じた部屋」という象徴的孤立がコヘレトのこの「Vae soli」の詩的空間化として読める。ダウスン「Vanitas」での孤独と消滅の主題との連続性。",
+      "targetId": "rodenbach_les_femmes_tristes",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 12,
+      "type": "glossary",
+      "anchor": "funiculus triplex difficile rumpitur.",
+      "body": "「三つ縒りの縄は切れにくい」──v.9–12の「二人の益」論証の結語として置かれる格言。「funiculus（小綱）」の「triplex（三重）」──二人の論証の末に「三」が登場することで、解釈者たちは第三項を人間関係の外部（神・友情・誓い）に求めてきた。「difficile rumpitur（切れにくい）」という比較的弱い否定形（「切れない」ではなく「切れにくい」）が格言の現実的精度を保つ。中世キリスト教釈義では「父・子・聖霊」の三位一体との連結が提案されたが、コヘレトのテクストは神学的断定を行わない。"
+    },
+    {
+      "paragraphId": 13,
+      "type": "commentary",
+      "anchor": "Melior est puer pauper et sapiens, rege sene et stulto, qui nescit praevidere in posterum.",
+      "body": "「貧しくとも知恵ある少年の方が、老いて愚かな王よりも良い」──権力と知恵の逆比例。「puer pauper et sapiens（貧しく知恵ある少年）」対「rex senex et stultus（老いて愚かな王）」という対立が、v.14で「牢獄から王国へ」という出世譚によって例示される。「nescit praevidere in posterum（将来を見通すことを知らない）」──「praevidere（先を見通す）」の欠如が王権の無効化として機能する：時間的展望を持たない権力は実質的に既に廃位されている。第3章v.11「神の業を初めから終まで見出すことができない（non inveniat homo opus quod operatus est Deus ab initio usque ad finem）」という人間一般の認識論的限界が、「praevidere」を持たない王権の具体的帰結として読める。"
+    },
+    {
+      "paragraphId": 16,
+      "type": "commentary",
+      "anchor": "Infinitus numerus est populi omnium qui fuerunt ante eum, et qui postea futuri sunt non laetabuntur in eo; sed et hoc vanitas et afflictio spiritus.",
+      "body": "「彼の前にいた者すべての民の数は無限であり、後に来る者たちも彼において喜ばないだろう」──世代の忘却という第1章v.11「先のことどもの記憶はない（Non est priorum memoria）」の主題が、権力継承の具体的文脈で再演される。どれほど偉大な支配者も次世代には忘却される──「Infinitus numerus est（無限の数がある）」という前任者の無限の列が後継者の栄光を事前に相対化する。章の最終定式「vanitas et afflictio spiritus」が第1章v.14・第2章v.11の反復として、第4章全体（社会的圧迫・嫉妬・孤独・権力の虚無）を「afflictio spiritus」の複数の社会的形象として総括する。"
+    },
+    {
+      "paragraphId": 17,
+      "type": "commentary",
+      "anchor": "Custodi pedem tuum ingrediens domum Dei, et appropinqua ut audias. Multo enim melior est obedientia quam stultorum victimae",
+      "body": "「神の家に入るとき足を守れ、聞くために近づけ」──「custodire pedem（足を守る）」という表現がモーセの「燃える柴」での「汝の足からサンダルを脱げ（solve calceamentum de pedibus tuis）──あなたが立っている場所は聖なる土地だ」（出エジプト記3:5）を背景に持つ：神の現前への接近には準備と注意が必要。「appropinqua ut audias（聞くために近づけ）」──「聞くこと（audire）」が「生贄（victimae）」という儀礼的・外的行為より優先される。ヴェイユ「注意（attention）」論──真の祈りとは「注意の最高形態」であり、外的儀礼より内的な傾聴が神との接触の条件として定義される──がコヘレトのこの「audire（聞くこと）」の哲学的展開として読める。ヨハネの十字架「noche oscura」の「秘密の梯子」──神に「気づかれることなく」出ていく魂の「沈黙の傾聴」としての旅がコヘレトの「audias（聞け）」と響き合う。",
+      "targetId": "juan_de_la_cruz_noche_oscura",
+      "targetParagraphId": 2
+    }
+  ]
+}
