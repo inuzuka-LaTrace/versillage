@@ -1,0 +1,272 @@
+{
+  "id": "hieronymus_iob_14",
+  "title": "Iob, Caput XIV",
+  "author": "Eusebius Sophronius Hieronymus",
+  "source": "Biblia Sacra Vulgata, Liber Iob, Caput XIV. Bible Gateway: https://www.biblegateway.com/passage/?search=Job+14&version=VULGATE",
+  "year": "Antiquitas",
+  "firstPublication": "Vulgata Latina, c. 382–405 AD（ヒエロニムス訳）",
+  "difficulty": "上級",
+  "category": "hieronymus",
+  "originalLang": "la-LA",
+  "modernRelevance": "★★★★★",
+  "context": "ヨブ記第14章。ヨブと友人たちとの第一弁論循環（第4〜14章）の結語として、ヨブが人間の有限性と死後への問いを最も抒情的な詩語で展開する。章は三つのブロックに分かれる。v.1–6：人間の花的儚さ──「Homo natus de muliere, brevi vivens tempore（女から生まれた人間、短い時を生きる）」という開口命題が、コヘレト第3章「時の詩」のラテン語詩的対応として機能する。「flos（花）」・「umbra（影）」という二つの消滅の形象。v.7–12：樹木の希望と人間の絶望の対比──「Lignum habet spem（木には希望がある）」という逆説が章の哲学的核心。切られても根が水の香りで芽吹く木に対して、人間は「dormierit, non resurget（眠れば、昇らない）」という死の一方向性が対置される。v.13–22：神への懇願・時間・岩の侵食──「Quis mihi hoc tribuat, ut in inferno protegas me（冥府で私を守ってほしい）」という逆説的祈りと、「Putasne mortuus homo rursum vivat（死んだ人間はまた生きるだろうか）」という問い。v.18–19の「山が崩れ・岩が動き・水が石を彫る」という地質的侵食の比喩が人間の漸次的消滅の形象として機能し、章末v.22「attamen caro ejus, dum vivet, dolebit（しかし肉体は生きている間、苦しむだろう）」という無限の苦悩の継続で章が閉じられる。",
+  "keywords": [
+    "Homo natus de muliere",
+    "flos conteritur",
+    "fugit velut umbra",
+    "Lignum habet spem",
+    "mortuus non resurget",
+    "Putasne mortuus rursum vivat",
+    "immutatio mea",
+    "operi manuum tuarum",
+    "aquae excavant",
+    "caro dolebit"
+  ],
+  "relatedTexts": [
+    "hieronymus_iob_1",
+    "hieronymus_iob_3",
+    "hieronymus_iob_7",
+    "hieronymus_iob_19",
+    "hieronymus_ecclesiastes_1",
+    "hieronymus_ecclesiastes_3",
+    "hieronymus_ecclesiastes_5",
+    "hieronymus_ecclesiastes_12",
+    "weil_accepter_le_vide",
+    "weil_necessite",
+    "weil_decreation",
+    "weil_dressage",
+    "rilke_duineser_elegien_01",
+    "rilke_duineser_elegien_09",
+    "rilke_sonette_orpheus_1_01",
+    "rilke_das_roseninnere",
+    "hofmannsthal_terzinen",
+    "trakl_verfall",
+    "baudelaire_une_charogne"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "verses": "v.1",
+      "original": "Homo natus de muliere, brevi vivens tempore, repletur multis miseriis.",
+      "provisionalTranslation": "女から生まれた人間は、短い時を生きながら、多くの悲惨で満たされる。"
+    },
+    {
+      "id": 2,
+      "verses": "v.2",
+      "original": "Qui quasi flos egreditur et conteritur, et fugit velut umbra, et numquam in eodem statu permanet.",
+      "provisionalTranslation": "花のように出てきて砕かれ、影のように逃げ去り、決して同じ状態に留まらない。"
+    },
+    {
+      "id": 3,
+      "verses": "v.3",
+      "original": "Et dignum ducis super hujuscemodi aperire oculos tuos, et adducere eum tecum in judicium?",
+      "provisionalTranslation": "そのような者に目を向けることを、あなたは値するとお考えなのか。そして彼をあなたとともに裁きに連れて行くのか。"
+    },
+    {
+      "id": 4,
+      "verses": "v.4",
+      "original": "Quis potest facere mundum de immundo conceptum semine? nonne tu qui solus es?",
+      "provisionalTranslation": "汚れた種から宿ったものを清くすることができる者が誰かいるのか。ただ一人であるあなた以外に。"
+    },
+    {
+      "id": 5,
+      "verses": "v.5",
+      "original": "Breves dies hominis sunt: numerus mensium ejus apud te est: constituisti terminos ejus, qui praeteriri non poterunt.",
+      "provisionalTranslation": "人間の日々は短い。その月数はあなたのもとにある。あなたはその限界を定めた──越えることのできない限界を。"
+    },
+    {
+      "id": 6,
+      "verses": "v.6",
+      "original": "Recede paululum ab eo, ut quiescat, donec optata veniat, sicut mercenarii, dies ejus.",
+      "provisionalTranslation": "少しの間彼から退いてください、彼が休めるように──傭兵のように、望まれた日が来るまで。"
+    },
+    {
+      "id": 7,
+      "verses": "v.7",
+      "original": "Lignum habet spem: si praecisum fuerit, rursum virescit, et rami ejus pullulant.",
+      "provisionalTranslation": "木には希望がある。切られても、再び青くなり、その枝が芽吹く。"
+    },
+    {
+      "id": 8,
+      "verses": "v.8",
+      "original": "Si senuerit in terra radix ejus, et in pulvere emortuus fuerit truncus illius,",
+      "provisionalTranslation": "その根が地の中で老い、その幹が塵の中で死んだとしても、"
+    },
+    {
+      "id": 9,
+      "verses": "v.9",
+      "original": "ad odorem aquae germinabit, et faciet comam, quasi cum primum plantatum est.",
+      "provisionalTranslation": "水の香りに芽吹き、初めて植えられた時のように葉を茂らせる。"
+    },
+    {
+      "id": 10,
+      "verses": "v.10",
+      "original": "Homo vero cum mortuus fuerit, et nudatus, atque consumptus, ubi, quaeso, est?",
+      "provisionalTranslation": "しかし人間は、死に、裸にされ、消え果てたとき──どこにいるのか、と問う。"
+    },
+    {
+      "id": 11,
+      "verses": "v.11",
+      "original": "Quomodo si recedant aquae de mari, et fluvius vacuefactus arescat:",
+      "provisionalTranslation": "海から水が退き、川が空になって干上がるように、"
+    },
+    {
+      "id": 12,
+      "verses": "v.12",
+      "original": "sic homo, cum dormierit, non resurget: donec atteratur caelum, non evigilabit, nec consurget de somno suo.",
+      "provisionalTranslation": "そのように人間は、眠れば昇らない。天が消え去るまで、目覚めない。眠りから起き上がらない。"
+    },
+    {
+      "id": 13,
+      "verses": "v.13",
+      "original": "Quis mihi hoc tribuat, ut in inferno protegas me, et abscondas me donec pertranseat furor tuus, et constituas mihi tempus in quo recorderis mei?",
+      "provisionalTranslation": "誰がこれを私に与えてくれるのか──冥府で私を守り、あなたの怒りが過ぎ去るまで私を隠し、私を覚えていてくれる時を定めてくれること。"
+    },
+    {
+      "id": 14,
+      "verses": "v.14",
+      "original": "Putasne mortuus homo rursum vivat? cunctis diebus quibus nunc milito, expecto donec veniat immutatio mea.",
+      "provisionalTranslation": "死んだ人間はまた生きると思うか。今私が兵役をしているすべての日々、私は自分の変容が来るまで待つ。"
+    },
+    {
+      "id": 15,
+      "verses": "v.15",
+      "original": "Vocabis me, et ego respondebo tibi: operi manuum tuarum porriges dexteram.",
+      "provisionalTranslation": "あなたは私を呼び、私はあなたに答えるだろう。あなたの手の業に右手を伸ばしてくださるだろう。"
+    },
+    {
+      "id": 16,
+      "verses": "v.16",
+      "original": "Tu quidem gressus meos dinumerasti: sed parce peccatis meis.",
+      "provisionalTranslation": "あなたは確かに私の歩みを数えた。しかし私の罪をお赦しください。"
+    },
+    {
+      "id": 17,
+      "verses": "v.17",
+      "original": "Signasti quasi in sacculo delicta mea, sed curasti iniquitatem meam.",
+      "provisionalTranslation": "あなたは私の過ちを袋の中に封印した。しかしあなたは私の不正を塞いでおられた。"
+    },
+    {
+      "id": 18,
+      "verses": "v.18",
+      "original": "Mons cadens defluit, et saxum transfertur de loco suo:",
+      "provisionalTranslation": "崩れる山は溶け流れ、岩はその場所から移される。"
+    },
+    {
+      "id": 19,
+      "verses": "v.19",
+      "original": "lapides excavant aquae, et alluvione paulatim terra consumitur: et hominem ergo similiter perdes.",
+      "provisionalTranslation": "水は石を穿ち、洪水によって大地はゆっくりと消費される。そのようにあなたも人間を滅ぼすだろう。"
+    },
+    {
+      "id": 20,
+      "verses": "v.20",
+      "original": "Roborasti eum paululum, ut in perpetuum transiret: immutabis faciem ejus, et emittes eum.",
+      "provisionalTranslation": "あなたはしばらく彼を強くし、永遠に過ぎ去らせるために。あなたは彼の顔を変え、送り出すだろう。"
+    },
+    {
+      "id": 21,
+      "verses": "v.21",
+      "original": "Sive nobiles fuerint filii ejus, sive ignobiles, non intelliget.",
+      "provisionalTranslation": "その息子たちが高貴であれ、卑賤であれ、彼は知ることがない。"
+    },
+    {
+      "id": 22,
+      "verses": "v.22",
+      "original": "Attamen caro ejus, dum vivet, dolebit, et anima illius super semetipso lugebit.",
+      "provisionalTranslation": "しかし肉体は生きている間、苦しむだろう。魂は自分自身のことを嘆くだろう。"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "glossary",
+      "anchor": "Homo natus de muliere, brevi vivens tempore, repletur multis miseriis.",
+      "body": "「女から生まれた人間は、短い時を生きながら、多くの悲惨で満たされる（Homo natus de muliere, brevi vivens tempore, repletur multis miseriis）」──ヨブ記第14章の開口命題にして、西洋文学における人間有限性の最も完全な定式の一つ。三つの要素が一文で人間の本質的条件を定義する：①「natus de muliere（女から生まれた）」──誕生の受動的・依存的起源。②「brevi vivens tempore（短い時を生きる）」──時間的有限性。③「repletur multis miseriis（多くの悲惨で満たされる）」──苦悩による充満。コヘレト第1章v.3「Quid habet amplius homo de universo labore suo（人間は労苦から何を得るのか）」という問いが、ここでは苦悩の充満という答えとして先取りされている。「Homo natus de muliere」はキリスト教葬儀文学・「Dies Irae」等の中世典礼詩の核心引用句として西洋文化全体に流通した。リルケ「ドゥイノの悲歌」第1歌の冒頭「Wer, wenn ich schriee, hörte mich denn（誰が聞いてくれるだろうか）」──生の孤独・無応答性という実存的条件がヨブの「repletur miseriis（悲惨で満たされる）」と同型の充溢的苦悩として照応する。",
+      "targetId": "rilke_duineser_elegien_01",
+      "targetParagraphId": 1
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "Qui quasi flos egreditur et conteritur, et fugit velut umbra, et numquam in eodem statu permanet.",
+      "body": "「花のように出てきて砕かれ、影のように逃げ去り、決して同じ状態に留まらない（numquam in eodem statu permanet）」──人間の有限性を三つの形象で提示する。「flos egreditur et conteritur（花が出てきて砕かれる）」──コヘレト第12章v.5「florebit amygdalus（アーモンドの花）」という老いの寓意詩の花の形象との照応：どちらも花という開花と消滅の形象を人間の有限性に用いる。「fugit velut umbra（影のように逃げ去る）」──コヘレト第7章v.1「dies mortis die nativitatis（死の日は誕生の日よりも良い）」の文脈で用いられた「umbra（影）」──ヨブ記第7章v.2の「servus desiderat umbram（奴隷が影を渇望する）」における影の多義性（逃避・庇護・消滅）が、ここでは消滅の形象として確定される。「numquam in eodem statu permanet（決して同じ状態に留まらない）」──コヘレト第1章v.9「Nihil sub sole novum（新しいものは何もない）」という循環的同一性の中に、しかし「個体の状態の恒常性（permanere in eodem statu）」の不可能性という変動性が挿入される。ホフマンスタール「テルツィーネン」の「私たちはみな死んでいる者の生から来る（Wir alle sterben）」という世代的消失との詩的照応。",
+      "targetId": "hofmannsthal_terzinen",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 5,
+      "type": "commentary",
+      "anchor": "Breves dies hominis sunt: numerus mensium ejus apud te est: constituisti terminos ejus, qui praeteriri non poterunt.",
+      "body": "「人間の日々は短い──その月数はあなたのもとにある──越えることのできない限界を定めた（terminos qui praeteriri non poterunt）」──三連の命題が人間の時間的条件を「神による管理」として定式化する。「numerus mensium ejus apud te est（その月数はあなたのもとにある）」──時間が神の「所有・管理下（apud te）」にあるという神学的命題：ヨブが「breves（短い）」と経験する時間が、神には「数（numerus）」として把握されている。「constituisti terminos ejus, qui praeteriri non poterunt（越えることのできない限界を定めた）」──ヘブライ語「חֻקּוֹת（ḥuqqôt）」は「法令・定め・限界」：人間の時間的限界が神の立法行為として定義される。コヘレト第3章v.1「Omnia tempus habent, et suis spatiis transeunt universa sub caelo（すべてのことには時がある）」という「時の詩」の哲学的前提がここで神学的に確立される──神が時間の「terminos（限界）」を設定する主権者として。ヴェイユ「Nécessité」章の「宇宙的必然への服従」──「terminos qui praeteriri non poterunt」という越え得ない限界がヴェイユ的必然の聖書的定式として読める。",
+      "targetId": "weil_necessite",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 7,
+      "type": "commentary",
+      "anchor": "Lignum habet spem: si praecisum fuerit, rursum virescit, et rami ejus pullulant.",
+      "body": "「木には希望がある──切られても、再び青くなり、その枝が芽吹く（Lignum habet spem）」──ヨブ記第14章の哲学的核心命題にして、自然界における「希望（spes）」の形象の最も強烈な定式。「Lignum habet spem（木には希望がある）」というラテン語の断言は英語「hope」・フランス語「espoir」を持つ自然物の希少性から際立つ：無生物としての「木（lignum）」が「希望（spes）」を持つという逆説。「si praecisum fuerit, rursum virescit（切られても、再び青くなる）」──ヴェイユ「Décréation」§19「種が死なないなら……死なねばならない、自らの中に持つエネルギーを解放するために」という種の死と再生の比喩との照応：ヴェイユは死・消去を「エネルギー解放」として肯定的に読むが、ヨブはその希望を木には与え、人間には与えないという非対称として嘆く。リルケ「薔薇の内側（Das Roseninnere）」の「内なる空間（Innenraum）」──植物の内側に宿る力・「再び青くなる（virescit）」という植物的更新力が、リルケ的な「開花と変容の内的必然性」として照応する。",
+      "targetId": "rilke_das_roseninnere",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 9,
+      "type": "prosody",
+      "anchor": "ad odorem aquae germinabit, et faciet comam, quasi cum primum plantatum est.",
+      "body": "「水の香りに芽吹き、初めて植えられた時のように葉を茂らせる（quasi cum primum plantatum est）」──v.7–9が「切られた木の三段階の復活」を構造する：①「praecisum fuerit, rursum virescit（切られても再び青くなる）」→②「radix senuerit in terra（根が地で老い）」→③「ad odorem aquae germinabit（水の香りに芽吹く）」という根・幹・枝の段階的な枯れと蘇生。「ad odorem aquae（水の香りに）」──「香り（odor）」という嗅覚的形象：目に見えない水の存在が「香り」によって植物に伝わるという感覚的微細さ。ヨブ記全体で最も平和的・肯定的な形象として際立つ。「quasi cum primum plantatum est（初めて植えられた時のように）」──「primum（最初）」への回帰が更新・循環として提示される：コヘレト第1章v.9「Quid est quod fuit? Ipsum quod futurum est（あったものはこれから来るもの）」の循環的同一性が、木の更新において肯定的に実現される──人間にはそれが与えられないという章の逆説の前景として機能する。"
+    },
+    {
+      "paragraphId": 10,
+      "type": "commentary",
+      "anchor": "Homo vero cum mortuus fuerit, et nudatus, atque consumptus, ubi, quaeso, est?",
+      "body": "「しかし人間は、死に、裸にされ、消え果てたとき──どこにいるのか（ubi, quaeso, est?）」──「Lignum habet spem（木には希望がある）」という肯定命題からの転換点。「vero（しかし）」という逆接が木と人間の非対称を一語で刻印する。「nudatus（裸にされ）」──ヨブ記第1章v.21「Nudus egressus sum de utero matris meae, et nudus revertar（裸で出た、裸で戻ろう）」の「裸（nudus）」が、ここでは死後の剥奪状態として反復される。「ubi, quaeso, est（どこにいるのか）」──問いの修辞的強度：「quaeso（と私は尋ねる）」という一人称的挿入が、純粋な問いではなく切迫した懇願的問いかけとして機能する。ボードレール「腐屍（Une Charogne）」の「あなたも腐肉と変わらない（et vous irez, ô la reine des grâces …）」──死後の肉体的解体という同一主題がボードレールにおいては愛人への衝撃的告知として、ヨブにおいては神への問いとして提示される。",
+      "targetId": "baudelaire_une_charogne",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 12,
+      "type": "commentary",
+      "anchor": "sic homo, cum dormierit, non resurget: donec atteratur caelum, non evigilabit, nec consurget de somno suo.",
+      "body": "「そのように人間は、眠れば昇らない──天が消え去るまで、目覚めない（donec atteratur caelum, non evigilabit）」──ヨブ記の死後論の最も明示的な否定定式の一つ。「sicut… sic（のように…そのように）」という比較構文が「海からの水の退去・川の干上がり」という自然的不可逆性と「人間の死後の非復活」を同型として確立する。「donec atteratur caelum（天が消え去るまで）」──「atteratur（消え去る・磨り減る）」という動詞が宇宙的終末の形象：天の消滅という絶対的終末以前には覚醒しない──実質的に「永遠に目覚めない」という宣言。第7章v.9「qui descenderit ad inferos, non ascendet（冥府に降った者は昇らない）」の反復・強化として、ここでは「天の消滅」という宇宙論的時間スケールで死の永続性が定式化される。リルケ「ドゥイノの悲歌」第9歌「wer wir auch seien（私たちが誰であれ）」──存在の一時性と宇宙的時間の対比がヨブの「donec atteratur caelum」と同型の時間論的枠組みを共有する。"
+    },
+    {
+      "paragraphId": 13,
+      "type": "commentary",
+      "anchor": "Quis mihi hoc tribuat, ut in inferno protegas me, et abscondas me donec pertranseat furor tuus, et constituas mihi tempus in quo recorderis mei?",
+      "body": "「冥府で私を守り、あなたの怒りが過ぎ去るまで私を隠し、私を覚えていてくれる時を定めてくれること（ut in inferno protegas me）」──ヨブ記第14章の最も逆説的な祈り。「in inferno protegas me（冥府で私を守ってくれ）」──神の怒りから逃れるために冥府（inferos）という「神の不在の場所」への庇護を求める逆説：神から逃れるために神に頼む。「abscondas me donec pertranseat furor tuus（あなたの怒りが過ぎ去るまで私を隠してくれ）」──第14章v.16「abortivum absconditum（隠された流産児）」の「隠れた存在様式」への憧憬が、ここでは神への願いとして転化される。「constituas mihi tempus in quo recorderis mei（私を覚えていてくれる時を定めてくれること）」──記憶（recordari）の神学的次元：コヘレト第1章v.11「Non est priorum memoria（先のことの記憶はない）」という忘却の宇宙論的必然に対して、「神に覚えられること（recorderis mei）」が救済の唯一の形式として提示される。ヴェイユ「Accepter le vide」§2「il faut être un temps sans récompense（報酬なしに過ごす時間が必要だ）」──「神が覚えてくれる時（tempus in quo recorderis）」を待つことがヴェイユ的「待機（attente）」の最も古い定式として読める。",
+      "targetId": "weil_accepter_le_vide",
+      "targetParagraphId": 2
+    },
+    {
+      "paragraphId": 14,
+      "type": "glossary",
+      "anchor": "Putasne mortuus homo rursum vivat? cunctis diebus quibus nunc milito, expecto donec veniat immutatio mea.",
+      "body": "「死んだ人間はまた生きると思うか（Putasne mortuus homo rursum vivat?）──今私が兵役をしているすべての日々、私は自分の変容が来るまで待つ（expecto donec veniat immutatio mea）」──ヨブ記第14章の哲学的頂点。「Putasne mortuus homo rursum vivat（死んだ人間はまた生きるか）」──ヨブ記全体で最も直接的な復活への問い。「rursum vivat（再び生きる）」という「rursum（再び）」の副詞が木の「rursum virescit（再び青くなる）」と同語根で反響する：木に与えられた「rursum（再び）」が人間には問いとして残される。「immutatio mea（私の変容）」──「immutare（変える・変容させる）」は「変容（mutatio）」の最も強い形態。コヘレト的文脈では第1章v.9「Nihil sub sole novum（新しいものは何もない）」という循環的同一性に抵抗する「新しい状態」への期待。リルケ「オルフェウスに寄せるソネット」第2部第29番「Stiller Freund der vielen Fernen（多くの遠さの静かな友よ）」の「Wandlung（変容）」──リルケがオルフェウス的変容を詩的実践として肯定するのに対し、ヨブの「immutatio」は神学的問いとして待望される：詩的変容と神学的変容の構造的平行。",
+      "targetId": "rilke_sonette_orpheus_1_01",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 15,
+      "type": "commentary",
+      "anchor": "Vocabis me, et ego respondebo tibi: operi manuum tuarum porriges dexteram.",
+      "body": "「あなたは私を呼び、私はあなたに答えるだろう──あなたの手の業に右手を伸ばしてくださるだろう（operi manuum tuarum porriges dexteram）」──第14章の短い希望の閃光。「Vocabis me, et ego respondebo tibi（あなたは私を呼び、私は答えるだろう）」──応答的対話の可能性としての「呼ぶ（vocare）」と「答える（respondere）」：第38章「神が嵐の中から答える（respondit Dominus de turbine）」の先行的期待として読める。「operi manuum tuarum porriges dexteram（あなたの手の業に右手を伸ばしてくださるだろう）」──「opus manuum（手の業）」という表現がヨブ記の中心的モチーフ：第1章v.10「operibus manuum ejus benedixisti（手の業を祝福した）」の繁栄期の記憶が、ここでは「手を差し伸べる（porriges dexteram）」という神の救済的接触の期待として回帰する。ヴェイユ「Décréation」§4「神は私たちに与えるこの存在を私たちに物乞いする」──「右手を伸ばす（porriges dexteram）」という神の接触への期待がヴェイユ的「物乞いする神」の逆面として機能する。",
+      "targetId": "weil_decreation",
+      "targetParagraphId": 4
+    },
+    {
+      "paragraphId": 19,
+      "type": "commentary",
+      "anchor": "lapides excavant aquae, et alluvione paulatim terra consumitur: et hominem ergo similiter perdes.",
+      "body": "「水は石を穿ち、洪水によって大地はゆっくりと消費される──そのようにあなたも人間を滅ぼすだろう（et hominem ergo similiter perdes）」──v.18–19が地質的侵食の三段階（山の崩落・岩の移動・水による石の浸食）を人間の漸次的消滅の比喩として展開する。「lapides excavant aquae（水は石を穿つ）」──「excavare（穿つ・掘り出す）」という動詞：水という柔軟なものが石という硬いものを穿つという逆説的力学が、afflictionが人間の「硬さ（robus）」を侵食するという神学的形象として機能する。「paulatim（ゆっくりと）」という副詞が侵食の漸進性を強調する：sudden な打撃ではなく時間をかけた消耗としてのaffliction。コヘレト第12章v.2–5の「老いの寓意詩」における人体の漸次的崩壊と照応する。トラークル「Verfall（没落）」の「岩の中に刻まれた古い形象（alte Bilder in den Fels gemeißelt）」──石・侵食・時間という形象連鎖がトラークルの詩的廃墟論と共鳴する。",
+      "targetId": "trakl_verfall",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 22,
+      "type": "commentary",
+      "anchor": "Attamen caro ejus, dum vivet, dolebit, et anima illius super semetipso lugebit.",
+      "body": "「しかし肉体は生きている間、苦しむだろう──魂は自分自身のことを嘆くだろう（anima illius super semetipso lugebit）」──ヨブ記第14章の最終節にして、最も徹底した苦悩の継続宣言。「Attamen（しかしそれでも）」という逆接が章全体を締める：v.13の「冥府への庇護の祈り」・v.14の「immutatio（変容）への期待」・v.15の「神の呼びかけへの期待」という一連の希望的表現の後に、「Attamen（それにもかかわらず）」という重い現実確認が置かれる。「caro ejus, dum vivet, dolebit（肉体は生きている間、苦しむだろう）」──「dum vivet（生きている間）」という時間的限定：死ぬまで苦しみが継続するという有限ながら全期間的な苦悩の宣言。「anima illius super semetipso lugebit（魂は自分自身のことを嘆くだろう）」──「super semetipso（自分自身のことを）」という再帰的嘆き：外部への告訴（神への告発）が「魂が自己を嘆く」という内向的嘆きとして閉じられる。コヘレト第1章v.14「afflictio spiritus（霊の苦悩）」という定式がヨブにおいては「anima lugebit（魂が嘆く）」という持続的悲嘆として具現化される──afflictionの終わりなき継続として章が閉じられ、第15章以降の第二弁論循環へと続く。"
+    }
+  ]
+}
