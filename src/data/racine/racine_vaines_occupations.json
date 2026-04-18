@@ -1,0 +1,139 @@
+{
+  "id": "racine_vaines_occupations",
+  "title": "Sur les vaines occupations des gens du siècle",
+  "author": "Jean Racine",
+  "source": "Esther – Athalie – Œuvres diverses, Barbou, 1760 (p. 191–192). Wikisource: https://fr.wikisource.org/wiki/Sur_les_vaines_occupations_des_gens_du_si%C3%A8cle",
+  "year": "1694",
+  "firstPublication": "Œuvres diverses, Barbou, 1760",
+  "difficulty": "中級",
+  "category": "racine",
+  "originalLang": "fr-FR",
+  "modernRelevance": "★★★★★",
+  "context": "ラシーヌ晩年の宗教的カンティク（聖歌）第4番。標題「世俗の人々の空しい営みについて（Sur les vaines occupations des gens du siècle）」はコヘレトの言葉の「vanitas vanitatum」の命題をフランス語詩として変奏する。副題「イザヤ書とエレミヤ書の様々な箇所から（Tiré de divers endroits d'Isaïe et de Jérémie）」が示すように、イザヤ書55章（「なぜパンでないものに金を使うのか」）・ヨハネ福音書のロゴス賛歌・箴言の「知恵の女」・エレミヤ書の「壊れた水槽」等を多重に引用・織り込む。ラシーヌの悲劇詩学──人間の欲望と神の意志の衝突、高慢（orgueil）の罪──が聖書的神学の枠組みに完全に収まった形で詩化される。全6連・各10行のカンティク形式。コーパスの「ヴァニタス」主題との接続：コヘレト（VANITISMEの語源）・ヴェイユ・ボードレールとの対話的テキストとして位置づけられる。",
+  "keywords": [
+    "vaines occupations",
+    "vanitas",
+    "Sagesse immortelle",
+    "pain vivant",
+    "eau vive",
+    "Verbe",
+    "orgueil",
+    "captivité heureuse",
+    "sources bourbeuses",
+    "カンティク"
+  ],
+  "relatedTexts": [
+    "hieronymus_ecclesiastes_1",
+    "hieronymus_ecclesiastes_6",
+    "hieronymus_ecclesiastes_9",
+    "weil_accepter_le_vide",
+    "weil_effacement",
+    "weil_decreation",
+    "baudelaire_elevation",
+    "baudelaire_spleen",
+    "mallarme_coup_de_des",
+    "rossetti_vanity_of_vanities",
+    "dowson_vanitas",
+    "juan_de_la_cruz_noche_oscura"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "verses": "v.1–10",
+      "original": "QUEL charme vainqueur du monde\nVers Dieu m'élève aujourd'hui ?\nMalheureux l'homme qui fonde\nSur les hommes son appui !\nLeur gloire fuit et s'efface\nEn moins de temps que la trace\nDu vaisseau qui fend les mers,\nOu de la flèche rapide\nQui, loin de l'œil qui la guide,\nCherche l'oiseau dans les airs.",
+      "provisionalTranslation": "いかなる世を征する魅惑が\n今日、私を神へと高めるのか？\n人間の上に自らの支えを\n築く者は哀れだ！\n彼らの栄光は逃げ去り消え失せる\n海を切り裂く船の\n航跡よりも短い時間に、\nあるいは素早い矢よりも──\nそれを導く目から遠く離れ、\n空中に鳥を求めながら。"
+    },
+    {
+      "id": 2,
+      "verses": "v.11–20",
+      "original": "De la Sagesse immortelle\nLa voix tonne et nous instruit :\nEnfants des hommes, dit-elle,\nDe vos soins quel est le fruit ?\nPar quelle erreur, âmes vaines,\nDu plus pur sang de vos veines,\nAchetez-vous si souvent,\nNon un pain qui vous repaisse,\nMais une ombre qui vous laisse\nPlus affamés que d'avant ?",
+      "provisionalTranslation": "不滅の知恵の\n声は轟き、私たちを教える。\n「人の子らよ」と彼女は言う、\n「あなたたちの苦心の果実は何か？\nいかなる誤りによって、虚ろな魂たちよ、\nあなたたちは血管の最も純粋な血で\nこれほど頻繁に買うのか──\nあなたたちを養うパンではなく、\nあなたたちを以前よりも\nさらに飢えたまま残す影を。」"
+    },
+    {
+      "id": 3,
+      "verses": "v.21–30",
+      "original": "Le pain que je vous propose\nSert aux anges d'aliment ;\nDieu lui-même le compose\nDe la fleur de son froment.\nC'est ce pain si délectable\nQue ne sert point à sa table\nLe monde que vous suivez.\nJe l'offre à qui veut me suivre :\nApprochez. Voulez-vous vivre ?\nPrenez, mangez, et vivez.",
+      "provisionalTranslation": "私があなたたちに差し出すパンは\n天使たちの糧となるもの。\n神ご自身がそれを\n御自らの小麦の精から作る。\nこれがあなたたちの従う世が\nその食卓に決して供しない\nかの甘美なパンだ。\n私に従おうとする者に私はそれを差し出す。\n近づきなさい。生きたいか？\n取りなさい、食べなさい、そして生きなさい。"
+    },
+    {
+      "id": 4,
+      "verses": "v.31–40",
+      "original": "O Sagesse ! ta parole\nFit éclore l'univers,\nPosa sur un double pôle\nLa terre au milieu des airs.\nTu dis ; et les cieux parurent,\nEt tous les astres coururent,\nDans leur ordre se placer.\nAvant les siècles tu règnes ;\nEt qui suis-je, que tu daignes\nJusqu'à moi te rabaisser ?",
+      "provisionalTranslation": "おお知恵よ！あなたの言葉は\n宇宙を開花させ、\n二つの極の上に\n大地を空中に据えた。\nあなたが語られた。すると天が現れ、\nすべての星が走り、\nその秩序の中に位置を占めた。\nあなたは世紀の前から統治される。\n私は何者で、あなたは\n私にまで降ってくださるのか。"
+    },
+    {
+      "id": 5,
+      "verses": "v.41–50",
+      "original": "Le Verbe, image du Père,\nLaissa son trône éternel,\nEt d'une mortelle mère\nVoulut naître homme et mortel.\nComme l'orgueil fut le crime\nDont il naissait la victime,\nIl dépouilla sa splendeur,\nEt vint pauvre et misérable,\nApprendre à l'homme coupable\nSa véritable grandeur.",
+      "provisionalTranslation": "父の像である言葉は\nその永遠の玉座を去り、\n死すべき母から\n人間として、死すべき者として生まれることを望んだ。\n高慢がその罪であり、\nその罪の生贄として彼が生まれたように、\n彼はその輝きを脱ぎ捨て、\n貧しく惨めに来られた──\n罪ある人間に\nその真の偉大さを教えるために。"
+    },
+    {
+      "id": 6,
+      "verses": "v.51–60",
+      "original": "L'âme heureusement captive\nSous ton joug trouve la paix,\nEt s'abreuve d'une eau vive\nQui ne s'épuise jamais.\nChacun peut boire en cette onde,\nElle invite tout le monde ;\nMais nous courons follement\nChercher des sources bourbeuses,\nOu des citernes trompeuses\nD'où l'eau fuit à tout moment.",
+      "provisionalTranslation": "幸いにして捕らわれた魂は\nあなたの軛の下に平和を見出し、\n決して尽きることのない\n生ける水を飲む。\n誰もがこの波を飲める、\nそれはすべての人を招く。\nしかし私たちは狂ったように走る、\n濁った水源を、\nあるいは欺く水槽を求めて──\nそこからは水がいつも逃げていく。"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "Malheureux l'homme qui fonde\nSur les hommes son appui !",
+      "body": "「人間の上に自らの支えを築く者は哀れ」──エレミヤ書17:5「人間を頼みとし、肉体を自らの腕とする者は呪われる（maledictus homo qui confidit in homine）」の直接的な引用・変奏。「appui（支え・支柱）」という語が詩全体の構造的主題を設定する：地上的支え（人間・財産・栄光）の虚無と神的支えの対比。コヘレト第1章v.3「太陽の下での労苦から何を得るのか」という問いと同一の認識論的起点を共有する──地上的依拠の根本的な虚しさ。ヴェイユ「affliction」論における「地上の力学的法則（pesanteur）への依存」批判の聖書的先行形として読める。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "prosody",
+      "anchor": "Leur gloire fuit et s'efface\nEn moins de temps que la trace\nDu vaisseau qui fend les mers,\nOu de la flèche rapide\nQui, loin de l'œil qui la guide,\nCherche l'oiseau dans les airs.",
+      "body": "「船の航跡・空中の矢」という二重の速度比喩──知恵の書（Liber Sapientiae）5:9–12「彼らの誇りはこのようなものだった……矢のように過ぎ去り、空中に何の痕跡も残さない」への直接的典拠。10行連（dizain）の形式：ababbccddc の韻律構造で、c 韻（mers/airs）が空間的な「海と空」の広がりを音響的に支持する。「la trace」という語がコヘレト的「記憶の不在（Non est priorum memoria）」と照応する──第1章v.11の「先のことの記憶はない」という定式がここでは視覚的・運動的な形象として詩化される。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "Du plus pur sang de vos veines,\nAchetez-vous si souvent,\nNon un pain qui vous repaisse,\nMais une ombre qui vous laisse\nPlus affamés que d'avant ?",
+      "body": "「血管の最も純粋な血でパンでなく影を買う」──イザヤ書55:2「なぜパンでないものに金を払い、飽き足りないものに労苦を費やすのか（Quare appenditis argentum non in panibus?）」の詩的変奏。「ombre（影）」という語が第1章注釈の「vain phantom / shadow」的虚無の定式と接続し、影を買うという行為が「afflictio spiritus（霊の苦悩）」の社会的・経済的形象として提示される。「âmes vaines（虚ろな魂たちよ）」──「vanitas」の直接的な人称的展開：「虚無（vanitas）」が「魂の形容詞（vaines）」として人格に適用される。コヘレト第6章v.7「Omnis labor hominis in ore ejus; sed anima ejus non implebitur（労苦は口のためにある、しかし魂は満たされない）」との照応。",
+      "targetId": "hieronymus_ecclesiastes_6",
+      "targetParagraphId": 7
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "Approchez. Voulez-vous vivre ?\nPrenez, mangez, et vivez.",
+      "body": "「近づきなさい。生きたいか？取りなさい、食べなさい、そして生きなさい」──イザヤ書55:1–3「喉が渇いている者よ、みな水のところへ来なさい」の直接的変奏であると同時に、ヨハネ福音書6:35「わたしは命のパンだ（Ego sum panis vitae）」・マタイ26:26「取りなさい、食べなさい（Accipite et comedite）」という聖体論的言語との重層的接続。コヘレト第9章v.7「Vade ergo, et comede in laetitia panem tuum（行け、喜びとともにパンを食べよ）」という地上的享受の命令が、ここでは神的・永遠のパン（「天使たちの糧」）への招きとして神学的に変容される──同じ「食べよ」という命令形が全く異なる対象に向けられる。",
+      "targetId": "hieronymus_ecclesiastes_9",
+      "targetParagraphId": 8
+    },
+    {
+      "paragraphId": 4,
+      "type": "commentary",
+      "anchor": "O Sagesse ! ta parole\nFit éclore l'univers,\nPosa sur un double pôle\nLa terre au milieu des airs.",
+      "body": "「あなたの言葉は宇宙を開花させた」──箴言8章の「知恵の女（mulier Sapientiae）」の自己賛美（知恵が創造以前から神のかたわらにあった）と創世記1章の「神は言われた（Dixit Deus）」という言語的創造論の詩的統合。「ta parole / Fit éclore（あなたの言葉が開花させた）」──「parole（言葉）」という語が詩学的次元においてマラルメ「危機（Crise de vers）」の「言語の創造的機能」との照応を開く：宇宙を創造した「知恵の言葉」と詩語の「世界を召喚する力」の詩学的連続性。「Avant les siècles tu règnes（あなたは世紀の前から統治される）」──ヨハネ福音書1:1「初めに言葉があった（In principio erat Verbum）」の詩的変奏として、永遠性と時間の外にある知恵の先行性を確立する。",
+      "targetId": "mallarme_crise_de_vers",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 5,
+      "type": "commentary",
+      "anchor": "Comme l'orgueil fut le crime\nDont il naissait la victime,\nIl dépouilla sa splendeur,\nEt vint pauvre et misérable,\nApprendre à l'homme coupable\nSa véritable grandeur.",
+      "body": "「高慢がその罪であり……彼は輝きを脱ぎ捨てた」──パウロ「フィリピ書」2:6–8の「ケノーシス（kenosis・自己空無化）」神学の詩的定式。「orgueil（高慢）」はラシーヌの悲劇神学の核心語──フェードル・エロディアード・アタリーにおける「高慢」が悲劇的転落の原因として機能するように、ここでも「高慢」が贖罪の論理的起点として置かれる。「Il dépouilla sa splendeur（彼は輝きを脱ぎ捨てた）」──ヴェイユ「Décréation」§1「神の自己消去（Dieu se retire）」という概念との照応：神の子が栄光を「脱ぎ捨てる（dépouiller）」行為がヴェイユ的「脱創造」の神学的モデルとして機能する。「vint pauvre et misérable（貧しく惨めに来られた）」──ヨハネの十字架「noche oscura」での「貧しさ・暗闇の中の下降」という神秘主義的降下と構造的に照応する。",
+      "targetId": "weil_decreation",
+      "targetParagraphId": 1
+    },
+    {
+      "paragraphId": 6,
+      "type": "commentary",
+      "anchor": "L'âme heureusement captive\nSous ton joug trouve la paix,",
+      "body": "「幸いにして捕らわれた魂はあなたの軛の下に平和を見出す」──「heureusement captive（幸いにして捕らわれた）」という逆説的形容がラシーヌ神学の核心を圧縮する。「captive（捕らわれた）」は通常の否定的意味を「heureusement（幸いにして）」によって完全に転倒させる──束縛が平和の条件として定式化される。マタイ11:29「わたしの軛を負い、わたしから学べ。わたしは柔和で謙遜だから（tollite jugum meum super vos）」の直接的典拠。ヴェイユ「Accepter le vide」§1「恩寵が入れるのはそれを受け取る空虚がある場所だけ」──「軛の下の平和」という服従的受容がヴェイユ的「空虚の受け入れ」と構造的に照応する：どちらも強制的な空白・受動性が充満の条件として逆転される。",
+      "targetId": "weil_accepter_le_vide",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 6,
+      "type": "commentary",
+      "anchor": "Mais nous courons follement\nChercher des sources bourbeuses,\nOu des citernes trompeuses\nD'où l'eau fuit à tout moment.",
+      "body": "「濁った水源・欺く水槽──そこからは水がいつも逃げていく」──エレミヤ書2:13「民は二つの悪を犯した。生ける水の源である私を捨て、水を湛えることのできない壊れた水槽を掘った（foderunt sibi cisternas, cisternas dissipatas, quae continere non valent aquas）」の直接的典拠。「sources bourbeuses（濁った水源）」と「citernes trompeuses（欺く水槽）」という二重の対比が、第2連の「shadow（影を買う）」主題を水の比喩で変奏する：充足を提供するように見せながら「逃げていく（fuit）」水が、コヘレト第1章v.7「海はあふれない（mare non redundat）」の充足しない自然的循環と照応する。コヘレト第9章v.7の「生ける水（eau vive）」への招きと「壊れた水槽」の対比という詩全体の弁証法的構造がここで完結する──第3連「生きよ・食べよ・飲め」という神的招きと、第6連「私たちは欺く水槽へと走る」という人間的逃避の対比として全詩が閉じられる。",
+      "targetId": "hieronymus_ecclesiastes_1",
+      "targetParagraphId": 7
+    }
+  ]
+}
