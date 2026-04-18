@@ -1,0 +1,307 @@
+{
+  "id": "hieronymus_iob_19",
+  "title": "Iob, Caput XIX",
+  "author": "Eusebius Sophronius Hieronymus",
+  "source": "Biblia Sacra Vulgata, Liber Iob, Caput XIX. Bible Gateway: https://www.biblegateway.com/passage/?search=Job+19&version=VULGATE",
+  "year": "Antiquitas",
+  "firstPublication": "Vulgata Latina, c. 382–405 AD（ヒエロニムス訳）",
+  "difficulty": "上級",
+  "category": "hieronymus",
+  "originalLang": "la-LA",
+  "modernRelevance": "★★★★★",
+  "context": "ヨブ記第19章。第二弁論循環（第15〜21章）におけるヨブの第二の応答詩として、ヨブ記全体の神学的頂点を形成する。章は三つのブロックに分かれる。v.1–12：友人たちへの告発と神による孤立の記述──「Usquequo affligitis animam meam（いつまで私の魂を苦しめるのか）」という友人批判から、「Ecce clamabo, vim patiens, et nemo audiet（見よ、暴力を受けて叫んでも、誰も聞かない）」という神への告訴へ。v.13–20：社会的孤立の詩的展開──兄弟・友人・親族・使用人・妻・子・顧問たちに次々と見捨てられるという孤立の連鎖が「Pelli meae, consumptis carnibus, adhaesit os meum（肉が消耗し、骨が皮に付いている）」という身体的極限で頂点に達する。v.21–29：転換──「Miseremini mei, miseremini mei saltem vos, amici mei（友よ、憐れんでください）」という懇願の後、v.25–27に「Scio enim quod redemptor meus vivit（私の贖い主は生きておられる）」という宣言が現れる。これはヨブ記全体、そして旧約聖書全体で最も重要な復活と神的贖罪への信仰宣言として西洋神学・文学・音楽（ヘンデル「メサイア」）全体に流通した。「et in carne mea videbo Deum meum（私の肉体において私の神を見るだろう）」というキリスト教的肉体的復活論の先行形として解釈されてきた一方、ヘブライ語原典の読みは複数存在し、「肉体から解放されて神を見る」という読みも可能。v.28–29はヨブから友人たちへの最終的警告で閉じられる。",
+  "keywords": [
+    "redemptor meus vivit",
+    "in carne mea videbo Deum",
+    "孤立の連鎖",
+    "Miseremini mei",
+    "stylo ferreo",
+    "復活の信仰宣言",
+    "Scio",
+    "神的贖罪",
+    "pelli meae adhaesit os",
+    "vim patiens et nemo audiet"
+  ],
+  "relatedTexts": [
+    "hieronymus_iob_1",
+    "hieronymus_iob_3",
+    "hieronymus_iob_7",
+    "hieronymus_iob_14",
+    "hieronymus_iob_38",
+    "hieronymus_iob_42",
+    "hieronymus_ecclesiastes_1",
+    "hieronymus_ecclesiastes_9",
+    "hieronymus_ecclesiastes_12",
+    "weil_accepter_le_vide",
+    "weil_necessite",
+    "weil_decreation",
+    "weil_effacement",
+    "weil_celui_quil_faut_aimer",
+    "rilke_duineser_elegien_01",
+    "rilke_duineser_elegien_09",
+    "rilke_sonette_orpheus_1_01",
+    "trakl_de_profundis",
+    "rodenbach_du_silence",
+    "juan_de_la_cruz_noche_oscura"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "verses": "v.1",
+      "original": "Respondens autem Job, dixit:",
+      "provisionalTranslation": "ヨブは答えて言った。"
+    },
+    {
+      "id": 2,
+      "verses": "v.2",
+      "original": "Usquequo affligitis animam meam, et atteritis me sermonibus?",
+      "provisionalTranslation": "いつまであなたたちは私の魂を苦しめ、言葉で私を粉砕するのか。"
+    },
+    {
+      "id": 3,
+      "verses": "v.3",
+      "original": "En decies confunditis me, et non erubescitis opprimentes me.",
+      "provisionalTranslation": "見よ、あなたたちはすでに十度も私を辱め、私を圧迫しながら恥じない。"
+    },
+    {
+      "id": 4,
+      "verses": "v.4",
+      "original": "Nempe etsi ignoravi, mecum erit ignorantia mea.",
+      "provisionalTranslation": "たとえ私が過ちを犯したとしても、その過ちは私自身のものだ。"
+    },
+    {
+      "id": 5,
+      "verses": "v.5",
+      "original": "At vos contra me erigimini, et arguitis me opprobriis meis.",
+      "provisionalTranslation": "しかしあなたたちは私に対して立ち上がり、私の恥を証拠として私を責める。"
+    },
+    {
+      "id": 6,
+      "verses": "v.6",
+      "original": "Saltem nunc intelligite quia Deus non aequo judicio afflixerit me, et flagellis suis me cinxerit.",
+      "provisionalTranslation": "少なくとも今は理解してほしい──神が公平な裁きで私を苦しめたのではなく、その鞭で私を取り囲んだのだということを。"
+    },
+    {
+      "id": 7,
+      "verses": "v.7",
+      "original": "Ecce clamabo, vim patiens, et nemo audiet; vociferabor, et non est qui judicet.",
+      "provisionalTranslation": "見よ、暴力を受けて叫んでも、誰も聞かない。大声で呼ばわっても、裁く者がいない。"
+    },
+    {
+      "id": 8,
+      "verses": "v.8",
+      "original": "Semitam meam circumsepsit, et transire non possum: et in calle meo tenebras posuit.",
+      "provisionalTranslation": "私の小道を塞ぎ、通ることができない。私の道に暗闇を置いた。"
+    },
+    {
+      "id": 9,
+      "verses": "v.9",
+      "original": "Spoliavit me gloria mea, et abstulit coronam de capite meo.",
+      "provisionalTranslation": "私の栄光を剥ぎ取り、頭から冠を取り去った。"
+    },
+    {
+      "id": 10,
+      "verses": "v.10",
+      "original": "Destruxit me undique, et pereo: et quasi evulsae arbori abstulit spem meam.",
+      "provisionalTranslation": "四方から私を滅ぼし、私は滅びる。根こそぎにされた木のように、私の希望を奪った。"
+    },
+    {
+      "id": 11,
+      "verses": "v.11",
+      "original": "Iratus est contra me furor ejus, et sic me habuit quasi hostem suum.",
+      "provisionalTranslation": "その怒りは私に向かって燃え上がり、神は私を自分の敵のように扱った。"
+    },
+    {
+      "id": 12,
+      "verses": "v.12",
+      "original": "Simul venerunt latrones ejus, et fecerunt sibi viam per me, et obsederunt in gyro tabernaculum meum.",
+      "provisionalTranslation": "一斉に神の盗賊たちがやってきて、私を通り道にし、私の幕屋を周囲から包囲した。"
+    },
+    {
+      "id": 13,
+      "verses": "v.13",
+      "original": "Fratres meos longe fecit a me, et noti mei quasi alieni recesserunt a me.",
+      "provisionalTranslation": "神は兄弟たちを私から遠ざけ、知人たちは見知らぬ者のように私から退いた。"
+    },
+    {
+      "id": 14,
+      "verses": "v.14",
+      "original": "Dereliquerunt me propinqui mei, et qui me noverant obliti sunt mei.",
+      "provisionalTranslation": "親族は私を見捨て、私を知っていた者たちは私を忘れた。"
+    },
+    {
+      "id": 15,
+      "verses": "v.15",
+      "original": "Inquilini domus meae et ancillae meae sicut alienum habuerunt me, et quasi peregrinus fui in oculis eorum.",
+      "provisionalTranslation": "家の住人たちと侍女たちは私を見知らぬ者のように扱い、私は彼らの目に旅人のようになった。"
+    },
+    {
+      "id": 16,
+      "verses": "v.16",
+      "original": "Servum meum vocavi, et non respondit: ore proprio deprecabar illum.",
+      "provisionalTranslation": "私は召使を呼んだが、彼は答えなかった。自分の口で彼に懇願した。"
+    },
+    {
+      "id": 17,
+      "verses": "v.17",
+      "original": "Halitum meum exhorruit uxor mea, et orabam filios uteri mei.",
+      "provisionalTranslation": "妻は私の息を嫌い、私は自分の同腹の子たちに祈った。"
+    },
+    {
+      "id": 18,
+      "verses": "v.18",
+      "original": "Stulti quoque despiciebant me: et cum ab eis recessissem, detrahebant mihi.",
+      "provisionalTranslation": "愚か者たちさえも私を蔑み、私が彼らから退くと、陰口を叩いた。"
+    },
+    {
+      "id": 19,
+      "verses": "v.19",
+      "original": "Abominati sunt me quondam consiliarii mei, et quem maxime diligebam, aversatus est me.",
+      "provisionalTranslation": "かつての顧問たちは私を忌み嫌い、最も愛していた者が私を背いた。"
+    },
+    {
+      "id": 20,
+      "verses": "v.20",
+      "original": "Pelli meae, consumptis carnibus, adhaesit os meum, et derelicta sunt tantummodo labia circa dentes meos.",
+      "provisionalTranslation": "肉が消耗し、骨が皮に付いた。歯の周りにただ唇だけが残った。"
+    },
+    {
+      "id": 21,
+      "verses": "v.21",
+      "original": "Miseremini mei, miseremini mei saltem vos, amici mei, quia manus Domini tetigit me.",
+      "provisionalTranslation": "憐れんでください、憐れんでください、少なくともあなたたちは、私の友よ──主の手が私に触れたのだから。"
+    },
+    {
+      "id": 22,
+      "verses": "v.22",
+      "original": "Quare persequimini me sicut Deus, et carnibus meis saturamini?",
+      "provisionalTranslation": "なぜ神のように私を追い迫るのか。私の肉体で飽き足りようとするのか。"
+    },
+    {
+      "id": 23,
+      "verses": "v.23",
+      "original": "Quis mihi tribuat ut scribantur sermones mei? quis mihi det ut exarentur in libro",
+      "provisionalTranslation": "誰かが私の言葉を書き記してくれるなら。誰かが書物に刻んでくれるなら──"
+    },
+    {
+      "id": 24,
+      "verses": "v.24",
+      "original": "stylo ferreo et plumbi lamina, vel celte sculpantur in silice?",
+      "provisionalTranslation": "鉄の尖筆と鉛の板で、あるいは岩に鑿で刻んでくれるなら。"
+    },
+    {
+      "id": 25,
+      "verses": "v.25",
+      "original": "Scio enim quod redemptor meus vivit, et in novissimo die de terra surrecturus sum:",
+      "provisionalTranslation": "なぜなら私は知っている──私の贖い主は生きておられる。終わりの日に私は地から立ち上がるだろう。"
+    },
+    {
+      "id": 26,
+      "verses": "v.26",
+      "original": "et rursum circumdabor pelle mea, et in carne mea videbo Deum meum:",
+      "provisionalTranslation": "再び私は皮膚に包まれるだろう。私の肉体において私の神を見るだろう。"
+    },
+    {
+      "id": 27,
+      "verses": "v.27",
+      "original": "quem visurus sum ego ipse, et oculi mei conspecturi sunt, et non alius: reposita est haec spes mea in sinu meo.",
+      "provisionalTranslation": "私自身が見るだろう、私の目が見るだろう──他の者ではなく。この希望は私の胸に納められている。"
+    },
+    {
+      "id": 28,
+      "verses": "v.28",
+      "original": "Quare ergo nunc dicitis: Persequamur eum, et radicem verbi inveniamus contra eum?",
+      "provisionalTranslation": "ではなぜあなたたちは今「彼を追い迫ろう、彼に対して言葉の根拠を見つけよう」と言うのか。"
+    },
+    {
+      "id": 29,
+      "verses": "v.29",
+      "original": "Fugite ergo a facie gladii, quoniam ultor iniquitatum gladius est: et scitote esse judicium.",
+      "provisionalTranslation": "それゆえ剣の前から逃げよ。剣は不正の報復者だから。そして裁きがあることを知れ。"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "Usquequo affligitis animam meam, et atteritis me sermonibus?",
+      "body": "「いつまであなたたちは私の魂を苦しめ、言葉で私を粉砕するのか（atteritis me sermonibus）」──第19章の開口命題として、友人たちの「言語（sermones）」そのものが affliction の手段として告発される。「atterere（粉砕する・磨り減らす）」──第14章v.19「lapides excavant aquae（水が石を穿つ）」の地質的侵食と同語根：友人たちの言葉が時間をかけて石を磨り減らす水のように、ヨブの魂（anima）を侵食する。コヘレト第5章v.1「sint pauci sermones tui（言葉は少なくあれ）」という神の前での言語的節制の命題が、ここでは人間の言語の affliction 的機能の告発として逆面として現れる──言葉が少なくあるべきなのは、言葉が「粉砕する（atterere）」力を持つからという実証がヨブの経験として提示される。ヴェイユ「La Violence」章の「言語による支配」──友人たちの神学的「言葉（sermones）」が affliction の社会的次元として機能する。",
+      "targetId": "weil_la_violence",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 7,
+      "type": "commentary",
+      "anchor": "Ecce clamabo, vim patiens, et nemo audiet; vociferabor, et non est qui judicet.",
+      "body": "「見よ、暴力を受けて叫んでも、誰も聞かない──大声で呼ばわっても、裁く者がいない（non est qui judicet）」──ヨブ記における「神の不応答」の最も激烈な定式。「vim patiens（暴力を受けて）」──affliction が「暴力（vis）」として名指される：第1章・第2章の試練が神の行為として描かれたのに対し、ここでは「暴力（violentia）」という法的・倫理的に告発可能な行為として再定義される。「non est qui judicet（裁く者がいない）」──ヨブが求める「裁判官（judex）」の不在：後に第19章v.25の「redemptor（贖い主）」として応答される空白として機能する。コヘレト第4章v.1「lacrimas innocentium, et neminem consolatorem（無実の者の涙を──慰める者は誰もいない）」という「consolator（慰める者）の不在」と、ここでの「judex（裁く者）の不在」が照応する──affliction の本質的孤立として。"
+    },
+    {
+      "paragraphId": 10,
+      "type": "commentary",
+      "anchor": "Destruxit me undique, et pereo: et quasi evulsae arbori abstulit spem meam.",
+      "body": "「四方から私を滅ぼし……根こそぎにされた木のように、私の希望を奪った（quasi evulsae arbori abstulit spem meam）」──第14章v.7「Lignum habet spem（木には希望がある）」の直接的な逆転として機能する節。第14章で「切られても再び青くなる」という希望の形象として用いられた木が、ここでは「evulsae arbori（根こそぎにされた木）」──根ごと引き抜かれた木という完全な希望の剥奪の形象として反転される。「evulsae（根こそぎにされた）」という動詞──「praecisum fuerit（切られた）」という第14章の動詞と異なる：前者は「切断」（再生可能）であり、後者は「根ごと引き抜き」（再生不可能）。affliction が深化するにつれて希望の形象が「切断」から「根こそぎ」へと後退するという詩的論理が、第14章から第19章への章間的発展として機能する。",
+      "targetId": "hieronymus_iob_14",
+      "targetParagraphId": 7
+    },
+    {
+      "paragraphId": 13,
+      "type": "prosody",
+      "anchor": "Fratres meos longe fecit a me, et noti mei quasi alieni recesserunt a me.",
+      "body": "v.13–19の「孤立の七層的連鎖」──兄弟（v.13）・親族（v.14）・家の住人と侍女（v.15）・召使（v.16）・妻（v.17）・愚か者（v.18）・顧問と友（v.19）という、社会的内輪から外縁まで及ぶ全面的な人間関係の崩壊が詩的に展開される。各節が「Dereliquerunt me（見捨てた）」・「obliti sunt mei（忘れた）」・「quasi alienum（見知らぬ者のように）」という孤立の様式の変奏として機能する。この構造はコヘレト第4章v.10「Vae soli（一人の者は哀れ）」という孤立の格言を最大限まで詩的に展開したものとして読める：一人の者は「倒れても起こしてくれる者がいない」というコヘレトの格言が、ヨブにおいては社会的紐帯の七層すべての切断として実証される。ロデンバック「沈黙について（Du Silence）」の「誰も来ない空間」・トラークル「De Profundis」の「誰も知らない荒野の道（Niemand kennt diesen dunklen Weg）」という象徴主義的孤立との照応。",
+      "targetId": "trakl_de_profundis",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 20,
+      "type": "commentary",
+      "anchor": "Pelli meae, consumptis carnibus, adhaesit os meum, et derelicta sunt tantummodo labia circa dentes meos.",
+      "body": "「肉が消耗し、骨が皮に付いた──歯の周りにただ唇だけが残った（derelicta sunt tantummodo labia circa dentes meos）」──第2章v.7の「ulcus pessimum a planta pedis usque ad verticem（足の裏から頭頂まで）」という全身的afflictionが、ここでは肉体の最終的消耗の形象として描写される。「consumptis carnibus（肉が消耗し）」──「consumere（消耗させる・消費する）」という動詞が第7章v.6「consumpti sunt absque ulla spe（いかなる希望もなく尽き果てた）」の同語根：日々の「消耗（consumi）」が肉体的「消耗（consumpti carnes）」として具現化される。「tantummodo labia circa dentes（ただ唇だけが歯の周りに）」──肉体の消耗の極限として「唇（labia）」という言語器官のみが残るという逆説：第2章v.10「non peccavit Job labiis suis（口をもって罪を犯さなかった）」の「labia（唇）」が、ここでは残存する肉体の最後の部位として出現する。afflictionの中でも「語る（labi）」機能が最後まで残るという、言語と苦悩の逆説的連帯。",
+      "targetId": "hieronymus_iob_2",
+      "targetParagraphId": 10
+    },
+    {
+      "paragraphId": 21,
+      "type": "commentary",
+      "anchor": "Miseremini mei, miseremini mei saltem vos, amici mei, quia manus Domini tetigit me.",
+      "body": "「憐れんでください、憐れんでください、少なくともあなたたちは、私の友よ──主の手が私に触れたのだから（manus Domini tetigit me）」──第19章の転換点。「Miseremini mei（憐れんでください）」という二重の反復が、v.13–20の七層的孤立の後の懇願として最大の強度を持つ。「manus Domini tetigit me（主の手が私に触れた）」──第1章v.10のサタンの言葉「vallasti eum（あなたが彼を守った）」で想起された「神の保護的接触」が、ここでは「afflictionの接触（tetigit）」として反転される：神の手が守るのではなく「打つ（tangere）」ものとして経験されている。ヴェイユ「Accepter le vide」§1「La grâce comble, mais elle ne peut entrer que là où il y a un vide pour la recevoir（恩寵は満たす、しかし恩寵が入れるのは空虚がある場所だけ）」──「manus Domini tetigit me」という神の接触が affliction による空虚の最終的形成として、恩寵の前提条件として逆説的に読める。",
+      "targetId": "weil_accepter_le_vide",
+      "targetParagraphId": 1
+    },
+    {
+      "paragraphId": 23,
+      "type": "commentary",
+      "anchor": "Quis mihi tribuat ut scribantur sermones mei? quis mihi det ut exarentur in libro",
+      "body": "「誰かが私の言葉を書き記してくれるなら（Quis mihi tribuat ut scribantur sermones mei）」──ヨブが自らの言葉の永続的記録を求める節。「scribantur sermones mei（私の言葉が書かれるなら）」という受動態の接続法が切実な願いとして機能する：v.2で「言葉（sermones）」が友人たちの攻撃の武器として機能したのに対し、ここでは自らの「言葉（sermones）」の永続的記録が求められる──同一の語が攻撃の手段から証言の媒体へと転換される。「exarentur in libro（書物に刻まれるなら）」という書き記すことへの渇望が、第25節の「Scio enim quod redemptor meus vivit（私の贖い主は生きている）」という宣言への直接的な準備として機能する：書かれることが宣言を永続させる。「書物（liber）」という語がヨブ記自体の自己参照的メタテキスト的契機として機能する──この書物（ヨブ記）がまさにヨブが求めた「書き記し」の実現として読める。"
+    },
+    {
+      "paragraphId": 24,
+      "type": "commentary",
+      "anchor": "stylo ferreo et plumbi lamina, vel celte sculpantur in silice?",
+      "body": "「鉄の尖筆と鉛の板で、あるいは岩に鑿で刻んでくれるなら（celte sculpantur in silice）」──記録の永続性への希求が素材の変容として提示される：「libro（書物）」→「stylo ferreo（鉄の尖筆）」→「plumbi lamina（鉛の板）」→「silex（岩）」という漸進的な永続性の増大。「celte sculpantur in silice（岩に鑿で刻まれる）」──v.18–19の地質的侵食（「lapides excavant aquae（水が石を穿つ）」）と対照的：第14章では水が石を消し去るが、ここではヨブ自身の言葉が石に刻まれることで永続する──消去と刻銘の対立。マラルメ「骰子一擲」の「タイポグラフィ詩」──言語の視覚的・物質的形象化への詩学的関心が、ヨブの「岩への刻銘」要求と同型の「言語の物質性への希求」として照応する。",
+      "targetId": "mallarme_coup_de_des",
+      "targetParagraphId": 1
+    },
+    {
+      "paragraphId": 25,
+      "type": "glossary",
+      "anchor": "Scio enim quod redemptor meus vivit, et in novissimo die de terra surrecturus sum:",
+      "body": "「なぜなら私は知っている──私の贖い主は生きておられる。終わりの日に私は地から立ち上がるだろう（Scio enim quod redemptor meus vivit）」──ヨブ記全体の神学的頂点にして、旧約聖書における復活信仰の最も明示的な先行定式。三つの要素が一文に凝縮される：①「Scio（私は知っている）」──絶対的確信の認識論的宣言：第7章の「Desperavi（絶望した）」・第3章の「Pereat dies（日が滅びよ）」という絶望の言語から、「Scio（知っている）」という認識的確信への劇的転換。②「redemptor meus vivit（私の贖い主は生きている）」──「redemptori（贖い主）」はヘブライ語「גֹּאֵל（gōʾēl）」：親族による法的代理人・弁護者・買い戻す者。神が「法的弁護者（judex）」として機能するという期待が、第7章v.7「non est qui judicet（裁く者がいない）」という嘆きへの応答として位置づけられる。③「in novissimo die de terra surrecturus sum（終わりの日に地から立ち上がるだろう）」──「surrecturus（立ち上がるだろう）」という未来分詞が復活の期待として提示される。ヘブライ語原典「יָקוּם（yāqûm）」は「立つ」を意味し、「地から（de terra）」という前置詞句が身体的復活の方向性を示す。ヘンデル「メサイア」第3部「I know that my Redeemer liveth」──この節が西洋音楽史最大の聖句として結晶化した形象。コヘレト第12章v.7「spiritus redeat ad Deum（霊は神へと戻る）」という「霊の帰還」に対して、ヨブの「de terra surrecturus（地から立ち上がる）」は身体的方向性を持つ──コヘレトが「上昇（霊）」を語るのに対しヨブは「地から（de terra）の起き上がり」という地上的起点を持つ復活を語る。"
+    },
+    {
+      "paragraphId": 26,
+      "type": "commentary",
+      "anchor": "et rursum circumdabor pelle mea, et in carne mea videbo Deum meum:",
+      "body": "「再び私は皮膚に包まれるだろう──私の肉体において私の神を見るだろう（in carne mea videbo Deum meum）」──キリスト教神学における「肉体的復活」の先行形として解釈されてきた最重要節。「rursum circumdabor pelle mea（再び皮膚に包まれるだろう）」──第2章v.7の「ulcus pessimum（悪性の腫物）」によって皮膚が破壊された身体が、復活において「再び（rursum）」皮膚に包まれるという身体的復元の期待。「rursum（再び）」という副詞が第14章v.7「rursum virescit（再び青くなる）」という木の更新の語と照応する──木に与えられた「rursum（再び）」が、ここでついに人間の「rursum（再び）」として実現する可能性として提示される。「in carne mea videbo Deum meum（私の肉体において私の神を見るだろう）」──ヘブライ語原典解釈の論争的核心：「min basar（肉体から / 肉体において）」という前置詞の読みによって「肉体を持って」あるいは「肉体から解放されて」の双方の読みが生まれる。ヴェイユ「Décréation」§13「神は自らを物質に変えて人間に与える──肉体への神の降下（Communion）」との照応。",
+      "targetId": "weil_decreation",
+      "targetParagraphId": 13
+    },
+    {
+      "paragraphId": 27,
+      "type": "commentary",
+      "anchor": "quem visurus sum ego ipse, et oculi mei conspecturi sunt, et non alius: reposita est haec spes mea in sinu meo.",
+      "body": "「私自身が見るだろう、私の目が見るだろう──他の者ではなく。この希望は私の胸に納められている（reposita est haec spes mea in sinu meo）」──v.25–27の「信仰宣言三連」の最終節。「ego ipse（私自身）」・「oculi mei（私の目）」・「non alius（他の者ではなく）」という三重の自己指示が、神の直接的・個別的な視覚的現前への期待を確認する。「reposita est haec spes mea in sinu meo（この希望は私の胸に納められている）」──「reposita（納められた・蓄えられた）」という完了受動態が「すでに与えられた確信」として希望を定式化する：未来への期待が「すでに胸（sinus）に納められた」確実なものとして内在化されている。「sinus（胸・懐）」という身体的形象が「pelle mea（私の皮膚）」・「carne mea（私の肉体）」という身体的復活の語彙の連続として機能する。ヨハネの十字架「noche oscura」の「Amada en el Amado transformada（愛された者が愛する者において変容する）」──「私の目で神を見る（oculi mei conspecturi sunt）」という直接的神視の期待とヨハネ的神秘的合一の構造的平行。",
+      "targetId": "juan_de_la_cruz_noche_oscura",
+      "targetParagraphId": 8
+    }
+  ]
+}
