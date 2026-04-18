@@ -1,0 +1,402 @@
+{
+  "id": "hieronymus_iob_38",
+  "title": "Iob, Caput XXXVIII",
+  "author": "Eusebius Sophronius Hieronymus",
+  "source": "Biblia Sacra Vulgata, Liber Iob, Caput XXXVIII. Bible Gateway: https://www.biblegateway.com/passage/?search=Job+38&version=VULGATE",
+  "year": "Antiquitas",
+  "firstPublication": "Vulgata Latina, c. 382–405 AD（ヒエロニムス訳）",
+  "difficulty": "上級",
+  "category": "hieronymus",
+  "originalLang": "la-LA",
+  "modernRelevance": "★★★★★",
+  "context": "ヨブ記第38章。「神の嵐の中からの語りかけ（Loquela Domini de turbine）」の開幕章として、ヨブ記全体の神学的・詩的頂点を形成する。第3章以来35章にわたって続いたヨブと友人たちの弁論に対して、神が「嵐の中から（de turbine）」初めて応答する──ただし答えではなく問いかけとして。章全体が「Numquid（あなたは〜できるか）」・「Ubi eras（どこにいたか）」・「Quis（誰が）」という修辞的問いの連続によって構成される：宇宙創造（v.4–7：大地の基礎・礎石・暁の星の歌）→海の創造と限界（v.8–11）→暁の制御（v.12–15）→死の門と大地の広さ（v.16–18）→光と闇の住処（v.19–21）→雪・雹の倉庫（v.22–23）→雷・雨・雹（v.24–30）→星座の制御（v.31–33）→雲・稲妻の制御（v.34–38）→ライオン・烏への糧（v.39–41）。神の語りかけは哲学的議論の解決ではなく、宇宙的スケールの問いかけによってヨブを「圧倒（overwhelm）」する──afflictionの理由への答えは与えられず、代わりに被造物の壮麗さの前での人間の認識論的限界が宣言される。ハイデガー「芸術作品の起源（Der Ursprung des Kunstwerkes）」の「大地（Erde）と世界（Welt）の闘争」という創造論的思索との対話的関係を持つ。",
+  "keywords": [
+    "de turbine",
+    "Ubi eras quando ponebam fundamenta terrae",
+    "星の歌（astra matutina）",
+    "海の限界",
+    "Usque huc venies",
+    "死の門",
+    "雪の倉庫",
+    "Pleiadas et Arcturus",
+    "Quis posuit sapientiam",
+    "修辞的問いの連鎖"
+  ],
+  "relatedTexts": [
+    "hieronymus_iob_1",
+    "hieronymus_iob_3",
+    "hieronymus_iob_7",
+    "hieronymus_iob_14",
+    "hieronymus_iob_19",
+    "hieronymus_iob_28",
+    "hieronymus_iob_42",
+    "hieronymus_ecclesiastes_3",
+    "hieronymus_ecclesiastes_7",
+    "hieronymus_ecclesiastes_8",
+    "hieronymus_ecclesiastes_12",
+    "weil_necessite",
+    "weil_accepter_le_vide",
+    "weil_les_astres",
+    "weil_decreation",
+    "rilke_duineser_elegien_01",
+    "rilke_duineser_elegien_09",
+    "rilke_sonette_orpheus_1_01",
+    "rilke_sonette_orpheus_2_01",
+    "mallarme_coup_de_des",
+    "hoelderlin_brot_und_wein"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "verses": "v.1",
+      "original": "Respondens autem Dominus Job de turbine, dixit:",
+      "provisionalTranslation": "主はヨブに嵐の中から答えて言われた。"
+    },
+    {
+      "id": 2,
+      "verses": "v.2",
+      "original": "Quis est iste involvens sententias sermonibus imperitis?",
+      "provisionalTranslation": "無知な言葉で思慮を覆い隠すこの者は誰か。"
+    },
+    {
+      "id": 3,
+      "verses": "v.3",
+      "original": "Accinge sicut vir lumbos tuos: interrogabo te, et responde mihi.",
+      "provisionalTranslation": "男のように腰を帯びよ。私があなたに問う、私に答えよ。"
+    },
+    {
+      "id": 4,
+      "verses": "v.4",
+      "original": "Ubi eras quando ponebam fundamenta terrae? indica mihi, si habes intelligentiam.",
+      "provisionalTranslation": "私が大地の基礎を据えたとき、あなたはどこにいたか。知性があるなら私に告げよ。"
+    },
+    {
+      "id": 5,
+      "verses": "v.5",
+      "original": "Quis posuit mensuras ejus, si nosti? vel quis tetendit super eam lineam?",
+      "provisionalTranslation": "誰がその寸法を定めたか──知っているなら。あるいは誰がその上に測り縄を張ったか。"
+    },
+    {
+      "id": 6,
+      "verses": "v.6",
+      "original": "Super quo bases illius solidatae sunt? aut quis demisit lapidem angularem ejus,",
+      "provisionalTranslation": "その礎はどこに固められているか。あるいは誰がその隅の礎石を据えたか──"
+    },
+    {
+      "id": 7,
+      "verses": "v.7",
+      "original": "cum me laudarent simul astra matutina, et jubilarent omnes filii Dei?",
+      "provisionalTranslation": "暁の星々が一斉に私を讃え、神の子らがすべて喜び叫んだとき。"
+    },
+    {
+      "id": 8,
+      "verses": "v.8",
+      "original": "Quis conclusit ostiis mare, quando erumpebat quasi de vulva procedens;",
+      "provisionalTranslation": "海が胎から出てくるように噴き出したとき、誰が海を扉で閉ざしたか。"
+    },
+    {
+      "id": 9,
+      "verses": "v.9",
+      "original": "cum ponerem nubem vestimentum ejus, et caligine illud quasi pannis infantiae obvolverem?",
+      "provisionalTranslation": "私が雲をその衣とし、濃い霧を産着のようにそれに巻いたとき。"
+    },
+    {
+      "id": 10,
+      "verses": "v.10",
+      "original": "Circumdedi illud terminis meis, et posui vectem et ostia,",
+      "provisionalTranslation": "私はそれを自分の限界で取り囲み、閂と扉を設けた。"
+    },
+    {
+      "id": 11,
+      "verses": "v.11",
+      "original": "et dixi: Usque huc venies, et non procedes amplius, et hic confringes tumentes fluctus tuos.",
+      "provisionalTranslation": "そして言った。「ここまで来い、それ以上は進まない。ここであなたの高ぶる波を打ち砕け。」"
+    },
+    {
+      "id": 12,
+      "verses": "v.12",
+      "original": "Numquid post ortum tuum praecepisti diluculo, et ostendisti aurorae locum suum?",
+      "provisionalTranslation": "あなたが生まれてから、暁に命じたことがあるか。暁にその場所を示したことがあるか。"
+    },
+    {
+      "id": 13,
+      "verses": "v.13",
+      "original": "Et tenuisti concutiens extrema terrae, et excussisti impios ex ea?",
+      "provisionalTranslation": "大地の端を揺さぶって捕まえ、不正な者たちをそこから振り落としたことがあるか。"
+    },
+    {
+      "id": 14,
+      "verses": "v.14",
+      "original": "Restituetur ut lutum signaculum, et stabit sicut vestimentum:",
+      "provisionalTranslation": "それは粘土に印章を押すように復元し、衣のように立ち現れる。"
+    },
+    {
+      "id": 15,
+      "verses": "v.15",
+      "original": "auferetur ab impiis lux sua, et brachium excelsum confringetur.",
+      "provisionalTranslation": "不正な者たちからはその光が取り去られ、高く上げられた腕は砕かれる。"
+    },
+    {
+      "id": 16,
+      "verses": "v.16",
+      "original": "Numquid ingressus es profunda maris, et in novissimis abyssi deambulasti?",
+      "provisionalTranslation": "あなたは海の深みに入ったことがあるか。深淵の最も奥を歩き回ったことがあるか。"
+    },
+    {
+      "id": 17,
+      "verses": "v.17",
+      "original": "Numquid apertae sunt tibi portae mortis, et ostia tenebrosa vidisti?",
+      "provisionalTranslation": "死の門はあなたに開かれたことがあるか。暗闇の扉を見たことがあるか。"
+    },
+    {
+      "id": 18,
+      "verses": "v.18",
+      "original": "Numquid considerasti latitudinem terrae? indica mihi, si nosti, omnia:",
+      "provisionalTranslation": "大地の広さを測ったことがあるか。すべてを知っているなら、私に告げよ。"
+    },
+    {
+      "id": 19,
+      "verses": "v.19",
+      "original": "in qua via lux habitet, et tenebrarum quis locus sit:",
+      "provisionalTranslation": "光はどの道に宿り、闇の場所はどこにあるのか。"
+    },
+    {
+      "id": 20,
+      "verses": "v.20",
+      "original": "ut ducas unumquodque ad terminos suos, et intelligas semitas domus ejus.",
+      "provisionalTranslation": "それぞれをその限界へと導き、その家への小道を理解できるように。"
+    },
+    {
+      "id": 21,
+      "verses": "v.21",
+      "original": "Sciebas tunc quod nasciturus esses, et numerum dierum tuorum noveras?",
+      "provisionalTranslation": "あなたはそのとき、自分が生まれるということを知っていたか。自分の日数の数を知っていたか。"
+    },
+    {
+      "id": 22,
+      "verses": "v.22",
+      "original": "Numquid ingressus es thesauros nivis, aut thesauros grandinis aspexisti,",
+      "provisionalTranslation": "雪の倉庫に入ったことがあるか。雹の倉庫を見たことがあるか──"
+    },
+    {
+      "id": 23,
+      "verses": "v.23",
+      "original": "quae praeparavi in tempus hostis, in diem pugnae et belli?",
+      "provisionalTranslation": "私が敵の時のために、戦いと戦争の日のために準備したものを。"
+    },
+    {
+      "id": 24,
+      "verses": "v.24",
+      "original": "Per quam viam spargitur lux, dividitur aestus super terram?",
+      "provisionalTranslation": "どの道によって光が散らされ、熱が大地の上に分けられるのか。"
+    },
+    {
+      "id": 25,
+      "verses": "v.25",
+      "original": "Quis dedit vehementissimo imbri cursum, et viam sonantis tonitrui,",
+      "provisionalTranslation": "誰が最も激しい雨に行路を与え、鳴り響く雷に道を与えたか──"
+    },
+    {
+      "id": 26,
+      "verses": "v.26",
+      "original": "ut plueret super terram absque homine in deserto, ubi nullus mortalium commoratur;",
+      "provisionalTranslation": "人のない荒野の上に、死すべき者が誰も住まない場所に雨が降るように──"
+    },
+    {
+      "id": 27,
+      "verses": "v.27",
+      "original": "ut impleret inviam et desolatam, et produceret herbas virentes?",
+      "provisionalTranslation": "道なく荒れた地を満たし、青々とした草を生み出すために。"
+    },
+    {
+      "id": 28,
+      "verses": "v.28",
+      "original": "Quis est pluviae pater? vel quis genuit stillas roris?",
+      "provisionalTranslation": "雨の父は誰か。露の雫を生んだのは誰か。"
+    },
+    {
+      "id": 29,
+      "verses": "v.29",
+      "original": "De cujus utero egressa est glacies? et gelu de caelo quis genuit?",
+      "provisionalTranslation": "誰の胎から氷が出てきたか。天の霜を生んだのは誰か。"
+    },
+    {
+      "id": 30,
+      "verses": "v.30",
+      "original": "In similitudinem lapidis aquae durantur, et superficies abyssi constringitur.",
+      "provisionalTranslation": "水は石のように固まり、深淵の表面は凍りつく。"
+    },
+    {
+      "id": 31,
+      "verses": "v.31",
+      "original": "Numquid conjungere valebis micantes stellas Pleiadas, aut gyrum Arcturi poteris dissipare?",
+      "provisionalTranslation": "あなたはプレアデスの輝く星々を結びつけることができるか。あるいはオリオン座の帯を解くことができるか。"
+    },
+    {
+      "id": 32,
+      "verses": "v.32",
+      "original": "Numquid producis luciferum in tempore suo, et vesperum super filios terrae consurgere facis?",
+      "provisionalTranslation": "あなたは明けの星をその時に引き出し、宵の星を地の子らの上に昇らせることができるか。"
+    },
+    {
+      "id": 33,
+      "verses": "v.33",
+      "original": "Numquid nosti ordinem caeli, et pones rationem ejus in terra?",
+      "provisionalTranslation": "あなたは天の秩序を知っているか。その法則を地に置くことができるか。"
+    },
+    {
+      "id": 34,
+      "verses": "v.34",
+      "original": "Numquid elevabis in nebula vocem tuam, et impetus aquarum operiet te?",
+      "provisionalTranslation": "あなたは雲の中に声を上げることができるか。水の奔流があなたを覆うか。"
+    },
+    {
+      "id": 35,
+      "verses": "v.35",
+      "original": "Numquid mittes fulgura, et ibunt, et revertentia dicent tibi: Adsumus?",
+      "provisionalTranslation": "稲妻を送ることができるか──稲妻が行き、戻ってきて「ここにいます」と言うか。"
+    },
+    {
+      "id": 36,
+      "verses": "v.36",
+      "original": "Quis posuit in visceribus hominis sapientiam? vel quis dedit gallo intelligentiam?",
+      "provisionalTranslation": "誰が人間の腹の中に知恵を置いたか。誰が雄鶏に知性を与えたか。"
+    },
+    {
+      "id": 37,
+      "verses": "v.37",
+      "original": "Quis enarrabit caelorum rationem? et concentum caeli quis dormire faciet?",
+      "provisionalTranslation": "誰が天の計画を語り伝えることができるか。誰が天の調和を眠らせることができるか。"
+    },
+    {
+      "id": 38,
+      "verses": "v.38",
+      "original": "Quando fundebatur pulvis in terra, et glebae compingebantur?",
+      "provisionalTranslation": "塵が大地に流し込まれ、土くれが固まり合わさったとき──。"
+    },
+    {
+      "id": 39,
+      "verses": "v.39",
+      "original": "Numquid capies leaenae praedam, et animam catulorum ejus implebis,",
+      "provisionalTranslation": "雌ライオンのために獲物を捕らえることができるか。その子らの命を満たすことができるか──"
+    },
+    {
+      "id": 40,
+      "verses": "v.40",
+      "original": "quando cubant in antris, et in specubus insidiantur?",
+      "provisionalTranslation": "彼らが洞窟に伏し、茂みの中で待ち伏せするとき。"
+    },
+    {
+      "id": 41,
+      "verses": "v.41",
+      "original": "Quis praeparat corvo escam suam, quando pulli ejus clamant ad Deum, vagantes, eo quod non habeant cibos?",
+      "provisionalTranslation": "烏のために食物を準備するのは誰か──その雛が神に向かって叫び、食物がないために彷徨うとき。"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "glossary",
+      "anchor": "Respondens autem Dominus Job de turbine, dixit:",
+      "body": "「主はヨブに嵐の中から答えて言われた（Respondens autem Dominus Job de turbine）」──ヨブ記の最大の転換点。第3章以来35章にわたってヨブと友人たちの弁論が続いてきた後、神が初めて「応答する（respondere）」。しかしその応答は「答え（responsio）」ではなく「問い（interrogatio）」として来る逆説。「de turbine（嵐の中から）」──「turbo（嵐・旋風）」という語が章全体の修辞的構造を象徴する：答えを明快に届けるのではなく、嵐として──すなわち圧倒的な力として──神が語る。第3章v.1「Post haec aperuit Job os suum（その後、ヨブは口を開いた）」という沈黙の破りに対して、ここでは神が沈黙を破る──しかし応答の様式が全く異なる：ヨブは「嘆き（maledictio）」から始めたが、神は「問い（interrogatio）」から始める。ハイデガー「芸術作品の起源（Der Ursprung des Kunstwerkes）」での「大地（Erde）の自己閉鎖性」──神が「嵐（turbo）」という自然現象の中から語ることは、ハイデガー的に「大地が自己を開示しながら同時に閉じる」という存在論的構造として読める。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "Quis est iste involvens sententias sermonibus imperitis?",
+      "body": "「無知な言葉で思慮を覆い隠すこの者は誰か（involvens sententias sermonibus imperitis）」──神の語りかけの最初の言葉が批判として始まる。「involvens sententias（思慮を覆い隠す）」──「involvere（巻き込む・覆い隠す）」という動詞：第1章v.10「vallasti eum（あなたが彼を守った）」・第7章v.12「circumdedisti me carcere（牢獄で私を囲んだ）」という「囲む」動詞群と連続しながら、ここでは「思慮（sententiae）」を言葉（sermones）で「覆い隠す」という認識論的批判として機能する。「sermonibus imperitis（無知な言葉で）」──ヨブの弁論全体が「無知（imperitus）」として総括される：第19章v.2「atteritis me sermonibus（言葉で私を粉砕する）」という友人への批判が、神からヨブへの批判として反転される。コヘレト第6章v.11「Verba sunt plurima, multamque in disputando habentia vanitatem（言葉は多く、議論に多くの虚無がある）」というコヘレト的言語批判がここで神の言葉として実現される。"
+    },
+    {
+      "paragraphId": 4,
+      "type": "commentary",
+      "anchor": "Ubi eras quando ponebam fundamenta terrae? indica mihi, si habes intelligentiam.",
+      "body": "「私が大地の基礎を据えたとき、あなたはどこにいたか（Ubi eras quando ponebam fundamenta terrae）」──ヨブ記第38章の核心命題にして、西洋文学・神学における「被造物の存在論的限界」の最も劇的な定式。「Ubi eras（あなたはどこにいたか）」という問いが、第28章v.20「Unde ergo sapientia venit（知恵はどこから来るのか）」という「場所の問い」を逆転させる：知恵の「場所」を問われたコヘレト・ヨブに対して、神は「あなた自身の場所」を問う──「あなたはどこにいたか」という問いが人間の時間的後着性・存在論的被造性を露わにする。「si habes intelligentiam（知性があるなら）」という条件節──第28章v.12「Sapientia vero ubi invenitur（知恵はどこに見出されるのか）」における知恵の不可到達性が、ここでは「intelligentia（知性）」の条件として問われる。リルケ「ドゥイーノ悲歌・第1歌」冒頭「Wer, wenn ich schriee, hörte mich denn aus der Engel Ordnungen（誰が聞いてくれるだろうか）」──ヨブの「叫び（clamabo）」が神に聞こえないという第7章の嘆きに対し、ここでは神が叫んでいる：方向が逆転された「誰が聞くのか」の問い。",
+      "targetId": "rilke_duineser_elegien_01",
+      "targetParagraphId": 1
+    },
+    {
+      "paragraphId": 6,
+      "type": "commentary",
+      "anchor": "Super quo bases illius solidatae sunt? aut quis demisit lapidem angularem ejus,",
+      "body": "「その礎はどこに固められているか──誰がその隅の礎石を据えたか（quis demisit lapidem angularem ejus）」──建築的メタファーによる創造論的問いかけ。「lapidem angularem（隅の礎石）」──古代の建築において、隅の礎石（cornerstone）は建造物全体の基準となる最重要の石：すべての寸法・方向・水平が隅の礎石によって決まる。この建築的用語が宇宙創造に転用されることで、神が宇宙を「建築する（aedificare）」主体として提示される。コヘレト第3章v.14「omnia opera quae fecit Deus perseverent in perpetuum（神が行ったすべての業は永遠に続く）」という創造の永続性が、ここでは「基礎（fundamenta）・礎石（lapis angularis）」という建築的永続性として具体化される。ヘルダーリン「パンと葡萄酒（Brot und Wein）」第3連での「聖なる夜（heilige Nacht）」──神の秩序的創造と夜の神聖性という主題が共鳴する。",
+      "targetId": "hoelderlin_brot_und_wein",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 7,
+      "type": "commentary",
+      "anchor": "cum me laudarent simul astra matutina, et jubilarent omnes filii Dei?",
+      "body": "「暁の星々が一斉に私を讃え、神の子らがすべて喜び叫んだとき（cum me laudarent simul astra matutina）」──第38章で最も詩的・宇宙論的な節。「astra matutina（暁の星々）」が大地の礎石設置を「讃える（laudare）」という宇宙的讃美の場面──創造が宇宙的音楽的出来事として提示される。「jubilarent omnes filii Dei（神の子らがすべて喜び叫んだ）」──「jubilarent（喜び叫ぶ）」という語根がユビラーレ（jubilare）として中世典礼詩・讃美歌の伝統に流通した。ヴェイユ「Les Astres（星々）」の「Astres en feu peuplant la nuit les cieux lointains（遠い天を夜に満たす炎の星々よ）」──ヴェイユが星々の必然性への服従として捉える宇宙的秩序が、ここでは創造の讃美者としての星々として登場する。リルケ「オルフェウスに寄せるソネット」第2部第1番「Atmen, du unsichtbares Gedicht（息よ、汝、見えない詩）」──宇宙が詩的・音楽的秩序として把握されるという詩学が「星の讃美（laudarent astra）」という宇宙的コロスとして先取りされる。",
+      "targetId": "rilke_sonette_orpheus_2_01",
+      "targetParagraphId": 1
+    },
+    {
+      "paragraphId": 11,
+      "type": "commentary",
+      "anchor": "et dixi: Usque huc venies, et non procedes amplius, et hic confringes tumentes fluctus tuos.",
+      "body": "「そして言った──ここまで来い、それ以上は進まない（Usque huc venies, et non procedes amplius）。ここであなたの高ぶる波を打ち砕け」──神の創造的命令の最も鮮烈な定式。「Usque huc venies, et non procedes amplius（ここまで来い、それ以上は進まない）」──海への命令としての「限界設定（constitutio terminorum）」。コヘレト第5章v.1「Deus enim in caelo, et tu super terram（神は天にいて、あなたは地の上にいる）」という垂直的距離が、ここでは「神が海に限界を設定する（terminos meos, v.10）」という水平的限界設定として具体化される。「confringes tumentes fluctus（高ぶる波を打ち砕け）」──「tumentes（高ぶる・膨れ上がる）」という形容詞が「superbia（傲慢）」の物理的形象として機能する：海の波の「高ぶり（tumere）」が傲慢（superbia）の自然的アレゴリーとして機能する。ヴェイユ「Nécessité」章の「必然性は神と人間の間の幕（écran）」──神が「海に限界を設定する」という「必然性の設定」がヴェイユ的「必然（nécessité）の秩序」の聖書的具体形として読める。",
+      "targetId": "weil_necessite",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 17,
+      "type": "commentary",
+      "anchor": "Numquid apertae sunt tibi portae mortis, et ostia tenebrosa vidisti?",
+      "body": "「死の門はあなたに開かれたことがあるか──暗闇の扉を見たことがあるか（portae mortis / ostia tenebrosa）」──神の問い連鎖の中で最も詩的・神秘的な節。「portae mortis（死の門）」──第14章v.12「donec atteratur caelum, non evigilabit（天が消え去るまで、目覚めない）」・第7章v.9「qui descenderit ad inferos, non ascendet（冥府に降った者は昇らない）」という「冥府の一方通行性」が、ここでは「扉（portae / ostia）」という建築的形象として出現する。「Numquid apertae sunt tibi（あなたに開かれたことがあるか）」──第28章v.21「Abscondita est ab oculis omnium viventium（すべての生ける者の目から隠されている）」という「死と知恵の隠蔽」が、ここでは「死の門が開かれたことがあるか」という問いとして展開される。トラークル「De Profundis」での「暗黒の入口（dunkle Pforte）」──「ostia tenebrosa（暗闇の扉）」というヨブ的形象がトラークルの詩的暗黒への接近として照応する。",
+      "targetId": "trakl_de_profundis",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 21,
+      "type": "commentary",
+      "anchor": "Sciebas tunc quod nasciturus esses, et numerum dierum tuorum noveras?",
+      "body": "「あなたはそのとき、自分が生まれるということを知っていたか──自分の日数の数を知っていたか（Sciebas tunc quod nasciturus esses）」──第38章の問いの中で最も存在論的に鋭い節。「Sciebas tunc（そのとき知っていたか）」──「そのとき（tunc）」という時間指示が「大地の基礎が据えられたとき（v.4）」という創造以前の時間を指す：人間は自分の誕生以前に存在しなかった──という自明の事実が問いとして劇的に提示される。コヘレト第6章v.10「Qui futurus est, jam vocatum est nomen ejus（これから来る者については、すでにその名前が呼ばれている）」という「名前の先行性」と対照的：コヘレトでは名前が先行するが、ヨブ第38章では「あなたは知らなかった（Sciebas? → implicitly: Non sciebas）」という知識の後着性が強調される。「numerum dierum tuorum noveras（自分の日数を知っていたか）」──コヘレト第5章v.17「numero dierum vitae suae quos dedit ei Deus（神が彼に与えた生涯の日数）」という「与えられた日数」が、ここでは「あなたには知ることができなかった」として封印される。"
+    },
+    {
+      "paragraphId": 26,
+      "type": "commentary",
+      "anchor": "ut plueret super terram absque homine in deserto, ubi nullus mortalium commoratur;",
+      "body": "「人のない荒野の上に、死すべき者が誰も住まない場所に雨が降るように（ut plueret super terram absque homine in deserto）」──第38章の神の語りかけの中で最も神学的に重要な節の一つ。「absque homine（人間なしに）」・「ubi nullus mortalium commoratur（死すべき者が誰も住まない）」という二重の人間不在の強調──神の配慮が人間の利用を超えて行われることの宣言。v.27「ut impleret inviam et desolatam, et produceret herbas virentes（道なく荒れた地を満たし、青々とした草を生み出すために）」という「無益の配慮」が続く：誰も見ない荒野にも雨を降らせ草を生やす神の創造的意志。コヘレト第3章v.11「Cuncta fecit bona in tempore suo（神はすべてをその時において美しく造った）」という創造の美しさが、ここでは「人間不在の場所への美しい配慮」として拡張される。リルケ「ドゥイーノ悲歌・第9歌」「wir sind nicht sehr zuverlässig zuhause / in der gedeuteten Welt（私たちは解釈された世界の中で、それほど確かに住んでいない）」──人間の「住まい（commorari）」の外に広がる神の配慮という主題。",
+      "targetId": "rilke_duineser_elegien_09",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 31,
+      "type": "commentary",
+      "anchor": "Numquid conjungere valebis micantes stellas Pleiadas, aut gyrum Arcturi poteris dissipare?",
+      "body": "「あなたはプレアデスの輝く星々を結びつけることができるか──あるいはオリオン座の帯を解くことができるか（conjungere valebis micantes stellas Pleiadas）」──第38章の星座論的問いの核心。「Pleiadas（プレアデス）・Arcturi（アルクトゥルス）」──v.32の「luciferum（明けの星）・vesperum（宵の星）」とともに、神の天文学的主権を具体的な星座名で提示する。「conjungere / dissipare（結びつける・解く）」という対義的動詞──星座を「結びつける」も「解く」もできない人間の認識論的・技術的限界。コヘレト第3章v.1「Omnia tempus habent（すべてのことには時がある）」という時の秩序が、星座の運行という天文学的時間秩序として具体化される：プレアデスの「季節（春）」・オリオンの「季節（冬）」という古代天文学的時間管理への言及。ヴェイユ「Les Astres（星々）」の「Astres en feu peuplant la nuit les cieux lointains（遠い天を夜に満たす炎の星々よ）──vous nous obéissez（あなたたちは私たちに従う）」というヴェイユ的な星々の必然的秩序への服従が、ここでは「星座は神のみが制御する」という神主権として先行する。",
+      "targetId": "weil_les_astres",
+      "targetParagraphId": 1
+    },
+    {
+      "paragraphId": 33,
+      "type": "commentary",
+      "anchor": "Numquid nosti ordinem caeli, et pones rationem ejus in terra?",
+      "body": "「あなたは天の秩序を知っているか──その法則を地に置くことができるか（Numquid nosti ordinem caeli）」──第38章の認識論的問いの集約点。「ordinem caeli（天の秩序）」──「ordo（秩序・法則・序列）」という語がコヘレト第3章の「時（tempus）」概念と接続する：天の「秩序（ordo）」は時間的・空間的・数学的に整合した宇宙の法則。「pones rationem ejus in terra（その法則を地に置くことができるか）」──「ratio（法則・理性・計算）」という語の多義性：天の「法則（ratio）」を「地（terra）」に「置く（ponere）」という問いが、コヘレト第8章v.17「nullam possit homo invenire rationem（人は理を見出せない）」という知恵の不可到達性を宇宙論的スケールで問い直す。第28章v.12「Sapientia vero ubi invenitur（知恵はどこに見出されるのか）」という問いへの応答として、「天の秩序（ordo caeli）」という知恵の「場所（locus）」が示されながら、それが人間には届かないことが確認される。",
+      "targetId": "hieronymus_ecclesiastes_8",
+      "targetParagraphId": 17
+    },
+    {
+      "paragraphId": 35,
+      "type": "commentary",
+      "anchor": "Numquid mittes fulgura, et ibunt, et revertentia dicent tibi: Adsumus?",
+      "body": "「稲妻を送ることができるか──稲妻が行き、戻ってきて『ここにいます（Adsumus）』と言うか（revertentia dicent tibi: Adsumus）」──第38章の最も詩的・劇的な節。「Adsumus（ここにいます）」という稲妻の「語り」──第14章v.5–6の「Abyssus dicit: Non est in me（深淵は言う：私の中にない）」という「語る自然」の修辞法（prosopopeia）が、ここでは稲妻が「戻ってきて『ここにいます』と言う」という従順な使者として提示される。「revertentia（戻ってきて）」──コヘレト第1章v.6「in circulos suos revertitur（巡回へと戻る）」という風の循環的帰還が、ここでは神の命令に従って「戻る（reverti）」稲妻として権威的従順として再定義される。マラルメ「骰子一擲」§8「UNE CONSTELLATION（ひとつの星座が）」──偶然の嵐の中で生まれる星座的秩序という形象が「稲妻が行き戻る」という神の命令の確実な執行と照応する：マラルメの「おそらく（PEUT-ÊTRE）」に対してヨブ記の稲妻は「必ず（Adsumus）」と応答する。",
+      "targetId": "mallarme_coup_de_des",
+      "targetParagraphId": 8
+    },
+    {
+      "paragraphId": 36,
+      "type": "commentary",
+      "anchor": "Quis posuit in visceribus hominis sapientiam? vel quis dedit gallo intelligentiam?",
+      "body": "「誰が人間の腹の中に知恵を置いたか──誰が雄鶏に知性を与えたか（Quis posuit in visceribus hominis sapientiam）」──第38章の問い連鎖において唯一「知恵（sapientia）」という語が登場する節。「in visceribus hominis（人間の腹の中に）」──第28章v.12「Sapientia vero ubi invenitur（知恵はどこに見出されるのか）」という「場所の問い」が、ここでは「人間の腹（viscera）の中」という身体的場所として問われる：「腹の中」という身体的内奥が知恵の可能な「場所（locus）」として提示されながら、「Quis posuit（誰が置いたか）」という問いが人間自身の知恵の受動的受容性を示す──知恵は人間が自ら「見出す」のではなく、神が「置く（ponere）」ものとして定義される。第28章v.28「Ecce timor Domini, ipsa est sapientia（神への畏れ、それが知恵だ）」という章末定義への橋渡しとして機能する：知恵は神が「置く（ponere）」ものであり、人間はそれを「神への畏れ（timor Domini）」という形で受け取る。"
+    },
+    {
+      "paragraphId": 41,
+      "type": "commentary",
+      "anchor": "Quis praeparat corvo escam suam, quando pulli ejus clamant ad Deum, vagantes, eo quod non habeant cibos?",
+      "body": "「烏のために食物を準備するのは誰か──その雛が神に向かって叫び、食物がないために彷徨うとき（pulli ejus clamant ad Deum）」──第38章の結語にして最も感動的な節。「pulli ejus clamant ad Deum（烏の雛が神に向かって叫ぶ）」──v.39–41のライオン・烏への糧の問いが章全体の宇宙論的スケール（大地の基礎・海の限界・星座の制御）から、ひとつの動物の雛の「叫び（clamare）」へと縮小される逆説的な結語。ヨブ第7章v.7「Ecce clamabo, vim patiens, et nemo audiet（見よ、暴力を受けて叫んでも、誰も聞かない）」というヨブの「聞かれない叫び」に対して、ここでは「烏の雛が神に向かって叫び（clamant ad Deum）」──神に叫びかけが届く動物として烏が提示される：ヨブの「聞かれない叫び」と烏の「聞かれる叫び」という対称が、神の応答の非対称性（人間には答えず、動物には糧を準備する）という逆説として成立する。リルケ「ドゥイーノ悲歌・第1歌」「Wer, wenn ich schriee, hörte mich（誰が聞いてくれるだろうか）」という存在の叫びが、ここでは「烏の雛の叫びが聞かれる」という神の配慮によって逆説的に応答される。",
+      "targetId": "rilke_duineser_elegien_01",
+      "targetParagraphId": 1
+    }
+  ]
+}
