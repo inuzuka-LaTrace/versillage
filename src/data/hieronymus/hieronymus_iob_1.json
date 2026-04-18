@@ -1,0 +1,239 @@
+{
+  "id": "hieronymus_iob_1",
+  "title": "Iob, Caput I",
+  "author": "Eusebius Sophronius Hieronymus",
+  "source": "Biblia Sacra Vulgata, Liber Iob, Caput I. Bible Gateway: https://www.biblegateway.com/passage/?search=Job+1&version=VULGATE",
+  "year": "Antiquitas",
+  "firstPublication": "Vulgata Latina, c. 382–405 AD（ヒエロニムス訳）",
+  "difficulty": "中級",
+  "category": "hieronymus",
+  "originalLang": "la-LA",
+  "modernRelevance": "★★★★★",
+  "context": "ヨブ記（Liber Iob）第1章。ヨブ記は旧約聖書の知恵文学の最高峰であり、コヘレトの「afflictio spiritus」と並ぶ苦悩論の聖書的定式を提供する。第1章は序章として散文で書かれ（第3章以降の詩篇部分と対をなす）、物語の枠組みを設定する。ウツの地の義人ヨブ──「simplex et rectus, ac timens Deum（純朴で正しく、神を畏れる）」──の繁栄が天上での神とサタンの対話によって試練の場として選ばれ、使者たちの次々とやってくる報告によって財産・子供たちをすべて失う。v.21の「Nudus egressus sum de utero matris meae, et nudus revertar（裸で母の胎から出た、裸で戻ろう）──主は与え、主は取られた。主の御名は祝福されよ（Sit nomen Domini benedictum）」という頂点命題は、コヘレト第5章v.14「Sicut egressus est nudus de utero matris suae, sic revertetur」の先行形であると同時に、苦悩の中での神への賛美という逆説的信仰告白として西洋神学・文学全体に流通した。収録予定章：第1章（序章・試練の設定）・第2章（第二の試練・皮膚病）・第3章（ヨブの呪詛詩）・第7章（夜の嘆き）・第19章（「私の贖い主は生きている」）・第38章（神の嵐の中からの語り）・第42章（回復・結語）。",
+  "keywords": [
+    "simplex et rectus",
+    "timens Deum",
+    "Satan",
+    "試練",
+    "財産の喪失",
+    "子の死",
+    "nudus revertar",
+    "Dominus dedit Dominus abstulit",
+    "Sit nomen Domini benedictum",
+    "afflictio"
+  ],
+  "relatedTexts": [
+    "hieronymus_ecclesiastes_1",
+    "hieronymus_ecclesiastes_5",
+    "hieronymus_ecclesiastes_7",
+    "hieronymus_ecclesiastes_12",
+    "weil_accepter_le_vide",
+    "weil_necessite",
+    "weil_decreation",
+    "weil_dressage",
+    "weil_la_violence",
+    "baudelaire_spleen",
+    "trakl_de_profundis",
+    "rilke_duineser_elegien_01"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "verses": "v.1",
+      "original": "Vir erat in terra Hus, nomine Job: et erat vir ille simplex, et rectus, ac timens Deum, et recedens a malo.",
+      "provisionalTranslation": "ウツの地にヨブという名の人がいた。その人は純朴で正しく、神を畏れ、悪を遠ざける者だった。"
+    },
+    {
+      "id": 2,
+      "verses": "v.2",
+      "original": "Natique sunt ei septem filii, et tres filiae.",
+      "provisionalTranslation": "彼には七人の息子と三人の娘が生まれた。"
+    },
+    {
+      "id": 3,
+      "verses": "v.3",
+      "original": "Et fuit possessio ejus septem millia ovium, et tria millia camelorum, quingenta quoque juga boum, et quingentae asinae, ac familia multa nimis: eratque vir ille magnus inter omnes orientales.",
+      "provisionalTranslation": "その財産は羊七千頭、ラクダ三千頭、牛五百くびき、雌ロバ五百頭、また非常に多くの使用人であった。この人は東方のすべての人々の中で最も偉大な者だった。"
+    },
+    {
+      "id": 4,
+      "verses": "v.4",
+      "original": "Et ibant filii ejus, et faciebant convivium per domos, unusquisque in die suo. Et mittentes vocabant tres sorores suas, ut comederent et biberent cum eis.",
+      "provisionalTranslation": "息子たちは順番に、それぞれ自分の日に、家々で宴を催していた。そして三人の妹たちを呼んで、自分たちとともに食べ飲むようにした。"
+    },
+    {
+      "id": 5,
+      "verses": "v.5",
+      "original": "Cumque in orbem transissent dies convivii, mittebat ad eos Job, et sanctificabat illos: consurgensque diluculo, offerebat holocausta pro singulis. Dicebat enim: Ne forte peccaverint filii mei, et benedixerint Deo in cordibus suis. Sic faciebat Job cunctis diebus.",
+      "provisionalTranslation": "宴の日々が一巡すると、ヨブは彼らを呼び寄せ、彼らを聖別した。早朝に起きて、それぞれのために燔祭を献げた。「わが子たちが罪を犯し、心の中で神を呪ったかもしれない」と彼は言っていた。ヨブはいつもそのようにしていた。"
+    },
+    {
+      "id": 6,
+      "verses": "v.6",
+      "original": "Quadam autem die, cum venissent filii Dei ut assisterent coram Domino, affuit inter eos etiam Satan.",
+      "provisionalTranslation": "ある日、神の子らが主の前に立つためにやってきたとき、サタンもその中に来た。"
+    },
+    {
+      "id": 7,
+      "verses": "v.7",
+      "original": "Cui dixit Dominus: Unde venis? Qui respondens, ait: Circuivi terram, et perambulavi eam.",
+      "provisionalTranslation": "主はサタンに言った。「どこから来たのか。」サタンは答えて言った。「地を巡り歩き、行き来してきた。」"
+    },
+    {
+      "id": 8,
+      "verses": "v.8",
+      "original": "Dixitque Dominus ad eum: Numquid considerasti servum meum Job, quod non sit ei similis in terra, homo simplex et rectus, ac timens Deum, et recedens a malo?",
+      "provisionalTranslation": "主はサタンに言った。「わが僕ヨブに目を向けたか。地上に彼に似た者はいない──純朴で正しく、神を畏れ、悪を遠ざける者だ。」"
+    },
+    {
+      "id": 9,
+      "verses": "v.9",
+      "original": "Cui respondens Satan, ait: Numquid Job frustra timet Deum?",
+      "provisionalTranslation": "サタンは主に答えて言った。「ヨブは理由なく神を畏れているのですか。」"
+    },
+    {
+      "id": 10,
+      "verses": "v.10",
+      "original": "nonne tu vallasti eum, ac domum ejus, universamque substantiam per circuitum; operibus manuum ejus benedixisti, et possessio ejus crevit in terra?",
+      "provisionalTranslation": "「あなたが彼と彼の家と財産すべてを周囲から守っておられるのではないですか。あなたは彼の手の業を祝福され、彼の財産は地上で増えました。」"
+    },
+    {
+      "id": 11,
+      "verses": "v.11",
+      "original": "sed extende paululum manum tuam et tange cuncta quae possidet, nisi in faciem benedixerit tibi.",
+      "provisionalTranslation": "「しかし、少し手を伸ばして彼の持つものすべてに触れてみてください。彼はあなたの御顔に向かって呪うでしょう。」"
+    },
+    {
+      "id": 12,
+      "verses": "v.12",
+      "original": "Dixit ergo Dominus ad Satan: Ecce universa quae habet in manu tua sunt: tantum in eum ne extendas manum tuam. Egressusque est Satan a facie Domini.",
+      "provisionalTranslation": "主はサタンに言った。「見よ、彼の持つものすべてをあなたの手に委ねる。ただし彼自身には手を伸ばすな。」サタンは主の御前を去った。"
+    },
+    {
+      "id": 13,
+      "verses": "v.13",
+      "original": "Cum autem quadam die filii et filiae ejus comederent et biberent vinum in domo fratris sui primogeniti,",
+      "provisionalTranslation": "ある日、息子たちと娘たちが長兄の家でパンを食べ、ぶどう酒を飲んでいたとき、"
+    },
+    {
+      "id": 14,
+      "verses": "v.14",
+      "original": "nuntius venit ad Job, qui diceret: Boves arabant, et asinae pascebantur juxta eos:",
+      "provisionalTranslation": "使者がヨブのもとに来て言った。「牛が耕し、ロバがその傍らで草を食んでいました。」"
+    },
+    {
+      "id": 15,
+      "verses": "v.15",
+      "original": "et irruerunt Sabaei, tuleruntque omnia, et pueros percusserunt gladio: et evasi ego solus, ut nuntiarem tibi.",
+      "provisionalTranslation": "「するとサバ人が襲いかかり、すべてを奪い、若者たちを剣で打ちました。私だけが逃げ、あなたに告げに来ました。」"
+    },
+    {
+      "id": 16,
+      "verses": "v.16",
+      "original": "Cumque adhuc ille loqueretur, venit alter, et dixit: Ignis Dei cecidit e caelo, et tactas oves puerosque consumpsit: et effugi ego solus, ut nuntiarem tibi.",
+      "provisionalTranslation": "その者がまだ語っているうちに、別の者が来て言った。「神の火が天から落ち、羊と若者たちを焼き尽くしました。私だけが逃れ、あなたに告げに来ました。」"
+    },
+    {
+      "id": 17,
+      "verses": "v.17",
+      "original": "Sed et illo adhuc loquente, venit alius, et dixit: Chaldaei fecerunt tres turmas, et invaserunt camelos, et tulerunt eos, necnon et pueros percusserunt gladio: et ego fugi solus, ut nuntiarem tibi.",
+      "provisionalTranslation": "その者がまだ語っているうちに、また別の者が来て言った。「カルデア人が三隊に分かれてラクダに攻め込み、それらを奪い、若者たちを剣で打ちました。私だけが逃れ、あなたに告げに来ました。」"
+    },
+    {
+      "id": 18,
+      "verses": "v.18",
+      "original": "Adhuc loquebatur ille, et ecce alius intravit, et dixit: Filiis tuis et filiabus vescentibus et bibentibus vinum in domo fratris sui primogeniti,",
+      "provisionalTranslation": "その者がまだ語っているうちに、また別の者が入ってきて言った。「あなたの息子たちと娘たちが長兄の家でパンを食べ、ぶどう酒を飲んでいましたが、"
+    },
+    {
+      "id": 19,
+      "verses": "v.19",
+      "original": "repente ventus vehemens irruit a regione deserti, et concussit quatuor angulos domus: quae corruens oppressit liberos tuos, et mortui sunt: et effugi ego solus, ut nuntiarem tibi.",
+      "provisionalTranslation": "「突然、荒野の方から猛烈な風が吹いてきて家の四隅を揺さぶり、家が倒れてあなたの子供たちの上に崩れ、彼らは死にました。私だけが逃れ、あなたに告げに来ました。」"
+    },
+    {
+      "id": 20,
+      "verses": "v.20",
+      "original": "Tunc surrexit Job, et scidit vestimenta sua: et tonso capite corruens in terram, adoravit,",
+      "provisionalTranslation": "するとヨブは立ち上がり、衣を裂いた。頭を剃り、地に倒れ伏して礼拝した。"
+    },
+    {
+      "id": 21,
+      "verses": "v.21",
+      "original": "et dixit: Nudus egressus sum de utero matris meae, et nudus revertar illuc. Dominus dedit, Dominus abstulit; sicut Domino placuit, ita factum est. Sit nomen Domini benedictum.",
+      "provisionalTranslation": "そして言った。「裸で母の胎から出た。裸でそこへ戻ろう。主は与え、主は取られた。主の御名が祝福されよ。」"
+    },
+    {
+      "id": 22,
+      "verses": "v.22",
+      "original": "In omnibus his non peccavit Job labiis suis, neque stultum quid contra Deum locutus est.",
+      "provisionalTranslation": "これらすべてにおいて、ヨブは口をもって罪を犯さず、神に対して愚かなことを語らなかった。"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "glossary",
+      "anchor": "Vir erat in terra Hus, nomine Job: et erat vir ille simplex, et rectus, ac timens Deum, et recedens a malo.",
+      "body": "「ウツの地にヨブという名の人がいた──純朴で正しく、神を畏れ、悪を遠ざける者」──ヨブ記の開口部にして、主人公の道徳的定義の四重の定式。「simplex（純朴・完全）」はヘブライ語「תָּם（tam）」の訳で「傷なき・完全な」を意味し、「rectus（正しい）」は「יָשָׁר（yashar）」──コヘレト第7章v.29「神は人間を真っ直ぐに造った（fecerit Deus hominem rectum）」の「rectum」と同語根。「timens Deum（神を畏れる）」はコヘレト第5章v.6「tu vero Deum time」・第12章v.13「Deum time, et mandata ejus observa」という知恵文学の中心命題の具体的人格化。第12章の「hoc est enim omnis homo（これが人間のすべて）」という結語的定義が、ここではヨブという一人の人格において具体化される。「受難なき義人の存在」という出発点が、章全体の試練設定の逆説的前提となる。"
+    },
+    {
+      "paragraphId": 5,
+      "type": "commentary",
+      "anchor": "Dicebat enim: Ne forte peccaverint filii mei, et benedixerint Deo in cordibus suis. Sic faciebat Job cunctis diebus.",
+      "body": "「わが子たちが罪を犯し、心の中で神を呪ったかもしれない」──ヘブライ語原典「וּבֵרֲכ֤וּ אֱלֹהִים֙（u-ber'khu Elohim）」は直訳すれば「神を祝福した」だが、「呪う」の婉曲表現として使われる──「祝福する（バーラク）」という語が文脈によって「呪う」の反語的委婉として機能するヘブライ語的表現。ヒエロニムスの「benedixerint（祝福した）」という訳がこの婉曲法を保存する。ヨブが毎日燔祭を献げるという予防的・代理的な贖罪実践が、サタンの「frustra timet Deum（理由なく神を畏れる）」という問いへの伏線として機能する──もし保護がなければ、子供たちは罪を犯すかもしれないという親の神学的不安。ヴェイユ「Dressage（訓練）」章の「神は苦難を通じて人間を精錬する」という命題との逆説的対比：ヨブは苦難を予防しようとするが、神はその苦難を試練として許可する。",
+      "targetId": "weil_dressage",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 7,
+      "type": "commentary",
+      "anchor": "Circuivi terram, et perambulavi eam.",
+      "body": "「地を巡り歩き、行き来してきた」──サタンの応答。「circuivi（巡り歩いた）」という動詞がコヘレト第1章v.6「in circulos suos revertitur（巡回へと戻る）」の風の循環と語根的に共鳴する──しかしここでの「循環」は自然の循環ではなく、意図的な偵察・巡回としての「地の踏査（perambulare）」。「Satan」──ヘブライ語「שָׂטָן（sāṭān）」は「告発者・反対する者」を意味する固有名詞化以前の機能的名称：天上の法廷における検察官的役割。この「告発者」の地の巡回が、ヨブという義人を「発見」する文脈として機能する。ヴェイユ「La Violence」章での「力（la force）は常に動き回る」という力の遍在性との照応。"
+    },
+    {
+      "paragraphId": 9,
+      "type": "commentary",
+      "anchor": "Numquid Job frustra timet Deum?",
+      "body": "「ヨブは理由なく神を畏れているのですか」──ヨブ記第1章の哲学的核心命題。「frustra（理由なく・無償で）」という副詞が問いの存在論的射程を開く：ヨブの信仰は繁栄という「報酬」への期待に基づく功利的信仰（do ut des）なのか、それとも無償の（gratuitous）信仰なのか──という問いが試練全体の神学的動因となる。コヘレト的視点から読むと、この問いはコヘレト第9章v.1「nescit homo utrum amore an odio dignus sit（人間は自分が愛されるに値するか憎まれるに値するかを知らない）」という神の意図の不可知性と照応する：サタンは「条件付き信仰」の仮説を提出し、神はその仮説を反証するためにヨブを試練に委ねる。ヴェイユ「Athéisme purificateur」§1「真の矛盾対：神が存在する・神が存在しない」という両者同時確信の前段階として、「frustra（無償で）畏れること」の可能性への問いが位置づけられる。",
+      "targetId": "weil_atheisme_purificateur",
+      "targetParagraphId": 1
+    },
+    {
+      "paragraphId": 12,
+      "type": "commentary",
+      "anchor": "Ecce universa quae habet in manu tua sunt: tantum in eum ne extendas manum tuam.",
+      "body": "「彼の持つものすべてをあなたの手に委ねる──ただし彼自身には手を伸ばすな」──神の許可の二重構造：全財産の委譲と身体への限定という枠組みが試練の第一段階を定義する。「in manu tua（あなたの手に）」──第1章全体のキー概念「手（manus）」：コヘレト第9章v.10「Quodcumque facere potest manus tua, instanter operare（手のできることは熱心にせよ）」という生の積極的行使としての「手」が、ここではサタンへの委譲として反転される。神の「許可的意志（voluntas permissiva）」という神学的概念の聖書的根拠：神が直接苦悩を与えるのではなく、サタンの行為を「許可する」という間接的形式。ヴェイユ「Nécessité（必然）」章の「神は必然性を通じて間接的に働く」という命題の物語的先行形として読める。",
+      "targetId": "weil_necessite",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 15,
+      "type": "prosody",
+      "anchor": "et evasi ego solus, ut nuntiarem tibi.",
+      "body": "「私だけが逃れ、あなたに告げに来ました（et evasi ego solus, ut nuntiarem tibi）」──v.15・v.16・v.17・v.19に四回反復される使者の結語定型句。この反復構造がヨブ記の散文叙述の最も特徴的なレトリック：「まだ語っているうちに（Cumque adhuc ille loqueretur / Adhuc loquebatur ille）」という畳み掛けの時間構造が加速しながら四つの災いを連鎖させる。「ego solus（私だけが）」という孤独の語が四回反復されることで、それぞれの使者の孤立が強調される──コヘレト第4章v.10「Vae soli（一人の者は哀れ）」の孤立が、ここでは生き残った証人の孤独として現れる。試練の連続的・加速的構造がヨブの喪失を圧縮的・不可抗力的なものとして提示する。"
+    },
+    {
+      "paragraphId": 20,
+      "type": "commentary",
+      "anchor": "Tunc surrexit Job, et scidit vestimenta sua: et tonso capite corruens in terram, adoravit,",
+      "body": "「衣を裂き、頭を剃り、地に倒れ伏して礼拝した」──古代近東の悲嘆の三つの儀礼的形象の連続。「scidit vestimenta（衣を裂いた）」：人格の完全性の外的表象（衣）が引き裂かれる──破局的喪失の身体的・視覚的表出。「tonso capite（頭を剃り）」：ヘブライ的喪の慣習。「corruens in terram adoravit（地に倒れ伏して礼拝した）」──「corruens（倒れ伏す）」という動詞が礼拝の身体的極限として機能する：完全な自己放棄の姿勢としての伏臥礼拝。悲嘆の行為（v.20）から礼拝の言葉（v.21）への転換が、ヨブ記第1章の神学的核心を形成する──喪失の身体的表現が神への讃美へと変換される逆説。ヴェイユ「Décréation」§20「普通の行為の困難さの中に木の根を切る能力がある」という凡庸な苦悩の変容と、ヨブの壮大な悲嘆の変容が対称的に照応する。",
+      "targetId": "weil_decreation",
+      "targetParagraphId": 20
+    },
+    {
+      "paragraphId": 21,
+      "type": "glossary",
+      "anchor": "Nudus egressus sum de utero matris meae, et nudus revertar illuc. Dominus dedit, Dominus abstulit; sicut Domino placuit, ita factum est. Sit nomen Domini benedictum.",
+      "body": "ヨブ記全体・そして聖書の苦悩論全体の頂点命題として機能する三連の格言的断言。「Nudus egressus sum de utero matris meae, et nudus revertar illuc（裸で母の胎から出た、裸で戻ろう）」──コヘレト第5章v.14「Sicut egressus est nudus de utero matris suae, sic revertetur（母の胎から裸で出たように、そのように戻る）」の先行形として──ヨブの言葉がコヘレトに引用・変奏されていることを示す。財産・子供という「持ち物」のすべてが失われた後に残るのは「裸（nudus）」という原初的存在のみ。「Dominus dedit, Dominus abstulit（主は与え、主は取られた）」──与格と奪格の完全な対称が神の主権的自由を定式化する：与えることと奪うことが同一の主語（Dominus）による行為として宣言される。「sicut Domino placuit, ita factum est（主の御心のままになった）」──意志の完全な神への委譲。「Sit nomen Domini benedictum（主の御名が祝福されよ）」──接続法現在（optative）が「祝福を欲望する」という能動的な祈願として機能する：受動的諦念ではなく積極的な賛美意志として。ヴェイユ「Décréation」§1「脱創造：被造物から非被造物へ」の神学的定式が、「Dominus abstulit」という奪取の瞬間にもっとも凝縮された形で先取りされる。ヴェイユ「Accepter le vide」§4「真理を愛することは死を受け入れること──真理は死の側にある」という命題が、ヨブの「nudus revertar」という死への帰還の肯定と構造的に照応する。",
+      "targetId": "weil_accepter_le_vide",
+      "targetParagraphId": 4
+    },
+    {
+      "paragraphId": 22,
+      "type": "commentary",
+      "anchor": "In omnibus his non peccavit Job labiis suis, neque stultum quid contra Deum locutus est.",
+      "body": "「これらすべてにおいて、ヨブは口をもって罪を犯さず、神に対して愚かなことを語らなかった」──散文序章第1段階の締め括り。「labiis suis（口をもって）」という限定が重要：ヨブは「口（labia）」においては罪を犯さなかった──内心の動揺・疑問の可能性を排除しない微妙な限定。コヘレト第5章v.1–2「神の前で言葉は少なくあれ……多くの言葉の中に愚かさが見出される」という言語的節制の命題が、ここでは試練の中での「口の節制（non peccavit labiis）」として実践される。「neque stultum quid contra Deum locutus est（神に対して愚かなことを語らなかった）」──「stultum（愚かなこと）」という語がコヘレトの「stultus（愚者）」との語彙的連続性を持つ：試練において「stultitia（愚かさ）」に陥らないことがヨブの第一段階の勝利として確認される。第2章（第二の試練）でこの定式が再び反復され、ヨブの「口の義」が二段階で確立される。"
+    }
+  ]
+}
