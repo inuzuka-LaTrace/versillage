@@ -1,0 +1,282 @@
+{
+  "id": "hieronymus_iob_7",
+  "title": "Iob, Caput VII",
+  "author": "Eusebius Sophronius Hieronymus",
+  "source": "Biblia Sacra Vulgata, Liber Iob, Caput VII. Bible Gateway: https://www.biblegateway.com/passage/?search=Job+7&version=VULGATE",
+  "year": "Antiquitas",
+  "firstPublication": "Vulgata Latina, c. 382–405 AD（ヒエロニムス訳）",
+  "difficulty": "上級",
+  "category": "hieronymus",
+  "originalLang": "la-LA",
+  "modernRelevance": "★★★★★",
+  "context": "ヨブ記第7章。ヨブと友人エリファズとの第一の応答弁論（第4〜7章）の結語としてヨブが神に直接語りかける祈り・告訴の詩篇。章は三つのブロックに分かれる。v.1–6：人間存在の傭兵的比喩——「Militia est vita hominis super terram（人間の生は地上での兵役だ）」という開口部が、生を「傭兵の日（dies mercenarii）」・「奴隷の影への渇望（sicut servus desiderat umbram）」として定義する。v.7–10は「風のような命（ventus est vita mea）」・「雲のような消滅（sicut consumitur nubes）」という消去の形象群。v.11–21はヨブの神への直接告訴——「Numquid mare ego sum, aut cetus（私は海か怪物か）」・「Quid est homo, quia magnificas eum（人間とは何ものか、あなたはなぜそれを大きく扱うのか）」という神への問いかけが、詩篇8篇「人間とは何ものか」の問いを逆用して苦悩の文脈に再定置する。v.17の「Quid est homo, quia magnificas eum?」は詩篇8篇「Quid est homo quod memor es ejus（人間とは何ものか、あなたが覚えているとは）」への明示的な逆用として、神の「記憶・訪問・試練」が苦悩する者には呪いとして機能するという逆説的神学を提示する。v.20–21の「Peccavi（罪を犯した）」という突然の告白と「なぜ罪を除かないのか」という即座の問いかけで章が閉じられる。",
+  "keywords": [
+    "militia est vita hominis",
+    "dies mercenarii",
+    "servus desiderat umbram",
+    "ventus est vita mea",
+    "sicut nubes consumitur",
+    "loquar in tribulatione",
+    "Quid est homo",
+    "詩篇8篇の逆用",
+    "Peccavi",
+    "amaritudo animae"
+  ],
+  "relatedTexts": [
+    "hieronymus_iob_1",
+    "hieronymus_iob_2",
+    "hieronymus_iob_3",
+    "hieronymus_iob_19",
+    "hieronymus_iob_38",
+    "hieronymus_ecclesiastes_1",
+    "hieronymus_ecclesiastes_3",
+    "hieronymus_ecclesiastes_9",
+    "weil_accepter_le_vide",
+    "weil_necessite",
+    "weil_dressage",
+    "weil_effacement",
+    "rilke_duineser_elegien_01",
+    "rilke_duineser_elegien_09",
+    "rilke_sonette_orpheus_1_01",
+    "rilke_sonette_orpheus_2_01",
+    "trakl_de_profundis",
+    "baudelaire_spleen",
+    "rodenbach_du_silence"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "verses": "v.1",
+      "original": "Militia est vita hominis super terram, et sicut dies mercenarii dies ejus.",
+      "provisionalTranslation": "人間の生は地上での兵役だ。傭兵の日のように、その日々は。"
+    },
+    {
+      "id": 2,
+      "verses": "v.2",
+      "original": "Sicut servus desiderat umbram, et sicut mercenarius praestolatur finem operis sui,",
+      "provisionalTranslation": "奴隷が影を渇望するように、傭兵が自分の業の終わりを待ち望むように、"
+    },
+    {
+      "id": 3,
+      "verses": "v.3",
+      "original": "sic et ego habui menses vacuos, et noctes laboriosas enumeravi mihi.",
+      "provisionalTranslation": "そのように私も、空虚な月々を持ち、労苦の夜々を数えた。"
+    },
+    {
+      "id": 4,
+      "verses": "v.4",
+      "original": "Si dormiero, dicam: Quando consurgam? et rursum expectabo vesperam, et replebor doloribus usque ad tenebras.",
+      "provisionalTranslation": "眠れば、「いつ起きられるか」と言うだろう。再び夕べを待ち望み、暗闇になるまで苦痛で満たされる。"
+    },
+    {
+      "id": 5,
+      "verses": "v.5",
+      "original": "Induta est caro mea putredine, et sordibus pulveris cutis mea aruit et contracta est.",
+      "provisionalTranslation": "私の肉体は腐りをまとい、塵の汚れで私の皮膚は乾いて縮んだ。"
+    },
+    {
+      "id": 6,
+      "verses": "v.6",
+      "original": "Dies mei velocius transierunt quam a texente tela succiditur, et consumpti sunt absque ulla spe.",
+      "provisionalTranslation": "私の日々は機織りが横糸を切るよりも速く過ぎ去り、いかなる希望もなく尽き果てた。"
+    },
+    {
+      "id": 7,
+      "verses": "v.7",
+      "original": "Memento quia ventus est vita mea, et non revertetur oculus meus ut videat bona.",
+      "provisionalTranslation": "覚えてください——私の命は風だということを。私の目は善きものを見るために戻らないでしょう。"
+    },
+    {
+      "id": 8,
+      "verses": "v.8",
+      "original": "Nec aspiciet me visus hominis; oculi tui in me, et non subsistam.",
+      "provisionalTranslation": "人の目はもう私を見ないでしょう。あなたの目が私に向けられるとき、私はもう存在しないでしょう。"
+    },
+    {
+      "id": 9,
+      "verses": "v.9",
+      "original": "Sicut consumitur nubes, et pertransit, sic qui descenderit ad inferos, non ascendet.",
+      "provisionalTranslation": "雲が消え去って通り過ぎるように、冥府に降った者は昇らない。"
+    },
+    {
+      "id": 10,
+      "verses": "v.10",
+      "original": "Nec revertetur ultra in domum suam, neque cognoscet eum amplius locus ejus.",
+      "provisionalTranslation": "その家へと戻ることもなく、その場所も彼をもはや知ることがない。"
+    },
+    {
+      "id": 11,
+      "verses": "v.11",
+      "original": "Quapropter et ego non parcam ori meo: loquar in tribulatione spiritus mei; confabulabor cum amaritudine animae meae.",
+      "provisionalTranslation": "それゆえ、私は自分の口を惜しまない。霊の苦悩の中で語ろう。魂の苦渋とともに語り合おう。"
+    },
+    {
+      "id": 12,
+      "verses": "v.12",
+      "original": "Numquid mare ego sum, aut cetus, quia circumdedisti me carcere?",
+      "provisionalTranslation": "私は海なのか、あるいは怪物なのか——あなたが私を牢獄で囲んだ理由は。"
+    },
+    {
+      "id": 13,
+      "verses": "v.13",
+      "original": "Si dixero: Consolabitur me lectulus meus, et relevabor loquens mecum in strato meo:",
+      "provisionalTranslation": "「寝床が私を慰めてくれるだろう、床の上で自分に語りかけながら楽になるだろう」と言えば——"
+    },
+    {
+      "id": 14,
+      "verses": "v.14",
+      "original": "terrebis me per somnia, et per visiones horrore concuties.",
+      "provisionalTranslation": "あなたは夢によって私を怖がらせ、幻によって恐怖で揺さぶるのだ。"
+    },
+    {
+      "id": 15,
+      "verses": "v.15",
+      "original": "Quam ob rem elegit suspendium anima mea, et mortem ossa mea.",
+      "provisionalTranslation": "そのために私の魂は絞首を選び、私の骨は死を選んだ。"
+    },
+    {
+      "id": 16,
+      "verses": "v.16",
+      "original": "Desperavi: nequaquam ultra jam vivam: parce mihi, nihil enim sunt dies mei.",
+      "provisionalTranslation": "絶望した。もはやこれ以上生きることはない。私をお赦しください——私の日々は何でもないのだから。"
+    },
+    {
+      "id": 17,
+      "verses": "v.17",
+      "original": "Quid est homo, quia magnificas eum? aut quid apponis erga eum cor tuum?",
+      "provisionalTranslation": "人間とは何ものか、あなたはなぜそれを大きく扱うのか。なぜそれに心を向けるのか。"
+    },
+    {
+      "id": 18,
+      "verses": "v.18",
+      "original": "Visitas eum diluculo, et subito probas illum.",
+      "provisionalTranslation": "あなたは夜明けに彼を訪れ、突然に彼を試す。"
+    },
+    {
+      "id": 19,
+      "verses": "v.19",
+      "original": "Usquequo non parcis mihi, nec dimittis me ut glutiam salivam meam?",
+      "provisionalTranslation": "いつまで私をお赦しにならないのか。唾を飲み込む暇さえ与えず、放してくださらないのか。"
+    },
+    {
+      "id": 20,
+      "verses": "v.20",
+      "original": "Peccavi; quid faciam tibi, o custos hominum? quare posuisti me contrarium tibi, et factus sum mihimetipsi gravis?",
+      "provisionalTranslation": "罪を犯した。人間の番人よ、あなたに何をすればよいのか。なぜ私をあなたへの抵抗者に置かれたのか。私はなぜ自分自身の重荷となったのか。"
+    },
+    {
+      "id": 21,
+      "verses": "v.21",
+      "original": "Cur non tollis peccatum meum, et quare non aufers iniquitatem meam? ecce nunc in pulvere dormiam, et si mane me quaesieris, non subsistam.",
+      "provisionalTranslation": "なぜ私の罪を取り去らないのか、なぜ私の不正を除かないのか。見よ、今や私は塵の中に眠るだろう。もし夜明けに私を求めても、私はもう存在しないだろう。"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "glossary",
+      "anchor": "Militia est vita hominis super terram, et sicut dies mercenarii dies ejus.",
+      "body": "「人間の生は地上での兵役だ——傭兵の日のように、その日々は（Militia est vita hominis super terram）」——ヨブ記第7章の開口命題にして、西洋文学における人間存在の労苦的定義の最も強烈な定式の一つ。ヘブライ語「צָבָא（ṣāvāʾ）」は「軍役・強制労働・服役」を多義的に意味する——「軍隊（militia）」というラテン語訳が選ばれることで、地上の生が主体的選択なき「服役」として定義される。「dies mercenarii（傭兵の日）」——傭兵（mercenarius）は自由民でも奴隷でもない：義務でも志願でもなく、生存のために労働する者。コヘレト第1章v.3「Quid habet amplius homo de universo labore suo（人間は労苦から何を得るのか）」という問いが、ここでは「労苦（labor）」そのものが生の全体的な様態として確定される——「傭兵の日」という形象が生の本質的な「雇われた一時性」を定義する。リルケ「ドゥイノの悲歌・第1歌」の「私たちが住み慣れていない（und so leben wir und nehmen immer / Abschied）」という「別れを生きる存在」としての人間規定——ヨブの「傭兵」と同型の「仮の滞在者」としての人間論。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "Sicut servus desiderat umbram, et sicut mercenarius praestolatur finem operis sui,",
+      "body": "「奴隷が影を渇望するように——傭兵が業の終わりを待ち望むように（servus desiderat umbram）」——v.1の「兵役（militia）」の展開として、二つの渇望の比喩が並置される。「servus desiderat umbram（奴隷が影を渇望する）」——「umbra（影）」は炎天下での労働からの一時的な逃避：コヘレト第7章v.12「Sicut enim protegit sapientia, sic protegit pecunia（知恵が守るように金も守る）」という「保護（protectio）」の代わりに、ここでは単なる「影（umbra）」への渇望——ヨブの希望が知恵や財産ではなく「影」という最小限の一時的逃避に縮減されている。リルケ「オルフェウスに寄せるソネット」第1部第1番「Da stieg ein Baum. O reine Übersteigung! / O Orpheus singt!（木が立った。ああ、純粋な超越！ オルフェウスが歌う！）」との逆照射——リルケのオルフェウスが「音楽・変容・超越」を体現するのに対し、ヨブの渇望は「影（umbra）」という最小限の逃避へと縮減される：どちらも「この世の法則の外」を求めながら、その方向性が正反対。",
+      "targetId": "rilke_sonette_orpheus_1_01",
+      "targetParagraphId": 1
+    },
+    {
+      "paragraphId": 4,
+      "type": "commentary",
+      "anchor": "Si dormiero, dicam: Quando consurgam? et rursum expectabo vesperam, et replebor doloribus usque ad tenebras.",
+      "body": "「眠れば『いつ起きられるか』と言うだろう——再び夕べを待ち望み、暗闇になるまで苦痛で満たされる」——時間の全閉塞として定式化される苦悩の構造。「Quando consurgam（いつ起きられるか）」→「expectabo vesperam（夕べを待ち望む）」という昼から夜への逃避と、「replebor doloribus usque ad tenebras（暗闇になるまで苦痛で満たされる）」という夜の到来の絶望という二重の時間的閉鎖。コヘレト第5章v.11「saturitas autem divitis non sinit eum dormire（富んだ者の飽食は眠ることを許さない）」という生の不眠が、ヨブにおいては「苦悩による不眠」として極限化される。リルケ「ドゥイノの悲歌・第9歌」の「Erde, ist es nicht dies, was du willst: unsichtbar / in uns erstehn?（大地よ、あなたが望むのは、私たちの中に見えないものとして蘇ることではないか）」——ヨブの「昼から夜、夜から昼への閉塞」に対し、リルケは「不可視の変容」という開口を探求する。",
+      "targetId": "rilke_duineser_elegien_09",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 6,
+      "type": "commentary",
+      "anchor": "Dies mei velocius transierunt quam a texente tela succiditur, et consumpti sunt absque ulla spe.",
+      "body": "「私の日々は機織りが横糸を切るよりも速く過ぎ去り——いかなる希望もなく尽き果てた（absque ulla spe）」——速度の比喩による時間的虚無の定式。「a texente tela succiditur（機織りが横糸を切る）」——布を織る行為の反復と切断が人生の時間的進行の形象として機能する：一本一本の横糸（日々）が切られ、織物（生涯）が完成するが、その完成が「消費（consumpti）」であり「希望の不在（absque ulla spe）」として確認される。コヘレト第1章v.4「Generatio praeterit, et generatio advenit（世代は過ぎ去り、世代は来る）」という時間の循環的消失が、ヨブにおいては「私の日々（dies mei）」という一人称的・個別的な速度体験として内面化される。リルケ「オルフェウスに寄せるソネット」第2部第1番「Atmen, du unsichtbares Gedicht!（息よ、汝、見えない詩！）」との照応——リルケが「息（Atmen）」を詩的存在の形象として肯定するのに対し、ヨブの「消費された日々（consumpti dies）」は息の消費・使い尽くしとして否定的に提示される。",
+      "targetId": "rilke_sonette_orpheus_2_01",
+      "targetParagraphId": 1
+    },
+    {
+      "paragraphId": 7,
+      "type": "commentary",
+      "anchor": "Memento quia ventus est vita mea, et non revertetur oculus meus ut videat bona.",
+      "body": "「覚えてください——私の命は風だということを（Memento quia ventus est vita mea）」——神への直接命令形「Memento（覚えよ）」がヨブ記第7章の神との対話モードへの転換を標示する。「ventus est vita mea（私の命は風だ）」——コヘレト第1章v.6「Lustrans universa in circuitu pergit spiritus（風はあらゆるところを巡り続ける）」の自然の循環としての「風（spiritus / ventus）」が、ヨブにおいては「命の無常性（ventus）」の形象として個人化される。「non revertetur oculus meus ut videat bona（私の目は善きものを見るために戻らない）」——コヘレト第5章v.17「comederat in tenebris（暗闇の中で食べた）」・第9章v.7「Vade et comede in laetitia（行け喜びとともに食べよ）」という「善いものを見る・享受する」という生の可能性が、ヨブにおいては閉じられている：「風」という一時性が「善（bona）」の知覚の終止を意味する。"
+    },
+    {
+      "paragraphId": 9,
+      "type": "commentary",
+      "anchor": "Sicut consumitur nubes, et pertransit, sic qui descenderit ad inferos, non ascendet.",
+      "body": "「雲が消え去って通り過ぎるように——冥府に降った者は昇らない（qui descenderit ad inferos, non ascendet）」——ヨブ記の死後論の最も明示的な否定的定式。「sicut consumitur nubes（雲が消え去るように）」——コヘレト第12章v.2「revertantur nubes post pluviam（雨の後に雲が戻る）」という「老いの寓意詩」の雲の形象と対照的：コヘレトの雲は「戻る（revertantur）」が、ヨブの雲は「消え去って通り過ぎる（consumitur et pertransit）」——永続性のない一過的な消滅として。「qui descenderit ad inferos, non ascendet（冥府に降った者は昇らない）」——第3章v.13–17の「死者の平和の世界」描写がここでは「上昇不可能性」として確定される：死は平和だが、一方通行の下降として定義される。リルケ「オルフェウスに寄せるソネット」第1部第9番「Nur wer die Leier schon hob / auch unter Schatten（竪琴を冥府の陰の下でも掲げた者だけが）」——オルフェウスが死の国へ降りながら音楽によって上昇するという逆転に対して、ヨブの「non ascendet（昇らない）」は冥府からの帰還不可能性として明示的に否定を宣言する。",
+      "targetId": "rilke_sonette_orpheus_1_01",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 11,
+      "type": "commentary",
+      "anchor": "Quapropter et ego non parcam ori meo: loquar in tribulatione spiritus mei; confabulabor cum amaritudine animae meae.",
+      "body": "「それゆえ、私は自分の口を惜しまない——霊の苦悩の中で語ろう（loquar in tribulatione spiritus mei）。魂の苦渋とともに語り合おう（confabulabor cum amaritudine animae meae）」——第2章v.10「non peccavit Job labiis suis（口をもって罪を犯さなかった）」という散文の節制からの第三の転換。「non parcam ori meo（口を惜しまない）」——「parcere（惜しむ・節約する）」の否定：第5章v.1「sint pauci sermones tui（言葉は少なくあれ）」というコヘレト的沈黙の倫理が、ここでは苦悩の中での発語の必然性として覆される。「confabulabor cum amaritudine animae meae（魂の苦渋とともに語り合おう）」——「confabulari（共に語り合う）」という相互的動詞が「苦渋（amaritudo）」という感情を対話相手として人格化する。コヘレト第1章v.14「afflictio spiritus（霊の苦悩）」という書全体のライトモチーフが、ヨブにおいては発語の出発点・源泉として機能する。ヴェイユ「Effacement」章の「語ることをやめること（ne pas dire je）」との根本的な緊張——ヴェイユが「私（je）」の沈黙を求めるのに対し、ヨブは苦悩のただ中で「語る（loquar）」という能動的発言を宣言する。",
+      "targetId": "weil_effacement",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 12,
+      "type": "commentary",
+      "anchor": "Numquid mare ego sum, aut cetus, quia circumdedisti me carcere?",
+      "body": "「私は海なのか、あるいは怪物（cetus）なのか——あなたが私を牢獄で囲んだ理由は（circumdedisti me carcere）」——ヨブ記第7章の最も詩的・神話的な節。「cetus（怪物・巨大な海洋生物）」——第3章v.8で召喚された「Leviathan（レビヤタン）」の別形象。神が「海と怪物」という混沌の力を「牢獄（carcer）」で封じ込めるという古代近東神話的コスモロジー（バビロニア創造神話マルドゥクによる海の怪物ティアマトの打倒）の文脈で、ヨブが「なぜ私は怪物のように囲まれているのか」と問う——自分が宇宙的危険として神に扱われているという自己認識の逆説的告発。第2章v.3「tu commovisti me adversus eum, ut affligerem eum frustra（あなたは私をそそのかして理由なく苦しめた）」という神の自白が、ここではヨブ自身の問いとして反響する。リルケ「ドゥイノの悲歌・第1歌」の「私たちは天使によっても、人間によっても、ほとんど要られない（Denn das Schöne ist nichts als des Schrecklichen Anfang）」——美と恐怖の両義性を体現する天使とヨブの「海の怪物」との、「宇宙的他者」としての人間の形象が共鳴する。",
+      "targetId": "rilke_duineser_elegien_01",
+      "targetParagraphId": 1
+    },
+    {
+      "paragraphId": 14,
+      "type": "commentary",
+      "anchor": "terrebis me per somnia, et per visiones horrore concuties.",
+      "body": "「あなたは夢によって私を怖がらせ、幻によって恐怖で揺さぶる（per visiones horrore concuties）」——v.13の「寝床が慰めてくれる」という一瞬の期待が即座に「夢の恐怖」によって破砕される逆転。「per somnia（夢によって）」・「per visiones（幻によって）」——神の試練が睡眠の中にまで及ぶという全面的な実存的包囲：第3章v.4–6の呪詛詩で「暗闇が日を覆え」と望んだ夜が、今度は「神が夢で脅す」という場として実現する。コヘレト第5章v.2「Multas curas sequuntur somnia（多くの心配の後に夢が来る）」という「夢の虚無性」が、ヨブにおいては神の試練の媒体として「恐怖（horror）」の空間として最大化される。リルケ「オルフェウスに寄せるソネット」第2部第13番「Sei allem Abschied voran（すべての別れに先立って存在せよ）」——リルケが「夜・夢」を変容の肯定的空間として捉えるのに対し、ヨブの夢は「horrore concuties（恐怖で揺さぶる）」という神的暴力の場として否定的に経験される。",
+      "targetId": "rilke_sonette_orpheus_2_01",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 16,
+      "type": "commentary",
+      "anchor": "Desperavi: nequaquam ultra jam vivam: parce mihi, nihil enim sunt dies mei.",
+      "body": "「絶望した——もはやこれ以上生きることはない——私をお赦しください、私の日々は何でもないのだから（nihil enim sunt dies mei）」——ヨブ記における最も圧縮された絶望の宣言。「Desperavi（絶望した）」という完了形の単独出現——一語が章の感情的頂点として孤立する。「nequaquam ultra jam vivam（もはやこれ以上生きることはない）」という死への意志表明に続く「parce mihi（お赦しください）」という逆接的祈り：死を望みながら神の赦しを求めるという同時の相矛盾する欲求。「nihil enim sunt dies mei（私の日々は何でもない）」——コヘレト第1章v.2「vanitas vanitatum, et omnia vanitas」の「vanitas（虚無）」が、ヨブにおいては「nihil（無）」という存在の完全な消去として表現される：「虚無」から「無」へという否定性の深化。ボードレール「憂鬱（Spleen）」の「ennui（倦怠）」が「その上に無限が重さをもって落ちてくる」という体験とヨブの「絶望（Desperavi）」が同型の実存的荒廃として照応する。"
+    },
+    {
+      "paragraphId": 17,
+      "type": "glossary",
+      "anchor": "Quid est homo, quia magnificas eum? aut quid apponis erga eum cor tuum?",
+      "body": "「人間とは何ものか、あなたはなぜそれを大きく扱うのか——なぜそれに心を向けるのか（Quid est homo, quia magnificas eum?）」——ヨブ記第7章の神学的核心命題にして、詩篇8篇の逆用として機能する最も重要な節。詩篇8篇v.5「Quid est homo quod memor es ejus, aut filius hominis quoniam visitas eum?（人間とは何ものか、あなたが覚えているとは）」という被造物の崇高さへの驚嘆が、ヨブにおいては「magnificas（大きく扱う）」という神の注目が苦悩の原因として再定置される——同一の問い「Quid est homo」が讃美から告訴へと転換される。「magnificas（大きく扱う）」——詩篇的文脈では「栄光を与える」、ヨブ的文脈では「標的にする・注目して苦しめる」という反義的読みが生まれる：人間の卓越性が苦悩の条件として逆転される。コヘレト第7章v.17「Noli esse justus multum（正しすぎるな）」という「中庸の倫理」が、ヨブにおいては「人間とは何ものか」という根本的な人間論的問いとして爆発する。リルケ「ドゥイノの悲歌・第9歌」の「Wozu, in diesen Abständen und Weiten, / der Umweg Mensch?（なぜ、これほどの間隔と広さの中で、人間という迂回路があるのか？）」——「人間の存在の必要性」への問いがヨブとリルケで共鳴する。",
+      "targetId": "rilke_duineser_elegien_09",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 18,
+      "type": "commentary",
+      "anchor": "Visitas eum diluculo, et subito probas illum.",
+      "body": "「あなたは夜明けに彼を訪れ、突然に彼を試す（Visitas eum diluculo, et subito probas illum）」——詩篇8篇の「visitas（訪れる）」という言葉が、讃美の文脈（神が人間を配慮して訪れる）からヨブの告訴の文脈（神が苦悩を与えるために突然訪れる）へと転用される。「diluculo（夜明けに）」という時間指定——「早朝の訪問（visitatio matutina）」という伝統的な神の恵みの形象（詩篇5:4「朝にあなたは私の声を聞く」）が、ヨブにおいては「subito probas（突然に試す）」という暴力的・不意打ち的な試練として経験される。ヴェイユ「Dressage（訓練）」章の「神は人間を直接助けるのではなく、苦難を通じて精錬する（dressage）」という命題がヨブの「probas（試す）」という語に照応する——しかしヴェイユは訓練の目的論的意味を肯定するのに対し、ヨブは「なぜ突然に（subito）」と問いかけることで、試練の理不尽さを告訴する。",
+      "targetId": "weil_dressage",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 20,
+      "type": "commentary",
+      "anchor": "Peccavi; quid faciam tibi, o custos hominum? quare posuisti me contrarium tibi, et factus sum mihimetipsi gravis?",
+      "body": "「罪を犯した（Peccavi）——人間の番人よ、あなたに何をすればよいのか——なぜ私をあなたへの抵抗者に置かれたのか——私はなぜ自分自身の重荷となったのか（factus sum mihimetipsi gravis）」——章の哲学的頂点として四つの命題が連続する。「Peccavi（罪を犯した）」という突然の告白——第1章v.1「simplex et rectus, ac timens Deum（純朴で正しい）」という冒頭の「無罪の義人」規定との緊張：ヨブは罪を犯したと認めながら、それでも「なぜ試練がある」と問い続ける。「custos hominum（人間の番人）」——「番人（custos）」という語が神を監視者・管理者として定義する：慈悲ある父ではなく「番人（custos）」として神を呼ぶことで告発的な距離が設定される。「factus sum mihimetipsi gravis（私はなぜ自分自身の重荷となったのか）」——afflictionが他者による重さではなく「自己への重荷」として内面化される：第2章v.7の「全身の腫物」という身体的afflictionが、ここでは「自己が自己にとって重荷（gravis）」という実存的自己疎外として精神化される。ヴェイユ「La Pesanteur（重力）」の「pesanteur（重力・重さ）」概念——afflictionが「自己の重荷」として現れるという実存的重力の定式の聖書的先行形。",
+      "targetId": "weil_accepter_le_vide",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 21,
+      "type": "commentary",
+      "anchor": "Cur non tollis peccatum meum, et quare non aufers iniquitatem meam? ecce nunc in pulvere dormiam, et si mane me quaesieris, non subsistam.",
+      "body": "「なぜ私の罪を取り去らないのか——見よ、今や私は塵の中に眠るだろう——もし夜明けに私を求めても、私はもう存在しないだろう（non subsistam）」——ヨブ記第7章の最終節にして、詩篇部分の第一の大きな区切り。「in pulvere dormiam（塵の中に眠るだろう）」——第1章v.21「nudus revertar（裸で戻ろう）」・コヘレト第12章v.7「revertatur pulvis in terram suam（塵は地へと戻る）」という「塵への帰還」の定式が、ここでは「眠り（dormiam）」という死の婉曲表現として具現化される。「si mane me quaesieris, non subsistam（夜明けに私を求めても、私はもう存在しないだろう）」——v.18「Visitas eum diluculo（夜明けに彼を訪れる）」という神の訪問が、死後の「夜明けに存在しない（non subsistam）」という答えによって完結する逆説：神が訪れるときにはヨブはもういない。「non subsistam」という未来否定形——「存在し続けないこと（non subsistare）」が死の実存論的定義として提示される。リルケ「オルフェウスに寄せるソネット」第1部第5番「Errichtet keinen Denkstein. Laßt die Rose / nur jedes Jahr zu seinen Gunsten blühn（墓碑を建てるな。ただ薔薇が毎年その魂のために咲くがままに）」——ヨブの「夜明けに存在しない」という消去への受容がリルケ的な「存在しないことへの開放」と構造的に照応しながら、ヨブは告訴として、リルケは変容の肯定として異なる方向に向かう。",
+      "targetId": "rilke_sonette_orpheus_1_01",
+      "targetParagraphId": null
+    }
+  ]
+}
