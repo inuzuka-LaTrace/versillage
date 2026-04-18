@@ -1,0 +1,207 @@
+{
+  "id": "hieronymus_ecclesiastes_12",
+  "title": "Ecclesiastes, Caput XII",
+  "author": "Eusebius Sophronius Hieronymus",
+  "source": "Biblia Sacra Vulgata, Liber Ecclesiastes (Qohelet), Caput XII. Bible Gateway: https://www.biblegateway.com/passage/?search=Ecclesiastes+12&version=VULGATE",
+  "year": "Antiquitas",
+  "firstPublication": "Vulgata Latina, c. 382–405 AD（ヒエロニムス訳）",
+  "difficulty": "上級",
+  "category": "hieronymus",
+  "originalLang": "la-LA",
+  "modernRelevance": "★★★★★",
+  "context": "コヘレトの言葉（Qohelet）第12章・最終章。冒頭v.1「あなたの若い日々に、あなたの創造者を覚えよ（Memento Creatoris tui in diebus juventutis tuae）」という命令形が第11章v.9「若者よ、若さに喜べ──しかし神があなたを裁きに連れて行くことを知れ」の逆面として章を開始する。v.2–7の「老いの寓意詩（allegoria senectutis）」は聖書文学中でも最も精緻な詩的構築の一つ：太陽・月・星の暗転（v.2）・家の守護者たちの震え・強壮な男たちの屈み・臼を引く女たちの止まり・窓から見る女たちの暗転（v.3）・街路の扉の閉鎖・臼の音の低下・鳥の声に起きる・歌う娘たちの耳の遠さ（v.4）・高さへの恐怖・道の恐怖・アーモンドの花・重くなるイナゴ・ケッパーの散逸（v.5）という連続する老衰の形象が、「人間は永遠の家へと向かう（ibit homo in domum aeternitatis suae）」という宣言へと収束する。v.6–7の「銀の縄・金の鉢・泉の瓶・井戸の滑車」という四つのイメージが生命の停止を表象し、「塵は地へ、霊は神へと戻る（spiritus redeat ad Deum qui dedit illum）」という第3章v.20「土から造られ土へと戻る」の精神的次元での完成で終わる。v.8「vanitas vanitatum, et omnia vanitas」は第1章v.2の定式を完全な形で反復──書物全体が円環的に閉じられる。v.9–12の後記（編集者注記）では「コヘレトは民を教え……知恵の言葉は鋭い棒（stimuli）のようだ」という知恵の書の自己記述が行われ、v.12「これ以上のことを求めるな（His amplius, fili mi, ne requiras）」という探求の限界宣言が第7章v.24「知恵はさらに遠ざかった」の知恵の不可達性と照応する。最終v.13–14「神を畏れよ、その戒めを守れ──これが人間のすべて（hoc est enim omnis homo）」という極限まで圧縮された倫理的結語が、11章にわたる「vanitas」探求の終点として置かれる。",
+  "keywords": [
+    "Memento Creatoris",
+    "老いの寓意詩",
+    "allegoria senectutis",
+    "domus aeternitatis",
+    "funiculus argenteus",
+    "spiritus redeat ad Deum",
+    "vanitas vanitatum回帰",
+    "verba sapientium stimuli",
+    "hoc est enim omnis homo",
+    "Deum time et mandata observa"
+  ],
+  "relatedTexts": [
+    "hieronymus_ecclesiastes_1",
+    "hieronymus_ecclesiastes_2",
+    "hieronymus_ecclesiastes_3",
+    "hieronymus_ecclesiastes_5",
+    "hieronymus_ecclesiastes_7",
+    "hieronymus_ecclesiastes_9",
+    "hieronymus_ecclesiastes_11",
+    "weil_accepter_le_vide",
+    "weil_necessite",
+    "weil_decreation",
+    "weil_effacement",
+    "rossetti_vanity_of_vanities",
+    "rossetti_days_of_vanity",
+    "dowson_vanitas",
+    "mallarme_coup_de_des",
+    "rilke_duineser_elegien_01",
+    "rilke_duineser_elegien_09",
+    "trakl_de_profundis",
+    "baudelaire_une_charogne",
+    "baudelaire_horloge"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "verses": "v.1",
+      "original": "Memento Creatoris tui in diebus juventutis tuae, antequam veniat tempus afflictionis, et appropinquent anni de quibus dicas: Non mihi placent;",
+      "provisionalTranslation": "あなたの若い日々に、あなたの創造者を覚えよ──苦悩の時が来る前に、「これらは私には喜ばしくない」と言うことになる年月が近づく前に。"
+    },
+    {
+      "id": 2,
+      "verses": "v.2",
+      "original": "antequam tenebrescat sol, et lumen, et luna, et stellae, et revertantur nubes post pluviam;",
+      "provisionalTranslation": "太陽と光と月と星が暗くなる前に、雨の後に雲が戻る前に。"
+    },
+    {
+      "id": 3,
+      "verses": "v.3",
+      "original": "quando commovebuntur custodes domus, et nutabunt viri fortissimi, et otiosae erunt molentes in minuto numero, et tenebrescent videntes per foramina;",
+      "provisionalTranslation": "家の守護者たちが震え、最も強壮な男たちが屈み、臼を引く女たちが少なくなって休み、窓から見る者たちが暗くなるとき。"
+    },
+    {
+      "id": 4,
+      "verses": "v.4",
+      "original": "et claudent ostia in platea, in humilitate vocis molentis, et consurgent ad vocem volucris, et obsurdescent omnes filiae carminis:",
+      "provisionalTranslation": "街路の扉が閉められ、臼を引く声が低くなり、鳥の声に起き上がり、歌う娘たちの声が聞こえなくなるとき。"
+    },
+    {
+      "id": 5,
+      "verses": "v.5",
+      "original": "excelsa quoque timebunt, et formidabunt in via. Florebit amygdalus, impinguabitur locusta, et dissipabitur capparis, quoniam ibit homo in domum aeternitatis suae, et circuibunt in platea plangentes.",
+      "provisionalTranslation": "彼らは高いところを恐れ、道で怯えるだろう。アーモンドの木が花を咲かせ、イナゴが重くなり、ケッパーが散逸するだろう。なぜなら人間は永遠の家へと向かうのだから。嘆く者たちが街路を巡り歩くだろう。"
+    },
+    {
+      "id": 6,
+      "verses": "v.6",
+      "original": "Antequam rumpatur funiculus argenteus, et recurrat vitta aurea, et conteratur hydria super fontem, et confringatur rota super cisternam,",
+      "provisionalTranslation": "銀の縄が断ち切られ、金の帯が戻り、泉の上で水瓶が砕かれ、井戸の上で滑車が壊れる前に。"
+    },
+    {
+      "id": 7,
+      "verses": "v.7",
+      "original": "et revertatur pulvis in terram suam unde erat, et spiritus redeat ad Deum, qui dedit illum.",
+      "provisionalTranslation": "塵はそれがあった地へと戻り、霊はそれを与えた神へと戻る。"
+    },
+    {
+      "id": 8,
+      "verses": "v.8",
+      "original": "Vanitas vanitatum, dixit Ecclesiastes, et omnia vanitas.",
+      "provisionalTranslation": "虚無の虚無、とコヘレトは言った。すべては虚無である。"
+    },
+    {
+      "id": 9,
+      "verses": "v.9",
+      "original": "Cumque esset sapientissimus Ecclesiastes, docuit populum, et enarravit quae fecerat; et investigans composuit parabolas multas.",
+      "provisionalTranslation": "コヘレトは最も知恵ある者であったが、民を教え、自らが行ったことを語り伝えた。探求しながら多くの箴言を編んだ。"
+    },
+    {
+      "id": 10,
+      "verses": "v.10",
+      "original": "Quaesivit verba utilia, et conscripsit sermones rectissimos ac veritate plenos.",
+      "provisionalTranslation": "有益な言葉を求め、最も正しく真実に満ちた言葉を書き記した。"
+    },
+    {
+      "id": 11,
+      "verses": "v.11",
+      "original": "Verba sapientium sicut stimuli, et quasi clavi in altum defixi, quae per magistrorum consilium data sunt a pastore uno.",
+      "provisionalTranslation": "知恵ある者の言葉は鋭い棒のようであり、深く打ち込まれた釘のようだ──それらは一人の牧者から師たちの指導によって与えられたものだ。"
+    },
+    {
+      "id": 12,
+      "verses": "v.12",
+      "original": "His amplius, fili mi, ne requiras. Faciendi plures libros nullus est finis; frequensque meditatio, carnis afflictio est.",
+      "provisionalTranslation": "これ以上のことを、わが子よ、求めるな。多くの書物を作ることに終わりはない。多くの瞑想は肉体の苦悩である。"
+    },
+    {
+      "id": 13,
+      "verses": "v.13",
+      "original": "Finem loquendi pariter omnes audiamus. Deum time, et mandata ejus observa: hoc est enim omnis homo,",
+      "provisionalTranslation": "言葉の終わりを、共にすべての者が聴こう。神を畏れよ、その戒めを守れ──これが人間のすべてだから。"
+    },
+    {
+      "id": 14,
+      "verses": "v.14",
+      "original": "et cuncta quae fiunt adducet Deus in judicium pro omni errato, sive bonum, sive malum illud sit.",
+      "provisionalTranslation": "なされるすべてのことについて、神はすべての誤りのゆえに裁きへと連れて行くだろう──それが善であれ悪であれ。"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "Memento Creatoris tui in diebus juventutis tuae, antequam veniat tempus afflictionis",
+      "body": "「あなたの若い日々に、あなたの創造者を覚えよ──苦悩の時が来る前に」──第11章v.10「adolescentia enim et voluptas vana sunt（若さと快楽は虚無）」から第12章へのシームレスな転換。「Memento（覚えよ）」という命令形は「memento mori（死を覚えよ）」という中世的実践の聖書的源泉として機能する：ただしコヘレトが命じるのは「死」ではなく「Creatoris（創造者）」を覚えることであり、死の記憶は創造者の記憶の裏面として提示される。「antequam veniat tempus afflictionis（苦悩の時が来る前に）」──老いが「afflictio（苦悩）」として定義される：第1章v.14の「afflictio spiritus（霊の苦悩）」、第4章v.1の「calumnias（圧迫）」と連なるコヘレト的afflictionの語彙が、ここでは老衰という実存的afflictionとして最終化される。「Non mihi placent（これらは私には喜ばしくない）」──第9章v.7「Vade ergo, et comede in laetitia（行け、喜びとともに食べよ）」で召喚された喜びが、老いにおいて「喜ばしくない」という否定として反転する：享受の可能性の閉幕。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "prosody",
+      "anchor": "antequam tenebrescat sol, et lumen, et luna, et stellae, et revertantur nubes post pluviam;",
+      "body": "v.2–5は西洋文学で最も精緻な「老いの寓意詩（allegoria senectutis）」として伝統的に読まれてきた。v.2の宇宙的暗転（太陽・月・星・雨後の雲）から始まり、v.3では身体の寓意（家の守護者＝手・腕、強壮な男＝脚、臼を引く女＝歯、窓から見る者＝目）、v.4では感覚・睡眠・聴覚の衰退、v.5では高所恐怖・道の恐怖・白髪（アーモンドの花）・食欲減退（重いイナゴ）・欲望の消失（ケッパー）という身体的老衰が連続する寓意で提示される。「revertantur nubes post pluviam（雨の後に雲が戻る）」──第1章v.6「spiritus in circulos suos revertitur（風は巡回へと戻る）」の自然の循環が、ここでは老衰の繰り返す陰鬱さとして再登場する：第1章の循環が喜びなき反復として最終章で暗転する。"
+    },
+    {
+      "paragraphId": 5,
+      "type": "commentary",
+      "anchor": "quoniam ibit homo in domum aeternitatis suae, et circuibunt in platea plangentes.",
+      "body": "「人間は永遠の家へと向かう（ibit homo in domum aeternitatis suae）」──ヘブライ語原典「בֵּית עֹולָמֹֽו（bêt ʿôlāmô）」の直訳。「domus aeternitatis（永遠の家）」は墓のヘブライ語的婉曲表現──死が「永遠の住まい」として定義される逆説。第7章v.1「dies mortis die nativitatis（死の日は誕生の日よりも良い）」という「死の優越」格言と照応する：誕生が仮の家（世界）への到来であるなら、死は「永遠の家」への帰還として論理的に完成する。「circuibunt in platea plangentes（嘆く者たちが街路を巡り歩く）」──「circuibunt（巡り歩く）」という動詞が第1章の「circuibunt（循環する）」の主題動詞と語根を共有する：自然の循環（太陽・風・川）が、ここでは嘆く者たちの行列という人間的循環として最終化される。ローデンバック「骸骨の前で（Devant Tête de Mort）」・トラークル「De Profundis」の冬の夜の嘆きとの照応。",
+      "targetId": "trakl_de_profundis",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 6,
+      "type": "glossary",
+      "anchor": "Antequam rumpatur funiculus argenteus, et recurrat vitta aurea, et conteratur hydria super fontem, et confringatur rota super cisternam,",
+      "body": "「銀の縄・金の帯・泉の水瓶・井戸の滑車」──生命停止の四つの象徴的形象。「funiculus argenteus（銀の縄）」：脊髄・神経系・あるいは魂と肉体を繋ぐ紐という伝統的解釈。「vitta aurea（金の帯）」：脳・生命の光。「hydria super fontem（泉の上の水瓶）」：心臓・血液循環。「rota super cisternam（井戸の上の滑車）」：肺・呼吸という身体的解釈が伝統的に行われてきた。金と銀という貴金属の材質が生命の貴重さを示しながら、それが「断ち切られ・砕かれる（rumpatur / conteratur / confringatur）」という暴力的終焉として提示される。第11章v.1「水の上にパンを投げよ」の水のイメージが、ここでは「泉・井戸」という水源の破壊として死的に反転する。"
+    },
+    {
+      "paragraphId": 7,
+      "type": "commentary",
+      "anchor": "et revertatur pulvis in terram suam unde erat, et spiritus redeat ad Deum, qui dedit illum.",
+      "body": "「塵は地へと戻り、霊は神へと戻る」──コヘレト全体の存在論的基軸の最終確認。第3章v.20「De terra facta sunt, et in terram pariter revertuntur（土から造られ、等しく土へと戻る）」という人間と動物の共通の「土への帰還」が、ここでは「pulvis（塵）」と「spiritus（霊）」の二重の帰還として精神的次元が加わる。「spiritus redeat ad Deum, qui dedit illum（霊はそれを与えた神へと戻る）」──「dedit（与えた）」という完了形が神の創造行為の先行性を示す：霊は神から贈られたものであり（donum Dei）、死においてその源泉へと「revertere（戻る）」──第1章v.6の自然の循環の動詞「revertitur」が人間の霊に適用される。第3章v.21「アダムの子らの霊が上昇するかどうか誰が知るのか（Quis novit si spiritus filiorum Adam ascendat sursum）」という問いへの、第12章における回答：知らなかった「霊の行方」が「神へと戻る（ad Deum redeat）」として最終的に開示される。ヴェイユ「Décréation（脱創造）」§1「私たちは神から存在を受け取り、神に返す」──「spiritus redeat ad Deum」がヴェイユ的「脱創造」の聖書的定式として最も完全な形で読める：霊の返還が創造の完成として提示される。",
+      "targetId": "weil_decreation",
+      "targetParagraphId": 1
+    },
+    {
+      "paragraphId": 8,
+      "type": "commentary",
+      "anchor": "Vanitas vanitatum, dixit Ecclesiastes, et omnia vanitas.",
+      "body": "「虚無の虚無、とコヘレトは言った。すべては虚無である」──第1章v.2「Vanitas vanitatum, dixit Ecclesiastes; vanitas vanitatum, et omnia vanitas」の完全な反復として書物全体を円環的に閉じる。第1章では「vanitas vanitatum」が二度繰り返されたが、第12章では一度──老いの寓意詩（v.2–7）・塵と霊の帰還（v.7）の後に置かれることで、「omnia vanitas」という命題が11章にわたる実証的探求の結論として重みを増す。「dixit Ecclesiastes（コヘレトは言った）」──第1章では「dixit Ecclesiastes; vanitas vanitatum, et omnia vanitas」という連続した一文だったものが、第12章では「dixit Ecclesiastes, et omnia vanitas」とセミコロンが消え、より直接的な断言となる。第7章v.29「Solummodo hoc inveni（ただこれだけを見出した）」という自己限定的な発見に対して、ここでは「et omnia vanitas」という包括的な結語が静かに確定する。クリスティーナ・ロセッティ「Vanity of Vanities」・ダウスン「Vanitas」という英語圏受容が第1章注釈（第1章v.2、glossary）で既に言及された定式の最終的回帰として機能する。",
+      "targetId": "hieronymus_ecclesiastes_1",
+      "targetParagraphId": 2
+    },
+    {
+      "paragraphId": 11,
+      "type": "commentary",
+      "anchor": "Verba sapientium sicut stimuli, et quasi clavi in altum defixi, quae per magistrorum consilium data sunt a pastore uno.",
+      "body": "「知恵ある者の言葉は鋭い棒のようであり、深く打ち込まれた釘のようだ──一人の牧者から与えられた」──知恵の言語論的定義として章の後記（v.9–12）中の核心に置かれる。「stimuli（鋭い棒・刺激物）」──牛を駆る「突き棒（stimmulus）」のイメージ：知恵の言葉は慰めではなく、人間を動かす刺激・苦痛として機能する。「clavi in altum defixi（深く打ち込まれた釘）」──釘が木材に深く打ち込まれるように、知恵の言葉は聴く者の心に深く固定される：表面的な通過ではなく「alta（深さ）」への貫通。「a pastore uno（一人の牧者から）」──伝統的解釈では「神」を指す：無数の教師・師たちの言葉も、最終的には「一人の牧者（Deus）」からの賜物として一元化される。第5章v.1「神は天にいて、あなたは地の上にいる」という垂直的距離が、「一人の牧者」という羊飼い的近さとして対称的に提示される。マラルメ「骰子一擲」最終行「Toute Pensée émet un Coup de Dés（いかなる思考も骰子の一擲を放つ）」との照応：コヘレトの「stimuli（刺激物）」としての知恵の言葉と、マラルメの「骰子」としての思考が、どちらも言語的行為の不可避的・貫通的な力として機能する。",
+      "targetId": "mallarme_coup_de_des",
+      "targetParagraphId": 10
+    },
+    {
+      "paragraphId": 12,
+      "type": "commentary",
+      "anchor": "His amplius, fili mi, ne requiras. Faciendi plures libros nullus est finis; frequensque meditatio, carnis afflictio est.",
+      "body": "「これ以上のことを求めるな──多くの書物を作ることに終わりはない。多くの瞑想は肉体の苦悩である」──第7章v.24「知恵はさらに私から遠ざかった（ipsa longius recessit a me）」・v.25「深い深淵よ、誰がそれを見出せるのか（alta profunditas, quis inveniet eam?）」という知恵の不可達性が、ここでは「探求の打ち切り」として完結する。「fili mi（わが子よ）」──書物全体で唯一の呼びかけの語：読者を「息子」として呼ぶことで、コヘレトの言葉が親から子への伝達、すなわち世代を超えた知恵の継承として定位される。「Faciendi plures libros nullus est finis（多くの書物を作ることに終わりはない）」──自己参照的な逆説：コヘレトというテキスト自身が「書物の無限性」という問題を、書物として提示している。第1章v.18「qui addit scientiam, addit et laborem（知識を加える者は労苦を加える）」の結語的反復として：書くこと・探求することが「carnis afflictio（肉体の苦悩）」として確定される。ヴェイユ「Effacement（消去）」章の「私という主体を消すこと」──「ne requiras（求めるな）」という探求の中止命令がヴェイユ的「消去・放棄」の聖書的先行形として読める。",
+      "targetId": "weil_effacement",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 13,
+      "type": "glossary",
+      "anchor": "Finem loquendi pariter omnes audiamus. Deum time, et mandata ejus observa: hoc est enim omnis homo,",
+      "body": "「言葉の終わりを、共にすべての者が聴こう──神を畏れよ、その戒めを守れ。これが人間のすべてだ」──コヘレト全体の最終結語。「Finem loquendi pariter omnes audiamus（言葉の終わりを共にすべての者が聴こう）」──「finis（終わり）」という語がv.12「nullus est finis（終わりはない）」の書物の無限性に対して、「発話の終わり（finis loquendi）」を宣言する：書物としての無限性に対して、特定の語りの終点を画する。「hoc est enim omnis homo（これが人間のすべてだから）」──コヘレト全体でこれほど凝縮された人間定義はない。「omnis homo（人間のすべて）」という表現は「すべての人間」と「人間であることの全体」の双方を意味する──「神を畏れ戒めを守ること」が人間の本質的定義として提示される。11章にわたる「vanitas」の探求の後に辿り着く極限的な単純さ：複雑な認識論的・存在論的探求の果てに「Deum time（神を畏れよ）」という最も古い知恵の定式が残る。第5章v.6「tu vero Deum time（しかしあなたは神を畏れよ）」・第7章v.18「qui timet Deum nihil negligit（神を畏れる者は何も等閑にしない）」の主題が、ここで最終的・包括的に確立される。"
+    },
+    {
+      "paragraphId": 14,
+      "type": "commentary",
+      "anchor": "et cuncta quae fiunt adducet Deus in judicium pro omni errato, sive bonum, sive malum illud sit.",
+      "body": "「なされるすべてのことについて、神はすべての誤りのゆえに裁きへと連れて行くだろう──それが善であれ悪であれ」──書物の絶対的結語。「sive bonum, sive malum illud sit（それが善であれ悪であれ）」──第9章v.1「Deus amore an odio dignus（神が愛するに値するか憎むに値するか）」という神の意図の不可知性が、ここでは「神の審判の包括性」として回答される：善悪双方がともに神の審判の射程にある。「pro omni errato（すべての誤りのゆえに）」──ヘブライ語「נֶעְלַם（ne'lam）」「隠れたこと」の訳。見えない・隠れたことまでも神の審判が届く、という究極の神の認識論的全体性。第7章v.29「神は人間を真っ直ぐに造った（fecerit Deus hominem rectum）」という創造論的出発点から、第12章v.14「神は裁きへと連れて行く」という終末論的終点まで──コヘレトは神の創造と神の審判という二つの極の間に人間の「vanitas」の全歴史を展開した。リルケ「ドゥイノの悲歌」第9歌の「大地よ、あなたは私たちに何を望むのか（Erde, ist es nicht dies, was du willst）」──被造物としての人間が創造者に問い返すという構造が、コヘレトの「裁きへ連れて行かれる」という受動的被審判性と鏡的に照応する：コヘレトは審判の受容として沈黙し、リルケは大地への問いとして語り続ける。",
+      "targetId": "rilke_duineser_elegien_09",
+      "targetParagraphId": null
+    }
+  ]
+}
