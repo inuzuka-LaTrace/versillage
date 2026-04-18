@@ -1,0 +1,313 @@
+{
+  "id": "hieronymus_iob_3",
+  "title": "Iob, Caput III",
+  "author": "Eusebius Sophronius Hieronymus",
+  "source": "Biblia Sacra Vulgata, Liber Iob, Caput III. Bible Gateway: https://www.biblegateway.com/passage/?search=Job+3&version=VULGATE",
+  "year": "Antiquitas",
+  "firstPublication": "Vulgata Latina, c. 382–405 AD（ヒエロニムス訳）",
+  "difficulty": "上級",
+  "category": "hieronymus",
+  "originalLang": "la-LA",
+  "modernRelevance": "★★★★★",
+  "context": "ヨブ記第3章。七日七夜の沈黙（第2章v.13）の後、ヨブが初めて口を開く──「Post haec aperuit Job os suum, et maledixit diei suo（その後、ヨブは口を開き、自分の生まれた日を呪った）」。散文の序章（第1〜2章）から詩篇部分への転換点であり、第3章はヘブライ語詩の最高峰の一つとして西洋文学史に位置づけられる。呪詛詩は三つのブロックに分かれる。v.3–10：誕生の日と懐胎の夜への呪詛──「Pereat dies in qua natus sum（私が生まれた日が滅びよ）」という生誕の否定。v.11–19：なぜ胎内で死ななかったのかという問い──もし出生時に死んでいたなら、今頃は王や君主とともに「眠り（dormiens silerem）」、平和の中で「休んでいた（requiescerem）」だろうという逆説的死への憧憬。v.20–26：なぜ苦しむ者に光（＝生命）が与えられるのかという問い──「Quare misero data est lux, et vita his qui in amaritudine animae sunt（なぜ惨めな者に光が、魂の苦渋の中にある者に命が与えられるのか）」という神への根本的な問いかけ。章末v.25–26の「quia timor quem timebam evenit mihi（私が恐れていた恐れが私に来た）」という逆説──信仰の人ヨブが最も恐れていたことが現実になったという実存的告白で詩篇部分が閉じられる。",
+  "keywords": [
+    "maledixit diei suo",
+    "Pereat dies",
+    "反出生主義",
+    "呪詛詩",
+    "Leviathan",
+    "dormiens silerem",
+    "amaritudo animae",
+    "なぜ光が与えられるのか",
+    "timor quem timebam",
+    "umbra mortis"
+  ],
+  "relatedTexts": [
+    "hieronymus_iob_1",
+    "hieronymus_iob_2",
+    "hieronymus_iob_7",
+    "hieronymus_ecclesiastes_4",
+    "hieronymus_ecclesiastes_6",
+    "weil_accepter_le_vide",
+    "weil_necessite",
+    "weil_dressage",
+    "trakl_de_profundis",
+    "trakl_helian",
+    "trakl_abendlaendisches_lied",
+    "baudelaire_spleen",
+    "rilke_duineser_elegien_01",
+    "rodenbach_du_silence"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "verses": "v.1",
+      "original": "Post haec aperuit Job os suum, et maledixit diei suo,",
+      "provisionalTranslation": "その後、ヨブは口を開き、自分の生まれた日を呪った。"
+    },
+    {
+      "id": 2,
+      "verses": "v.2",
+      "original": "et locutus est:",
+      "provisionalTranslation": "そして語った。"
+    },
+    {
+      "id": 3,
+      "verses": "v.3",
+      "original": "Pereat dies in qua natus sum, et nox in qua dictum est: Conceptus est homo.",
+      "provisionalTranslation": "私が生まれた日が滅びよ。そして「人が宿った」と言われた夜も。"
+    },
+    {
+      "id": 4,
+      "verses": "v.4",
+      "original": "Dies ille vertatur in tenebras: non requirat eum Deus desuper, et non illustretur lumine.",
+      "provisionalTranslation": "その日が闇となれ。神が上から顧みることなく、光に輝かされることもなく。"
+    },
+    {
+      "id": 5,
+      "verses": "v.5",
+      "original": "Obscurent eum tenebrae et umbra mortis; occupet eum caligo, et involvatur amaritudine.",
+      "provisionalTranslation": "暗闇と死の陰がその日を覆え。濃い暗闇がそれを占領し、苦みにくるまれよ。"
+    },
+    {
+      "id": 6,
+      "verses": "v.6",
+      "original": "Noctem illam tenebrosus turbo possideat; non computetur in diebus anni, nec numeretur in mensibus.",
+      "provisionalTranslation": "暗い嵐風がその夜を占領せよ。年の日数に数えられることなく、月の中に数えられることもなく。"
+    },
+    {
+      "id": 7,
+      "verses": "v.7",
+      "original": "Sit nox illa solitaria, nec laude digna.",
+      "provisionalTranslation": "その夜が孤独であれ、賞賛に値することもなく。"
+    },
+    {
+      "id": 8,
+      "verses": "v.8",
+      "original": "Maledicant ei qui maledicunt diei, qui parati sunt suscitare Leviathan.",
+      "provisionalTranslation": "日を呪う者たちが、レビヤタンを呼び起こす用意をしている者たちが、その夜を呪え。"
+    },
+    {
+      "id": 9,
+      "verses": "v.9",
+      "original": "Obtenebrentur stellae caligine ejus; expectet lucem, et non videat, nec ortum surgentis aurorae.",
+      "provisionalTranslation": "その夜の星々が闇に覆われよ。光を待ち望んで、見出せないように。昇る暁の出現も見えないように。"
+    },
+    {
+      "id": 10,
+      "verses": "v.10",
+      "original": "Quia non conclusit ostia ventris qui portavit me, nec abstulit mala ab oculis meis.",
+      "provisionalTranslation": "なぜなら、私を宿した胎の扉を閉ざさず、私の目から悪を取り去らなかったから。"
+    },
+    {
+      "id": 11,
+      "verses": "v.11",
+      "original": "Quare non in vulva mortuus sum? egressus ex utero non statim perii?",
+      "provisionalTranslation": "なぜ胎内で死ななかったのか。胎から出てすぐに死ななかったのか。"
+    },
+    {
+      "id": 12,
+      "verses": "v.12",
+      "original": "Quare exceptus genibus? cur lactatus uberibus?",
+      "provisionalTranslation": "なぜ膝の上に受け取られたのか。なぜ乳房で乳を飲まされたのか。"
+    },
+    {
+      "id": 13,
+      "verses": "v.13",
+      "original": "Nunc enim dormiens silerem, et somno meo requiescerem",
+      "provisionalTranslation": "今頃なら眠って静かにし、自分の眠りの中で休んでいたのに──"
+    },
+    {
+      "id": 14,
+      "verses": "v.14",
+      "original": "cum regibus et consulibus terrae, qui aedificant sibi solitudines;",
+      "provisionalTranslation": "荒れ地を自らのために建てた地の王たちや参議たちとともに。"
+    },
+    {
+      "id": 15,
+      "verses": "v.15",
+      "original": "aut cum principibus qui possident aurum, et replent domos suas argento;",
+      "provisionalTranslation": "あるいは金を持ち、その家を銀で満たした君主たちとともに。"
+    },
+    {
+      "id": 16,
+      "verses": "v.16",
+      "original": "aut sicut abortivum absconditum non subsisterem, vel qui concepti non viderunt lucem.",
+      "provisionalTranslation": "あるいは隠された流産児のように存在しなかったか──光を見ることなく宿った者たちのように。"
+    },
+    {
+      "id": 17,
+      "verses": "v.17",
+      "original": "Ibi impii cessaverunt a tumultu, et ibi requieverunt fessi robore.",
+      "provisionalTranslation": "そこでは不正な者たちが騒乱から休み、力の尽きた者たちがそこで休んでいる。"
+    },
+    {
+      "id": 18,
+      "verses": "v.18",
+      "original": "Et quondam vincti pariter sine molestia, non audierunt vocem exactoris.",
+      "provisionalTranslation": "かつて縛られた者たちも共に苦しみなく、督促者の声を聞かなかった。"
+    },
+    {
+      "id": 19,
+      "verses": "v.19",
+      "original": "Parvus et magnus ibi sunt, et servus liber a domino suo.",
+      "provisionalTranslation": "小さき者も大いなる者もそこにいる。僕は主人から自由である。"
+    },
+    {
+      "id": 20,
+      "verses": "v.20",
+      "original": "Quare misero data est lux, et vita his qui in amaritudine animae sunt:",
+      "provisionalTranslation": "なぜ惨めな者に光が与えられるのか。魂の苦渋の中にある者に命が与えられるのか。"
+    },
+    {
+      "id": 21,
+      "verses": "v.21",
+      "original": "qui expectant mortem, et non venit, quasi effodientes thesaurum;",
+      "provisionalTranslation": "死を待ち望んでも来ない者たちが──宝を掘り出すように。"
+    },
+    {
+      "id": 22,
+      "verses": "v.22",
+      "original": "gaudentque vehementer cum invenerint sepulchrum?",
+      "provisionalTranslation": "墓を見つけたとき、激しく喜ぶ者たちが。"
+    },
+    {
+      "id": 23,
+      "verses": "v.23",
+      "original": "viro cujus abscondita est via et circumdedit eum Deus tenebris?",
+      "provisionalTranslation": "その道が隠され、神が暗闇で周囲を囲んだ人間に。"
+    },
+    {
+      "id": 24,
+      "verses": "v.24",
+      "original": "Antequam comedam, suspiro; et tamquam inundantes aquae, sic rugitus meus:",
+      "provisionalTranslation": "食べる前に私はため息をつく。溢れる水のように、私の呻きはそのようだ。"
+    },
+    {
+      "id": 25,
+      "verses": "v.25",
+      "original": "quia timor quem timebam evenit mihi, et quod verebar accidit.",
+      "provisionalTranslation": "なぜなら、私が恐れていた恐れが私に来たから。私が怖れていたことが起きたから。"
+    },
+    {
+      "id": 26,
+      "verses": "v.26",
+      "original": "Nonne dissimulavi? nonne silui? nonne quievi? et venit super me indignatio.",
+      "provisionalTranslation": "私は黙ってこらえなかったか。沈黙しなかったか。静まらなかったか。それでも憤りは私に来た。"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "Post haec aperuit Job os suum, et maledixit diei suo,",
+      "body": "「その後、ヨブは口を開き、自分の生まれた日を呪った」──第2章v.13「七日七夜誰も語らなかった（nemo loquebatur ei verbum）」という沈黙からの劇的な転換。「Post haec（その後）」という時間的標示が七日間の沈黙の重さを圧縮する。「aperuit os suum（口を開いた）」──第2章v.10「In omnibus his non peccavit Job labiis suis（口をもって罪を犯さなかった）」という散文的結語が、ここで根本的に問い直される：詩的発話が始まることで「labia（口）」の神学的問題が再開される。「maledixit diei suo（自分の生まれた日を呪った）」──エレミヤ書20:14「Maledictus dies in quo natus sum（私が生まれた日が呪われよ）」との直接的並行：ヨブとエレミヤという二人の苦悩の義人が同一の呪詛詩的表現を共有する。ヴェイユ「Décréation」§21「afflictionにおける苦しみを完全に受動的な形で受ける」という実践の限界──七日の沈黙が尽き、詩語という能動的表現へと転化する。"
+    },
+    {
+      "paragraphId": 3,
+      "type": "glossary",
+      "anchor": "Pereat dies in qua natus sum, et nox in qua dictum est: Conceptus est homo.",
+      "body": "「私が生まれた日が滅びよ──『人が宿った』と言われた夜も」──ヨブ記第3章の開幕命題にして、西洋文学における最も根源的な「誕生への呪詛（maledictio nativitatis）」の定式。「Pereat（滅びよ）」という接続法（jussive）が存在の消去を命令として発する：誕生という既に起きた出来事に対する遡及的呪詛として、時制を逆行させる言語的力。「dies……et nox（昼……夜）」という創造の基本的時間単位が消去の対象となる──創世記1:5「神は光を昼と名づけ、暗闇を夜と名づけた」という創造的命名の逆転として読める。コヘレト第4章v.3「feliciorem utroque judicavi qui necdum natus est（まだ生まれていない者が最も幸福）」の格言的命題が、ヨブにおいては激烈な詩的叫びとして再登場する──コヘレトが冷静な観察として述べたことを、ヨブは苦悩の嵐の中で呻きとして発する。シオラン『生誕の不都合について（De l'inconvénient d'être né, 1973）』の「生まれてこなければよかった（il vaudrait mieux ne pas être né）」という反出生主義的命題の聖書的先行原形として、この節は西洋ニヒリズム的思想の最も根本的な源泉の一つを形成する。",
+      "targetId": "hieronymus_ecclesiastes_4",
+      "targetParagraphId": 3
+    },
+    {
+      "paragraphId": 5,
+      "type": "commentary",
+      "anchor": "Obscurent eum tenebrae et umbra mortis; occupet eum caligo, et involvatur amaritudine.",
+      "body": "「暗闇と死の陰がその日を覆え──苦みにくるまれよ（involvatur amaritudine）」──v.3–9の呪詛詩のレトリック的頂点の一つ。「umbra mortis（死の陰）」──ヘブライ語「צַלְמָות（ṣalmāvet）」の直訳。ヴルガータで最も頻繁に使用される死の形象の一つ（詩篇22:4「死の陰の谷」）。「tenebrae（暗闇）・umbra mortis（死の陰）・caligo（濃い暗闇）・amaritudo（苦み）」という四つの否定的形象の連鎖が、単一の日（dies）を完全に消去するための重層的な呪詛として機能する。トラークル「深みより（De Profundis）」の「Ein Winterabend / Wenn Schnee / Ins Schweigende（冬の夕べ、雪が、沈黙の中へ）」──トラークル詩学の核心的形象である「暗闇・死の陰・孤独」の連鎖がヨブ第3章の呪詛詩的語彙を詩学的に継承する。「amaritudo（苦み）」という語は第1章v.4でコヘレトの「amaritudine animae（魂の苦み）」と照応し、afflictionの感覚的定式として機能する。",
+      "targetId": "trakl_de_profundis",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 8,
+      "type": "commentary",
+      "anchor": "Maledicant ei qui maledicunt diei, qui parati sunt suscitare Leviathan.",
+      "body": "「レビヤタンを呼び起こす用意をしている者たちが、その夜を呪え（Maledicant ei qui maledicunt diei, qui parati sunt suscitare Leviathan）」──ヨブ記において初めて言及される「Leviathan（レビヤタン）」が、後の第38–41章の神の応答で中心的存在として帰還する伏線として機能する。「レビヤタン」はカナアン神話の海の怪物（Lotan）に対応するヘブライ語的宇宙的怪獣であり、混沌・暗海・創造以前の力の象徴。「qui parati sunt suscitare（呼び起こす用意をしている）」──レビヤタンを「呼び起こす」という行為が宇宙的混沌の解放として設定される：ヨブの呪詛が個人的な嘆きの次元を超えて宇宙論的破局の招請として拡大される。トラークル「Helian」での「沈降する天使（sinkende Engel）」・「未だ生まれていない（Ungeborenen）」という混沌への回帰のモチーフとの照応。",
+      "targetId": "trakl_helian",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 9,
+      "type": "prosody",
+      "anchor": "Obtenebrentur stellae caligine ejus; expectet lucem, et non videat, nec ortum surgentis aurorae.",
+      "body": "「その夜の星々が闇に覆われよ──光を待ち望んで、見出せないように。昇る暁の出現も見えないように」──v.3–9の呪詛詩の最終行として「暁（aurora）」の不出現が確定する。ヘブライ詩の並行法（parallelismus membrorum）：「expectet lucem / non videat（光を待ち望んで、見えない）」と「nec ortum surgentis aurorae（昇る暁の出現も）」が同一の光の否定を二重に展開する。第11章v.7「Dulce lumen, et delectabile est oculis videre solem（光は甘く、太陽を見ることは喜ばしい）」というコヘレトの生の喜びが、ここでは「光を待ち望むが見えない（expectet lucem, et non videat）」という剥奪として逆転される。リルケ「ドゥイーノ悲歌・第1歌」「美は、私たちが辛うじて耐えられる恐ろしさの始まりに過ぎない（das Schöne ist nichts als des Schrecklichen Anfang）」──「光の剥奪」という美の否定的形象との照応。",
+      "targetId": "rilke_duineser_elegien_01",
+      "targetParagraphId": 1
+    },
+    {
+      "paragraphId": 11,
+      "type": "commentary",
+      "anchor": "Quare non in vulva mortuus sum? egressus ex utero non statim perii?",
+      "body": "「なぜ胎内で死ななかったのか──胎から出てすぐに死ななかったのか（Quare non in vulva mortuus sum? egressus ex utero non statim perii?）」──呪詛詩の第二ブロック（v.11–19）の開幕命題。「Quare（なぜ）」という問いが詩篇後半を貫く問い掛けの主調音として機能する：v.11「なぜ死ななかった」・v.12「なぜ膝に受け取られた」・v.20「なぜ光が与えられる」という三つの「Quare」が詩の構造的柱を形成する。「in vulva mortuus（胎内で死んだ）」──胎内死という最も原始的な「未生の存在」への欲望。コヘレト第4章v.3の「abortivus（流産児）」への言及（「隠された流産児のほうが……幸福」）が第3章v.16「aut sicut abortivum absconditum（流産児のように）」として反響する──コヘレトとヨブの「反出生主義」的表現の相互テキスト的連鎖。シオラン「生誕の不都合」での「意識が始まる前の状態への憧憬」──「胎内死（in vulva mortuus）」という状態が意識発生以前の絶対的平和として投影される。"
+    },
+    {
+      "paragraphId": 13,
+      "type": "commentary",
+      "anchor": "Nunc enim dormiens silerem, et somno meo requiescerem",
+      "body": "「今頃なら眠って静かにし、自分の眠りの中で休んでいたのに（dormiens silerem, et somno meo requiescerem）」──「dormiens（眠る）」・「silerem（静かにする）」・「requiescerem（休む）」という三つの接続法半過去（counterfactual）が「死んでいたなら実現していた平和」を仮定法として提示する。「dormirem（眠り）」という動詞が死の婉曲表現として機能する──「睡眠と死の類比」という古典的・ヘブライ的修辞。ヨブ記全体でヨブが「休み（requies）」を求め続けるモチーフの最初の定式：第7章v.16「parce mihi, nihil enim sunt dies mei（私をお赦しください、私の日々は何でもないから）」・第14章「休みを待つ木」との連続。コヘレト第5章v.11「Dulcis est somnus operanti（働く者の眠りは甘い）」という生における「眠りの甘さ」が、ここでは死における「永遠の眠り」として究極化される。"
+    },
+    {
+      "paragraphId": 16,
+      "type": "commentary",
+      "anchor": "aut sicut abortivum absconditum non subsisterem, vel qui concepti non viderunt lucem.",
+      "body": "「あるいは隠された流産児のように存在しなかったか──光を見ることなく宿った者たちのように（abortivum absconditum / concepti non viderunt lucem）」──コヘレト第4章v.3「feliciorem utroque judicavi qui necdum natus est（まだ生まれていない者が最も幸福）」・第6章v.3「de hoc ergo pronuntio quod melior illo sit abortivus（流産児の方が彼よりも幸福）」という「流産児の祝福」の系列がヨブにおいて「ならばよかったのに（non subsisterem）」という実存的渇望として最大化される。「absconditus（隠された）」という形容詞──流産児の「隠れた存在様式（存在しない形での存在）」が死への憧憬の理想形として提示される。第23章v.4の「viro cujus abscondita est via（その道が隠された人間）」との呼応──神が道を「隠す（abscondere）」という苦悩の形象が、ここでは胎内での「隠れた無存在」として幸福の形象として反転される。",
+      "targetId": "hieronymus_ecclesiastes_6",
+      "targetParagraphId": 3
+    },
+    {
+      "paragraphId": 17,
+      "type": "commentary",
+      "anchor": "Ibi impii cessaverunt a tumultu, et ibi requieverunt fessi robore.",
+      "body": "「そこでは不正な者たちが騒乱から休み（cessaverunt a tumultu）、力の尽きた者たちがそこで休んでいる（requieverunt fessi robore）」──死の世界（「そこ（ibi）」）が平和の場所として描写されるヨブの逆説的死後論。v.17–19が死者の平等と平和という「死のユートピア」を形成する：「不正な者も（impii）・縛られた者も（vincti）・小さき者も（parvus）・大いなる者も（magnus）・奴隷も（servus）」がすべて平等に「休む（requiescere）」。コヘレト第3章v.20「omnia pergunt ad unum locum（すべては一つの場所へ向かう）」・第9章v.2「universa aeque eveniant justo et impio（正しい者と不正な者に等しく起こる）」という死の平等性の命題が、ヨブにおいては憧憬を込めた描写として詩的に展開される──コヘレトが観察として述べることをヨブは渇望として歌う。トラークル「夕暮れの歌（Abendlied）」・「沈没する者（Untergehende）」での「休息への憧憬」という詩的主題との照応。",
+      "targetId": "trakl_abendlaendisches_lied",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 19,
+      "type": "commentary",
+      "anchor": "Parvus et magnus ibi sunt, et servus liber a domino suo.",
+      "body": "「小さき者も大いなる者もそこにいる──僕は主人から自由である（servus liber a domino suo）」──死の民主主義（demokratia mortis）の最も簡潔な定式。コヘレト第2章v.16「moritur doctus similiter ut indoctus（学ある者も無学な者と同様に死ぬ）」・第9章v.2の「死の普遍的平等性」系列の詩的頂点。「Parvus et magnus（小さき者と大いなる者）」という対句が社会的ヒエラルキーの完全な解体を提示する。「servus liber a domino suo（僕は主人から自由）」──「liber（自由）」という語が死においてのみ実現するという逆説：生の中での服従・束縛からの解放として死が「自由（libertas）」の空間として定義される。コヘレト第4章v.4「Vae soli（一人の者は哀れ）」という生の孤立に対して、ここでは死の中での「共同体（ibi sunt）」という逆説的連帯が提示される。"
+    },
+    {
+      "paragraphId": 20,
+      "type": "commentary",
+      "anchor": "Quare misero data est lux, et vita his qui in amaritudine animae sunt:",
+      "body": "「なぜ惨めな者に光が与えられるのか──魂の苦渋の中にある者に命が与えられるのか（Quare misero data est lux, et vita his qui in amaritudine animae sunt）」──ヨブ記第3章の神学的頂点にして、ヨブ記全体の中心的問いの最初の定式。「lux（光）」と「vita（命）」が同一視される：生命そのものが「光」として定義され、その光が苦悩する者への「恵みではなく呪い（maledictio）」として経験される。第11章v.7「Dulce lumen（光は甘い）」というコヘレトの生への肯定的開口が、ヨブにおいては「misero data（惨めな者に与えられた）」という逆説的苦悩の形象として転倒される。ヴェイユ「Accepter le vide」§5「人間はこの世界の法則から稲妻の時間だけしか逃れられない」という「生の光の閃光的有限性」との照応：ヨブにとって光＝生は稲妻的な希望の閃光ではなく、終わらない苦悩の持続として経験される。",
+      "targetId": "weil_accepter_le_vide",
+      "targetParagraphId": 5
+    },
+    {
+      "paragraphId": 21,
+      "type": "commentary",
+      "anchor": "qui expectant mortem, et non venit, quasi effodientes thesaurum;",
+      "body": "「死を待ち望んでも来ない者たちが──宝を掘り出すように（quasi effodientes thesaurum）」──死への欲望のパラドックスを最も鮮烈な比喩で提示する節。「quasi effodientes thesaurum（宝を掘り出すように）」──死が「財宝（thesaurus）」として待望される逆説：第2章v.2のサタンが「cuncta quae habet homo dabit pro anima sua（命のためなら持てるものすべてを差し出す）」と言ったのに対して、ヨブは「命を捨てることのために宝を探すように待ち望む」──生死の価値が完全に逆転されている。「et non venit（しかし来ない）」──死の到来拒否という不条理：望んでも来ない死が、来ない神の応答と同型の苦悩として機能する。コヘレト第9章v.11「sed tempus casumque in omnibus（しかしすべてのものに時と偶然がある）」という偶然の支配が、ここでは「死というものでさえ時を選ぶ」という絶対的不条理として現れる。"
+    },
+    {
+      "paragraphId": 22,
+      "type": "commentary",
+      "anchor": "gaudentque vehementer cum invenerint sepulchrum?",
+      "body": "「墓を見つけたとき、激しく喜ぶ（gaudent vehementer cum invenerint sepulchrum）」──第3章全体で最も逆説的な一行。「gaudent vehementer（激しく喜ぶ）」という強烈な動詞・副詞の組み合わせが「墓（sepulchrum）」という死の空間と結合する：喜びが生ではなく死において、快楽ではなく墓の発見において実現する。ボードレール「旅（Le Voyage）」最終節「Ô Mort, vieux capitaine, il est temps ! levons l'ancre（死よ、老いた船長よ、時は来た）」という死への呼びかけが、ヨブの「sepulchrum」発見の「激しい喜び」と同一の死への渇望を共有する。コヘレト第7章v.1「dies mortis die nativitatis（死の日は誕生の日よりも良い）」という格言的命題が、ヨブにおいては「墓を見つけたときの激しい喜び」という感情的・身体的な体験として最大化される。"
+    },
+    {
+      "paragraphId": 23,
+      "type": "commentary",
+      "anchor": "viro cujus abscondita est via et circumdedit eum Deus tenebris?",
+      "body": "「その道が隠され（abscondita est via）、神が暗闇で周囲を囲んだ人間（circumdedit eum Deus tenebris）」──v.20–23の第三ブロックの結語命題。「abscondita est via（道が隠された）」──第7章v.24の「知恵はさらに遠ざかった（ipsa longius recessit a me）」という認識論的喩えが、ここでは「神が道を隠した」という神学的受動形として提示される：迷いが人間的失敗ではなく神による隠蔽として定義される。「circumdedit eum Deus tenebris（神が暗闇で周囲を囲んだ）」──「circumdedit（囲んだ）」という動詞が第1章v.10のサタンの言葉「tu vallasti eum（あなたが彼を周囲から守った）」と同じ「周囲を囲む」構造を持ちながら、善い囲い（保護）から悪い囲い（暗闇による包囲）へと転化している──神の行為の正反対への逆転としての試練の本質が浮かび上がる。ヴェイユ「Nécessité」章の「神は必然という幕を通じて間接的に働く」──「Deus tenebris circumdedit（神が暗闇で囲む）」という直接的神の行為の形象との緊張。",
+      "targetId": "weil_necessite",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 25,
+      "type": "glossary",
+      "anchor": "quia timor quem timebam evenit mihi, et quod verebar accidit.",
+      "body": "「私が恐れていた恐れが私に来た──私が怖れていたことが起きた（timor quem timebam evenit mihi, et quod verebar accidit）」──ヨブ記第3章の結語にして、最も謎めいた告白の一つ。「timor quem timebam（私が恐れていた恐れ）」という同語反復（figura etymologica：timor / timebam）が、恐れという感情自体への強烈な強調を生む。この節は第1章v.5のヨブの予防的燔祭（「わが子たちが罪を犯したかもしれない」という不安）と遡及的に照応する：ヨブが具体的に何を「恐れていた」のかは本文中で明示されないが、「起きた」という事実によって遡及的に確定される。「evenit mihi（私に来た）」・「accidit（起きた）」という動詞の単純完了形──既成事実としての恐れの現実化。コヘレト第9章v.12「Nescit homo finem suum（人間は自分の終わりを知らない）」という予測不可能性の命題が、ヨブにおいては「恐れていたことが起きた」という逆説──知らなかったのではなく「恐れていた」という予感が現実になった──として複雑化される。シオランの「誕生以来の不安（angoisse natale）」という実存的恐れの構造──「恐れが実現する」という実存的恐怖の聖書的定式として。"
+    },
+    {
+      "paragraphId": 26,
+      "type": "commentary",
+      "anchor": "Nonne dissimulavi? nonne silui? nonne quievi? et venit super me indignatio.",
+      "body": "「私は黙ってこらえなかったか──沈黙しなかったか──静まらなかったか──それでも憤りは私に来た（et venit super me indignatio）」──ヨブ記第3章・詩篇部分の開幕詩の結語。三つの修辞的問い（nonne dissimulavi? nonne silui? nonne quievi?）が第2章v.13の七日間の沈黙を回顧する：「dissimulare（黙ってこらえる）・silere（沈黙する）・quiescere（静まる）」という三つの同義的動詞が、ヨブが取った沈黙の態度を多角的に確認する。「et venit super me indignatio（それでも憤りは私に来た）」──「indignatio（憤り・義憤）」は神の怒りを指す場合と人間の被る苦悩を指す場合の双方の解釈を許す：神の憤りが沈黙のヨブに降りかかったのか、あるいはヨブ自身の義憤（自分の状況への）が爆発したのか。この曖昧性が第3章を「第4章以降の友人との対話」へと開く：沈黙からの詩語への移行が「indignatio」という言語的・実存的臨界点として可視化される。第2章v.10「si bona suscepimus de manu Dei, mala quare non suscipiamus（善いものを受けたのに悪いものを受け入れないでいられようか）」という散文的信仰の告白が、ここでは「それでも憤りが来た」という詩的爆発によって解体される──散文から詩への転換が信仰の言語から苦悩の言語への移行として完成する。"
+    }
+  ]
+}
