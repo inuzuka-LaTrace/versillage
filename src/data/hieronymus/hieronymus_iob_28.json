@@ -1,0 +1,314 @@
+{
+  "id": "hieronymus_iob_28",
+  "title": "Iob, Caput XXVIII",
+  "author": "Eusebius Sophronius Hieronymus",
+  "source": "Biblia Sacra Vulgata, Liber Iob, Caput XXVIII. Bible Gateway: https://www.biblegateway.com/passage/?search=Job+28&version=VULGATE",
+  "year": "Antiquitas",
+  "firstPublication": "Vulgata Latina, c. 382–405 AD（ヒエロニムス訳）",
+  "difficulty": "上級",
+  "category": "hieronymus",
+  "originalLang": "la-LA",
+  "modernRelevance": "★★★★★",
+  "context": "ヨブ記第28章。ヨブ記の詩的部分（第3〜37章）の中で独立した「知恵の詩篇（Carmen Sapientiae）」として、章の作者・文脈について聖書学者の間で論争が続く独立的テキスト。章は三つのブロックに分かれる。v.1–11：地下資源の採掘──銀・金・鉄・銅の採掘という人間の技術的成就が詳細に描かれる。人間は「山を根元から覆す（subvertit a radicibus montes）」・「岩に水路を切る（in petris rivos excidit）」・「隠れたものを光の中に持ち出す（abscondita in lucem produxit）」ほどの能力を持つ。v.12–19：「Sapientia vero ubi invenitur（しかし知恵はどこに見出されるのか）」という反転──v.11までの人間の驚異的技術能力に対して、「しかし（vero）」という逆接が知恵の不可到達性を対置する。海（Abyssus・mare）・金・宝石のいずれも知恵の等価物たり得ない。v.20–28：知恵の場所の問い、そして最終的定義──「Abscondita est ab oculis omnium viventium（すべての生ける者の目から隠されている）」・「Perditio et mors dixerunt: Auribus nostris audivimus famam ejus（滅亡と死は言った：我々の耳にその名声を聞いた）」という否定的連鎖の後、「Deus intelligit viam ejus（神が知恵の道を理解する）」という神学的転換があり、章末v.28「Ecce timor Domini, ipsa est sapientia; et recedere a malo, intelligentia（見よ、神への畏れ──それが知恵だ。悪を遠ざけること──それが知性だ）」という倫理的・宗教的定義で章が閉じられる。",
+  "keywords": [
+    "Sapientia ubi invenitur",
+    "知恵の探求詩",
+    "Abyssus dicit Non est in me",
+    "abscondita ab oculis viventium",
+    "Deus intelligit viam ejus",
+    "timor Domini ipsa est sapientia",
+    "採掘と知恵の対比",
+    "Carmen Sapientiae",
+    "intelligentia",
+    "知恵の価格不可能性"
+  ],
+  "relatedTexts": [
+    "hieronymus_iob_3",
+    "hieronymus_iob_7",
+    "hieronymus_iob_14",
+    "hieronymus_iob_19",
+    "hieronymus_iob_38",
+    "hieronymus_ecclesiastes_1",
+    "hieronymus_ecclesiastes_7",
+    "hieronymus_ecclesiastes_8",
+    "hieronymus_ecclesiastes_12",
+    "weil_accepter_le_vide",
+    "weil_necessite",
+    "weil_effacement",
+    "weil_atheisme_purificateur",
+    "mallarme_coup_de_des",
+    "mallarme_crise_de_vers",
+    "rilke_duineser_elegien_09",
+    "rilke_sonette_orpheus_1_01",
+    "trakl_de_profundis",
+    "valery_premiere_lecon_cours_de_poetique"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "verses": "v.1",
+      "original": "Habet argentum venarum suarum principia, et auro locus est in quo conflatur.",
+      "provisionalTranslation": "銀にはその鉱脈の源があり、金には鋳造される場所がある。"
+    },
+    {
+      "id": 2,
+      "verses": "v.2",
+      "original": "Ferrum de terra tollitur, et lapis solutus calore in aes vertitur.",
+      "provisionalTranslation": "鉄は地から取り出され、熱で溶かされた石は青銅に変わる。"
+    },
+    {
+      "id": 3,
+      "verses": "v.3",
+      "original": "Tempus posuit tenebris, et universorum finem ipse considerat: lapidem quoque caliginis et umbram mortis.",
+      "provisionalTranslation": "神は暗闇に時を設け、すべての終わりをご自身で見定める──暗黒の石と死の陰をも。"
+    },
+    {
+      "id": 4,
+      "verses": "v.4",
+      "original": "Dividit torrens a populo peregrinante eos quos oblitus est pes egentis hominis, et invios.",
+      "provisionalTranslation": "激流は旅する民から、貧しい人の足が忘れた者たちを、道なき者たちを隔てる。"
+    },
+    {
+      "id": 5,
+      "verses": "v.5",
+      "original": "Terra de qua oriebatur panis, in loco suo igni subversa est.",
+      "provisionalTranslation": "パンが生まれ出ていた大地は、その場所で火によって覆された。"
+    },
+    {
+      "id": 6,
+      "verses": "v.6",
+      "original": "Locus sapphiri lapides ejus, et glebae illius aurum.",
+      "provisionalTranslation": "その場所の石はサファイアで、その土くれは金だ。"
+    },
+    {
+      "id": 7,
+      "verses": "v.7",
+      "original": "Semitam ignoravit avis, nec intuitus est eam oculus vulturis.",
+      "provisionalTranslation": "その小道を鳥は知らない。ハゲワシの目もそこを見ていない。"
+    },
+    {
+      "id": 8,
+      "verses": "v.8",
+      "original": "Non calcaverunt eam filii institorum, nec pertransivit per eam leaena.",
+      "provisionalTranslation": "商人の子らはそこを踏まず、雌ライオンもそこを通り過ぎない。"
+    },
+    {
+      "id": 9,
+      "verses": "v.9",
+      "original": "Ad silicem extendit manum suam: subvertit a radicibus montes.",
+      "provisionalTranslation": "人は火打ち石に手を伸ばし、山を根元から覆す。"
+    },
+    {
+      "id": 10,
+      "verses": "v.10",
+      "original": "In petris rivos excidit, et omne pretiosum vidit oculus ejus.",
+      "provisionalTranslation": "岩に水路を切り開き、その目はあらゆる貴重なものを見た。"
+    },
+    {
+      "id": 11,
+      "verses": "v.11",
+      "original": "Profunda quoque fluviorum scrutatus est, et abscondita in lucem produxit.",
+      "provisionalTranslation": "川の深みを調べ、隠されたものを光の中に持ち出した。"
+    },
+    {
+      "id": 12,
+      "verses": "v.12",
+      "original": "Sapientia vero ubi invenitur? et quis est locus intelligentiae?",
+      "provisionalTranslation": "しかし知恵はどこに見出されるのか。知性の場所はどこにあるのか。"
+    },
+    {
+      "id": 13,
+      "verses": "v.13",
+      "original": "Nescit homo pretium ejus, nec invenitur in terra suaviter viventium.",
+      "provisionalTranslation": "人間はその価格を知らない。心地よく生きる者たちの地には見出されない。"
+    },
+    {
+      "id": 14,
+      "verses": "v.14",
+      "original": "Abyssus dicit: Non est in me, et mare loquitur: Non est mecum.",
+      "provisionalTranslation": "深淵は言う、「私の中にない」。海は語る、「私のもとにない」。"
+    },
+    {
+      "id": 15,
+      "verses": "v.15",
+      "original": "Non dabitur aurum obrizum pro ea, nec appendetur argentum in commutatione ejus.",
+      "provisionalTranslation": "純金もそれと引き換えに与えられることなく、銀も交換として量られない。"
+    },
+    {
+      "id": 16,
+      "verses": "v.16",
+      "original": "Non conferetur tinctis Indiae coloribus, nec lapidi sardonycho pretiosissimo vel sapphiro.",
+      "provisionalTranslation": "インドの染料とも、最も貴重なサードオニクスやサファイアとも比べられない。"
+    },
+    {
+      "id": 17,
+      "verses": "v.17",
+      "original": "Non adaequabitur ei aurum vel vitrum, nec commutabuntur pro ea vasa auri.",
+      "provisionalTranslation": "金やガラスもそれと等しくなく、金の器もそれと交換されない。"
+    },
+    {
+      "id": 18,
+      "verses": "v.18",
+      "original": "Excelsa et eminentia non memorabuntur comparatione ejus: trahitur autem sapientia de occultis.",
+      "provisionalTranslation": "珊瑚や水晶も知恵と比べて語られない。知恵は隠れた場所から引き出される。"
+    },
+    {
+      "id": 19,
+      "verses": "v.19",
+      "original": "Non adaequabitur ei topazius de AEthiopia, nec tincturae mundissimae componetur.",
+      "provisionalTranslation": "エチオピアのトパズもそれと等しくならない。最も純粋な染料とも並べられない。"
+    },
+    {
+      "id": 20,
+      "verses": "v.20",
+      "original": "Unde ergo sapientia venit? et quis est locus intelligentiae?",
+      "provisionalTranslation": "では知恵はどこから来るのか。知性の場所はどこにあるのか。"
+    },
+    {
+      "id": 21,
+      "verses": "v.21",
+      "original": "Abscondita est ab oculis omnium viventium: volucres quoque caeli latet.",
+      "provisionalTranslation": "すべての生ける者の目から隠されている。天の鳥たちにも潜んでいる。"
+    },
+    {
+      "id": 22,
+      "verses": "v.22",
+      "original": "Perditio et mors dixerunt: Auribus nostris audivimus famam ejus.",
+      "provisionalTranslation": "滅亡と死は言った。「私たちの耳でその名声を聞いた。」"
+    },
+    {
+      "id": 23,
+      "verses": "v.23",
+      "original": "Deus intelligit viam ejus, et ipse novit locum illius.",
+      "provisionalTranslation": "神が知恵の道を理解し、神だけがその場所を知っている。"
+    },
+    {
+      "id": 24,
+      "verses": "v.24",
+      "original": "Ipse enim fines mundi intuetur, et omnia quae sub caelo sunt respicit.",
+      "provisionalTranslation": "神は世界の果てを見渡し、天の下にあるすべてを眺める。"
+    },
+    {
+      "id": 25,
+      "verses": "v.25",
+      "original": "Qui fecit ventis pondus, et aquas appendit in mensura.",
+      "provisionalTranslation": "風に重さを与え、水を量りで量る方が。"
+    },
+    {
+      "id": 26,
+      "verses": "v.26",
+      "original": "Quando ponebat pluviis legem, et viam procellis sonantibus:",
+      "provisionalTranslation": "雨に法則を定め、鳴り響く嵐に道を定めたとき──"
+    },
+    {
+      "id": 27,
+      "verses": "v.27",
+      "original": "tunc vidit illam et enarravit, et praeparavit, et investigavit.",
+      "provisionalTranslation": "そのとき神は知恵を見て、それを語り伝え、準備し、探求した。"
+    },
+    {
+      "id": 28,
+      "verses": "v.28",
+      "original": "Et dixit homini: Ecce timor Domini, ipsa est sapientia; et recedere a malo, intelligentia.",
+      "provisionalTranslation": "そして人間に言われた。「見よ、神への畏れ──それが知恵だ。悪を遠ざけること──それが知性だ。」"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "prosody",
+      "anchor": "Habet argentum venarum suarum principia, et auro locus est in quo conflatur.",
+      "body": "v.1–11の「採掘カタログ（catalogus mineralis）」が章全体の弁証法的構造の前半を形成する。銀（v.1）・金（v.1）・鉄（v.2）・銅（v.2）・サファイア（v.6）・金（v.6）という資源のカタログが、人間の技術的能力の証として列挙される。この列挙の目的は人間の賞賛ではなく対照の準備：v.12の「Sapientia vero ubi invenitur（しかし知恵はどこに）」という逆接によって、技術的に到達可能な「地下の隠されたもの（abscondita, v.11）」と、技術的に到達不可能な「知恵（sapientia）」の対比が成立する。「principia venarum（鉱脈の源）」という語──知恵もまた「源（principia）」を持つが、その源は人間の探掘技術の届かない場所にある。コヘレト第7章v.24「alta profunditas, quis inveniet eam（深い深淵よ、誰がそれを見出せるのか）」という「知恵の深さ」の問いへの詩的対応として章全体が機能する。"
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "Tempus posuit tenebris, et universorum finem ipse considerat: lapidem quoque caliginis et umbram mortis.",
+      "body": "「神は暗闇に時を設け、すべての終わりをご自身で見定める──暗黒の石と死の陰（umbram mortis）をも」──章の冒頭に置かれた神の時間的・宇宙的主権の宣言。「Tempus posuit tenebris（暗闇に時を設けた）」──コヘレト第3章v.1「Omnia tempus habent（すべてのことには時がある）」という「時の詩」の神学的根拠として機能する：神が「時（tempus）」を設定する主権者として先取りされる。「universorum finem ipse considerat（すべての終わりをご自身で見定める）」──コヘレト第8章v.17「nullam possit homo invenire rationem（人は理を見出せない）」という人間の認識的限界が、神においては「finem considerat（終わりを見定める）」という完全な認識として対称的に確立される。「umbram mortis（死の陰）」──第3章v.5・第7章v.2で繰り返されるヨブ記の核心的形象がここでは採掘現場の暗闇として地下世界に具体化される。"
+    },
+    {
+      "paragraphId": 9,
+      "type": "commentary",
+      "anchor": "Ad silicem extendit manum suam: subvertit a radicibus montes.",
+      "body": "「人は火打ち石に手を伸ばし、山を根元から覆す（subvertit a radicibus montes）」──人間の採掘技術の最大化として提示される節。「subvertit a radicibus montes（山を根元から覆す）」──第14章v.18「Mons cadens defluit（崩れる山は溶け流れ）」という地質的崩壊の受動的形象に対して、ここでは人間が能動的に「山を根元から覆す（subvertit）」技術力として対置される。人間は地質的力学を制御する技術を持つ──しかし知恵は制御できない。「manum suam（自分の手を）」──第1章v.10のサタン「extende manum tuam（手を伸ばせ）」・第7章v.15「operi manuum tuarum（あなたの手の業）」と連鎖する「手（manus）」のモチーフが、ここでは人間の技術的能力の形象として機能する：神の手でも友人の手でも愛する者の手でもなく、採掘する人間自身の手。"
+    },
+    {
+      "paragraphId": 11,
+      "type": "commentary",
+      "anchor": "Profunda quoque fluviorum scrutatus est, et abscondita in lucem produxit.",
+      "body": "「川の深みを調べ、隠されたものを光の中に持ち出した（abscondita in lucem produxit）」──v.11が v.1–11の採掘カタログの頂点として機能する。「profunda fluviorum scrutatus est（川の深みを調べた）」──コヘレト第7章v.24「alta profunditas, quis inveniet eam（深い深淵よ、誰がそれを見出せるのか）」という知恵の「深さ（profunditas）」の問いが、ここでは川の「深み（profunda）」を調査する人間の技術として部分的・偽似的に実現される。「abscondita in lucem produxit（隠されたものを光の中に持ち出した）」──v.21「Abscondita est ab oculis omnium viventium（すべての生ける者の目から隠されている）」という知恵の隠蔽との対比として、人間は地下の「隠されたもの（abscondita）」を「光（lucem）」に持ち出せるが、知恵という「隠されたもの（abscondita）」は光の中に持ち出せない──同一の語（abscondita）が技術的到達可能性と認識論的不可到達性の境界を刻む。",
+      "targetId": "hieronymus_ecclesiastes_7",
+      "targetParagraphId": 25
+    },
+    {
+      "paragraphId": 12,
+      "type": "glossary",
+      "anchor": "Sapientia vero ubi invenitur? et quis est locus intelligentiae?",
+      "body": "「しかし知恵はどこに見出されるのか──知性の場所はどこにあるのか（Sapientia vero ubi invenitur?）」──ヨブ記第28章の中心命題にして、西洋知恵文学における最も純粋な「知恵の場所の問い（quaestio de loco sapientiae）」の定式。v.12とv.20に反復される二重の問いが章の構造的柱を形成する：v.12で初めて提起され、v.13–19で答えとして否定列挙（金・銀・宝石で代替不可）が展開され、v.20で同一の問いが再提起される。「vero（しかし）」という逆接副詞──v.11まで「人間は隠されたものを見出す」という技術的成就の連続の後に「しかし（vero）」が置かれることで、採掘技術と知恵探求の根本的な非対称が一語で刻印される。コヘレト第7章v.24「Et alta profunditas, quis inveniet eam（深い深淵よ、誰がそれを見出せるのか）」・第8章v.17「quanto plus laboraverit ad quaerendum, tanto minus inveniat（求めて労すれば労するほど、より少なしか見出す）」という知恵の不可到達性の命題が、第28章においては詩的・体系的な問いとして最大化される。マラルメ「骰子一擲」──「骰子の一擲は決して偶然を廃棄しない」という思考の根本的不制御性が、「sapientia ubi invenitur（知恵はどこに）」という「場所の不確定性」として照応する。"
+    },
+    {
+      "paragraphId": 13,
+      "type": "commentary",
+      "anchor": "Nescit homo pretium ejus, nec invenitur in terra suaviter viventium.",
+      "body": "「人間はその価格を知らない──心地よく生きる者たちの地には見出されない（nec invenitur in terra suaviter viventium）」──知恵の「価格不可能性（pretium incognitum）」と「場所的不在」が並列される。「Nescit homo pretium ejus（人間はその価格を知らない）」──v.15–19の「金・銀・宝石との等値不可能性」の経済的証明の前提として機能する：価格がわからないのは「高すぎるから」ではなく、根本的に「価格（pretium）」という概念が知恵に適用不可能だから。「nec invenitur in terra suaviter viventium（心地よく生きる者たちの地には見出されない）」──コヘレト第9章v.7「Vade ergo, et comede in laetitia panem tuum（行け、喜びとともにパンを食べよ）」という日常的享受の勧めが、知恵の「場所」としては否定される：「心地よい生（suaviter viventium）」の空間は知恵の不在の空間として定義される。ヴェイユ「Accepter le vide」§2「Il faut être un temps sans récompense（報酬なしに過ごす時間が必要）」──「suaviter vivere（心地よく生きること）」の放棄が知恵への接近条件として逆説的に読める。",
+      "targetId": "weil_accepter_le_vide",
+      "targetParagraphId": 2
+    },
+    {
+      "paragraphId": 14,
+      "type": "commentary",
+      "anchor": "Abyssus dicit: Non est in me, et mare loquitur: Non est mecum.",
+      "body": "「深淵は言う、『私の中にない』──海は語る、『私のもとにない』（Abyssus dicit: Non est in me, et mare loquitur: Non est mecum）」──第28章で最も詩的・哲学的な節。「Abyssus（深淵）」と「mare（海）」の「語る（dicere / loqui）」という人格化──自然が言語を持つ擬人法（prosopopeia）として、知恵の不在を自然物が「証言（testimonia）」する。「Non est in me（私の中にない）」・「Non est mecum（私のもとにない）」──コヘレト第1章v.7「Omnia flumina intrant in mare, et mare non redundat（すべての川は海へと入るが、海はあふれない）」という充足しない海の形象が、ここでは「知恵を持たない海」として継続する：海は量的には無限だが、知恵という質的なものを持たない。マラルメ「骰子一擲」§7「RIEN N'AURA EU LIEU QUE LE LIEU（場所以外何も起きなかっただろう）」──「深淵（Abyssus）」が知恵を否定する言葉を発するという、「場所の不在（Non est in me）」の詩的形象として照応する。",
+      "targetId": "mallarme_coup_de_des",
+      "targetParagraphId": 7
+    },
+    {
+      "paragraphId": 18,
+      "type": "commentary",
+      "anchor": "Excelsa et eminentia non memorabuntur comparatione ejus: trahitur autem sapientia de occultis.",
+      "body": "「珊瑚や水晶も知恵と比べて語られない──知恵は隠れた場所から引き出される（trahitur autem sapientia de occultis）」──v.15–19の「等値不可能性リスト」の頂点として、知恵の「引き出し」という動詞的定義が提示される。「trahitur autem sapientia de occultis（知恵は隠れた場所から引き出される）」──「trahitur（引き出される）」という受動態が知恵の主体性の消去を示す：知恵は人間が能動的に「見出す（invenire）」ものではなく、「隠れた場所から引き出される（trahitur de occultis）」受動的なもの。「occultis（隠れた場所）」──v.11「abscondita in lucem produxit（隠されたものを光の中に持ち出した）」という採掘技術が「隠れたもの（abscondita）」を光に持ち出すのに対して、知恵という「隠れたもの（occulta）」は人間の技術では引き出せない──同型の「隠蔽と開示」の構造が技術と知恵で非対称に機能する。ヴェイユ「Effacement（消去）」章の「私を消すこと（effacement）」──知恵が「隠れた場所から」来るという受動的待機の構造がヴェイユ的「注意（attention）」と「待機（attente）」の神学的先行形として読める。",
+      "targetId": "weil_effacement",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 21,
+      "type": "commentary",
+      "anchor": "Abscondita est ab oculis omnium viventium: volucres quoque caeli latet.",
+      "body": "「すべての生ける者の目から隠されている──天の鳥たちにも潜んでいる（volucres quoque caeli latet）」──v.12の問いが最終的否定として確認される節。「Abscondita est ab oculis omnium viventium（すべての生ける者の目から隠されている）」──「omnium viventium（すべての生ける者）」という包括的な主語：人間だけでなくすべての生命体から知恵は隠蔽されている。v.7–8の「鳥・ハゲワシ・雌ライオン」という動物たちが人間の採掘現場を知らないという形象が、ここでは「鳥たちにも知恵は潜んでいる（volucres caeli latet）」という知恵の完全な隠蔽として統合される。コヘレト第10章v.20「aves caeli portabunt vocem tuam（空の鳥があなたの声を運ぶ）」という鳥の偏在的知覚能力が、ここでは「天の鳥たちでも知恵の場所を知らない」という否定として反転される。リルケ「ドゥイーノ悲歌・第9歌」での「見えないもの（Unsichtbares）への変容」──「すべての生ける者の目から隠された」知恵という絶対的不可視性とリルケ的「Unsichtbares（見えないもの）」が同型の認識論的位置を占める。",
+      "targetId": "rilke_duineser_elegien_09",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 22,
+      "type": "commentary",
+      "anchor": "Perditio et mors dixerunt: Auribus nostris audivimus famam ejus.",
+      "body": "「滅亡と死は言った──『私たちの耳でその名声を聞いた（Auribus nostris audivimus famam ejus）』」──第28章で最も謎めいた詩的節。v.14の「Abyssus・mare」に続いて「Perditio et mors（滅亡と死）」という死の領域が擬人化として「証言」する。「famam ejus（その名声を）」──「fama（名声・噂）」という語が決定的：知恵を直接「知る（scire）」のではなく「名声を聞いた（famam audivimus）」だけ──死の領域でさえ知恵の「噂（fama）」しか持たない。この逆説が知恵の絶対的不可到達性を最も強く証言する：すべてを終わらせる「死（mors）」でさえ知恵を「所有」できない。第7章v.9「qui descenderit ad inferos, non ascendet（冥府に降った者は昇らない）」という冥界の一方向性が、ここでは「冥界でさえ知恵の名声を耳にしただけ（Auribus nostris audivimus）」という知識の不完全性として展開される。ヴェイユ「浄化する無神論（Athéisme purificateur）」§1「神を思い描けないものに似ている」──知恵も「思い描けない」・名声だけが伝わるという構造的平行。",
+      "targetId": "weil_atheisme_purificateur",
+      "targetParagraphId": 1
+    },
+    {
+      "paragraphId": 23,
+      "type": "commentary",
+      "anchor": "Deus intelligit viam ejus, et ipse novit locum illius.",
+      "body": "「神が知恵の道を理解し、神だけがその場所を知っている（Deus intelligit viam ejus, et ipse novit locum illius）」──第28章の神学的転換点。v.12の「Sapientia vero ubi invenitur（知恵はどこに）」・v.14の「Abyssus dicit: Non est in me」・v.21の「Abscondita est ab oculis omnium viventium」という否定の連鎖が、ここで「Deus intelligit（神が理解する）」という肯定的転換によって解決される。「intelligit viam ejus（知恵の道を理解する）」──「via（道）」という語が第23章v.8「viro cujus abscondita est via（道が隠された人間）」というヨブ自身の「隠された道」と照応する：人間の道は神によって隠されているが、知恵の道は神によって理解されている──神と知恵の間には直接的・相互的関係がある。コヘレト第8章v.17「nullam possit homo invenire rationem eorum quae fiunt sub sole（人は理を見出せない）」という認識論的限界が、「Deus intelligit（神が理解する）」という神的認識との対比によって確認される。",
+      "targetId": "hieronymus_ecclesiastes_8",
+      "targetParagraphId": 17
+    },
+    {
+      "paragraphId": 27,
+      "type": "commentary",
+      "anchor": "tunc vidit illam et enarravit, et praeparavit, et investigavit.",
+      "body": "「そのとき神は知恵を見て、それを語り伝え、準備し、探求した（tunc vidit illam et enarravit, et praeparavit, et investigavit）」──神の知恵との関係を描写する四動詞の連鎖。「vidit（見た）・enarravit（語り伝えた）・praeparavit（準備した）・investigavit（探求した）」──「investigavit（探求した）」という動詞が人間の採掘・探求行為を描く語彙（scrutari・investigare）と同語根：神が知恵を「探求（investigare）」するという擬人的描写が、人間の知恵「探求（investigatio）」の失敗との対比として機能する。v.1–11の「人間の採掘活動」の動詞群（extendit manum・subvertit・excidit・scrutatus est・produxit）が、ここでは神の「知恵の活動」に対応する動詞群（vidit・enarravit・praeparavit・investigavit）として反照される。ヴァレリー「詩学講義（Première leçon du cours de poétique）」での「詩的探求（investigatio poetica）」──神が知恵を「investigavit（探求した）」というこの節が、ヴァレリー的な「詩の探求が真理への迂回路として機能する」という詩学論の聖書的先行形として読める。",
+      "targetId": "valery_premiere_lecon_cours_de_poetique",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 28,
+      "type": "glossary",
+      "anchor": "Et dixit homini: Ecce timor Domini, ipsa est sapientia; et recedere a malo, intelligentia.",
+      "body": "「見よ、神への畏れ──それが知恵だ。悪を遠ざけること──それが知性だ（Ecce timor Domini, ipsa est sapientia; et recedere a malo, intelligentia）」──ヨブ記第28章の最終節にして、章全体の弁証法的構造の結語。「timor Domini（神への畏れ）」──コヘレト第5章v.6「tu vero Deum time（しかしあなたは神を畏れよ）」・第12章v.13「Deum time, et mandata ejus observa（神を畏れよ、その戒めを守れ）──これが人間のすべて（hoc est enim omnis homo）」という知恵文学の中心命題がヨブ記においても最終的結語として確立される。しかし第28章のこの結語が持つ独特の重みは文脈にある：v.1–11の人間の驚異的技術能力→v.12–22の知恵の絶対的不可到達性という否定連鎖→v.23–27の神のみが知恵を知るという神的認識の確立──という否定の極大化を経た後の「timor Domini ipsa est sapientia」であること。「recedere a malo（悪を遠ざけること）」──ヨブ記第1章v.1「recedens a malo（悪を遠ざける者）」という主人公ヨブの最初の定義が、ここで章全体の「知性（intelligentia）」の定義として回帰する：ヨブ記は「悪を遠ざける義人」から始まり、その「悪を遠ざけること」が「知性（intelligentia）」の定義として確認される円環的構造を持つ。ヴェイユ「浄化する無神論（Athéisme purificateur）」§5「私は神のためにできていない自分自身の部分において無神論者でなければならない」──「timor Domini（神への畏れ）」という知恵の定義がヴェイユ的「浄化する無神論」の境界を画する：真の「神への畏れ」は偽の神（「bienfaisant false God」）への畏れではない。",
+      "targetId": "weil_atheisme_purificateur",
+      "targetParagraphId": 5
+    }
+  ]
+}
