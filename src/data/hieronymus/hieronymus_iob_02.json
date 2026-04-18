@@ -1,0 +1,181 @@
+{
+  "id": "hieronymus_iob_2",
+  "title": "Iob, Caput II",
+  "author": "Eusebius Sophronius Hieronymus",
+  "source": "Biblia Sacra Vulgata, Liber Iob, Caput II. Bible Gateway: https://www.biblegateway.com/passage/?search=Job+2&version=VULGATE",
+  "year": "Antiquitas",
+  "firstPublication": "Vulgata Latina, c. 382–405 AD（ヒエロニムス訳）",
+  "difficulty": "中級",
+  "category": "hieronymus",
+  "originalLang": "la-LA",
+  "modernRelevance": "★★★★★",
+  "context": "ヨブ記第2章。第1章の財産・子供の喪失という第一の試練の後、天上での第二の対話が行われ、ヨブの身体への試練が許可される。サタンの「pellem pro pelle（皮膚の代わりに皮膚を）」という格言的応答が、第一の試練の限界（財産・家族）を超えて身体そのものへの攻撃へと論理を展開する。神はヨブの「innocentiam（無実）」を確認しながらも第二の試練を許可し、「animam illius serva（ただし命は守れ）」という限定のもとでサタンに委ねる。ヨブは「a planta pedis usque ad verticem（足の裏から頭頂まで）」という全身的な悪性の腫物（ulcere pessimo）に打たれ、灰の中で陶器の破片で自らを掻く。妻の「Benedic Deo, et morere（神を呪って死ね）」という挑発に対してヨブは「mala quare non suscipiamus（悪を受け入れないでいられようか）」と応答する──これがヨブの散文的信仰の最終確認。章末v.11–13はヨブの三人の友人（エリファズ・ビルダデ・ツォファル）の到来と七日七夜の沈黙──「dolorem esse vehementem（苦悩が激しいことを見た）」という苦悩の前での言語的無力・沈黙の神学的実践として第3章の詩篇部分への橋渡しをなす。",
+  "keywords": [
+    "pellem pro pelle",
+    "ulcus pessimum",
+    "sterquilinium",
+    "innocentia",
+    "mala suscipiamus",
+    "三人の友人",
+    "七日七夜の沈黙",
+    "dolorem vehementem",
+    "第二の試練",
+    "身体への afflictio"
+  ],
+  "relatedTexts": [
+    "hieronymus_iob_1",
+    "hieronymus_iob_3",
+    "hieronymus_ecclesiastes_1",
+    "hieronymus_ecclesiastes_7",
+    "weil_accepter_le_vide",
+    "weil_necessite",
+    "weil_decreation",
+    "weil_la_violence",
+    "weil_dressage",
+    "trakl_de_profundis",
+    "rilke_duineser_elegien_01",
+    "rodenbach_du_silence"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "verses": "v.1",
+      "original": "Factum est autem, cum quadam die venissent filii Dei, et starent coram Domino, venisset quoque Satan inter eos, et staret in conspectu ejus,",
+      "provisionalTranslation": "ある日、神の子らが主の前に立つためにやってきたとき、サタンもまた彼らの中に来て、その御前に立った。"
+    },
+    {
+      "id": 2,
+      "verses": "v.2",
+      "original": "ut diceret Dominus ad Satan: Unde venis? Qui respondens ait: Circuivi terram, et perambulavi eam.",
+      "provisionalTranslation": "主はサタンに言った。「どこから来たのか。」サタンは答えて言った。「地を巡り歩き、行き来してきた。」"
+    },
+    {
+      "id": 3,
+      "verses": "v.3",
+      "original": "Et dixit Dominus ad Satan: Numquid considerasti servum meum Job, quod non sit ei similis in terra, vir simplex et rectus, ac timens Deum, et recedens a malo, et adhuc retinens innocentiam? tu autem commovisti me adversus eum, ut affligerem eum frustra.",
+      "provisionalTranslation": "主はサタンに言った。「わが僕ヨブに目を向けたか。地上に彼に似た者はいない──純朴で正しく、神を畏れ、悪を遠ざける者だ。しかも彼はなお無実を保っている。あなたは私をそそのかして、理由なく彼を苦しめた。」"
+    },
+    {
+      "id": 4,
+      "verses": "v.4",
+      "original": "Cui respondens Satan, ait: Pellem pro pelle, et cuncta quae habet homo dabit pro anima sua;",
+      "provisionalTranslation": "サタンは主に答えて言った。「皮膚の代わりに皮膚を──人は命のためなら持てるものすべてを差し出します。」"
+    },
+    {
+      "id": 5,
+      "verses": "v.5",
+      "original": "alioquin mitte manum tuam, et tange os ejus et carnem, et tunc videbis quod in faciem benedicat tibi.",
+      "provisionalTranslation": "「しかし、手を伸ばして彼の骨と肉に触れてみてください。そうすれば彼はあなたの御顔に向かって呪うでしょう。」"
+    },
+    {
+      "id": 6,
+      "verses": "v.6",
+      "original": "Dixit ergo Dominus ad Satan: Ecce in manu tua est: verumtamen animam illius serva.",
+      "provisionalTranslation": "主はサタンに言った。「見よ、彼をあなたの手に委ねる。ただし命は守れ。」"
+    },
+    {
+      "id": 7,
+      "verses": "v.7",
+      "original": "Egressus igitur Satan a facie Domini, percussit Job ulcere pessimo, a planta pedis usque ad verticem ejus;",
+      "provisionalTranslation": "サタンは主の御前を去り、ヨブを足の裏から頭頂まで、悪性の腫物で打った。"
+    },
+    {
+      "id": 8,
+      "verses": "v.8",
+      "original": "qui testa saniem radebat, sedens in sterquilinio.",
+      "provisionalTranslation": "ヨブは灰塚の中に座り、陶器の破片で膿を掻き落としていた。"
+    },
+    {
+      "id": 9,
+      "verses": "v.9",
+      "original": "Dixit autem illi uxor sua: Adhuc tu permanes in simplicitate tua? Benedic Deo, et morere.",
+      "provisionalTranslation": "妻は彼に言った。「それでもあなたは無実を保ち続けるのか。神を呪って死ね。」"
+    },
+    {
+      "id": 10,
+      "verses": "v.10",
+      "original": "Qui ait ad illam: Quasi una de stultis mulieribus locuta es: si bona suscepimus de manu Dei, mala quare non suscipiamus? In omnibus his non peccavit Job labiis suis.",
+      "provisionalTranslation": "ヨブは彼女に言った。「あなたは愚かな女のひとりのように語っている。善いものを神の手から受けたのに、悪いものを受け入れないでいられようか。」これらすべてにおいて、ヨブは口をもって罪を犯さなかった。"
+    },
+    {
+      "id": 11,
+      "verses": "v.11",
+      "original": "Igitur audientes tres amici Job omne malum quod accidisset ei, venerunt singuli de loco suo, Eliphaz Themanites, et Baldad Suhites, et Sophar Naamathites.",
+      "provisionalTranslation": "ヨブの三人の友人は、彼に降りかかったすべての悪について聞き、それぞれの場所からやってきた──テマン人エリファズ、シュア人ビルダデ、ナアマ人ツォファル。"
+    },
+    {
+      "id": 12,
+      "verses": "v.12",
+      "original": "Condixerant enim ut pariter venientes visitarent eum, et consolarentur. Cumque elevassent procul oculos suos, non cognoverunt eum, et exclamantes ploraverunt, scissisque vestibus sparserunt pulverem super caput suum in caelum.",
+      "provisionalTranslation": "彼らは一緒に来て彼を見舞い、慰めることを申し合わせていた。遠くから目を上げると、彼が誰かわからなかった。彼らは声を上げて泣き、衣を裂いて頭上の天に塵をまき散らした。"
+    },
+    {
+      "id": 13,
+      "verses": "v.13",
+      "original": "Et sederunt cum eo in terra septem diebus et septem noctibus: et nemo loquebatur ei verbum: videbant enim dolorem esse vehementem.",
+      "provisionalTranslation": "彼らは七日七夜、地に座って彼と共にいた。誰も彼に一言も語らなかった。苦悩がいかに激しいかを見ていたから。"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "adhuc retinens innocentiam? tu autem commovisti me adversus eum, ut affligerem eum frustra.",
+      "body": "「なお無実を保っている──あなたは私をそそのかして理由なく苦しめた（ut affligerem eum frustra）」──第1章v.9のサタンの問い「Numquid Job frustra timet Deum（ヨブは理由なく神を畏れているのか）」の「frustra（理由なく）」が神自身の言葉として反響する。第一の試練において、サタンの賭けはヨブの信仰が「条件付き」であることを証明しようとしたが失敗した──神の「frustra（理由なく彼を苦しめた）」という認定が第一段階の結論。しかしこの認定の直後に第二の試練を許可するという逆説：神はヨブの無実を確認しながら、さらに深い試練を許す。ヴェイユ「Décréation」§5「神の愛の直接的な放射は蒸発をもたらすほど強大」という命題との照応：試練が神の過剰な愛の「幕（écran）」として機能するという神学的逆説がここに先取りされる。",
+      "targetId": "weil_decreation",
+      "targetParagraphId": 5
+    },
+    {
+      "paragraphId": 4,
+      "type": "glossary",
+      "anchor": "Pellem pro pelle, et cuncta quae habet homo dabit pro anima sua;",
+      "body": "「皮膚の代わりに皮膚を──命のためなら持てるものすべてを差し出す（Pellem pro pelle）」──ヨブ記の最も謎めいた格言的断章。「pellem pro pelle（皮膚の代わりに皮膚を）」はヘブライ語「עֹור בְּעַד עֹור（ʿôr beʿad ʿôr）」の直訳で、古代近東の物々交換の慣用句（等価交換）が転用されたもの。解釈は多岐にわたる：①「財産の喪失は自分の皮膚（命）には触れない──人は命のためなら財産を惜しまない」、②「皮膚一枚で皮膚を守る（身体という外皮が本当の自己を守る盾）」。第一の試練が「外部（財産・家族）」への打撃であったのに対し、「os ejus et carnem（骨と肉）」──身体の最も内部──への攻撃が第二試練として論理的に展開される。ヴェイユ「La Violence」章での「afflictionの三層：身体的苦痛・社会的屈辱・精神的苦悩」がヨブの試練の二段階構造（第1章：社会的・財産的喪失→第2章：身体的affliction）に対応する。"
+    },
+    {
+      "paragraphId": 7,
+      "type": "commentary",
+      "anchor": "percussit Job ulcere pessimo, a planta pedis usque ad verticem ejus;",
+      "body": "「足の裏から頭頂まで、悪性の腫物で打った（ulcere pessimo, a planta pedis usque ad verticem）」──「a planta pedis usque ad verticem（足の裏から頭頂まで）」という全体性の表現が身体の完全な占拠を意味する：試練が身体の部分的な打撃ではなく全面的・包括的な affliction として定義される。「ulcus pessimum（最も悪性の腫物）」──ヘブライ語「שְׁחִין רָע（sheḥîn raʿ）」は「悪い化膿性炎症」。エジプトの疫病（出エジプト記9:10「boils」）と同一語根。第二の試練が第一の試練の「量的拡張（全財産）」ではなく「次元的深化（身体そのもの）」として提示される。コヘレト第7章v.14「In die bona fruere bonis, et malam diem praecave（良い日には享受し、悪い日には用心せよ）」という二項対立が、ヨブにおいては「悪い日」が全面化・圧倒的になった形として現れる。",
+      "targetId": "weil_la_violence",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 8,
+      "type": "commentary",
+      "anchor": "qui testa saniem radebat, sedens in sterquilinio.",
+      "body": "「灰塚の中に座り、陶器の破片で膿を掻き落としていた」──ヨブ記の最も視覚的に強烈な形象の一つ。「sterquilinium（灰塚・糞塚）」──都市の外縁に設けられた廃棄物の集積場：社会的空間の最も下位・周縁として機能する。第1章v.20「地に倒れ伏して礼拝した（corruens in terram adoravit）」という伏臥礼拝が、ここでは「灰塚に座る（sedens in sterquilinio）」という長期的な廃棄物の空間への定住として拡張される──ヨブが社会的・空間的に排除された者として描かれる。「testa（陶器の破片）」──バロック絵画のヴァニタス・モチーフである頭蓋骨と並んで、ヨブを描く図像学的伝統において中心的なオブジェクト。第12章v.6「funiculus argenteus / hydria super fontem（銀の縄・泉の水瓶）」という生命のシンボルが「破砕（conteratur）」されるイメージと、「testa（陶器の破片）」という既に破砕された残骸が対称的に照応する。詩篇22篇「私は陶器の破片のように乾ききり（sicut testa exsiccata）」との並行。"
+    },
+    {
+      "paragraphId": 9,
+      "type": "commentary",
+      "anchor": "Adhuc tu permanes in simplicitate tua? Benedic Deo, et morere.",
+      "body": "「それでも無実を保ち続けるのか。神を呪って死ね（Benedic Deo, et morere）」──妻の言葉。「Benedic（祝福せよ）」はここでも第1章v.5同様の「呪う」の婉曲語として機能する──ヒエロニムスが婉曲表現を保存した。「et morere（そして死ね）」という死への勧告が妻の慈悲的動機（これ以上の苦しみを終わらせよ）か冷淡な絶望かという解釈の分岐点。「simplicitas（無実・純朴）」──第1章v.1の「simplex（純朴）」の名詞形：妻の問い「Adhuc tu permanes in simplicitate tua（それでも無実を保ち続けるのか）」は第1章の開始命題への直接的な問い直しとして機能する──試練の中で「simplicitas」を保つことの現実的困難への認識として。ヴェイユ「Dressage」章での「afflictionを受け身に耐えることと能動的に変容させることの差異」──妻の視点は「耐えるより死を」という「afflictionの前での放棄」、ヨブは「受け入れ（suscipiamus）」という能動的受容を選択する。",
+      "targetId": "weil_dressage",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 10,
+      "type": "commentary",
+      "anchor": "si bona suscepimus de manu Dei, mala quare non suscipiamus?",
+      "body": "「善いものを神の手から受けたのに、悪いものを受け入れないでいられようか（mala quare non suscipiamus）」──第2章・散文序章全体の神学的頂点。「de manu Dei（神の手から）」という表現が第1章v.21「Dominus dedit, Dominus abstulit（主は与え、主は取られた）」の主語的定式を「手（manus）」という身体的接触の形象で具体化する。「suscepimus / suscipiamus（受けた・受け入れよう）」──「suscipere」という動詞の選択が重要：「受動的に被る（pati）」ではなく「能動的に受け取る（suscipere）」──ヴェイユ「Accepter le vide」の「受容（accepter）」の聖書的先行形として読める。善と悪の両方を「神の手から」受け取るものとして等値する命題は、コヘレト第7章v.14「sicut hanc, sic et illam fecit Deus（神はこの日もあの日も同様に造った）」という「良い日と悪い日の神的同格性」の最も根本的な人格的表現。",
+      "targetId": "weil_accepter_le_vide",
+      "targetParagraphId": 1
+    },
+    {
+      "paragraphId": 12,
+      "type": "commentary",
+      "anchor": "Cumque elevassent procul oculos suos, non cognoverunt eum, et exclamantes ploraverunt, scissisque vestibus sparserunt pulverem super caput suum in caelum.",
+      "body": "「遠くから目を上げると、彼が誰かわからなかった──彼らは声を上げて泣き、衣を裂いて頭上の天に塵をまき散らした」──友人たちの到来の場面。「non cognoverunt eum（彼が誰かわからなかった）」──afflictionによる人格の変容・外見の変貌：第1章のヨブの「simplex et rectus（純朴で正しい）」という明確な人格的定義が、苦悩によって識別不可能なほど変容している。ヴェイユ「affliction」論の核心命題──「afflictionが人格を破壊する（détruit la personnalité）」──がここで物語的に具体化される：友人たちが彼を認識できないという事実がafflictionの人格変容力の証言として機能する。「sparserunt pulverem super caput suum in caelum（頭上の天に塵をまき散らした）」──塵を天に向けて投げるという身振りが、天への抗議あるいは天への嘆きの呼びかけとして解釈される。第1章v.21「pulvis in terram suam（塵は地へ）」の垂直的下降に対し、「in caelum（天へ）」という上昇として対称的に配置される。",
+      "targetId": "weil_la_violence",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 13,
+      "type": "glossary",
+      "anchor": "Et sederunt cum eo in terra septem diebus et septem noctibus: et nemo loquebatur ei verbum: videbant enim dolorem esse vehementem.",
+      "body": "「七日七夜、地に座って彼と共にいた──誰も彼に一言も語らなかった。苦悩がいかに激しいかを見ていたから」──ヨブ記全体で最も深い沈黙の節。「septem diebus et septem noctibus（七日七夜）」──ヘブライ語的完全数（7）による時間の完全性：昼と夜の両方にわたる完全な沈黙。「nemo loquebatur ei verbum（誰も彼に一言も語らなかった）」──第3章以降の友人たちとの長大な弁論への橋渡しとして、ここでの「語らない（nemo loquebatur）」という沈黙が際立つ逆説的伏線。「videbant enim dolorem esse vehementem（苦悩がいかに激しいかを見ていたから）」──沈黙の理由として「見ること（videbant）」が提示される：苦悩の目撃が言語を無効化する。コヘレト第5章v.1「sint pauci sermones tui（言葉は少なくあれ）」という神学的沈黙の命題が、ここでは他者の圧倒的苦悩を前にしての人間的沈黙として実践される。ローデンバック「沈黙について（Du Silence）」の「言葉にならない何かの前での沈黙」という主題との深い照応。第9章v.17「知恵ある者の言葉は沈黙の中で聴かれる（verba sapientium audiuntur in silentio）」──友人たちの七日間の沈黙が第3章以降の長大な対話よりも「賢い」瞬間として読める逆説。",
+      "targetId": "rodenbach_du_silence",
+      "targetParagraphId": null
+    }
+  ]
+}
