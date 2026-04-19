@@ -1,0 +1,215 @@
+{
+  "id": "hieronymus_iob_42",
+  "title": "Iob, Caput XLII",
+  "author": "Eusebius Sophronius Hieronymus",
+  "source": "Biblia Sacra Vulgata, Liber Iob, Caput XLII. Bible Gateway: https://www.biblegateway.com/passage/?search=Job+42&version=VULGATE",
+  "year": "Antiquitas",
+  "firstPublication": "Vulgata Latina, c. 382–405 AD（ヒエロニムス訳）",
+  "difficulty": "上級",
+  "category": "hieronymus",
+  "originalLang": "la-LA",
+  "modernRelevance": "★★★★★",
+  "context": "ヨブ記第42章・最終章。散文の結語として、詩的部分（第3〜41章）の後、物語は再び散文へと戻る。章は二つのブロックに分かれる。v.1–6：ヨブの最終応答──「Scio quia omnia potes（あなたがすべてを行うことができることを知っている）」という全能の認識、「Auditu auris audivi te: nunc autem oculus meus videt te（耳の聞こえで聞いていた──今や私の目があなたを見る）」という認識の革命、「ipse me reprehendo, et ago poenitentiam in favilla et cinere（自分自身を戒め、塵と灰の中で悔い改める）」という自己批判。v.7–16：回復の物語──友人たちへの神の怒りとヨブへの神の義の宣言、友人たちのための執り成しの祈り、財産の二倍の回復、七男三女の誕生、140年の長命と「老いて日数に満ちて死んだ（mortuus est senex, et plenus dierum）」という結語。第42章は神学的・文学的に最大の問題を含む：afflictionの「解決」としての財産回復と家族の復元が、第3章以来の苦悩の深さに対して「十分な答え」なのか否かという根本的問い。ブランショ『書物の不在（L'Espace littéraire）』、ツェラン「詩についての対話（Gespräch im Gebirg）」、シオラン『生誕の不都合（De l'inconvénient d'être né）』がこの問いをそれぞれ異なる形で継承する。",
+  "keywords": [
+    "Scio quia omnia potes",
+    "auditu auris / oculus meus videt",
+    "認識の革命",
+    "poenitentiam in favilla et cinere",
+    "友人への執り成し",
+    "duplicia回復",
+    "mortuus est senex et plenus dierum",
+    "afflictionの解決問題",
+    "結語の散文",
+    "蟹座星雲への帰還"
+  ],
+  "relatedTexts": [
+    "hieronymus_iob_1",
+    "hieronymus_iob_2",
+    "hieronymus_iob_3",
+    "hieronymus_iob_7",
+    "hieronymus_iob_14",
+    "hieronymus_iob_19",
+    "hieronymus_iob_28",
+    "hieronymus_iob_38",
+    "hieronymus_ecclesiastes_1",
+    "hieronymus_ecclesiastes_9",
+    "hieronymus_ecclesiastes_12",
+    "weil_accepter_le_vide",
+    "weil_necessite",
+    "weil_decreation",
+    "weil_dressage",
+    "rilke_duineser_elegien_09",
+    "rilke_sonette_orpheus_1_01",
+    "mallarme_coup_de_des",
+    "trakl_de_profundis",
+    "rossetti_vanity_of_vanities"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "verses": "v.1",
+      "original": "Respondens autem Job Domino, dixit:",
+      "provisionalTranslation": "ヨブは主に答えて言った。"
+    },
+    {
+      "id": 2,
+      "verses": "v.2",
+      "original": "Scio quia omnia potes, et nulla te latet cogitatio.",
+      "provisionalTranslation": "あなたがすべてを行うことができることを私は知っている。いかなる思いもあなたから隠れることがない。"
+    },
+    {
+      "id": 3,
+      "verses": "v.3",
+      "original": "Quis est iste qui celat consilium absque scientia? ideo insipienter locutus sum, et quae ultra modum excederent scientiam meam.",
+      "provisionalTranslation": "知識なしに思慮を覆い隠すこの者は誰か。だから私は無知に語った──私の知識を超えて余りにも大いなるものを。"
+    },
+    {
+      "id": 4,
+      "verses": "v.4",
+      "original": "Audi, et ego loquar: interrogabo te, et responde mihi.",
+      "provisionalTranslation": "聞いてください、私は語ります。あなたに問います、私に答えてください。"
+    },
+    {
+      "id": 5,
+      "verses": "v.5",
+      "original": "Auditu auris audivi te: nunc autem oculus meus videt te.",
+      "provisionalTranslation": "耳の聞こえであなたのことを聞いていた。しかし今や私の目があなたを見る。"
+    },
+    {
+      "id": 6,
+      "verses": "v.6",
+      "original": "Idcirco ipse me reprehendo, et ago poenitentiam in favilla et cinere.",
+      "provisionalTranslation": "それゆえ私は自分自身を戒め、塵と灰の中で悔い改める。"
+    },
+    {
+      "id": 7,
+      "verses": "v.7",
+      "original": "Postquam autem locutus est Dominus verba haec ad Job, dixit ad Eliphaz Themanitem: Iratus est furor meus in te, et in duos amicos tuos, quoniam non estis locuti coram me rectum, sicut servus meus Job.",
+      "provisionalTranslation": "主がこれらの言葉をヨブに語られた後、主はテマン人エリファズに言われた。「わが僕ヨブが語ったように、あなたたちは私の前に正しいことを語らなかったので、私の怒りはあなたとあなたの二人の友に向かって燃えている。」"
+    },
+    {
+      "id": 8,
+      "verses": "v.8",
+      "original": "Sumite ergo vobis septem tauros et septem arietes, et ite ad servum meum Job, et offerte holocaustum pro vobis: Job autem servus meus orabit pro vobis. Faciem ejus suscipiam, ut non vobis imputetur stultitia: neque enim locuti estis ad me recta, sicut servus meus Job.",
+      "provisionalTranslation": "だから雄牛七頭と雄羊七頭を取り、わが僕ヨブのもとへ行って、あなたたちのために燔祭を献げよ。わが僕ヨブがあなたたちのために祈るだろう。ヨブの顔を受け入れよう──愚かさがあなたたちに帰せられないように。あなたたちはわが僕ヨブが語ったように、私に対して正しいことを語らなかったから。"
+    },
+    {
+      "id": 9,
+      "verses": "v.9",
+      "original": "Abierunt ergo Eliphaz Themanites, et Baldad Suhites, et Sophar Naamathites, et fecerunt sicut locutus fuerat Dominus ad eos: et suscepit Dominus faciem Job.",
+      "provisionalTranslation": "テマン人エリファズ、シュア人ビルダデ、ナアマ人ツォファルは行って、主が彼らに語られたように行った。そして主はヨブの顔を受け入れられた。"
+    },
+    {
+      "id": 10,
+      "verses": "v.10",
+      "original": "Dominus quoque conversus est ad poenitentiam Job, cum oraret ille pro amicis suis: et addidit Dominus omnia quaecumque fuerant Job, duplicia.",
+      "provisionalTranslation": "主はまた、ヨブが友人たちのために祈ったとき、ヨブの苦境を転じられた。そして主はヨブにあったものすべてを二倍にして加えられた。"
+    },
+    {
+      "id": 11,
+      "verses": "v.11",
+      "original": "Venerunt autem ad eum omnes fratres sui, et universae sorores suae, et cuncti qui noverant eum prius, et comederunt cum eo panem in domo ejus: et moverunt super eum caput, et consolati sunt eum super omni malo quod intulerat Dominus super eum: et dederunt ei unusquisque ovem unam, et inaurem auream unam.",
+      "provisionalTranslation": "兄弟姉妹すべてと以前から知っていた者たちが彼のもとに来て、彼の家で彼とともにパンを食べた。主が彼に与えたすべての悪についての彼を慰め、それぞれが彼に羊一頭と金の耳輪一つを与えた。"
+    },
+    {
+      "id": 12,
+      "verses": "v.12",
+      "original": "Dominus autem benedixit novissimis Job magis quam principio ejus: et facta sunt ei quatuordecim millia ovium, et sex millia camelorum, et mille juga boum, et mille asinae.",
+      "provisionalTranslation": "主はヨブの後の日々を最初よりも祝福された。羊一万四千頭、ラクダ六千頭、牛一千くびき、雌ロバ一千頭が彼のものとなった。"
+    },
+    {
+      "id": 13,
+      "verses": "v.13",
+      "original": "Et fuerunt ei septem filii, et tres filiae.",
+      "provisionalTranslation": "そして七人の息子と三人の娘が生まれた。"
+    },
+    {
+      "id": 14,
+      "verses": "v.14",
+      "original": "Et vocavit nomen unius Diem, et nomen secundae Cassiam, et nomen tertiae Cornustibii.",
+      "provisionalTranslation": "最初の者の名をエミマ、二番目の名をケツィア、三番目の名をケレン・ハップクと名づけた。"
+    },
+    {
+      "id": 15,
+      "verses": "v.15",
+      "original": "Non sunt autem inventae mulieres speciosae sicut filiae Job in universa terra: deditque eis pater suus haereditatem inter fratres earum.",
+      "provisionalTranslation": "ヨブの娘たちほど美しい女性は全土に見出されなかった。父は彼女たちに兄弟たちの間で相続を与えた。"
+    },
+    {
+      "id": 16,
+      "verses": "v.16",
+      "original": "Vixit autem Job post haec centum quadraginta annis, et vidit filios suos, et filios filiorum suorum usque ad quartam generationem: et mortuus est senex, et plenus dierum.",
+      "provisionalTranslation": "ヨブはこれらの後、百四十年生き、息子たちとその孫たちを四代にわたって見た。そして老いて、日数に満ちて死んだ。"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "Scio quia omnia potes, et nulla te latet cogitatio.",
+      "body": "「あなたがすべてを行うことができることを知っている──いかなる思いもあなたから隠れることがない（nulla te latet cogitatio）」──第19章v.25「Scio enim quod redemptor meus vivit（私の贖い主は生きていることを知っている）」の「Scio」が、ここで神の全能という認識の「Scio（知っている）」として反響する。しかし両者の「知る」の内容は根本的に異なる：第19章の「Scio」は「贖い主の生存」という外的事実の認識だが、第42章の「Scio」は「神の全能と認識の全体性（nulla latet cogitatio）」という神的主権の総括的承認。「nulla te latet cogitatio（いかなる思いもあなたから隠れることがない）」──第7章v.17「Quid est homo, quia magnificas eum（人間とは何ものか、あなたはなぜそれを大きく扱うのか）」という神への怒りの問いが、ここでは神の認識論的全体性への服従として完結する。シオラン『生誕の不都合（De l'inconvénient d'être né, 1973）』「誰かが私のすべての考えを知っているなら──それは拷問だ（Si quelqu'un connaissait toutes mes pensées, ce serait un supplice）」──「nulla te latet cogitatio（思いが隠れることがない）」という全知の神学がシオランにおいては実存的恐怖として転倒される：ヨブが「知っている」として受け入れる神の全知を、シオランは「拷問（supplice）」として拒絶する。"
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "Quis est iste qui celat consilium absque scientia? ideo insipienter locutus sum, et quae ultra modum excederent scientiam meam.",
+      "body": "「だから私は無知に語った──私の知識を超えて余りにも大いなるものを（quae ultra modum excederent scientiam meam）」──第38章v.2「Quis est iste involvens sententias sermonibus imperitis（無知な言葉で思慮を覆い隠すこの者は誰か）」という神の言葉をヨブが自らについて反復する。「insipienter locutus sum（無知に語った）」──ヨブが友人たちの神学的「正しさ」を否定し、自らの問い・告発・嘆きの正当性を主張し続けてきた第3〜31章の弁論全体が「insipienter（無知に）」として自己批判される。しかしv.7で神が「ヨブが語ったことは正しい（rectum sicut servus meus Job）」と宣言する逆説──ヨブは「正しい（rectum）」と言われながら、自ら「無知に（insipienter）」語ったと言う。ブランショ『文学の空間（L'Espace littéraire, 1955）』での「書くことの不可能性と必然性」──「知識を超えて語ること（ultra scientiam meam）」という認識論的超過がブランショ的な「文学的夜（nuit littéraire）」における発話の条件として読める：知識を超えてしか本質的なことは語れないという逆説。"
+    },
+    {
+      "paragraphId": 5,
+      "type": "glossary",
+      "anchor": "Auditu auris audivi te: nunc autem oculus meus videt te.",
+      "body": "「耳の聞こえであなたのことを聞いていた──しかし今や私の目があなたを見る（Auditu auris audivi te: nunc autem oculus meus videt te）」──ヨブ記第42章・そしてヨブ記全体の神学的頂点。「Auditu auris（耳の聞こえ）」対「oculus meus videt（私の目が見る）」という感覚の対立が二つの認識様式を定義する：①間接的・伝聞的・神学的知識（auditus）versus ②直接的・経験的・現在的認識（visus）。「Auditu auris audivi te（耳の聞こえで聞いていた）」──「audivi（聞いていた）」という完了形が過去の間接的知識を示す：友人たちの神学・聖書の伝統・語り継がれた神の業についての知識。「nunc autem oculus meus videt te（今や私の目があなたを見る）」──「nunc（今）」という時間的現在性と「oculus meus（私の目）」という第一人称的直接性が合わさる：第19章v.27「quem visurus sum ego ipse, et oculi mei conspecturi sunt（私自身が見るだろう、私の目が見るだろう）」という未来の期待が、ここで「videt（見る）」という現在形として実現する。ブランショ『来たるべき書物（Le Livre à venir, 1959）』での「見ることと語ること」の関係──「語ること（loqui）」が「見ること（videre）」に先行する書物の論理に対して、ヨブにおいては「聞く（audire）から見る（videre）」への移行が認識の完成として提示される。ツェラン「山岳での対話（Gespräch im Gebirg, 1960）」──「目が見え、しかし心は盲目だ（die Augen haben und nicht sehen）」という認識の不完全性がヨブの「auditu audivi / oculus videt」という完成した認識への移行と対照的に照応する。"
+    },
+    {
+      "paragraphId": 6,
+      "type": "commentary",
+      "anchor": "Idcirco ipse me reprehendo, et ago poenitentiam in favilla et cinere.",
+      "body": "「それゆえ私は自分自身を戒め、塵と灰の中で悔い改める（ago poenitentiam in favilla et cinere）」──ヨブ記の「悔い改め（poenitentia）」の問題として西洋神学で最も論争的な節。「ipse me reprehendo（私自身を戒める）」──「reprehendo」は「批判する・戒める」だが、「自分を断罪する（condemno）」より弱い：自己批判の強度の問題。「in favilla et cinere（塵と灰の中で）」──第1章v.21「nudus revertar（裸で戻ろう）」・コヘレト第12章v.7「revertatur pulvis in terram（塵は地へ）」という「塵への帰還」の定式が、ここでは「悔い改めの姿勢」として身体化される。ヴェイユ「Décréation」§15「私が無になるにつれて、神は私を通じて自己を愛する（À mesure que je deviens rien, Dieu s'aime à travers moi）」──「favilla et cinere（塵と灰）」という自己の縮減がヴェイユ的「脱創造」の聖書的形象として読める：塵と灰になることが神との接触の条件。シオラン『解体の要約（Syllogismes de l'amertume, 1952）』「懺悔は自分を罰するためではなく、自分が何者であるかを理解するために行われる（On ne se repent pas pour se punir, mais pour comprendre ce qu'on est）」──「poenitentiam in cinere（塵の中での悔い改め）」というヨブの身体的悔い改めをシオランは認識論的理解として還元する。",
+      "targetId": "weil_decreation",
+      "targetParagraphId": 15
+    },
+    {
+      "paragraphId": 7,
+      "type": "commentary",
+      "anchor": "quoniam non estis locuti coram me rectum, sicut servus meus Job.",
+      "body": "「あなたたちはわが僕ヨブが語ったように、私の前に正しいことを語らなかった（non estis locuti coram me rectum, sicut servus meus Job）」──第42章の最大の神学的逆説。神が「ヨブが正しい（rectum sicut Job）」、「友人たちが正しくない（non rectum）」と宣言する──しかしヨブは第3〜31章で神を告発し・嘆き・怒り・死を願っていたのに対して、友人たちは正統的な神学的答え（罪に対する罰・神の正義）を語っていた。「正しさ（rectum）」の逆説：神学的正しさ（友人たち）より、存在論的誠実さ（ヨブの嘆き）が「正しい」として承認される──afflictionの前での「正しいことを語る」とは神学的正確さではなく実存的誠実さであるという宣言。ヴェイユ「Dressage（訓練）」章の「afflictionの中での誠実な告白が神への最も深い接近」という命題がここで聖書的根拠を得る。ブランショ『文学の空間』の「作品は真実を語ることでなく、語ることの不可能性を証言する」──ヨブの「知識を超えた語り（v.3）」が「正しい（rectum）」として承認されるという逆説が、ブランショ的「文学的真実」の聖書的先行形として読める。",
+      "targetId": "weil_dressage",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 10,
+      "type": "commentary",
+      "anchor": "Dominus quoque conversus est ad poenitentiam Job, cum oraret ille pro amicis suis: et addidit Dominus omnia quaecumque fuerant Job, duplicia.",
+      "body": "「主はまた、ヨブが友人たちのために祈ったとき、ヨブの苦境を転じられた──そして主はヨブにあったものすべてを二倍にして加えられた（addidit Dominus omnia, duplicia）」──第42章・そしてヨブ記全体の最大の解釈問題を提起する節。「cum oraret ille pro amicis suis（ヨブが友人たちのために祈ったとき）」──afflictionを与えた者への怒りの詩（第3〜31章）を語ったヨブが、afflictionをもたらした友人の代わりに「執り成す（orare pro）」者へと変容する：afflictionの受難者が執り成しの祭司へと転換される。「duplicia（二倍）」──第1章の財産の回復が「二倍（duplicia）」として提示される量的修復：失われた子供たちも「七男三女」として回復される。しかしこれが「十分な答え」かという問いが残る──死んだ子供たちは別人である。シオラン『生誕の不都合』「神が謝罪するとするなら、それは死んだ者たちに対してではなく、生き残った者たちに対してだ」──「duplicia（二倍の回復）」という「代替（substitution）」の論理がシオランにおいては根本的に問い返される：死者は代替できない。リルケ「ドゥイノの悲歌・第9歌」「einmal jedes, nur einmal. Einmal und nicht mehr（一度だけ、ただ一度だけ。一度きりで、それ以上なく）」──「一度きり（einmal）」という存在の不可逆性が「二倍の回復（duplicia）」という補完の論理と根本的に緊張する。"
+    },
+    {
+      "paragraphId": 11,
+      "type": "commentary",
+      "anchor": "et consolati sunt eum super omni malo quod intulerat Dominus super eum",
+      "body": "「主が彼に与えたすべての悪についての彼を慰めた（consolati sunt eum super omni malo quod intulerat Dominus super eum）」──「consolari（慰める）」という動詞が第2章v.11の友人たちの到来の目的「consolarentur（慰める）」と照応する：友人たちが最初に「慰めに来た」が七日間沈黙し（第2章v.13）、その後長大な弁論を行った末に、ここで改めて「慰めた（consolati sunt）」として帰還する。「quod intulerat Dominus（主が与えた悪）」という表現──afflictionの原因が「主（Dominus）」に帰される：友人たちはヨブの「罪」を原因として弁論したが、最終的に「主が与えた悪」というヨブの主張が正当化される。ヴェイユ「Accepter le vide」§4「真理を愛することは空虚を耐え忍ぶことを、したがって死を受け入れることを意味する──真理は死の側にある」──慰めの訪問という日常的行為が、「主が与えた悪（malum quod intulerat Dominus）」という神の主権的認識を通じて「真理の側」に位置づけられる。",
+      "targetId": "weil_accepter_le_vide",
+      "targetParagraphId": 4
+    },
+    {
+      "paragraphId": 14,
+      "type": "commentary",
+      "anchor": "Et vocavit nomen unius Diem, et nomen secundae Cassiam, et nomen tertiae Cornustibii.",
+      "body": "「最初の者の名をエミマ（Diem）、二番目の名をケツィア（Cassiam）、三番目の名をケレン・ハップク（Cornustibii）と名づけた」──ヨブ記の唯一の「名前（nomen）」の贈与の場面。ヘブライ語原典では「ヨミマ（鳩）・ケツィア（シナモン）・ケレン・ハップク（化粧の角）」──香料・美・装飾という感覚的・美的な名前の選択。ヨブ記第1章v.1の「ヨブ」という名前の意味（「苦しめられた者」あるいは「どこへ帰るのか」）との対比：afflictionの名前（ヨブ）から美と香りの名前（娘たち）への転換。コヘレト第7章v.1「Melius est nomen bonum quam unguenta pretiosa（良い名前は高価な香油よりも良い）」という名前と香油の接続が、ここでは「ケツィア（シナモン）・ケレン・ハップク（化粧）」という香料的・化粧料的名前として具現化される。ツェラン「死のフーガ（Todesfuge, 1948）」での「彼は灰の中の蛇（er spielt mit den Schlangen）──Margarethe / Sulamith」という女性名の対置が、afflictionの灰の中での美的名前の問題として照応する：名前の贈与が苦悩の後の「生」の回帰として機能する。"
+    },
+    {
+      "paragraphId": 15,
+      "type": "commentary",
+      "anchor": "Non sunt autem inventae mulieres speciosae sicut filiae Job in universa terra: deditque eis pater suus haereditatem inter fratres earum.",
+      "body": "「ヨブの娘たちほど美しい女性は全土に見出されなかった──父は彼女たちに兄弟たちの間で相続を与えた（deditque eis pater suus haereditatem inter fratres earum）」──ヨブ記の最後の社会的・倫理的宣言として際立つ節。「Non sunt autem inventae mulieres speciosae（これほど美しい女性は見出されなかった）」──「invenitur（見出される）」という動詞が第28章v.12「Sapientia vero ubi invenitur（知恵はどこに見出されるのか）」と同語根：知恵が「見出されない（non invenitur）」のに対して、娘たちの美しさは「全土に見出されない（non sunt inventae）」というかたちで、否定的探索が美の卓越性として転換される。「haereditatem inter fratres earum（兄弟たちの間で相続を与えた）」──古代イスラエルの法では娘は通常相続から除外されたが、ヨブが娘たちに「兄弟たちと同等の相続」を与えるという社会的変革の実践：affliction後のヨブが社会的正義の実践者として出現する。ヴェイユ「La Violence（暴力）」章での「afflictionが逆説的に正義への感性を研ぎ澄ます」という命題がヨブの「娘たちへの相続」という行為に具体化される。"
+    },
+    {
+      "paragraphId": 16,
+      "type": "glossary",
+      "anchor": "Vixit autem Job post haec centum quadraginta annis, et vidit filios suos, et filios filiorum suorum usque ad quartam generationem: et mortuus est senex, et plenus dierum.",
+      "body": "「ヨブはこれらの後、百四十年生き……老いて、日数に満ちて死んだ（mortuus est senex, et plenus dierum）」──ヨブ記の結語にして、コヘレト全12章・ヨブ記全42章の収束点。「mortuus est senex, et plenus dierum（老いて、日数に満ちて死んだ）」──コヘレト第9章v.7の「Vade ergo, et comede in laetitia panem tuum（行け、喜びとともにパンを食べよ）」という生の享受への招きと、コヘレト第12章v.7「revertatur pulvis in terram（塵は地へと戻る）」という死への帰還が、ヨブの「plenus dierum（日数に満ちた）」という充足的終焉として統合される。「plenus dierum（日数に満ちた）」という表現──「満ちること（plenum esse）」が第1章v.3の財産的「充満」・afflictionの「悲惨で満たされる（repletur multis miseriis, v.1）」という苦悩の充満を経て、「日数に満ちて（plenus dierum）」という存在論的充満として最終化される。ブランショ『死の刑（L'Arrêt de mort, 1948）』「死は来ない、死はそこにある（La mort ne vient pas, elle est là）」──「mortuus est（死んだ）」という完了形の単純さが、ブランショ的「死の中立性（neutralité de la mort）」と根本的に対照される：ヨブの死は「老いて日数に満ちて」という充足の完成として提示されるが、ブランショにとって死はそのような「完成（achèvement）」として把握できない。リルケ「ドゥイノの悲歌・第9歌」「Erde, du liebe, ich will（大地よ、愛する大地よ、私は望む）」──大地への最終的な帰還・一致を望むリルケの声が、ヨブの「mortuus est, et plenus dierum」という地への帰還の完成として照応する。シオラン『生誕の不都合』「生まれてこなければよかったという考えを捨て去ることができるのは、ちょうど人が死ぬときだけだ（On ne se débarrasse de l'idée qu'on aurait mieux fait de ne pas naître qu'au moment précis où l'on cesse d'exister）」──「plenus dierum（日数に満ちて）」というヨブの充足的死に対して、シオランは「死の瞬間においてのみ誕生の不都合から解放される」という反出生主義的反転として応答する：ヨブ記第3章の「Pereat dies in qua natus sum（生まれた日が滅びよ）」という反出生的開口が、第42章の「plenus dierum（日数に満ちて）」という充足的閉幕によって包摂されるが、シオランはその包摂を拒む。",
+      "targetId": "hieronymus_ecclesiastes_12",
+      "targetParagraphId": 7
+    }
+  ]
+}
