@@ -1,0 +1,117 @@
+{
+  "id": "baudelaire_de_profundis_clamavi",
+  "title": "De profundis clamavi",
+  "author": "Charles Baudelaire",
+  "source": "Les Fleurs du mal (1868), Michel Lévy Frères, Œuvres complètes, vol. I, p. 130. Wikisource: https://fr.wikisource.org/wiki/Les_Fleurs_du_mal_(1868)/De_profundis_clamavi",
+  "year": "1857",
+  "firstPublication": "Les Fleurs du mal, Auguste Poulet-Malassis, 1857（初版）；XXXI番として収録。1868年版（Michel Lévy Frères）で確定。",
+  "difficulty": "中級",
+  "category": "baudelaire",
+  "originalLang": "fr-FR",
+  "modernRelevance": "★★★★★",
+  "context": "『悪の華』「憂鬱と理想（Spleen et Idéal）」部に収録されるソネット。番号XXXI。タイトル「De profundis clamavi（深みより叫んだ）」はウルガータ詩篇129篇（ヘブライ語・英語聖書130篇）冒頭句の直接引用であり、ボードレールが聖書的afflictionの語彙を官能的・実存的絶望の詩として転用した典型例。詩篇129篇が共同体（イスラエル）の神への呼びかけであるのに対して、ボードレールのソネットでは呼びかけの宛先が「Toi, l'unique que j'aime（あなた、私が愛する唯一の者）」──冷たい女性愛人──へと世俗化・官能化される。舞台は北極に近い荒涼とした極地的風景：六ヶ月の太陽なき夜と六ヶ月の熱のない太陽という二極の不毛が、愛による affliction の時間的構造を空間的・地理的に具象化する。「Je jalouse le sort des plus vils animaux（私は最も卑しい動物たちの運命を羨む）」という結語は詩篇21篇v.7「vermis et non homo（虫であって人間ではない）」の世俗的反転──ボードレールにとって動物は「sommeil stupide（愚かな眠り）」に沈める存在として羨望の対象となる。コヘレト第1章v.14「afflictio spiritus（霊の苦悩）」の詩的変容であり、詩篇87篇の「転換なき絶望」の近代的・フランス語的等価として機能する。",
+  "keywords": [
+    "De profundis",
+    "gouffre",
+    "soleil sans chaleur",
+    "pays polaire",
+    "sommeil stupide",
+    "écheveau du temps",
+    "vils animaux",
+    "Chaos",
+    "冷たい太陽",
+    "時間の解れ"
+  ],
+  "relatedTexts": [
+    "hieronymus_psalmi_129",
+    "hieronymus_psalmi_87",
+    "hieronymus_psalmi_21",
+    "hieronymus_ecclesiastes_1",
+    "baudelaire_spleen",
+    "baudelaire_horloge",
+    "baudelaire_elevation",
+    "trakl_de_profundis",
+    "weil_accepter_le_vide",
+    "rossetti_de_profundis"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "verses": "v.1–4",
+      "french": "J'implore ta pitié, Toi, l'unique que j'aime,\nDu fond du gouffre obscur où mon cœur est tombé.\nC'est un univers morne à l'horizon plombé,\nOù nagent dans la nuit l'horreur et le blasphème ;",
+      "provisionalTranslation": "あなたの憐れみに嘆願する、あなたを、私が愛する唯一の者を、\n私の心が落ちた暗い深淵の底から。\nそれは鉛色の地平線を持つ陰鬱な宇宙、\nそこでは夜の中に恐怖と冒瀆が泳いでいる。"
+    },
+    {
+      "id": 2,
+      "verses": "v.5–8",
+      "french": "Un soleil sans chaleur plane au-dessus six mois,\nEt les six autres mois la nuit couvre la terre ;\nC'est un pays plus nu que la terre polaire ;\nNi bêtes, ni ruisseaux, ni verdure, ni bois !",
+      "provisionalTranslation": "熱のない太陽が六ヶ月間、上空を漂い、\n残りの六ヶ月は夜が大地を覆う。\nそれは極地の大地よりも荒涼とした国。\n獣もなく、小川もなく、緑もなく、森もない！"
+    },
+    {
+      "id": 3,
+      "verses": "v.9–11",
+      "french": "Or il n'est pas d'horreur au monde qui surpasse\nLa froide cruauté de ce soleil de glace\nEt cette immense nuit semblable au vieux Chaos ;",
+      "provisionalTranslation": "しかしこの世界に、氷の太陽の\n冷たい残酷さと、古いカオスに似たこの\n広大な夜を超える恐怖はない。"
+    },
+    {
+      "id": 4,
+      "verses": "v.12–14",
+      "french": "Je jalouse le sort des plus vils animaux\nQui peuvent se plonger dans un sommeil stupide,\nTant l'écheveau du temps lentement se dévide !",
+      "provisionalTranslation": "私は最も卑しい動物たちの運命を羨む、\n彼らは愚かな眠りに沈むことができるのだから、\nそれほど時間の糸巻きはゆっくりと解れていく！"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "glossary",
+      "anchor": "J'implore ta pitié, Toi, l'unique que j'aime,\nDu fond du gouffre obscur où mon cœur est tombé.",
+      "body": "「あなたの憐れみに嘆願する──暗い深淵の底から（Du fond du gouffre obscur）」──詩篇129篇v.1「De profundis clamavi ad te, Domine（深みよりあなたに向かって叫んだ、主よ）」の直接的世俗化。詩篇では呼びかけの宛先が「Domine（主）」であるのに対して、ボードレールでは「Toi, l'unique que j'aime（あなた、私が愛する唯一の者）」──冷たい女性愛人──へと転位される：神学的afflictionが官能的・恋愛的絶望として再定式化される。「gouffre（深淵）」はボードレール詩学の核心的語彙の一つ：「Élévation」の「gouffres amers（苦い深淵）」・「Pascal avait son gouffre（パスカルには彼の深淵があった）」（「深淵（Le Gouffre）」）と連動し、垂直的下降のトポスとして機能する。詩篇129篇との比較──詩篇では「de profundis（深みより）」が霊的afflictionの空間として象徴的に使われるのに対し、ボードレールの「gouffre obscur（暗い深淵）」は「cœur（心）が落ちた」という感情の具体的落下場所として地理的・物理的に実体化される。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "intertextual",
+      "anchor": "Du fond du gouffre obscur où mon cœur est tombé.",
+      "body": "詩篇129篇v.1「De profundis clamavi ad te, Domine」との直接的タイトル接続。詩篇87篇v.7「Posuerunt me in lacu inferiori, in tenebrosis（下の穴に、暗闇の中に置かれた）」との「暗い深淵への沈下」という構造的照応──詩篇87篇が「転換なき絶望」で終わるように、ボードレールのソネットも「Je jalouse le sort des plus vils animaux（最も卑しい動物たちの運命を羨む）」という動物への羨望で終わり、神への転換を持たない。トラークル「De Profundis」「Niemand kennt diesen dunklen Weg（誰もこの暗い道を知らない）」との三者的接続──同一タイトルを持つ詩篇87篇・ボードレール・トラークルが「深み（profundis）」というトポスの近代的継承の系譜を形成する。",
+      "targetId": "hieronymus_psalmi_129",
+      "targetParagraphId": 1
+    },
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "C'est un univers morne à l'horizon plombé,\nOù nagent dans la nuit l'horreur et le blasphème ;",
+      "body": "「鉛色の地平線（horizon plombé）」──「plombé（鉛色の・重い）」という形容詞がボードレールの「Spleen」系詩篇と共鳴する：「Spleen（LXXVIII）」「Quand le ciel bas et lourd pèse comme un couvercle（低く重い空が蓋のように圧し掛かるとき）」の「低く重い（bas et lourd）」という同一の垂直的圧力。「nagent dans la nuit（夜の中を泳ぐ）」──「nager（泳ぐ）」という動詞が「horreur（恐怖）」と「blasphème（冒瀆）」に与えられる：抽象名詞の液体的運動として、夜が「gouffre（深淵）」という水的空間として設定される。コヘレト第1章v.7「Omnia flumina intrant in mare（すべての川は海へと入る）」という海への流れ込みの虚無的循環が、ここでは「nager（泳ぐ）」という行為の充足なき持続として反響する。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "Un soleil sans chaleur plane au-dessus six mois,\nEt les six autres mois la nuit couvre la terre ;",
+      "body": "「熱のない太陽が六ヶ月（soleil sans chaleur……six mois）──残りの六ヶ月は夜（les six autres mois la nuit）」──北極圏の永夜・永昼のサイクルをaffliectionの時間構造として使用する。「soleil sans chaleur（熱のない太陽）」──コヘレト第1章v.5「Oritur sol et occidit（太陽は昇り、沈む）」という太陽の循環的運行が、ボードレールにおいては循環どころか「熱なき（sans chaleur）」停滞した太陽として変容する：「sub sole（太陽の下）」の生の可能性が根本から否定された極地。「six mois……les six autres mois」──二項の完全な対称的分割が時間の全体的不毛を提示する：どの時間帯においても光か闇の不毛しかなく、生の中間地帯が存在しない。ヴェイユ「Accepter le vide」§5「L'homme n'échappe aux lois de ce monde que la durée d'un éclair（人間はこの世界の法則から稲妻の時間だけしか逃れられない）」──「六ヶ月の太陽・六ヶ月の夜」という詩的宇宙では「稲妻の瞬間」すら成立しない：恩寵の閃光的契機の絶対的不在。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "prosody",
+      "anchor": "Ni bêtes, ni ruisseaux, ni verdure, ni bois !",
+      "body": "「獣もなく、小川もなく、緑もなく、森もない（Ni bêtes, ni ruisseaux, ni verdure, ni bois !）」──四項のアナフォラ的否定列挙（Ni…ni…ni…ni）が第二四行詩の末尾で生の多様性を網羅的に消去する。感嘆符（!）という強調記号が列挙の完全性を断言する：生の記号論的全体──動物界（bêtes）・水（ruisseaux）・植物界（verdure・bois）──の系統的剥奪。ヨブ記第3章v.5「Obscurent eum tenebrae et umbra mortis; occupet eum caligo（暗闇と死の陰がその日を覆え）」という呪詛詩の「否定の連鎖」が、ボードレールでは「Ni…ni…ni…ni」という統語的反復として詩的に継承される。韻律的注記：ソネット形式（ABBA ABBA CCD EDE）の第二四行詩が「!」で閉じることで、第三連（三行詩）への転換を感情的頂点として準備する。"
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "Or il n'est pas d'horreur au monde qui surpasse\nLa froide cruauté de ce soleil de glace\nEt cette immense nuit semblable au vieux Chaos ;",
+      "body": "「氷の太陽の冷たい残酷さ（froide cruauté de ce soleil de glace）──古いカオスに似た広大な夜（vieux Chaos）」──第三連（三行詩）が比較級による「最大の恐怖」の定義として機能する。「soleil de glace（氷の太陽）」──v.5「soleil sans chaleur（熱のない太陽）」の変奏：熱のない太陽が「氷（glace）」の太陽として具体的形象を得る。「froide cruauté（冷たい残酷さ）」という矛盾語法：「残酷さ（cruauté）」は通常熱・情動・能動性と結びつくが、「froide（冷たい）」という形容が愛人の無情という詩的文脈を宇宙的気候として拡大する──「Toi, l'unique que j'aime」への呼びかけが指す愛人の「冷たい残酷さ」が「soleil de glace（氷の太陽）」の宇宙的形象として投影される。「vieux Chaos（古いカオス）」──創世記以前の混沌への遡及：「Chaos」という語がギリシャ語的宇宙論起源として「光なき原初の闇」を指し、「太陽も熱もない世界」が創造以前の状態として宇宙論的規模で定義される。マラルメ「骰子一擲」§2「l'Abîme blanchi étale furieux（深淵が白く広がり猛り狂う）」の白い深淵との比較──マラルメの深淵が「白（blanc）」であるのに対し、ボードレールのそれは「nuit（夜）」の黒の中に「glace（氷）」の白さを持つ。"
+    },
+    {
+      "paragraphId": 4,
+      "type": "commentary",
+      "anchor": "Je jalouse le sort des plus vils animaux\nQui peuvent se plonger dans un sommeil stupide,\nTant l'écheveau du temps lentement se dévide !",
+      "body": "「私は最も卑しい動物たちの運命を羨む（Je jalouse le sort des plus vils animaux）──愚かな眠りに沈むことができる（sommeil stupide）──時間の糸巻きはゆっくりと解れていく（l'écheveau du temps lentement se dévide）」──ソネット全体の結語にして、ボードレールの「De profundis」の詩学的核心命題。「je jalouse（羨む）」という動詞──詩人が羨む対象が「plus vils animaux（最も卑しい動物）」であるという逆説的格下げ：詩篇21篇v.7「vermis et non homo（虫であって人間ではない）」の世俗的逆転──詩篇では詩篇作者が「虫以下」に自己規定するのに対し、ボードレールでは「虫以下」の動物への羨望として提示される──自己卑下が羨望という能動的感情に転化する。「sommeil stupide（愚かな眠り）」──「stupide（愚かな）」という否定的形容が「羨む」対象として使われる逆説：意識を持つことへの苦悩が「意識のない（stupide）」眠りへの憧憬を生む。ヨブ記第3章v.13「dormiens silerem, et somno meo requiescerem（眠って静かにし、自分の眠りの中で休んでいたのに）」──ヨブが死後の「眠り」を憧憬したように、ボードレールは「生きたままでの眠り」を最も卑しい動物の特権として羨む：死への憧憬が動物への羨望として変奏される。「l'écheveau du temps lentement se dévide（時間の糸巻きはゆっくりと解れていく）」──最終行の詩的形象として詩篇全体で最も卓越した一行。「écheveau（かせ・絡まった糸束）」──絡まった糸を「dévider（解く・解れる）」という動作：時間が「解れる（se dévide）」という自動詞として、意志なき・方向なき時間の消費を示す。「lentement（ゆっくりと）」という副詞が苦悩の緩慢さを強調する。コヘレト第1章v.4「Generatio praeterit, et generatio advenit（世代は過ぎ去り、世代は来る）」という循環的時間の虚無が、ボードレールでは「écheveau（絡まった糸）」という絡み合い解れる時間の感触として詩的に肉体化される。"
+    },
+    {
+      "paragraphId": 4,
+      "type": "intertextual",
+      "anchor": "Je jalouse le sort des plus vils animaux\nQui peuvent se plonger dans un sommeil stupide,",
+      "body": "詩篇21篇v.7「Ego autem sum vermis, et non homo（しかし私は虫であり、人間ではない）」との対称的関係──詩篇では「虫への転落」が自己卑下として嘆かれるのに対して、ボードレールでは「最も卑しい動物（vils animaux）」への羨望が「jalouse（羨む）」という能動的欲望として表現される：afflictionにおける「虫・動物」のモチーフが、聖書的自己卑下から近代的羨望へと変容する。ヨブ記第3章v.21–22「qui expectant mortem, et non venit……gaudentque vehementer cum invenerint sepulchrum（死を待ち望んでも来ない……墓を見つけたとき激しく喜ぶ）」との接続：ヨブが「死への憧憬」を「墓の発見の喜び」として語るように、ボードレールは「愚かな眠り」への沈潜を「動物の幸運（sort des animaux）」として羨む──どちらも意識の消去への欲望が逆説的肯定として表出される。",
+      "targetId": "hieronymus_psalmi_21",
+      "targetParagraphId": 7
+    }
+  ]
+}
