@@ -9,7 +9,7 @@
   "category": "hieronymus",
   "originalLang": "la-LA",
   "modernRelevance": "★★★★★",
-  "context": "詩篇第129篇（ヘブライ語聖書・英語聖書番号では第130篇。ウルガータ・七十人訳では129篇）。「昇階の歌（Canticum graduum）」と副題される15の「巡礼の歌」の第六篇。「De profundis clamavi ad te, Domine（深淵よりあなたに向かって叫んだ、主よ）」という冒頭句は西洋文学史上最も広く引用される詩篇の一語として、ラテン語的教養の基盤に刻まれた。全8節の短い詩篇が四つの主題的運動を持つ：①「深淵からの叫び（v.1–2）」──afflictionの空間（profundus）から神への呼びかけ；②「不正の前での神への依存（v.3–4）」──「あなたが不正を記録するなら、誰が耐えられるか（quis sustinebit?）」；③「魂の待機（v.5–6）」──「暁の番人が暁を待つように（a custodia matutina usque ad noctem）」；④「イスラエルへの勧め（v.7–8）」──「主のもとに慈しみがある（apud Dominum misericordia）」。この詩篇はキリスト教の葬儀礼拝・煉獄への祈り（レクイエム）の核心的テキストとして定着し、ボードレール「深淵より（De profundis clamavi）」、オスカー・ワイルド『獄中記（De Profundis, 1905）』、ゲオルク・トラークル、クリスティーナ・ロセッティそれぞれの「De Profundis」という一連の受容テキストを生んだ。VANITISMEコーパスではトラークル・ロセッティの当該作品が既収録。",
+  "context": "詩篇第129篇（ヘブライ語聖書・英語聖書番号では第130篇。ウルガータ・七十人訳では129篇）。「昇階の歌（Canticum graduum）」と副題される15の「巡礼の歌」の第六篇。「De profundis clamavi ad te, Domine（深淵よりあなたに向かって叫んだ、主よ）」という冒頭句は西洋文学史上最も広く引用される詩篇の一語として、ラテン語的教養の基盤に刻まれた。全8節の短い詩篇が四つの主題的運動を持つ：①「深淵からの叫び（v.1–2）」──afflictionの空間（profundus）から神への呼びかけ；②「不正の前での神への依存（v.3–4）」──「あなたが不正を記録するなら、誰が耐えられるか（quis sustinebit?）」；③「魂の待機（v.5–6）」──「暁の番人が暁を待つように（a custodia matutina usque ad noctem）」；④「イスラエルへの勧め（v.7–8）」──「主のもとに慈しみがある（apud Dominum misericordia）」。この詩篇はキリスト教の葬儀礼拝・煉獄への祈り（レクイエム）の核心的テキストとして定着し、ボードレール「深淵より（De profundis clamavi）」、オスカー・ワイルド『獄中記（De Profundis, 1905）』、ゲオルク・トラークル、クリスティーナ・ロセッティそれぞれの「De Profundis」という一連の受容テキストを生んだ。VANITISMEコーパスではボードレール・トラークル・ロセッティの当該作品が既収録。",
   "keywords": [
     "De profundis",
     "深淵からの叫び",
@@ -25,6 +25,7 @@
   "relatedTexts": [
     "trakl_de_profundis",
     "rossetti_de_profundis",
+    "baudelaire_de_profundis_clamavi",
     "baudelaire_spleen",
     "hieronymus_iob_3",
     "hieronymus_iob_7",
