@@ -1,0 +1,271 @@
+{
+  "id": "hieronymus_psalmi_87",
+  "title": "Psalmi LXXXVII — Domine, Deus salutis meae",
+  "author": "Eusebius Sophronius Hieronymus",
+  "source": "Biblia Sacra Vulgata, Psalmi LXXXVII (LXX/Vulgata numbering; Hebrew/English Ps. 88). Bible Gateway: https://www.biblegateway.com/passage/?search=Psalm+88&version=VULGATE",
+  "year": "Antiquitas",
+  "firstPublication": "Vulgata Latina, c. 382–405 AD（ヒエロニムス訳）",
+  "difficulty": "上級",
+  "category": "hieronymus",
+  "originalLang": "la-LA",
+  "modernRelevance": "★★★★★",
+  "context": "詩篇第87篇（ヘブライ語・英語聖書では88篇；ウルガータ・七十人訳では87篇）。「コラの子らへ。指揮者のために。マハラト・ルアンノトに合わせて。エズラフ人ヘマンのマスキール（Canticum Psalmi, filiis Core, in finem, pro Maheleth ad respondendum. Intellectus Eman Ezrahitae）」という複雑な表題を持つ。詩篇研究において「最も暗い詩篇（psalmus omnium tenebrosissimus）」として位置づけられる特異なテキスト──150篇ある詩篇の中で唯一、転換も讃美への移行も解決もなく「孤立（miseria）」という言葉で終わる。構造は三つの嘆きの波で構成される。①v.2–9a：神への叫びと現状の描写──「死者たちの中に自由な者（inter mortuos liber）」・「下の穴（lacus inferior）」・神の憤りの波。②v.9b–13：神への問いの連続──「死者たちに奇跡を行うか（numquid mortuis facies mirabilia?）」という反語的問いの四連が「忘却の地（terra oblivionis）」で閉じる。③v.14–19：再び叫びへ──しかし神は顔を背け（avertis faciem tuam a me）、詩篇は「miseria（惨め）」という一語で終わる。詩篇87篇はヨブ記・コヘレト・詩篇21篇・129篇と同じく affliction の聖書的証言として機能するが、他の詩篇が示す「転換（metanoia）」を欠くことで、転換以前の絶望を最も純粋な形で定着させた文学的・神学的頂点として際立つ。この「転換なき詩篇」という特質が、トラークル・ツェラン・シオランの詩的受容の核心となっている。ヴェイユ的「空虚の受容（accepter le vide）」にとってこの詩篇は、恩寵の到来以前の闇の時間──その時間が神に聞かれながらも答えられない時間として──の最も正直な証言として機能する。",
+  "keywords": [
+    "psalmus tenebrosissimus",
+    "転換なき絶望",
+    "inter mortuos liber",
+    "lacus inferior",
+    "terra oblivionis",
+    "numquid mortuis",
+    "忘却の地",
+    "神の顔の背け",
+    "miseria",
+    "死者の自由"
+  ],
+  "relatedTexts": [
+    "hieronymus_psalmi_129",
+    "hieronymus_psalmi_21",
+    "hieronymus_iob_3",
+    "hieronymus_iob_7",
+    "hieronymus_iob_14",
+    "hieronymus_ecclesiastes_1",
+    "weil_accepter_le_vide",
+    "weil_necessite",
+    "weil_effacement",
+    "weil_celui_quil_faut_aimer",
+    "trakl_de_profundis",
+    "trakl_helian",
+    "trakl_grodek",
+    "baudelaire_spleen",
+    "juan_de_la_cruz_noche_oscura",
+    "rilke_duineser_elegien_01"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "verses": "v.1",
+      "original": "Canticum Psalmi, filiis Core, in finem, pro Maheleth ad respondendum. Intellectus Eman Ezrahitae.",
+      "provisionalTranslation": "コラの子らへの詩篇の歌。指揮者のために──マハラト・ルアンノトに合わせて。エズラフ人ヘマンのマスキール。"
+    },
+    {
+      "id": 2,
+      "verses": "v.2",
+      "original": "Domine, Deus salutis meae, in die clamavi et nocte coram te.",
+      "provisionalTranslation": "主よ、私の救いの神よ、昼も夜もあなたの御前で叫んだ。"
+    },
+    {
+      "id": 3,
+      "verses": "v.3",
+      "original": "Intret in conspectu tuo oratio mea, inclina aurem tuam ad precem meam.",
+      "provisionalTranslation": "私の祈りがあなたの御前に入るように。私の願いに耳を傾けてください。"
+    },
+    {
+      "id": 4,
+      "verses": "v.4",
+      "original": "Quia repleta est malis anima mea, et vita mea inferno appropinquavit.",
+      "provisionalTranslation": "なぜなら私の魂は悪で満たされ、私の命は冥府に近づいたから。"
+    },
+    {
+      "id": 5,
+      "verses": "v.5",
+      "original": "Aestimatus sum cum descendentibus in lacum, factus sum sicut homo sine adjutorio,",
+      "provisionalTranslation": "私は穴に降る者たちとともに数えられ、助けのない人間のようになった。"
+    },
+    {
+      "id": 6,
+      "verses": "v.6",
+      "original": "inter mortuos liber; sicut vulnerati dormientes in sepulchris, quorum non es memor amplius, et ipsi de manu tua repulsi sunt.",
+      "provisionalTranslation": "死者の中に自由な者として。墓の中で眠る傷ついた者たちのように──あなたはもはや彼らを覚えておらず、彼らはあなたの手から退けられた。"
+    },
+    {
+      "id": 7,
+      "verses": "v.7",
+      "original": "Posuerunt me in lacu inferiori, in tenebrosis, et in umbra mortis.",
+      "provisionalTranslation": "彼らは私を下の穴に、暗闇の中に、死の陰の中に置いた。"
+    },
+    {
+      "id": 8,
+      "verses": "v.8",
+      "original": "Super me confirmatus est furor tuus, et omnes fluctus tuos induxisti super me.",
+      "provisionalTranslation": "私の上にあなたの憤りが定まり、あなたのすべての波が私の上に押し寄せた。"
+    },
+    {
+      "id": 9,
+      "verses": "v.9",
+      "original": "Longe fecisti notos meos a me; posuerunt me abominationem sibi. Traditus sum, et non egrediebar;",
+      "provisionalTranslation": "あなたは私の知人たちを私から遠ざけた。彼らは私を自分たちへの嫌悪とした。私は引き渡され、出ていくことができなかった。"
+    },
+    {
+      "id": 10,
+      "verses": "v.10",
+      "original": "oculi mei languerunt prae inopia. Clamavi ad te, Domine, tota die; expandi ad te manus meas.",
+      "provisionalTranslation": "私の目は貧困のゆえに衰えた。主よ、私は一日中あなたに向かって叫んだ。私はあなたに向かって手を広げた。"
+    },
+    {
+      "id": 11,
+      "verses": "v.11",
+      "original": "Numquid mortuis facies mirabilia? aut medici suscitabunt, et confitebuntur tibi?",
+      "provisionalTranslation": "死者たちに奇跡を行うのですか。それとも死者たちが蘇って、あなたを称えるのですか。"
+    },
+    {
+      "id": 12,
+      "verses": "v.12",
+      "original": "Numquid narrabit aliquis in sepulchro misericordiam tuam, et veritatem tuam in perditione?",
+      "provisionalTranslation": "誰かが墓の中であなたの慈しみを語るのですか。滅亡の中であなたの真実を語るのですか。"
+    },
+    {
+      "id": 13,
+      "verses": "v.13",
+      "original": "Numquid cognoscentur in tenebris mirabilia tua? et justitia tua in terra oblivionis?",
+      "provisionalTranslation": "暗闇の中であなたの奇跡が知られるのですか。忘却の地であなたの正義が。"
+    },
+    {
+      "id": 14,
+      "verses": "v.14",
+      "original": "Et ego ad te, Domine, clamavi, et mane oratio mea praeveniet te.",
+      "provisionalTranslation": "それでも私はあなたに向かって叫んだ、主よ。朝に私の祈りはあなたを先取りする。"
+    },
+    {
+      "id": 15,
+      "verses": "v.15",
+      "original": "Ut quid, Domine, repellis orationem meam; avertis faciem tuam a me?",
+      "provisionalTranslation": "なぜ、主よ、私の祈りを退けるのですか。なぜあなたは私から顔を背けるのですか。"
+    },
+    {
+      "id": 16,
+      "verses": "v.16",
+      "original": "Pauper sum ego, et in laboribus a juventute mea; exaltatus autem, humiliatus sum et conturbatus.",
+      "provisionalTranslation": "私は貧しく、幼い頃から労苦の中にある。高くされたが、低められ混乱させられた。"
+    },
+    {
+      "id": 17,
+      "verses": "v.17",
+      "original": "In me transierunt irae tuae, et terrores tui conturbaverunt me:",
+      "provisionalTranslation": "あなたの怒りが私を通り過ぎ、あなたの恐怖が私を混乱させた。"
+    },
+    {
+      "id": 18,
+      "verses": "v.18",
+      "original": "circumdederunt me sicut aqua tota die; circumdederunt me simul.",
+      "provisionalTranslation": "水のように一日中私を取り囲んだ。同時に私を取り囲んだ。"
+    },
+    {
+      "id": 19,
+      "verses": "v.19",
+      "original": "Elongasti a me amicum et proximum, et notos meos a miseria.",
+      "provisionalTranslation": "あなたは友人と隣人を私から遠ざけ、私の知人たちを惨めさから。"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "prosody",
+      "anchor": "Canticum Psalmi, filiis Core, in finem, pro Maheleth ad respondendum. Intellectus Eman Ezrahitae.",
+      "body": "詩篇87篇の表題は詩篇全体の中で最も複雑な表題の一つ──四つの音楽・礼拝的指示が重層する。「filiis Core（コラの子らへ）」：詩篇42・44・45・46・47・48・49・84・85・87・88篇に見られる作者標示。「in finem（指揮者のために）」：ヘブライ語「לַמְנַצֵּחַ（lamenatseaḥ）」のラテン語訳。「pro Maheleth ad respondendum（マハラト・ルアンノトに合わせて）」：ヘブライ語「מָחֲלַת לְעַנּוֹת（maḥalat leʿannôt）」──「病・affliction（maḥalat）に合わせて応じる（ʿannôt）」という解釈が支配的で、この詩篇の affliction の主題と直接照応する。「Intellectus Eman Ezrahitae（エズラフ人ヘマンのマスキール）」：「マスキール（Maskil）」はヘブライ語「לְהַשְׂכִּיל（lehaskhîl）」──「知恵ある・思慮深い」を意味し、「教訓詩」または「瞑想詩」として翻訳される。表題そのものが affliction の文脈を予告する音楽的・神学的枠組みとして機能する。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "glossary",
+      "anchor": "Domine, Deus salutis meae, in die clamavi et nocte coram te.",
+      "body": "「主よ、私の救いの神よ（Deus salutis meae）──昼も夜もあなたの御前で叫んだ（clamavi）」──詩篇87篇の開幕命題にして、詩篇全体のパラドクスを即座に提示する。「Deus salutis meae（私の救いの神）」という呼びかけが「in die clamavi et nocte（昼も夜も叫んだ）」という無応答の持続と並置される：「救いの神」への叫びが救われないという逆説が冒頭から設定される。詩篇21篇v.3「clamabo per diem, et non exaudies; et nocte（昼に叫ぶ、しかし聞かない。夜にも）」・詩篇129篇v.1「De profundis clamavi ad te（深みより叫んだ）」との比較──三篇の詩篇が共有する「clamavi（叫んだ）」という動詞は、affliction の言語的形象の核心を形成するが、87篇のみが叫びへの応答を最後まで与えない。ツェラン「テネブレ（Tenebrae, 1959）」──「主よ、私たちはあなたの御前に叫んだ（Herr, wir schrien, wir schrien）」という反語的神への呼びかけが、「Deus salutis meae」というこの詩篇の開幕の逆説的展開として機能する。"
+    },
+    {
+      "paragraphId": 4,
+      "type": "commentary",
+      "anchor": "Quia repleta est malis anima mea, et vita mea inferno appropinquavit.",
+      "body": "「私の魂は悪で満たされ（repleta est malis anima mea）、私の命は冥府に近づいた（vita mea inferno appropinquavit）」──affliction の「充満（replere）」という逆説。「repleta est malis（悪で満たされた）」──ヴェイユ「Accepter le vide」§1「恩寵が入れるのは空虚がある場所だけ」というテーゼが、この「悪で満たされた（repleta malis）」という状態の前では成立しない：空虚どころか悪で充満した魂という、恩寵の条件の不在として。「inferno appropinquavit（冥府に近づいた）」──「inferno（冥府・シェオル）」という空間的規定が次節 v.5「lacus（穴）」・v.7「lacus inferior（下の穴）・umbra mortis（死の陰）」と連動して詩篇の垂直的沈降構造を形成する。コヘレト第1章v.14「universa vanitas et afflictio spiritus（すべては虚無であり霊の苦悩）」という affliction の定式が、ここでは「inferno（冥府）」という死の空間への接近として最大化される。シオラン『解体の概要（Précis de décomposition, 1949）』「われわれは皆、地獄に近い側に生きている（Nous vivons tous du côté de l'enfer）」──「inferno appropinquavit」という詩篇の地獄への接近がシオランの存在論的断言と照応する。"
+    },
+    {
+      "paragraphId": 5,
+      "type": "commentary",
+      "anchor": "Aestimatus sum cum descendentibus in lacum, factus sum sicut homo sine adjutorio,",
+      "body": "「穴に降る者たちとともに数えられ（aestimatus sum cum descendentibus in lacum）──助けのない人間のようになった（homo sine adjutorio）」──社会的・存在論的地位の定義的剥奪。「aestimatus sum（数えられた）」という受動完了形──自らの意志によらない分類・カテゴリー化。「cum descendentibus in lacum（穴に降る者たちとともに）」──「lacus（穴・穴ぐら）」は死者の集まる地下空間（シェオル）の詩的表現：降ることが生きたままで死者と等置される存在への転落として提示される。「homo sine adjutorio（助けのない人間）」──人間（homo）の定義が否定を通じて与えられる：助けを持つことが人間の通常状態であり、その剥奪が人間以下の状態を定義する。ヴェイユ「La Violence」章の「afflictionが人間を物にする」という命題の逆から：「助けのない人間」は人間として数えられながら人間の条件を失った存在。ツェラン「死のフーガ（Todesfuge, 1945）」の「灰色の夜明けに黒いミルクを飲む（Schwarze Milch der Frühe wir trinken sie abends）」──死者の空間の中で生きることの強制という構造がこの「cum descendentibus（降る者たちとともに）」という等置に先行する。"
+    },
+    {
+      "paragraphId": 6,
+      "type": "glossary",
+      "anchor": "inter mortuos liber; sicut vulnerati dormientes in sepulchris, quorum non es memor amplius, et ipsi de manu tua repulsi sunt.",
+      "body": "「死者の中に自由な者（inter mortuos liber）──あなたはもはや彼らを覚えておらず（quorum non es memor amplius）、彼らはあなたの手から退けられた（de manu tua repulsi sunt）」──詩篇87篇の最も謎めいた命題。「inter mortuos liber（死者の中に自由な者として）」──「liber（自由）」という語が「死者の中に（inter mortuos）」という文脈の中で逆説的に使われる：死の状態が「自由（libertas）」として定義される。ヨブ記第3章v.19「servus liber a domino suo（奴隷は主人から自由）」という死の民主主義・解放としての死との照応──ヨブが憧れた死の「自由」が、ここでは詩篇作者が既に置かれた状態として描かれる。「quorum non es memor amplius（もはや覚えていない）」──神の記憶から外れるという最終的遺棄。コヘレト第1章v.11「Non est priorum memoria（先のことどもの記憶はない）」という普遍的忘却が、ここでは神による遺棄的忘却（「non es memor：あなたは覚えていない」）として神学的に集中する。「de manu tua repulsi sunt（あなたの手から退けられた）」──ヨブ記第1章v.10「tu vallasti eum（あなたが彼を守った）」という神の保護の手の逆転として：守る手が退ける手へと転倒される。ツェラン「テネブレ」「私たちはあなたの近くにいる、主よ、あなたの手のそばに、主よ（Nah sind wir, Herr, nahe und greifbar）」という「神の手への逆説的接近」と、この「de manu tua repulsi（手から退けられた）」という遠ざけられた手の対称的関係。"
+    },
+    {
+      "paragraphId": 7,
+      "type": "commentary",
+      "anchor": "Posuerunt me in lacu inferiori, in tenebrosis, et in umbra mortis.",
+      "body": "「彼らは私を下の穴に（lacu inferiori）、暗闇の中に、死の陰の中に置いた（posuerunt）」──詩篇87篇の空間的沈降の頂点命題。「lacu inferiori（下の穴）」──v.5「lacus（穴）」のさらに下という重層的深度：affliction が単なる「深み（profundis）」ではなく「より深い深み（lacus inferior）」として段階的に拡大される。「in tenebrosis, et in umbra mortis（暗闇と死の陰の中）」──ヨブ記第3章v.5「Obscurent eum tenebrae et umbra mortis（暗闇と死の陰がその日を覆え）」という呪詛詩の語彙との直接照応：ヨブが日に向けて呪う語彙が、詩篇87篇では詩篇作者が置かれた現実として記述される──呪詛の対象が現実となる転倒。「Posuerunt（彼らは置いた）」という三人称複数の主語が不明──神か、人間の敵か、あるいは affliction の力そのものか。この主語の不確定性が詩篇87篇の神学的核心をなす：affliction の原因の不特定化。トラークル「De Profundis」「Ein Winterabend……Niemand kennt diesen dunklen Weg（誰もこの暗い道を知らない）」という「lacu inferiori」的暗闇の詩学的継承。"
+    },
+    {
+      "paragraphId": 8,
+      "type": "commentary",
+      "anchor": "Super me confirmatus est furor tuus, et omnes fluctus tuos induxisti super me.",
+      "body": "「私の上にあなたの憤りが定まり（super me confirmatus est furor tuus）──あなたのすべての波が私の上に押し寄せた（omnes fluctus tuos induxisti super me）」──神の「憤り（furor）」が affliction の主語として明示される転換点。「confirmatus est furor tuus（憤りが定まった）」──「confirmare（確立する・定める）」という完了受動形が神の憤りの永続的・確定的性格を示す：一時的感情ではなく、「定まった（confirmatus）」恒常的状態として。「omnes fluctus tuos（あなたのすべての波）」──マラルメ「骰子一擲」§2「l'Abîme blanchi étale furieux（深淵が白く広がり猛り狂う）」という嵐の深淵と照応する：詩篇の「fluctus（波）」がマラルメ的「深淵（Abîme）」の詩学的先行形象として。ヴェイユ「Nécessité」章の「神の憤りは必然性の仮面として働く」という命題が逆から照らされる：「furor tuus（あなたの憤り）」という直接的神の行為がヴェイユ的「必然性の間接性」ではなく、直接的波として「induxisti（押し入れた）」される──affliction の神学的直接性の問題。"
+    },
+    {
+      "paragraphId": 9,
+      "type": "commentary",
+      "anchor": "Longe fecisti notos meos a me; posuerunt me abominationem sibi. Traditus sum, et non egrediebar;",
+      "body": "「あなたは私の知人たちを私から遠ざけた（longe fecisti notos meos a me）──彼らは私を自分たちへの嫌悪とした（abominationem sibi）──私は引き渡され（traditus sum）、出ていくことができなかった」──三重の社会的遮断の定式。「Longe fecisti notos meos（知人たちを遠ざけた）」──v.19の最終節「Elongasti a me amicum et proximum（友人と隣人を遠ざけた）」と冒頭・末尾で照応する：社会的孤立が詩篇全体の枠組みを形成する。「abominationem sibi（自分たちへの嫌悪とした）」──詩篇21篇v.7「opprobrium hominum, et abjectio plebis（人間の恥辱、民の廃棄物）」という「abjection（廃棄）」と同型の社会的排除：クリステヴァ的「アブジェクト（abject）」──象徴的秩序から投げ捨てられた存在として。「Traditus sum, et non egrediebar（引き渡され、出られなかった）」──「tradere（引き渡す）」という動詞がヨハネ福音書19:30「tradidit spiritum（霊を引き渡した）」・マタイ福音書26:45「tradetur in manus peccatorum（罪人たちの手に引き渡される）」と同一：受難の語彙として詩篇が先行する。シオラン『不便な真実（Inconvénient d'être né）』「生きることは自分が閉じ込められていることを発見することだ（Vivre, c'est découvrir qu'on est enfermé）」──「non egrediebar（出られなかった）」という閉塞がシオランの存在論的「牢獄としての生」と照応する。"
+    },
+    {
+      "paragraphId": 11,
+      "type": "glossary",
+      "anchor": "Numquid mortuis facies mirabilia? aut medici suscitabunt, et confitebuntur tibi?",
+      "body": "「死者たちに奇跡を行うのですか（numquid mortuis facies mirabilia?）──死者たちが蘇って、あなたを称えるのですか（confitebuntur tibi?）」──詩篇87篇の神学的核心をなす「反語的問いの四連（v.11–13）」の開幕。「Numquid（本当に〜か?）」という反語的疑問詞──「いいえ、そうではない」という答えを論理的に前提する問い形式：「死者に奇跡はない・だから私を今救うべきだ」という議論ではなく、救いの不可能性そのものへの告発として機能する。「mortuis facies mirabilia（死者に奇跡を行う）」──反語的問いでありながら、ツェラン的文脈では「奇跡が死者にのみ起きる」という逆転した肯定として読める：ツェラン「テネブレ」では神が「傷を受けた（Wund sind wir, Herr, wund und offen）」のは人間ではなく神自身であるという転倒が起きる。「medici suscitabunt（医者たちが蘇らせる）」──「medici（医者たち）」が死者復活の可能性の担い手として言及される：人間的・科学的手段による救いという主題が聖書で稀有な形で現れる。ヨブ記第13章v.4「artifices mendacii, nec ullus vestrum medicus inutilis（偽りの職人、無用な医者たち）」というヨブの友人批判と同一の「medici」──affliction の「無用な慰め手」としての医者像との照応。"
+    },
+    {
+      "paragraphId": 12,
+      "type": "commentary",
+      "anchor": "Numquid narrabit aliquis in sepulchro misericordiam tuam, et veritatem tuam in perditione?",
+      "body": "「誰かが墓の中であなたの慈しみを語るのですか（numquid narrabit aliquis in sepulchro misericordiam tuam?）──滅亡の中であなたの真実を（veritatem tuam in perditione?）」──「語ること（narrare）」の不可能性の詩的定式。「in sepulchro（墓の中で）」と「in perditione（滅亡の中で）」という二つの「不可能の空間」が並置される：どちらも「misericordiam（慈しみ）」と「veritatem（真実）」という神の本質的属性を語ることが不可能な場所として定義される。ブランショ『文学の空間（L'Espace littéraire, 1955）』「書くことは死と関わることだ──しかし死は書かれることを拒む（Écrire, c'est s'entretenir avec la mort）」──「墓の中で語る（narrare in sepulchro）」という詩篇の逆説的問いがブランショ的「書くことの不可能性・死の不可能な語り」の聖書的先行形として機能する。「perditione（滅亡）」──ヘブライ語「אֲבַדּוֹן（ʾAbaddôn）」の訳：ヨブ記第28章v.22「Perditio et mors dixerunt（滅亡と死が言った）」という「滅亡の擬人化」と同一の空間。詩篇87篇において「narrabit（語る）」という動詞への問いは、詩篇そのものが持つ語りの逆説──滅亡の空間から語ることで、語りの不可能を語っている──を示唆する。"
+    },
+    {
+      "paragraphId": 13,
+      "type": "commentary",
+      "anchor": "Numquid cognoscentur in tenebris mirabilia tua? et justitia tua in terra oblivionis?",
+      "body": "「暗闇の中であなたの奇跡が知られるのですか（numquid cognoscentur in tenebris mirabilia tua?）──忘却の地であなたの正義が（justitia tua in terra oblivionis?）」──四連の反語的問いの最終にして最も詩的な命題。「terra oblivionis（忘却の地）」──詩篇87篇の最も固有な表現であり、死者の空間を「忘却（oblivio）」として定義する。コヘレト第1章v.11「Non est priorum memoria（先のことどもの記憶はない）」という普遍的忘却が、ここでは「terra（地）」という空間的実体として具現化される。「cognoscentur（知られる）」という受動形──神の奇跡が人間の認識を通じて「知られる」という認識論的条件が死の空間・忘却の空間においては成立しないという神学的議論。トラークル「Helian」「忘却された者（der Vergessene）」・「黙って廃墟の上に（still über den Ruinen）」という「忘却の詩学」との照応──トラークルにおける「terra oblivionis」的空間の詩的継承。ツェラン「砂からの壺（Von Schwelle zu Schwelle, 1955）」「忘却の砂の中に（Im Sand des Vergessens）」──「terra oblivionis」という詩篇の表現がツェランの砂・忘却のイメージとして変奏される。シオラン「忘却は唯一の楽園だ（L'oubli est le seul paradis）」という逆説──詩篇の「terra oblivionis（苦悩の地）」がシオランにおいては「楽園（paradis）」として転倒される皮肉。"
+    },
+    {
+      "paragraphId": 14,
+      "type": "commentary",
+      "anchor": "Et ego ad te, Domine, clamavi, et mane oratio mea praeveniet te.",
+      "body": "「それでも私はあなたに向かって叫んだ（Et ego ad te, Domine, clamavi）──朝に私の祈りはあなたを先取りする（mane oratio mea praeveniet te）」──詩篇87篇において最も希望に近い一節、しかし直後の v.15 で即座に否定される。「Et ego（それでも私は）」──逆接を示す「Et（しかし・それでも）」：v.11–13の「神の奇跡が不可能な空間」の確認にもかかわらず、叫び続けるという持続。「mane oratio mea praeveniet te（朝に祈りはあなたを先取りする）」──詩篇129篇v.6「a custodia matutina（暁の番所から）」という夜明けを待つ見張り人の形象と照応するが、決定的に異なる：129篇では「暁を待つ」のに対して、87篇では「朝に祈りが神を先取りする（praeveniet）」──しかしその先取りは v.15 で「あなたは顔を背ける（avertis faciem tuam）」として応答なく終わる。「praeveniet（先取りする）」という動詞──神への祈りが神の行為を先取りするという、祈りの側の能動性が逆説的に提示されるが、その能動性は結果を生まない。フアン・デ・ラ・クルス「暗夜（Noche Oscura）」での夜明けへの歩みとの対比──十字架の聖ヨハネにおいては暗夜が神との合一に終わるが、詩篇87篇の「mane（朝）」は合一に到達しない。",
+      "targetId": "juan_de_la_cruz_noche_oscura",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 15,
+      "type": "glossary",
+      "anchor": "Ut quid, Domine, repellis orationem meam; avertis faciem tuam a me?",
+      "body": "「なぜ、主よ、私の祈りを退けるのですか（repellis orationem meam）──なぜあなたは私から顔を背けるのですか（avertis faciem tuam a me?）」──詩篇87篇の神学的核心にして、全詩篇を通じて最も直接的な神への告発の一つ。「Ut quid（なぜ）」──ヘブライ語「לָמָה（lāmāh）」の訳：詩篇21篇v.2「quare me dereliquisti（なぜ見捨てたのか）」と同一の疑問詞的告発。「repellis orationem meam（私の祈りを退ける）」──「repellere（退ける・拒む）」という動詞が「clamavi（叫んだ）」「oratio mea（私の祈り）」という詩篇全体の祈りの行為を正面から否定する：祈りが神に届かないという構造的・実存的危機。「avertis faciem tuam a me（顔を背ける）」──詩篇21篇v.25「non avertit faciem suam a me（御顔を私から背けなかった）」の完全な逆転として：21篇の「転換点」が87篇では起こらない──「背けなかった」が「背ける（avertis）」として否定される。ヴェイユ「Celui qu'il faut aimer est absent」§1「神は不在の形においてのみ現われる」という命題が、ここでの「avertis faciem（顔を背ける）」という「不在の能動形」として最も激烈な形で具現化する：不在が偶然ではなく神の能動的行為（avertere）として提示される。ツェラン「テネブレ（Tenebrae）」「主よ、私たちはあなたの御前に、あなたの御前に跪いた（Herr, vor dir, vor dir）」──神の顔への対峙がここでの「顔を背ける（avertis faciem）」という神的動作の拒絶的逆転として照応する。",
+      "targetId": "weil_celui_quil_faut_aimer",
+      "targetParagraphId": 1
+    },
+    {
+      "paragraphId": 16,
+      "type": "commentary",
+      "anchor": "Pauper sum ego, et in laboribus a juventute mea; exaltatus autem, humiliatus sum et conturbatus.",
+      "body": "「私は貧しく、幼い頃から労苦の中にある（in laboribus a juventute mea）──高くされたが、低められ混乱させられた（exaltatus autem, humiliatus sum et conturbatus）」──詩篇87篇における唯一の自伝的回顧の節。「a juventute mea（幼い頃から）」──苦悩が偶発的・一時的ではなく生の全体にわたる恒常的状態として証言される：affliction の「起源（origo）」への遡及。「exaltatus autem, humiliatus sum（高くされたが、低められた）」──「exaltare（高める）→humiliare（低める）」という動詞の逆転連続が運命の逆転を語る：高揚が転落の前置詞として機能する構造。コヘレト第1章v.16「Ecce magnus effectus sum（見よ、私は偉大になった）」という知恵の王の「高揚」がコヘレト的虚無の文脈で語られるように、詩篇87篇の「exaltatus（高くされた）」もその後の「humiliatus（低められた）」によって意味を失う。シオラン「高揚は常に転落の準備だ（L'exaltation prépare toujours la chute）」──「exaltatus / humiliatus（高められた・低められた）」という詩篇の逆転運動がシオランの箴言的ニヒリズムの聖書的定式として先行する。"
+    },
+    {
+      "paragraphId": 17,
+      "type": "commentary",
+      "anchor": "In me transierunt irae tuae, et terrores tui conturbaverunt me:",
+      "body": "「あなたの怒りが私を通り過ぎ（in me transierunt irae tuae）──あなたの恐怖が私を混乱させた（terrores tui conturbaverunt me）」──神の情動が主語として詩篇作者の身体を貫通する節。「in me transierunt（私を通り過ぎた）」──「transire（通り過ぎる・貫通する）」という動詞：神の怒りが詩篇作者を「通り抜ける（transire per）」という身体的貫通として表現される──affliction が外部から来る何かではなく、身体を貫通する力として。「terrores tui（あなたの恐怖）」──神から発する「恐怖（terrores）」が詩篇作者に向かって来るという逆説：神は救いではなく恐怖の源として提示される。ヨブ記第3章v.25「quia timor quem timebam evenit mihi（私が恐れていた恐れが私に来た）」との照応：ヨブの「恐れ（timor）」がここでは「神の恐怖（terrores tui）」として神学的に帰属される。トラークル「グロデク（Grodek）」「静かな魂の悲嘆（stille Trauer der Seele）」・「暗い怒り（dunkler Zorn）」──トラークルの戦場詩における「神なき怒りの貫通」がこの「irae transierunt（怒りが通り過ぎた）」の詩学的変容として読める。",
+      "targetId": "trakl_grodek",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 18,
+      "type": "prosody",
+      "anchor": "circumdederunt me sicut aqua tota die; circumdederunt me simul.",
+      "body": "「水のように一日中私を取り囲んだ（circumdederunt me sicut aqua tota die）──同時に私を取り囲んだ（circumdederunt me simul）」──詩篇87篇において唯一の完全な反復文（parallelismus membrorum）。「circumdederunt me」という動詞句が完全に反復される──ヘブライ詩の並行法の最も純粋な使用：同一の動詞・主語の反復が包囲の強度を言語的に実演する。「sicut aqua（水のように）」──詩篇21篇v.15「sicut aqua effusus sum（水のように流し出された）」との照応：21篇では「水のように」が自己の「流れ出し（effusio）」を指すのに対して、87篇では「水のように」が包囲の形象として外部から迫る──同一の水の形象が「内部からの崩壊」と「外部からの包囲」として異なる affliction の形を担う。「tota die（一日中）」・「simul（同時に）」──時間的全体性（tota die）と空間的全体性（simul：あらゆる方向から同時に）が重なることで、逃げ場のない包囲が定義される。ツェラン「死のフーガ」の「黒いミルクを朝も昼も夕も飲む（wir trinken sie mittags und morgens und abends）」という時間的全体性の詩学的反復が「tota die（一日中）」という詩篇の時間的包囲と照応する。"
+    },
+    {
+      "paragraphId": 19,
+      "type": "commentary",
+      "anchor": "Elongasti a me amicum et proximum, et notos meos a miseria.",
+      "body": "「あなたは友人と隣人を私から遠ざけた（Elongasti a me amicum et proximum）──私の知人たちを惨めさから（notos meos a miseria）」──詩篇87篇の結語にして、全詩篇が「miseria（惨め）」という単語で終わることの神学的・文学的衝撃。「Elongasti a me（遠ざけた）」──v.9「Longe fecisti notos meos a me（知人たちを私から遠ざけた）」と冒頭・末尾で照応する構造的反復：詩篇全体が孤立の枠組みの中に収まる。「amicum et proximum（友人と隣人）」──人間的親密性の二つの形態（友人＝選んだ関係、隣人＝近接する関係）の同時喪失。詩篇87篇は150篇の詩篇の中で唯一「miseria」という語で終わる──他の嘆きの詩篇（22篇・69篇・88篇等）は最終的に讃美・信頼・神への確信へと転換するが、87篇のみが「infelicitas（不幸）」の状態のままで閉じる。この「転換なき終わり（fine sine conversione）」こそがトラークル・ツェラン・シオランにとって決定的であった。ブランショ『来たるべき書物（Le Livre à venir, 1959）』「語ることが終わらないとき、終わりは始まりである（Quand parler ne finit pas, la fin est un commencement）」──詩篇が「miseria」で終わることは終わりを与えない終わりとして、affliction の持続を詩的形式として確立する。シオラン「解体の概要」「惨めさは唯一の形而上学的確実性だ（La misère est la seule certitude métaphysique）」──詩篇の「miseria」による閉幕がシオランの実存的命題の最古の聖書的定式として機能する。ヴェイユ「Accepter le vide」における空虚の受容の前提──詩篇87篇は「転換以前の闇」の最も純粋な証言として、恩寵の到来以前の時間を定着させた文書として読める：空虚が受容されるのはこの「miseria」が十分に経験された後にのみ、とヴェイユは考える。",
+      "targetId": "weil_accepter_le_vide",
+      "targetParagraphId": null
+    }
+  ]
+}
