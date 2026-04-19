@@ -1,0 +1,334 @@
+{
+  "id": "hieronymus_psalmi_21",
+  "title": "Psalmi XXI — Deus, Deus meus, quare me dereliquisti",
+  "author": "Eusebius Sophronius Hieronymus",
+  "source": "Biblia Sacra Vulgata, Psalmi XXI (LXX/Vulgata numbering; Hebrew/English Ps. 22). Bible Gateway: https://www.biblegateway.com/passage/?search=Psalm+22&version=VULGATE",
+  "year": "Antiquitas",
+  "firstPublication": "Vulgata Latina, c. 382–405 AD（ヒエロニムス訳）",
+  "difficulty": "上級",
+  "category": "hieronymus",
+  "originalLang": "la-LA",
+  "modernRelevance": "★★★★★",
+  "context": "詩篇第21篇（ヘブライ語・英語聖書では22篇；ウルガータ・七十人訳では21篇）。「ダヴィデの詩篇──朝の助けのために（In finem, pro susceptione matutina. Psalmus David）」という副題を持つ。「Deus, Deus meus, respice in me: quare me dereliquisti（わが神、わが神、私を顧みてください──なぜ私を見捨てたのですか）」という冒頭は、マタイ福音書27:46・マルコ福音書15:34においてイエスが十字架上で引用したことで、旧約と新約を結ぶ「預言的詩篇（psalmus propheticus）」の典型として神学的に最重要視されてきた。章は三つのブロックに分かれる。v.2–12：神への訴え──神の沈黙・先祖の信頼・自己の「虫（vermis）」規定・嘲笑・出生以来の神との関係。v.13–22：身体的afflictionの詩的記述──牛・ライオン・水のように流される自己・蝋のように溶ける心臓・陶器の破片のような乾き・犬の包囲・骨の数え上げ・衣の分配。v.23–32：転換と讃美──「主があなたたちを聞いた（exaudivit me）」という宣言と全地への讃美の勧め。詩篇21篇はヨブ記の「afflictionの詩学」と根本的に構造を共有しながら、第三ブロック（v.23–32）において「転換（metanoia）」が実現する点でヨブ記より明快な神学的解決を提供する──あるいはその「転換」が「解決」として十分かどうかという問いが、ブランショ・デリダ・バタイユの読解の焦点となる。",
+  "keywords": [
+    "quare me dereliquisti",
+    "神の遺棄",
+    "vermis et non homo",
+    "身体の崩壊",
+    "cor tamquam cera",
+    "骨の数え上げ",
+    "衣の分配",
+    "exaudivit me",
+    "転換と讃美",
+    "afflictionの詩学"
+  ],
+  "relatedTexts": [
+    "hieronymus_psalmi_129",
+    "hieronymus_iob_3",
+    "hieronymus_iob_7",
+    "hieronymus_iob_14",
+    "hieronymus_iob_19",
+    "hieronymus_iob_38",
+    "hieronymus_ecclesiastes_1",
+    "hieronymus_ecclesiastes_9",
+    "weil_accepter_le_vide",
+    "weil_necessite",
+    "weil_la_violence",
+    "weil_effacement",
+    "weil_celui_quil_faut_aimer",
+    "trakl_de_profundis",
+    "baudelaire_spleen",
+    "rilke_duineser_elegien_01",
+    "juan_de_la_cruz_noche_oscura"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "verses": "v.1",
+      "original": "In finem, pro susceptione matutina. Psalmus David.",
+      "provisionalTranslation": "終わりのために──朝の助けのために。ダヴィデの詩篇。"
+    },
+    {
+      "id": 2,
+      "verses": "v.2",
+      "original": "Deus, Deus meus, respice in me: quare me dereliquisti? longe a salute mea verba delictorum meorum.",
+      "provisionalTranslation": "わが神、わが神、私を顧みてください──なぜ私を見捨てたのですか。私の救いから遠く離れているのは私の罪の言葉。"
+    },
+    {
+      "id": 3,
+      "verses": "v.3",
+      "original": "Deus meus, clamabo per diem, et non exaudies; et nocte, et non ad insipientiam mihi.",
+      "provisionalTranslation": "わが神、私は昼に叫ぶ、しかしあなたは聞かない。夜にも──しかし私にとっての愚かさとはならない。"
+    },
+    {
+      "id": 4,
+      "verses": "v.4",
+      "original": "Tu autem in sancto habitas, laus Israel.",
+      "provisionalTranslation": "しかしあなたは聖所に住んでいる、イスラエルの讃美よ。"
+    },
+    {
+      "id": 5,
+      "verses": "v.5",
+      "original": "In te speraverunt patres nostri; speraverunt, et liberasti eos.",
+      "provisionalTranslation": "私たちの先祖たちはあなたに望みを持った。望みを持ち、あなたは彼らを解放した。"
+    },
+    {
+      "id": 6,
+      "verses": "v.6",
+      "original": "Ad te clamaverunt, et salvi facti sunt; in te speraverunt, et non sunt confusi.",
+      "provisionalTranslation": "あなたに向かって叫び、救われた。あなたに望みを持ち、混乱に陥ることがなかった。"
+    },
+    {
+      "id": 7,
+      "verses": "v.7",
+      "original": "Ego autem sum vermis, et non homo; opprobrium hominum, et abjectio plebis.",
+      "provisionalTranslation": "しかし私は虫であり、人間ではない。人間の恥辱、民の廃棄物。"
+    },
+    {
+      "id": 8,
+      "verses": "v.8",
+      "original": "Omnes videntes me deriserunt me; locuti sunt labiis, et moverunt caput.",
+      "provisionalTranslation": "私を見る者がみな私を嘲った。唇で語り、頭を振った。"
+    },
+    {
+      "id": 9,
+      "verses": "v.9",
+      "original": "Speravit in Domino, eripiat eum: salvum faciat eum, quoniam vult eum.",
+      "provisionalTranslation": "「主に望みを持ったのだから、神が彼を救い出せ。神が彼を欲するなら、救えばよい。」"
+    },
+    {
+      "id": 10,
+      "verses": "v.10",
+      "original": "Quoniam tu es qui extraxisti me de ventre, spes mea ab uberibus matris meae.",
+      "provisionalTranslation": "なぜならあなたこそが私を胎から取り出した方、私の希望は母の乳房から。"
+    },
+    {
+      "id": 11,
+      "verses": "v.11",
+      "original": "In te projectus sum ex utero; de ventre matris meae Deus meus es tu:",
+      "provisionalTranslation": "胎から私はあなたに投げかけられた。母の胎からあなたは私の神だった。"
+    },
+    {
+      "id": 12,
+      "verses": "v.12",
+      "original": "ne discesseris a me, quoniam tribulatio proxima est, quoniam non est qui adjuvet.",
+      "provisionalTranslation": "私から離れないでください──苦難が近いから、助ける者がいないから。"
+    },
+    {
+      "id": 13,
+      "verses": "v.13",
+      "original": "Circumdederunt me vituli multi; tauri pingues obsederunt me.",
+      "provisionalTranslation": "多くの子牛が私を取り囲んだ。太った雄牛たちが私を包囲した。"
+    },
+    {
+      "id": 14,
+      "verses": "v.14",
+      "original": "Aperuerunt super me os suum, sicut leo rapiens et rugiens.",
+      "provisionalTranslation": "略奪し吼える獅子のように、私に向かってその口を開けた。"
+    },
+    {
+      "id": 15,
+      "verses": "v.15",
+      "original": "Sicut aqua effusus sum, et dispersa sunt omnia ossa mea: factum est cor meum tamquam cera liquescens in medio ventris mei.",
+      "provisionalTranslation": "水のように流し出され、骨はすべて離れ離れになった。心臓は胸の中で溶ける蝋のようになった。"
+    },
+    {
+      "id": 16,
+      "verses": "v.16",
+      "original": "Aruit tamquam testa virtus mea, et lingua mea adhaesit faucibus meis: et in pulverem mortis deduxisti me.",
+      "provisionalTranslation": "私の力は陶器の破片のように乾いた。舌は喉に張り付いた。あなたは私を死の塵に引き降ろした。"
+    },
+    {
+      "id": 17,
+      "verses": "v.17",
+      "original": "Quoniam circumdederunt me canes multi; concilium malignantium obsedit me. Foderunt manus meas et pedes meos;",
+      "provisionalTranslation": "なぜなら多くの犬が私を取り囲み、悪をなす者たちの集いが私を包囲した。私の手と足を穿った。"
+    },
+    {
+      "id": 18,
+      "verses": "v.18",
+      "original": "dinumeraverunt omnia ossa mea. Ipsi vero consideraverunt et inspexerunt me.",
+      "provisionalTranslation": "私の骨をすべて数え上げた。彼ら自身は考え、私を眺めた。"
+    },
+    {
+      "id": 19,
+      "verses": "v.19",
+      "original": "Diviserunt sibi vestimenta mea, et super vestem meam miserunt sortem.",
+      "provisionalTranslation": "私の衣を彼らの間で分け、私の衣の上でくじを引いた。"
+    },
+    {
+      "id": 20,
+      "verses": "v.20",
+      "original": "Tu autem, Domine, ne elongaveris auxilium tuum a me; ad defensionem meam conspice.",
+      "provisionalTranslation": "しかし主よ、あなたの助けを私から遠ざけないでください。私の守りのために目を向けてください。"
+    },
+    {
+      "id": 21,
+      "verses": "v.21",
+      "original": "Erue a framea, Deus, animam meam, et de manu canis unicam meam.",
+      "provisionalTranslation": "剣から私の魂を救い出してください、神よ。犬の手から私の唯一のものを。"
+    },
+    {
+      "id": 22,
+      "verses": "v.22",
+      "original": "Salva me ex ore leonis, et a cornibus unicornium humilitatem meam.",
+      "provisionalTranslation": "獅子の口から私を救い、一角獣の角から私の低さを救ってください。"
+    },
+    {
+      "id": 23,
+      "verses": "v.23",
+      "original": "Narrabo nomen tuum fratribus meis; in medio ecclesiae laudabo te.",
+      "provisionalTranslation": "あなたの名を兄弟たちに語り伝えよう。集会の中であなたを讃えよう。"
+    },
+    {
+      "id": 24,
+      "verses": "v.24",
+      "original": "Qui timetis Dominum, laudate eum; universum semen Jacob, glorificate eum.",
+      "provisionalTranslation": "主を畏れる者よ、神を讃えよ。ヤコブの全ての子孫よ、神を崇めよ。"
+    },
+    {
+      "id": 25,
+      "verses": "v.25",
+      "original": "Timeat eum omne semen Israel, quoniam non sprevit, neque despexit deprecationem pauperis, nec avertit faciem suam a me: et cum clamarem ad eum, exaudivit me.",
+      "provisionalTranslation": "イスラエルの全ての子孫が神を畏れよ──神は貧しい者の嘆願を蔑まず軽んじず、御顔を私から背けなかった。私が向かって叫んだとき、神は私を聞いた。"
+    },
+    {
+      "id": 26,
+      "verses": "v.26",
+      "original": "Apud te laus mea in ecclesia magna; vota mea reddam in conspectu timentium eum.",
+      "provisionalTranslation": "大きな集会であなたへの讃美は私のもとに。神を畏れる者の前で私は誓いを果たそう。"
+    },
+    {
+      "id": 27,
+      "verses": "v.27",
+      "original": "Edent pauperes, et saturabuntur, et laudabunt Dominum qui requirunt eum: vivent corda eorum in saeculum saeculi.",
+      "provisionalTranslation": "貧しい者たちは食べ、満たされ、神を求める者たちは主を讃えるだろう。彼らの心は世々に生きるだろう。"
+    },
+    {
+      "id": 28,
+      "verses": "v.28",
+      "original": "Reminiscentur et convertentur ad Dominum universi fines terrae; et adorabunt in conspectu ejus universae familiae gentium:",
+      "provisionalTranslation": "大地のすべての果ては思い起こし、主に立ち帰るだろう。すべての民族の諸族が神の御前にひれ伏すだろう。"
+    },
+    {
+      "id": 29,
+      "verses": "v.29",
+      "original": "quoniam Domini est regnum, et ipse dominabitur gentium.",
+      "provisionalTranslation": "なぜなら王国は主のもの、神ご自身が諸民族を治めるから。"
+    },
+    {
+      "id": 30,
+      "verses": "v.30",
+      "original": "Manducaverunt et adoraverunt omnes pingues terrae; in conspectu ejus cadent omnes qui descendunt in terram.",
+      "provisionalTranslation": "大地の豊かな者たちはみな食べ、ひれ伏した。地に降りていく者たちはみな御前にひれ伏すだろう。"
+    },
+    {
+      "id": 31,
+      "verses": "v.31",
+      "original": "Et anima mea illi vivet; et semen meum serviet ipsi.",
+      "provisionalTranslation": "私の魂は神のために生きるだろう。私の子孫は神に仕えるだろう。"
+    },
+    {
+      "id": 32,
+      "verses": "v.32",
+      "original": "Annuntiabitur Domino generatio ventura; et annuntiabunt caeli justitiam ejus populo qui nascetur, quem fecit Dominus.",
+      "provisionalTranslation": "来たる世代は主に告げ知らされ、天は生まれてくる民に神の義を告げ知らせるだろう──主が造られた民に。"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 2,
+      "type": "glossary",
+      "anchor": "Deus, Deus meus, respice in me: quare me dereliquisti? longe a salute mea verba delictorum meorum.",
+      "body": "「わが神、わが神、なぜ私を見捨てたのですか（Deus, Deus meus, quare me dereliquisti?）」──詩篇21篇の冒頭命題にして、聖書文学・西洋神学における「神の遺棄（derelictio Dei）」の最も根本的な定式。マタイ福音書27:46「Eli, Eli, lamma sabachthani（エリ、エリ、ラマ・サバクタニ）」というイエスの十字架上の言葉が、この詩篇v.2のヘブライ語「אֵלִי אֵלִי לָמָה עֲזַבְתָּנִי（Eli Eli lamma ʿazavtani）」の直接引用であり、詩篇21篇が「受難詩篇（psalmus passionis）」として解釈されてきた根拠。「Deus, Deus meus（わが神、わが神）」という二重の呼びかけ──固有名詞としての「Deus（神）」と関係的所格「meus（私の）」の組み合わせ：神が「存在するが私に応答しない」という神の現前と遺棄の同時性の宣言。デリダ「信と知（Foi et Savoir, 1996）」での「宗教の二つの源泉」論──「神聖性（sainteté）」と「誓い（serment）の可能性（fiabilité）」：「quare me dereliquisti（なぜ見捨てたのか）」という問いが「神への誓い（votum）」の信頼性そのものへの問いとして機能する──神との契約の信頼性（fiabilité）への訴追として。ヴェイユ「Celui qu'il faut aimer est absent」§1「神は被造物の中に不在の形においてのみ現われることができる」──「quare me dereliquisti（なぜ見捨てたのか）」という遺棄の問いが、ヴェイユ的「不在としての神の現前」の聖書的根拠の核心として機能する。",
+      "targetId": "weil_celui_quil_faut_aimer",
+      "targetParagraphId": 1
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "Deus meus, clamabo per diem, et non exaudies; et nocte, et non ad insipientiam mihi.",
+      "body": "「昼に叫ぶ、しかしあなたは聞かない──夜にも（et nocte）、しかし私にとっての愚かさとはならない（non ad insipientiam mihi）」──神の沈黙という「affliction of non-response（無応答のaffliction）」の最も純粋な定式。「non exaudies（聞かない）」──詩篇129篇v.2「exaudi vocem meam（私の声を聞いてください）」という祈りが、ここでは「聞かない（non exaudies）」という失敗として先取りされる。「non ad insipientiam mihi（しかし私にとっての愚かさとはならない）」──「insipientiam（愚かさ）」の否定という奇妙な付加句：神が聞かないことを「愚かなこと（insipientia）」──すなわち意味のない努力・自己欺瞞──として解釈しないということ。ブランショ『無限の対話（L'Entretien infini, 1969）』「語ることの不可能性──しかし語ることをやめる不可能性（Impossibilité de parler — et cependant impossibilité de ne pas parler）」──「昼に叫んでも聞かれない・夜にも叫ぶ・しかし愚かさではない」という構造がブランショ的「語ることの二重の不可能性」として照応する：沈黙も不可能、応答なき語りも続けられる。バタイユ『内的経験（L'Expérience intérieure, 1943）』「叫びは何ものにも到達しない、しかし叫びは解放である（Le cri n'atteint rien, mais le cri est la libération）」──「clamabo, et non exaudies（叫ぶ、しかし聞かれない）」という無応答の叫びがバタイユ的「内的経験」の消費的発散として読める。"
+    },
+    {
+      "paragraphId": 4,
+      "type": "commentary",
+      "anchor": "Tu autem in sancto habitas, laus Israel.",
+      "body": "「しかしあなたは聖所に住んでいる、イスラエルの讃美よ（Tu autem in sancto habitas）」──v.3の「聞かない（non exaudies）」という神の沈黙に対する逆接の神学的命題。「Tu autem（しかしあなたは）」という逆接が詩篇21篇全体を貫く弁証法的構造の最初の転換点を刻む：神の沈黙（v.3）にもかかわらず神の聖性（v.4）、個人の苦悩（v.2–3）にもかかわらず先祖の経験（v.5–6）、自己の遺棄感（v.7–12）にもかかわらず出生からの神との関係（v.10–11）。「laus Israel（イスラエルの讃美）」──神を「讃美の総体（laus）」として呼ぶ：神は「讃美を住まいとする（habitas in sancto / laudibus）」という詩学的神学──イスラエルの賛美の行為が神の「住処（habitatio）」を形成するという相互構成的論理。シオラン『告白と呪詛（Aveux et anathèmes, 1987）』「神は自分の讃美歌の中だけに住んでいる（Dieu n'habite que dans ses hymnes）」──「Tu in sancto habitas（聖所に住む）」という詩篇の神的住居論をシオランは「讃美歌の中だけ」という逆説的限定として批判的に転用する。"
+    },
+    {
+      "paragraphId": 7,
+      "type": "commentary",
+      "anchor": "Ego autem sum vermis, et non homo; opprobrium hominum, et abjectio plebis.",
+      "body": "「しかし私は虫であり、人間ではない──人間の恥辱、民の廃棄物（vermis et non homo; opprobrium et abjectio）」──詩篇21篇の人間論的核心命題。「vermis（虫）」──人間存在の最も下位への自己下降：「homo（人間）」の否定ではなく「vermis（虫）」という積極的代替。ヨブ記第7章v.17「Quid est homo, quia magnificas eum（人間とは何ものか、なぜ大きく扱うのか）」という「人間の卓越性への問い」が、ここでは「私は人間ではなく虫だ（vermis et non homo）」という自己否定的応答として先取りされる。「abjectio plebis（民の廃棄物）」──「abjicere（投げ捨てる・廃棄する）」の名詞形「abjectio」がクリステヴァ「abject（アブジェクト）」概念の語源として機能する：ジュリア・クリステヴァ『恐怖の権力（Pouvoirs de l'horreur, 1980）』での「アブジェクション（abjection）」──自己から「投げ捨てられた（abjectum）」もの、象徴的秩序から排除されたものとして「vermis et abjectio」が読める。ヴェイユ「La Violence」章の「afflictionが人間を虫以下にする（au-dessous d'une bête）」という命題がヨブ記の動物的卑下と詩篇の「vermis（虫）」において最も根源的な形として先取りされる。",
+      "targetId": "weil_la_violence",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 9,
+      "type": "commentary",
+      "anchor": "Speravit in Domino, eripiat eum: salvum faciat eum, quoniam vult eum.",
+      "body": "「『主に望みを持ったのだから、神が彼を救い出せ──神が彼を欲するなら、救えばよい』」──嘲笑する者たちの言葉として引用される節。「quoniam vult eum（神が彼を欲するなら）」──嘲笑の論理：信仰が「神が欲する」という条件付きで正当化されるという cynical な神学的推論。マタイ福音書27:43「ペイサトー ニュン ホ テオス（神が今彼を救えばよい）」というイエスへの嘲笑が、この詩篇v.9のほぼ逐語的な反復として機能する──詩篇が受難予告として、福音書の十字架が詩篇の成就として相互的に照応する。ドストエフスキー『悪霊（Бесы, 1872）』のキリーロフ──「神が存在するなら、すべては神の意志だ。私は何も自分の意志ではできない。もし神が存在しないなら、私の意志はすべてだ」という神存在と人間意志の反比例がここでの「quoniam vult eum（神が欲するなら）」という条件節の哲学的展開として読める：神が「欲する（velle）」ならば嘲笑者の論理が成立するが、神が「欲しない」場合は信仰者の立場が崩壊する。"
+    },
+    {
+      "paragraphId": 11,
+      "type": "commentary",
+      "anchor": "In te projectus sum ex utero; de ventre matris meae Deus meus es tu:",
+      "body": "「胎から私はあなたに投げかけられた（In te projectus sum ex utero）──母の胎からあなたは私の神だった」──誕生という「投擲（projectio）」の神学。「projectus sum（投げかけられた）」という受動完了形──誕生が能動的・主体的行為ではなく「投げかけられること（projici）」として定義される：生まれることが神への「委ねられた投棄」として提示される。ハイデガー「被投性（Geworfenheit）」との照応──現存在（Dasein）が世界に「投げ出されて（geworfen）」いるという存在論的条件が、詩篇においては「神への投擲（in te projectus）」という方向性を持つ被投性として先取りされる。ヨブ記第3章v.11「Quare non in vulva mortuus sum（なぜ胎内で死ななかったのか）」という「胎内死」への欲望が、ここでは「胎からあなたに投げかけられた（projectus sum ex utero）」という誕生の神的動作として対称的に提示される：ヨブが誕生を呪うのに対して、詩篇は誕生を「神への委ね」として肯定する。",
+      "targetId": "hieronymus_iob_3",
+      "targetParagraphId": 11
+    },
+    {
+      "paragraphId": 15,
+      "type": "glossary",
+      "anchor": "Sicut aqua effusus sum, et dispersa sunt omnia ossa mea: factum est cor meum tamquam cera liquescens in medio ventris mei.",
+      "body": "「水のように流し出され（sicut aqua effusus sum）、骨はすべて離れ離れになった──心臓は胸の中で溶ける蝋のようになった（cor meum tamquam cera liquescens）」──詩篇21篇の身体的affliction詩の頂点。三つの身体的崩壊の形象が連続する：①「sicut aqua effusus（水のように流し出された）」──固体としての身体が液体化する。②「dispersa sunt omnia ossa（骨がすべて離れ離れになった）」──骨格という構造的統一性の解体。③「cor tamquam cera liquescens（溶ける蝋のような心臓）」──中心的臓器（cor）の溶解。ヨブ記第19章v.20「Pelli meae, consumptis carnibus, adhaesit os meum（肉が消耗し、骨が皮に付いた）」という同型の身体的消耗との照応：どちらも身体の構造的統一性の崩壊を affliction の最終形象として提示する。ヴェイユ「affliction」論での「afflictionの三層（身体的・社会的・精神的）」──「sicut aqua effusus（水のように）」という身体的解体が affliction の最も深い層として機能する。バタイユ『エロティシズム（L'Érotisme, 1957）』「器官なき身体（corps sans organes）──持続的自己の崩壊として」──「sicut aqua effusus」という「流れ出し（effusio）」がバタイユ的「脱自（extase）」の身体的形象として読める：自己の境界の溶解・エクスタシーとしての身体の水化。シオラン『解体の概要（Précis de décomposition, 1949）』「われわれの本質は解体することだ（Notre essence est de se décomposer）」──「dispersa ossa / cor cera liquescens」という骨の分散・心臓の溶解がシオラン的「解体（décomposition）」の詩的形象として照応する。"
+    },
+    {
+      "paragraphId": 16,
+      "type": "commentary",
+      "anchor": "Aruit tamquam testa virtus mea, et lingua mea adhaesit faucibus meis: et in pulverem mortis deduxisti me.",
+      "body": "「私の力は陶器の破片のように乾いた（tamquam testa)──舌は喉に張り付いた──あなたは私を死の塵に引き降ろした（in pulverem mortis deduxisti me）」──身体的崩壊の第二段階として「乾燥（arescere）」と「沈降（deducere）」が加わる。「tamquam testa（陶器の破片のように）」──ヨブ記第2章v.8「testa saniem radebat（陶器の破片で膿を掻き落とした）」との照応：ヨブが「陶器の破片を使う」のに対し、詩篇の詩人自身が「陶器の破片のようになる」──afflictionの道具と affliction の受難者の同型化。「in pulverem mortis deduxisti me（死の塵に引き降ろした）」──「deducere（引き降ろす・引き導く）」という動詞が神の行為として提示される：affliction の最終的原因が神の「引き降ろし（deductio）」として帰属される。コヘレト第12章v.7「revertatur pulvis in terram（塵は地へと戻る）」という自然的「塵への帰還」が、ここでは神による能動的「引き降ろし（deduxisti）」として再定式化される。デリダ「コーラ（Khôra, 1993）」での「場所の問い──記憶も約束もなく、ただ場所だけ」──「in pulverem mortis（死の塵に）」という最終的な「場所（locus）」への沈降がデリダ的「コーラ（受容する場所）」として読める：「死の塵」が意味を持たない純粋な「場所性（choricity）」として機能する。",
+      "targetId": "hieronymus_iob_2",
+      "targetParagraphId": 8
+    },
+    {
+      "paragraphId": 17,
+      "type": "commentary",
+      "anchor": "Quoniam circumdederunt me canes multi; concilium malignantium obsedit me. Foderunt manus meas et pedes meos;",
+      "body": "「多くの犬が私を取り囲み（circumdederunt me canes multi）──悪をなす者たちの集いが私を包囲した──私の手と足を穿った（Foderunt manus meas et pedes meos）」──詩篇21篇の最も論争的な節。「Foderunt manus meas et pedes meos（私の手と足を穿った）」──ヘブライ語原典「כָּאֲרִי（kāʾărî）」は「獅子のように」と読む写本と、「穿った（kārû）」と読む写本に分かれる：ウルガータは「Foderunt（穿った）」を採用し、これがキリスト教における十字架釘付けの予型として解釈されてきた決定的な訳選択。「concilium malignantium（悪をなす者たちの集い）」──詩篇の「集会（concilium）」が v.23の「ecclesia（集会）」と対義的に配置される：悪の「集い（concilium）」に対して讃美の「集会（ecclesia）」という転換が詩篇全体の構造を先取りする。ドストエフスキー『白痴（Идиот, 1869）』でのホルバイン「死せるキリスト（Der tote Christus）」をめぐる対話──「このような絵を見たなら信仰は失われる（Перед этой картиной и вера пропасть может）」という応答は、「Foderunt manus meas et pedes（手と足を穿った）」という身体的afflictionの完全な描写への受容の問題として継承される。"
+    },
+    {
+      "paragraphId": 18,
+      "type": "commentary",
+      "anchor": "dinumeraverunt omnia ossa mea. Ipsi vero consideraverunt et inspexerunt me.",
+      "body": "「私の骨をすべて数え上げた（dinumeraverunt omnia ossa mea）──彼ら自身は考え、私を眺めた（consideraverunt et inspexerunt me）」──afflictionの「視線（visus）」の問題として際立つ節。「dinumeraverunt omnia ossa mea（骨をすべて数え上げた）」──ヨブ記第7章v.16「Tu quidem gressus meos dinumerasti（あなたは私の歩みを数えた）」という神の計数行為と同一動詞（dinumerare）：神の「歩みを数える」という行為が、ここでは敵の「骨を数える」という行為として反転される。「consideraverunt et inspexerunt me（考え、私を眺めた）」──afflictionにおける「まなざし（regard）」の暴力：ヴェイユ「La Violence」章での「afflicted person is treated as a thing（afflictionを受けた者は物として扱われる）」という命題が、「考え、眺める（consideraverunt et inspexerunt）」という観察対象化として具現化される。フーコー『監視と処罰（Surveiller et punir, 1975）』のパノプティコン的まなざし──「dinumeraverunt / consideraverunt / inspexerunt（数え上げた・考えた・眺めた）」という観察の三段階が監視権力の視線として読める。"
+    },
+    {
+      "paragraphId": 19,
+      "type": "commentary",
+      "anchor": "Diviserunt sibi vestimenta mea, et super vestem meam miserunt sortem.",
+      "body": "「私の衣を彼らの間で分け（diviserunt sibi vestimenta mea）、私の衣の上でくじを引いた（miserunt sortem）」──詩篇21篇で最も文学的・神学的に問題含みの節。ヨハネ福音書19:24によって十字架処刑の場面でこの詩篇が成就されたとして引用される：「これは聖書が成就するためであった、『彼らは私の衣を分け合い、私の衣の上でくじを引いた』と言われている」。「vestimenta mea（私の衣）」──身体を覆うものとしての衣が「剥ぎ取られる（dividi）」ことで、v.7の「vermis（虫）」──外皮を持たない生物──への転落が完成する：衣の分配が自己の「裸性（nuditas）」の確認として機能する。コヘレト第5章v.14「Sicut egressus est nudus de utero matris suae, sic revertetur（裸で出たように、そのように戻る）」というヨブ記的「裸の帰還」が、ここでは他者の手によって「剥ぎ取られる」afflictionとして再現される。デリダ「衣について（Du vêtement, 1991）」での「外皮・皮膚・衣の脱去と暴露」──「vestimenta diviserunt（衣を分けた）」という行為が、自己のアイデンティティの物質的保護の剥奪として、デリダ的「脱衣（dévêtement）」の政治的・存在論的問題として読める。"
+    },
+    {
+      "paragraphId": 25,
+      "type": "commentary",
+      "anchor": "nec avertit faciem suam a me: et cum clamarem ad eum, exaudivit me.",
+      "body": "「神は御顔を私から背けなかった──私が向かって叫んだとき、神は私を聞いた（exaudivit me）」──詩篇21篇の神学的転換の決定的宣言。「non avertit faciem suam a me（御顔を背けなかった）」──v.2の「quare me dereliquisti（なぜ見捨てたのか）」という「遺棄」の告発が、v.25の「御顔を背けなかった」という「現前」の確認として解決される逆説：「遺棄（derelictio）」と「現前（praesentia）」が同一の経験の異なる認識として並存する。「cum clamarem ad eum, exaudivit me（叫んだとき、神は聞いた）」──v.3「clamabo per diem, et non exaudies（昼に叫ぶ、しかし聞かない）」という「聞かない（non exaudies）」の反転として「exaudivit（聞いた）」が来る：未来形の「非聞」から過去完了形の「聞いた」への時制の転換が経験の質的変容を示す。ブランショ『書物の不在（L'Espace littéraire, 1955）』での「応答の不在において応答が来る──インスピレーションは沈黙の中にある」──「不聞（non exaudies）」の後の「聞いた（exaudivit）」という転換がブランショ的「インスピレーションの逆説」として照応する。",
+      "targetId": "weil_accepter_le_vide",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 27,
+      "type": "commentary",
+      "anchor": "Edent pauperes, et saturabuntur, et laudabunt Dominum qui requirunt eum: vivent corda eorum in saeculum saeculi.",
+      "body": "「貧しい者たちは食べ、満たされ……彼らの心は世々に生きるだろう（vivent corda eorum in saeculum saeculi）」──詩篇21篇の第三ブロック（v.23–32）における「共同体的讃美の転換」の頂点。「Edent pauperes（貧しい者たちは食べる）」──コヘレト第9章v.7「Vade ergo, et comede in laetitia panem tuum（行け、喜びとともにパンを食べよ）」という「食べること」の享受の勧めが、ここでは「貧しい者たちの充足」という社会的正義の実現として現れる。「vivent corda eorum in saeculum saeculi（彼らの心は世々に生きる）」──個人の affliction（v.2–22）から共同体の生命（v.23–32）への移行を「世々（in saeculum saeculi）」という永続的時間として確認する。ヴェイユ「affliction」論での「affliction が赦された者のみが他者の affliction に応答できる」──「Edent pauperes（貧しい者が食べる）」という行為が、affliction を経た者の「他者への配慮（attention à autrui）」の詩的実現として読める。"
+    },
+    {
+      "paragraphId": 32,
+      "type": "commentary",
+      "anchor": "Annuntiabitur Domino generatio ventura; et annuntiabunt caeli justitiam ejus populo qui nascetur, quem fecit Dominus.",
+      "body": "「来たる世代は主に告げ知らされ──天は生まれてくる民に神の義を告げ知らせるだろう──主が造られた民に（populo qui nascetur, quem fecit Dominus）」──詩篇21篇の最終節にして、affliction から讃美への転換の究極的定式。「generatio ventura（来たる世代）」──コヘレト第1章v.4「Generatio praeterit, et generatio advenit（世代は過ぎ去り、世代は来る）」という世代の循環が、ここでは「annuntiatio（告げ知らせ）」という言語的継承の運動として肯定的に再定式化される。「annuntiabunt caeli justitiam ejus（天は神の義を告げ知らせる）」──コヘレト第8章v.17「nullam possit homo invenire rationem（人は理を見出せない）」という認識論的限界が、ここでは「天が告げ知らせる（annuntiabunt caeli）」という超人間的認識の伝達として超克される。詩篇21篇全体の弁証法的構造の最終確認：「quare me dereliquisti（なぜ見捨てたのか）」という遺棄の問い（v.2）→「in te projectus sum（あなたに投げかけられた）」という誕生の神への委ね（v.11）→「exaudivit me（神は聞いた）」という転換（v.25）→「populo qui nascetur, quem fecit Dominus（主が造られた、生まれてくる民に）」という創造の継続的告知（v.32）という円環。ブランショ『来たるべき書物（Le Livre à venir, 1959）』での「来たるべき（à venir）」という時制──「generatio ventura（来たる世代）」という未来の共同体への「告知（annuntiatio）」が、ブランショ的「来たるべき書物」という約束された読者への語りかけとして照応する。"
+    }
+  ]
+}
