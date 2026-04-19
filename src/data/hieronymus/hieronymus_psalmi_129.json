@@ -1,0 +1,152 @@
+{
+  "id": "hieronymus_psalmi_129",
+  "title": "Psalmi CXXIX — De profundis clamavi",
+  "author": "Eusebius Sophronius Hieronymus",
+  "source": "Biblia Sacra Vulgata, Psalmi CXXIX (LXX/Vulgata numbering). Bible Gateway: https://www.biblegateway.com/passage/?search=Psalm+130&version=VULGATE",
+  "year": "Antiquitas",
+  "firstPublication": "Vulgata Latina, c. 382–405 AD（ヒエロニムス訳）",
+  "difficulty": "中級",
+  "category": "hieronymus",
+  "originalLang": "la-LA",
+  "modernRelevance": "★★★★★",
+  "context": "詩篇第129篇（ヘブライ語聖書・英語聖書番号では第130篇。ウルガータ・七十人訳では129篇）。「昇階の歌（Canticum graduum）」と副題される15の「巡礼の歌」の第六篇。「De profundis clamavi ad te, Domine（深淵よりあなたに向かって叫んだ、主よ）」という冒頭句は西洋文学史上最も広く引用される詩篇の一語として、ラテン語的教養の基盤に刻まれた。全8節の短い詩篇が四つの主題的運動を持つ：①「深淵からの叫び（v.1–2）」──afflictionの空間（profundus）から神への呼びかけ；②「不正の前での神への依存（v.3–4）」──「あなたが不正を記録するなら、誰が耐えられるか（quis sustinebit?）」；③「魂の待機（v.5–6）」──「暁の番人が暁を待つように（a custodia matutina usque ad noctem）」；④「イスラエルへの勧め（v.7–8）」──「主のもとに慈しみがある（apud Dominum misericordia）」。この詩篇はキリスト教の葬儀礼拝・煉獄への祈り（レクイエム）の核心的テキストとして定着し、ボードレール「深淵より（De profundis clamavi）」、ヴィリエ・ド・リラダン、オスカー・ワイルド『獄中記（De Profundis, 1905）』、トラークル「De Profundis」というタイトルを持つ詩篇、クリスティーナ・ロセッティ「De Profundis」という一連の受容テキストを生んだ。VANITISMEコーパスではトラークル・ロセッティの当該作品が既収録。",
+  "keywords": [
+    "De profundis",
+    "深淵からの叫び",
+    "Canticum graduum",
+    "quis sustinebit",
+    "propitiatio",
+    "custodia matutina",
+    "待機",
+    "misericordia",
+    "redemptio",
+    "葬儀詩篇"
+  ],
+  "relatedTexts": [
+    "trakl_de_profundis",
+    "rossetti_de_profundis",
+    "baudelaire_spleen",
+    "hieronymus_iob_3",
+    "hieronymus_iob_7",
+    "hieronymus_iob_19",
+    "hieronymus_ecclesiastes_1",
+    "weil_accepter_le_vide",
+    "weil_necessite",
+    "weil_effacement",
+    "wilde_e_tenebris",
+    "dowson_a_requiem",
+    "juan_de_la_cruz_noche_oscura"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "verses": "v.1",
+      "original": "Canticum graduum. De profundis clamavi ad te, Domine;",
+      "provisionalTranslation": "昇階の歌。深淵よりあなたに向かって叫んだ、主よ。"
+    },
+    {
+      "id": 2,
+      "verses": "v.2",
+      "original": "Domine, exaudi vocem meam. Fiant aures tuae intendentes in vocem deprecationis meae.",
+      "provisionalTranslation": "主よ、私の声を聞いてください。私の懇願の声に耳を傾けてください。"
+    },
+    {
+      "id": 3,
+      "verses": "v.3",
+      "original": "Si iniquitates observaveris, Domine, Domine, quis sustinebit?",
+      "provisionalTranslation": "もしあなたが不正を記録されるなら、主よ、主よ、誰が耐えられるでしょうか。"
+    },
+    {
+      "id": 4,
+      "verses": "v.4",
+      "original": "Quia apud te propitiatio est; et propter legem tuam sustinui te, Domine. Sustinuit anima mea in verbo ejus:",
+      "provisionalTranslation": "なぜならあなたのもとに宥めがあるから。あなたの律法のゆえに私はあなたを待ち続けた、主よ。私の魂はその言葉の中で待ち続けた。"
+    },
+    {
+      "id": 5,
+      "verses": "v.5",
+      "original": "speravit anima mea in Domino.",
+      "provisionalTranslation": "私の魂は主に望みを持った。"
+    },
+    {
+      "id": 6,
+      "verses": "v.6",
+      "original": "A custodia matutina usque ad noctem, speret Israel in Domino.",
+      "provisionalTranslation": "暁の番所から夜まで──イスラエルは主に望みを持て。"
+    },
+    {
+      "id": 7,
+      "verses": "v.7",
+      "original": "Quia apud Dominum misericordia, et copiosa apud eum redemptio.",
+      "provisionalTranslation": "なぜなら主のもとに慈しみがあり、豊かな贖いがある。"
+    },
+    {
+      "id": 8,
+      "verses": "v.8",
+      "original": "Et ipse redimet Israel ex omnibus iniquitatibus ejus.",
+      "provisionalTranslation": "そして神ご自身がイスラエルをすべての不正から贖うだろう。"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "glossary",
+      "anchor": "Canticum graduum. De profundis clamavi ad te, Domine;",
+      "body": "「昇階の歌──深淵よりあなたに向かって叫んだ、主よ（De profundis clamavi ad te, Domine）」──詩篇129篇の冒頭句にして、西洋文学史上最も広く受容されたラテン語フレーズの一つ。「Canticum graduum（昇階の歌）」──ヘブライ語「שִׁיר הַמַּעֲלֹות（shîr ha-maʿalôt）」の訳。エルサレム神殿の「階段（maʿalôt）」を登りながら歌われた巡礼詩篇15篇（詩篇119〔120〕〜133〔134〕）の一つとして位置づけられる：「昇ること（ascensus）」という上昇運動が「深淵から（de profundis）」という下降の空間からの叫びと逆説的な対を成す。「profundis（深淵より）」──「profundus（深い・底知れない）」の複数与格・奪格：単数では「深淵（profundum）」だが複数形が「深淵の数多さ・重層性」を示唆する。afflictionの空間的形象として「深淵（profundis）」はヨブ記第7章v.12「cetus（怪物）」・第28章v.14「Abyssus dicit: Non est in me（深淵は言う：私の中にない）」という深淵のモチーフと連続する。オスカー・ワイルド『獄中記（De Profundis, 1905）』──レディング刑務所での獄中書簡（1897年2月執筆、1905年刊）のタイトルとして採用。ワイルドは「De profundis」という言葉を「苦悩の深淵から発せられる証言」として選択し、「苦悩は教育の一形態（Sorrow is the supreme emotion of which man is capable）」という逆説的美学として展開する。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "intertextual",
+      "anchor": "De profundis clamavi ad te, Domine;",
+      "body": "ボードレール「深淵より（De profundis clamavi）」（『悪の華』第30番）──詩篇129篇のタイトルをそのままフランス語詩のタイトルとして採用し、詩篇の「神への叫び」を恋愛的・実存的絶望の叫びへと変容させた。「J'implore ta pitié, Toi, l'unique que j'aime（あなたの憐れみに嘆願する、あなたを、私が愛する唯一の者を）」という冒頭が詩篇v.2「Domine, exaudi vocem meam（主よ、私の声を聞いてください）」の世俗的・官能的変奏として機能する。詩篇の「主（Dominus）」への叫びがボードレールにおいては「冷たい太陽」と「氷の法律」に支配された女性への絶望的愛として転換される──神学的afflictionが審美的afflictionへ。トラークル「De Profundis」との接続：トラークルは同一タイトルで、詩篇の「深淵からの叫び」を冬の夜の荒野における実存的孤独として詩化する──「Niemand kennt diesen dunklen Weg（誰もこの暗い道を知らない）」という孤立がヨブ記第19章v.13–19の「七層的孤立」と照応する。クリスティーナ・ロセッティ「De Profundis」──詩篇の「主への叫び」を待機の詩として変容させる：「Oh why is heaven built so far, / Oh why is earth set so remote?（なぜ天はこれほど遠くに建てられ、大地はこれほど遠くに置かれているのか）」。",
+      "targetId": "trakl_de_profundis",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "Domine, exaudi vocem meam. Fiant aures tuae intendentes in vocem deprecationis meae.",
+      "body": "「主よ、私の声を聞いてください──私の懇願の声に耳を傾けてください（Fiant aures tuae intendentes）」──v.1の「clamavi（叫んだ）」という過去完了から「exaudi（聞いてください）」という命令形・現在形への転換が、詩篇全体の時間構造を設定する：過去の叫びが現在の懇願として持続している。「Fiant aures tuae intendentes（耳を傾けてください）」──「intendere（傾ける・向ける）」という動詞の命令形：神の「耳（aures）」が懇願の声へと「向かうこと（intendere）」が要請される。ヨブ記第7章v.7「Memento quia ventus est vita mea（覚えてください──私の命は風だということを）」という神への直接命令形「Memento（覚えよ）」との照応：どちらも affliction の中で神の注意・記憶・傾聴を要求する。ヴェイユ「Accepter le vide」§1「La grâce comble, but elle ne peut entrer que là où il y a un vide（恩寵は満たす、しかし空虚がある場所にしか入れない）」──「exaudi（聞いてください）」という祈りが「空虚（vide）」を作り出す行為として読める：聞かれることへの待機が恩寵の前提条件としての空虚を形成する。",
+      "targetId": "weil_accepter_le_vide",
+      "targetParagraphId": 1
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "Si iniquitates observaveris, Domine, Domine, quis sustinebit?",
+      "body": "「もしあなたが不正を記録されるなら、主よ、主よ──誰が耐えられるでしょうか（Domine, Domine, quis sustinebit?）」──詩篇129篇の神学的核心命題。「Domine, Domine（主よ、主よ）」という二重の呼びかけが強度の頂点を刻む。「Si iniquitates observaveris（不正を記録するなら）」──「observare（記録する・監視する）」という動詞がヨブ記第7章v.20「custos hominum（人間の番人）」という神の「監視者」的規定と照応する：もし神が「記録者（observator）」として機能するなら、affliction の理由が明確になりすぎて誰も耐えられない。「quis sustinebit（誰が耐えられるか）」──修辞的問いとして「誰も耐えられない（nemo sustinebit）」という答えを前提する。コヘレト第7章v.20「non est enim homo justus in terra qui faciat bonum et non peccet（地上に罪を犯さない正しい人はいない）」という普遍的罪性の命題がここで「quis sustinebit（誰が耐えられるか）」という問いとして反響する。ワイルド『獄中記』「われわれはみな自分よりも大きなものの中に生きている（We are all in the gutter, but some of us are looking at the stars）」──「quis sustinebit」という問いが示す普遍的罪性の前での人間の平等性をワイルドは審美的逆転として活用する。"
+    },
+    {
+      "paragraphId": 4,
+      "type": "commentary",
+      "anchor": "Quia apud te propitiatio est; et propter legem tuam sustinui te, Domine. Sustinuit anima mea in verbo ejus:",
+      "body": "「なぜならあなたのもとに宥めがある（Quia apud te propitiatio est）──あなたの律法のゆえに私はあなたを待ち続けた。私の魂はその言葉の中で待ち続けた（Sustinuit anima mea in verbo ejus）」──v.3の「誰が耐えられるか」という絶望的問いへの逆説的応答。「propitiatio（宥め・和解）」──ヘブライ語「הַסְּלִיחָה（ha-seliḥāh）」：「赦し（forgiveness）」を意味する。神が「記録するなら誰も耐えられない」という罪の重さと「しかし神のもとに宥めがある（apud te propitiatio）」という赦しの可能性が逆接なしに並置される──v.3の「quis sustinebit」への答えが「apud te propitiatio est」という赦しの可能性として与えられる。「Sustinuit anima mea in verbo ejus（私の魂はその言葉の中で待ち続けた）」──「sustinere（支え続ける・耐える・待つ）」の反復（v.3「sustinebit」→v.4「sustinui」→v.4「Sustinuit」）が詩篇全体の待機の主題的動詞として機能する。ヴェイユ「Accepter le vide」§5「Qui supporte un moment le vide, ou reçoit le pain surnaturel, ou tombe（空虚を耐え忍ぶ者は、超自然のパンを受け取るか、倒れるかだ）」──「Sustinuit（耐え続けた）」という詩篇の動詞がヴェイユ的「空虚を耐え忍ぶこと（supporter le vide）」の聖書的定式として読める。",
+      "targetId": "weil_accepter_le_vide",
+      "targetParagraphId": 5
+    },
+    {
+      "paragraphId": 6,
+      "type": "commentary",
+      "anchor": "A custodia matutina usque ad noctem, speret Israel in Domino.",
+      "body": "「暁の番所から夜まで──イスラエルは主に望みを持て（A custodia matutina usque ad noctem）」──詩篇129篇の最も詩的な節にして、「待機（expectatio）」の時間的定式。「a custodia matutina（暁の番所から）」──「custodia matutina（暁の見張り）」は神殿の夜番が夜明けを待ちながら立つ見張り台を指す：暗闇の中で光を待つ見張り人の姿が、affliction の中で神を待つ魂の形象として機能する。「usque ad noctem（夜まで）」──「暁の番所から夜まで」という時間の全体性：一昼夜を超えた待機として、あるいは「暁の番所（夜が明けるまでの暗闇）」から「夜（再び暗闇）」までの終わりなき循環として。ヴェイユ「Celui qu'il faut aimer est absent」での「attente（待機）」──「Le regard et l'attente, c'est l'attitude qui correspond au beau（眼差しと待機、それが美に対応する態度）」という待機の美学がここで「a custodia matutina（暁の番所から）」という詩的形象として先行する。ヨハネの十字架「noche oscura」の「暗夜を通る魂の旅」との照応──「custodia matutina（暁を待つ番所）」が「noche oscura（暗夜）」という試練の時間として共鳴する。ロセッティ「De Profundis」の「waiting for the dawning（夜明けを待つ）」という待機の詩学の聖書的起源がここにある。",
+      "targetId": "rossetti_de_profundis",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 7,
+      "type": "commentary",
+      "anchor": "Quia apud Dominum misericordia, et copiosa apud eum redemptio.",
+      "body": "「なぜなら主のもとに慈しみがあり、豊かな贖いがある（copiosa apud eum redemptio）」──詩篇の神学的転換点。v.1–6の個人的な嘆き・待機から、v.7–8では「Israel（イスラエル）」という共同体への呼びかけへと拡張される。「misericordia（慈しみ）」──ヘブライ語「חֶסֶד（ḥesed）」の訳：神とイスラエルとの契約的愛・恵みの深さ。「copiosa redemptio（豊かな贖い）」──「copiosa（豊かな・あふれる）」という形容詞が贖いの量的過剰性を示す：afflictionの深さ（profundis）に対して、贖いの豊かさ（copiosa）が対称的に提示される──「深淵（profundis）」の深さに対応する「豊かな（copiosa）」という量の対比。ヨブ記第19章v.25「redemptor meus vivit（私の贖い主は生きている）」という個人的贖い主（redemptor）への確信が、ここでは「copiosa redemptio（豊かな贖い）」という共同体的・豊穣的贖いとして拡張される。",
+      "targetId": "hieronymus_iob_19",
+      "targetParagraphId": 25
+    },
+    {
+      "paragraphId": 8,
+      "type": "commentary",
+      "anchor": "Et ipse redimet Israel ex omnibus iniquitatibus ejus.",
+      "body": "「そして神ご自身がイスラエルをすべての不正から贖うだろう（ipse redimet Israel ex omnibus iniquitatibus ejus）」──詩篇129篇の結語にして、詩篇全体の神学的円環の完成。「ipse redimet（神ご自身が贖う）」──「ipse（ご自身で）」という強調の代名詞が贖いの行為者を神に一元化する：人間の「sustinere（待ち続ける）」という応答の後に、神の「redimere（贖う）」という行為が到来する。「ex omnibus iniquitatibus ejus（すべての不正から）」──v.3の「Si iniquitates observaveris（不正を記録するなら）」の「iniquitates（不正）」が、ここでは「befreien von（から解放する）」という贖いの対象として回帰する：記録された（observatae）不正から贖われる（redemptio）という円環が詩篇を閉じる。ヴェイユ「Effacement（消去）」章の「私を消すこと──そのとき神が語る（Que je disparaisse…Dieu parle）」──詩篇の「ipse redimet（神ご自身が贖う）」という神の主権的行為が、ヴェイユ的「自己の消去によって可能になる神の語り」として逆説的に読める。トラークル「De Profundis」の「Ein Schwein pfeift im Graben（溝で豚が泣く）」という詩篇タイトルの逆転的使用──詩篇の「de profundis（深淵より）」が高貴な霊的叫びであるのに対し、トラークルは冬の荒廃した農村風景を「de profundis」として提示する：詩篇の神学的上昇運動（「昇階の歌」）をトラークルは下降・解体の運動として転倒させる。",
+      "targetId": "trakl_de_profundis",
+      "targetParagraphId": null
+    }
+  ]
+}
