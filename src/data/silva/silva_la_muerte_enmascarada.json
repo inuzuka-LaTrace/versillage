@@ -1,0 +1,96 @@
+{
+  "id": "silva_la_muerte_enmascarada",
+  "title": "La muerte enmascarada",
+  "author": "Medardo Ángel Silva",
+  "source": "Poesías escogidas (1926) Wikisource: https://es.wikisource.org/wiki/La_muerte_enmascarada",
+  "year": "1918",
+  "firstPublication": "El árbol del bien y del mal, Guayaquil, 1918",
+  "difficulty": "中級",
+  "category": "silva",
+  "originalLang": "es-ES",
+  "modernRelevance": "★★★★★",
+  "context": "メダルド・アンヘル・シルバ（Medardo Ángel Silva, 1898–1919）の詩篇。ソネット形式（4・4・3・3行）。「仮面をつけた死（La muerte enmascarada）」というタイトルがバロック的ヴァニタスの伝統──死の擬人化（personificación de la Muerte）──を直接継承する。詩の構造は典型的なソネット的逆転（volta）を持つ：第一四行詩が「死の擬人的描写」、第二四行詩が「話者自身の心理的反応」、第一三行詩が「神経衰弱による幻視の状況」、第二三行詩が「鏡に映る自分の死の顔（mi faz de aparecido）」という最終的な自己同一化として閉じる。「la Enmascarada（仮面の者）」という死の固有名詞化──大文字の「E」が死を「登場人物（personaje）」として固有名詞化する──が詩全体を通じて維持される。「neurastenia（神経衰弱）」という19世紀末の医学的語彙の詩的使用が当時のモデルニスモ詩人たちの「退廃（decadencia）」の美学と実存的afflictionの交点を示す。結語「mi faz de aparecido（幽霊の私の顔）」はシルバ自身の21歳での自殺（1919年）と遡及的に照応し、詩篇が預言的自己言及として読まれる理由となった。",
+  "keywords": [
+    "la Enmascarada",
+    "muerte personificada",
+    "neurastenia",
+    "abismo",
+    "aparecido",
+    "faz",
+    "espejos",
+    "死の擬人化",
+    "バロック的ヴァニタス",
+    "鏡の中の死"
+  ],
+  "relatedTexts": [
+    "silva_de_profundis_clamavi",
+    "silva_la_noche",
+    "silva_reminiscencia_siglo_xviii",
+    "baudelaire_danse_macabre",
+    "baudelaire_spleen",
+    "trakl_de_profundis",
+    "hieronymus_psalmi_87",
+    "hieronymus_ecclesiastes_1",
+    "rodenbach_devant_tete_de_mort"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "verses": "v.1–4",
+      "original": "Silenciosa y eternamente va a nuestro lado,\ncon paso sin rumor, enigmático y ledo,\ngrávido de misterios el rostro enmascarado,\nseguido del horror, la tiniebla y el miedo.",
+      "provisionalTranslation": "静かに、永遠に私たちの隣を歩く、\n音もなく、謎めいた、陽気な足取りで、\n謎に満ちた仮面をつけた顔で、\n恐怖と暗闇と恐れを従えながら。"
+    },
+    {
+      "id": 2,
+      "verses": "v.5–8",
+      "original": "Pasan las horas dulces en cortejo rosado,\ny sonríen. Yo intento sonreír... y no puedo,\nporque, al saberme siempre por ella acompañado,\ncomo quien ve un abismo súbitamente quedo.",
+      "provisionalTranslation": "甘い時間たちが薔薇色の行列を成して過ぎ去り、\n微笑む。私も微笑もうとする……しかしできない、\nなぜなら、いつも彼女に伴われていると知るとき、\n深淵を見た者のように私は突然止まる。"
+    },
+    {
+      "id": 3,
+      "verses": "v.9–11",
+      "original": "Cuando pueblan la estancia las horribles visiones\nque hace la neurastenia surgir en los rincones,\nentre los cortinajes de azul desconocido,",
+      "provisionalTranslation": "恐ろしい幻視たちが部屋を満たすとき、\n神経衰弱が隅から隅に呼び起こすそれらが、\n未知の青のカーテンの間に、"
+    },
+    {
+      "id": 4,
+      "verses": "v.12–14",
+      "original": "¡ay, apagad las luces y velad los espejos!\nTemo ver en sus lunas de borrosos reflejos,\njunto a la Enmascarada, mi faz de aparecido.",
+      "provisionalTranslation": "ああ、灯りを消して、鏡に布をかぶせてくれ！\nぼやけた反射のその鏡面に見えることを恐れる、\n仮面の者のそばに、幽霊の私の顔が。"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "glossary",
+      "anchor": "Silenciosa y eternamente va a nuestro lado,\ncon paso sin rumor, enigmático y ledo,\ngrávido de misterios el rostro enmascarado,\nseguido del horror, la tiniebla y el miedo.",
+      "body": "「静かに、永遠に私たちの隣を歩く（Silenciosa y eternamente va a nuestro lado）──謎に満ちた仮面をつけた顔（grávido de misterios el rostro enmascarado）──恐怖と暗闇と恐れを従えながら（seguido del horror, la tiniebla y el miedo）」──詩篇全体の主役「仮面の死（La muerte enmascarada）」の導入的描写。「a nuestro lado（私たちの隣に）」──複数形「nosotros（私たち）」による連帯：「De profundis clamavi」の「nuestras almas（私たちの魂）」と同一の複数形──死が個人的恐怖ではなく人類共通の条件として語られる。「ledo（陽気な）」──「陽気な・喜ばしい」を意味するスペイン語の古語：「horror / tiniebla / miedo（恐怖・暗闇・恐れ）」という三つの否定的語彙の直前に「ledo（陽気な）」という逆説的形容詞が置かれる──死の「陽気な足取り（paso ledo）」という矛盾語法がバロック的「死の舞踏（danza macabra）」の系譜を継承する。ボードレール「Danse macabre」の骸骨の擬人化的描写との照応：どちらも死を「陽気・軽快」という逆説的形容と「恐怖・暗闇」という直接的形容の両方で定義する。「grávido de misterios（謎に満ちた）」──「grávido（重い・充満した）」というラテン語的語彙：死の「顔（rostro）」が「仮面（enmascarado）」によって覆われると同時に「謎（misterios）」に満ちているという二重の不可視性。コヘレト第1章v.8「Non potest eas homo explicare sermone（人はそれを言葉で説明することができない）」という説明不可能性の定式が死の「謎（misterios）」として詩的に具現化される。",
+      "targetId": "hieronymus_ecclesiastes_1",
+      "targetParagraphId": 8
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "Pasan las horas dulces en cortejo rosado,\ny sonríen. Yo intento sonreír... y no puedo,\nporque, al saberme siempre por ella acompañado,\ncomo quien ve un abismo súbitamente quedo.",
+      "body": "「甘い時間たちが薔薇色の行列を成して過ぎ去り、微笑む──私も微笑もうとする……しかしできない（intento sonreír... y no puedo）──深淵を見た者のように私は突然止まる（como quien ve un abismo súbitamente quedo）」──詩の最初の転換点：外界の「甘さ」と話者の実存的「停止」の対比。「horas dulces en cortejo rosado（甘い時間たちの薔薇色の行列）」──「dulce（甘い）・rosado（薔薇色の）」という官能的色彩的語彙：「Reminiscencia siglo XVIII」§1「del dieciochesco vestido de seda（18世紀風の絹の衣）」という審美的世界が「horas dulces」として死の隣に並置される。「intento sonreír... y no puedo（微笑もうとする……しかしできない）」──三点リーダーによる断絶が「意志（intento）」と「不可能（no puedo）」の間に置かれる：存在論的意志の挫折としての「できない（no puedo）」。「La noche」§2「Ansío paz……¡Tan grande es mi cansancio!（平和を熱望する……疲労がこれほど大きい）」という「できない／疲労」の感情語とシルバ詩篇内の一貫した実存的不能感として照応する。「como quien ve un abismo súbitamente quedo（深淵を見た者のように突然止まる）」──「abismo（深淵）」というボードレール詩学の核心的語彙がスペイン語圏モデルニスモに継承される：「De profundis clamavi」§1「gouffre obscur（暗い深淵）」というボードレール的深淵が「ver un abismo（深淵を見る）」という視覚的体験として変容される。",
+      "targetId": "baudelaire_de_profundis_clamavi",
+      "targetParagraphId": 1
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "Cuando pueblan la estancia las horribles visiones\nque hace la neurastenia surgir en los rincones,\nentre los cortinajes de azul desconocido,",
+      "body": "「恐ろしい幻視たちが部屋を満たすとき（cuando pueblan la estancia las horribles visiones）──神経衰弱が隅々に呼び起こすそれらが（que hace la neurastenia surgir en los rincones）──未知の青のカーテンの間に（entre los cortinajes de azul desconocido）」──詩のソネット的転換（volta）として第三連が始まり、最終結語への前置きを形成する。「neurastenia（神経衰弱）」──19世紀末の精神医学用語：アメリカの医師ジョージ・ビアード（George Beard）が1869年に命名した「神経系の疲弊」症候群で、19世紀末の退廃（decadence）的芸術家・知識人に広く診断・自己診断された。詩に医学的語彙が使われることで、afflictionが個人的・感情的苦悩としてではなく文化的・病理的状態として位置づけられる：「La noche」§2「cansancio de todo lo que existe（すべての存在への疲労）」と同一の疲弊の医学的変奏として。「horribles visiones……surgir en los rincones（隅々に現れる恐ろしい幻視）」──「rincones（隅）」という建築的・心理的空間：部屋の「隅」という最も暗い・最も小さい空間から幻視が「surgir（出現する）」という空間的恐怖の構造。「cortinajes de azul desconocido（未知の青のカーテン）」──「azul desconocido（未知の青）」：「Reminiscencia siglo XVIII」§3の「sombra azul en los kioskos galantes（雅なキオスクの青い影）」という審美的な「青」が、ここでは「desconocido（未知の）」という不安的修飾によって恐怖の色彩に転換される──同一の「azul（青）」がシルバ詩篇内で審美的空間と恐怖的空間の両方を担う。",
+      "targetId": "silva_la_noche",
+      "targetParagraphId": 2
+    },
+    {
+      "paragraphId": 4,
+      "type": "glossary",
+      "anchor": "¡ay, apagad las luces y velad los espejos!\nTemo ver en sus lunas de borrosos reflejos,\njunto a la Enmascarada, mi faz de aparecido.",
+      "body": "「ああ、灯りを消して、鏡に布をかぶせてくれ（apagad las luces y velad los espejos）──仮面の者のそばに、幽霊の私の顔が（junto a la Enmascarada, mi faz de aparecido）」──ソネットの最終三行にして詩全体の結語。「¡ay, apagad las luces y velad los espejos!」──感嘆詞と二つの命令形による緊急の嘆願。「velar los espejos（鏡に布をかぶせる）」──ユダヤ教の「shiva（シーバー）」慣習：喪中の家では鏡に布をかぶせる──死者の霊が鏡に映らないようにという慣習の詩的転用。「lunas de borrosos reflejos（ぼやけた反射の鏡面）」──「luna（鏡の表面・月）」という二義的語彙：鏡面（luna de espejo）と月（luna）の言語的重合として「borrosos（ぼやけた）」という不明瞭さが死の映像の不確定性を示す。「junto a la Enmascarada, mi faz de aparecido（仮面の者のそばに、幽霊の私の顔）」──詩篇全体の最終語として「aparecido（幽霊・亡霊）」が置かれる：「私（yo）」が鏡の中で「幽霊（aparecido）」として自己を認識する──生者が鏡面において死者として自らを見るという存在論的逆転。「la Enmascarada（仮面の者）」の大文字は詩篇でタイトル・第一連・結語の三回として固有名詞化が完成される。シルバ自身の1919年の自殺と照らして遡及的に読まれる「mi faz de aparecido（幽霊の私の顔）」──詩が預言的自己言及として機能する。バロック期ヴァニタス絵画における「鏡と頭蓋骨」の組み合わせがシルバにおいては「la Enmascarada / mi faz de aparecido」という詩的形象として変容される。ローデンバック「Devant une tête de mort（頭蓋骨の前で）」のヴァニタス的観照との照応。",
+      "targetId": "rodenbach_devant_tete_de_mort",
+      "targetParagraphId": null
+    }
+  ]
+}
