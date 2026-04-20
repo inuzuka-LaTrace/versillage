@@ -49,6 +49,7 @@ export const CATEGORIES = {
   swinburne:                  { name: 'スウィンバーン' },
   yeats:                      { name: 'イェイツ' },
   juan_de_la_cruz:            { name: '十字架の聖ヨハネ' },
+  teresa:                     { name: 'イエスの聖テレサ' },
   hieronymus:                 { name: 'ヒエロニムス' },
 };
 
@@ -97,6 +98,7 @@ export const CAT_SHORT = {
   swinburne:               'スウィンバーン',
   yeats:                   'イェイツ',
   juan_de_la_cruz:         '十字架の聖ヨハネ',
+  teresa:                  'イエスの聖テレサ',
   hieronymus:              'ヒエロニムス',
 };
 
@@ -140,6 +142,7 @@ export const AUTHOR_COLOR_MAP = {
   hoelderlin:       { dark: 'bg-indigo-900/40 text-indigo-300', light: 'bg-indigo-100 text-indigo-800' },
   rilke:            { dark: 'bg-amber-900/40 text-amber-300',   light: 'bg-amber-100 text-amber-800' },
   juan_de_la_cruz:  { dark: 'bg-violet-900/40 text-violet-300', light: 'bg-violet-100 text-violet-800' },
+  teresa:           { dark: 'bg-red-900/40 text-red-300',      light: 'bg-red-100 text-red-800' },
   hieronymus:       { dark: 'bg-amber-900/40 text-amber-300',   light: 'bg-amber-100 text-amber-800' },
   default:          { dark: 'bg-zinc-800 text-zinc-300',       light: 'bg-stone-100 text-stone-700' }
 };
