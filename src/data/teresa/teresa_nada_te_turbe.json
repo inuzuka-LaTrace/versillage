@@ -1,0 +1,184 @@
+{
+  "id": "teresa_nada_te_turbe",
+  "title": "Nada te turbe",
+  "author": "Santa Teresa de Jesús",
+  "source": "Obras de Santa Teresa de Jesús Wikisource: https://es.wikisource.org/wiki/Nada_te_turbe",
+  "year": "1560年代頃（詩作）",
+  "firstPublication": "Obras de Santa Teresa de Jesús（没後刊行。テレサは1582年没）",
+  "difficulty": "初級",
+  "category": "teresa",
+  "originalLang": "es-ES",
+  "modernRelevance": "★★★★★",
+  "context": "イエスの聖テレサ（Santa Teresa de Jesús, 1515–1582）の詩篇。「何もあなたを乱さない（Nada te turbe）」。テレサが聖務日課書（breviario）の栞（registro）として書き付けていたとされる「letrilla（小詩）」──日常的かつ個人的な信仰の形として詩が機能していたことを示す貴重な記録。詩の形式は二部構成──序連（9行）が9つの格言的命題を凝縮し（「Solo Dios basta（ただ神のみで足りる）」に収束する）、本連（9連×3行）がその各命題を一行ずつ折り返し句として敷衍する注解詩（glosa）的構造をとる。「Nada te turbe / nada te espante（何もあなたを乱さない / 何もあなたを怖れさせない）」という二重の否定命令が序連冒頭に置かれ、詩全体の精神的トーンを設定する。テレサの三詩篇（「Vivo sin vivir en mí」・「Ayes del destierro」・「Nada te turbe」）の中で本篇のみが「死への渇望」ではなく「神への信頼による平静（serenidad）」を主題とする──神秘主義的苦悩の詩篇群とは対照的に、神の永続性・不変性・充足性への確信という肯定的・格言的な神学が展開される。「Solo Dios basta（ただ神のみで足りる）」という最終句は西洋キリスト教霊性の最もよく知られた定式の一つとなった。",
+  "keywords": [
+    "nada te turbe",
+    "solo Dios basta",
+    "paciencia",
+    "Dios no se muda",
+    "平静",
+    "letrilla",
+    "breviario",
+    "格言詩",
+    "神の充足性",
+    "信頼"
+  ],
+  "relatedTexts": [
+    "teresa_vivo_sin_vivir",
+    "teresa_ayes_del_destierro",
+    "juan_de_la_cruz_glosa_a_lo_divino",
+    "juan_de_la_cruz_noche_oscura",
+    "weil_accepter_le_vide",
+    "weil_necessite",
+    "weil_celui_quil_faut_aimer",
+    "hieronymus_ecclesiastes_1",
+    "hieronymus_psalmi_129"
+  ],
+  "paragraphs": [
+    {
+      "id": 0,
+      "verses": "preface",
+      "original": "Letrilla que llevaba por registro en su breviario",
+      "provisionalTranslation": "自らの聖務日課書の栞として書き記した小詩"
+    },
+    {
+      "id": 1,
+      "verses": "v.1–9",
+      "original": "Nada te turbe;\nnada te espante;\ntodo se pasa;\nDios no se muda,\nla paciencia\ntodo lo alcanza.\nQuien a Dios tiene,\nnada le falta.\nSolo Dios basta.",
+      "provisionalTranslation": "何もあなたを乱さない。\n何もあなたを怖れさせない。\nすべては過ぎ去る。\n神は変わらない。\n忍耐は\nすべてを達する。\n神を持つ者は\n何も欠けない。\nただ神のみで足りる。"
+    },
+    {
+      "id": 2,
+      "verses": "v.10–13",
+      "original": "Eleva tu pensamiento,\nal cielo sube,\npor nada te acongojes,\n\"nada te turbe.\"",
+      "provisionalTranslation": "思いを高く上げよ、\n天へと昇れ、\n何によっても苦悩するな、\n「何もあなたを乱さない。」"
+    },
+    {
+      "id": 3,
+      "verses": "v.14–17",
+      "original": "A Jesucristo sigue\ncon pecho grande,\ny, venga lo que venga,\n\"nada te espante.\"",
+      "provisionalTranslation": "イエス・キリストに従え\n大きな心をもって、\nそして何が来ようとも、\n「何もあなたを怖れさせない。」"
+    },
+    {
+      "id": 4,
+      "verses": "v.18–21",
+      "original": "¿Ves la gloria del mundo?\nEs gloria vana;\nnada tiene de estable,\n\"todo se pasa.\"",
+      "provisionalTranslation": "世の栄光が見えるか？\nそれは空虚な栄光。\n何も安定したものがない、\n「すべては過ぎ去る。」"
+    },
+    {
+      "id": 5,
+      "verses": "v.22–25",
+      "original": "Aspira a lo celeste,\nque siempre dura;\nfiel y rico en promesas,\n\"Dios no se muda.\"",
+      "provisionalTranslation": "天上のものを目指せ、\nそれは常に続くから。\n約束において誠実で豊か、\n「神は変わらない。」"
+    },
+    {
+      "id": 6,
+      "verses": "v.26–29",
+      "original": "Ámala cual merece\nbondad inmensa;\npero no hay amor fino\nsin \"la paciencia.\"",
+      "provisionalTranslation": "計り知れない善さが\n値するとおりに愛せよ。\nしかし真の愛はない\n「忍耐」なしには。"
+    },
+    {
+      "id": 7,
+      "verses": "v.30–33",
+      "original": "Confianza y fe viva\nmantenga el alma,\nque quien cree y espera\n\"todo lo alcanza.\"",
+      "provisionalTranslation": "信頼と生き生きとした信仰を\n魂は保て。\n信じ待ち望む者は\n「すべてを達するから。」"
+    },
+    {
+      "id": 8,
+      "verses": "v.34–37",
+      "original": "Del infierno acosado\nauque se viere,\nburlará sus furores\n\"quien a Dios tiene.\"",
+      "provisionalTranslation": "地獄に追い詰められても\nそうなろうとも、\nその激怒をあざ笑うだろう\n「神を持つ者は。」"
+    },
+    {
+      "id": 9,
+      "verses": "v.38–41",
+      "original": "Vénganle desamparos,\ncruces, desgracias;\nsiendo Dios tu tesoro\n\"nada le falta.\"",
+      "provisionalTranslation": "見捨てられ、\n十字架が来て、不幸が来ても、\n神があなたの宝であるなら\n「何も欠けない。」"
+    },
+    {
+      "id": 10,
+      "verses": "v.42–45",
+      "original": "Id, pues, bienes del mundo;\nid dichas vanas;\nauque todo lo pierda,\n\"solo Dios basta.\"",
+      "provisionalTranslation": "行け、では、世の財よ。\n行け、空虚な幸いよ。\nたとえすべてを失っても、\n「ただ神のみで足りる。」"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 0,
+      "type": "commentary",
+      "anchor": "Letrilla que llevaba por registro en su breviario",
+      "body": "「自らの聖務日課書（breviario）の栞（registro）として書き記した小詩（letrilla）」──詩の生成状況を示す副題が詩の解釈の枠組みを設定する。「breviario（聖務日課書）」──修道者が毎日定時に唱える祈祷文を収めた書物：テレサがこの詩を個人的な祈りの実践の中心に置いていたことを示す。「registro（栞）」──書物の特定のページを開くための栞として詩が機能する：詩が「記念・格言」として毎日参照される生活的文脈。「letrilla（小詩）」──短い格言的詩の形式：「Vivo sin vivir en mí」・「Ayes del destierro」の villancico 形式と同族でありながら、「letrilla」は格言性・凝縮性においてより高い。この副題により詩全体が「神秘主義的体験の詩」ではなく「日常的な信仰の実践の詩」として位置づけられる──テレサの詩篇群の中で「Nada te turbe」のみが苦悩・死への渇望を主題とせず、信頼と平静を主題とする特異性がこの「breviario の栞」という成立事情と照応する。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "glossary",
+      "anchor": "Nada te turbe;\nnada te espante;\ntodo se pasa;\nDios no se muda,\nla paciencia\ntodo lo alcanza.\nQuien a Dios tiene,\nnada le falta.\nSolo Dios basta.",
+      "body": "序連9行が詩全体の「格言的骨格（esqueleto aforístico）」を提示する──本連9連の各三行詩はこの9行の命題をそれぞれ一行ずつ折り返し句として展開する「注解詩（glosa）」的構造をとる。9命題の論理的構造：①「Nada te turbe（何もあなたを乱さない）」・②「nada te espante（何もあなたを怖れさせない）」──二重の否定命令が冒頭に置かれる。③「todo se pasa（すべては過ぎ去る）」──世界の無常性の確認。④「Dios no se muda（神は変わらない）」──神の不変性。⑤「la paciencia / todo lo alcanza（忍耐はすべてを達する）」──実践的徳目。⑥「Quien a Dios tiene / nada le falta（神を持つ者は何も欠けない）」──神の充足性。⑦「Solo Dios basta（ただ神のみで足りる）」──全命題の収束点。「Solo Dios basta」という最終句は西洋キリスト教霊性の最もよく知られた定式として独立して引用される。十字架の聖ヨハネ「Glosa a lo divino」序連「sino por un no sé qué（ただ何とも言えない何かのためだけに）」との比較──ヨハネの「no sé qué」が言語不可能な神的なものへの渇望として「否定」を通じて指示するのに対して、テレサの「Solo Dios basta」は神の充足性を肯定的・格言的に断言する：両者の神秘主義的語法の根本的差異。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "Eleva tu pensamiento,\nal cielo sube,\npor nada te acongojes,",
+      "body": "「思いを高く上げよ（eleva tu pensamiento）──天へと昇れ（al cielo sube）──何によっても苦悩するな（por nada te acongojes）」──第一命題「Nada te turbe」の展開。「Eleva……sube（上げよ……昇れ）」という二つの上昇動詞──垂直的上昇運動として「平静（serenidad）」が定義される：魂が「上（arriba）」へと向かうことで「乱れ（turbe）」から解放される。「acongojes（苦悩するな）」──「Ayes del destierro」全篇を通じて歌われた「苦悩（penas / agonía）」が、ここでは禁止命令として退けられる──テレサの詩篇群の内部で「苦悩の詩」と「平静の詩」が相補的に共存する。ボードレール「Élévation」「Envole-toi bien loin de ces miasmes morbides（これらの病的な瘴気から遠く飛び去れ）」という「上昇」の詩的命令との比較：ボードレールの上昇が「gouffre（深淵）」からの逃走として、テレサの「eleva / sube」が「turbe（乱れ）」からの解放として、同一の垂直的上昇運動が異なる動機から発する。"
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "A Jesucristo sigue\ncon pecho grande,\ny, venga lo que venga,\n\"nada te espante.\"",
+      "body": "「イエス・キリストに従え（a Jesucristo sigue）──大きな心をもって（con pecho grande）──何が来ようとも（venga lo que venga）」──第二命題「nada te espante」の展開。「con pecho grande（大きな心をもって）」──「pecho（胸・心）」という身体的語彙による「寛大さ・勇気」の定義：テレサ神学における「ánimo grande（大いなる精神）」の実践的表現。「venga lo que venga（何が来ようとも）」──接続法を用いた条件の全面的開放：いかなる事態が来ても「espante（怖れさせる）」ことはないという無条件の確言。「Ayes del destierro」§13「Mas no, dueño amado, que es justo padezca（しかし、いや、苦しむことが正しい）」という苦悩の甘受と、この「nada te espante（何も怖れさせない）」という平静の確信──テレサの神学的立場の両面として読める：苦悩を甘受しながらも怖れない、という統合的姿勢。"
+    },
+    {
+      "paragraphId": 4,
+      "type": "commentary",
+      "anchor": "¿Ves la gloria del mundo?\nEs gloria vana;\nnada tiene de estable,\n\"todo se pasa.\"",
+      "body": "「世の栄光が見えるか（ves la gloria del mundo?）──それは空虚な栄光（gloria vana）──何も安定したものがない（nada tiene de estable）」──第三命題「todo se pasa」の展開。「gloria del mundo / gloria vana（世の栄光 / 空虚な栄光）」──「gloria（栄光）」の反復による逆説：世の「栄光」は「虚栄（vanitas）」として断罪される。コヘレト第1章v.2「vanitas vanitatum, et omnia vanitas（虚無の虚無、すべては虚無）」との直接照応──ウルガータの「vanitas（虚無・虚栄）」がスペイン語で「gloria vana（空虚な栄光）」として変奏される。「nada tiene de estable（何も安定したものがない）」──コヘレト第1章v.4「Generatio praeterit, et generatio advenit（世代は過ぎ去り、世代は来る）」という世代の無常と同型の命題。「todo se pasa（すべては過ぎ去る）」──「コヘレトの結論」の肯定的再定式化として読める：コヘレトが虚無・affliction として記述した「世の無常」が、テレサにおいては「神の不変性」への信頼の根拠として肯定的に反転される。",
+      "targetId": "hieronymus_ecclesiastes_1",
+      "targetParagraphId": 4
+    },
+    {
+      "paragraphId": 5,
+      "type": "commentary",
+      "anchor": "Aspira a lo celeste,\nque siempre dura;\nfiel y rico en promesas,\n\"Dios no se muda.\"",
+      "body": "「天上のものを目指せ（aspira a lo celeste）──それは常に続くから（que siempre dura）──約束において誠実で豊か（fiel y rico en promesas）」──第四命題「Dios no se muda（神は変わらない）」の展開。「lo celeste / que siempre dura（天上のもの / それは常に続く）」──「Ayes del destierro」§6「La vida terrena / es continuo duelo: / vida verdadera / la hay solo en el cielo（地上の命は絶え間ない嘆き──真の命はただ天にのみある）」と同一の垂直的二元論が、ここでは「siempre dura（常に続く）」という永続性の肯定として提示される。「Dios no se muda（神は変わらない）」──「muda」は「mudar（変わる）」の三人称単数：神の「immutabilitas（不変性）」という神学的命題の詩的定式。マラキ書3:6「Ego enim Dominus et non mutor（私は主であり、変わらない）」というヘブライ語聖書の神の宣言の詩的変奏。コヘレト第1章v.9「Quid est quod fuit? Ipsum quod futurum est（あったものはこれから来るもの）」という人間的次元での循環的同一性と対比的に、テレサの「Dios no se muda」は神的次元での「不変性」として積極的意味を持つ。"
+    },
+    {
+      "paragraphId": 6,
+      "type": "commentary",
+      "anchor": "Ámala cual merece\nbondad inmensa;\npero no hay amor fino\nsin \"la paciencia.\"",
+      "body": "「計り知れない善さが値するとおりに愛せよ（ámala cual merece bondad inmensa）──しかし真の愛はない『忍耐』なしには（no hay amor fino sin la paciencia）」──第五命題「la paciencia todo lo alcanza（忍耐はすべてを達する）」の展開。「amor fino（真の・精緻な愛）」──「fino（精緻な・純粋な）」という形容：神秘主義的詩語における「amor cortés（宮廷風の愛）」の霊的転用。「no hay amor fino sin la paciencia（真の愛は忍耐なしにはない）」──倫理的・実践的命題として際立つ：序連の「la paciencia / todo lo alcanza（忍耐はすべてを達する）」という格言の根拠が「amor fino（真の愛）」の必要条件として説明される。詩篇129篇v.4「Sustinuit anima mea in verbo ejus（私の魂はその言葉の中で待ち続けた）」という「待機（sustinere）」の神学──ヴェイユ「Celui qu'il faut aimer est absent」での「attente（待機）」──がテレサにおいては「paciencia（忍耐）」という実践的徳として詩的に定着される。",
+      "targetId": "hieronymus_psalmi_129",
+      "targetParagraphId": 4
+    },
+    {
+      "paragraphId": 7,
+      "type": "commentary",
+      "anchor": "Confianza y fe viva\nmantenga el alma,\nque quien cree y espera\n\"todo lo alcanza.\"",
+      "body": "「信頼と生き生きとした信仰（confianza y fe viva）を魂は保て──信じ待ち望む者は（quien cree y espera）すべてを達する」──第六命題「todo lo alcanza」の展開。「fe viva（生き生きとした信仰）」──「viva（生き生きとした）」という形容詞：「fe muerta（死んだ信仰）」との対比として、信仰が単なる知的同意ではなく「生命力を持つ（viva）」動的なものとして定義される。「quien cree y espera（信じ待ち望む者）」──「creer（信じる）」と「esperar（待ち望む）」の二動詞：神学的「信仰（fe）」と「希望（esperanza）」の二徳の統合。詩篇129篇v.5「speravit anima mea in Domino（私の魂は主に望みを持った）」・v.7「quia apud Dominum misericordia（主のもとに慈しみがある）」という「待機と信頼」の詩篇的定式がここで「confianza y fe viva」として神秘主義的に内面化される。十字架の聖ヨハネ「Glosa a lo divino」§2「y sube tanto su fe（信仰はこれほど高く昇り）」との照応：ヨハネの「信仰の上昇」とテレサの「fe viva（生き生きとした信仰）」が同一の信仰の動的性格を共有する。",
+      "targetId": "hieronymus_psalmi_129",
+      "targetParagraphId": 5
+    },
+    {
+      "paragraphId": 8,
+      "type": "commentary",
+      "anchor": "Del infierno acosado\nauque se viere,\nburlará sus furores\n\"quien a Dios tiene.\"",
+      "body": "「地獄に追い詰められても（del infierno acosado）──その激怒をあざ笑うだろう（burlará sus furores）──神を持つ者は（quien a Dios tiene）」──第七命題の展開にして詩全体で最も戦闘的な調子を持つ連。「del infierno acosado（地獄に追い詰められても）」──affliction の最も極端な形として「infierno（地獄・冥府）」による「acoso（追い詰め）」が想定される：詩篇87篇v.4「vita mea inferno appropinquavit（私の命は冥府に近づいた）」という「冥府への接近」という affliction の形象との比較──詩篇87篇が「infierno」への接近を嘆くのに対して、テレサは「infierno」に「acosado（追い詰められても）」という逆境の最大化の上で「burlará（あざ笑う）」という勝利を語る。「burlará sus furores（その激怒をあざ笑う）」──「burlar（あざ笑う・からかう）」という動詞：affliction の力を真剣に恐れるのでなく軽蔑・笑いをもって退ける──「Nada te espante（何も怖れさせない）」という序連命題の最も劇的な実演として。詩篇87篇v.8「Super me confirmatus est furor tuus（私の上にあなたの憤りが定まった）」という「furor（憤り）」との対比：詩篇87篇では神の「furor」が affliction の力として確立されるのに対して、テレサでは「infierno」の「furores」が「神を持つ者（quien a Dios tiene）」によって笑いをもって制される。",
+      "targetId": "hieronymus_psalmi_87",
+      "targetParagraphId": 8
+    },
+    {
+      "paragraphId": 9,
+      "type": "commentary",
+      "anchor": "Vénganle desamparos,\ncruces, desgracias;\nsiendo Dios tu tesoro\n\"nada le falta.\"",
+      "body": "「見捨てられ（desamparos）、十字架が来て（cruces）、不幸が来ても（desgracias）──神があなたの宝であるなら（siendo Dios tu tesoro）──何も欠けない（nada le falta）」──第八命題の展開。「desamparos / cruces / desgracias（見捨てられ / 十字架 / 不幸）」──三語の累積があらゆる affliction を網羅する：「desamparos（見捨てられ）」が詩篇87篇v.9「Longe fecisti notos meos a me（知人たちを遠ざけた）」という孤立と照応し、「cruces（十字架）」がキリスト受難の語彙を、「desgracias（不幸）」が一般的afflictionを指す。「siendo Dios tu tesoro（神があなたの宝であるなら）」──ヨブ記第3章v.21「quasi effodientes thesaurum（宝を掘り出すように）」でヨブが「死」を「宝」として渇望したのに対して、テレサにおいては「神（Dios）」が「宝（tesoro）」として affliction の全面的否定の力として対置される。ヴェイユ「Accepter le vide」§2「La récompense de la nécessité（必然性の報酬）」──テレサの「nada le falta（何も欠けない）」という充足性が affliction の「必然性」を受け入れることの「報酬（récompense）」として逆説的に読める。",
+      "targetId": "weil_accepter_le_vide",
+      "targetParagraphId": 2
+    },
+    {
+      "paragraphId": 10,
+      "type": "glossary",
+      "anchor": "Id, pues, bienes del mundo;\nid dichas vanas;\nauque todo lo pierda,\n\"solo Dios basta.\"",
+      "body": "「行け、では、世の財よ（id, pues, bienes del mundo）──行け、空虚な幸いよ（id dichas vanas）──たとえすべてを失っても（aunque todo lo pierda）──ただ神のみで足りる（solo Dios basta）」──詩全体の結語にして最も有名な命題の定着。「Id（行け）」──命令形二人称複数：「bienes del mundo（世の財）」と「dichas vanas（空虚な幸い）」に向けられた追い払いの命令。「aunque todo lo pierda（たとえすべてを失っても）」──逆接条件節：「perderse（失われること）」が「Solo Dios basta」という命題の絶対性の条件として提示される。「Solo Dios basta（ただ神のみで足りる）」──詩全体の9命題が収束する最終定式。「Solo（ただ〜だけ）」という排他的限定副詞と「basta（足りる）」という動詞の組み合わせ：神の「充足性（sufficientia）」の最小限かつ最大限の言語的表現。ヴェイユ「Athéisme purificateur」§1「神は存在しないことを確信している。しかし私が思い描けないそのものは幻想ではない」──ヴェイユにとっての「神の実在性」の確信がテレサの「Solo Dios basta」の否定神学的等価として読める：「basta（足りる）」という充足性の確言と、ヴェイユの「幻想ではない（n'est pas une illusion）」という最小限の確言の構造的類比。十字架の聖ヨハネ「Glosa a lo divino」序連「sino por un no sé qué（ただ何とも言えない何かのためだけに）」との詩語的対比──ヨハネが「no sé qué」という言語不可能性として神的なものを指示するのに対して、テレサは「Solo Dios basta」という肯定的格言として神の充足性を断言する：両者の神秘主義的語法の根本的様式の差異。",
+      "targetId": "weil_atheisme_purificateur",
+      "targetParagraphId": 1
+    }
+  ]
+}
