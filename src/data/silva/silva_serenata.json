@@ -1,0 +1,167 @@
+{
+  "id": "silva_serenata",
+  "title": "Serenata",
+  "author": "Medardo Ángel Silva",
+  "source": "Primeros poemas. Wikisource: https://es.wikisource.org/wiki/Serenata_(Silva)",
+  "year": "1918",
+  "firstPublication": "El árbol del bien y del mal, Guayaquil, 1918（「Primeros poemas」部門）",
+  "difficulty": "中級",
+  "category": "silva",
+  "originalLang": "es-ES",
+  "modernRelevance": "★★★",
+  "context": "メダルド・アンヘル・シルバ（Medardo Ángel Silva, 1898–1919）の詩集『善悪の樹（El árbol del bien y del mal, 1918）』の「初期詩篇（Primeros poemas）」部門に収録。全10連×5行、各連の押韻構造はABAAB（または変形）。中世的・騎士道的な「セレナーデ（serenata）」の詩的形式を採用した抒情詩：「bardo（詩人・バード）」が「Castellana blonda（金髪のカスティリャ女性）」に窓の下で歌いかける。ルベン・ダリオの「Sonatina」やホセ・アスンシオン・シルバの「Nocturno」と同様に、ロマン主義的・モデルニスモ的「美の崇拝（culto a la belleza）」の詩的伝統の中に位置づけられる。最終連の「matadme con tus ojos: quiero morir de amor!（あなたの目で殺してくれ：愛によって死にたい！）」という「愛による死」の命題が、後期詩篇「Ayes del destierro」の「deseo morir（死にたいと願う）」という神秘主義的死への渇望とは異なる様式で──世俗的・官能的な「愛死（Liebestod）」として──提示される。「Primeros poemas（初期詩篇）」という配置が示すように、本篇はシルバの詩的発展における「中世的美学・宮廷的愛・騎士道ロマンス」段階を代表する。",
+  "keywords": [
+    "serenata",
+    "bardo",
+    "Castellana blonda",
+    "paladín",
+    "trovador",
+    "ojiva",
+    "mansión feudal",
+    "quiero morir de amor",
+    "騎士道ロマンス",
+    "モデルニスモ的中世主義"
+  ],
+  "relatedTexts": [
+    "silva_de_profundis_clamavi",
+    "silva_la_noche",
+    "silva_la_muerte_enmascarada",
+    "silva_reminiscencia_siglo_xviii",
+    "verlaine_clair_de_lune",
+    "verlaine_serenade",
+    "banville_nuit_d_etoiles",
+    "d_annunzio_alba_separa"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "verses": "v.1–5",
+      "original": "Es el bardo que dijo en romance galano\nla legendaria historia del paladín audaz\nque a las moriscas gentes abatió con su mano\nque fue timbre y orgullo del valor castellano,\nque de vencer a un mundo, se dijera capaz.",
+      "provisionalTranslation": "それは雅やかなロマンスで語った詩人、\n勇敢な騎士の伝説的な物語を語った詩人、\nムーア人の民をその手で打ち倒した、\nカスティリャの勇気の紋章であり誇りであった、\n世界を征服することさえできると言われた者の。"
+    },
+    {
+      "id": 2,
+      "verses": "v.6–10",
+      "original": "El que al pie de la reja de tu ventana gótica.\nentona la vibrante, y amorosa canción,\nque en su pecho ha nacido, como una flor erótica\ncomo una roja rosa, perfumada y exótica,\npara que tú la pongas, en tu ducal blasón.",
+      "provisionalTranslation": "あなたのゴシック様式の窓の鉄格子のそばで\n振動する、愛に満ちた歌を歌う者、\n彼の胸の中で生まれた歌を、官能的な花のように\n赤い薔薇のように、香り高く、異国的に、\nあなたが公爵風の紋章に飾るように。"
+    },
+    {
+      "id": 3,
+      "verses": "v.11–15",
+      "original": "¡On blonda Castellana!... ¡Mi Castellana blonda!\nestrella de mis noches de pena y aflicción,\npor quien el bardo amante, bajo la ojiva ronda,\nsufriendo una incurable herida, roja y honda,\nque tus ojos le hicieron en pleno corazón...",
+      "provisionalTranslation": "ああ、金髪のカスティリャの女よ！……わが金髪のカスティリャの女よ！\n苦しみと苦悩の私の夜々の星よ、\nそのために愛する詩人は尖頭アーチの下をさまよう、\n癒しがたい傷を負いながら、赤く、深く、\nあなたの目が彼の心のど真ん中に刻んだ傷を……"
+    },
+    {
+      "id": 4,
+      "verses": "v.16–20",
+      "original": "¡On blonda Castellana, que en los torneos galantes\naclamaron la Reina de Belleza sin par,\nlos bravos fijosdalgos, los de los tiempos de antes,\nlos de la espada al cinto, los del porte elegante,\nque por una sonrisa se dejaban matar.",
+      "provisionalTranslation": "ああ金髪のカスティリャの女よ、雅な馬上試合で\n比類なき美の女王と称えられた者よ、\n勇猛な騎士たちが、昔の時代の人々が、\n腰に剣をさした者たちが、優雅な振る舞いの者たちが、\nひとつの微笑みのために死を受け入れた者たちが称えた。"
+    },
+    {
+      "id": 5,
+      "verses": "v.21–25",
+      "original": "Reina y Señora mía, por quien mil trovadores\nentonan sus rondeles, bajo del ventanal;\nReina, por tu belleza, de las fragantes flores\nque para Ti, despiden embriagantes olores,\nperfumando la estancia de tu mansión feudal;",
+      "provisionalTranslation": "わが女王、わが主人よ、千人の吟遊詩人が\n大窓の下でロンドー詩を歌う者のために。\n女王よ、あなたの美しさのために、馥郁たる花々が\nあなたのために、酔わせる香りを放ち、\nあなたの封建的な館の部屋を薫らせる。"
+    },
+    {
+      "id": 6,
+      "verses": "v.26–30",
+      "original": "por Ti, canta la fuente del parque cristalina\nsu canción, melodiosa serenata de amor,\ny el ramaje verdoso entreteje una fina\nlabor, y así proteje tu frente alabastrina\npara que no la hiera de Febo el resplandor.",
+      "provisionalTranslation": "あなたのために、公園の水晶のような泉が\n歌う、愛の旋律的なセレナーデを。\n緑の枝々が精巧な\n模様を織りなし、こうしてあなたの雪花石膏の額を守る、\nフェーボ（太陽神）の輝きが傷つけないように。"
+    },
+    {
+      "id": 7,
+      "verses": "v.31–35",
+      "original": "Por ti, los paladines a tu beldad rendidos,\nhacen lujo en la liza, de valor sin igual,\nque ante tus pies, se postran: vencedor y vencido,\npues Tú, sola eres Reina, pues por Ti ha perdido\nsu corazón y su alma, toda la Corte Real.",
+      "provisionalTranslation": "あなたのために、あなたの美に降伏した騎士たちが\n比類なき勇気で馬上試合の場で技を競い、\nあなたの足元に、平伏す：勝者も敗者も。\nなぜならあなただけが女王であり、あなたのために失った\n心と魂を、王宮全体が。"
+    },
+    {
+      "id": 8,
+      "verses": "v.36–40",
+      "original": "Por tu blancura, celos padece el Marqués Lirio,\ny diamantes y perlas se han negado a brillar\nen nuestro pecho, porque, han sufrido el martirio\nde ver, que ante tus ojos, eran cual blanco cirio,\nque quisiese a dos soles, con su brillo igualar.",
+      "provisionalTranslation": "あなたの白さゆえに、百合侯爵は嫉妬を感じ、\nダイヤモンドと真珠は輝くことを拒んだ、\n私たちの胸の上で、なぜなら彼らは殉教を受けたから、\nあなたの目の前では、二つの太陽に\n白いロウソクで輝きで並ぼうとするようなものだと見て。"
+    },
+    {
+      "id": 9,
+      "verses": "v.41–45",
+      "original": "Y yo, bardo de raza, de los viejos troveros\nque a la luz de la luna, cantaban su canción,\ny que por su Señora, cruzaban los aceros,\ny en la caza, servíanles de fieles halconeros\nrecibiendo por pago, de ellas el corazón;",
+      "provisionalTranslation": "そして私は、血筋の詩人、昔の吟遊詩人たちの系譜、\n月の光の下で歌を歌い、\n主人のために剣を交え、\n狩りでは忠実な鷹匠として仕え、\nその報酬として彼女たちの心を受け取った詩人たちの。"
+    },
+    {
+      "id": 10,
+      "verses": "v.46–50",
+      "original": "Os doy el alma entera, ¡Mi Reina, mi Señora!\nos doy mi alma entera, mi alma de Trovador,\npobre alma vagabunda, que serlo a Vos adora...\npero, si la rehusares, matadme mi Señora,\nmatadme con tus ojos:quiero morir de amor!",
+      "provisionalTranslation": "あなたに魂のすべてを捧げます、わが女王、わが主人よ！\nあなたに私の魂のすべてを捧げます、吟遊詩人の私の魂を、\nあなたのものであることを崇拝する貧しい放浪の魂を……\nしかし、もしそれを断るなら、殺してください、わが主人よ、\nあなたの目で殺してください：愛によって死にたい！"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "Es el bardo que dijo en romance galano\nla legendaria historia del paladín audaz",
+      "body": "「それは雅やかなロマンスで語った詩人（bardo que dijo en romance galano）──勇敢な騎士の伝説的な物語」──詩篇の開幕が「bardo（詩人・バード）」を主語とする三人称的自己紹介として始まる。「bardo（バード）」──ケルト・スペイン語的「詩人」の古語：単なる「poeta（詩人）」ではなく、伝統と語りの担い手としての「バード」という役割指定。「romance galano（雅やかなロマンス）」──「romance（ロマンス詩・バラード）」という伝統的スペイン詩形：中世スペインの「romancero（ロマンセーロ）」という民謡的叙事詩の系譜への言及。「paladín audaz（勇敢な騎士）」──中世の「paladín（パラディン）」：シャルルマーニュの十二騎士を指す語として、「ロランの歌」等の中世叙事詩の英雄的騎士像を召喚する。「moriscas gentes（ムーア人の民）」──スペイン国土回復運動（Reconquista）の文脈における「モーロ人」：「valor castellano（カスティリャの勇気）」という民族的誇りの対照として機能する。詩篇が「騎士道ロマンス」の伝統を詩的枠組みとして設定することで、後続の「serenata（セレナーデ）」全体が中世的美学の様式として読まれる文脈を準備する。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "El que al pie de la reja de tu ventana gótica.\nentona la vibrante, y amorosa canción,\nque en su pecho ha nacido, como una flor erótica\ncomo una roja rosa, perfumada y exótica,",
+      "body": "「あなたのゴシック様式の窓の鉄格子のそばで（al pie de la reja de tu ventana gótica）──官能的な花のように（como una flor erótica）──赤い薔薇のように、香り高く、異国的に（como una roja rosa, perfumada y exótica）」──「セレナーデ」の典型的空間配置と感覚的形象の確立。「ventana gótica（ゴシック様式の窓）」──「gótica（ゴシック的）」という形容詞が中世建築の語彙として詩の歴史的・美学的文脈を設定する：「Reminiscencia siglo XVIII」がロココ美学（18世紀）を素材とするのに対して、「Serenata」は中世ゴシック美学を素材とする──シルバの詩的「歴史主義（historicismo）」の二つの極。「flor erótica（官能的な花）」──「erótica（官能的な）」という形容詞がモデルニスモ的感覚的語彙として機能する。「roja rosa, perfumada y exótica（赤い薔薇、香り高く、異国的な）」──三形容詞の累積がロコ的・モデルニスモ的「感覚の過剰（exceso sensorial）」として機能する。"
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "¡On blonda Castellana!... ¡Mi Castellana blonda!\nestrella de mis noches de pena y aflicción,\npor quien el bardo amante, bajo la ojiva ronda,\nsufriendo una incurable herida, roja y honda,",
+      "body": "「ああ、金髪のカスティリャの女よ（On blonda Castellana）──苦しみと苦悩の私の夜々の星（estrella de mis noches de pena y aflicción）──尖頭アーチの下をさまよう（bajo la ojiva ronda）──癒しがたい傷（una incurable herida, roja y honda）」──詩篇の最初の感情的頂点。「On blonda Castellana! ¡Mi Castellana blonda!」──感嘆符と同一語句の反転（「On blonda……¡Mi……blonda!」）によるアナストロフェ：「blonda（金髪の）」と「Castellana（カスティリャの女）」の語順交換が感嘆的呼格として機能する。「noches de pena y aflicción（苦しみと苦悩の夜々）」──「aflicción（affliction）」というラテン語系語彙がロマンス詩の文脈で使われる：「La noche」§2「¡Tan grande es mi cansancio!」という後期詩篇の「affliction」と同一語根──初期詩篇のロマン主義的「愛の苦しみ」が後期詩篇の実存的「affliction」へと深化していく発展軌跡として読める。「ojiva（尖頭アーチ）」──ゴシック建築の「尖頭アーチ」：「ventana gótica（ゴシック様式の窓）」と照応する中世建築語彙。「incurable herida, roja y honda（癒しがたい傷、赤く、深く）」──「La muerte enmascarada」§1の「horror, la tiniebla y el miedo」という三形容詞の並置と同型の affliction の形象。",
+      "targetId": "silva_la_noche",
+      "targetParagraphId": 2
+    },
+    {
+      "paragraphId": 4,
+      "type": "commentary",
+      "anchor": "¡On blonda Castellana, que en los torneos galantes\naclamaron la Reina de Belleza sin par,\nlos bravos fijosdalgos, los de los tiempos de antes,\nlos de la espada al cinto, los del porte elegante,\nque por una sonrisa se dejaban matar.",
+      "body": "「雅な馬上試合で比類なき美の女王と称えられた（aclamaron la Reina de Belleza sin par）──勇猛な騎士たちが、昔の時代の人々が（los bravos fijosdalgos, los de los tiempos de antes）──ひとつの微笑みのために死を受け入れた（que por una sonrisa se dejaban matar）」──第四連が中世的「宮廷愛（amor cortés）」の典型的命題を提示する。「torneos galantes（雅な馬上試合）」──中世ヨーロッパの「トーナメント」：貴族の武芸競技がここでは「galantes（雅な）」という形容によって恋愛的文脈に置かれる。「Reina de Belleza sin par（比類なき美の女王）」──「Belleza（美）」の固有名詞化：「美」が「女王（Reina）」の称号を持つ擬人的形象として「Castellana blonda」に付与される。「fijosdalgos（騎士・郷士）」──「hidalgo（貴族・騎士）」の古スペイン語形：「de los tiempos de antes（昔の時代の）」という時代的限定が「過去の騎士道の世界」を「回想（reminiscencia）」として設定する。「que por una sonrisa se dejaban matar（ひとつの微笑みのために死を受け入れた）」──最終連の「quiero morir de amor（愛によって死にたい）」の予告的変奏。"
+    },
+    {
+      "paragraphId": 5,
+      "type": "commentary",
+      "anchor": "Reina y Señora mía, por quien mil trovadores\nentonan sus rondeles, bajo del ventanal;\nReina, por tu belleza, de las fragantes flores\nque para Ti, despiden embriagantes olores,\nperfumando la estancia de tu mansión feudal;",
+      "body": "「わが女王、わが主人（Reina y Señora mía）──千人の吟遊詩人がロンドー詩を歌う──馥郁たる花々があなたのために酔わせる香りを放ち──あなたの封建的な館の部屋を薫らせる（perfumando la estancia de tu mansión feudal）」──第五連が「宮廷愛（amor cortés）」の礼拝的語彙を最も密度高く展開する。「Reina y Señora mía（わが女王、わが主人）」──「Señora（主人・奥方）」という封建的従属関係の語彙：中世宮廷愛詩学における「domna（貴婦人への従属）」の定式。「mil trovadores（千人の吟遊詩人）」──「mil（千人の）」という誇張：詩人の愛の強度を「千人の詩人が歌う対象」として誇張的に定義する。「rondeles（ロンドー詩）」──フランス中世の定型詩形「rondel（ロンドー）」への言及：詩の文化的系譜意識。「mansión feudal（封建的な館）」──詩の空間全体が「中世的封建社会（sociedad feudal）」として設定される確認。"
+    },
+    {
+      "paragraphId": 6,
+      "type": "commentary",
+      "anchor": "por Ti, canta la fuente del parque cristalina\nsu canción, melodiosa serenata de amor,\ny el ramaje verdoso entreteje una fina\nlabor, y así proteje tu frente alabastrina\npara que no la hiera de Febo el resplandor.",
+      "body": "「あなたのために、公園の水晶のような泉が歌う（canta la fuente del parque cristalina）──愛の旋律的なセレナーデを──緑の枝々が精巧な模様を織りなす（el ramaje verdoso entreteje una fina labor）──あなたの雪花石膏の額を守る（tu frente alabastrina）──フェーボの輝きが傷つけないように」──第六連が自然的要素（泉・木々）の「女王への奉仕（servicio）」として詩の中心的テーマを変奏する。「melodiosa serenata de amor（愛の旋律的なセレナーデ）」──詩のタイトル「Serenata」が詩の内部でメタ的に言及される：泉自体が「serenata（セレナーデ）」を歌うという自己言及的構造。「frente alabastrina（雪花石膏の額）」──「alabastrina（雪花石膏のような）」という希少形容詞：白く・半透明で・彫刻的な「額（frente）」の記述が美学的「彫刻的身体（cuerpo escultórico）」の詩的形象として機能する。「Febo el resplandor（フェーボ（太陽神）の輝き）」──アポロン（フェーボス）の太陽神的側面：「太陽が額を傷つけないように」という自然的保護の形象。"
+    },
+    {
+      "paragraphId": 7,
+      "type": "commentary",
+      "anchor": "Por ti, los paladines a tu beldad rendidos,\nhacen lujo en la liza, de valor sin igual,\nque ante tus pies, se postran: vencedor y vencido,\npues Tú, sola eres Reina, pues por Ti ha perdido\nsu corazón y su alma, toda la Corte Real.",
+      "body": "「あなたの美に降伏した騎士たち（paladines a tu beldad rendidos）──勝者も敗者もあなたの足元に平伏す（ante tus pies, se postran: vencedor y vencido）──あなただけが女王（Tú, sola eres Reina）──王宮全体が心と魂を失った（toda la Corte Real）」──第七連が「宮廷愛」の「女王への普遍的服従」という命題を最も組織的に展開する。「vencedor y vencido（勝者と敗者）」──対義語の並置：テレサ「Vuestra soy」§6「Dadme muerte, dadme vida（死をください、命をください）」という二極の無条件的受容の世俗的・宮廷的変奏として「勝者も敗者も同じく服従する」という命題が提示される。「Tú, sola eres Reina（あなただけが女王）」──「sola（だけ）」という排他的限定：テレサ「Nada te turbe」§10「Solo Dios basta（ただ神のみで足りる）」の世俗的・恋愛的変奏として機能する──神学的一元論が宮廷的一元論として転用される。",
+      "targetId": "teresa_nada_te_turbe",
+      "targetParagraphId": 10
+    },
+    {
+      "paragraphId": 8,
+      "type": "commentary",
+      "anchor": "Por tu blancura, celos padece el Marqués Lirio,\ny diamantes y perlas se han negado a brillar\nen nuestro pecho, porque, han sufrido el martirio\nde ver, que ante tus ojos, eran cual blanco cirio,\nque quisiese a dos soles, con su brillo igualar.",
+      "body": "「あなたの白さゆえに、百合侯爵は嫉妬を感じ（celos padece el Marqués Lirio）──ダイヤモンドと真珠は輝くことを拒んだ──あなたの目の前では二つの太陽にロウソクで並ぼうとするようなもの」──詩篇全体で最も精巧な隠喩（conceit）的連。「Marqués Lirio（百合侯爵）」──「Lirio（百合）」という花の固有名詞化：「白い百合（lirio blanco）」の「白さ（blancura）」が「Castellana blonda」の「白さ（blancura）」への「嫉妬（celos）」として擬人化される──花が貴族（Marqués）として擬人化されるバロック的比喩（conceit）。「diamantes y perlas se han negado a brillar（ダイヤモンドと真珠は輝くことを拒んだ）」──宝石の擬人化：「拒む（negarse）」という意志的動詞が宝石に付与される。「han sufrido el martirio（殉教を受けた）」──「martirio（殉教・殉難）」という宗教的語彙が宝石の「輝きの恥辱」に付与される：「白いロウソクが二つの太陽に並ぼうとするような（cual blanco cirio / que quisiese a dos soles）」という拡大比喩がバロック詩学の「難解様式（gongorismo）」の影響として機能する。"
+    },
+    {
+      "paragraphId": 9,
+      "type": "commentary",
+      "anchor": "Y yo, bardo de raza, de los viejos troveros\nque a la luz de la luna, cantaban su canción,\ny que por su Señora, cruzaban los aceros,\ny en la caza, servíanles de fieles halconeros\nrecibiendo por pago, de ellas el corazón;",
+      "body": "「そして私は、血筋の詩人（bardo de raza）、昔の吟遊詩人たちの系譜──月の光の下で歌を歌い──主人のために剣を交え──忠実な鷹匠として仕え──その報酬として彼女たちの心を受け取った詩人たちの」──詩篇の最後から二番目の連にして、「私（yo）」の自己定位の中心命題。「bardo de raza（血筋の詩人）」──「de raza（血筋の・純血の）」という形容：詩人の系譜的正統性の主張として「中世吟遊詩人（trovero）」の直系継承者としての自己規定。「a la luz de la luna（月の光の下で）」──月夜のセレナーデという詩の慣用的場面設定：ヴェルレーヌ「Clair de lune（月の光）」の「月（lune）」とシルバ的受容の照応──どちらも月が詩的抒情の空間として機能する。「cruzaban los aceros（剣を交えた）」──「acero（鋼・剣）」の複数形：「剣を交える（cruzar aceros）」という決闘・武装奉仕のスペイン語的慣用句として。「fieles halconeros（忠実な鷹匠）」──中世の「falconry（鷹狩り）」という貴族的娯楽への奉仕：「忠実さ（fidelidad）」が中世的従属関係の中心的美徳として提示される。「recibiendo por pago, de ellas el corazón（その報酬として彼女たちの心を受け取った）」──「pago（報酬・支払い）」という商業的語彙が「corazón（心）」という感情的対象に付与される逆説。",
+      "targetId": "verlaine_clair_de_lune",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 10,
+      "type": "glossary",
+      "anchor": "Os doy el alma entera, ¡Mi Reina, mi Señora!\nos doy mi alma entera, mi alma de Trovador,\npobre alma vagabunda, que serlo a Vos adora...\npero, si la rehusares, matadme mi Señora,\nmatadme con tus ojos:quiero morir de amor!",
+      "body": "「あなたに魂のすべてを捧げます（Os doy el alma entera）──わが女王、わが主人よ──しかし、もしそれを断るなら、殺してください（si la rehusares, matadme）──あなたの目で殺してください：愛によって死にたい（matadme con tus ojos: quiero morir de amor）」──詩篇の結語にして最も重要な命題。「Os doy el alma entera（あなたに魂のすべてを捧げます）」──テレサ「Yo toda me entregué y dí（私はすべてを捧げ与えた）」という神秘主義的奉献の世俗的・宮廷的変奏として：テレサが「神（Dios）」に魂を捧げるのに対して、シルバは「Reina / Señora（女王・主人）」に魂を捧げる──同一の「全魂奉献（entrega total del alma）」の構造が世俗的恋愛と神秘主義的合一の二文脈で機能する。「pobre alma vagabunda（貧しい放浪の魂）」──「vagabunda（放浪の）」という形容詞が「alma（魂）」に付される：「La noche」§2「¿no saldrá mi alma de su prisión obscura?（私の魂はその暗い監禁から出られないのですか）」という「監禁された魂」に対して、ここでは「放浪の（vagabunda）」という解放的・不定的形象──しかし実存的な「根なし草（desarraigo）」としての苦悩を含意する。「matadme con tus ojos: quiero morir de amor!」──詩篇全体の最終命題。「quiero morir de amor（愛によって死にたい）」──テレサ「Ayes del destierro」の折り返し句「deseo morir（死にたいと願う）」の世俗的変奏：テレサが「神を見たいがゆえに死を望む（Ansiosa de verte, deseo morir）」のに対して、シルバは「愛によって死を望む（quiero morir de amor）」──神秘主義的「愛死」が世俗的「ライプストート（Liebestod）」として変容される。「!」という感嘆符──詩篇唯一の感嘆符として最大の感情的頂点を示す。",
+      "targetId": "teresa_ayes_del_destierro",
+      "targetParagraphId": 1
+    }
+  ]
+}
