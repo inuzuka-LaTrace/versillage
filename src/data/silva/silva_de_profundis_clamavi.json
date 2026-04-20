@@ -1,0 +1,85 @@
+{
+  "id": "silva_de_profundis_clamavi",
+  "title": "De Profundis Clamavi",
+  "author": "Medardo Ángel Silva",
+  "source": "El árbol del bien y del mal (1918). Wikisource: https://es.wikisource.org/wiki/De_Profundis_Clamavi_(Silva)",
+  "year": "1918",
+  "firstPublication": "El árbol del bien y del mal, Guayaquil, 1918",
+  "difficulty": "中級",
+  "category": "silva",
+  "originalLang": "es-ES",
+  "modernRelevance": "★★★★",
+  "context": "メダルド・アンヘル・シルバ（Medardo Ángel Silva, 1898–1919）はエクアドルの近代詩人。21歳で自ら命を絶ち、その死は中南米モデルニスモ詩の伝説的事件の一つとなった。詩集『善悪の樹（El árbol del bien y del mal, 1918）』は死の前年に刊行された唯一の詩集であり、収録詩「De Profundis Clamavi」はウルガータ詩篇129篇のタイトルを標題として採用しながら、ボードレール的な退廃・疲労・魂の苦悩をスペイン語圏モデルニスモの語彙で展開する三連ソネット。詩の話者は複数形「nuestras almas（私たちの魂）」──個人の苦悩が「私たち（nosotros）」という世代的連帯の声として語られる点が特徴的で、シルバ自身の実存的絶望を同時代の詩人たちへの連帯として拡張する。「ideal Bizancio（理想のビザンツ）」という象徴は中南米モデルニスモにおける「到達しえない審美的・精神的理想」の慣用的形象──ルベン・ダリオ以来の「Bizancio」のトポスがここでも機能する。「sueños marchitos（萎れた夢）」という結語が詩の時間的構造を「過去の幻想（idolatrías / sueños）→現在の疲労（cansancio）→神への帰還（brazos divinos）」として閉じる。ボードレール「De profundis clamavi」・詩篇87篇・詩篇129篇という聖書的afflictionの系譜がスペイン語圏モデルニスモを経由して受容された例として、VANITISMEコーパスの「De profundis」系譜の多言語的展開を完成させる。",
+  "keywords": [
+    "De Profundis",
+    "nuestras almas",
+    "ideal Bizancio",
+    "sueños marchitos",
+    "idolatrías locas",
+    "exangüe",
+    "モデルニスモ",
+    "エクアドル近代詩",
+    "世代的連帯",
+    "疲労と帰還"
+  ],
+  "relatedTexts": [
+    "hieronymus_psalmi_129",
+    "hieronymus_psalmi_87",
+    "baudelaire_de_profundis_clamavi",
+    "baudelaire_spleen",
+    "trakl_de_profundis",
+    "rossetti_de_profundis",
+    "weil_accepter_le_vide",
+    "hieronymus_ecclesiastes_1"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "verses": "v.1–4",
+      "original": "Señor, ved nuestras almas, en sus duros encierros\ndonde no hacen la luz vagas filosofías,\nvírgenes arrojadas desnudas a los perros\ncuando apenas se encienden las rosas de sus días.",
+      "provisionalTranslation": "主よ、見てください私たちの魂を、その厳しい監禁の中で、\nそこでは漠然とした哲学が光をもたらさない、\n犬たちの前に裸のまま投げ捨てられた処女たち、\nその日々の薔薇がかろうじて燃え始めたばかりのときに。"
+    },
+    {
+      "id": 2,
+      "verses": "v.5–8",
+      "original": "En vano no hemos buscado, por diversos caminos,\nla ruta azul que lleva a la ideal Bizancio...\nY hoy vamos hacia el puerto de tus brazos divinos,\npobres de voluntad y exangües de cansancio...",
+      "provisionalTranslation": "虚しくはなかった、様々な道を通じて探し求めたことは、\n理想のビザンツへと導く青い道を……\nそして今日私たちはあなたの神的な腕という港へと向かう、\n意志に乏しく、疲労で血の気を失い……"
+    },
+    {
+      "id": 3,
+      "verses": "v.9–12",
+      "original": "A idolatrías locas nuestro amor ofrendamos,\ncuando Placer y Vida creímos infinitos...\nY hoy, a tus pies, aquellos despojos arrojamos,\natados con la cinta de los sueños marchitos.",
+      "provisionalTranslation": "狂った偶像崇拝に私たちの愛を捧げた、\n快楽と生を無限と信じていたときに……\nそして今日、あなたの足元に、あの残骸を投げる、\n萎れた夢の飾り紐で縛られた残骸を。"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "glossary",
+      "anchor": "Señor, ved nuestras almas, en sus duros encierros\ndonde no hacen la luz vagas filosofías,",
+      "body": "「主よ、見てください私たちの魂を（Señor, ved nuestras almas）──その厳しい監禁の中で（en sus duros encierros）──そこでは漠然とした哲学が光をもたらさない（donde no hacen la luz vagas filosofías）」──詩篇全体の開幕命題。「Señor（主よ）」という呼格が詩篇129篇v.1「De profundis clamavi ad te, Domine（深みよりあなたに向かって叫んだ、主よ）」と詩篇21篇v.2「Deus, Deus meus, respice in me（わが神、私を顧みてください）」という聖書的呼格の直接的継承として機能する。「nuestras almas（私たちの魂）」──複数形の使用がシルバ詩篇の最も特徴的な点：ボードレール「De profundis clamavi」では「mon cœur（私の心）」という一人称単数で語られるのに対して、シルバは「私たちの（nuestras）」という複数として世代的・集合的afflictionとして提示する。「duros encierros（厳しい監禁）」──詩篇87篇v.9「Traditus sum, et non egrediebar（引き渡され、出られなかった）」・テレサ「Ayes del destierro」§4「esta cárcel, estos hierros（この牢、この鎖）」という「閉じ込め」の語彙の系譜。「vagas filosofías（漠然とした哲学）」──19世紀末・20世紀初頭の知的文脈：実証主義・自然主義・観念論哲学などの「哲学」が「光（la luz）をもたらさない」として批判される──モデルニスモ詩人にとって「哲学」が魂の「encierro（監禁）」から救い出す力を持たないという認識論的失望。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "vírgenes arrojadas desnudas a los perros\ncuando apenas se encienden las rosas de sus días.",
+      "body": "「犬たちの前に裸のまま投げ捨てられた処女たち（vírgenes arrojadas desnudas a los perros）──その日々の薔薇がかろうじて燃え始めたばかりのときに（cuando apenas se encienden las rosas de sus días）」──詩篇第一連の最も詩的力を持つ二行。「vírgenes arrojadas desnudas a los perros（犬たちに裸で投げられた処女たち）」──魂（almas）が「処女（vírgenes）」として擬人化・女性化される：純粋さと無防備さの象徴としての「virgin」が「perros（犬）」という世俗的・動物的力の前に「arrojadas（投げ捨てられた）」という受動的暴力の形象として提示される。詩篇21篇v.17「Quoniam circumdederunt me canes multi（多くの犬が私を取り囲んだ）」という「犬による包囲」という受難詩篇の形象がシルバにおいては「処女の魂が犬に投げられる」という近代的afflictionの詩的形象として変容される。「cuando apenas se encienden las rosas de sus días（日々の薔薇がかろうじて燃え始めたばかりのときに）」──「apenas（かろうじて・ほとんど〜ない）」という副詞が「若さの始まり」の微かさを示す：「rosas de sus días（日々の薔薇）」という青春の比喩がその開花と同時の喪失として提示される。シルバ自身21歳で死んだという事実と照らすと、この「barely lit」という時間的限定が自伝的次元を帯びる。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "En vano no hemos buscado, por diversos caminos,\nla ruta azul que lleva a la ideal Bizancio...\nY hoy vamos hacia el puerto de tus brazos divinos,\npobres de voluntad y exangües de cansancio...",
+      "body": "「虚しくはなかった──理想のビザンツへと導く青い道（la ruta azul que lleva a la ideal Bizancio）──今日私たちはあなたの神的な腕という港へと向かう──意志に乏しく、疲労で血の気を失い（exangües de cansancio）」──詩篇の時間的・空間的中軸を形成する第二連。「la ruta azul（青い道）」──モデルニスモにおける「青（azul）」はルベン・ダリオの詩集『Azul...（1888）』以来の理想・美・詩的純粋性の象徴的色彩：「青い道」が「ideal Bizancio（理想のビザンツ）」という到達不可能な審美的理想へと通じる。「ideal Bizancio（理想のビザンツ）」──中南米モデルニスモにおける「Bizancio」の慣用的トポス：ルベン・ダリオ「¿Qué signo haces, oh Cisne?（白鳥よ、何の合図をするのか）」等でビザンツが「理想の文明・審美の極点」として言及される。コヘレト第1章v.3「Quid habet amplius homo de universo labore suo（すべての労苦から人は何を得るのか）」という「探求の空虚」がシルバにおいては「En vano no hemos buscado（虚しくはなかった）」という二重否定──正確には「虚しくはなかった」であり完全な虚無ではない──として複雑化される。「exangües de cansancio（疲労で血の気を失い）」──「exangüe（血の気のない・疲弊した）」というラテン語的語彙：ボードレール「De profundis clamavi」§4「l'écheveau du temps lentement se dévide（時間の糸巻きはゆっくりと解れていく）」という時間的疲弊と照応する──どちらも現代的afflictionとしての「疲労（cansancio）」を核心に持つ。",
+      "targetId": "baudelaire_de_profundis_clamavi",
+      "targetParagraphId": 4
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "A idolatrías locas nuestro amor ofrendamos,\ncuando Placer y Vida creímos infinitos...\nY hoy, a tus pies, aquellos despojos arrojamos,\natados con la cinta de los sueños marchitos.",
+      "body": "「狂った偶像崇拝に私たちの愛を捧げた（a idolatrías locas nuestro amor ofrendamos）──快楽と生を無限と信じていたときに（Placer y Vida creímos infinitos）──萎れた夢の飾り紐で縛られた残骸を（atados con la cinta de los sueños marchitos）」──詩篇の結語にして最も詩的に凝縮された連。「idolatrías locas（狂った偶像崇拝）」──「idolatría（偶像崇拝）」という宗教的語彙の世俗的転用：「Placer y Vida（快楽と生）」を「無限（infinitos）」として崇拝した青春の錯誤として過去の審美的・快楽主義的姿勢が神学的に断罪される。コヘレト第1章v.2「vanitas vanitatum, et omnia vanitas（虚無の虚無、すべては虚無）」という「すべての追求の虚無」がシルバにおいては「idolatrías locas」という過去形の告白として現れる。「despojos arrojamos（残骸を投げる）」──「despojos（残骸・戦利品）」という語：過去の「amor（愛）」が戦場の「残骸（despojos）」として神の足元（a tus pies）に投げられる。詩篇87篇v.19「Elongasti a me amicum et proximum（友人と隣人を遠ざけた）」という孤立の後の「miseria（惨め）」で終わる詩篇が、シルバにおいては「a tus pies, aquellos despojos arrojamos（あなたの足元に残骸を投げる）」という神への帰還として転換される──詩篇87篇の「転換なき絶望」に対してシルバの詩は「疲弊した帰還（retorno agotado）」として部分的な転換を持つ。「sueños marchitos（萎れた夢）」──詩篇全体の結語形象：「marchito（萎れた・枯れた）」という形容詞が「sueños（夢）」に付されることで、過去の幻想の死滅が「飾り紐（cinta）」という装飾的細部として詩的に定着される──荒廃の審美化としてモデルニスモ的感性が最も鮮明に現れる一行。",
+      "targetId": "hieronymus_psalmi_87",
+      "targetParagraphId": 19
+    }
+  ]
+}
