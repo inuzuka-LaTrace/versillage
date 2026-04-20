@@ -50,6 +50,7 @@ export const CATEGORIES = {
   yeats:                      { name: 'イェイツ' },
   juan_de_la_cruz:            { name: '十字架の聖ヨハネ' },
   teresa:                     { name: 'イエスの聖テレサ' },
+  silva:                      { name: 'シルバ' },
   hieronymus:                 { name: 'ヒエロニムス' },
 };
 
@@ -99,6 +100,7 @@ export const CAT_SHORT = {
   yeats:                   'イェイツ',
   juan_de_la_cruz:         '十字架の聖ヨハネ',
   teresa:                  'イエスの聖テレサ',
+  silva:                   'シルバ',
   hieronymus:              'ヒエロニムス',
 };
 
@@ -109,7 +111,7 @@ export const AUTHOR_COLOR_MAP = {
   valery:           { dark: 'bg-rose-900/40 text-rose-300',    light: 'bg-rose-100 text-rose-800' },
   valmore:          { dark: 'bg-rose-900/40 text-rose-300',    light: 'bg-rose-100 text-rose-800' },
   regnier:          { dark: 'bg-blue-900/40 text-blue-300',    light: 'bg-blue-100 text-blue-800' },
-  weil:             { dark: 'bg-sky-900/40 text-sky-400',      light: 'bg-sky-200 text-sky-900' },
+  weil:             { dark: 'bg-sky-900/40 text-sky-300',      light: 'bg-sky-100 text-sky-800' },
   leconte_de_lisle: { dark: 'bg-emerald-900/40 text-emerald-300', light: 'bg-emerald-100 text-emerald-800' },
   banville:         { dark: 'bg-violet-900/40 text-violet-300', light: 'bg-violet-100 text-violet-800' },
   rodenbach:        { dark: 'bg-sky-900/40 text-sky-400',      light: 'bg-sky-200 text-sky-900' },
@@ -143,6 +145,7 @@ export const AUTHOR_COLOR_MAP = {
   rilke:            { dark: 'bg-amber-900/40 text-amber-300',   light: 'bg-amber-100 text-amber-800' },
   juan_de_la_cruz:  { dark: 'bg-violet-900/40 text-violet-300', light: 'bg-violet-100 text-violet-800' },
   teresa:           { dark: 'bg-red-900/40 text-red-300',      light: 'bg-red-100 text-red-800' },
+  silva:            { dark: 'bg-sky-900/40 text-sky-300',      light: 'bg-sky-100 text-sky-800' },
   hieronymus:       { dark: 'bg-amber-900/40 text-amber-300',   light: 'bg-amber-100 text-amber-800' },
   default:          { dark: 'bg-zinc-800 text-zinc-300',       light: 'bg-stone-100 text-stone-700' }
 };
