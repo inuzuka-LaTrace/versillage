@@ -1,0 +1,219 @@
+{
+  "id": "teresa_ayes_del_destierro",
+  "title": "Ayes del destierro",
+  "author": "Santa Teresa de Jesús",
+  "source": "Obras de Santa Teresa de Jesús（伝テレサ作；底本：アビラ・カルメル会写本系統）",
+  "year": "1560年代",
+  "firstPublication": "Obras de Santa Teresa de Jesús（没後刊行。テレサは1582年没）",
+  "difficulty": "初級",
+  "category": "teresa",
+  "originalLang": "es-ES",
+  "modernRelevance": "★★★★",
+  "context": "イエスの聖テレサ（Santa Teresa de Jesús, 1515–1582）の詩篇。「追放の嘆き（Ayes del destierro）」。villancico形式──序連（4行）を設け、各連末に折り返し句「Ansiosa de verte / deseo morir（あなたを見たいと焦がれて / 死にたいと願う）」が反復される。「Vivo sin vivir en mí」の姉妹篇として位置づけられ、同一の神秘主義的主題──地上の生を「destierro（追放・流謫）」として、死を「神との合一」への通路として──を展開する。全13連を通じて「死への渇望」が罪の意識・神の不在・愛の苦悩・希望の確信という複数の側面から多声的に歌われる。最終連（第13連）において「Mas no, dueño amado（しかし、いや、愛する主よ）」という逆接が詩全体に唯一の留保をもたらす──苦しみの甘受・罪の償還という視点が「死への渇望」に倫理的複雑さを与える。テレサ詩篇の中でもより平易な語彙・短い詩行によって書かれており、民謡的・口語的な詩的調子が神秘主義的深度と共存する。",
+  "keywords": [
+    "destierro",
+    "ansiosa de verte",
+    "deseo morir",
+    "死への渇望",
+    "神の不在",
+    "amor divino",
+    "vida verdadera",
+    "muerte benigna",
+    "villancico",
+    "追放と帰還"
+  ],
+  "relatedTexts": [
+    "teresa_vivo_sin_vivir",
+    "juan_de_la_cruz_noche_oscura",
+    "juan_de_la_cruz_glosa_a_lo_divino",
+    "juan_de_la_cruz_cantico_espiritual",
+    "weil_celui_quil_faut_aimer",
+    "weil_accepter_le_vide",
+    "weil_effacement",
+    "hieronymus_psalmi_87",
+    "hieronymus_psalmi_129",
+    "hieronymus_iob_3"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "verses": "v.1–4",
+      "original": "¡Cuán triste es, Dios mío,\nla vida sin ti!\nAnsiosa de verte,\ndeseo morir.",
+      "provisionalTranslation": "なんと悲しいことか、わが神よ、\nあなたなしの命は！\nあなたを見たいと焦がれて、\n死にたいと願う。"
+    },
+    {
+      "id": 2,
+      "verses": "v.5–12",
+      "original": "Carrera muy larga\nes la de este suelo,\nmorada penosa,\nmuy duro destierro.\n¡Oh dueño adorado,\nsácame de aquí!\nAnsiosa de verte,\ndeseo morir.",
+      "provisionalTranslation": "とても長い道のりだ、\nこの大地のそれは。\n苦しい住まい、\nとても厳しい流謫。\nああ崇められた主よ、\nここから私を連れ出してください！\nあなたを見たいと焦がれて、\n死にたいと願う。"
+    },
+    {
+      "id": 3,
+      "verses": "v.13–20",
+      "original": "Lúgubre es la vida,\namarga en extremo;\nque no vive el alma\nque está de ti lejos.\n¡Oh dulce bien mío,\nque soy infeliz!\nAnsiosa de verte,\ndeseo morir.",
+      "provisionalTranslation": "命は陰鬱で、\n極めて苦い。\nあなたから遠い魂は\n生きていないのだから。\nああ甘い私の善よ、\n私はなんと不幸なことか！\nあなたを見たいと焦がれて、\n死にたいと願う。"
+    },
+    {
+      "id": 4,
+      "verses": "v.21–28",
+      "original": "¡Oh muerte benigna,\nsocorre mis penas!\nTus golpes son dulces,\nque el alma libertan.\n¡Qué dicha, oh mi Amado,\nestar junto a Ti!\nAnsiosa de verte,\ndeseo morir.",
+      "provisionalTranslation": "ああ慈悲深い死よ、\n私の苦しみを助けてくれ！\nあなたの打撃は甘い、\n魂を解放するから。\nああなんという幸い、わが愛する者よ、\nあなたのそばにいることは！\nあなたを見たいと焦がれて、\n死にたいと願う。"
+    },
+    {
+      "id": 5,
+      "verses": "v.29–36",
+      "original": "El amor mundano\napega a esta vida;\nel amor divino\npor la otra suspira.\nSin ti, Dios eterno,\n¿quién puede vivir?\nAnsiosa de verte,\ndeseo morir.",
+      "provisionalTranslation": "世俗の愛は\nこの命に執着させる。\n神的な愛は\nもう一つの命を溜息で求める。\nあなたなしに、永遠の神よ、\n誰が生きられるか？\nあなたを見たいと焦がれて、\n死にたいと願う。"
+    },
+    {
+      "id": 6,
+      "verses": "v.37–44",
+      "original": "La vida terrena\nes continuo duelo:\nvida verdadera\nla hay solo en el cielo.\nPermite, Dios mío,\nque viva yo allí.\nAnsiosa de verte,\ndeseo morir.",
+      "provisionalTranslation": "地上の命は\n絶え間ない嘆き。\n真の命は\nただ天にのみある。\nお許しください、わが神よ、\n私がそこで生きることを。\nあなたを見たいと焦がれて、\n死にたいと願う。"
+    },
+    {
+      "id": 7,
+      "verses": "v.45–52",
+      "original": "¿Quién es el que teme\nla muerte del cuerpo,\nsi con ella logra\nun placer inmenso?\n¡Oh! sí, el de amarte,\nDios mío, sin fin.\nAnsiosa de verte,\ndeseo morir.",
+      "provisionalTranslation": "身体の死を\n恐れる者は誰か、\nそれによって\n計り知れない喜びを得るなら？\nああ、そう、あなたを愛することの、\nわが神よ、果てなく。\nあなたを見たいと焦がれて、\n死にたいと願う。"
+    },
+    {
+      "id": 8,
+      "verses": "v.53–60",
+      "original": "Mi alma afligida\ngime y desfallece.\n¡Ay! ¿quién de su amado\npuede estar ausente?\nAcabe ya, acabe\naqueste sufrir.\nAnsiosa de verte,\ndeseo morir.",
+      "provisionalTranslation": "苦しむ私の魂は\n呻き、衰え弱る。\nああ！愛する者から\n誰が不在でいられるか。\n終わってくれ、もう終わってくれ、\nこの苦しみが。\nあなたを見たいと焦がれて、\n死にたいと願う。"
+    },
+    {
+      "id": 9,
+      "verses": "v.61–68",
+      "original": "El barbo cogido\nen doloso anzuelo\nencuentra en la muerte\nel fin del tormento.\n¡Ay!, también yo sufro,\nbien mío, sin ti.\nAnsiosa de verte,\ndeseo morir.",
+      "provisionalTranslation": "偽りの釣り針に\n捕まえられたバルボは\n死の中に\n苦しみの終わりを見出す。\nああ、私もまた苦しんでいる、\nわが善よ、あなたなしに。\nあなたを見たいと焦がれて、\n死にたいと願う。"
+    },
+    {
+      "id": 10,
+      "verses": "v.69–76",
+      "original": "En vano mi alma\nte busca, oh mi dueño;\nTú, siempre invisible,\nno alivias su anhelo.\n¡Ay! esto la inflama,\nhasta prorrumpir:\nAnsiosa de verte,\ndeseo morir.",
+      "provisionalTranslation": "むなしく私の魂は\nあなたを求める、ああわが主よ。\nあなたは常に見えず、\n魂の渇望を和らげない。\nああ！これが魂を燃え立たせる、\n叫び出すまでに。\nあなたを見たいと焦がれて、\n死にたいと願う。"
+    },
+    {
+      "id": 11,
+      "verses": "v.77–84",
+      "original": "¡Ay!, cuando te dignas\nentrar en mi pecho,\nDios mío, al instante\nel perderte temo.\nTal pena me aflige\ny me hace decir:\nAnsiosa de verte,\ndeseo morir.",
+      "provisionalTranslation": "ああ！あなたが\n私の胸に入ってくださるとき、\nわが神よ、その瞬間に\nあなたを失うことを恐れる。\nそのような苦しみが私を悩ませ、\nこう言わせる。\nあなたを見たいと焦がれて、\n死にたいと願う。"
+    },
+    {
+      "id": 12,
+      "verses": "v.85–92",
+      "original": "Haz, Señor, que acabe\ntan larga agonía;\nsocorre a tu sierva\nque por ti suspira.\nRompe aquestos hierros\ny sea feliz.\nAnsiosa de verte,\ndeseo morir.",
+      "provisionalTranslation": "主よ、終わらせてください、\nこれほど長い苦悶を。\nあなたのために溜息をつく\nあなたの僕女を助けてください。\nこの鎖を断ち切って、\n幸せにしてください。\nあなたを見たいと焦がれて、\n死にたいと願う。"
+    },
+    {
+      "id": 13,
+      "verses": "v.93–100",
+      "original": "Mas no, dueño amado,\nque es justo padezca;\nque expíe mis yerros,\nmis culpas inmensas.\n¡Ay!, logren mis lágrimas\nte dignes oír:\nAnsiosa de verte,\ndeseo morir.",
+      "provisionalTranslation": "しかし、いや、愛する主よ、\n苦しむことが正しい。\n私の過ちを、\n私の計り知れない罪を償うために。\nああ！私の涙によって、\nお聞きくださるに値するように。\nあなたを見たいと焦がれて、\n死にたいと願う。"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "glossary",
+      "anchor": "¡Cuán triste es, Dios mío,\nla vida sin ti!\nAnsiosa de verte,\ndeseo morir.",
+      "body": "序連にして詩篇全体の神学的命題の凝縮。「la vida sin ti（あなたなしの命）」──神の不在として定義された地上の命：「生命」と「神の現前」が同一視される神秘主義的前提。「Ansiosa de verte / deseo morir（あなたを見たいと焦がれて / 死にたいと願う）」──詩篇全体の折り返し句（estribillo）が序連に既に完全な形で提示される：「verte（あなたを見ること）」と「morir（死ぬこと）」の同一視が詩篇の神学的論理の核心。「Vivo sin vivir en mí」の折り返し句「que muero porque no muero（死なないから死ぬ）」との比較──「muero porque no muero」が逆説的論理構造を持つのに対して、「deseo morir（死にたいと願う）」はより直接的・感情的な表出として、姉妹篇との詩的調子の差異を示す。「Ansiosa（焦がれて）」──女性形の形容詞が詩篇作者の女性的自己規定を示す；「花嫁と花婿」の神秘主義的比喩（雅歌）との接続。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "Carrera muy larga\nes la de este suelo,\nmorada penosa,\nmuy duro destierro.",
+      "body": "「とても長い道のり（carrera muy larga）──苦しい住まい（morada penosa）──とても厳しい流謫（muy duro destierro）」──地上的生の三重の否定的定義。「carrera（道のり・競走）」──人生を「競走」の比喩で捉える：パウロ「ヘブライ書12:1」「currentes ad propositum nobis certamen（私たちの前に置かれた競走を走る）」との照応。「morada penosa（苦しい住まい）」──テレサの主著『魂の城（Las Moradas / El Castillo Interior, 1577）』の「morada（住まい・部屋）」という語彙との共鳴：魂を城の複数の「住まい（moradas）」として論じた神秘主義神学の核心語が、ここでは地上を「苦しい住まい」として否定的に使われる。「muy duro destierro（とても厳しい流謫）」──タイトル「Ayes del destierro（追放の嘆き）」の中心語。「destierro（流謫・追放）」はラテン語「exilium」の翻訳──キリスト教的人間学における「地上は魂の追放地（exilium）」というアウグスティヌス的主題の詩的表現。詩篇87篇v.9「Traditus sum, et non egrediebar（引き渡され、出られなかった）」という「出られない（non egrediebar）」閉塞が、テレサにおいては「sácame de aquí（ここから連れ出してください）」という神への嘆願として変奏される。",
+      "targetId": "hieronymus_psalmi_87",
+      "targetParagraphId": 9
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "que no vive el alma\nque está de ti lejos.",
+      "body": "「あなたから遠い魂は生きていない（no vive el alma que está de ti lejos）」──詩篇の神学的前提を最も簡潔に定式化した行。「no vive（生きていない）」──「生きること」の定義が「神との近さ（cercanía）」によって与えられる：神学的存在論において「生」は神との関係性の中においてのみ成立する。「de ti lejos（あなたから遠い）」──ヴェイユ「Celui qu'il faut aimer est absent」§6「Rien de ce qui existe n'est absolument digne d'amour（存在するものはいずれも絶対的には愛に値しない）」というテーゼの逆から：存在するもの（地上の生）はすべて「de ti lejos（あなたから遠い）」限りにおいて「生きていない（no vive）」として否定される。十字架の聖ヨハネ「Cántico espiritual」§6「¿Adónde te escondiste, / Amado?（どこに隠れたのか、愛する者よ）」という神の隠れの問いが、テレサでは「de ti lejos（あなたから遠い）」という距離の確認として応答される。",
+      "targetId": "weil_celui_quil_faut_aimer",
+      "targetParagraphId": 6
+    },
+    {
+      "paragraphId": 4,
+      "type": "commentary",
+      "anchor": "¡Oh muerte benigna,\nsocorre mis penas!\nTus golpes son dulces,\nque el alma libertan.",
+      "body": "「ああ慈悲深い死よ（muerte benigna）──あなたの打撃は甘い（tus golpes son dulces）、魂を解放するから」──死の人格化と逆説的「甘さ」の定義。「muerte benigna（慈悲深い死）」──死の擬人化による呼格：詩篇87篇v.19「miseria」で閉じる「転換なき絶望」の死と対照的に、テレサにとっての死は「benigna（慈悲深い）」という形容を得る。「tus golpes son dulces（あなたの打撃は甘い）」──「golpe（打撃）」と「dulce（甘い）」という矛盾語法（oxymoron）：十字架の聖ヨハネ「Llama de amor viva」§1「que tiernamente hieres（優しく傷つける）」という「愛の優しい傷」と同型の愛の暴力・甘さの逆説。「el alma libertan（魂を解放する）」──死が魂の「libertad（自由）」の手段として定義される：ヨブ記第3章v.19「servus liber a domino suo（奴隷は主人から自由）」という「死における自由」の神秘主義的転用。「Vivo sin vivir en mí」§7「para ganarte, perderte（あなたを得るために失うこと）」という逆説の感情的表出として読める。",
+      "targetId": "juan_de_la_cruz_llama_de_amor_viva",
+      "targetParagraphId": 1
+    },
+    {
+      "paragraphId": 5,
+      "type": "commentary",
+      "anchor": "El amor mundano\napega a esta vida;\nel amor divino\npor la otra suspira.",
+      "body": "「世俗の愛はこの命に執着させる（apega a esta vida）──神的な愛はもう一つの命を溜息で求める（por la otra suspira）」──詩篇全体で唯一の二項対比的命題として際立つ連。「amor mundano（世俗の愛）」vs「amor divino（神的な愛）」──二種の愛の対立構造：プラトン哲学的「エロス」の区別（天上的エロスと世俗的エロス）の神秘主義的継承。「apega（執着させる）」──「apegar（くっつける・執着させる）」という動詞：世俗の愛が地上への粘着として定義される。ヴェイユ「Pesanteur et Grâce」の「重力（pesanteur）」概念との照応──世俗の愛が「apega（地上に貼り付ける）」という形で「重力（pesanteur）」として、神的な愛が「suspira（溜息で求める）」という上昇として提示される。「suspira（溜息をつく・あこがれる）」──アウグスティヌス「告白録（Confessiones）I.1」「quia fecisti nos ad te, et inquietum est cor nostrum donec requiescat in te（あなたは私たちをあなたへと造られたのだから、私たちの心はあなたの中に安らうまで落ち着かない）」というアウグスティヌス的「魂の溜息（inquietum）」の詩的変容。"
+    },
+    {
+      "paragraphId": 6,
+      "type": "commentary",
+      "anchor": "La vida terrena\nes continuo duelo:\nvida verdadera\nla hay solo en el cielo.",
+      "body": "「地上の命は絶え間ない嘆き（continuo duelo）──真の命はただ天にのみある（solo en el cielo）」──「Vivo sin vivir en mí」§8「Aquella vida de arriba / es la vida verdadera（あの上の命こそが真の命）」の同一命題の反復と変奏。「continuo duelo（絶え間ない嘆き）」──「duelo」は「悲嘆・喪（mourning）」と「決闘（duel）」の二義を持つスペイン語：地上の命が「嘆き」であると同時に「闘い」でもあるという意味的豊穣性。「vida verdadera（真の命）」──「veritas（真実）」と「vita（命）」の同一視：ヨハネ福音書14:6「Ego sum via et veritas et vita（私は道であり、真実であり、命である）」というキリスト論的定式の詩的変容として「vida verdadera」が天上に位置づけられる。「solo en el cielo（ただ天にのみ）」──「solo（ただ〜だけ）」という限定副詞の使用：地上を「嘆き」として全面的に否定し、「真の命」を天上に一元化する。コヘレト第1章v.14「universa vanitas et afflictio spiritus（すべては虚無であり霊の苦悩）」という地上の全面的否定と同型の認識論的姿勢。"
+    },
+    {
+      "paragraphId": 7,
+      "type": "commentary",
+      "anchor": "¿Quién es el que teme\nla muerte del cuerpo,\nsi con ella logra\nun placer inmenso?",
+      "body": "「身体の死を恐れる者は誰か（quién es el que teme la muerte del cuerpo）──それによって計り知れない喜びを得るなら（un placer inmenso）」──詩篇全体で唯一の問答形式（pregunta retórica）による命題。「la muerte del cuerpo（身体の死）」──霊魂と身体の二元論的区分：「身体（cuerpo）の死」が「魂（alma）の解放」として肯定される。「placer inmenso（計り知れない喜び）」──「placer（喜び・快楽）」という語の神秘主義的転用：官能的「placer」の語彙が神との合一の喜びとして超越的に再定義される。「Vivo sin vivir en mí」§6「muriendo, el vivir / me asegura mi esperanza（死ぬことで生きることが望みを確かにする）」という論理の感嘆的圧縮として読める──「placer inmenso（計り知れない喜び）」が「esperanza（希望）」の感情的具体化として機能する。パスカル「パンセ」断章「人間は天使でも動物でもない──しかし天使を演じようとして動物を演じてしまう」という逆説が、テレサにおいては「muerte del cuerpo（身体の死）」による「天使的次元への到達」として神秘主義的に解決される。"
+    },
+    {
+      "paragraphId": 8,
+      "type": "commentary",
+      "anchor": "Mi alma afligida\ngime y desfallece.\n¡Ay! ¿quién de su amado\npuede estar ausente?",
+      "body": "「苦しむ私の魂は呻き、衰え弱る（gime y desfallece）──誰が愛する者から不在でいられるか（quién de su amado puede estar ausente?）」──affliction の身体的・感情的描写と反語的問いの結合。「alma afligida（苦しむ魂）」──ヒエロニムス詩篇87篇v.4「repleta est malis anima mea（私の魂は悪で満たされた）」という affliction の定式の詩的変容：詩篇では「悪で満たされた」のに対して、テレサでは「afligida（苦しんでいる）」という能動的苦悩として。「gime y desfallece（呻き、衰え弱る）」──「gemir（呻く）」と「desfallecer（衰え弱る）」の二動詞が affliction の音声的・身体的次元を同時に描写する：十字架の聖ヨハネ「Glosa a lo divino」§3「a los gustos desfallece（喜びに対して衰弱する）」と同一動詞（desfallecer）──神的afflictionによる衰弱という同一の状態の共有。「quién de su amado / puede estar ausente?（誰が愛する者から不在でいられるか）」──反語的問い：「誰も不在でいられない」という答えを前提にしながら、テレサ自身が「不在（ausencia）」を強いられているという逆説。",
+      "targetId": "juan_de_la_cruz_glosa_a_lo_divino",
+      "targetParagraphId": 3
+    },
+    {
+      "paragraphId": 9,
+      "type": "commentary",
+      "anchor": "El barbo cogido\nen doloso anzuelo\nencuentra en la muerte\nel fin del tormento.",
+      "body": "「偽りの釣り針に捕まえられたバルボは（barbo cogido en doloso anzuelo）、死の中に苦しみの終わりを見出す」──詩篇全体で最も異色の自然的比喩。「barbo（バルボ）」──スペイン・フランスの河川に生息する淡水魚。テレサの神秘主義詩篇の中で動物（魚）が比喩として登場する稀有な例。「doloso anzuelo（偽りの釣り針）」──「doloso（偽りの・狡猾な）」という形容：地上の欲望・快楽が「偽りの釣り針（anzuelo）」として魂を捕える罠として定義される。十字架の聖ヨハネ「Cántico espiritual」§17「¡Apártalos, Amado, que voy de vuelo!（それらを取り除いてくれ、愛する者よ、私は飛んでいく！）」という被造物への執着からの逃脱の比喩との照応。「encuentra en la muerte / el fin del tormento（死の中に苦しみの終わりを見出す）」──魚が「死において苦しみから解放される」という逆説：ヨブ記第3章v.21–22「qui expectant mortem, et non venit……gaudentque vehementer cum invenerint sepulchrum（死を待ち望むが来ない……墓を見つけたとき激しく喜ぶ）」というヨブの「死への渇望」の牧歌的・比喩的変容。"
+    },
+    {
+      "paragraphId": 10,
+      "type": "commentary",
+      "anchor": "En vano mi alma\nte busca, oh mi dueño;\nTú, siempre invisible,\nno alivias su anhelo.",
+      "body": "「むなしく私の魂はあなたを求める（en vano te busca）──あなたは常に見えず（siempre invisible）、魂の渇望を和らげない（no alivias su anhelo）」──詩篇87篇v.15「avertis faciem tuam a me（あなたは私から顔を背ける）」の神秘主義的変容。「Tú, siempre invisible（あなたは常に見えず）」──神の「invisibilitas（不可視性）」という神学的命題の詩的定式：序連「Ansiosa de verte（あなたを見たいと焦がれて）」の「見ること（verte）」への渇望が、この「siempre invisible（常に見えず）」という神の根本的不可視性によって構造的に妨げられる。ヴェイユ「Celui qu'il faut aimer est absent」§1「神は被造物の中に不在の形においてのみ現われることができる」──「siempre invisible（常に見えず）」という神の「invisibilitas」がヴェイユ的「神の不在としての現前」の詩的先行形として機能する。「¡Ay! esto la inflama / hasta prorrumpir（ああ！これが魂を燃え立たせる、叫び出すまでに）」──神の不在・不可視性が魂を「inflama（燃え立たせる）」という逆説：不在が欲望を強化する「距離の力学」。",
+      "targetId": "weil_celui_quil_faut_aimer",
+      "targetParagraphId": 1
+    },
+    {
+      "paragraphId": 11,
+      "type": "commentary",
+      "anchor": "¡Ay!, cuando te dignas\nentrar en mi pecho,\nDios mío, al instante\nel perderte temo.",
+      "body": "「ああ！あなたが私の胸に入ってくださるとき（cuando te dignas entrar en mi pecho）──その瞬間にあなたを失うことを恐れる（el perderte temo）」──詩篇全体で最も神学的に精緻な逆説を含む連。「cuando te dignas entrar（あなたが入ってくださるとき）」──「dignarse（〜してくださる）」という敬語的動詞形：神の「内住（inhabitatio）」が恩寵として定義される。「al instante el perderte temo（その瞬間にあなたを失うことを恐れる）」──神の現前の瞬間に「喜び」でなく「喪失の恐れ」が生じるという逆説：充足の不可能性が構造的に提示される。ヴェイユ「Accepter le vide」§1「恩寵が入れるのはそれを受け取る空虚がある場所だけ」という命題との緊張：神が「胸に入る（entrar en mi pecho）」という充填と、その瞬間に「失う（perder）」という空虚への恐れが同時に起きる──充填と空虚の同時性。十字架の聖ヨハネ「Noche oscura」§6「allí quedó dormido（そこで眠りに就いた）」という神との合一の後の「静けさ」とは対照的に、テレサのこの連では合一の後に「喪失の恐れ（temo perder）」が訪れる──二人の神秘家の合一後の経験の差異として。",
+      "targetId": "weil_accepter_le_vide",
+      "targetParagraphId": 1
+    },
+    {
+      "paragraphId": 12,
+      "type": "commentary",
+      "anchor": "Haz, Señor, que acabe\ntan larga agonía;\nsocorre a tu sierva\nque por ti suspira.\nRompe aquestos hierros\ny sea feliz.",
+      "body": "「主よ、終わらせてください（haz que acabe）──この鎖を断ち切って（rompe aquestos hierros）、幸せにしてください（sea feliz）」──詩篇全体で最も直接的な神への嘆願・命令形の連。「Haz……acabe（終わらせてください）」・「socorre（助けてください）」・「Rompe（断ち切って）」──三つの命令形の連続が嘆願の緊迫性を高める：詩篇129篇v.2「inclina aurem tuam ad precem meam（私の願いに耳を傾けてください）」という嘆願の詩的変奏。「tu sierva（あなたの僕女）」──「sierva（女性形の僕）」という自己規定：詩篇87篇v.16「pauper sum ego（私は貧しい）」と同様の自己卑下的謙遜語彙を通じた神への呼びかけ。「aquestos hierros（この鎖）」──「Vivo sin vivir en mí」§4「esta cárcel, estos hierros（この牢、この鎖）」と同一の語彙：「鎖（hierros）」が地上的生の監禁の象徴として両詩篇に共通して使われる。「sea feliz（幸せにしてください）」──「feliz（幸福）」という語が詩篇の「deseo morir（死にたいと願う）」という欲望の目的として位置づけられる：死が目的ではなく「feliz（幸福）」が目的であり、死はその手段として機能する。",
+      "targetId": "hieronymus_psalmi_129",
+      "targetParagraphId": 2
+    },
+    {
+      "paragraphId": 13,
+      "type": "glossary",
+      "anchor": "Mas no, dueño amado,\nque es justo padezca;\nque expíe mis yerros,\nmis culpas inmensas.\n¡Ay!, logren mis lágrimas\nte dignes oír:",
+      "body": "「しかし、いや、愛する主よ（Mas no, dueño amado）──苦しむことが正しい（es justo padezca）──私の過ちを、私の計り知れない罪を償うために（expíe mis yerros, mis culpas inmensas）」──詩篇全体の結語にして最も神学的に複雑な連。「Mas no（しかし、いや）」──強い逆接：第12連「Haz que acabe（終わらせてください）」という嘆願を詩人自身が否定・撤回する自己逆転。12連を通じて積み上げてきた「死への渇望」が最終連で自ら留保される──「destierro（追放）」の嘆きが罪の意識と出会うことで詩的次元が追加される。「es justo padezca（苦しむことが正しい）」──affliction への自発的同意：ヨブ記第2章v.10「si bona suscepimus de manu Dei, mala quare non suscipiamus（善いものを受けたのに悪いものを受け入れないでいられようか）」というヨブの初期的受容の語彙と照応する──しかしヨブが第3章で「maledixit diei suo（自分の生まれた日を呪った）」へと転化するのに対して、テレサは最終連で「苦しみの甘受（padezca）」へと到達する：affliction の受容という神秘主義的深度。「expíe mis yerros, mis culpas inmensas（私の過ちを、私の計り知れない罪を償う）」──「expiación（贖罪・償い）」という神学的概念：affliction が神からの罰ではなく自らの「罪（culpas）」への贖罪として内面化される。詩篇129篇v.3「Si iniquitates observaveris, Domine, quis sustinebit?（不正を記録するなら誰が耐えられるか）」という罪の前での弱さの告白と「expíe mis culpas（罪を償う）」という能動的贖罪意志の対照。「logren mis lágrimas / te dignes oír（私の涙によって、お聞きくださるに値するように）」──「lágrimas（涙）」が神の傾聴の条件として提示される：詩篇87篇で「Numquid narrabit aliquis in sepulchro misericordiam tuam?（誰かが墓の中であなたの慈しみを語るか）」という無応答の問いが閉じるのに対して、テレサは最終連で「logren mis lágrimas te dignes oír（涙によってお聞きいただける）」という応答の可能性を開いたまま詩篇を閉じる──詩篇87篇の「転換なき絶望」に対して、テレサの「転換の可能性」という構造的対照。",
+      "targetId": "hieronymus_psalmi_129",
+      "targetParagraphId": 3
+    },
+    {
+      "paragraphId": 13,
+      "type": "prosody",
+      "anchor": "Ansiosa de verte,\ndeseo morir.",
+      "body": "折り返し句（estribillo）の最終出現。「Vivo sin vivir en mí」の折り返し句「que muero porque no muero（死なないから死ぬ）」との形式的比較──「muero porque no muero」が論理的逆説構造を持つのに対して、「deseo morir（死にたいと願う）」は感情的直接性として機能する：前者が認識論的命題、後者が意志的欲望として詩的様式の差異を示す。最終連において折り返し句の意味が変容する：第1〜12連では「死への渇望」として反復されてきた折り返し句が、第13連の「Mas no（しかし、いや）」という逆接・罪の意識・贖罪意志を経た後では「苦しみを受け入れながらもなお死を望む」という複雑な感情として再文脈化される──折り返し句の反復が内容的に単純な反復でないことを示す。villancico形式における折り返し句の機能──各連の「意味的展開」が最終的に折り返し句という「不変の定式」へと収束することで、神秘主義的「渇望」の構造的永続性が詩的形式として実演される。"
+    }
+  ]
+}
