@@ -1,0 +1,118 @@
+{
+  "id": "silva_reminiscencia_siglo_xviii",
+  "title": "Reminiscencia siglo XVIII",
+  "author": "Medardo Ángel Silva",
+  "source": "El árbol del bien y del mal (1918). Wikisource: https://es.wikisource.org/wiki/Reminiscencia_siglo_XVIII",
+  "year": "1918",
+  "firstPublication": "El árbol del bien y del mal, Guayaquil, 1918",
+  "difficulty": "中級",
+  "category": "silva",
+  "originalLang": "es-ES",
+  "modernRelevance": "★★★★",
+  "context": "メダルド・アンヘル・シルバ（Medardo Ángel Silva, 1898–1919）の詩集『善悪の樹（El árbol del bien y del mal, 1918）』の「バラード、回想詩、その他（Baladas, reminiscencias y otros poemas）」部門に収録。全6連×4行の詩篇。18世紀フランスのロココ文化──トリアノン宮殿・アルカディアの牧歌的仮装・侯爵夫人たちの優雅な遊戯・シレノ像・ポンパドゥール夫人・フォーン（牧神）という貴族文化の遺物群──を「回想（reminiscencia）」として審美的に再構成する詩。詩の時制構造は「Eran / Era（〜だった）」という不完全過去形による過去の黄金期への溯及と、「¡Oh, siglo lindo!（ああ、美しい世紀！）」という現在の感嘆による距離の確認として組織される。最終連における「Pablo Verlaine que se encuentra en los cielos（天にいるポール・ヴェルレーヌ）」という言及がこの詩をヴェルレーヌへの詩的オマージュとして位置づける──ヴェルレーヌの「fêtes galantes（雅宴）」の詩集群が同一の18世紀ロココ美学を詩的素材としており、シルバはヴェルレーヌを「vieux y galante poeta（老いた雅やかな詩人）」として天上に位置づけることでモデルニスモ詩人としての系譜意識を示す。",
+  "keywords": [
+    "18世紀ロココ",
+    "Trianón",
+    "Arcadia",
+    "marquesas pastoras",
+    "Pompadour",
+    "fauno",
+    "Verlaine",
+    "fêtes galantes",
+    "reminiscencia",
+    "モデルニスモ"
+  ],
+  "relatedTexts": [
+    "silva_de_profundis_clamavi",
+    "verlaine_clair_de_lune",
+    "verlaine_colloque_sentimental",
+    "gautier_coquetterie_posthume",
+    "gautier_l_art",
+    "baudelaire_invitation_voyage",
+    "hieronymus_ecclesiastes_1"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "verses": "v.1–4",
+      "original": "Vaga el olor por la antigua vereda,\ndonde marmóreo Sileno retoza,\ndel dieciochesco vestido de seda\nen la ducal y dorada carroza.",
+      "provisionalTranslation": "古い小道をその香りがさまよう、\n大理石のシレノが戯れるところ、\n18世紀風の絹の衣をまとい、\n公爵風の黄金の馬車に乗って。"
+    },
+    {
+      "id": 2,
+      "verses": "v.5–8",
+      "original": "Erán Trianón y la Arcadia —artificio\nque hizo más suaves las ásperas horas—\nel pastorial y bucólico vicio\nde las divinas marquesas pastoras.",
+      "provisionalTranslation": "トリアノンとアルカディアだった──人工物、\n荒々しい時間をより柔らかにしたもの──\n神々しい侯爵夫人たちの\n牧歌的で田園的な逸楽。"
+    },
+    {
+      "id": 3,
+      "verses": "v.9–12",
+      "original": "Eran los iris, las joyas temblantes\ny las espumas de los surtidores:\nla sombra azul en los kioskos galantes\ny el sonreír de los lindos Amores.",
+      "provisionalTranslation": "虹色と、揺れる宝石たちと\n噴水の泡立ちだった。\n雅なキオスクの青い影と\n可愛らしいアモルたちの微笑みだった。"
+    },
+    {
+      "id": 4,
+      "verses": "v.13–16",
+      "original": "Eran los mórbidos brazos de lira,\ninclinaciones de blancas pelucas\ny Pompadour y la cruel Lindamira\ny los lunares en las rubias nucas.",
+      "provisionalTranslation": "竪琴のような柔らかな腕たちと、\n白い鬘の会釈と、\nポンパドゥールと残酷なリンダミラと、\n金色の首筋のほくろたちだった。"
+    },
+    {
+      "id": 5,
+      "verses": "v.17–20",
+      "original": "Ardiente roce de la mano cauta\ny acariciante boca diminuta...\nEra el idilio al sonar de la flauta\ndel verde fauno de la barba hirsuta...",
+      "provisionalTranslation": "慎重な手の熱い触れ合いと\n愛撫する小さな口……\n粗い顎髭の緑の牧神の\n笛の音に合わせた牧歌だった……"
+    },
+    {
+      "id": 6,
+      "verses": "v.21–24",
+      "original": "¡Oh, siglo lindo! —amarilla viñeta,\nrasos, perfumes, risas, terciopelos,—\nque tuvo un viejo y galante poeta:\nPablo Verlaine que se encuentra en los cielos.",
+      "provisionalTranslation": "ああ、美しい世紀！──黄ばんだ挿絵、\nサテン、香水、笑い声、ビロード──\n一人の老いた雅やかな詩人を持った世紀、\n天にいるポール・ヴェルレーヌを。"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "Vaga el olor por la antigua vereda,\ndonde marmóreo Sileno retoza,",
+      "body": "「古い小道をその香りがさまよう（Vaga el olor por la antigua vereda）──大理石のシレノが戯れるところ（donde marmóreo Sileno retoza）」──詩篇の開幕が嗅覚（olor）と視覚（marmóreo Sileno）の複合的感覚から始まる。「Vaga（さまよう）」という動詞の現在形──詩の時制構造の中で唯一の現在形として際立つ：「香り（olor）」のみが現在においてもさまよい続け、他のすべては「Eran / Era（〜だった）」という過去形で語られる──「香り」の持続と「すべての視覚的光景」の過去化という対比が詩の時間構造の核心を先取りする。「Sileno（シレノ）」──ギリシャ神話のシレノス（Silenus）：ディオニュソスの教師・従者で酒と快楽の象徴。「marmóreo（大理石の）」という形容が「彫像（estatua）」としてのシレノを指示する：18世紀フランス庭園（ヴェルサイユ・トリアノン等）に配置された古典的彫像群の一つとして。「del dieciochesco vestido de seda / en la ducal y dorada carroza（18世紀風の絹の衣……公爵風の黄金の馬車）」──修飾語の密度が18世紀ロココ審美の「装飾性」を文体的に実演する。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "Erán Trianón y la Arcadia —artificio\nque hizo más suaves las ásperas horas—\nel pastorial y bucólico vicio\nde las divinas marquesas pastoras.",
+      "body": "「トリアノンとアルカディアだった──人工物（artificio）、荒々しい時間をより柔らかにしたもの──神々しい侯爵夫人たちの牧歌的で田園的な逸楽（vicio）」──詩篇の審美的・歴史的核心命題。「Trianón（トリアノン）」──ヴェルサイユのプティ・トリアノン宮殿：マリー・アントワネットが愛した離宮で、その庭園には田園的な「農村（hameau）」が設えられた──貴族が「牧人（pastora）」を演じる贅沢な遊戯の舞台。「la Arcadia（アルカディア）」──ウェルギリウス「牧歌（Eclogae）」以来の「理想的田園・黄金郷」の詩的トポス：18世紀ロココ文化において貴族が「牧人（pasteur）」に扮する「牧歌的仮装（fête champêtre）」の文化的基盤。「artificio（人工物・作り物）」──ダッシュ（──）によって挿入される括弧内の規定として「Trianón と Arcadia」が「自然」ではなく「人工（artificio）」であることを詩人が自ら明示する：18世紀ロココの本質的な「作り物性」の醒めた認識。「pastorial y bucólico vicio（牧歌的で田園的な逸楽）」──「vicio（逸楽・悪癖）」という道徳的否定語が「pastorial（牧歌的）」という肯定的形容と並置される矛盾語法。ヴェルレーヌ「Clair de lune」「Votre âme est un paysage choisi（あなたの魂は選ばれた風景）」における「仮面舞踏会（masques et bergamasques）」の田園的仮装との直接照応。",
+      "targetId": "verlaine_clair_de_lune",
+      "targetParagraphId": 1
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "Eran los iris, las joyas temblantes\ny las espumas de los surtidores:\nla sombra azul en los kioskos galantes\ny el sonreír de los lindos Amores.",
+      "body": "「虹色と、揺れる宝石たちと噴水の泡立ち──雅なキオスクの青い影と可愛らしいアモルたちの微笑み」──純粋な感覚的列挙による18世紀ロココ光景の再構成。「los iris（虹色）」・「las joyas temblantes（揺れる宝石）」・「las espumas（泡立ち）」──三つの光の形象が連続する：虹・宝石・泡はいずれも「光の分解・反射・束の間の輝き」として共通の審美的性質を持つ。「sombra azul en los kioskos galantes（雅なキオスクの青い影）」──「sombra（影）」という暗さと「azul（青）」という明るさの矛盾語法：18世紀庭園の「キオスク（kiosque：屋根付き小亭）」の涼しい日陰が「青い影」として詩的に定着される。「los lindos Amores（可愛らしいアモルたち）」──ロココ絵画の定番モチーフであるキューピッド（Amour）の複数形：フラゴナール・ブーシェ・ワトーのロココ絵画に頻出するプットー（putti）の詩的言及。コヘレト第1章v.8「Non saturatur oculus visu（目は見ることに飽くことなく）」という感覚の不飽和性──シルバの感覚的列挙はロココの視覚的豊穣を「目が飽くことなく」集積する詩的実践として読める。",
+      "targetId": "hieronymus_ecclesiastes_1",
+      "targetParagraphId": 8
+    },
+    {
+      "paragraphId": 4,
+      "type": "commentary",
+      "anchor": "Eran los mórbidos brazos de lira,\ninclinaciones de blancas pelucas\ny Pompadour y la cruel Lindamira\ny los lunares en las rubias nucas.",
+      "body": "「竪琴のような柔らかな腕たち（mórbidos brazos de lira）──白い鬘の会釈──ポンパドゥールと残酷なリンダミラ──金色の首筋のほくろたち」──詩篇全体で最も感覚的・肉体的な連。「mórbidos brazos de lira（竪琴のような柔らかな腕）」──「mórbido（柔らかな・優美な）」はスペイン語・イタリア語の美術用語として「病的な（morbid）」ではなく「柔らかな・優美な」を意味する：「lira（竪琴）」の弧を描く形状が腕の優美な曲線の比喩として機能する。「blancas pelucas（白い鬘）」──18世紀フランス貴族・宮廷の典型的装身具：「inclinaciones（会釈・傾き）」という動作と結びつくことで静物的な「鬘」が社交的身振りとして動態化される。「Pompadour（ポンパドゥール）」──ルイ15世の寵姫マルキーズ・ド・ポンパドゥール（1721–1764）：18世紀フランス文化の象徴的人物。「la cruel Lindamira（残酷なリンダミラ）」──架空の貴婦人名：「cruel（残酷な）」という形容が18世紀恋愛文学の「残酷な美女」のトポスとして機能する。「los lunares en las rubias nucas（金色の首筋のほくろたち）」──18世紀の女性たちが顔や首筋につけた絹製の装飾的ほくろ（mouche）が「rubias nucas（金色の首筋）」という官能的身体的形象として詩的に定着される。"
+    },
+    {
+      "paragraphId": 5,
+      "type": "commentary",
+      "anchor": "Ardiente roce de la mano cauta\ny acariciante boca diminuta...\nEra el idilio al sonar de la flauta\ndel verde fauno de la barba hirsuta...",
+      "body": "「慎重な手の熱い触れ合い（ardiente roce de la mano cauta）と愛撫する小さな口──粗い顎髭の緑の牧神の笛の音に合わせた牧歌（era el idilio al sonar de la flauta / del verde fauno de la barba hirsuta）」──詩篇で最も官能的かつ神話的な連。「ardiente……cauta（熱い……慎重な）」という矛盾語法：「熱い（ardiente）」という情熱と「慎重な（cauta）」という自制が同一の「手（mano）」の形容として並置される──ロココ的礼節（politesse）の外皮と内面の情熱の緊張として。「fauno（牧神・フォーン）」──ローマ神話のFaunus：ギリシャ神話のPanに対応する半人半獣の牧神で笛（flauta）の奏者。「verde fauno（緑の牧神）」──「verde（緑）」という色彩が牧神の自然的・植物的性格を示す。「barba hirsuta（粗い顎髭）」──文明化された18世紀ロココの世界（白い鬘・絹・宝石）に「粗い顎髭」という野性的・自然的存在が侵入する：「人工（artificio）」の世界（第2連）に神話的・自然的存在が共存するロココ文化の混合的性格。「三点リーダー（...）」の三重使用──詩篇で最も省略法が密集する連として官能と神話の余韻を統語的に実現する。ヴェルレーヌ「Colloque sentimental」の二つの影の対話における官能的含意との照応。",
+      "targetId": "verlaine_colloque_sentimental",
+      "targetParagraphId": 1
+    },
+    {
+      "paragraphId": 6,
+      "type": "glossary",
+      "anchor": "¡Oh, siglo lindo! —amarilla viñeta,\nrasos, perfumes, risas, terciopelos,—\nque tuvo un viejo y galante poeta:\nPablo Verlaine que se encuentra en los cielos.",
+      "body": "「ああ、美しい世紀！（¡Oh, siglo lindo!）──黄ばんだ挿絵、サテン、香水、笑い声、ビロード──一人の老いた雅やかな詩人を持った世紀：天にいるポール・ヴェルレーヌ」──詩篇全体の結語にして最も重要な命題。「¡Oh, siglo lindo!」──詩篇全体で唯一の感嘆符（!）と現在の感嘆：「Eran / Era（〜だった）」という過去形の連続から「¡Oh!」という現在の讃嘆への転換が詩の時制的頂点を形成する。「amarilla viñeta（黄ばんだ挿絵）」──「amarilla（黄ばんだ）」という形容詞が書物の古びた挿絵（viñeta）に付されることで、18世紀ロココが「現在においては黄ばんだ書物の中の挿絵」として位置づけられる：「¡Oh, siglo lindo!」という讃嘆が「amarilla（黄ばんだ）」という退色の認識を伴う──美化と距離の同時性。「rasos, perfumes, risas, terciopelos（サテン、香水、笑い声、ビロード）」──ダッシュに包まれた四項の列挙が感覚的要約として機能する：触覚（rasos・terciopelos）・嗅覚（perfumes）・聴覚（risas）の三感覚が凝縮される。「viejo y galante poeta（老いた雅やかな詩人）」──「viejo（老いた）」という形容詞がヴェルレーヌに付される：晩年の放浪・貧困・病というヴェルレーヌの実像が「galante（雅やかな）」という逆説的対比の中に含意される。「Pablo Verlaine que se encuentra en los cielos（天にいるポール・ヴェルレーヌ）」──詩篇の最終行。ヴェルレーヌは1896年死去。18世紀ロココを詩的素材としたヴェルレーヌ「Fêtes galantes」へのスペイン語圏モデルニスモ的応答として本詩篇が位置づけられる。コヘレト第1章v.11「Non est priorum memoria（先のことどもの記憶はない）」という記憶の不在に対して、シルバの「Reminiscencia（回想）」は意図的な記憶行為として18世紀とヴェルレーヌを「天に」永続化させる逆説的応答として読める。",
+      "targetId": "hieronymus_ecclesiastes_1",
+      "targetParagraphId": 11
+    }
+  ]
+}
