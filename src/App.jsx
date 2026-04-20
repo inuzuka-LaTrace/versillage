@@ -47,6 +47,7 @@ import rossetti_cData from './data/rossetti_c';
 import d_g_rossettiData from './data/d_g_rossetti';
 import yeatsData from './data/yeats';
 import juan_de_la_cruzData from './data/juan_de_la_cruz';
+import teresaData from './data/teresa';
 import hieronymusData from './data/hieronymus';
 import { CATEGORIES, CAT_SHORT, ANNOTATION_TYPE_DEF, SPEECH_RATES, PREFERRED_VOICES, SPEAKER_COLORS, SPEAKER_FIXED_COLORS, AUTHOR_COLOR_MAP } from './constants';
 import { getTranslation, getOriginalText, getSpeechLang, getBestVoice, extractSnippet } from './utils';
@@ -260,6 +261,7 @@ export default function App() {
       ...hoelderlinData,
       ...rilkeData,
       ...juan_de_la_cruzData,
+      ...teresaData,
       ...hieronymusData,
     };
     setTexts(allTexts);
