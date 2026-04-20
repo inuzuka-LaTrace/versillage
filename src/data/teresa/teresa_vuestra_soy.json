@@ -1,0 +1,223 @@
+{
+  "id": "teresa_vuestra_soy",
+  "title": "Vuestra soy, para vos nací",
+  "author": "Santa Teresa de Jesús",
+  "source": "Wikisource: https://es.wikisource.org/wiki/Vuestra_soy,_para_vos_nací",
+  "year": "1560年代頃（詩作）",
+  "firstPublication": "Obras de Santa Teresa de Jesús（没後刊行。テレサは1582年没）",
+  "difficulty": "初級",
+  "category": "teresa",
+  "originalLang": "es-ES",
+  "modernRelevance": "★★★★★",
+  "context": "イエスの聖テレサ（Santa Teresa de Jesús, 1515–1582）の詩篇。「あなたのもの、あなたのために生まれた（Vuestra soy, para vos nací）」。序連（2行）＋本連12連（各7行）＋結尾（2行）からなる大規模な詩篇。詩の中心を貫く折り返し句「¿Qué mandáis hacer de mí?（私に何をするよう命じますか）」が各連末に反復され、詩全体が神への根本的な自己奉献（ofrenda total）として展開される。テレサ詩篇群の中で本篇は最も組織的・神学的で、全12本連が三つの主題的ブロックを形成する。①第1〜3連：神の属性と詩人の身分の確認──「Soberana Majestad（至高の陛下）」への呼びかけ・「Vuestra（あなたのもの）」の六重反復・「esclavo pecador（罪深い奴隷）」の自己規定。②第4〜8連：対義語の徹底的列挙──死/命・健康/病・戦争/平和・天国/地獄・豊かさ/貧しさ・祈り/霊的乾燥・知恵/無知・光/闇と、どの状態においても「a todo digo que sí（すべてにはいと言う）」という全面的受諾。③第9〜12連：聖書的人物の並置──カルバリオ/タボル・ヨブ/ヨハネ・ヨセフ/ダビデ/ヨナという受難と栄光の二極を生きた人物たちとの同一化。詩の神学的核心は「Fiat（御心のままに）」の詩的展開──ルカ福音書1:38「ecce ancilla Domini（主の僕です）」というマリアの答えの徹底的な変奏として読める。",
+  "keywords": [
+    "vuestra soy",
+    "qué mandáis hacer de mí",
+    "ofrenda total",
+    "対義語の列挙",
+    "聖書的人物の並置",
+    "fiat voluntas tua",
+    "esclavo pecador",
+    "Calvario y Tabor",
+    "Job y Juan",
+    "全面的受諾"
+  ],
+  "relatedTexts": [
+    "teresa_vivo_sin_vivir",
+    "teresa_ayes_del_destierro",
+    "teresa_nada_te_turbe",
+    "teresa_yo_toda_me_entregue",
+    "juan_de_la_cruz_glosa_a_lo_divino",
+    "juan_de_la_cruz_noche_oscura",
+    "weil_effacement",
+    "weil_accepter_le_vide",
+    "weil_necessite",
+    "hieronymus_iob_3",
+    "hieronymus_psalmi_21",
+    "hieronymus_psalmi_87"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "verses": "v.1–2",
+      "original": "Vuestra soy, para Vos nací,\n¿Qué mandáis hacer de mí?",
+      "provisionalTranslation": "あなたのもの、あなたのために生まれた、\n私に何をするよう命じますか？"
+    },
+    {
+      "id": 2,
+      "verses": "v.3–9",
+      "original": "Soberana Majestad,\nEterna sabiduría,\nBondad buena al alma mía;\nDios, alteza, un ser, bondad,\nLa gran vileza mirad,\nQue hoy os canta amor así.\n¿Qué mandáis hacer de mí?",
+      "provisionalTranslation": "至高の陛下よ、\n永遠の知恵よ、\n私の魂への善い善さよ。\n神よ、崇高さよ、一つの存在、善さよ、\n大いなる卑しさをご覧ください、\n今日このようにあなたに愛を歌う者の。\n私に何をするよう命じますか？"
+    },
+    {
+      "id": 3,
+      "verses": "v.10–16",
+      "original": "Vuestra soy, pues me criastes,\nVuestra, pues me redimistes,\nVuestra, pues que me sufristes,\nVuestra, pues que me llamastes,\nVuestra, porque me esperastes,\nVuestra, pues no me perdí.\n¿Qué mandáis hacer de mí?",
+      "provisionalTranslation": "あなたのもの、あなたが私を創られたから。\nあなたのもの、あなたが私を贖われたから。\nあなたのもの、あなたが私に耐えてくださったから。\nあなたのもの、あなたが私を呼ばれたから。\nあなたのもの、あなたが私を待っていてくださったから。\nあなたのもの、私が失われなかったから。\n私に何をするよう命じますか？"
+    },
+    {
+      "id": 4,
+      "verses": "v.17–23",
+      "original": "¿Qué mandáis, pues, buen Señor,\nQue haga tan vil criado?\n¿Cuál oficio le habéis dado\nA este esclavo pecador?\nVeisme aquí, mi dulce Amor,\nAmor dulce, veisme aquí,\n¿Qué mandáis hacer de mí?",
+      "provisionalTranslation": "では何をするよう命じますか、善い主よ、\nこれほど卑しい従者に？\nこの罪深い奴隷に\nどのような役割をお与えになりましたか？\nここにいます、わが甘い愛よ、\n甘い愛よ、ここにいます。\n私に何をするよう命じますか？"
+    },
+    {
+      "id": 5,
+      "verses": "v.24–30",
+      "original": "Veis aquí mi corazón,\nYo le pongo en vuestra palma,\nMi cuerpo, mi vida y alma,\nMis entrañas y afición;\nDulce Esposo y redención\nPues por vuestra me ofrecí.\n¿Qué mandáis hacer de mí?",
+      "provisionalTranslation": "ここに私の心があります、\n私はそれをあなたの手のひらに置きます。\n私の身体、私の命と魂、\n私の内臓と愛情を。\n甘い花婿よ、贖い主よ、\nあなたのものとして自らを捧げたから。\n私に何をするよう命じますか？"
+    },
+    {
+      "id": 6,
+      "verses": "v.31–37",
+      "original": "Dadme muerte, dadme vida:\nDad salud o enfermedad,\nHonra o deshonra me dad,\nDadme guerra o paz crecida,\nFlaqueza o fuerza cumplida,\nQue a todo digo que sí.\n¿Qué queréis hacer de mí?",
+      "provisionalTranslation": "死をください、命をください。\n健康か病をください、\n名誉か不名誉をください、\n戦いか大きな平和をください、\n弱さか十分な力をください、\nすべてにはいと言います。\nあなたは私に何をしようとしますか？"
+    },
+    {
+      "id": 7,
+      "verses": "v.38–44",
+      "original": "Dadme riqueza o pobreza,\nDad consuelo o desconsuelo,\nDadme alegría o tristeza,\nDadme infierno, o dadme cielo,\nVida dulce, sol sin velo,\nPues del todo me rendí.\n¿Qué mandáis hacer de mí?",
+      "provisionalTranslation": "富か貧しさをください、\n慰めか慰めのなさをください、\n喜びか悲しみをください、\n地獄をください、あるいは天国をください、\n甘い命よ、ヴェールなき太陽よ、\n完全に降伏したから。\n私に何をするよう命じますか？"
+    },
+    {
+      "id": 8,
+      "verses": "v.45–51",
+      "original": "Si queréis, dadme oración,\nSí no, dadme sequedad,\nSi abundancia y devoción,\nY si no esterilidad.\nSoberana Majestad,\nSólo hallo paz aquí,\n¿Qué mandáis hacer de mí?",
+      "provisionalTranslation": "もし望むなら、祈りをください、\nそうでなければ、霊的乾燥をください、\nもし豊かさと献身を、\nそうでなければ不毛を。\n至高の陛下よ、\nただここにだけ平和を見出します。\n私に何をするよう命じますか？"
+    },
+    {
+      "id": 9,
+      "verses": "v.52–58",
+      "original": "Dadme, pues, sabiduría,\nO por amor, ignorancia,\nDadme años de abundancia,\nO de hambre y carestía;\nDad tiniebla o claro día\nRevolvedme aquí o allí\n¿Qué mandáis hacer de mí?",
+      "provisionalTranslation": "では、知恵をください、\nあるいは愛ゆえに、無知を。\n豊穣の年をください、\nあるいは飢えと乏しさの。\n闇をください、あるいは明るい日を。\nここへでもあちらへでも動かしてください。\n私に何をするよう命じますか？"
+    },
+    {
+      "id": 10,
+      "verses": "v.59–65",
+      "original": "Si queréis que esté holgando,\nQuiero por amor holgar.\nSi me mandáis trabajar,\nMorir quiero trabajando.\nDecid, ¿dónde, cómo y cuándo?\nDecid, dulce Amor, decid.\n¿Qué mandáis hacer de mí?",
+      "provisionalTranslation": "もし休むよう望むなら、\n愛ゆえに休みたいと思います。\nもし働くよう命じるなら、\n働きながら死にたいと思います。\n言ってください、どこで、どのように、いつ？\n言ってください、甘い愛よ、言ってください。\n私に何をするよう命じますか？"
+    },
+    {
+      "id": 11,
+      "verses": "v.66–72",
+      "original": "Dadme Calvario o Tabor,\nDesierto o tierra abundosa,\nSea Job en el dolor,\nO Juan que al pecho reposa;\nSea' viña frutuosa\nO estéril, si cumple así.\n¿Qué mandáis hacer de mí?",
+      "provisionalTranslation": "カルバリオをください、あるいはタボルを、\n荒れ野か豊かな大地を。\n苦しみの中のヨブとなろうか、\nあるいは胸に憩うヨハネとなろうか。\n実り多い葡萄畑となろうか、\nあるいはそれが適うなら不毛の。\n私に何をするよう命じますか？"
+    },
+    {
+      "id": 12,
+      "verses": "v.73–79",
+      "original": "Sea Josef puesto en cadenas,\nO de Egito Adelantado,\nO David sufriendo penas,\nO ya David encumbrado,\nSea Jonás anegado,\nO libertado de allí,\n¿Qué mandáis hacer de mí?",
+      "provisionalTranslation": "鎖につながれたヨセフとなろうか、\nあるいはエジプトの総督となろうか。\n苦しみを受けるダビデとなろうか、\nあるいは高められたダビデとなろうか。\n水に沈むヨナとなろうか、\nあるいはそこから解放されたヨナとなろうか。\n私に何をするよう命じますか？"
+    },
+    {
+      "id": 13,
+      "verses": "v.80–86",
+      "original": "Esté callando o hablando,\nHaga fruto o no le haga,\nMuéstreme la Ley mi llaga,\nGoce de Evangelio blando;\nEsté penando o gozando,\nSólo Vos en mí viví,\n¿Qué mandáis hacer de mí?",
+      "provisionalTranslation": "黙っていようか、語っていようか、\n実を結ぼうか、結ぶまいか、\n律法が私の傷を示してくれよう、\n柔らかな福音を享受しよう。\n苦しんでいようか、喜んでいようか、\nただあなただけが私の中に生きた。\n私に何をするよう命じますか？"
+    },
+    {
+      "id": 14,
+      "verses": "v.87–88",
+      "original": "Vuestra soy, para Vos nací\n¿Qué mandáis hacer de mí?",
+      "provisionalTranslation": "あなたのもの、あなたのために生まれた。\n私に何をするよう命じますか？"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "glossary",
+      "anchor": "Vuestra soy, para Vos nací,\n¿Qué mandáis hacer de mí?",
+      "body": "序連にして詩篇全体の神学的命題の凝縮──二行で詩全体の問いと答えが提示される。「Vuestra soy（あなたのもの）」──所有格「vuestra」による自己規定：詩人が自らを「神の所有物（propiedad de Dios）」として定義する。「para Vos nací（あなたのために生まれた）」──誕生の目的論的定義：生の目的が「神（Vos）のため」として先験的に確立される。詩篇21篇v.11「In te projectus sum ex utero（胎から私はあなたに投げかけられた）」という「誕生の神への委ね」がテレサにおいては「para Vos nací（あなたのために生まれた）」という明示的目的語として語られる。「¿Qué mandáis hacer de mí?（私に何をするよう命じますか）」──折り返し句の問いの形式が詩全体の神学的姿勢を設定する：命令するのは神であり、詩人は「何を命じられても応じる（a todo digo que sí）」という受諾の立場に置かれる。「mandáis（命じる）」という動詞の敬称複数形（voseo）──スペイン語の敬語的二人称複数として神への敬意を示す。ルカ福音書1:38「ecce ancilla Domini; fiat mihi secundum verbum tuum（主の僕です。お言葉通りになさってください）」というマリアの「fiat（御心のままに）」の詩的展開として詩全体が機能する。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "Soberana Majestad,\nEterna sabiduría,\nBondad buena al alma mía;\nDios, alteza, un ser, bondad,",
+      "body": "「至高の陛下（Soberana Majestad）──永遠の知恵（Eterna sabiduría）──一つの存在、善さ（un ser, bondad）」──神の属性の列挙が第一本連の前半を占める。神学的「属性論（theologia attributorum）」の詩的変奏：「majestad（陛下・威厳）」・「sabiduría（知恵）」・「bondad（善さ）」・「alteza（崇高さ）」・「un ser（一つの存在）」という五属性が七行詩の四行を満たす。「un ser（一つの存在）」──スコラ哲学的「神の単純性（simplicitas Dei）」の定式：神は複数の属性を持つが「一つの存在（unum ens）」として統一される。「La gran vileza mirad（大いなる卑しさをご覧ください）」──神の属性の列挙の直後に「vileza（卑しさ）」という詩人自身の自己規定が逆接的に置かれる：神の崇高さ（alteza）と詩人の卑しさ（vileza）の極的対比が序連の中心的緊張を形成する。詩篇87篇v.16「Pauper sum ego（私は貧しい）」・詩篇21篇v.7「vermis et non homo（虫であって人間ではない）」という聖書的自己卑下の系譜がテレサにおいては「gran vileza（大いなる卑しさ）」という肯定形として詩的に継承される。"
+    },
+    {
+      "paragraphId": 3,
+      "type": "glossary",
+      "anchor": "Vuestra soy, pues me criastes,\nVuestra, pues me redimistes,\nVuestra, pues que me sufristes,\nVuestra, pues que me llamastes,\nVuestra, porque me esperastes,\nVuestra, pues no me perdí.",
+      "body": "「あなたのもの……なぜなら……（Vuestra soy, pues……）」の六重反復──詩篇全体で最も組織的な修辞的構造を持つ連。「Vuestra（あなたのもの）」という所有格が各行の冒頭で六回反復されるアナフォラ（anáfora）：詩人の「神への帰属」が六つの理由（causas）によって根拠づけられる。六つの神の行為：①「criastes（創られた）」──創造；②「redimistes（贖われた）」──贖罪；③「sufristes（耐えてくださった）」──忍耐；④「llamastes（呼ばれた）」──召命；⑤「esperastes（待っていてくださった）」──待機；⑥「no me perdí（失われなかった）」──保護。「pues（なぜなら・だから）」という因果接続詞が各行で反復され、所有の論理的根拠として機能する──詩人が「神のもの（vuestra）」である理由が六つの神の行為として体系的に列挙される。「pues me sufristes（耐えてくださったから）」──「sufrir（苦しむ・耐える）」という動詞：神が詩人の罪・弱さに「耐えた（sufrir）」という神学的忍耐の概念。「Vuestra, pues no me perdí（失われなかったから）」──最後の行が能動的神の行為ではなく詩人側の「否定的帰結（non-perdition）」として締める：六つの「神の行為」の結果として詩人が「失われなかった（no me perdí）」という保護の完了を確認する。"
+    },
+    {
+      "paragraphId": 4,
+      "type": "commentary",
+      "anchor": "Veisme aquí, mi dulce Amor,\nAmor dulce, veisme aquí,",
+      "body": "「ここにいます、わが甘い愛よ（veisme aquí, mi dulce Amor）──甘い愛よ、ここにいます（Amor dulce, veisme aquí）」──二行の語順の逆転による反復（chiasmus）。「Amor dulce / dulce Amor」──「Amor（愛）」と「dulce（甘い）」の語順交換によるキアズムス（交差配列）：「私の甘い愛よ（mi dulce Amor）→甘い愛よ（Amor dulce）」という反転が「呼びかけ」の反復を単純反復ではなく鏡像的変奏として実現する。「veisme aquí（ここにいます）」──「veos + me + aquí」の短縮形：神への「自己提示（presentación）」として機能する。第五連「Veis aquí mi corazón（ここに私の心があります）」の「自己提示」の序として読める──第四連が「私自身（me）」を提示し、第五連が「私の心・身体・魂」を捧げるという段階的展開。テレサ「Nada te turbe」§4「A Jesucristo sigue / con pecho grande（イエス・キリストに従え、大きな心をもって）」という「con pecho grande（大きな心）」がここでは「veisme aquí（ここにいます）」という勇気ある自己提示として具現化される。"
+    },
+    {
+      "paragraphId": 5,
+      "type": "commentary",
+      "anchor": "Veis aquí mi corazón,\nYo le pongo en vuestra palma,\nMi cuerpo, mi vida y alma,\nMis entrañas y afición;",
+      "body": "「ここに私の心があります──私はそれをあなたの手のひらに置きます──私の身体、私の命と魂、私の内臓と愛情」──詩篇全体で最も身体的・具体的な自己奉献の表現。「Yo le pongo en vuestra palma（私はそれをあなたの手のひらに置きます）」──「palma（手のひら）」という身体的形象：神の「手（mano）」が受け取る場所として具体化される。詩篇21篇v.19「Diviserunt sibi vestimenta mea（私の衣を分けた）」という「剥奪」の逆として、テレサは自ら「corazón（心）」を神の「palma（手のひら）」に「置く（poner）」──受動的剥奪に対する能動的奉献。「Mi cuerpo, mi vida y alma / Mis entrañas y afición（私の身体、命と魂、内臓と愛情）」──五要素の cumulation（累積）が存在の全体性を網羅する：「cuerpo（身体）」・「vida（命）」・「alma（魂）」・「entrañas（内臓）」・「afición（愛情）」。「entrañas（内臓）」──スペイン語で「最も深い内部・内臓」を指す：感情の座としての内臓という身体的比喩。ヴェイユ「Effacement」§3「私の中の何かが『私』と言う限りにおいて、私はそれらと神との接触を奪う」──「corazón / cuerpo / alma / entrañas」という自己の全要素を「神の手のひら（vuestra palma）」に渡すことでヴェイユ的「effacement（消去）」が詩的に実現される。",
+      "targetId": "weil_effacement",
+      "targetParagraphId": 3
+    },
+    {
+      "paragraphId": 6,
+      "type": "glossary",
+      "anchor": "Dadme muerte, dadme vida:\nDad salud o enfermedad,\nHonra o deshonra me dad,\nDadme guerra o paz crecida,\nFlaqueza o fuerza cumplida,\nQue a todo digo que sí.",
+      "body": "「死をください、命をください──健康か病──名誉か不名誉──戦いか平和──弱さか力──すべてにはいと言います（a todo digo que sí）」──詩篇全体の神学的核心命題にして、対義語の第一列挙。対義語ペアの分析：「muerte/vida（死/命）」・「salud/enfermedad（健康/病）」・「honra/deshonra（名誉/不名誉）」・「guerra/paz（戦い/平和）」・「flaqueza/fuerza（弱さ/力）」──五対の対義語が六行詩の五行を満たす。「dadme……dad……dadme……dadme……dadme（ください……ください……ください）」というアナフォラ的命令形の連続：受け取る側（詩人）が「ください（dad）」と要求するのではなく、選択を完全に神に委ねる「逆説的要求」として機能する──「ください」と言いながら何を選ぶかは神が決める。「a todo digo que sí（すべてにはいと言います）」──詩篇全体の最も簡潔な神学的定式：affliction か喜びかを問わず「sí（はい）」という全面的受諾。ヴェイユ「Accepter le vide」§5「人間はこの世界の法則から稲妻の時間だけしか逃れられない」という「必然性への服従」がテレサにおいては「a todo digo que sí」という積極的・意志的な全面的受諾として変容される：ヴェイユが「法則への服従」として分析することをテレサは「はいという愛の応答」として詩的に定式化する。",
+      "targetId": "weil_accepter_le_vide",
+      "targetParagraphId": 5
+    },
+    {
+      "paragraphId": 7,
+      "type": "commentary",
+      "anchor": "Dadme riqueza o pobreza,\nDad consuelo o desconsuelo,\nDadme alegría o tristeza,\nDadme infierno, o dadme cielo,",
+      "body": "「富か貧しさ──慰めか慰めのなさ──喜びか悲しみ──地獄か天国（infierno o cielo）」──対義語の第二列挙にして神学的に最も大胆な一節。「Dadme infierno, o dadme cielo（地獄をください、あるいは天国をください）」──詩篇全体で最も極端な逆接対：救済の究極目標「cielo（天国）」と破滅の空間「infierno（地獄）」が同一の「dad（ください）」の目的語として並置される。詩篇87篇v.4「vita mea inferno appropinquavit（私の命は冥府に近づいた）」という「infierno への接近」を嘆く聖書的表現と対比的に、テレサは「infierno でもいい（dadme infierno）」と言う──affliction の空間への自発的開放として。「Vida dulce, sol sin velo（甘い命よ、ヴェールなき太陽よ）」──「sol sin velo（ヴェールなき太陽）」という光の形象が「infierno（地獄）」直後に挿入される：地獄への無条件の受諾の直後に神を「太陽」として讃える──神の属性（光・甘さ）への信頼が「地獄への受諾」を可能にするという神学的論理。「Pues del todo me rendí（完全に降伏したから）」──「Yo toda me entregué y dí」§2「mi alma quedó rendida（魂は降伏した）」と同一の動詞（rendirse）：「降伏」が「受諾」の究極的条件として詩篇を通じて反復される。"
+    },
+    {
+      "paragraphId": 8,
+      "type": "commentary",
+      "anchor": "Si queréis, dadme oración,\nSí no, dadme sequedad,\nSi abundancia y devoción,\nY si no esterilidad.\nSoberana Majestad,\nSólo hallo paz aquí,",
+      "body": "「もし望むなら、祈りを──そうでなければ霊的乾燥（sequedad）を──もし豊かさと献身を──そうでなければ不毛を──ただここにだけ平和を見出します（Sólo hallo paz aquí）」──対義語の第三列挙にして霊的経験における極の受容。「sequedad（霊的乾燥）」──神秘主義的専門用語：神への祈りにおいて感覚的・感情的な喜びが消え去る「霊的乾燥（desierto espiritual）」の状態。十字架の聖ヨハネ「Noche oscura」§1「con ansias, en amores inflamada（思い焦がれながら、愛の炎に燃えて）」という「感覚の充溢」とは逆の状態として「sequedad」が定義される：ヨハネにおいては「乾燥」が「暗夜」として試練として体験されるのに対して、テレサは「sequedad でもいい（dadme sequedad）」と受け入れる。「Sólo hallo paz aquí（ただここにだけ平和を見出します）」──「Nada te turbe」§10「Solo Dios basta（ただ神のみで足りる）」と並ぶテレサの「sólo（ただ〜だけ）」定式：「ここ（aquí）」という場所が「神の御前（coram Deo）」として定義される──affliction・乾燥・不毛のいずれの状態においても「ただここ（神の御前）にだけ平和がある」という確信。",
+      "targetId": "juan_de_la_cruz_noche_oscura",
+      "targetParagraphId": 1
+    },
+    {
+      "paragraphId": 9,
+      "type": "commentary",
+      "anchor": "Dadme, pues, sabiduría,\nO por amor, ignorancia,\nDadme años de abundancia,\nO de hambre y carestía;\nDad tiniebla o claro día",
+      "body": "「知恵をください──あるいは愛ゆえに、無知を（o por amor, ignorancia）──豊穣の年か飢えと乏しさの──闇か明るい日を」──対義語の第四列挙にして認識論的・物質的・光学的三次元の網羅。「O por amor, ignorancia（あるいは愛ゆえに、無知を）」──「por amor（愛ゆえに）」という動機が「ignorancia（無知）」の受容に付される：知恵ではなく無知を「愛ゆえに（por amor）」受け入れるという神秘主義的「知の放棄」。十字架の聖ヨハネ「Glosa a lo divino」§9「Por lo que por el sentido / puede acá comprehenderse（感覚によって把握できるもの）」の拒絶──ヨハネが「感覚でも知性でも把握できないもの」として「no sé qué」を指示するのに対して、テレサは「ignorancia（無知）」をも「por amor（愛ゆえに）」受け入れる：認識論的謙遜としての「無知の受容」。「Dad tiniebla o claro día（闇か明るい日を）」──「tiniebla（闇）」と「claro día（明るい日）」の光的対比：詩篇87篇v.7「in tenebrosis（暗闇の中に）」・詩篇129篇v.6「a custodia matutina（暁の番所から）」という聖書的「闇と光」の二極がテレサにおいては等価的受容の対象として並置される。",
+      "targetId": "juan_de_la_cruz_glosa_a_lo_divino",
+      "targetParagraphId": 9
+    },
+    {
+      "paragraphId": 10,
+      "type": "commentary",
+      "anchor": "Si queréis que esté holgando,\nQuiero por amor holgar.\nSi me mandáis trabajar,\nMorir quiero trabajando.\nDecid, ¿dónde, cómo y cuándo?\nDecid, dulce Amor, decid.",
+      "body": "「もし休むよう望むなら、愛ゆえに休みたい──もし働くよう命じるなら、働きながら死にたい──言ってください、どこで、どのように、いつ？」──対義語の第五列挙にして詩篇全体で最も具体的・生活的な表現。「Quiero por amor holgar（愛ゆえに休みたい）」・「Morir quiero trabajando（働きながら死にたい）」──どちらの行為も「por amor（愛ゆえに）」という動機によって統一される：「休む」こと「働く」こともが「愛ゆえに（por amor）」という一点において等価となる。「Morir quiero trabajando（働きながら死にたい）」──「Ayes del destierro」§8「¡Ay! ¿quién de su amado / puede estar ausente?（愛する者から誰が不在でいられるか）」という「愛による死」のモチーフがここでは「労働の死（muerte trabajando）」として実践的次元に降りてくる。「Decid, ¿dónde, cómo y cuándo? / Decid, dulce Amor, decid（言ってください、どこで、どのように、いつ）」──三つの副詞的疑問（dónde・cómo・cuándo）と命令形の三重反復（Decid……decid）：詩人が問うのは「何をするか」ではなく「どこで・どのように・いつするか」──行為の内容は既に委ねられ（a todo digo que sí）、その様態の指示を神に求める。"
+    },
+    {
+      "paragraphId": 11,
+      "type": "commentary",
+      "anchor": "Dadme Calvario o Tabor,\nDesierto o tierra abundosa,\nSea Job en el dolor,\nO Juan que al pecho reposa;",
+      "body": "「カルバリオかタボルを──荒れ野か豊かな大地を──苦しみの中のヨブとなろうか、あるいは胸に憩うヨハネとなろうか」──詩篇における聖書的人物・場所の並置の第一組。「Calvario o Tabor（カルバリオかタボル）」──キリスト受難の頂点「カルバリオ（ゴルゴタの丘）」と変容の頂点「タボル山（山上の変容）」の対比：キリスト体験の二極として苦難と栄光が対置される。「Sea Job en el dolor（苦しみの中のヨブとなろうか）」──ヨブ記第3章以降の affliction の典型的人物ヨブへの同一化：詩人は affliction を「ヨブの苦しみ」として理解し、その立場を「なろうか（sea）」という接続法で開放的に受け入れる。詩篇21篇v.7「vermis et non homo（虫であって人間ではない）」という受難詩篇の「虫」が、ここでは「Job en el dolor（苦しみのヨブ）」という固有名詞的afflictionの形象として変奏される。「O Juan que al pecho reposa（あるいは胸に憩うヨハネ）」──ヨハネ福音書13:23「erat recumbens in sinu Jesu（イエスの胸に寄りかかっていた）」という「愛された弟子」の親密さ：ヨブの affliction とヨハネの親密な憩いが対義語として並置される──苦しみと至福の二極の等価的受容。",
+      "targetId": "hieronymus_iob_3",
+      "targetParagraphId": 20
+    },
+    {
+      "paragraphId": 12,
+      "type": "commentary",
+      "anchor": "Sea Josef puesto en cadenas,\nO de Egito Adelantado,\nO David sufriendo penas,\nO ya David encumbrado,\nSea Jonás anegado,\nO libertado de allí,",
+      "body": "「鎖につながれたヨセフか、エジプトの総督か──苦しみを受けるダビデか、高められたダビデか──水に沈むヨナか、そこから解放されたヨナか」──聖書的人物の並置の第二組。三人の人物それぞれが「苦難の状態」と「栄光・解放の状態」として二分されて列挙される。「Josef puesto en cadenas / O de Egito Adelantado（鎖のヨセフ / エジプトの総督）」──創世記37–41章：兄弟に売られ投獄されたヨセフ（鎖）と、ファラオに任命された総督ヨセフ（栄光）の二極。「David sufriendo penas / O ya David encumbrado（苦しみのダビデ / 高められたダビデ）」──詩篇の著者として伝統的に理解されるダビデの二面：サウルに追われた逃亡期（penas）とイスラエルの王として即位した栄光期（encumbrado）。「Jonás anegado / O libertado de allí（沈むヨナ / そこから解放されたヨナ）」──ヨナ書2章：大魚の腹中での「水に沈む（anegado）」affliction と三日後の「解放（libertado）」。三対の並置が共通して示す神学的命題：どの状態（苦難か栄光か）にあっても「¿Qué mandáis hacer de mí?（私に何をするよう命じますか）」という問いと受諾の姿勢が変わらない──人生の位相に関わらない神への絶対的服従。"
+    },
+    {
+      "paragraphId": 13,
+      "type": "commentary",
+      "anchor": "Esté callando o hablando,\nHaga fruto o no le haga,\nMuéstreme la Ley mi llaga,\nGoce de Evangelio blando;\nEsté penando o gozando,\nSólo Vos en mí viví,",
+      "body": "「黙っていようか、語っていようか──実を結ぼうか、結ぶまいか──律法が私の傷を示してくれよう、柔らかな福音を享受しよう──苦しんでいようか、喜んでいようか──ただあなただけが私の中に生きた（Sólo Vos en mí viví）」──最終本連にして詩篇全体の神学的収束。「Muéstreme la Ley mi llaga / Goce de Evangelio blando（律法が私の傷を示してくれよう、柔らかな福音を享受しよう）」──律法と福音の神学的対比：パウロ「ガラテヤ書3:13」的な「律法の役割（llaga／罪の意識を示す）」と「福音の恵み（blando／柔らかな救い）」の二極が並置される。「llaga（傷）」──「Yo toda me entregué y dí」§3の「flecha enherbolada de amor（愛の矢）」による傷との照応：テレサ詩篇において「傷（herida / llaga）」は affliction の形象でもあり愛の形象でもある二義的語彙として機能する。「Sólo Vos en mí viví（ただあなただけが私の中に生きた）」──詩篇の最終本連の結語として全体を締める：「Vuestra soy（あなたのもの）」という序連の帰属宣言が「Sólo Vos en mí viví（ただあなただけが私の中に生きた）」という内住の確認として完成される。パウロ「ガラテヤ書2:20」「vivit vero in me Christus（キリストが私の中に生きている）」の詩的変奏として、「Vos en mí viví」という神の内住が詩篇全体の神学的到達点となる。テレサ「Vivo sin vivir en mí」§2「porque vivo en el Señor（なぜなら私は主の中に生きているから）」との対称的関係──「Vivo sin vivir en mí」では詩人が「主の中に生きる」のに対して、「Vuestra soy」では「主（Vos）が詩人の中に生きる（en mí viví）」──相互的内住として両詩篇が対を形成する。",
+      "targetId": "teresa_vivo_sin_vivir",
+      "targetParagraphId": 2
+    },
+    {
+      "paragraphId": 14,
+      "type": "prosody",
+      "anchor": "Vuestra soy, para Vos nací\n¿Qué mandáis hacer de mí?",
+      "body": "序連（§1）の完全な反復として詩篇を閉じる結尾連──円環的構造（estructura circular）の完成。詩が序連と同一の二行で始まり・終わることで、「Vuestra soy, para Vos nací（あなたのもの、あなたのために生まれた）」という命題が詩の全展開を経ても変わらない根本的真実として確認される。全14連を通じて展開されてきた「対義語の列挙」・「聖書的人物の並置」・「具体的状況の開放」のすべてが「Vuestra soy（あなたのもの）」という一文に収束する。「¿Qué mandáis hacer de mí?（私に何をするよう命じますか）」──折り返し句の最終出現として：12連にわたる反復の後、この問いは「open question（開かれた問い）」のまま詩を閉じる──「a todo digo que sí（すべてにはいと言います）」という答えを既に与えながら、それでもなお「何を命じますか」と問い続ける姿勢が詩の永続的現在として定着される。テレサ詩篇群全体の帰結として：「Vivo sin vivir（生きることなく生きる）」→「Ayes del destierro（追放の嘆き）」→「Nada te turbe（平静）」→「Yo toda me entregué（完全な奉献）」→「Vuestra soy（神のもの）」という神秘主義的上昇の最終地点として本詩篇が位置づけられる。"
+    }
+  ]
+}
