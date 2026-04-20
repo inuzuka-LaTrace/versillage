@@ -1,0 +1,98 @@
+{
+  "id": "teresa_yo_toda_me_entregue",
+  "title": "Yo toda me entregué y dí",
+  "author": "Santa Teresa de Jesús",
+  "source": "Obras de Santa Teresa de Jesús Wikisource: https://es.wikisource.org/wiki/Yo_toda_me_entregué_y_dí",
+  "year": "1560年代",
+  "firstPublication": "Obras de Santa Teresa de Jesús（没後刊行。テレサは1582年没）",
+  "difficulty": "初級",
+  "category": "teresa",
+  "originalLang": "es-ES",
+  "modernRelevance": "★★★★★",
+  "context": "イエスの聖テレサ（Santa Teresa de Jesús, 1515–1582）の詩篇。「私はすべてを捧げ与えた（Yo toda me entregué y dí）」。序連（4行）と本連2連（各8行）からなる villancico 形式──各連末尾に折り返し句「que mi Amado es para mí / y yo soy para mi Amado（私の愛する者は私のもの / 私は私の愛する者のもの）」が反復される。この折り返し句は雅歌2:16「Dilectus meus mihi et ego illi（私の愛する者は私のもの、私は彼のもの）」の直接的詩的変奏であり、テレサ詩篇の中で最も明示的に神との相互的所有・合一を主題とした作品。テレサ詩篇群（「Vivo sin vivir en mí」・「Ayes del destierro」・「Nada te turbe」）が「苦悩・渇望・格言」をそれぞれ主題とするのに対して、「Yo toda me entregué y dí」は「完了した合一（unión consumada）」を主題とする──「ya（すでに）」という副詞が冒頭と第三連に反復され、神との合一が「未来の希望」ではなく「完了した事実」として語られる。第二連の「dulce Cazador（甘い猟師）」という神の比喩と「flecha enherbolada de amor（愛の薬草を塗った矢）」という傷の形象が詩の中心的詩的力を形成する──十字架の聖ヨハネ「Cántico espiritual」・「Llama de amor viva」との語彙的・主題的照応関係の中に位置づけられる。",
+  "keywords": [
+    "ya toda me entregué",
+    "mi Amado es para mí",
+    "dulce Cazador",
+    "flecha enherbolada",
+    "rendida",
+    "trocar",
+    "Criador",
+    "合一",
+    "雅歌",
+    "神的狩り"
+  ],
+  "relatedTexts": [
+    "teresa_vivo_sin_vivir",
+    "teresa_ayes_del_destierro",
+    "teresa_nada_te_turbe",
+    "juan_de_la_cruz_cantico_espiritual",
+    "juan_de_la_cruz_llama_de_amor_viva",
+    "juan_de_la_cruz_noche_oscura",
+    "weil_effacement",
+    "weil_celui_quil_faut_aimer",
+    "weil_decreation"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "verses": "v.1–4",
+      "original": "Ya toda me entregué y dí,\ny de tal suerte he trocado,\nque mi Amado es para mí\ny yo soy para mi Amado.",
+      "provisionalTranslation": "すでに私はすべてを捧げ与えた、\nそしてこのような仕方で変えられた、\n私の愛する者は私のもの、\n私は私の愛する者のもの。"
+    },
+    {
+      "id": 2,
+      "verses": "v.5–12",
+      "original": "Cuando el dulce Cazador\nme tiró y dejó herida,\nen los brazos del amor\nmi alma quedó rendida;\ny, cobrando nueva vida,\nde tal manera he trocado,\nque mi Amado es para mí\ny yo soy para mi Amado.",
+      "provisionalTranslation": "甘い猟師が\n私を射て傷ついたままにしたとき、\n愛の腕の中で\n私の魂は降伏した。\nそして新しい命を得て、\nこのような仕方で変えられた、\n私の愛する者は私のもの、\n私は私の愛する者のもの。"
+    },
+    {
+      "id": 3,
+      "verses": "v.13–20",
+      "original": "Hirióme con una flecha\nenherbolada de amor,\ny mi alma quedó hecha\nuna con su Criador;\nYa yo no quiero otro amor,\npues a mi Dios me he entregado,\ny mi Amado es para mí\ny yo soy para mi Amado.",
+      "provisionalTranslation": "愛の薬草を塗った矢で\n私を傷つけた、\nそして私の魂は\n創造者と一つになった。\nすでに私は他の愛を望まない、\nなぜなら私の神に捧げたから、\n私の愛する者は私のもの、\n私は私の愛する者のもの。"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "glossary",
+      "anchor": "Ya toda me entregué y dí,\ny de tal suerte he trocado,\nque mi Amado es para mí\ny yo soy para mi Amado.",
+      "body": "序連にして詩篇全体の神学的命題の凝縮。「Ya（すでに）」という副詞が冒頭に置かれることで、「捧げること（entregarse）」が「未来の志向」でも「現在の進行」でもなく「完了した事実」として定位される──テレサ詩篇の中で「合一の完了」を最も明示的に語る詩として際立つ。「Vivo sin vivir en mí」・「Ayes del destierro」が「死への渇望・死に至らない苦悩」を主題とするのに対して、この詩は「合一がすでに起きた（ya）」という完了の地点から語られる。「me entregué y dí（捧げ与えた）」──「entregar（引き渡す・捧げる）」と「dar（与える）」の二動詞による二重の献身の強調。「he trocado（変えられた）」──「trocar（変える・交換する）」の現在完了形：変容が過去に起きた事実として現在に持続している。十字架の聖ヨハネ「Llama de amor viva」§2「Muerte en vida la has trocado（死を命へと変えてくれた）」と同一の動詞（trocar）──合一による根本的変容の語彙を二詩人が共有する。「que mi Amado es para mí / y yo soy para mi Amado（私の愛する者は私のもの / 私は私の愛する者のもの）」──雅歌2:16「Dilectus meus mihi et ego illi（私の愛する者は私のもの、私は彼のもの）」の直接的詩的変奏：相互的所有という神秘主義的合一の最も古典的な定式。",
+      "targetId": "juan_de_la_cruz_llama_de_amor_viva",
+      "targetParagraphId": 2
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "Cuando el dulce Cazador\nme tiró y dejó herida,\nen los brazos del amor\nmi alma quedó rendida;",
+      "body": "「甘い猟師（dulce Cazador）が私を射て傷ついたままにしたとき──愛の腕の中で私の魂は降伏した（rendida）」──詩篇全体で最も詩的力を持つ連の前半。「dulce Cazador（甘い猟師）」──神を「猟師（Cazador）」として描写するテレサ詩篇固有の比喩：猟師が獲物を射る（tirar）という暴力的行為が「dulce（甘い）」という逆説的形容によって神秘主義的愛の形象となる。十字架の聖ヨハネ「Cántico espiritual」§13「¿Adónde te escondiste, / Amado?（どこに隠れたのか、愛する者よ）」での「amor como ciervo（牡鹿としての愛）」──ヨハネが愛の対象を「牡鹿」として比喩するのに対して、テレサは愛する神を「猟師」として比喩する：愛の行為における主体・客体関係の逆転として。「me tiró y dejó herida（私を射て傷ついたままにした）」──「dejar herida（傷ついたままにする）」：射た後に「放置する（dejar）」という神の行為が「Ayes del destierro」§10「Tú, siempre invisible, / no alivias su anhelo（あなたは常に見えず、渇望を和らげない）」という神の「不応答」と照応する──しかしここではその「放置」が「愛の腕（brazos del amor）」という抱擁の中で起きる逆説。「mi alma quedó rendida（魂は降伏した）」──「rendirse（降伏する・身を委ねる）」：自己の抵抗の放棄としての「降伏」が合一の契機として提示される。ヴェイユ「Effacement」§5「消えることを知っていたならば、神と大地の間に完全な愛の合一があるだろう」──「rendida（降伏した）」という魂の「消えること」がヴェイユ的「effacement（消去）」の詩的先行形として読める。",
+      "targetId": "weil_effacement",
+      "targetParagraphId": 5
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "y, cobrando nueva vida,\nde tal manera he trocado,",
+      "body": "「新しい命を得て（cobrando nueva vida）──このような仕方で変えられた（de tal manera he trocado）」──第二連後半が「傷・降伏→新しい命・変容」という合一の弁証法的運動を完成させる。「cobrando nueva vida（新しい命を得て）」──「cobrar（取り戻す・得る）」という動詞：「渡すこと（entregarse）→降伏（rendirse）→新しい命を得る（cobrar nueva vida）」という逆説的な連鎖。ヨハネ福音書12:24「nisi granum frumenti cadens in terram mortuum fuerit……si autem mortuum fuerit, multum fructum affert（一粒の麦が地に落ちて死ななければ……しかし死ねば多くの実を結ぶ）」という「死と新しい命」の逆説がテレサの「渡す・降伏する→新しい命を得る」という構造として詩的に変奏される。「de tal manera he trocado（このような仕方で変えられた）」──序連「de tal suerte he trocado（このような仕方で変えられた）」の変奏反復：「suerte（運・仕方）」が「manera（仕方）」に置き換えられながら同一の変容の完了を確認する。十字架の聖ヨハネ「Noche oscura」§5「amada en el Amado transformada（愛する者の中へと変容されて）」──ヨハネの「transformada（変容）」とテレサの「trocado（変えられた）」が同一の神秘主義的変容を異なる動詞で定式化する。",
+      "targetId": "juan_de_la_cruz_noche_oscura",
+      "targetParagraphId": 5
+    },
+    {
+      "paragraphId": 3,
+      "type": "glossary",
+      "anchor": "Hirióme con una flecha\nenherbolada de amor,\ny mi alma quedó hecha\nuna con su Criador;",
+      "body": "「愛の薬草を塗った矢で私を傷つけた（hirióme con una flecha enherbolada de amor）──私の魂は創造者と一つになった（una con su Criador）」──詩篇全体の神学的頂点命題。「flecha enherbolada de amor（愛の薬草を塗った矢）」──詩篇全体で最も精緻な詩的形象。「enherbolada（薬草を塗られた）」──毒矢の形象の反転として「愛の薬草（hierba de amor）」という肯定的変容：矢の「毒」が「愛（amor）」へと転換されることで、傷が癒しとして機能する逆説。十字架の聖ヨハネ「Llama de amor viva」§1「¡Oh llama de amor viva, / que tiernamente hieres（ああ生き生きとした愛の炎よ、優しく傷つける）」──ヨハネの「llama（炎）」とテレサの「flecha（矢）」が「優しく傷つける愛」という同一の形象の二つの詩的変奏として互いを照らす：炎と矢、どちらも神的愛の「貫通力（poder penetrante）」を形象化する。「mi alma quedó hecha / una con su Criador（魂は創造者と一つになった）」──「hecha una（一つにされた）」という受動形容詞表現が神秘主義的合一の完了を定式化する：「Criador（創造者）」という神の属性が「Amado（愛する者）」という個人的呼びかけと並置されることで、宇宙的創造と親密な愛の合一が同一の出来事として提示される。ヴェイユ「Décréation」§7「キリストが現実の神性を脱ぎ捨てたように人間もそれを脱ぎ捨てることができるように」──「una con su Criador（創造者と一つ）」という合一がヴェイユ的「脱創造（décréation）」の逆側──脱創造が完成した後の「神との合一」の状態として読める。",
+      "targetId": "juan_de_la_cruz_llama_de_amor_viva",
+      "targetParagraphId": 1
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "Ya yo no quiero otro amor,\npues a mi Dios me he entregado,\ny mi Amado es para mí\ny yo soy para mi Amado.",
+      "body": "「すでに私は他の愛を望まない（ya yo no quiero otro amor）──なぜなら私の神に捧げたから（a mi Dios me he entregado）」──詩篇の結語にして、合一の完了がもたらす「他の愛の不要性」の宣言。「Ya yo no quiero otro amor（すでに私は他の愛を望まない）」──冒頭「Ya toda me entregué（すでに私はすべてを捧げた）」の「ya（すでに）」が結語で反復される：詩の全運動が「ya（すでに）」という完了の時制に包まれる。「otro amor（他の愛）」の否定──「Nada te turbe」§10「Id, pues, bienes del mundo（行け、世の財よ）」という世的なものの追い払いと同型の排他的志向：神への「entrega（捧げること）」が完了した後は「otro amor（他の愛）」という選択肢が論理的に消滅する。「pues a mi Dios me he entregado（なぜなら私の神に捧げたから）」──「pues（なぜなら・だから）」という因果接続詞が「他の愛を望まない」の論理的根拠として「神への捧げ（entrega a Dios）」を示す。十字架の聖ヨハネ「Glosa a lo divino」序連「sino por un no sé qué / que se alcanza por ventura（ただ何とも言えない何かのためだけに / 幸運によって達せられる）」との対比──ヨハネが「no sé qué」という言語不可能性として神的なものを指示するのに対して、テレサは「a mi Dios me he entregado（私の神に捧げた）」という完了した行為として神との合一を語る：両者の神秘主義的語法における「指向性の差異（言語不可能な渇望 vs 完了した捧げ）」。ヴェイユ「Celui qu'il faut aimer est absent」§6「存在するものはいずれも絶対的には愛に値しない。それゆえに存在しないものを愛さなければならない」──「otro amor（他の愛）」の否定がヴェイユ的「被造物への愛の限界」と照応する：テレサにおける「他の愛の不要性」が「唯一の絶対的愛への一元化」として機能する。",
+      "targetId": "weil_celui_quil_faut_aimer",
+      "targetParagraphId": 6
+    }
+  ]
+}
