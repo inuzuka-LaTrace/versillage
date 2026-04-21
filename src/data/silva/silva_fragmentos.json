@@ -1,0 +1,94 @@
+{
+  "id": "silva_fragmentos",
+  "title": "Fragmentos",
+  "author": "Medardo Ángel Silva",
+  "source": "Primeros poemas. Wikisource: https://es.wikisource.org/wiki/Fragmentos_(Silva)",
+  "year": "1918",
+  "firstPublication": "El árbol del bien y del mal, Guayaquil, 1918（「Primeros poemas」部門）",
+  "difficulty": "初級",
+  "category": "silva",
+  "originalLang": "es-ES",
+  "modernRelevance": "★★★★",
+  "context": "メダルド・アンヘル・シルバ（Medardo Ángel Silva, 1898–1919）の詩集『善悪の樹（El árbol del bien y del mal, 1918）』の「初期詩篇（Primeros poemas）」部門に収録。全4連×4行。タイトル「Fragmentos（断片たち）」が詩の断片的・回顧的性格を予告する──完結した叙述としてではなく「断片（fragmentos）」として提示されることで、詩の非完結性・哀愁的残余性が形式的に表現される。詩は「あなた（tú）」という二人称への呼びかけとして始まる：「あなた」に詩を「語る（te dice sus versos）」「狂った少年（loco muchacho）」という自己定位が、「あなたが帰らない（nunca regreses）」ときには「私の心臓は最後の眠りを眠る（duerma su último sueño）」という死への予告として展開される。第二連の「柳・月・墓地」という墓的風景、第三連の「湖に映る星・睡蓮・夜の平和」という象徴主義的自然描写、第四連の「詩人が魂の底に運ぶもの（sueños imposibles）」という詩的自己定義として構成される。最終行「de las rosas difuntas y las novias lejanas（死んだ薔薇と遠くなった花嫁たちの）」はシルバ詩篇全体を通じて最も叙情的な行として、モデルニスモ的「失われた美」の詩的定式として機能する。「La libertadora」§5の「sólo un olor a rosa seca（乾いた薔薇の匂いだけ）」というシルバ詩篇内の「死んだ薔薇（rosa seca/rosa difunta）」のモチーフが本篇で完成される。",
+  "keywords": [
+    "fragmentos",
+    "loco muchacho",
+    "último sueño",
+    "sauces llorosos",
+    "nenúfares",
+    "sueños imposibles",
+    "rosas difuntas",
+    "novias lejanas",
+    "詩人の魂",
+    "Primeros poemas"
+  ],
+  "relatedTexts": [
+    "silva_la_libertadora",
+    "silva_de_profundis_clamavi",
+    "silva_la_noche",
+    "silva_serenata",
+    "verlaine_clair_de_lune",
+    "verlaine_colloque_sentimental",
+    "rodenbach_la_vie_des_chambres",
+    "baudelaire_spleen",
+    "mallarme_soupir"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "verses": "v.1–4",
+      "original": "Pero hasta que se apaguen las húmedas pupilas\nde este loco muchacho que te dice sus versos,\nrimarán en tu gloria sus más dulces canciones\nlos líricos bulbules que cantan en mi huerto!",
+      "provisionalTranslation": "しかし、あなたに詩を語るこの狂った少年の\n濡れた瞳が消えるまでは、\nあなたの栄光の中で最も甘い歌を刻むだろう、\n私の庭で歌う叙情的なブルブル鳥たちが！"
+    },
+    {
+      "id": 2,
+      "verses": "v.5–8",
+      "original": "Quizás nunca regreses, o cuando tú retornes,\nmi corazón, inmóvil, duerma su último sueño,\nel que velan los sauces, como madres llorosas,\ny las lunas doradas sobre los cementerios...",
+      "provisionalTranslation": "おそらくあなたは決して戻らないだろう、あるいはあなたが戻るとき、\n私の心臓は、動かずに、最後の眠りを眠っているだろう、\n泣く母のように柳が見守るその眠りを、\n墓地の上の黄金色の月々が見守るその眠りを……"
+    },
+    {
+      "id": 3,
+      "verses": "v.9–12",
+      "original": "Las estrellas se miran sobre el lago dormido\ncual pálidos nenúfares en las azules aguas;\nde una nocturna paz mi corazón se llena\nde recuerdos floridos y visiones románticas...",
+      "provisionalTranslation": "星たちが眠る湖の上で自分を見つめている、\n青い水の中の青白い睡蓮のように。\n夜の平和に私の心臓は満たされる、\n花咲く記憶とロマンティックな幻影たちで……"
+    },
+    {
+      "id": 4,
+      "verses": "v.13–16",
+      "original": "De sueños imposibles y todas esas cosas\nque llevan los poetas en el fondo del alma\ny que surgen de pronto con aquellos perfumes\nde las rosas difuntas y las novias lejanas!",
+      "provisionalTranslation": "不可能な夢たちと、そういったあらゆるものたちで、\n詩人たちが魂の底に持ち歩くものたちで、\nそして突然にあの香りとともに湧き出るものたちで──\n死んだ薔薇たちと遠くなった花嫁たちの！"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "Pero hasta que se apaguen las húmedas pupilas\nde este loco muchacho que te dice sus versos,\nrimarán en tu gloria sus más dulces canciones\nlos líricos bulbules que cantan en mi huerto!",
+      "body": "「あなたに詩を語るこの狂った少年の濡れた瞳が消えるまでは（hasta que se apaguen las húmedas pupilas）──あなたの栄光の中で最も甘い歌を刻むだろう（rimarán en tu gloria sus más dulces canciones）──私の庭で歌う叙情的なブルブル鳥たちが（los líricos bulbules que cantan en mi huerto）」──詩篇の開幕命題にして詩人の自己定位と死への予告の同時提示。「hasta que se apaguen las húmedas pupilas（濡れた瞳が消えるまでは）」──「apagarse（消える・消灯する）」という動詞：「La muerte enmascarada」§3の「neurastenia」的幻視が「apagad las luces（灯りを消してくれ）」という消灯の命令として詩的に先行するのに対して、ここでは詩人自身の「瞳（pupilas）」が「消える（apagarse）」という死の自己予告として機能する。「loco muchacho（狂った少年）」──詩人の自己定位：「狂った（loco）」という形容詞が詩人的afflictionの標識として。「bulbules（ブルブル鳥）」──ペルシャ・アラビア詩学における「bulbul（ブルブル）」：薔薇への愛を歌う象徴的鳥として中東・東洋詩学の伝統に由来し、モデルニスモにおいてはルベン・ダリオ以来の「叙情的鳥」の慣用的形象として使われる。「en mi huerto（私の庭で）」──「La libertadora」§2の「hay un jardín de blancos lirios（白い百合の庭がある）」というシルバ詩篇内の「庭（jardín/huerto）」のモチーフの変奏として。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "Quizás nunca regreses, o cuando tú retornes,\nmi corazón, inmóvil, duerma su último sueño,\nel que velan los sauces, como madres llorosas,\ny las lunas doradas sobre los cementerios...",
+      "body": "「おそらくあなたは決して戻らないだろう（quizás nunca regreses）──私の心臓は最後の眠りを眠っているだろう（duerma su último sueño）──泣く母のように柳が見守る（como madres llorosas）──墓地の上の黄金色の月々（lunas doradas sobre los cementerios）」──詩篇の最も叙情的・象徴主義的な連。「quizás nunca regreses（おそらくあなたは決して戻らないだろう）」──「nunca（決して〜ない）」という絶対的否定：テレサ「Ayes del destierro」§3「que no vive el alma / que está de ti lejos（あなたから遠い魂は生きていない）」という不在への渇望が、シルバにおいては「nunca regreses（決して戻らない）」という絶対的不帰還として最大化される。「duerma su último sueño（最後の眠りを眠る）」──「último sueño（最後の眠り）」という死の婉曲的表現：ヨブ記第3章v.13「dormiens silerem, et somno meo requiescerem（眠って静かにし、自分の眠りの中で休んでいたのに）」というヨブの「永遠の眠りへの憧憬」の詩的変奏として。「sauces, como madres llorosas（泣く母のように柳）」──柳（sauco）の擬人化：「泣く（llorosas）母（madres）」という比喩が柳の枝垂れを「泣き（llorar）」として定義する──ヴェルレーヌ「Chanson d'automne」的「悲しみの木」の語彙的照応。「lunas doradas sobre los cementerios（墓地の上の黄金色の月）」──「lunas doradas（黄金色の月々）」複数形：「Reminiscencia siglo XVIII」§3「sombra azul en los kioskos galantes」という「審美的な青の影」が、ここでは「黄金色の月×墓地」という死的空間に置き換えられる──同一の「月の光」がシルバ詩篇内で審美的空間と墓的空間の両方を照らす語彙として機能する。",
+      "targetId": "verlaine_clair_de_lune",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "Las estrellas se miran sobre el lago dormido\ncual pálidos nenúfares en las azules aguas;\nde una nocturna paz mi corazón se llena\nde recuerdos floridos y visiones románticas...",
+      "body": "「星たちが眠る湖の上で自分を見つめている（Las estrellas se miran sobre el lago dormido）──青い水の中の青白い睡蓮のように（cual pálidos nenúfares en las azules aguas）──夜の平和に私の心臓は満たされる（de una nocturna paz mi corazón se llena）──花咲く記憶とロマンティックな幻影たちで（de recuerdos floridos y visiones románticas）」──詩篇の象徴主義的・印象主義的頂点。「Las estrellas se miran sobre el lago dormido（星たちが眠る湖の上で自分を見つめている）」──「se miran（自分を見つめる・互いを見つめる）」という再帰動詞：水鏡（lago）に映る星の「自己観照（self-reflection）」として──「La muerte enmascarada」§4「Temo ver en sus lunas de borrosos reflejos（ぼやけた反射の鏡面に見えることを恐れる）」という「鏡の恐怖」と対照的に、ここでは湖面の「映し」が穏やかな象徴主義的観照として機能する。「pálidos nenúfares en las azules aguas（青い水の中の青白い睡蓮）」──マラルメ「Soupir」「Mon âme vers ton front où rêve, ô calme sœur, / Un automne jonché de taches de rousseur（私の魂はあなたの額へと向かう、そこで夢見る、ああ穏やかな姉妹よ、錆色の斑点で散りばめられた秋）」というマラルメの「水・秋・夢想」の詩的空間との照応：どちらも湖面・水面が「夢想（rêverie）」の象徴主義的空間として機能する。「de una nocturna paz mi corazón se llena（夜の平和に私の心臓は満たされる）」──「La noche」§2「Ansío paz（平和を熱望する）」という「平和への渇望」が、ここでは「de una nocturna paz……se llena（夜の平和に……満たされる）」という一時的充足として実現される──「La noche」では「平和」が神への嘆願対象として遠くにあるのに対して、「Fragmentos」では夜の自然が一時的な「平和」の源として近くある。",
+      "targetId": "mallarme_soupir",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 4,
+      "type": "glossary",
+      "anchor": "De sueños imposibles y todas esas cosas\nque llevan los poetas en el fondo del alma\ny que surgen de pronto con aquellos perfumes\nde las rosas difuntas y las novias lejanas!",
+      "body": "「不可能な夢たちと、そういったあらゆるものたちで──詩人たちが魂の底に持ち歩くものたちで（que llevan los poetas en el fondo del alma）──そして突然にあの香りとともに湧き出るもの──死んだ薔薇たちと遠くなった花嫁たちの（de las rosas difuntas y las novias lejanas）」──詩篇全体の結語にして最も叙情的な命題。「sueños imposibles（不可能な夢たち）」──「La libertadora」§1の「torre de marfil（象牙の塔）」から「miro la vida que discurre（流れゆく生を眺める）」という観照的姿勢の感情的核心が「sueños imposibles（不可能な夢）」として命名される。「que llevan los poetas en el fondo del alma（詩人たちが魂の底に持ち歩くもの）」──「poetas（詩人たち）」という複数形による詩人論的命題：「De profundis clamavi」§1「nuestras almas（私たちの魂）」という世代的連帯が「los poetas（詩人たち）」という詩人的共同体として特定化される──afflictionが詩人という主体に固有の「魂の底（fondo del alma）」に運ばれるものとして詩人論的命題化される。「surgen de pronto con aquellos perfumes（突然にあの香りとともに湧き出る）」──「La libertadora」§5「sólo un olor a rosa seca（乾いた薔薇の匂いだけ）」・「Reminiscencia siglo XVIII」§1「Vaga el olor por la antigua vereda（古い小道をその香りがさまよう）」というシルバ詩篇の「残留する香り（perfume residual）」のモチーフが「surgen de pronto（突然に湧き出る）」という非意志的記憶の形象として完成される──プルースト的「無意志的記憶（mémoire involontaire）」の詩的先行形として。「de las rosas difuntas y las novias lejanas（死んだ薔薇たちと遠くなった花嫁たちの）」──詩篇全体の最終形象にして最も叙情的な行。「rosas difuntas（死んだ薔薇）」──「La libertadora」§5「rosa seca（乾いた薔薇）」・§2「negras rosas（黒薔薇）」の「死の薔薇」モチーフの完成形として：「difuntas（死んだ・亡き）」という死の確定的形容が付される。「novias lejanas（遠くなった花嫁たち）」──「遠くなった（lejanas）」という距離の形容が「花嫁（novias）」という近親的・親密な人物に付与される：時間的・空間的「遠さ（lejanía）」が恋愛的失失の形象として。ヴェルレーヌ「Colloque sentimental」の「二つの影（deux spectres）」が過去の愛を「Rappelle-toi?（覚えているか？）」と問い合う詩的空間と照応する──どちらも「過去の愛の残骸」として「遠さと死」の記憶が詩的対象となる。",
+      "targetId": "verlaine_colloque_sentimental",
+      "targetParagraphId": null
+    }
+  ]
+}
