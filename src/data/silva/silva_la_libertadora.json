@@ -1,0 +1,145 @@
+{
+  "id": "silva_la_libertadora",
+  "title": "La libertadora",
+  "author": "Medardo Ángel Silva",
+  "source": "El árbol del bien y del mal (1918). Wikisource: https://es.wikisource.org/wiki/La_libertadora",
+  "year": "1918",
+  "firstPublication": "El árbol del bien y del mal, Guayaquil, 1918（「Baladas, reminiscencias y otros poemas」部門）",
+  "difficulty": "初級",
+  "category": "silva",
+  "originalLang": "es-ES",
+  "modernRelevance": "★★★★★",
+  "context": "メダルド・アンヘル・シルバ（Medardo Ángel Silva, 1898–1919）の詩集『善悪の樹（El árbol del bien y del mal, 1918）』の「バラード、回想詩、その他（Baladas, reminiscencias y otros poemas）」部門に収録。「M. E. カスティリョ・イ・カスティリョに捧ぐ（A M. E. Castillo y Castillo）」という献辞を持つ。全7連（4行×5連＋3＋1行の短縮連＋4行の最終連）。詩の構造は二部に分かれる：第一部（§1〜§5）が「象牙の塔（torre de marfil）」からの観照と庭の百合の枯死という内的afflictionの世界を展開し、第二部（§6〜§7）が「死（la Muerte）」の到来を「解放者（la libertadora）」として迎えるという劇的転換を形成する。タイトル「La libertadora（解放者）」は死の固有名詞的擬人化として「La muerte enmascarada（仮面の死）」と同一の死の人格化を持ちながら、「enmascarada（仮面の）」という隠蔽的・恐怖的定義に対して「libertadora（解放者）」という肯定的・解放的定義を採用する──シルバ詩篇における死の二面性の対比。「Y mi alma espera, espera, espera（そして私の魂は待つ、待つ、待つ）」という三重反復が詩篇129篇・テレサ「Ayes del destierro」という「待機と渇望」の聖書的・神秘主義的系譜の中に位置づけられる。",
+  "keywords": [
+    "torre de marfil",
+    "lirios blancos",
+    "rosas negras",
+    "alma espera",
+    "clarín de la Muerte",
+    "encierro",
+    "libertadora",
+    "死の解放",
+    "象牙の塔",
+    "待機と渇望"
+  ],
+  "relatedTexts": [
+    "silva_de_profundis_clamavi",
+    "silva_la_noche",
+    "silva_la_muerte_enmascarada",
+    "silva_serenata",
+    "silva_reminiscencia_siglo_xviii",
+    "hieronymus_psalmi_129",
+    "hieronymus_psalmi_87",
+    "teresa_ayes_del_destierro",
+    "baudelaire_spleen",
+    "maeterlinck_serre_chaude"
+  ],
+  "paragraphs": [
+    {
+      "id": 0,
+      "verses": "preface",
+      "original": "A M. E. Castillo y Castillo",
+      "provisionalTranslation": "M. E. カスティリョ・イ・カスティリョに捧ぐ"
+    },
+    {
+      "id": 1,
+      "verses": "v.1–4",
+      "original": "Desde mi torre de marfil\nmiro la vida que discurre.\nMi alma romántica y sutil\nsuspira, sonríe y se aburre.",
+      "provisionalTranslation": "象牙の塔から\n流れゆく生を眺める。\n私のロマンティックで繊細な魂は\n溜息をつき、微笑み、倦む。"
+    },
+    {
+      "id": 2,
+      "verses": "v.5–8",
+      "original": "Hay un jardín de negras rosas,\nhay un jardín de blancos lirios:\nson mis tristezas negras rosas,\nmis ilusiones blancos lirios.",
+      "provisionalTranslation": "黒い薔薇の庭がある、\n白い百合の庭がある。\n黒い薔薇は私の悲しみ、\n白い百合は私の幻想。"
+    },
+    {
+      "id": 3,
+      "verses": "v.9–12",
+      "original": "A veces en el aire azul,\nsolloza el viento un miserere,\nhuye un ave de alas de tul:\nes algún lirio que se muere.",
+      "provisionalTranslation": "時に青い空気の中に、\n風がミゼレーレを啜り泣く、\nチュールの翼の鳥が飛び去る──\nそれは死んでいく何かの百合だ。"
+    },
+    {
+      "id": 4,
+      "verses": "v.13–16",
+      "original": "Y tantos son los que se han muerto,\ncalladamente, uno por uno,\nque el jardín va a quedar desierto\ny pronto no ha de haber ninguno.",
+      "provisionalTranslation": "死んでいったものはこれほど多く、\n静かに、一つずつ、\n庭はやがて荒れ地になろう、\nそして間もなく一本もなくなるだろう。"
+    },
+    {
+      "id": 5,
+      "verses": "v.17–20",
+      "original": "Ya queda de mi Primavera\nsólo un olor a rosa seca...\nY mi alma espera, espera, espera,\nhilando sueños de su rueca.",
+      "provisionalTranslation": "私の春からはもう残っていない、\n乾いた薔薇の匂いだけが……\nそして私の魂は待つ、待つ、待つ、\n糸巻き棒から夢を紡ぎながら。"
+    },
+    {
+      "id": 6,
+      "verses": "v.21–24",
+      "original": "Espera oír en el confín,\nal dulce final de su suerte,\nla voz aguda del clarín\nde la Muerte.",
+      "provisionalTranslation": "待っている、地の果てで聞くことを、\n運命の甘い終わりに、\n鋭いクラリネットの声を──\n死の。"
+    },
+    {
+      "id": 7,
+      "verses": "v.25–28",
+      "original": "Caerán las duras cadenas,\nse abrirá la puerta de hierro:\ny, entre un perfume de azucenas,\n¡el alma saldrá de su encierro!",
+      "provisionalTranslation": "厳しい鎖は落ちるだろう、\n鉄の扉は開くだろう。\nそして、白百合の香りの中で、\n魂はその閉じ込めから出るだろう！"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 0,
+      "type": "commentary",
+      "anchor": "A M. E. Castillo y Castillo",
+      "body": "「M. E. カスティリョ・イ・カスティリョに捧ぐ（A M. E. Castillo y Castillo）」──献辞。詩篇「De profundis clamavi」が「世代的連帯」の複数形「nuestras almas（私たちの魂）」で語られたのに対して、本篇は特定の受取人への個人的献辞を持つ：死への渇望が個人的afflictionから特定の他者への贈り物として提示される──詩的送贈という行為が「解放（libertad）」のモチーフと照応する。「Baladas, reminiscencias y otros poemas（バラード、回想詩、その他）」部門に「Reminiscencia siglo XVIII」と同部門として収録される：「回想（reminiscencia）」という時間的後退と「解放（libertad）」という未来的前進の同部門共存。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "glossary",
+      "anchor": "Desde mi torre de marfil\nmiro la vida que discurre.\nMi alma romántica y sutil\nsuspira, sonríe y se aburre.",
+      "body": "「象牙の塔から（Desde mi torre de marfil）──流れゆく生を眺める（miro la vida que discurre）──溜息をつき、微笑み、倦む（suspira, sonríe y se aburre）」──詩篇の開幕にして「象牙の塔」という詩人の自己定位の宣言。「torre de marfil（象牙の塔）」──シャルル＝オーギュスタン・サント＝ブーヴがアルフレッド・ド・ヴィニーの孤立した詩人像を批判するために使った表現（1837年）が、以後「詩人の世俗からの高貴な隠遁」の慣用的形象として流通した。モデルニスモにおいては「torre de marfil」が詩人の審美的世界への自発的隔離として肯定的に転用される。「miro la vida que discurre（流れゆく生を眺める）」──「discurrir（流れる・過ぎ去る）」という動詞：コヘレト第1章v.4「Generatio praeterit, et generatio advenit（世代は過ぎ去り、世代は来る）」という世代の流れが「la vida que discurre（流れゆく生）」という一語で凝縮される。「suspira, sonríe y se aburre（溜息をつき、微笑み、倦む）」──三動詞の累積が「ロマンティックで繊細な魂（alma romántica y sutil）」の感情的多義性として機能する：「溜息（suspira）」という苦悩・「微笑み（sonríe）」という一時的喜び・「倦み（se aburre）」という恒常的退屈の三項が「塔」という孤立した視点の感情的実態として提示される。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "Hay un jardín de negras rosas,\nhay un jardín de blancos lirios:\nson mis tristezas negras rosas,\nmis ilusiones blancos lirios.",
+      "body": "「黒い薔薇の庭（jardín de negras rosas）──白い百合の庭（jardín de blancos lirios）──黒い薔薇は私の悲しみ（mis tristezas negras rosas）──白い百合は私の幻想（mis ilusiones blancos lirios）」──詩篇の中心的色彩的・象徴的二元論の確立。詩的構造：前半2行が「庭の描写」、後半2行がその「解釈」として機能するキアズムス的反復──「negras rosas / blancos lirios」という色彩の対比が「tristezas（悲しみ）/ ilusiones（幻想）」という感情的対比として説明される。「negras rosas（黒い薔薇）」──「rosas negras」という語順の倒置（inversión）：黒という非自然的な薔薇の色彩がモデルニスモ的「不自然の美」・退廃的審美主義の象徴として機能する。ボードレール「悪の華（Les Fleurs du mal）」のタイトル的形象──「悪（mal）」から咲く「花（fleur）」という逆説と同型の「negras rosas（黒い薔薇）」として。「blancos lirios（白い百合）」──「mis ilusiones（私の幻想）」として定義される白い百合は詩の第三連以降で「死んでいく（se muere）」ものとして展開される。メーテルリンク「Serre chaude（温室）」の庭の封閉的形象との照応──どちらも庭が内的afflictionの詩的空間として機能する。",
+      "targetId": "maeterlinck_serre_chaude",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "A veces en el aire azul,\nsolloza el viento un miserere,\nhuye un ave de alas de tul:\nes algún lirio que se muere.",
+      "body": "「時に青い空気の中に（en el aire azul）──風がミゼレーレを啜り泣く（solloza el viento un miserere）──チュールの翼の鳥が飛び去る（huye un ave de alas de tul）──それは死んでいく何かの百合だ（es algún lirio que se muere）」──詩篇の音楽的・視覚的核心を形成する第三連。「miserere（ミゼレーレ）」──ウルガータ詩篇50篇（ヘブライ語51篇）の冒頭句「Miserere mei, Deus（神よ、私を憐れんでください）」：詩篇のラテン語的冒頭句がレクイエムの音楽的形式として機能する。「viento（風）」が「solloza（啜り泣く）」という擬人化に「miserere（ミゼレーレ）」という宗教音楽が付与されることで、百合の死が「葬儀音楽（musique funèbre）」として演出される。「ave de alas de tul（チュールの翼の鳥）」──「tul（チュール）」という薄い透明な織物：百合の花弁が「チュールの翼（alas de tul）」として比喩化され、百合が「鳥」として擬人化される──百合の「死（muere）」が「飛び去ること（huye）」として提示される逆説：消えることが「飛翔（vuelo）」として審美化される。"
+    },
+    {
+      "paragraphId": 4,
+      "type": "commentary",
+      "anchor": "Y tantos son los que se han muerto,\ncalladamente, uno por uno,\nque el jardín va a quedar desierto\ny pronto no ha de haber ninguno.",
+      "body": "「死んでいったものはこれほど多く（tantos son los que se han muerto）──静かに、一つずつ（calladamente, uno por uno）──庭はやがて荒れ地になろう（el jardín va a quedar desierto）──間もなく一本もなくなるだろう（no ha de haber ninguno）」──第四連が百合の消滅の漸進的・不可逆的プロセスを定量的に語る。「calladamente（静かに）」という副詞──「La noche」§1「Mi corazón solloza（私の心臓は啜り泣く）」という「音（sollozar）」との対比として：百合の死は「静かに（calladamente）」起きる。「uno por uno（一つずつ）」──単位的・順次的消失の描写：集合的な死ではなく「個々の（uno por uno）」漸進的消失として百合の死滅が提示される。「el jardín va a quedar desierto（庭はやがて荒れ地になろう）」──「desierto（荒れ地・砂漠）」という語：フアン・デ・ラ・クルス「Cántico espiritual」での「荒れ地（desierto）」は神との合一へ向かう魂の孤独な通路として肯定的に機能するのに対して、シルバの「desierto」は「幻想（ilusiones）」の完全な枯渇として否定的に機能する──同一語彙の神秘主義的文脈と実存的文脈での対照的使用。"
+    },
+    {
+      "paragraphId": 5,
+      "type": "glossary",
+      "anchor": "Ya queda de mi Primavera\nsólo un olor a rosa seca...\nY mi alma espera, espera, espera,\nhilando sueños de su rueca.",
+      "body": "「私の春からはもう残っていない、乾いた薔薇の匂いだけが（sólo un olor a rosa seca）──そして私の魂は待つ、待つ、待つ（Y mi alma espera, espera, espera）──糸巻き棒から夢を紡ぎながら（hilando sueños de su rueca）」──詩篇全体の感情的・詩的頂点。「sólo un olor a rosa seca（乾いた薔薇の匂いだけ）」──「Reminiscencia siglo XVIII」§1の「Vaga el olor por la antigua vereda（古い小道をその香りがさまよう）」との深い照応：どちらも「過去の美・豊かさ」の唯一の残滓として「香り（olor）」が用いられる──視覚的・物質的なものは過ぎ去り、嗅覚的な「香り（olor）」だけが残留するという詩的モチーフのシルバ詩篇内自己反復。「mi alma espera, espera, espera（私の魂は待つ、待つ、待つ）」──同語の三重反復（epanáfora）が詩篇の感情的核心を形成する：「esperar（待つ）」という動詞の三回繰り返しが待機の執拗な持続として音楽的・感情的効果を生む。詩篇129篇v.5「speravit anima mea in Domino（私の魂は主に望みを持った）」・テレサ「Ayes del destierro」§1「Ansiosa de verte（あなたを見たいと焦がれて）」という聖書的・神秘主義的「待機（espera）」の語彙的継承──ただしシルバの「espera」が待つのは「死（la Muerte）」であることで神秘主義的「神への待機」が世俗的・実存的「死への待機」として反転される。「hilando sueños de su rueca（糸巻き棒から夢を紡ぎながら）」──「rueca（糸巻き棒・錘）」：「夢（sueños）」を「紡ぐ（hilar）」という行為が魂の無限の待機中の活動として提示される──「rueca（糸巻き棒）」はパルカ（Parca）・モイラ（Moira）という運命の女神の属性としても機能する：「糸を紡ぐ」ことが「運命（suerte）」を定める行為として。",
+      "targetId": "hieronymus_psalmi_129",
+      "targetParagraphId": 5
+    },
+    {
+      "paragraphId": 6,
+      "type": "commentary",
+      "anchor": "Espera oír en el confín,\nal dulce final de su suerte,\nla voz aguda del clarín\nde la Muerte.",
+      "body": "「待っている、地の果てで聞くことを（Espera oír en el confín）──運命の甘い終わりに（al dulce final de su suerte）──鋭いクラリネットの声を──死の（la voz aguda del clarín / de la Muerte）」──詩篇の最も劇的に孤立した連：四行詩の四行目「de la Muerte（死の）」が単独の短行として視覚的・音楽的に際立つ。「en el confín（地の果てで）」──「confín（果て・境界）」：生と死の境界を指示する空間的形象。「al dulce final de su suerte（運命の甘い終わりに）」──「dulce（甘い）」という逆説的形容が「final（終わり）」に付される：テレサ「Ayes del destierro」§4「¡Oh muerte benigna, / Tus golpes son dulces（ああ慈悲深い死よ……あなたの打撃は甘い）」という「甘い死」のモチーフとの照応──「dulce final（甘い終わり）」がテレサ的「muerte benigna（慈悲深い死）」の詩的継承として機能する。「la voz aguda del clarín（鋭いクラリネットの声）」──「clarín（ラッパ）」という軍楽的形象：「鋭い（aguda）」という音楽的形容が「死（Muerte）」の到来を劇的に演出する。「de la Muerte」──「Muerte（死）」の大文字固有名詞化：「La muerte enmascarada」の「la Enmascarada（仮面の者）」と同一の死の固有名詞的擬人化──本篇ではこれが「la libertadora（解放者）」として肯定的に定義される。",
+      "targetId": "teresa_ayes_del_destierro",
+      "targetParagraphId": 4
+    },
+    {
+      "paragraphId": 7,
+      "type": "glossary",
+      "anchor": "Caerán las duras cadenas,\nse abrirá la puerta de hierro:\ny, entre un perfume de azucenas,\n¡el alma saldrá de su encierro!",
+      "body": "「厳しい鎖は落ちるだろう（Caerán las duras cadenas）──鉄の扉は開くだろう（se abrirá la puerta de hierro）──白百合の香りの中で（entre un perfume de azucenas）──魂はその閉じ込めから出るだろう（el alma saldrá de su encierro!）」──詩篇の結語にして「解放（libertad）」の命題の完成。「Caerán las duras cadenas（厳しい鎖は落ちるだろう）」──「La noche」§1「cuyas almas, cautivas, golpean contra el hierro（魂たちは鉄に体をぶつける）」・「La muerte enmascarada」§4「velad los espejos」・テレサ「Ayes del destierro」§4「esta cárcel, estos hierros（この牢、この鎖）」という「監禁（encierro）」語彙の系譜が、ここでは「落ちる（caerán）」という解放の動詞によって解消される。「se abrirá la puerta de hierro（鉄の扉は開くだろう）」──「hierro（鉄）」は「La noche」§1「golpean contra el hierro（鉄に体をぶつける）」・テレサ「Ayes del destierro」§12「Rompe aquestos hierros（この鎖を断ち切って）」という「鉄の監禁」の語彙が「開く（abrirá）」という解放の動詞によって逆転される。「entre un perfume de azucenas（白百合の香りの中で）」──「azucena（白百合）」：§2の「blancos lirios（白い百合）」（幻想として枯死したもの）が最終連に回帰する──「死によって失われた幻想（blancos lirios）」が「死の到来とともに回復される香り（perfume de azucenas）」として逆転する。「¡el alma saldrá de su encierro!」──感嘆符がシルバ詩篇における最大の感情的頂点として機能する。タイトル「La libertadora（解放者）」が「la Muerte」の固有名的別称として詩篇全体の命題が最終連で完成される：ボードレール「De profundis clamavi」§4「Tant l'écheveau du temps lentement se dévide（時間の糸巻きはゆっくりと解れていく）」という「時間の疲弊」に対して、シルバは「caerán……se abrirá……saldrá（落ちる……開く……出る）」という未来形の能動的解放として応答する。",
+      "targetId": "silva_la_noche",
+      "targetParagraphId": 1
+    }
+  ]
+}
