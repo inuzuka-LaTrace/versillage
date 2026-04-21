@@ -1,0 +1,120 @@
+{
+  "id": "borja_voy_a_entrar_al_olvido",
+  "title": "Voy a entrar al olvido",
+  "author": "Arturo Borja",
+  "source": "La flauta de ónix (1920, 死後出版). Wikisource: https://es.wikisource.org/wiki/Voy_a_entrar_al_olvido",
+  "year": "1920",
+  "firstPublication": "La flauta de ónix, Quito, 1920（死後出版）",
+  "difficulty": "上級",
+  "category": "borja",
+  "originalLang": "es-ES",
+  "modernRelevance": "★★★★★",
+  "context": "アルトゥーロ・ボルハ（Arturo Borja, 1892–1912）の遺詩集『オニキスの笛（La flauta de ónix）』所収。フランシスコ・グアルデラス（Francisco Guarderas）に捧げられた4連ソネット形式（4・4・4・4行、ABAB韻）。エピグラフはアンリ・ド・レニエ（Henry de Régnier）の「Voici le masque pour la fête du mensonge（これが嘘の祭りのための仮面だ）」──詩全体が「仮面（masque）」と「嘘（mensonge）」の審美的・実存的フレームの下に置かれる。「兄弟（Hermano）」への直接的呼びかけで始まる告白詩として、笑いの裏に隠れた苦悩・糸杉と薔薇という生と死の形象・女性に与えられた「黄金の毒（dorado veneno）」そして「ボードレール（BAUDELAIRE）」という大文字の固有名詞による詩篇の閉幕という構造を持つ。「Voy a entrar al olvido（私は忘却へと入っていく）」というタイトル命題が詩全体の意志的な死・消去への志向を宣言する──ボルハは詩作の約3年後、1912年に20歳で自ら命を絶った。最終行「que me abrirá ese loco divino: ¡BAUDELAIRE!（あの神聖な狂人が私に開いてくれる：ボードレール！）」は、ボードレールを「忘却への扉を開く者」として詩的庇護者に位置づけ、死＝忘却＝詩的解放という三項同一視を宣言する。レニエのエピグラフとボードレールの締めがフランス象徴主義への二重の帰属意識を構成する。",
+  "keywords": [
+    "olvido",
+    "忘却",
+    "Baudelaire",
+    "dorado veneno",
+    "仮面",
+    "mensonge",
+    "cipreses",
+    "rosas mustias",
+    "loco divino",
+    "モデルニスモと死"
+  ],
+  "relatedTexts": [
+    "borja_primavera_mistica_y_lunar",
+    "borja_aria_galante",
+    "baudelaire_spleen",
+    "baudelaire_horloge",
+    "baudelaire_une_charogne",
+    "regnier_loubli",
+    "regnier_l_oubli_supreme",
+    "verlaine_colloque_sentimental",
+    "rodenbach_loubli",
+    "hieronymus_ecclesiastes_1",
+    "hieronymus_iob_3"
+  ],
+  "paragraphs": [
+    {
+      "id": 0,
+      "verses": "preface",
+      "epigraphs": [
+        {
+          "author": "Henry de Régnier",
+          "source": "La flauta de ónix 扉引用",
+          "text": "Voici le masque pour la fête du mensonge.",
+          "translation": "これが嘘の祭りのための仮面だ。"
+        }
+      ],
+      "original": "",
+      "provisionalTranslation": ""
+    },
+    {
+      "id": 1,
+      "verses": "v.1–4",
+      "original": "Hermano, si me río de la vida y sus cosas\nnotarás en mi risa cierto rezo de angustias,\nsentirás las espinas que hay en todas las rosas,\ncomprenderás que casi mis flores están mustias.",
+      "provisionalTranslation": "兄弟よ、もし私が人生とその諸事について笑うなら、\nあなたは私の笑いの中に苦悩のある祈りを認めるだろう、\nあなたはすべての薔薇の中にある棘を感じるだろう、\nあなたは私の花がほとんど枯れかけていることを理解するだろう。"
+    },
+    {
+      "id": 2,
+      "verses": "v.5–8",
+      "original": "Yo pongo a los cipreses de mi sendero, ahora,\nuna doliente gracia contradictoria y llena\nde la azul ironía que aprendí de la Aurora\nque es hija de los rojos Crepúsculos de pena.",
+      "provisionalTranslation": "私は今、私の小道の糸杉たちに与える、\n矛盾に満ちた苦しみの優美さを──\n私が暁から学んだ蒼い皮肉に満ちた優美さを、\nその暁は苦悩の赤い黄昏の娘なのだから。"
+    },
+    {
+      "id": 3,
+      "verses": "v.9–12",
+      "original": "Se apagaron aquellos ojos que me sonrieron\ndiabólicos y brujos detrás de una ventana,\ny esta tarde yo he visto que en mi jardín murieron\npobres rosadas rosas que enterraré mañana.",
+      "provisionalTranslation": "あの瞳は消えた──窓の向こうから悪魔的に、\n魔術的に私に微笑んでいたあの瞳が。\nそして今日の午後、私は見た──私の庭で死んでいるのを、\n明日埋葬するであろう哀れなピンクの薔薇たちを。"
+    },
+    {
+      "id": 4,
+      "verses": "v.13–16",
+      "original": "Indiferentemente tiene mi herida abierta\nel dorado veneno que me dio esa mujer:\nVoy a entrar al olvido por la mágica puerta\nque me abrirá ese loco divino: ¡BAUDELAIRE!",
+      "provisionalTranslation": "無関心に、私の開いた傷の中にある\nあの女が私に与えた黄金の毒を。\n私は忘却へと入っていく、魔法の扉を通って、\nあの神聖な狂人が私に開いてくれる扉を──ボードレール！"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 0,
+      "type": "commentary",
+      "anchor": "Voici le masque pour la fête du mensonge.",
+      "body": "「これが嘘の祭りのための仮面だ（Voici le masque pour la fête du mensonge）」──アンリ・ド・レニエ（Henry de Régnier, 1864–1936）からの引用。VANITISMEに収録のレニエ詩篇群との直接的接続：レニエ「Salut à Versailles」「La Façade」等の詩集『ヴェルサイユへの礼賛』が同じ「仮面・祝祭・嘘」の語彙で18世紀的美学を詩化している。エピグラフの機能として詩全体に「仮面劇（comédie du masque）」という解釈的フレームを与える：詩人の「笑い（risa）」（§1）が仮面であり、詩全体が「嘘の祭り（fête du mensonge）」──すなわち生の苦悩を美学的に偽装する詩的行為──として事前に定義される。コヘレト第1章v.2「Vanitas vanitatum（虚無の虚無）」の「虚無」が「嘘（mensonge）」として審美的に再解釈される：存在の虚無を「嘘の祭りの仮面」として詩的に演じることがボルハの詩学的戦略として確立される。ブランショ『文学の空間』での「作品は詩人の死の仮面（masque mortuaire）である」という命題──エピグラフの「仮面（masque）」が詩的行為そのものの死的性格を先取りする。",
+      "targetId": "regnier_salut_versailles",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "Hermano, si me río de la vida y sus cosas\nnotarás en mi risa cierto rezo de angustias,",
+      "body": "「兄弟よ、もし私が笑うなら、あなたは私の笑いの中に苦悩のある祈り（rezo de angustias）を認めるだろう」──「笑い（risa）」と「祈り（rezo）」の融合が詩篇の根本的逆説を定式化する。「rezo de angustias（苦悩の祈り）」：笑いが「苦悩を内に秘めた祈り」として定義される──笑いという表層（仮面）の下に祈りという宗教的苦悩が潜む二層構造。「Hermano（兄弟）」という呼格──直接的な兄弟的連帯への呼びかけが詩を「独白（soliloquio）」ではなく「告白（confesión）」として位置づける。ヴェルレーヌ「感傷的な対話（Colloque sentimental）」の「Dans le vieux parc solitaire et glacé（古い孤独な凍りついた公園で）」における二つの影の対話──「あなたは覚えているか」という問いかけが応答なく空虚に消える構造──に対して、ボルハの「Hermano」への呼びかけは応答を期待する真正な告白として機能する。「las espinas que hay en todas las rosas（すべての薔薇の中にある棘）」──ボードレール「悪の華」の「悪の中の花・花の中の棘」という逆説的美学の定式的継承：薔薇と棘は美と苦悩の不可分性を示すモデルニスモの定番形象。コヘレト第1章v.18「qui addit scientiam, addit et laborem（知識を加える者は労苦をも加える）」──人生について笑うほど、その苦悩の深さを知るというパラドクスとの照応。",
+      "targetId": "verlaine_colloque_sentimental",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "de la azul ironía que aprendí de la Aurora\nque es hija de los rojos Crepúsculos de pena.",
+      "body": "「私が暁から学んだ蒼い皮肉（azul ironía）──その暁は苦悩の赤い黄昏の娘」──色彩の系譜学：「赤い黄昏（rojos Crepúsculos）→暁（Aurora）→蒼い皮肉（azul ironía）」という色彩的・時間的連鎖が苦悩の継承として提示される。「azul ironía（蒼い皮肉）」──「蒼（azul）」はモデルニスモの象徴色（ルベン・ダリオの詩集『Azul（蒼）』1888年に由来）であり、「皮肉（ironía）」という知的態度と結合することで「退廃的な審美的距離」を定義する。「doliente gracia contradictoria（矛盾に満ちた苦しみの優美さ）」──「gracia（優美さ・恩寵）」と「doliente（苦しむ）」の矛盾語法が神秘主義的語彙（gracia）の世俗的・逆説的転用として機能する：ヴェイユ「重力と恩寵（Pesanteur et Grâce）」での「grâce（恩寵）」と「pesanteur（重力）」の対立が詩的に先取りされる。「cipreses（糸杉）」──西洋における死・喪・墓地の樹木として確立された形象：トラークル「夕方の歌（Abendlaendisches Lied）」の暗鬱な樹木の連鎖・マラルメ「乾杯（Toast funèbre）」の葬礼的植物語彙と同族。ボードレール「憂鬱（Spleen）」の「空は重い蓋のように……（Quand le ciel bas et lourd pèse comme un couvercle）」における黄昏の色彩的苦悩感との照応。",
+      "targetId": "baudelaire_spleen",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "Se apagaron aquellos ojos que me sonrieron\ndiabólicos y brujos detrás de una ventana,\ny esta tarde yo he visto que en mi jardín murieron\npobres rosadas rosas que enterraré mañana.",
+      "body": "「あの瞳は消えた（se apagaron）──悪魔的に、魔術的に（diabólicos y brujos）──私の庭で死んでいる哀れな薔薇たちを明日埋葬する（enterraré mañana）」──消去・死・埋葬の三段階が時制の連鎖（過去→現在→未来）によって示される。「Se apagaron（消えた）」──光の消去という形象：「Primavera mística y lunar」§7「se ha callado（沈黙した）」との対応──鐘楼の沈黙と瞳の消滅がボルハ詩篇の「消去」のライトモチーフを形成する。「diabólicos y brujos detrás de una ventana（窓の向こうから悪魔的に、魔術的に）」──「窓（ventana）」の向こうという隔たりの空間：ローデンバック「死んだブルージュ（Bruges-la-Morte）」の「窓の向こうの世界」という閾の空間と同型。「rosadas rosas（ピンクの薔薇）」という同語根的反復──「薔薇のような薔薇」という同義反復が薔薇の「薔薇性（rosité）」の強調として機能する：死にゆく薔薇が「最も薔薇らしい」という逆説。「enterraré mañana（明日埋葬する）」──「mañana（明日）」という未来形の確定：埋葬が未来に約束されることで、現在の死が「まだ埋葬されていない死（mort sans sépulture）」として宙吊りになる。ヨブ記第3章v.22「gaudentque vehementer cum invenerint sepulchrum（墓を見つけたとき、激しく喜ぶ）」というヨブの「墓への渇望」が、ここでは「明日埋葬する（enterraré）」という詩人の能動的埋葬行為として変奏される。",
+      "targetId": "hieronymus_iob_3",
+      "targetParagraphId": 22
+    },
+    {
+      "paragraphId": 4,
+      "type": "commentary",
+      "anchor": "Voy a entrar al olvido por la mágica puerta\nque me abrirá ese loco divino: ¡BAUDELAIRE!",
+      "body": "「私は忘却へと入っていく、魔法の扉を通って──あの神聖な狂人が私に開いてくれる：ボードレール！」──詩篇の結語にして、ボルハのボードレールへの詩的帰属の最も明示的な宣言。「Voy a entrar al olvido（私は忘却へと入っていく）」──「olvido（忘却）」という語がタイトルに反復される：「忘却」が死・詩的解放・ボードレール的「楽園」への同義語として三重に機能する。ブランショ『文学の空間』での「忘却と作品」──作品は詩人が「自己を忘却する（s'oublier）」ことによって成立する：ボルハの「忘却へと入っていく」という宣言がブランショ的な意味での「詩人の自己消去による作品の誕生」として読める。コヘレト第1章v.11「Non est priorum memoria（先のことどもの記憶はない）」という「記憶の不在」の命題──ボルハの「忘却（olvido）」への志向がコヘレト的な「すべてが忘れ去られる」という宇宙的記憶の不在と共鳴する。「ese loco divino: ¡BAUDELAIRE!」──「loco divino（神聖な狂人）」という呼格が「Primavera mística y lunar」の「llaga divina de locura（狂気の神聖な傷口）」と同じ「神聖と狂気の融合」の定式を反復する：ボードレールが「神聖な狂人」として詩的庇護者に位置づけられることで、詩的系譜（ボードレール→レニエ→ボルハ）が完成する。ボードレール「時計（L'Horloge）」の「Souviens-toi que le Temps est un joueur avide（時間は貪欲な賭博師であることを覚えておけ）」──時間という「黄金の毒（dorado veneno）」に苦しむ詩人がボードレールの「忘却の扉」によって救済される構造：「dorado veneno（黄金の毒）」がボードレール的な「時間・欲望・生の毒」として読める。",
+      "targetId": "baudelaire_horloge",
+      "targetParagraphId": null
+    }
+  ]
+}
