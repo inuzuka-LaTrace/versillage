@@ -1,0 +1,94 @@
+{
+  "id": "silva_ofrenda_a_la_muerte",
+  "title": "Ofrenda a la Muerte",
+  "author": "Medardo Ángel Silva",
+  "source": "El árbol del bien y del mal (1918). Wikisource: https://es.wikisource.org/wiki/Ofrenda_a_la_Muerte",
+  "year": "1918",
+  "firstPublication": "El árbol del bien y del mal, Guayaquil, 1918（「Suspiria de Profundis」部門）",
+  "difficulty": "上級",
+  "category": "silva",
+  "originalLang": "es-ES",
+  "modernRelevance": "★★★★★",
+  "context": "メダルド・アンヘル・シルバ（Medardo Ángel Silva, 1898–1919）の詩集『善悪の樹（El árbol del bien y del mal, 1918）』の「Suspiria de Profundis」部門に収録。ソネット形式（4・4・3・3行）。「死への奉納（Ofrenda a la Muerte）」というタイトルが示すように、本篇はシルバのシルバ詩篇群における「死の詩学」の中で最も複雑な神学的・文体的到達を示す。「La muerte enmascarada（仮面の死）」・「La libertadora（解放者）」と同一の死の擬人化（personificación）を持ちながら、本篇は「Yo cantaré en mis odas（私は頌歌で歌うだろう）」という詩的行為の宣言として──詩人が死に「奉納する歌（ofrenda）」を歌うという自己言及的メタ詩的構造として──際立つ。「Muda nodriza（無言の乳母）」・「Emperatriz maldita de los negros imperios（暗黒帝国の呪われた女帝）」・「Punta sellada（封じられた先端）」という三つの異なる比喩が死の「名前（nombre）」を定義しようとする試みが「cuál es la talismánica palabra que te nombra?（あなたを名づけるタリスマン的な言葉は何か？）」という問いとして収束する。「Erebos y Letheos（エレボスとレテ）」というギリシャ神話的地下世界の語彙が詩に古典的深度を与え、「mar de silencio, de quietud y de olvido（沈黙と静けさと忘却の海）」という最終形象が詩篇87篇v.13「terra oblivionis（忘却の地）」という聖書的afflictionの形象と照応する。",
+  "keywords": [
+    "Muda nodriza",
+    "Emperatriz maldita",
+    "talismánica palabra",
+    "Erebos y Letheos",
+    "mar de olvido",
+    "ofrenda",
+    "死の擬人化",
+    "詩的行為の宣言",
+    "Suspiria de Profundis",
+    "名前の不可能性"
+  ],
+  "relatedTexts": [
+    "silva_la_muerte_enmascarada",
+    "silva_la_libertadora",
+    "silva_la_noche",
+    "silva_de_profundis_clamavi",
+    "hieronymus_psalmi_87",
+    "hieronymus_psalmi_129",
+    "baudelaire_danse_macabre",
+    "mallarme_coup_de_des",
+    "rodenbach_du_silence"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "verses": "v.1–4",
+      "original": "Muda nodriza, llave de nuestros cautiverios,\n¿oh, Tú, que a nuestro lado vas con paso de sombra,\nEmperatriz maldita de los negros imperios,\ncuál es la talismánica palabra que te nombra?",
+      "provisionalTranslation": "無言の乳母よ、私たちの捕囚の鍵よ、\nああ、あなた、影の足取りで私たちの隣を行く者よ、\n暗黒帝国の呪われた女帝よ、\nあなたを名づけるタリスマン的な言葉は何か？"
+    },
+    {
+      "id": 2,
+      "verses": "v.5–8",
+      "original": "Punta sellada, muro donde expiran sin eco\nde la humillada tribu las interrogaciones,\nasí como no turba la tos de pecho hueco\nla perenne armonía de las constelaciones.",
+      "provisionalTranslation": "封じられた先端よ、こだまなく息絶える壁よ、\n辱められた部族の問いかけが。\n空洞の胸の咳が乱さないように\n星座たちの永久の調和を。"
+    },
+    {
+      "id": 3,
+      "verses": "v.9–11",
+      "original": "Yo cantaré en mis odas tu rostro de mentira,\ntu cuerpo melodioso como un brazo de lira,\ntus plantas que han hollado Erebos y Letheos;",
+      "provisionalTranslation": "私は頌歌で歌うだろう、あなたの嘘の顔を、\n竪琴の腕のような旋律的なあなたの身体を、\nエレボスとレテを踏み歩んであなたの足を。"
+    },
+    {
+      "id": 4,
+      "verses": "v.12–14",
+      "original": "y la serena gracia de tu mirar florido\nque ahoga nuestras almas exentas de deseos,\nen un mar de silencio, de quietud y de olvido.",
+      "provisionalTranslation": "そして、欲望から解放された私たちの魂を溺れさせる\nあなたの花咲く眼差しの穏やかな優雅さを、\n沈黙と静けさと忘却の海の中に。"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "glossary",
+      "anchor": "Muda nodriza, llave de nuestros cautiverios,\n¿oh, Tú, que a nuestro lado vas con paso de sombra,\nEmperatriz maldita de los negros imperios,\ncuál es la talismánica palabra que te nombra?",
+      "body": "「無言の乳母よ（Muda nodriza）──影の足取りで私たちの隣を行く者（con paso de sombra）──暗黒帝国の呪われた女帝（Emperatriz maldita de los negros imperios）──あなたを名づけるタリスマン的な言葉は何か（cuál es la talismánica palabra que te nombra?）」──詩篇全体の導入にして中心的問いの提示。第一四行詩が死に対する三つの異なる比喩的定義と一つの問いで構成される。「Muda nodriza（無言の乳母）」──「muda（無言の）」と「nodriza（乳母・養育者）」という矛盾語法：死が「乳母（nodriza）」として「養育」するという逆説と、その乳母が「無言（muda）」であるという「沈黙の養育者」の形象。「llave de nuestros cautiverios（私たちの捕囚の鍵）」──「llave（鍵）」という形象：「La muerte enmascarada」§4「apagad las luces y velad los espejos（灯りを消し鏡に布をかぶせてくれ）」・「La libertadora」§7「se abrirá la puerta de hierro（鉄の扉は開くだろう）」という「扉と鍵」の語彙連鎖の中で、死が「鍵（llave）」として捕囚（cautiverios）を解く者として提示される。「a nuestro lado（私たちの隣に）」──「La muerte enmascarada」§1「va a nuestro lado（私たちの隣を歩く）」と同一の複数形的連帯：死の「隣在性（presencia lateral）」がシルバ詩篇の一貫したトポスとして反復される。「cuál es la talismánica palabra que te nombra?（あなたを名づけるタリスマン的な言葉は何か?）」──詩篇全体の中心的問いとして「死の真の名（nombre verdadero）」を求める：マラルメ「骰子一擲」§1の「主幹文」が「偶然の廃棄不可能性」という命題として大文字で詩全体に散在するのに対して、シルバは「死の名（nombre de la Muerte）」という問いを詩の枠組みとして提示する──どちらも「言語による捕捉の不可能性」を詩の問いとして設定する。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "Punta sellada, muro donde expiran sin eco\nde la humillada tribu las interrogaciones,\nasí como no turba la tos de pecho hueco\nla perenne armonía de las constelaciones.",
+      "body": "「封じられた先端（Punta sellada）──こだまなく息絶える壁（muro donde expiran sin eco）──辱められた部族の問いかけが──空洞の胸の咳が乱さないように──星座たちの永久の調和（perenne armonía de las constelaciones）」──詩篇の神学的・存在論的核心を形成する第二四行詩。「Punta sellada（封じられた先端）」──「punta（先端・点）」と「sellada（封じられた）」：「先端（punta）」が「封じられている（sellada）」ことで、物事の「終わり（fin）」・「先（punta）」が「封印（sello）」によって不可侵化される──死の「到達点（punta）」が人間的言語・問いに対して閉じた（sellada）空間として定義される。「muro donde expiran sin eco / las interrogaciones（こだまなく息絶える壁、問いかけが）」──詩篇87篇v.11–13の四重反語的問い「Numquid mortuis facies mirabilia?……（死者に奇跡を行うか？）」が「こだまなく（sin eco）」死という「壁（muro）」に吸収されるという構造的照応：詩篇87篇の問いが無応答で終わるように、人間の「問いかけ（interrogaciones）」が「こだまなく（sin eco）」息絶える。「de la humillada tribu（辱められた部族の）」──「tribu（部族）」という集合名詞：「De profundis clamavi」§1の「nuestras almas（私たちの魂）」という複数形の連帯が「humillada tribu（辱められた部族）」として共同体的afflictionの形象へと拡大される。「perenne armonía de las constelaciones（星座たちの永久の調和）」──「La libertadora」§1の「la vida que discurre（流れゆく生）」・「La muerte enmascarada」§1の「Silenciosa y eternamente（静かに、永遠に）」と同様の「宇宙的時間」への対比：人間の「tos de pecho hueco（空洞の胸の咳）」という虚弱な音声が「constelaciones（星座）」の「perenne armonía（永久の調和）」を乱さないという宇宙的無関心の命題。マラルメ「骰子一擲」§8–9の「UNE CONSTELLATION（ひとつの星座が）」との照応──マラルメにおいては星座が「思考の偶然的産物」として提示されるのに対して、シルバにおいては「perenne armonía（永久の調和）」として人間的afflictionに無関心な宇宙秩序として機能する。",
+      "targetId": "hieronymus_psalmi_87",
+      "targetParagraphId": 13
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "Yo cantaré en mis odas tu rostro de mentira,\ntu cuerpo melodioso como un brazo de lira,\ntus plantas que han hollado Erebos y Letheos;",
+      "body": "「私は頌歌で歌うだろう（Yo cantaré en mis odas）──あなたの嘘の顔（tu rostro de mentira）──竪琴の腕のような旋律的なあなたの身体（cuerpo melodioso como un brazo de lira）──エレボスとレテを踏み歩んだあなたの足（tus plantas que han hollado Erebos y Letheos）」──詩篇のソネット的転換（volta）として第一三行詩が「詩的行為の宣言」として機能する。「Yo cantaré en mis odas（私は頌歌で歌うだろう）」──未来形の一人称「Yo（私）」による詩的行為の宣言：タイトル「Ofrenda a la Muerte（死への奉納）」が「cantaré（歌うだろう）」という詩篇の行為として定義される──詩を歌うことが死への「奉納（ofrenda）」として。「rostro de mentira（嘘の顔）」──「La muerte enmascarada」§1の「rostro enmascarado（仮面の顔）」という「隠された顔」の変奏：「仮面（enmascarado）」が「嘘（mentira）」として再定義される──死の顔が本質的に「虚偽（mentira）」であるという存在論的命題。「cuerpo melodioso como un brazo de lira（竪琴の腕のような旋律的な身体）」──「Serenata」§4「mórbidos brazos de lira（竪琴のような柔らかな腕）」と同一の「brazo de lira（竪琴の腕）」という詩的形象のシルバ詩篇内自己引用：「Serenata」では「Castellana blonda（金髪のカスティリャ女性）」の官能的腕として使われた形象が、「Ofrenda a la Muerte」では「死の身体（cuerpo de la Muerte）」として転用される──エロスの形象とタナトスの形象の同一語彙による重合。「Erebos y Letheos（エレボスとレテ）」──ギリシャ神話的地下世界の二要素：「Erebos（エレボス）」は原初の暗闇・冥界の入口の神格；「Lethe（レテ）」は冥界の「忘却の川」──飲むと地上での記憶を失う川。「tus plantas que han hollado（踏み歩んだあなたの足）」という死の「冥界経験」の記述が、死を「地下世界の旅人（viajera del inframundo）」として定義する。",
+      "targetId": "silva_serenata",
+      "targetParagraphId": 4
+    },
+    {
+      "paragraphId": 4,
+      "type": "glossary",
+      "anchor": "y la serena gracia de tu mirar florido\nque ahoga nuestras almas exentas de deseos,\nen un mar de silencio, de quietud y de olvido.",
+      "body": "「欲望から解放された私たちの魂を溺れさせる（ahoga nuestras almas exentas de deseos）──あなたの花咲く眼差しの穏やかな優雅さを──沈黙と静けさと忘却の海の中に（mar de silencio, de quietud y de olvido）」──詩篇全体の結語にして最も詩的に凝縮された命題。「la serena gracia de tu mirar florido（あなたの花咲く眼差しの穏やかな優雅さ）」──「serena（穏やかな）」・「gracia（優雅さ）」・「florido（花咲く）」という三つの肯定的・美的形容が「死の眼差し（mirar de la Muerte）」に付与される：「La muerte enmascarada」§1「seguido del horror, la tiniebla y el miedo（恐怖と暗闇と恐れを従えながら）」という否定的三項と対称的に、本篇では「serena / gracia / florido」という肯定的三項として死が美化される──「La muerte enmascarada」と「Ofrenda a la Muerte」は同一の死を「恐怖（terror）」と「優雅（gracia）」の二極として対照的に描くシルバ詩篇の内部的弁証法として機能する。「ahoga nuestras almas exentas de deseos（欲望から解放された私たちの魂を溺れさせる）」──「exentas de deseos（欲望から解放された）」という状態規定：「La noche」§2「Ansío paz（平和を熱望する）」・「De profundis clamavi」§2「pobres de voluntad（意志に乏しく）」という「欲望の疲弊」が「exentas de deseos（欲望から解放された）」という解放的状態として描かれる──afflictionによって欲望が消滅した後の魂が死によって「ahogadas（溺れさせられる）」という逆説的完成。「mar de silencio, de quietud y de olvido（沈黙と静けさと忘却の海）」──詩篇全体の最終形象にして最も詩的に完成した一行。「silencio（沈黙）」・「quietud（静けさ）」・「olvido（忘却）」の三項がセミコロンなしに接続する形式的完成として詩を閉じる：詩篇87篇v.13「terra oblivionis（忘却の地）」というラテン語的表現が「mar de……olvido（忘却の……海）」というスペイン語的形象として継承される──「地（terra）」が「海（mar）」へと変容することで「忘却」の空間が陸的固定性から水的溶解性へと移行する。ローデンバック「Du Silence（沈黙について）」の「la douce mer du Silence（沈黙の甘い海）」との照応──どちらも「沈黙（silence/silencio）」が「海（mer/mar）」として比喩化される：ローデンバック的「象徴主義的沈黙の海」がシルバにおいて「忘却（olvido）」と「静けさ（quietud）」との三項として完成される。",
+      "targetId": "rodenbach_du_silence",
+      "targetParagraphId": null
+    }
+  ]
+}
