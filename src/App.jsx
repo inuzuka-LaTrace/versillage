@@ -49,6 +49,7 @@ import yeatsData from './data/yeats';
 import juan_de_la_cruzData from './data/juan_de_la_cruz';
 import teresaData from './data/teresa';
 import silvaData from './data/silva';
+import borjaData from './data/borja';
 import hieronymusData from './data/hieronymus';
 import { CATEGORIES, CAT_SHORT, ANNOTATION_TYPE_DEF, SPEECH_RATES, PREFERRED_VOICES, SPEAKER_COLORS, SPEAKER_FIXED_COLORS, AUTHOR_COLOR_MAP } from './constants';
 import { getTranslation, getOriginalText, getSpeechLang, getBestVoice, extractSnippet } from './utils';
@@ -264,12 +265,13 @@ export default function App() {
       ...juan_de_la_cruzData,
       ...teresaData,
       ...silvaData,
+      ...borjaData,
       ...hieronymusData,
     };
     setTexts(allTexts);
   const timer = setTimeout(() => {
     setLoading(false);
-  }, 5400);
+  }, 5500);
 
   return () => clearTimeout(timer);
 }, []);
