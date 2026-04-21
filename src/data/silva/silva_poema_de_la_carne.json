@@ -1,0 +1,95 @@
+{
+  "id": "silva_poema_de_la_carne",
+  "title": "Poema de la carne",
+  "author": "Medardo Ángel Silva",
+  "source": "El árbol del bien y del mal (1918). Wikisource: https://es.wikisource.org/wiki/Poema_de_la_carne",
+  "year": "1918",
+  "firstPublication": "El árbol del bien y del mal, Guayaquil, 1918（「Suspiria de Profundis」部門）",
+  "difficulty": "上級",
+  "category": "silva",
+  "originalLang": "es-ES",
+  "modernRelevance": "★★★★",
+  "context": "メダルド・アンヘル・シルバ（Medardo Ángel Silva, 1898–1919）の詩集『善悪の樹（El árbol del bien y del mal, 1918）』の「Suspiria de Profundis」部門に収録。ソネット形式（4・4・3・3行）。タイトル「Poema de la carne（肉の詩）」が示すように、本篇はキリスト教神学における「肉（carne）」の神学的三元論を詩的枠組みとして採用する：①「罪人の肉（carne del asesino）」──罪・呪い・腐敗；②「殉教者の肉（carne de los mártires）」──栄光・収穫・信仰；③「処女の肉（carne de las vírgenes）」──純粋・雪・無垢；④「キリストの肉（carne de Dios / carne de Cristo）」──聖体・ホスティア・神聖な合一。詩の神学的論理は「汚れた肉（carne inmunda）」から「聖なる肉（carne santa）」へのソネット的転換（volta）として構成され、最終行「a nuestra carne inmunda une su carne santa（私たちの汚れた肉に聖なる肉を結びつける）」というeucharistia（聖体）の奇跡が詩全体の神学的収束点として機能する。ヴェルレーヌ「Parsifal」・「Saint Graal」というモデルニスモ的聖体崇拝の詩学との照応関係の中に置かれる。スペイン語モデルニスモにおけるカトリシズムの審美的・詩学的統合の典型例として、ダリオ「Pax」・「Canto de Esperanza」と同様の宗教的・象徴主義的語彙の詩的使用が見られる。",
+  "keywords": [
+    "carne del asesino",
+    "carne de los mártires",
+    "carne de las vírgenes",
+    "Hostia",
+    "gracia eucarística",
+    "carne santa",
+    "肉の神学的三元論",
+    "聖体崇拝",
+    "Suspiria de Profundis",
+    "モデルニスモとカトリシズム"
+  ],
+  "relatedTexts": [
+    "silva_de_profundis_clamavi",
+    "silva_ofrenda_a_la_muerte",
+    "silva_la_noche",
+    "verlaine_parsifal",
+    "verlaine_saint_graal",
+    "verlaine_un_crucifix",
+    "hieronymus_psalmi_21",
+    "hieronymus_psalmi_87",
+    "weil_necessite",
+    "baudelaire_femmes_damnees"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "verses": "v.1–4",
+      "original": "¡Carne del asesino, maldita podredumbre\nque pende de las horcas en fúnebres racimos\ny muestra a las pupilas de ávida muchedumbre\nla malévola herencia que todos recibimos...!",
+      "provisionalTranslation": "殺人者の肉よ、呪われた腐敗よ、\n葬式のように房状に絞首台から垂れ下がり、\n貪欲な群衆の瞳に見せつける、\n私たちが皆受け取った悪意の遺産を……！"
+    },
+    {
+      "id": 2,
+      "verses": "v.5–8",
+      "original": "¡Oh, carne de los mártires, Gloria in excelsis Deo,\nque de nuestro Rey Cristo son divinas cosechas!\n¡Oh, labios siempre abiertos al consuelo de un Creo!\n¡Divina vestidura traspasada de flechas..!",
+      "provisionalTranslation": "ああ、殉教者たちの肉よ、いと高きところに神に栄光よ、\nわれらの王キリストにとって神聖な収穫である！\nああ、信条の慰めに常に開かれた唇よ！\n矢に貫かれた神聖な衣よ……！"
+    },
+    {
+      "id": 3,
+      "verses": "v.9–11",
+      "original": "¡Oh, carne de las vírgenes que la inocencia armiña,\nnieve, azucena, estrella, lirio, polar campiña\ndonde no puso Amor a la llama de su planta!",
+      "provisionalTranslation": "ああ、無垢が白貂毛で白くした処女たちの肉よ、\n雪、白百合、星、百合、極地の野よ、\nそこに愛はその足の炎を置かなかった！"
+    },
+    {
+      "id": 4,
+      "verses": "v.12–14",
+      "original": "¡Hostia, carne de Dios para la cena mística,\ny que, por el milagro de la gracia eucarística,\na nuestra carne inmunda une su carne santa!",
+      "provisionalTranslation": "ホスティアよ、神秘の晩餐のための神の肉よ、\nそして聖体の恩寵の奇跡によって、\n私たちの汚れた肉に聖なる肉を結びつける！"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "¡Carne del asesino, maldita podredumbre\nque pende de las horcas en fúnebres racimos\ny muestra a las pupilas de ávida muchedumbre\nla malévola herencia que todos recibimos...!",
+      "body": "「殺人者の肉よ、呪われた腐敗（maldita podredumbre）──葬式のように房状に絞首台から垂れ下がり（pende de las horcas en fúnebres racimos）──私たちが皆受け取った悪意の遺産（la malévola herencia que todos recibimos）」──詩篇の開幕命題にして「肉の神学的三元論」の第一項：罪人・汚れた肉の定義。「maldita podredumbre（呪われた腐敗）」──「腐敗（podredumbre）」という語：コヘレト第1章v.2「vanitas vanitatum（虚無の虚無）」という「無常」の詩的具体化として身体的腐敗が選ばれる。「pende de las horcas en fúnebres racimos（葬式のように房状に絞首台から垂れ下がる）」──「racimos（房・ブドウの房）」という農業的比喩が「horcas（絞首台）」という処刑的文脈に転用される：ボードレール「悪の華」の「Danse macabre（死の舞踏）」での「処刑・死体」の詩的形象との照応──どちらも「罪人の身体の公的展示」という視覚的afflictionを扱う。「la malévola herencia que todos recibimos（私たちが皆受け取った悪意の遺産）」──「todos（皆）」という普遍的包摂：「殺人者の肉」が「すべての人間（todos）」が受け取る「遺産（herencia）」として定義される──原罪（peccatum originale）の詩的表現として。詩篇21篇v.7「Ego autem sum vermis, et non homo（しかし私は虫であり、人間ではない）」という自己卑下の系譜が「maldita podredumbre（呪われた腐敗）」という「肉の腐敗」として変奏される。",
+      "targetId": "hieronymus_psalmi_21",
+      "targetParagraphId": 7
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "¡Oh, carne de los mártires, Gloria in excelsis Deo,\nque de nuestro Rey Cristo son divinas cosechas!\n¡Oh, labios siempre abiertos al consuelo de un Creo!\n¡Divina vestidura traspasada de flechas..!",
+      "body": "「殉教者たちの肉よ、いと高きところに神に栄光（Gloria in excelsis Deo）──われらの王キリストにとって神聖な収穫（divinas cosechas）──常に開かれた唇（labios siempre abiertos al consuelo de un Creo）──矢に貫かれた神聖な衣（Divina vestidura traspasada de flechas）」──「肉の神学的三元論」の第二項：殉教者の肉の定義。「Gloria in excelsis Deo」──ルカ福音書2:14「Gloria in altissimis Deo（いと高きところに神に栄光）」の詩篇内ラテン語的引用：キリスト降誕の天使の歌としてのこの句が「殉教者の肉（carne de los mártires）」の呼格に直接挿入されることで、殉教者の死が「降誕（Nativitas）」の栄光と等置される。「cosechas（収穫）」──農業的比喩：「殉教者の肉」が「キリストの収穫（cosechas de Cristo）」として神学的再定義される──ヨハネ福音書12:24「nisi granum frumenti cadens in terram mortuum fuerit……multum fructum affert（一粒の麦が死ななければ……多くの実を結ぶ）」という「死と実り」の逆説の詩的変奏。「labios siempre abiertos al consuelo de un Creo（信条の慰めに常に開かれた唇）」──「Creo（クレド・使徒信条）」という信仰告白：「唇（labios）」が「信条（Creo）」への恒常的開放性として定義される──信仰告白的身体としての殉教者の唇。「Divina vestidura traspasada de flechas（矢に貫かれた神聖な衣）」──聖セバスチャン（San Sebastián）の殉教の典型的図像的表現として：矢に貫かれた身体という殉教の図像学（iconografía del martirio）がモデルニスモ的審美主義において「神聖な衣（vestidura divina）」として審美化される──ヴェルレーヌ「Parsifal」の聖体崇拝的詩語との照応。",
+      "targetId": "verlaine_parsifal",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "¡Oh, carne de las vírgenes que la inocencia armiña,\nnieve, azucena, estrella, lirio, polar campiña\ndonde no puso Amor a la llama de su planta!",
+      "body": "「無垢が白貂毛で白くした処女たちの肉（carne de las vírgenes que la inocencia armiña）──雪、白百合、星、百合、極地の野（nieve, azucena, estrella, lirio, polar campiña）──そこに愛はその足の炎を置かなかった（donde no puso Amor a la llama de su planta）」──「肉の神学的三元論」の第三項：処女の肉の純粋性の定義。「inocencia armiña（無垢が白貂毛で白くする）」──「armiñar（白貂毛で白くする）」という動詞：白貂（オコジョ／armiño）は西洋紋章・王族の純粋性の象徴として白い毛皮が使われる──「無垢（inocencia）」が「armiñar」という動詞として肉に作用する：身体的純白さが「無垢という徳（virtud de inocencia）」の直接的身体的産物として提示される。「nieve, azucena, estrella, lirio, polar campiña（雪、白百合、星、百合、極地の野）」──五つの白の形象の累積：「La libertadora」§2の「blancos lirios（白い百合）」・「silva_la_muerte_enmascarada」§4「velad los espejos（鏡に布をかぶせてくれ）」の「blancura（白さ）」というシルバ詩篇の「白さ（blancura）」の語彙連鎖が、ここでは「処女の肉（carne de las vírgenes）」の白さの五重列挙として完成される。「polar campiña（極地の野）」──「polar（極地の）」という形容：「La libertadora」§1「torre de marfil（象牙の塔）」からの「観照的距離」がここでは「極地の野（polar campiña）」という「愛の炎（llama del Amor）」が及ばない無垢の空間として提示される。「donde no puso Amor a la llama de su planta（そこに愛はその足の炎を置かなかった）」──「la llama de su planta（愛の足の炎）」という詩的形象：「Amor（愛）」が「炎（llama）」を持つ「足（planta）」で歩くという神話的擬人化──十字架の聖ヨハネ「Llama de amor viva（生き生きとした愛の炎）」の「炎（llama）」という神秘主義的語彙がシルバにおいては「処女の純粋さを侵さない愛」という否定的形象として転用される。"
+    },
+    {
+      "paragraphId": 4,
+      "type": "glossary",
+      "anchor": "¡Hostia, carne de Dios para la cena mística,\ny que, por el milagro de la gracia eucarística,\na nuestra carne inmunda une su carne santa!",
+      "body": "「ホスティアよ（Hostia）──神秘の晩餐のための神の肉（carne de Dios para la cena mística）──聖体の恩寵の奇跡によって（por el milagro de la gracia eucarística）──私たちの汚れた肉に聖なる肉を結びつける（a nuestra carne inmunda une su carne santa）」──詩篇全体の神学的収束点にして最終三行詩の命題。「Hostia（ホスティア）」──聖体（聖餐のパン）の典礼的名称：カトリック神学における「実体変化（transsubstantiatio）」の結果としての「神の肉（carne de Dios）」。呼格としての「Hostia!」が最終三行詩の冒頭に置かれることで、「殺人者の肉（§1）・殉教者の肉（§2）・処女の肉（§3）」という三項の神学的総括として第四項「神の肉（Hostia）」が登場する──ソネット的逆転（volta）の神学的完成。「cena mística（神秘の晩餐）」──「最後の晩餐（Última Cena）」の神秘主義的定式：「cena（晩餐）」という食事的行為が「mística（神秘的な）」という形容によって神秘主義的合一の場として定義される。「gracia eucarística（聖体の恩寵）」──「eucarística（聖体的な）」という典礼神学的語彙：ヴェイユ「Accepter le vide」§1「La grâce comble（恩寵は満たす）」というグレース論との照応──聖体の「恩寵（gracia）」がヴェイユ的「恩寵（grâce）」の詩的・神学的等価として機能する。「a nuestra carne inmunda une su carne santa（私たちの汚れた肉に聖なる肉を結びつける）」──詩篇全体の最終命題にして神学的頂点。「inmunda（汚れた）」と「santa（聖なる）」の対立が「une（結びつける）」という一動詞によって解消される：§1の「maldita podredumbre（呪われた腐敗）」という「罪人の肉」が最終行で「carne inmunda（汚れた肉）」として回帰し、「carne santa（聖なる肉）」によって「結びつけられる（unirse）」という包含的解決として詩篇が閉じる。ヴェルレーヌ「Parsifal」「Et, ô ces voix d'enfants chantant dans la coupole!（ああ、ドームで歌う子どもたちの声！）」という聖体崇拝的詩学の発展として位置づけられる：ヴェルレーヌが聖体崇拝を「声（voix）」の聴覚的形象として詩化するのに対して、シルバは「肉（carne）の結合」という触覚的・身体的形象として聖体論を展開する。",
+      "targetId": "verlaine_parsifal",
+      "targetParagraphId": null
+    }
+  ]
+}
