@@ -1,0 +1,135 @@
+{
+  "id": "borja_primavera_mistica_y_lunar",
+  "title": "Primavera mística y lunar",
+  "author": "Arturo Borja",
+  "source": "La flauta de ónix (1920, 死後出版). Wikisource: https://es.wikisource.org/wiki/Primavera_m%C3%ADstica_y_lunar",
+  "year": "1920",
+  "firstPublication": "La flauta de ónix, Quito, 1920（死後出版）",
+  "difficulty": "中級",
+  "category": "borja",
+  "originalLang": "es-ES",
+  "modernRelevance": "★★★★",
+  "context": "アルトゥーロ・ボルハ（Arturo Borja, 1892–1912）の遺詩集『オニキスの笛（La flauta de ónix）』所収。ボルハはエクアドル・ヒスパノアメリカのモデルニスモを代表する詩人で、20歳で自ら命を絶った。本詩篇はビクトル・M・ロンドーニョ（Víctor M. Londoño）に捧げられ、「La flauta de ónix」の中でもとりわけ宗教的・幻想的な作品として位置づけられる。「マリアの月（mes de María）」──カトリック暦で5月はマリアに捧げられた月であり、夜の祈り（ロザリオ）が中心的儀式となる──の最終日を舞台として、鐘楼・老女たちの行列・庭園の薔薇と星・魂の祈りという宗教的光景が月光の下に展開される。詩形は固定されておらず、多様な行長と押韻配置が混在する自由詩的形式（romancillo系とlira的要素の混合）。「la luna / es una / llaga blanca y divina（月は／白く神聖な／傷口）」という核心命題が詩全体の神秘主義的・苦悩的次元を凝縮する──月が「傷口（llaga）」として魂の「狂気の神聖な傷（llaga divina de locura）」と同一視されることで、美と苦悩・信仰と狂気の不可分な融合が成立する。ヴェルレーヌ「Clair de lune」の月光詩学・マラルメ「エロディヤード」の月と純粋性の主題・ヨハネの十字架の「暗夜」概念が重層する。",
+  "keywords": [
+    "mes de María",
+    "ロザリオ",
+    "鐘楼",
+    "llaga blanca y divina",
+    "月光",
+    "狂気と信仰",
+    "魂の祈り",
+    "神秘主義",
+    "モデルニスモ",
+    "La flauta de ónix"
+  ],
+  "relatedTexts": [
+    "juan_de_la_cruz_noche_oscura",
+    "verlaine_clair_de_lune",
+    "mallarme_herodiade_scene",
+    "mallarme_apparition",
+    "hieronymus_iob_3",
+    "weil_accepter_le_vide",
+    "weil_la_mer",
+    "rodenbach_du_silence"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "verses": "v.1–6",
+      "original": "El viejo campanario\ntoca para el rosario,\nLas viejecitas una a una\nvan desfilando hacia el santuario\ny se diría un milenario\ncoro de brujas, a la luna.",
+      "provisionalTranslation": "古い鐘楼が\nロザリオのために鳴り響く。\n老女たちが一人ずつ\n聖堂へと向かって行進し、\nまるで千年前からある\n月下の魔女たちの合唱のようだ。"
+    },
+    {
+      "id": 2,
+      "verses": "v.7–14",
+      "original": "Es el último día\ndel mes de María.\nMayo en el huerto y en el cielo:\nel cielo, rosas como estrellas;\nel huerto, estrellas como rosas ...\nHay un perfume de consuelo\nflotando por todas las cosas.\nVirgen María, ¿son tus huellas?",
+      "provisionalTranslation": "マリアの月の\n最後の日だ。\n庭園と空に五月：\n空には星のような薔薇、\n庭園には薔薇のような星……\nすべてのものに漂う\n慰めの香り。\n聖母マリアよ、これはあなたの足跡なのか？"
+    },
+    {
+      "id": 3,
+      "verses": "v.15–19",
+      "original": "Hay santa paz y santa calma ...\nsale a los labios la canción ...\nEl alma\ndice, sin voz, una oración.",
+      "provisionalTranslation": "聖なる平和と聖なる静けさがある……\n唇に歌が浮かんでくる……\n魂は\n声なく、一つの祈りを告げる。"
+    },
+    {
+      "id": 4,
+      "verses": "v.20–23",
+      "original": "Canción de amor,\noración mía,\npálida flor\nde poesía.",
+      "provisionalTranslation": "愛の歌よ、\n私の祈りよ、\n詩の\n蒼ざめた花よ。"
+    },
+    {
+      "id": 5,
+      "verses": "v.24–29",
+      "original": "Hora de luna y de misterio,\nhora de santa bendición,\nhora en que deja el cautiverio\npara cantar, el corazón.\nHora de luna, hora de unción,\nhora de luna y de canción.",
+      "provisionalTranslation": "月と神秘の時、\n聖なる祝福の時、\n心が囚われから解き放たれ\n歌うための時。\n月と塗油の時、\n月と歌の時。"
+    },
+    {
+      "id": 6,
+      "verses": "v.30–38",
+      "original": "La luna\nes una\nllaga blanca y divina\nen el corazón hondo de la noche.\n¡Oh luna diamantina,\ncúbreme! ¡Haz un derroche\nde lívida blancura\nen mi doliente noche!\n¡Llégaste hasta mi cruz, pon un poco de albura\nen mi corazón, llaga divina de locura!",
+      "provisionalTranslation": "月は\nひとつの\n白く神聖な傷口\n夜の深い心臓の中にある。\nああ、ダイヤモンドの月よ、\n私を覆ってくれ！ 惜しみなく注いでくれ\nその青白い白さを\n私の苦しむ夜に！\n私の十字架にまで届いたのなら、少しの白さを置いてくれ\n私の心に、狂気の神聖な傷口よ！"
+    },
+    {
+      "id": 7,
+      "verses": "v.39–42",
+      "original": "El viejo campanario\nque tocaba al rosario\nse ha callado. El santuario\nse queda solitario.",
+      "provisionalTranslation": "ロザリオのために鳴っていた\n古い鐘楼が\n沈黙した。聖堂は\n孤独のまま残る。"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "y se diría un milenario\ncoro de brujas, a la luna.",
+      "body": "「まるで千年前からある月下の魔女たちの合唱（milenario coro de brujas, a la luna）」──ロザリオへと向かう老女たちの行列が「魔女の合唱（coro de brujas）」という異教的・幻想的形象に転化される逆説。「milenario（千年前からある）」という形容が宗教的儀式の歴史的反復性をコヘレト第1章v.9「Quid est quod fuit? Ipsum quod futurum est（あったものはこれから来るもの）」の円環的時間と接続する──千年の反復は「sub sole novum（太陽の下の新しいもの）」の不在として機能する。マラルメ「エロディヤード・序曲（Ouverture ancienne d'Hérodiade）」冒頭「Abolie, et son aile affreuse dans les larmes（廃棄され、その恐ろしい翼が涙の中に）」において乳母が孤独な老女として夜明けの儀式を執り行う光景との照応：どちらも「老いた女性の宗教的行列・儀式」が神秘的・異界的な光景として詩的に定着される。ローデンバック「沈黙について（Du silence）」の「ville morte（死んだ都市）」における宗教的行列──老女たちが「死んだ都市」の沈黙を体現する存在として詩化される──もこの系列に連なる。",
+      "targetId": "mallarme_herodiade_ouverture",
+      "targetParagraphId": 1
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "el cielo, rosas como estrellas;\nel huerto, estrellas como rosas ...\nHay un perfume de consuelo",
+      "body": "「空には星のような薔薇、庭園には薔薇のような星──すべてのものに漂う慰めの香り（perfume de consuelo）」──chiasmus（交差対句）によって天上と地上が相互に鏡像として提示される。「rosas como estrellas / estrellas como rosas」という反転された比喩の対が、地上的なものと天上的なものの境界を溶解させる：「慰めの香り（perfume de consuelo）」はこの溶解の感覚的媒体として機能する。マラルメ「出現（Apparition）」の「Jonchant le sol, un ange épars répandait l'odeur / des jours（地面に散らばって、天使は一つの香りを漂わせていた）」──天使の香りが「日々の香り」として地上に降りる構造が、ボルハの「慰めの香り」が天上（星）と地上（薔薇）の交差する空間に漂う構造と共鳴する。「Virgen María, ¿son tus huellas?（聖母マリアよ、これはあなたの足跡なのか？）」という問いかけ──香りが「足跡（huellas）」として神の通過の痕跡として読まれる：ヴェイユ「美（Beauté）」章「世界の美は神の愛の優しい微笑み（La beauté du monde est le sourire tendre de l'amour de Dieu）」という「世界の美を通じた神の痕跡」の詩的先行形として。",
+      "targetId": "mallarme_apparition",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "El alma\ndice, sin voz, una oración.",
+      "body": "「魂は声なく、一つの祈りを告げる（El alma / dice, sin voz, una oración）」──「声なく（sin voz）」という副詞句が詩学的に最も重要な命題を形成する。声を持たない祈りは言語を超えた内的発話として定義される：「言葉以前の祈り」という神秘主義的概念。ヴェイユ「真空を受容する（Accepter le vide）」§4「La vérité est du côté de la mort（真理は死の側にある）」──声のない祈りが「言語の死」における真理への接近として機能する。ブランショ『文学の空間（L'Espace littéraire）』での「沈黙と作品」──作品は「語りえないもの」を「語りえないものとして語る」ことによって成立する：「sin voz（声なく）」という表現がブランショ的な意味での「沈黙の発話」の詩的定式として読める。十字架の聖ヨハネ「暗夜」第3連「sin otra luz y guía / sino la que en el corazón ardía（他の光も道標もなく、ただ心の中で燃えていたものだけを頼りに）」──外的言語を持たない内的祈りという神秘主義的認識論の詩的変奏。",
+      "targetId": "juan_de_la_cruz_noche_oscura",
+      "targetParagraphId": 3
+    },
+    {
+      "paragraphId": 4,
+      "type": "prosody",
+      "anchor": "Canción de amor,\noración mía,\npálida flor\nde poesía.",
+      "body": "詩篇中で最も短い4行連として、詩全体の自己言及的・再帰的核を形成する。「Canción de amor（愛の歌）／oración mía（私の祈り）／pálida flor（蒼ざめた花）／de poesía（詩の）」という4項の系列が「歌＝祈り＝花＝詩」という等置連鎖を形成する──詩的行為そのものが「祈り」であるという神秘主義的詩学の宣言。「pálida flor（蒼ざめた花）」──「pálida（蒼ざめた）」という形容詞がモデルニスモ詩学の核心的形容語：ヴェルレーヌ「Chanson d'automne」の「Les sanglots longs / des violons / de l'automne（秋の／ヴァイオリンの／長い嗚咽）」の蒼ざめた美学と同族。モデルニスモにおける「花」は生命力の象徴ではなく「蒼ざめた」衰退・無常の象徴として用いられる──ボードレール「悪の華（Les Fleurs du Mal）」の倒置的花の詩学の継承。ヴァレリー「詩（Poésie）」の「詩とは言語の祝祭（La poésie est une fête du langage）」という定式に対して、ボルハの「詩の蒼ざめた花」は「言語の祝祭」ではなく「言語の受難」として詩を定義する──モデルニスモ的悲観主義の詩学的核。"
+    },
+    {
+      "paragraphId": 5,
+      "type": "commentary",
+      "anchor": "Hora de luna y de misterio,\nhora de santa bendición,\nhora en que deja el cautiverio\npara cantar, el corazón.",
+      "body": "「月と神秘の時（hora de luna y de misterio）──心が囚われから解き放たれ歌うための時（deja el cautiverio / para cantar, el corazón）」──「hora（時）」という語の六回反復（アナフォラ）が時の神聖な充満を文体的に実演する。「cautiverio（囚われ・捕囚）」という語──ヨブ記第3章v.18「quondam vincti pariter sine molestia（かつて縛られた者たちも共に苦しみなく）」における「vincti（縛られた者）」との照応：心が「日常の囚われ（cautiverio）」から解放されて「歌（canto）」へと転化する──ヨブの逆説的死への自由と同型の構造として、「月の時」が「囚われからの解放」の実現として機能する。「hora de unción（塗油の時）」──カトリック秘蹟の「病者の塗油（unción de los enfermos）」への言及：死と癒しの交差する聖礼典的時間として「月の時」が位置づけられる。マラルメ「エロディヤード・場面（Hérodiade, Scène）」でのエロディヤードが「L'horreur de la nuit / et la nuit（夜の恐怖、そして夜）」と独白する「恐怖の時」に対して、ボルハの「hora de luna（月の時）」は同じ夜の時間を「祝福」として詩化する──エロディヤードの拒絶的夜と対照的な受容的夜。",
+      "targetId": "mallarme_herodiade_scene",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 6,
+      "type": "commentary",
+      "anchor": "La luna\nes una\nllaga blanca y divina\nen el corazón hondo de la noche.\n¡Oh luna diamantina,\ncúbreme! ¡Haz un derroche\nde lívida blancura\nen mi doliente noche!\n¡Llégaste hasta mi cruz, pon un poco de albura\nen mi corazón, llaga divina de locura!",
+      "body": "「月は白く神聖な傷口（llaga blanca y divina）──私の心に、狂気の神聖な傷口（llaga divina de locura）」──詩篇全体の神学的・詩学的頂点。「llaga（傷口・潰瘍）」という語がキリスト教神学における「五つの聖傷（llagas de Cristo）」を喚起しつつ、月そのものをその「白い傷口」として定義する：宇宙的規模の受難の形象。「llaga blanca（白い傷口）」と「llaga divina de locura（狂気の神聖な傷口）」の対応──「blanca（白）」と「locura（狂気）」が「傷（llaga）」の二つの形容として提示されることで、「白さ（純粋性）」と「狂気」が同じ傷の二面として定義される。ドストエフスキー『白痴（Idiot, 1869）』──ムイシュキン公爵の「聖なる狂気」、てんかんの発作直前の「無限の幸福」という神聖と狂気の不可分な融合──がボルハの「llaga divina de locura」という命題の文学的等価物として機能する：神聖な傷＝狂気の傷という等式は「聖なる狂人（yurodiviy）」の論理と同構造。ヨブ記第3章v.20「Quare misero data est lux, et vita his qui in amaritudine animae sunt（なぜ惨めな者に光が与えられるのか──魂の苦渋の中にある者に命が与えられるのか）」──ボルハの「¡Oh luna diamantina, cúbreme!（ダイヤモンドの月よ、私を覆ってくれ）」という叫びがヨブの問いと同型の実存的叫びとして照応する：光（月光）が苦しむ者に降り注ぐという逆説的恩寵の構造。マラルメ「エロディヤード・場面」でのエロディヤードが「Je veux que mes cheveux qui ne sont pas des fleurs / À répandre l'oubli des humaines douleurs（私の髪は……人間的苦悩の忘却を広めるための花ではない）」として月光的純粋性と苦悩を結びつける──「llaga blanca y divina（白く神聖な傷口）」としての月の形象との照応。",
+      "targetId": "hieronymus_iob_3",
+      "targetParagraphId": 20
+    },
+    {
+      "paragraphId": 7,
+      "type": "commentary",
+      "anchor": "se ha callado. El santuario\nse queda solitario.",
+      "body": "「沈黙した（se ha callado）──聖堂は孤独のまま残る（se queda solitario）」──詩篇の結語として鐘楼の沈黙と聖堂の孤独が確定する。第1段落の冒頭「El viejo campanario / toca para el rosario（古い鐘楼がロザリオのために鳴り響く）」との円環的対応：詩が「鳴ること（tocar）」から始まり「沈黙すること（callarse）」で閉じる──コヘレト第1章v.9「Quid est quod fuit? Ipsum quod futurum est（あったものはこれから来るもの）」という循環的反復の詩的実現。「solitario（孤独な）」という最終語──聖堂の孤独は礼拝者の不在を示すのではなく、礼拝後の「余後（après-coup）」の静寂として機能する：儀式が完了した後に残る「空虚（vide）」。ブランショ『来たるべき書物（Le Livre à venir）』での「作品の完成は詩人から作品を奪う瞬間」──鐘楼が沈黙し、聖堂が孤独になる瞬間が「詩的行為の完了における詩人の消去」として機能する：作品（儀式・詩）は完成と同時に作者（鐘楼・詩人）を沈黙させる。ヴェイユ「Accepter le vide」§7「Il faut rester immobile, attendre, ne pas courir après（静止したまま、待たなければならない、後を追って走ってはならない）」──沈黙した聖堂の「solitario（孤独）」がヴェイユ的「待機（attente）」の空間として読める：礼拝者が去った後の孤独な聖堂が「恩寵を待つ空虚」として存続する。",
+      "targetId": "weil_accepter_le_vide",
+      "targetParagraphId": null
+    }
+  ]
+}
