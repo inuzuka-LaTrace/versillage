@@ -1,0 +1,83 @@
+{
+  "id": "noboa_ego_sum",
+  "title": "Ego Sum",
+  "author": "Ernesto Noboa y Caamaño",
+  "source": "Romanza de las Horas Wikisource: https://es.wikisource.org/wiki/Ego_Sum",
+  "year": "1922",
+  "firstPublication": "Romanza de las Horas 1922",
+  "difficulty": "上級",
+  "category": "noboa",
+  "originalLang": "es-ES",
+  "modernRelevance": "★★★★",
+  "context": "エルネスト・ノボア・イ・カアマーニョ（Ernesto Noboa y Caamaño, 1891–1927）はエクアドルのモデルニスモ詩人。アルトゥーロ・ボルハと同世代の友人であり、ボルハの死後に詩を捧げた詩人でもある。「Ego Sum（我あり）」というラテン語タイトルがキリストの「われは道なり（Ego sum via）」（ヨハネ14:6）を逆用する：神学的「われあり」が退廃主義的自己宣言として詩的に転用される。ソネット形式（4・4・3・3行）。詩篇は一人称の愛の羅列（Amo……Amo……）による自己定義として構成される──「異質・異国的なもの・曖昧・病的・偽りなるもの」への愛が「神経症者（neurótico）」の自己像として確立される。「araña poeana（ポー的蜘蛛）」という直接的な詩的系譜の言及がポーへの帰属を明示し、「悪（mal）」が「蜘蛛の巣（red）」として脳内に張り巡らされる病的詩学を宣言する。後半の転換（volta）では「孤立（aislamiento）」が詩的花開きの条件として逆説的に肯定され、「星々の遠い音楽（música de los astros lejanos）」への陶酔と「現実の上を飛ぶ翼（alas sobre la realidad）」によって世俗的承認からの解放が宣言される。",
+  "keywords": [
+    "Ego Sum",
+    "neurótico",
+    "araña poeana",
+    "morfina",
+    "aislamiento",
+    "nardo del ensueño",
+    "astros lejanos",
+    "mal",
+    "退廃主義",
+    "モデルニスモとポー"
+  ],
+  "relatedTexts": [
+    "borja_primavera_mistica_y_lunar",
+    "borja_voy_a_entrar_al_olvido",
+    "poe_the_raven",
+    "poe_ulalume",
+    "baudelaire_spleen",
+    "baudelaire_femmes_damnees",
+    "baudelaire_correspondances",
+    "verlaine_chanson_dautomne",
+    "trakl_de_profundis",
+    "weil_les_astres"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "verses": "v.1–4",
+      "original": "Amo todo lo extraño, amo todo lo exótico;\nlo equívoco y morboso, lo falso y lo anormal:\ntan sólo calmar pueden mis nervios de neurótico\nla ampolla de morfina y el frasco de cloral.",
+      "provisionalTranslation": "私はすべての異質なものを愛する、すべての異国的なものを愛する。\n曖昧で病的なもの、偽りなるものと異常なるものを。\n私の神経症者の神経を落ち着かせることができるのは\nモルヒネのアンプルとクロラールの瓶だけだ。"
+    },
+    {
+      "id": 2,
+      "verses": "v.5–8",
+      "original": "Amo las cosas mustias, aquel tinte clorótico\nde hampones y rameras, pasto del hospital.\nEn mi cerebro enfermo, sensitivo y caótico,\ncomo araña poeana, teje su red el mal.",
+      "provisionalTranslation": "私は枯れた事物を愛する、浮浪者と売春婦の\nあの病院的な青白い色合いを。\n私の病んだ、感受性の強い、混沌とした脳の中で、\nポー的な蜘蛛のように、悪がその網を張り巡らす。"
+    },
+    {
+      "id": 3,
+      "verses": "v.9–14",
+      "original": "No importa que los otros me huyan. El aislamiento\nes propicio a que nazca la flor del sentimiento:\nel nardo del ensueño brota en la soledad.\nNo importa que me nieguen los aplausos humanos\nsi me embriaga la música de los astros lejanos\ny el batir de mis alas sobre la realidad.",
+      "provisionalTranslation": "他の者たちが私から逃げても構わない。孤立は\n感情の花が生まれるのに好都合だ。\n夢想のナルドは孤独の中で芽吹く。\n人間の拍手が私に否定されても構わない、\nもし遠い星々の音楽が私を陶酔させるなら、\nそして私の翼が現実の上を羽ばたくなら。"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "Amo todo lo extraño, amo todo lo exótico;\nlo equívoco y morboso, lo falso y lo anormal:",
+      "body": "「私はすべての異質なものを愛する（Amo todo lo extraño）」という二重のアナフォラによる開幕──「愛（Amo）」の反復が詩全体を「愛の宣言（declaración de amor）」として定式化するが、その愛の対象が「異質・異国的・曖昧・病的・偽りなるもの・異常なるもの」という常規からの逸脱の系列で構成される。タイトル「Ego Sum」──ヨハネ福音書14:6「Ego sum via, et veritas, et vita（われは道であり、真理であり、命である）」のキリスト論的自己定義が、詩人の退廃的自己宣言として逆用される：キリストが「真理（veritas）」と「命（vita）」を宣言するのに対して、ノボアは「偽りなるもの（lo falso）」と「病的なもの（lo morboso）」への愛を宣言する──神学的「われあり」の組織的転倒。「morboso（病的な）」という形容──イタリア語・スペイン語の美術批評用語として「柔らかな・優美な」と「病的な」の二義を持つ（「Aria galante」§4での「mórbidos brazos」参照）：ノボアにおいては「病的な」という意味が前景化される。ボードレール「悪の華・序詩（Au Lecteur）」「La sottise, l'erreur, le péché, la lésine（愚かさ、誤り、罪、吝嗇）」という「悪への愛の目録」──ボードレールが「悪（le Mal）」の諸相を羅列することで詩集全体の批評的地平を設定する構造が、ノボアの「Amo……Amo……」という退廃的愛の目録の詩学的先型として機能する。",
+      "targetId": "baudelaire_spleen",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "En mi cerebro enfermo, sensitivo y caótico,\ncomo araña poeana, teje su red el mal.",
+      "body": "「私の病んだ、感受性の強い、混沌とした脳の中で、ポー的な蜘蛛（araña poeana）のように、悪がその網を張り巡らす（teje su red el mal）」──詩篇の詩学的核心。「araña poeana（ポー的蜘蛛）」という合成語──エドガー・アラン・ポーへの固有名詞的帰属が詩的系譜として明示される。ポーの短編「マスク・オブ・レッドデス（The Masque of the Red Death, 1842）」における疫病の侵入・「ウィリアム・ウィルソン（William Wilson, 1839）」での自己の二重性──「脳内に巣くう悪（mal）」という形象がポー的な心理的恐怖の詩的継承として機能する。「teje su red（網を張り巡らす）」──「tejer（織る）」という動詞がマラルメの「詩とは言語の織物（tissu）である」という詩学的比喩と重なる：「悪（mal）」が詩人の脳内で「詩的テクスト（red＝網＝texto）」を「織る」──悪の詩学そのものの生成として読める。「cerebro……sensitivo y caótico（感受性が強く混沌とした脳）」──ヴェルレーヌ「詩法（Art poétique）」での「感覚（sensation）の優位」という詩学──過剰な感受性が詩的生産の条件として提示される。トラークル「De Profundis」の「私はここにいる（Ich bin hier）」という病んだ自己の宣言と、「脳内の悪の蜘蛛の巣」という形象の共鳴：どちらも病的な内的空間が詩的世界の生成場として機能する。「clorótico（青白い）」──「塩素色（clorótico）」という医学的形容が「浮浪者と売春婦（hampones y rameras）」に適用される：ボードレール「巨人の女（La Géante）」「腐屍（Une Charogne）」の社会的周縁者・身体的腐敗への審美的視線の継承。",
+      "targetId": "trakl_de_profundis",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "si me embriaga la música de los astros lejanos\ny el batir de mis alas sobre la realidad.",
+      "body": "「遠い星々の音楽（música de los astros lejanos）が私を陶酔させるなら──私の翼が現実の上を羽ばたくなら（el batir de mis alas sobre la realidad）」──詩篇の volta（転換）が完成する二行。「No importa（構わない）」の二重反復による社会的拒絶の肯定から「si me embriaga（もし陶酔させるなら）」という条件法への移行が、孤立の哲学的根拠として星の音楽を提示する。「música de los astros lejanos（遠い星々の音楽）」──ピタゴラスの「天球の音楽（musica universalis）」への言及：星々の軌道が音楽的調和を生むという古代宇宙論が「陶酔（embriagar）」の源として詩的に活性化される。ヴェイユ「Les Astres（星々）」最終行「Il est là dans le cœur soudain, leur feu divin（突然心の中にある、彼らの神の火が）」──「遠い星々の音楽」が「心の中に突然現れる神の火」と同型の宇宙的感応として機能する：外部の星と内部の心の照応がボードレール「万物照応（Correspondances）」の詩学的原理に基づく。「el nardo del ensueño brota en la soledad（夢想のナルドは孤独の中で芽吹く）」──「nardo（ナルド）」：雅歌1:12「王が食卓に座している間、私のナルドは香りを放った（nardus mea dedit odorem suum）」のナルドの香料が「夢想（ensueño）」の花として詩的に転用される：聖書的・神秘主義的「孤独における神との接触」の詩学的継承。「batir de mis alas sobre la realidad（現実の上を羽ばたく翼）」──ポーの「イスラフェル（Israfel）」の「その心は弦の琴（And the giddy stars, so legends tell / Ceasing their hymns, attend the spell）」──天使的詩人が「現実の上を飛ぶ」という超越的詩学の直接的反響：「araña poeana」から「alas sobre la realidad」へという詩的軌跡がポーへの二重の帰属として完結する。",
+      "targetId": "weil_les_astres",
+      "targetParagraphId": null
+    }
+  ]
+}
