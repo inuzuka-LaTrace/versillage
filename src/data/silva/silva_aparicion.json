@@ -1,0 +1,93 @@
+{
+  "id": "silva_aparicion",
+  "title": "Aparición",
+  "author": "Medardo Ángel Silva",
+  "source": "El árbol del bien y del mal (1918). Wikisource: https://es.wikisource.org/wiki/Aparición_(Silva)",
+  "year": "1918",
+  "firstPublication": "El árbol del bien y del mal, Guayaquil, 1918（「Baladas, reminiscencias y otros poemas」部門）",
+  "difficulty": "中級",
+  "category": "silva",
+  "originalLang": "es-ES",
+  "modernRelevance": "★★★★",
+  "context": "メダルド・アンヘル・シルバ（Medardo Ángel Silva, 1898–1919）の詩集『善悪の樹（El árbol del bien y del mal, 1918）』の「バラード、回想詩、その他（Baladas, reminiscencias y otros poemas）」部門に収録。全4連×4行のbalada（バラード）形式。各連の末行に「la Emperatriz de los celestes ojos（天の目を持つ女帝）」という折り返し句が反復される──ヴィラネル（villanelle）的・バラード的な折り返し句の構造。タイトル「Aparición（出現・幻影）」はマラルメの詩篇「Apparition（1883年）」の直接的スペイン語的対応として読める：どちらも「幻の女性的存在の出現と消滅」を主題とし、どちらも光・星・幻影（vision）という詩的語彙を共有する。シルバにおける「Emperatriz（女帝）」という固有名詞的人物──「Ofrenda a la Muerte」§1の「Emperatriz maldita de los negros imperios（暗黒帝国の呪われた女帝）」という「死の女帝」と対比的に、本篇では「天の目を持つ女帝（Emperatriz de los celestes ojos）」として光・美・夢の女性的象徴として提示される。第四連「Y se desvaneció en la luz del astro（そして星の光の中に消えた）」という「消滅（desvanecimiento）」がマラルメ「Apparition」の「tu t'en allais（あなたは立ち去った）」という幻影の消失と照応する。",
+  "keywords": [
+    "Emperatriz de los celestes ojos",
+    "aparición",
+    "clavileño",
+    "Diosa y Esfinge Lira y Musa",
+    "desvanecerse",
+    "astro",
+    "balada",
+    "幻影の出現と消滅",
+    "マラルメとの照応",
+    "女帝"
+  ],
+  "relatedTexts": [
+    "mallarme_apparition",
+    "silva_ofrenda_a_la_muerte",
+    "silva_reminiscencia_siglo_xviii",
+    "silva_serenata",
+    "silva_la_libertadora",
+    "verlaine_clair_de_lune",
+    "mallarme_herodiade_scene",
+    "baudelaire_beaute"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "verses": "v.1–4",
+      "original": "Lloraba perlas la fonta harmónica\nlas dalias descubrían sus sonrojos,\ncuando pasó triunfal y salomónica\nla Emperetriz de los celestes ojos.",
+      "provisionalTranslation": "調和の泉が真珠を泣いていた、\nダリアたちがその赤らみを見せていた、\nそのとき勝ち誇り、ソロモン的に通り過ぎた、\n天の目を持つ女帝が。"
+    },
+    {
+      "id": 2,
+      "verses": "v.5–8",
+      "original": "Tornaba en mi divino clavileño\nde una excursión solar hollando abrojos;\ny me sonrió en un éxtasis de ensueño,\nla Emperatriz de los celestes ojos.",
+      "provisionalTranslation": "私は神聖なクラビレーニョで戻っていた、\nアザミを踏みながらの太陽の遠征から。\nそして夢のエクスタシーの中で私に微笑んだ、\n天の目を持つ女帝が。"
+    },
+    {
+      "id": 3,
+      "verses": "v.9–12",
+      "original": "Rimaba un grillo su sonata abstrusa,\nagria a la luz de los ponientes rojos.\nY era Diosa y Esfinge, Lira y Musa,\nla Emperatriz de los celestes ojos.",
+      "provisionalTranslation": "コオロギが難解なソナタを刻んでいた、\n赤い夕暮れの光に尖った音で。\nそして女神であり、スフィンクスであり、竪琴であり、ミューズであった、\n天の目を持つ女帝が。"
+    },
+    {
+      "id": 4,
+      "verses": "v.13–16",
+      "original": "Iba hacia su blancura de alabastro\ncuando me victimaron sus enojos...\nY se desvaneció en la luz del astro\nla Emperatriz de los celestes ojos.",
+      "provisionalTranslation": "私はその雪花石膏の白さへと向かっていた、\nそのとき彼女の怒りが私を犠牲にした……\nそして星の光の中に消えていった、\n天の目を持つ女帝が。"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "glossary",
+      "anchor": "Lloraba perlas la fonta harmónica\nlas dalias descubrían sus sonrojos,\ncuando pasó triunfal y salomónica\nla Emperetriz de los celestes ojos.",
+      "body": "「調和の泉が真珠を泣いていた（Lloraba perlas la fonta harmónica）──ダリアたちがその赤らみを見せていた（las dalias descubrían sus sonrojos）──勝ち誇り、ソロモン的に通り過ぎた（pasó triunfal y salomónica）──天の目を持つ女帝（la Emperatriz de los celestes ojos）」──詩篇全体の開幕にして折り返し句の最初の提示。「Lloraba perlas la fonta harmónica（調和の泉が真珠を泣いていた）」──マラルメ「Apparition（1883年）」「La lune s'attristait. Des séraphins en pleurs / Rêvant, l'archet aux doigts, dans le calme des fleurs / Vaporeuses, tiraient de mourantes violes / De blancs sanglots glissant sur l'azur des corolles（月が悲しんでいた。涙する天使たちが……白い嗚咽が花の青い上を滑っていた）」という「泣く・真珠・調和」という語彙的連鎖との直接的照応：どちらも「幻影の出現」の場面が「涙・水・調和の音楽」によって準備される。「fonta harmónica（調和の泉）」──「fonta（泉）」という古語的語彙と「harmónica（調和の）」という形容の組み合わせ：「La libertadora」§6「canta la fuente del parque cristalina / su canción, melodiosa serenata de amor（公園の泉が歌う、愛の旋律的なセレナーデを）」というシルバ詩篇内の「歌う泉」のモチーフの変奏として。「triunfal y salomónica（勝ち誇り、ソロモン的に）」──「salomónica（ソロモン的な）」という形容詞：旧約聖書のソロモン王（知恵・栄華・美の象徴）の女性的等価として「Emperatriz（女帝）」が「ソロモン的」──すなわち「雅歌（Cantar de los Cantares）」のソロモン的愛の女王として──定義される。「la Emperatriz de los celestes ojos（天の目を持つ女帝）」──折り返し句の最初の提示：「Emperatriz（女帝）」の大文字固有名詞化が「Ofrenda a la Muerte」§1の「Emperatriz maldita de los negros imperios（暗黒帝国の呪われた女帝）」という「死の女帝」と対称的に配置される──「celestes（天の・天空の）ojos（目）」という「天上の眼差し」が「negros imperios（暗黒帝国）」という「冥界の支配」の逆極として機能する。",
+      "targetId": "mallarme_apparition",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "Tornaba en mi divino clavileño\nde una excursión solar hollando abrojos;\ny me sonrió en un éxtasis de ensueño,",
+      "body": "「私は神聖なクラビレーニョで戻っていた（Tornaba en mi divino clavileño）──アザミを踏みながらの太陽の遠征から（de una excursión solar hollando abrojos）──夢のエクスタシーの中で私に微笑んだ（me sonrió en un éxtasis de ensueño）」──詩篇の「詩人の自己定位」と「Emperatriz との出会い」の場面。「mi divino clavileño（神聖なクラビレーニョ）」──「clavileño（クラビレーニョ）」：セルバンテス『ドン・キホーテ』第二部第40–41章に登場する「木製の空飛ぶ馬」。騎士道ロマンスの言語として詩人が「空中から帰還する」という超現実的な移動手段として使われる──「Serenata」§1の「paladín audaz（勇敢な騎士）」という中世的騎士道的語彙がここでは「clavileño（空飛ぶ馬）」というセルバンテス的・パロディ的語彙として変奏される：「divino（神聖な）」という形容が「木製の架空の馬（clavileño）」に付与されることでモデルニスモ的「崇高の戯れ（jeu du sublime）」が実現される。「excursión solar（太陽の遠征）」──「solar（太陽の）」という形容：詩人の「旅」が天空的・太陽的な移動として定義される。「éxtasis de ensueño（夢のエクスタシー）」──「éxtasis（エクスタシー）」というテレサ・フアン・デ・ラ・クルス的神秘主義的語彙がここでは「ensueño（夢・幻想）」という世俗的文脈に置かれる：神秘主義的「脱自（éxtasis）」が審美的「夢の恍惚」として転用される。マラルメ「Apparition」の語り手が「en rêvant（夢想しながら）」という状態で幻影に出会うのと対応して、シルバの語り手は「éxtasis de ensueño（夢のエクスタシー）」の中で「Emperatriz」の微笑みに出会う。"
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "Rimaba un grillo su sonata abstrusa,\nagria a la luz de los ponientes rojos.\nY era Diosa y Esfinge, Lira y Musa,\nla Emperatriz de los celestes ojos.",
+      "body": "「コオロギが難解なソナタを刻んでいた（Rimaba un grillo su sonata abstrusa）──赤い夕暮れの光に尖った音で（agria a la luz de los ponientes rojos）──女神であり、スフィンクスであり、竪琴であり、ミューズであった（Y era Diosa y Esfinge, Lira y Musa）」──詩篇全体で最も詩的密度の高い連にして「Emperatriz」の神話的定義の頂点。「sonata abstrusa（難解なソナタ）」──「abstrusa（難解な・難しい）」という稀少形容詞がコオロギの「ソナタ」に付与される：コオロギという日常的昆虫の「声」が「難解なソナタ（sonata abstrusa）」として格上げされる──自然音の「難解な芸術作品」への変容という逆説的審美化。「agria a la luz de los ponientes rojos（赤い夕暮れの光に尖った音で）」──「agria（尖った・酸っぱい）」という味覚的・触覚的形容が音に適用される共感覚（synesthésie）：ボードレール「Correspondances（照応）」の「les parfums, les couleurs et les sons se répondent（香りと色と音が応え合う）」という感覚の照応の詩的実践として。「Diosa y Esfinge, Lira y Musa（女神であり、スフィンクスであり、竪琴であり、ミューズであった）」──「Emperatriz」の四重の神話的定義：「Diosa（女神）」・「Esfinge（スフィンクス）」・「Lira（竪琴）」・「Musa（ミューズ）」という四属性が詩の中心的定義として提示される。「Esfinge（スフィンクス）」──マラルメ「Hérodiade」のスフィンクス的・謎的な「冷たい美（beauté froide）」との照応：シルバの「Emperatriz」もスフィンクス的不可解性を持つ女性像として定義される。「Lira y Musa（竪琴とミューズ）」──「Ofrenda a la Muerte」§3「cuerpo melodioso como un brazo de lira（竪琴の腕のような旋律的な身体）」・「Serenata」§4「mórbidos brazos de lira（竪琴のような柔らかな腕）」というシルバ詩篇内の「lira（竪琴）」形象の集約として。",
+      "targetId": "mallarme_herodiade_scene",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 4,
+      "type": "glossary",
+      "anchor": "Iba hacia su blancura de alabastro\ncuando me victimaron sus enojos...\nY se desvaneció en la luz del astro\nla Emperatriz de los celestes ojos.",
+      "body": "「私はその雪花石膏の白さへと向かっていた（Iba hacia su blancura de alabastro）──そのとき彼女の怒りが私を犠牲にした（me victimaron sus enojos）──そして星の光の中に消えていった（Y se desvaneció en la luz del astro）──天の目を持つ女帝が（la Emperatriz de los celestes ojos）」──詩篇の結語にして「Emperatriz」の消滅の場面。「su blancura de alabastro（雪花石膏の白さ）」──「alabastro（雪花石膏）」という形容：「Serenata」§6「tu frente alabastrina（あなたの雪花石膏の額）」と同一の語彙──シルバ詩篇における「白さ（blancura）」の審美的極点として「alabastro（雪花石膏）」が反復される。「cuando me victimaron sus enojos（そのとき彼女の怒りが私を犠牲にした）」──「victimaron（犠牲にした）」という動詞の三人称複数形：「sus enojos（彼女の怒り）」が複数主語として詩人を「犠牲にする（victimar）」──「Serenata」§10「matadme con tus ojos（あなたの目で殺してくれ）」という「愛による死」が「sus enojos（怒り）による犠牲化」として変奏される：愛の眼差し（celestes ojos）が怒り（enojos）へと転化する瞬間の「接近と拒絶」の弁証法。「Y se desvaneció en la luz del astro（そして星の光の中に消えていった）」──マラルメ「Apparition」の結語的場面との最も直接的照応。マラルメの「Apparition」では「Fée au chapeau de clarté（光の帽子をかぶった妖精）」が幻影として現れ・消える：「en la luz del astro（星の光の中に）」というシルバの「消滅（desvanecerse）」が「clarté（光）」の中への溶解として同型の幻影消失を実現する。「desvaneció」という動詞──「消える・霧散する」を意味するスペイン語：固体的・実体的存在ではなく「霧・煙・光」として消える幻影の本質的不実体性を記述する。マラルメ「Apparition」の「ta ressemblance avec le soir（夕暮れとのあなたの類似）」という「Apparition」が「夕暮れ（soir）」に類似するように、シルバの「Emperatriz」は「astro（星・天体）」の光の中に消える──どちらも幻影の本質が「光（lumière / luz）」との類似・融合として定義される。「la Emperatriz de los celestes ojos」──折り返し句の最終出現として詩篇を閉じる：「celestes（天の）ojos（目）」という形容が「en la luz del astro（星の光の中に）」という消滅の場面と照応する──「天の目（celestes ojos）」を持つ存在が「星の光（luz del astro）」の中に還帰するという円環的構造。",
+      "targetId": "mallarme_apparition",
+      "targetParagraphId": null
+    }
+  ]
+}
