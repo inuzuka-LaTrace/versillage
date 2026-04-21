@@ -51,6 +51,7 @@ export const CATEGORIES = {
   juan_de_la_cruz:            { name: '十字架の聖ヨハネ' },
   teresa:                     { name: 'イエスの聖テレサ' },
   silva:                      { name: 'シルバ' },
+  borja:                      { name: 'ボルハ' },
   hieronymus:                 { name: 'ヒエロニムス' },
 };
 
@@ -101,6 +102,7 @@ export const CAT_SHORT = {
   juan_de_la_cruz:         '十字架の聖ヨハネ',
   teresa:                  'イエスの聖テレサ',
   silva:                   'シルバ',
+  borja:                   'ボルハ',
   hieronymus:              'ヒエロニムス',
 };
 
