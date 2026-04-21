@@ -1,0 +1,109 @@
+{
+  "id": "borja_aria_galante",
+  "title": "Aria galante",
+  "author": "Arturo Borja",
+  "source": "La flauta de ónix (1920, 死後出版). Wikisource: https://es.wikisource.org/wiki/Aria_galante",
+  "year": "1920",
+  "firstPublication": "La flauta de ónix, Quito, 1920（死後出版）",
+  "difficulty": "中級",
+  "category": "borja",
+  "originalLang": "es-ES",
+  "modernRelevance": "★★★★",
+  "context": "アルトゥーロ・ボルハ（Arturo Borja, 1892–1912）の遺詩集『オニキスの笛（La flauta de ónix）』所収。「Aria galante（雅やかなアリア）」というタイトルは、ヴェルレーヌ「Fêtes galantes」の「雅宴（galante）」の美学とオペラ的「アリア（aria）」の音楽性を結合する──詩篇全体がひとつの抒情的独白（monologue lyrique）として構成されることを宣言する。献呈の定式「Para ti mi pensamiento, / para ti mi corazón（あなたのために私の思考を、あなたのために私の心を）」が冒頭と末尾で反復される円環的構造（envelope structure）を持ち、「王女（Princesa）」と呼ばれる女性への愛の告白が中心をなす。しかしこの愛は純粋な恋愛詩ではなく、「瞳の呪縛（maleficios）」・「罪の花（flor de pecado）」・「狂気の不幸（loca desventura）」という苦悩と呪いの語彙によって貫かれる──愛する対象が同時に苦悩の源泉として提示されるボードレール的「悪の花」の詩学の継承。モデルニスモにおけるdecadentisme（退廃主義）の典型的語彙──「蒼白（palidez）」・「倦怠（languidez）」・「紫の隈（moradas ojeras）」・「侵されない白さ（inviolada blancura）」──が集積し、愛の対象を「神秘的な王女（Princesa）」として神話化する。",
+  "keywords": [
+    "Princesa",
+    "flor de pecado",
+    "palidez",
+    "languidez",
+    "maleficios",
+    "inviolada blancura",
+    "loca desventura",
+    "雅宴",
+    "退廃主義",
+    "モデルニスモ"
+  ],
+  "relatedTexts": [
+    "borja_primavera_mistica_y_lunar",
+    "verlaine_clair_de_lune",
+    "verlaine_colloque_sentimental",
+    "baudelaire_femmes_damnees",
+    "baudelaire_beaute",
+    "baudelaire_les_bijoux",
+    "trakl_de_profundis",
+    "trakl_helian",
+    "juan_de_la_cruz_noche_oscura",
+    "teresa_vivo_sin_vivir"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "verses": "v.1–4",
+      "original": "Para ti mi pensamiento,\npara ti mi corazón;\npara ti, flor de tormento,\nmi pasión.",
+      "provisionalTranslation": "あなたのために私の思考を、\nあなたのために私の心を。\nあなたのために、苦悩の花よ、\n私の情熱を。"
+    },
+    {
+      "id": 2,
+      "verses": "v.5–9",
+      "original": "Y que dos cercos violados\nque a tus ojos hechizados\naureolan de suplicios,\nviertan en mí, alucinados\nmaleficios.",
+      "provisionalTranslation": "そして魔法をかけられたあなたの瞳を\n苦悩の後光で囲む\n二つの紫の隈が、\n幻惑された呪いを\n私の中に注ぎ込むように。"
+    },
+    {
+      "id": 3,
+      "verses": "v.10–18",
+      "original": "Porcelana de ilusiones\ntu palidez...\nMe da claustrales visiones\ntu languidez...\ny tu labio purpurado\nque has mojado\nen sangre de corazones,\nes una flor de pecado\nde un jardín de tentaciones.",
+      "provisionalTranslation": "幻想の磁器のような\nあなたの蒼白さ……\n修道院的な幻視を与える\nあなたの倦怠……\nそして心たちの血に\n濡らされた\nあなたの紅い唇は、\n誘惑の庭の\n罪の花だ。"
+    },
+    {
+      "id": 4,
+      "verses": "v.19–24",
+      "original": "¡Princesa de mis quimeras,\nque tus moradas ojeras,\nque tu inviolada blancura\ny la llama de tu boca,\nsean blasón de mi loca\ndesventura!",
+      "provisionalTranslation": "私の幻想の王女よ、\nあなたの紫の目の隈が、\nあなたの侵されない白さが、\nそしてあなたの口の炎が、\n私の狂気の不幸の\n紋章となるように！"
+    },
+    {
+      "id": 5,
+      "verses": "v.25–30",
+      "original": "Y recuérdalo, Princesa,\nque mi amor te canta y reza:\npara ti mi pensamiento,\npara ti mi corazón;\npara ti, flor de tormento,\nmi pasión.",
+      "provisionalTranslation": "そして覚えておいてくれ、王女よ、\n私の愛はあなたに歌い、あなたに祈る。\nあなたのために私の思考を、\nあなたのために私の心を。\nあなたのために、苦悩の花よ、\n私の情熱を。"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "para ti, flor de tormento,\nmi pasión.",
+      "body": "「苦悩の花（flor de tormento）」──詩篇の冒頭にして、愛の対象を即座に「苦悩（tormento）」の形象として定義する命題。愛の献呈（para ti……）が「苦悩の花」という逆説的呼格によって統括される：愛する対象が喜びではなく苦悩の源として最初から設定される。ボードレール『悪の華（Les Fleurs du Mal）』のタイトル的命題──「悪（mal）＝苦悩から咲く花（fleur）」──がボルハにおいては「苦悩の花（flor de tormento）」という直接的定式として再登場する。ヴェルレーヌ「感傷的な対話（Colloque sentimental）」の「──あなたはまだ私の魂の恍惚を覚えているか？──なぜあなたは私の心が鼓動するのを感じないのか？」という片側的な愛の告白──愛が相手に届かない苦悩の構造──がボルハの「para ti（あなたのために）」という献呈の反復に潜む一方向的情熱と共鳴する。イエスの聖テレサ「Vivo sin vivir en mí（私なしに生きる）」の「この命の中で私は死ぬほど苦しむ（tan alta vida espero / que muero porque no muero）」という「愛による死の苦悩」──神への愛が死の苦悩として体験される神秘主義的命題が、ボルハの世俗的愛における「苦悩（tormento）」と同型の逆説的構造を形成する。",
+      "targetId": "teresa_vivo_sin_vivir",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "Y que dos cercos violados\nque a tus ojos hechizados\naureolan de suplicios,\nviertan en mí, alucinados\nmaleficios.",
+      "body": "「魔法をかけられた瞳を苦悩の後光で囲む二つの紫の隈（cercos violados）──幻惑された呪い（maleficios）を私の中に注ぐ」──目の隈（ojeras）という身体的疲弊の痕跡が「苦悩の後光（aureola de suplicios）」として聖性と苦悩の二重の形象に転化される。「cercos violados（紫の隈）」：「violado（紫）」という色彩がキリスト教典礼における「受難・悔悛・死」の色として機能する──目の隈の紫色が受難の神聖さを帯びる。「maleficios（呪い・魔術）」という語──美しさが「呪い（maleficio）」として愛する者に作用するという構造は、トラークル「深みより（De Profundis）」の「ある異邦の女が森の端に立っている……（Eine Fremde steht am Waldessaum）」における女性の存在が「不吉な予感」として詩人に作用する構造と照応する。ヴェルレーヌ「月の光（Clair de lune）」の「魂はある選ばれた風景（Votre âme est un paysage choisi）」──女性の魂が「仮面と宴遊（masques et bergamasques）」の幻惑的風景として詩的に定着される──がボルハの「hechizados（魔法をかけられた）」という形容と同族の詩学的語彙を共有する。",
+      "targetId": "trakl_de_profundis",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "Porcelana de ilusiones\ntu palidez...\nMe da claustrales visiones\ntu languidez...",
+      "body": "「幻想の磁器のような蒼白さ（Porcelana de ilusiones / tu palidez）──修道院的な幻視を与える倦怠（claustrales visiones / tu languidez）」──「palidez（蒼白）」と「languidez（倦怠）」という退廃主義の二大形容語が連続する。「Porcelana（磁器）」──身体的蒼白さを「磁器」という人工的・脆弱な器物に比するメタファー：磁器の「半透明性・脆さ・冷たさ・精緻さ」が愛の対象の「蒼白な美しさ」の属性として機能する。「claustrales visiones（修道院的な幻視）」──「claustral（修道院の）」という形容が女性の「倦怠（languidez）」から「修道院的な幻視」を引き出す：倦怠が神秘主義的な内的視覚の条件として機能する。十字架の聖ヨハネ「暗夜（Noche oscura）」第2連「A oscuras y segura / por la secreta escala disfrazada（暗闇の中で、しかし確かに、秘密の梯子を変装して）」──修道院的な「暗闇と孤独」の中で開かれる秘密の視覚が、ボルハの「claustrales visiones」に潜む神秘主義的次元を照らし出す。「y tu labio purpurado / que has mojado / en sangre de corazones, / es una flor de pecado / de un jardín de tentaciones（心たちの血に濡らされた紅い唇──誘惑の庭の罪の花）」──ボードレール「女の呪い（Femmes damnées）」での「Comme un bétail pensif sur le sable couché（砂の上に伏した物思いに沈む家畜のように）」における「罪と美の結合」の詩学がボルハの「jardín de tentaciones（誘惑の庭）」に継承される：エデンの園の「誘惑（tentación）」の構造として愛の唇が「罪の花（flor de pecado）」として定義される。",
+      "targetId": "juan_de_la_cruz_noche_oscura",
+      "targetParagraphId": 2
+    },
+    {
+      "paragraphId": 4,
+      "type": "commentary",
+      "anchor": "¡Princesa de mis quimeras,\nque tus moradas ojeras,\nque tu inviolada blancura\ny la llama de tu boca,\nsean blasón de mi loca\ndesventura!",
+      "body": "「私の幻想の王女（Princesa de mis quimeras）──あなたの紫の目の隈・侵されない白さ・口の炎が私の狂気の不幸の紋章（blasón）となるように」──詩篇の詩学的・感情的頂点。「quimeras（幻想・キメラ）」──「Princesa de mis quimeras」という呼格が女性を「現実には存在しない幻想の存在」として最初から設定する：ギリシャ神話のキメラ（複合怪物）への言及が「愛の幻想性・怪物性」を同時に含意する。「inviolada blancura（侵されない白さ）」──「inviolada（侵されない・純潔な）」という形容が「blancura（白さ）」と結びつき、女性の純粋性が「不可侵」として定義される：トラークル「Helian」の「未だ生まれていない（Ungeborenen）」という純粋性の概念、あるいは「青白い顔（bleiches Antlitz）」の反復として現れる「白さ」の死的純粋性との照応。「la llama de tu boca（あなたの口の炎）」──「炎（llama）」という語が十字架の聖ヨハネ「生き生きとした愛の炎（Llama de amor viva）」の「神秘主義的炎」を世俗的・官能的な「唇の炎」として転用する：神秘主義的愛の語彙が世俗的恋愛詩に浸透するモデルニスモ的混交。「blasón de mi loca desventura（狂気の不幸の紋章）」──「blasón（紋章）」という紋章学的語彙が詩篇に「貴族的・中世的」な装飾的枠組みを与える：ヴェルレーヌ「Fêtes galantes」の雅宴的装飾性との同族。「loca desventura（狂気の不幸）」──ボルハ詩篇を貫く「狂気（locura）」の主題が、「Primavera mística y lunar」の「llaga divina de locura（狂気の神聖な傷口）」から「loca desventura（狂気の不幸）」へと変奏される。"
+    },
+    {
+      "paragraphId": 5,
+      "type": "prosody",
+      "anchor": "Y recuérdalo, Princesa,\nque mi amor te canta y reza:\npara ti mi pensamiento,\npara ti mi corazón;\npara ti, flor de tormento,\nmi pasión.",
+      "body": "詩篇全体の envelope structure（包括的構造）の完成：冒頭4行（§1）が末尾4行で逐語的に反復されることで、詩が「引用（cita）」として自己を閉じる。「mi amor te canta y reza（私の愛はあなたに歌い、あなたに祈る）」──「cantar（歌う）」と「rezar（祈る）」の並置が詩的行為と宗教的行為を等置する：詩篇タイトル「Aria（アリア）」の音楽的次元と「祈り（reza）」の宗教的次元が同一の行為として融合する。「Primavera mística y lunar」§3「El alma / dice, sin voz, una oración（魂は声なく、一つの祈りを告げる）」との照応：声をもって「歌い祈る（canta y reza）」本詩と、「声なき祈り（sin voz）」である前詩が、ボルハ詩篇における「祈りとしての詩」という詩学的核を二様に展開する。末尾の反復において「flor de tormento（苦悩の花）」という呼格が再び登場することで、詩全体が「苦悩の花」への献呈として確定される──ボードレール「悪の華」の「花＝苦悩」という定式の円環的確認として機能する。ヴェルレーヌ「Chanson d'automne」の「三連句的反復」──同一の詩句が繰り返されることで感情的強度を増す音楽的技法──がボルハの envelope structure の詩学的原型として機能する。",
+      "targetId": "verlaine_chanson_dautomne",
+      "targetParagraphId": null
+    }
+  ]
+}
