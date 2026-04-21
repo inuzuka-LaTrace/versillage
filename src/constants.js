@@ -52,6 +52,7 @@ export const CATEGORIES = {
   teresa:                     { name: 'イエスの聖テレサ' },
   silva:                      { name: 'シルバ' },
   borja:                      { name: 'ボルハ' },
+  noboa:                      { name: 'ノボア' },
   hieronymus:                 { name: 'ヒエロニムス' },
 };
 
@@ -103,6 +104,7 @@ export const CAT_SHORT = {
   teresa:                  'イエスの聖テレサ',
   silva:                   'シルバ',
   borja:                   'ボルハ',
+  noboa:                   'ノボア',
   hieronymus:              'ヒエロニムス',
 };
 
