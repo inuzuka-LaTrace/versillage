@@ -1,0 +1,240 @@
+{
+  "id": "noboa_morfina",
+  "title": "Morfina",
+  "author": "Ernesto Noboa y Caamaño",
+  "source": "Romanza de las Horas Wikisource: https://es.wikisource.org/wiki/Morfina",
+  "year": "1922",
+  "firstPublication": "Romanza de las Horas 1922",
+  "difficulty": "上級",
+  "category": "noboa",
+  "originalLang": "es-ES",
+  "modernRelevance": "★★★★",
+  "context": "エルネスト・ノボア・イ・カアマーニョ（Ernesto Noboa y Caamaño, 1891–1927）のモルヒネへの頌歌（oda）。「Morfina（モルヒネ）」という薬物への擬人化的呼びかけ（apostrophe）が詩全体を貫く：モルヒネが「神聖（divina）」・「慈悲深い（piadoso）」・「甘い約束の女（dulce prometida）」・「姉妹（hermana）」として人格化される。ボードレール『人工楽園（Les Paradis artificiels, 1860）』──アヘンとハシシュの経験を美学的・哲学的に論じた散文──が詩篇全体の直接的先型であり、「aunque éste sea artificial（たとえそれが人工的であっても）」という一行がその直接的な詩的引用として機能する。詩の神学的枠組みは「エデンの禁断の果実（fruto prohibido）→人工楽園（paraíso artificial）」という転倒した救済論として構成される：神が与えた苦悩の多い生（¿Por qué Dios al hombre desdichado le hizo?）に対して、モルヒネが「別の楽園」を提供するという告発的命題。「Mil y Una Noches（千夜一夜物語）」・「アラジン的（aladinescas）」という東方的幻想語彙が「人工楽園」の審美的内容を充填する。タイトル『善悪の樹（El árbol del Bien y del Mal）』との直接的連関──ボルハの詩集タイトルが「善悪の知識の木（árbol del Bien y del Mal）」として詩の中に回帰する。",
+  "keywords": [
+    "morfina",
+    "モルヒネ",
+    "paraíso artificial",
+    "mal de vivir",
+    "fakires",
+    "fruto prohibido",
+    "Mil y Una Noches",
+    "hijos del Dolor",
+    "人工楽園",
+    "ボードレール「人工楽園」"
+  ],
+  "relatedTexts": [
+    "noboa_ego_sum",
+    "borja_voy_a_entrar_al_olvido",
+    "baudelaire_spleen",
+    "baudelaire_invitation_voyage",
+    "baudelaire_horloge",
+    "poe_ulalume",
+    "poe_israfel",
+    "hieronymus_ecclesiastes_1",
+    "hieronymus_iob_3",
+    "weil_accepter_le_vide",
+    "weil_necessite"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "verses": "v.1–2",
+      "original": "Morfina,\ndivina!",
+      "provisionalTranslation": "モルヒネよ、\n神聖なる！"
+    },
+    {
+      "id": 2,
+      "verses": "v.3–5",
+      "original": "De las almas tristes celeste beleño,\nfuente inagotable para todo ensueño,\neficaz alivio de todo sufrir.",
+      "provisionalTranslation": "悲しき魂たちへの天上の毒麦草よ、\nすべての夢想のための尽きることのない泉よ、\nあらゆる苦しみの有効な慰めよ。"
+    },
+    {
+      "id": 3,
+      "verses": "v.6–8",
+      "original": "Bálsamo piadoso para toda herida,\nde los soñadores dulce prometida\nque nos indemnizas del mal de vivir.",
+      "provisionalTranslation": "あらゆる傷への慈悲深い香油よ、\n夢想家たちの甘い約束の女よ、\n生きることの苦悩を私たちに償ってくれるものよ。"
+    },
+    {
+      "id": 4,
+      "verses": "v.9–11",
+      "original": "Tú sabes secretos de fakires magos,\npara las dolencias, para los estragos,\npara los embates de toda aflicción.",
+      "provisionalTranslation": "あなたは魔法のファキールたちの秘密を知っている、\n病苦のために、荒廃のために、\nあらゆる苦悩の打撃のために。"
+    },
+    {
+      "id": 5,
+      "verses": "v.12–14",
+      "original": "Al contacto leve de tus manos buenas\nse cura la angustia, se mata las penas,\ny nos nacen alas en el corazón",
+      "provisionalTranslation": "あなたの善い手の軽い接触によって\n不安は癒され、苦悩は殺され、\n私たちの心に翼が生まれる。"
+    },
+    {
+      "id": 6,
+      "verses": "v.15–17",
+      "original": "Muchos compadecen a los que te amamos,\nlos pobres no saben por qué te buscamos\ny por qué es tu culto nuestro único amor.",
+      "provisionalTranslation": "多くの者たちがあなたを愛する私たちを哀れむ、\n哀れな人々はなぜ私たちがあなたを求めるのか知らない、\nなぜあなたへの崇拝が私たちの唯一の愛なのかを。"
+    },
+    {
+      "id": 7,
+      "verses": "v.18–20",
+      "original": "Culto bondadoso de los que soñamos,\nde los que sufrimos, de los que lloramos,\nde los predilectos hijos del Dolor.",
+      "provisionalTranslation": "夢想する私たちの、苦しむ私たちの、\n泣く私たちの、慈悲深い崇拝──\n苦悩の選ばれた子らの。"
+    },
+    {
+      "id": 8,
+      "verses": "v.21–24",
+      "original": "De los que llevamos el secreto anhelo\nde batir las alas y emprender el vuelo,\nlejos de este mundo, lejos de este suelo,\ndonde tiene un trono la vulgaridad.",
+      "provisionalTranslation": "翼を打って飛び立つという\n秘密の切望を胸に抱く私たちの、\nこの世界から遠く、この大地から遠く、\n凡庸さが玉座を持つあの場所へと。"
+    },
+    {
+      "id": 9,
+      "verses": "v.25–27",
+      "original": "Y para la inútil vida cotidiana,\ntú tienes consuelos como una hermana,\ncomo una Hermana de la Caridad.",
+      "provisionalTranslation": "そして無益な日常生活のために、\nあなたは姉妹のような慰めを持つ、\n慈善修道女のような。"
+    },
+    {
+      "id": 10,
+      "verses": "v.28–30",
+      "original": "¿Tú fuiste, acaso, el fruto prohibido\nque entre los follajes se hallaba escondido\ndel árbol del Bien y del Mal?",
+      "provisionalTranslation": "あなたはもしかして、善悪の木の\n葉叢の中に隠されていた\n禁断の果実だったのか？"
+    },
+    {
+      "id": 11,
+      "verses": "v.31–33",
+      "original": "¿Por qué Dios al hombre desdichado le hizo?\nPero ya tenemos otro paraíso,\nauque éste sea artificial!",
+      "provisionalTranslation": "なぜ神は人間を不幸に作ったのか？\nしかし私たちはすでに別の楽園を持っている、\nたとえそれが人工的なものであっても！"
+    },
+    {
+      "id": 12,
+      "verses": "v.34–36",
+      "original": "Tú idealizas todas las cosas grotescas\ny por ti vivimos en aladinescas\nciudades de oro, nácar y marfil.",
+      "provisionalTranslation": "あなたはすべての醜怪なものを理想化する、\nそしてあなたのおかげで私たちはアラジン的な\n金と真珠母と象牙の都市に生きる。"
+    },
+    {
+      "id": 13,
+      "verses": "v.37–39",
+      "original": "Del joyel del sueño nos abres los broches\ny es la vida un cuento de Mil y Una Noches,\ny es la vida un sueño de un cuento de abril.",
+      "provisionalTranslation": "あなたは夢の宝石箱の留め金を私たちのために開ける、\nそして命は千夜一夜物語の物語となり、\n命は四月の物語の夢となる。"
+    },
+    {
+      "id": 14,
+      "verses": "v.40–41",
+      "original": "Morfina,\ndivina!",
+      "provisionalTranslation": "モルヒネよ、\n神聖なる！"
+    },
+    {
+      "id": 15,
+      "verses": "v.42–45",
+      "original": "dame tus caricias para resistir\nel amargo acíbar de nuestra existencia,\ndame tu veneno, dame tu inconciencia,\nporque ya sin ellos no puedo vivir",
+      "provisionalTranslation": "私たちの存在の苦い苦汁に抵抗するために\nあなたの愛撫を与えてくれ、\nあなたの毒を与えてくれ、あなたの無意識を与えてくれ、\nなぜならもうそれらなしには生きられないから。"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "glossary",
+      "anchor": "Morfina,\ndivina!",
+      "body": "「モルヒネよ、神聖なる（Morfina, / divina!）」──詩篇の開幕にして枠組みを定める呼格（apostrophe）。「divina（神聖なる）」という形容が薬物に付与されることで、詩篇全体の神学的転倒が即座に宣言される：神聖性（divinidad）が神ではなく麻薬に属する。韻律的に「Morfina / divina」という脚韻（-ina）が詩全体の音楽的基調を設定する。ボードレール『人工楽園（Les Paradis artificiels, 1860）』の「序文」──「il est question de l'horrible mariage de l'homme avec lui-même（人間と彼自身との恐ろしい結婚）」──薬物経験が「人間の自己との対話」として定義されるボードレールの哲学的枠組みが、ノボアの「divina（神聖）」という呼格の背後に潜む：麻薬への呼びかけは「自己の神聖な側面」への呼びかけとして読める。「Morfina」という固有名詞の単独行──「Ego Sum」§1の「Amo todo lo extraño（私はすべての異質なものを愛する）」という自己宣言から「Morfina」という具体的な愛の対象へと収束する。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "glossary",
+      "anchor": "De las almas tristes celeste beleño,",
+      "body": "「悲しき魂たちへの天上の毒麦草（celeste beleño）」──「beleño（ヒヨス・毒麦草）」はアトロピンを含む植物で、古来から麻酔・幻覚・毒薬として使用された。「celeste（天上の）」という形容が「beleño（毒草）」という地上的・毒的植物に付与される矛盾語法：天上性と毒性の結合がモルヒネの神学的両義性を定式化する。「fuente inagotable para todo ensueño（すべての夢想のための尽きることのない泉）」──ヨハネ福音書4:14「qui autem biberit ex aqua quam ego dabo ei, non sitiet in aeternum（私が与える水を飲む者は永遠に渇かない）」というキリストの「命の泉」の言葉が、ここでは「尽きることのない（inagotable）夢想の泉」としてモルヒネに転用される：神学的「命の水」の薬物的代替。コヘレト第1章v.7「Omnia flumina intrant in mare, et mare non redundat（すべての川は海へと入る、しかし海はあふれない）」という「充足しない欲望」に対して、「fuente inagotable（尽きることのない泉）」が充足の幻想として機能する。"
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "que nos indemnizas del mal de vivir.",
+      "body": "「生きることの苦悩（mal de vivir）を私たちに償ってくれる（indemnizas）」──「mal de vivir」はフランス語「mal de vivre（生の病）」のスペイン語的直訳として、モデルニスモ詩学の核心的命題を凝縮する。ショーペンハウアーの意志の哲学──「生への意志（Wille zum Leben）」が根本的な苦悩の源である──の詩的定式として「mal de vivir」がモデルニスモに流通した。「Bálsamo piadoso para toda herida（あらゆる傷への慈悲深い香油）」──「bálsamo（香油・バルサム）」は聖書において「ギレアデのバルサム（bálsamo de Galaad）」として傷の癒しを象徴する（エレミヤ書8:22「¿No hay bálsamo en Galaad?（ギレアデに香油はないのか？）」）：創傷の神学的癒しがモルヒネに転用される。ヨブ記第3章v.20「Quare misero data est lux, et vita his qui in amaritudine animae sunt（なぜ惨めな者に光が与えられるのか──魂の苦渋の中にある者に命が与えられるのか）」──「mal de vivir」の苦悩がヨブ的な「命への問い」として照応する。",
+      "targetId": "hieronymus_iob_3",
+      "targetParagraphId": 20
+    },
+    {
+      "paragraphId": 4,
+      "type": "commentary",
+      "anchor": "Tú sabes secretos de fakires magos,\npara las dolencias, para los estragos,\npara los embates de toda aflicción.",
+      "body": "「あなたは魔法のファキールたちの秘密を知っている（secretos de fakires magos）──あらゆる苦悩の打撃（embates de toda aflicción）のために」──「fakires magos（魔法のファキール）」という東方的・神秘主義的形象がモルヒネの秘儀的知識として提示される。「fakir（ファキール）」：イスラム神秘主義（スーフィズム）の苦行者・奇跡行者──苦悩の達人として苦悩を超越する者の象徴。「para las dolencias, para los estragos, / para los embates de toda aflicción」──「para……para……para（〜のために、〜のために、〜のために）」という三重のアナフォラが苦悩の包括的カタログを形成する。「aflicción（苦悩）」──ヴェイユの「affliction（苦悩）」概念──身体的・心理的・社会的三重の苦しみとしての affliction──がノボアの「toda aflicción（あらゆる苦悩）」の詩的先行形として照応する：モルヒネが affliction の薬物的解決として提示される。",
+      "targetId": "weil_accepter_le_vide",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 5,
+      "type": "commentary",
+      "anchor": "y nos nacen alas en el corazón",
+      "body": "「私たちの心に翼が生まれる（nos nacen alas en el corazón）」──「翼（alas）」のモチーフがノボア詩篇の核心的形象として初出する：§8「batir las alas y emprender el vuelo（翼を打って飛び立つ）」・「Ego Sum」§3「el batir de mis alas sobre la realidad（現実の上を羽ばたく翼）」との連鎖。「心（corazón）に生まれる翼」──内的・精神的上昇の形象。ポー「イスラフェル（Israfel）」の「天使的詩人の琴」──「And the giddy stars so legends tell / Ceasing their hymns attend the spell」という天使的陶酔の超越的空間への上昇がノボアの「心に生まれる翼」の詩的源型として機能する。「Al contacto leve de tus manos buenas / se cura la angustia, se mata las penas（あなたの善い手の軽い接触によって、不安は癒され、苦悩は殺される）」──「mano（手）」による「接触（contacto）」という感覚的・肉体的イメージが治癒の媒体として機能する：十字架の聖ヨハネ「暗夜」§7「con su mano serena / en mi cuello hería（穏やかな手で私の首を打ち）」という神秘主義的「手の打撃」が、ここでは「善い手の軽い接触」として慰撫的に転換される。",
+      "targetId": "poe_israfel",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 6,
+      "type": "commentary",
+      "anchor": "los pobres no saben por qué te buscamos\ny por qué es tu culto nuestro único amor.",
+      "body": "「哀れな人々はなぜ私たちがあなたを求めるのか知らない──なぜあなたへの崇拝が私たちの唯一の愛なのかを（culto nuestro único amor）」──詩人と「哀れな人々（los pobres）」との認識論的断絶。「culto（崇拝・カルト）」──宗教的語彙が薬物への嗜癖に適用される：「culto」は典礼・礼拝という宗教的儀式を指すラテン語語源の語──「モルヒネへの崇拝」が「宗教（religión）」の代替として機能する。「nuestro único amor（私たちの唯一の愛）」という独占的愛の宣言──イエスの聖テレサ「Vuestra soy（私はあなたのもの）」の「私は主のためだけに生まれた」という神への排他的帰属が、ここでは薬物への排他的愛として逆用される。ボードレール「悪の華・序詩（Au Lecteur）」「Nos péchés sont têtus（私たちの罪は頑固だ）」という「哀れな人々（lecteur hypocrite）」との対話──ボードレールが「偽善的読者」を共犯者として呼び込む戦略に対して、ノボアは「哀れな人々（los pobres）」を理解不能者として排除する：詩人集団の内的秘儀性の確立。"
+    },
+    {
+      "paragraphId": 7,
+      "type": "commentary",
+      "anchor": "de los predilectos hijos del Dolor.",
+      "body": "「苦悩の選ばれた子ら（predilectos hijos del Dolor）」──「predilectos（選ばれた・お気に入りの）」という形容が宗教的選民思想（pueblo elegido）の詩的転用として機能する：苦悩する詩人たちが「苦悩の神（el Dolor）」によって選ばれた特権的子らとして定義される。「Dolor（苦悩）」の大文字化──苦悩が固有名詞として神格化される：「苦悩の神」という逆説的神学。ヴェルレーヌ「詩人たちの呪われた者たち（Les Poètes maudits, 1884）」──コルビエール・ランボー・マラルメを「呪われた詩人（poètes maudits）」として聖別する批評集──が「predilectos hijos del Dolor（苦悩の選ばれた子ら）」というノボアの命題の直接的先型として機能する：「呪われた詩人」と「苦悩の選ばれた子ら」は同一の詩的聖別の論理を共有する。「Culto bondadoso de los que soñamos, / de los que sufrimos, de los que lloramos（夢想する私たちの、苦しむ私たちの、泣く私たちの）」という三重の属格アナフォラ──詩人共同体の包括的定義として。"
+    },
+    {
+      "paragraphId": 8,
+      "type": "commentary",
+      "anchor": "De los que llevamos el secreto anhelo\nde batir las alas y emprender el vuelo,\nlejos de este mundo, lejos de este suelo,\ndonde tiene un trono la vulgaridad.",
+      "body": "「翼を打って飛び立つという秘密の切望（secreto anhelo）──凡庸さが玉座を持つあの場所（donde tiene un trono la vulgaridad）から遠く」──詩篇最長の4行連が「逃避（evasión）」の哲学的根拠を展開する。「secreto anhelo（秘密の切望）」──「anhelo（切望・あえぎ）」はラテン語「anhelus（息を切らす）」に由来し、身体的な渇望の強度を示す：「秘密（secreto）」という形容が十字架の聖ヨハネ「秘密の梯子（secreta escala）」の神秘主義的隠蔽と照応。「lejos de este mundo, lejos de este suelo（この世界から遠く、この大地から遠く）」──二重の「lejos（遠く）」によるアナフォラが逃避の空間的徹底を強調する。コヘレト第1章v.3「Quid habet amplius homo de universo labore suo quo laborat sub sole?（太陽の下で人が営むすべての労苦から、人は何を得るのか？）」──「este suelo（この大地）」がコヘレトの「sub sole（太陽の下）」の詩的等価物として、脱出すべき有限な地上的領域として機能する。「donde tiene un trono la vulgaridad（凡庸さが玉座を持つところ）」──芸術家の「俗衆（vulgar）」への軽蔑という象徴主義的エリティズムの定式。",
+      "targetId": "hieronymus_ecclesiastes_1",
+      "targetParagraphId": 3
+    },
+    {
+      "paragraphId": 9,
+      "type": "commentary",
+      "anchor": "Y para la inútil vida cotidiana,\ntú tienes consuelos como una hermana,\ncomo una Hermana de la Caridad.",
+      "body": "「無益な日常生活（inútil vida cotidiana）のために──慈善修道女（Hermana de la Caridad）のような」──「vida cotidiana（日常生活）」への「inútil（無益な）」という形容が詩篇全体の日常への軽蔑の定式として機能する。「Hermana de la Caridad（慈善修道女）」──カトリックの修道女会「愛徳姉妹会（Sisters of Charity）」への言及：病者・貧者への奉仕を使命とする修道女が「モルヒネ」の比喩として用いられることで、薬物が「世俗的な慈善の修道女」として聖化される。「consuelos como una hermana（姉妹のような慰め）」──「hermana（姉妹）」という親族的・宗教的二義語：「肉親の姉妹」と「修道女（Sister）」の双方を指す──モルヒネが「家族的な親密さ」と「宗教的な奉仕」の双方を提供するものとして定義される。ヴェイユ「Accepter le vide」§1「La grâce comble, mais elle ne peut entrer que là où il y a un vide pour la recevoir（恩寵は満たす、しかし受け取る空虚のある場所にしか入れない）」──「consuelos（慰め）」が恩寵（grâce）の世俗的・薬物的代替として、「日常的空虚（vida cotidiana）」を充填するものとして機能する。",
+      "targetId": "weil_accepter_le_vide",
+      "targetParagraphId": 1
+    },
+    {
+      "paragraphId": 10,
+      "type": "commentary",
+      "anchor": "¿Tú fuiste, acaso, el fruto prohibido\nque entre los follajes se hallaba escondido\ndel árbol del Bien y del Mal?",
+      "body": "「あなたはもしかして、善悪の木の葉叢の中に隠されていた禁断の果実（fruto prohibido）だったのか？」──詩篇の神学的核心命題。「árbol del Bien y del Mal（善悪の木）」──創世記2:9「lignum etiam scientiae boni et mali（善悪の知識の木）」への直接的言及：ノボアの友人ボルハの詩集タイトル『善悪の樹（El árbol del bien y del mal, 1918）』との二重の照応──ボルハの詩集タイトルがノボア詩篇の問いとして再登場する。「fruto prohibido（禁断の果実）」──エデンの禁断の果実（manzana prohibida）の伝統的形象：「禁断（prohibido）」という形容がモルヒネの法的・道徳的禁止性を神学的「原罪」の次元に引き上げる。「escondido / del árbol（木の中に隠されていた）」──ヨブ記第3章v.16「aut sicut abortivum absconditum（隠された流産児のように）」という「absconditus（隠された）」という語との照応：「隠された果実」が「隠された無存在」と同型の神秘的潜在性として機能する。",
+      "targetId": "hieronymus_iob_3",
+      "targetParagraphId": 16
+    },
+    {
+      "paragraphId": 11,
+      "type": "commentary",
+      "anchor": "¿Por qué Dios al hombre desdichado le hizo?\nPero ya tenemos otro paraíso,\nauque éste sea artificial!",
+      "body": "「なぜ神は人間を不幸に作ったのか（¿Por qué Dios al hombre desdichado le hizo?）──しかし私たちはすでに別の楽園を持っている、たとえそれが人工的なものであっても（aunque éste sea artificial）！」──詩篇の神学的・哲学的頂点にして最も批評的な命題。「¿Por qué Dios al hombre desdichado le hizo?」──ヨブ記第3章v.20「Quare misero data est lux, et vita his qui in amaritudine animae sunt（なぜ惨めな者に光が与えられるのか）」というヨブの根本的問いの直接的詩的継承：「なぜ神は不幸な人間を作ったのか」という神学的問責が、ヨブの「なぜ苦しむ者に光（命）が与えられるのか」と同型の告発として機能する。「paraíso artificial（人工楽園）」──ボードレール『人工楽園（Les Paradis artificiels, 1860）』のタイトルの直接的スペイン語訳：「aunque éste sea artificial（たとえそれが人工的であっても）」という譲歩節がボードレールへの明示的な詩的参照として機能する──「人工楽園」の告白的受容。「Pero ya tenemos（しかし私たちはすでに持っている）」──「ya（すでに）」という時間副詞が「楽園の既成事実化」を宣言する：神学的楽園喪失の後に薬物的楽園が「すでに」実現しているという逆説的救済論。",
+      "targetId": "hieronymus_iob_3",
+      "targetParagraphId": 20
+    },
+    {
+      "paragraphId": 12,
+      "type": "commentary",
+      "anchor": "Tú idealizas todas las cosas grotescas\ny por ti vivimos en aladinescas\nciudades de oro, nácar y marfil.",
+      "body": "「あなたはすべての醜怪なものを理想化する（idealizas todas las cosas grotescas）──アラジン的な金と真珠母と象牙の都市（aladinescas ciudades de oro, nácar y marfil）」──「理想化（idealizar）」という認識論的変容の機能としてモルヒネが定義される。「aladinescas（アラジン的な）」という形容詞──「千夜一夜物語」のアラジンから派生した造語：東方的幻想都市の形象。「ciudades de oro, nácar y marfil（金と真珠母と象牙の都市）」──三つの贅沢素材の列挙が感覚的・物質的な幻想都市を構築する：「黄金（oro）」・「真珠母（nácar）」・「象牙（marfil）」はそれぞれ「輝き・虹色・白さ」という色彩的豊穣として機能する。ボードレール「旅への誘い（L'Invitation au Voyage）」の「Là, tout n'est qu'ordre et beauté, / Luxe, calme et volupté（そこでは、すべては秩序と美、／贅沢、静寂、官能）」──「黄金の都市」という幻想的な「そこ（là）」への誘惑の詩的等価物。「cosas grotescas（醜怪なもの）」──「Ego Sum」§1「lo equívoco y morboso（曖昧で病的なもの）」という退廃的愛の対象が、ここでは「理想化される醜怪なもの」として変容される：醜怪性が薬物の変容力によって美化されるという詩学的命題。",
+      "targetId": "baudelaire_invitation_voyage",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 13,
+      "type": "prosody",
+      "anchor": "Del joyel del sueño nos abres los broches\ny es la vida un cuento de Mil y Una Noches,\ny es la vida un sueño de un cuento de abril.",
+      "body": "「夢の宝石箱の留め金を開ける（del joyel del sueño nos abres los broches）──命は千夜一夜物語の物語となり──命は四月の物語の夢となる」──詩篇の審美的頂点。「joyel del sueño（夢の宝石箱）」──「joyel（小さな宝石箱・ペンダント）」という縮小形が「夢（sueño）」の貴重さと親密さを示す：「留め金を開ける（abres los broches）」という行為がモルヒネによる夢の解放として提示される。「Mil y Una Noches（千夜一夜物語）」──ルベン・ダリオ「Azul（蒼）」等のモデルニスモ詩学における「東方的幻想」の定番参照テキスト：「アラビアンナイト」が「人工楽園」の物語的内容として機能する。「y es la vida un sueño de un cuento de abril（命は四月の物語の夢）」──カルデロン・デ・ラ・バルカ「人生は夢（La vida es sueño, 1635）」の命題「la vida es sueño（命は夢）」がノボアにおいては「un sueño de un cuento（物語の夢）」として二重に虚構化される：「夢」の中の「物語」という入れ子構造が実在性をさらに希薄化する。「de abril（四月の）」──「abril（四月）」という詩的慣用における「春の始まり・生の希望」の形象が「人工楽園」の夢想的時間として定着される。"
+    },
+    {
+      "paragraphId": 14,
+      "type": "commentary",
+      "anchor": "Morfina,\ndivina!",
+      "body": "「モルヒネよ、神聖なる（Morfina, / divina!）」──冒頭§1の逐語的反復による envelope structure（包括的構造）の完成。§1と§14の同一の2行が詩篇全体を包括する：詩が「神聖な呼格」で始まり「神聖な呼格」で閉じることで、モルヒネへの礼拝（culto）が詩的形式において実現される──詩の構造自体が「典礼的反復（repetición litúrgica）」となる。「Voy a entrar al olvido」§14との照応──ボルハの詩が「ボードレール」という固有名詞で劇的に閉じるのに対して、ノボアは「神聖なモルヒネ」という反復的・典礼的な呼格で内的に完結する：ボルハの外向的な詩的系譜宣言とノボアの内向的な薬物的礼拝という対照。ブランショ『来たるべき書物（Le Livre à venir）』での「作品の反復性」──作品は完成と同時に最初に戻るという円環的構造が、「Morfina, / divina!」の反復において詩的形式として実現される。"
+    },
+    {
+      "paragraphId": 15,
+      "type": "commentary",
+      "anchor": "dame tu veneno, dame tu inconciencia,\nporque ya sin ellos no puedo vivir",
+      "body": "「あなたの毒を与えてくれ、あなたの無意識を与えてくれ（dame tu veneno, dame tu inconciencia）──なぜならもうそれらなしには生きられないから（ya sin ellos no puedo vivir）」──詩篇の最終命題にして依存の告白。「dame……dame……（与えてくれ……与えてくれ）」という二重の命令法（imperativo）──「amor te canta y reza（愛はあなたに歌い、祈る）」という「Aria galante」の詩的礼拝から「dame（与えてくれ）」という切迫した懇願への転化：依存の強度が祈りから命令へと変容する。「veneno（毒）」──「Voy a entrar al olvido」§4「el dorado veneno que me dio esa mujer（あの女が私に与えた黄金の毒）」との照応：ボルハの「黄金の毒」がノボアの「あなたの毒（tu veneno）」として呼応する。「inconciencia（無意識）」──意識の消去が「贈り物（dame）」として要請される：ヴェイユ「Accepter le vide」§8「Celui qui accepte le vide reçoit la lumière（空虚を受け入れる者は光を受け取る）」という「無意識の受動的空虚」の詩的先行形として──ただしヴェイユが「能動的な待機」として説く空虚をノボアは「薬物的無意識」として実現しようとする逆転の関係にある。「ya sin ellos no puedo vivir（もうそれらなしには生きられない）」──依存の臨界点の告白として詩篇を閉じる：「mal de vivir（§3）」という生の苦悩が「薬物なしには生きられない」という依存の苦悩へと転化されたことで、生の苦悩と薬物的苦悩の二重の囚われが完成する。",
+      "targetId": "weil_accepter_le_vide",
+      "targetParagraphId": null
+    }
+  ]
+}
