@@ -1,0 +1,110 @@
+{
+  "id": "borja_vision_lejana",
+  "title": "Visión lejana",
+  "author": "Arturo Borja",
+  "source": "La flauta de ónix (1920, 死後出版). Wikisource: https://es.wikisource.org/wiki/Visi%C3%B3n_lejana",
+  "year": "1920",
+  "firstPublication": "La flauta de ónix, Quito, 1920（死後出版）",
+  "difficulty": "上級",
+  "category": "borja",
+  "originalLang": "es-ES",
+  "modernRelevance": "★★★★★",
+  "context": "アルトゥーロ・ボルハ（Arturo Borja, 1892–1912）の遺詩集『オニキスの笛（La flauta de ónix）』所収。エルネスト・ノボア・イ・カアマーニョ（Ernesto Noboa y Caamaño）に捧げられた標準ソネット（4・4・3・3行、ABBA ABBA CDC DCD韻）──二人の詩人の友情と詩的親密さを証言するテキストとして、ボルハとノボアの詩篇群を結ぶ接合点を形成する。「¿Qué habrá sido de aquella morenita（あの黒髪の少女はどうなったのか）」という問いで始まる詩篇は、ある朝の窓越しの一瞥から生まれた記憶──「Tal vez murió, pero en mí resucita（おそらく死んだが、私の中で甦る）」という逆説的復活として内面化された女性の面影──を主題とする。「recuerdo de hermana muerta（死んだ姉妹の記憶）」・「maldita cárcel de eterna desventura arcana（永遠の秘められた不幸の呪われた牢獄）」・「lustral ablución de jazmines（ジャスミンの清めの洗礼）」という神秘主義的・宗教的語彙が、ほとんど名前も知らない女性への記憶を霊的な次元へと高める。「¡Oh, amor eterno el que un instante dura!（ああ、一瞬だけ続く永遠の愛よ！）」という結語命題が、瞬間と永遠の逆説として詩篇全体の時間哲学を集約する。",
+  "keywords": [
+    "visión lejana",
+    "morenita",
+    "recuerdo de hermana muerta",
+    "resucita",
+    "lustral ablución",
+    "dulce herida",
+    "amor eterno",
+    "un instante",
+    "cárcel de desventura",
+    "記憶と幻視"
+  ],
+  "relatedTexts": [
+    "borja_primavera_mistica_y_lunar",
+    "borja_voy_a_entrar_al_olvido",
+    "noboa_ego_sum",
+    "noboa_hastio",
+    "rodenbach_loubli",
+    "rodenbach_les_femmes_tristes",
+    "d_g_rossetti_day_dream",
+    "rossetti_remember",
+    "hieronymus_ecclesiastes_1",
+    "weil_accepter_le_vide",
+    "verlaine_colloque_sentimental"
+  ],
+  "paragraphs": [
+    {
+      "id": 0,
+      "verses": "preface",
+      "original": "A Ernesto Noboa",
+      "provisionalTranslation": "エルネスト・ノボアへ"
+    },
+    {
+      "id": 1,
+      "verses": "v.1–4",
+      "original": "¿Qué habrá sido de aquella morenita,\ntrigo tostado al sol –que una mañana–\nme sorprendió mirando a su ventana?\nTal vez murió, pero en mí resucita.",
+      "provisionalTranslation": "あの黒髪の少女はどうなったのか、\nある朝──太陽に焼かれた小麦色の──\n彼女の窓を見ている私を驚かせたあの娘は？\nおそらく死んだのだろうが、しかし私の中で甦る。"
+    },
+    {
+      "id": 2,
+      "verses": "v.5–8",
+      "original": "Tiene en mi alma un recuerdo de hermana\nmuerta. Su luz es de paz infinita.\nYo la llamo tenaz en mi maldita\ncárcel de eterna desventura arcana.",
+      "provisionalTranslation": "彼女は私の魂の中に死んだ姉妹の\n記憶を持つ。彼女の光は無限の平和のものだ。\n私は私の呪われた永遠の秘められた不幸の\n牢獄の中で、執拗に彼女を呼ぶ。"
+    },
+    {
+      "id": 3,
+      "verses": "v.9–11",
+      "original": "Y es su reflejo indeciso en mi vida\nuna lustral ablución de jazmines\nque abre una dulce y suavísima herida.",
+      "provisionalTranslation": "そして私の人生における彼女の頼りない反映は\nジャスミンの清めの洗礼であり、\n甘く、とても柔らかな傷を開く。"
+    },
+    {
+      "id": 4,
+      "verses": "v.12–14",
+      "original": "¡Cómo volverla a ver! ¿En qué jardines\nemergerá su pálida figura?\n¡Oh, amor eterno el que un instante dura!",
+      "provisionalTranslation": "どうすれば再び彼女に会えるのか！どんな庭で\n彼女の蒼ざめた姿は現れるのか？\nああ、一瞬だけ続く永遠の愛よ！"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 0,
+      "type": "commentary",
+      "anchor": "A Ernesto Noboa",
+      "body": "「エルネスト・ノボアへ（A Ernesto Noboa）」──献辞がボルハとノボアという二人の詩人の相互的な詩的関係を文書化する。ノボアはボルハの死後、追悼詩を書き遺している──「Visión lejana」の献辞は生前の友情の証言として、死後の詩集において特別な重みを帯びる。この献辞の存在が詩篇の「recuerdo de hermana muerta（死んだ姉妹の記憶）」という主題に文脈的な共鳴を与える：詩の内部で語られる「死んだ記憶」が、詩集の外部でボルハ自身の死という事実と照応する。ボルハとノボアの詩篇群における相互参照──ノボアの「Rosa de Francia」・「Hastío」・「Morfina」がボルハの「Voy a entrar al olvido」・「Aria galante」と同一の退廃美学を共有し、ともにボードレール・ヴェルレーヌへの帰属意識によって結ばれる──という詩人共同体（comunidad poética）の存在がこの献辞によって可視化される。ダンテ・ガブリエル・ロセッティとクリスティーナ・ロセッティの兄妹間の詩的対話──「Monna Innominata」序文でのクリスティーナのダンテ・ガブリエルへの言及──という詩人間の献辞的関係の照応。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "¿Qué habrá sido de aquella morenita,\ntrigo tostado al sol –que una mañana–\nme sorprendió mirando a su ventana?\nTal vez murió, pero en mí resucita.",
+      "body": "「あの黒髪の少女はどうなったのか（¿Qué habrá sido de aquella morenita?）──おそらく死んだが、しかし私の中で甦る（Tal vez murió, pero en mí resucita）」──ソネット開幕の問いが即座に死と復活という神学的逆説へと転化する。「¿Qué habrá sido de……?」という未来完了疑問形──「habrá sido（どうなったであろうか）」という推量の未来完了が「現在において過去を問う」という時制の複雑性を生む：問う現在においてすでに答えは「死」として予想されている。「morenita（黒髪の少女）」──縮小辞（-ita）が「親密さと距離」の同時的感覚を与える：知っているほど近しいのに「どうなったか」を知らないほど遠い存在。「trigo tostado al sol（太陽に焼かれた小麦色）」──自然的・農耕的な色彩比喩が「窓越しの一瞥」という都市的・偶発的な出会いの場所に置かれる対照。「me sorprendió mirando a su ventana（彼女の窓を見ている私を驚かせた）」──「窓（ventana）」という閾の空間：「Aria galante」§2「diabólicos y brujos detrás de una ventana（窓の向こうから悪魔的に）」との照応──窓が「見る者と見られる者の逆転」の空間として機能する。コヘレト第1章v.11「Non est priorum memoria（先のことどもの記憶はない）」──「どうなったのか」という問いそのものがコヘレト的な記憶の不在を示す：ほとんど知らなかった者は記憶されないというコヘレトの命題が、ここでは「しかし私の中で甦る（pero en mí resucita）」という逆説的抵抗として詩的に反論される。",
+      "targetId": "hieronymus_ecclesiastes_1",
+      "targetParagraphId": 11
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "Tiene en mi alma un recuerdo de hermana\nmuerta. Su luz es de paz infinita.\nYo la llamo tenaz en mi maldita\ncárcel de eterna desventura arcana.",
+      "body": "「死んだ姉妹の記憶（recuerdo de hermana muerta）──無限の平和の光（luz de paz infinita）──永遠の秘められた不幸の呪われた牢獄（maldita cárcel de eterna desventura arcana）」──詩篇の神学的・実存的核心。「recuerdo de hermana muerta（死んだ姉妹の記憶）」──名前も知らない窓の娘が「死んだ姉妹」として内面化される：実際の姉妹ではなく「魂の中の姉妹（hermana del alma）」という精神的親族関係として定義される。ダンテ・ガブリエル・ロセッティ「Day Dream」・「La Pia de' Tolomei」における「窓枠・植物越しに見る女性の幻視」──ロセッティの Pre-Raphaelite 絵画的詩学において女性は常に「霊的な距離の中に現れる幻影」として提示される：「recuerdo de hermana muerta」という内面化された女性像との照応。「maldita cárcel de eterna desventura arcana（永遠の秘められた不幸の呪われた牢獄）」──「arcana（秘められた・神秘的な）」という形容が「desventura（不幸）」を単なる個人的不幸ではなく「宇宙的・神秘的な不幸」として定義する：「Aria galante」§4「blasón de mi loca desventura（狂気の不幸の紋章）」との照応──「desventura」がボルハ詩篇を貫く実存的条件として反復される。ローデンバック「Les Femmes tristes（悲しき女たち）」の死者の記憶が生者の内部で霊的に存続するという詩学──「但し私の中で甦る（pero en mí resucita）」という逆説的復活がローデンバック的な「死者の内的臨在」として読める。",
+      "targetId": "rodenbach_les_femmes_tristes",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "Y es su reflejo indeciso en mi vida\nuna lustral ablución de jazmines\nque abre una dulce y suavísima herida.",
+      "body": "「私の人生における彼女の頼りない反映（reflejo indeciso）──ジャスミンの清めの洗礼（lustral ablución de jazmines）──甘く、とても柔らかな傷を開く（abre una dulce y suavísima herida）」──詩篇の詩学的・感覚的頂点。「reflejo indeciso（頼りない・決定的でない反映）」──「indeciso（優柔不断な・揺れ動く）」という形容が「反映（reflejo）」に付与される：鏡に映る像のように「彼女の反映」は正確ではなく揺れ動く──ローデンバック「運河の街」における「水面の反映」の不確かさとの照応。「lustral ablución de jazmines（ジャスミンの清めの洗礼）」──「lustral（清めの・浄化の）」：ラテン語「lustratio（浄化儀式）」に由来するカトリック・古代ローマの儀礼的語彙。「ablución（洗礼・清め）」という聖礼典的語彙がジャスミンの香りの感覚的体験に付与される：詩的記憶の体験が「宗教的清め」として定義される。「Primavera mística y lunar」§2「Hay un perfume de consuelo / flotando por todas las cosas（すべてのものに漂う慰めの香り）」との照応──香りが「慰め・清め」の媒体として機能するボルハ詩篇の一貫したモチーフ。「dulce y suavísima herida（甘く、とても柔らかな傷）」──ヴェイユ「affliction（苦悩）」の「身体的・心理的・社会的三重の苦しみ」に対して、「dulce y suavísima herida（甘く柔らかな傷）」はaflictionの最も純化・審美化された形として機能する：「傷（herida）」が「甘さ（dulce）」と「柔らかさ（suavísima）」によって受け入れられるべき苦悩として定義される。十字架の聖ヨハネ「Llama de amor viva」での「愛の炎による甘い傷（herida suave）」──神秘主義的愛の「甘い傷」がボルハにおいては世俗的記憶の「甘い傷」として転用される。",
+      "targetId": "weil_accepter_le_vide",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 4,
+      "type": "commentary",
+      "anchor": "¡Cómo volverla a ver! ¿En qué jardines\nemergerá su pálida figura?\n¡Oh, amor eterno el que un instante dura!",
+      "body": "「どうすれば再び彼女に会えるのか（¡Cómo volverla a ver!）──どんな庭で彼女の蒼ざめた姿は現れるのか（¿En qué jardines emergerá su pálida figura?）──ああ、一瞬だけ続く永遠の愛よ（¡Oh, amor eterno el que un instante dura!）」──ソネットの結尾三行にして詩篇全体の時間哲学の集約。「¡Cómo volverla a ver!」という感嘆と「¿En qué jardines?」という問いの連続──感嘆と疑問の交替が「再会の不可能性への確信」と「しかし問わずにはいられない衝動」の矛盾を表現する。「jardines（庭園）」──「Primavera mística y lunar」§2「el huerto, estrellas como rosas（庭園には薔薇のような星）」・「Voy a entrar al olvido」§3「en mi jardín murieron / pobres rosadas rosas（私の庭で死んでいる哀れな薔薇たち）」との照応──ボルハ詩篇における「庭園」が「美と死の交錯する空間」として一貫して機能する。「pálida figura（蒼ざめた姿）」──「Aria galante」§4「tu inviolada blancura（あなたの侵されない白さ）」・「Ego Sum」§3「pálida flor de poesía（詩の蒼ざめた花）」という「蒼ざめた（pálido）」という形容の反復：モデルニスモ詩学における「蒼ざめた女性像・幻視」の定式。「¡Oh, amor eterno el que un instante dura!（ああ、一瞬だけ続く永遠の愛よ！）」──詩篇の最終命題にして最大の逆説。「eterno（永遠の）」と「un instante（一瞬）」の同一命題内での結合：コヘレト第1章v.4「Generatio praeterit, et generatio advenit（世代は過ぎ去り、世代は来る）」という「瞬間と永続」の対比が、ここでは「一瞬＝永遠」という逆説的同一性として詩的に解決される。ブランショ『文学の空間（L'Espace littéraire）』での「瞬間と永遠性」──作品は詩人の「瞬間的な経験」を「永遠に反復可能なもの」として固定する：「一瞬の愛が永遠に続く」という命題がブランショ的な意味での「作品による瞬間の永遠化」として読める。",
+      "targetId": "hieronymus_ecclesiastes_1",
+      "targetParagraphId": 4
+    }
+  ]
+}
