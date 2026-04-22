@@ -1,0 +1,203 @@
+{
+  "id": "noboa_a_arturo_borja",
+  "title": "A Arturo Borja",
+  "author": "Ernesto Noboa y Caamaño",
+  "source": "Romanza de la Tarde (1917). Internet Archive: https://archive.org/details/fr-1-l-000506-noboa-romanza/page/n57/mode/2up",
+  "year": "1917",
+  "firstPublication": "Romanza de la Tarde, Quito, 1917",
+  "difficulty": "上級",
+  "category": "noboa",
+  "originalLang": "es-ES",
+  "modernRelevance": "★★★★★",
+  "context": "エルネスト・ノボア・イ・カアマーニョ（Ernesto Noboa y Caamaño, 1891–1927）による友人アルトゥーロ・ボルハへの追悼詩。ボルハは1912年10月13日、20歳で自ら命を絶った。本詩篇は連作ソネット形式（各4行連×12）として構成される──標準的なソネット（14行）を超えた「拡張された挽歌（elegía extendida）」として、友情・共同の詩的使命・別離・昇華という四段階を辿る。詩篇は「ボルハへの呼びかけ（tú）」と「生き残ったノボアの孤独（yo）」という二人称・一人称の対話的構造を持つ。「altar de la Belleza（美の祭壇）」・「Castalia lírica de tu alma（あなたの魂の抒情的カスタリア）」・「ANIMA MEA, FIAT LUX（わが魂よ、光あれ）」というラテン語的・神話的語彙がボルハの死を「詩的殉教（martirio poético）」として聖化する。「descorrer el velo de lo arcano（神秘のヴェールを開くこと）」という死の定義──ボルハの自死が「神秘への渇望」として詩的に解釈される。結語「como tributo póstumo en tu fosa（あなたの墓への死後の捧げ物として）」が詩篇全体を「墓碑銘（epitaphium）」として機能させる。",
+  "keywords": [
+    "elegía",
+    "挽歌",
+    "Arturo Borja",
+    "altar de la Belleza",
+    "Castalia lírica",
+    "ANIMA MEA FIAT LUX",
+    "arcano",
+    "tributo póstumo",
+    "詩的殉教",
+    "友情と死"
+  ],
+  "relatedTexts": [
+    "borja_vision_lejana",
+    "borja_primavera_mistica_y_lunar",
+    "borja_voy_a_entrar_al_olvido",
+    "borja_aria_galante",
+    "noboa_ego_sum",
+    "noboa_hastio",
+    "rodenbach_loubli",
+    "rodenbach_lacrymae_rerum",
+    "hieronymus_ecclesiastes_1",
+    "hieronymus_iob_3",
+    "weil_accepter_le_vide",
+    "weil_les_astres"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "verses": "v.1–4",
+      "original": "Para tu corazón que se consume\nbajo la tierra, como inmensa rosa\nhecha de amor, de ensueño y de perfume,\ntrémula, sentitiva y milagrosa,",
+      "provisionalTranslation": "地下で燃え尽きていくあなたの心のために──\n愛と夢想と香りでできた\n広大な薔薇のように、\n震え、感受性に富み、奇跡的な──"
+    },
+    {
+      "id": 2,
+      "verses": "v.5–8",
+      "original": "Se haga mi llanto luz. Y en esta hora\nen que enmudece el labio dolorido,\nse haga también de música sonora\npara herir el silencio del Olvido.",
+      "provisionalTranslation": "私の涙が光となるように。そしてこの時──\n苦しむ唇が沈黙するこの時──\nそれはまた、響き渡る音楽ともなるように、\n忘却の沈黙を傷つけるために。"
+    },
+    {
+      "id": 3,
+      "verses": "v.9–12",
+      "original": "Se unieron nuestras almas cierto día\nal fervor de un crepúsculo abrileño\npor la santa virtud de la Poesía\nen el dolor, la duda y el ensueño.",
+      "provisionalTranslation": "私たちの魂はある日結ばれた──\n四月の黄昏の熱情の中で──\n詩の聖なる力によって、\n苦悩と疑惑と夢想の中で。"
+    },
+    {
+      "id": 4,
+      "verses": "v.13–16",
+      "original": "Juntos seguimos la agostada senda\nentre sombras y cieno y aspereza,\ny juntos aportamos nuestra ofrenda\nde amor ante el altar de la Belleza.",
+      "provisionalTranslation": "私たちはともに、影と泥と荒々しさの中を\n干上がった小道を歩み続け、\nそして共に、私たちの捧げ物を\n美の祭壇の前に愛をもって捧げた。"
+    },
+    {
+      "id": 5,
+      "verses": "v.17–20",
+      "original": "¡Cuántas veces soñamos con la aurora\nque corona la angustia de la vida!\n¡Cuántas veces tu mano bienhechora\nsupo enjugar la sangre de mi herida!",
+      "provisionalTranslation": "何度、私たちは生の苦悩を冠する\n暁を夢見たことか！\n何度、あなたの恵みある手が\n私の傷の血を拭うことを知ったことか！"
+    },
+    {
+      "id": 6,
+      "verses": "v.21–24",
+      "original": "Y cuántas, al sentir que de veneno\nme llenaba un dolor que nada ensalma,\npurifiqué mi corazón de cieno\nen la Castalia lírica de tu alma!",
+      "provisionalTranslation": "そして何度、どんな薬も癒さない苦悩という毒が\n私を満たすのを感じながら、\n私はあなたの魂の抒情的カスタリアで\n泥から私の心を浄化したことか！"
+    },
+    {
+      "id": 7,
+      "verses": "v.25–28",
+      "original": "De qué vale una ansia viva\nde fe y amor y ser sincero y fuerte,\nsi la vida es tan sólo una furtiva\nlágrima en las pupilas de la Muerte!",
+      "provisionalTranslation": "信仰と愛と誠実さと強さへの\n生き生きとした渇望が何の価値があるというのか、\nもし命が死の瞳の中の\nただの束の間の涙に過ぎないなら！"
+    },
+    {
+      "id": 8,
+      "verses": "v.29–32",
+      "original": "Solo he quedado en el sendero, hermano:\nabandonaste el duro cautiverio\npor descorrer el velo de lo arcano,\nsediento de infinito y de misterio.",
+      "provisionalTranslation": "兄弟よ、私は小道に一人残された。\nあなたは神秘のヴェールを開くために\n過酷な囚われを捨て去り、\n無限と神秘に渇えていた。"
+    },
+    {
+      "id": 9,
+      "verses": "v.33–36",
+      "original": "Mi corazón aislado te reclama\nya que sus hondas penas compartiste,\nsiempre dando la lumbre de tu llama,\ny siempre noble, melodioso y triste.",
+      "provisionalTranslation": "私の孤立した心はあなたを求める──\nあなたはその深い苦悩を共に担い、\n常にあなたの炎の光を与え続け、\n常に高貴で、旋律的で、悲しかったのだから。"
+    },
+    {
+      "id": 10,
+      "verses": "v.37–40",
+      "original": "Dolor, sueño y canción: tal la extinguida\nllama en que ardió tu espíritu sediento.\nSufrir, soñar, cantar: tal fue tu vida\ngris de color y azul de sentimiento.",
+      "provisionalTranslation": "苦悩、夢想、そして歌──それが\n渇えたあなたの魂が燃えた消えた炎。\n苦しみ、夢見、歌うこと──それがあなたの命だった、\n色においては灰色、感情においては蒼。"
+    },
+    {
+      "id": 11,
+      "verses": "v.41–44",
+      "original": "Como una hostia hacia Dios, siempre elevaste\ntu espíritu: la fe dormía en tu pecho;\ny al desplegar las alas exclamaste:\n¡ANIMA MEA, FIAT LUX! . . . La luz se ha hecho.",
+      "provisionalTranslation": "聖体のように神へと向かって、あなたは常に\nあなたの魂を高めた──信仰があなたの胸に眠っていた。\nそして翼を広げながら、あなたは叫んだ──\nわが魂よ、光あれ！……光はなされた。"
+    },
+    {
+      "id": 12,
+      "verses": "v.45–48",
+      "original": "Yo haré de mi alma una orientada perla\nde llanto, y en la noche silenciosa,\niré, doliente y trémulo, a verterla\ncomo tributo póstumo en tu fosa.",
+      "provisionalTranslation": "私は自らの魂を涙の一粒の方向定まった真珠とし、\nそして静寂な夜に、\n苦しみながら、震えながら、それを注ぎに行こう──\nあなたの墓への死後の捧げ物として。"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "Para tu corazón que se consume\nbajo la tierra, como inmensa rosa\nhecha de amor, de ensueño y de perfume,",
+      "body": "「地下で燃え尽きていくあなたの心のために（para tu corazón que se consume / bajo la tierra）──愛と夢想と香りでできた広大な薔薇（inmensa rosa / hecha de amor, de ensueño y de perfume）」──詩篇の開幕連が「捧げ物（para）」という構造でボルハへの追悼詩全体を定義する：詩篇そのものが「地下のボルハへの捧げ物」として機能する。「se consume（燃え尽きる）」──「consumir」は「消費する・燃え尽きる」を意味し、地中での肉体の腐敗と炎の消滅の双方を含意する：ボルハの「Voy a entrar al olvido」§4「ese loco divino: ¡BAUDELAIRE!（あの神聖な狂人：ボードレール！）」という詩的炎の消滅との照応。「como inmensa rosa / hecha de amor, de ensueño y de perfume（愛と夢想と香りでできた広大な薔薇）」──「Rosa de Francia」§2「Roja flor del divino paraíso vedado（神聖な禁断の楽園の赤い花）」との対照：ノボアの官能的「薔薇」が死んだ友人の心の「巨大な薔薇」として変容される──エロス的薔薇から追悼的薔薇への転換。ローデンバック「Lacrymae Rerum」での死者への詩的捧げ物──挽歌が「涙の事物（lacrymae rerum）」として死者の墓に供えられるという詩学的伝統の継承。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "Se haga mi llanto luz. Y en esta hora\nen que enmudece el labio dolorido,\nse haga también de música sonora\npara herir el silencio del Olvido.",
+      "body": "「私の涙が光となるように（Se haga mi llanto luz）──忘却の沈黙を傷つけるために（para herir el silencio del Olvido）」──詩篇の詩学的宣言。「Se haga（〜となるように）」という接続法が「詩的変容の祈願（optativo）」として機能する：涙→光、沈黙→音楽という二重の変容の祈り。「herir el silencio del Olvido（忘却の沈黙を傷つける）」──「olvido（忘却）」がボルハ「Voy a entrar al olvido」のタイトル命題と直接照応する：ボルハが「忘却へと入っていく」のに対して、ノボアの詩は「忘却の沈黙を傷つける」──死者を忘却させまいとする詩的抵抗として機能する。コヘレト第1章v.11「Non est priorum memoria（先のことどもの記憶はない）」──コヘレトの「記憶の不在」という宇宙的法則に対して、「para herir el silencio del Olvido（忘却の沈黙を傷つける）」という詩的行為が「記憶の維持」という逆説的抵抗として位置づけられる。ブランショ『文学の空間』での「作品は死に抗う」──詩が「忘却の沈黙を傷つける」という命題がブランショ的な意味での「作品による死への抵抗」として読める。",
+      "targetId": "borja_voy_a_entrar_al_olvido",
+      "targetParagraphId": 4
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "Se unieron nuestras almas cierto día\nal fervor de un crepúsculo abrileño\npor la santa virtud de la Poesía\nen el dolor, la duda y el ensueño.",
+      "body": "「私たちの魂はある日結ばれた──四月の黄昏の熱情の中で──詩の聖なる力（santa virtud de la Poesía）によって──苦悩と疑惑と夢想の中で」──詩人共同体の起源の定義。「cierto día（ある日）」という不特定の時間──「ある日」の不特定性が出会いを「神話的な起源（arché）」として定義する：具体的な日付ではなく「詩的なカイロス（聖なる時）」として。「crepúsculo abrileño（四月の黄昏）」──「Voy a entrar al olvido」§2「azul ironía que aprendí de la Aurora / que es hija de los rojos Crepúsculos de pena（苦悩の赤い黄昏の娘である暁から学んだ蒼い皮肉）」との照応：ボルハの詩における「黄昏」という時間的形象がノボアの追悼詩においても二人の出会いの時間として反復される。「santa virtud de la Poesía（詩の聖なる力）」──「Poesía」の大文字化が詩を「神聖な力（virtud）」として神格化する：詩が二人の魂を「結ぶ（unieron）」媒体として宗教的な「聖なる絆」として定義される。「en el dolor, la duda y el ensueño（苦悩と疑惑と夢想の中で）」──詩的共同体の三つの基底条件として「苦悩・疑惑・夢想」が提示される：「Hastío」§1「Vivir de lo pasado por desprecio al presente（現在への軽蔑から過去に生きること）」という倦怠の哲学的基底。"
+    },
+    {
+      "paragraphId": 4,
+      "type": "commentary",
+      "anchor": "y juntos aportamos nuestra ofrenda\nde amor ante el altar de la Belleza.",
+      "body": "「私たちは共に、私たちの捧げ物を美の祭壇の前に愛をもって捧げた（juntos aportamos nuestra ofrenda / de amor ante el altar de la Belleza）」──詩篇の「共同の詩的使命」の最も明示的な定式。「altar de la Belleza（美の祭壇）」──「Belleza」の大文字化が美を「神（Dios）」に代わる礼拝対象として神格化する：「Morfina」§6「tu culto nuestro único amor（あなたへの崇拝が私たちの唯一の愛）」という「崇拝」語彙の詩的継承──モルヒネへの崇拝から美への崇拝へ。「la agostada senda（干上がった小道）」──「agosto（八月・干ばつ）」から派生した「agostado（干上がった・枯れた）」：「Hastío」§2「Ir haciendo caminos sobre un yermo de abrojos（茨の荒野の上に道を作っていくこと）」の「荒野の道」と同型──詩的使命が「苦難の道（via crucis）」として定義される。ヴェイユ「Beauté」章「世界の美は神の愛の優しい微笑み（La beauté du monde est le sourire tendre de l'amour de Dieu）」──ノボアの「altar de la Belleza（美の祭壇）」へのヴェイユ的照応：美が「神への接近路」として機能する神秘主義的審美論。",
+      "targetId": "weil_pesanteur_beaute",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 5,
+      "type": "commentary",
+      "anchor": "¡Cuántas veces tu mano bienhechora\nsupo enjugar la sangre de mi herida!",
+      "body": "「何度、あなたの恵みある手（tu mano bienhechora）が私の傷の血を拭うことを知ったことか（supo enjugar la sangre de mi herida）」──詩篇で最も直接的な「友情の身体的記憶」の記録。「mano bienhechora（恵みある手）」──「bienhechora（恩恵をもたらす・善行をする）」という形容がカトリック語彙の「施し（bienfaisance）」に由来する：友人の手が「慈善修道女の手」と同型の「癒しの手」として提示される──「Morfina」§9「como una Hermana de la Caridad（慈善修道女のように）」という「手の癒し」の詩的反響。「enjugar la sangre de mi herida（私の傷の血を拭う）」──「Vision lejana」§3「que abre una dulce y suavísima herida（甘く柔らかな傷を開く）」との照応：ボルハ詩篇における「herida（傷）」がノボアの追悼詩において「enjugar（拭われる）」対象として反転される──ボルハが「傷を開く」存在から「傷を拭う」存在へと変容する。ヨブ記第3章v.25「timor quem timebam evenit mihi（私が恐れていた恐れが私に来た）」──友人の死という最も恐れていた事態の到来：「cuántas veces（何度）」という反復が「あの頃」の親密さを現在の喪失の大きさとして際立たせる。",
+      "targetId": "borja_vision_lejana",
+      "targetParagraphId": 3
+    },
+    {
+      "paragraphId": 6,
+      "type": "commentary",
+      "anchor": "purifiqué mi corazón de cieno\nen la Castalia lírica de tu alma!",
+      "body": "「あなたの魂の抒情的カスタリア（Castalia lírica de tu alma）で、泥から私の心を浄化した」──詩篇の神話的・詩学的頂点の一つ。「Castalia（カスタリア）」──デルフォイのアポロン神殿近くに湧くカスタリアの泉：古代ギリシャ神話においてムーサイ（詩神たち）に捧げられた霊泉であり、詩的霊感の源泉・詩人の「清め」の場として機能する。「Castalia lírica de tu alma（あなたの魂の抒情的カスタリア）」──ボルハの「魂」が詩的霊感の泉として定義される：「ノボアはボルハの詩的存在によって清められた」という詩的共同体の比喩的定式。「cieno（泥）」──「Hastío」§2「Ir haciendo caminos……entre sombras y cieno（影と泥の中を……道を歩む）」との照応：「cieno（泥）」がモデルニスモ的な「俗世の汚濁」の定式語として両詩篇に反復される。ヴェイユ「Accepter le vide」§1「La grâce comble, mais elle ne peut entrer que là où il y a un vide（恩寵は満たす、しかし空虚のある場所にしか入れない）」──「Castalia」での浄化がヴェイユ的な「恩寵による空虚の充填」として照応する：ボルハの詩的存在が「恩寵の媒体」として機能する。",
+      "targetId": "weil_accepter_le_vide",
+      "targetParagraphId": 1
+    },
+    {
+      "paragraphId": 7,
+      "type": "commentary",
+      "anchor": "De qué vale una ansia viva\nde fe y amor y ser sincero y fuerte,\nsi la vida es tan sólo una furtiva\nlágrima en las pupilas de la Muerte!",
+      "body": "「信仰と愛と誠実さと強さへの生き生きとした渇望（ansia viva）が何の価値があるというのか──もし命が死の瞳の中のただの束の間の涙（furtiva lágrima en las pupilas de la Muerte）に過ぎないなら」──詩篇の哲学的・神学的頂点。「De qué vale（何の価値があるというのか）」──コヘレト第1章v.3「Quid habet amplius homo de universo labore suo（人はすべての労苦から何を得るのか）」の直接的詩的反響：「価値への問い」がコヘレト的な虚無の定式として機能する。「furtiva lágrima en las pupilas de la Muerte（死の瞳の中の束の間の涙）」──「furtiva（束の間の・こっそりとした）」という形容が「命の瞬間性」を示す：命が「死の視点から見た涙」として定義される──死が主体、命が客体という逆転の存在論。ヨブ記第3章v.20「Quare misero data est lux, et vita his qui in amaritudine animae sunt（なぜ惨めな者に光が与えられるのか）」──「De qué vale una ansia viva」というノボアの問いがヨブの「なぜ命が与えられるのか」という根本的問いの詩的継承として照応する。",
+      "targetId": "hieronymus_iob_3",
+      "targetParagraphId": 20
+    },
+    {
+      "paragraphId": 8,
+      "type": "commentary",
+      "anchor": "Solo he quedado en el sendero, hermano:\nabandonaste el duro cautiverio\npor descorrer el velo de lo arcano,\nsediento de infinito y de misterio.",
+      "body": "「兄弟よ、私は小道に一人残された（Solo he quedado en el sendero, hermano）──あなたは神秘のヴェールを開くために過酷な囚われを捨て去り──無限と神秘に渇えていた（sediento de infinito y de misterio）」──詩篇の生者と死者の分岐点の定義。「hermano（兄弟）」──「Voy a entrar al olvido」§1「Hermano, si me río de la vida（兄弟よ、もし私が人生について笑うなら）」のボルハの呼格を逆転させた照応：ボルハが「兄弟（Hermano）」と呼びかけていたのに対して、今度はノボアがボルハを「hermano」と呼ぶ。「descorrer el velo de lo arcano（神秘のヴェールを開くこと）」──ボルハの自死が「神秘への好奇心（curiosidad arcana）」の実現として詩的に解釈される：死が「隠された真実のヴェール（velo）を開く行為」として昇華される。「duro cautiverio（過酷な囚われ）」──「Visión lejana」§2「maldita cárcel de eterna desventura arcana（永遠の秘められた不幸の呪われた牢獄）」との照応：生そのものが「囚われ（cautiverio）」として定義される──ボルハはその「囚われ」を「死」によって解放されたとノボアは解釈する。",
+      "targetId": "borja_vision_lejana",
+      "targetParagraphId": 2
+    },
+    {
+      "paragraphId": 9,
+      "type": "commentary",
+      "anchor": "Mi corazón aislado te reclama\nya que sus hondas penas compartiste,\nsiempre dando la lumbre de tu llama,\ny siempre noble, melodioso y triste.",
+      "body": "「私の孤立した心はあなたを求める（mi corazón aislado te reclama）──常にあなたの炎の光（lumbre de tu llama）を与え続け──常に高貴で、旋律的で、悲しかった（siempre noble, melodioso y triste）」──ボルハの詩的性格の追悼的定義。「corazón aislado（孤立した心）」──「Ego Sum」§3「No importa que los otros me huyan. El aislamiento / es propicio（他の者たちが私から逃げても構わない。孤立は好都合だ）」においてノボアが「孤立」を詩的条件として肯定したのに対して、ここでは「aislado（孤立した）」が「te reclama（あなたを求める）」という欠如の感覚として機能する：死後、孤立は「好都合」ではなく「耐え難い」ものとなる。「lumbre de tu llama（あなたの炎の光）」──「Morfina」§5「y nos nacen alas en el corazón（私たちの心に翼が生まれる）」という詩的昇揚の光の形象：ボルハの「炎（llama）」がノボアの詩的霊感の源として回顧的に定義される。「siempre noble, melodioso y triste（常に高貴で、旋律的で、悲しかった）」──三つの形容詞による詩的肖像：「melodioso（旋律的な）」という聴覚的形容が「悲しさ（triste）」の音楽的昇華として機能する──音楽的悲しみとしてのボルハの詩学的定義。"
+    },
+    {
+      "paragraphId": 10,
+      "type": "prosody",
+      "anchor": "Dolor, sueño y canción: tal la extinguida\nllama en que ardió tu espíritu sediento.\nSufrir, soñar, cantar: tal fue tu vida\ngris de color y azul de sentimiento.",
+      "body": "「苦悩、夢想、そして歌──渇えたあなたの魂が燃えた消えた炎（Dolor, sueño y canción）──苦しみ、夢見、歌うこと──それがあなたの命だった（Sufrir, soñar, cantar: tal fue tu vida）──色においては灰色、感情においては蒼（gris de color y azul de sentimiento）」──詩篇の詩学的・文体的頂点。「Dolor, sueño y canción」と「Sufrir, soñar, cantar」という名詞三項と動詞不定詞三項の対応的反復──詩的存在の「状態（名詞）」と「行為（不定詞）」の二重提示として機能するchiasmus的構造。「gris de color y azul de sentimiento（色においては灰色、感情においては蒼）」──「gris（灰色）」と「azul（蒼）」という二つの色彩が「色（color）」と「感情（sentimiento）」という異なる次元に配置される共感覚的表現：ボルハの詩的生が「地味な外見（灰色）の中の深い感情（蒼）」として定義される。「azul（蒼）」──ルベン・ダリオ「Azul（蒼）」のモデルニスモ象徴色：詩的理想・超越性・憂愁の色として機能する。「llama……extinguida（消えた炎）」──「Morfina」§14「Morfina, / divina!」の反復的枠組みに対して、ここでは「extinguida（消えた）」という形容が「炎（llama）」に付与されることで詩的生の終焉が確定される。"
+    },
+    {
+      "paragraphId": 11,
+      "type": "commentary",
+      "anchor": "Como una hostia hacia Dios, siempre elevaste\ntu espíritu: la fe dormía en tu pecho;\ny al desplegar las alas exclamaste:\n¡ANIMA MEA, FIAT LUX! . . . La luz se ha hecho.",
+      "body": "「聖体のように神へと向かって、あなたは常にあなたの魂を高めた（Como una hostia hacia Dios, siempre elevaste / tu espíritu）──わが魂よ、光あれ（¡ANIMA MEA, FIAT LUX!）……光はなされた（La luz se ha hecho）」──詩篇の神学的・典礼的頂点。「Como una hostia（聖体のように）」──カトリック典礼における「ホスティア（hostia）」：ミサで神に捧げられるパン（キリストの体）として祭壇に「高く掲げられる（elevado）」──「Poema de la carne」§4「¡Hostia, carne de Dios para la cena mística（ホスティアよ、神秘の晩餐のための神の肉よ）」のシルバの聖体論との照応：ボルハの魂が「神に捧げられるホスティア」として詩的に聖化される。「ANIMA MEA, FIAT LUX（わが魂よ、光あれ）」──ラテン語の大文字表記が詩篇内で典礼的・碑文的な重みを与える。「FIAT LUX」は創世記1:3「Dixit Deus: Fiat lux（神は言われた、光あれ）」の神的命令の詩的転用：ボルハが死の瞬間に「自らの魂に向かって」神の創造の言葉を発するという神学的昇格。「La luz se ha hecho（光はなされた）」──現在完了形が「創造の完了」を示す：「ANIMA MEA, FIAT LUX」という命令が「La luz se ha hecho」という完了として実現される──ボルハの死が「詩的・霊的光の創造」として解釈される。ヴェイユ「Les Astres（星々）」最終行「Il est là dans le cœur soudain, leur feu divin（突然心の中にある、彼らの神の火が）」との照応：「FIAT LUX」の神の火が「突然」魂の中で実現される構造。",
+      "targetId": "weil_les_astres",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 12,
+      "type": "commentary",
+      "anchor": "Yo haré de mi alma una orientada perla\nde llanto, y en la noche silenciosa,\niré, doliente y trémulo, a verterla\ncomo tributo póstumo en tu fosa.",
+      "body": "「私は自らの魂を涙の一粒の方向定まった真珠とし（Yo haré de mi alma una orientada perla / de llanto）──あなたの墓への死後の捧げ物として（como tributo póstumo en tu fosa）」──詩篇の結語にして、全12連の詩的・感情的な完結。「orientada perla（方向定まった真珠）」──「orientada（方向が定まった）」という形容詞：「orientado」は東（Oriente）を向くこと、すなわち「目的地・方向性を持つ」ことを意味する──「涙の真珠」が「ボルハの墓」という目的地を持つ方向性として定義される。「perla de llanto（涙の真珠）」──涙が「真珠」へと変容する：海の貝が異物への反応として真珠を生成するように、詩人が死者への悲嘆（涙）から詩（真珠）を生成するという詩学的隠喩。「en la noche silenciosa（静寂な夜に）」──「Primavera mística y lunar」§7「se ha callado（沈黙した）」・「Voy a entrar al olvido」§3「enterraré mañana（明日埋葬する）」というボルハ詩篇の「夜の沈黙」との照応：ボルハが詩において訪れた「沈黙の夜」に、ノボアが「doliente y trémulo（苦しみながら、震えながら）」訪れる。「tributo póstumo en tu fosa（あなたの墓への死後の捧げ物）」──詩篇全体が「墓碑銘（epitaphium）」として機能することの最終的な自己定義：「tributo（捧げ物・貢物）」という語が詩的行為を「礼拝・納税・捧げ物」の三義として包括する。ローデンバック「Lacrymae Rerum（事物の涙）」──「涙（lacrymae）」が死者への詩的捧げ物として機能するという詩学的伝統の完結：「perla de llanto（涙の真珠）」が「lacrymae rerum（事物の涙）」の詩的変奏として機能する。",
+      "targetId": "rodenbach_lacrymae_rerum",
+      "targetParagraphId": null
+    }
+  ]
+}
