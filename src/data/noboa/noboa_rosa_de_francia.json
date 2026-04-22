@@ -1,0 +1,98 @@
+{
+  "id": "noboa_rosa_de_francia",
+  "title": "Rosa de Francia",
+  "author": "Ernesto Noboa y Caamaño",
+  "source": "Romanza de las Horas Wikisource: https://es.wikisource.org/wiki/Rosa_de_Francia",
+  "year": "1922",
+  "firstPublication": "Romanza de las Horas",
+  "difficulty": "中級",
+  "category": "noboa",
+  "originalLang": "es-ES",
+  "modernRelevance": "★★★★",
+  "context": "エルネスト・ノボア・イ・カアマーニョ（Ernesto Noboa y Caamaño, 1891–1927）のソネット変形詩（4・4・3・3行）。「Rosa de Francia（フランスの薔薇）」というタイトルが女性を花として擬人化・典型化する：「フランスの」という国民的形容が18世紀的享楽文化・自由な性愛・ロココ的華麗さの連想を喚起する。詩篇は「Francesita adorable（愛らしいフランスの少女）」への呼格として構成され、「官能的な愛の戦士」として女性を定義する。「Roja flor del divino paraíso vedado（神聖な禁断の楽園の赤い花）」という第2連冒頭の命題が詩の神学的核心を形成する：赤い薔薇＝禁断の楽園の花＝罪の美という三項同一視。「Ninón（ニノン）」──ニノン・ド・ランクロ（Ninon de l'Enclos, 1620–1705）、17世紀フランスの伝説的高級娼婦・精神の女性として参照される。「embrujando a la Vida y engañando a la Muerte（生を魅惑し、死を欺く）」という結語命題が、女性の美が「生と死」という実存的二項を同時に超越・欺瞞する力を持つことを宣言し、「la inútil tristeza de tener corazón（心を持つことの無益な悲しみ）」という最終行が詩篇全体の虚無的結論として機能する。",
+  "keywords": [
+    "Rosa de Francia",
+    "paraíso vedado",
+    "Ninón de l'Enclos",
+    "palomas de Venus",
+    "sádicos besos",
+    "embrujando",
+    "inútil tristeza",
+    "官能と虚無",
+    "フランス的エロス",
+    "モデルニスモと退廃"
+  ],
+  "relatedTexts": [
+    "noboa_ego_sum",
+    "noboa_morfina",
+    "baudelaire_beaute",
+    "baudelaire_femmes_damnees",
+    "baudelaire_les_bijoux",
+    "gautier_carmen",
+    "gautier_coquetterie_posthume",
+    "verlaine_clair_de_lune",
+    "dannunzio_nella_belletta",
+    "hieronymus_ecclesiastes_1",
+    "silva_reminiscencia_siglo_xviii"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "verses": "v.1–4",
+      "original": "Francesita adorable de los locos excesos,\nde los labios en llama y las carnes en flor,\nde las crueles caricias y los sádicos besos\ny los muslos sapientes en batallas de amor!",
+      "provisionalTranslation": "狂気の過剰の愛らしいフランスの少女よ、\n炎のような唇と花咲く肉体の、\n残酷な愛撫とサディスティックな口づけの、\nそして愛の戦いに熟達した腿の！"
+    },
+    {
+      "id": 2,
+      "verses": "v.5–8",
+      "original": "Roja flor del divino paraíso vedado,\ninconstante y traidora como una ola de mar,\nque sabes hacer dulce el sabor del pecado\ny derrochas el vino del amor... sin amar.",
+      "provisionalTranslation": "神聖な禁断の楽園の赤い花よ、\n海の波のように移ろいやすく裏切りっぽい、\n罪の味を甘くすることを知っていて、\n愛することなく……愛のワインを浪費する。"
+    },
+    {
+      "id": 3,
+      "verses": "v.9–11",
+      "original": "Las palomas de Venus se embriagan de fragancias\nal deshojar tus pétalos!... dulce Rosa de Francia!\ny así adornas la senda que perfumó Ninón,",
+      "provisionalTranslation": "ヴィーナスの鳩たちはあなたの花びらを散らすとき\n香りに酔いしれる！……甘いフランスの薔薇よ！\nそしてあなたはかくしてニノンが香りを漂わせた小道を飾る。"
+    },
+    {
+      "id": 4,
+      "verses": "v.12–14",
+      "original": "embrujando a la Vida y engañando a la Muerte\nsin sentir las espinas con que hiere la suerte\nni la inútil tristeza de tener corazón!...",
+      "provisionalTranslation": "生を魅惑し死を欺きながら、\n運命が傷つける棘を感じることなく、\n心を持つことの無益な悲しみも感じることなく！……"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "Francesita adorable de los locos excesos,\nde los labios en llama y las carnes en flor,\nde las crueles caricias y los sádicos besos\ny los muslos sapientes en batallas de amor!",
+      "body": "「狂気の過剰の愛らしいフランスの少女（Francesita adorable de los locos excesos）──炎のような唇（labios en llama）と花咲く肉体（carnes en flor）──残酷な愛撫とサディスティックな口づけ──愛の戦いに熟達した腿（muslos sapientes）」──詩篇の開幕呼格が官能的形象の密集した列挙として実現される。「de……de……de……y」という四重の属格アナフォラが「フランスの少女」の属性を蓄積的に定義する。「labios en llama（炎のような唇）」──「Aria galante」§4「la llama de tu boca（あなたの口の炎）」との照応：ノボア詩篇における「唇の炎」という官能的形象の反復。「muslos sapientes（熟達した腿）」──「sapientes（熟達した・知恵ある）」という形容詞が「腿（muslos）」という身体部位に付与される矛盾語法：身体部位への知的形容がエロティシズムの知的・審美的昇華として機能する。ゴーティエ「カルメン（Carmen）」の「Carmen est maigre, un trait de bistre / Cerne son œil de gitana（カルメンは痩せていて、ビストルの一線が／ジプシーの目を縁取る）」──ゴーティエの「危険な美の女」の官能的描写の系譜がノボアの「Francesita adorable」に継承される：どちらも女性の美を官能的・危険的な属性の羅列として定義する。",
+      "targetId": "gautier_carmen",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "Roja flor del divino paraíso vedado,\ninconstante y traidora como una ola de mar,\nque sabes hacer dulce el sabor del pecado\ny derrochas el vino del amor... sin amar.",
+      "body": "「神聖な禁断の楽園の赤い花（Roja flor del divino paraíso vedado）──罪の味を甘くする──愛することなく愛のワインを浪費する（derrochas el vino del amor... sin amar）」──詩篇の神学的・倫理的核心命題。「paraíso vedado（禁断の楽園）」──「Morfina」§10「fruto prohibido del árbol del Bien y del Mal（善悪の木の禁断の果実）」との照応：禁断性（vedado / prohibido）が「楽園（paraíso）」の本質的属性として反復される──ノボア詩篇における「禁断の楽園」という一貫した神学的枠組み。「Roja（赤い）」──薔薇の赤色が「情熱・血・罪・危険」の複合的意味を帯びる：ゴーティエ「死後の媚態（Coquetterie posthume）」の「口紅（rouge）」が死後の女性の美として詩化されるのと同型の「赤の詩学」。「sabes hacer dulce el sabor del pecado（罪の味を甘くすることを知っている）」──ボードレール「美（La Beauté）」「Je suis belle, ô mortels! comme un rêve de pierre（私は美しい、おお人間よ！石の夢のように）」における美の冷酷な魅惑──「罪の味を甘くする」という変容の力がボードレール的な美の魔術的機能として読める。「sin amar（愛することなく）」──詩篇の最も鋭い逆説：「愛のワイン（vino del amor）」を浪費しながら「愛することなく（sin amar）」という矛盾。コヘレト第1章v.8「Non saturatur oculus visu（目は見ることに飽くことなく）」──「derrochas（浪費する）」という動詞がコヘレト的な「充足しない欲望の経済」の詩的定式として照応する：どれだけ「愛のワイン」を浪費しても愛は充足されない。",
+      "targetId": "gautier_coquetterie_posthume",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "Las palomas de Venus se embriagan de fragancias\nal deshojar tus pétalos!... dulce Rosa de Francia!\ny así adornas la senda que perfumó Ninón,",
+      "body": "「ヴィーナスの鳩たちはあなたの花びらを散らすとき香りに酔いしれる（se embriagan de fragancias）──ニノンが香りを漂わせた小道（la senda que perfumó Ninón）を飾る」──詩篇の神話的・歴史的な二重の参照軸。「palomas de Venus（ヴィーナスの鳩）」──ローマ神話においてヴィーナス（アフロディーテ）の聖鳥は鳩（colomba / paloma）：「ヴィーナスの鳩たち」が「花びらの香りに酔いしれる」という形象が、愛の女神の礼拝者たちがエロス的陶酔を享受する場面として神話的に提示される。「Ninón（ニノン）」──ニノン・ド・ランクロ（Ninon de l'Enclos, 1620–1705）：17世紀フランスを代表する高級娼婦にして教養ある女性で、モリエール・ラ・ロシュフコー・ヴォルテールを友人に持つ伝説的人物──「la senda que perfumó Ninón（ニノンが香りを漂わせた小道）」という表現がフランスの享楽的文化伝統の継承者として「Rosa de Francia」を位置づける。シルバ「Reminiscencia siglo XVIII」§6「Pablo Verlaine que se encuentra en los cielos（天にいるポール・ヴェルレーヌ）」の系譜意識との照応：どちらも詩的対象をフランス的享楽文化の継承者として位置づける。ダヌンツィオ「ベアトリーチェたち（Due Beatrici）」における「官能と神聖の融合」──「ヴィーナスの鳩たちの陶酔」という場面が古典的・神話的な官能の祝祭として提示される。",
+      "targetId": "silva_reminiscencia_siglo_xviii",
+      "targetParagraphId": 6
+    },
+    {
+      "paragraphId": 4,
+      "type": "commentary",
+      "anchor": "embrujando a la Vida y engañando a la Muerte\nsin sentir las espinas con que hiere la suerte\nni la inútil tristeza de tener corazón!...",
+      "body": "「生を魅惑し死を欺きながら（embrujando a la Vida y engañando a la Muerte）──運命が傷つける棘を感じることなく──心を持つことの無益な悲しみ（inútil tristeza de tener corazón）も感じることなく」──詩篇の結語にして最も哲学的な命題。「embrujando a la Vida y engañando a la Muerte（生を魅惑し死を欺く）」──「生（Vida）」と「死（Muerte）」の大文字化が二つの実存的力を擬人化する：「Rosa de Francia」がこの二つの力を同時に超越・操作する存在として定義される。ボードレール「死への賛歌（La Mort des amants）」での「愛が死と融合する」という詩学的命題──「生を魅惑し死を欺く」という二重の操作がボードレール的な「エロスとタナトスの不可分性」として読める。「sin sentir las espinas（棘を感じることなく）」──「Voy a entrar al olvido」§1「sentirás las espinas que hay en todas las rosas（すべての薔薇の中にある棘を感じるだろう）」との反響：ボルハの詩において「棘を感じる」苦悩する詩人に対して、ノボアの「Rosa de Francia」は「棘を感じない（sin sentir las espinas）」──棘は存在するが感じない美的無痛性として女性が定義される。「la inútil tristeza de tener corazón（心を持つことの無益な悲しみ）」──詩篇の最終命題にして最も鋭い逆説。「inútil（無益な）」という形容詞──「Morfina」§9「la inútil vida cotidiana（無益な日常生活）」との照応：ノボアにおける「inútil」は感傷・日常・感情への軽蔑の定式語として機能する。コヘレト第1章v.3「Quid habet amplius homo de universo labore suo（人はすべての労苦から何を得るのか）」──「心を持つことの無益な悲しみ」がコヘレト的な「労苦の無益性」の感情的・心理的形象として読める：感情（corazón）の存在そのものが虚無の証明として機能する。",
+      "targetId": "hieronymus_ecclesiastes_1",
+      "targetParagraphId": 3
+    }
+  ]
+}
