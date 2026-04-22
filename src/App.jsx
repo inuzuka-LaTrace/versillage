@@ -306,25 +306,26 @@ export default function App() {
   const [showScrollTop, setShowScrollTop] = useState(false);
   const lastScrollY = useRef(0);
 
-  useEffect(() => {
-    const handleScroll = () => {
-      const currentY = window.scrollY;
-      const deltaY = currentY - lastScrollY.current;
+　useEffect(() => {
+  let ticking = false;
 
-      // --- ヘッダー切り替えロジック ---
-      // 50pxを超えており、かつ下方向に動いている時だけ true
-      if (currentY > 50 && deltaY > 0) {
-        setIsScrollingDown(true);
-      } 
-      // 上にスクロールした瞬間に即座に解除
-      else if (deltaY < 0) {
-        setIsScrollingDown(false);
-      }
+  const handleScroll = () => {
+    if (!ticking) {
+      window.requestAnimationFrame(() => {
+        const currentY = window.scrollY;
+        const deltaY = currentY - lastScrollY.current;
 
-      // --- トップボタン表示ロジック ---
-      setShowScrollTop(currentY > 300 && deltaY < 0);
+        // --- ロジック実行 ---
+        if (currentY > 50 && deltaY > 5) setIsScrollingDown(true);
+        else if (deltaY < -5) setIsScrollingDown(false);
 
-      lastScrollY.current = currentY;
+        setShowScrollTop(currentY > 300 && deltaY < 0);
+
+        lastScrollY.current = currentY;
+        ticking = false;
+      });
+      ticking = true;
+    }
     };
     window.addEventListener('scroll', handleScroll, { passive: true });
     return () => window.removeEventListener('scroll', handleScroll);
