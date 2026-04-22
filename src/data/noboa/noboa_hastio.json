@@ -1,0 +1,99 @@
+{
+  "id": "noboa_hastio",
+  "title": "Hastío",
+  "author": "Ernesto Noboa y Caamaño",
+  "source": "Romanza de las Horas Wikisource: https://es.wikisource.org/wiki/Hast%C3%ADo",
+  "year": "1922",
+  "firstPublication": "Romanza de las Horas",
+  "difficulty": "上級",
+  "category": "noboa",
+  "originalLang": "es-ES",
+  "modernRelevance": "★★★★★",
+  "context": "エルネスト・ノボア・イ・カアマーニョ（Ernesto Noboa y Caamaño, 1891–1927）のソネット（4・4・3・3行）。「Hastío（倦怠・嫌悪）」はフランス語「ennui」の直接的スペイン語訳であり、ボードレール「憂鬱（Spleen）」の核心感情を指す：存在への根本的な倦怠・嫌気として定義される。詩篇は不定詞の連続（Vivir……mirar……sentirse……Ir……buscar……aturdirse……embriagarse……bebiendo……aspirando）によって行為の主体を消去した形で構成される──誰が生きるのかではなく、「生きること」そのものが苦悩の構造として提示される。時間的三項「過去（lo pasado）・現在（presente）・未来（futuro）」への否定的関係──過去への依存・現在への軽蔑・未来への恐怖──がコヘレト的な時間の虚無を詩的に展開する。結語「aspirando el veneno de las flores del mal（悪の花の毒を吸いながら）」というボードレール詩集タイトルの直接的スペイン語引用が、詩篇全体をボードレール的倦怠美学の明示的継承として位置づける。「dorado（黄金の）」という形容詞──「espina dorada（黄金の棘）」・「dorado champaña（黄金のシャンパーニュ）」として反復され、苦悩と享楽の双方に「黄金」という審美的価値を付与するモデルニスモ的語彙として機能する。",
+  "keywords": [
+    "hastío",
+    "倦怠",
+    "ennui",
+    "flores del mal",
+    "espina dorada",
+    "olvido",
+    "mal de la Vida",
+    "existencia extraña",
+    "desilusión",
+    "モデルニスモとボードレール"
+  ],
+  "relatedTexts": [
+    "noboa_ego_sum",
+    "noboa_morfina",
+    "noboa_rosa_de_francia",
+    "baudelaire_spleen",
+    "baudelaire_horloge",
+    "baudelaire_elevation",
+    "verlaine_chanson_dautomne",
+    "verlaine_spleen",
+    "borja_voy_a_entrar_al_olvido",
+    "hieronymus_ecclesiastes_1",
+    "weil_accepter_le_vide",
+    "rodenbach_loubli"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "verses": "v.1–4",
+      "original": "Vivir de lo pasado por desprecio al presente,\nmirar hacia el futuro con un hondo terror,\nsentirse envenenado, sentirse indiferente,\nante el mal de la Vida y ante el bien del Amor.",
+      "provisionalTranslation": "現在への軽蔑から過去に生きること、\n深い恐怖をもって未来を見ること、\n毒されたと感じること、無関心を感じること、\n生の苦悩の前で、愛の善の前で。"
+    },
+    {
+      "id": 2,
+      "verses": "v.5–8",
+      "original": "Ir haciendo caminos sobre un yermo de abrojos\nmordidos sobre el áspid de la desilusión,\ncon la sed en los labios, la fatiga en los ojos\ny una espina dorada dentro del corazón.",
+      "provisionalTranslation": "幻滅の毒蛇に噛まれながら、\n茨の荒野の上に道を作っていくこと、\n唇に渇きを、目に疲労を、\nそして心の中に黄金の棘を抱えて。"
+    },
+    {
+      "id": 3,
+      "verses": "v.9–12",
+      "original": "Y por calmar el peso de esta existencia extraña,\nbuscar en el olvido consolación final,\naturdirse, embriagarse con inaudita saña,\ncon ardor invencible, con ceguera fatal,",
+      "provisionalTranslation": "そしてこの奇妙な存在の重みを和らげるために、\n忘却の中に最後の慰めを求めること、\n前代未聞の激しさで茫然自失し、陶酔すること、\n征服できない熱情で、致命的な盲目で。"
+    },
+    {
+      "id": 4,
+      "verses": "v.13–14",
+      "original": "bebiendo las piedades del dorado champaña\ny aspirando el veneno de las flores del mal.",
+      "provisionalTranslation": "黄金のシャンパーニュの慈悲を飲みながら、\nそして悪の花の毒を吸いながら。"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "Vivir de lo pasado por desprecio al presente,\nmirar hacia el futuro con un hondo terror,\nsentirse envenenado, sentirse indiferente,\nante el mal de la Vida y ante el bien del Amor.",
+      "body": "「現在への軽蔑から過去に生きること（Vivir de lo pasado por desprecio al presente）──深い恐怖をもって未来を見ること（mirar hacia el futuro con un hondo terror）──毒されたと感じること、無関心を感じること（sentirse envenenado, sentirse indiferente）」──詩篇の開幕命題が不定詞の連続（Vivir……mirar……sentirse）によって行為主体を消去した形で時間的三項を否定的に定義する。「lo pasado / presente / futuro」という時間の全軸にわたる否定──「過去」は軽蔑された現在からの逃避先として、「未来」は「深い恐怖（hondo terror）」の対象として定義される：コヘレト第1章v.9「Quid est quod fuit? Ipsum quod futurum est（あったものはこれから来るもの）」の循環的同一性──過去・現在・未来の区別が無意味化される虚無的時間論の詩的展開。「sentirse indiferente / ante el bien del Amor（愛の善の前で無関心を感じる）」──「indifférence（無関心）」はボードレール「憂鬱（Spleen LXXVIII）」における「何も私を動かさない（Rien ne m'égaye et rien ne m'afflige）」という感情的麻痺の詩的等価物。ヴェルレーヌ「倦怠（Spleen）」の「Les roses étaient toutes rouges / Et les lierres étaient tout noirs（薔薇はすべて赤く、蔦はすべて黒かった）」──過去の鮮明な色彩が現在の倦怠によって無効化される感覚的麻痺との照応。",
+      "targetId": "hieronymus_ecclesiastes_1",
+      "targetParagraphId": 9
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "Ir haciendo caminos sobre un yermo de abrojos\nmordidos sobre el áspid de la desilusión,\ncon la sed en los labios, la fatiga en los ojos\ny una espina dorada dentro del corazón.",
+      "body": "「幻滅の毒蛇に噛まれながら、茨の荒野（yermo de abrojos）の上に道を作っていくこと──唇に渇き、目に疲労──心の中に黄金の棘（espina dorada）」──詩篇の最も身体的・感覚的な連。「yermo de abrojos（茨の荒野）」──「yermo（荒野・砂漠）」はスペイン語神秘主義の核心的空間：十字架の聖ヨハネ「暗夜」の「荒野を行く魂」・ヴェイユ「Celui qu'il faut aimer est absent」の「荒野（désert）」──しかしノボアにおいては神秘主義的な「神への道」ではなく「幻滅（desilusión）の毒蛇」が潜む荒野として機能する。「áspid de la desilusión（幻滅の毒蛇）」──「áspid（アスプ蛇・毒蛇）」という古典的毒蛇のイメージ：クレオパトラが毒蛇によって死んだという伝説的形象。「espina dorada（黄金の棘）」──「dorado（黄金の）」という形容が「棘（espina）」という苦悩の形象に付与される矛盾語法：「黄金＝価値・美」と「棘＝苦悩・痛み」の融合がボードレール的な「悪の中の美」の定式。「Rosa de Francia」§4「sin sentir las espinas con que hiere la suerte（運命が傷つける棘を感じることなく）」──感じない「棘」に対して、「espina dorada dentro del corazón（心の中の黄金の棘）」は常に内在する苦悩として対置される。コヘレト第1章v.14「universa vanitas et afflictio spiritus（すべては虚無であり、霊の苦悩）」──「espina dorada dentro del corazón」がcoヘレト的「afflictio spiritus（霊の苦悩）」の詩的具体化として照応する。",
+      "targetId": "hieronymus_ecclesiastes_1",
+      "targetParagraphId": 14
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "Y por calmar el peso de esta existencia extraña,\nbuscar en el olvido consolación final,\naturdirse, embriagarse con inaudita saña,\ncon ardor invencible, con ceguera fatal,",
+      "body": "「この奇妙な存在の重みを和らげるために（calmar el peso de esta existencia extraña）──忘却の中に最後の慰めを求めること（buscar en el olvido consolación final）──前代未聞の激しさで茫然自失し陶酔すること」──詩篇のvolta（転換）が「重みの解消手段」として忘却・陶酔を提示する。「peso de esta existencia extraña（この奇妙な存在の重み）」──「peso（重み・重力）」という語がヴェイユ「重力と恩寵（Pesanteur et Grâce）」の「pesanteur（重力）」と正確に対応する：存在そのものが「重力」として詩人を地上に縛りつける苦悩の物理的形象。「buscar en el olvido consolación final（忘却の中に最後の慰めを求める）」──「olvido（忘却）」がボルハ「Voy a entrar al olvido」のタイトル命題を反響する：忘却が「最後の（final）」慰めとして、死に等しい解放として定義される。ブランショ『文学の空間（L'Espace littéraire）』での「忘却と作品」──「consolación final en el olvido（忘却の中の最後の慰め）」がブランショ的な「詩人の自己消去」の詩的等価物として読める：作品は詩人が自己を忘却することで生まれる。「aturdirse, embriagarse（茫然自失し、陶酔する）」──再帰動詞の連続が自己への作用として「感覚の自己消去」を示す：「Morfina」§3「Bálsamo piadoso para toda herida（あらゆる傷への慈悲深い香油）」というモルヒネ的陶酔と同型の解消手段として忘却が機能する。「inaudita saña（前代未聞の激しさ）」──「saña（激怒・凶暴な激しさ）」という語が「陶酔（embriagarse）」を修飾することで、倦怠からの逃避が穏やかではなく激烈な暴力的行為として提示される。",
+      "targetId": "borja_voy_a_entrar_al_olvido",
+      "targetParagraphId": 4
+    },
+    {
+      "paragraphId": 4,
+      "type": "commentary",
+      "anchor": "bebiendo las piedades del dorado champaña\ny aspirando el veneno de las flores del mal.",
+      "body": "「黄金のシャンパーニュの慈悲を飲みながら（bebiendo las piedades del dorado champaña）──悪の花の毒を吸いながら（aspirando el veneno de las flores del mal）」──詩篇の最終二行にして、ボードレールへの最も明示的な詩的帰属の宣言。「las flores del mal（悪の花）」──ボードレール詩集『悪の華（Les Fleurs du Mal, 1857）』タイトルの直接的スペイン語訳：「flores del mal」という表現がスペイン語として定着していたことが示される。「aspirando el veneno（毒を吸いながら）」──「aspirar（吸う・吸い込む）」という呼吸的動詞が「veneno（毒）」に適用される：毒が空気として体内に入り込む不随意的・不可避的な身体的行為として提示される──毒の内面化が生存と不可分であることの告白。「piedades del dorado champaña（黄金のシャンパーニュの慈悲）」──「piedades（慈悲・哀れみ）」という宗教的語彙がシャンパーニュに付与される：「Morfina」§9「tú tienes consuelos como una hermana（あなたは姉妹のような慰めを持つ）」の薬物の擬人的慈悲と同型──享楽的嗜好物が「慈悲を施す者」として宗教的に位置づけられる。ボードレール「高翔（Élévation）」「Envole-toi bien loin de ces miasmes morbides（これらの病的な瘴気から遠く飛び去れ）」──高翔による「重みからの解放」に対して、ノボアは「飛び去る」ことができず「悪の花の毒を吸いながら」地上に留まる：ボードレールの詩的解放の失敗・不可能としての「Hastío（倦怠）」。コヘレト第1章v.18「qui addit scientiam, addit et laborem（知識を加える者は労苦をも加える）」──「悪の花の毒を吸う」詩的認識の行為が苦悩を増加させるというコヘレト的逆説の詩的実現として、詩篇の最終行が機能する。",
+      "targetId": "baudelaire_elevation",
+      "targetParagraphId": null
+    }
+  ]
+}
