@@ -53,6 +53,7 @@ import borjaData from './data/borja';
 import noboaData from './data/noboa';
 import darioData from './data/dario';
 import hieronymusData from './data/hieronymus';
+import platoData from './data/plato';
 import { CATEGORIES, CAT_SHORT, ANNOTATION_TYPE_DEF, SPEECH_RATES, PREFERRED_VOICES, SPEAKER_COLORS, SPEAKER_FIXED_COLORS, AUTHOR_COLOR_MAP } from './constants';
 import { getTranslation, getOriginalText, getSpeechLang, getBestVoice, extractSnippet } from './utils';
 
@@ -271,6 +272,7 @@ export default function App() {
       ...noboaData,
       ...darioData,
       ...hieronymusData,
+      ...platoData,
     };
     setTexts(allTexts);
   const timer = setTimeout(() => {
