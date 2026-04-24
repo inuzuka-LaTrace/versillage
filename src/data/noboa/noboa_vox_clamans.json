@@ -1,0 +1,97 @@
+{
+  "id": "noboa_vox_clamans",
+  "title": "Vox Clamans",
+  "author": "Ernesto Noboa y Caamaño",
+  "source": "Romanza de las Horas Wikisource: https://es.wikisource.org/wiki/Vox_Clamans",
+  "year": "1922",
+  "firstPublication": "Romanza de las Horas 1922",
+  "difficulty": "上級",
+  "category": "noboa",
+  "originalLang": "es-ES",
+  "modernRelevance": "★★★★★",
+  "context": "エルネスト・ノボア・イ・カアマーニョ（Ernesto Noboa y Caamaño, 1891–1927）のソネット（4・4・3・3行）。タイトル「Vox Clamans（叫ぶ声）」はイザヤ書40:3「Vox clamantis in deserto（荒野で叫ぶ者の声）」の直接的引用──洗礼者ヨハネの到来を告げる預言的叫びとして新約聖書に引用される（ヨハネ福音書1:23）。しかしノボアの詩篇において「叫ぶ声」は預言的使命への召命ではなく、詩人の内的葛藤の声として機能する：「生の声（voz de la vida）」と「破壊的声（gesto destructor）」という二つの相反する内的命令の衝突。「flauta débil（弱い笛）」──ボルハの遺詩集タイトル『オニキスの笛（La flauta de ónix）』との直接的照応：「flauta débil（弱い笛）」という自己評価がボルハの「笛（flauta）」という詩的象徴を逆照射する。詩の構造は「命令（§1）→内的対話（§2）→閃光（§3）→失敗と涙（§4）」という四段階の弁証法的失敗として組織される：「himno vigoroso（力強い賛歌）」への衝動が最終的に「canción se trueca por un raudal de llanto（歌が涙の奔流に変わる）」という詩的無力の告白で終わる。",
+  "keywords": [
+    "Vox Clamans",
+    "荒野の声",
+    "flauta débil",
+    "gesto destructor",
+    "luminosas teas",
+    "ardiente pira",
+    "raudal de llanto",
+    "詩人の内的葛藤",
+    "意志と失敗",
+    "モデルニスモの詩学的危機"
+  ],
+  "relatedTexts": [
+    "noboa_ego_sum",
+    "noboa_hastio",
+    "noboa_a_arturo_borja",
+    "borja_primavera_mistica_y_lunar",
+    "borja_voy_a_entrar_al_olvido",
+    "hieronymus_ecclesiastes_1",
+    "hieronymus_iob_3",
+    "weil_accepter_le_vide",
+    "weil_necessite",
+    "mallarme_brise_marine"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "verses": "v.1–4",
+      "original": "Oigo en la sombra, a veces, una voz que me advierte:\nPoeta, entre tus ruinas, yérguete vencedor:\ndeja la flauta débil de tu canción inerte,\ny alza el himno a la vida, al orgullo, al vigor.",
+      "provisionalTranslation": "私は闇の中に、時折、私に警告する声を聞く──\n詩人よ、あなたの廃墟の中から、征服者として立ち上がれ。\nあなたの不活性な歌の弱い笛を捨て、\n命へ、誇りへ、活力への賛歌を高く掲げよ。"
+    },
+    {
+      "id": 2,
+      "verses": "v.5–8",
+      "original": "Acalla tu secreto, sé fuerte con la muerte,\nY oigo otra voz que clama: fuerte como el amor.\n(En mi conciencia íntima no sé cuál es más fuerte,\nsi el gesto de la vida o el gesto destructor).",
+      "provisionalTranslation": "あなたの秘密を黙らせ、死に対して強くあれ、\nそして私は叫ぶ別の声を聞く──愛のように強く。\n（私の内なる良心の中で、どちらがより強いかわからない、\n生の身振りか、破壊の身振りか。）"
+    },
+    {
+      "id": 3,
+      "verses": "v.9–11",
+      "original": "De súbito, en tumulto, cual luminosas teas,\nen el cerebro atónito se encienden las ideas,\nmas, cuando de su foco, como de ardiente pira,",
+      "provisionalTranslation": "突然、騒乱の中で、輝くたいまつのように、\n驚いた脳の中でアイデアが燃え上がる、\nしかし、その焦点から、燃える薪の山から、"
+    },
+    {
+      "id": 4,
+      "verses": "v.12–14",
+      "original": "va a levantar las notas del vigoroso canto,\ncomo una flauta débil el corazón suspira;\ny la canción se trueca por un raudal de llanto.",
+      "provisionalTranslation": "力強い歌の音符を高く掲げようとするとき、\n心は弱い笛のようにため息をつく、\nそして歌は涙の奔流へと変わる。"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "Oigo en la sombra, a veces, una voz que me advierte:\nPoeta, entre tus ruinas, yérguete vencedor:\ndeja la flauta débil de tu canción inerte,\ny alza el himno a la vida, al orgullo, al vigor.",
+      "body": "「私は闇の中に、時折、私に警告する声を聞く（Oigo en la sombra, a veces, una voz que me advierte）──詩人よ、あなたの廃墟の中から、征服者として立ち上がれ（yérguete vencedor）──あなたの不活性な歌の弱い笛を捨て（deja la flauta débil de tu canción inerte）」──詩篇の開幕が「闇の声（voz en la sombra）」という内的聴覚的体験として設定される。タイトル「Vox Clamans」──イザヤ書40:3「Vox clamantis in deserto: Parate viam Domini（荒野で叫ぶ者の声：主の道を備えよ）」のラテン語引用：洗礼者ヨハネが「荒野で叫ぶ声（vox clamantis）」として自己を定義する（ヨハネ福音書1:23）──ノボアの詩篇においてこの「叫ぶ声」は外部の預言的使命ではなく「闇の中（en la sombra）」という内的空間から聞こえる自己批判的命令として転用される。「flauta débil de tu canción inerte（不活性な歌の弱い笛）」──ボルハの遺詩集タイトル『オニキスの笛（La flauta de ónix）』への直接的照応：友人ボルハの「笛（flauta）」という詩的象徴が「débil（弱い）」・「inerte（不活性な）」という自己批判的形容を受ける──「Memento musical」§1「Tu mano / acariciaba melodiosamente / el teclado（あなたの手が旋律的に鍵盤を愛撫していた）」というボルハへの音楽的讃美との対照として、ここでは「弱い笛」という自己否定が際立つ。「entre tus ruinas（あなたの廃墟の中から）」──「Hastío」§1「Vivir de lo pasado（過去に生きること）」という倦怠の廃墟的自己像との照応：詩人の内的状態が「廃墟（ruinas）」として空間的に定義される。",
+      "targetId": "borja_memento_musical",
+      "targetParagraphId": 1
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "(En mi conciencia íntima no sé cuál es más fuerte,\nsi el gesto de la vida o el gesto destructor).",
+      "body": "「私の内なる良心の中で、どちらがより強いかわからない──生の身振りか、破壊の身振りか（el gesto de la vida o el gesto destructor）」──詩篇の哲学的・倫理的核心命題。括弧（）による挿入──詩人の「内なる良心（conciencia íntima）」の声が括弧という視覚的装置によって「外側の声（声1・声2）」から分離される：「二つの外的命令」と「一つの内的困惑」という三層構造。「gesto destructor（破壊の身振り）」──「gesto（身振り・ジェスチャー）」という語が「生（vida）」と「破壊（destrucción）」の双方に付与される：どちらも「ジェスチャー（演技・身振り）」として等価に提示される──生への意志も破壊への衝動も同じ「演技的な身振り」に過ぎないという実存的虚無。ヨブ記第3章v.26「Nonne dissimulavi? nonne silui? nonne quievi? et venit super me indignatio（私は黙ってこらえなかったか──それでも憤りは私に来た）」との照応：「sé fuerte con la muerte（死に対して強くあれ）」という命令に応えようとするノボアの葛藤が、ヨブの「沈黙への試み→それでも憤りが来た」という構造と同型。ヴェイユ「Accepter le vide」§8の「Il ne faut pas s'y jeter（しかし自ら飛び込んではならない）」──「gesto destructor（破壊の身振り）」への誘惑に対して「飛び込んではならない」という禁止が、ノボアの「no sé cuál es más fuerte（どちらが強いかわからない）」という内的混乱と共鳴する。",
+      "targetId": "hieronymus_iob_3",
+      "targetParagraphId": 26
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "De súbito, en tumulto, cual luminosas teas,\nen el cerebro atónito se encienden las ideas,\nmas, cuando de su foco, como de ardiente pira,",
+      "body": "「突然、騒乱の中で、輝くたいまつのように（cual luminosas teas）──驚いた脳の中でアイデアが燃え上がる（en el cerebro atónito se encienden las ideas）──しかし、その焦点から、燃える薪の山（ardiente pira）から」──詩篇の転換点（volta）が「突然の閃光（súbito）」として実現される。「De súbito（突然）」──「Ego Sum」§3「si me embriaga la música de los astros lejanos（遠い星々の音楽が私を陶酔させるなら）」の詩的陶酔との対照：「Ego Sum」では陶酔が持続的・意志的であるのに対して、「Vox Clamans」では「突然（De súbito）」という不随意的閃光として創造的エネルギーが提示される。「luminosas teas（輝くたいまつ）」──「teas（タルト松明）」という古風な灯りの形象：「Noboa A Arturo Borja」§11「¡ANIMA MEA, FIAT LUX!（わが魂よ、光あれ）」という「光の創造」の命題が、ここでは「teas（たいまつ）」という人工的・束の間の光として縮小される。「cerebro atónito（驚いた脳）」──「Ego Sum」§2「mi cerebro enfermo, sensitivo y caótico（私の病んだ、感受性の強い、混沌とした脳）」との照応：病的な脳が「驚愕（atónito）」という受動的感受性として変奏される。「ardiente pira（燃える薪の山）」──「pira（薪の山・火葬台）」：古代の火葬儀式の薪の山が「創造的エネルギーの焦点（foco）」として提示される──創造と死滅が同一の「火（fuego）」として定義される。マラルメ「海の微風（Brise marine）」「Je partirai!（出発しよう！）」という詩的意志の閃光が行動に移れない苦悩──ノボアの「se encienden las ideas……mas」という「閃光→しかし」の構造的挫折との照応。",
+      "targetId": "mallarme_brise_marine",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 4,
+      "type": "commentary",
+      "anchor": "va a levantar las notas del vigoroso canto,\ncomo una flauta débil el corazón suspira;\ny la canción se trueca por un raudal de llanto.",
+      "body": "「力強い歌の音符を高く掲げようとするとき（va a levantar las notas del vigoroso canto）──心は弱い笛のようにため息をつく（como una flauta débil el corazón suspira）──そして歌は涙の奔流へと変わる（la canción se trueca por un raudal de llanto）」──詩篇の結語にして、詩的意志の失敗の最終確定。「va a levantar……como una flauta débil el corazón suspira」──「va a（〜しようとする）」という意図の近接未来形が「como una flauta débil（弱い笛のように）」というため息の現実に打ち消される：意志（va a levantar）と現実（suspira）の落差が詩篇の根本的逆説を完成する。「flauta débil」の反復──§1「deja la flauta débil de tu canción inerte（弱い笛を捨てよ）」という命令が「como una flauta débil el corazón suspira（弱い笛のように心はため息をつく）」という結末で逆転される：捨てるべきと命じられた「弱い笛」が、結局「心そのもの」として確認される──命令に従えない詩人の内的無力の告白。「la canción se trueca por un raudal de llanto（歌は涙の奔流へと変わる）」──「trueca（変わる・置き換わる）」という変容動詞が「歌（canción）」を「涙（llanto）」へと変容させる：「A Arturo Borja」§12「Yo haré de mi alma una orientada perla / de llanto（私は自らの魂を涙の真珠とする）」という「涙の詩的昇華」に対して、ここでは「涙」が詩的昇華ではなく詩の「失敗」として機能する。コヘレト第1章v.18「qui addit scientiam, addit et laborem（知識を加える者は労苦をも加える）」──詩的意志・「himno vigoroso（力強い賛歌）」への衝動が高まるほど、その挫折の苦悩も深まるというコヘレト的逆説の詩的完結。ブランショ『文学の空間』での「詩人は作品を書こうとする意志の前に常に挫折する」──「va a levantar……suspira」という意志と挫折の構造がブランショ的な「書くことの不可能性」の詩的定式として読める。",
+      "targetId": "hieronymus_ecclesiastes_1",
+      "targetParagraphId": 18
+    }
+  ]
+}
