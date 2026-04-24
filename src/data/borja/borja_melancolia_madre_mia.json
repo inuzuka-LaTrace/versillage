@@ -1,0 +1,137 @@
+{
+  "id": "borja_melancolia_madre_mia",
+  "title": "Melancolía, madre mía",
+  "author": "Arturo Borja",
+  "source": "La flauta de ónix (1920, 死後出版). Wikisource: https://es.wikisource.org/wiki/Melancon%C3%ADa,_madre_m%C3%ADa",
+  "year": "1920",
+  "firstPublication": "La flauta de ónix, Quito, 1920（死後出版）",
+  "difficulty": "中級",
+  "category": "borja",
+  "originalLang": "es-ES",
+  "modernRelevance": "★★★★★",
+  "context": "アルトゥーロ・ボルハ（Arturo Borja, 1892–1912）の遺詩集『オニキスの笛（La flauta de ónix）』所収。全7連（各4行）、`(...)`による省略を含む。「Melancolía, madre mía（憂愁よ、私の母よ）」というタイトル兼反復句が詩篇全体を「揺り籠の歌（canción de cuna）」として構成する：憂愁が「母（madre）」として擬人化され、「あなたの懐で眠る（en tu regazo he de dormir）」という乳幼児的な安息への回帰が詩的死の婉曲表現として機能する。「Yo soy el rey abandonado / de una Thulé dorada donde nunca viví（私は黄金のトゥーレの見捨てられた王）」という自己定義がゲーテ「トゥーレの王（Der König in Thule）」への直接的詩的参照として、詩人の「失われた黄金郷・一度も生きたことのない場所」への郷愁を設定する。冒頭と末尾の同一4行による envelope structure（包括的構造）が詩篇全体を「揺り籠から揺り籠へ」という円環として閉じる。「las estrellas mintiendo amores con su luz（光で愛を嘘つく星々）──sean los clavos de una cruz（それは十字架の釘かもしれない）」という結語的逆説が、ヴェイユ「Les Astres」の「星々の神の火」という肯定的形象を「嘘」と「十字架の釘」という苦悩的形象として転倒させる。",
+  "keywords": [
+    "melancolía",
+    "madre mía",
+    "Thulé dorada",
+    "rey abandonado",
+    "dulce orgullo de sufrir",
+    "eco funeral",
+    "clavos de una cruz",
+    "estrellas mintiendo",
+    "揺り籠の歌",
+    "憂愁の擬人化"
+  ],
+  "relatedTexts": [
+    "borja_primavera_mistica_y_lunar",
+    "borja_voy_a_entrar_al_olvido",
+    "borja_vision_lejana",
+    "noboa_hastio",
+    "verlaine_chanson_dautomne",
+    "verlaine_colloque_sentimental",
+    "weil_les_astres",
+    "weil_accepter_le_vide",
+    "hieronymus_ecclesiastes_1",
+    "rodenbach_loubli"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "verses": "v.1–4",
+      "original": "Melancolía, madre mía,\nen tu regazo he de dormir,\ny he de cantar, melancolía,\nel dulce orgullo de sufrir.",
+      "provisionalTranslation": "憂愁よ、私の母よ、\nあなたの懐で私は眠らなければならない。\nそして歌わなければならない、憂愁よ、\n苦しむことの甘い誇りを。"
+    },
+    {
+      "id": 2,
+      "verses": "v.5–8",
+      "original": "Yo soy el rey abandonado\nde una Thulé dorada donde nunca viví\ny al verme pobre y desterrado\nvuelvo los ojos hacia ti.",
+      "provisionalTranslation": "私は一度も生きたことのない\n黄金のトゥーレの見捨てられた王。\nそして自分が貧しく流刑されているのを見て\nあなたに向かって目を向ける。"
+    },
+    {
+      "id": 3,
+      "verses": "v.9–12",
+      "original": "Melancolía, tú eres buena,\ntú aliviarás este dolor;\npara esta pena,\nserán tus lágrimas de amor.",
+      "provisionalTranslation": "憂愁よ、あなたは善い、\nあなたはこの苦しみを和らげてくれるだろう。\nこの悲しみのために、\nあなたの愛の涙がそれとなろう。"
+    },
+    {
+      "id": 4,
+      "verses": "v.13–16",
+      "original": "¿Qué me ha quedado de aquella hora\nprimaveral?\nLa melodía pasó. Ahora\nsólo hay un eco funeral.",
+      "provisionalTranslation": "あの春の時から\n私に何が残ったのか？\n旋律は過ぎ去った。今や\nただ葬礼の木霊があるだけだ。"
+    },
+    {
+      "id": 5,
+      "verses": "v.17–20",
+      "original": "¿Y la mujer a quien quisimos?\n¡Ay! se fue ya.\n¿Y la mujer que en sueños vimos?\nNunca vendrá.",
+      "provisionalTranslation": "そして私たちが愛した女は？\nああ！もう去ってしまった。\nそして夢の中で見た女は？\n決して来ない。"
+    },
+    {
+      "id": 6,
+      "verses": "v.21–24",
+      "original": "Y así, la vida:\nlas estrellas mintiendo amores con su luz,\ncuando muy bien pudiera que ellas\nsean los clavos de una cruz.",
+      "provisionalTranslation": "そして、そのように、命は──\n光で愛を嘘つく星々、\nそれらがじつは十分あり得ることとして\n十字架の釘であるかもしれない。"
+    },
+    {
+      "id": 7,
+      "verses": "v.25–28",
+      "original": "Melancolía, madre mía,\nen tu regazo he de dormir,\ny he de cantar, melancolía,\nel dulce orgullo de sufrir.",
+      "provisionalTranslation": "憂愁よ、私の母よ、\nあなたの懐で私は眠らなければならない。\nそして歌わなければならない、憂愁よ、\n苦しむことの甘い誇りを。"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "Melancolía, madre mía,\nen tu regazo he de dormir,\ny he de cantar, melancolía,\nel dulce orgullo de sufrir.",
+      "body": "「憂愁よ、私の母よ（Melancolía, madre mía）──あなたの懐で私は眠らなければならない（en tu regazo he de dormir）──苦しむことの甘い誇り（el dulce orgullo de sufrir）」──詩篇の開幕兼反復句が「憂愁の擬人化・母化」として即座に詩的宇宙を定義する。「madre mía（私の母）」──憂愁（melancolía）を「母（madre）」として定義することで、詩人は憂愁への「帰還（regreso）」を「母の懐への帰還」として設定する：「regazo（懐・膝）」という語が母親の抱擁という原初的な安息の空間を指示する。「he de dormir（眠らなければならない）」──「haber de＋不定詞」という義務の構文が「眠ること」に必然性を付与する：眠りが「選択」ではなく「運命的必然」として提示される。ヨブ記第3章v.13「Nunc enim dormiens silerem, et somno meo requiescerem（今頃なら眠って静かにし、自分の眠りの中で休んでいたのに）」との照応──「眠り」が死の婉曲表現として機能するヨブ的構造が、ボルハの「en tu regazo he de dormir」という「憂愁の懐での眠り」として変奏される。「el dulce orgullo de sufrir（苦しむことの甘い誇り）」──「dulce（甘い）」と「orgullo（誇り）」という肯定的形容詞が「sufrir（苦しむ）」という否定的動詞に付与される矛盾語法：苦悩が「甘さ」と「誇り」を帯びた積極的詩的価値として定義される──ボードレール的な「悪の美学」のスペイン語的定式。",
+      "targetId": "hieronymus_iob_3",
+      "targetParagraphId": 13
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "Yo soy el rey abandonado\nde una Thulé dorada donde nunca viví\ny al verme pobre y desterrado\nvuelvo los ojos hacia ti.",
+      "body": "「私は黄金のトゥーレの見捨てられた王（el rey abandonado / de una Thulé dorada）──一度も生きたことのない──貧しく流刑されている（pobre y desterrado）」──詩篇の神話的・文学的参照軸の確立。「Thulé dorada（黄金のトゥーレ）」──ゲーテ「トゥーレの王（Der König in Thule, 1774）」への直接的参照：ゲーテの詩では「トゥーレの王」が死んだ恋人から贈られた黄金の杯を最後まで手放さず、死の床でその杯を海に投げ込む──永遠の愛の忠誠の象徴。ボルハはこの「トゥーレの王」の形象を転用しながら「donde nunca viví（一度も生きたことのない）」という逆説的修飾を加える：ゲーテの王が「実際に生きた黄金郷」を手放すのに対して、ボルハの王は「一度も生きたことのない」架空の黄金郷の王として定義される──「失われた場所」ではなく「最初から存在しなかった場所」への郷愁（ノスタルジア）の逆説。「pobre y desterrado（貧しく流刑された）」──「desterrado（流刑・追放）」という語：エデンからの追放（Génesis 3:23）・ダンテの「政治的流刑（esilio）」という西洋文学の根本的「流刑」の主題がモデルニスモ詩人の内的疎外として変奏される。「vuelvo los ojos hacia ti（あなたに向かって目を向ける）」──憂愁が唯一の「祖国（patria）」として機能する：「流刑の王」が「母なる憂愁」のもとへと回帰する。",
+      "targetId": "hieronymus_ecclesiastes_1",
+      "targetParagraphId": 11
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "Melancolía, tú eres buena,\ntú aliviarás este dolor;\npara esta pena,\nserán tus lágrimas de amor.",
+      "body": "「憂愁よ、あなたは善い（tú eres buena）──あなたの愛の涙（tus lágrimas de amor）がそれとなろう」──詩篇で最も直接的な「憂愁への呼びかけ」の連。「tú eres buena（あなたは善い）」──「buena（善い）」という単純な形容詞が「憂愁（melancolía）」に付与される：道徳的・倫理的な「善」が苦悩の感情に属性として付与される逆説。「Morfina」§9「tú tienes consuelos como una hermana（あなたは姉妹のような慰めを持つ）」との照応：モルヒネが「慈悲深い姉妹」として定義されるのと同型で、憂愁が「善い慰め手」として定義される──苦悩をもたらすものが同時に苦悩を「和らげる（aliviar）」矛盾的慰め手。「tus lágrimas de amor（あなたの愛の涙）」──憂愁の「涙」が「愛（amor）」の涙として定義される：憂愁の感情が「愛情的な（amoroso）」次元を帯びる──「A Arturo Borja」§12「perla de llanto（涙の真珠）」という詩的昇華の先行形として。ヴェイユ「Accepter le vide」§1「La grâce comble（恩寵は満たす）」──「憂愁の涙」が「恩寵（grâce）」の詩的等価物として、苦悩（pena）を満たす慰めとして機能する。",
+      "targetId": "weil_accepter_le_vide",
+      "targetParagraphId": 1
+    },
+    {
+      "paragraphId": 4,
+      "type": "commentary",
+      "anchor": "¿Qué me ha quedado de aquella hora\nprimaveral?\nLa melodía pasó. Ahora\nsólo hay un eco funeral.",
+      "body": "「あの春の時から私に何が残ったのか（¿Qué me ha quedado de aquella hora / primaveral?）──旋律は過ぎ去った（La melodía pasó）──ただ葬礼の木霊（eco funeral）があるだけだ」──詩篇の時間論的核心命題。「¿Qué me ha quedado?（何が残ったのか？）」──コヘレト第1章v.3「Quid habet amplius homo de universo labore suo（人はすべての労苦から何を得るのか）」の問いの詩的変奏：コヘレトが「労苦から何を得るか」と問うのに対して、ボルハは「春の時から何が残ったか」と問う──「得るもの（haber）」ではなく「残るもの（quedar）」という受動的形象の転換。「La melodía pasó（旋律は過ぎ去った）」──「Memento musical」§1「Sollozaba Chopín en el piano（ショパンがピアノの中で嗚咽していた）」という音楽的記憶が「pasó（過ぎ去った）」という完了形によって消去される：「Memento musical」の「記憶する（memento）」行為と「pasó（過ぎ去った）」という消去の対照。「eco funeral（葬礼の木霊）」──「eco（木霊・エコー）」がギリシャ神話のエコーへの言及として機能する：ナルシスに拒絶されたエコーが声のみの存在となった神話──愛されなかった者の声だけが「葬礼の木霊」として残る。ローデンバック「L'Oubli（忘却）」の「旋律が徐々に消えていく」という詩学との照応。",
+      "targetId": "rodenbach_loubli",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 5,
+      "type": "commentary",
+      "anchor": "¿Y la mujer a quien quisimos?\n¡Ay! se fue ya.\n¿Y la mujer que en sueños vimos?\nNunca vendrá.",
+      "body": "「私たちが愛した女は（¿Y la mujer a quien quisimos?）──もう去ってしまった（se fue ya）──夢の中で見た女は（¿Y la mujer que en sueños vimos?）──決して来ない（Nunca vendrá）」──詩篇で最も短い行による最も絶対的な喪失の定式。「quisimos（私たちが愛した）」──一人称複数形（nosotros）が使用される：詩人個人ではなく「私たち（nosotros）」という複数の主体──詩人集団・詩を読む者全体が「愛した女」を共有する普遍的喪失として提示される。「se fue ya（もう去ってしまった）」と「Nunca vendrá（決して来ない）」──「ya（すでに）」という確定した過去と「nunca（決して）」という絶対的未来否定の対：「現実の女（a quien quisimos）」は「すでに去り」、「夢の女（que en sueños vimos）」は「決して来ない」──過去の喪失と未来の不可能性が交差する。「Visión lejana」§4「¡Cómo volverla a ver! ¿En qué jardines / emergerá su pálida figura?（どうすれば再び彼女に会えるのか！）」との直接的照応：「Visión lejana」では「再会の不可能性」が疑問形として問われるのに対して、ここでは「se fue ya（もう去った）／Nunca vendrá（決して来ない）」という断定形で確定される──問いから確認への詩的深化。ヴェルレーヌ「感傷的な対話（Colloque sentimental）」の「Non（いいえ）」という一言による過去の愛の否定との照応。",
+      "targetId": "borja_vision_lejana",
+      "targetParagraphId": 4
+    },
+    {
+      "paragraphId": 6,
+      "type": "commentary",
+      "anchor": "Y así, la vida:\nlas estrellas mintiendo amores con su luz,\ncuando muy bien pudiera que ellas\nsean los clavos de una cruz.",
+      "body": "「そして、そのように、命は──光で愛を嘘つく星々（las estrellas mintiendo amores con su luz）──それは十字架の釘（los clavos de una cruz）かもしれない」──詩篇の哲学的・神学的頂点にして最も逆説的な命題。「las estrellas mintiendo amores（愛を嘘つく星々）」──ヴェイユ「Les Astres（星々）」最終行「Il est là dans le cœur soudain, leur feu divin（突然心の中にある、彼らの神の火が）」という「星々の神の火」という肯定的形象の完全な反転：ヴェイユにとって「星々の火」が「神の現前」の徴であるのに対して、ボルハにとって星々は「愛を嘘つく（mintiendo amores）」欺瞞の光として定義される。「noboa_ego_sum」§3「si me embriaga la música de los astros lejanos（遠い星々の音楽が私を陶酔させるなら）」というノボアの「星の音楽への陶酔」との対照：ノボアが星に「陶酔（embriagarse）」を見出すのに対して、ボルハは「嘘（mentira）」を見出す──同じ星々への二詩人の相反する応答。「sean los clavos de una cruz（十字架の釘かもしれない）」──「clavos（釘）」：キリストの磔刑における「聖なる釘（clavos santos）」への言及。「Primavera mística y lunar」§6「¡Llégaste hasta mi cruz（私の十字架にまで届いた）」との照応──月が「十字架」に届く「Primavera」に対して、ここでは星々が「十字架の釘そのもの」として空に刺さっている。コヘレト第1章v.14「universa vanitas et afflictio spiritus（すべては虚無であり、霊の苦悩）」──「星々の嘘」という虚無的認識がコヘレト的な「afflictio spiritus（霊の苦悩）」の詩的具体化として機能する。",
+      "targetId": "weil_les_astres",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 7,
+      "type": "prosody",
+      "anchor": "Melancolía, madre mía,\nen tu regazo he de dormir,\ny he de cantar, melancolía,\nel dulce orgullo de sufrir.",
+      "body": "§1と§7の完全な逐語反復による envelope structure（包括的構造）の完成──詩篇が「憂愁の懐」から「憂愁の懐」へと帰還する円環として閉じる。§1から§7への反復が「新しい意味」を持つ構造：詩篇の中間部で「春の時は過ぎ去り（melodía pasó）」・「女は去り（se fue ya）」・「星は嘘をつく（mintiendo amores）」という連続的喪失・幻滅を経た後に「el dulce orgullo de sufrir（苦しむことの甘い誇り）」を再び歌う──開幕では「宣言」として機能した詩句が、閉幕では「確認・総括」として機能する：苦悩の内容が深化した後の反復。「he de dormir（眠らなければならない）」という義務形──詩篇冒頭での「眠らなければならない」が詩篇全体の経験を経た後に「今や確かに眠らなければならない」という実存的確認として最大の重みを帯びる。ブランショ『来たるべき書物（Le Livre à venir）』での「作品の反復性」──詩が完成すると同時に最初の句へと回帰する：「Melancolía, madre mía」という呼格への帰還が、作品の自己完結的な円環として実現される。ヴェルレーヌ「秋の歌（Chanson d'automne）」の反復的・音楽的構造──同一の詩句が詩の感情的強度を高める音楽的技法として機能する詩学的先型。"
+    }
+  ]
+}
