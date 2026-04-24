@@ -1,0 +1,226 @@
+{
+  "id": "dario_responso_a_verlaine",
+  "title": "Responso a Verlaine",
+  "author": "Rubén Darío",
+  "source": "Prosas profanas y otros poemas (1896/1901). Wikisource: https://es.wikisource.org/wiki/Responso_a_Verlaine",
+  "year": "1896",
+  "firstPublication": "Prosas profanas y otros poemas, Buenos Aires, 1896",
+  "difficulty": "上級",
+  "category": "dario",
+  "originalLang": "es-ES",
+  "modernRelevance": "★★★★★",
+  "context": "ルベン・ダリオ（Rubén Darío, 1867–1916）の詩集『俗なる散文（Prosas profanas y otros poemas, 1896）』所収。全7連×6行（3＋3行のセクステット）、計42行。ヴェルレーヌ（1896年1月死去）への弔詩（responso）として、カトリックの「応答聖歌（responso）」という典礼形式を詩篇構造の核として採用する──「Que...（〜となるように）」という接続法的祈願の反復が弔詞的・典礼的な祈りの韻律を形成する。詩篇はヴェルレーヌを「Padre y maestro mágico（父にして魔術的師）」・「Panida（パン神の従者）」として位置づけ、その墓を取り巻く神話的牧歌的世界──パン神・ナイアデ・サテュロス・ケンタウロス・フィロメラ・カネフォロス──を召喚する。最終二連が詩篇の神学的頂点をなす：山の上をさまようサテュロスの幽霊が「超人間的な笛の旋律（extrahumana flauta）」を「天の調和（armonía sideral）」に合わせ、やがて「遠い山の上の十字架（una cruz que se eleve）」と「十字架の上の光輝（un resplandor sobre la cruz）」を目撃する──異教的・牧歌的世界（パン・サテュロス）とキリスト教的象徴（十字架・光輝）の逆説的和解として詩篇が閉じる。シルバ「Reminiscencia siglo XVIII」最終連がヴェルレーヌを「Pablo Verlaine que se encuentra en los cielos（天にいるポール・ヴェルレーヌ）」として天上化するのに対して、ダリオの「responso」はヴェルレーヌを異教的牧歌の神話空間に位置づけた後、最終行で「十字架の光輝」へと昇華させる──スペイン語圏モデルニスモにおけるヴェルレーヌ受容の二つの極として。",
+  "keywords": [
+    "responso",
+    "Verlaine",
+    "Pan",
+    "Panida",
+    "Sátiro",
+    "Filomela",
+    "armonía sideral",
+    "extrahumana flauta",
+    "cruz",
+    "resplandor",
+    "弔詩",
+    "異教とキリスト教の和解"
+  ],
+  "relatedTexts": [
+    "verlaine_clair_de_lune",
+    "verlaine_parsifal",
+    "verlaine_colloque_sentimental",
+    "silva_reminiscencia_siglo_xviii",
+    "rilke_sonette_orpheus_1_01",
+    "rilke_duineser_elegien_01",
+    "mallarme_verlaine",
+    "dario_nocturno",
+    "dario_el_cisne"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "verses": "v.1–3",
+      "original": "Padre y maestro mágico, liróforo celeste\nque al instrumento olímpico y a la siringa agreste\ndiste tu acento encantador;",
+      "provisionalTranslation": "父にして魔術的師よ、天上の竪琴持ちよ、\nオリンポスの楽器にも野の葦笛にも\nあなたの魅惑的な音調を与えた者よ；"
+    },
+    {
+      "id": 2,
+      "verses": "v.4–6",
+      "original": "¡Panida! Pan tú mismo, con coros condujiste\nhacia el propíleo sacro que amaba tu alma triste,\n¡al son del sistro y del tambor!",
+      "provisionalTranslation": "パニダよ！パン神そのものよ、あなたは合唱を率いて\nあなたの悲しい魂が愛した聖なるプロピュライアへと、\nシストルムと太鼓の音に合わせて！"
+    },
+    {
+      "id": 3,
+      "verses": "v.7–9",
+      "original": "Que tu sepulcro cubra de flores Primavera,\nque se humedezca el áspero hocico de la fiera\nde amor si pasa por allí;",
+      "provisionalTranslation": "春があなたの墓を花で覆うように、\n獣の荒々しい口先が\n愛で濡れるように、もしそこを通るなら；"
+    },
+    {
+      "id": 4,
+      "verses": "v.10–12",
+      "original": "que el fúnebre recinto visite Pan bicorne;\nque de sangrientas rosas el fresco abril te adorne\ny de claveles de rubí.",
+      "provisionalTranslation": "二角のパン神が葬礼の囲いを訪れるように；\n新鮮な四月が血染めのバラであなたを飾るように、\nルビーのカーネーションで。"
+    },
+    {
+      "id": 5,
+      "verses": "v.13–15",
+      "original": "Que si posarse quiere sobre la tumba el cuervo,\nahuyenten la negrura del pájaro protervo\nel dulce canto de cristal",
+      "provisionalTranslation": "烏が墓の上に止まりたければ、\n不敵な鳥の暗黒を追い払うように、\n水晶の甘い歌が──"
+    },
+    {
+      "id": 6,
+      "verses": "v.16–18",
+      "original": "que Filomela vierta sobre tus tristes huesos,\no la armonía dulce de risas y de besos\nde culto oculto y florestal.",
+      "provisionalTranslation": "フィロメラがあなたの悲しい骨の上に注ぐように、\nあるいは笑いと接吻の甘い調和が──\n隠れた森の秘儀の。"
+    },
+    {
+      "id": 7,
+      "verses": "v.19–21",
+      "original": "Que púberes canéforas te ofrenden el acanto,\nque sobre tu sepulcro no se derrame el llanto,\nsino rocío, vino, miel:",
+      "provisionalTranslation": "思春期のカネフォロスたちがあなたにアカントゥスを捧げるように、\nあなたの墓の上に涙が流れることなく、\nただ露と葡萄酒と蜜だけが；"
+    },
+    {
+      "id": 8,
+      "verses": "v.22–24",
+      "original": "que el pámpano allí brote, las flores de Citeres,\n¡y que se escuchen vagos suspiros de mujeres\nbajo un simbólico laurel!",
+      "provisionalTranslation": "そこに葡萄の若葉が芽吹き、キュテラの花々が──\nそして女たちの漠然とした溜め息が聞こえるように\n象徴的な月桂樹の下で！"
+    },
+    {
+      "id": 9,
+      "verses": "v.25–27",
+      "original": "Que si un pastor su pífano bajo el frescor del haya,\nen amorosos días, como en Virgilio, ensaya,\ntu nombre ponga en la canción;",
+      "provisionalTranslation": "もし一人の羊飼いがブナの木の涼しさの下で笛を\n愛の日々に、ウェルギリウスのように、試みるなら、\nあなたの名を歌の中に置くように；"
+    },
+    {
+      "id": 10,
+      "verses": "v.28–30",
+      "original": "y que la virgen náyade, cuando ese nombre escuche\ncon ansias y temores entre las linfas luche,\nllena de miedo y de pasión.",
+      "provisionalTranslation": "そしてその名を聞くとき、乙女のナイアデが\n不安と恐れを抱いて水の流れの中でもがくように、\n恐れと情熱に満ちて。"
+    },
+    {
+      "id": 11,
+      "verses": "v.31–33",
+      "original": "De noche, en la montaña, en la negra montaña\nde las Visiones, pase gigante sombra extraña,\nsombra de un Sátiro espectral;",
+      "provisionalTranslation": "夜に、山の上で、幻の黒い山で、\n巨大な奇妙な影が過ぎるように──\n幽霊のサテュロスの影が；"
+    },
+    {
+      "id": 12,
+      "verses": "v.34–36",
+      "original": "que ella al centauro adusto con su grandeza asuste;\nde una extrahumana flauta la melodía ajuste\na la armonía sideral.",
+      "provisionalTranslation": "その影が険しいケンタウロスをその偉大さで怖れさせるように；\n超人間的な笛の旋律が\n天の調和に合わさるように。"
+    },
+    {
+      "id": 13,
+      "verses": "v.37–39",
+      "original": "Y huya el tropel equino por la montaña vasta;\ntu rostro de ultratumba bañe la Luna casta\nde compasiva y blanca luz;",
+      "provisionalTranslation": "馬の群れが広大な山を逃げるように；\nあなたの死後の顔を純潔な月が\n慈悲深い白い光で浴びせるように；"
+    },
+    {
+      "id": 14,
+      "verses": "v.40–42",
+      "original": "y el Sátiro contemple sobre un lejano monte\nuna cruz que se eleve cubriendo el horizonte\n¡y un resplandor sobre la cruz!",
+      "provisionalTranslation": "そしてサテュロスが遠い山の上に眺めるように──\n地平線を覆って聳える十字架を、\nそして十字架の上の光輝を！"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "Padre y maestro mágico, liróforo celeste\nque al instrumento olímpico y a la siringa agreste\ndiste tu acento encantador;",
+      "body": "「父にして魔術的師（Padre y maestro mágico）──天上の竪琴持ち（liróforo celeste）──オリンポスの楽器にも野の葦笛にも（al instrumento olímpico y a la siringa agreste）あなたの魅惑的な音調を与えた」──詩篇の開幕がヴェルレーヌへの二重の称号定義として機能する。「Padre y maestro（父にして師）」──ダリオはヴェルレーヌへの私淑を「父（padre）」という最上位の権威的親密性で表現する：モデルニスモ詩人にとってヴェルレーヌは詩的系譜の「父」として機能する──シルバ「Reminiscencia siglo XVIII」最終連「un viejo y galante poeta（老いた雅やかな詩人）：Pablo Verlaine que se encuentra en los cielos（天にいるポール・ヴェルレーヌ）」との比較：シルバが「viejo（老いた）」という距離のある形容詞を使うのに対し、ダリオは「Padre（父）」という親密な称号を選ぶ。「liróforo celeste（天上の竪琴持ち）」──「liróforo」はギリシャ語 *lyrophoros*（竪琴を持つ者）の造語：ヴェルレーヌを「天上（celeste）」に位置づけることで詩の最初の行から弔詩としての天上化が確立される。「instrumento olímpico（オリンポスの楽器）」と「siringa agreste（野の葦笛）」──二つの楽器の対比：崇高な竪琴（lira olimpica）と素朴な葦笛（siringa、パン神の楽器）の両極をヴェルレーヌが統合する詩人として定義する──「fêtes galantes」の洗練と「Sagesse」の素朴な祈りという二つのヴェルレーヌの両義性の音楽的定式。",
+      "targetId": "silva_reminiscencia_siglo_xviii",
+      "targetParagraphId": 6
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "¡Panida! Pan tú mismo, con coros condujiste\nhacia el propíleo sacro que amaba tu alma triste,\n¡al son del sistro y del tambor!",
+      "body": "「パニダよ！パン神そのものよ（Pan tú mismo）──あなたの悲しい魂が愛した聖なるプロピュライアへと（hacia el propíleo sacro que amaba tu alma triste）──シストルムと太鼓の音に合わせて」──詩篇がヴェルレーヌの詩的本質を「パン神（Pan）」として神話化する核心命題。「Panida（パニダ）」──「Pan」の追従者・信奉者を指す造語：ヴェルレーヌを「Panida」と呼ぶことはその詩学を異教的・牧歌的な自然の音楽として定義する。「Pan tú mismo（パン神そのもの）」──「Panida（信奉者）」から「Pan tú mismo（パン神そのもの）」への格上げ：信奉者から神そのものへの同一化。「propíleo sacro（聖なるプロピュライア）」──「プロピュライア（Propíleo）」はアテネのアクロポリスの入口門：「聖なる入口」として詩的理想の殿堂の前廊を指す──ヴェルレーヌが「悲しい魂（alma triste）」で愛した詩の聖域として。「sistro y tambor（シストルムと太鼓）」──エジプトの儀礼楽器シストルム（シスター）とパン神の太鼓が合わさる：「Canto de la sangre」§3「El salterio（詩篇琴）」・§6「Tambor a la sordina（弱音太鼓）」という血と楽器の対応がここでは神話的・典礼的楽器群として変奏される。",
+      "targetId": "dario_canto_de_la_sangre",
+      "targetParagraphId": 3
+    },
+    {
+      "paragraphId": 3,
+      "type": "prosody",
+      "anchor": "Que tu sepulcro cubra de flores Primavera,\nque se humedezca el áspero hocico de la fiera\nde amor si pasa por allí;",
+      "body": "「春があなたの墓を花で覆うように（Que tu sepulcro cubra de flores Primavera）──獣の荒々しい口先が愛で濡れるように（que se humedezca el áspero hocico de la fiera de amor）」──詩篇§3以降全体を貫く「Que...（〜となるように）」という接続法的祈願の反復構造が確立される。「responso（応答聖歌）」という典礼形式の詩的模倣：カトリックの葬礼における「responsorium（応答聖歌）」は司祭の誦句に会衆が応答する交唱形式──「Que...」という接続法祈願の反復が葬礼典礼の「〜でありますように」という祈りの韻律を模倣する。韻律構造：各セクステット（6行）が3行単位で分割されるが、ここでは3行が一つの「Que...」節として機能する──長い3行（hendecasílabo以上）と短い末行（heptasílabo）の交互が「ダンテ三行詩のスペイン的変奏」として機能する。「flores Primavera（春の花）」──「Primavera（春）」の大文字表記：季節が固有名詞的地位を得て「Primavera」自身が「sepulcro（墓）」を「花で覆う」行為の主体となる擬人化。「el áspero hocico de la fiera（獣の荒々しい口先）」──「fiera（獣）」という野蛮な存在がヴェルレーヌの墓のそばで「amor（愛）」によって「濡れる（humedezca）」という逆説──ヴェルレーヌの詩の音楽的感化力が野蛮な獣をも感動させるという詩的力の定義。"
+    },
+    {
+      "paragraphId": 4,
+      "type": "commentary",
+      "anchor": "que el fúnebre recinto visite Pan bicorne;\nque de sangrientas rosas el fresco abril te adorne\ny de claveles de rubí.",
+      "body": "「二角のパン神が葬礼の囲いを訪れるように（que el fúnebre recinto visite Pan bicorne）──血染めのバラ（sangrientas rosas）とルビーのカーネーションで」──墓を彩る花々の選択が詩篇の審美的核心を形成する。「Pan bicorne（二角のパン神）」──パン神は山羊の角を二本持つ半人半獣：「Panida」・「Pan tú mismo」から「Pan bicorne（二角のパン）」へと詩篇の中でパン神の形象が具体的・視覚的に定着する。「fúnebre recinto（葬礼の囲い）」──「recinto（囲い・領域）」という語が墓地を閉じた聖域として定義する：「fúnebre（葬礼の）」という形容と「Pan bicorne」という異教的存在が共存する聖俗混交の空間。「sangrientas rosas（血染めのバラ）」──「Canto de la sangre」§5「¡Oh sangre de las vírgenes! La lira（乙女たちの血よ！竪琴）」・「Retratos」II部「encendido clavel del sacrilegio（燃え上がる冒涜のカーネーション）」という血と花の結合との照応──ヴェルレーヌの墓を飾る「sangrientas rosas（血染めのバラ）」と「claveles de rubí（ルビーのカーネーション）」が詩篇横断的な「血の審美化」の集約として機能する。ヴェルレーヌ「Clair de lune」の「Votre âme est un paysage choisi（あなたの魂は選ばれた風景）」という「魂の審美化」が、ダリオでは「墓の審美化」として転換される。",
+      "targetId": "verlaine_clair_de_lune",
+      "targetParagraphId": 1
+    },
+    {
+      "paragraphId": 5,
+      "type": "intertextual",
+      "anchor": "Que si posarse quiere sobre la tumba el cuervo,\nahuyenten la negrura del pájaro protervo\nel dulce canto de cristal",
+      "body": "「烏が墓の上に止まりたければ（Que si posarse quiere sobre la tumba el cuervo）──不敵な鳥の暗黒を追い払うように（ahuyenten la negrura del pájaro protervo）──水晶の甘い歌が（el dulce canto de cristal）」──ポー「The Raven（大鴉）」への直接的参照。「el cuervo（烏・大鴉）」──ポー「The Raven（1845）」、マラルメ「Le Corbeau（1875）」（ポーの仏訳）という「cuervo（烏）」の文学的系譜：ダリオはヴェルレーヌへの弔詩においてポー的「烏」を召喚し、それを「水晶の甘い歌（el dulce canto de cristal）」で追い払うという「詩の音楽的力」の定式として。マラルメ「Toast funèbre（葬礼の乾杯）」のゴーティエへの弔詩との照応──マラルメがゴーティエの詩的業績を「le rite」として持続させるように、ダリオはヴェルレーヌの詩的業績を「el dulce canto de cristal（水晶の甘い歌）」という聴覚的形象として保存する。「pájaro protervo（不敵な鳥）」──「protervo（不敵な・放恣な）」という形容詞：烏の象徴する「死・不吉・暗黒」を「protervo（不敵）」という意志的な悪として定義する──詩的音楽（dulce canto）と暗黒（negrura）の対決として詩の存在理由が示される。「水晶（cristal）」──透明・清潔・純粋の素材として「フィロメラ」の歌声の透明な音質を予告する。",
+      "targetId": "mallarme_le_corbeau",
+      "targetParagraphId": 1
+    },
+    {
+      "paragraphId": 6,
+      "type": "commentary",
+      "anchor": "que Filomela vierta sobre tus tristes huesos,\no la armonía dulce de risas y de besos\nde culto oculto y florestal.",
+      "body": "「フィロメラがあなたの悲しい骨の上に注ぐように（que Filomela vierta sobre tus tristes huesos）──笑いと接吻の甘い調和（la armonía dulce de risas y de besos）──隠れた森の秘儀の（de culto oculto y florestal）」──詩篇の聴覚的・官能的中心をなす三行。「Filomela（フィロメラ）」──ギリシャ神話においてテレウスに舌を切り取られた後ナイチンゲールに変身したアテナイの王女：フィロメラ＝ナイチンゲールはその悲劇的起源ゆえに詩的悲歌の鳥として西洋文学の伝統に定着する──ヴェルレーヌの「tristes huesos（悲しい骨）」の上に「フィロメラ」が歌を「注ぐ（vierte）」という液体的動詞が、歌声が骨に染み込む官能的形象として。「tristes huesos（悲しい骨）」──「triste（悲しい）」という形容詞が「骨（huesos）」という無機的な死の素材に付与される：§2「tu alma triste（あなたの悲しい魂）」という「生前の悲しみ」が「tristes huesos（悲しい骨）」という「死後の悲しみ」へと持続する──ヴェルレーヌの本質的な「tristesse（悲しみ）」が生死を超えて持続するという弔詩的命題。「culto oculto y florestal（隠れた森の秘儀）」──「culto oculto（隠れた秘儀）」の押韻と「florestal（森の）」という形容の組み合わせ：ヴェルレーヌの詩的世界を「森の隠れた宗教的儀式」として定義する──「Fêtes galantes」の「masques et bergamasques（仮面と田舎踊り）」という「隠れた秘密の祝祭」の詩学との照応。"
+    },
+    {
+      "paragraphId": 7,
+      "type": "commentary",
+      "anchor": "Que púberes canéforas te ofrenden el acanto,\nque sobre tu sepulcro no se derrame el llanto,\nsino rocío, vino, miel:",
+      "body": "「思春期のカネフォロスたちがあなたにアカントゥスを捧げるように（Que púberes canéforas te ofrenden el acanto）──あなたの墓の上に涙が流れることなく（no se derrame el llanto）──ただ露と葡萄酒と蜜だけが（sino rocío, vino, miel）」──詩篇の典礼的核心命題。「púberes canéforas（思春期のカネフォロス）」──「カネフォロス（canéfora）」：古代ギリシャの神殿儀式で籠（κανοῦν）を頭上に運んだ若い乙女たち──「púberes（思春期の）」という形容詞が少女の官能的成熟と儀礼的純粋性の両義性を付与する。「el acanto（アカントゥス）」──アカンサス（Acanthus mollis）：ギリシャ・ローマの建築装飾に用いられる葉の文様──コリント式柱頭のアカンサス葉が古典的美の象徴として：カネフォロスがヴェルレーヌにアカンサスを捧げる行為が「古典的美の若い担い手が詩的巨匠に敬意を捧げる」という詩的継承の儀礼として機能する。「no se derrame el llanto, / sino rocío, vino, miel（涙が流れることなく──ただ露と葡萄酒と蜜が）」──「llanto（涙）」を否定し「rocío（露）・vino（葡萄酒）・miel（蜜）」という三項の自然的・儀礼的供物を置く：「涙（llanto）」という悲哀の否定が弔詩（responso）を「嘆きの詩」ではなく「讃歌・供物の詩」として定義する──「¡AL OLVIDO!（忘却へ！）」と宣言した「Retratos」のヒダルゴと同型の「悲嘆の否定による尊厳の保全」。"
+    },
+    {
+      "paragraphId": 8,
+      "type": "intertextual",
+      "anchor": "que el pámpano allí brote, las flores de Citeres,\n¡y que se escuchen vagos suspiros de mujeres\nbajo un simbólico laurel!",
+      "body": "「葡萄の若葉が芽吹き、キュテラの花々が──女たちの漠然とした溜め息が聞こえるように（vagos suspiros de mujeres）──象徴的な月桂樹の下で（bajo un simbólico laurel）」──詩篇前半の結語的三行。「las flores de Citeres（キュテラの花々）」──「Citeres（キュテラ）」：アフロディテ（ウェヌス）が生まれた島：官能と愛の花々がヴェルレーヌの墓を飾る──ヴェルレーヌ「Clair de lune」の仮装舞踏会の「l'amour vainqueur（勝利した愛）」の花として。「vagos suspiros de mujeres（女たちの漠然とした溜め息）」──「vagos（漠然とした・さまよう）」という形容詞：ダリオ「Nocturno」第1連「Quiero expresar mi angustia en versos que abolida（消え去った詩句に）」の「abolida（消え去った）」という過去の揮発性と同型の「漠然とした」感情の詩的気化。ヴェルレーヌ「Colloque sentimental（感傷的な対話）」の「deux spectres（二つの幽霊）」が「leurs lèvres mortes（死んだ唇）」で交わす会話における女性の沈黙との対比──「Colloque」では女性の「Non（いいえ）」という断絶の一語が支配するのに対して、「Responso」では「vagos suspiros de mujeres（漠然とした溜め息）」という未定形の柔らかな音として女性の存在が召喚される。「simbólico laurel（象徴的な月桂樹）」──「simbólico（象徴的）」という形容詞の自己言及：月桂樹は詩人・英雄への冠の素材として詩的栄光の象徴──「象徴的」という形容詞を付けることでダリオはこの詩的慣習を「記号（símbolo）」として意識的に引用する。",
+      "targetId": "verlaine_colloque_sentimental",
+      "targetParagraphId": 1
+    },
+    {
+      "paragraphId": 9,
+      "type": "commentary",
+      "anchor": "Que si un pastor su pífano bajo el frescor del haya,\nen amorosos días, como en Virgilio, ensaya,\ntu nombre ponga en la canción;",
+      "body": "「もし一人の羊飼いがブナの木の涼しさの下で笛を試みるなら（Que si un pastor su pífano bajo el frescor del haya）──愛の日々に、ウェルギリウスのように（como en Virgilio）──あなたの名を歌の中に置くように」──詩篇の牧歌的伝統への位置づけの核心命題。「como en Virgilio（ウェルギリウスのように）」──ウェルギリウス「牧歌（Eclogae）」：ダリオが詩篇全体で構築してきた牧歌的世界（パン・ナイアデ・サテュロス・フィロメラ・カネフォロス）の文学的源泉として「Virgilio」が明示される──この「como en Virgilio」という挿入句が詩篇全体の牧歌的様式を「ウェルギリウス的伝統の意識的な継承」として自己定義する。「pífano（小笛）」──小さな木管楽器：「instrumento olímpico（オリンポスの楽器）」・「siringa agreste（野の葦笛）」という詩篇冒頭の二楽器の対が「pífano（小笛）」という素朴な楽器として収束する──「羊飼いの小笛」でヴェルレーヌの名を歌うことが、詩的継承の最も素朴な形態として提示される。「tu nombre ponga en la canción（あなたの名を歌の中に置くように）」──ウェルギリウス「牧歌」第6歌でシレノスが「Gallo meo cantabis（ガッルスのために歌え）」と命じる詩的継承の様式の変奏として。"
+    },
+    {
+      "paragraphId": 10,
+      "type": "commentary",
+      "anchor": "y que la virgen náyade, cuando ese nombre escuche\ncon ansias y temores entre las linfas luche,\nllena de miedo y de pasión.",
+      "body": "「その名を聞くとき、乙女のナイアデが（la virgen náyade, cuando ese nombre escuche）──不安と恐れを抱いて水の流れの中でもがくように（con ansias y temores entre las linfas luche）──恐れと情熱に満ちて（llena de miedo y de pasión）」──ヴェルレーヌの名前が持つ詩的・官能的力の定義。「virgen náyade（乙女のナイアデ）」──ナイアデ（Náyade）：川・泉・小川に宿る水のニンフ：「virgen（乙女）」という純潔と「náyade（水のニンフ）」という自然的・官能的存在の合一──「El poeta pregunta por Stella」の「virgen Stella（乙女のステラ）」と同型の純潔な女性的存在。「con ansias y temores（不安と恐れを抱いて）」──ダリオ「Nocturno」第1連「Quiero expresar mi angustia（苦悩を表現したい）」の「angustia（苦悩）」・「ansias（思い焦がれ）」という詩人の実存的感情語彙がここでは「ナイアデ」に投影される。「entre las linfas luche（水の流れの中でもがく）」──「linfas（リンパ・水の流れ）」という詩的語彙：ナイアデが「ヴェルレーヌの名（ese nombre）」を聞いて水の中でもがく──詩の名前が水のニンフに官能的動揺を引き起こすという詩的力の比喩的定義。「llena de miedo y de pasión（恐れと情熱に満ちて）」──「miedo（恐れ）」と「pasión（情熱）」という対立する感情の同時性：ヴェルレーヌの詩的力が崇高恐怖（sublime）として機能する定式。"
+    },
+    {
+      "paragraphId": 11,
+      "type": "intertextual",
+      "anchor": "De noche, en la montaña, en la negra montaña\nde las Visiones, pase gigante sombra extraña,\nsombra de un Sátiro espectral;",
+      "body": "「夜に、山の上で、幻の黒い山で（en la negra montaña de las Visiones）──巨大な奇妙な影が過ぎるように──幽霊のサテュロスの影が（sombra de un Sátiro espectral）」──詩篇の調性が牧歌的・祈願的から幻視的・崇高へと転換する第6連の開幕。「la negra montaña de las Visiones（幻の黒い山）」──「montaña（山）」の二重の反復（「en la montaña, en la negra montaña」）：アナフォラ的強調が山を通常の地形から「幻視（Visiones）」の空間へと変換する──ダリオ「Nocturno」の「intermitentes espantos（断続的な恐怖）」・「ir a tientas（暗闇を手探りで）」という夜の彷徨の空間的具体化として。「sombra de un Sátiro espectral（幽霊のサテュロスの影）」──「espectral（幽霊的）」という形容詞：サテュロスが異教的神話の存在であると同時に「espectro（幽霊）」として死後の世界の存在として定義される──ヴェルレーヌの霊魂がサテュロスの形象として夜の山を徘徊するという詩的変身。リルケ「Duineser Elegien I（第一悲歌）」の「Wer, wenn ich schriee, hörte mich denn aus der Engel Ordnungen?（誰が、私が叫んでも、天使の位階から聞いてくれるのか？）」という死者・天使の境界領域への呼びかけとの照応──ダリオの「Sátiro espectral（幽霊のサテュロス）」が「montaña de las Visiones（幻の山）」を徘徊するのは、リルケ的な「死者と生者の境界」の詩的空間化として読める。",
+      "targetId": "rilke_duineser_elegien_01",
+      "targetParagraphId": 1
+    },
+    {
+      "paragraphId": 12,
+      "type": "commentary",
+      "anchor": "que ella al centauro adusto con su grandeza asuste;\nde una extrahumana flauta la melodía ajuste\na la armonía sideral.",
+      "body": "「険しいケンタウロスをその偉大さで怖れさせるように（que ella al centauro adusto con su grandeza asuste）──超人間的な笛の旋律が（de una extrahumana flauta la melodía）──天の調和に合わさるように（a la armonía sideral）」──詩篇の音楽的・宇宙的頂点をなす三行。「extrahumana flauta（超人間的な笛）」──「extrahumana（超人間的）」という形容詞：ヴェルレーヌの詩的音楽が「人間を超えた（extra-humana）」次元に属するという定義──「Padre y maestro mágico（魔術的師）」として定義された詩人の笛が「超人間的」な笛として死後も鳴り響く。リルケ「Sonette an Orpheus I, 1（オルフォイスへのソネット第1部第1番）」の「Da stieg ein Baum（一本の樹が立ち上がった）」──オルフェウスの歌が樹を立ち上がらせるように、ヴェルレーヌ＝サテュロスの「extrahumana flauta」が「centauro adusto（険しいケンタウロス）」を「怖れさせる（asuste）」──歌の超自然的力による野蛮な存在の制服という同型の構造。「armonía sideral（天の調和）」──「sideral（星の・天体の）」：ピュタゴラス的「天球の音楽（harmonia mundi）」の詩的用語──「extrahumana flauta（超人間的な笛）」が「armonía sideral（天の調和）」に「合わさる（ajuste）」ことで、ヴェルレーヌの詩が宇宙的音楽の一部として定義される。ヴェルレーヌ「Parsifal」の「Et, ô ces voix d'enfants chantant dans la coupole!（ドームの中で歌う子供たちの声よ！）」という音楽的頂点への照応。",
+      "targetId": "rilke_sonette_orpheus_1_01",
+      "targetParagraphId": 1
+    },
+    {
+      "paragraphId": 13,
+      "type": "commentary",
+      "anchor": "Y huya el tropel equino por la montaña vasta;\ntu rostro de ultratumba bañe la Luna casta\nde compasiva y blanca luz;",
+      "body": "「馬の群れが広大な山を逃げるように（Y huya el tropel equino por la montaña vasta）──あなたの死後の顔を純潔な月が（tu rostro de ultratumba bañe la Luna casta）──慈悲深い白い光で浴びせるように（de compasiva y blanca luz）」──詩篇の視覚的・月光的クライマックス。「tropel equino（馬の群れ）」──「equino（馬の）」という形容詞：ケンタウロス（半人半馬）が怖れて逃げる「馬の群れ」──神話的動物群（サテュロス・ケンタウロス・馬）が「extrahumana flauta（超人間的な笛）」の前に散り去る詩的空間の浄化として。「tu rostro de ultratumba（あなたの死後の顔）」──「ultratumba（墓の向こう・死後）」という合成語：ヴェルレーヌの「死後の顔（rostro）」という具体的な顔の形象──骨（huesos）・墓（sepulcro）という詩篇を通じた死の物質的形象の連鎖が「rostro de ultratumba（死後の顔）」として人格的・顔面的に集約される。「la Luna casta（純潔な月）」──「casta（純潔な）」という形容詞が月に付与される：「El cisne」の「blanca Helena（白いヘレネー）」・「El poeta pregunta por Stella」の「Stella（星）」という白い純粋な天体的存在の系列に「Luna casta（純潔な月）」が加わる。「de compasiva y blanca luz（慈悲深い白い光で）」──「compasiva（慈悲深い）」という形容詞：月光が「compassione（憐れみ）」を持つ擬人化された存在として詩人に向けられる──ヴェルレーヌの「tristes huesos（悲しい骨）」・「alma triste（悲しい魂）」への月光の慈悲として。"
+    },
+    {
+      "paragraphId": 14,
+      "type": "intertextual",
+      "anchor": "y el Sátiro contemple sobre un lejano monte\nuna cruz que se eleve cubriendo el horizonte\n¡y un resplandor sobre la cruz!",
+      "body": "「サテュロスが遠い山の上に眺めるように──地平線を覆って聳える十字架を（una cruz que se eleve cubriendo el horizonte）──そして十字架の上の光輝を（¡y un resplandor sobre la cruz!）」──詩篇の神学的・美的結語にして最大の逆説的和解の命題。「una cruz que se eleve cubriendo el horizonte（地平線を覆って聳える十字架）」──詩篇全体を異教的・牧歌的世界（パン・サテュロス・ナイアデ・ケンタウロス）として構築した後、最終行にキリスト教的象徴「十字架（cruz）」が「地平線を覆って（cubriendo el horizonte）」現れる：異教世界の地平線の彼方にキリスト教的救済が出現するという逆説的終幕。「¡y un resplandor sobre la cruz!（そして十字架の上の光輝を！）」──詩篇唯一の感嘆符が結語に置かれる：「resplandor（光輝）」という語がヴェイユ「Beauté（美）」章「La beauté est le regard de Dieu sur sa création（美は創造物への神の眼差し）」というキリスト教的美の神学を異教的サテュロスの「眺め（contemple）」として実現する──異教の目が聖なる光輝を目撃するという逆説。シルバ「Reminiscencia siglo XVIII」最終連「Pablo Verlaine que se encuentra en los cielos（天にいるポール・ヴェルレーヌ）」との対比：シルバがヴェルレーヌを「天（cielos）」に静的に位置づけるのに対して、ダリオは「¡y un resplandor sobre la cruz!」という動的な光輝の出現としてヴェルレーヌの昇天を演出する──スペイン語圏モデルニスモにおけるヴェルレーヌ天上化の二様式：静的安置（シルバ）対動的顕現（ダリオ）として。ヴェルレーヌ「Parsifal」最終行「Et, ô ces voix d'enfants chantant dans la coupole!」という「聖なる光」の聴覚的頂点が、ダリオの「resplandor sobre la cruz（十字架の上の光輝）」という視覚的頂点として空間化される。",
+      "targetId": "silva_reminiscencia_siglo_xviii",
+      "targetParagraphId": 6
+    }
+  ]
+}
