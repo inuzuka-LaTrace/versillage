@@ -1,0 +1,127 @@
+{
+  "id": "dario_nocturno",
+  "title": "Nocturno",
+  "author": "Rubén Darío",
+  "source": "Cantos de vida y esperanza (1905). Wikisource: https://es.wikisource.org/wiki/Nocturno_(Dar%C3%ADo)",
+  "year": "1905",
+  "firstPublication": "Cantos de vida y esperanza, los cisnes y otros poemas, Madrid, 1905",
+  "difficulty": "上級",
+  "category": "dario",
+  "originalLang": "es-ES",
+  "modernRelevance": "★★★★★",
+  "context": "ルベン・ダリオ（Rubén Darío, 1867–1916）の詩集『生命と希望の歌（Cantos de vida y esperanza, 1905）』第V番として収録。全6連×4行、soneto ampliado的な構造を持つ夜想詩。スペイン語圏モデルニスモの頂点をなす詩人が自己の実存的苦悩を「夜想曲（nocturno）」という音楽形式の枠組みの中で告白する。詩篇は冒頭「Quiero expresar mi angustia（私の苦悩を表現したい）」という詩的意志の宣言から出発し、「青春の薔薇」・「異国の船旅」・「白鳥の狼狽」という象徴群を経て、「人間の泥濘（humano cieno）という恐るべき意識」・「暗闇の中を手探りで歩く恐怖」・「死によってのみ目覚める夢（dormir de llantos）」という実存的深淵へと降下する。最終行の「Ella（彼女）」──大文字で記された──が「死」の女性的擬人化として機能し、死のみが「この涙の眠りから我々を目覚めさせる」という逆説的な「死による覚醒」の神学を提示する。シルバ・ボルハ・ノボアというエクアドルのモデルニスモ詩人群への直接的影響源として本詩篇は位置づけられ、「humano cieno（人間の泥濘）」という表現がシオラン的な「存在の根源的不浄」の先駆的言語化として読める。十字架の聖ヨハネ「暗夜」の神秘主義的夜と構造的に照応しながら、その到達点を神秘的合一ではなく「Ella（死）」による覚醒として設定する点で、ダリオは神秘主義的枠組みを世俗化・反転させる。",
+  "keywords": [
+    "nocturno",
+    "angustia",
+    "humano cieno",
+    "cisne",
+    "ir a tientas",
+    "dormir de llantos",
+    "Ella",
+    "モデルニスモ",
+    "実存的苦悩",
+    "死による覚醒"
+  ],
+  "relatedTexts": [
+    "silva_de_profundis_clamavi",
+    "borja_melancolia_madre_mia",
+    "borja_voy_a_entrar_al_olvido",
+    "noboa_hastio",
+    "noboa_morfina",
+    "juan_de_la_cruz_noche_oscura",
+    "rilke_duineser_elegien_01",
+    "hieronymus_ecclesiastes_1",
+    "hieronymus_iob_3",
+    "verlaine_chanson_dautomne"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "verses": "v.1–4",
+      "original": "Quiero expresar mi angustia en versos que abolida\ndirán mi juventud de rosas y de ensueños,\ny la desfloración amarga de mi vida\npor un vasto dolor y cuidados pequeños.",
+      "provisionalTranslation": "私は自分の苦悩を詩句の中に表現したい──消え去った\n薔薇と夢想の私の青春を語るであろう詩句に──\nそして私の命の苦い花摘み取りを\n一つの広大な苦痛と小さな煩いによる。"
+    },
+    {
+      "id": 2,
+      "verses": "v.5–8",
+      "original": "Y el viaje de un vago Oriente por entrevistos barcos,\ny el grano de oraciones que floreció en blasfemia,\ny los azoramientos del cisne entre los charcos\ny el falso azul nocturno de inquerida bohemia.",
+      "provisionalTranslation": "そして垣間見た船々による漠然とした東方への旅と、\n冒涜へと花開いた祈りの粒と、\n水溜まりの中の白鳥の狼狽と\n求められることのなかったボヘミアの偽りの夜の青。"
+    },
+    {
+      "id": 3,
+      "verses": "v.9–12",
+      "original": "Lejano clavicordio que en silencio y olvido\nno diste nunca al sueño la sublime sonata,\nhuérfano esquife, árbol insigne, oscuro nido\nque suavizó la noche de dulzura de plata...",
+      "provisionalTranslation": "遠いクラヴィコードよ、沈黙と忘却の中で\n夢に崇高なソナタを決して与えなかった、\n孤児の小舟、名高い樹、暗い巣──\n銀の甘さで夜を和らげた……"
+    },
+    {
+      "id": 4,
+      "verses": "v.13–16",
+      "original": "Esperanza olorosa a hierbas frescas, trino\ndel ruiseñor primaveral y matinal,\nazucena tronchada por un fatal destino,\nrebusca de la dicha, persecución del mal...",
+      "provisionalTranslation": "新鮮な草の香りのする希望、さえずり\n春の朝の夜鷗の、\n宿命的な運命によって折られた百合、\n幸福の探索、悪の追跡……"
+    },
+    {
+      "id": 5,
+      "verses": "v.17–20",
+      "original": "El ánfora funesta del divino veneno\nque ha de hacer por la vida la tortura interior,\nla conciencia espantable de nuestro humano cieno\ny el horror de sentirse pasajero, el horror",
+      "provisionalTranslation": "神の毒の不吉な壺──\nそれは生を通じて内的拷問を執行するはずのもの──\n我々の人間的泥濘の恐るべき意識\nそして自分が束の間の存在であると感じることの恐怖、その恐怖"
+    },
+    {
+      "id": 6,
+      "verses": "v.21–24",
+      "original": "de ir a tientas, en intermitentes espantos,\nhacia lo inevitable, desconocido y la\npesadilla brutal de este dormir de llantos\nde la cual no hay más que Ella que nos despertará!",
+      "provisionalTranslation": "暗闇を手探りで、断続的な恐怖の中を、\n避けられないもの、未知のものへと向かって進むことの、\nそしてこの涙の眠りの残酷な悪夢の──\nそこから目覚めさせてくれるのはただ彼女だけだ！"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "Quiero expresar mi angustia en versos que abolida\ndirán mi juventud de rosas y de ensueños,",
+      "body": "「私の苦悩を詩句に表現したい（Quiero expresar mi angustia en versos）──消え去った（abolida）薔薇と夢想の青春を語る詩句に」──詩篇の開幕が詩的意志の宣言（Quiero）として設定される：「苦悩（angustia）」を「詩句（versos）」に変換するという行為そのものが詩の主題となる。「abolida（消え去った・廃棄された）」という過去分詞が「versos（詩句）」ではなく「juventud（青春）」にかかる倒置構造──「青春を語るであろう消え去った詩句」ではなく「消え去った青春を語るであろう詩句」として読む：スペイン語の格形容詞の語順倒置が意味論的両義性を生む。「juventud de rosas y de ensueños（薔薇と夢想の青春）」──ダリオのモデルニスモ詩学における「薔薇（rosa）」の象徴的位置：マラルメ「Apparition」の「couronnes de roses（薔薇の冠）」・ボードレール「La Vie antérieure（前世）」の黄金時代の記憶と同型の「失われた楽園」の形象。「la desfloración amarga de mi vida（私の命の苦い花摘み取り）」──「desfloración（花剥奪・処女喪失）」という官能的・存在論的二重の意味を持つ語：命が花として持っていた純粋性が「vasto dolor（広大な苦痛）」と「cuidados pequeños（小さな煩い）」によって剥奪される──「広大な苦痛」と「小さな煩い」の対比が存在を腐食する二種の力として提示される。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "y el grano de oraciones que floreció en blasfemia,\ny los azoramientos del cisne entre los charcos",
+      "body": "「祈りの粒が冒涜へと花開いた（el grano de oraciones que floreció en blasfemia）──水溜まりの中の白鳥の狼狽（los azoramientos del cisne entre los charcos）」──詩篇の霊的・審美的転落の二重形象。「el grano de oraciones que floreció en blasfemia（冒涜へと花開いた祈りの粒）」──信仰（oración）が帰結として冒涜（blasfemia）へと「開花（floreció）」する逆説的成長：種が育って花を咲かせるように、祈りが育って冒涜になる──この「逆転した開花」が詩人の霊的歴史の核心を一行で要約する。「los azoramientos del cisne entre los charcos（水溜まりの中の白鳥の狼狽）」──「cisne（白鳥）」はダリオにとってモデルニスモの美学的象徴そのもの（詩集「Los cisnes, 1905」）：その白鳥が「charcos（水溜まり）」という俗悪・卑小な環境に置かれ「azoramiento（狼狽・困惑）」を示す──詩人・詩的理想の美が日常の汚泥に曝される存在論的困惑として。「el falso azul nocturno de inquerida bohemia（求められることのなかったボヘミアの偽りの夜の青）」──「falso azul（偽りの青）」：青がダリオのモデルニスモにおける超越・純粋・理想の色彩である（詩集「Azul, 1888」）のに対して、「falso（偽りの）」という形容が青の理想性を否定する。「inquerida（求められることのなかった）」──誰にも望まれなかった漂白の場としてのボヘミア。"
+    },
+    {
+      "paragraphId": 3,
+      "type": "intertextual",
+      "anchor": "Lejano clavicordio que en silencio y olvido\nno diste nunca al sueño la sublime sonata,",
+      "body": "「遠いクラヴィコードよ、沈黙と忘却の中で夢に崇高なソナタを決して与えなかった」──「lejano clavicordio（遠いクラヴィコード）」という呼格が、詩篇において突然現れる音楽的・記憶的対象への呼びかけとして機能する。「en silencio y olvido（沈黙と忘却の中で）」──シルバ「Reminiscencia siglo XVIII」第3連「sombra azul en los kioskos galantes（雅なキオスクの青い影）」という18世紀の音楽的記憶との照応：シルバが18世紀ロココの音楽を「現在においてもさまよう香り」として詩的に保存するのに対して、ダリオのクラヴィコードは「沈黙と忘却の中で」ソナタを「決して与えなかった（no diste nunca）」──与えられなかった音楽、達成されなかった崇高さとして。「huérfano esquife（孤児の小舟）」──「huérfano（孤児の）」という形容が小舟・樹・巣という三つの孤立した事物に付与される：孤立した美的対象の群像として機能する。「que suavizó la noche de dulzura de plata（銀の甘さで夜を和らげた）」──三点リーダー（...）による余韻：「銀の甘さ」という触覚的・視覚的複合形象が「夜」の質感として定着される。ボルハ「Melancolía, madre mía」第4連「La melodía pasó（旋律は過ぎ去った）」との照応──ダリオの「与えられなかったソナタ」とボルハの「過ぎ去った旋律」は同一の「音楽的喪失」を詩人的後継関係の中で共有する。",
+      "targetId": "borja_melancolia_madre_mia",
+      "targetParagraphId": 4
+    },
+    {
+      "paragraphId": 4,
+      "type": "commentary",
+      "anchor": "azucena tronchada por un fatal destino,\nrebusca de la dicha, persecución del mal...",
+      "body": "「宿命的な運命によって折られた百合（azucena tronchada por un fatal destino）──幸福の探索（rebusca de la dicha）、悪の追跡（persecución del mal）」──詩篇前半の審美的・霊的遍歴の総括連。「azucena（百合）」──百合は聖母マリアの純潔・霊的清潔の象徴（十字架の聖ヨハネ「Noche oscura」最終連「entre las azucenas olvidado（百合の花々の中に忘れ去って）」）：ヨハネにおいて百合は神との合一の後の至福の忘却の場であるのに対して、ダリオにおいて百合は「fatal destino（宿命的な運命）」によって「tronchada（折られた）」──霊的純潔の破壊として。「Esperanza olorosa a hierbas frescas（新鮮な草の香りのする希望）」──嗅覚的な希望の形象：「hierbas frescas（新鮮な草）」の「olorosa（香りのする）」という感覚的特質が希望に付与される──具体的・身体的な「生の希望」がシルバ「Reminiscencia siglo XVIII」第1連の「Vaga el olor（香りがさまよう）」と同型の嗅覚的詩学として機能する。「rebusca de la dicha, persecución del mal（幸福の探索、悪の追跡）」──「rebusca（拾い集め・探索）」という語が残りものを拾う行為を含意する：幸福はすでに一度収穫された後の「残りもの（rebusca）」として追求される──失われた豊穣の後の絶望的な拾い集めとして。「persecución del mal（悪の追跡）」という逆説：主語は「悪に追跡されている」のか「悪を追跡している」のかが意図的に曖昧に設定される。三点リーダー（...）による未完結：第4連は終止符なく開かれたまま第5連の内省へと接続される。",
+      "targetId": "juan_de_la_cruz_noche_oscura",
+      "targetParagraphId": 8
+    },
+    {
+      "paragraphId": 5,
+      "type": "commentary",
+      "anchor": "El ánfora funesta del divino veneno\nque ha de hacer por la vida la tortura interior,\nla conciencia espantable de nuestro humano cieno\ny el horror de sentirse pasajero, el horror",
+      "body": "「神の毒の不吉な壺（El ánfora funesta del divino veneno）──我々の人間的泥濘の恐るべき意識（la conciencia espantable de nuestro humano cieno）──自分が束の間の存在であると感じることの恐怖（el horror de sentirse pasajero）、その恐怖」──詩篇の実存的深淵、内省の極致をなす連。「El ánfora funesta del divino veneno（神の毒の不吉な壺）」──「divino veneno（神の毒）」という矛盾語法：神聖なるものが毒として機能するという倒錯した神学──意識（conciencia）そのものが神から与えられた毒として定義される。シオランは後年「意識とは人間に与えられた病（La conscience est la maladie de l'homme）」という表現で同型の命題を定式化する：ダリオの「神の毒」はシオランの「意識という病」の詩的先駆として読める。「la conciencia espantable de nuestro humano cieno（我々の人間的泥濘の恐るべき意識）」──「humano cieno（人間的泥濘）」：ラテン語 *lutum / caenum*（泥・泥濘）の伝統的な人間の堕落・卑賤性の神学的形象──創世記2:7「de limo terrae（地の塵から）」の「limo（泥）」の詩的変奏として、人間の存在が「泥（cieno）」という根源的不浄から形成されているという人間学的認識。「nuestro（我々の）」という一人称複数形の使用──ボルハ「Melancolía, madre mía」第5連「¿Y la mujer a quien quisimos?（私たちが愛した女は？）」の「quisimos」と同型の複数形：詩人個人の苦悩が人類普遍の実存的条件として普遍化される。「y el horror de sentirse pasajero, el horror」──同一語「horror」の行末反復：反復が感情の途絶・絶句として機能し、第6連冒頭への統語的な「ぶら下がり（enjambement）」として機能する──詩篇唯一の連跨ぎ統語構造。"
+    },
+    {
+      "paragraphId": 5,
+      "type": "intertextual",
+      "anchor": "la conciencia espantable de nuestro humano cieno",
+      "body": "「我々の人間的泥濘の恐るべき意識」──十字架の聖ヨハネ「Noche oscura」第3連「sin otra luz y guía / sino la que en el corazón ardía（他の光も道標もなく、ただ心の中で燃えていたものだけを頼りに）」との対照的照応：ヨハネにおいて意識（luz interior）は神への誘導の光として肯定的に機能するのに対して、ダリオにおける「意識（conciencia）」は「humano cieno（人間的泥濘）」に気づかせる「espantable（恐るべき）」認識として機能する──同一の内的光が、一方では上昇へ、他方では深淵への洞察へと機能する逆転。ヨブ記第3章v.20–23「Quare datur misero lux（なぜ不幸な者に光が与えられるのか）」というヨブの意識の苦しみとの照応──「光（意識）」が祝福ではなく苦悩の源泉となる構造。",
+      "targetId": "juan_de_la_cruz_noche_oscura",
+      "targetParagraphId": 3
+    },
+    {
+      "paragraphId": 6,
+      "type": "commentary",
+      "anchor": "de ir a tientas, en intermitentes espantos,\nhacia lo inevitable, desconocido y la\npesadilla brutal de este dormir de llantos\nde la cual no hay más que Ella que nos despertará!",
+      "body": "「暗闇を手探りで（a tientas）、断続的な恐怖の中を、避けられないもの・未知のものへと向かって──この涙の眠りの残酷な悪夢──そこから目覚めさせてくれるのはただ彼女（Ella）だけ」──詩篇の神学的・存在論的頂点にして「死による覚醒」の逆説的宣言。「ir a tientas（手探りで進む）」──十字架の聖ヨハネ「Noche oscura」第2連「A oscuras y segura（暗闇の中で、しかし確かに）」との根本的な対比：ヨハネにおいて暗闇の中の歩みは「segura（確かな）」──信仰の光が内側にある──のに対して、ダリオの暗闇の歩みは「a tientas（手探り）」という不確かさであり「espantos（恐怖）」を伴う──同一の「暗い夜の旅」が神秘主義的確信を失った実存的彷徨として変容される。「hacia lo inevitable, desconocido（避けられないもの・未知のものへ）」──リルケ「第一悲歌（Duineser Elegien I）」の「das Schöne ist nichts / als des Schrecklichen Anfang（美とは恐ろしさの始まりに過ぎない）」という美と恐怖の同一性との照応：ダリオの「inevitable, desconocido（避けられないもの・未知のもの）」が「恐ろしさ（Schreckliche）」として定義される「必然的な未知」として構造的に対応する──どちらも人間が耐え忍ぶことのできる存在の限界への接近として。「Ella（彼女）」──大文字の女性代名詞による「死」の擬人化：詩篇全体を「angustia（苦悩）の告白」として設定した詩人が、唯一の解放者として「死」を「彼女（Ella）」と呼ぶ。ボルハ「Melancolía, madre mía」の「en tu regazo he de dormir（あなたの懐で眠らなければならない）」という「憂愁の懐での眠り」と対応する──ダリオの「Ella（死）」による覚醒とボルハの「Melancolía（憂愁）」という母への帰還は、死への欲動を「覚醒」と「眠り」という相反する形象で詩的に実現したモデルニスモ詩学の双極として機能する。「no hay más que Ella que nos despertará（ただ彼女だけが目覚めさせてくれる）」──「dormir de llantos（涙の眠り）」という現世の定義：この世界が「涙の眠り」・「悪夢（pesadilla brutal）」であるとすれば、「死（Ella）」は覚醒・目醒めとして機能する──ヨハネ黙示録21:4「et mors ultra non erit（死はもはやない）」という「死の廃棄による覚醒」の反転的論理として。感嘆符（!）による終止──詩篇唯一の感嘆符が最終行に置かれる：絶望の極限における逆説的な確信の表明として。",
+      "targetId": "rilke_duineser_elegien_01",
+      "targetParagraphId": 1
+    }
+  ]
+}
