@@ -1,0 +1,82 @@
+{
+  "id": "borja_memento_musical",
+  "title": "Memento musical",
+  "author": "Arturo Borja",
+  "source": "La flauta de ónix (1920, 死後出版). Wikisource: https://es.wikisource.org/wiki/Memento_musical",
+  "year": "1920",
+  "firstPublication": "La flauta de ónix, Quito, 1920（死後出版）",
+  "difficulty": "中級",
+  "category": "borja",
+  "originalLang": "es-ES",
+  "modernRelevance": "★★★★",
+  "context": "アルトゥーロ・ボルハ（Arturo Borja, 1892–1912）の遺詩集『オニキスの笛（La flauta de ónix）』所収。全9行の小詩篇。「Memento musical（音楽の記念・形見）」というタイトルはカトリック典礼の「Memento（記念・追念）」とショパンの音楽の「記憶（recuerdo）」を結合する：ピアノの即興演奏の瞬間的記憶を典礼的な「追念（memento）」として永続化する詩的行為。詩の視覚的形式が特徴的で、「Tu mano（あなたの手）」・「el teclado...（鍵盤）」・「Tu frente（あなたの額）」という短行が長行の間に挿入される視覚的断片化が、ショパンの音楽の「間（ma）」や「息継ぎ」を詩的形式において実現する。音楽（ショパン）→身体（手・額・髪）→空間的感覚（香り・月・圧迫感）という三段階の推移が詩篇全体の構造を形成する。「sensaciones de paz y eucaristía（平和と聖体の感覚）」という命題が、音楽体験を宗教的・神秘主義的な「聖体拝領（eucaristía）」と同質のものとして定義する──ヴェルレーヌ「詩法（Art poétique）」の「音楽、何よりもまず音楽を（De la musique avant toute chose）」という詩学的命題の象徴主義的実践。",
+  "keywords": [
+    "Chopín",
+    "ショパン",
+    "eucaristía",
+    "aúrea lluvia",
+    "ambiente anémico",
+    "aroma nostálgico de luna",
+    "memento",
+    "音楽と詩",
+    "感覚的断片",
+    "モデルニスモと音楽"
+  ],
+  "relatedTexts": [
+    "borja_primavera_mistica_y_lunar",
+    "borja_voy_a_entrar_al_olvido",
+    "borja_vision_lejana",
+    "verlaine_clair_de_lune",
+    "verlaine_chanson_dautomne",
+    "silva_poema_de_la_carne",
+    "baudelaire_correspondances",
+    "baudelaire_harmonie_du_soir",
+    "weil_pesanteur_beaute"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "verses": "v.1–4",
+      "original": "Sollozaba Chopín en el piano...\nTu mano\nacariciaba melodiosamente\nel teclado...",
+      "provisionalTranslation": "ショパンがピアノの中で嗚咽していた……\nあなたの手が\n旋律的に\n鍵盤を愛撫していた……"
+    },
+    {
+      "id": 2,
+      "verses": "v.5–7",
+      "original": "Tu frente\nbajo la aúrea lluvia de tus cabellos daba\nsensaciones de paz y eucaristía...",
+      "provisionalTranslation": "あなたの額が\nあなたの髪の黄金の雨の下で与えていた──\n平和と聖体の感覚を……"
+    },
+    {
+      "id": 3,
+      "verses": "v.8–9",
+      "original": "Por el ambiente anémico flotaba\nun aroma nostálgico de luna que oprimía...",
+      "provisionalTranslation": "貧血的な空気の中を漂っていた──\n圧迫する月の懐かしい香りが……"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "Sollozaba Chopín en el piano...\nTu mano\nacariciaba melodiosamente\nel teclado...",
+      "body": "「ショパンがピアノの中で嗚咽していた（Sollozaba Chopín en el piano）──あなたの手が旋律的に鍵盤を愛撫していた（acariciaba melodiosamente / el teclado）」──詩篇の開幕が「ショパン（Chopín）」という固有名詞によって即座に音楽的・歴史的な参照軸を設定する。「Sollozaba（嗚咽していた）」という動詞──「sollozo（嗚咽・すすり泣き）」から派生した半過去形が「継続する過去の嗚咽」を示す：ショパンの音楽そのものが「泣いている（llorando）」のではなく「嗚咽している（sollozando）」──より内的・身体的な苦悩の発声として定義される。ショパン（Fryderyk Chopin, 1810–1849）──モデルニスモ詩人にとって「ピアノの詩人」として崇拝された作曲家：「Nocturnes（夜想曲）」・「Préludes（前奏曲）」が持つ「夜・憂愁・繊細さ」の美学がモデルニスモ詩学と親和的。ヴェルレーヌ「詩法（Art poétique）」「De la musique avant toute chose（音楽、何よりもまず音楽を）」──詩を音楽的感覚に近づけるという象徴主義的詩学の実践として、「Sollozaba Chopín」というショパンの嗚咽が詩的感覚の原点として置かれる。「acariciaba（愛撫していた）」という動詞──鍵盤への「愛撫（caricia）」という触覚的語彙が音楽演奏に付与される：「Aria galante」§1「de las crueles caricias（残酷な愛撫）」との照応──愛撫が「音楽的・官能的」な二義語としてボルハ詩篇を貫く。「Tu mano / ……/ el teclado...」という視覚的短行分割──「Tu mano（あなたの手）」と「el teclado（鍵盤）」の間に「acariciaba melodiosamente（旋律的に愛撫していた）」が挟まれる視覚的構造が、手と鍵盤の「接触の瞬間」を詩行の空白として演出する。",
+      "targetId": "verlaine_chanson_dautomne",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "Tu frente\nbajo la aúrea lluvia de tus cabellos daba\nsensaciones de paz y eucaristía...",
+      "body": "「あなたの額が（Tu frente）──あなたの髪の黄金の雨の下で（bajo la aúrea lluvia de tus cabellos）──平和と聖体の感覚を与えていた（daba / sensaciones de paz y eucaristía）」──詩篇の詩学的・神学的核心命題。「aúrea lluvia de tus cabellos（髪の黄金の雨）」──「áureo（黄金の）」というラテン語形容詞が「髪（cabellos）」を「黄金の雨（lluvia de oro）」として神話的に定義する：ギリシャ神話でゼウスがダナエに「黄金の雨（lluvia de oro）」として降り注ぐというメタモルフォーシス的形象──女性の髪が神話的な変容の媒体として提示される。マラルメ「出現（Apparition）」の「Jonchant le sol, un ange épars répandait l'odeur / des jours（散り敷いた天使が日々の香りを広げていた）」における「黄金色の天使的存在」との照応：「aúrea lluvia de cabellos（髪の黄金の雨）」が「天使的な金色の光」として機能する。「sensaciones de paz y eucaristía（平和と聖体の感覚）」──詩篇全体の神学的頂点。「eucaristía（聖体・エウカリスト）」という典礼神学的語彙が「paz（平和）」と等置される：音楽演奏という審美的体験が「聖体拝領（Eucharistie）」と同質の宗教的充足として定義される。「Silva」§4「¡Hostia, carne de Dios para la cena mística（ホスティアよ、神秘の晩餐のための神の肉よ）」との照応──「eucaristía」という語がシルバ「Poema de la carne」の「聖体（Hostia）」と同一の典礼的文脈で機能する。「Borja_primavera_mistica_y_lunar」§1「San tuario（聖堂）」・§6「llaga divina（神聖な傷口）」という「神聖さ」の系列がここでは「eucaristía（聖体）」として最も明示的な典礼語彙として登場する。",
+      "targetId": "silva_poema_de_la_carne",
+      "targetParagraphId": 4
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "Por el ambiente anémico flotaba\nun aroma nostálgico de luna que oprimía...",
+      "body": "「貧血的な空気の中を漂っていた（Por el ambiente anémico flotaba）──圧迫する月の懐かしい香り（un aroma nostálgico de luna que oprimía）」──詩篇の終結命題にして最も感覚的・共感覚的な二行。「ambiente anémico（貧血的な空気）」──「anémico（貧血的な・血の気のない）」という医学的形容詞が「ambiente（空気・雰囲気）」という空間的語彙に付与される：「貧血的な空気」という共感覚的造語が「酸素の薄い・生命力の希薄な」室内空間を身体的に定義する。「Ego Sum」§1「nervios de neurótico（神経症者の神経）」・「Hastío」§1「sentirse envenenado（毒されたと感じること）」という病的感覚の語彙とノボアとの共有──ボルハとノボアの詩篇を貫く「病的な感受性」の定式語として「anémico」が機能する。「aroma nostálgico de luna（月の懐かしい香り）」──「nostálgico（懐かしい・ノスタルジックな）」という形容が「月（luna）の香り」に付与される：月には実際の香りはなく、「月の香り」とは「夜の空気・冷気・湿気」の詩的統合として機能する──「Primavera mística y lunar」§6「¡Oh luna diamantina, / cúbreme!（ダイヤモンドの月よ、私を覆ってくれ）」という月のモチーフがここでは「懐かしい香り」として嗅覚化される。「que oprimía（圧迫する）」──「oprimir（圧迫する・重く圧しかかる）」という動詞が「香り」に付与される：香りが「軽さ・揮発性」ではなく「圧迫・重さ」として定義される逆説──ヴェイユ「重力と恩寵（Pesanteur et Grâce）」の「pesanteur（重力）」が「香りの圧迫」として詩的に具体化される形象として読める。ボードレール「夕べの調和（Harmonie du soir）」の「Les sons et les parfums tournent dans l'air du soir（音と香りが夕べの空気の中を旋回する）」──音楽的感覚と嗅覚的感覚の共感覚的融合がボードレールの「万物照応（Correspondances）」の詩学として照応する：「Sollozaba Chopín（ショパンの嗚咽）」という聴覚と「aroma nostálgico（懐かしい香り）」という嗅覚の詩篇内共感覚的連結。",
+      "targetId": "baudelaire_harmonie_du_soir",
+      "targetParagraphId": null
+    }
+  ]
+}
