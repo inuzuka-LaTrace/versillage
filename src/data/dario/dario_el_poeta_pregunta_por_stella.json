@@ -1,0 +1,93 @@
+{
+  "id": "dario_el_poeta_pregunta_por_stella",
+  "title": "El poeta pregunta por Stella",
+  "author": "Rubén Darío",
+  "source": "Prosas profanas y otros poemas (1896/1901). Wikisource: https://es.wikisource.org/wiki/El_poeta_pregunta_por_Stella",
+  "year": "1896",
+  "firstPublication": "Prosas profanas y otros poemas, Buenos Aires, 1896",
+  "difficulty": "中級",
+  "category": "dario",
+  "originalLang": "es-ES",
+  "modernRelevance": "★★★★",
+  "context": "ルベン・ダリオ（Rubén Darío, 1867–1916）の詩集『俗なる散文（Prosas profanas y otros poemas, 1896）』所収。全4連、不均等行数（4・4・4・6行）による「百合への呼びかけ（apóstrofe al lirio）」の構造を持つ詩篇。詩人は「神聖な百合（Lirio divino）」に向かって「私のステラの魂の飛翔を見たか？」と問いかける──問いは詩篇末尾の一行に凝縮され、それまでの3連と半連はすべて百合の純粋性・神聖性を讃える長大な呼格の準備として機能する。「Stella（ステラ）」──ラテン語「星」：現実の女性への言及とも純粋な詩的理想像とも読める固有名。最終行の「Ligeia（リジェイア）の姉妹」という規定がポー「Ligeia（1838）」の死せる美女を召喚する：ポーの「Ligeia」は圧倒的な知性と意志の力を持ちながら死んだ女性であり、その霊魂が後妻ロウィーナの身体に乗り移るという怪奇小説──Stellaを「Ligeiaの姉妹（hermana de Ligeia）」と呼ぶことで詩人は愛する者の死・霊魂・再来という主題を一語で喚起する。ダンテ・ガブリエル・ロセッティの「Beata Beatrix」・「La Pia de' Tolomei」等における死せる女性の霊的光輝との直接的照応がここに成立する。百合の象徴体系──「受胎告知（Anunciaciones）」・「潔白な真珠（cándidas perlas）」・「汚れなき亜麻布（lino sin mácula）」・「聖体拝領のパン（hostias sublimes）」──がすべてカトリック的純潔の記号連鎖として機能し、Stellaの霊魂をこの純潔の極点に位置づける。",
+  "keywords": [
+    "lirio",
+    "Stella",
+    "Ligeia",
+    "alma",
+    "pureza",
+    "ícor",
+    "hostias sublimes",
+    "apóstrofe",
+    "muerte y alma",
+    "モデルニスモ"
+  ],
+  "relatedTexts": [
+    "dario_nocturno",
+    "dario_retratos",
+    "poe_ulalume",
+    "poe_annabel_lee",
+    "poe_to_helen",
+    "d_g_rossetti_lilith",
+    "d_g_rossetti_day_dream",
+    "rossetti_vanity_of_vanities",
+    "verlaine_clair_de_lune",
+    "mallarme_apparition"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "verses": "v.1–4",
+      "original": "Lirio divino, lirio de las Anunciaciones,\nLirio, florido príncipe,\nHermano perfumado de las estrellas castas,\nJoya de los abriles.",
+      "provisionalTranslation": "神聖なる百合よ、告知の百合よ、\n百合、花咲く王子よ、\n純潔な星々の香り高い兄弟よ、\n四月たちの宝石よ。"
+    },
+    {
+      "id": 2,
+      "verses": "v.5–8",
+      "original": "A ti las blancas dianas de los parques ducales,\nLos cuellos de los cisnes,\nLas místicas estrofas de cánticos celestes\nY en el sagrado empíreo la mano de las vírgenes.",
+      "provisionalTranslation": "あなたのもとへ、公爵の公園の白いダイアナたちと、\n白鳥たちの首と、\n天上の聖歌の神秘的な詩連と、\n聖なる天空における乙女たちの手が。"
+    },
+    {
+      "id": 3,
+      "verses": "v.9–12",
+      "original": "Lirio, boca de nieve donde sus dulces labios\nLa primavera imprime,\nEn tus venas no corre la sangre de las rosas pecadoras,\nSino el ícor excelso de las flores insignes.",
+      "provisionalTranslation": "百合よ、雪の口よ──そこに春が\nその甘い唇を刻み込む──\nあなたの血管には罪深い薔薇の血は流れず、\nただ優れた花々の崇高なイコールのみが。"
+    },
+    {
+      "id": 4,
+      "verses": "v.13–18",
+      "original": "Lirio real y lírico\nQue naces con la albura de las hostias sublimes\nDe las cándidas perlas\nY del lino sin mácula de las sobrepellices,\n¿Has visto acaso el vuelo del alma de mi Stella,\nLa hermana de Ligeia, por quien mi canto a veces es tan triste?",
+      "provisionalTranslation": "王者にして叙情的な百合よ、\n崇高な聖体の白さと共に生まれ、\n潔白な真珠と、\n白衣の汚れなき亜麻布と共に生まれた百合よ──\nあなたはおそらく私のステラの魂の飛翔を見たか？\nリジェイアの姉妹、そのゆえに私の歌がときに深く悲しいあの者の。"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "Lirio divino, lirio de las Anunciaciones,\nLirio, florido príncipe,\nHermano perfumado de las estrellas castas,",
+      "body": "「神聖なる百合（Lirio divino）──告知の百合（lirio de las Anunciaciones）──花咲く王子（florido príncipe）──純潔な星々の香り高い兄弟（Hermano perfumado de las estrellas castas）」──詩篇の開幕が「百合への呼格（apóstrofe）」の連鎖として設定される。「lirio de las Anunciaciones（告知の百合）」──「受胎告知（Anunciación）」の図像学において、大天使ガブリエルが聖母マリアに捧げる白い百合は純潔・無原罪懐胎の象徴：「告知の百合」という規定が百合をカトリック的純潔の記号連鎖の頂点に位置づける。「florido príncipe（花咲く王子）」──百合の擬人化：「príncipe（王子）」という称号が百合に貴族的な地位と能動的な人格を付与する。「Hermano perfumado de las estrellas castas（純潔な星々の香り高い兄弟）」──「estrellas castas（純潔な星々）」という形容詞「castas（純潔な）」が星に付与される：「Stella（ステラ）」がラテン語で「星」を意味することで、百合と星とStellaの三者が「純潔な香り（perfumado）」によって連結される詩的ネットワークを形成する。マラルメ「Apparition（幻影）」の「couronnes de roses（薔薇の冠）」という純粋な美的対象への呼格と同型の詩篇開幕様式として機能する。「Joya de los abriles（四月たちの宝石よ）」──「abriles（四月たちの複数形）」という複数形：単一の四月ではなく「すべての四月」の総体が百合の背景として召喚される──春の普遍的・超時間的属性としての百合。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "intertextual",
+      "anchor": "A ti las blancas dianas de los parques ducales,\nLos cuellos de los cisnes,\nLas místicas estrofas de cánticos celestes\nY en el sagrado empíreo la mano de las vírgenes.",
+      "body": "「公爵の公園の白いダイアナたち（blancas dianas de los parques ducales）──白鳥たちの首（Los cuellos de los cisnes）──天空における乙女たちの手（la mano de las vírgenes）」──百合へと捧げられる白い存在群の列挙。「blancas dianas de los parques ducales（公爵の公園の白いダイアナたち）」──「Diana（ダイアナ）」：ローマ神話の狩猟・月・純潔の女神。シルバ「Reminiscencia siglo XVIII」第2連「Trianón y la Arcadia（トリアノンとアルカディア）」・「marquesas pastoras（侯爵夫人たちの牧人）」という18世紀宮廷的田園との照応──「parques ducales（公爵の公園）」という貴族的空間にダイアナ像が置かれる構造がシルバのトリアノン的審美空間と共鳴する。「Los cuellos de los cisnes（白鳥たちの首）」──「cisne（白鳥）」はダリオのモデルニスモの審美的象徴（「Retratos」第2連「azoramientos del cisne」、詩集「Los cisnes」）：ここでは「首（cuello）」という身体的部位の白さが百合の白さと照応する。「Las místicas estrofas de cánticos celestes（天上の聖歌の神秘的な詩連）」──詩（estrofas）と音楽（cánticos）の合体：「místicas（神秘的）」という形容詞が詩篇に霊的次元を付与する。ダンテ・ガブリエル・ロセッティ「Beata Beatrix」のベアトリーチェが「sagrado empíreo（聖なる天空）」において天使から白いポピーを受け取る図像──ロセッティの「天空の乙女（La Damigella Bienaventurada）」の「mano（手）」のモティーフとの照応：「la mano de las vírgenes（乙女たちの手）」が死後の天上的存在としての女性の手の形象として共鳴する。",
+      "targetId": "d_g_rossetti_day_dream",
+      "targetParagraphId": 1
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "En tus venas no corre la sangre de las rosas pecadoras,\nSino el ícor excelso de las flores insignes.",
+      "body": "「あなたの血管には罪深い薔薇の血は流れず（En tus venas no corre la sangre de las rosas pecadoras）──ただ優れた花々の崇高なイコールのみが（Sino el ícor excelso de las flores insignes）」──詩篇の色彩論的・神学的中心命題。「sangre de las rosas pecadoras（罪深い薔薇の血）」──「rosas pecadoras（罪深い薔薇）」：薔薇は官能・情熱・エロスの象徴として「pecadoras（罪深い）」と定義される：薔薇の赤い色が「sangre（血）」として定義され、百合の白さとの絶対的対比を形成する。「ícor excelso（崇高なイコール）」──「ícor（イコール）」はギリシャ語 *ἰχώρ*：オリンポスの神々の血管に流れる神的な体液で、人間の血（αἷμα）とは異なる──百合の血管に人間的・官能的な「sangre（血）」ではなく神的な「ícor（イコール）」が流れるとすることで、百合（＝Stella）の超人間的・神的純粋性が確立される。「Lirio, boca de nieve donde sus dulces labios / La primavera imprime（百合よ、雪の口よ──そこに春がその甘い唇を刻み込む）」──「boca de nieve（雪の口）」という触覚・温度的形象：雪の白さと冷たさが口として擬人化され、「春（primavera）」がその口に「唇を刻み込む（imprime）」──花と季節の接吻として。ポー「To Helen（ヘレネへ）」の「hyacinth hair（ヒアシンスの髪）」・「classic face（古典的な顔）」という神話的女性美の定式との照応──ポーが神話的形象によって女性の美を超人間的領域に置くのと同型の詩的操作として。"
+    },
+    {
+      "paragraphId": 4,
+      "type": "intertextual",
+      "anchor": "¿Has visto acaso el vuelo del alma de mi Stella,\nLa hermana de Ligeia, por quien mi canto a veces es tan triste?",
+      "body": "「あなたはおそらく私のステラの魂の飛翔を見たか（¿Has visto acaso el vuelo del alma de mi Stella）──リジェイアの姉妹（La hermana de Ligeia）──そのゆえに私の歌がときに深く悲しい」──詩篇の問いと結語。「vuelo del alma（魂の飛翔）」──「vuelo（飛翔）」という語がStellaの魂の死後の移動を示唆する：詩篇はStellaの死を一度も明示せず、「魂の飛翔を百合が見たか」という間接的問いによって死を暗示する──ポーの怪奇小説が「死・霊魂・再来」を直截に描くのとは対照的な婉曲的詩的方法。「La hermana de Ligeia（リジェイアの姉妹）」──ポー「Ligeia（1838）」の女主人公リジェイアへの直接的参照：リジェイアは圧倒的な知性・意志・美を持ち死んだ女性であり、後妻ロウィーナの臨死の身体にその霊魂が乗り移る──「hermana（姉妹）」という語がStellaをリジェイア的な「死と復活の女」の系譜に位置づける。ポー「Ulalume（ウラリューム）」における詩人が死んだ愛人の墓へと無意識に導かれる夜の彷徨、「Annabel Lee（アナベル・リー）」における死んでもなお愛し合う魂の永続性──これらポー的「死せる女性への永続的愛」の主題がステラとリジェイアの「姉妹」関係によって一語で召喚される。ダンテ・ガブリエル・ロセッティ「Lilith（リリス）」の「Lilith...drew men to look at her...and they went past into the grave（リリスは男たちに自分を見させ……彼らは墓の中へと消えた）」という「死へと誘う女性の美」の形象との対照：ロセッティのリリスが男を死へと誘う能動的な美であるのに対して、ダリオのステラは詩人から問いかけられる不在の魂として受動的に定義される──ロセッティの「死と美の能動的合一」とダリオの「死と美の受動的不在」という二つのモデルニスモ的女性像の対極。「por quien mi canto a veces es tan triste（そのゆえに私の歌がときに深く悲しい）」──詩篇の全構造の帰結：長大な呼格（§1〜§4前半）の準備を経て辿り着く「triste（悲しい）」という一語が、Stella不在という喪失の感情的核心を提示する。ヴェルレーヌ「Clair de lune（月光）」の「tout en chantant sur le mode mineur / l'amour vainqueur et la vie opportune（短調で歌いながら）」という哀調の歌との照応──歌が「悲しみ（triste）」を本質とするという詩的自己定義として。",
+      "targetId": "d_g_rossetti_lilith",
+      "targetParagraphId": 1
+    }
+  ]
+}
