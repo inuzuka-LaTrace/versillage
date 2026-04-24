@@ -1,0 +1,155 @@
+{
+  "id": "dario_retratos",
+  "title": "Retratos",
+  "author": "Rubén Darío",
+  "source": "Cantos de vida y esperanza (1905). Wikisource: https://es.wikisource.org/wiki/Retratos",
+  "year": "1905",
+  "firstPublication": "Cantos de vida y esperanza, los cisnes y otros poemas, Madrid, 1905",
+  "difficulty": "上級",
+  "category": "dario",
+  "originalLang": "es-ES",
+  "modernRelevance": "★★★★",
+  "context": "ルベン・ダリオ（Rubén Darío, 1867–1916）の詩集『生命と希望の歌（Cantos de vida y esperanza, 1905）』所収。二部構成──I「ドン・ヒダルゴの肖像（5連×4行）」とII「白衣の修道女ソル・マリアの肖像（4連×4行）」──からなる「二つの肖像詩（retratos）」。スペイン黄金世紀（Siglo de Oro）の絵画的伝統──ベラスケス・エル・グレコ・スルバランに代表される肖像画の様式──を詩的に模倣し、詩篇を「言語による絵画（ekphrasis）」として構成する。I部では「Don Gil, Don Juan, Don Lope, Don Carlos, Don Rodrigo」という複数のスペイン貴族名の列挙によって特定の個人ではなく「スペイン騎士の類型（tipo）」が描かれ、「Labios de Borgia（ボルジアの唇）」という歴史的固有名が純粋な政治的悪と審美的魅力の合一として定義される。詩篇全体を貫く最大の逆説は最終連：ルシファー的生（vida luciferina）を生きた騎士が死において「¡AL OLVIDO!（忘却へ！）」と「¡AL VIENTO!（風へ！）」を宣言する──功績と存在の完全な自己解消として。II部では白衣の修道女の「天使の額と魔女の黒い目（ángel y bruja）」という聖俗二重性が描かれ、その「蜜と毒に塗れた眼差し（miel y veneno）」が罪深い魂に「冒涜のカーネーション（clavel del sacrilegio）」を咲かせた後、「火刑（hoguera）」という宣告で締め括られる──聖女と魔女の同一性という異端審問的逆説。",
+  "keywords": [
+    "retrato",
+    "ekphrasis",
+    "hidalgo",
+    "Borgia",
+    "vida luciferina",
+    "AL OLVIDO",
+    "AL VIENTO",
+    "Sor María",
+    "ángel y bruja",
+    "miel y veneno",
+    "hoguera",
+    "スペイン黄金世紀"
+  ],
+  "relatedTexts": [
+    "dario_nocturno",
+    "borja_melancolia_madre_mia",
+    "borja_voy_a_entrar_al_olvido",
+    "gautier_coquetterie_posthume",
+    "verlaine_clair_de_lune",
+    "weil_les_astres",
+    "weil_accepter_le_vide",
+    "dante_inferno_canto_5",
+    "dante_inferno_canto_26",
+    "silva_reminiscencia_siglo_xviii"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "verses": "I, v.1–4",
+      "original": "Don Gil, Don Juan, Don Lope, Don Carlos, Don Rodrigo,\n¿cúya es esta cabeza soberbia? ¿esa faz fuerte?\n¿esos ojos de jaspe? ¿esa barba de trigo?\nEste fué un caballero que persiguió a la Muerte.",
+      "provisionalTranslation": "ドン・ヒル、ドン・フアン、ドン・ロペ、ドン・カルロス、ドン・ロドリゴ──\nこの傲岸な頭は誰のものか？あの力強い顔は？\nあの碧玉の目は？あの麦色の顎髭は？\nこれは死を追い求めた騎士だった。"
+    },
+    {
+      "id": 2,
+      "verses": "I, v.5–8",
+      "original": "Cien veces hizo cosas tan sonoras y grandes\nque de águilas poblaron el campo de su escudo;\ny ante su rudo tercio de América o de Flandes\nquedó el asombro ciego, quedó el espanto mudo.",
+      "provisionalTranslation": "百度も彼は鳴り響くほど偉大なことを成し遂げ、\n鷹たちが彼の盾の野を満たした。\nそしてアメリカかフランドルの彼の荒々しい部隊の前では\n驚愕は盲目となり、恐怖は沈黙した。"
+    },
+    {
+      "id": 3,
+      "verses": "I, v.9–12",
+      "original": "La coraza revela fina labor; la espada\ntiene la cruz que erige sobre su tumba el miedo;\ny bajo el puño firme que da su luz dorada,\nse afianza el rayo sólido del yunque de Toledo.",
+      "provisionalTranslation": "胸甲は精巧な仕事を示す。剣は\n恐れがその墓の上に立てる十字架を持つ。\nそして黄金の光を放つ強固な握りの下に、\nトレドの鉄床の確固たる稲妻が固定される。"
+    },
+    {
+      "id": 4,
+      "verses": "I, v.13–16",
+      "original": "Tiene labios de Borgia, sangrientos labios dignos\nde exquisitas calumnias, de rezar oraciones\ny de decir blasfemias: rojos labios malignos\nflorecidos de anécdotas en cien Decamerones.",
+      "provisionalTranslation": "彼はボルジアの唇を持つ──血まみれの唇、\n精巧な中傷に値し、祈祷を唱えるに値し、\n冒涜を口にするに値する──百の『デカメロン』に\n逸話として花開いた赤く邪悪な唇。"
+    },
+    {
+      "id": 5,
+      "verses": "I, v.17–20",
+      "original": "Y con todo, este hidalgo de un tiempo indefinido,\nfué el abad solitario de un ignoto convento,\ny dedicó en la muerte sus hechos: «¡AL OLVIDO!»\ny el grito de su vida luciferina: «¡AL VIENTO!»",
+      "provisionalTranslation": "それでもなお、この不定の時代の郷士は\n無名の修道院の孤独な院長だった。\nそして死において彼の功績を捧げた──「忘却へ！」\nそして彼のルシファー的生の叫びを──「風へ！」"
+    },
+    {
+      "id": 6,
+      "verses": "II, v.1–4",
+      "original": "En la forma cordial de la boca, la fresa\nsolemniza su púrpura; y en el sutil dibujo\ndel óvalo del rostro de la blanca abadesa\nla pura frente es ángel y el ojo negro es brujo.",
+      "provisionalTranslation": "口の親しみやすい形の中に、野いちごが\nその紫色を荘厳化する。白衣の修道院長の\n顔の卵型の繊細な輪郭の中に、\n純粋な額は天使であり、黒い目は魔女だ。"
+    },
+    {
+      "id": 7,
+      "verses": "II, v.5–8",
+      "original": "Al marfil monacal de esa faz misteriosa\nbrota una dulce luz de un resplandor interno,\nque enciende en las mejillas una celeste rosa\nen que su pincelada fatal puso el Infierno.",
+      "provisionalTranslation": "その神秘的な顔の修道院的な象牙色から\n内部の輝きから甘い光が芽生え、\n頬に天上のバラを灯す──\nそこに地獄がその致命的な一筆を置いた。"
+    },
+    {
+      "id": 8,
+      "verses": "II, v.9–12",
+      "original": "¡Oh, Sor María! ¡Oh, Sor María! ¡Oh, Sor María!\nla mágica mirada y el continente regio,\n¿no hicieron en un alma pecaminosa un día,\nbrotar el encendido clavel del sacrilegio?",
+      "provisionalTranslation": "ああ、ソル・マリアよ！ああ、ソル・マリアよ！ああ、ソル・マリアよ！\nその魔法の眼差しと王者の立ち振る舞いは、\nある日、罪深い魂の中に\n燃え上がる冒涜のカーネーションを咲かせなかったか？"
+    },
+    {
+      "id": 9,
+      "verses": "II, v.13–16",
+      "original": "Y parece que el hondo mirar cosas dijera,\nespeciosas y ungidas de miel y de veneno.\n(Sor María murió condenada a la hoguera:\nDos abejas volaron de las rosas del seno.)",
+      "provisionalTranslation": "そしてその深い眼差しが何かを語っているように見える──\n巧みで、蜜と毒に塗れたものを。\n（ソル・マリアは火刑を宣告されて死んだ──\n胸のバラから二匹の蜂が飛び立った。）"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "Don Gil, Don Juan, Don Lope, Don Carlos, Don Rodrigo,\n¿cúya es esta cabeza soberbia? ¿esa faz fuerte?",
+      "body": "「ドン・ヒル、ドン・フアン、ドン・ロペ、ドン・カルロス、ドン・ロドリゴ」──五つのスペイン貴族名の列挙が詩篇の開幕を担う：固有名詞の羅列が特定の個人ではなくスペイン黄金世紀（Siglo de Oro, 16〜17世紀）の騎士的類型（tipo）の集合的召喚として機能する。「Don Juan（ドン・フアン）」はティルソ・デ・モリーナ『セビリャの色男（El burlador de Sevilla, 1630）』の放蕩者、「Don Lope」はロペ・デ・ベガの無数の劇の英雄、「Don Carlos」はシラーの同名悲劇の皇太子という文学的参照が重なる。「¿cúya es esta cabeza soberbia?（この傲岸な頭は誰のものか？）」──問いかける形式が「肖像画の前に立つ鑑賞者」の視点を模倣するekphrasis（絵画描写詩）の様式として機能する：問いに答えは与えられず、類型としての騎士像が焦点化される。「Este fué un caballero que persiguió a la Muerte（これは死を追い求めた騎士だった）」──「persiguió a la Muerte（死を追い求めた）」という定義が騎士の本質を「死との関係」として設定する：死を恐れるのではなく「追いかける（perseguir）」能動的関係として。ゴーティエ「Coquetterie posthume（死後の色気）」の「美しき死者が墓から語りかける」という「死との戯れ」の詩学との照応──どちらも死を審美的な追求の対象として定義する。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "Cien veces hizo cosas tan sonoras y grandes\nque de águilas poblaron el campo de su escudo;",
+      "body": "「百度も彼は鳴り響くほど偉大なことを成し遂げ（Cien veces hizo cosas tan sonoras y grandes）──鷹たちが彼の盾の野を満たした（de águilas poblaron el campo de su escudo）」──「sonoras y grandes（鳴り響き偉大な）」という形容詞対が英雄的行為の音響的・視覚的壮大さを同時に提示する。「águilas（鷹・鷲）」──紋章学（heráldica）における鷲・鷹は帝国的権威の象徴：ハプスブルク帝国の双頭の鷲（águila bicéfala）がスペイン黄金世紀の覇権を象徴する。「ante su rudo tercio de América o de Flandes（アメリカかフランドルの彼の荒々しい部隊の前では）」──「tercio（テルシオ）」はスペイン黄金世紀の最強歩兵部隊の名称：「América o de Flandes（アメリカかフランドルの）」という二択が征服と宗教戦争という帝国的膨張の二方向を示す。「quedó el asombro ciego, quedó el espanto mudo（驚愕は盲目となり、恐怖は沈黙した）」──「ciego（盲目）」・「mudo（沈黙）」という感覚の無効化：英雄の偉業が驚愕と恐怖から感覚機能を奪う──シルバ「Reminiscencia siglo XVIII」第2連「artificio（人工）」による感覚の変容と同型の美的過剰の論理。"
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "La coraza revela fina labor; la espada\ntiene la cruz que erige sobre su tumba el miedo;",
+      "body": "「胸甲は精巧な仕事を示す（La coraza revela fina labor）──剣は恐れがその墓の上に立てる十字架を持つ（la espada tiene la cruz que erige sobre su tumba el miedo）」──甲冑・剣・十字架という騎士の三属性の詩的解読。「la espada tiene la cruz（剣は十字架を持つ）」──スペイン語圏において十字剣（espada de cruz）の柄が十字架の形を模す：剣の握りが十字架として機能するという現実の武具の形状が「恐れがその墓の上に立てる十字架（la cruz que erige sobre su tumba el miedo）」という逆説的定式へと詩的に変換される──「恐れ（miedo）」が十字架を「建てる（erigir）」主体として機能する：死への恐怖が宗教的象徴を生産する。「el rayo sólido del yunque de Toledo（トレドの鉄床の確固たる稲妻）」──「yunque de Toledo（トレドの鉄床）」：トレドの剣は16〜17世紀スペインにおいて最高品質の鋼鉄の代名詞。「rayo sólido（確固たる稲妻）」──矛盾語法：「稲妻（rayo）」という束の間の閃光が「sólido（固体の・確固たる）」という持続性の形容を得る──瞬間と永続、光と鉄の詩的合一としての剣。ダリオ「Nocturno」第3連「oscuro nido / que suavizó la noche de dulzura de plata（銀の甘さで夜を和らげた暗い巣）」という「銀の光の夜」と対照的な「黄金の光の昼」の形象として機能する。"
+    },
+    {
+      "paragraphId": 4,
+      "type": "intertextual",
+      "anchor": "Tiene labios de Borgia, sangrientos labios dignos\nde exquisitas calumnias, de rezar oraciones\ny de decir blasfemias:",
+      "body": "「ボルジアの唇（labios de Borgia）──精巧な中傷に値し、祈祷を唱えるに値し、冒涜を口にするに値する」──「Borgia（ボルジア）」：スペイン系イタリア貴族で教皇アレクサンデル6世（在位1492–1503）・チェーザレ・ボルジアの一族──ルネサンス期の政治的悪と権力の象徴的固有名。「sangrientos labios（血まみれの唇）」という視覚的形象と「oraciones（祈り）」・「blasfemias（冒涜）」という相反する言語行為の並置──同一の唇が「祈り」と「冒涜」を等価に発する：ダリオ「Nocturno」第2連「el grano de oraciones que floreció en blasfemia（冒涜へと花開いた祈りの粒）」という「祈りから冒涜への変容」の逆説が、ここでは「祈りと冒涜の同時的両立」として変奏される──「Nocturno」では時間的継起（祈り→冒涜）であったものが「Retratos」では同時的共存（祈り＝冒涜）へと深化する。「florecidos de anécdotas en cien Decamerones（百の『デカメロン』に逸話として花開いた）」──ボッカッチョ『デカメロン（Decameron, 1353）』への言及：「cien Decamerones（百の『デカメロン』）」という複数・拡大形がボルジア的唇の逸話の量的豊穣さを示す。ダンテ「地獄篇」第5歌のパオロとフランチェスカが読んでいた「Galeotto」の書──文学的読書が官能を解き放つという構造がここでは「labios florecidos de anécdotas（逸話に花開く唇）」として変奏される。",
+      "targetId": "dante_inferno_canto_5",
+      "targetParagraphId": 9
+    },
+    {
+      "paragraphId": 5,
+      "type": "commentary",
+      "anchor": "y dedicó en la muerte sus hechos: «¡AL OLVIDO!»\ny el grito de su vida luciferina: «¡AL VIENTO!»",
+      "body": "「死において彼の功績を捧げた──『忘却へ！（¡AL OLVIDO!）』──彼のルシファー的生の叫びを──『風へ！（¡AL VIENTO!）』」──詩篇I部の結語にして最大の逆説的命題。「¡AL OLVIDO!（忘却へ！）」──大文字表記による叫び：騎士の「sonoras y grandes（鳴り響く偉大な）」功績の全てが「olvido（忘却）」に捧げられる──栄光の自己消去としての死の宣言。ボルハ「Voy a entrar al olvido（私は忘却へと入る）」というタイトルとの直接的照応：ダリオの騎士が「死において」能動的に忘却を宣言するのに対して、ボルハは詩人として「生において」忘却への入場を宣言する──「¡AL OLVIDO!」という叫びがモデルニスモ詩人群のメタ的な詩的宣言として機能する。「vida luciferina（ルシファー的生）」──「Lucifera（ルシファー）」：光の天使でありながら神への反抗により堕落した堕天使──「ルシファー的生」とは神的秩序への反抗・反逆として生きた生の定義。「¡AL VIENTO!（風へ！）」──「olvido（忘却）」と「viento（風）」の対：忘却は記憶の喪失・消去という内的消滅であり、風は散逸・飛散という外的消滅──内と外の両方向への自己解消の叫び。コヘレト第1章v.6「Gyrat ad austrum et flectit ad aquilonem; lustrans universa circuit spiritus（霊は南へ回り、北へ向かう。回りつつすべてを巡って霊は回る）」──「風へ！」という叫びが「霊は風と共に回り続ける」というコヘレト的宇宙論の詩的引用として機能する。"
+    },
+    {
+      "paragraphId": 6,
+      "type": "commentary",
+      "anchor": "la pura frente es ángel y el ojo negro es brujo.",
+      "body": "「純粋な額は天使であり、黒い目は魔女だ（la pura frente es ángel y el ojo negro es brujo）」──詩篇II部の構造的命題を一行で定式化する。「ángel y brujo（天使と魔女）」──同一の顔に「天使性（pureza）」と「魔女性（brujería）」が同居する：「pura frente（純粋な額）」という霊的高所と「ojo negro（黒い目）」という感覚的深部の垂直的対立。「fresa（野いちご）」──「En la forma cordial de la boca, la fresa / solemniza su púrpura（口の形の中で野いちごがその紫を荘厳化する）」：野いちごの「紫（púrpura）」が口唇の色彩として荘厳化される──ゴーティエ「Symphonie en blanc majeur（白長調の交響曲）」の白一色の女性的美と対照的な「紫・黒・象牙」の複合色彩による修道女の審美的描写。「en el sutil dibujo / del óvalo del rostro（顔の卵型の繊細な輪郭の中に）」──「óvalo（楕円形・卵形）」という幾何学的形象：顔を「卵型」として抽象化する視点は肖像画家の視点──詩篇がekphrasticな「絵画を見る詩人」の視点を維持する。ヴェルレーヌ「Clair de lune（月光）」の「masques et bergamasques（仮面と田舎踊り）」における二重性の美学との照応──仮面の下の真の感情というヴェルレーヌ的二重性が、ソル・マリアの「天使の額と魔女の目」として顔面に空間化される。"
+    },
+    {
+      "paragraphId": 7,
+      "type": "commentary",
+      "anchor": "Al marfil monacal de esa faz misteriosa\nbrota una dulce luz de un resplandor interno,\nque enciende en las mejillas una celeste rosa\nen que su pincelada fatal puso el Infierno.",
+      "body": "「その神秘的な顔の修道院的な象牙色から（Al marfil monacal de esa faz misteriosa）──内部の輝きから甘い光が芽生え（brota una dulce luz de un resplandor interno）──そこに地獄がその致命的な一筆を置いた（su pincelada fatal puso el Infierno）」──詩篇II部の審美的・神学的核心をなす連。「marfil monacal（修道院的な象牙色）」──「marfil（象牙）」はゴーティエの色彩詩学において純潔・冷たさ・永続性の色：「monacal（修道院的）」という形容が象牙色に禁欲的な制度的文脈を付与する。「resplandor interno（内部の輝き）」──十字架の聖ヨハネ「Noche oscura」第3連「sin otra luz y guía / sino la que en el corazón ardía（ただ心の中で燃えていたものだけを頼りに）」という「内的な光」の形象との照応：ヨハネにおいて「内部の光」は神への誘導の霊的光であるのに対して、ソル・マリアの「resplandor interno」は「celeste rosa（天上のバラ）」を灯しながら「地獄（Infierno）がその一筆を置く」という二重性を帯びる──内的光が聖と邪の双方を同時に照らす。「pincelada fatal puso el Infierno（地獄がその致命的な一筆を置いた）」──「pincelada（絵の具の一刷毛）」という絵画的語彙：ソル・マリアの頬のバラの色を「地獄の画家が塗った」と定義する──ekphrasticな詩篇が内部で「神と地獄の共同制作」という神学的逆説を展開する。ヴェイユ「Beauté（美）」章「La beauté est le regard de Dieu sur sa création（美は創造物への神の眼差し）」との対比：ヴェイユの「美＝神の眼差し」に対して、ダリオのソル・マリアの美は「地獄の筆触」を含む──同一の「美の神学」が肯定的（ヴェイユ）と否定的（ダリオ）の両極を持つことを示す。"
+    },
+    {
+      "paragraphId": 8,
+      "type": "commentary",
+      "anchor": "¡Oh, Sor María! ¡Oh, Sor María! ¡Oh, Sor María!\nla mágica mirada y el continente regio,\n¿no hicieron en un alma pecaminosa un día,\nbrotar el encendido clavel del sacrilegio?",
+      "body": "「ああ、ソル・マリアよ！ああ、ソル・マリアよ！ああ、ソル・マリアよ！（¡Oh, Sor María! ×3）──罪深い魂の中に燃え上がる冒涜のカーネーション（el encendido clavel del sacrilegio）を咲かせなかったか？」──詩篇II部の感情的頂点。「¡Oh, Sor María!」三重のアナフォラ──十字架の聖ヨハネ「Noche oscura」第5連「¡Oh noche...! ¡Oh noche...! ¡Oh noche...!」という三重の夜への呼格と同一の修辞構造：ヨハネが「夜」を神との合一の媒介として三重に讃嘆するのに対して、ダリオはソル・マリアを聖俗両義的な存在として三重に呼びかける──同一の呼格アナフォラが神秘的合一の讃嘆（ヨハネ）と禁じられた魅惑への問いかけ（ダリオ）として機能する。「el encendido clavel del sacrilegio（燃え上がる冒涜のカーネーション）」──「clavel（カーネーション）」はスペインの国花的な象徴：「encendido（燃え上がる）」という形容が赤いカーネーションの色彩と情熱的燃焼の二重の意味を持ち、「sacrilegio（冒涜・涜聖）」という宗教的侵犯の語が花として「brotar（芽生える）」──禁忌の感情が開花という自然的過程として表現される逆説。ダリオ「Nocturno」第2連「el grano de oraciones que floreció en blasfemia（冒涜へと花開いた祈りの粒）」という「祈りの冒涜への開花」のII部版変奏として機能する：「Nocturno」では詩人自身の霊的経験として、「Retratos」II部では他者（Sor María）の魅惑的力として。"
+    },
+    {
+      "paragraphId": 9,
+      "type": "intertextual",
+      "anchor": "(Sor María murió condenada a la hoguera:\nDos abejas volaron de las rosas del seno.)",
+      "body": "「（ソル・マリアは火刑を宣告されて死んだ──胸のバラから二匹の蜂が飛び立った。）」──括弧による挿入と詩篇の結語。「condenada a la hoguera（火刑を宣告されて）」──異端審問（Inquisición）による「魔女・異端者の火刑（auto de fe）」の明示的言及：ソル・マリアの「ángel y bruja（天使と魔女）」という二重性が「魔女」として断罪される制度的暴力として。ヴェイユ「affliction（苦悩）論」における身体的・心理的・社会的三重の苦しみ──「hoguera（火刑）」という身体的苦しみが「condenada（断罪された）」という社会的汚名と「Sor（修道女）」というアイデンティティの否定という心理的苦しみを伴う：ヴェイユ的afflictionの三次元が一語に凝縮される。「Dos abejas volaron de las rosas del seno（胸のバラから二匹の蜂が飛び立った）」──詩篇全体で最も謎めいた結語。「abejas（蜂）」──蜂は霊魂の象徴（古代ギリシャ・キリスト教図像学において）・甘さと毒の両義的担い手：「miel y veneno（蜜と毒）」という前連の対の詩的具体化として「二匹の蜂」が登場する。「las rosas del seno（胸のバラ）」──「seno（胸）」という身体部位が「rosas（バラ）」という花として詩的に変換される：燃やされる肉体から霊魂（蜂）が解放されるという詩的形象。ダンテ「地獄篇」第26歌ウリッセの炎──罪深い魂が炎の中に閉じ込められながら語る構造との対比：ダンテの炎が魂を閉じ込めるのに対して、ダリオの「hoguera（火刑の炎）」は魂（蜂）を解き放つ──断罪の炎が逆説的な解放として機能する。",
+      "targetId": "dante_inferno_canto_26",
+      "targetParagraphId": 3
+    }
+  ]
+}
