@@ -1,0 +1,99 @@
+{
+  "id": "dario_el_cisne",
+  "title": "El cisne",
+  "author": "Rubén Darío",
+  "source": "Prosas profanas y otros poemas (1896/1901). Wikisource: https://es.wikisource.org/wiki/El_cisne_(Rub%C3%A9n_Dar%C3%ADo)",
+  "year": "1896",
+  "firstPublication": "Prosas profanas y otros poemas, Buenos Aires, 1896",
+  "difficulty": "中級",
+  "category": "dario",
+  "originalLang": "es-ES",
+  "modernRelevance": "★★★★★",
+  "context": "ルベン・ダリオ（Rubén Darío, 1867–1916）の詩集『俗なる散文（Prosas profanas y otros poemas, 1896）』所収。献辞「A Ch. Del Gouffre」を伴うソネット（4・4・3・3行）。「白鳥（cisne）」はダリオのモデルニスモにおける最重要の詩的象徴──美・純粋・詩的理想・ゼウスの変身という神話的力の凝縮として機能する。詩篇はソネット前半（§1・§2）で「ワーグナー的白鳥」の歴史的・神話的位置を確立し、後半（§3・§4）でヘレネー誕生神話とモデルニスモの新しい詩学（Nueva Poesía）の宣言へと転じる。「白鳥は死のために歌っていた（El Cisne antes cantaba sólo para morir）」という冒頭の「白鳥の歌（chant du cygne）」の伝統をワーグナーが「復活のために（para revivir）」と反転させたという命題が詩篇の歴史哲学的核心をなす。最終テルセットでは「新しい詩学（la nueva Poesía）」が白鳥の翼の下で「永遠の純粋なヘレネー（La Helena eterna y pura）」を懐胎するという詩的創造の神話として締め括られる──ゼウス＝白鳥＝詩的霊感が新しい美を生む受胎の比喩として。イェイツ「Leda and the Swan」（1923）・レニエ「Léda」（1902）と同一の神話的素材を共有しながら、暴力的介入（イェイツ）・彫刻的静止（レニエ）とは対照的に、詩的創造の生産的力（ダリオ）として白鳥神話を再解釈する。",
+  "keywords": [
+    "cisne",
+    "Wagner",
+    "Helena",
+    "Leda",
+    "nueva Poesía",
+    "ideal",
+    "revivir",
+    "Thor",
+    "Argantir",
+    "モデルニスモ宣言"
+  ],
+  "relatedTexts": [
+    "dario_nocturno",
+    "dario_retratos",
+    "dario_el_poeta_pregunta_por_stella",
+    "yeats_leda_and_the_swan",
+    "regnier_leda",
+    "rilke_sonette_orpheus_1_01",
+    "mallarme_herodiade_scene",
+    "baudelaire_le_cygne"
+  ],
+  "paragraphs": [
+    {
+      "id": 0,
+      "verses": "preface",
+      "original": "A Ch. Del Gouffre.",
+      "provisionalTranslation": "Ch・デル・グッフルへ。"
+    },
+    {
+      "id": 1,
+      "verses": "v.1–4",
+      "original": "Fué en una hora divina para el género humano.\nEl Cisne antes cantaba sólo para morir.\nCuando se oyó el acento del Cisne wagneriano\nFué en medio de una aurora, fué para revivir.",
+      "provisionalTranslation": "それは人類にとって神聖な時刻だった。\n白鳥はかつて死のためだけに歌っていた。\nワーグナー的白鳥の響きが聞こえたとき──\nそれは夜明けの中で、復活のためだった。"
+    },
+    {
+      "id": 2,
+      "verses": "v.5–8",
+      "original": "Sobre las tempestades del humano oceano\nSe oye el canto del Cisne; no se cesa de oir,\nDominando el martillo del viejo Thor germano\nO las trompas que cantan la espada de Argantir.",
+      "provisionalTranslation": "人間的大洋の嵐の上で\n白鳥の歌が聞こえる。聞こえ続ける──\nゲルマンの老いたるトールの槌をも支配して\nあるいはアルガンティルの剣を歌うラッパをも。"
+    },
+    {
+      "id": 3,
+      "verses": "v.9–11",
+      "original": "¡Oh Cisne! ¡Oh sacro pájaro! Si antes la blanca Helena\nDel huevo azul de Leda brotó de gracia llena,\nSiendo de la Hermosura la princesa inmortal,",
+      "provisionalTranslation": "ああ白鳥よ！ああ聖なる鳥よ！かつて白いヘレネーが\n恩寵に満ちてレダの青い卵から生まれ出たように──\n美の不死の王女として──"
+    },
+    {
+      "id": 4,
+      "verses": "v.12–14",
+      "original": "Bajo tus blancas alas la nueva Poesía,\nConcibe en una gloria de luz y de harmonía\nLa Helena eterna y pura que encarna el ideal.",
+      "provisionalTranslation": "あなたの白い翼の下で、新しい詩学が\n光と調和の栄光の中に懐胎する──\n理想を体現する永遠の純粋なヘレネーを。"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "El Cisne antes cantaba sólo para morir.\nCuando se oyó el acento del Cisne wagneriano\nFué en medio de una aurora, fué para revivir.",
+      "body": "「白鳥はかつて死のためだけに歌っていた（El Cisne antes cantaba sólo para morir）──ワーグナー的白鳥の響きが聞こえたとき……復活のためだった（fué para revivir）」──詩篇の歴史哲学的核心命題。「chant du cygne（白鳥の歌）」──古代ギリシャ以来の伝説：白鳥は死の直前にのみ歌うとされる──「El Cisne antes cantaba sólo para morir（白鳥はかつて死のためだけに歌っていた）」はこの伝説の詩的定式。「Cisne wagneriano（ワーグナー的白鳥）」──リヒャルト・ワーグナー（1813–1883）の楽劇群における白鳥の系譜：「ローエングリン（Lohengrin, 1850）」では白鳥に引かれた舟で現れる騎士が主人公、「パルジファル（Parsifal, 1882）」では神聖な白鳥が聖杯騎士団の象徴として機能する──ダリオが収録した `verlaine_parsifal`・`verlaine_saint_graal` というヴェルレーヌのワーグナー的ソネット群との直接的照応。「fué para revivir（復活のためだった）」──「morir（死）」から「revivir（復活）」への反転：ワーグナーが「死のための歌」を「復活のための歌」へと転換した──ダリオのモデルニスモ詩学がワーグナー的再生の美学を継承する詩的系譜宣言として。「en medio de una aurora（夜明けの中で）」──「aurora（夜明け・暁）」という語がモデルニスモの新しい詩的時代の始まりとして機能する：ダリオ「Nocturno」の「noche（夜）」・「dormir de llantos（涙の眠り）」という暗夜の実存と対照的な「夜明け」の光の時間として。リルケ「オルフォイスへのソネット第1部第1番（Sonette an Orpheus I, 1）」の「Da stieg ein Baum（一本の樹が立ち上がった）」──オルフェウスの歌による世界の変容という「歌の創造的力」の主題がダリオの「Cisne wagneriano」の「復活の歌」と構造的に照応する。",
+      "targetId": "rilke_sonette_orpheus_1_01",
+      "targetParagraphId": 1
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "Sobre las tempestades del humano oceano\nSe oye el canto del Cisne; no se cesa de oir,\nDominando el martillo del viejo Thor germano\nO las trompas que cantan la espada de Argantir.",
+      "body": "「人間的大洋の嵐の上で白鳥の歌が聞こえる（Se oye el canto del Cisne）──ゲルマンの老いたるトールの槌をも支配して（Dominando el martillo del viejo Thor germano）──アルガンティルの剣を歌うラッパをも（las trompas que cantan la espada de Argantir）」──白鳥の歌の普遍的・超歴史的支配の確立。「tempestades del humano oceano（人間的大洋の嵐）」──「humano oceano（人間的大洋）」という比喩：人類の歴史・苦難・戦争を「嵐（tempestades）」とする大洋の形象──ダリオ「Nocturno」の「horror de sentirse pasajero（束の間の存在と感じることの恐怖）」という実存的嵐の普遍的拡張として。「no se cesa de oir（聞こえ続ける）」──白鳥の歌の持続性・永続性：「no se cesa（止まることがない）」という否定形が歌の不滅を主張する。「el martillo del viejo Thor germano（ゲルマンの老いたるトールの槌）」──北欧神話のトール（Thor）：雷・戦争の神でその槌「ミョルニル（Mjölnir）」が破壊的力の象徴。ワーグナー「ニーベルングの指環（Der Ring des Nibelungen）」における北欧神話の劇化との直接的照応──「viejo Thor germano（ゲルマンの老いたるトール）」という「viejo（老いた）」という形容がワーグナーが描いたゲルマン的古代神話の黄昏（Götterdämmerung）を含意する。「Argantir（アルガンティル）」──北欧のサガ「ヘルヴァラル・サガ（Hervarar saga）」の英雄：「Argantirの剣（la espada de Argantir）」は呪われた剣「ティルヴィング（Tyrfing）」を指す──白鳥の歌がトール（神話的暴力）とアルガンティル（英雄的暴力）の双方を超越・支配するという主張。"
+    },
+    {
+      "paragraphId": 3,
+      "type": "intertextual",
+      "anchor": "¡Oh Cisne! ¡Oh sacro pájaro! Si antes la blanca Helena\nDel huevo azul de Leda brotó de gracia llena,\nSiendo de la Hermosura la princesa inmortal,",
+      "body": "「ああ白鳥よ！ああ聖なる鳥よ！（¡Oh Cisne! ¡Oh sacro pájaro!）かつて白いヘレネーが恩寵に満ちてレダの青い卵から生まれ出たように（Del huevo azul de Leda brotó de gracia llena）」──詩篇がソネットの転換点（volta）においてギリシャ神話の核心へと降下する。「¡Oh Cisne! ¡Oh sacro pájaro!」──二重の感嘆的呼格：ヨハネ「Noche oscura」第5連「¡Oh noche...! ¡Oh noche...!」・ダリオ「Retratos」II部「¡Oh, Sor María!×3」という三重アナフォラと同型の感情的頂点への到達様式。「huevo azul de Leda（レダの青い卵）」──「azul（青）」という色彩がダリオの詩集「Azul（1888）」と直結する：モデルニスモの理想色「青」がレダの卵として神話化され、そこからヘレネー（＝美の理想）が誕生するという自己言及的な詩学の神話として。イェイツ「Leda and the Swan（1923）」では白鳥＝ゼウスによるレダへの暴力的介入が「broken wall, the burning roof and tower（崩れた城壁、燃える屋根と塔）」というトロイア戦争の歴史的破滅として帰結するのに対し、ダリオの白鳥神話では暴力は消去され「brotó de gracia llena（恩寵に満ちて生まれ出た）」という生産的・優美な誕生として再解釈される。レニエ「Léda」（1902）では白鳥と彫像レダの接触が「l'amour fabuleux（寓話的な愛）」として彫刻的静止の中に永続するのに対し、ダリオは「brotó（生まれ出た）」という動的誕生の瞬間に焦点を置く──三詩人の「レダ神話」の三様の把握：暴力（イェイツ）・静止（レニエ）・誕生（ダリオ）として。",
+      "targetId": "regnier_leda",
+      "targetParagraphId": 4
+    },
+    {
+      "paragraphId": 4,
+      "type": "intertextual",
+      "anchor": "Bajo tus blancas alas la nueva Poesía,\nConcibe en una gloria de luz y de harmonía\nLa Helena eterna y pura que encarna el ideal.",
+      "body": "「あなたの白い翼の下で、新しい詩学が（la nueva Poesía）光と調和の栄光の中に懐胎する（Concibe）──理想を体現する永遠の純粋なヘレネーを（La Helena eterna y pura que encarna el ideal）」──詩篇の結語にして「モデルニスモ詩学宣言」の極点。「la nueva Poesía（新しい詩学）」──大文字表記の「Poesía（詩学）」が固有名詞的地位を得る：スペイン語圏における旧来の詩的慣習（costumbrismo・academismo）に対するモデルニスモの「新しさ（nueva）」の宣言として。「Concibe（懐胎する）」──「白鳥の翼の下で詩学が懐胎する」という生殖的比喩：ゼウス＝白鳥がレダを受胎させた神話が、詩的霊感＝白鳥が新しい詩学を受胎させるという創造の比喩として転用される──「El poeta pregunta por Stella」の「ícor excelso（崇高なイコール）」という神的純粋性がここでは「Concibe（懐胎）」という生産的力として実現する。「La Helena eterna y pura que encarna el ideal（理想を体現する永遠の純粋なヘレネー）」──「Helena eterna y pura（永遠の純粋なヘレネー）」：「Retratos」II部のソル・マリアの「blanca abadesa（白衣の修道院長）」・「El poeta pregunta por Stella」のStellaという「白い純粋な女性的理想」の連鎖の頂点として「Helena eterna（永遠のヘレネー）」が位置づけられる。イェイツ「Leda and the Swan」の「And Agamemnon dead（そしてアガメムノンは死んだ）」という歴史的破滅の帰結と根本的に対照的：イェイツのヘレネーがトロイア戦争・歴史的暴力の起源として定義されるのに対して、ダリオのヘレネーは「eterna y pura（永遠の純粋な）」という歴史を超越した詩的理想として定義される──神話の歴史化（イェイツ）対神話の理想化（ダリオ）という二詩人の根本的差異として。マラルメ「エロディアード（Hérodiade）」の「Hérodiade au clair regard de diamant（ダイヤモンドの澄んだ眼差しのエロディアード）」という「触れられることのない純粋な美」との照応──どちらも詩的理想としての「孤立した純粋な女性」の形象として。",
+      "targetId": "yeats_leda_and_the_swan",
+      "targetParagraphId": 1
+    }
+  ]
+}
