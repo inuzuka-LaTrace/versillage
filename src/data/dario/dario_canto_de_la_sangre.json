@@ -1,0 +1,142 @@
+{
+  "id": "dario_canto_de_la_sangre",
+  "title": "Canto de la sangre",
+  "author": "Rubén Darío",
+  "source": "Prosas profanas y otros poemas (1896/1901). Wikisource: https://es.wikisource.org/wiki/Canto_de_la_sangre",
+  "year": "1896",
+  "firstPublication": "Prosas profanas y otros poemas, Buenos Aires, 1896",
+  "difficulty": "上級",
+  "category": "dario",
+  "originalLang": "es-ES",
+  "modernRelevance": "★★★★★",
+  "context": "ルベン・ダリオ（Rubén Darío, 1867–1916）の詩集『俗なる散文（Prosas profanas y otros poemas, 1896）』所収。献辞「A Miguel Estrada」を伴う。全7連×4行、各連が「血の種類＋楽器名」という厳格な二項構造を持つ。詩篇は「血（sangre）」という単一の語根から人類の歴史的・霊的・政治的・実存的経験の全体を網羅する百科全書的分類として機能する──アベルの血（創世記的暴力）→キリストの血（聖体論的救済）→殉教者の血（証言）→狩人の血（世俗的暴力）→乙女の血（官能・愛）→法の血（制度的暴力）→自殺者の血（実存的絶望）という七段階の降下として構造化される。各連に対応する楽器──ラッパ（Clarín）・オルガン（órgano）・詩篇琴（salterio）・ホルン（cuerno）・竪琴（lira）・弱音太鼓（tambor a la sordina）・手回しオルガン（organillo）──が血の種類の霊的・審美的性格を音楽的に定義する：崇高な楽器（オルガン・竪琴）から卑俗な楽器（手回しオルガン）への降下が血の霊的価値の降下と対応する。最終連「Sangre de los suicidas（自殺者の血）」と「Organillo（手回しオルガン）」という組み合わせがシルバ・ボルハ・ノボアというエクアドル・モデルニスモの詩人群の実際の自殺という歴史的事実と照応し、詩篇に遡及的な預言的性格を付与する。",
+  "keywords": [
+    "sangre",
+    "Abel",
+    "Cristo",
+    "martirios",
+    "vírgenes",
+    "suicidas",
+    "Saturno",
+    "organillo",
+    "血の分類",
+    "楽器の対応"
+  ],
+  "relatedTexts": [
+    "dario_nocturno",
+    "dario_retratos",
+    "silva_de_profundis_clamavi",
+    "borja_melancolia_madre_mia",
+    "borja_voy_a_entrar_al_olvido",
+    "noboa_hastio",
+    "weil_la_violence",
+    "weil_accepter_le_vide",
+    "hieronymus_ecclesiastes_1",
+    "hieronymus_iob_3",
+    "dante_inferno_canto_3"
+  ],
+  "paragraphs": [
+    {
+      "id": 0,
+      "verses": "preface",
+      "original": "A Miguel Estrada.",
+      "provisionalTranslation": "ミゲル・エストラダへ。"
+    },
+    {
+      "id": 1,
+      "verses": "v.1–4",
+      "original": "Sangre de Abel. Clarín de las batallas.\nLuchas fraternales; estruendos, horrores;\nFlotan las banderas, hieren las metrallas,\nY visten la púrpura los emperadores.",
+      "provisionalTranslation": "アベルの血。戦いのラッパ。\n兄弟間の争い。轟音、恐怖。\n旗は翻り、散弾が傷つける──\nそして皇帝たちは紫を纏う。"
+    },
+    {
+      "id": 2,
+      "verses": "v.5–8",
+      "original": "Sangre del Cristo. El órgano sonoro.\nLa viña celeste da el celeste vino;\nY en el labio sacro del cáliz de oro\nLas almas se abrevan del vino divino.",
+      "provisionalTranslation": "キリストの血。響き渡るオルガン。\n天上の葡萄園が天上のぶどう酒を与える。\nそして黄金の杯の聖なる縁において\n魂たちは神のぶどう酒で潤される。"
+    },
+    {
+      "id": 3,
+      "verses": "v.9–12",
+      "original": "Sangre de los martirios. El salterio.\nHogueras; leones, palmas vencedoras;\nLos heraldos rojos con que del misterio\nVienen precedidas las grandes auroras.",
+      "provisionalTranslation": "殉教者たちの血。詩篇琴。\n火刑台、獅子、勝利の棕櫚。\n神秘から大いなる夜明けを\n先触れする赤い伝令たち。"
+    },
+    {
+      "id": 4,
+      "verses": "v.13–16",
+      "original": "Sangre que vierte el cazador. El cuerno.\nFurias escarlatas y rojos destinos\nForjan en las fraguas del obscuro Infierno\nLas fatales armas de los asesinos.",
+      "provisionalTranslation": "狩人が流す血。ホルン。\n真紅の怒りと赤い運命が\n暗い地獄の鍛冶場で鍛える──\n殺人者たちの宿命の武器を。"
+    },
+    {
+      "id": 5,
+      "verses": "v.17–20",
+      "original": "¡Oh sangre de las vírgenes! La lira.\nEncanto de abejas y de mariposas.\nLa estrella de Venus desde el cielo mira\nEl purpúreo triunfo de las reinas rosas.",
+      "provisionalTranslation": "ああ、乙女たちの血よ！竪琴。\n蜂と蝶の魅惑。\n金星が天から見守る──\n女王バラたちの紫の勝利を。"
+    },
+    {
+      "id": 6,
+      "verses": "v.21–24",
+      "original": "Sangre que la Ley vierte.\nTambor a la sordina.\nBrotan las adelfas que riega la Muerte\nY el rojo cometa que anuncia la ruina.",
+      "provisionalTranslation": "法が流す血。\n弱音太鼓。\n死が水やりするキョウチクトウが芽生え──\nそして破滅を告げる赤い彗星が。"
+    },
+    {
+      "id": 7,
+      "verses": "v.25–28",
+      "original": "Sangre de los suicidas. Organillo.\nFanfarrias macabras, responsos corales.\nCon que de Saturno celébrase el brillo\nEn los manicomios y en los hospitales.",
+      "provisionalTranslation": "自殺者たちの血。手回しオルガン。\nマカブルなファンファーレ、合唱の応答聖歌──\nそれによってサトゥルヌスの輝きが祝われる\n精神病院と病院において。"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "Sangre de Abel. Clarín de las batallas.\nLuchas fraternales; estruendos, horrores;",
+      "body": "「アベルの血（Sangre de Abel）──戦いのラッパ（Clarín de las batallas）──兄弟間の争い（Luchas fraternales）」──詩篇の開幕が聖書的・歴史的暴力の原点として「アベルの血」を設定する。「Sangre de Abel（アベルの血）」──創世記4:10「Vox sanguinis fratris tui clamat ad me de terra（あなたの兄弟の血の声が大地から私に叫ぶ）」：カインによるアベルの殺害が「兄弟間の争い（Luchas fraternales）」という人類史的原型暴力として設定される──「fraternales（兄弟間の）」という形容詞が歴史上のすべての内戦・政治的粛清の神話的原型として機能する。「Clarín（ラッパ）」──金管楽器の中で最も鋭く戦闘的な音色：アベルの血が「戦いのラッパ」と対応することで、最初の殺人が以後の人類的戦争の原型として定義される。「Y visten la púrpura los emperadores（皇帝たちは紫を纏う）」──「púrpura（紫）」はローマ皇帝の色であると同時に血の色：「アベルの血」から「皇帝の紫」への連続が、個人的殺人から帝国的暴力への歴史的展開として提示される。ヴェイユ「La violence（暴力）」章の「暴力は人間を物化する（La violence transforme l'homme en chose）」という命題との照応──「Sangre de Abel」から「emperadores」への連鎖が暴力の制度化・物化を歴史的必然として示す。",
+      "targetId": "weil_la_violence",
+      "targetParagraphId": 1
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "Sangre del Cristo. El órgano sonoro.\nLa viña celeste da el celeste vino;\nY en el labio sacro del cáliz de oro\nLas almas se abrevan del vino divino.",
+      "body": "「キリストの血（Sangre del Cristo）──響き渡るオルガン（El órgano sonoro）──天上の葡萄園が天上のぶどう酒を与える──魂たちは神のぶどう酒で潤される（se abrevan del vino divino）」──詩篇7連の中で唯一「血」が救済へと変容する連。「El órgano sonoro（響き渡るオルガン）」──パイプオルガンはキリスト教礼拝における最も格式高い楽器：「Clarín（ラッパ）」という戦闘的楽器から「órgano（オルガン）」という礼拝的楽器への転換が、暴力（アベル）から聖なる受難（キリスト）への質的変容を音楽的に実現する。「La viña celeste da el celeste vino（天上の葡萄園が天上のぶどう酒を与える）」──聖体論（eucaristía）の詩的定式：キリストの血がぶどう酒として信徒に与えられるという聖体聖事（Eucharistía）の神学を「viña celeste（天上の葡萄園）」という牧歌的形象で詩的に転換する。「se abrevan del vino divino（神のぶどう酒で潤される）」──「abrevar（水を飲ませる・潤す）」は家畜に水を与えるという農業的語彙：「魂（almas）」が「神のぶどう酒」によって家畜が水場で潤されるように「潤される」という謙虚な受動性の形象。ヴェイユ「Accepter le vide」§1「La grâce comble, mais elle ne peut entrer que là où il y a un vide（恩寵は満たす、しかしそれは空虚があるところにのみ入れる）」との照応──「almas se abrevan（魂が潤される）」という空虚な魂が神のぶどう酒で満たされる構造がヴェイユの「空虚と恩寵」の詩的具体化として。",
+      "targetId": "weil_accepter_le_vide",
+      "targetParagraphId": 1
+    },
+    {
+      "paragraphId": 3,
+      "type": "intertextual",
+      "anchor": "Sangre de los martirios. El salterio.\nHogueras; leones, palmas vencedoras;\nLos heraldos rojos con que del misterio\nVienen precedidas las grandes auroras.",
+      "body": "「殉教者たちの血（Sangre de los martirios）──詩篇琴（El salterio）──火刑台、獅子、勝利の棕櫚（palmas vencedoras）──神秘から大いなる夜明けを先触れする赤い伝令たち（heraldos rojos）」──詩篇の第3段階として殉教（martirio）が「血」の霊的証言として位置づけられる。「El salterio（詩篇琴）」──旧約詩篇（Psalmos）を歌う際の弦楽器：詩篇琴の音色が殉教者の証言（martyria）という言語的行為と対応する──「血（sangre）」が「言葉（salmo）」と等価な証言として定義される。「Hogueras; leones, palmas vencedoras（火刑台、獅子、勝利の棕櫚）」──初期キリスト教殉教の三形象：「火刑台（hoguera）」・「獅子（leones、ローマの円形闘技場）」・「棕櫚（palma、殉教者の象徴）」が視覚的に連続する。「Retratos」II部「Sor María murió condenada a la hoguera（ソル・マリアは火刑を宣告されて死んだ）」との直接的照応──ダリオにとって「hoguera（火刑）」は「Retratos」の異端審問的断罪と「Canto de la sangre」の殉教的証言という二重の意味を持つ：同一の「火刑」が一方では制度的暴力として、他方では霊的証言として機能する詩篇横断的な両義性。「Los heraldos rojos（赤い伝令たち）」──「rojo（赤）」という血の色が「heraldos（伝令・先触れ）」として「grandes auroras（大いなる夜明け）」を告げる：殉教者の血が歴史的変革の「赤い夜明け」の前触れとして定義される。ヴェイユ「affliction（苦悩）」論における「afflictionは神の不在の刻印である」という命題との照応──殉教者の「hoguera・leones」という極限的苦悩が「神秘（misterio）」への入口として「grandes auroras（大いなる夜明け）」を先触れするという逆説。",
+      "targetId": "dario_retratos",
+      "targetParagraphId": 9
+    },
+    {
+      "paragraphId": 4,
+      "type": "commentary",
+      "anchor": "Sangre que vierte el cazador. El cuerno.\nFurias escarlatas y rojos destinos\nForjan en las fraguas del obscuro Infierno\nLas fatales armas de los asesinos.",
+      "body": "「狩人が流す血（Sangre que vierte el cazador）──ホルン（El cuerno）──暗い地獄の鍛冶場で鍛える（Forjan en las fraguas del obscuro Infierno）──殺人者たちの宿命の武器（Las fatales armas de los asesinos）」──詩篇の世俗的暴力の連。「El cuerno（ホルン・角笛）」──狩猟の楽器：「Clarín（ラッパ）」という戦争楽器から「cuerno（角笛）」という狩猟楽器へ、制度的暴力（戦争・帝国）から個人的暴力（狩猟・殺人）への降下。「Furias escarlatas y rojos destinos（真紅の怒りと赤い運命）」──「Furias（フリアエ）」：ギリシャ・ローマ神話の復讐の女神エリニュエス／フリアエ──「escarlatas（真紅の）」という色彩的形容が血と怒りの同一視として機能する。「las fraguas del obscuro Infierno（暗い地獄の鍛冶場）」──ヘパイストスの鍛冶場・ウェルカーヌスの炉という古典的形象：「obscuro Infierno（暗い地獄）」という修飾がダンテ「地獄篇」の「luce muta（光なき闇）」を想起させる──殺人者の「fatales armas（宿命の武器）」が地獄で鍛造されるという神話的因果律。「fatales armas de los asesinos（殺人者たちの宿命の武器）」──「fatales（宿命的・致命的）」という形容詞が武器に「運命（fatalidad）」の性格を付与する：殺人者は「宿命」によって武器を手にするという倫理的・神学的問題提起。コヘレト第1章v.15「Perversi difficile corriguntur（ねじれたものは矯正が難しい）」との照応──「fatales armas」という「宿命の武器」が矯正不可能な人間的悪性として。",
+      "targetId": "hieronymus_ecclesiastes_1",
+      "targetParagraphId": 15
+    },
+    {
+      "paragraphId": 5,
+      "type": "commentary",
+      "anchor": "¡Oh sangre de las vírgenes! La lira.\nEncanto de abejas y de mariposas.\nLa estrella de Venus desde el cielo mira\nEl purpúreo triunfo de las reinas rosas.",
+      "body": "「ああ、乙女たちの血よ！（¡Oh sangre de las vírgenes!）竪琴（La lira）──蜂と蝶の魅惑（Encanto de abejas y de mariposas）──金星が天から見守る──女王バラたちの紫の勝利（El purpúreo triunfo de las reinas rosas）」──詩篇7連の中で唯一感嘆符（!）が付され、唯一「血」が官能的・美的な文脈に置かれる連。「¡Oh sangre de las vírgenes!」──感嘆符による強調：アベルの血・キリストの血・殉教者の血・狩人の血という連続の中で、乙女の血のみが「¡Oh!」という現在の讃嘆を喚起する──血の審美化として。「La lira（竪琴）」──竪琴はアポロン・オルフェウスの楽器として詩・恋愛・美の象徴：7つの楽器の中で最も詩的な楽器が「乙女の血」と対応することで、詩的創造と官能的愛の結びつきが確立される。「Encanto de abejas y de mariposas（蜂と蝶の魅惑）」──「Retratos」II部最終連「Dos abejas volaron de las rosas del seno（胸のバラから二匹の蜂が飛び立った）」との直接的照応──ダリオにとって「abejas（蜂）」は霊魂・甘さ・毒の三重の象徴として「sangre de las vírgenes（乙女の血）」と「Sor María」の火刑を通底する。「La estrella de Venus（金星）」──ウェヌス（Venus）の星：愛・美・官能の女神がこの連を天上から見守る──「El poeta pregunta por Stella」の「Stella（星）」という純粋な星的女性像が、ここでは「Venus（官能的愛の星）」として官能的次元に引き降ろされる。「purpúreo triunfo de las reinas rosas（女王バラたちの紫の勝利）」──「reinas rosas（女王バラ）」という擬人化：バラが女王として君臨し「purpúreo（紫の）」という血・官能・帝国の三重の意味を持つ色彩が「triunfo（勝利）」を修飾する。"
+    },
+    {
+      "paragraphId": 6,
+      "type": "commentary",
+      "anchor": "Sangre que la Ley vierte.\nTambor a la sordina.\nBrotan las adelfas que riega la Muerte\nY el rojo cometa que anuncia la ruina.",
+      "body": "「法が流す血（Sangre que la Ley vierte）──弱音太鼓（Tambor a la sordina）──死が水やりするキョウチクトウが芽生え（Brotan las adelfas que riega la Muerte）──破滅を告げる赤い彗星（el rojo cometa que anuncia la ruina）」──詩篇の政治的・制度的暴力の連。「la Ley（法）」──大文字表記の「Ley（法）」が固有名詞的地位を得る：国家・制度・司法という抽象的暴力が「血を流す（vierte）」主体として定義される──「Retratos」I部「¡AL OLVIDO!」と宣言した騎士的ヒダルゴの世界から、無名の「法的暴力」へと暴力の主体が変容する。「Tambor a la sordina（弱音太鼓）」──「a la sordina（弱音で・こっそりと）」という副詞句：「法の血」が「弱音太鼓」という抑制された・秘密の・静かな楽器と対応する──法的暴力が「公的」でありながら「sordina（弱音）」という沈黙・抑圧のもとに執行される。「adelfas（キョウチクトウ）」──キョウチクトウ（Nerium oleander）：美しい花を持つが全草が有毒の植物──「Muerte（死）」が「水やりする（riega）」という農業的動詞が死の植物的・自然的蔓延を示す。「el rojo cometa que anuncia la ruina（破滅を告げる赤い彗星）」──彗星は古来「厄災の前触れ」の天文学的形象：「rojo（赤）」という血の色が天体現象に付与されることで、「法の血」が宇宙的規模の「ruina（破滅・崩壊）」の予兆として提示される。ヴェイユ「La violence（暴力）」論での「法と暴力は連続する」という命題の詩的前景化。"
+    },
+    {
+      "paragraphId": 7,
+      "type": "intertextual",
+      "anchor": "Sangre de los suicidas. Organillo.\nFanfarrias macabras, responsos corales.\nCon que de Saturno celébrase el brillo\nEn los manicomios y en los hospitales.",
+      "body": "「自殺者たちの血（Sangre de los suicidas）──手回しオルガン（Organillo）──マカブルなファンファーレ、合唱の応答聖歌──サトゥルヌスの輝きが精神病院と病院において祝われる」──詩篇の最終段階にして最も世俗化・卑俗化された「血」の定義。「Organillo（手回しオルガン）」──手回しオルガンは路上芸人・サーカス・大衆的娯楽の楽器として「高貴な楽器」（オルガン・竪琴）の対極：アベルの血「Clarín（ラッパ）」→キリストの血「órgano（オルガン）」という音楽的降下が「suicidas（自殺者）」の「Organillo（手回しオルガン）」として底を打つ──神聖なる音楽から路上の雑音への完全な降落。「Fanfarrias macabras（マカブルなファンファーレ）」──「macabro（マカブル・死の舞踏的）」という形容詞：15世紀ヨーロッパの「死の舞踏（Danse macabre）」の伝統──すべての社会的地位の人間が死に連れ去られるという図像的主題が「fanfarrias（ファンファーレ）」という祝祭的音楽と結合する逆説。「de Saturno celébrase el brillo（サトゥルヌスの輝きが祝われる）」──「Saturno（サトゥルヌス）」：ローマ神話の農耕神であると同時に「メランコリーの星」──中世・ルネサンスの占星術的伝統では土星（Saturnus）は憂鬱質（melancolía）・狂気・自殺を司る惑星として定義される：「manicomios（精神病院）・hospitales（病院）」という施設でサトゥルヌスの輝きが「祝われる（celébrase）」という逆説的定式が自殺者の精神的苦悩の宇宙論的根拠として機能する。シルバ・ボルハ・ノボアという詩集を遺して自ら命を絶ったエクアドル・モデルニスモの三詩人との照応──1896年のダリオのこの詩行が、後年（1912年ボルハ、1919年シルバ）の「Sangre de los suicidas（自殺者たちの血）」を予言的に語る。ヨブ記第3章v.3「Pereat dies in qua natus sum（私が生まれた日は滅びよ）」──ヨブの誕生への呪いがダリオの「自殺者の血」に対応する：生への否定として「Organillo」という卑俗な楽器が鳴り響く。ダリオ「Nocturno」最終行「de la cual no hay más que Ella que nos despertará（ただ彼女だけが目覚めさせてくれる）」という「死（Ella）による覚醒」との照応──「Nocturno」では個人的実存として語られた死への欲動が「Canto de la sangre」では「自殺者たちの血」という類型として普遍化・分類される。",
+      "targetId": "borja_melancolia_madre_mia",
+      "targetParagraphId": 1
+    }
+  ]
+}
