@@ -1,0 +1,97 @@
+{
+  "id": "borja_madre_locura",
+  "title": "Madre locura",
+  "author": "Arturo Borja",
+  "source": "La flauta de ónix (1920, 死後出版). Wikisource: https://es.wikisource.org/wiki/Madre_locura",
+  "year": "1920",
+  "firstPublication": "La flauta de ónix, Quito, 1920（死後出版）",
+  "difficulty": "上級",
+  "category": "borja",
+  "originalLang": "es-ES",
+  "modernRelevance": "★★★★★",
+  "context": "アルトゥーロ・ボルハ（Arturo Borja, 1892–1912）の遺詩集『オニキスの笛（La flauta de ónix）』所収。変形ソネット（4・4・3・3行）。「Madre Locura（狂気よ、私の母よ）」という呼格が「Melancolía, madre mía（憂愁よ、私の母よ）」と対をなす──憂愁と狂気という二つの「母」への呼びかけとして詩集内部で呼応する。「Locura（狂気）」の擬人化・母化が「Melancolía（憂愁）」と同型の構造を持つが、その内容は正反対──憂愁が「眠りと苦悩の甘い誇り」を提供するのに対して、狂気は「仮面・鈴・無意識・笑い」という意識の解放を提供する。「país de Citeres（キュテラの国）」──ボードレール「キュテラへの旅（Un Voyage à Cythère, 1857）」への直接的参照：ヴィーナスの聖なる島キュテラがボードレールにおいて「幻滅と腐敗の島」として詩化される──ボルハの「Sólo amargura traje del país de Citeres（キュテラの国から苦みだけを持ち帰った）」がボードレールの幻滅的帰還を踏まえる。「la risa que llora（泣きながら笑う）」という中心的逆説がボルハ詩篇の根本的感情構造を定式化する。",
+  "keywords": [
+    "Madre Locura",
+    "caretas",
+    "incoherencia",
+    "divina inconsciencia",
+    "risa que llora",
+    "país de Citeres",
+    "libélulas vanas",
+    "olvido y alegrías",
+    "狂気の擬人化",
+    "意識の解放"
+  ],
+  "relatedTexts": [
+    "borja_melancolia_madre_mia",
+    "borja_primavera_mistica_y_lunar",
+    "borja_voy_a_entrar_al_olvido",
+    "baudelaire_spleen",
+    "baudelaire_invitation_voyage",
+    "noboa_morfina",
+    "noboa_hastio",
+    "hieronymus_ecclesiastes_1",
+    "rodenbach_loubli",
+    "weil_accepter_le_vide"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "verses": "v.1–4",
+      "original": "¡Madre Locura! Quiero ponerme tus caretas.\nQuiero en tus cascabeles beber la incoherencia,\ny al son de las sonajas y de las panderetas\nfrivolizar la vida con divina inconsciencia.",
+      "provisionalTranslation": "狂気よ、私の母よ！私はあなたの仮面をつけたい。\nあなたの鈴の中に不一致を飲み込みたい、\nそしてガラガラとタンバリンの音に合わせて\n神聖な無意識で命を軽薄にしたい。"
+    },
+    {
+      "id": 2,
+      "verses": "v.5–8",
+      "original": "¡Madre Locura! Dame la sardónica gracia\nde las peroraciones y las palabras rotas.\nTus hijos pertenecen a la alta aristocracia\nde la risa que llora, danzando alegres jotas.",
+      "provisionalTranslation": "狂気よ、私の母よ！私に与えてくれ、長口舌と\n壊れた言葉の皮肉な恩寵を。\nあなたの子らは、楽しげにホタを踊りながら、\n泣きながら笑う者たちの高位貴族に属する。"
+    },
+    {
+      "id": 3,
+      "verses": "v.9–11",
+      "original": "Sólo amargura traje del país de Citeres...\nSé que la vida es dura, y sé que los placeres\nson libélulas vanas, son bostezos, son tedio...",
+      "provisionalTranslation": "キュテラの国から苦みだけを持ち帰った……\n命は過酷であることを私は知っている、そして快楽が\nはかない蜻蛉であり、欠伸であり、倦怠であることを。"
+    },
+    {
+      "id": 4,
+      "verses": "v.12–14",
+      "original": "Y por esto, Locura, yo anhelo tu remedio,\nque disipa tristezas, borra melancolías,\ny puebla los espíritus de olvido y alegrías...",
+      "provisionalTranslation": "だからこそ、狂気よ、私はあなたの治療を切望する、\n悲しみを払い散らし、憂愁を消し去り、\n魂を忘却と歓喜で満たすあなたの治療を……"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "¡Madre Locura! Quiero ponerme tus caretas.\nQuiero en tus cascabeles beber la incoherencia,\ny al son de las sonajas y de las panderetas\nfrivolizar la vida con divina inconsciencia.",
+      "body": "「狂気よ、私の母よ──あなたの仮面をつけたい（ponerme tus caretas）──神聖な無意識で命を軽薄にしたい（frivolizar la vida con divina inconsciencia）」──詩篇の開幕呼格が「仮面（caretas）」という擬装の欲望として定義される。「caretas（仮面・滑稽な仮面）」──「careta」は単純な「仮面（máscara）」よりも道化的・喜劇的な仮面を指す：ヴェネツィアのカーニバル的な「仮面（bauta）」の伝統。レニエのエピグラフ「Voici le masque pour la fête du mensonge（これが嘘の祭りのための仮面だ）」──「Voy a entrar al olvido」のエピグラフが「仮面（masque）」を「嘘の祭り」の道具として定義したのに対して、ここでは「狂気の仮面（caretas de la Locura）」が「神聖な無意識（divina inconsciencia）」の道具として積極的に欲望される。「cascabeles（鈴）」・「sonajas（ガラガラ）」・「panderetas（タンバリン）」──道化・道化師・カーニバルの楽器の三重列挙：音響的喧騒が「不一致（incoherencia）」を「飲み込む（beber）」という味覚的行為と融合する共感覚。「divina inconsciencia（神聖な無意識）」──「divina（神聖な）」という形容が「inconsciencia（無意識）」に付与される逆説：意識の消去が「神聖な」行為として定義される。バタイユ『エロティシズム（L'Érotisme, 1957）』での「意識の断絶（discontinuité）」──人間は本来「不連続な存在（être discontinu）」として孤立しているが、エロティシズム・祭り・宗教的恍惚において「連続性（continuité）」への回帰を体験する：「divina inconsciencia」という意識の解放が、バタイユ的な「不連続性の解体」としての神聖な体験として読める。",
+      "targetId": "borja_voy_a_entrar_al_olvido",
+      "targetParagraphId": 0
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "Tus hijos pertenecen a la alta aristocracia\nde la risa que llora, danzando alegres jotas.",
+      "body": "「あなたの子らは、楽しげにホタを踊りながら、泣きながら笑う者たちの高位貴族（alta aristocracia de la risa que llora）に属する」──詩篇の詩学的・感情的核心命題。「la risa que llora（泣きながら笑う）」──「笑い（risa）」と「泣くこと（llorar）」の同一命題内での結合：「Voy a entrar al olvido」§1「notarás en mi risa cierto rezo de angustias（私の笑いの中に苦悩の祈りを認めるだろう）」というボルハの「笑いの裏の苦悩」という定式の最も凝縮された形。バタイユ『文学と悪（La Littérature et le Mal, 1957）』での「笑いと死の親縁性」──バタイユにとって笑いは「人間の不連続性（solitude）」を破る瞬間的な「連続性（continuité）への回帰」であり、同時に「死の瞬間における連続性への回帰」と同型の体験として論じられる：「la risa que llora（泣きながら笑う）」という形象がバタイユ的な「笑いと死（涙）の境界の消滅」として読める。「alta aristocracia（高位貴族）」──「Morfina」§7「predilectos hijos del Dolor（苦悩の選ばれた子ら）」との照応：苦悩者・狂人が「高貴な選ばれた者たち」として定義される詩人共同体の自己聖別の定式。「sardónica gracia（皮肉な恩寵）」──「sardónico（サルデーニャ的・苦笑的・皮肉な）」という形容詞：ギリシャ語「sardonios（サルデーニャの毒草を食べて引きつる笑い）」に由来する──苦痛によって引きつる笑いとしての「sardónica gracia」が「泣きながら笑う」形象の語源的根拠として機能する。「ホタ（jotas）」はフラメンコと並列して伝承されるスペインの舞踊音楽。",
+      "targetId": "noboa_morfina",
+      "targetParagraphId": 7
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "Sólo amargura traje del país de Citeres...\nSé que la vida es dura, y sé que los placeres\nson libélulas vanas, son bostezos, son tedio...",
+      "body": "「キュテラの国から苦みだけを持ち帰った（Sólo amargura traje del país de Citeres）──快楽がはかない蜻蛉であり、欠伸であり、倦怠（libélulas vanas, son bostezos, son tedio）」──詩篇の哲学的・文学的核心命題。「país de Citeres（キュテラの国）」──ボードレール「キュテラへの旅（Un Voyage à Cythère, 1857）」への直接的参照：キュテラはヴィーナス（アフロディーテ）の聖なる島として「愛の楽園」を象徴するが、ボードレールの詩ではその島が「腐敗した死体と腐臭」の「惨めな島（île triste）」として描かれる──「Sólo amargura traje（苦みだけを持ち帰った）」がボードレール的な「愛の楽園への幻滅的到着」の詩的継承として機能する。「libélulas vanas（はかない蜻蛉）」──「libélula（蜻蛉）」は「儚さ・瞬間性・虹色の光」の昆虫的形象：コヘレト第1章v.2「hevel havelim（息・蒸気のようなはかなさ）」という「vanitas」の概念が「libélulas vanas（はかない蜻蛉たち）」として視覚的・生物的に具体化される。「son bostezos, son tedio（欠伸であり、倦怠である）」──「bostezo（欠伸）」という身体的倦怠の形象：「Hastío（倦怠）」というノボアの詩篇タイトルが示す「ennui」の身体化として「bostezo（欠伸）」が機能する──精神的倦怠が生理的「欠伸」として詩的に具現化される。コヘレト第1章v.8「Cunctae res difficiles; non potest eas homo explicare sermone（すべての事柄は困難であり、人はそれを言葉で説明することができない）」──「sé que（私は知っている）」という認識の蓄積がコヘレト的な「知ることの徒労」として機能する。",
+      "targetId": "hieronymus_ecclesiastes_1",
+      "targetParagraphId": 2
+    },
+    {
+      "paragraphId": 4,
+      "type": "commentary",
+      "anchor": "Y por esto, Locura, yo anhelo tu remedio,\nque disipa tristezas, borra melancolías,\ny puebla los espíritus de olvido y alegrías...",
+      "body": "「だからこそ、狂気よ、私はあなたの治療（remedio）を切望する──悲しみを払い散らし、憂愁を消し去り──魂を忘却と歓喜（olvido y alegrías）で満たす」──詩篇の結語にして、「狂気への要求」の最終的定式化。「remedio（治療・薬）」──「Morfina」全篇の「モルヒネという治療薬」と同型の構造：「Morfina」ではモルヒネが「治療（remedio）」として機能するのに対して、ここでは「狂気（Locura）」が「治療」として機能する──薬物的逃避と精神的逃避の詩的等価性。「borra melancolías（憂愁を消し去る）」──「Melancolía, madre mía」との直接的対話：「憂愁（melancolía）」が前詩では「母（madre）」として抱擁されるのに対して、ここでは「狂気の治療によって消し去られるべき（borra）」ものとして定義される──二詩篇の弁証法的緊張。「olvido y alegrías（忘却と歓喜）」という結語の対句──「olvido（忘却）」と「alegrías（歓喜）」という一見対立する二項が「狂気の充填物（puebla los espíritus）」として並置される：バタイユ『エロティシズム』での「禁止の侵犯（transgression）」──祭り・狂気・エロティシズムにおける「禁止（interdit）の侵犯」が「歓喜（joie）」と「忘却（oubli）」の同時的体験をもたらすという命題が、ボルハの「olvido y alegrías」という結語的対句として詩的に先取りされる。「puebla los espíritus（魂を満たす）」──ヴェイユ「Accepter le vide」§1「La grâce comble（恩寵は満たす）」という「空虚の充填」との逆説的照応：ヴェイユが「恩寵による充填」を説くのに対して、ボルハは「狂気による忘却と歓喜の充填」を求める──同じ「充填（combler / pueblar）」の構造を持ちながら、その内容が「恩寵」と「狂気」として対極化される。",
+      "targetId": "weil_accepter_le_vide",
+      "targetParagraphId": 1
+    }
+  ]
+}
