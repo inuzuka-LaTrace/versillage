@@ -205,6 +205,7 @@ export const PREFERRED_VOICES = {
   'ru': ['Google русский', 'Microsoft Irina', 'Milena'],
   'es': ['Monica', 'Google español', 'Microsoft Helena', 'Microsoft Sabina', 'Jorge', 'Juan'],
   'la': ['Google latine', 'Microsoft Leonardo', 'Aris', 'Alice', 'Luca'], // ラテン語専用 + イタリア語流用
+  'gr': ['Google ελληνικά', 'Microsoft Andromachi', 'Microsoft Stefanos', 'Melina'], // 現代ギリシア語を流用
 };
 // constants.js の最下部に追加
 // フラッシュカード：長文除外しきい値（文字数）
