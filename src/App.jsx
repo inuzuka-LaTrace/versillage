@@ -2092,7 +2092,7 @@ export default function App() {
       className={`text-[8px] max-w-xs mx-auto ${textSecondary}`}
     >
       VANITISME ; L'archive polyglotte de l'écriture :<br />
-      français, allemand, anglais, russe, italien, espagnol et latin. <br />
+      français, allemand, anglais, russe, italien, espagnol, latin et grec. <br />
       Dispositif de lecture, de traduction et de mémoire.<br />
       <br />
       Recueil de {Object.keys(texts).length} textes<br />
@@ -2138,7 +2138,7 @@ const TocDrawer = ({
   setTocOpenAuthors,
   handleTextChange
 }) => {
-    const langMap = { 'fr': 'fr-FR', 'de': 'de-DE', 'en': 'en-GB', 'ru': 'ru-RU', 'it': 'it-IT', 'es': 'es-ES', 'la': 'la-LA' };
+    const langMap = { 'fr': 'fr-FR', 'de': 'de-DE', 'en': 'en-GB', 'ru': 'ru-RU', 'it': 'it-IT', 'es': 'es-ES', 'la': 'la-LA', 'gr': 'gr-GR' };
 
     // ── フィルタリング（言語 + 検索：タイトル/作家/年/本文） ──────────
     const allTextsArr = Object.values(texts);
@@ -2280,7 +2280,7 @@ const TocDrawer = ({
           </div>
 
           {/* ── 言語フィルター ── */}
-          <div className={`px-3 py-2 border-b ${tocBorder} flex gap-1.5 shrink-0`}>
+          <div className={`px-2.5 py-2 border-b ${tocBorder} flex gap-1.5 shrink-0`}>
             {[
               { key: 'all', label: '全' },
               { key: 'fr',  label: 'fr' },
@@ -2290,6 +2290,7 @@ const TocDrawer = ({
               { key: 'it',  label: 'it' },
               { key: 'es',  label: 'es' },
               { key: 'la',  label: 'la' },
+              { key: 'gr',  label: 'gr' },
             ].map(({ key, label }) => (
               <button
                 key={key}
