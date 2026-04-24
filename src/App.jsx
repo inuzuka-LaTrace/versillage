@@ -992,7 +992,6 @@ export default function App() {
 
   const fontFamilyStyle =
     fontFamily === 'garamond'     ? '"EB Garamond", "Shippori Mincho B1", serif' :
-    fontFamily === 'alice'        ? '"Alice", "Shippori Mincho B1", serif' :
     fontFamily === 'jura'         ? '"Jura", "IBM Plex sans JP", sans-serif' :
     '"EB Garamond", "Shippori Mincho B1", serif';
 
@@ -1220,7 +1219,6 @@ export default function App() {
             <div className="flex flex-col gap-1.5">
               {[
                 ['garamond',    'Garamond',     'EB Garamond'],
-                ['alice',       'Alice',         'Alice'],
                 ['jura',        'Jura',           'Jura'],
               ].map(([val, label, preview]) => (
                 <button key={val} onClick={() => setFontFamily(val)}
@@ -2364,7 +2362,7 @@ const TocDrawer = ({
                                 >
                                   {t.title}
                                 </span>
-                                <span className={`text-[10px] font-Alice shrink-0 ml-auto tabular-nums ${tocDim}`}>
+                                <span className={`text-[10px] font-Garamond shrink-0 ml-auto tabular-nums ${tocDim}`}>
                                   {t.year}
                                 </span>
                               </div>
