@@ -56,6 +56,7 @@ export const CATEGORIES = {
   dario:                      { name: 'ダリオ' },
   hieronymus:                 { name: 'ヒエロニムス' },
   plato:                      { name: 'プラトン' },
+  meleager:                   { name: 'メレアグロス' },
 };
 
 // カテゴリー省略ラベル（バッジ表示用）
@@ -110,6 +111,7 @@ export const CAT_SHORT = {
   dario:                   'ダリオ',
   hieronymus:              'ヒエロニムス',
   plato:                   'プラトン',
+  meleager:                'メレアグロス',
 };
 
 export const AUTHOR_COLOR_MAP = {
@@ -159,6 +161,7 @@ export const AUTHOR_COLOR_MAP = {
   dario:            { dark: 'bg-amber-900/40 text-amber-300',   light: 'bg-amber-100 text-amber-800' },
   hieronymus:       { dark: 'bg-amber-900/40 text-amber-300',   light: 'bg-amber-100 text-amber-800' },
   plato:            { dark: 'bg-sky-900/40 text-sky-300',      light: 'bg-sky-100 text-sky-800' },
+  meleager:         { dark: 'bg-emerald-900/40 text-emerald-300', light: 'bg-emerald-100 text-emerald-800' },
   default:          { dark: 'bg-zinc-800 text-zinc-300',       light: 'bg-stone-100 text-stone-700' }
 };
 
