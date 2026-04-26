@@ -1,0 +1,172 @@
+{
+  "id": "jacobus_mater_speciosa",
+  "title": "Stabat Mater Speciosa",
+  "author": "Jacobus de Benedictis",
+  "source": "The seven great hymns of the mediaeval church Wikisource: https://en.wikisource.org/wiki/The_seven_great_hymns_of_the_mediaeval_church/Stabat_Mater_and_Mater_Speciosa/Mater_Speciosa,_Jacobus",
+  "year": "Medium Ævum",
+  "firstPublication": "典礼聖歌として降誕節（Nativitas Domini）の礼拝に使用；印刷初出：15世紀後半",
+  "difficulty": "中級",
+  "category": "liturgy",
+  "originalLang": "la-LA",
+  "modernRelevance": "★★★★★",
+  "context": "ヤコポーネ・ダ・トーディ（Jacopone da Todi, c.1230–1306）作とされる「Stabat Mater」の対の詩篇。13世紀後半頃；c.1280–1306に成立。典礼聖歌として降誕節（Nativitas Domini）の礼拝に使用。「Stabat Mater dolorosa（悲しみの母は立っていた）」が受難・十字架を主題とするのに対し、「Stabat Mater Speciosa（美しき母は立っていた）」は降誕・飼い葉桶の場面を主題として構造的対称性を形成する──「dolorosa（悲しみの）」対「speciosa（美しき）」・「lacrymosa（涙ながらの）」対「gaudiosa（喜びに満ちた）」・「Juxta crucem（十字架のそばに）」対「Juxta fœnum（飼い葉のそばに）」。詩篇全体が「喜び（gaudium）・歓喜（jubilus）・笑い（ridere）・陶酔（inebriare）」という感情的語彙によって支配される──Stabat Materの「苦悩（dolor）・afflictio・涙（lacrymæ）」との対称的転換として。VIII連が9行（三韻句×3）という拡張形式を取り、「亡命（exilium）」の中での「幼子への渇望」という主題的深化が形式的拡張として実現される。「Inflammatus et accensus / Obstupescit omnis sensus（炎に包まれ、すべての感覚が驚愕する）」（X連）──Stabat Mater IX連「Inflammatus et accensus（炎に包まれ）」の語句反復が、磔刑への陶酔（Stabat Mater）と降誕への陶酔（Mater Speciosa）の同一性を宣言する典礼的二重性として機能する。",
+  "keywords": [
+    "mater speciosa",
+    "美しき母",
+    "降誕",
+    "飼い葉桶",
+    "gaudiosa",
+    "喜び",
+    "jubilus",
+    "exilium",
+    "亡命",
+    "ヤコポーネ・ダ・トーディ",
+    "中世ラテン語",
+    "典礼聖歌",
+    "Stabat Materの対"
+  ],
+  "relatedTexts": [
+    "jacobus_stabat_mater",
+    "celano_dies_irae",
+    "hieronymus_psalm_21",
+    "weil_accepter_le_vide",
+    "weil_pesanteur_beaute",
+    "kavafis_en_to_koimitirio",
+    "rilke_duineser_elegien_01",
+    "trakl_ein_winterabend"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "verses": "I",
+      "original": "STABAT Mater speciosa\nJuxta fœnum gaudiosa,\nDum jacebat parvulus;\nCujus animam gaudentem\nLactabundam ac ferventem\nPertransivit jubilus.",
+      "provisionalTranslation": "美しき母は立っていた\n喜びに満ちて飼い葉のそばに、\n幼子が横たわっている間。\n喜びに満ち\n乳を与え、熱情を燃やすその魂を\n歓喜が突き貫いた。"
+    },
+    {
+      "id": 2,
+      "verses": "II",
+      "original": "O quam læta et beata\nFuit illa immaculata\nMater Unigeniti!\nQuæ gaudebat et ridebat,\nExultabat, cum videbat\nNati partum inclyti.",
+      "provisionalTranslation": "ああ、いかに喜ばしく祝福されていたか、\nかの汚れなき\n独り子の母は！\n喜び、笑い、\n歓喜した──その目で見ていたとき\n高名な御子の誕生を。"
+    },
+    {
+      "id": 3,
+      "verses": "III",
+      "original": "Quis jam est, qui non gauderet\nChristi matrem si videret\nIn tanto solatio?\nQuis non posset collætari,\nChristi matrem contemplari\nLudentem cum filio?",
+      "provisionalTranslation": "今、誰が喜ばずにいられるだろうか、\nキリストの母を目にするならば\nこれほどの慰めの中に？\n誰が喜び合わずにいられるだろうか、\nキリストの母を観想するならば\n御子とともに遊んでいる母を？"
+    },
+    {
+      "id": 4,
+      "verses": "IV",
+      "original": "Pro peccatis suæ gentis\nChristum vidit cum jumentis\nEt algori subditum;\nVidit suum dulcem natum\nVagientem, adoratum\nVili diversorio.",
+      "provisionalTranslation": "その民の罪のために\n彼女はキリストが家畜とともに\n寒さにさらされているのを見た。\n彼女は自らの甘い御子が、\n泣き叫び、しかし崇められているのを見た\n粗末な宿屋で。"
+    },
+    {
+      "id": 5,
+      "verses": "V",
+      "original": "Nato Christo in præsepe\nCœli cives canunt læte\nCum immenso gaudio;\nStabat senex cum puella\nNon cum verbo nec loquela.\nStupescentes cordibus",
+      "provisionalTranslation": "キリストが飼い葉桶に生まれると\n天の市民たちは喜んで歌う\n計り知れない喜びとともに。\n老人と乙女は立っていた\n言葉も語りもなく、\n心に驚愕を抱きながら。"
+    },
+    {
+      "id": 6,
+      "verses": "VI",
+      "original": "Eja mater, fons amoris,\nMe sentire vim ardoris,\nFac ut tecum sentiam!\nFac ut ardeat cor meum\nIn amatum Christum Deum,\nUt sibi complaceam.",
+      "provisionalTranslation": "ああ母よ、愛の泉よ、\n燃え上がりの力を感じさせたまえ、\n私があなたとともに感じることができるように！\n私の心を燃え上がらせたまえ\n愛されるキリスト神へと、\n私が彼の御心にかなうように。"
+    },
+    {
+      "id": 7,
+      "verses": "VII",
+      "original": "Sanscta mater, istud agas,\nProne introducas plagas\nCordi fixas valide.\nTui nati cœlo lapsi,\nJam dignati fœno nasci\nPœnas mecum divide.",
+      "provisionalTranslation": "聖なる母よ、これをなしてください、\n傷を心に力強く刻みつけて\n進んで導き入れてください。\nあなたの天から降りた御子の──\n今や飼い葉に生まれることを望んだ方の──\n苦悩を私と分かちあってください。"
+    },
+    {
+      "id": 8,
+      "verses": "VIII",
+      "original": "Fac me vere congaudere,\nJesulino cohærere\nDonec ego vixero.\nIn me sistat ardor tui;\nPuerino fac me frui\nDum sum in exilio.\nHunc ardorem fac communem,\nNe me facias immunem\nAb hoc desiderio.",
+      "provisionalTranslation": "私が真にともに喜び、\n幼いイエスとともにあるようにしてください\n私が生きている間は。\nあなたへの熱情が私の中に留まりますように。\n幼子を私が享受できるよう、\n私が亡命の中にある間に。\nこの熱情を共有のものとしてください、\n私をこの渇望から\n免れた者にしないでください。"
+    },
+    {
+      "id": 9,
+      "verses": "IX",
+      "original": "Virgo virginum præclara,\nMihi jam non sis amara;\nFac me parvum rapere;\nFac ut pulchrum santem portem,\nQui nascendo vicit mortem,\nVolens vitam tradere.",
+      "provisionalTranslation": "乙女たちの中の輝かしい乙女よ、\n今はもう私に対して厳しくしないでください。\n幼子を私に取らせてください。\n美しく聖なる御子を私が担えるようにしてください、\n生まれることで死に勝った方を、\n命を引き渡すことを望みながら。"
+    },
+    {
+      "id": 10,
+      "verses": "X",
+      "original": "Fac me tecum satiari,\nNato me inebriari,\nStans inter tripudio.\nInflammatus et accensus\nObstupescit omnis sensus\nTali de commercio.",
+      "provisionalTranslation": "あなたとともに私が満たされ、\n御子によって私が陶酔するようにしてください、\n踊りの輪の中に立ちながら。\n炎に包まれ、燃え上がりながら、\nすべての感覚が驚愕する\nかかる交わりによって。"
+    },
+    {
+      "id": 11,
+      "verses": "XI",
+      "original": "Omnes stabulum amantes,\nEt pastores vigilantes\nPernoctantes sociant.\nPer virtutem nati tui\nOra ut electi sui\nAd patriam veniant.",
+      "provisionalTranslation": "厩を愛するすべての者たちと、\n夜を徹して見張りをする羊飼いたちが\n夜を過ごしながら仲間となる。\nあなたの御子の力によって\n選ばれた者たちが\n故郷へと来るよう祈ってください。"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "prosody",
+      "anchor": "STABAT Mater speciosa\nJuxta fœnum gaudiosa,\nDum jacebat parvulus;",
+      "body": "「Mater Speciosa」と「Stabat Mater」の対称的詩形──冒頭の「Stabat Mater speciosa / Juxta fœnum gaudiosa」が「Stabat Mater dolorosa / Juxta crucem lacrymosa」と逐語的に対応する：「speciosa（美しき）←→dolorosa（悲しみの）」・「fœnum（飼い葉）←→crucem（十字架）」・「gaudiosa（喜びに満ちた）←→lacrymosa（涙ながらの）」という三対の語彙的反転によって両詩篇の構造的対称性が確立される。詩形はStabat Materと同じAAbCCb押韻・各連6行（VIII連のみ9行・XP連は5行）のセクエンツィア形式。「jubilus（歓喜）」──「jubilare（歓喜の叫びをあげる）」：典礼音楽における「ジュビルス（jubilus）」は言語を超えた「純粋な歓喜の声」──アレルヤ唱の最後の音節への長大なメリスマとして機能する装飾音型として。Stabat Materの「gladius（剣が突き貫いた）」対Mater Speciosaの「jubilus（歓喜が突き貫いた）」──「Pertransivit（突き貫いた）」という動詞の反復によって「苦悩の剣」と「歓喜の歌声」が同一の動詞的貫通力として定義される。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "O quam læta et beata\nFuit illa immaculata\nMater Unigeniti!\nQuæ gaudebat et ridebat,\nExultabat, cum videbat\nNati partum inclyti.",
+      "body": "「ああ、いかに喜ばしく祝福されていたか（O quam læta et beata）、かの汚れなき（immaculata）独り子の母は！喜び、笑い（ridebat）、歓喜した」──Stabat Mater II連「O quam tristis et afflicta / Fuit illa benedicta（ああ、いかに悲しく苦しんでいたか、かの祝福された）」との逐語的対応：「tristis（悲しい）→læta（喜ばしい）」・「afflicta（苦しむ）→beata（祝福された）」・「benedicta（祝福された）→immaculata（汚れなき）」の置換として。「ridebat（笑い）」──「ridere（笑う）」という動詞の典礼的文脈での使用：「笑い」はキリスト教神学において本来的に人間的・神的喜びの表現として認められてきたが、「聖母が笑う（ridebat）」という形象が「dolorosa（悲しみの）」との絶対的対照として際立つ。「Exultabat（歓喜した）」──「exultare（飛び跳ねて喜ぶ）」：ルカ福音書1:44「exultavit infans in utero meo（胎内の幼子が喜び踊りました）」のエリサベトの発言との照応──「喜びの身体的表現」としての歓喜。"
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "Quis jam est, qui non gauderet\nChristi matrem si videret\nIn tanto solatio?\nQuis non posset collætari,\nChristi matrem contemplari\nLudentem cum filio?",
+      "body": "「誰が喜ばずにいられるだろうか……誰が喜び合わずにいられるだろうか」──Stabat Mater III連「Quis est homo qui non fleret…Quis non posset contristari（誰が泣かずにいられるだろうか……誰が悲しまずにいられるだろうか）」との逐語的対応：「fleret（泣く）→gauderet（喜ぶ）」・「contristari（悲しむ）→collætari（喜び合う）」という感情動詞の全面的反転として。「solatio（慰め・安慰）」──「solatium（慰め）」：Stabat Materの「supplicio（苦しみ・拷問）」との対応──「苦しみの場（supplicio）」対「慰めの場（solatio）」として降誕と受難の場が定義される。「Ludentem cum filio（御子とともに遊んでいる）」──「ludere（遊ぶ）」：聖母マリアが幼子イエスと「遊ぶ（ludere）」という形象──中世の「幼子イエスとの遊戯」の神学的・神秘主義的伝統（Hildegard von Bingen等）との照応として。ヴェイユ「Beauté（美）」章の「距離は美の魂（La distance est l'âme du beau）」──「観想（contemplari）」が「距離を保ちながら見ること」として、Stabat Materの「観想」と同一語彙が「喜びの観想」として変容される。"
+    },
+    {
+      "paragraphId": 4,
+      "type": "commentary",
+      "anchor": "Christum vidit cum jumentis\nEt algori subditum;\nVidit suum dulcem natum\nVagientem, adoratum\nVili diversorio.",
+      "body": "「彼女はキリストが家畜とともに寒さにさらされているのを見た。彼女は自らの甘い御子が、泣き叫び、しかし崇められているのを見た、粗末な宿屋で」──Stabat Mater IV連「Vidit Jesum in tormentis / Et flagellis subditum…Morientem, desolatum（イエスが苦悶の中に鞭打たれているのを見た……死にゆき、見捨てられているのを見た）」との対応：「tormentis（苦悶）→algori（寒さ）」・「flagellis（鞭打ち）→jumentis（家畜）」・「Morientem（死にゆく）→Vagientem（泣き叫ぶ）」・「desolatum（見捨てられた）→adoratum（崇められた）」という反転として。「Vili diversorio（粗末な宿屋で）」──「vilis（卑しい・安物の）」：ルカ福音書2:7「quia non erat eis locus in diversorio（宿屋には彼らのための場所がなかった）」の直接的参照。「adoratum（崇められた）」──「adorare（礼拝する）」：「見捨てられた（desolatum）」磔刑の死と「崇められた（adoratum）」降誕の逆転──最も卑しい場所での最大の礼拝として。"
+    },
+    {
+      "paragraphId": 5,
+      "type": "commentary",
+      "anchor": "Nato Christo in præsepe\nCœli cives canunt læte\nCum immenso gaudio;\nStabat senex cum puella\nNon cum verbo nec loquela.\nStupescentes cordibus",
+      "body": "「キリストが飼い葉桶に生まれると天の市民たちは喜んで歌う……老人と乙女は立っていた言葉も語りもなく、心に驚愕を抱きながら」──5行構成（第5段落）：詩篇のテクスト伝承において「Stupescentes cordibus（心に驚愕を抱きながら）」が第5連の最終行として単独残存している──6行目の欠落または意図的な未完として。「Cœli cives（天の市民たち）」──「天使の合唱（angelorum chorus）」：天界の「市民（cives）」という政治的語彙が天使を「天上都市の住人」として定義する。「senex cum puella（老人と乙女）」──ヨセフとマリアを「老人（senex）」と「乙女（puella）」として定義する：「老いた夫」という中世的ヨセフ像。「Non cum verbo nec loquela（言葉も語りもなく）」──「verbum（言葉）」と「loquela（語り）」の二重否定：詩篇の語り手が「言葉を沈黙させる（αποσιωπώ）」カヴァフィス「Nous n'osons plus chanter（薔薇を歌うことを敢えてしない）」の「沈黙の詩学」と構造的照応──ヨセフとマリアの「言葉なき驚愕（Stupescentes）」が言語的驚異の前の沈黙として。「Stupescentes cordibus（心に驚愕を抱きながら）」──「stupescere（驚愕する・麻痺する）」：Stabat Mater IV連「Mors stupebit（死も呆然とする）」との同語根的照応──審判の日の死の驚愕と降誕の夜の人間の驚愕が同語根的沈黙として。",
+      "targetId": "kavafis_nous_nosons_plus_chanter_les_roses",
+      "targetParagraphId": 1
+    },
+    {
+      "paragraphId": 6,
+      "type": "commentary",
+      "anchor": "Eja mater, fons amoris,\nMe sentire vim ardoris,\nFac ut tecum sentiam!",
+      "body": "「ああ母よ、愛の泉よ、燃え上がりの力を感じさせたまえ」──Stabat Mater V連「Eia mater, fons amoris, / Me sentire vim doloris（ああ母よ、愛の泉よ、苦悩の力を感じさせたまえ）」との逐語的対応：「vim doloris（苦悩の力）→vim ardoris（燃え上がりの力）」という一語の置換が詩篇全体の感情的転換を定義する。「ardor（燃え上がり・熱情）」──「ardere（燃える）」：Stabat Materの「dolor（苦悩）」が「ardor（熱情）」として変換される──苦悩の動力が熱情の動力へと変換されながら「力（vim）」という強度は保持される。Stabat Materが「苦悩への参与（compassio）」を要求するのに対し、Mater Speciosaは「熱情への参与（condolescentia→coardescentia）」を要求する──苦悩の共感から熱情の共感への転換として。",
+      "targetId": "jacobus_stabat_mater",
+      "targetParagraphId": 5
+    },
+    {
+      "paragraphId": 8,
+      "type": "commentary",
+      "anchor": "Fac me vere congaudere,\nJesulino cohærere\nDonec ego vixero.\nIn me sistat ardor tui;\nPuerino fac me frui\nDum sum in exilio.\nHunc ardorem fac communem,\nNe me facias immunem\nAb hoc desiderio.",
+      "body": "「私が真にともに喜び、幼いイエスとともにあるようにしてください……私が亡命の中にある間に（Dum sum in exilio）」──VIII連のみ9行（三韻句×3）という拡張形式：「生涯中の願い（第1三韻句）→亡命中の享受（第2三韻句）→熱情の共同性（第3三韻句）」という三段構成として。「Dum sum in exilio（私が亡命の中にある間に）」──「exilium（亡命・流刑・異郷）」：現世を「神からの亡命・流浪」として定義する中世キリスト教的神学──「Salve Regina」の「in hac lacrimarum valle（この涙の谷で）」という現世定義と同型として。「Jesulino（幼いイエス）」──「Iesus」の縮小形（diminutivum）による「幼子の愛おしさ」の言語的表現：縮小辞を使用した表現が中世ラテン語のaffective（感情的）神学の特徴として。「Puerino fac me frui（幼子を私が享受できるよう）」──「frui（享受する）」：アウグスティヌス哲学の「frui（享受・目的として愛する）」対「uti（利用・手段として用いる）」の区別──「幼子（Puerino）」を「uti」ではなく「frui（享受）」の対象として定義する神学的含意として。ダウスン「Venite descendamus（降りよう）」の「Let us go hence（ここを去ろう）」という現世からの撤退への憧れが、「Dum sum in exilio（亡命中）」という現世規定と同型の「異郷感覚」として照応する。",
+      "targetId": "dowson_venite_descendamus",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 10,
+      "type": "intertextual",
+      "anchor": "Fac me tecum satiari,\nNato me inebriari,\nStans inter tripudio.\nInflammatus et accensus\nObstupescit omnis sensus\nTali de commercio.",
+      "body": "「あなたとともに私が満たされ、御子によって私が陶酔するようにしてください……すべての感覚が驚愕するかかる交わりによって」──「Inflammatus et accensus（炎に包まれ、燃え上がりながら）」──Stabat Mater IX連「Inflammatus et accensus, / Per te, Virgo, sim defensus（炎に包まれ、燃え上がりながら、あなたによって守られますように）」の逐語的反復：磔刑への陶酔（Stabat Mater）と降誕への陶酔（Mater Speciosa）が同一語句によって結ばれる──「燃え上がり」という状態が受難と降誕の両方において同一として定義される詩篇間の宣言として。「Obstupescit omnis sensus（すべての感覚が驚愕する）」──「Tali de commercio（かかる交わりによって）」：「commercium（交わり・取引）」という商業的語彙が「神と人間の交わり（admirabile commercium）」という中世典礼の定式──「神が人間性を取り、人間が神性を受け取る」という降誕の「取引（commercium）」の神学──を参照する。「Obstupescit omnis sensus」──V連「Stupescentes cordibus（心に驚愕を抱きながら）」との語根的照応：「言語なき驚愕（V連）」が「感覚の全面的驚愕（X連）」として拡大される──詩篇内部での「驚愕（stupor）」の拡張として。「Juan de la Cruz, Noche oscura」VII連「todos mis sentidos suspendía（私のすべての感覚を宙吊りにした）」との照応：感覚の「宙吊り（suspendía）」と「驚愕（obstupescit）」が神秘的合一における感覚の超越として同型の構造として。",
+      "targetId": "jacobus_stabat_mater",
+      "targetParagraphId": 9
+    },
+    {
+      "paragraphId": 11,
+      "type": "commentary",
+      "anchor": "Omnes stabulum amantes,\nEt pastores vigilantes\nPernoctantes sociant.\nPer virtutem nati tui\nOra ut electi sui\nAd patriam veniant.",
+      "body": "「厩を愛するすべての者たちと、夜を徹して見張りをする羊飼いたちが夜を過ごしながら仲間となる。あなたの御子の力によって選ばれた者たちが故郷へと来るよう祈ってください」──詩篇の結尾連が共同体的・歴史的次元を開く：「我（me）」から「すべての者（Omnes）・選ばれた者たち（electi sui）」への拡張として──詩篇全体の一人称的嘆願が「共同体の祈り（intercession）」として完結する。「Pernoctantes（夜を過ごしながら）」──「pernoctare（夜通し過ごす）」：ルカ福音書2:8「pastores in regione eadem vigilantes et custodientes vigilias noctis（同じ地方で羊飼いたちが野宿して夜番をしていた）」の直接参照。「Ad patriam veniant（故郷へと来るよう）」──「patria（故郷・祖国）」：VIII連「Dum sum in exilio（亡命の中にある間）」での「exilium（亡命）」の対語として──「亡命（exilium）」から「故郷（patria）」への帰還が詩篇全体の終末論的目的として設定される。Stabat Mater X連「Paradisi gloria（楽園の栄光）」との照応：「楽園の栄光（Paradisi gloria）」と「故郷への帰還（Ad patriam veniant）」が「死後の救済」を異なる語彙で定義する──「垂直的上昇（gloria）」対「水平的帰還（patriam）」として。",
+      "targetId": "jacobus_stabat_mater",
+      "targetParagraphId": 10
+    }
+  ]
+}
