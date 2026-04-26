@@ -58,6 +58,7 @@ export const CATEGORIES = {
   plato:                      { name: 'プラトン' },
   meleager:                   { name: 'メレアグロス' },
   palladas:                   { name: 'パラダス' },
+  kavafis:                    { name: 'カヴァフィス' },
 };
 
 // カテゴリー省略ラベル（バッジ表示用）
@@ -114,6 +115,7 @@ export const CAT_SHORT = {
   plato:                   'プラトン',
   meleager:                'メレアグロス',
   palladas:                'パラダス',
+  kavafis:                 'カヴァフィス',
 };
 
 export const AUTHOR_COLOR_MAP = {
