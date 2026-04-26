@@ -55,6 +55,7 @@ import darioData from './data/dario';
 import hieronymusData from './data/hieronymus';
 import platoData from './data/plato';
 import meleagerData from './data/meleager';
+import palladasData from './data/palladas';
 import { CATEGORIES, CAT_SHORT, ANNOTATION_TYPE_DEF, SPEECH_RATES, PREFERRED_VOICES, SPEAKER_COLORS, SPEAKER_FIXED_COLORS, AUTHOR_COLOR_MAP } from './constants';
 import { getTranslation, getOriginalText, getSpeechLang, getBestVoice, extractSnippet } from './utils';
 
@@ -275,6 +276,7 @@ export default function App() {
       ...hieronymusData,
       ...platoData,
       ...meleagerData,
+      ...palladasData,
     };
     setTexts(allTexts);
   const timer = setTimeout(() => {
