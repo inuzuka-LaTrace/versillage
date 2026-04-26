@@ -1,0 +1,234 @@
+{
+  "id": "celano_dies_irae",
+  "title": "Dies Iræ",
+  "author": "Thomas de Celano",
+  "source": "Wikisource: https://en.wikisource.org/wiki/The_seven_great_hymns_of_the_mediaeval_church/Dies_Ir%C3%A6/Tommaso",
+  "year": "Medium Ævum",
+  "firstPublication": "典礼聖歌として死者のためのミサ（Missa pro Defunctis）のセクエンツィアとして使用；印刷初出：1485年頃",
+  "difficulty": "中級",
+  "category": "liturgy",
+  "originalLang": "la-LA",
+  "modernRelevance": "★★★★★",
+  "context": "トマス・チェラーノ（Thomas de Celano, c.1200–c.1265）作とされる中世ラテン語典礼聖歌。死者のためのミサ（Requiem）のセクエンツィア（Sequentia）として使用されてきた。成立時期は13世紀前半頃；c.1220–1250と目される。タイトル「Dies Iræ（怒りの日）」はゼファニア書1:15の「dies iræ dies illa（その日は怒りの日）」に由来する。18連（各3行、3行連句の三韻詩）＋最終拡張連（XVIII、4行）の構成。冒頭のエピグラフはゼファニア書1:15–16の直接引用──「dies tribulationis et angustiæ, dies calamitatis et miseriæ, dies tenebrarum et caliginis（苦悩と苦しみの日、災いと悲惨の日、暗闇と霧の日）」──が詩篇全体の終末論的調性を設定する。VANITISMEコーパスにおける位置：コヘレト「vanitas vanitatum」・ヒエロニムス「afflictio spiritus」の「地上的虚無」が「審判の日（Dies Iræ）」という終末論的時間軸へと展開されたものとして位置づけられる。ヴェルディ「レクイエム」・モーツァルト「レクイエム」・ベルリオーズ「幻想交響曲」第5楽章等、西洋音楽における「怒りの日」の受容はVANITISMEコーパス全体の底流にある「死・審判・虚無」という終末的感受性の音楽的等価物として。フランス語圏・ドイツ語圏・英語圏・ロシア語圏の収録作家たち──ボードレール・マラルメ・トラークル・ダウスン・ゲオルゲ・ブリューソフ──の「終末的美学」の典礼的起源として。",
+  "keywords": [
+    "dies irae",
+    "怒りの日",
+    "終末論",
+    "審判",
+    "セクエンツィア",
+    "レクイエム",
+    "トマス・チェラーノ",
+    "中世ラテン語",
+    "三韻詩",
+    "ゼファニア",
+    "典礼聖歌",
+    "vanitas",
+    "死の詩学"
+  ],
+  "relatedTexts": [
+    "hieronymus_ecclesiastes_1",
+    "hieronymus_psalm_21",
+    "hieronymus_psalm_87",
+    "hieronymus_psalm_129",
+    "hieronymus_iob_14",
+    "hieronymus_iob_19",
+    "kavafis_en_to_koimitirio",
+    "kavafis_vulnerant_omnes_ultima_necat",
+    "baudelaire_danse_macabre",
+    "trakl_de_profundis",
+    "dowson_a_requiem",
+    "weil_necessite"
+  ],
+  "paragraphs": [
+    {
+      "id": 0,
+      "verses": "preface",
+      "original": "Dies Iræ, dies illa, dies tribulationis et angustiæ, dies calamitatis et miseriæ, dies tenebrarum et caliginis, dies nebulæ et turbinis, dies tubæ et clangoris super civitatis munitas, et super angulos excelsos!",
+      "provisionalTranslation": "怒りの日、その日──苦悩と苦しみの日、災いと悲惨の日、暗闇と霧の日、雲と嵐の日、城壁ある町々の上に、高い塔の上にラッパと喚声が響く日！"
+    },
+    {
+      "id": 1,
+      "verses": "I",
+      "original": "DIES IRÆ, DIES ILLA!\nSolvet sæclum in favillâ,\nTeste David cum Sybillâ.",
+      "provisionalTranslation": "怒りの日、その日よ！\n世界は灰燼に帰するだろう、\nダヴィデとシビュラが証言するように。"
+    },
+    {
+      "id": 2,
+      "verses": "II",
+      "original": "Quantus tremor est futurus,\nQuando Judex est venturus,\nCuncta stricte discussurus.",
+      "provisionalTranslation": "いかなる戦慄が来るだろうか、\n審判者が来るとき、\nすべてを厳しく裁くために。"
+    },
+    {
+      "id": 3,
+      "verses": "III",
+      "original": "Tuba mirum spargens sonum\nPer sepulcra regionum,\nCoget omnes ante thronum.",
+      "provisionalTranslation": "驚異の音を広げるラッパが\n各地の墓々を貫いて、\nすべての者を玉座の前に集める。"
+    },
+    {
+      "id": 4,
+      "verses": "IV",
+      "original": "Mors stupebit, et natura,\nQuum resurget creatura,\nJudicanti responsura.",
+      "provisionalTranslation": "死も、自然も、呆然とするだろう、\n被造物が復活するとき、\n裁く者に答えるために。"
+    },
+    {
+      "id": 5,
+      "verses": "V",
+      "original": "Liber scriptus proferetur,\nIn quo totum continetur,\nUnde mundus judicetur.",
+      "provisionalTranslation": "書かれた書物が取り出され、\nそこにすべてが含まれている、\n世界がそれによって裁かれる書物が。"
+    },
+    {
+      "id": 6,
+      "verses": "VI",
+      "original": "Judex ergo cum sedebit,\nQuidquid latet, apparebit:\nNil inultum remanebit.",
+      "provisionalTranslation": "それゆえ審判者が座するとき、\n隠れたものはすべて現れる──\n罰せられないまま残るものは何もない。"
+    },
+    {
+      "id": 7,
+      "verses": "VII",
+      "original": "Quid sum, miser! tunc dicturus,\nQuem patronum rogaturus,\nQuum vix justus sit securus?",
+      "provisionalTranslation": "惨めな私は、そのとき何を言うだろうか、\n誰を弁護者として頼むだろうか、\n正しき者でさえほとんど安全でないというのに？"
+    },
+    {
+      "id": 8,
+      "verses": "VIII",
+      "original": "Rex tremendæ majestatis,\nQui salvandos salvas gratis,\nSalva me, fons pietatis!",
+      "provisionalTranslation": "恐るべき威厳の王よ、\n救われるべき者を惜しみなく救う方よ、\n私を救いたまえ、慈悲の泉よ！"
+    },
+    {
+      "id": 9,
+      "verses": "IX",
+      "original": "Recordare, Jesu pie,\nQuod sum causa tuæ viæ;\nNe me perdas illâ die!",
+      "provisionalTranslation": "思い起こしたまえ、慈しみ深きイエスよ、\n私があなたの道の原因であることを──\nあの日に私を滅ぼしたまうな！"
+    },
+    {
+      "id": 10,
+      "verses": "X",
+      "original": "Quærens me, sedisti lassus,\nRedemisti, crucem passus:\nTantus labor non sit cassus.",
+      "provisionalTranslation": "私を求めて、あなたは疲れ果てて座った、\n十字架の苦しみを受けて、私を贖った──\nそれほど大きな労苦が無駄になりませんように。"
+    },
+    {
+      "id": 11,
+      "verses": "XI",
+      "original": "Juste Judex ultionis,\nDonum fac remissionis\nAnte diem rationis.",
+      "provisionalTranslation": "正しき報復の審判者よ、\n赦しの賜物を与えたまえ\n裁きの日の前に。"
+    },
+    {
+      "id": 12,
+      "verses": "XII",
+      "original": "Ingemisco tanquam reus,\nCulpâ rubet vultus meus;\nSupplicanti parce, Deus!",
+      "provisionalTranslation": "私は罪人のように呻く、\n罪で私の顔は赤らむ──\n嘆く者を許したまえ、神よ！"
+    },
+    {
+      "id": 13,
+      "verses": "XIII",
+      "original": "Qui Mariam absolvisti,\nEt latronem exaudisti,\nMihi quoque spem dedisti.",
+      "provisionalTranslation": "マリアを赦し、\n強盗の祈りを聞き届けた方よ、\n私にも希望を与えてくださった。"
+    },
+    {
+      "id": 14,
+      "verses": "XIV",
+      "original": "Preces meæ non sunt dignæ,\nSed Tu bonus fac benigne\nNe perenni cremer igne!",
+      "provisionalTranslation": "私の祈りは値しないものであるが、\nしかしあなたは善い方、慈しみをもって──\n永遠の火で私が燃やされませんように！"
+    },
+    {
+      "id": 15,
+      "verses": "XV",
+      "original": "Inter oves locum præsta,\nEt ab hædis me sequestra,\nStatuens in parte dextrâ.",
+      "provisionalTranslation": "羊たちの中に場所を与えたまえ、\n山羊たちから私を引き離し、\n右の側に置きたまえ。"
+    },
+    {
+      "id": 16,
+      "verses": "XVI",
+      "original": "Confutatis maledictis,\nFlammis acribus addictis,\nVoca me cum benedictis!",
+      "provisionalTranslation": "呪われた者たちが打ち負かされ、\n激しい炎に委ねられるとき、\n私を祝福された者たちとともに呼びたまえ！"
+    },
+    {
+      "id": 17,
+      "verses": "XVII",
+      "original": "Oro supplex et acclinis,\nCor contritum quasi cinis,\nGere curam mei finis.",
+      "provisionalTranslation": "私は跪いて、身を屈めて懇願する、\n心は灰のように砕かれている──\n私の終わりの世話をしてください。"
+    },
+    {
+      "id": 18,
+      "verses": "XVIII",
+      "original": "Lacrymosa dies illa!\nQua resurget ex favillâ.\nJudicandus homo reus;\nHuic ergo parce, Deus!",
+      "provisionalTranslation": "涙に満ちたその日よ！\n灰の中から復活するその日──\n裁かれるべき罪ある人間が。\nそれゆえこの者を許したまえ、神よ！"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 0,
+      "type": "glossary",
+      "anchor": "Dies Iræ, dies illa, dies tribulationis et angustiæ, dies calamitatis et miseriæ, dies tenebrarum et caliginis, dies nebulæ et turbinis, dies tubæ et clangoris super civitatis munitas, et super angulos excelsos!",
+      "body": "ゼファニア書（Sophonias / Zephaniah）1:15–16の直接引用──「dies iræ dies illa（その日は怒りの日）」以下、「苦悩（tribulatio）・苦しみ（angustia）・災い（calamitas）・悲惨（miseria）・暗闇（tenebræ）・霧（caligo）・雲（nebula）・嵐（turbinis）・ラッパ（tuba）・喚声（clangor）」という十の形容による「終末の日」の累積的定義。このエピグラフがヒエロニムスのウルガータ訳テクストからの引用として詩篇全体の典礼的・聖書的権威を確立する：Thomas de Celanoの詩篇は「自らの詩的発明」ではなく「聖書の敷衍・注解」として自己位置づけする。「dies iræ（怒りの日）」──ヘブライ語原典「יוֹם עֶבְרָה（yom evrah）」のラテン語訳：「怒り（ira）」が神の応報的正義の象徴として。コヘレト「Vidi cuncta quae fiunt sub sole, et ecce universa vanitas（太陽の下でなされるすべては虚無）」の「地上的虚無」が「怒りの日」という終末論的時間軸──「太陽の下」の終焉──へと収束するものとして位置づけられる。",
+      "targetId": "hieronymus_ecclesiastes_1",
+      "targetParagraphId": 14
+    },
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "DIES IRÆ, DIES ILLA!\nSolvet sæclum in favillâ,\nTeste David cum Sybillâ.",
+      "body": "「怒りの日、その日よ！世界は灰燼に帰するだろう、ダヴィデとシビュラが証言するように」──詩篇の開始連が「証言者の二重性」を確立する：「ダヴィデ（David）」──詩篇（Psalmi）の作者・ユダヤ・キリスト教的終末論的証言──と「シビュラ（Sybilla）」──古代ローマの巫女・異教的予言者──の並置が、キリスト教的終末論が異教的予言をも包含する普遍的妥当性の主張として機能する。「Solvet sæclum in favillâ（世界は灰燼に帰する）」──「sæclum（世・時代）」が「favilla（灰・燃えかす）」として溶解する終末的還元：コヘレト「omnia vanitas（すべては虚無）」の「虚無」が「灰（favilla）」という物質的帰結として。「Dies Iræ」の三韻詩形（AAA・BBB・CCC……）──各連3行が同一韻（-illa/-urus/-onum等）で結ばれる：「全行同韻」という例外的な厳格さが終末の「全包含性（Cuncta）」を形式的に体現する。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "Quantus tremor est futurus,\nQuando Judex est venturus,\nCuncta stricte discussurus.",
+      "body": "「いかなる戦慄が来るだろうか、審判者が来るとき、すべてを厳しく裁くために」──「Quantus tremor（いかなる戦慄）」という修辞的感嘆疑問が詩篇全体の情動的基調を設定する：「戦慄（tremor）」──身体的震えとしての恐怖の表現──がすべての存在者が共有する情動として。「Judex（審判者）」──単数の審判者としての「神」：「Judex ergo cum sedebit（審判者が座するとき）」（VI連）・「Juste Judex ultionis（正しき報復の審判者）」（XI連）として詩篇内で三度使用される。「Cuncta stricte discussurus（すべてを厳しく裁くために）」──「cuncta（すべて）」という全包含の副詞：コヘレト「Vidi cuncta quae fiunt sub sole（太陽の下でなされるすべてを見た）」の「cuncta」と同語根──コヘレトが「すべて」を虚無として観察したのに対し、Dies Iræでは「すべて」が厳格な審判の対象として。「Περιμένοντας τους βαρβάρους（野蛮人を待ちながら）」の「審判者なき待機」との対照：カヴァフィスの詩篇では「来るはずの者（野蛮人）」が来ないが、Dies Iræでは「審判者（Judex）」の来臨が絶対的未来として確言される──「来ない審判」対「来る審判」の終末論的対比として。"
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "Tuba mirum spargens sonum\nPer sepulcra regionum,\nCoget omnes ante thronum.",
+      "body": "「驚異の音を広げるラッパが各地の墓々を貫いて、すべての者を玉座の前に集める」──「Tuba（ラッパ）」が終末論的宣告の楽器として：黙示録8:2「七人の天使に七つのラッパが与えられた」・マタイ24:31「大いなるラッパの音とともに」との聖書的照応。「mirum（驚異の）」──「mirari（驚嘆する）」の形容詞形：通常の音楽的音響を超えた「奇跡的な音（sonus mirum）」として定義される。「Per sepulcra regionum（各地の墓々を貫いて）」──「墓（sepulcra）」への音の貫通が死者の復活のメカニズムとして：音が物理的閉鎖性（墓）を突破する終末論的音響として。「Coget omnes ante thronum（すべての者を玉座の前に集める）」──「omnes（すべての者）」という徹底的包含：死者・生者・善人・悪人を問わず「玉座の前（ante thronum）」への集合を強制する──「Περιμένοντας」のアゴラへの集合（集会的待機）が「強制的審判の集会」として終末論的に変形されたものとして。"
+    },
+    {
+      "paragraphId": 4,
+      "type": "commentary",
+      "anchor": "Mors stupebit, et natura,\nQuum resurget creatura,\nJudicanti responsura.",
+      "body": "「死も、自然も、呆然とするだろう、被造物が復活するとき、裁く者に答えるために」──「Mors stupebit（死も呆然とする）」という擬人化：「死（Mors）」がそれ自身驚愕する主体として人格化される──死の支配が「被造物の復活（resurget creatura）」によって破られるという逆転。「stupebit（呆然とする）」──「stupor（麻痺・驚愕）」を語根とする：コリント一書15:54「死は勝利に飲み込まれた」という「死の驚愕・麻痺」の詩的形象として。「natura（自然）」──自然秩序が審判の前に「呆然とする」：コヘレトの「自然の循環（太陽・川・世代）」という永続的秩序が終末の日に「驚愕・停止」するものとして──コヘレト的「永続する自然」の終末論的終焉として。「Vulnerant Omnes, Ultima Necat（最後の時は殺す）」での時計の「φονεύει η εσχάτη（最後の時は殺す）」との照応：「最後の時」が「Mors stupebit（死が驚愕する）」という「死の死」として実現されるとき、時計の命題が終末論的に超越される。"
+    },
+    {
+      "paragraphId": 5,
+      "type": "commentary",
+      "anchor": "Liber scriptus proferetur,\nIn quo totum continetur,\nUnde mundus judicetur.",
+      "body": "「書かれた書物が取り出され、そこにすべてが含まれている、世界がそれによって裁かれる書物が」──「Liber scriptus（書かれた書物）」──黙示録20:12「書物が開かれた。別の書物も開かれた。それは命の書である。死者たちは、書物に書かれていることに基づき、自分の行いに従って裁かれた」の直接的参照。「In quo totum continetur（そこにすべてが含まれている）」──書物の「全包含性（totum）」：すべての人間の行為が「書かれて（scriptus）」保存されているという記録の永続性。マラルメ「Le Livre（書物）」との逆説的照応：マラルメが「書物」を世界のすべてを包含する理想的芸術作品として構想したのに対し、Dies Iræの「Liber scriptus」はすべての行為を包含する審判の記録として──「芸術の書物」対「審判の書物」という「二つのLiber」の対比として。「Περιμένοντας」での「περγαμηνή（羊皮紙）」──皇帝が蛮族の首長のために用意した称号の羊皮紙が「空の称号」として終わったのに対し、Dies Iræの「Liber scriptus」は実質的審判の根拠として機能する：空の書物対充実の書物の対比として。"
+    },
+    {
+      "paragraphId": 7,
+      "type": "commentary",
+      "anchor": "Quid sum, miser! tunc dicturus,\nQuem patronum rogaturus,\nQuum vix justus sit securus?",
+      "body": "「惨めな私は、そのとき何を言うだろうか、誰を弁護者として頼むだろうか、正しき者でさえほとんど安全でないというのに？」──詩篇のVI連（第6段落）までが「宇宙論的・終末論的記述（第三者的叙述）」であるのに対し、VII連（第7段落）から「一人称の嘆願・祈り」へと様式が転換する：「Dies Iræ」全体の構造的折り返し点として。「miser（惨れな）」──パラダス「ταλαίπωρον βίον（惨みな人生）」（AP XV 20）の「ταλαίπωρος（惨めな）」の直接的ラテン語等価語：古代ギリシャ的ペシミズムの「惨めな生」が「審判を前にした惨めな罪人」として中世キリスト教的文脈に転換される。「Quid sum tunc dicturus（そのとき何を言うだろうか）」──修辞疑問による言語の無力化：審判の前に言語そのものが「言うべきことを失う」という言語的危機として──「Nous n'osons plus chanter les roses（薔薇を歌うことを敢えてしない）」の「沈黙の詩学」が終末論的審判の前の沈黙として最大化されたものとして読める。",
+      "targetId": "palladas_ap_xv_20",
+      "targetParagraphId": 1
+    },
+    {
+      "paragraphId": 8,
+      "type": "commentary",
+      "anchor": "Rex tremendæ majestatis,\nQui salvandos salvas gratis,\nSalva me, fons pietatis!",
+      "body": "「恐るべき威厳の王よ、救われるべき者を惜しみなく救う方よ、私を救いたまえ、慈悲の泉よ！」──「Rex tremendæ majestatis（恐るべき威厳の王）」という呼びかけが「審判者（Judex）」の「王的威厳（majestas）」を定義する。「tremendæ（恐るべき）」──「tremor（戦慄）」との語根的照応（II連「Quantus tremor」）：「戦慄」を引き起こす源泉としての「tremenda majestas」として。「fons pietatis（慈悲の泉）」──「審判者（Judex）」が同時に「慈悲の泉（fons pietatis）」であるという神学的逆説：「正義（justitia）」と「慈悲（pietas）」の神における同一性として。「Εν τω Κοιμητηρίω（墓地にて）」の「κείται υπό το έλεος του Ιησού（イエスの慈悲のもとに横たわっている）」──「έλεος（慈悲）」と「fons pietatis（慈悲の泉）」が同一の神学的概念として照応する：カヴァフィスの「墓地の詩学」がDies Iræの「慈悲への嘆願」と同じ神学的基盤を持つものとして。",
+      "targetId": "kavafis_en_to_koimitirio",
+      "targetParagraphId": 4
+    },
+    {
+      "paragraphId": 12,
+      "type": "commentary",
+      "anchor": "Ingemisco tanquam reus,\nCulpâ rubet vultus meus;\nSupplicanti parce, Deus!",
+      "body": "「私は罪人のように呻く、罪で私の顔は赤らむ──嘆く者を許したまえ、神よ！」──「Ingemisco（呻く）」──「ingemere（深く呻く）」：「Στρατηγού Θάνατος（将軍の死）」末尾の「Βαριά βογγά（重く呻く）」との照応──将軍の「重い呻き（βαριά βογγά）」が「罪ある罪人の呻き（Ingemisco tanquam reus）」と同型の死の発声として。「tanquam reus（罪人のように）」──「tanquam（まるで〜のように）」という比喩：詩篇の語り手が「罪人そのもの」ではなく「罪人のように（tanquam）」と限定しながらも、「罪（culpa）で顔が赤らむ（rubet）」という実体的な罪の現れを認める──比喩と実体の間の神学的緊張として。「Supplicanti parce（嘆く者を許したまえ）」──「supplicare（跪いて祈る）」：XVII連「Oro supplex et acclinis（私は跪いて、身を屈めて懇願する）」の「supplex」と同語根──詩篇全体の嘆願的姿勢の定式として。"
+    },
+    {
+      "paragraphId": 17,
+      "type": "commentary",
+      "anchor": "Oro supplex et acclinis,\nCor contritum quasi cinis,\nGere curam mei finis.",
+      "body": "「私は跪いて、身を屈めて懇願する、心は灰のように砕かれている──私の終わりの世話をしてください」──詩篇のクライマックス的嘆願として機能するXVII連。「Cor contritum quasi cinis（心は灰のように砕かれている）」──「cinis（灰）」がI連「Solvet sæclum in favillâ（世界は灰燼に帰する）」の「favilla（灰）」と照応する：「世界の灰燼化」という宇宙論的終末が「心の灰への砕け（cor quasi cinis）」という個人的・内的終末として収縮される──宇宙的スケールの縮小による個人化として。「quasi cinis（灰のように）」──「ほぼ灰」という近似表現：「まるで〜のように（quasi）」という比喩的留保が「ほぼ」の不完全性として──完全な灰への溶解（I連の「世界の灰燼化」）への準備段階として。「mei finis（私の終わり）」──「finis（終わり・目的）」：「私の終わりの世話（cura mei finis）」という委託──「Vulnerant Omnes, Ultima Necat（最後の時は殺す）」のラテン語格言の「ultima necat（最後は殺す）」という「終わり」が「Gere curam（世話をしてください）」という神への委託として変換される：「殺す最後」から「委託された終わり」へという信仰論的転換として。"
+    },
+    {
+      "paragraphId": 18,
+      "type": "intertextual",
+      "anchor": "Lacrymosa dies illa!\nQua resurget ex favillâ.\nJudicandus homo reus;\nHuic ergo parce, Deus!",
+      "body": "「涙に満ちたその日よ！灰の中から復活するその日──裁かれるべき罪ある人間が。それゆえこの者を許したまえ、神よ！」──18連（最終連）がI連の「DIES IRÆ, DIES ILLA（怒りの日、その日）」を「Lacrymosa dies illa（涙に満ちたその日）」として変換・変奏する：「怒り（ira）」から「涙（lacrymæ）」への感情的転換が詩篇全体の弧を「恐怖の宣言」から「慈悲への嘆願の結果」としての「哀悼」として完結させる。「ex favillâ（灰の中から）」──I連「Solvet sæclum in favillâ（世界は灰燼に帰する）」の「favillâ」の反復：「灰燼化」が「灰からの復活（resurget ex favillâ）」の前提として──灰への還元と灰からの復活という円環的構造として。「Judicandus homo reus（裁かれるべき罪ある人間）」──「Judicandus（裁かれるべき）」という動形容詞が「罪人（reus）」の審判的運命を定義する。「Huic ergo parce, Deus（それゆえこの者を許したまえ、神よ）」──「Huic（この者）」という三人称への転換：嘆願する「私（ego）」が「この者（hic）」として客体化されることで、詩篇の語り手が自らを神の前に「許しを乞われる者」として提示する──自己の他者化による謙遜の最終形として。ヴェイユ「affliction（苦悩）論」──「afflictio」が人間を神の前に透明にする経験として定義されるように、「Judicandus homo reus（裁かれるべき罪ある人間）」という自己定義が「affliction」の典礼的表現として照応する。コヘレト「universa vanitas et afflictio spiritus（すべては虚無であり、霊の苦悩）」（1:14）──Dies Iræ全18連が「afflictio spiritus（霊の苦悩）」の展開として：コヘレトの虚無論的苦悩が終末論的審判への恐怖と慈悲への嘆願として結晶化されたものとして。",
+      "targetId": "hieronymus_ecclesiastes_1",
+      "targetParagraphId": 14
+    }
+  ]
+}
