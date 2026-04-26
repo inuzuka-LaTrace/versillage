@@ -53,6 +53,7 @@ import borjaData from './data/borja';
 import noboaData from './data/noboa';
 import darioData from './data/dario';
 import hieronymusData from './data/hieronymus';
+import liturgyData from './data/liturgy';
 import platoData from './data/plato';
 import meleagerData from './data/meleager';
 import palladasData from './data/palladas';
@@ -275,6 +276,7 @@ export default function App() {
       ...noboaData,
       ...darioData,
       ...hieronymusData,
+      ...liturgyData,
       ...platoData,
       ...meleagerData,
       ...palladasData,
