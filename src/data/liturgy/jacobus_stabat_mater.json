@@ -1,0 +1,181 @@
+{
+  "id": "jacobus_stabat_mater",
+  "title": "Stabat Mater",
+  "author": "Jacobus de Benedictis",
+  "source": "The seven great hymns of the mediaeval church Wikisource: https://en.wikisource.org/wiki/The_seven_great_hymns_of_the_mediaeval_church/Stabat_Mater_and_Mater_Speciosa/Stabat_Mater,_Jacobus",
+  "year": "Medium Ævum",
+  "firstPublication": "典礼聖歌として七つの悲しみの聖母祝日（Septem Dolorum Beatæ Mariæ Virginis）のセクエンツィアとして使用；印刷初出：15世紀後半",
+  "difficulty": "中級",
+  "category": "liturgy",
+  "originalLang": "la-LA",
+  "modernRelevance": "★★★★★",
+  "context": "ヤコブス・デ・ベネディクティス（Jacobus de Benedictis, c.1230–1306)本名ヤコポーネ・ダ・トーディ（Jacopone da Todi）作とされる中世ラテン語典礼聖歌。成立は13世紀後半頃；c.1280–1306と目される。聖母マリアがキリストの磔刑を目撃する場面を出発点として、語り手（信者）がマリアの苦悩への同苦参与（compassio）と最終的な救済を祈願する全10連・各6行・二韻対の構成（AAbCCb押韻）。タイトル「Stabat Mater（母は立っていた）」の三語──「Stabat（立っていた）」・「Mater（母）」・「dolorosa（悲しみの）」──が静止・存在・感情という三次元を一語句に凝縮する。Dies Iræ（Thomas de Celano）が「審判への恐怖」を動的・終末論的に展開するのに対し、Stabat Materは「苦悩の凝視・停止・同苦」という静的・観想的な様式で展開する──同じ典礼的文脈（Requiem）に属しながら情動的様式が正反対として。VANITISMEコーパスにおける位置：ヴェイユ「affliction（苦悩）」論の典礼的先行形として──十字架のもとで「立つ（Stabat）」マリアの受動的・証言的姿勢が、ヴェイユの「afflictionにおける受動的耐忍」と構造的に照応する。ペルゴレージ・ヴィヴァルディ・ドヴォルザーク・プーランク等による多数の音楽的設定が西洋音楽の「苦悩と美」の典礼的結晶として。",
+  "keywords": [
+    "stabat mater",
+    "聖母マリア",
+    "磔刑",
+    "compassio",
+    "同苦参与",
+    "afflictio",
+    "苦悩",
+    "ヤコポーネ・ダ・トーディ",
+    "中世ラテン語",
+    "典礼聖歌",
+    "セクエンツィア",
+    "観想",
+    "dolorosa"
+  ],
+  "relatedTexts": [
+    "celano_dies_irae",
+    "hieronymus_psalm_21",
+    "hieronymus_psalm_87",
+    "hieronymus_psalm_129",
+    "weil_necessite",
+    "weil_accepter_le_vide",
+    "weil_effacement",
+    "kavafis_en_to_koimitirio",
+    "rossetti_de_profundis",
+    "trakl_de_profundis",
+    "dowson_a_requiem"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "verses": "I",
+      "original": "STABAT Mater dolorosa,\nJuxta crucem lacrymosa,\nDum pendebat filius.\nCujus animam gementem,\nContristatam et dolentem,\nPertransivit gladius.",
+      "provisionalTranslation": "悲しみの母は立っていた、\n涙ながらに十字架のそばに、\n御子が架かっている間。\n呻く魂を、\n悲嘆に沈み苦しんでいる魂を、\n剣が突き貫いた。"
+    },
+    {
+      "id": 2,
+      "verses": "II",
+      "original": "O quam tristis et afflicta,\nFuit illa benedicta\nMater unigeniti!\nQua mœrebat et dolebat,\nPia mater, dum videbat\nNati pœnas inclyti.",
+      "provisionalTranslation": "ああ、いかに悲しく苦しんでいたか、\nかの祝福された\n独り子の母は！\n嘆き苦しみながら、\n慈しみ深き母は、その目で見ていた\n高名な御子の苦悩を。"
+    },
+    {
+      "id": 3,
+      "verses": "III",
+      "original": "Quis est homo qui non fleret,\nChristi matrem si videret\nIn tanto supplicio?\nQuis non posset contristari\nPiam matrem contemplari\nDolentem cum filio?",
+      "provisionalTranslation": "誰が泣かずにいられるだろうか、\nキリストの母を目にするならば\nこれほどの苦しみの中に？\n誰が悲しまずにいられるだろうか、\n慈しみ深き母を観想するならば\n御子とともに苦しんでいる母を？"
+    },
+    {
+      "id": 4,
+      "verses": "IV",
+      "original": "Pro peccatis suæ gentis,\nVidit Jesum in tormentis,\nEt flagellis subditum.\nVidit suum dulcem natum,\nMorientem, desolatum,\nDum emisit spiritum.",
+      "provisionalTranslation": "その民の罪のために、\n彼女はイエスが苦悶の中に、\nそして鞭打たれているのを見た。\n彼女は自らの甘い御子が、\n死にゆき、見捨てられているのを見た、\n霊を放つまで。"
+    },
+    {
+      "id": 5,
+      "verses": "V",
+      "original": "Eia mater, fons amoris,\nMe sentire vim doloris\nFac, ut tecum lugeam.\nFac ut ardeat cor meum,\nIn amando Christum Deum\nUt illi complaceam.",
+      "provisionalTranslation": "ああ母よ、愛の泉よ、\n苦悩の力を感じさせたまえ\n私があなたとともに嘆けるように。\n私の心を燃え上がらせたまえ、\nキリスト神を愛することで\n私が彼の御心にかなうように。"
+    },
+    {
+      "id": 6,
+      "verses": "VI",
+      "original": "Sancta Mater, istud agas,\nCrucifixi fige plagas\nCordi meo valide.\nTui Nati vulnerati,\nTam dignati pro me pati,\nPœnas mecum divide.",
+      "provisionalTranslation": "聖なる母よ、これをなしてください、\n磔にされた方の傷を\n力強く私の心に刻みつけてください。\nあなたの傷ついた御子の──\nこれほど私のために苦しむに値すると思ってくださった方の──\n苦しみを私と分かちあってください。"
+    },
+    {
+      "id": 7,
+      "verses": "VII",
+      "original": "Fac me vere tecum flere,\nCrucifixo condolere,\nDonec ego vixero.\nJuxta crucem tecum stare,\nEt tibi me sociare\nIn planctu desidero.",
+      "provisionalTranslation": "私があなたとともに真に泣き、\n磔にされた方とともに苦しむようにしてください、\n私が生きている間は。\n十字架のそばであなたとともに立ち、\nあなたとともにあることを\n嘆きの中に私は望む。"
+    },
+    {
+      "id": 8,
+      "verses": "VIII",
+      "original": "Virgo virginum præclara,\nMihi jam non sis amara;\nFac me tecum plangere.\nFac ut portem Christi mortem\nPassionis fac consortem,\nEt plagas recolere.",
+      "provisionalTranslation": "乙女たちの中の輝かしい乙女よ、\n今はもう私に対して厳しくしないでください──\n私があなたとともに嘆けるようにしてください。\nキリストの死を私が担えるよう、\n受難の同伴者として私を作り、\n傷を黙想させてください。"
+    },
+    {
+      "id": 9,
+      "verses": "IX",
+      "original": "Fac me plagis vulnerari,\nFac me cruce inebriari,\nEt cruore filii.\nInflammatus et accensus,\nPer te, Virgo, sim defensus,\nIn die judicii.",
+      "provisionalTranslation": "傷によって私が傷つけられるようにしてください、\n十字架と御子の血によって\n私が陶酔するようにしてください。\n炎に包まれ、燃え上がりながら、\nあなたによって、乙女よ、守られますように、\n審判の日に。"
+    },
+    {
+      "id": 10,
+      "verses": "X",
+      "original": "Fac me cruce custodiri,\nMorte Christi præmuniri,\nConfoveri gratia.\nQuando corpus morietur,\nFac ut animæ donetur\nParadisi gloria.",
+      "provisionalTranslation": "十字架によって私が守られ、\nキリストの死によって前もって武装され、\n恩寵によって温められますように。\n肉体が死ぬとき、\n魂に与えられますように\n楽園の栄光が。"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "STABAT Mater dolorosa,\nJuxta crucem lacrymosa,\nDum pendebat filius.",
+      "body": "「悲しみの母は立っていた（Stabat Mater dolorosa）、涙ながらに十字架のそばに（Juxta crucem lacrymosa）、御子が架かっている間（Dum pendebat filius）」──詩篇冒頭の三語「Stabat・Mater・dolorosa」が静止・存在・感情という三次元を凝縮する。「Stabat（立っていた）」──過去未完了形（imperfectus）の使用：「立っていた」という持続的過去状態として──「立つ」という姿勢が「倒れない・崩れない」という受動的な強さとして。ヨハネ福音書19:25「Stabant autem juxta crucem Jesu mater eius（イエスの十字架のそばには、その母が立っていた）」の直接引用・詩的展開として。「dolorosa（悲しみの）・lacrymosa（涙ながらの）」──同語尾による押韻（-osa）が「悲しみ」と「涙」を語音的に融合させる：感情と身体的症状の詩形的一体化として。Dies Iræ（I連）「Solvet sæclum in favillâ（世界は灰燼に帰する）」との様式的対照：Dies Iræが「世界の終末的溶解」という動的・宇宙論的開始であるのに対し、Stabat Materは「一人の女性が立っている」という静的・人格的開始として──宇宙的終末（Dies Iræ）対個人的苦悩（Stabat Mater）の典礼的対比として。",
+      "targetId": "celano_dies_irae",
+      "targetParagraphId": 1
+    },
+    {
+      "paragraphId": 1,
+      "type": "glossary",
+      "anchor": "Cujus animam gementem,\nContristatam et dolentem,\nPertransivit gladius.",
+      "body": "「呻く魂を、悲嘆に沈み苦しんでいる魂を、剣が突き貫いた（Pertransivit gladius）」──ルカ福音書2:35「tuam ipsius animam pertransiet gladius（あなた自身の魂を剣が突き貫くだろう）」のシメオンの予言の成就として：マリアへの剣の予言が十字架の場面で完成される。「gladius（剣）」──「聖母の七つの悲しみ（Septem Dolorum）」の図像的シンボル：マリアの胸に七本の剣が刺さる図像として西洋キリスト教美術に定着した。「animam gementem（呻く魂）」──「gemere（呻く）」が「Dies Iræ」XII連「Ingemisco tanquam reus（私は罪人のように呻く）」と同語根：マリアの魂の呻き（gementem）と罪人の呻き（Ingemisco）が同一語根的苦悩として照応する──母の愛の苦しみと罪の苦しみの同型性として。ヴェイユ「affliction（苦悩）」論──「affliction」が身体的・心理的・社会的な三重の苦しみとして定義されるように、「animam gementem, contristatam et dolentem（呻き、悲嘆に沈み、苦しんでいる魂）」という三分詞の連鎖がaffictionの三重性の典礼的先行形として。",
+      "targetId": "weil_necessite",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "O quam tristis et afflicta,\nFuit illa benedicta\nMater unigeniti!",
+      "body": "「ああ、いかに悲しく苦しんでいたか（O quam tristis et afflicta）、かの祝福された（benedicta）独り子の母は！」──「afflicta（苦しんでいる）」──「afflictio（苦悩）」の形容詞形：ヒエロニムス「Ecclesiastes」「afflictio spiritus（霊の苦悩）」（I:14）と同語根として──コヘレトの「霊の苦悩」がマリアの「afflicta（苦しむ者）」として肉体的・感情的に具現化される。「benedicta（祝福された）」と「afflicta（苦しんでいる）」の押韻による逆説──「祝福（benedicta）」と「苦悩（afflicta）」が同一音韻で結ばれる：最も祝福された者が最も苦しむという「苦悩の逆説」の詩形的実現として。「unigeniti（独り子）」──ヨハネ福音書3:16「unigenitum Filium suum（独り子を与えてくださった）」のラテン語：「唯一の子」の死という喪失の絶対性として。",
+      "targetId": "hieronymus_ecclesiastes_1",
+      "targetParagraphId": 14
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "Quis est homo qui non fleret,\nChristi matrem si videret\nIn tanto supplicio?\nQuis non posset contristari\nPiam matrem contemplari\nDolentem cum filio?",
+      "body": "「誰が泣かずにいられるだろうか……誰が悲しまずにいられるだろうか」──二重の修辞疑問（Quis…Quis）が聴衆・読者の感情的参与を要求する：「泣かない人間がいるだろうか？」という否定的仮定が「すべての人間は泣くべきだ」という命令的含意として機能する。「contemplari（観想する）」──「contemplatio（観想・瞑想）」：ただ見るのではなく「霊的に見る（contemplari）」という修道院的・神秘主義的観想の語彙──「Piam matrem contemplari（慈しみ深き母を観想する）」が神秘主義的な「苦悩への参与（compassio）」の前提として。「supplicio（苦しみ・拷問）」──「supplicium（拷問・極刑）」：法的・刑事的処罰の語彙が磔刑の「公的暴力性」を定義する。「Στρατηγού Θάνατος（将軍の死）」での「群衆が家を満たす」という「死の見物」との対照：将軍の死の公的見物が「空虚な哀悼（Αρετή）」であるのに対し、Stabat Materの「observing（目撃・観想）」は「苦悩への真の参与（compassio）」を要求する──「見ること」の質的区別として。"
+    },
+    {
+      "paragraphId": 4,
+      "type": "commentary",
+      "anchor": "Vidit Jesum in tormentis,\nEt flagellis subditum.\nVidit suum dulcem natum,\nMorientem, desolatum,\nDum emisit spiritum.",
+      "body": "「彼女はイエスが苦悶の中に、鞭打たれているのを見た。彼女は自らの甘い御子が死にゆき、見捨てられているのを見た」──「Vidit（見た）」の二度の反復がマリアの「証言者としての目撃」を強調する：「見る」という行為が苦悩への参与の根拠として──目撃が単なる観察ではなく「苦悩の受け取り」として機能する。「dulcem natum（甘い御子）」──「dulcis（甘い）」という味覚的形容が苦悩の極点で使用される逆説：「甘い（dulcem）」御子が「苦悩の中（in tormentis）」で死ぬという感覚的矛盾。「desolatum（見捨てられた）」──マタイ27:46「Deus meus, Deus meus, ut quid dereliquisti me（我が神、我が神、なぜ私を見捨てたのか）」のキリストの叫びの状態：「父に見捨てられた（desolatus）」御子を「母（Mater）が見る（Vidit）」という逆転した目撃として──神的見捨て（desolatio）と人間的目撃（vidit）の交差として。ヴェイユ「affliction（苦悩）」論での「afflictionが神への愛を破壊する」という命題──「desolatum（見捨てられた）」状態がaffictionの極限として：キリスト自身がaffictionを経験するという神学的命題として。"
+    },
+    {
+      "paragraphId": 5,
+      "type": "commentary",
+      "anchor": "Eia mater, fons amoris,\nMe sentire vim doloris\nFac, ut tecum lugeam.",
+      "body": "「ああ母よ、愛の泉よ、苦悩の力を感じさせたまえ私があなたとともに嘆けるように」──詩篇の様式的転換：I〜IV連がマリアの苦悩を「第三者的記述」として展開するのに対し、V連から「私（me）」という一人称の嘆願が主体として登場する。「fons amoris（愛の泉）」──「Dies Iræ」VIII連「Rex tremendæ majestatis…Salva me, fons pietatis（慈悲の泉よ、私を救いたまえ）」との対照：「慈悲の泉（fons pietatis）」としての神への嘆願（Dies Iræ）と「愛の泉（fons amoris）」としての聖母への嘆願（Stabat Mater）の並置として──神と聖母への「泉（fons）」的呼びかけの二重性として。「Me sentire vim doloris（苦悩の力を感じさせたまえ）」──「sentire（感じる）」という感覚的能力の要求：ただ観察するのではなく「感じる（sentire）」ことを「聖母（Mater）」に媒介として要求する──「感覚的同苦参与（sensory compassio）」の嘆願として。ヴェイユ「affliction」論での「afflictionを直視することの困難」──「苦悩を感じる（sentire vim doloris）」という要求が、afflictionへの「直視的参与」の典礼的定式として。",
+      "targetId": "celano_dies_irae",
+      "targetParagraphId": 8
+    },
+    {
+      "paragraphId": 6,
+      "type": "commentary",
+      "anchor": "Sancta Mater, istud agas,\nCrucifixi fige plagas\nCordi meo valide.",
+      "body": "「聖なる母よ、これをなしてください、磔にされた方の傷を力強く私の心に刻みつけてください」──「fige（刻みつけてください）」──「figere（固定する・刻む）」：I連「Pertransivit gladius（剣が突き貫いた）」でマリアの魂に「剣が刺さった」ように、「磔の傷（plagas Crucifixi）」が語り手の「心（cordi meo）」に「刻みつけられる（fige）」ことを要求する──マリアの苦悩が語り手の心に「刻印（stigma）」として転写されることへの要求。「plagas（傷・打撃）」──「plaga（傷）」はラテン語でキリストの「五つの傷（quinque vulnera）」を指す語彙：磔刑の傷の瞑想（meditatio passionis）を「心に刻む」という「内的受難参与」の要求として。「valide（力強く）」──「力強さ」の要求：苦悩の参与が「穏やかに・象徴的に」ではなく「力強く（valide）」刻まれることへの要求──象徴的参与から実質的・身体的参与への転換の意志として。「Juan de la Cruz, Noche oscura」の「con su mano serena / en mi cuello hería（穏やかな手で私の首を打ち）」との照応：神の愛の「打撃（herir）」が「感覚の停止（suspendía）」をもたらすヨハネ的神秘主義と、「傷の刻印（fige plagas）」を要求するヤコポーネ的「受難参与」の共通構造として。",
+      "targetId": "juan_de_la_cruz_noche_oscura",
+      "targetParagraphId": 7
+    },
+    {
+      "paragraphId": 7,
+      "type": "commentary",
+      "anchor": "Fac me vere tecum flere,\nCrucifixo condolere,\nDonec ego vixero.\nJuxta crucem tecum stare,\nEt tibi me sociare\nIn planctu desidero.",
+      "body": "「私があなたとともに真に泣き、磔にされた方とともに苦しむようにしてください……十字架のそばであなたとともに立ち、あなたとともにあることを嘆きの中に私は望む」──「Fac me（私をして〜させたまえ）」という嘆願動詞形式がVII〜X連に反復される詩篇の形式的原理として：「聖母への依頼（Fac）」が詩篇後半全体を統御する。「vere（真に）」──「泣く（flere）」ことへの「真実性（veritas）」の要求：表面的・形式的な泣きではなく「真の（vere）」涙を聖母の媒介によって可能にすることへの要求──「Nous n'osons plus chanter（薔薇を歌うことを敢えてしない）」の「言語の自己抑制」に対して、Stabat Materは「真の涙（vere flere）」という「感情的真実」の要求として対照的に位置づけられる。「Juxta crucem tecum stare（十字架のそばであなたとともに立つ）」──I連「Stabat Mater juxta crucem（母は十字架のそばに立っていた）」の反響：詩篇冒頭でマリアが「立っていた（Stabat）」場所に、今度は「私（ego）」が「ともに立つ（stare）」ことを望む──詩篇の冒頭と後半の「立つ」主体の転換として。",
+      "targetId": "kavafis_nous_nosons_plus_chanter_les_roses",
+      "targetParagraphId": 1
+    },
+    {
+      "paragraphId": 9,
+      "type": "commentary",
+      "anchor": "Fac me plagis vulnerari,\nFac me cruce inebriari,\nEt cruore filii.\nInflammatus et accensus,\nPer te, Virgo, sim defensus,\nIn die judicii.",
+      "body": "「傷によって私が傷つけられるようにしてください、十字架と御子の血によって私が陶酔するようにしてください。炎に包まれ、燃え上がりながら、あなたによって守られますように、審判の日に（In die judicii）」──「In die judicii（審判の日に）」──「Dies Iræ（I連）」の「Dies Iræ, dies illa（怒りの日、その日）」の直接的照応：Stabat Materの嘆願がDies Iræの「怒りの日（Dies Iræ）」への備えとして──「聖母への嘆願」が「審判の日への護符」として機能する構造として。「inebriari（陶酔する）」──「inebriare（酔わせる）」：「Nous n'osons plus chanter（薔薇を歌うことを敢えてしない）」の「μέθη αισθήσεων（感覚の陶酔）」との照応──カヴァフィスの官能的陶酔がStabat Materでは「十字架と血による霊的陶酔（cruce inebriari）」として転換される：感覚的陶酔から霊的陶酔への典礼的変換として。「Inflammatus et accensus（炎に包まれ、燃え上がりながら）」──V連「Fac ut ardeat cor meum（私の心を燃え上がらせたまえ）」の「ardeat（燃える）」の身体化：「心の燃焼（ardeat cor）」が「全身の燃え上がり（Inflammatus et accensus）」として拡張される──愛の火の身体化として。",
+      "targetId": "celano_dies_irae",
+      "targetParagraphId": 9
+    },
+    {
+      "paragraphId": 10,
+      "type": "intertextual",
+      "anchor": "Fac me cruce custodiri,\nMorte Christi præmuniri,\nConfoveri gratia.\nQuando corpus morietur,\nFac ut animæ donetur\nParadisi gloria.",
+      "body": "「十字架によって私が守られ、キリストの死によって前もって武装され、恩寵によって温められますように。肉体が死ぬとき、魂に与えられますように楽園の栄光が（Paradisi gloria）」──詩篇の最終連が嘆願の完結として「肉体の死→魂の楽園」という救済的帰結を提示する。「Confoveri gratia（恩寵によって温められる）」──「confovere（温める・養う）」という親密な動詞が「gratia（恩寵）」の温かみとして：ヴェイユ「Accepter le vide（空虚を受容する）」の「恩寵が入れるのは空虚がある場所だけ」──「恩寵に温められる（Confoveri gratia）」という状態が「空虚が恩寵に満たされる」ヴェイユ的命題の典礼的先行形として。「Paradisi gloria（楽園の栄光）」──詩篇の最終語「gloria（栄光）」が「dolorosa（悲しみの）・lacrymosa（涙の）・afflicta（苦しみの）」という苦悩の語彙群に対する究極的な対立項として：「苦悩→栄光」という詩篇全体の弧が「dolorosa」から「gloria」への語彙的転換として完結する。「Dies Iræ」最終連「Huic ergo parce, Deus（それゆえこの者を許したまえ、神よ）」との対照：Dies Iræが「赦し（parce）」の要求として開いた結尾であるのに対し、Stabat Materは「楽園の栄光（Paradisi gloria）」という確信的・約束的結尾として──恐怖の嘆願（Dies Iræ）対希望の結語（Stabat Mater）という典礼的対比の完成として。",
+      "targetId": "weil_accepter_le_vide",
+      "targetParagraphId": 1
+    }
+  ]
+}
