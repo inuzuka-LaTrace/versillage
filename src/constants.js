@@ -167,6 +167,7 @@ export const AUTHOR_COLOR_MAP = {
   plato:            { dark: 'bg-sky-900/40 text-sky-300',      light: 'bg-sky-100 text-sky-800' },
   meleager:         { dark: 'bg-emerald-900/40 text-emerald-300', light: 'bg-emerald-100 text-emerald-800' },
   palladas:         { dark: 'bg-indigo-900/40 text-indigo-300', light: 'bg-indigo-100 text-indigo-800' },
+  kavafis:          { dark: 'bg-violet-900/40 text-violet-300', light: 'bg-violet-100 text-violet-800' },
   default:          { dark: 'bg-zinc-800 text-zinc-300',       light: 'bg-stone-100 text-stone-700' }
 };
 
