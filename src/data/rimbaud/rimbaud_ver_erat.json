@@ -1,0 +1,181 @@
+{
+  "id": "rimbaud_ver_erat",
+  "title": "Ver erat",
+  "author": "Arthur Rimbaud",
+  "source": "Wikisource (Latin): https://la.wikisource.org/wiki/Ver_erat",
+  "year": "1869",
+  "firstPublication": "editio incognita（初出不明；fons incognitus）",
+  "difficulty": "上級",
+  "category": "rimbaud",
+  "originalLang": "la-LA",
+  "modernRelevance": "★★★★★",
+  "context": "アルチュール・ランボー（Arthur Rimbaud, 1854–1891）による初期ラテン語詩篇。シャルルヴィル・コレージュ在籍中（1869年頃）の作で、「Angelus et puer」と並んで現存するランボーのラテン語詩篇の代表作。長短格六脚詩（hexameter dactylicus）で書かれた自伝的詩的夢想──嫌われ者の教師オルビリウス（Orbilius）の病による休暇を機に田園へと逃走した少年詩人が、川辺で眠り込み、ヴィーナスの鳩に天へと運ばれ、月桂冠を授けられ、フォイボス（アポロン）から「汝は詩人となるだろう（TV VATES ERIS）」という召命を受けるという幻想的叙事詩として。「Angelus et puer」の「Molli remigio（柔らかな漕ぎで）」と本詩の「Molli remigio（第6段落）」の同一語句の反復がランボーの同時期ラテン語作法の一貫性を示す。「Nescio lymphatis quae mens diuinior alas / Sensibus addebat（なにか神的な精神が感覚に翼を加えていた）」・「TV VATES ERIS（汝は詩人となるだろう）」という詩的召命の主題が、後年の「見者の手紙（Lettres du voyant）」での「私は他者である（Je est un autre）」という詩人論的宣言の原初的形態として。「Annulus…Magnesia cautes / Attrabit（磁石の岩が引き寄せる）」という磁石の比喩が「Angelus et puer」のランボー的磁気論の連続として。",
+  "keywords": [
+    "ver erat",
+    "春であった",
+    "ラテン語詩",
+    "ランボー初期",
+    "六脚詩",
+    "TV VATES ERIS",
+    "詩人の召命",
+    "オルビリウス",
+    "鳩",
+    "フォイボス",
+    "アポロン",
+    "月桂冠",
+    "ムーサ",
+    "磁石の比喩"
+  ],
+  "relatedTexts": [
+    "rimbaud_angelus_et_puer",
+    "rimbaud_saison_l_eclair",
+    "rimbaud_barbare",
+    "rimbaud_ophelie",
+    "baudelaire_franciscae_meae_laudes",
+    "celano_dies_irae",
+    "mallarme_coup_de_des",
+    "valery_orphee",
+    "kavafis_allilouchia_kata_ton_vodelairon",
+    "hoelderlin_an_die_parzen"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "verses": "v.1–4",
+      "original": "Ver erat, et morbo Romae languebat inerti\nOrbilius: dira tacuerunt tela magistri\nPlagarumque sonus non iam veniebat ad aures\nNec ferula assiduo cruciabat membra dolore.",
+      "provisionalTranslation": "春であった、そしてローマではオルビリウスが\n怠惰な病で衰えていた。教師の恐ろしい武器は沈黙し、\n打擲の音はもはや耳に届かず、\n鞭の棒は絶え間ない苦痛で肢体を責めなかった。"
+    },
+    {
+      "id": 2,
+      "verses": "v.5–11",
+      "original": "Arripui tempus: ridentia rura petiui\nImmemor: a studio moti curisque soluti\nBlanda fatigatam recrearunt gaudia mentem.\nNescio qua laeta captum dulcedine pectus\nTaedia iam ludi, iam tristia verba magistri\nOblitum, campos late spectare iuuabat\nLaetaque vernantis miracula cernere terrae.",
+      "provisionalTranslation": "私は機会を捉えた。忘我のうちに、微笑む田園を目指した。\n勉強から解放され、心配事から自由になって、\n穏やかな喜びが疲れ果てた精神を蘇らせた。\n何か喜ばしい甘さに捕らわれた胸が、\n遊びの倦怠も、教師の悲しい言葉も\nすでに忘れて、広々と野原を眺め、\n芽吹く大地の喜ばしい奇跡を見ることが心地よかった。"
+    },
+    {
+      "id": 3,
+      "verses": "v.12–19",
+      "original": "Nec ruris tantum puer otia vana petebam:\nMaiores paruo capiebam pectore sensus:\nNescio lymphatis quae mens diuinior alas\nSensibus addebat: tacito spectacula visu\nAttonitus contemplabar: pectusque calentis\nInsinuabat amor ruris: ceu ferreus olim\nAnnulus, arcana quem vi Magnesia cautes\nAttrabit, et caecis tacitum sibi colligat hamis.",
+      "provisionalTranslation": "しかし私は田園の空虚な閑暇だけを求めていたのではなかった。\n小さな胸に、より大きな感覚を捉えていた。\nなにか神的な精神が水辺の翼を\n感覚に加えていた。沈黙した視線で光景に\n呆然として観想した。そして熱い田園への愛が\n胸に染み込んでいた──かつて鉄の指輪を\n秘めた力で引き寄せ、見えない鉤で\n静かに自らに引き付ける磁石の岩のように。"
+    },
+    {
+      "id": 4,
+      "verses": "v.20–23",
+      "original": "Interea longis fessos erroribus artus\nDeponens, iacui viridanti in fluminis ora\nMurmure languidulo sopitus, et otia duxi\nPermulsus volucrum concentu auraque Fauoni.",
+      "provisionalTranslation": "そのうち、長い彷徨いに疲れた肢体を\n横たえ、川の緑の岸に寝転んで、\nかすかな瀬音に眠らされ、閑暇を過ごした、\n鳥の合唱とファウォニウスの風に慰められながら。"
+    },
+    {
+      "id": 5,
+      "verses": "v.24–26",
+      "original": "Ecce per aetheream vallem incessere columbae\nAlba manus, rostro florentia serta gerentes\nQuae Venus in Cypriis redolentia carpserat hortis.",
+      "provisionalTranslation": "するとみよ、天空の谷を白い鳩の群れが\n行進してきた、くちばしに花冠を運びながら──\nヴィーナスがキプロスの庭で芳しく摘んだ花冠を。"
+    },
+    {
+      "id": 6,
+      "verses": "v.27–35",
+      "original": "Gramen, vbi fusus recreabar turba petiuit\nMolli remigio: circum plaudentibus alis\nInde meum cinxere caput, vincloque virenti\nDeuinxere manus, et olenti tempora myrto\nNostra coronantes, pondus per inane tenellum\nErexere... Cohors per nubila celsa vehebat\nLanguidulum rosea sub fronde: cubilia ventus\nOre remulcebat molli nutantia motu.",
+      "provisionalTranslation": "群れは柔らかな漕ぎで、私が横たわって\n憩っていた草地を目指した。翼を羽ばたかせて\n私の頭を取り囲み、緑の絆で\n手を縛り、香り立つミュルトスで\n私の額を冠として、小さな重みを\n虚空へと持ち上げた……群れは高い雲を通って\n薔薇色の葉陰の下でぐったりとした者を運んだ。\n風が穏やかな揺れの動きで揺れ動く巣を\n口先で慰撫した。"
+    },
+    {
+      "id": 7,
+      "verses": "v.36–38",
+      "original": "Vt patrias tetigere domos, rapidoque volatu\nMonte sub aerio pendentia tecta columbae\nIntrauere, breue positum vigilemque reliquunt.",
+      "provisionalTranslation": "故郷の家に到着すると、素早い飛行で\n空高い山の下に懸かる屋根へと鳩たちは\n入っていき、そこに運んだ者を目覚めた状態で残した。"
+    },
+    {
+      "id": 8,
+      "verses": "v.39–47",
+      "original": "O dulcem volucrum nidum! ... Lux candida puri.\nCircumfusa humeros radiis mea corpora vestit:\nNec vero obscurae lux illa simillima luci,\nQuae nostros hebebat mixta caligine visus:\nTerrenae nil lucis habet caelestis origo!\nNescio quid caeleste mihi per pectora semper\nInsinuat, pleno currens ceu flumine, numen.\nInterea redeunt volucres, rostroque coronam\nLaurea serta gerunt, quali redimitus Apollo",
+      "provisionalTranslation": "ああ、鳥たちの甘い巣よ！……純粋な輝かしい光が\n私の体を肩から光線に包まれて衣でまとう。\nあの光は暗い光には全く似ていない、\n霧に混じって私たちの視線を鈍らせるあの光には。\n天上の光の起源は地上の光の何も持っていない！\nなにか天上のものが私の胸を通して常に\n染み込んでくる、満ちた川のように流れながら、神性が。\nそのうち鳥たちが戻ってきて、くちばしに月桂の\n花冠を運んできた──アポロンが飾られるような花冠を、"
+    },
+    {
+      "id": 9,
+      "verses": "v.47–54",
+      "original": "Argutas gaudet compellere pollice chordas.\nAst vbi laurifera frontem cinxere corona\nEcce mihi patuit caelum, visuque repente\nAttonito, volitans super aurea nubila, Phoebus\nDiuina vocale manu praetendere plectrum.\nTum capiti inscripsit caelesti haec nomina flamma:\nTV VATES ERIS... In nostros se subiicit artus\nTum calor insolitus, ceu, puro splendida vitro,",
+      "provisionalTranslation": "親指で澄んだ弦を弾くことを彼が喜ぶような花冠を。\nしかし月桂の花冠が額を飾ると、\nみよ、私に天が開き、突然の驚嘆すべき眼差しで、\n黄金の雲の上を飛び回るフォイボスが\n神的な声を出す手で竪琴の撥を差し伸べた。\nそのとき天の炎が頭にこの名を刻んだ──\n汝は詩人となるだろう……私たちの肢体に\n異常な熱が染み込んだ、純粋な硝子を通して輝く、"
+    },
+    {
+      "id": 10,
+      "verses": "v.54–58",
+      "original": "Solis inardescit radiis vis limpida fontis.\nTunc etiam priscam speciem liquere columbae:\nMusarum chorus apparet, modulamina dulci\nOre sonans, blandisque exceptum sustulit vinis,\nOmina ter fundens, ter lauro tempore cingens.",
+      "provisionalTranslation": "太陽の光線で泉の透き通った力が燃え上がるように。\nそのとき鳩たちも以前の姿を脱ぎ去った──\nムーサの合唱が現れ、甘い口で\n旋律を奏でながら、優しいワインで迎えて持ち上げ、\n三度兆しを注ぎ、三度こめかみに月桂を飾った。"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "Ver erat, et morbo Romae languebat inerti\nOrbilius:",
+      "body": "「春であった（Ver erat）、そしてローマではオルビリウスが怠惰な病で衰えていた」──詩篇の冒頭二語「Ver erat（春であった）」が過去未完了形による詩的状況設定として機能する：ウェルギリウス「Aeneis」・オウィディウスの「Erat（〜であった）」的叙事的過去形の模倣として。「Orbilius」──ホラティウス「Epistulae」II.1.70で「打擲好きのオルビリウス（plagosus Orbilius）」として言及されるローマの教師：ランボーのシャルルヴィル・コレージュの嫌われ教師への古典的仮面として──15歳のランボーが「ホラティウスの自伝的言及」を自らの詩的状況に転用する教養の証左として。「dira tacuerunt tela magistri（教師の恐ろしい武器は沈黙した）」──「tela（武器・矢）」という戦争的比喩が「教師の教鞭・罰」に適用される：「Nec ferula assiduo cruciabat membra dolore（鞭の棒は絶え間ない苦痛で肢体を責めなかった）」──学校的苦痛からの解放が「cruciabat（責める・十字架にかける）」という宗教的語彙で定義される。「Dies Irae」でのkoilmitirioの「学校」的秩序の反転として──典礼聖歌の「審判の日の恐怖」が学校の「審判者（教師）」の不在として俗世的に縮小・転用される。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "Arripui tempus: ridentia rura petiui\nImmemor: a studio moti curisque soluti\nBlanda fatigatam recrearunt gaudia mentem.",
+      "body": "「私は機会を捉えた。忘我のうちに、微笑む田園を目指した。勉強から解放され、穏やかな喜びが疲れ果てた精神を蘇らせた」──「Arripui tempus（私は機会を捉えた）」：「arripere（素早くつかむ）」という動詞が「春の機会」の能動的捕捉として──「Dies Irae」の「くるべきもの」への受動的待機に対する「能動的な現在への捕捉」として。「ridentia rura（微笑む田園）」──「ridere（笑う）」という動詞が「田園（rura）」の擬人的形容として：ウェルギリウス「Eclogues」の「rident iam prata（草原はもう微笑む）」の慣用句的引用。「Mater Speciosa」II連「Quæ gaudebat et ridebat（喜び、笑い）」の「ridebat（笑っていた）」との照応──降誕の喜びが「田園の微笑み（ridentia rura）」として詩的に照応する。「Blanda fatigatam recrearunt gaudia mentem（穏やかな喜びが疲れ果てた精神を蘇らせた）」──「recreare（蘇らせる・再創造する）」：「精神の蘇生（recreatio mentis）」という修道院・哲学的概念が「田園の喜び」によって実現される──「Mater Speciosa」VIII連「Puerino fac me frui（幼子を享受できるよう）」の「frui（享受）」的受容と同型の感覚的蘇生として。"
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "Nec ruris tantum puer otia vana petebam:\nMaiores paruo capiebam pectore sensus:\nNescio lymphatis quae mens diuinior alas\nSensibus addebat:",
+      "body": "「しかし私は田園の空虚な閑暇だけを求めていたのではなかった。小さな胸に、より大きな感覚を捉えていた。なにか神的な精神が水辺の翼を感覚に加えていた」──詩篇の哲学的転換点。「Maiores paruo capiebam pectore sensus（小さな胸に、より大きな感覚を捉えていた）」──「parvum pectus（小さな胸）」と「maiores sensus（より大きな感覚）」の不均衡：15歳のランボーの詩人的自己意識の萌芽として──後年「見者の手紙」での「Je est un autre（私は他者である）」という自己疎外の体験の原初的形態として。「Nescio…quae mens diuinior alas / Sensibus addebat（なにか神的な精神が感覚に翼を加えていた）」──「Nescio（私は知らない）」という認識論的謙遜：「感覚への翼（alas sensibus）」という詩的インスピレーションの感覚的形象──ヘルダーリン「パルツェンへの詩（An die Parzen）」の「神聖な音（heiliger Klang）」への感受性との照応として。「Αλληλουχία（ボードレール詩篇）」I連「Τ' αρώματα μ' εμπνέουν ως η μουσική（香りは音楽のように私を鼓舞する）」との照応──「感覚への翼（alas sensibus addebat）」が「音楽・リズムによる鼓舞（εμπνέουν）」と同型の「感覚的インスピレーション」の形象として。",
+      "targetId": "kavafis_allilouchia_kata_ton_vodelairon",
+      "targetParagraphId": 1
+    },
+    {
+      "paragraphId": 3,
+      "type": "intertextual",
+      "anchor": "pectusque calentis\nInsinuabat amor ruris: ceu ferreus olim\nAnnulus, arcana quem vi Magnesia cautes\nAttrabit, et caecis tacitum sibi colligat hamis.",
+      "body": "「熱い田園への愛が胸に染み込んでいた──かつて鉄の指輪を秘めた力で引き寄せ、見えない鉤で静かに自らに引き付ける磁石の岩のように」──「Magnesia cautes（磁石の岩）」──「Angelus et puer」での「magnetism（磁力）」の比喩との詩篇間的照応：「Angelus et puer」は「Quæ imbuta es magnete（磁石に満たされた）」というボードレールのラテン語詩篇を経由して、ランボー自身の「Ver erat」では「Magnesia cautes（磁石の岩）」という直接的古典的形象として展開される。「arcana quem vi（秘めた力で）」──「arcana（秘密の・隠れた）」：「感覚への翼」という「神的精神の不可知の作用」が「磁石の隠れた力（arcana vis）」として比喩化される──「Nescio（私は知らない）」という認識論的謙遜と「arcana vi（秘めた力）」という不可知性の一致として。「caecis…hamis（見えない鉤で）」──「caecus（盲目の・見えない）」：磁力が「見えない（caecus）」ように作用するという「不可視の詩的引力」──後年「見者の手紙」での「感覚の意図的な錯乱（dérèglement raisonné de tous les sens）」の原初的形象として。",
+      "targetId": "rimbaud_angelus_et_puer",
+      "targetParagraphId": 3
+    },
+    {
+      "paragraphId": 4,
+      "type": "commentary",
+      "anchor": "Interea longis fessos erroribus artus\nDeponens, iacui viridanti in fluminis ora\nMurmure languidulo sopitus, et otia duxi\nPermulsus volucrum concentu auraque Fauoni.",
+      "body": "「そのうち、長い彷徨いに疲れた肢体を横たえ、川の緑の岸に寝転んで、かすかな瀬音に眠らされ、閑暇を過ごした、鳥の合唱とファウォニウスの風に慰められながら」──「longis fessos erroribus（長い彷徨いに疲れた）」──「error（彷徨い・迷走）」：学校・知的労働からの解放後の「身体的・精神的彷徨い」として──ウェルギリウス「Aeneis」のアエネアスの「longis erroribus（長い彷徨い）」の引用として。「viridanti in fluminis ora（川の緑の岸に）」──「Angelus et puer」でも「川・水辺」が「天使的出会い」の場として機能したように、「Ver erat」でも川辺が「詩的変容」の場として設定される──「水辺という閾」の詩的主題の連続として。「Fauoni（ファウォニウス）」──西風の神「Favonius（ファウォニウス）」：春の西風として──「Ver erat（春であった）」の季節的主題が「西風（Favonius）」という神格化された春の象徴として体現される。「Permulsus volucrum concentu（鳥の合唱に慰められながら）」──「concentus（合唱・和声）」：「Dies Irae」III連「Tuba mirum spargens sonum（驚異の音を広げるラッパ）」という「終末の音響」に対して「鳥の和声（concentus）」という「自然の音響」が対照される──典礼的音響の牧歌的変換として。"
+    },
+    {
+      "paragraphId": 5,
+      "type": "commentary",
+      "anchor": "Ecce per aetheream vallem incessere columbae\nAlba manus, rostro florentia serta gerentes\nQuae Venus in Cypriis redolentia carpserat hortis.",
+      "body": "「するとみよ、天空の谷を白い鳩の群れが行進してきた、くちばしに花冠を運びながら──ヴィーナスがキプロスの庭で芳しく摘んだ花冠を」──「Ecce（みよ）」──典礼的・叙事詩的「顕現の告知語」：「Mater Speciosa」V連「Nato Christo in præsepe（キリストが飼い葉桶に生まれると）」・「Angelus et puer」II連「angelus adstat（天使が立つ）」という「顕現の場面」との構造的照応として。「columbae / Alba manus（白い鳩の群れ）」──「columba（鳩）」：「聖霊の鳩」という典礼的形象・ヴィーナスの鳩という古典的形象の重層として──キリスト教典礼と古典神話の融合がランボーのラテン語詩篇の語彙的特徴として。「Venus in Cypriis hortis（キプロスの庭でのヴィーナス）」──キプロスはヴィーナス崇拝の聖地：「Τεχνητά Άνθη（人工の花）」II連「別の場所の絶妙な庭（εξαισίων κήπων ενός τόπου άλλου）」との照応──「ヴィーナスのキプロスの庭」が詩的理想郷「別の場所の庭」の古典的等価物として。"
+    },
+    {
+      "paragraphId": 6,
+      "type": "commentary",
+      "anchor": "Gramen, vbi fusus recreabar turba petiuit\nMolli remigio: circum plaudentibus alis\nInde meum cinxere caput, vincloque virenti\nDeuinxere manus, et olenti tempora myrto\nNostra coronantes, pondus per inane tenellum\nErexere...",
+      "body": "「群れは柔らかな漕ぎで、私が横たわって憩っていた草地を目指した。翼を羽ばたかせて私の頭を取り囲み、緑の絆で手を縛り、香り立つミュルトスで私の額を冠として、小さな重みを虚空へと持ち上げた……」──「Molli remigio（柔らかな漕ぎで）」──「Angelus et puer」第6段落「Molli remigio（柔らかな漕ぎで）」との完全同語句反復：二詩篇における「天への運搬」が同一語句で定義される──ランボーの同時期ラテン語作法の一貫性として、また「天への昇天」の不変的詩的公式として。「vincloque virenti / Deuinxere manus（緑の絆で手を縛り）」──「vinculum（絆・縛り）」という拘束の語彙：「自由への逃走（Arripui tempus）」として始まった詩篇が「鳩による手の拘束」という逆説的束縛として展開される──「自由→拘束→昇天」という詩的弁証法として。「pondus per inane tenellum / Erexere（小さな重みを虚空へと持ち上げた）」──「inane（虚空・空虚）」：「Vexilla Regis」的「空の高み（Suspensus est patibulo）」の牧歌的変換として──幼子ランボーが「虚空（inane）」へと持ち上げられるという昇天の逆説的形象。「……（点線）」──「Angelus et puer」V連「In naufragiis amaris……」・「Franciscæ meæ laudes」V連の点線との照応──言語の途絶として。"
+    },
+    {
+      "paragraphId": 7,
+      "type": "commentary",
+      "anchor": "Vt patrias tetigere domos, rapidoque volatu\nMonte sub aerio pendentia tecta columbae\nIntrauere, breue positum vigilemque reliquunt.",
+      "body": "「故郷の家に到着すると、素早い飛行で空高い山の下に懸かる屋根へと鳩たちは入っていき、そこに運んだ者を目覚めた状態で残した」──「patrias domos（故郷の家）」──「Mater Speciosa」XI連「Ad patriam veniant（故郷へと来るよう）」の「patria（故郷）」との照応：「亡命（exilium）からの故郷（patria）への帰還」が「鳩に運ばれた天の家への到着」として。「vigilemque reliquunt（目覚めた状態で残した）」──「vigil（目覚めた）」：「Angelus et puer」での「天使が魂を運び去った後に残る死体」とは対照的に、「Ver erat」では目覚めた（vigil）状態で天の家に残される──「死の体験」ではなく「詩的変容の覚醒」として詩人が天に着くという区別として。「Monte sub aerio（空高い山の下に）」──「mons aerius（空高い山）」：ムーサが住むヘリコン山・パルナッソス山の古典的詩的山の形象──詩人の召命の場としての「高い山」として。"
+    },
+    {
+      "paragraphId": 8,
+      "type": "commentary",
+      "anchor": "O dulcem volucrum nidum! ... Lux candida puri.\nCircumfusa humeros radiis mea corpora vestit:\nNec vero obscurae lux illa simillima luci,\nQuae nostros hebebat mixta caligine visus:\nTerrenae nil lucis habet caelestis origo!\nNescio quid caeleste mihi per pectora semper\nInsinuat, pleno currens ceu flumine, numen.",
+      "body": "「ああ、鳥たちの甘い巣よ！……純粋な輝かしい光が……天上の光の起源は地上の光の何も持っていない！」──「O dulcem volucrum nidum（ああ、鳥たちの甘い巣よ）！……」──感嘆詞「O」と点線「……」の組み合わせが詩篇の転換的高揚点として機能する：「Stabat Mater」V連「Eia mater, fons amoris（ああ母よ、愛の泉よ）」の「Eia（ああ）」的感嘆との照応として。「Terrenae nil lucis habet caelestis origo（天上の光の起源は地上の光の何も持っていない）」──「地上の光」対「天上の光」という二元論的命題：「Vexilla Regis」I連「Fulget crucis mysterium（十字架の秘儀が輝く）」の「典礼的光輝」が「天上の光（lux caelestis）」として牧歌的詩篇に転用される──典礼的「神の光」が詩人の個人的天上体験として。「Nescio quid caeleste…Insinuat（なにか天上のものが染み込んでくる）」──第3段落の「Nescio lymphatis quae mens diuinior（なにか神的な精神が）」の「Nescio（私は知らない）」の反復：詩篇の二度の「Nescio」が「感覚的インスピレーション（第3段落）」から「天上的神性の浸透（第8段落）」への詩人的変容の弧を形成する。",
+      "targetId": "fortunatus_vexilla_regis",
+      "targetParagraphId": 1
+    },
+    {
+      "paragraphId": 9,
+      "type": "commentary",
+      "anchor": "Ast vbi laurifera frontem cinxere corona\nEcce mihi patuit caelum, visuque repente\nAttonito, volitans super aurea nubila, Phoebus\nDiuina vocale manu praetendere plectrum.\nTum capiti inscripsit caelesti haec nomina flamma:\nTV VATES ERIS...",
+      "body": "「月桂の花冠が額を飾ると、みよ、私に天が開き……天の炎が頭にこの名を刻んだ──汝は詩人となるだろう（TV VATES ERIS）……」──詩篇の最高点・詩人召命の宣告として。「Ecce mihi patuit caelum（みよ、私に天が開いた）」──「patuit（開いた）」：「天が開く（caelum apertum）」というキリスト教的・古典的「顕現の形象」──マタイ3:16「aperti sunt ei caeli（天が彼に開いた）」（イエスの洗礼）との照応として──詩人の「召命（vocation）」が洗礼的「天の開門」として。「TV VATES ERIS（汝は詩人となるだろう）」──大文字で刻まれた神的宣告：「vates（詩人・予言者）」──ラテン語「vates」は「詩人」と「予言者」の両義を持つ──ランボーの「見者（voyant）」詩人論の原初的ラテン語定式として。ヘルダーリン「パルツェンへの詩（An die Parzen）」の「Einmal / Lebt ich, wie Götter（一度、私は神々のように生きた）」──詩人的召命の「一度の神的体験」という主題との照応として。ヴァレリー「オルフェウス（Orphée）」の「Quand le ciel qui s'ouvre（天が開くとき）」──「天の開門」という詩的インスピレーションの形象として。",
+      "targetId": "hoelderlin_an_die_parzen",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 10,
+      "type": "intertextual",
+      "anchor": "Tunc etiam priscam speciem liquere columbae:\nMusarum chorus apparet, modulamina dulci\nOre sonans, blandisque exceptum sustulit vinis,\nOmina ter fundens, ter lauro tempore cingens.",
+      "body": "「そのとき鳩たちも以前の姿を脱ぎ去った──ムーサの合唱が現れ、甘い口で旋律を奏でながら、優しいワインで迎えて持ち上げ、三度兆しを注ぎ、三度こめかみに月桂を飾った」──詩篇の結尾が「鳩→ムーサ（Musæ）」という変容として閉じる。「priscam speciem liquere columbae（鳩たちも以前の姿を脱ぎ去った）」──「liquere（去る・脱ぎ去る）」：「Columba（鳩）」が「Musæ（ムーサたち）」へと変容する──「Angelus et puer」での「angelus（天使）」の単独行為が「Ver erat」では「Musarum chorus（ムーサの合唱）」という集団的詩的召命へと拡張される。「blandisque exceptum sustulit vinis（優しいワインで迎えて持ち上げ）」──「vinum（ワイン）」：「Franciscæ meæ laudes」XI連「Divinum vinum, Francisca（神聖なワイン）」との照応──ボードレールの「神聖なワイン」が「詩的召命を完成させるワイン」として照応する──「詩（poesis）をワイン（vinum）で完成させる」という古典的詩宴（symposium）の主題として。「Omnia ter fundens, ter lauro tempore cingens（三度兆しを注ぎ、三度こめかみに月桂を飾った）」──「ter（三度）」の反復が「三度の完成」という魔術的・典礼的数として機能する：「三位一体（Trinitas）」の神学的数が詩的召命の魔術的完成として──「Dies Irae」VII連「Te summa Deus Trinitas（至高なる神、三位一体よ）」の「三」の典礼的用法の詩的変換として。「Musarum chorus（ムーサの合唱）」──「Dies Irae」III連「Coget omnes ante thronum（すべての者を玉座の前に集める）」の「审判的集合」に対して「詩的召命の集合」として──典礼的「審判の合唱」から「詩神の合唱」への転換として詩篇全体が完結する。",
+      "targetId": "baudelaire_franciscae_meae_laudes",
+      "targetParagraphId": 11
+    }
+  ]
+}
