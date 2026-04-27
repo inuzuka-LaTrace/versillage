@@ -1606,7 +1606,7 @@ export default function App() {
 
         {/* ─── 注釈インデックス ─────────────────────── */}
         {showAnnotations && (currentText.annotations?.length > 0) && (
-          <div className={`rounded-sm border mb-4 overflow-hidden ${cardBgClass}`}>
+          <div className={`rounded-xs border mb-4 overflow-hidden ${cardBgClass}`}>
             <button
               onClick={() => setShowAnnotationIndex(v => !v)}
               className={`w-full flex items-center justify-between px-4 py-3 text-sm font-medium transition-colors ${
@@ -1616,13 +1616,13 @@ export default function App() {
               <span className="flex items-center gap-2">
                 <List size={14} strokeWidth={1.6} className="shrink-0" />
                 <span>ANNOTATIONS</span>
-                <span className={`text-xs px-2 py-0.5 rounded-full ${darkMode ? 'bg-amber-900/50 text-amber-300' : 'bg-amber-100 text-amber-700'}`}>
+                <span className={`text-xs px-2 py-0.5 rounded-xs ${darkMode ? 'bg-amber-900/50 text-amber-300' : 'bg-amber-100 text-amber-700'}`}>
                   {currentText.annotations.length}件
                 </span>
                 {/* typeバッジ集計 */}
                 <span className="flex gap-1 ml-1">
                   {[...new Set(currentText.annotations.map(a => a.type))].map(t => (
-                    <span key={t} className={`px-1.5 py-0.5 rounded text-xs border hidden sm:inline ${darkMode ? getTypeDef(t).colorDark : getTypeDef(t).colorLight}`}>
+                    <span key={t} className={`px-1.5 py-0.5 rounded-xs text-xs border hidden sm:inline ${darkMode ? getTypeDef(t).colorDark : getTypeDef(t).colorLight}`}>
                       {getTypeDef(t).label}
                     </span>
                   ))}
@@ -1702,20 +1702,20 @@ export default function App() {
           <div className="flex gap-2">
             <button
               onClick={expandAll}
-              className={`px-3 py-1.5 text-xs rounded-lg transition-colors font-IBM Plex sans JP ${darkMode ? 'bg-zinc-800 text-zinc-300 hover:bg-zinc-700' : 'bg-stone-100 text-stone-600 hover:bg-stone-200'}`}
+              className={`px-3 py-1.5 text-xs rounded-xs transition-colors font-IBM Plex sans JP ${darkMode ? 'bg-zinc-800 text-zinc-300 hover:bg-zinc-700' : 'bg-stone-100 text-stone-600 hover:bg-stone-200'}`}
             >
               すべて展開
             </button>
             <button
               onClick={collapseAll}
-              className={`px-3 py-1.5 text-xs rounded-lg transition-colors font-IBM Plex sans JP ${darkMode ? 'bg-zinc-800 text-zinc-300 hover:bg-zinc-700' : 'bg-stone-100 text-stone-600 hover:bg-stone-200'}`}
+              className={`px-3 py-1.5 text-xs rounded-xs transition-colors font-IBM Plex sans JP ${darkMode ? 'bg-zinc-800 text-zinc-300 hover:bg-zinc-700' : 'bg-stone-100 text-stone-600 hover:bg-stone-200'}`}
             >
               すべて折りたたむ
             </button>
             <button
               onClick={() => speakAll(currentText)}
               title={speakingId === 'all' ? '読み上げ停止' : '全文を読み上げる'}
-              className={`px-3 py-1.5 text-xs rounded-lg transition-colors flex items-center gap-1 ${
+              className={`px-3 py-1.5 text-xs rounded-xs transition-colors flex items-center gap-1 ${
                 speakingId === 'all'
                   ? (darkMode ? 'bg-amber-700 text-amber-100 font-IBM Plex sans JP' : 'bg-stone-700 text-white font-IBM Plex sans JP')
                   : darkMode ? 'bg-zinc-800 text-zinc-300 hover:bg-zinc-700 font-IBM Plex sans JP' : 'bg-stone-100 text-stone-600 hover:bg-stone-200 font-IBM Plex sans JP'
@@ -1726,7 +1726,7 @@ export default function App() {
           </div>
           <button
             onClick={clearAllTranslations}
-            className={`px-3 py-1.5 text-xs rounded-lg transition-colors ${darkMode ? 'bg-rose-900/30 text-rose-400 border border-rose-800 hover:bg-rose-900/50 font-IBM Plex sans JP' : 'bg-rose-50 text-rose-700 border border-rose-200 hover:bg-rose-100 font-sans'}`}
+            className={`px-3 py-1.5 text-xs rounded-xs transition-colors ${darkMode ? 'bg-rose-900/30 text-rose-400 border border-rose-800 hover:bg-rose-900/50 font-IBM Plex sans JP' : 'bg-rose-50 text-rose-700 border border-rose-200 hover:bg-rose-100 font-sans'}`}
           >
             訳文をすべて削除
           </button>
@@ -1950,7 +1950,7 @@ export default function App() {
                     const origLines = orig.split('\n');
                     const transLines = translation.split('\n');
                     return (
-                      <div className={`rounded-lg overflow-hidden border mb-8 ${d ? 'border-zinc-800' : 'border-stone-200'}`}>
+                      <div className={`rounded-xs overflow-hidden border mb-8 ${d ? 'border-zinc-800' : 'border-stone-200'}`}>
                         <div className={`grid grid-cols-2 border-b text-[9px] font-sans uppercase tracking-[0.2em] ${d ? 'bg-zinc-900 text-zinc-500 border-zinc-800' : 'bg-stone-50 text-stone-400 border-stone-200'}`}>
                           <div className="px-3 py-1 border-r border-inherit text-center">Original</div>
                           <div className="px-3 py-1 text-center">Traduction</div>
