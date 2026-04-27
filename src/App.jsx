@@ -1767,7 +1767,7 @@ export default function App() {
                 {paraIdx > 0 && !isNewScene && (
                   <div className={`text-center select-none py-0.5 ${
                     darkMode ? 'text-[#3a3228]' : 'text-[#c8b480]'
-                  }`} aria-hidden="true" style={{ fontSize: '10px', letterSpacing: '0.4em' }}>
+                  }`} aria-hidden="true" style={{ fontSize: '11px', letterSpacing: '0.4em' }}>
                     ✦✦✦
                   </div>
                 )}
@@ -2389,7 +2389,7 @@ const TocDrawer = ({
                             </div>
                           );
                         })}
-                        <div className={`text-center py-1.5 ${tocOrnament} text-sm tracking-[0.4em] select-none`}>
+                        <div className={`text-center py-1.5 ${tocOrnament} text-[11px] tracking-[0.4em] select-none`}>
                           ✦ ✦ ✦
                         </div>
                       </div>
