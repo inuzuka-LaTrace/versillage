@@ -1,0 +1,82 @@
+{
+  "id": "horatius_carmina_1_11",
+  "title": "Carmina, Liber I, Carmen XI",
+  "author": "Quintus Horatius Flaccus",
+  "source": "Carmina (Odes), Liber I, 23 BC Wikisource: https://la.wikisource.org/wiki/Carmina_(Horatius)/Liber_I/Carmen_XI",
+  "year": "Antiquitas",
+  "firstPublication": "Carmina (Odes), Liber I, 23 BC",
+  "difficulty": "中級",
+  "category": "horatius",
+  "originalLang": "la-LA",
+  "modernRelevance": "★★★★★",
+  "context": "クィントゥス・ホラティウス・フラックス（Quintus Horatius Flaccus, 65–8 BC）の「カルミナ（頌歌集）」第1巻第11番。アスクレピアデウス詩形（Asclepiadean metre）の8行詩として、「carpe diem（その日を摘め）」という西洋文学最大の格言を生んだ詩篇。「Tu ne quaesieris（問うな）」という否定命令から始まり、「carpe diem（その日を摘め）、quam minimum credula postero（後の日をできる限り信じずに）」という最終定式へと収束する。詩篇全体が「禁止→受容→行動」という三段論的構造を持つ：①占星術・神託による未来予言の禁止（v.1–3前半）→②現在の受容（v.3後半–6）→③「carpe diem」という現在的行為の命令（v.7–8）。「Leuconoe（レウコノエ）」という名の女性への呼びかけとして──「白い精神」を意味するギリシャ語名が「未来を予知しようとする人間の精神」の象徴として機能する。「Dum loquimur, fugerit invida / Aetas（私たちが語っている間に、妬ましい時間は逃げ去るだろう）」という「言語行為の時間的消費」という逆説──詩行を読む行為そのものが「時間の逃走」を実演する自己言及的構造として。コヘレト「Quid habet amplius homo de universo labore suo（人はすべての労苦から何を得るのか）」の虚無論的問いへの対応として──コヘレトが「太陽の下の循環」に虚無を見るのに対し、ホラティウスは「現在の瞬間の収穫」という肯定的応答として。VANITISMEコーパスにおいては、「carpe diem」という定式がボードレール「Harmonie du soir」・「L'Horloge」、コヘレト、ヴェイユ「Eclair（稲妻）」の「一瞬の持続」主題群の古典的起源として位置づけられる。",
+  "keywords": [
+    "carpe diem",
+    "その日を摘め",
+    "Leuconoe",
+    "carpe diem",
+    "fugerit aetas",
+    "時間の逃走",
+    "占星術",
+    "Babylonios numeros",
+    "spatio brevi",
+    "ホラティウス",
+    "アスクレピアデウス",
+    "現在の哲学",
+    "エピクロス主義"
+  ],
+  "relatedTexts": [
+    "hieronymus_ecclesiastes_1",
+    "celano_dies_irae",
+    "kavafis_vulnerant_omnes_ultima_necat",
+    "baudelaire_horloge",
+    "baudelaire_harmonie_du_soir",
+    "weil_eclair",
+    "palladas_ap_x_72",
+    "palladas_ap_xv_20",
+    "rimbaud_ver_erat",
+    "mallarme_coup_de_des"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "verses": "v.1–8",
+      "original": "Tu ne quaesieris, scire nefas, quem mihi, quem tibi\nFinem di dederint, Leuconoe, nec Babylonios\nTemptaris numeros. Ut melius quidquid erit pati,\nSeu pluris hiemes seu tribuit Iuppiter ultimam,\nQuae nunc oppositis debilitat pumicibus mare\nTyrrhenum: sapias, vina liques, et spatio brevi\nSpem longam reseces. Dum loquimur, fugerit invida\nAetas: carpe diem, quam minimum credula postero.",
+      "provisionalTranslation": "問うな、知ることは禁忌、いかなる終わりを神々が\n私に、あなたに与えたかを、レウコノエよ。バビロニアの\n星占いも試みるな。いかなることが来ようとも耐える方がよい──\nユピテルが多くの冬を与えるにせよ、最後の冬を与えるにせよ、\n今や対岸の軽石でティレニア海を弱らせている冬を。\n賢くあれ、ワインを澄ませ、そして短い時間の中に\n長い希望を刈り込め。私たちが語っている間に、妬ましい\n時間は逃げ去るだろう。その日を摘め、後の日をできる限り信じずに。"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "prosody",
+      "anchor": "Tu ne quaesieris, scire nefas, quem mihi, quem tibi\nFinem di dederint, Leuconoe, nec Babylonios",
+      "body": "詩篇のアスクレピアデウス詩形（Greater Asclepiadean）──全8行が同一の「長短短長・長短短・長短短長・短長（—∪∪—|—∪∪—|—∪∪—|∪—）」という12音節格として統一される稀な詩形。カルミナ全体で本詩（I.11）のみこの詩形を用いる。各行が途中で意味的に区切られ（「scire nefas」「Babylonios/Temptaris numeros」等）、統語と詩形の緊張が詩篇に「問いかけ・否定・転換」という連続した思考運動を模倣させる。「Tu ne quaesieris（問うな）」──否定完了接続法（ne + perf. subj.）：将来に向けた禁止の穏やかな命令形として──「scire nefas（知ることは禁忌）」という「认識論的禁止」を即座に根拠づける構造。「Leuconoe（レウコノエ）」──ギリシャ語「λευκός（白）＋νόος（精神）」：「白い精神・純粋な知性」を意味する名が「占星術に頼る者」への呼びかけとして──詩篇の皮肉的緊張として。「Dies Irae」I連「Teste David cum Sybillâ（ダヴィデとシビュラが証言するように）」との対照：予言者（シビュラ）の権威を「終末の証言」として援用する典礼聖歌に対し、ホラティウスは「Babylonios / Temptaris numeros（バビロニアの星占いを試みるな）」という占星術的予言への明示的拒絶として。",
+      "targetId": "celano_dies_irae",
+      "targetParagraphId": 1
+    },
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "Ut melius quidquid erit pati,\nSeu pluris hiemes seu tribuit Iuppiter ultimam,\nQuae nunc oppositis debilitat pumicibus mare\nTyrrhenum:",
+      "body": "「いかなることが来ようとも耐える方がよい──ユピテルが多くの冬を与えるにせよ、最後の冬を与えるにせよ、今や対岸の軽石でティレニア海を弱らせている冬を」──詩篇の中間部が「現在の冬の嵐」という具体的感覚的描写を介して「多くの冬/最後の冬」という寿命の問題を埋め込む。「quidquid erit pati（いかなることが来ようとも耐える）」──ストア哲学的「受容（pati）」の命題：「Vulnerant Omnes, Ultima Necat（最後の時は殺す）」の時計の「pati（耐える）」姿勢との照応──ホラティウスが「耐える（pati）」ことを「賢さ（sapias）」の条件として提示するのに対し、カヴァフィスの時計は「耐えながら腐敗する」という苦い実存として。「pluris hiemes（多くの冬）」対「ultimam（最後の）」──「時間の量（pluris）」と「時間の終わり（ultima）」という二択：「Dum loquimur（私たちが語っている間に）」という現在への収束の準備として。「Tyrrhenum（ティレニア海）」──具体的地理的名称が「冬の嵐」という自然的時間のイメージとして：「oppositis debilitat pumicibus（対岸の軽石で弱らせている）」という侵食的時間の形象──コヘレト「Omnia flumina intrant in mare（すべての川は海へと入る）」の水的循環と同型の「海・水・時間」の連鎖として。",
+      "targetId": "kavafis_vulnerant_omnes_ultima_necat",
+      "targetParagraphId": 2
+    },
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "sapias, vina liques, et spatio brevi\nSpem longam reseces.",
+      "body": "「賢くあれ（sapias）、ワインを澄ませ（vina liques）、そして短い時間の中に長い希望を刈り込め（Spem longam reseces）」──詩篇の三命令の並置：「sapias（賢くあれ）・vina liques（ワインを澄ませ）・Spem longam reseces（希望を刈り込め）」の三動詞が現在の肯定的生の様式として。「sapias（賢くあれ）」──接続法現在の穏やかな命令：「sapientia（知恵）」がここでは「未来を問わない知恵」として定義される──「Dies Irae」VII連「Quid sum, miser! tunc dicturus（惨れな私は何を言うだろうか）」という「審判前の自己問い」とは逆に、「問わないこと（ne quaesieris）」が「知恵（sapias）」として定義されるという逆転として。「vina liques（ワインを澄ませ）」──「liquare（澄ます・濾過する）」という感覚的行為：「Franciscæ meæ laudes」XI連「Divinum vinum, Francisca（神聖なワイン）」・「Ver erat」X連「blandisque exceptum sustulit vinis（優しいワインで迎えて持ち上げ）」のワイン主題との連鎖──詩的召命・愛の讃歌・「carpe diem」が「ワイン」という感覚的媒体を共有する。「Spem longam reseces（長い希望を刈り込め）」──「resecare（刈り込む・切り詰める）」という農業的剪定動詞：「Τεχνητά Άνθη（人工の花）」の「花冠（sertis implicata）」的剪定美学との照応──「長い希望」を「短い時間（spatio brevi）」に合わせて「刈り込む（reseces）」という「時間的美学的形成」として。",
+      "targetId": "baudelaire_franciscae_meae_laudes",
+      "targetParagraphId": 9
+    },
+    {
+      "paragraphId": 1,
+      "type": "intertextual",
+      "anchor": "Dum loquimur, fugerit invida\nAetas: carpe diem, quam minimum credula postero.",
+      "body": "「私たちが語っている間に、妬ましい時間は逃げ去るだろう（fugerit invida Aetas）。その日を摘め（carpe diem）、後の日をできる限り信じずに（quam minimum credula postero）」──詩篇の頂点・西洋文学最大の格言的定式として。「Dum loquimur, fugerit invida Aetas（私たちが語っている間に、妬ましい時間は逃げ去るだろう）」──「Dum（〜している間に）」という従属接続詞と「fugerit（逃げ去るだろう）」という未来完了形の組み合わせ：詩行を「語る（loquimur）」という現在進行的行為が完了する前に時間が「すでに逃げ去った（fugerit）」という「言語の時間的無力」──「Nous n'osons plus chanter les roses」の「言語の沈黙」とは逆に、「語ること」自体が時間を消費してしまうという「言語の時間的パラドクス」として。「invida Aetas（妬ましい時間）」──「invidus（嫉妬する・妬む）」という感情的形容が「時間（Aetas）」に付与される擬人化：「Vulnerant Omnes, Ultima Necat（すべての時は傷つけ、最後は殺す）」の時計の「φονεύει η εσχάτη（最後の時は殺す）」という「敵としての時間」と同型。「carpe diem（その日を摘め）」──「carpere（摘む・収穫する）」という農業的動詞：「Ver erat」X連「Omnia ter fundens, ter lauro tempore cingens（三度月桂を飾った）」のランボー的「詩的収穫」の古典的起源として。ヴェイユ「Eclair（稲妻）」の「L'homme n'échappe aux lois de ce monde que la durée d'un éclair（人間は稲妻の時間だけ世界の法則から逃れられる）」──「carpe diem」という一日の時間的収穫がヴェイユ的「稲妻の瞬間」という「法則からの束の間の逸脱」の古典的先行定式として──エピクロス的「現在の享受」からヴェイユ的「恩寵の瞬間」への「一瞬性」主題の変容の弧として。コヘレト「Nihil sub sole novum（太陽の下に新しいものは何もない）」との対話：コヘレトが「太陽の下の循環」に「新しいものは何もない」と虚無を見るのに対し、ホラティウスの「carpe diem」は「太陽の下の現在の一日」に「摘み取るべき実り」を見る──同一の「太陽の下（sub sole）」という地平における虚無（コヘレト）対享受（ホラティウス）の哲学的対話として。「パラダス「Παλατινὴ Ἀνθολογία X 72（人生はすべて舞台）」の「ἢ μάθε παίζειν（遊ぶことを学べ）…ἢ φέρε τὰς ὀδύνας（さもなくば苦悩を引き受けよ）」という二択──パラダスの「遊びか苦悩か」という二択がホラティウスの「carpe diem」という第三の選択（「現在の収穫」）によって超えられるものとして：「苦悩を引き受ける（pati）」という受容がホラティウスでは「賢くあれ（sapias）」という積極的現在への態度に変換される。",
+      "targetId": "weil_eclair",
+      "targetParagraphId": 1
+    }
+  ]
+}
