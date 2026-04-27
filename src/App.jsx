@@ -2002,7 +2002,7 @@ export default function App() {
                       <div className={`mb-3 rounded-xs border ${darkMode ? 'border-amber-900/50 bg-amber-950/20' : 'border-[#a08560]/50 bg-[#e8dfc0]/60'}`}>
                         <button
                           onClick={() => setExpandedAnnotations(prev => ({ ...prev, [para.id]: !prev[para.id] }))}
-                          className={`w-full flex items-center justify-between px-3 py-2 text-xs font-medium transition-colors rounded-lg ${
+                          className={`w-full flex items-center justify-between px-3 py-2 text-xs font-medium transition-colors rounded-xs ${
                             darkMode ? 'text-amber-300 hover:bg-amber-900/20' : 'text-amber-800 hover:bg-amber-100'
                           }`}
                         >
@@ -2013,7 +2013,7 @@ export default function App() {
                             {!isAnnotationOpen && (
                               <span className="flex gap-1">
                                 {[...new Set(paraAnnotations.map(a => a.type))].map(t => (
-                                  <span key={t} className={`px-1.5 py-0.5 rounded text-xs border ${darkMode ? getTypeDef(t).colorDark : getTypeDef(t).colorLight}`}>
+                                  <span key={t} className={`px-1.5 py-0.5 rounded-xs text-xs border ${darkMode ? getTypeDef(t).colorDark : getTypeDef(t).colorLight}`}>
                                     {getTypeDef(t).label}
                                   </span>
                                 ))}
