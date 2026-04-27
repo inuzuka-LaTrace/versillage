@@ -1,0 +1,138 @@
+{
+  "id": "horatius_carmina_4_7",
+  "title": "Carmina, Liber IV, Carmen VII",
+  "author": "Quintus Horatius Flaccus",
+  "source": "Wikisource: https://la.wikisource.org/wiki/Carmina_(Horatius)/Liber_IV/Carmen_VII",
+  "year": "13 a.Ch.n.（紀元前13年頃）",
+  "firstPublication": "Carmina (Odes), Liber IV, c. 13 BC",
+  "difficulty": "中級",
+  "category": "horatius",
+  "originalLang": "la-LA",
+  "modernRelevance": "★★★★★",
+  "context": "ホラティウス「カルミナ」第4巻第7番。アルキローコス詩形（First Archilochian）──長行（ダクテュロス六脚詩：11音節）と短行（ダクテュロス四脚詩：6音節）の交互2行ペアを7連（各4行）の構成。「Diffugere nives（雪は消え散った）」という春の到来から「pulvis et umbra sumus（私たちは塵と影である）」という人間の実存的定義へ、さらに「nec Lethaea valet Theseus abrumpere caro / vincula Perithoo（テセウスもペリトオスへの愛の絆をレーテの川から断ち切ることができない）」という神話的「救済不可能性」へと収束する。Carmen I.IV「pallida Mors aequo pulsat pede（青ざめた死は等しく叩く）」との主題的連続として──季節の循環（自然の不死）と人間の死（文明の一回性）の対置が両詩篇の共通構造として。「damna tamen celeres reparant caelestia lunae（しかし月は天上の損失を速やかに修復する）」──月の「回復（reparant）」に対する「nos ubi decidimus（私たちが落ちてしまったら）」の「回復不可能性」の対比が詩篇の神学的・実存的核心として。英国詩人A・E・ハウスマン（A. E. Housman）が「ラテン語詩篇で最も美しい詩」と称した詩篇として知られる。",
+  "keywords": [
+    "diffugere nives",
+    "pulvis et umbra",
+    "塵と影",
+    "季節の循環",
+    "月の回復",
+    "ミノス",
+    "レーテ",
+    "テセウス",
+    "ペリトオス",
+    "死の回復不可能性",
+    "トルクァトゥス",
+    "アルキローコス詩形",
+    "ホラティウス"
+  ],
+  "relatedTexts": [
+    "horatius_carmina_1_4",
+    "horatius_carmina_1_11",
+    "hieronymus_ecclesiastes_1",
+    "celano_dies_irae",
+    "kavafis_elegeia_ton_louloudion",
+    "kavafis_vulnerant_omnes_ultima_necat",
+    "palladas_ap_x_72",
+    "palladas_ap_x_58",
+    "weil_necessite",
+    "hoelderlin_haelfte_des_lebens"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "verses": "v.1–4",
+      "original": "Diffugere nives, redeunt iam gramina campis\n   arboribusque comae;\nmutat terra vices et decrescentia ripas\n   flumina praetereunt;",
+      "provisionalTranslation": "雪は消え散り、もう草が野原に戻り、\n　木々には葉が戻った。\n大地は交替を変え、減少する川が\n　岸を過ぎ去っていく。"
+    },
+    {
+      "id": 2,
+      "verses": "v.5–8",
+      "original": "Gratia cum Nymphis geminisque sororibus audet\n   ducere nuda choros:\ninmortalia ne speres, monet annus et almum\n   quae rapit hora diem.",
+      "provisionalTranslation": "グラティアエがニュンペーたちと双子の姉妹たちとともに\n　裸で舞を率いる勇気を持つ。\n不死を望むな、と年が警告し、\n　恵み深い日を奪い去る時間が。"
+    },
+    {
+      "id": 3,
+      "verses": "v.9–12",
+      "original": "frigora mitescunt Zephyris, ver proterit aestas\n   interitura, simul\npomifer autumnus fruges effuderit, et mox\n   bruma recurrit iners.",
+      "provisionalTranslation": "寒さはゼフュロスに和らぎ、春を夏が踏み潰す、\n　夏自身も滅びるために、\n実り多い秋が果実を注ぎ出せばすぐに、\n　また動かない冬が戻ってくる。"
+    },
+    {
+      "id": 4,
+      "verses": "v.13–16",
+      "original": "damna tamen celeres reparant caelestia lunae:\nnos ubi decidimus\nquo pius Aeneas, quo Tullus dives et Ancus,\n   pulvis et umbra sumus.",
+      "provisionalTranslation": "しかし月は天上の損失を速やかに修復する。\n私たちが落ちてしまえば\n敬虔なアエネアスが、富めるトゥッルスとアンクスが落ちた所へ──\n　私たちは塵と影である。"
+    },
+    {
+      "id": 5,
+      "verses": "v.17–20",
+      "original": "quis scit an adiciant hodiernae crastina summae\n   tempora di superi?\ncuncta manus avidas fugient heredis amico\n   quae dederis animo.",
+      "provisionalTranslation": "今日の総計に明日の時間を天上の神々が\n　加えるかどうか、誰が知ろうか。\n友情ある心に与えたものはすべて\n　貪欲な相続人の手から逃れるだろう。"
+    },
+    {
+      "id": 6,
+      "verses": "v.21–24",
+      "original": "cum semel occideris et de te, splendide, Minos\n   fecerit arbitria,\nnon, Torquate, genus, non te facundia, non te\n   restituet pietas;",
+      "provisionalTranslation": "一度あなたが倒れ、輝かしいミノスが\n　あなたについて裁決を下せば、\nトルクァトゥスよ、家柄も、弁舌もあなたを、\n　敬虔さも元に戻すことはない。"
+    },
+    {
+      "id": 7,
+      "verses": "v.25–28",
+      "original": "infernis neque enim tenebris Diana pudicum\n   liberat Hippolytum\nnec Lethaea valet Theseus abrumpere caro\n   vincula Perithoo.",
+      "provisionalTranslation": "なぜなら冥界の闇からディアナは純潔なヒッポリュトスを\n　解放しないし、\nテセウスも愛するペリトオスへの\n　レーテの絆を断ち切る力がないのだから。"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "prosody",
+      "anchor": "Diffugere nives, redeunt iam gramina campis\n   arboribusque comae;",
+      "body": "詩篇のアルキローコス詩形（First Archilochian）──各連が「長行（ダクテュロス六脚詩11音節）＋短行（ダクテュロス四脚詩6音節）」の2行ペア×2という4行構成として：ホラティウス「カルミナ」でこの詩形を用いる数少ない詩篇の一つ。短行（「arboribusque comae」「flumina praetereunt」等）のインデントが視覚的に「反響・余韻」を形成する──長行の「叙述（assertion）」に短行の「補足・余韻（echo）」が続く構造として。「Diffugere nives（雪は消え散った）」──「diffugere（散り消える）」という「拡散的消滅」の動詞：Carmen I.IV「Solvitur acris hiems（厳しい冬が解ける）」の「solvere（解ける）」と対照的に、「diffugere」は「散り散りに逃げる」という能動的・複数方向的消散として──同一の「春の到来」が異なる動詞によって語られることで両詩篇の「春の哲学」の微差が形成される。「mutat terra vices（大地は交替を変える）」──「Carmen I.IV」「grata vice veris（春の嬉しい交替）」の「vicis（交替）」との同語根：「vicis（交替）」という「循環的変換」の語彙が両詩篇を繋ぐ──自然の「交替（vicis）」が「人間の一回性」との対比の文法的基盤として。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "Gratia cum Nymphis geminisque sororibus audet\n   ducere nuda choros:\ninmortalia ne speres, monet annus et almum\n   quae rapit hora diem.",
+      "body": "「グラティアエがニュンペーたちとともに裸で舞を率いる勇気を持つ。不死を望むな、と年が警告し、恵み深い日を奪い去る時間が」──「春の豊かさ」から「時間の警告」への詩篇最初の転換点として機能する。「ducere nuda choros（裸で舞を率いる）」──「Carmen I.IV」第2段落「Gratiae decentes / alterno terram quatiunt pede（優雅なグラティアエが交互の足で大地を揺らす）」との直接的主題照応：両詩篇で「グラティアエの踊り（choros）」が春の神話的象徴として機能する──しかしCarmen I.IVの「decentes（優雅な）」に対してCarmen IV.VIIでは「nuda（裸の）」という形容が付加される点が両詩篇の感覚的差異として。「inmortalia ne speres（不死を望むな）」──「monet（警告する）」の主語が「annus（年）」と「quae rapit hora diem（日を奪い去る時間）」の二つ：「時間の擬人的警告」という詩的形象が「Vulnerant Omnes, Ultima Necat（すべての時は傷つけ、最後は殺す）」の時計の「哲学的告白」の古典的起源として。「almum diem（恵み深い日）」──「almus（養い育てる・恵み深い）」と「dies（日）」の組み合わせ：Carmen XI「carpe diem（その日を摘め）」の「diem（日）」が「奪い去られるもの（quae rapit）」として定義される──「摘むべき日（Carmen XI）」が「奪われる日（Carmen IV.VII）」として同一対象の二面として。",
+      "targetId": "horatius_carmina_1_4",
+      "targetParagraphId": 2
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "frigora mitescunt Zephyris, ver proterit aestas\n   interitura, simul\npomifer autumnus fruges effuderit, et mox\n   bruma recurrit iners.",
+      "body": "「寒さはゼフュロスに和らぎ、春を夏が踏み潰す、夏自身も滅びるために、実り多い秋が果実を注ぎ出せばすぐに、また動かない冬が戻ってくる」──四季の循環が圧縮的に記述される。「ver proterit aestas / interitura（春を夏が踏み潰す、夏自身も滅びるために）」──「proterit（踏み潰す）」という暴力的動詞と「interitura（滅びるために）」という未来分詞：各季節が「後の季節を踏み潰しながら自らも滅びる」という「連鎖的消滅」の論理──コヘレト「Generatio praeterit, et generatio advenit（世代は過ぎ去り、世代は来る）」の「世代の連鎖的交替」と同型の自然的循環として。「pomifer autumnus（実り多い秋）」──「pomifer（果実を運ぶ）」という果実的形容：「Ver erat」II段落「Laetaque vernantis miracula cernere terrae（芽吹く大地の喜ばしい奇跡）」の「春の奇跡」に続く「秋の実り」として──ランボーの「詩人の召命（TV VATES ERIS）」という「詩的収穫」が「pomifer autumnus（実り多い秋）」として自然的に照応する。「bruma recurrit iners（動かない冬が戻ってくる）」──「iners（無活動の・動かない）」という形容：第1段落「Diffugere nives（雪は消え散った）」の「diffugere（消え散る）」という能動的春の逆として「iners（動かない）」冬の回帰として──四季循環の「始点への回帰」として詩篇の構造的円環を予告する。"
+    },
+    {
+      "paragraphId": 4,
+      "type": "intertextual",
+      "anchor": "damna tamen celeres reparant caelestia lunae:\nnos ubi decidimus\nquo pius Aeneas, quo Tullus dives et Ancus,\n   pulvis et umbra sumus.",
+      "body": "「しかし月は天上の損失を速やかに修復する。私たちが落ちてしまえば……私たちは塵と影である（pulvis et umbra sumus）」──詩篇の哲学的核心・人間の実存的定義として。「damna tamen celeres reparant caelestia lunae（しかし月は天上の損失を速やかに修復する）」──「tamen（しかし）」という逆接が詩篇全体の「自然の循環」と「人間の非循環」の分岐点として機能する：月が「損失（damna）を修復（reparant）」するのに対し「nos ubi decidimus（私たちが落ちたら）」という「人間の回復不可能性」が対置される。「pulvis et umbra sumus（私たちは塵と影である）」──詩篇最大の定式：「pulvis（塵）」──旧約聖書「創世記」3:19「pulvis es, et in pulverem reverteris（あなたは塵であり、塵に帰る）」との照応；「umbra（影）」──「パラダス「AP X 72（σκηνή πᾶς ὁ βίος（人生はすべて舞台））」の「σκιά（影・幻）」との照応として──「舞台上の影」という人生観がホラティウスの「塵と影（pulvis et umbra）」として古典的定式を形成する。「quo pius Aeneas, quo Tullus dives et Ancus（敬虔なアエネアス、富めるトゥッルスとアンクスが落ちた所へ）」──ウェルギリウス「Aeneis」の主人公アエネアス（「敬虔な（pius)」という形容で固定した）、ローマ初期の王トゥッルス・ホスティリウスとアンクス・マルティウスという歴史的英雄の並置：「偉大さ・敬虔さ・富」という人間的卓越性がすべて「同一の場所に落ちた（decidimus）」ことによって無効化される──「Στρατηγού Θάνατος（将軍の死）」の「αρετή（徳）が彼とともに死んだ」という公的言語の解体と同型の「卓越性の死による無効化」として。",
+      "targetId": "palladas_ap_x_72",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 5,
+      "type": "commentary",
+      "anchor": "quis scit an adiciant hodiernae crastina summae\n   tempora di superi?\ncuncta manus avidas fugient heredis amico\n   quae dederis animo.",
+      "body": "「今日の総計に明日の時間を天上の神々が加えるかどうか、誰が知ろうか。友情ある心に与えたものはすべて貪欲な相続人の手から逃れるだろう」──「認識論的不確実性」と「生前贈与」という実践的命題として。「quis scit an adiciant hodiernae crastina summae / tempora di superi（今日の総計に明日の時間を神々が加えるかどうか、誰が知ろうか）」──「quis scit（誰が知ろうか）」という修辞疑問：Carmen XI「Tu ne quaesieris, scire nefas（問うな、知ることは禁忌）」の「scire nefas（知ることは禁忌）」との照応──「知ること（scire）」の禁止（Carmen XI）と「誰が知るか（quis scit）」という不可知性（Carmen IV.VII）が同一認識論的謙遜の異なる表現として。「cuncta manus avidas fugient heredis（すべてが貪欲な相続人の手から逃れる）」──「avidas（貪欲な）」という形容が「相続人（heres）」に付与される：生前に「友情ある心（amico animo）」で与えたものが「貪欲な相続人（heres avidus）」ではなく「友人」に届く──「貪欲（avidus）」な相続への対抗としての「贈与の哲学」として。コヘレト「Quid habet amplius homo de universo labore suo（人はすべての労苦から何を得るのか）」──「労苦の成果が死後に他者のものになる」というコヘレト的虚無が「生前贈与」という実践的応答として転換される。",
+      "targetId": "horatius_carmina_1_11",
+      "targetParagraphId": 1
+    },
+    {
+      "paragraphId": 6,
+      "type": "commentary",
+      "anchor": "cum semel occideris et de te, splendide, Minos\n   fecerit arbitria,\nnon, Torquate, genus, non te facundia, non te\n   restituet pietas;",
+      "body": "「一度あなたが倒れ、輝かしいミノスがあなたについて裁決を下せば、トルクァトゥスよ、家柄も、弁舌もあなたを、敬虔さも元に戻すことはない」──詩篇の法的・神学的核心として。「semel occideris（一度倒れれば）」──「semel（一度）」という「人間の死の一回性」の副詞：Carmen I.IV「pallida Mors aequo pulsat pede（青ざめた死は等しく叩く）」の「死の普遍性」が「semel（一度）」という「不可逆的単数性」として確言される──自然の「mutat terra vices（大地は交替を変える）」という複数・循環性に対して「semel（一度限り）」という非循環性として。「splendide, Minos（輝かしいミノス）」──「splendidus（輝かしい）」という称賛的形容が「冥界の裁判官（Minos）」に付与される逆説：「輝かしさ（splendor）」が死の裁判官の権威として──「Στρατηγού Θάνατος」の「Αρετή（徳）」という「公的言語」と同型の「称号の虚空化」として。「non…genus, non te facundia, non te / restituet pietas（家柄も、弁舌も、敬虔さも元に戻すことはない）」──三重の「non」による「救済の否定」：「genus（家柄）・facundia（弁舌）・pietas（敬虔さ）」というローマ的卓越性の三要素がすべて死後の「restituere（元に戻すこと）」から排除される──「Dies Irae」VII連「Quid sum, miser! tunc dicturus（惨れな私は何を言うだろうか）」という「言語の無力」がローマ的「弁舌（facundia）」の無力として対応する。",
+      "targetId": "celano_dies_irae",
+      "targetParagraphId": 7
+    },
+    {
+      "paragraphId": 7,
+      "type": "intertextual",
+      "anchor": "infernis neque enim tenebris Diana pudicum\n   liberat Hippolytum\nnec Lethaea valet Theseus abrumpere caro\n   vincula Perithoo.",
+      "body": "「なぜなら冥界の闇からディアナは純潔なヒッポリュトスを解放しないし、テセウスも愛するペリトオスへのレーテの絆を断ち切る力がないのだから」──詩篇の最終連が二つの神話的「救済の失敗」として閉じる。「Diana pudicum / liberat Hippolytum（ディアナは純潔なヒッポリュトスを解放しない）」──ヒッポリュトス（アルテミス女神に仕えた純潔の英雄、継母パイドラの愛を拒んで死んだ）：「Stabat Mater」・典礼的「救済」への暗黙的対照として──「神的な力（Diana）」でさえ「冥界の闇（infernis tenebris）」からは救済できないという古典神話的「救済の不可能性」として。「nec Lethaea valet Theseus abrumpere caro / vincula Perithoo（テセウスもペリトオスへの愛のレーテの絆を断ち切る力がない）」──テセウスとペリトオス（親友）の冥界への友情的旅行の失敗神話：「Lethaea vincula（レーテの絆）」──「レーテ（Lethe：忘却の川）」が「絆（vincula）」として：「Franciscæ meæ laudes」III連「Sicut beneficum Lethe, / Hauriam oscula de te（恵み深いレーテのように、あなたから口づけを汲み取ろう）」でボードレールが「恵み深い忘却（beneficum Lethe）」として転用したレーテが、ホラティウスでは「断ち切ることのできない死の絆（Lethaea vincula）」として──「恵み深い忘却」対「解放不可能な絆」というレーテの二側面として。「ヘルダーリン「半生（Hälfte des Lebens）」末行「Die Fahnen / Rauschen im Winde（旗は風にはためく）」の孤立した「風の中の旗」──「救済なき孤立」という詩的実存がホラティウスの「神も友人も救えない冥界の絆」と同型の「孤立した人間の実存」として照応する。詩篇全体の弧：「Diffugere nives（雪は消え散る）」という春の豊かさ──「pulvis et umbra sumus（塵と影である）」という実存的定義──「nec…Theseus abrumpere caro / vincula Perithoo（テセウスも絆を断ち切れない）」という「愛と友情の絶対的無力」として完結する──「Carmen I.IV」の「pallida Mors aequo pulsat pede（等しく叩く死）」が「Carmen IV.VII」では「愛の絆さえ救済できない」という「友情の無力」へと深化する。",
+      "targetId": "baudelaire_franciscae_meae_laudes",
+      "targetParagraphId": 3
+    }
+  ]
+}
