@@ -1,0 +1,184 @@
+{
+  "id": "baudelaire_franciscae_meae_laudes",
+  "title": "Franciscæ meæ laudes",
+  "author": "Charles Baudelaire",
+  "source": "Les Fleurs du mal, Poulet-Malassis et de Broise, Paris, 1861,Wikisource: https://fr.wikisource.org/wiki/Les_Fleurs_du_mal_(1861)/Franciscae_meae_laudes",
+  "year": "1861",
+  "firstPublication": "Les Fleurs du mal, Poulet-Malassis et de Broise, Paris, 1861, LX, p.139–141",
+  "difficulty": "上級",
+  "category": "baudelaire",
+  "originalLang": "la-LA",
+  "modernRelevance": "★★★★★",
+  "context": "ボードレール（Charles Baudelaire, 1821–1867）による『悪の華』第60番。『悪の華』の中で唯一ラテン語で書かれた詩篇。「SPLEEN ET IDÉAL（憂鬱と理想）」の部に属し、ラテン語タイトル「Franciscæ meæ laudes（私のフランシスカへの讃歌）」はフランシスカ・マリア・サルトー（Francisca Maria Sartoux）という歯科医師の妻への捧げものとされる。全11連・各3行・三韻詩（AAA構造：各連の3行が同一語尾で韻を踏む）。詩形・語彙・神学的構造がフォルトゥナトゥス「Vexilla Regis」・ヤコポーネ「Stabat Mater」等の中世ラテン語典礼聖歌（sequentia）を意図的に模倣する──愛する女性への俗世的讃歌を「典礼的聖歌形式」で書くという冒涜的・詩的転用（détournement）として。「Deitas（女神）」・「castitatis lorica（貞潔の鎧）」・「Divinum vinum（神聖なワイン）」という語彙が「女性の神格化」の典礼的形象として機能する。ボードレールは後記（Notice）において「私はフランシスカへの愛の感情から、このラテン語讃歌を書くに至った。この種の詩は中世の教会詩を勉強した後に書かれたもの」と述べた。VANITISMEコーパスにおいては、典礼聖歌（Dies Irae・Stabat Mater・Vexilla Regis）の「俗世的転用」として──神学的語彙が愛の詩学へと転換される「聖俗逆転」の詩的実践として位置づけられる。",
+  "keywords": [
+    "franciscae meae laudes",
+    "ラテン語詩",
+    "中世詩形の模倣",
+    "典礼的転用",
+    "detournement",
+    "女性の神格化",
+    "Deitas",
+    "三韻詩",
+    "聖俗逆転",
+    "悪の華",
+    "spleen et ideal",
+    "ボードレール"
+  ],
+  "relatedTexts": [
+    "celano_dies_irae",
+    "jacobus_stabat_mater",
+    "fortunatus_vexilla_regis",
+    "baudelaire_hymne",
+    "baudelaire_correspondances",
+    "baudelaire_beaute",
+    "baudelaire_harmonie_du_soir",
+    "baudelaire_la_chevelure",
+    "hieronymus_ecclesiastes_1"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "verses": "I",
+      "original": "Novis te cantabo chordis,\nO novelletum quod ludis\nIn solitudine cordis.",
+      "provisionalTranslation": "新しい弦であなたを歌おう、\nああ、心の孤独の中で\n遊ぶ新しい小さなもの（あなた）よ。"
+    },
+    {
+      "id": 2,
+      "verses": "II",
+      "original": "Esto sertis implicata,\nO femina delicata\nPer quam solvuntur peccata !",
+      "provisionalTranslation": "花冠に絡まれていておくれ、\nああ、繊細な女性よ、\nあなたを通じて罪は解かれる！"
+    },
+    {
+      "id": 3,
+      "verses": "III",
+      "original": "Sicut beneficum Lethe,\nHauriam oscula de te,\nQuæ imbuta es magnete.",
+      "provisionalTranslation": "恵み深いレーテのように、\nあなたから口づけを汲み取ろう、\n磁石に満たされたあなたから。"
+    },
+    {
+      "id": 4,
+      "verses": "IV",
+      "original": "Quum vitiorum tempestas\nTurbabat omnes semitas,\nApparuisti, Deitas,",
+      "provisionalTranslation": "悪徳の嵐が\nすべての小道をかき乱していたとき、\nあなたは現れた、女神よ、"
+    },
+    {
+      "id": 5,
+      "verses": "V",
+      "original": "Velut stella salutaris\nIn naufragiis amaris……\nSuspendam cor tuis aris !",
+      "provisionalTranslation": "苦い難破の中の\n救いの星のように……\n私の心をあなたの祭壇に捧げよう！"
+    },
+    {
+      "id": 6,
+      "verses": "VI",
+      "original": "Piscina plena virtutis,\nFons æternæ juventutis,\nLabris vocem redde mutis !",
+      "provisionalTranslation": "徳に満ちた池よ、\n永遠の青春の泉よ、\n唇に声を取り戻してくれ、沈黙した唇に！"
+    },
+    {
+      "id": 7,
+      "verses": "VII",
+      "original": "Quod erat spurcum, cremasti ;\nQuod rudius, exæquasti ;\nQuod debile, confirmasti.",
+      "provisionalTranslation": "汚れたものを、あなたは焼き尽くした。\n粗削りなものを、あなたは平らにした。\n弱いものを、あなたは堅固にした。"
+    },
+    {
+      "id": 8,
+      "verses": "VIII",
+      "original": "In fame mea taberna,\nIn nocte mea lucerna,\nRecte me semper guberna.",
+      "provisionalTranslation": "私の飢えの中では居酒屋、\n私の夜の中では灯火、\n常に私をまっすぐに導いておくれ。"
+    },
+    {
+      "id": 9,
+      "verses": "IX",
+      "original": "Adde nunc vires viribus,\nDulce balneum suavibus\nUnguentatum odoribus !",
+      "provisionalTranslation": "今、力に力を加えてくれ、\n甘い香油で香り立てられた\n甘い入浴を！"
+    },
+    {
+      "id": 10,
+      "verses": "X",
+      "original": "Meos circa lumbos mica,\nO castitatis lorica,\nAqua tincta seraphica ;",
+      "provisionalTranslation": "私の腰のまわりに輝いておくれ、\nああ、貞潔の鎧よ、\n熾天使の水で染められた鎧よ。"
+    },
+    {
+      "id": 11,
+      "verses": "XI",
+      "original": "Patera gemmis corusca,\nPanis salsus, mollis esca,\nDivinum vinum, Francisca !",
+      "provisionalTranslation": "宝石で輝く供物皿、\n塩辛いパン、柔らかい食べ物、\n神聖なワイン、フランシスカよ！"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "prosody",
+      "anchor": "Novis te cantabo chordis,\nO novelletum quod ludis\nIn solitudine cordis.",
+      "body": "詩篇の詩形──全11連・各3行・三韻詩（monorhyme triplet：各連のAAAが同一語尾で統一）：第1連「-chordis / -ludis / -cordis（-is語尾）」、第2連「-implicata / -delicata / -peccata（-ata語尾）」と各連が独立した語尾で完結する。この詩形は「Stabat Mater」・「Dies Irae」等の中世ラテン語セクエンツィアの三韻対連（triplet）を意図的に模倣する──典礼聖歌の形式的権威を「愛の讃歌」に転用する詩的détournementとして。「Novis te cantabo chordis（新しい弦であなたを歌おう）」──詩篇96篇（ウルガータ95篇）「Cantate Domino canticum novum（主に新しい歌を歌え）」の直接的反響：「主への新しい歌（canticum novum）」が「新しい弦であなたへの歌（Novis chordis te cantabo）」として俗世的愛の歌へと転用される。「In solitudine cordis（心の孤独の中で）」──「solitude（孤独）」という典礼・修道院的語彙が詩人の孤独な愛の空間として。「Καβάφης「Nous n'osons plus chanter les roses（薔薇を歌うことを敢えてしない）」の沈黙の詩学に対して、ボードレールは「Novis chordis cantabo（新しい弦で歌おう）」という歌の宣言として応答する──沈黙対歌唱の詩的対照として。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "Esto sertis implicata,\nO femina delicata\nPer quam solvuntur peccata !",
+      "body": "「花冠に絡まれていておくれ、ああ、繊細な女性よ、あなたを通じて罪は解かれる（Per quam solvuntur peccata）！」──典礼的「罪の赦し（absolutio peccatorum）」の語彙が女性への讃歌に転用される。「Per quam solvuntur peccata（あなたを通じて罪は解かれる）」──「Dies Irae」XIII連「Qui Mariam absolvisti（マリアを赦した方よ）」の「absolvere（赦す）」と同義の「solvere（解く）」：「罪を解く（solvere peccata）」という神学的機能が女性（femina）に付与される──マリア論的「共同贖罪者（coredemptrix）」の役割の俗世的女性への転移として。「sertis implicata（花冠に絡まれた）」──「sertum（花冠）」：マリア像の「バラの冠（rosarium）」・古代ギリシャの「勝利の花冠（στέφανος）」との照応──「Μελεαγρος「花冠（Στέφανος）」（AP IV, 1）」の花の絡まりとの照応として。「femina delicata（繊細な女性）」──「delicata（繊細・優美）」：ボードレール詩篇の女性美の一貫した形容として──「la beauté（美）」詩篇の「froide majesté（冷たい威厳）」との対照的柔らかさとして。"
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "Sicut beneficum Lethe,\nHauriam oscula de te,\nQuæ imbuta es magnete.",
+      "body": "「恵み深いレーテのように、あなたから口づけを汲み取ろう、磁石に満たされたあなたから」──「Lethe（レーテ）」──古代ギリシャ神話の冥界の「忘却の川（Λήθη）」：飲むとすべての記憶を失う川として──ここでは「beneficum（恵み深い）」という積極的形容が付与される：苦悩・罪・悪徳を「忘れさせてくれる恵み深い忘却」として女性への口づけが定義される。「magnete（磁石）」──「magnes（磁石）」：「磁気的な引力」としての女性の魅力──「Αλληλουχία（ボードレール詩篇）」最終段落「μαγνητικής τυχαίας γειτνιάσεως（磁気的な偶然の近接）」の「磁気（μαγνητικής）」と同語根的照応──カヴァフィスのギリシャ語詩篇とボードレールのラテン語詩篇が「磁石の引力」という同一形象で女性的魅力を定義する。「Hauriam oscula（口づけを汲み取ろう）」──「haurire（汲む・飲む）」という「水の動詞」：「口づけを汲む」という味覚・触覚的形象が「Lethe（川）」の水的形象と連続する──「飲む（haurire）」ことが「忘却」と「愛」の両方に適用される統一的形象として。"
+    },
+    {
+      "paragraphId": 4,
+      "type": "intertextual",
+      "anchor": "Quum vitiorum tempestas\nTurbabat omnes semitas,\nApparuisti, Deitas,",
+      "body": "「悪徳の嵐がすべての小道をかき乱していたとき、あなたは現れた、女神よ」──「Deitas（女神）」という神格化が詩篇の神学的頂点として機能する：「femina（女性）」（II連）→「Deitas（女神）」（IV連）という格上げが進行する。「vitiorum tempestas（悪徳の嵐）」──「Dies Irae」序文（エピグラフ）の「dies nebulæ et turbinis（雲と嵐の日）」との照応：「嵐（tempestas/turbinis）」が終末的「怒りの日」の自然的徴として使用されるのと同型の「嵐」が「悪徳（vitia）」の比喩として。「Apparuisti（あなたは現れた）」──「apparere（現れる）」：神的・天使的存在の「顕現（Erscheinung）」として──「Stabat Mater」II連「Apparuisti（あなたは現れた）」（Dies Irae IV連「Apparuisti, Deitas」）──典礼聖歌における「顕現（Apparuisti）」の語彙が愛する女性の突然の現れの記述として転用される。ヴェイユ「美（Beauté）」章の「美は神の存在の証明ではないが、神の不在の証明でもない」──「Deitas（女神）」という神格化がヴェイユ的「美の神秘神学」の俗世的変奏として。",
+      "targetId": "celano_dies_irae",
+      "targetParagraphId": 4
+    },
+    {
+      "paragraphId": 5,
+      "type": "commentary",
+      "anchor": "Velut stella salutaris\nIn naufragiis amaris……\nSuspendam cor tuis aris !",
+      "body": "「苦い難破の中の救いの星のように……私の心をあなたの祭壇に捧げよう（Suspendam cor tuis aris）！」──「stella salutaris（救いの星）」──「Vexilla Regis」III連「Regnavit a ligno（木から支配した）」的な「救済の記号」が「星（stella）」として──航海者を導く「ポラリス（北極星）」の救済的形象として。「naufragiis amaris（苦い難破）」──「naufragium（難破・難船）」：「悪徳の嵐（vitiorum tempestas）」がもたらす「難破」という連鎖的比喩──嵐→難破→救いの星という物語的展開として。「Suspendam cor tuis aris（私の心をあなたの祭壇に捧げよう）」──「ariscord（祭壇に心を捧げる）」という典礼的奉献行為：「Vexilla Regis」VI連「Suspendam cor tuis aris」──「Suspensus est patibulo（絞首台に架けられた）」（I連）と「Suspendam cor tuis aris（祭壇に心を架けよう）」の「suspendere（架ける）」の反復：キリストが「架けられた（Suspensus）」ように、詩人の心が「祭壇に架けられる（Suspendam）」という同一動詞の転用として。「……（点線）」──V連末尾の省略符号：詩人の言葉が感情の高揚によって切断される──「Nous n'osons plus chanter（薔薇を歌うことを敢えてしない）」の末尾「……」との照応として。",
+      "targetId": "fortunatus_vexilla_regis",
+      "targetParagraphId": 1
+    },
+    {
+      "paragraphId": 6,
+      "type": "commentary",
+      "anchor": "Piscina plena virtutis,\nFons æternæ juventutis,\nLabris vocem redde mutis !",
+      "body": "「徳に満ちた池よ、永遠の青春の泉よ、唇に声を取り戻してくれ、沈黙した唇に！」──「Piscina（池）」──「piscina（魚池・洗礼盤）」：洗礼用の「水盤（piscina baptismalis）」という典礼的語彙──洗礼による「罪の清め」が「徳に満ちた池（Piscina plena virtutis）」としての女性への転用として。「Fons æternæ juventutis（永遠の青春の泉）」──「Dies Irae」VIII連「Salva me, fons pietatis（慈悲の泉よ、私を救いたまえ）」・「Stabat Mater」V連「Eia mater, fons amoris（ああ母よ、愛の泉よ）」の「fons（泉）」語彙の系列：神・聖母・女性への「泉（fons）」という呼びかけの典礼的連鎖として──「Mater Speciosa」VI連「fons amoris（愛の泉）」との直接照応。「Labris vocem redde mutis（唇に声を取り戻してくれ、沈黙した唇に）」──「mutis（沈黙した）」：「Nous n'osons plus chanter」の「沈黙の詩学」・「Mater Speciosa」V連「Non cum verbo nec loquela（言葉も語りもなく）」の「典礼的沈黙」が「mutis labris（沈黙した唇）」として──詩的言語の回復を「女性（femina）」に求める詩人論的嘆願として。",
+      "targetId": "jacobus_stabat_mater",
+      "targetParagraphId": 5
+    },
+    {
+      "paragraphId": 7,
+      "type": "commentary",
+      "anchor": "Quod erat spurcum, cremasti ;\nQuod rudius, exæquasti ;\nQuod debile, confirmasti.",
+      "body": "「汚れたものを、あなたは焼き尽くした。粗削りなものを、あなたは平らにした。弱いものを、あなたは堅固にした」──完了形動詞（cremasti・exæquasti・confirmasti）の三連打が「女性の浄化・変成作用」を「すでに完了した事実」として確言する。「Quod erat spurcum, cremasti（汚れたものを焼き尽くした）」──「spurcum（汚れた）」・「cremare（焼く）」：「Dies Irae」I連「Solvet sæclum in favillâ（世界は灰燼に帰する）」の「終末の火」が「愛による浄化の火」として転用される──終末論的炎が個人的浄化の炎へと縮小・内面化される。「Quod rudius, exæquasti（粗削りなものを平らにした）」──「exæquare（平らにする・均等にする）」：「ゴーティエ「芸術（L'Art）」の「Sculpte, lime, cisèle（彫れ、磨け、刻め）」という芸術的精錬化の動詞群が「女性の作用」として転用される──芸術家の彫刻行為が女性の変成作用として。「Quod debile, confirmasti（弱いものを堅固にした）」──「確固たらしめる（confirmare）」：典礼の「堅振（Confirmatio）」という秘跡的強化が愛する女性の詩人への作用として──七つの秘跡のうち「堅振（confirmatio）」の典礼的語彙の転用として。"
+    },
+    {
+      "paragraphId": 8,
+      "type": "commentary",
+      "anchor": "In fame mea taberna,\nIn nocte mea lucerna,\nRecte me semper guberna.",
+      "body": "「私の飢えの中では居酒屋、私の夜の中では灯火、常に私をまっすぐに導いておくれ」──「In fame mea taberna（私の飢えの中では居酒屋）」──「taberna（居酒屋・食堂）」：「Vexilla Regis」IV連「Beata…Pretium pependit sæculi（世界の代価が架かった）」の「崇高な祭壇」的十字架に対し、「居酒屋（taberna）」という世俗的・下層的場所が「飢え（fame）への応答」として提示される──「聖（sacrum）」と「俗（profanum）」の同一視という詩篇全体の détournement の極点として。「In nocte mea lucerna（私の夜の中では灯火）」──詩篇119篇「Lucerna pedibus meis verbum tuum（あなたの言葉は私の足の灯火）」の直接参照：「神の言葉（verbum）」という「灯火（lucerna）」が「女性（femina）」という灯火へと置換される。「Recte me semper guberna（常に私をまっすぐに導いておくれ）」──「gubernare（舵を取る・導く）」：V連「naufragiis（難破）」の海難比喩の継続──難破の危険から「星（stella）」によって救われた航海者が「常に（semper）」導きを求める嘆願として。ブランショ「本質的孤独」との照応：詩人の「In solitudine cordis（心の孤独）」（I連）が「taberna・lucerna（居酒屋・灯火）」という外的現実の中で「導き（guberna）」を必要とする実存的状態として。"
+    },
+    {
+      "paragraphId": 9,
+      "type": "commentary",
+      "anchor": "Adde nunc vires viribus,\nDulce balneum suavibus\nUnguentatum odoribus !",
+      "body": "「今、力に力を加えてくれ、甘い香油で香り立てられた甘い入浴を！」──「Adde nunc vires viribus（今、力に力を加えてくれ）」──「adde（加えてくれ）」という命令形と「vires viribus（力に力を）」という内部的頭韻（paronomasia）：同語根「vis/vires（力）」の格変化による強調。「Dulce balneum…Unguentatum odoribus（甘い香油で香り立てられた甘い入浴）」──「balneum（入浴・浴槽）」という感覚的・肉体的形象：「La Chevelure（髪）」での「Je plongerai ma tête amoureuse d'ivresse（恍惚の愛に満ちた頭を沈めよう）」という「沈潜・浸漬」の身体的形象との照応。「Unguentatum odoribus（香油で香り立てられた）」──「unguentum（香油）」：「Mater Speciosa」IX連「Fac me parvum rapere…pulchrum santem portem（幼子を担えるよう）」の降誕の芳香と対照的な「官能的香り」として──典礼的芳香（乳香）の官能的転用として。「Correspondances（照応）」の「香料（parfums riches）」への照応：「ambre, le musc, le benjoin et l'encens（龍涎香、麝香、安息香、乳香）」というボードレールの「照応」詩篇の官能的香料がラテン語詩篇の「Unguentatum odoribus（香油の香り）」として古語的変奏として。",
+      "targetId": "baudelaire_correspondances",
+      "targetParagraphId": 4
+    },
+    {
+      "paragraphId": 10,
+      "type": "commentary",
+      "anchor": "Meos circa lumbos mica,\nO castitatis lorica,\nAqua tincta seraphica ;",
+      "body": "「私の腰のまわりに輝いておくれ、ああ、貞潔の鎧よ、熾天使の水で染められた鎧よ」──「castitatis lorica（貞潔の鎧）」──「lorica（鎧）」：エフェソス書6:14「loricam justitiæ（正義の鎧）」という「神の武具（armor of God）」のパウロ的語彙が「castitatis（貞潔の）」という修飾によって「貞潔の鎧」として転用される──典礼的武装語彙の愛の詩学への転用として。「Meos circa lumbos（私の腰のまわりに）」──「lumbos（腰部・腰帯）」：「Vexilla Regis」I連「Quo carne carnis conditor（肉の創造者が肉において）」の「肉体性（caro）」がより具体的な身体的部位として指示される──典礼聖歌の神学的抽象に対してボードレールの「身体的具体性」が挿入される点として。「Aqua tincta seraphica（熾天使の水で染められた）」──「seraphica（熾天使の）」：「Stabat Mater」IX連「Inflammatus et accensus（炎に包まれ）」の「炎」的形象に対し、「熾天使（seraph）」の「水（aqua）」という「炎と水の逆説」として──天使的存在の「炎の燃焼」が「水による染め」として反転される典礼的逆説として。"
+    },
+    {
+      "paragraphId": 11,
+      "type": "intertextual",
+      "anchor": "Patera gemmis corusca,\nPanis salsus, mollis esca,\nDivinum vinum, Francisca !",
+      "body": "「宝石で輝く供物皿、塩辛いパン、柔らかい食べ物、神聖なワイン、フランシスカよ！」──詩篇の最終連が「ミサの供物（offerenda）」の語彙で女性の名前を呼ぶ──最大の聖俗転倒として。「Patera gemmis corusca（宝石で輝く供物皿）」──「patera（供物皿・浅い杯）」：古代ローマ祭祀の「libation皿」・キリスト教典礼の「聖体杯（calix）」への類似器として──「Vexilla Regis」の「十字架」と同様に礼拝的器物が女性への形象として。「Panis salsus, mollis esca（塩辛いパン、柔らかい食べ物）」──「panis（パン）」：「Dies Irae」XVII連「Cor contritum quasi cinis（灰のように砕かれた心）」の「パン種（leaven）」的含意と、聖体のパン（Eucharist）への参照──「panis（パン）」と「vinum（ワイン）」という「聖体拝領の二種（sub utraque specie）」の語彙が愛する女性「Francisca（フランシスカ）」への呼びかけとして完結する。「Divinum vinum, Francisca（神聖なワイン、フランシスカよ）！」──詩篇全体の最終語「Francisca（フランシスカ）」が「Divinum vinum（神聖なワイン）」と押韻する（-inum/-a語尾の変形的反響）：「神聖（Divinum）」という形容の直後に人名「Francisca」が置かれることで、詩篇全体の「典礼的神格化」が「呼びかけ（apostrophe）」として完結する。「Stabat Mater」X連「Paradisi gloria（楽園の栄光）」対「Franciscæ meæ laudes」XI連「Divinum vinum, Francisca（神聖なワイン、フランシスカ）」──典礼聖歌が「楽園（Paradisus）」という神的空間で終わるのに対し、ボードレールのラテン語讃歌は「フランシスカ」という個人名で終わる──神的普遍から人的個別への転倒として詩篇全体の détournement が完成する。",
+      "targetId": "jacobus_stabat_mater",
+      "targetParagraphId": 10
+    }
+  ]
+}
