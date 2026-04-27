@@ -1,0 +1,142 @@
+{
+  "id": "fortunatus_vexilla_regis",
+  "title": "Vexilla Regis",
+  "author": "Venantius Fortunatus",
+  "source": "Wikisource: https://en.wikisource.org/wiki/The_seven_great_hymns_of_the_mediaeval_church/Vexilla_Regis/Fortunatus",
+  "year": "Medium Ævum",
+  "firstPublication": "典礼聖歌として受難主日（Dominica in Palmis）・聖十字架称賛の祝日（Exaltatio Sanctæ Crucis）の聖務日課に使用；初出：6世紀後半",
+  "difficulty": "中級",
+  "category": "liturgy",
+  "originalLang": "la-LA",
+  "modernRelevance": "★★★★★",
+  "context": "ヴェナンティウス・フォルトゥナトゥス（Venantius Fortunatus, c.530–600/609）、後にポワティエ司教となった詩人・聖人による典礼聖歌。569年、フランク王ゴントラムとシゲベルト1世がトゥールのラドグンド修道院に真の十字架の聖遺物を迎え入れる際の行列のために作られた。全7連・各4行・iambic dimeter（短長格二脚）の古典的詩形。タイトル「Vexilla Regis（王の旗）」──「vexillum（軍旗・旗幟）」という軍事的語彙が十字架を「王の軍旗」として定義する：十字架が「敗北の印」ではなく「勝利の軍旗（vexillum）」として再意味化される神学的逆転として。I連「crucis mysterium（十字架の秘儀）」・III連「Regnavit a ligno Deus（神は木から王として支配した）」・IV連「Arbor decora et fulgida（美しく輝く木）」・V連「Statera facta sæculi（世界の天秤となった）」・VI連「O crux ave, spes unica（ああ十字架よ、こんにちは、唯一の希望）」という核心的神学命題の連鎖として。Thomas de CelanoのDies Iræ・Jacobus de BenedictisのStabat Materとともに西洋典礼の「三大中世聖歌」として位置づけられる。ダンテ『神曲』地獄篇第34歌との照応：「Vexilla regis prodeunt inferni（地獄の王の旗が進む）」という改変引用がルキフェルへの到達を告げる。",
+  "keywords": [
+    "vexilla regis",
+    "王の旗",
+    "十字架",
+    "crucis mysterium",
+    "木の上の王",
+    "Regnavit a ligno",
+    "受難",
+    "フォルトゥナトゥス",
+    "6世紀ラテン語",
+    "典礼聖歌",
+    "軍旗の神学",
+    "ダンテ",
+    "spes unica"
+  ],
+  "relatedTexts": [
+    "celano_dies_irae",
+    "jacobus_stabat_mater",
+    "jacobus_mater_speciosa",
+    "hieronymus_psalm_21",
+    "hieronymus_psalm_129",
+    "dante_inferno_canto_34",
+    "weil_necessite",
+    "weil_la_violence",
+    "kavafis_perimenонtas_tous_varvarous",
+    "george_widerchrist"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "verses": "I",
+      "original": "VEXILLA regis prodeunt,\nFulget crucis mysterium,\nQuo carne carnis conditor\nSuspensus est patibulo.",
+      "provisionalTranslation": "王の旗が進む、\n十字架の秘儀が輝く、\nそこにおいて、肉の創造者が肉において\n絞首台に架けられた。"
+    },
+    {
+      "id": 2,
+      "verses": "II",
+      "original": "Quo vulneratus insuper\nMucrone diro lanceæ,\nUt nos lavaret crimine\nManavit unda sanguine.",
+      "provisionalTranslation": "さらにそこで、恐ろしい槍の\n刃によって傷つけられ、\n私たちを罪から洗い清めるために\n血の波が流れ出た。"
+    },
+    {
+      "id": 3,
+      "verses": "III",
+      "original": "Impleta sunt quæ concinit\nDavid fideli carmine\nDicens: In nationibus\nRegnavit a ligno Deus.",
+      "provisionalTranslation": "ダヴィデが忠実な歌で歌ったことが成就した、\n言うには：諸々の国民の中で\n神は木から王として支配した、と。"
+    },
+    {
+      "id": 4,
+      "verses": "IV",
+      "original": "Arbor decora et fulgida,\nOrnata regis purpura,\nElecta digno stipite\nTam sancta membra tangere.",
+      "provisionalTranslation": "美しく輝く木よ、\n王の紫で飾られた、\nそれほど聖なる肢体に触れるに相応しい幹として\n選ばれた。"
+    },
+    {
+      "id": 5,
+      "verses": "V",
+      "original": "Beata cujus brachiis\nPretium pependit sæculi,\nStatera facta sæculi\nPrædamque tulit tartaris.",
+      "provisionalTranslation": "祝福された（十字架）よ、その腕に\n世界の代価が架かった、\n世界の天秤となって\n地獄から獲物を奪い取った。"
+    },
+    {
+      "id": 6,
+      "verses": "VI",
+      "original": "O crux ave, spes unica!\nHoc passionis tempora,\nAuge piis institiam\nReisque dona veniam.",
+      "provisionalTranslation": "ああ十字架よ、こんにちは、唯一の希望よ！\nこの受難の季節に、\n敬虔な者たちに正義を増し加え、\n罪人たちに赦しを与えたまえ。"
+    },
+    {
+      "id": 7,
+      "verses": "VII",
+      "original": "Te summa Deus Trinitas\nCollaudet omnis spiritus\nQuas per crucis mysterium\nSalvas, rege per sæcula.",
+      "provisionalTranslation": "至高なる神、三位一体よ、\nすべての霊があなたを讃えますように、\n十字架の秘儀によって\nあなたが救う者たちを、世々にわたり治めたまえ。"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "VEXILLA regis prodeunt,\nFulget crucis mysterium,",
+      "body": "「王の旗が進む（Vexilla regis prodeunt）、十字架の秘儀が輝く（Fulget crucis mysterium）」──詩篇冒頭の二行が「軍事的行列」と「神学的光輝」を並置する。「vexillum（軍旗）」──ローマ軍の「連隊旗（vexillum）」：十字架が「敗北の印（刑具・絞首台）」から「勝利の王の軍旗」へと再意味化される神学的転倒として──「恥辱（patibulum）」が「栄光（vexillum）」として。「prodeunt（進む）」──「pro（前へ）＋eunt（行く）」：行列（processio）の動詞として──本詩篇が真の十字架の聖遺物の行列（processio）のために作られた文脈を動詞が体現する。「Fulget crucis mysterium（十字架の秘儀が輝く）」──「fulgere（輝く）」という光的形容が「十字架（crux）」という「暗闇の刑具」に付与される逆説：VII連「Quas per crucis mysterium（十字架の秘儀によって）」での反復によって「mysterium（秘儀）」が詩篇全体の神学的主語として枠組みされる。ダンテ『神曲』地獄篇第34歌冒頭「Vexilla regis prodeunt inferni（地獄の王の旗が進む）」──フォルトゥナトゥスの第一行の「regis（王の）」を「inferni（地獄の）」に置換することで、十字架行列の聖歌がルキフェルへの接近の告知として反転的に引用される。",
+      "targetId": "dante_inferno_canto_34",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 1,
+      "type": "glossary",
+      "anchor": "Quo carne carnis conditor\nSuspensus est patibulo.",
+      "body": "「肉の創造者が肉において絞首台に架けられた（Quo carne carnis conditor / Suspensus est patibulo）」──中世ラテン語詩の最も凝縮された神学的表現の一つ。「carne carnis conditor（肉において、肉の創造者）」──三語の頭韻（C-C-C）による「受肉（Incarnatio）」の定義：「肉（caro）」を創造した者（conditor）が「肉（carne）」において受肉するという逆説。「conditor（創造者）」──「condere（設立する・創造する）」：神を「宇宙の設立者・創造者」として──ヨハネ福音書1:3「Omnia per ipsum facta sunt（すべてのものが彼によって作られた）」の詩的圧縮として。「patibulo（絞首台）」──「patibulum（十字架・絞首台）」：ローマ法における「死刑執行具」の専門用語──「vexilla（軍旗）」という栄光的語彙と「patibulum（絞首台）」という恥辱的語彙が同一連内に共存することが詩篇の核心的逆説として。「Stabat Mater」I連「Pertransivit gladius（剣が突き貫いた）」・「Suspensus est patibulo（絞首台に架けられた）」──どちらも受難の具体的身体的暴力を定義する動詞として照応する。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "Quo vulneratus insuper\nMucrone diro lanceæ,\nUt nos lavaret crimine\nManavit unda sanguine.",
+      "body": "「恐ろしい槍の刃によって傷つけられ、私たちを罪から洗い清めるために血の波が流れ出た」──ヨハネ福音書19:34「unus militum lancea latus ejus aperuit, et continuo exivit sanguis et aqua（兵士の一人が槍で脇腹を刺すと、すぐに血と水が流れ出た）」の詩的変換。「Mucrone diro lanceæ（恐ろしい槍の刃）」──「mucro（刃先・槍先）」という鋭利な先端の形象：「Stabat Mater」I連の「gladius（剣）」・II連の「Pertransivit（突き貫いた）」と同型の「貫通する暴力」として。「unda sanguine（血の波）」──「unda（波・水）」と「sanguis（血）」の合成：ヨハネ福音書の「血と水」が「血の波」として詩的に統合される──「洗い清める（lavaret）」という浄化機能が「波（unda）」という水的形象によって強化される。「Ut nos lavaret crimine（私たちを罪から洗い清めるために）」──「目的（ut）」節：「傷・流血」が「目的論的」に定義される──苦悩が「私たちのために（pro nobis）」という贖罪的目的として。ヴェイユ「Beauté（美）」章──「美と苦悩の同時性」という命題が「Fulget（輝く）」十字架から「Manavit unda sanguine（血の波が流れた）」という「光輝と流血の同時性」として典礼的に定式化されたものとして。"
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "Impleta sunt quæ concinit\nDavid fideli carmine\nDicens: In nationibus\nRegnavit a ligno Deus.",
+      "body": "「ダヴィデが忠実な歌で歌ったことが成就した（Impleta sunt quæ concinit）──諸々の国民の中で神は木から王として支配した（Regnavit a ligno Deus）」──詩篇の神学的中枢。「Impleta sunt（成就した）」──「implere（満たす・成就する）」：旧約聖書の予言がキリストにおいて「成就される」という類型論（typology）の動詞として──Dies Iræ III連「Impleta sunt quæ concinit」との同語根として。「Regnavit a ligno Deus（神は木から王として支配した）」──詩篇96篇（95篇）への言及とされてきたが、「a ligno（木から）」という句は正典聖書テクストには存在せず──フォルトゥナトゥスによる神学的「補完」または「別テクスト伝承」として。「木（lignum）」──「十字架の木」が「王座（thronus）」として：IV連「Arbor（木）」との照応──「木（lignum/arbor）」が詩篇全体の中心的物質的形象として。コヘレト「Nihil sub sole novum（太陽の下に新しいものは何もない）」の循環的歴史論に対し、「Impleta sunt（成就した）」という線的・目的論的歴史観が対置される──コヘレト的円環的歴史とキリスト教的終末論的歴史の対立として。",
+      "targetId": "hieronymus_ecclesiastes_1",
+      "targetParagraphId": 10
+    },
+    {
+      "paragraphId": 4,
+      "type": "commentary",
+      "anchor": "Arbor decora et fulgida,\nOrnata regis purpura,\nElecta digno stipite\nTam sancta membra tangere.",
+      "body": "「美しく輝く木よ、王の紫で飾られた、それほど聖なる肢体に触れるに相応しい幹として選ばれた」──十字架を「木（Arbor）」として人格化・神学化する詩篇の詩的絶頂部。「Arbor decora et fulgida（美しく輝く木）」──「decora（美しい）・fulgida（輝く）」という美的形容：「カヴァフィス詩篇」の「人工の花（Τεχνητά Άνθη）」が「朽ちない人工物の美学」を讃えるのに対し、Vexilla Regisは「十字架という木の有機的・聖なる美」を讃える──人工美学対有機神学的美学として。「Ornata regis purpura（王の紫で飾られた）」──「purpura（紫）」：ローマ皇帝の「王の紫（purpura regis）」が「磔刑の血（sanguis）」によって十字架を彩るという逆説──「嘲弄の紫のマント（マルコ15:17）」が「真の王の紫」として転倒される。「Electa digno stipite（相応しい幹として選ばれた）」──「electa（選ばれた）」：神の「選び（electio）」の神学──十字架の「木（stipite）」が「聖なる肢体（sancta membra）」に触れるに相応しいものとして「前から選ばれた（electa）」という「木の予定論」として。ヴェイユ「Beauté（美）」章の「距離は美の魂」──「美しく輝く（decora et fulgida）」木が「聖なる肢体（sancta membra）」と「触れる（tangere）」という近接性において美と聖性が一致する──ヴェイユ的「距離の美学」の典礼的転換として。"
+    },
+    {
+      "paragraphId": 5,
+      "type": "commentary",
+      "anchor": "Beata cujus brachiis\nPretium pependit sæculi,\nStatera facta sæculi\nPrædamque tulit tartaris.",
+      "body": "「祝福された（十字架）よ、その腕に世界の代価が架かった、世界の天秤となって地獄から獲物を奪い取った」──詩篇の最も独創的な神学的命題群。「Pretium pependit sæculi（世界の代価が架かった）」──「pretium（代価・値段）」と「pendere（架かる・ぶら下がる）」の語根的遊戯：「代価（pretium）」が「架かる（pependit）」──イエスが「代価（pretium）として架けられた（pendit）」というダブルミーニングとして。「Statera facta sæculi（世界の天秤となった）」──「statera（天秤・秤）」という商業・法的語彙：十字架が「世界（sæculum）の天秤（statera）」として──「神の正義（justitia）」が「天秤の均衡」として定義される詩的形象。「Prædamque tulit tartaris（地獄から獲物を奪い取った）」──「præda（獲物・戦利品）」：救済された魂が「地獄（tartarus）から奪われた獲物」として──「キリストの地獄降下（Descensus ad Inferos）」の神学が「戦争の比喩（獲物・戦利品）」で定式化されるとして。Dies Iræ IV連「Mors stupebit（死も呆然とする）」との照応：「地獄から獲物を奪う（Prædamque tulit tartaris）」という「死の敗北」が詩篇形式の異なる典礼テクスト間で主題的に共鳴する。",
+      "targetId": "celano_dies_irae",
+      "targetParagraphId": 4
+    },
+    {
+      "paragraphId": 6,
+      "type": "intertextual",
+      "anchor": "O crux ave, spes unica!\nHoc passionis tempora,\nAuge piis institiam\nReisque dona veniam.",
+      "body": "「ああ十字架よ、こんにちは（O crux ave）、唯一の希望（spes unica）よ！この受難の季節に、敬虔な者たちに正義を増し加え、罪人たちに赦しを与えたまえ」──詩篇のアフェクティブな頂点として、十字架への直接的呼びかけ（apostrophe）として。「O crux ave（ああ十字架よ、こんにちは）」──「ave（こんにちは・ave！）」：ラテン語の挨拶「ave！（喜べ！）」──ガブリエルのマリアへの「Ave Maria（喜べ、マリア）」と同一の呼びかけが「十字架（crux）」へと向けられる──受肉の告知（Ave Maria）と受難への挨拶（O crux ave）の典礼的照応として。「spes unica（唯一の希望）」──「spes（希望）」の「unica（唯一の）」という絶対性：Dies Iræの「Rex tremendæ majestatis…Salva me（慈悲の泉よ、救いたまえ）」という「救いへの嘆願」が、Vexilla Regisでは「spes unica（唯一の希望）」という確信的宣言として応答される──恐怖の嘆願（Dies Iræ）対確信の宣言（Vexilla Regis）として。「Auge piis institiam / Reisque dona veniam（敬虔な者たちに正義を増し加え、罪人たちに赦しを与えたまえ）」──「Auge（増し加えたまえ）」と「dona（与えたまえ）」という二重の命令形：敬虔な者（pii）と罪人（rei）という二項の区別──Dies Iræ XV連「Inter oves locum præsta / Et ab hædis me sequestra（羊たちの中に場所を与え、山羊たちから引き離せ）」の「羊と山羊の分離」主題との照応として。",
+      "targetId": "celano_dies_irae",
+      "targetParagraphId": 15
+    },
+    {
+      "paragraphId": 7,
+      "type": "commentary",
+      "anchor": "Te summa Deus Trinitas\nCollaudet omnis spiritus\nQuas per crucis mysterium\nSalvas, rege per sæcula.",
+      "body": "「至高なる神、三位一体よ、すべての霊があなたを讃えますように、十字架の秘儀によってあなたが救う者たちを、世々にわたり治めたまえ」──詩篇の終結が「私（ego）→十字架（crux）→神（Deus）」という三段階の焦点転換として完結する：I〜III連が「十字架の出来事の記述」、IV〜V連が「十字架の神学的解釈」、VI連が「十字架への直接的呼びかけ」、VII連が「三位一体への頌栄（doxologia）」として。「summa Deus Trinitas（至高なる神、三位一体）」──三位一体論的頌栄（Gloria Patri形式）への収束：詩篇の個人的・歴史的・神学的内容が「三位一体の礼拝」という典礼的結語として包括される。「Quas per crucis mysterium（十字架の秘儀によって）」──I連「Fulget crucis mysterium（十字架の秘儀が輝く）」の反復：詩篇が「crucis mysterium（十字架の秘儀）」の言及で始まり同語で終結する──リング構成（Ringkomposition）として詩篇全体を括る。「rege per sæcula（世々にわたり治めたまえ）」──「III連「Regnavit a ligno Deus（神は木から王として支配した）」の過去形（Regnavit）が「rege（治めたまえ）」という命令形として未来に向けて開かれる──「成就された王権（過去）」から「永続する王権への祈り（未来）」への転換として詩篇全体の時制的弧が完結する。「Καβάφης「Περιμένοντας τους βαρβάρους（野蛮人を待ちながら）」の「νομοθετήσουν（彼らが立法するだろう）」という委譲された支配との対照──フォルトゥナトゥスの「rege per sæcula（世々にわたり治めたまえ）」という神への統治の委託が、カヴァフィスの帝国的自己解体への逆説的応答として。"
+    }
+  ]
+}
