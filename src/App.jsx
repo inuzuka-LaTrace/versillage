@@ -1925,7 +1925,7 @@ export default function App() {
                     const origLines = orig.split('\n');
                     const transLines = translation.split('\n');
                     return (
-                      <div className="space-y-4 mb-6">
+                      <div className="pt-8 space-y-4 mb-6">
                         {origLines.map((line, i) => {
                           if (!line.trim() && !transLines[i]?.trim()) return <div key={i} className="h-4" />;
                           return (
@@ -1951,7 +1951,7 @@ export default function App() {
                     const transLines = translation.split('\n');
                     return (
                       <div className={`rounded-xs overflow-hidden border mb-8 ${d ? 'border-zinc-800' : 'border-stone-200'}`}>
-                        <div className={`grid grid-cols-2 border-b text-[9px] font-sans uppercase tracking-[0.2em] ${d ? 'bg-zinc-900 text-zinc-500 border-zinc-800' : 'bg-stone-50 text-stone-400 border-stone-200'}`}>
+                        <div className={`grid grid-cols-2 pt-8 border-b text-[9px] font-sans uppercase tracking-[0.2em] ${d ? 'bg-zinc-900 text-zinc-500 border-zinc-800' : 'bg-stone-50 text-stone-400 border-stone-200'}`}>
                           <div className="px-3 py-1 border-r border-inherit text-center">Original</div>
                           <div className="px-3 py-1 text-center">Traduction</div>
                         </div>
