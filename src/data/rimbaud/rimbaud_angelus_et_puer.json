@@ -1,0 +1,167 @@
+{
+  "id": "rimbaud_angelus_et_puer",
+  "title": "Angelus et puer",
+  "author": "Arthur Rimbaud",
+  "source": "Wikisource (Latin): https://la.wikisource.org/wiki/Angelus_et_puer",
+  "year": "1869",
+  "firstPublication": "editio incognita（初出不明；1869年作）",
+  "difficulty": "上級",
+  "category": "rimbaud",
+  "originalLang": "la-LA",
+  "modernRelevance": "★★★★★",
+  "context": "アルチュール・ランボー（Arthur Rimbaud, 1854–1891）が15歳のとき（1869年）に書いたラテン語叙事詩。シャルルヴィル・コレージュでの古典教育の成果として、ウェルギリウス的な長短格六脚詩（hexameter）形式で書かれた。元日の朝に眠る幼子のもとに天使が訪れ、幼子の魂を天に連れ去るという物語──「良き死（mors bona）」の神学的形象として。天使の独白（第3〜5段落）が詩篇の中核を占め、地上的生の苦悩（「ex ipso floris odore / Surgit amari aliquid（花の香りそのものから苦いものが湧き出る）」）を説いた後、天の喜びへの招待として展開される。ランボーの後年の詩篇──「稲妻（Saison, L'éclair）」・「野蛮（Barbare）」──の「地上的生の拒絶・天的・別世界への跳躍」という主題の原型として。「ex ipso floris odore / Surgit amari aliquid」──ルクレティウス「De Rerum Natura」IV, 1133の「medio de fonte leporum / surgit amari aliquid（喜びの泉の真ん中から苦いものが湧き出る）」の直接的引用・変奏として：「快楽の中の苦」というルクレティウス的エピクロス哲学の命題がランボーのラテン語詩篇に組み込まれる。VANITISMEコーパスにおいては、典礼聖歌（Dies Irae・Stabat Mater）の「天使的死の神学」とランボー後期詩篇の「地上拒絶」の原初的形態として位置づけられる。",
+  "keywords": [
+    "angelus et puer",
+    "天使と幼子",
+    "ラテン語詩",
+    "ランボー初期",
+    "六脚詩",
+    "hexameter",
+    "良き死",
+    "元日",
+    "ex ipso floris odore surgit amari aliquid",
+    "ルクレティウス",
+    "天への昇天",
+    "母の嘆き"
+  ],
+  "relatedTexts": [
+    "rimbaud_saison_l_eclair",
+    "rimbaud_barbare",
+    "rimbaud_ophelie",
+    "celano_dies_irae",
+    "jacobus_stabat_mater",
+    "fortunatus_vexilla_regis",
+    "baudelaire_franciscae_meae_laudes",
+    "rilke_duineser_elegien_01",
+    "kavafis_elegeia_ton_louloudion",
+    "weil_eclair"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "verses": "v.1–7",
+      "original": "Jamque novus primam lucem consumpserat annus,\nJucundam pueris lucem, longumque petitam,\nOblitamque brevi: risu somnoque sepultus,\nLanguidulus tacuit puer; illum lectulus ambit,\nPlumeus, et circa crepitacula garrula terra,\nIllorumque memor, felicia somnia carpit,\nDonaque cælicolum, matris post dona, receptat.",
+      "provisionalTranslation": "そして新しい年が最初の光を使い尽くしていた、\n子供たちには喜ばしい光、長い間求められてきた光、\nすぐに忘れ去られる光を──笑いと眠りに埋められて、\n幼子はぐったりと黙っていた。羽毛の小さな寝床が\n彼を包み、まわりにはがらがらとやかましいおもちゃが散らばり、\nそれらを思い出しながら、幸福な夢をつかみ取り、\n天の贈り物を──母の贈り物の後に──受け取っていた。"
+    },
+    {
+      "id": 2,
+      "verses": "v.8–14a",
+      "original": "Os hiat arridens, et semadaperta videntur\nLabra vocare Deum: juxta caput angelus adstat\nPronus, et innocui languentia murmura cordis\nCaptat, et ipse sua pendens ab imagine, vultus\nÆthereos contemplatur; frontisque serenæ\nGaudia miratus, miratus gaudia mentis,\nIntactumque Notis florem:",
+      "provisionalTranslation": "口は微笑みながら開き、半開きの唇が\n神を呼んでいるように見える。頭のそばに天使が\n身を屈めて立ち、無垢な心の萎れた呟きを\nとらえ、そして自らその形象に宿りながら、\n天上の顔つきを観想する。穏やかな額の\n喜びに驚き、精神の喜びに驚き、\n（悪しき者たちに）触れられていない花に："
+    },
+    {
+      "id": 3,
+      "verses": "v.14b–17",
+      "original": "«Puer æmule nobis,\nI, mecum conscende polos, cælestia regna\nIngredere; in somnis conspecta palatia dignus\nIncole; cælestem tellus ne claudat alumnum!",
+      "provisionalTranslation": "「私たちに比肩する幼子よ、\n来い、私とともに天へと昇れ、天の王国に\n入れ。夢の中で見た宮殿に住むに値する\nお前が住め。大地が天の子を閉じ込めてはならない！"
+    },
+    {
+      "id": 4,
+      "verses": "v.18–25",
+      "original": "Nulli tuta fides: nunquam sincera remulcent\nGaudia mortales; ex ipso floris odore\nSurgit amari aliquid, commotaque corda juvantur\nTristi lætitia; nunquam sine nube voluptas\nGaudet et in dubio sublucet lacryma risu.\nQuid? frons pura tibi vita marceret amara,\nCuraque cæruleos lacrymis turbaret ocellos,\nAtque rosas vultus depelleret umbra cupressi?",
+      "provisionalTranslation": "いかなる信頼も安全ではない。真の喜びが\n人間を慰めることは決してない。花の香りそのものから\n苦いものが湧き出し、揺れ動いた心は\n悲しい喜びによって慰められる。快楽は\n雲なしに喜ぶことがなく、疑わしい笑いの中に涙が輝く。\nどうする？清い額がお前の苦い人生の中で萎れ、\n憂いが青い瞳を涙で濁らせ、\nそして顔の薔薇をイトスギの影が追い払うのか？"
+    },
+    {
+      "id": 5,
+      "verses": "v.26–34",
+      "original": "Non ita: Divinas merum penetrabis in oras,\nCælicolumque tuam vocem concentibus addes,\nSubjertosque homines, hominumque turbere fluctus,\nI: tibi perrumpit vitalia vincula Numen.\nAt non lugubri veletur tegmine mater:\nHaud alio visu feretrum ac cunabula cernat;\nTriste supercilium pellat, nec funera vultum\nConstristent: manibus potius det lilia plenis:\nUltima namque dies puro pulcherrima mansit.»",
+      "provisionalTranslation": "そうではない。お前は純粋なまま神の岸辺に達し、\n天の住人たちの合唱にお前の声を加えるだろう。\n打ちひしがれた人間たちと、人間の乱れた波濤よ──\n行け。神がお前の命の絆を打ち破る。\nしかし母は喪服に包まれてはならない。\n棺と揺り籠を同じ目で見るがよい。\n悲しい面持ちを払い、葬儀が顔を\n曇らせてはならない。むしろ両手いっぱいに百合を持つがよい。\nなぜなら最後の日は純粋なものにとって最も美しく残るのだから。」"
+    },
+    {
+      "id": 6,
+      "verses": "v.35–45",
+      "original": "Vix ea: purpureo pennam levis admovet ori,\nDemetit ignarum, demessique excipit alis\nCæruleis animam, superis et sedibus infert\nMolli remigio: nunc tantum lectulus artus\nServat pallidulos, quibus haud sua gratia cessit,\nSed non almus alit flatus, vitamque ministrat;\nInteriit. . . ; sed adhuc redolentibus oscula labris\nExspirant risus, et matris nomen oberrat,\nDonaque nascentis moriens reminiscitur anni.\nClausa putes placido languentia lumina somno;\nSed sopor ille, novo plus quam mortalis honore,\nNescio quo cingit cælesti lumine frontem,\nEt terræ sobolem, at cæli testatur alumnum.",
+      "provisionalTranslation": "言葉が終わるや否や：軽やかに紫色の口に羽根を近づけ、\n知らぬ間に幼子を刈り取り、刈り取られた\n魂を青い翼で受け止め、上の座に\n柔らかな漕ぎで運んだ。今は寝床だけが\n青ざめた小さな肢体を保っている──その優雅さは消えてはいないが、\nしかし恵み深い息吹は養い、命を与えない。\n逝った……。しかしまだ芳香のある唇から\n笑みが漂い出し、母の名がさまよい、\n生まれたばかりの年の贈り物を死にゆきながら思い出す。\n穏やかな眠りに閉じた萎れた瞳と\nお前は思うかもしれない。しかしあの眠りは、新たな\n死すべき者以上の栄誉をもって、いかなる天上の光かで額を飾り、\n大地の子を、しかし天の子と証言する。"
+    },
+    {
+      "id": 7,
+      "verses": "v.46–54",
+      "original": "Oh! quanto genitrix luctu deplanxit ademptum,\nEt carum inspersit, fletu manante, sepulcrum!\nAt quoties dulci declinat lumina somno,\nParvulus affulget, roseo de limine cæli,\nAngelus, et dulcem gaudet vocitare parentem.\nSubridet subridenti: mox, ære lapsus\nAttonitam niveis matrem circumvolat alis,\nIllaque divinis connectit labra labellis.",
+      "provisionalTranslation": "ああ！母はいかほどの嘆きで奪われた子を泣いたことか、\n涙を流しながら愛しい墓を濡らしたことか！\nしかし甘い眠りに瞳を閉じるたびに、\n天の薔薇色の閾から幼子が輝き現れ、\n天使となって、甘い母を呼ぶことを喜ぶ。\n微笑む者に微笑み返す。やがて大気を滑り降りて\n驚く母のまわりを白い翼で飛び回り、\nそして母は神的な唇を小さな唇に合わせる。"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "prosody",
+      "anchor": "Jamque novus primam lucem consumpserat annus,\nJucundam pueris lucem, longumque petitam,",
+      "body": "詩篇の詩形──ウェルギリウス的長短格六脚詩（hexameter dactylicus）：各行が長短短（ダクテュロス）と長長（スポンデウス）の組み合わせで構成される古典ラテン語叙事詩の基本詩形として──ランボー15歳の古典教育の到達点として。「Jamque novus primam lucem consumpserat annus（新しい年が最初の光を使い尽くしていた）」──過去完了形（consumpserat）による開始：元日の朝という「過ぎ去りつつある時間」の出発点として──ウェルギリウス「Aeneis」の「Arma virumque cano（武器と人を私は歌う）」的な叙事的開幕に対して、より親密・柔らかな「時間の消費」として。「Jucundam pueris lucem, longumque petitam（子供たちには喜ばしい光、長い間求められてきた）」──子供の視点からの元日の光の定義：「Oblitamque brevi（すぐに忘れ去られる）」という次行の「短命な喜び」の予告として──詩篇全体の「地上的喜びの短命性」主題の第一定式として。「Ελεγεία των Λουλουδιών（花々の挽歌）」I連「η νεότης πιο ωραία. Αλλά μαραίνεται / γρήγορα（青春は最も美しい。しかし速やかに萎れる）」との照応──「すぐに忘れられる喜び（Oblitamque brevi）」がカヴァフィスの「速やかな萎れ（μαραίνεται γρήγορα）」と同型の「束の間の幸福」として。",
+      "targetId": "kavafis_elegeia_ton_louloudion",
+      "targetParagraphId": 1
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "Os hiat arridens, et semadaperta videntur\nLabra vocare Deum: juxta caput angelus adstat\nPronus,",
+      "body": "「口は微笑みながら開き、半開きの唇が神を呼んでいるように見える。頭のそばに天使が身を屈めて立ち」──第2段落が「天使の到来・観察」の視覚的・霊的場面として展開される。「Labra vocare Deum（唇が神を呼んでいる）」──眠る幼子の無意識的な「神への呼びかけ」：「Stabat Mater」I連「Labris vocem redde mutis（唇に声を取り戻してくれ、沈黙した唇に）」の「mutis labris（沈黙した唇）」と対照的な「語りかける唇」として──Stabat Materが「沈黙した唇への声の返還」を嘆願するのに対し、Angelus et puerでは「唇が無意識に神を呼ぶ」という逆の方向として。「angelus adstat / Pronus（天使が身を屈めて立つ）」──「adstare（そばに立つ）」と「pronus（身を屈めた）」という「天使の姿勢」の視覚的描写：「Stabat Mater」I連「Stabat Mater dolorosa / Juxta crucem（悲しみの母は十字架のそばに立っていた）」の「juxta caput angelus adstat（頭のそばに天使が立つ）」との「juxta（そばに）」の平行──母が十字架のそばに立つように、天使が頭のそばに立つ。",
+      "targetId": "jacobus_stabat_mater",
+      "targetParagraphId": 1
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "et ipse sua pendens ab imagine, vultus\nÆthereos contemplatur; frontisque serenæ\nGaudia miratus, miratus gaudia mentis,\nIntactumque Notis florem:",
+      "body": "「そして自らその形象に宿りながら、天上の顔つきを観想する。穏やかな額の喜びに驚き、精神の喜びに驚き、（悪しき者たちに）触れられていない花に」──「contemplatur（観想する）」──「contemplatio（観想・観照）」：「Stabat Mater」III連「Piam matrem contemplari（慈しみ深き母を観想する）」の「contemplari」と同語根──天使が幼子を「観想（contemplari）」するという逆転的視線として。「Intactumque Notis florem（悪しき者たちに触れられていない花）」──「Notus（知られた者・悪名ある者）」の否定形「Intactum（触れられていない）」：「Τεχνητά Άνθη（人工の花）」の「人工の花の純粋性」、「Ελεγεία（花々の挽歌）」の「花の無常」との照応──幼子が「悪に触れられていない花（flos）」として天使に定義されることで第3段落（天使の言葉）の冒頭「Puer æmule nobis（私たちに比肩する幼子）」への準備として。「miratus gaudia mentis（精神の喜びに驚き）」の二重アナフォラ──「miratus…miratus（驚き……驚き）」という反復が天使の驚嘆の持続を表す叙事的形式として。"
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "«Puer æmule nobis,\nI, mecum conscende polos, cælestia regna\nIngredere; in somnis conspecta palatia dignus\nIncole; cælestem tellus ne claudat alumnum!",
+      "body": "「私たちに比肩する幼子よ、来い、私とともに天へと昇れ、天の王国に入れ……大地が天の子を閉じ込めてはならない！」──天使の言葉の第一部（4行）が「天への招待・命令」として機能する。「æmule nobis（私たちに比肩する）」──「æmulus（競い合う・比肩する）」：幼子が天使に「比肩する（æmulus）」存在として定義される──Dies Irae的な「審判者の前での人間の微小性」とは逆の「天使的高貴さ」の宣言として。「in somnis conspecta palatia（夢の中で見た宮殿）」──「Mater Speciosa」VIII連「Puerino fac me frui / Dum sum in exilio（亡命の中にある間）」の「亡命からの解放」との照応：夢で見た天の宮殿が「exilium（亡命）」からの帰還先「patria（故郷）」として。「cælestem tellus ne claudat alumnum（大地が天の子を閉じ込めてはならない）」──「claudere（閉じ込める）」という否定命令：大地という閉じた空間が「天の子（alumnus cæli）」を保持することの不当性として──「Vexilla Regis」IV連「Electa digno stipite / Tam sancta membra tangere（聖なる肢体に触れる相応しい幹として選ばれた）」の「選ばれた者」の地上的閉じ込めへの拒絶として。",
+      "targetId": "jacobus_mater_speciosa",
+      "targetParagraphId": 8
+    },
+    {
+      "paragraphId": 4,
+      "type": "intertextual",
+      "anchor": "Nulli tuta fides: nunquam sincera remulcent\nGaudia mortales; ex ipso floris odore\nSurgit amari aliquid, commotaque corda juvantur\nTristi lætitia;",
+      "body": "「いかなる信頼も安全ではない。真の喜びが人間を慰めることは決してない。花の香りそのものから苦いものが湧き出し、揺れ動いた心は悲しい喜びによって慰められる」──詩篇の哲学的核心。「ex ipso floris odore / Surgit amari aliquid（花の香りそのものから苦いものが湧き出す）」──ルクレティウス「De Rerum Natura」IV, 1133「medio de fonte leporum / surgit amari aliquid（喜びの泉の真ん中から苦いものが湧き出る）」の直接的引用・変奏：ランボー15歳がルクレティウスの古典的テクストを熟知し詩篇に統合した証左として。ルクレティウスの「喜びの泉」がランボーでは「花の香り（floris odore）」へと変換される──「Correspondances（照応）」の「Comme l'ambre, le musc（龍涎香、麝香のように）」という「芳香の哲学」との照応として：「花の香り」から「苦いもの（amari aliquid）」が湧き出すという「感覚的喜びの内的苦悩」の哲学的命題として。「Tristi lætitia（悲しい喜び）」──「悲しい（tristis）」と「喜び（lætitia）」の形容詞的オクシモロン：コヘレト「afflictio spiritus（霊の苦悩）」の「知識を加える者は労苦をも加える」という命題の古典哲学的変奏として。ヴェイユ「Eclair（稲妻）」の「L'homme n'échappe aux lois de ce monde que la durée d'un éclair（人間は稲妻の時間だけ世界の法則から逃れられる）」──「Gaudia mortales（人間の喜び）」が世界の法則から逃れられない束縛として、天使の言葉がその例外的逃脱への招待として機能する。",
+      "targetId": "rimbaud_saison_l_eclair",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 5,
+      "type": "commentary",
+      "anchor": "Non ita: Divinas merum penetrabis in oras,\nCælicolumque tuam vocem concentibus addes,",
+      "body": "「そうではない。お前は純粋なまま神の岸辺に達し、天の住人たちの合唱にお前の声を加えるだろう」──「Non ita（そうではない）」という反転：第4段落の「地上的苦悩の列挙」への否定的応答として──「地上の苦悩を経験するのではなく、天へと向かえ」という逆転的命令として。「merum（純粋なまま）」──「merus（混じりけのない・純粋な）」：「Franciscæ meæ laudes」XI連「Divinum vinum, Francisca（神聖なワイン）」の「vinum（ワイン）」が「merum（純粋なワイン）」と同義──「純粋性」という形容が幼子の天への昇天の条件として。「tuam vocem concentibus addes（お前の声を合唱に加えるだろう）」──「Dies Irae」VII連「Quid sum, miser! tunc dicturus（惨れな私は何を言うだろうか）」という「言語の無力」に対し、「tuam vocem addes（お前の声を加える）」という「天上の合唱への参加」が死後の言語的豊かさとして──地上的「沈黙（mutis labris）」が天上的「合唱（concentibus）」として回収される。",
+      "targetId": "baudelaire_franciscae_meae_laudes",
+      "targetParagraphId": 6
+    },
+    {
+      "paragraphId": 5,
+      "type": "commentary",
+      "anchor": "At non lugubri veletur tegmine mater:\nHaud alio visu feretrum ac cunabula cernat;\nTriste supercilium pellat, nec funera vultum\nConstristent: manibus potius det lilia plenis:\nUltima namque dies puro pulcherrima mansit.»",
+      "body": "「しかし母は喪服に包まれてはならない。棺と揺り籠を同じ目で見るがよい……最後の日は純粋なものにとって最も美しく残るのだから」──天使の言葉の最終部が「母への指示」として展開される。「feretrum ac cunabula（棺と揺り籠）」──「feretrum（棺）」と「cunabula（揺り籠）」の並置：「死」と「誕生」を「同じ目（Haud alio visu）」で見ることが「良き死の神学」の核心命題として──「Vulnerant Omnes, Ultima Necat（最後の時は殺す）」の時計の「死の時間」が「最も美しい日（dies puro pulcherrima）」として転換される逆転として。「manibus potius det lilia plenis（むしろ両手いっぱいに百合を持つがよい）」──「lilia（百合）」：「Τεχνητά Άνθη」I連で否定された「κρίνοι（ユリ）」が、ここでは「良き死」の祝福的花として肯定される──「カヴァフィスの拒絶された花」対「ランボーの祝福された花」として。「Ultima namque dies puro pulcherrima mansit（最後の日は純粋なものにとって最も美しく残る）」──「Dies Irae（怒りの日）」という「最後の日」の恐怖に対する「Ultima dies pulcherrima（最も美しい最後の日）」という逆転的断言──典礼的終末論の美的転換として。"
+    },
+    {
+      "paragraphId": 6,
+      "type": "commentary",
+      "anchor": "Vix ea: purpureo pennam levis admovet ori,\nDemetit ignarum, demessique excipit alis\nCæruleis animam, superis et sedibus infert\nMolli remigio:",
+      "body": "「言葉が終わるや否や：軽やかに紫色の口に羽根を近づけ、知らぬ間に幼子を刈り取り、刈り取られた魂を青い翼で受け止め、上の座に柔らかな漕ぎで運んだ」──詩篇のアクション的頂点として天使の行為が動詞の連鎖で描写される。「Vix ea（言葉が終わるや否や）」──「vix（かろうじて・〜するや否や）」という叙事詩的時間的接続詞：ウェルギリウスの「vix ea fatus erat（かろうじて言い終えたとき）」の慣用句的引用──ランボーのウェルギリウス的叙事詩語法の習熟を示す。「purpureo pennam admovet ori（紫色の口に羽根を近づける）」──「purpureo（紫色の）」：「Vexilla Regis」IV連「Ornata regis purpura（王の紫で飾られた）」の「王の紫」が天使の行為における「口（os）の紫色」として──死の接触が「紫（purpura）」という典礼的色彩で描かれる。「Demetit ignarum（知らぬ間に刈り取る）」──「demetere（刈り取る）」という農業的動詞：魂が「刈り取られる（demessa）」穀物として──「Dies Irae」の「Quantus tremor（いかなる戦慄）」という審判の暴力的収集に対し、「知らぬ間の（ignarum）刈り取り（Demetit）」という穏やかな死として。「Molli remigio（柔らかな漕ぎで）」──「remigium（漕ぎ・オール）」：「翼による漕ぎ」という天使飛翔の比喩──「Vexilla Regis」V連「Prædamque tulit tartaris（地獄から獲物を奪い取った）」の「奪取」に対して「柔らかな漕ぎ（molli remigio）」という穏やかな移送として。",
+      "targetId": "fortunatus_vexilla_regis",
+      "targetParagraphId": 5
+    },
+    {
+      "paragraphId": 6,
+      "type": "commentary",
+      "anchor": "Interiit. . . ; sed adhuc redolentibus oscula labris\nExspirant risus, et matris nomen oberrat,\nDonaque nascentis moriens reminiscitur anni.\nClausa putes placido languentia lumina somno;\nSed sopor ille, novo plus quam mortalis honore,\nNescio quo cingit cælesti lumine frontem,\nEt terræ sobolem, at cæli testatur alumnum.",
+      "body": "「逝った……。しかしまだ芳香のある唇から笑みが漂い出し、母の名がさまよい……大地の子を、しかし天の子と証言する」──幼子の死後の肉体描写と「死の美学」の定式化。「Interiit. . .（逝った……）」──「interire（死ぬ・消滅する）」とその後の点線「. . .」：「Nous n'osons plus chanter」末尾「……」・「Velut stella salutaris / In naufragiis amaris……（Franciscæ meæ laudes V連）」の点線と同型の「言語の途絶」として──死の瞬間が点線による沈黙として。「Donaque nascentis moriens reminiscitur anni（生まれたばかりの年の贈り物を死にゆきながら思い出す）」──「nascentis…moriens（生まれる……死にゆく）」という現在分詞の対置：元日の「誕生（nascens）」と幼子の「死（moriens）」の同時性──詩篇の循環的時間構造の完結として。「terræ sobolem, at cæli testatur alumnum（大地の子を、しかし天の子と証言する）」──「testari（証言する）」という法的・神学的語彙：「Cælestem tellus ne claudat alumnum（大地が天の子を閉じ込めてはならない）」（第3段落）の命題が「証言（testatur）」として確認される──天使の言葉の成就として。"
+    },
+    {
+      "paragraphId": 7,
+      "type": "intertextual",
+      "anchor": "Oh! quanto genitrix luctu deplanxit ademptum,\nEt carum inspersit, fletu manante, sepulcrum!\nAt quoties dulci declinat lumina somno,\nParvulus affulget, roseo de limine cæli,\nAngelus, et dulcem gaudet vocitare parentem.",
+      "body": "「ああ！母はいかほどの嘆きで奪われた子を泣いたことか……しかし甘い眠りに瞳を閉じるたびに、天の薔薇色の閾から幼子が輝き現れ、天使となって、甘い母を呼ぶことを喜ぶ」──詩篇の最終段落が「母の嘆き→天使となった子の慰め」という逆転として展開される。「Stabat Mater」IV連「Vidit suum dulcem natum / Morientem, desolatum（甘い御子が死にゆき、見捨てられているのを見た）」との構造的照応：Stabat Materではマリアが「死にゆく御子を見た（Vidit）」のに対し、Angelus et puerでは母が「天使となった幼子に見られる（affulget）」という視線の逆転として。「roseo de limine cæli（天の薔薇色の閾から）」──「roseo（薔薇色の）・limine（閾）」：「Mater Speciosa」IX連「Qui nascendo vicit mortem（生まれることで死に勝った方）」の誕生的勝利がここでは「天の薔薇色の閾」という天上的空間として──典礼聖歌の「故郷への帰還（Ad patriam veniant）」の詩的実現として。「dulcem gaudet vocitare parentem（甘い母を呼ぶことを喜ぶ）」──「gaudere（喜ぶ）」：「Mater Speciosa」全篇の「gaudium（喜び）」の語彙が「天使となった幼子の喜び」として──Stabat Materの「dolor（苦悩）」からMater Speciosaの「gaudium（喜び）」へという典礼的対称性がランボー詩篇の結尾でも再現される。",
+      "targetId": "jacobus_stabat_mater",
+      "targetParagraphId": 4
+    },
+    {
+      "paragraphId": 7,
+      "type": "commentary",
+      "anchor": "Subridet subridenti: mox, ære lapsus\nAttonitam niveis matrem circumvolat alis,\nIllaque divinis connectit labra labellis.",
+      "body": "「微笑む者に微笑み返す。やがて大気を滑り降りて驚く母のまわりを白い翼で飛び回り、そして母は神的な唇を小さな唇に合わせる」──詩篇の最終三行が「天使と母の再会」の優しい場面として閉じる。「Subridet subridenti（微笑む者に微笑み返す）」──「subridere（微笑む）」の反復による相互的微笑：第1段落「Os hiat arridens（口は微笑みながら開く）」の幼子の「微笑み（arridens）」が最終段落で「天使の微笑み（subridet）」として回帰する──詩篇の「笑顔」の循環的完結として。「niveis…alis（白い翼で）」──「niveus（雪のような白さの）」：「Stabat Mater」X連「Fac me cruce custodiri（十字架によって守られ）」の「守護」が「白い翼（niveis alis）」による「飛び回り（circumvolat）」として──典礼的「守護」の視覚的・身体的形象化として。「divinis connectit labra labellis（神的な唇を小さな唇に合わせる）」──「labra（唇）」と「labellis（小さな唇）」の対置：「Stabat Mater」IX連「Fac me plagis vulnerari（傷によって傷つけられるよう）」の苦悩的接触に対し、「唇と小さな唇の合わせ（connectit labra labellis）」という愛の接触として詩篇が閉じる──典礼的「苦悩の接触」から「愛の接触」への転換として。「リルケ「第1ドゥイノ悲歌」冒頭「Wer, wenn ich schriee, hörte mich denn aus der Engel Ordnungen?（もし私が叫んだとして、天使たちの序列のうち誰が聞いてくれるだろうか）」──リルケの「天使への呼びかけの不可能性」に対し、ランボーのラテン語詩篇では「天使が母を呼ぶ（vocitare parentem）」という逆方向の「天使→人間」の呼びかけとして完結する。",
+      "targetId": "rilke_duineser_elegien_01",
+      "targetParagraphId": 1
+    }
+  ]
+}
