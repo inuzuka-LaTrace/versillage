@@ -1999,7 +1999,7 @@ export default function App() {
 
                     {/* 注釈パネル */}
                     {showAnnotations && hasAnnotations && (
-                      <div className={`mb-3 rounded-sm border ${darkMode ? 'border-amber-900/50 bg-amber-950/20' : 'border-[#a08560]/50 bg-[#e8dfc0]/60'}`}>
+                      <div className={`mb-3 rounded-xs border ${darkMode ? 'border-amber-900/50 bg-amber-950/20' : 'border-[#a08560]/50 bg-[#e8dfc0]/60'}`}>
                         <button
                           onClick={() => setExpandedAnnotations(prev => ({ ...prev, [para.id]: !prev[para.id] }))}
                           className={`w-full flex items-center justify-between px-3 py-2 text-xs font-medium transition-colors rounded-lg ${
