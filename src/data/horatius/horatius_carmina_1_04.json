@@ -1,0 +1,111 @@
+{
+  "id": "horatius_carmina_1_4",
+  "title": "Carmina, Liber I, Carmen IV",
+  "author": "Quintus Horatius Flaccus",
+  "source": "Carmina (Odes), Liber I, 23 BC　Wikisource: https://la.wikisource.org/wiki/Carmina_(Horatius)/Liber_I/Carmen_IV",
+  "year": "Antiquitas",
+  "firstPublication": "Carmina (Odes), Liber I, 23 BC",
+  "difficulty": "中級",
+  "category": "horatius",
+  "originalLang": "la-LA",
+  "modernRelevance": "★★★★★",
+  "context": "ホラティウス「カルミナ」第1巻第4番。アルカイオス詩形（Alcaic metre）の5連（各4行）、全20行。「Solvitur acris hiems（厳しい冬が解ける）」という冒頭の春の到来から、「pallida Mors（青ざめた死）」の出現を経て、「iam te premet nox（もうすぐ夜があなたを押しつぶすだろう）」という死の必然的到来という輪を描く。詩篇の構造的対称性：v.1–12（春の到来・喜び・祝祭）対v.13–20（死の到来・告別）という正確な折り返しとして──12行の「生の豊かさ」が残りの8行の「死の不可避性」によって突然に転倒される。「pallida Mors aequo pulsat pede pauperum tabernas / regumque turris（青ざめた死は等しい足で貧者の小屋も王の塔も叩く）」──「aequo pede（等しい足で）」という「死の平等性」の定式がVANITISMEコーパスにおける最重要格言の一つとして。コヘレト「vanitas vanitatum」の「すべては虚無」・ローデンバック「Devant une tête de mort（頭蓋骨の前で）」・「Στρατηγού Θάνατος（将軍の死）」の「外面と内面の乖離」がこの「aequo pede（等しい足で）」という格言に収束する。「vitae summa brevis spem nos vetat inchoare longam（人生の短い総体が長い希望を始めることを私たちに禁じる）」──Carmen XI「Spem longam reseces（長い希望を刈り込め）」と同一主題の変奏として：短い人生が「長い希望（spem longam）」の開始を「禁じる（vetat）」という否定的定式として。",
+  "keywords": [
+    "pallida mors",
+    "青ざめた死",
+    "aequo pede",
+    "等しい足で",
+    "春の到来",
+    "ヴィーナス",
+    "グラティアエ",
+    "セスティウス",
+    "vitae summa brevis",
+    "冥界",
+    "Plutonia",
+    "ホラティウス",
+    "アルカイオス詩形",
+    "死の平等"
+  ],
+  "relatedTexts": [
+    "horatius_carmina_1_11",
+    "hieronymus_ecclesiastes_1",
+    "kavafis_stratigiou_thanatos",
+    "kavafis_vulnerant_omnes_ultima_necat",
+    "kavafis_elegeia_ton_louloudion",
+    "rodenbach_devant_tete_de_mort",
+    "palladas_ap_x_58",
+    "celano_dies_irae",
+    "baudelaire_danse_macabre",
+    "rimbaud_ver_erat"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "verses": "v.1–4",
+      "original": "Solvitur acris hiems grata vice veris et Favoni\ntrahuntque siccas machinae carinas\nac neque iam stabulis gaudet pecus aut arator igni\nnec prata canis albicant pruinis.",
+      "provisionalTranslation": "厳しい冬が春とファウォニウスの嬉しい交替で解ける、\n機械仕掛けが乾いた船底を引いていく、\n家畜はもはや牛小屋を喜ばず、農夫は火を喜ばず、\n草原は白い霜で白くなることもない。"
+    },
+    {
+      "id": 2,
+      "verses": "v.5–8",
+      "original": "iam Cytherea choros ducit Venus imminente luna\niunctaeque Nymphis Gratiae decentes\nalterno terram quatiunt pede, dum gravis Cyclopum\nVolcanus ardens visit officinas.",
+      "provisionalTranslation": "もうキュテレアのヴィーナスが月が迫る中で舞を率い、\nニュンペーたちと結ばれた優雅なグラティアエが\n交互の足で大地を揺らす、一方で重いキュクロペスたちの\n燃えるウルカヌスが工房を訪れる間に。"
+    },
+    {
+      "id": 3,
+      "verses": "v.9–12",
+      "original": "nunc decet aut viridi nitidum caput impedire myrto\naut flore, terrae quem ferunt solutae,\nnunc et in umbrosis Fauno decet immolare lucis,\nseu poscat agna sive malit haedo.",
+      "provisionalTranslation": "今こそ輝く頭を緑のミュルトスで飾るか、\nあるいは解けた大地が生む花で飾ることが相応しい。\n今こそ木陰の森でファウヌスに供犠を捧げることも相応しい、\n雌羊を求めようとも、仔山羊を好もうとも。"
+    },
+    {
+      "id": 4,
+      "verses": "v.13–16",
+      "original": "pallida Mors aequo pulsat pede pauperum tabernas\nregumque turris. o beate Sesti,\nvitae summa brevis spem nos vetat inchoare longam;\niam te premet nox fabulaeque Manes",
+      "provisionalTranslation": "青ざめた死は等しい足で貧者の小屋も\n王の塔も叩く。ああ、幸いなるセスティウスよ、\n人生の短い総体が長い希望を始めることを私たちに禁じる。\nもうすぐ夜と伝説のマーネスが"
+    },
+    {
+      "id": 5,
+      "verses": "v.17–20",
+      "original": "et domus exilis Plutonia; quo simul mearis,\nnec regna vini sortiere talis\nnec tenerum Lycidan mirabere, quo calet iuventus\nnunc omnis et mox virgines tepebunt.",
+      "provisionalTranslation": "そしてプルトンの細い家があなたを押しつぶすだろう。\nそこに到着すれば、もはやサイコロでワインの王国を\n決めることも、柔らかいリュキダスを愛でることも出来ない──\n彼を今や若者全員が熱望し、やがて乙女たちも慕うだろう。"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "prosody",
+      "anchor": "Solvitur acris hiems grata vice veris et Favoni\ntrahuntque siccas machinae carinas",
+      "body": "詩篇のアルカイオス詩形（Alcaic metre）──各連が「長短短長×4・長×1（11音節行）」×2行＋「長短短長×3（9音節行）」×1行＋「長短長短長（10音節行）」×1行の4行構成として：ホラティウスの「カルミナ」最多使用詩形として37篇に採用される。「Solvitur acris hiems（厳しい冬が解ける）」──「solvere（解く・溶かす）」という冬の「解体」が春の始まりとして：「Dies Irae」I連「Solvet sæclum in favillâ（世界は灰燼に帰する）」の「solvet（溶かす）」と同語根──「世界の終末的解体（solvet）」と「冬の春的解体（Solvitur）」が同一語根の対照として：「carpe diem（その日を摘め）」の「現在の享受」の詩篇が「終末的解体」の語根で始まる逆説的開始として。「grata vice（嬉しい交替で）」──「vicis（交替・交換）」：季節の「交替（vicis）」という循環的自然秩序──コヘレト「Generatio praeterit, et generatio advenit（世代は過ぎ去り、世代は来る）」の「世代の交替」と同型の「循環的時間」として。「Ver erat（春であった）」冒頭との照応：ランボー15歳の「Ver erat（春であった）」のラテン語叙事詩が「Solvitur acris hiems（厳しい冬が解ける）」という同一の「春の到来」を主題として共有する──ランボーのホラティウス的古典教養の体現として。",
+      "targetId": "rimbaud_ver_erat",
+      "targetParagraphId": 1
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "iam Cytherea choros ducit Venus imminente luna\niunctaeque Nymphis Gratiae decentes\nalterno terram quatiunt pede,",
+      "body": "「もうキュテレアのヴィーナスが月が迫る中で舞を率い、ニュンペーたちと結ばれた優雅なグラティアエが交互の足で大地を揺らす」──詩篇の神話的・感覚的頂点。「Cytherea Venus（キュテレアのヴィーナス）」──キュテラ島に由来するヴィーナスの称号：「Ver erat」第5段落「Ecce per aetheream vallem incessere columbae / …Quae Venus in Cypriis redolentia carpserat hortis（ヴィーナスがキプロスの庭で摘んだ）」との照応──「キプロス（Ver erat）」・「キュテラ（Carmen IV）」という二つのヴィーナスの聖地が照応する。「Gratiae decentes（優雅なグラティアエ）」──「decens（優雅な・相応しい）」：第3連「nunc decet（今こそ相応しい）」の「decet」と同語根──「グラティアエの優雅さ（decentes）」が「春に相応しい行為（decet）」の神話的根拠として。「alterno terram quatiunt pede（交互の足で大地を揺らす）」──「Mater Speciosa」X連「Fac me tecum satiari / Nato me inebriari, / Stans inter tripudio（踊りの輪の中に立ちながら）」の「tripudium（踊り）」との照応──典礼的・神話的「踊り（tripudium/chorus）」が春の喜びの身体的表現として。"
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "nunc decet aut viridi nitidum caput impedire myrto\naut flore, terrae quem ferunt solutae,\nnunc et in umbrosis Fauno decet immolare lucis,",
+      "body": "「今こそ輝く頭を緑のミュルトスで飾るか……今こそ木陰の森でファウヌスに供犠を捧げることも相応しい」──春の「祭礼的行為」の命令として。「viridi nitidum caput impedire myrto（緑のミュルトスで輝く頭を飾る）」──「myrto（ミュルトス）」：「Ver erat」第6段落「olenti tempora myrto / Nostra coronantes（香り立つミュルトスで私の額を冠として）」の「myrto」の直接的照応──ランボーの「鳩による戴冠」とホラティウスの「自発的花冠」が同一のミュルトスという素材を共有する──古典的「戴冠」の共通語彙として。「terrae quem ferunt solutae（解けた大地が生む花で）」──第1連「Solvitur acris hiems（冬が解ける）」の「solvitur（解ける）」が「terrae solutae（解けた大地）」として反響する：「冬の解体→大地の解放→花の生産」という因果連鎖として。「in umbrosis Fauno decet immolare lucis（木陰の森でファウヌスに供犠を捧げることが相応しい）」──「umbrosis lucis（木陰の森）」：「Ver erat」第3段落「tacito spectacula visu / Attonitus contemplabar（沈黙した視線で呆然として観想した）」の「森の中の沈黙的観想」との照応──春の森における祭礼的・詩的「沈黙と供犠」の共通空間として。"
+    },
+    {
+      "paragraphId": 4,
+      "type": "intertextual",
+      "anchor": "pallida Mors aequo pulsat pede pauperum tabernas\nregumque turris. o beate Sesti,\nvitae summa brevis spem nos vetat inchoare longam;",
+      "body": "「青ざめた死は等しい足で貧者の小屋も王の塔も叩く（pallida Mors aequo pulsat pede pauperum tabernas / regumque turris）。ああ、幸いなるセスティウスよ、人生の短い総体が長い希望を始めることを私たちに禁じる」──詩篇最大の格言的転換点。「pallida Mors（青ざめた死）」──「pallidus（青ざめた・蒼白の）」という視覚的形容が「死（Mors）」の擬人化に付与される：「Vulnerant Omnes, Ultima Necat（最後の時は殺す）」の時計の冷たく色彩なき（άχρους）存在との照応──「青ざめた（pallida）」死と「色彩のない（άχρους）」時計の生が同型の「生の色彩的剥奪」として。「aequo pulsat pede（等しい足で叩く）」──「aequus（等しい・平等な）」：「死の平等性」の定式として西洋文学で最も引用された行の一つ。「Στρατηγού Θάνατος（将軍の死）」の「外面の栄光・内面の腐敗」という個人的不平等が「死の前では平等（aequo pede）」として解消される──社会的不平等の死による解消として。「pauperum tabernas（貧者の小屋）」と「regumque turris（王の塔）」──二極の社会的対比が「aequo pede（等しく）」に一括される：「Dies Irae」II連「Cuncta stricte discussurus（すべてを厳しく裁く）」の「すべて（cuncta）」という全包含の審判──典礼的「最後の審判の平等」と「死の日常的平等」の照応として。「vitae summa brevis（人生の短い総体）」──「summa（総体・合計・頂点）」：「人生の総計」が「短い（brevis）」という形容で定義される──Carmen XI「spatio brevi / Spem longam reseces（短い時間の中に長い希望を刈り込め）」の「spatio brevi（短い時間）」と同型の「人生の短命性」の定式として。",
+      "targetId": "kavafis_stratigiou_thanatos",
+      "targetParagraphId": 4
+    },
+    {
+      "paragraphId": 5,
+      "type": "commentary",
+      "anchor": "et domus exilis Plutonia; quo simul mearis,\nnec regna vini sortiere talis\nnec tenerum Lycidan mirabere, quo calet iuventus\nnunc omnis et mox virgines tepebunt.",
+      "body": "「もうすぐ夜と伝説のマーネスとプルトンの細い家があなたを押しつぶすだろう。そこに到着すれば、もはやサイコロでワインの王国を決めることも、柔らかいリュキダスを愛でることも出来ない」──詩篇の結末が「死後の喪失」の列挙として閉じる。「nox fabulaeque Manes（夜と伝説のマーネスが）」──「Manes（冥界の神々・死者の霊）」：「fabulaeque（伝説の・おとぎ話の）」という修飾が「冥界の神々」に付与される──「死後の世界」が「fabula（物語・おとぎ話）」として懐疑的・脱神話化的に距離をおく修辞として：ホラティウスのエピクロス主義的なアニミズムへの距離感として。「domus exilis Plutonia（プルトンの細い家）」──「exilis（細い・貧しい）」という形容が冥界の「家（domus）」に付与される：第4連「pauperum tabernas（貧者の小屋）」の「貧しさ」が冥界の「細さ（exilis）」として反響する──「死後の貧しさ」という冥界論として。「nec regna vini sortiere talis（もはやサイコロでワインの王国を決めることも出来ない）」──「regna vini（ワインの王国）」：「宴席での席順・ワインの配給量をサイコロで決める」というローマ宴会の慣習──「Carmen XI」の「vina liques（ワインを澄ませ）」・「Ver erat」末行「blandisque exceptum sustulit vinis（優しいワインで持ち上げ）」の「ワイン」主題の最終的喪失として──生の感覚的豊かさがすべて「冥界への到達（mearis）」によって失われる。「nec tenerum Lycidan mirabere（柔らかいリュキダスを愛でることも出来ない）」──詩篇の最終的喪失として「美しい若者への愛」が挙げられる：「quo calet iuventus / nunc omnis et mox virgines tepebunt（彼を今や若者全員が熱望し、やがて乙女たちも慕うだろう）」──「calet（熱望する）」・「tepebunt（慕うだろう）」という感情温度の動詞連鎖が「今・やがて」という時間的開かれとともに詩篇を閉じる──「死の冷たさ」に対して「愛の温かさ」が最後の抵抗として。「パラダス「Παλατινὴ Ἀνθολογία X 58（裸で生まれた）」の「γυμνός（裸）」的死の徹底的喪失との照応：「ワインの王国」も「若者への愛」もすべて手放した「裸の終わり（ψιλὸν τέλος）」がホラティウスの「細い冥界の家（domus exilis Plutonia）」として照応する。",
+      "targetId": "palladas_ap_x_58",
+      "targetParagraphId": null
+    }
+  ]
+}
