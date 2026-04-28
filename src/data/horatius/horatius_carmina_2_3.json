@@ -1,0 +1,136 @@
+{
+  "id": "horatius_carmina_2_3",
+  "title": "Carmina, Liber II, Carmen III",
+  "author": "Quintus Horatius Flaccus",
+  "source": "Carmina (Odes), Liber II, 23 BC Wikisource: https://la.wikisource.org/wiki/Carmina_(Horatius)/Liber_II/Carmen_III",
+  "year": "Antiquitas",
+  "firstPublication": "Carmina (Odes), Liber II, 23 BC",
+  "difficulty": "中級",
+  "category": "horatius",
+  "originalLang": "la-LA",
+  "modernRelevance": "★★★★★",
+  "context": "ホラティウス「カルミナ」第2巻第3番。アルカイオス詩形（Alcaic metre）7連・全28行。デッリウス（Dellius）──オクタウィアヌスの将軍で「政治的日和見主義者（desultor bellorum）」として知られた人物──への頌歌。「Aequam memento rebus in arduis / servare mentem（困難な事柄の中でも平静心を保つことを忘れるな）」という「equanimitas（平静心）」の命令から始まり、「omnes eodem cogimur（私たちはすべて同じ場所へ向かわされる）」という「死の普遍的強制」で終わる。全体が「moriture Delli（死すべきデッリウス）よ）」という死の意識のもとに展開される──詩篇の第一連内に「moriture（死すべき）」という未来分詞を置くことで「死の確実性」が最初から全体を包む。「victima nil miserantis Orci（何も憐れまぬオルクスの犠牲として）」という「容赦なき死」の定義と「omnes eodem cogimur（すべては同じ場所へ向かわされる）」という「死の強制的平等」が詩篇の神学的・実存的核心として。「Carmen I.IV」の「pallida Mors aequo pulsat pede（青ざめた死は等しく叩く）」・「Carmen IV.VII」の「pulvis et umbra sumus（塵と影である）」とホラティウスの「死の三部作」を形成する。",
+  "keywords": [
+    "aequam mentem",
+    "平静心",
+    "equanimitas",
+    "moriture Delli",
+    "デッリウス",
+    "nil miserantis Orci",
+    "容赦なき冥界",
+    "omnes eodem cogimur",
+    "死の平等",
+    "運命の三姉妹",
+    "永遠の亡命",
+    "exilium aeternum",
+    "ホラティウス"
+  ],
+  "relatedTexts": [
+    "horatius_carmina_1_4",
+    "horatius_carmina_1_11",
+    "horatius_carmina_4_7",
+    "hieronymus_ecclesiastes_1",
+    "celano_dies_irae",
+    "palladas_ap_x_58",
+    "palladas_ap_xv_20",
+    "kavafis_elegeia_ton_louloudion",
+    "jacobus_mater_speciosa",
+    "weil_accepter_le_vide"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "verses": "v.1–4",
+      "original": "Aequam memento rebus in arduis\nservare mentem, non secus in bonis\nab insolenti temperatam\nlaetitia, moriture Delli,",
+      "provisionalTranslation": "困難な事柄の中でも平静心を保つことを\n忘れるな、同様に幸運な時にも\n傲慢な喜びから節制された心を──\n死すべきデッリウスよ、"
+    },
+    {
+      "id": 2,
+      "verses": "v.5–8",
+      "original": "seu maestus omni tempore vixeris\nseu te in remoto gramine per dies\nfestos reclinatum bearis\ninteriore nota Falerni.",
+      "provisionalTranslation": "あなたがいつも悲しんで生きるにせよ、\nあるいは祝祭の日々に人里離れた草地で\n横になって幸福になるにせよ、\n特別なファレルヌスのワインで。"
+    },
+    {
+      "id": 3,
+      "verses": "v.9–12",
+      "original": "quo pinus ingens albaque populus\numbram hospitalem consociare amant\nramis? quid obliquo laborat\nlympha fugax trepidare rivo?",
+      "provisionalTranslation": "なぜあの巨大な松と白いポプラが\n枝で歓迎の木陰を作り合うことを好むのか。\nなぜ逃げる水がよろよろと\n曲がりくねった小川でせわしなく流れるのか。"
+    },
+    {
+      "id": 4,
+      "verses": "v.13–16",
+      "original": "huc vina et unguenta et nimium brevis\nflores amoenae ferre iube rosae,\ndum res et aetas et sororum\nfila trium patiuntur atra.",
+      "provisionalTranslation": "ここにワインと香油と、あまりにも短命な\n美しい薔薇の花を運ぶよう命じよ、\n財産と年齢と三人の姉妹の\n黒い糸が許している間に。"
+    },
+    {
+      "id": 5,
+      "verses": "v.17–20",
+      "original": "cedes coemptis saltibus et domo\nvillaque, flavos quam Tiberis lavit,\ncedes et exstructis in altum\ndivitiis potietur heres.",
+      "provisionalTranslation": "あなたは買い集めた森と家と\nテヴェレ川が金色に洗う別荘を手放すだろう。\n手放すだろう、そして高く積み上げた\n富は相続人のものとなる。"
+    },
+    {
+      "id": 6,
+      "verses": "v.21–24",
+      "original": "divesne prisco natus ab Inacho\nnil interest an pauper et infima\nde gente sub divo moreris:\nvictima nil miserantis Orci.",
+      "provisionalTranslation": "古のイナコスの血を引く富者として\n死ぬかどうか、それとも貧しく最も低い\n家柄の者として野外で死ぬかどうか──\n何も関係ない。何も憐れまぬオルクスの犠牲として。"
+    },
+    {
+      "id": 7,
+      "verses": "v.25–28",
+      "original": "omnes eodem cogimur, omnium\nversatur urna serius ocius\nsors exitura et nos in aeternum\nexilium inpositura cumbae",
+      "provisionalTranslation": "私たちはすべて同じ場所へ向かわされる。\nすべての者の運命が遅かれ早かれ\n壺の中で振られ、出てきて私たちを\n永遠の亡命へと小舟に乗せる。"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "prosody",
+      "anchor": "Aequam memento rebus in arduis\nservare mentem, non secus in bonis\nab insolenti temperatam\nlaetitia, moriture Delli,",
+      "body": "詩篇のアルカイオス詩形（Alcaic metre）──「Carmen I.IV」と同一の詩形として：長行（11音節）×2＋短行（9音節）×1＋短行（10音節）×1の4行構成として。「Aequam memento rebus in arduis / servare mentem（困難な事柄の中でも平静心を保つことを忘れるな）」──詩篇冒頭の二行が「equanimitas（平静心）」という「全詩篇の哲学的命題」として機能する：「aequa mens（平静心）」はストア哲学・エピクロス哲学共通の理想──「中庸・動揺しないこと」として。「moriture Delli（死すべきデッリウスよ）」──「moriture（死すべき・死にゆく）」という未来分詞が詩篇第一連内に組み込まれる：「死」が「平静心（aequa mens）」の文脈を設定する根拠として──「なぜ平静心を保つべきか」の答えが「moriture（あなたは死すべきだから）」として最初から与えられる構造として。「Carmen I.IV」「moriture（死すべき）」への照応──ホラティウスの頌歌において「死の意識（memento mori）」が「人名への呼びかけ」と結びつくパターンとして：「o beate Sesti（幸いなるセスティウスよ）」（I.IV）・「moriture Delli（死すべきデッリウスよ）」（II.III）・「non, Torquate（トルクァトゥスよ）」（IV.VII）という三詩篇の「死の呼びかけ」の連鎖として。",
+      "targetId": "horatius_carmina_1_4",
+      "targetParagraphId": 4
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "seu maestus omni tempore vixeris\nseu te in remoto gramine per dies\nfestos reclinatum bearis\ninteriore nota Falerni.",
+      "body": "「あなたがいつも悲しんで生きるにせよ、あるいは祝祭の日々に人里離れた草地で横になって特別なファレルヌスのワインで幸福になるにせよ」──「悲しみの生（maestus）」と「喜びの生（bearis）」という二択が「moriture（死すべき）」という共通の枠組みの中に置かれる。「seu maestus omni tempore…seu…bearis（悲しんでいようとも……幸福であろうとも）」──この二択が第1連「aequam mentem（平静心）」の命令の内容を具体化する：「悲しむこと（maestus）」も「喜ぶこと（bearis）」も「節制（temperatam）」を要するという──死を前にした「中庸」の実践的定義として。「interiore nota Falerni（特別なファレルヌスのワインで）」──「interiore nota（内側の印・特別のラベル）」という「最良のワイン」の形容：「Carmen I.IV」「vina liques（ワインを澄ませ）」・「Carmen XI」「carpe diem」のワイン主題との連続──「生前の感覚的享受」の具体的形象として。「Mater Speciosa」VIII連「Puerino fac me frui / Dum sum in exilio（亡命の中にある間、幼子を享受できるよう）」の「exilium（亡命）」が本詩篇末行「in aeternum / exilium（永遠の亡命へ）」として反響する──典礼聖歌的「亡命」と古典詩的「亡命」の照応として。"
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "quo pinus ingens albaque populus\numbram hospitalem consociare amant\nramis? quid obliquo laborat\nlympha fugax trepidare rivo?",
+      "body": "「なぜあの巨大な松と白いポプラが枝で歓迎の木陰を作り合うことを好むのか。なぜ逃げる水がよろよろと曲がりくねった小川でせわしなく流れるのか」──詩篇の中央部が「自然への二重の問い」として展開される。「quo…amant（〜を好むのか）」・「quid laborat（なぜ努力するのか）」──二つの修辞疑問が「暗黙の招待」として機能する：「木陰は休息のために作られ（→木陰で休め）、水は流れる（→流れに沿え）」という「自然の指示」として。「umbram hospitalem（歓迎の木陰）」──「hospes（客・主人）」の形容詞「hospitalis」：「木陰」が「客を歓迎する」主体として擬人化される──「Ver erat」第4段落「iacui viridanti in fluminis ora（川の緑の岸に寝転んで）」のランボー的「自然への身をゆだねる」体験の古典的先行形として。「lympha fugax trepidare rivo（逃げる水がよろよろと小川で流れる）」──「fugax（逃げる）」・「trepidare（よろよろする・戦く）」という水の擬人的不安定性：「Carmen IV.VII」第1連「decrescentia ripas / flumina praetereunt（減少する川が岸を過ぎ去る）」の「decrescentia（減少する）川」と同型の「消えゆく水」として──どちらも「流れる水＝逃げる時間」という古典的比喩として。"
+    },
+    {
+      "paragraphId": 4,
+      "type": "commentary",
+      "anchor": "huc vina et unguenta et nimium brevis\nflores amoenae ferre iube rosae,\ndum res et aetas et sororum\nfila trium patiuntur atra.",
+      "body": "「ここにワインと香油と、あまりにも短命な美しい薔薇の花を運ぶよう命じよ、財産と年齢と三人の姉妹の黒い糸が許している間に」──詩篇の「carpe diem」的頂点として。「nimium brevis / flores amoenae rosae（あまりにも短命な美しい薔薇の花）」──「nimium brevis（あまりにも短命な）」という形容が「薔薇（rosa）」に付与される：「Ελεγεία των Λουλουδιών（花々の挽歌）」I連「η νεότης πιο ωραία. Αλλά μαραίνεται / γρήγορα（青春は最も美しい。しかし速やかに萎れる）」との直接的照応──「短命な薔薇（nimium brevis rosa）」とカヴァフィスの「速やかに萎れる青春」が同型の「束の間の美」として。「sororum / fila trium atra（三人の姉妹の黒い糸）」──「Parcae（パルカエ）」という運命の三女神（Clotho・Lachesis・Atropos）が「黒い糸（fila atra）」を紡ぐという神話的形象：「dum…patiuntur（許している間に）」という「運命が許す間の享受」──「Carmen XI」「carpe diem（その日を摘め）」の「後の日（postero）を信じずに」という命令と同型の「現在への集中命令」として。「huc vina et unguenta（ここにワインと香油を）」──「Franciscæ meæ laudes」IX連「Dulce balneum suavibus / Unguentatum odoribus（甘い香油で香り立てられた甘い入浴）」の「unguentum（香油）」との照応──古典詩的「香油＋ワイン」の感覚的享受がボードレールのラテン語詩篇に継承される系譜として。",
+      "targetId": "kavafis_elegeia_ton_louloudion",
+      "targetParagraphId": 1
+    },
+    {
+      "paragraphId": 5,
+      "type": "commentary",
+      "anchor": "cedes coemptis saltibus et domo\nvillaque, flavos quam Tiberis lavit,\ncedes et exstructis in altum\ndivitiis potietur heres.",
+      "body": "「あなたは買い集めた森と家とテヴェレ川が金色に洗う別荘を手放すだろう。手放すだろう、そして高く積み上げた富は相続人のものとなる」──「cedes（手放すだろう）」の二度の反復が「財産放棄の必然性」を強調する。「cedes（手放すだろう）」──「cedere（退く・手放す・譲る）」という未来形の二度の反復：「Carmen IV.VII」第5段落「cuncta manus avidas fugient heredis（すべてが貪欲な相続人の手から逃れる）」との直接的主題照応──「財産の死後移転」という同一主題が両詩篇で繰り返される「ホラティウスの財産論」として。「flavos quam Tiberis lavit（テヴェレ川が金色に洗う）」──「flavos（黄金色の）」という形容がテヴェレ川の色調として：「黄金色のテヴェレ川に洗われた別荘」という官能的・視覚的豊かさが「cedes（手放すだろう）」という喪失の直前に置かれる──美しさの記述が喪失の痛みを深める詩的技法として。「exstructis in altum / divitiis（高く積み上げた富）」──「exstructis（積み上げた）」という構築的動詞：「divitiis（富）」の「垂直的蓄積」が死後の「水平的移転（heres）」として崩壊する──「Στρατηγού Θάνατος（将軍の死）」の「外面の栄光・内面の腐敗」という「蓄積された権威の死による空洞化」との照応として。"
+    },
+    {
+      "paragraphId": 6,
+      "type": "intertextual",
+      "anchor": "divesne prisco natus ab Inacho\nnil interest an pauper et infima\nde gente sub divo moreris:\nvictima nil miserantis Orci.",
+      "body": "「古のイナコスの血を引く富者として死ぬかどうか……何も関係ない。何も憐れまぬオルクスの犠牲として（victima nil miserantis Orci）」──詩篇の神学的核心・「死の平等」の最も冷酷な定式として。「nil interest（何も関係ない）」──「interessemの非人称「何も関係ない」：「Carmen I.IV」「pallida Mors aequo pulsat pede（青ざめた死は等しく叩く）」の「aequo pede（等しく）」と同型の「死の無差別性」の定式として──「pauperum tabernas / regumque turris（貧者の小屋も王の塔も）」対「divesne prisco natus ab Inacho / an pauper et infima / de gente（古い血統の富者か、最も低い家柄の貧者か）」という両詩篇の「社会的対比の無効化」の並置として。「victima nil miserantis Orci（何も憐れまぬオルクスの犠牲として）」──詩篇の最も厳しい定式：「victima（犠牲・生け贄）」という宗教的語彙が「Orcus（冥界神）」の「生け贄」として人間を定義する──「Dies Irae」II連「Judex est venturus（審判者が来る）」の「審判」が「nil miserantis（何も憐れまない）」という「慈悲なき裁き」として対照される：典礼的「審判」の「慈悲（misericordia）」への嘆願に対し、ホラティウスの「Orcus」には「misericordia（憐れみ）」が一切ない（nil miserantis）として。「パラダス「AP X 58」の「γυμνὸν τὸ τέλος（裸の終わり）」──「victima nil miserantis（何も憐れまぬ犠牲）」という「容赦なき終わり」がパラダスの「裸の終わり」と同型の「剥奪された死」として。",
+      "targetId": "celano_dies_irae",
+      "targetParagraphId": 2
+    },
+    {
+      "paragraphId": 7,
+      "type": "intertextual",
+      "anchor": "omnes eodem cogimur, omnium\nversatur urna serius ocius\nsors exitura et nos in aeternum\nexilium inpositura cumbae",
+      "body": "「私たちはすべて同じ場所へ向かわされる（omnes eodem cogimur）。すべての者の運命が遅かれ早かれ壺の中で振られ、出てきて私たちを永遠の亡命へと小舟に乗せる（in aeternum / exilium inpositura cumbae）」──詩篇の結尾が「死の強制的普遍性」と「永遠の亡命」という二重の定式で閉じる。「omnes eodem cogimur（私たちはすべて同じ場所へ向かわされる）」──「cogimur（向かわされる・強いられる）」という受動形による「死の強制性」：「Carmen I.IV」「pallida Mors aequo pulsat pede（等しく叩く）」の「aequo（等しく）」が「eodem（同じ場所へ）」として、「Carmen IV.VII」「pulvis et umbra sumus（塵と影である）」という「共通の実存」が「omnes（すべて）」として拡大される──ホラティウスの「死の三部作」の収束点として。「versatur urna（壺の中で振られる）」──「urna（壺・骨壷・くじの壺）」：運命の「壺（urna）」でくじが引かれる神話的形象──「serius ocius（遅かれ早かれ）」という「時期の不確実性」が「sors（運命・くじ）」の偶然性として：「Carmen XI」「quis scit an adiciant hodiernae crastina summae / tempora di superi（神々が明日の時間を今日に加えるかどうか、誰が知るか）」という「認識論的不確実性」がここでは「くじの偶然性（versatur urna）」として具体化される。「in aeternum / exilium inpositura cumbae（永遠の亡命へと小舟に乗せる）」──「cumba（小舟）」：冥界の「カロンの小舟（navicula Charontis）」──「in aeternum exilium（永遠の亡命へ）」という結語が「Mater Speciosa」VIII連「Dum sum in exilio（亡命の中にある間）」の「一時的亡命（exilium）」に対して「永遠の亡命（in aeternum exilium）」として対置される：典礼聖歌的「故郷への帰還（Ad patriam veniant）」という希望に対し、ホラティウスの古典的エピクロス主義は「永遠の亡命（aeternum exilium）」という終末を「希望なく」提示する──「Παλλαδάς AP XV 20「λαθὼν βίωσον, εἰ δὲ μή, θανών（隠れて生きよ、さもなくば死ね）」というペシミスティックな二択とともに「返還なき亡命」として詩篇が終わる。",
+      "targetId": "jacobus_mater_speciosa",
+      "targetParagraphId": 11
+    }
+  ]
+}
