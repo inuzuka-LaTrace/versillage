@@ -61,6 +61,7 @@ export const CATEGORIES = {
   meleager:                   { name: 'メレアグロス' },
   palladas:                   { name: 'パラダス' },
   kavafis:                    { name: 'カヴァフィス' },
+  mavilis:                    { name: 'マヴィリス' },
 };
 
 // カテゴリー省略ラベル（バッジ表示用）
@@ -120,6 +121,7 @@ export const CAT_SHORT = {
   meleager:                'メレアグロス',
   palladas:                'パラダス',
   kavafis:                 'カヴァフィス',
+  mavilis:                 'マヴィリス',
 };
 
 export const AUTHOR_COLOR_MAP = {
@@ -174,6 +176,7 @@ export const AUTHOR_COLOR_MAP = {
   meleager:         { dark: 'bg-emerald-900/40 text-emerald-300', light: 'bg-emerald-100 text-emerald-800' },
   palladas:         { dark: 'bg-indigo-900/40 text-indigo-300', light: 'bg-indigo-100 text-indigo-800' },
   kavafis:          { dark: 'bg-violet-900/40 text-violet-300', light: 'bg-violet-100 text-violet-800' },
+  mavilis:          { dark: 'bg-amber-900/40 text-amber-300',   light: 'bg-amber-100 text-amber-800' },
   default:          { dark: 'bg-zinc-800 text-zinc-300',       light: 'bg-stone-100 text-stone-700' }
 };
 
