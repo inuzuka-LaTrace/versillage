@@ -1,0 +1,103 @@
+{
+  "id": "horatius_carmina_3_30",
+  "title": "Carmina, Liber III, Carmen XXX",
+  "author": "Quintus Horatius Flaccus",
+  "source": "Carmina (Odes), Liber III, 23 BC Wikisource: https://la.wikisource.org/wiki/Carmina_(Horatius)/Liber_III/Carmen_XXX",
+  "year": "Antiquitas",
+  "firstPublication": "Carmina (Odes), Liber III, 23 BC",
+  "difficulty": "中級",
+  "category": "horatius",
+  "originalLang": "la-LA",
+  "modernRelevance": "★★★★★",
+  "context": "ホラティウス「カルミナ」第3巻第30番。カルミナ第1〜3巻の結語詩（sphragis）として「カルミナ」全巻の「後記（épilogue）」的位置を占める。アスクレピアデウス詩形（Lesser Asclepiadean）の16行詩。「Exegi monumentum aere perennius（私は青銅よりも永続する記念碑を建てた）」という自己賛美的宣言から始まり、「sume superbiam / quaesitam meritis（功績によって得られた誇りを取れ）et mihi Delphica / lauro cinge volens, Melpomene, comam（デルフォイの月桂樹で喜んで私の髪を飾れ、メルポメネよ）」という女神への命令で閉じる。「non omnis moriar（私は全ては死なない）」という部分的不死性の宣言が詩篇の神学的核心として──「Carmen II.III」「omnes eodem cogimur（すべては同じ場所へ向かわされる）」・「Carmen IV.VII」「pulvis et umbra sumus（塵と影である）」というホラティウスの「死の詩篇」群と相補的な関係として：「死の前での人間の無力」を繰り返し歌った詩人が最後に「詩篇（carmen）」による不死性を宣言するという逆転として。「princeps Aeolium carmen ad Italos / deduxisse modos（アエオロス式の歌をイタリアの韻律に最初に持ち込んだ）」──ホラティウスのサッポーへの負債の宣言：アエオロス詩形（サッポーのミュティレネ島の方言詩形）のラテン語への「移植（deducere）」という詩人論的功績として。ランボー「Ver erat」の「TV VATES ERIS（汝は詩人となるだろう）」という「未来の詩的召命」に対し、ホラティウスは「Exegi（私は建てた）」という「完了した詩的記念碑」の宣言として──詩的召命の「未来形（ランボー）」対「完了形（ホラティウス）」の対照として。",
+  "keywords": [
+    "exegi monumentum",
+    "記念碑",
+    "non omnis moriar",
+    "部分的不死",
+    "aere perennius",
+    "青銅より永続",
+    "詩の不死性",
+    "メルポメネ",
+    "月桂冠",
+    "アエオロス詩形",
+    "Aeolium carmen",
+    "ホラティウス",
+    "sphragis",
+    "後記詩"
+  ],
+  "relatedTexts": [
+    "horatius_carmina_1_4",
+    "horatius_carmina_1_11",
+    "horatius_carmina_4_7",
+    "horatius_carmina_2_3",
+    "rimbaud_ver_erat",
+    "mallarme_coup_de_des",
+    "valery_orphee",
+    "gautier_l_art",
+    "kavafis_technita_anthi",
+    "fortunatus_vexilla_regis"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "verses": "v.1–5",
+      "original": "Exegi monumentum aere perennius\nregalique situ pyramidum altius,\nquod non imber edax, non aquilo impotens\npossit diruere aut innumerabilis\nannorum series et fuga temporum.",
+      "provisionalTranslation": "私は青銅よりも永続する記念碑を建てた、\n王者の場所に立つピラミッドよりも高い記念碑を。\nそれを食い尽くす雨も、荒れ狂う北風も\n破壊することはできないし、数え切れない\n年の連なりも時間の逃走も。"
+    },
+    {
+      "id": 2,
+      "verses": "v.6–9",
+      "original": "non omnis moriar multaque pars mei\nvitabit Libitinam; usque ego postera\ncrescam laude recens, dum Capitolium\nscandet cum tacita virgine pontifex.",
+      "provisionalTranslation": "私は全ては死なない。私の大きな部分が\nリビティナを免れるだろう。後世の称賛の中で\n私は常に新鮮に育ち続けるだろう、カピトリウムの丘を\n沈黙した巫女とともに大神官が登る限り。"
+    },
+    {
+      "id": 3,
+      "verses": "v.10–16",
+      "original": "dicar, qua violens obstrepit Aufidus\net qua pauper aquae Daunus agrestium\nregnavit populorum, ex humili potens,\nprinceps Aeolium carmen ad Italos\ndeduxisse modos. sume superbiam\nquaesitam meritis et mihi Delphica\nlauro cinge volens, Melpomene, comam",
+      "provisionalTranslation": "私は語られるだろう、荒々しいアウフィドゥス川が騒めく地で\nそして水に貧しいダウヌスが農民の\n民を支配した地で──低い境遇から力を持つ者として──\nアエオロス式の歌をイタリアの韻律に\n最初に持ち込んだ者として。功績によって\n得られた誇りを取れ、そしてデルフォイの\n月桂樹で喜んで私の髪を飾れ、メルポメネよ。"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "Exegi monumentum aere perennius\nregalique situ pyramidum altius,",
+      "body": "「私は青銅よりも永続する記念碑を建てた（Exegi monumentum aere perennius）、王者の場所に立つピラミッドよりも高い記念碑を」──詩篇の冒頭宣言がホラティウスのラテン文学における最も大胆な自己主張として機能する。「Exegi（私は建てた）」──「exigere（建てる・完成する）」の完了形：「カルミナ」第1〜3巻の完成が「記念碑（monumentum）」の完成として宣言される──「Vexilla Regis」I連「Fulget crucis mysterium（十字架の秘儀が輝く）」の「典礼的栄光の宣言」に対して、ホラティウスは「詩篇の永続的栄光（aere perennius）」という「世俗的不死の宣言」として対置される。「aere perennius（青銅よりも永続する）」──「比較級（perennius）」による「詩の物質的記念碑（aes = 青銅）への優越性」の宣言：「Τεχνητά Άνθη（人工の花）」の「人工物の不朽性」への讃美が「ガラス・金属の朽ちない美」として表現されるのに対し、ホラティウスは「詩篇（carmen）」が「青銅（aes）」よりも永続すると宣言する──「金属の人工美」対「詩語の不死性」という芸術論的競合として。「regalique situ pyramidum altius（ピラミッドよりも高い）」──ピラミッドという「王権の永続的記念碑」への超越：「Dies Irae」で「王（rex）」への最後の審判が「平等」に適用されるように、ホラティウスの「詩の記念碑」は「王者のピラミッド（regalique pyramidum）」をも超越する。ゴーティエ「L'Art（芸術）」の「Tout passe. — L'art robuste / Seul a l'éternité（すべては過ぎ去る──堅固な芸術のみが永遠を持つ）」──「aere perennius（青銅より永続）」という古典的定式がゴーティエの「芸術の不死性」命題の最も直接的な古典的先行形として。",
+      "targetId": "gautier_l_art",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 1,
+      "type": "prosody",
+      "anchor": "quod non imber edax, non aquilo impotens\npossit diruere aut innumerabilis\nannorum series et fuga temporum.",
+      "body": "詩篇のアスクレピアデウス詩形（Lesser Asclepiadean）──全16行が同一の「長短短長・長短短・短長（—∪∪—|—∪∪|∪—）」という8音節格で統一される：「Carmen I.XI」と同じ「Greater Asclepiadean（12音節）」の短縮形として。全行同一詩形による単調な拍動が「記念碑の不変的永続性」を形式的に体現する──詩形そのものが「変わらぬ（perennius）」記念碑として。「fuga temporum（時間の逃走）」──「Carmen I.XI」「fugerit invida Aetas（妬ましい時間は逃げ去るだろう）」の「fugerit（逃げ去る）」と同語根：「逃走する時間（fuga temporum）」が「記念碑を破壊できない（non possit diruere）」という──「carpe diem」詩篇では「時間の逃走」が「現在の行動」を促す原因であったのに対し、「exegi monumentum」詩篇では「時間の逃走」が「詩的記念碑の不滅性」の証明となる逆転として。「annorum series et fuga temporum（年の連なりと時間の逃走）」──コヘレト「Generatio praeterit, et generatio advenit（世代は過ぎ去り、世代は来る）」の循環的時間に対して、「詩の記念碑（monumentum）」が循環的時間を超越する「永続性（perennitas）」として定義される──コヘレト的「時間の虚無」への詩的応答として。",
+      "targetId": "horatius_carmina_1_11",
+      "targetParagraphId": 1
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "non omnis moriar multaque pars mei\nvitabit Libitinam; usque ego postera\ncrescam laude recens, dum Capitolium\nscandet cum tacita virgine pontifex.",
+      "body": "「私は全ては死なない（non omnis moriar）。私の大きな部分がリビティナを免れるだろう。後世の称賛の中で私は常に新鮮に育ち続けるだろう、カピトリウムの丘を沈黙した巫女とともに大神官が登る限り」──詩篇の神学的核心として。「non omnis moriar（私は全ては死なない）」──「Carmen II.III」「omnes eodem cogimur（すべては同じ場所へ向かわされる）」・「Carmen IV.VII」「pulvis et umbra sumus（塵と影である）」という「死の全包含性」の命題への詩的応答として：「すべては死ぬ（omnes moriuntur）」に対して「全ては死なない（non omnis moriar）」という部分的不死の宣言として──「omnes（すべて）」という語根の反転として。「Libitinam（リビティナ）」──「Libitina（リビティナ）」はローマの葬儀の女神・死の擬人化：「Carmen I.IV」「pallida Mors（青ざめた死）」・「Carmen II.III」「nil miserantis Orci（何も憐れまぬオルクス）」という「死の様々な擬人化」の系列に「Libitina（リビティナ）」が加わる──ホラティウスの死の神話的語彙の多様性として。「dum Capitolium / scandet cum tacita virgine pontifex（カピトリウムの丘を沈黙した巫女とともに大神官が登る限り）」──「ローマの永続性」が詩人の不死性の担保として：「ローマが続く限り（詩人の名声も続く）」という古典的名声論として。",
+      "targetId": "horatius_carmina_2_3",
+      "targetParagraphId": 7
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "dicar, qua violens obstrepit Aufidus\net qua pauper aquae Daunus agrestium\nregnavit populorum, ex humili potens,\nprinceps Aeolium carmen ad Italos\ndeduxisse modos.",
+      "body": "「私は語られるだろう……低い境遇から力を持つ者として──アエオロス式の歌をイタリアの韻律に最初に持ち込んだ者として（princeps Aeolium carmen ad Italos / deduxisse modos）」──詩人の自伝的・文学史的功績の宣言として。「qua violens obstrepit Aufidus（荒々しいアウフィドゥス川が騒めく地で）」──アプリアのアウフィドゥス川（現アオファンテ川）：ホラティウスの出身地ヴェノサ（Venusia）近傍の川として──詩人の地方的・周辺的出自が「その地で語られる（dicar）」という逆転的栄光として。「ex humili potens（低い境遇から力を持つ者として）」──「humilis（低い・謙虚な）」と「potens（力を持つ）」の対比：ホラティウスが解放奴隷の息子という「低い境遇（ex humili）」から「力ある詩人（potens）」となった自伝的軌跡として──「Ver erat」第9段落「TV VATES ERIS（汝は詩人となるだろう）」というランボーの「未来の召命」に対して、ホラティウスは「完了した（exegi）力（potens）」の宣言として対照される。「princeps Aeolium carmen ad Italos / deduxisse modos（アエオロス式の歌をイタリアの韻律に最初に持ち込んだ）」──「princeps（最初の・先駆者）」：サッポーとアルカイオス（アエオロス方言の詩人）の詩形をラテン語に移植したホラティウスの文学史的位置の宣言。「deducere（導き入れる・移植する）」：「Carmen II.III」第3段落「lympha fugax trepidare rivo（逃げる水が小川でよろよろと流れる）」の「rivo（小川）」への水の「流れ込み」と同語根的──詩の伝統の「水路による移植（deductio）」として。",
+      "targetId": "rimbaud_ver_erat",
+      "targetParagraphId": 9
+    },
+    {
+      "paragraphId": 3,
+      "type": "intertextual",
+      "anchor": "sume superbiam\nquaesitam meritis et mihi Delphica\nlauro cinge volens, Melpomene, comam",
+      "body": "「功績によって得られた誇りを取れ（sume superbiam quaesitam meritis）、そしてデルフォイの月桂樹で喜んで私の髪を飾れ、メルポメネよ（lauro cinge volens, Melpomene, comam）」──詩篇の最終三行が「女神への命令」として閉じる。「Melpomene（メルポメネ）」──九ムーサのうち「悲劇（τραγῳδία）」・後に「叙情詩・音楽」の女神：「Ver erat」第9段落「TV VATES ERIS（汝は詩人となるだろう）」でアポロンが「詩人の召命」を宣告するのに対し、ホラティウスは「女神メルポメネ」に「月桂冠（lauro）」を命じる──「フォイボスの竪琴（Ver erat）」対「メルポメネの月桂冠（Carmen III.XXX）」という「詩の栄誉」の授与者の差異として。「Delphica lauro（デルフォイの月桂樹）」──「デルフォイ（Delphi）」はアポロンの神託所：「月桂樹（laurus）」はアポロンのシンボルとして詩的勝利の象徴──「Ver erat」第9段落「ter lauro tempore cingens（三度こめかみに月桂を飾った）」との直接的照応として：ランボーの「ムーサによる三度の月桂冠」がホラティウスの「メルポメネへの月桂冠命令」として古典的形象を共有する。「sume superbiam / quaesitam meritis（功績によって得られた誇りを取れ）」──「superbia（誇り・傲慢）」という通常は否定的語彙が「quaesitam meritis（功績によって得られた）」という資格付与によって「正当な誇り（iusta superbia）」として肯定される：「Στρατηγού Θάνατος（将軍の死）」の「αυθάδη（傲慢な）」言葉として大司教に批判された時計の「誇り」──不当な傲慢への批判に対してホラティウスは「功績による正当な誇り（quaesita superbia）」を詩篇の最後に宣言する。マラルメ「骰子一擲（Un coup de dés）」の最終行「Toute Pensée émet un Coup de Dés（いかなる思考も骰子の一擲を放つ）」──偶然性から逃れられない「思考の骰子」に対してホラティウスの「Exegi monumentum（私は建てた）」という「確立された（exegi）記念碑」は「偶然性（casus）を超えた詩的不死性」の宣言として──マラルメ的「偶然の廃棄不可能性」への古典的応答として。",
+      "targetId": "rimbaud_ver_erat",
+      "targetParagraphId": 10
+    }
+  ]
+}
