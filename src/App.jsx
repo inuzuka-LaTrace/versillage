@@ -2389,8 +2389,8 @@ const TocDrawer = ({
                             </div>
                           );
                         })}
-                        <div className={`text-center py-1.5 ${tocOrnament} text-sm tracking-[0.4em] select-none`}>
-                          ⚜　⚜　⚜
+                        <div className={`text-center py-1.5 ${tocOrnament} text-[11px] tracking-[0.4em] select-none`}>
+                          𒋲𒋲𒋲
                         </div>
                       </div>
                     )}
