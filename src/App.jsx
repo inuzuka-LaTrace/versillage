@@ -2316,8 +2316,8 @@ const TocDrawer = ({
         key={key}
         onClick={() => setTocLangFilter(key)}
         className={`
-          flex-1 min-w-[50px] px-2 py-3
-          text-[12px] font-Cinzel tracking-wider transition-colors
+          flex-1 min-w-[50px] px-2 py-3 uppercase
+          text-[12px] font-cinzel tracking-wider transition-colors
           border-b-2 
           ${isSelected 
             ? `${tocActiveBg} ${tocActiveBdr} ${tocText}` 
