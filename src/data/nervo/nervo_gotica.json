@@ -1,0 +1,111 @@
+{
+  "id": "nervo_gotica",
+  "title": "Gótica",
+  "author": "Amado Nervo",
+  "source": "Místicas (1898). Wikisource (スペイン語): https://es.wikisource.org/wiki/M%C3%ADsticas/IV",
+  "year": "1898",
+  "firstPublication": "Místicas, México, 1898",
+  "difficulty": "上級",
+  "category": "nervo",
+  "originalLang": "es-ES",
+  "modernRelevance": "★★★★★",
+  "context": "アマード・ネルヴォ（Amado Nervo, 1870–1919）はメキシコのモデルニスモ詩人。「Gótica（ゴシック的）」は詩集「Místicas（神秘詩集, 1898）」のIV番、バルビノ・ダバロスに献じられた詩。ゴシック建築の修道院（abadía）──回廊・礼拝堂・内陣・ステンドグラス──を舞台に、「生に病んだ（Enfermo de la vida）」詩的主体が神との対話を求め、すでに骨となって眠る女子修道院長（abadesas）たちに語りかけ、彼女たちを「立ち上がれ、聖歌隊を満たせ」と呼び起こす。詩は5行連×4（quintillas変形）をなし、第1連と第4連の末尾2行・第2連と第5連の末尾2行が反復される「リフレーン」構造──修道院の「廃墟と沈黙」の循環的反響として機能する。「solitario recinto（孤独な聖域）」が第1連冒頭と第2連冒頭に反復され、「¡Oh claustro silencioso（ああ沈黙の回廊よ）」が第4連で変形反復される。「¿aún vive Cristo tras el sagrario?（聖体箱の向こうにキリストはまだ生きているか？）」という問いはモデルニスモ的な信仰危機の核心命題。詩の語彙は建築的精密さ（arcadas, claves, domo, sillería, vitrales等）と宗教的典礼語彙（breviarios, sitiales, pináculo, Cordero等）の二層をなす。スペイン語モデルニスモにおける「ゴシック的神秘主義（misticismo gótico）」の代表的詩篇。",
+  "keywords": [
+    "Gótica",
+    "修道院",
+    "abadía",
+    "ゴシック建築",
+    "女子修道院長",
+    "abadesas",
+    "生に病む",
+    "Enfermo de la vida",
+    "神との対話",
+    "信仰危機",
+    "モデルニスモ",
+    "Místicas",
+    "ネルヴォ"
+  ],
+  "relatedTexts": [
+    "juan_de_la_cruz_noche_oscura",
+    "teresa_vivo_sin_vivir",
+    "verlaine_parsifal",
+    "verlaine_un_crucifix",
+    "verlaine_saint_graal",
+    "wilde_e_tenebris",
+    "dowson_venite_descendamus",
+    "weil_atheisme_purificateur",
+    "mallarme_catholicisme"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "verses": "v.1–5",
+      "original": "Solitario recinto de la abadía;\ntristes patios, arcadas de recias claves,\ndesmanteladas celdas, capilla fría\nde historiados altares, de sillería\nde roble, domo excelso y obscuras naves;",
+      "provisionalTranslation": "修道院の孤独な聖域、\n哀しき中庭、堅固な要石の弓形アーケード、\n取り壊された独房、冷えた礼拝堂、\n彫刻された祭壇、樫材の\n聖歌隊席、高い天蓋、そして暗い側廊。"
+    },
+    {
+      "id": 2,
+      "verses": "v.6–10",
+      "original": "solitario recinto: ¡cuántas pavesas\nde amores que ascendieron hasta el pináculo\ndonde mora el Cordero, guardan tus huesas...!\nHeme aquí con vosotras, las abadesas\nde cruces pectorales y de áureo báculo...",
+      "provisionalTranslation": "孤独な聖域よ、いかに多くの燃えかすを\n子羊の宿るピナクル（尖塔）まで昇った\n愛の燃えかすを、汝の骨は守っているか……！\n私はここにいる、汝らとともに、女子修道院長たちよ、\n胸の十字架と黄金の杖の者たちとともに……"
+    },
+    {
+      "id": 3,
+      "verses": "v.11–15",
+      "original": "Enfermo de la vida, busco la plática\ncon Dios, en el misterio de su santuario:\ntengo sed de idealismo... Legión extática,\nde monjas demacradas de faz hierática,\ndecid: ¿aún vive Cristo tras el sagrario?",
+      "provisionalTranslation": "生に病んで、私は神との対話を求める、\nその聖所の神秘の中で。\n私は理想への渇きを持つ……恍惚の軍団よ、\n厳かな面の痩せた修道女たちよ、\n告げよ：聖体箱の向こうにキリストはまだ生きているか？"
+    },
+    {
+      "id": 4,
+      "verses": "v.16–20",
+      "original": "Levantaos del polvo, llenad el coro;\nlos breviarios aguardan en los sitiales,\nque vibre vuestro salmo limpio y sonoro,\nen tanto que el Poniente nimba de oro\nlas testas de los santos en los vitrales...",
+      "provisionalTranslation": "塵から立ち上がれ、聖歌隊を満たせ。\n聖務日課書が聖歌隊席で待っている、\n汝らの清らかで響く詩篇が振動せよ、\n西の空が黄金の後光を添える間に\nステンドグラスの中の聖人たちの頭上に……"
+    },
+    {
+      "id": 5,
+      "verses": "v.21–25",
+      "original": "¡Oh claustro silencioso, cuántas pavesas\nde amores que ascendieron hasta el pináculo\ndonde mora el Cordero, guardan tus huesas...!\nOraré mientras duermen las abadesas\nde cruces pectorales y de áureo báculo...",
+      "provisionalTranslation": "ああ沈黙の回廊よ、いかに多くの燃えかすを\n子羊の宿るピナクルまで昇った\n愛の燃えかすを、汝の骨は守っているか……！\n女子修道院長たちが眠る間、私は祈るだろう、\n胸の十字架と黄金の杖の者たちが。"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "prosody",
+      "anchor": "Solitario recinto de la abadía;\ntristes patios, arcadas de recias claves,",
+      "body": "詩形：quintilla変形×5（5行連×5）。各連の韻型：ABAAB / ABAAB（ ABB の変形も含む）。弱強10音節（decasílabo）基本。「Gótica」の詩的建築語彙群：「arcadas de recias claves（堅固な要石のアーケード）」「domo excelso（高い天蓋・ドーム）」「obscuras naves（暗い側廊）」「sillería de roble（樫材の聖歌隊席）」──ゴシック建築の各部位が詩の視覚的骨格をなす。これらはルビアン・ダリオ「白鳥（El Cisne）」・ベルレーヌ「パルジファル（Parsifal）」とともにモデルニスモが用いた中世的・神秘主義的語彙の精髄。第1連が純粋な建築的描写（動詞なし）で構成される点は、サランダリス「Τῆς ἀλήθειας」の無述語構造と詩的に照応する。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "¡cuántas pavesas\nde amores que ascendieron hasta el pináculo\ndonde mora el Cordero, guardan tus huesas...!",
+      "body": "「ピナクルまで昇った愛の燃えかすを汝の骨は守っている（cuántas pavesas / de amores que ascendieron hasta el pináculo / donde mora el Cordero, guardan tus huesas）」──「pavesas（燃えかす・燃えた後の灰）」という語が詩の中核的形象をなす：かつて神へと燃え昇った愛が「燃えかす（pavesas）」として「骨（huesas）」の中に保存されるという逆説。「pináculo（ピナクル）」はゴシック大聖堂の最高尖塔で、「Cordero（子羊）=キリスト」が宿る場所として神学的頂点を示す。「huesas（骨・骨壺）」──地下納骨室に眠る修道院長たちの遺骨が「愛の燃えかす」の保存容器として機能する。ダウスン「Venite Descendamus」の「灰（ashes）」・マラルメ「葬礼の乾杯（Toast funèbre）」の「廃棄された人間（l'Homme aboli）」との照応：どちらも「かつて燃えていたもの」の残滓として死後の存在を形象化する。",
+      "targetId": "dowson_venite_descendamus",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "Enfermo de la vida, busco la plática\ncon Dios, en el misterio de su santuario:\ntengo sed de idealismo...\ndecid: ¿aún vive Cristo tras el sagrario?",
+      "body": "「生に病んで（Enfermo de la vida）」──モデルニスモ詩人の自己定義として機能する句。コヘレト「afflictio spiritus（霊の苦悩）」・ボードレール「憂鬱（Spleen）」・マヴィリス「Ἔρως καὶ θάνατος」の「苦悩の苦い海」と同型の「生への倦怠・病」の定式。「tengo sed de idealismo（私は理想への渇きを持つ）」──「sed（渇き）」という身体的欲求が「idealismo（理想主義）」という抽象的概念と結合する：コヘレト「Non saturatur oculus visu（目は見ることに飽くことなく）」の「不飽和の渇望」がここでは「理想への渇き」として定式化される。「¿aún vive Cristo tras el sagrario?（聖体箱の向こうにキリストはまだ生きているか？）」──スペイン語モデルニスモにおける信仰危機の核心問い。十字架の聖ヨハネ「魂の暗夜（Noche oscura）」が「神を信じながら暗闇の中を進む」のに対し、ネルヴォは「神がまだそこにいるか」を廃墟の修道院で問う──神秘主義的確信（16世紀）から懐疑的問い（19世紀）への時代的転換。",
+      "targetId": "juan_de_la_cruz_noche_oscura",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 4,
+      "type": "commentary",
+      "anchor": "Levantaos del polvo, llenad el coro;\nlos breviarios aguardan en los sitiales,\nque vibre vuestro salmo limpio y sonoro,\nen tanto que el Poniente nimba de oro\nlas testas de los santos en los vitrales...",
+      "body": "「塵から立ち上がれ、聖歌隊を満たせ（Levantaos del polvo, llenad el coro）」──死んだ修道院長たちへの呼びかけ。「del polvo（塵から）」は創世記3:19「汝は塵であり、塵に帰す（eres polvo, y al polvo volverás）」の逆転：「塵から立ち上がれ」という復活的命令。「breviarios（聖務日課書）」「sitiales（聖歌隊席）」「salmo（詩篇・聖歌）」という典礼語彙が廃墟の中で「待っている（aguardan）」という擬人化的現在形で示される。「el Poniente nimba de oro / las testas de los santos en los vitrales（西の空が聖人たちの頭上に黄金の後光を添える）」──夕暮れの光がステンドグラスを通して聖人像を後光で輝かせるという視覚的クライマックス。マヴィリス「Excelsior!」の「ἀγιασμένα δαφνοστέφανά（聖なる月桂冠）」が英雄的死者への後光であるのに対し、ネルヴォでは夕陽が聖人たちに黄金の後光（nimbo de oro）を与える。",
+      "targetId": "mavilis_excelsior",
+      "targetParagraphId": 4
+    },
+    {
+      "paragraphId": 5,
+      "type": "commentary",
+      "anchor": "¡Oh claustro silencioso, cuántas pavesas\nde amores que ascendieron hasta el pináculo\nOraré mientras duermen las abadesas",
+      "body": "第2連のリフレーン変形による詩の閉幕。「solitario recinto（孤独な聖域）」→「¡Oh claustro silencioso（ああ沈黙の回廊よ）」への呼格の変化：「孤独（solitario）」という形容詞が「沈黙（silencioso）」へと深化し、廃墟の静寂が「沈黙」として再定義される。「Heme aquí con vosotras（私はここにいる、汝らとともに）」→「Oraré mientras duermen las abadesas（修道院長たちが眠る間、私は祈る）」への転換：詩の主体が「共にいる（con vosotras）」から「眠りを見守りながら祈る（Oraré mientras duermen）」へと距離をとる。ロデンバック「沈黙について（Du Silence）」の「沈黙の内的豊かさ」・マヴィリス「Εγκοίμηση（子守唄）」の「美しい死が眠りを命じる」との照応：「沈黙の回廊」が死者の眠りの聖域として機能し、生者である詩人が「眠る者たちのために祈る」という関係性が詩の倫理的結語をなす。",
+      "targetId": "rodenbach_du_silence",
+      "targetParagraphId": null
+    }
+  ]
+}
