@@ -2294,35 +2294,40 @@ const TocDrawer = ({
           </div>
 
           {/* ── 言語フィルター ── */}
-<div className={`px-4 py-3 border-b ${tocBorder} flex gap-2 overflow-x-auto no-scrollbar shrink-0 bg-opacity-50 backdrop-blur-sm`}>
+{/* ── 言語フィルター ── */}
+<div className={`flex border-b ${tocBorder} overflow-x-auto no-scrollbar shrink-0`}>
   {[
     { key: 'all', label: 'All' },
-    { key: 'fr',  label: 'Fra' }, // 3文字表記にするとより古書目録的な印象に
-    { key: 'de',  label: 'Deu' },
-    { key: 'en',  label: 'Eng' },
-    { key: 'ru',  label: 'Rus' },
-    { key: 'it',  label: 'Ita' },
-    { key: 'es',  label: 'Spa' },
-    { key: 'la',  label: 'Lat' },
-    { key: 'gr',  label: 'Grc' },
-  ].map(({ key, label }) => (
-    <button
-      key={key}
-      onClick={() => setTocLangFilter(key)}
-      className={`
-        min-w-[40px] px-2 py-1.5 
-        text-[11px] font-Cinzel tracking-widest uppercase
-        transition-all duration-300
-        border-b-2 
-        ${tocLangFilter === key 
-          ? 'border-[#8a7a5a] text-[#8a7a5a] font-bold' 
-          : 'border-transparent text-stone-400 hover:text-stone-600'
-        }
-      `}
-    >
-      {label}
-    </button>
-  ))}
+    { key: 'fr',  label: 'fra' },
+    { key: 'de',  label: 'deu' },
+    { key: 'en',  label: 'eng' },
+    { key: 'ru',  label: 'rus' },
+    { key: 'it',  label: 'ita' },
+    { key: 'es',  label: 'spa' },
+    { key: 'la',  label: 'lat' },
+    { key: 'gr',  label: 'grc' },
+  ].map(({ key, label }) => {
+    const isSelected = tocLangFilter === key;
+    return (
+      <button
+        key={key}
+        onClick={() => setTocLangFilter(key)}
+        className={`
+          flex-1 min-w-[50px] px-2 py-3
+          text-[11px] font-Garamond tracking-wider uppercase transition-colors
+          border-b-2 
+          ${isSelected 
+            ? `${tocActiveBg} ${tocActiveBdr} ${tocText} font-bold` 
+            : `border-transparent ${tocSub} ${tocHoverBg}`
+          }
+        `}
+      >
+        <span className={isSelected ? "" : "opacity-70"}>
+          {label}
+        </span>
+      </button>
+    );
+  })}
 </div>
 
           {/* ── テキスト一覧 ── */}
