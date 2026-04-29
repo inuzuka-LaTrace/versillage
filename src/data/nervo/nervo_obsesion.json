@@ -1,0 +1,106 @@
+{
+  "id": "nervo_obsesion",
+  "title": "Obsesión",
+  "author": "Amado Nervo",
+  "source": "Místicas (1898). Wikisource (スペイン語): https://es.wikisource.org/wiki/M%C3%ADsticas/III",
+  "year": "1898",
+  "firstPublication": "Místicas, México, 1898",
+  "difficulty": "上級",
+  "category": "nervo",
+  "originalLang": "es-ES",
+  "modernRelevance": "★★★★★",
+  "context": "アマード・ネルヴォ（Amado Nervo, 1870–1919）の詩集「Místicas（1898）」III番。「Obsesión（強迫観念）」は「ハムレットがオフェリアに言った言葉」を亡霊が繰り返すという構造を持つ。ハムレットはシェイクスピア「ハムレット」III幕1場でオフェリアに「尼寺へ行け（Get thee to a nunnery）」と告げる──ネルヴォはこの命令を「¡Mira, vete a un convento!（見よ、修道院へ行け！）」としてスペイン語化し、亡霊の口から詩的主体に繰り返させる。この亡霊の言葉が「強迫観念（Obsesión）」として詩人の精神を侵食するという構造が詩全体をなす。第1連：亡霊の出現と最初のリフレーン。第2連：その呪文の効果として蒼白い修道士たちが心を満たす。第3連：修道士たちの苦行的光景。第4連：魂の抵抗の無効と亡霊の言葉の反復（最終2行がリフレーン）。「Gótica」では廃墟の修道院が実際の場所として描かれたのに対し、「Obsesión」ではその修道院が「強迫観念的なヴィジョン」として精神内部に侵入するという内面化の構造をとる。オフェリア主題の視点から：シェイクスピアのオフェリアはハムレットの「尼寺へ」という言葉によって精神的に傷つけられ破滅に向かう。ネルヴォの詩的主体は逆にその同じ言葉を「亡霊から受け取る」という立場に置かれ、オフェリアと詩人が同一の位置に重ねられる。ツヴェターエワ「ハムレットと良心の対話（Диалог Гамлета с совестью）」では「彼女は川の底に（Она на дне）」という良心の告発をハムレット自身が受け取る構造となる──ネルヴォでは亡霊がハムレットの台詞を詩人に繰り返すという更なる変位が生じる。コラッツィーニ「L'anima（魂）」では魂が「修道女のように（come una monachella）」内部に閉じ込められる形象をとり、ネルヴォの「修道院へ行け」という強迫命令との照応を示す。",
+  "keywords": [
+    "強迫観念",
+    "Obsesión",
+    "ハムレット",
+    "オフェリア",
+    "尼寺へ",
+    "vete a un convento",
+    "亡霊",
+    "fantasma",
+    "修道士",
+    "苦行",
+    "フラジェラシオン",
+    "モデルニスモ",
+    "Místicas",
+    "ネルヴォ"
+  ],
+  "relatedTexts": [
+    "nervo_gotica",
+    "nervo_azrael",
+    "tsvetaeva_dialog_gamleta",
+    "corazzini_l_anima",
+    "blok_pesnya_ofelii",
+    "blok_ofeliya_v_tsvetakh",
+    "wilde_e_tenebris",
+    "verlaine_parsifal",
+    "juan_de_la_cruz_noche_oscura"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "verses": "v.1–4",
+      "original": "Hay un fantasma que siempre viste\nluctuosos paños, y con acento\ncruel de Hamlet a Ofelia triste,\nme dice: ¡Mira, vete a un convento!",
+      "provisionalTranslation": "いつも喪服の布を纏った亡霊がいる、\n哀しいオフェリアへのハムレットの\n残酷な口調で、\n私に言う：「見よ、修道院へ行け！」"
+    },
+    {
+      "id": 2,
+      "verses": "v.5–8",
+      "original": "Y me horroriza prestarle oídos,\npues al conjuro de su palabra,\npueblan mi mente descoloridos\ny enjutos frailes de faz macabra;",
+      "provisionalTranslation": "その声に耳を傾けることが私を恐怖させる、\nなぜならその言葉の呪文によって、\n蒼白く痩せた、死者のような顔の修道士たちが\n私の心を満たすから。"
+    },
+    {
+      "id": 3,
+      "verses": "v.9–12",
+      "original": "Y dicen salmos penitenciales\ny se flagelan con cadenillas,\ny los repliegues de sus sayales\nsemejan antros de pesadillas...",
+      "provisionalTranslation": "そして彼らは懺悔の詩篇を唱え、\n小さな鎖で自らを鞭打ち、\nその修道服の折り目が\n悪夢の洞窟に似ている……"
+    },
+    {
+      "id": 4,
+      "verses": "v.13–17",
+      "original": "En vano aquella visión resiste\nel alma, loca de sufrimiento:\nlos frailes rondan, la voz persiste,\ny como Hamlet a Ofelia triste,\nme dice: ¡Mira, vete a un convento!",
+      "provisionalTranslation": "苦しみに狂った魂は\n空しくあのヴィジョンに抵抗する。\n修道士たちは徘徊し、声は続く、\n哀しいオフェリアへのハムレットのように、\n私に言う：「見よ、修道院へ行け！」"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "allusion",
+      "anchor": "con acento\ncruel de Hamlet a Ofelia triste,\nme dice: ¡Mira, vete a un convento!",
+      "body": "「哀しいオフェリアへのハムレットの残酷な口調で（acento cruel de Hamlet a Ofelia triste）」──シェイクスピア「ハムレット」III幕1場「Get thee to a nunnery（尼寺へ行け）」の直接的引用的変奏。ネルヴォは「nunnery（尼寺）」を「convento（修道院・尼寺）」としてスペイン語化し、「cruel（残酷な）」という形容詞を付加する。注目すべきは詩的主体が「オフェリアの位置」に置かれる点：シェイクスピアではハムレットがオフェリアに言うが、ネルヴォでは亡霊（fantasma）が詩人（私）に言う──詩人がオフェリアと同一化される。ツヴェターエワ「ハムレットと良心の対話（Диалог Гамлета с совестью）」との対照：ツヴェターエワではハムレット自身が「川の底のオフェリア」を良心に問われる立場に置かれる（加害者の後悔）のに対し、ネルヴォでは詩人が「尼寺へ行け」と言われる立場（被害者の受容）に置かれる──同一のハムレット=オフェリア関係を「加害者側の良心」と「被害者側の強迫」という二つの詩的視点から照射する。",
+      "targetId": "tsvetaeva_dialog_gamleta",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 1,
+      "type": "prosody",
+      "anchor": "Hay un fantasma que siempre viste\nluctuosos paños,",
+      "body": "詩形：cuarteto（4行連）×4（最終連5行）、押韻ABAB。弱強8音節（octosílabo）を基本とする。最終連でv.1–2が「como Hamlet a Ofelia triste / me dice: ¡Mira, vete a un convento!」として反復されるリフレーン（estribillo）構造──反復が「強迫観念（Obsesión）」という題名の形式的実現をなす。v.1の「siempre（いつも）」という副詞が反復の習慣性を確立し、最終連の「persiste（続く）」がその習慣的反復を現在進行形で確認する。「luctuosos paños（喪服の布）」──「luctuo（悲嘆・喪）」から派生する形容詞が亡霊を「喪に服した」存在として定義する：「Gótica」の「tristes patios（哀しき中庭）」「capilla fría（冷えた礼拝堂）」と同型の「哀しみ」の建築的・衣服的形象化。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "pues al conjuro de su palabra,\npueblan mi mente descoloridos\ny enjutos frailes de faz macabra;",
+      "body": "「その言葉の呪文によって・蒼白く痩せた・死者のような顔の修道士たちが私の心を満たす（al conjuro de su palabra / pueblan mi mente descoloridos / y enjutos frailes de faz macabra）」──「conjuro（呪文・悪魔祓いの祈り）」という語が亡霊の言葉を魔術的言語行為として定義する。「descoloridos（蒼白い・脱色した）」「enjutos（痩せた・乾いた）」「faz macabra（死者のような顔・マカブルな面）」──「macabra」はフランス語「danse macabre（死の舞踏）」の語彙。「Gótica」の「monjas demacradas de faz hierática（厳かな面の痩せた修道女）」と対応する：「Gótica」では修道女たちに「詩篇を歌え」と呼びかける詩人が、「Obsesión」では痩せた修道士たちに侵入されるという立場の逆転。コラッツィーニ「L'anima（魂）」の「魂が修道女のように閉じ込められる（come una monachella）」という内的幽閉との照応：どちらも「宗教的な存在（修道女・修道士）」が内面侵食の形象として機能する。",
+      "targetId": "corazzini_l_anima",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "Y dicen salmos penitenciales\ny se flagelan con cadenillas,\ny los repliegues de sus sayales\nsemejan antros de pesadillas...",
+      "body": "「懺悔の詩篇・小さな鎖による鞭打ち・修道服の折り目が悪夢の洞窟に似る（salmos penitenciales / se flagelan con cadenillas / antros de pesadillas）」──典礼的苦行語彙の三重連。「salmos penitenciales（懺悔の詩篇）」はカトリックの七つの懺悔詩篇（Psalmi poenitentiales：詩篇6・31・37・50・101・129・142）を指す。「flagelarse con cadenillas（小さな鎖で自らを鞭打つ）」──苦行主義（ascetismo）の鞭打ち（flagelación）の伝統：中世ヨーロッパの苦行修道会（Flagellants）の実践。「repliegues de sus sayales / semejan antros de pesadillas（修道服の折り目が悪夢の洞窟に似る）」──衣服の「折り目（repliegues）」が「洞窟（antros）」に変容するという共感覚的比喩：布の皺が空間的深淵として知覚される。ブローク「オフェリアの歌（Песня Офелии）」のオフェリアが「川の底の暗闇」に沈む形象と照応：どちらも「深淵・洞窟・底」という沈降的空間形象が精神的苦悩を示す。",
+      "targetId": "blok_pesnya_ofelii",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 4,
+      "type": "commentary",
+      "anchor": "En vano aquella visión resiste\nel alma, loca de sufrimiento:\nlos frailes rondan, la voz persiste,",
+      "body": "「苦しみに狂った魂は空しくあのヴィジョンに抵抗する（En vano aquella visión resiste / el alma, loca de sufrimiento）」──「En vano（空しく）」という副詞句が第4連の冒頭に置かれ、魂の抵抗が無効であることを確立する。「loca de sufrimiento（苦しみに狂った）」──「loca（狂った・気が狂った）」という形容詞がオフェリアへの暗示をさらに強化する：シェイクスピアのオフェリアは「ハムレットの言葉」によって精神を病み最終的に「狂気（locura）」に陥る。ネルヴォの詩的主体は「狂った魂（alma loca）」として、オフェリアの狂気的結末を内面化した存在として提示される。「la voz persiste（声は続く）」という現在形が強迫的反復の終わりのなさを示す。サランダリス「Μελαγχολία της ύλης」の「ἴσως θὰ παραμείνουμε νεκροί…（おそらく死者のまま）」が「省略記号」で開いたまま終わるのに対し、ネルヴォはリフレーンの閉鎖的反復で「出口なし」を示す──開かれた不確かさ（サランダリス）対閉じた強迫反復（ネルヴォ）という形式的対比として。",
+      "targetId": "tsvetaeva_dialog_gamleta",
+      "targetParagraphId": null
+    }
+  ]
+}
