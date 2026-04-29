@@ -1,0 +1,141 @@
+{
+  "id": "nervo_apocaliptica",
+  "title": "Apocalíptica",
+  "author": "Amado Nervo",
+  "source": "Místicas (1898). Wikisource (スペイン語): https://es.wikisource.org/wiki/M%C3%ADsticas/VIII",
+  "year": "1898",
+  "firstPublication": "Místicas, México, 1898",
+  "difficulty": "上級",
+  "category": "nervo",
+  "originalLang": "es-ES",
+  "modernRelevance": "★★★★★",
+  "context": "アマード・ネルヴォ（Amado Nervo, 1870–1919）の詩集「Místicas（1898）」VIII番。エピグラフ「Y juró por el que vive en los siglos de los siglos, que no habrá más tiempo...（永遠に生きる者にかけて誓った、もはや時はないと……）」は黙示録10:6の引用。詩は7連の自由連（cuartetas変形）から構成される。詩的主体は「かつていた者たちの影（sombras de los que fueron）」が墓の中から叫ぶ黙示録的ヴィジョンを目撃し、その嘆きのリフレーン──「¡Ay, de los vientres que concibieron! / ¡Ay, de los senos que amamantaron!（懐に宿したる母の胎よ、わざわいなるかな！ / 乳を与えたる乳房よ、わざわいなるかな！）」──がルカ23:29（エルサレムへのイエスの嘆き）の直接引用として7連を通じて反復される。連II：黒いマントの星々が死者の涙の一滴として描かれる。連IV：詩人は恐怖に逃げるが死者の群衆が追いかけ「リトルネッロ（ritornello）」を続ける。連VI：星々が古いコスモスの炉の火花として落下し、水を胆汁とアブサンに変える（黙示録8:10–11「苦よもぎの星（Wormwood）」の変奏）。連VII：死者の声に「七つの雷（Siete Truenos）」（黙示録10:3–4）が加わり「無限（Infinito）」を震わせる。マラルメ「骰子一擲（Coup de Dés）」の宇宙的空間に散らばる語と、ネルヴォの「黒いマントの星々・炉の火花・七つの雷」という黙示録的宇宙論は、同時代の「コスモスの詩的解体」という主題で共鳴する。ブリューソフ「白い馬（Конь блед）」の黙示録的都市ヴィジョンとの比較においても、1890年代末の世紀末黙示録詩学の重要作として位置づけられる。",
+  "keywords": [
+    "黙示録",
+    "Apocalíptica",
+    "懐に宿したる母の胎",
+    "vientres que concibieron",
+    "死者の影",
+    "星と涙",
+    "七つの雷",
+    "Siete Truenos",
+    "アブサン",
+    "absintio",
+    "ritornello",
+    "ルカ23:29",
+    "黙示録10章",
+    "モデルニスモ",
+    "ネルヴォ"
+  ],
+  "relatedTexts": [
+    "nervo_gotica",
+    "nervo_azrael",
+    "nervo_intra_vulnera",
+    "bryusov_kon_bled",
+    "mallarme_coup_de_des",
+    "hieronymus_ecclesiastes_1",
+    "celano_dies_irae",
+    "trakl_grodek",
+    "verhaeren_heresiarque"
+  ],
+  "paragraphs": [
+    {
+      "id": 0,
+      "verses": "preface",
+      "original": "Y juró por el que vive en los siglos de los siglos, que no habrá más tiempo...",
+      "provisionalTranslation": "そして永遠に生きる者にかけて誓った、もはや時はないと……"
+    },
+    {
+      "id": 1,
+      "verses": "I",
+      "original": "Y vi las sombras de los que fueron,\nen sus sepulcros, y así clamaron:\n«¡Ay, de los vientres que concibieron!\n¡Ay, de los senos que amamantaron!»",
+      "provisionalTranslation": "私はかつていた者たちの影を見た、\n墓の中で、そして彼らはこう叫んだ：\n「懐に宿したる母の胎よ、わざわいなるかな！\n乳を与えたる乳房よ、わざわいなるかな！」"
+    },
+    {
+      "id": 2,
+      "verses": "II",
+      "original": "«La noche asperja los cielos de oro;\nmas cada estrella del negro manto\nes una gota de nuestro lloro...\n¿Verdad que hay muchas? ¡Lloramos tanto...!»",
+      "provisionalTranslation": "「夜は空を黄金で聖水に清める。\nしかし黒いマントの星々のひとつひとつは\n私たちの涙の一滴……\n多いでしょう？ 私たちはそれほど泣いた……！」"
+    },
+    {
+      "id": 3,
+      "verses": "III",
+      "original": "«¡Ay, de los seres que se quisieron\ny en mala hora nos engendraron!\n¡Ay, de los vientres que concibieron!\n¡Ay, de los senos que amamantaron!»",
+      "provisionalTranslation": "「互いに愛し合い\n不吉な時に私たちをもうけた者たちよ、わざわいなるかな！\n懐に宿したる母の胎よ、わざわいなるかな！\n乳を与えたる乳房よ、わざわいなるかな！」"
+    },
+    {
+      "id": 4,
+      "verses": "IV",
+      "original": "Huí angustiado, lleno de horrores;\npero la turba conmigo huía,\ny con sollozos desgarradores\nsu ritornello feroz seguía.",
+      "provisionalTranslation": "私は苦悩に満ち、恐怖に充ちて逃げた。\nしかし群衆は私とともに逃げ、\n胸を引き裂くすすり泣きとともに\nその凶暴なリトルネッロを続けていた。"
+    },
+    {
+      "id": 5,
+      "verses": "V",
+      "original": "«¡Ay, de los seres que se quisieron\nY en mala hora nos engendraron!\n¡Ay, de los vientres que concibieron!\n¡Ay, de los senos que amamantaron!»",
+      "provisionalTranslation": "「互いに愛し合い\n不吉な時に私たちをもうけた者たちよ、わざわいなるかな！\n懐に宿したる母の胎よ、わざわいなるかな！\n乳を与えたる乳房よ、わざわいなるかな！」"
+    },
+    {
+      "id": 6,
+      "verses": "VI",
+      "original": "Y he aquí los astros - ¡chispas de fraguas\ndel viejo cosmos! - que descendían\nY, al apagarse sobre las aguas,\nen hiel y absintio las convertían.",
+      "provisionalTranslation": "そして見よ、星々──古いコスモスの\n炉の火花！──が降り注ぎ、\n水の上で消えながら、\nそれらを胆汁とアブサンに変えた。"
+    },
+    {
+      "id": 7,
+      "verses": "VII",
+      "original": "Y a los fantasmas su voz unieron\nlos Siete Truenos; estremecieron\nel Infinito y así clamaron:\n«¡Ay, de los vientres que concibieron!\n¡Ay, de los senos que amamantaron!»",
+      "provisionalTranslation": "そして亡霊たちの声に七つの雷が\nその声を合わせた。彼らは\n無限を震わせ、こう叫んだ：\n「懐に宿したる母の胎よ、わざわいなるかな！\n乳を与えたる乳房よ、わざわいなるかな！」"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 0,
+      "type": "glossary",
+      "anchor": "Y juró por el que vive en los siglos de los siglos, que no habrá más tiempo...",
+      "body": "黙示録10:6「καὶ ὤμοσεν ἐν τῷ ζῶντι εἰς τοὺς αἰῶνας τῶν αἰώνων…ὅτι χρόνος οὐκέτι ἔσται（永遠に生きる者にかけて誓った……もはや時はないであろう）」の直接引用。黙示録10章では「力強い天使」が海と陸に足をかけ、「七つの雷」が響いた後にヨハネに「巻物を食べよ」と命じる場面。「もはや時はない（no habrá más tiempo）」という宣言が詩の主題的枠組みを設定する：「時の終わり」が宣言された後に現れる死者の嘆きが詩全体の内容をなす。コヘレト「先のことどもの記憶はない（Non est priorum memoria）」との照応：コヘレトが「記憶の不在」を観察するのに対し、ネルヴォは「時の終わり」の後に死者自身が記憶と嘆きを持ち続けるという逆説を示す。",
+      "targetId": "hieronymus_ecclesiastes_1",
+      "targetParagraphId": 11
+    },
+    {
+      "paragraphId": 1,
+      "type": "allusion",
+      "anchor": "«¡Ay, de los vientres que concibieron!\n¡Ay, de los senos que amamantaron!»",
+      "body": "ルカ23:29「見よ、懐胎せざる者、産まざる胎、乳を飲ませざる乳房を幸いとする日が来る（Ecce venient dies in quibus dicent: Beatae steriles, et ventres qui non genuerunt, et ubera quae non lactaverunt）」──エルサレムへの道で嘆く女性たちへのイエスの預言の言葉の引用的変奏。ネルヴォは「幸いなるかな（Beatae）」を「わざわいなるかな（Ay de）」に反転させず、そのまま「産んだことへの嘆き」として死者の口に委ねる。「Mistacas」詩集における「生への拒絶」主題の黙示録的拡大：「Azraël」の「生に病む（Enfermo de la vida）」個人的次元が、「Apocalíptica」では「生みの親への宇宙的呪詛」として拡張される。典礼聖歌「Dies irae」の「そのとき何を語ろうか、いかなる擁護者を求めようか（Quid sum miser tunc dicturus, quem patronum rogaturus）」という最後の審判の嘆きとの照応。",
+      "targetId": "celano_dies_irae",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "«La noche asperja los cielos de oro;\nmas cada estrella del negro manto\nes una gota de nuestro lloro...\n¿Verdad que hay muchas? ¡Lloramos tanto...!»",
+      "body": "「夜は空を黄金で聖水に清める・黒いマントの星々のひとつひとつは涙の一滴（La noche asperja los cielos de oro / cada estrella del negro manto / es una gota de nuestro lloro）」──「asperja（聖水で清める・散布する）」という典礼動詞が夜を「聖水撒布（aspersión）」の行為として定義する：典礼的清めの言語が宇宙的夜に適用される。「星＝涙の一滴」という等式が詩の最も美しい形象をなす──死者の涙が夜空の星として宇宙的に結晶化するという逆転。「¿Verdad que hay muchas?（多いでしょう？）」という問いが、夜空の無数の星＝無数の涙という命題を読者に確認させる修辞疑問として機能する。サランダリス「Ἀστέρι（星）」の「星が天蓋から落ちる・魂に皺を入れる」との対照：サランダリスの星が「魂の皺」として落下するのに対し、ネルヴォの星は「死者の涙」として夜空に輝き続ける──同一の「星と魂の関係」が落下（サランダリス）と昇華（ネルヴォ）という対照的形象として示される。",
+      "targetId": "sarantaris_asteri",
+      "targetParagraphId": 2
+    },
+    {
+      "paragraphId": 4,
+      "type": "commentary",
+      "anchor": "Huí angustiado, lleno de horrores;\npero la turba conmigo huía,\ny con sollozos desgarradores\nsu ritornello feroz seguía.",
+      "body": "「私は逃げた・しかし群衆も逃げ・凶暴なリトルネッロを続けた（Huí angustiado / la turba conmigo huía / su ritornello feroz seguía）」──「ritornello（リトルネッロ）」はイタリア語音楽用語（反復句・合唱のリフレーン）：死者の嘆きが「音楽的反復形式」として定義される。詩人の逃走と死者の群衆の追跡という運動が「ritornello feroz（凶暴なリトルネッロ）」の強迫的持続として示される──「Obsesión」の「la voz persiste（声は続く）」という強迫的反復が、「Apocalíptica」では宇宙的規模で継続する。ブリューソフ「白い馬（Конь блед）」の「黙示録の騎手が都市を通る・群衆が逃げる」というヴィジョンとの照応：どちらも黙示録的事件を目撃した詩人が群衆の中に巻き込まれる構造をとる。",
+      "targetId": "bryusov_kon_bled",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 6,
+      "type": "commentary",
+      "anchor": "Y he aquí los astros - ¡chispas de fraguas\ndel viejo cosmos! - que descendían\nY, al apagarse sobre las aguas,\nen hiel y absintio las convertían.",
+      "body": "「古いコスモスの炉の火花としての星々・水をアブサンと胆汁に変える（chispas de fraguas del viejo cosmos / en hiel y absintio las convertían）」──「fraguas（炉・鍛冶場）」という語が宇宙の創造を「火と鍛冶」の工業的過程として定義する：ネルヴォの宇宙論的語彙の独自性。「absintio（アブサン・ニガヨモギ）」は黙示録8:10–11「苦よもぎ（Ἄψινθος/Wormwood）という名の星が落ちて川の三分の一を苦くした」の直接引用：苦よもぎの星が水を苦くするという黙示録的形象がアブサン（ニガヨモギ系蒸留酒）として詩的具体化される。「hiel（胆汁・苦さ）」──マタイ27:34「彼らはイエスに胆汁を混ぜたぶどう酒を飲ませた」の典拠も含意する。「viejo cosmos（古いコスモス）」の「古さ（viejo）」がコヘレト「Nihil sub sole novum（太陽の下に新しいものは何もない）」の古さと照応する：「Apocalíptica」の黙示録的終末においても宇宙はすでに「古い（viejo）」ものとして提示される。",
+      "targetId": "hieronymus_ecclesiastes_1",
+      "targetParagraphId": 10
+    },
+    {
+      "paragraphId": 7,
+      "type": "commentary",
+      "anchor": "Y a los fantasmas su voz unieron\nlos Siete Truenos; estremecieron\nel Infinito y así clamaron:",
+      "body": "「七つの雷が死者の声に加わり・無限を震わせた（los Siete Truenos; estremecieron / el Infinito）」──黙示録10:3–4「天使が叫ぶと、七つの雷がその声を発した。七つの雷が語った時、私はそれを書こうとした。しかし天から声がして言った、七つの雷が語ったことを封印せよ、書くな」。ヨハネが「書くな」と命じられた「七つの雷の言葉」が、ネルヴォの詩では「¡Ay, de los vientres que concibieron!」というリフレーンとして詩化・解封される──詩人が黙示録のヨハネの代わりに封印を解く者として機能する。「el Infinito（無限）」──サランダリス「Τῆς ἀλήθειας」の「μοναξιὰ τοῦ ἀπείρου（無限の孤独）」・「nervo_azrael」の「en lo infinito de mi noche（私の夜の無限の中で）」と連続する「無限」の形象が、「Apocalíptica」では「七つの雷に震わされる」という受動的宇宙論的形象として最大化される。マラルメ「骰子一擲」の「RIEN / N'AURA EU LIEU / QUE LE LIEU（場所以外何も起きなかっただろう）」──骰子が無限の空間に投げられる虚無的宇宙と、ネルヴォの「七つの雷が無限を震わせる」という充填された黙示録的宇宙は、同一の「無限」を「虚無」と「爆音」という対極として形象化する。",
+      "targetId": "mallarme_coup_de_des",
+      "targetParagraphId": 7
+    }
+  ]
+}
