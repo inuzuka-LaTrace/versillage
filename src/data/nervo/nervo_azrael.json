@@ -1,0 +1,100 @@
+{
+  "id": "nervo_azrael",
+  "title": "Azraël",
+  "author": "Amado Nervo",
+  "source": "Místicas: 1892-1895 (1898). Wikisource (スペイン語): https://es.wikisource.org/wiki/M%C3%ADsticas/V",
+  "year": "1898",
+  "firstPublication": "Místicas, México, 1898",
+  "difficulty": "上級",
+  "category": "nervo",
+  "originalLang": "es-ES",
+  "modernRelevance": "★★★★★",
+  "context": "アマード・ネルヴォ（Amado Nervo, 1870–1919）の詩集「Místicas（1898）」V番。エピグラフ「Now I must sleep..... / Byron.」はバイロンの言葉（「Don Juan」あるいは晩年の書簡から）。「Azraël（アズラエル）」はイスラム・ユダヤ教の死の天使（מַלְאַךְ הַמָּוֶת / ملك الموت）：魂を死の瞬間に肉体から切り離す天使として知られる。「Gótica」が廃墟の修道院でキリストの実在を問う詩であるのに対し、「Azraël」は死の天使への直接的な呼びかけ（アポストロフェ）として3連全体を構成する。「黒く深い翼（ala negra y honda）」を広げて「私の生の癒しがたい悲しみ（incurable tristeza de mi vida）」を覆ってくれ、という第1連。「光なき祭壇（altar vacío）」となった脳を「死に聖別してくれ（consagres á la muerte）」という第2連。「私の希望は病んでいる（mi esperanza es una enferma）」「私の信仰は沈みゆく（tramonta mi fe）」「私は眠らなければならない（es preciso que yo duerma）」という第3連が、エピグラフ「Now I must sleep」を詩内部で展開しながら「morir.... dormir.... soñar.... soñar acaso!（死ぬこと…眠ること…夢見ること…あるいは夢見ること！）」という省略記号の連鎖で閉じる。この最終行はシェイクスピア「ハムレット」III幕1場「To die, to sleep— / To sleep, perchance to dream」の直接的引用的変奏であり、スペイン語モデルニスモにおける「死・眠り・夢」の三項連鎖の定型的定式として機能する。",
+  "keywords": [
+    "Azraël",
+    "死の天使",
+    "アポストロフェ",
+    "死・眠り・夢",
+    "morir dormir soñar",
+    "癒しがたい悲しみ",
+    "incurable tristeza",
+    "光なき祭壇",
+    "altar vacío",
+    "信仰の黄昏",
+    "モデルニスモ",
+    "バイロン",
+    "ハムレット",
+    "ネルヴォ"
+  ],
+  "epigraphs": [
+    {
+      "author": "Byron",
+      "source": "Byron",
+      "text": "Now I must sleep.....",
+      "translation": "今や私は眠らなければならない……"
+    }
+  ],
+  "relatedTexts": [
+    "nervo_gotica",
+    "juan_de_la_cruz_noche_oscura",
+    "teresa_vivo_sin_vivir",
+    "mavilis_enkoimisi",
+    "mavilis_eros_thanatos",
+    "dowson_venite_descendamus",
+    "rossetti_sweet_death",
+    "blok_ya_gamlet",
+    "trakl_de_profundis"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "verses": "v.1–4",
+      "original": "Azraël, abre tu ala negra y honda,\ncobijeme su palio sin medida,\ny que á su abrigo bienhechor se esconda\nla incurable tristeza de mi vida.",
+      "provisionalTranslation": "アズラエルよ、汝の黒く深い翼を広げよ、\nその限りなき天蓋が私を覆うように、\nその慈悲深き庇護のもとに隠れさせよ\n私の生の癒しがたい悲しみを。"
+    },
+    {
+      "id": 2,
+      "verses": "v.5–8",
+      "original": "Azraël, ángel bíblico, ángel fuerte,\nángel de redención, ángel sombrío,\nya es tiempo que consagres á la muerte\nmi cerebro sin luz: altar vacío....",
+      "provisionalTranslation": "アズラエルよ、聖書の天使、力強き天使、\n救済の天使、暗き天使よ、\nもう時が来た、死に聖別せよ\n光なき私の脳を：空の祭壇を……"
+    },
+    {
+      "id": 3,
+      "verses": "v.9–12",
+      "original": "Azraël, mi esperanza es una enferma;\nya tramonta mi fe; llegó el ocaso,\nven, ahora es preciso que yo duerma....\nmorir.... dormir.... soñar.... soñar acaso!",
+      "provisionalTranslation": "アズラエルよ、私の希望は病んでいる。\n私の信仰はもう沈みゆく、黄昏が来た、\n来よ、今こそ私は眠らなければならない……\n死ぬこと……眠ること……夢見ること……あるいは夢見ること！"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "glossary",
+      "anchor": "Azraël, abre tu ala negra y honda,\ncobijeme su palio sin medida,",
+      "body": "「アズラエル（Azraël）」──イスラム・ユダヤ教伝承の死の天使（ヘブライ語：עַזְרָאֵל Azra'el、アラビア語：عزرائيل）。死の瞬間に魂を肉体から切り離す役割を持つ。コーラン32章・34章等に示唆的に登場し、イスラム神学では「Malak al-Mawt（死の天使）」として確立。バイロン「Heaven and Earth」（1821）・ムーア「Lalla Rookh」（1817）等ロマン派英詩がアズラエルを詩的主題として確立し、スペイン語圏モデルニスモへと受容された。「ala negra y honda（黒く深い翼）」──「honda（深い）」という形容詞が翼の「深さ・底なしさ」を示す：死の翼が「空間的深さ」を持つという三次元的形象。「palio sin medida（限りなき天蓋）」──「palio」は典礼的な「天蓋・輿の覆い」を指し、死の天使の翼を「典礼的庇護空間」として聖別する。マヴィリス「Εγκοίμηση」の「美しい死（Θάνατος ὁ ὡραῖος）」が病者に眠りを命じるのに対し、ネルヴォのアズラエルは詩人が呼びかける「庇護者」として召喚される。",
+      "targetId": "mavilis_enkoimisi",
+      "targetParagraphId": 4
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "ya es tiempo que consagres á la muerte\nmi cerebro sin luz: altar vacío....",
+      "body": "「死に聖別せよ・光なき私の脳：空の祭壇（consagres á la muerte / mi cerebro sin luz: altar vacío）」──「consagres（聖別する・奉献する）」という典礼動詞が「死」を「奉献行為」として定義する：カトリックのミサにおける「聖変化（consagración）」が「脳の死への奉献」として転用される。「cerebro sin luz（光なき脳）」と「altar vacío（空の祭壇）」の等号──脳が「空の祭壇」として定義されることで、「Gótica」の「¿aún vive Cristo tras el sagrario?（聖体箱の向こうにキリストはまだ生きているか？）」という問いへの詩内的回答として機能する：信仰が消えた脳は「空の祭壇」に過ぎないという帰結。ヴェイユ「Accepter le vide（真空を受容する）」の「空虚（vide）」との照応：ネルヴォでは「空の祭壇」が絶望として語られるのに対し、ヴェイユでは「空虚」が恩寵の前提として肯定される──同一の「空」の形象が二つの異なる神学的評価を与えられる。",
+      "targetId": "weil_accepter_le_vide",
+      "targetParagraphId": 1
+    },
+    {
+      "paragraphId": 3,
+      "type": "prosody",
+      "anchor": "Azraël, mi esperanza es una enferma;\nya tramonta mi fe; llegó el ocaso,",
+      "body": "詩形：cuarteto（4行連）×3、押韻ABAB。弱強11音節（endecasílabo）基本。3連すべてが「Azraël」という呼格で始まるアポストロフェ（呼びかけ）の統一構造：死の天使への三段階の請願として詩全体が構成される。「mi esperanza es una enferma（私の希望は病んでいる）」──「Gótica」の「Enfermo de la vida（生に病む）」と同型の「病（enfermo/enferma）」の形象：「生」と「希望」が同時に「病む」という複数的病理。「tramonta mi fe（私の信仰は沈みゆく）」──「tramonta（山の向こうへ沈む）」というイタリア語起源の語彙がスペイン語に転用され、「信仰の没落」を地理的・宇宙的運動として示す。エピグラフ「Now I must sleep（今や私は眠らなければならない）」がv.11「es preciso que yo duerma（私は眠らなければならない）」として詩内部で変奏される。"
+    },
+    {
+      "paragraphId": 3,
+      "type": "allusion",
+      "anchor": "morir.... dormir.... soñar.... soñar acaso!",
+      "body": "「死ぬこと……眠ること……夢見ること……あるいは夢見ること（morir.... dormir.... soñar.... soñar acaso）」──シェイクスピア「ハムレット」III幕1場「To die, to sleep— / To sleep, perchance to dream」の直接的引用的変奏。ダリオ「Lo fatal（宿命）」・シルバ「Nocturno」等ラテンアメリカ・モデルニスモが繰り返し参照した「死・眠り・夢」の三項連鎖が、省略記号「....」の連続によって宙吊りにされる。「soñar acaso!（あるいは夢見ること！）」──「acaso（あるいは・偶然にも）」という副詞がハムレットの「perchance（ひょっとすると）」に対応し、夢見ることへの不確かな希望として感嘆符で閉じる。サランダリス「Μελαγχολία της ύλης」の「ἴσως θὰ παραμείνουμε νεκροί…（おそらく死者のまま……）」との対照：どちらも「死の後に何があるか」を不確かな形式（acaso/ἴσως）と省略記号で開いたまま終えるが、ネルヴォは感嘆符（！）で、サランダリスは省略記号（…）のみで閉じる。",
+      "targetId": "sarantaris_melancholia_tis_ylis",
+      "targetParagraphId": 2
+    }
+  ]
+}
