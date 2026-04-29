@@ -2297,21 +2297,21 @@ const TocDrawer = ({
 <div className={`px-4 py-3 border-b ${tocBorder} flex gap-2 overflow-x-auto no-scrollbar shrink-0 bg-opacity-50 backdrop-blur-sm`}>
   {[
     { key: 'all', label: 'All' },
-    { key: 'fr',  label: 'fra' }, // 3文字表記にするとより古書目録的な印象に
-    { key: 'de',  label: 'deu' },
-    { key: 'en',  label: 'eng' },
-    { key: 'ru',  label: 'rus' },
-    { key: 'it',  label: 'ita' },
-    { key: 'es',  label: 'spa' },
-    { key: 'la',  label: 'lat' },
-    { key: 'gr',  label: 'grc' },
+    { key: 'fr',  label: 'Fra' }, // 3文字表記にするとより古書目録的な印象に
+    { key: 'de',  label: 'Deu' },
+    { key: 'en',  label: 'Eng' },
+    { key: 'ru',  label: 'Rus' },
+    { key: 'it',  label: 'Ita' },
+    { key: 'es',  label: 'Spa' },
+    { key: 'la',  label: 'Lat' },
+    { key: 'gr',  label: 'Grc' },
   ].map(({ key, label }) => (
     <button
       key={key}
       onClick={() => setTocLangFilter(key)}
       className={`
         min-w-[40px] px-2 py-1.5 
-        text-[11px] font-serif tracking-widest uppercase
+        text-[11px] font-Cinzel tracking-widest uppercase
         transition-all duration-300
         border-b-2 
         ${tocLangFilter === key 
