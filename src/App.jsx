@@ -52,6 +52,7 @@ import silvaData from './data/silva';
 import borjaData from './data/borja';
 import noboaData from './data/noboa';
 import darioData from './data/dario';
+import nervoData from './data/nervo';
 import hieronymusData from './data/hieronymus';
 import liturgyData from './data/liturgy';
 import horatiusData from './data/horatius';
@@ -278,6 +279,7 @@ export default function App() {
       ...borjaData,
       ...noboaData,
       ...darioData,
+      ...nervoData,
       ...hieronymusData,
       ...liturgyData,
       ...horatiusData,
@@ -2315,7 +2317,7 @@ const TocDrawer = ({
         onClick={() => setTocLangFilter(key)}
         className={`
           flex-1 min-w-[50px] px-2 py-3
-          text-[12px] font-cinzel tracking-wider transition-colors
+          text-[12px] font-Cinzel tracking-wider transition-colors
           border-b-2 
           ${isSelected 
             ? `${tocActiveBg} ${tocActiveBdr} ${tocText}` 
