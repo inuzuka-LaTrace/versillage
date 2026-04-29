@@ -1,0 +1,98 @@
+{
+  "id": "nervo_intra_vulnera",
+  "title": "Intra vulnera tua abscondime",
+  "author": "Amado Nervo",
+  "source": "Místicas: 1892-1895 (1898). Wikisource (スペイン語): https://es.wikisource.org/wiki/M%C3%ADsticas/VII",
+  "year": "1898",
+  "firstPublication": "Místicas, México, 1898",
+  "difficulty": "上級",
+  "category": "nervo",
+  "originalLang": "es-ES",
+  "modernRelevance": "★★★★★",
+  "context": "アマード・ネルヴォ（Amado Nervo, 1870–1919）の詩集「Místicas（1898）」VII番。題名「Intra vulnera tua abscondime（汝の傷の内に私を隠せ）」はラテン語祈禱文「Anima Christi（キリストの魂よ）」の一節──「intra vulnera tua absconde me（汝の傷の内に私を隠せ）」──に由来する。この祈禱文はイエズス会の伝統においてイグナティウス・デ・ロヨラと結びつけられ、ミサの聖変化後に唱えられた。詩はソネット形式（ABBA ABBA / CDC DDD変形）をとり、人生の二つの局面──不幸（desventura）において悪を撒いた時期と、幸福（dicha）において愛を撒いた時期──を対称的な4行連として提示し（第1連・第2連）、第3連では「幸福の中でのみ開く徳」への自己批判、第4連では「嵐の中でキリストを祝福し・砕けた脇腹を血まみれの隠れ家とする」という神秘主義的結語に至る。「Gótica」が廃墟の修道院でキリストの実在を問い、「Azraël」が死の天使に眠りを求め、「Obsesión」が修道院への強迫的召喚と格闘したのに対し、「Intra vulnera tua abscondime」ではキリストの「砕けた脇腹（roto costado）」──磔刑の槍による傷口──が「嵐の中の血まみれの隠れ家（sangrienta guarida）」として肯定的に受容される。不幸の中でのみ真の信仰が開くという逆説的神学が詩の核心命題をなす。ヴェイユ「affliction（苦悩）」概念──「苦悩はそれを受ける者の魂に神の刻印を押す」──との深い照応関係にある。",
+  "keywords": [
+    "Intra vulnera",
+    "Anima Christi",
+    "汝の傷の内に",
+    "キリストの脇腹",
+    "costado",
+    "不幸と幸福",
+    "良心の声",
+    "嵐の中の信仰",
+    "sangrienta guarida",
+    "神秘主義",
+    "ソネット",
+    "モデルニスモ",
+    "ネルヴォ"
+  ],
+  "relatedTexts": [
+    "nervo_gotica",
+    "nervo_azrael",
+    "nervo_obsesion",
+    "juan_de_la_cruz_noche_oscura",
+    "teresa_vivo_sin_vivir",
+    "weil_atheisme_purificateur",
+    "weil_accepter_le_vide",
+    "wilde_e_tenebris",
+    "verlaine_un_crucifix",
+    "dowson_venite_descendamus"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "verses": "v.1–4",
+      "original": "La desventura me quitó el regalo\ny la serena paz de la existencia,\ny sembré muchos odios; mi conciencia\nclamaba sin cesar: ¡Eres muy malo!",
+      "provisionalTranslation": "不幸が私から贈り物を奪い、\n存在の穏やかな平和を奪った、\nそして私は多くの憎しみを撒いた。私の良心は\n絶えず叫んだ：「汝は非常に悪い！」"
+    },
+    {
+      "id": 2,
+      "verses": "v.5–8",
+      "original": "Después, la dicha me libró del cieno;\nun rayito de sol doró mi frente,\ny sembré mucho amor, y dulcemente\nclamaba mi conciencia: ¡Eres muy bueno!",
+      "provisionalTranslation": "その後、幸福が私を泥濘から解放した。\nひとすじの陽光が私の額を黄金に染め、\n私は多くの愛を撒いた、そして優しく\n私の良心は叫んだ：「汝は非常に善い！」"
+    },
+    {
+      "id": 3,
+      "verses": "v.9–11",
+      "original": "¡Ay! —me dije, con tono de reproche,—\nqué menguada virtud la que me alienta\nsi solo en el placer abre su broche.....",
+      "provisionalTranslation": "「ああ！」と私は叱責の調子で自らに言った、\n「なんと卑しき徳であることか、私を励ます徳が、\n快楽の中でのみ蕾を開くとは……」"
+    },
+    {
+      "id": 4,
+      "verses": "v.12–14",
+      "original": "Hoy bendigo á Jesús en la tormenta,\nhoy su roto costado es mi sangrienta\nguarida, en lo infinito de mi noche!",
+      "provisionalTranslation": "今日私は嵐の中でイエスを祝福する、\n今日その砕けた脇腹が私の血まみれの\n隠れ家だ、私の夜の無限の中で！"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "glossary",
+      "anchor": "Intra vulnera tua abscondime",
+      "body": "題名「Intra vulnera tua abscondime（汝の傷の内に私を隠せ）」──ラテン語祈禱文「Anima Christi（キリストの魂よ）」の一節。全文「intra vulnera tua absconde me（汝の傷の内に私を隠せ）」はイエスの磔刑による五つの傷（stigmata：両手・両足・脇腹）への内的避難を求める神秘主義的祈り。この祈禱文はイグナティウス・デ・ロヨラの「霊操（Ejercicios Espirituales）」に含まれ、十字架の聖ヨハネ・アビラの聖ヨハネ等スペイン神秘主義の伝統に深く根ざす。「傷（vulnera）」への避難という命題は、ヴェイユ「苦悩（affliction）」の「神の刻印（empreinte de Dieu）」──苦悩が魂に神の傷を刻む──と同型の神秘主義的傷の神学を体現する。詩の最終2行「su roto costado es mi sangrienta guarida（その砕けた脇腹が私の血まみれの隠れ家）」が題名のラテン語を詩的に展開する完結点をなす。",
+      "targetId": "juan_de_la_cruz_noche_oscura",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 1,
+      "type": "prosody",
+      "anchor": "La desventura me quitó el regalo\ny la serena paz de la existencia,\ny sembré muchos odios; mi conciencia\nclamaba sin cesar: ¡Eres muy malo!",
+      "body": "ソネット形式：ABBA ABBA / CDC DDD（第2テルセットが三韻DDD変形）。弱強11音節（endecasílabo）基本。第1連・第2連（オクターヴ）の対称的構造：「desventura（不幸）→ sembré muchos odios（憎しみを撒いた）→ ¡Eres muy malo!（汝は悪い）」 vs 「dicha（幸福）→ sembré mucho amor（愛を撒いた）→ ¡Eres muy bueno!（汝は善い）」。「sembré（撒いた）」という農業的動詞が両連に反復される：「憎しみの種」と「愛の種」の対称的播種が詩の論理的骨格をなす。「clamaba sin cesar（絶えず叫んだ）→ dulcemente clamaba（優しく叫んだ）」という良心の声の音調変化──良心が「絶えず（sin cesar）」の強迫的叫びから「優しく（dulcemente）」の甘やかな声へと転じる対比。「Obsesión」の「la voz persiste（声は続く）」という亡霊の反復的声との対照：どちらも「絶えず繰り返される声」が詩的主体を規定するが、良心の声は状況に応じて変化する。"
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "¡Ay! —me dije, con tono de reproche,—\nqué menguada virtud la que me alienta\nsi solo en el placer abre su broche.....",
+      "body": "「なんと卑しき徳であることか、快楽の中でのみ蕾を開くとは（qué menguada virtud la que me alienta / si solo en el placer abre su broche）」──第1連の「不幸→悪」・第2連の「幸福→善」という単純な因果を第3連で批判的に相対化する：「幸福の中でのみ善となる徳」は「本当の徳ではない」という自己批判。「broche（ブローチ・留め金・蕾）」という語の多義性：「蕾を開く（abre su broche）」は花の開花の比喩として「徳が開花する」を示し、同時に「broche（ブローチ）」として装飾的・表面的な善の形象をも示唆する。ヴェイユ「Athéisme purificateur（浄化する無神論）」の論理との照応：「不幸の中で神を愛する」ことのみが真の信仰であり、「幸福の中の信仰」は神を「幸福の道具」として利用するに過ぎないというヴェイユの逆説がネルヴォのこの自己批判と構造的に共鳴する。十字架の聖ヨハネ「魂の暗夜（Noche oscura）」の「暗闇の中でのみ神に近づく」という神秘主義的命題の詩的変奏として。",
+      "targetId": "weil_atheisme_purificateur",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 4,
+      "type": "commentary",
+      "anchor": "Hoy bendigo á Jesús en la tormenta,\nhoy su roto costado es mi sangrienta\nguarida, en lo infinito de mi noche!",
+      "body": "「嵐の中でイエスを祝福する・砕けた脇腹が血まみれの隠れ家・私の夜の無限の中で（bendigo á Jesús en la tormenta / su roto costado es mi sangrienta guarida / en lo infinito de mi noche）」──ソネット最終テルセット（DDD）が詩の神学的結語をなす。「en la tormenta（嵐の中で）」──第3連で批判された「幸福の中でのみ開く徳」との対照：今日はまさに「嵐（苦悩）」の中でイエスを祝福するという逆転。「roto costado（砕けた脇腹）」──ヨハネ19:34「兵士の一人が槍でイエスの脇腹を刺した」磔刑の傷口。「sangrienta guarida（血まみれの隠れ家）」──題名ラテン語「intra vulnera tua abscondime（傷の内に私を隠せ）」の詩的定式化：神の傷が「血まみれ（sangrienta）」の「隠れ家（guarida）」として肯定的に受容される。「lo infinito de mi noche（私の夜の無限）」──「Azraël」の「lo infinito de mi noche」と同一の表現が「Azraël」では「光なき脳（altar vacío）」の絶望として語られたのに対し、ここでは「夜の無限の中でも隠れ家がある」という逆説的希望として転換される──「Místicas」における詩的主体の深化として。サランダリス「Τῆς ἀλήθειας」の「무限の孤独に対峙する沈黙と祈りの彫像」との照応：どちらも「無限」を前に人間の魂が何らかの拠り所を求める構造をなすが、サランダリスが「対峙（Ἀντιμέτωπο）」として無限と向き合うのに対し、ネルヴォはキリストの傷口への「隠れ（abscondime）」として無限に対処する。",
+      "targetId": "nervo_azrael",
+      "targetParagraphId": 2
+    }
+  ]
+}
