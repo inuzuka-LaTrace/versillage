@@ -2307,7 +2307,7 @@ const TocDrawer = ({
               <button
                 key={key}
                 onClick={() => setTocLangFilter(key)}
-                className={`px-2 py-2 text-sm font-EB Garamond rouded-xs transition-colors border ${
+                className={`px-2 py-2 text-sm font-EB Garamond rouded-sm transition-colors border ${
                   tocLangFilter === key ? tocChipAct : tocChipInact
                 }`}
               >
