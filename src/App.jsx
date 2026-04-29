@@ -60,6 +60,7 @@ import meleagerData from './data/meleager';
 import palladasData from './data/palladas';
 import kavafisData from './data/kavafis';
 import mavilisData from './data/mavilis';
+import sarantarisData from './data/sarantaris';
 import { CATEGORIES, CAT_SHORT, ANNOTATION_TYPE_DEF, SPEECH_RATES, PREFERRED_VOICES, SPEAKER_COLORS, SPEAKER_FIXED_COLORS, AUTHOR_COLOR_MAP } from './constants';
 import { getTranslation, getOriginalText, getSpeechLang, getBestVoice, extractSnippet } from './utils';
 
@@ -285,6 +286,7 @@ export default function App() {
       ...palladasData,
       ...kavafisData,
       ...mavilisData,
+      ...sarantarisData,
     };
     setTexts(allTexts);
   const timer = setTimeout(() => {
@@ -2307,7 +2309,7 @@ const TocDrawer = ({
               <button
                 key={key}
                 onClick={() => setTocLangFilter(key)}
-                className={`px-2 py-2 text-sm font-EB Garamond rouded-sm transition-colors border ${
+                className={`px-2 py-2 text-sm font-EB Garamond rounded-sm transition-colors border ${
                   tocLangFilter === key ? tocChipAct : tocChipInact
                 }`}
               >
