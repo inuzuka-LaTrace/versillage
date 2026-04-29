@@ -1007,6 +1007,7 @@ export default function App() {
   const fontFamilyStyle =
     fontFamily === 'garamond'     ? '"EB Garamond", "Shippori Mincho B1", serif' :
     fontFamily === 'jura'         ? '"Jura", "IBM Plex sans JP", sans-serif' :
+    fontFamily === 'cinzel'       ? '"Cinzel", "Shippori Mincho B1", serif' :
     '"EB Garamond", "Shippori Mincho B1", serif';
 
   const fontSizeMap = { xxsmall: 'text-[10px]', xsmall: 'text-xs', small: 'text-sm', medium: 'text-base', large: 'text-lg', xlarge: 'text-xl', xxlarge: 'text-2xl' };
@@ -2314,7 +2315,7 @@ const TocDrawer = ({
         onClick={() => setTocLangFilter(key)}
         className={`
           flex-1 min-w-[50px] px-2 py-3
-          text-[12px] font-Cinzel tracking-wider transition-colors
+          text-[12px] font-cinzel tracking-wider transition-colors
           border-b-2 
           ${isSelected 
             ? `${tocActiveBg} ${tocActiveBdr} ${tocText}` 
