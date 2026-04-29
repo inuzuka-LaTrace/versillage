@@ -2298,14 +2298,14 @@ const TocDrawer = ({
 <div className={`flex border-b ${tocBorder} overflow-x-auto no-scrollbar shrink-0`}>
   {[
     { key: 'all', label: 'All' },
-    { key: 'fr',  label: 'fra' },
-    { key: 'de',  label: 'deu' },
-    { key: 'en',  label: 'eng' },
-    { key: 'ru',  label: 'rus' },
-    { key: 'it',  label: 'ita' },
-    { key: 'es',  label: 'spa' },
-    { key: 'la',  label: 'lat' },
-    { key: 'gr',  label: 'grc' },
+    { key: 'fr',  label: 'Fra' },
+    { key: 'de',  label: 'Deu' },
+    { key: 'en',  label: 'Eng' },
+    { key: 'ru',  label: 'Rus' },
+    { key: 'it',  label: 'Ita' },
+    { key: 'es',  label: 'Spa' },
+    { key: 'la',  label: 'Lat' },
+    { key: 'gr',  label: 'Grc' },
   ].map(({ key, label }) => {
     const isSelected = tocLangFilter === key;
     return (
@@ -2314,10 +2314,10 @@ const TocDrawer = ({
         onClick={() => setTocLangFilter(key)}
         className={`
           flex-1 min-w-[50px] px-2 py-3
-          text-[11px] font-Garamond tracking-wider uppercase transition-colors
+          text-[12px] font-Cinzel tracking-wider transition-colors
           border-b-2 
           ${isSelected 
-            ? `${tocActiveBg} ${tocActiveBdr} ${tocText} font-bold` 
+            ? `${tocActiveBg} ${tocActiveBdr} ${tocText}` 
             : `border-transparent ${tocSub} ${tocHoverBg}`
           }
         `}
