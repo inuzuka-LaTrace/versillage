@@ -1,0 +1,101 @@
+{
+  "id": "liturgy_anima_christi",
+  "title": "Anima Christi",
+  "author": "Sine Nomine",
+  "source": "Wikisource Latina (Vicifons): https://la.wikisource.org/wiki/Anima_Christi",
+  "year": "Antiquitas",
+  "firstPublication": "saeculo XIV",
+  "difficulty": "初級",
+  "category": "liturgy",
+  "originalLang": "la-LA",
+  "modernRelevance": "★★★★★",
+  "context": "「Anima Christi（キリストの魂よ）」は14世紀起源の匿名のラテン語祈禱文。かつてイグナティウス・デ・ロヨラ（1491–1556）に帰されていたが、現在では彼の「霊操（Exercitia Spiritualia）」に取り入れられた既存の祈りとして理解される。祈りはキリストの存在様式の各層──「魂（Anima）・体（Corpus）・血（Sanguis）・脇腹の水（Aqua lateris）・受難（Passio）」──への嘆願から始まり、「傷（vulnera）の中に隠せ（Intra tua vulnera absconde me）」という神秘主義的庇護の嘆願へと続き、「死の時に呼べ・来るように命じよ・聖人たちとともに世々に汝を讃えよ」という終末論的希望で閉じる。14行の構造は各行が「動詞＋me（私を）」という命令形嘆願として統一される：「sanctifica me・salva me・inebria me・lava me・conforta me・exaudi me・absconde me・ne permittas / defende me・voca me・iube me venire・laudem te」という動詞連鎖が祈る主体の全的受動性と神への全的委託を示す。ネルヴォ「Intra vulnera tua abscondime（汝の傷の内に私を隠せ）」はこの祈りの第7行「Intra tua vulnera abscónde me」の直接的詩的変奏である。「Sanguis Christi, inébria me（キリストの血よ、私を酔わせよ）」という動詞「inebriare（酔わせる）」の選択が典礼的神秘主義の頂点をなす──キリストの血による「霊的酩酊（ebrietas spiritualis）」は教父神学（オリゲネス・アンブロシウス・ベルナルドゥス）が「神との合一」の形象として用いた概念。",
+  "keywords": [
+    "Anima Christi",
+    "キリストの魂",
+    "キリストの体",
+    "キリストの血",
+    "霊的酩酊",
+    "inebria me",
+    "Intra vulnera",
+    "傷の中に隠せ",
+    "死の時",
+    "in hora mortis",
+    "世々の賛美",
+    "イグナティウス",
+    "霊操",
+    "Sine Nomine",
+    "liturgy"
+  ],
+  "relatedTexts": [
+    "nervo_intra_vulnera",
+    "liturgy_requiem_aeternam",
+    "jacobus_stabat_mater",
+    "celano_dies_irae",
+    "fortunatus_vexilla_regis",
+    "juan_de_la_cruz_llama_de_amor_viva",
+    "teresa_vivo_sin_vivir",
+    "weil_atheisme_purificateur",
+    "nervo_requiem"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "verses": "v.1–6",
+      "original": "Ánima Christi, sanctífica me.\nCorpus Christi, salva me.\nSanguis Christi, inébria me.\nAqua láteris Christi, lava me.\nPássio Christi, confórta me.\nO bone Iesu, exáudi me.",
+      "provisionalTranslation": "キリストの魂よ、私を聖化したまえ。\nキリストの体よ、私を救いたまえ。\nキリストの血よ、私を酔わせたまえ。\nキリストの脇腹の水よ、私を洗いたまえ。\nキリストの受難よ、私を強めたまえ。\nおお、善きイエスよ、私の祈りを聞き入れたまえ。"
+    },
+    {
+      "id": 2,
+      "verses": "v.7–10",
+      "original": "Intra tua vúlnera abscónde me.\nNe permíttas me separári a te.\nAb hoste malígno defénde me.\nIn hora mortis meæ voca me.",
+      "provisionalTranslation": "汝の傷の内に私を隠したまえ。\n汝から私が離れることを許したまえるな。\n悪しき敵から私を守りたまえ。\n私の死の時に私を呼びたまえ。"
+    },
+    {
+      "id": 3,
+      "verses": "v.11–14",
+      "original": "Et iube me veníre ad te,\nut cum Sanctis tuis laudem te\nin sǽcula sæculórum.\nAmen.",
+      "provisionalTranslation": "そして私が汝のもとへ来るように命じたまえ、\n汝の聖人たちとともに汝を讃えるために\n世々にわたって。\nアーメン。"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "prosody",
+      "anchor": "Ánima Christi, sanctífica me.\nCorpus Christi, salva me.",
+      "body": "祈禱文の文体形式：各行が「X Christi（キリストのX）, 動詞命令形 me（私を〜したまえ）」という統一構文をなす供誦的反復（anaphora）。「me（私を）」という対格代名詞が14行全体を通じて反復され、祈る主体の「全的受動性」──神の行為の客体としての自己規定──を文法的に体現する。14行の構造は「五属格（v.1–5）＋呼格（v.6）＋六命令形（v.7–10, 11–12）＋目的節（v.13）＋Amen（v.14）」として分析される。リズム：強勢律（accentual）によるラテン語散文詩。ネルヴォ「Requiem」の「por（〜によって）」連鎖が「五受難場面＋三位一体」として展開したのに対し、「Anima Christi」は「五要素（魂・体・血・水・受難）」という分析的列挙から「傷・分離・敵・死・召還・賛美」という存在論的連鎖へと進む二段構造をなす。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "glossary",
+      "anchor": "Sanguis Christi, inébria me.",
+      "body": "「キリストの血よ、私を酔わせたまえ（Sanguis Christi, inébria me）」──「inebriare（酔わせる・溢れさせる）」という動詞選択が祈禱文全体の中で最も大胆な形象をなす。キリストの血による「霊的酩酊（ebrietas spiritualis）」は教父神学の重要概念：オリゲネス（Origen）「雅歌注解」での「神の言葉による酩酊」、アンブロシウス（Ambrosius）「聖霊について」での「聖霊の甘い酩酊」、ベルナルドゥス（Bernardus）「雅歌説教」での「神への愛による陶酔」として確立された。十字架の聖ヨハネ「炎の愛（Llama de amor viva）」での「神への愛の燃焼的酩酊」との照応：「霊的酩酊」がスペイン神秘主義の核心的経験として継承される。詩篇22:5「あなたは私の杯を溢れさせる（calix meus inebrians）」との聖書的連接。ネルヴォ「Intra vulnera tua abscondime」の「contagio de la paz（平和の伝染）」──病的な伝染の比喩が「inebria me」の酩酊的合一の変奏として読める。",
+      "targetId": "juan_de_la_cruz_llama_de_amor_viva",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "Intra tua vúlnera abscónde me.\nNe permíttas me separári a te.",
+      "body": "「汝の傷の内に私を隠したまえ（Intra tua vulnera abscónde me）」──ネルヴォ「Intra vulnera tua abscondime」の題名が直接この行から取られている（語順の軽微な変形：「Intra tua vulnera absconde me」→「Intra vulnera tua abscondime」）。キリストの五傷（stigmata：両手・両足・脇腹）の傷口を「魂の隠れ家」として神秘主義的に解釈する伝統はベルナルドゥス・クレルヴォー「雅歌説教LXII」に由来する：「鳩は岩の割れ目に巣を作る（コロサイ2:16）──キリストの傷は私たちが隠れる岩の割れ目」。「Ne permittas me separári a te（汝から私が離れることを許したまえるな）」──「separári（分離される）」という受動不定詞が「神との合一の不可逆的欲求」を示す。ヴェイユ「Accepter le vide（真空を受容する）」の「神との関係を空虚の中に保つ」という命題との神学的対照：ヴェイユが「空虚（vide）」の中に神との接触を求めるのに対し、「Anima Christi」は「傷（vulnera）の中への隠れ」という充填的・身体的接触を求める。",
+      "targetId": "nervo_intra_vulnera",
+      "targetParagraphId": 4
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "Ab hoste malígno defénde me.\nIn hora mortis meæ voca me.",
+      "body": "「悪しき敵から私を守りたまえ（Ab hoste malígno defénde me）」──「hostis malignus（悪しき敵）」はラテン語教父神学における悪魔（Diabolus）の標準的呼称。「In hora mortis meæ voca me（私の死の時に私を呼びたまえ）」──「hora mortis（死の時）」という定式がカトリック終末論の中心概念：「アヴェ・マリア」の「nunc et in hora mortis nostrae（今も死の時も）」と同一の定式。この「hora mortis（死の時）」への祈願がマヴィリス「Εγκοίμηση」の「Θάνατος ὁ ὡραῖος（美しい死）」による召還──「美しい死」が眠りを命じる──と対称的に機能する：カトリック典礼では「神が死の時に呼ぶ（voca me）」という主体的召還を祈願するのに対し、マヴィリスでは「死」が能動的に眠りを命令する。典礼聖歌「Dies irae」の「libera eas de ore leonis（獅子の口から彼らを解放せよ）」という同型の保護嘆願との照応。",
+      "targetId": "mavilis_enkoimisi",
+      "targetParagraphId": 4
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "Et iube me veníre ad te,\nut cum Sanctis tuis laudem te\nin sǽcula sæculórum.\nAmen.",
+      "body": "「私が汝のもとへ来るように命じよ・聖人たちとともに汝を讃えよ・世々に（iube me venire ad te / laudem te / in saecula saeculorum）」──祈りの結語が「召還（iube venire）→賛美（laudem）→永遠（in saecula saeculorum）」という三段階の終末論的希望として展開する。「iube me venire ad te（私が汝のもとへ来るように命じよ）」──「iubere（命じる）」という動詞が神の「召還命令」を示す：「Requiem Æternam」の「lux perpetua luceat eis」が「光の恵み」を祈るのに対し、「Anima Christi」は「神のもとへの移行命令」を祈る。「in saecula saeculorum（世々にわたって）」──ネルヴォ「Requiem」第1連「desde los siglos de los siglos（世々よりこのかた）」・「Apocalíptica」エピグラフ「el que vive en los siglos de los siglos（世々に生きる者）」と同一の永遠性の定式が、ここでは祈願の宛先（神の永遠性）ではなく到達点（聖人たちとともに世々に賛美する）として機能する。「Anima Christi」全体を通じた「me（私を）」の反復が最後の「laudem te（汝を讃えよ）」で「te（汝を）」へと転換する──祈る主体が神の客体（me）から神を賛美する主体（laudem te）へと変容するという構造的完結。",
+      "targetId": "liturgy_requiem_aeternam",
+      "targetParagraphId": 1
+    }
+  ]
+}
