@@ -1,0 +1,86 @@
+{
+  "id": "liturgy_ave_maria",
+  "title": "Ave Maria",
+  "author": "Sine Nomine",
+  "source": "Wikisource Latina (Vicifons): https://la.wikisource.org/wiki/Ave_Maria",
+  "year": "Antiquitas",
+  "firstPublication": "anno incognito",
+  "difficulty": "初級",
+  "category": "liturgy",
+  "originalLang": "la-LA",
+  "modernRelevance": "★★★★★",
+  "context": "「Ave Maria（アヴェ・マリア）」はカトリック最重要の聖母への祈りのひとつ。現行の形式は二つの歴史的層から構成される：（1）聖書的層（v.1–5）：ルカ1:28「おめでとう、恵まれた方、主があなたとともにおられます（Ave, gratia plena, Dominus tecum）」という天使ガブリエルの受胎告知の言葉と、ルカ1:42「女の中で祝福されたあなた、祝福されています、あなたの胎の実（Benedicta tu in mulieribus et benedictus fructus ventris tui）」というエリザベトの言葉の直接引用。「Iesus」という固有名詞はルカのテキストには含まれないが、15世紀以降に典礼的定着の中で付加された。（2）教会的付加層（v.6–9）：「Sancta Maria, Mater Dei（聖なるマリア、神の母よ）」──「神の母（Theotokos/Mater Dei）」という称号はエフェソス公会議（431年）で確立。「ora pro nobis peccatoribus（私たち罪人のために祈りたまえ）」・「nunc et in hora mortis nostrae（今も私たちの死の時も）」──15世紀以降に広く普及した定型句。「hora mortis（死の時）」という定式は「Anima Christi」の「In hora mortis meae voca me（死の時に私を呼べ）」・「Agnus Dei」から「Requiem Æternam」への典礼的連続の中にある。典礼歌としての「Ave Maria」はシューベルト・グノー・ヴェルディ等の作曲による音楽化が著名。ヴェルレーヌ「マリアへの祈り（À Clymène）」・ワイルド「Ave Maria plena gratia（恵みに満てる聖母マリア）」等、詩的変奏の豊かな典礼テキスト。",
+  "keywords": [
+    "Ave Maria",
+    "gratia plena",
+    "Dominus tecum",
+    "Benedicta tu",
+    "fructus ventris",
+    "Mater Dei",
+    "Theotokos",
+    "hora mortis",
+    "peccatoribus",
+    "受胎告知",
+    "エリザベトの訪問",
+    "Sine Nomine"
+  ],
+  "relatedTexts": [
+    "liturgy_requiem_aeternam",
+    "liturgy_anima_christi",
+    "liturgy_agnus_dei",
+    "jacobus_stabat_mater",
+    "nervo_requiem",
+    "wilde_ave_maria",
+    "verlaine_parsifal",
+    "nervo_a_rance",
+    "weil_atheisme_purificateur"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "verses": "v.1–5",
+      "original": "Ave, Maria, grátia plena,\nDóminus tecum.\nBenedícta tu in muliéribus,\net benedíctus fructus ventris tui,\nIesus.",
+      "provisionalTranslation": "アヴェ・マリア、恵みに満てる方、\n主があなたとともにおられます。\n女の中で祝福された方、\nそして祝福されています、あなたの胎の実、\nイエスよ。"
+    },
+    {
+      "id": 2,
+      "verses": "v.6–9",
+      "original": "Sancta María, Mater Dei,\nora pro nobis peccatóribus,\nnunc et in hora mortis nostræ.\nAmen.",
+      "provisionalTranslation": "聖なるマリア、神の母よ、\n私たち罪人のために祈りたまえ、\n今も私たちの死の時も。\nアーメン。"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "glossary",
+      "anchor": "Ave, Maria, grátia plena,\nDóminus tecum.",
+      "body": "「Ave, Maria, gratia plena, Dominus tecum（アヴェ・マリア、恵みに満てる方、主があなたとともにおられます）」──ルカ1:28「Χαῖρε, κεχαριτωμένη, ὁ κύριος μετά σοῦ（喜べ、恵みを受けた者よ、主があなたとともにおられる）」の直接引用的ラテン語訳。「Ave」はギリシャ語「Χαῖρε（喜べ・こんにちは）」の訳語──メレアグロス「AP VII 461」の「Παμμῆτορ γῆ, χαῖρε（万物の母なる大地よ、こんにちは）」と同一の挨拶動詞「χαῖρε」が、死者への大地の呼格とマリアへの天使の呼格という対照的な文脈に置かれる。「gratia plena（恵みに満てる）」──「χαριτωμένη（カリトーメネー）」は完了受動分詞で「恵みで満たされた状態にある」：神の恵みによって全的に充填された存在としてのマリアを定義する。ワイルド「Ave Maria plena gratia（恵みに満てる聖母マリア）」・ヴェルレーヌ詩集「La Bonne Chanson」のマリア的清浄性への言及との照応。",
+      "targetId": "wilde_ave_maria",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "Benedícta tu in muliéribus,\net benedíctus fructus ventris tui,\nIesus.",
+      "body": "「女の中で祝福された方、あなたの胎の実は祝福されています、イエス（Benedicta tu in mulieribus / benedictus fructus ventris tui, Iesus）」──ルカ1:42「Εὐλογημένη σὺ ἐν γυναιξίν, καὶ εὐλογημένος ὁ καρπὸς τῆς κοιλίας σου」のラテン語訳。エリザベトがマリアを訪問した際の言葉（聖母訪問；Visitatio）。「Benedicta / benedictus」という同語根の反復が「女の中で祝福（benedicta）」と「胎の実の祝福（benedictus）」を音響的に結びつける。「fructus ventris（胎の実）」という農業的比喩──マリアの胎をキリストが実る「木」として形象化する。ネルヴォ「Requiem」第3連の「aquella virgen que en su vientre / llevó a Mesías Emmanuel（胎に救い主エマヌエルを宿したあの乙女）」との直接的照応：「fructus ventris（胎の実）＝Mesías Emmanuel」という等式が両テキストを結ぶ。「Iesus」という固有名詞が単独行として孤立することでキリストの名が典礼的強調を受ける。",
+      "targetId": "nervo_requiem",
+      "targetParagraphId": 3
+    },
+    {
+      "paragraphId": 2,
+      "type": "glossary",
+      "anchor": "Sancta María, Mater Dei,",
+      "body": "「Sancta Maria, Mater Dei（聖なるマリア、神の母よ）」──「Mater Dei（神の母）」という称号はギリシャ語「Θεοτόκος（テオトコス・神を生んだ者）」のラテン語訳。エフェソス公会議（431年）でネストリウス派との論争の末に正統教義として確立：マリアはキリストの「人性の母」にとどまらず「神の母（Mater Dei）」であるという称号。「Sancta（聖なる）」──「Anima Christi」の「Sanctifica me（私を聖化したまえ）」と同語根：「聖化（sanctificatio）」の行為者としてのキリストと、すでに「聖なる（Sancta）」状態にあるマリアの対照。ヤコポ・ダ・トーディ「Stabat Mater」での「聖母（Mater）」が十字架の下の悲嘆として描かれるのに対し、「Ave Maria」では「Mater Dei（神の母）」という栄光的称号として提示される──同一の「マリア」が悲嘆（Stabat Mater）と栄光（Mater Dei）の両面として典礼テキスト群に刻まれる。",
+      "targetId": "jacobus_stabat_mater",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "ora pro nobis peccatóribus,\nnunc et in hora mortis nostræ.\nAmen.",
+      "body": "「私たち罪人のために祈りたまえ、今も私たちの死の時も（ora pro nobis peccatoribus, nunc et in hora mortis nostrae）」──「hora mortis（死の時）」という定式が「Anima Christi」の「In hora mortis meae voca me（私の死の時に私を呼べ）」・「Agnus Dei」→「Requiem Æternam」の典礼的連鎖に接続する。「nunc（今）」と「in hora mortis（死の時）」の時間的対置──現在の生（nunc）と死の瞬間（hora mortis）という人間実存の二極をマリアへの祈願が跨ぐ。「peccatoribus（罪人たちの・複数与格）」──「Agnus Dei」の「peccata mundi（世の罪）」・「Anima Christi」の「ne permittas me separari a te（離れさせるな）」という罪と分離の嘆願が、「Ave Maria」では「罪人のために祈れ」という媒介者への嘆願として変換される。コヘレト「afflictio spiritus（霊の苦悩）」という「太陽の下」の人間的苦悩が、「Ave Maria」の「nunc et in hora mortis（今も死の時も）」という時間軸全体への祈願によって包摂される──VANITISMEコーパスの詩的虚無が典礼的希望へと開かれる接点として。",
+      "targetId": "liturgy_anima_christi",
+      "targetParagraphId": 2
+    }
+  ]
+}
