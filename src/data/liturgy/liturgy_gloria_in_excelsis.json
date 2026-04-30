@@ -1,0 +1,89 @@
+{
+  "id": "liturgy_gloria_in_excelsis",
+  "title": "Gloria in Excelsis Deo",
+  "author": "Sine Nomine",
+  "source": "Ordinarium Missae. Missale Romanum. Wikisource Latina (Vicifons): https://la.wikisource.org/wiki/Gloria_in_Excelsis_Deo",
+  "year": "Antiquitas",
+  "firstPublication": "anno incognito（典礼固定：2〜4世紀）",
+  "difficulty": "初級",
+  "category": "liturgy",
+  "originalLang": "la-LA",
+  "modernRelevance": "★★★★★",
+  "context": "「Gloria in Excelsis Deo（いと高きところに神に栄光）」はミサ通常文（Ordinarium Missae）の賛歌で、「大栄唱（Gloria maior / Greater Doxology）」とも「天使の賛歌（Hymnus Angelicus）」とも呼ばれる。起源はルカ2:14「いと高きところに神に栄光、地に平和、善意の人々に（Δόξα ἐν ὑψίστοις θεῷ καὶ ἐπὶ γῆς εἰρήνη ἐν ἀνθρώποις εὐδοκία）」──天使たちがベツレヘムの羊飼いたちに告げた言葉。その後2〜4世紀にかけて詩篇的賛美句が付加されて現行形式に発展した。ギリシャ語原文から自由にラテン語訳された。2世紀に教皇テレスフォルスが主の降誕のミサで用いたとされる（Liber Pontificalis）。「Gloria」の三部構造：（1）冒頭天使の賛歌句（v.1–2）、（2）父への賛美句群（v.3–9）、（3）子（キリスト）への賛美と「聖霊とともに（cum Sancto Spiritu）」による三位一体的完結（v.10–18）。「Agnus Dei, Filius Patris（神の子羊、父の御子）」という称号がここでも登場し、「Agnus Dei」典礼との連接をなす：「qui tollis peccata mundi（世の罪を取り除く）」が両テキストの共通定式として機能する。「tu solus Sanctus, tu solus Dominus, tu solus Altissimus（汝のみ聖にして、汝のみ主にして、汝のみ最高なる）」という三重の「tu solus（汝のみ）」排他的定式が、コヘレト「Nihil sub sole novum（太陽の下に新しいものは何もない）」の虚無的普遍命題に対して「ただ一者（solus）」という神学的単独性を対置する。バッハ「ロ短調ミサ」・モーツァルト・ヴィヴァルディ「Gloria」（RV 589）等による音楽化が著名。",
+  "keywords": [
+    "Gloria in Excelsis Deo",
+    "大栄唱",
+    "天使の賛歌",
+    "et in terra pax",
+    "bonae voluntatis",
+    "Agnus Dei Filius Patris",
+    "qui tollis peccata mundi",
+    "tu solus Sanctus",
+    "tu solus Altissimus",
+    "cum Sancto Spiritu",
+    "in gloria Dei Patris",
+    "ミサ通常文",
+    "Sine Nomine"
+  ],
+  "relatedTexts": [
+    "liturgy_agnus_dei",
+    "liturgy_requiem_aeternam",
+    "liturgy_magnificat",
+    "liturgy_symbolum_apostolicum",
+    "liturgy_ave_maria",
+    "liturgy_anima_christi",
+    "celano_dies_irae",
+    "nervo_requiem",
+    "hieronymus_ecclesiastes_1"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "verses": "v.1–2",
+      "original": "Glória in excélsis Deo\net in terra pax homínibus bonae voluntátis.",
+      "provisionalTranslation": "いと高きところに神に栄光、\n地に善意の人々に平和。"
+    },
+    {
+      "id": 2,
+      "verses": "v.3–9",
+      "original": "Laudámus te, benedícimus te, adorámus te, glorificámus te,\ngrátias ágimus tibi propter magnam glóriam tuam,\nDómine Deus, Rex cæléstis, Deus Pater omnípotens.\nDómine Fili Unigénite, Iesu Christe,\nDómine Deus, Agnus Dei, Fílius Patris,\nqui tollis peccáta mundi, miserére nobis;\nqui tollis peccáta mundi, súscipe deprecatiónem nostram.\nQui sedes ad déxteram Patris, miserére nobis.",
+      "provisionalTranslation": "汝を讃え、汝を祝し、汝を崇め、汝を称え、\n汝の大いなる栄光のゆえに汝に感謝する、\n主なる神よ、天の王よ、全能の父なる神よ。\n主なる独り子よ、イエス・キリストよ、\n主なる神よ、神の子羊よ、父の御子よ、\n世の罪を取り除く方よ、私たちを憐れみたまえ。\n世の罪を取り除く方よ、私たちの祈りを聞き入れたまえ。\n父の右の座に着く方よ、私たちを憐れみたまえ。"
+    },
+    {
+      "id": 3,
+      "verses": "v.10–13",
+      "original": "Quóniam tu solus Sanctus, tu solus Dóminus,\ntu solus Altíssimus, Iesu Christe,\ncum Sancto Spíritu: in glória Dei Patris.\nAmen.",
+      "provisionalTranslation": "なぜなら汝のみ聖にして、汝のみ主にして、\n汝のみ最高なるものなり、イエス・キリストよ、\n聖霊とともに：父なる神の栄光の中に。\nアーメン。"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "glossary",
+      "anchor": "Glória in excélsis Deo\net in terra pax homínibus bonae voluntátis.",
+      "body": "「いと高きところに神に栄光・地に善意の人々に平和（Gloria in excelsis Deo / et in terra pax hominibus bonae voluntatis）」──ルカ2:14「Δόξα ἐν ὑψίστοις θεῷ καὶ ἐπὶ γῆς εἰρήνη ἐν ἀνθρώποις εὐδοκία（いと高きところに神に栄光、地に平和、善意の人々に）」の直接的ラテン語訳的変奏。ただしギリシャ語「ὑψίστοις（最高の場所）」に対してラテン語は「excelsis（高みに）」を選択した──ヒエロニムス訳ウルガータが「altissimis」を好んだのに対する典礼的独自訳。詩の起源はルカ福音書の降誕物語：天使の群れがベツレヘムの羊飼いたちに告げた言葉が典礼歌として発展した。「in terra pax（地に平和）」──「Agnus Dei」の「dona nobis pacem（私たちに平和を与えたまえ）」・「Requiem Æternam」の「requiescant in pace（彼らが平和に安らかに眠らんことを）」という典礼的「平和（pax）」の系譜の冒頭に「Gloria」の「pax」が位置する。「bonae voluntatis（善意の）」──ギリシャ語「εὐδοκία（好意・善意・神の喜び）」のラテン語訳：神の「好意（eudokia）」の対象となる「善意の人々」という概念が典礼的平和の受取人を定義する。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "prosody",
+      "anchor": "Laudámus te, benedícimus te, adorámus te, glorificámus te,\ngrátias ágimus tibi propter magnam glóriam tuam,",
+      "body": "「讃え・祝し・崇め・称え・感謝する（Laudamus / benedicimus / adoramus / glorificamus / gratias agimus）」──五つの動詞の連続が「賛美の行為の総覧」として機能する：典礼的賛美動詞の網羅的列挙。「Magnificat」の「Magnificat anima mea Dominum（私の魂は主を崇める）」という単一動詞の個人的賛美に対し、「Gloria」の五動詞連鎖は共同体的・総括的な賛美行為として展開する。典礼詩形：ルカ的起源句（v.1–2）に続く詩篇的賛美句（v.3–9）・排他的定式（v.10–12）・三位一体的完結（v.13）という三部構造をなす。「Agnus Dei, Filius Patris（神の子羊、父の御子）」──「Agnus Dei」典礼のキリスト称号と同一の形象がここでも反復される：典礼コーパスを通じて「子羊（Agnus）」というキリスト論的形象が一貫する。ミサの「Kyrie eleison（主よ憐れみたまえ）」→「Gloria（大栄唱）」→「Credo（信仰告白）」という典礼的配置において、「Gloria」は「Kyrie」の嘆願から「Credo」の告白への橋渡しとして賛美的転換をなす。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "qui tollis peccáta mundi, miserére nobis;\nqui tollis peccáta mundi, súscipe deprecatiónem nostram.\nQui sedes ad déxteram Patris, miserére nobis.",
+      "body": "「世の罪を取り除く方よ、私たちを憐れみたまえ（qui tollis peccata mundi, miserere nobis）」──「Agnus Dei」の定式「Agnus Dei, qui tollis peccata mundi: miserere nobis」と同一の句がここに組み込まれる：「Gloria」と「Agnus Dei」が「qui tollis peccata mundi（世の罪を取り除く）」という共通定式によって典礼的に接続される。「suscipe deprecationem nostram（私たちの祈りを聞き入れたまえ）」──「Anima Christi」の「O bone Iesu, exaudi me（おお善きイエスよ、私の祈りを聞き入れたまえ）」と同型の嘆願動詞。「Qui sedes ad dexteram Patris（父の右の座に着く方よ）」──「Symbolum Apostolicum」の「sedet ad dexteram Dei Patris omnipotentis（全能の父なる神の右の座に着き）」という使徒信条の句が典礼的賛美として反響する：信仰告白（Credo）と賛歌（Gloria）が「父の右の座（dextera Patris）」という共通形象で連接される。",
+      "targetId": "liturgy_agnus_dei",
+      "targetParagraphId": 1
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "Quóniam tu solus Sanctus, tu solus Dóminus,\ntu solus Altíssimus, Iesu Christe,\ncum Sancto Spíritu: in glória Dei Patris.",
+      "body": "「汝のみ聖にして・汝のみ主にして・汝のみ最高なるものなり（tu solus Sanctus / tu solus Dominus / tu solus Altissimus）」──「tu solus（汝のみ）」という排他的定式の三重反復が「Gloria」の神学的核心をなす。「solus（のみ・唯一）」という語の強調がコヘレト「Nihil sub sole novum（太陽の下に新しいものは何もない）」の全称的虚無命題に対して「唯一者（solus）」という神学的例外を宣言する：「太陽の下（sub sole）」の循環的虚無の外部に「最高なる唯一者（tu solus Altissimus）」が措定される。「cum Sancto Spiritu: in gloria Dei Patris（聖霊とともに：父なる神の栄光の中に）」──三位一体的完結定式：「Spiritu Sancto」・「Dei Patris」という属格が子（Iesu Christe）に三位一体の他の二位格を付加する。「Magnificat」の「Gloria Patri et Filio et Spiritui Sancto（父と子と聖霊に栄光あれ）」という小栄唱と同型の三位一体的完結として機能する。「in gloria Dei Patris（父なる神の栄光の中に）」という最終句が「Gloria in excelsis（いと高きところに栄光）」という冒頭句と「栄光（gloria）」の語根的円環をなす：天の「栄光（gloria）」から始まり「父の栄光（gloria Dei Patris）」で閉じる詩的完結。",
+      "targetId": "hieronymus_ecclesiastes_1",
+      "targetParagraphId": 10
+    }
+  ]
+}
