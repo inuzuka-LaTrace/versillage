@@ -1,0 +1,92 @@
+{
+  "id": "liturgy_symbolum_apostolicum",
+  "title": "Symbolum Apostolicum",
+  "author": "Sine Nomine",
+  "source": "Wikisource Latina (Vicifons): https://la.wikisource.org/wiki/Symbolum_Apostolicum",
+  "year": "Antiquitas",
+  "firstPublication": "saeculo II",
+  "difficulty": "初級",
+  "category": "liturgy",
+  "originalLang": "la-LA",
+  "modernRelevance": "★★★★★",
+  "context": "「Symbolum Apostolicum（使徒信条）」は2世紀起源の西方教会の基本信仰告白。「12使徒が各1条ずつ定めた」という伝説から「使徒信条」と呼ばれるが、現行形式は8世紀ごろに確立した。三位一体の構造（父・子・聖霊）に従って三部に分かれる。第一部（父）：全能の創造者への信仰。第二部（子）：イエス・キリストの生涯の神学的核心──「聖霊によって宿り・おとめマリアから生まれ（conceptus est de Spiritu Sancto, natus ex Maria Virgine）」・「ポンティウス・ピラトゥスのもとで受難し・十字架につけられ・死んで・葬られ（passus / crucifixus / mortuus / sepultus）」・「陰府に下り（descendit ad inferos）」・「三日目に死者の中から復活し（tertia die resurrexit a mortuis）」・「天に昇り（ascendit ad caelos）」・「父の右に座し（sedet ad dexteram Dei Patris)」・「生者と死者を審判するために来る（iudicare vivos et mortuos）」。第三部（聖霊）：「聖なる普遍の教会・聖人の交わり・罪の赦し・肉体の復活・永遠の命（vitam aeternam）」への信仰。「Credo（私は信じる）」という単数一人称動詞の反復が「信仰の個人的告白」としての性格を示す──「Agnus Dei」の「nobis（私たち）」・「Magnificat」の「mea（私の）」という典礼的一人称と対応する。「descendit ad inferos（陰府に下った）」という句はキリストの「最下降（katábasis）」を宣言し、ダンテ「神曲・地獄篇」・マヴィリス「Λήθη」のアスフォデロスの野・「Requiem Æternam」の死者への光という「下降と上昇」の詩的軌跡の典礼的原型として機能する。「vitam aeternam（永遠の命）」──「Requiem Æternam」の「lux perpetua」・「Agnus Dei」の「dona nobis pacem」・「Magnificat」の「in saecula saeculorum」という典礼的永遠性の定式群の最も簡潔な定義として。",
+  "keywords": [
+    "使徒信条",
+    "Credo",
+    "Symbolum Apostolicum",
+    "Deum Patrem omnipotentem",
+    "conceptus de Spiritu Sancto",
+    "natus ex Maria Virgine",
+    "descendit ad inferos",
+    "resurrexit a mortuis",
+    "vitam aeternam",
+    "三位一体",
+    "信仰告白",
+    "2世紀",
+    "Sine Nomine"
+  ],
+  "relatedTexts": [
+    "liturgy_requiem_aeternam",
+    "liturgy_agnus_dei",
+    "liturgy_anima_christi",
+    "liturgy_ave_maria",
+    "liturgy_magnificat",
+    "jacobus_stabat_mater",
+    "celano_dies_irae",
+    "nervo_requiem",
+    "hieronymus_ecclesiastes_1",
+    "dante_inferno_canto_1"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "verses": "v.1–3",
+      "original": "Credo in Deum Patrem omnipoténtem, Creatórem cæli et terræ, et in\nIesum Christum, Fílium Eius unicum, Dóminum nostrum, qui concéptus\nest de Spíritu Sancto, natus ex Maria Virgine,",
+      "provisionalTranslation": "私は信じる、全能の父なる神を、天と地の創造者を、そして\nイエス・キリストを、その唯一の御子、私たちの主を、聖霊によって\n宿り、おとめマリアから生まれた方を、"
+    },
+    {
+      "id": 2,
+      "verses": "v.4–7",
+      "original": "passus sub Póntio Piláto, crucifixus, mórtuus, et sepúltus, descéndit ad\nínferos, tértia die resurréxit a mórtuis, ascéndit ad cælos, sedet ad\ndéxteram Dei Patris omnipoténtis, inde ventúrus est iudicáre vivos et\nmórtuos.",
+      "provisionalTranslation": "ポンティウス・ピラトゥスのもとで受難し、十字架につけられ、死んで、葬られ、陰府に\n下り、三日目に死者の中から復活し、天に昇り、全能の父なる\n神の右の座に着き、そこから生者と死者を\n審判するために来られる。"
+    },
+    {
+      "id": 3,
+      "verses": "v.8–14",
+      "original": "Et in Spíritum Sanctum,\nsanctam Ecclésiam cathólicam,\nsanctórum communiónem,\nremissiónem peccatórum,\ncarnis resurrectiónem,\nvitam ætérnam.\nAmen.",
+      "provisionalTranslation": "また聖霊を、\n聖なる普遍の教会を、\n聖人の交わりを、\n罪の赦しを、\n肉体の復活を、\n永遠の命を信じる。\nアーメン。"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "Credo in Deum Patrem omnipoténtem, Creatórem cæli et terræ,",
+      "body": "「Credo（私は信じる）」──ラテン語「credere（信じる・委ねる）」の一人称単数現在形。「信条（Symbolum・Credo）」という形式が「私は信じる（Credo）」という単数一人称動詞で始まることの神学的意味：信仰は共同体的命題ではなく「私」という個人の告白として機能する。「Deum Patrem omnipotentem（全能の父なる神）」──「Agnus Dei」の「qui tollis peccata mundi（世の罪を取り除く）」・「Magnificat」の「qui potens est（力ある方）」という神の「力」への言及と同型。「Creatorem caeli et terrae（天と地の創造者）」──コヘレト「Generatio praeterit, et generatio advenit; terra autem in aeternum stat（世代は過ぎ去り来るが、大地は永遠に立ち続ける）」という「大地の永続性」の背景として機能する神の創造行為。ネルヴォ「Requiem」第1連の「porque dijiste: la luz sea（汝が『光あれ』と言ったゆえに）」という創世記的創造の詩的変奏がこの「Creatorem caeli et terrae」に根拠を置く。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "glossary",
+      "anchor": "qui concéptus est de Spíritu Sancto, natus ex Maria Virgine,",
+      "body": "「聖霊によって宿り・おとめマリアから生まれた（conceptus est de Spiritu Sancto, natus ex Maria Virgine）」──受胎告知（ルカ1:35）の信条的定式化。「Ave Maria」の「Dominus tecum（主があなたとともにおられます）」→「Ave Verum Corpus」の「natum de Maria virgine（おとめマリアから生まれた）」という典礼テキストの連鎖がここに神学的根拠を持つ：使徒信条が「概念（conceptus）」と「誕生（natus）」を区別することで、受胎の主体（聖霊）と誕生の媒介（マリア）の双方を明示する。「Symbolum Apostolicum」のこの句が「Stabat Mater」（マリアが十字架の傍に立つ）・「Ave Maria」（マリアへの挨拶）・「Magnificat」（マリアの賛歌）というliturgical corpusにおけるマリア論の信仰告白的基盤として機能する。",
+      "targetId": "liturgy_ave_maria",
+      "targetParagraphId": 1
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "passus sub Póntio Piláto, crucifixus, mórtuus, et sepúltus, descéndit ad\nínferos, tértia die resurréxit a mórtuis,",
+      "body": "「受難・十字架・死・葬り・陰府降下・復活」という六動詞の連続──「Symbolum Apostolicum」第二部の神学的核心。「passus / crucifixus / mortuus / sepultus」という四つの過去分詞が受難の四段階を歴史的完了事実として定義する。「descendit ad inferos（陰府に下った）」──ペトロ第一3:19「彼は捕らわれていた霊たちにも宣べ伝えた」の信条的定式化：キリストが死後に「死者の世界（inferos）」へと「下降（descendit）」するという「最下降（katábasis）」の神学。ダンテ「地獄篇（Inferno）」の「ダンテとヴェルギリウスの冥府旅行」がこの「descendit ad inferos」の詩的拡張として機能する。マヴィリス「Λήθη」の「アスフォデロスの野」・「De profundis（深みから）」（詩篇129）がともに「冥府的深淵」への接触を示す点で照応。「tertia die resurrexit a mortuis（三日目に死者の中から復活した）」──「resurrexit（復活した）」という完全な上昇運動が「descendit」の下降を反転させる：典礼コーパスの「下降と上昇」の原型的定式。サランダリス「Πάλι ο θάνατος πεθαίνει（また死が死ぬ）」の「生の歌が私たちを立たせる（σηκώνει όρθιους）」はこの「resurrexit」の詩的反響として読める。",
+      "targetId": "dante_inferno_canto_1",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "Et in Spíritum Sanctum,\nsanctam Ecclésiam cathólicam,\nsanctórum communiónem,\nremissiónem peccatórum,\ncarnis resurrectiónem,\nvitam ætérnam.",
+      "body": "「聖霊・聖なる教会・聖人の交わり・罪の赦し・肉体の復活・永遠の命（vitam aeternam）」──信条の第三部（聖霊）が六つの名詞句として列挙される。「Et in Spiritum Sanctum（また聖霊を）」──「Credo in Deum Patrem」・「et in Iesum Christum」に続く第三の「in」が三位一体への三段階的信仰告白を完結させる。「sanctorum communionem（聖人の交わり）」──「Anima Christi」の「ut cum Sanctis tuis laudem te（聖人たちとともに汝を讃えるために）」の典礼的期待が信条の中に「現在の信仰の対象」として確立される。「carnis resurrectionem（肉体の復活）」──「ave verum corpus natum de Maria virgine（おとめマリアから生まれたまことの体よ）」の「真の肉体性（verum corpus）」が「肉体の復活（carnis resurrectio）」という終末論的希望として完結する：典礼テキスト群を通じて「身体（corpus / carnis）」の主題が「誕生→犠牲→復活」として展開する。「vitam aeternam（永遠の命）」──「Requiem Æternam」の「lux perpetua」・「Magnificat」の「in saecula saeculorum」・「Agnus Dei」の「dona nobis pacem」という典礼的永遠性の定式群の最も簡潔な神学的完結点として。コヘレト「afflictio spiritus（霊の苦悩）」という「太陽の下」の有限的人間存在への問いに対し、「vitam aeternam」は典礼的信仰告白としての最終的応答を与える。",
+      "targetId": "liturgy_requiem_aeternam",
+      "targetParagraphId": 1
+    }
+  ]
+}
