@@ -1,0 +1,102 @@
+{
+  "id": "liturgy_magnificat",
+  "title": "Magnificat",
+  "author": "Sine Nomine",
+  "source": "Wikisource Latina (Vicifons): https://la.wikisource.org/wiki/Magnificat",
+  "year": "Antiquitas",
+  "firstPublication": "anno incognito",
+  "difficulty": "初級",
+  "category": "liturgy",
+  "originalLang": "la-LA",
+  "modernRelevance": "★★★★★",
+  "context": "「Magnificat（マニフィカト）」はルカ1:46–55に記されたマリアの賛歌（Canticum Mariae）の典礼版。受胎告知を受けたマリアが親戚エリザベトを訪問した際に語った祈りで、「私の魂は主を崇め、私の霊は私の救い主である神において喜んだ」という冒頭句から題名を取る。典礼的には晩課（Vesperae）の終わりに歌われる聖歌として確立し、1日24回行われるキリスト教典礼の日課（Liturgia Horarum）の中心的位置を占める。詩学的・神学的観点から見ると、「Magnificat」は旧約聖書のハンナの歌（サムエル上2:1–10）・ミリアムの歌（出エジプト15章）という先行する女性的賛歌の系譜に位置する。「Magnificat」の神学的革命性：第3・第4段落（v.13–22）において権能ある者を退けて謙遜な者を高め・飢えた者を満たして富める者を空しく帰らせるという「神の社会的逆転」が宣言される──これは「真福八端（Beatitudes）」と並ぶ新約聖書の最も急進的な社会的命題。バッハ「マニフィカト」（BWV 243）・モンテヴェルディ・パレストリーナ等による多声音楽化が著名。ヴェイユ「affliction（苦悩）」と「Magnificat」の「esuriéntes implévit bonis（飢えた者を善きもので満たした）」は「苦悩の中にある者を神が充填する」という同型の神学的命題を共有する。コヘレト「Quid habet amplius homo de universo labore suo（人はすべての労苦から何を得るか）」という虚無への問いに対し、「Magnificat」の「fecit mihi magna（神は私に偉大なことをした）」は肯定的応答として機能する。",
+  "keywords": [
+    "Magnificat",
+    "マリアの賛歌",
+    "Canticum Mariae",
+    "魂",
+    "anima",
+    "謙遜",
+    "humilitas",
+    "社会的逆転",
+    "dispérsit supérbos",
+    "esuriéntes implévit",
+    "Gloria Patri",
+    "三位一体",
+    "晩課",
+    "Vesperae",
+    "Sine Nomine"
+  ],
+  "relatedTexts": [
+    "liturgy_ave_maria",
+    "liturgy_agnus_dei",
+    "liturgy_requiem_aeternam",
+    "liturgy_anima_christi",
+    "liturgy_ave_verum_corpus",
+    "jacobus_stabat_mater",
+    "nervo_requiem",
+    "weil_accepter_le_vide",
+    "hieronymus_ecclesiastes_1",
+    "hieronymus_psalm_129"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "verses": "v.1–5",
+      "original": "Magníficat ánima mea Dóminum,\net exsultávit spíritus meus\nin Deo, salutári meo,\nquia respéxit humilitatem\nancíllae suae.",
+      "provisionalTranslation": "私の魂は主を崇め、\n私の霊は喜んだ\n私の救い主である神において、\n主が御覧になったゆえに\n婢女の卑しさを。"
+    },
+    {
+      "id": 2,
+      "verses": "v.6–12",
+      "original": "Ecce enim ex hoc beátam\nme dicent omnes generatiónes,\nquia fecit mihi magna,\nqui potens est,\net sanctum nomen eius,\net misericórdia eius in progénies\net progénies timéntibus eum.",
+      "provisionalTranslation": "見よ、今からすべての世代が\n私を幸いな者と呼ぶであろう。\n力ある方が私に偉大なことをしてくださったゆえに、\nその名は聖であり、\nその憐れみは世代から\n世代へと、神を畏れる者たちへ。"
+    },
+    {
+      "id": 3,
+      "verses": "v.13–22",
+      "original": "Fecit poténtiam in bráchio suo,\ndispérsit supérbos mente cordis sui;\ndepósuit poténtes de sede\net exaltávit húmiles;\nesuriéntes implévit bonis\net dívites dimísit inánes.\nSuscépit Ísrael púerum suum,\nrecordátus misericórdiae suæ,\nsicut locútus est ad patres nostros,\nÁbraham et sémini eius in sæcula.",
+      "provisionalTranslation": "主はその腕の力で権能を振るい、\n心の思いによって高慢な者を散らした。\n力ある者を王座から退け、\n謙遜な者を高くした。\n飢えた者を善きもので満たし、\n富める者を空しいまま帰らせた。\n主はイスラエル、その僕を助け、\n憐れみを覚えて、\n私たちの父祖たちに語りかけた通りに、\nアブラハムとその子孫に世々にわたって。"
+    },
+    {
+      "id": 4,
+      "verses": "v.23–28",
+      "original": "Glória Patri et Fílio\net Spirítui Sancto.\nSicut erat in princípio,\net nunc et semper,\net in sǽcula sæculórum.\nAmen.",
+      "provisionalTranslation": "父と子と\n聖霊に栄光あれ。\n初めにあったように、\n今も、そして常に、\n世々にわたって。\nアーメン。"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "Magníficat ánima mea Dóminum,\net exsultávit spíritus meus\nin Deo, salutári meo,",
+      "body": "「私の魂は主を崇め（Magnificat anima mea Dominum）・私の霊は喜んだ（exsultavit spiritus meus）」──ルカ1:46–47の直接引用。「Magnificat（崇める）」──「magnificare（偉大なるものとする・崇める）」の三人称単数現在形が詩の題名と冒頭を兼ねる。「anima（魂）」と「spiritus（霊）」の並置：教父神学において両者は時に同義、時に区別される（人間の三分法：corpus・anima・spiritus）。「Anima Christi」の「Anima Christi, sanctifica me（キリストの魂よ、私を聖化せよ）」では「Anima（魂）」が神への嘆願の呼格として機能するのに対し、「Magnificat」では「anima mea（私の魂）」が神を「崇める（Magnificat）」主体として機能する──嘆願する魂（Anima Christi）と賛美する魂（Magnificat）の対称的構造。「salutari meo（私の救い主）」──「salus（救い・健康）」から派生：「Ave Maria」の「gratia plena（恵みに満てる）」に続く、神の「救い」という属性への言及。",
+      "targetId": "liturgy_anima_christi",
+      "targetParagraphId": 1
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "quia respéxit humilitatem\nancíllae suae.\nEcce enim ex hoc beátam\nme dicent omnes generatiónes,",
+      "body": "「婢女の卑しさを御覧になった（respexit humilitatem ancillae suae）」・「すべての世代が私を幸いな者と呼ぶであろう（beátam me dicent omnes generationes）」──「humilitas（謙遜・低さ・卑しさ）」という語がキリスト教神学の中心的徳目として「Magnificat」に確立される：神は「高慢な者（superbi）」ではなく「謙遜な者（humiles）」を選ぶという命題が以下の段落の「社会的逆転」として展開する。「beátam（幸いな）」──マヴィリス「Λήθη」の「Καλότυχοι（幸いなるかな）」との照応：「Λήθη」が「死者を幸い（Καλότυχοι）」と呼ぶのに対し、「Magnificat」はマリアを「幸い（beátam）」と呼ぶ──どちらも「幸福の条件の逆転」として機能する。「omnes generationes（すべての世代）」──コヘレト「Generatio praeterit, et generatio advenit（世代は過ぎ去り、世代は来る）」での「世代（generatio）」の虚無的循環に対し、「Magnificat」では「すべての世代」が賛美の担い手として肯定的に提示される。",
+      "targetId": "hieronymus_ecclesiastes_1",
+      "targetParagraphId": 4
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "dispérsit supérbos mente cordis sui;\ndepósuit poténtes de sede\net exaltávit húmiles;\nesuriéntes implévit bonis\net dívites dimísit inánes.",
+      "body": "「高慢な者を散らし・力ある者を退け・謙遜な者を高め・飢えた者を満たし・富める者を空しく帰らせた」──「Magnificat」の神学的革命性の核心。五つの対称的逆転が連続して宣言される：superbi（高慢）→dispersi（散らされた）/ potentes（力ある者）→depositi（退けられた）/ humiles（謙遜な者）→exaltati（高くされた）/ esurientes（飢えた者）→impleti bonis（満たされた）/ divites（富める者）→dimissi inanes（空しく帰らされた）。「esuriéntes implévit bonis（飢えた者を善きもので満たした）」──ヴェイユ「Accepter le vide」の「恵みが入れるのはそれを受け取る空虚がある場所だけ」という命題との照応：「空虚（vide）・飢え（esuriéntes）」を持つ者にのみ「充填（implévit）・恵み（bonis）」が与えられる。「dívites dimísit inánes（富める者を空しく帰らせた）」──「inanes（空虚な・空しい）」という語がコヘレト「vanitas（虚無）」の語義的同族語として機能する：世俗的富は最終的に「空虚（inanes）」として帰還する。",
+      "targetId": "weil_accepter_le_vide",
+      "targetParagraphId": 1
+    },
+    {
+      "paragraphId": 4,
+      "type": "glossary",
+      "anchor": "Glória Patri et Fílio\net Spirítui Sancto.\nSicut erat in princípio,\net nunc et semper,\net in sǽcula sæculórum.\nAmen.",
+      "body": "「Gloria Patri et Filio et Spiritui Sancto（父と子と聖霊に栄光あれ）」──小栄唱（Gloria Patri / Doxologia Minor）。典礼的慣行として詩篇・聖歌の後に付加される三位一体への定型的賛美。「Sicut erat in principio, et nunc et semper, et in saecula saeculorum（初めにあったように、今も、常に、世々にわたって）」──「in principio（初めに）」はヨハネ1:1「初めに言があった（In principio erat Verbum）」・創世記1:1「初めに神は天地を創った（In principio creavit Deus caelum et terram）」に接続する：典礼的現在が「初め（principio）」から「世々（saecula saeculorum）」まで連続する永遠性として定義される。「Agnus Dei」の「dona nobis pacem」・「Requiem Æternam」の「lux perpetua」・「Anima Christi」の「in saecula saeculorum laudem te」がすべてこの「永遠性（saecula saeculorum）」という定式に収斂する。コヘレト「y sin mañana y sin ayer（明日もなく昨日もなく）」というネルヴォの詩的変奏が示す「時なき永遠」と、「Gloria Patri」の「sicut erat in principio, et nunc et semper（初めにあったように、今も、常に）」という「時を貫く連続」は、同一の永遠性を「無時間性」と「全時間的連続」という二つの様式で定義する対照として読める。",
+      "targetId": "liturgy_requiem_aeternam",
+      "targetParagraphId": 1
+    }
+  ]
+}
