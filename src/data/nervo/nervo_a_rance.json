@@ -1,0 +1,112 @@
+{
+  "id": "nervo_a_rance",
+  "title": "A Rancé, reformador de la Trapa (1626-1700)",
+  "author": "Amado Nervo",
+  "source": "Místicas: 1892-1895 (1898). Wikisource (スペイン語): https://es.wikisource.org/wiki/M%C3%ADsticas/IX",
+  "year": "1898",
+  "firstPublication": "Místicas, México, 1898",
+  "difficulty": "上級",
+  "category": "nervo",
+  "originalLang": "es-ES",
+  "modernRelevance": "★★★★★",
+  "context": "アマード・ネルヴォ（Amado Nervo, 1870–1919）の詩集「Místicas（1898）」IX番。父パガサ（el padre Pagaza）に献じられた。「A Rancé, reformador de la Trapa（トラパ改革者ランセへ）」──ランセ（Armand Jean de Rancé, 1626–1700）はフランスの貴族・司祭で、世俗的栄光と愛欲の生涯を捨て、1664年にシトー会系のラ・トラップ（La Trappe）修道院を厳格な苦行・沈黙の修道院として改革したトラピスト会（Order of Cistercians of the Strict Observance）の創始者的人物。シャトーブリアン（Chateaubriand）の伝記「ランセの生涯（La Vie de Rancé, 1844）」はロマン主義文学における標準的なランセ像を確立し、ネルヴォが本詩を書いた際の主要参照源と考えられる。バタイユ的分析──ランセの回心をキリスト教的禁欲主義の極限事例として、「死と官能・禁止と侵犯（interdit et transgression）」の弁証法の中に位置づけられる：愛人（Montbazon公爵夫人）の突然の死に直面したランセが世俗的生を全面的に断絶するという「エロスの否定によるタナトスへの転換」。詩は5行連（quintillas）×5から構成され、ランセの死後の「暗い球体（esfera sombría）」から還って来るように懇願し、「トラパ（La Trappe）への避難所」・「自ら掘る墓穴」・「詩人の告白（閉じた壺の中の深い絶望・詩人に触れた激しいノスタルジア）」・「沈黙はイエスとの語らい（el silencio es la plática / con Jesús）」という引用をはさみ、「治癒不能な大修道院長（abad incurable）」の鋼鉄の眼差しと「トラパの平和の伝染（contagio de la paz）」で閉じる。「Gótica」での廃墟の修道院・「Azraël」での死の天使への呼びかけ・「Intra vulnera」でのキリストの傷口への避難に続き、「A Rancé」ではトラパの沈黙と苦行を詩人自身に「伝染」させてほしいという最後の懇願として「Místicas」の文脈内に置かれる。",
+  "keywords": [
+    "ランセ",
+    "Rancé",
+    "トラピスト会",
+    "La Trapa",
+    "沈黙",
+    "el silencio es la plática",
+    "De profundis",
+    "治癒不能な大修道院長",
+    "abad incurable",
+    "平和の伝染",
+    "contagio de la paz",
+    "自ら掘る墓穴",
+    "詩人のノスタルジア",
+    "モデルニスモ",
+    "ネルヴォ"
+  ],
+  "relatedTexts": [
+    "nervo_gotica",
+    "nervo_azrael",
+    "nervo_intra_vulnera",
+    "nervo_obsesion",
+    "juan_de_la_cruz_noche_oscura",
+    "teresa_vivo_sin_vivir",
+    "weil_accepter_le_vide",
+    "rodenbach_du_silence",
+    "dowson_venite_descendamus",
+    "trakl_de_profundis"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "verses": "v.1–5",
+      "original": "Es preciso que tornes de la esfera sombría\ncon los flavos destellos de la Luna, que escapa,\ncual la momia de un mundo, de la azul lejanía;\nes preciso que tornes y te vuelvas mi guía\ny me des un refugio, ¡por piedad!, en la Trapa.",
+      "provisionalTranslation": "汝が暗い球体から戻らなければならない、\n青い遠方から、世界のミイラのように、\n逃れてゆく月の黄褐色の輝きとともに。\n汝が戻り、私の導者となり、\nどうか哀れみをもって、トラパに避難所を与えなければならない。"
+    },
+    {
+      "id": 2,
+      "verses": "v.6–10",
+      "original": "Si lo mandas, ¡oh padre!, si tu regla lo ordena,\ncavaré por mi mano mi sepulcro en el huerto,\nY al amparo infinito de la noche serena\nvagaré por sus bordes como el ánima en pena,\nmientras lloran los bronces con un toque de muerto...",
+      "provisionalTranslation": "汝が命ずるなら、ああ師父よ、汝の戒律がそう定めるなら、\n私は自ら手で庭に自分の墓穴を掘り、\n穏やかな夜の無限の庇護のもとで\n苦しむ霊のようにその縁をさまようだろう、\n死者の鐘として青銅が泣く間に……"
+    },
+    {
+      "id": 3,
+      "verses": "v.11–15",
+      "original": "La leyenda refiere que tu triste mirada\nextinguía los duelos y las ansias secretas,\ny yo guardo aquí dentro, como en urna cerrada,\ndesconsuelos muy hondos, mucha hiel concentrada,\ny la fiera nostalgia que tocó a los poetas...",
+      "provisionalTranslation": "伝説は語る、汝の哀しい眼差しが\n悲嘆と秘められた苦悩を消し去ったと。\n私はここ内側に、閉じた壺のように、\n深い絶望を、多くの凝縮した胆汁を\nそして詩人たちに触れた激しいノスタルジアを抱えている……"
+    },
+    {
+      "id": 4,
+      "verses": "v.16–20",
+      "original": "Viviré de silencio - el silencio es la plática\ncon Jesús, escribiste: tal mi plática sea\ny mezclado a tus frailes, con su turba hierática\ngemirá De profundis la voz seca y asmática\nque fue verbo: ese verbo que subyuga y flamea.",
+      "provisionalTranslation": "私は沈黙の中に生きるだろう──沈黙はイエスとの\n語らいである、と汝は書いた。そのように私の語らいもあれ。\n汝の修道士たちと交わり、その荘厳な群衆の中で\nかつて言葉だった、あの制服し燃え立つ言葉だった\n乾いた喘息的な声が「De profundis」をうめき唱えるだろう。"
+    },
+    {
+      "id": 5,
+      "verses": "v.21–25",
+      "original": "¡Ven, abad incurable, gran asceta, yo quiero\nanegar mis pupilas en las tuyas de acero,\naspirar el efluvio misterioso que escapa\nde tus miembros exangües, de tu rostro severo,\ny sufrir el contagio de la paz de tu Trapa!",
+      "provisionalTranslation": "来よ、治癒不能な大修道院長、偉大なる苦行者よ、私は望む、\n私の瞳を汝の鋼鉄の瞳に溺れさせ、\n汝の血の気のない四肢から、汝の厳しい顔から\n漏れ出る神秘的な発散を吸い込み、\n汝のトラパの平和の伝染を受けることを！"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "Es preciso que tornes de la esfera sombría\ncon los flavos destellos de la Luna, que escapa,\ncual la momia de un mundo, de la azul lejanía;",
+      "body": "「暗い球体から・世界のミイラのように逃れる月の輝きとともに還れ（tornes de la esfera sombría / cual la momia de un mundo, de la azul lejanía）」──「esfera sombría（暗い球体）」は死後の領域。「la momia de un mundo（世界のミイラ）」という形象がランセの肉体的苦行と死への志向を「ミイラ化した宇宙」として提示する。「flavo（黄褐色の）」はラテン語語彙を保持する語選択：ネルヴォの文語的語彙がモデルニスモの修辞的精緻さを示す。ランセの歴史的文脈：アルマン・ジャン・ル・ブティリエ・ド・ランセ（1626–1700）はパリ貴族の出身で、多数の教会聖職禄を持ち詩人・文士としても活動した世俗人が、1660年代に愛人モンバゾン公爵夫人マリー（Marie de Montbazon）の突然の死に直面して回心する。ネルヴォが本詩を書いた際の主要参照源はシャトーブリアン（Chateaubriand）の伝記「ランセの生涯（La Vie de Rancé, 1844）」であり、そこではランセの世俗的生涯から苦行的回心への劇的転換が詳細に描かれる。ロラン・バルト（Roland Barthes）はその1965年の序文でこの作品を「放棄するランセと世界に放棄されるシャトーブリアン──active と passive の弁証法」として読んでいる。愛人の死（不連続の極点）がランセを「死との連続性（トラピストの沈黙と自己消滅）」へと駆動するという逆転は、禁欲主義と官能の鏡像関係という主題においてエロス論的文脈を開く。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "cavaré por mi mano mi sepulcro en el huerto,\nY al amparo infinito de la noche serena\nvagaré por sus bordes como el ánima en pena,",
+      "body": "「私は自ら手で庭に墓穴を掘る（cavaré por mi mano mi sepulcro en el huerto）」──トラピスト会修道士の厳格な戒律のひとつとして「自らの墓穴を掘ること」が伝えられる（シャトーブリアン「ランセの生涯（La Vie de Rancé, 1844）」で詳細に描写される）。「como el ánima en pena（苦しむ霊のように）」──煉獄の霊魂（ánima en pena）が自らの墓の縁をさまようという民間信仰的形象。「mientras lloran los bronces con un toque de muerto（死者の鐘として青銅が泣く間に）」──「toque de muerto（弔いの鐘つき）」というカトリック典礼の音響が場面全体に響く。ヴェイユ「Accepter le vide（真空を受容する）」との照応：自ら墓穴を掘るという行為が「自己の事前の消滅・空虚の先取り」として神学的に読める──ランセの苦行的自己否定がヴェイユ的「脱創造（décréation）」の先型として。",
+      "targetId": "weil_accepter_le_vide",
+      "targetParagraphId": 1
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "y yo guardo aquí dentro, como en urna cerrada,\ndesconsuelos muy hondos, mucha hiel concentrada,\ny la fiera nostalgia que tocó a los poetas...",
+      "body": "「閉じた壺のように、深い絶望、凝縮した胆汁、詩人たちに触れた激しいノスタルジア（como en urna cerrada / desconsuelos muy hondos / la fiera nostalgia que tocó a los poetas）」──詩人の自己告白の三重構造。「urna cerrada（閉じた壺）」──「Apocalíptica」の「Intra vulnera」のキリストの傷口への避難と対称的な「密閉した内部」の形象：前者では外部（キリストの傷）に避難するのに対し、ここでは詩人の内部が「閉じた壺」として自己封印される。「hiel concentrada（凝縮した胆汁）」──「Apocalíptica」で星々が水を「hiel y absintio（胆汁とアブサン）」に変えた形象と連続する：詩人の内部にも同じ「胆汁」が蓄積されている。「la fiera nostalgia que tocó a los poetas（詩人たちに触れた激しいノスタルジア）」──ネルヴォが詩人という職業を「ノスタルジアに呪われた者」として定義する命題：「Obsesión」の「loca de sufrimiento（苦しみに狂った魂）」・「Azraël」の「incurable tristeza（癒しがたい悲しみ）」と同型の詩人的苦悩の集約。"
+    },
+    {
+      "paragraphId": 4,
+      "type": "allusion",
+      "anchor": "Viviré de silencio - el silencio es la plática\ncon Jesús, escribiste: tal mi plática sea\ny mezclado a tus frailes, con su turba hierática\ngemirá De profundis la voz seca y asmática\nque fue verbo: ese verbo que subyuga y flamea.",
+      "body": "「沈黙はイエスとの語らいである、と汝は書いた（el silencio es la plática / con Jesús, escribiste）」──ランセの著書「修道院の神聖さと修道士の義務（De la sainteté et des devoirs de la vie monastique, 1683）」での教説への言及。「De profundis（深みから）」──詩篇129（ウルガータ）「深みからあなたに叫びます（De profundis clamavi ad te, Domine）」の典礼的引用：死者のためのミサで歌われる。トラークル「De profundis」・ワイルド「De Profundis」・ロセッティ「De Profundis」と同一の詩的伝統の中に置かれる。「voz seca y asmática / que fue verbo（かつて言葉だった乾いた喘息的な声）」──「fue verbo（言葉だった）」はヨハネ1:1「初めに言葉があった（In principio erat Verbum）」の創造論的「言葉（Verbo）」を過去形化する：詩人の声が「かつては言葉（創造的力）だったが今は乾いた喘息的なうめきになった」という詩的主体の自己劣化として。ローデンバック「沈黙について（Du Silence）」の「沈黙の内的豊かさ」・サランダリス「Τῆς ἀλήθειας」の「沈黙と祈りの彫像」との照応：三者ともに「沈黙」を積極的な霊的行為として定義するが、ランセは「イエスとの語らい」、ローデンバックは「美学的充実」、サランダリスは「無限への対峙」として異なる神学的・詩的文脈に置く。",
+      "targetId": "rodenbach_du_silence",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 5,
+      "type": "commentary",
+      "anchor": "¡Ven, abad incurable, gran asceta, yo quiero\nanegar mis pupilas en las tuyas de acero,\naspirar el efluvio misterioso que escapa\nde tus miembros exangües, de tu rostro severo,\ny sufrir el contagio de la paz de tu Trapa!",
+      "body": "「治癒不能な大修道院長・鋼鉄の瞳・血の気のない四肢・平和の伝染（abad incurable / pupilas de acero / miembros exangües / contagio de la paz）」──最終連がランセの身体的・霊的存在の「感染源」としての定義に至る。「abad incurable（治癒不能な大修道院長）」──「incurable」はネルヴォが「Azraël」でも使った語（incurable tristeza）：ランセの苦行的平和は「治癒不能なまま」に達した平和として示される。バタイユ「エロティシズム」の「禁止と侵犯（interdit et transgression）」の逆転：ランセがエロスを禁止することでタナトス的連続性を獲得したとすれば、ネルヴォはランセの「血の気のない四肢（miembros exangües）」から「神秘的な発散（efluvio misterioso）」を吸い込み「平和を伝染させてほしい（contagio de la paz）」と願う──禁欲の平和への「欲望（deseo）」がバタイユ的エロティシズムの構造をとる逆説。「contagio de la paz（平和の伝染）」という表現が詩全体の最後の定式として機能する：「Gótica」では廃墟の修道院に問いかけ、「Azraël」では死の天使に眠りを求め、「Intra vulnera」ではキリストの傷口に隠れ、「A Rancé」では苦行者の「平和を伝染」させてほしいという──「Místicas」における「外部との接触による内的変容」の要請の四段階的深化として。",
+      "targetId": "nervo_intra_vulnera",
+      "targetParagraphId": 4
+    }
+  ]
+}
