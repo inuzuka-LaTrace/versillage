@@ -1,0 +1,73 @@
+{
+  "id": "liturgy_requiem_aeternam",
+  "title": "Requiem Æternam",
+  "author": "Sine Nomine",
+  "source": "Wikisource Latina (Vicifons): https://la.wikisource.org/wiki/Requiem_aeternam",
+  "year": "Antiquitas",
+  "firstPublication": "anno incognito",
+  "difficulty": "初級",
+  "category": "liturgy",
+  "originalLang": "la-LA",
+  "modernRelevance": "★★★★★",
+  "context": "死者のためのミサ（Missa pro Defunctis）の入祭唱（Introitus）冒頭句。典礼上の起源は古代から中世にかけて漸次確立し、第四ラテラノ公会議（1215年）以後にトリエント・ミサの定型として固定化された。「Réquiem ætérnam dona eis, Dómine（主よ、彼らに永遠の安息を与えたまえ）」はエスドラス記第二（第四エスドラス書）2:34–35「給彼等永遠之休息」から由来するとされるが、典礼的定着の過程は複雑である。「et lux perpétua lúceat eis（永遠の光をもって彼らを照らしたまえ）」は詩篇138:12「闇もあなたには暗くなく、夜は昼のように輝く」の精神を継承する。「Requiéscant in pace. Amen（彼らが平和に安らかに眠らんことを。アーメン）」はミサ終祷句（Ite, missa est）の変形として死者のミサに特有のものとなった。三行の極度の凝縮の中に「永遠の安息（requiem aeternam）・永遠の光（lux perpetua）・平和の眠り（requiescant in pace）」という死後存在への三つの祈願が完結する。ネルヴォ「Requiem」がこの三行を三位一体的な詩的供誦へと拡張したように、この定型句はVANITISMEに収録される複数の詩テキストが参照する典礼的「底文（Urtext）」として機能する：マヴィリス「Εγκοίμηση」の「眠り」、サランダリス「Μελαγχολία της ύλης」の「ἴσως θὰ παραμείνουμε νεκροί…」、ダウスン「Requiem」、ロセッティ「Sweet Death」、すべてこの三行の詩的変奏として読める。",
+  "keywords": [
+    "Requiem aeternam",
+    "lux perpetua",
+    "requiescant in pace",
+    "入祭唱",
+    "Introitus",
+    "死者のためのミサ",
+    "Missa pro Defunctis",
+    "Sine Nomine",
+    "典礼定型句",
+    "永遠の安息",
+    "永遠の光",
+    "平和の眠り"
+  ],
+  "relatedTexts": [
+    "nervo_requiem",
+    "celano_dies_irae",
+    "jacobus_stabat_mater",
+    "fortunatus_vexilla_regis",
+    "mavilis_enkoimisi",
+    "sarantaris_melancholia_tis_ylis",
+    "dowson_a_requiem",
+    "rossetti_sweet_death",
+    "meleager_ap_vii_461",
+    "weil_accepter_le_vide"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "verses": "v.1–3",
+      "original": "Réquiem ætérnam dona eis, Dómine,\net lux perpétua lúceat eis.\nRequiéscant in pace. Amen.",
+      "provisionalTranslation": "主よ、彼らに永遠の安息を与えたまえ、\n永遠の光をもって彼らを照らしたまえ。\n彼らが平和に安らかに眠らんことを。アーメン。"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "glossary",
+      "anchor": "Réquiem ætérnam dona eis, Dómine,",
+      "body": "「Réquiem（安息・休息）」──ラテン語「requies（休息・安らぎ）」の対格形。「dona eis（彼らに与えたまえ）」──「donare（贈る・与える）」の命令形：祈願文において神への要求が「命令形」で表現される典礼的慣習。「eis（彼らに）」──三人称複数与格：特定の死者一人ではなく「彼ら」という複数形によって普遍的な死者全体への祈りとして開かれる。エスドラス記第二（第四エスドラス書）2:34–35「Ego enim eis requiem dabo（私は彼らに安息を与えよう）」が典拠とされる。典礼音楽における「Requiem」：グレゴリオ聖歌の入祭唱として中世から固定化され、モーツァルト・ヴェルディ・フォーレ・ブラームス等の作曲家による「レクイエム」作品群がすべてこの冒頭句を共有する──死の音楽的定型句としての地位。ネルヴォ「Requiem」（nervo_requiem）はこの句を三位一体への供誦詩の各連末リフレーンとして詩的に拡張する。",
+      "targetId": "nervo_requiem",
+      "targetParagraphId": 1
+    },
+    {
+      "paragraphId": 1,
+      "type": "glossary",
+      "anchor": "et lux perpétua lúceat eis.",
+      "body": "「et lux perpétua lúceat eis（永遠の光をもって彼らを照らしたまえ）」──「lux（光）」はカトリック神学において神の本性の核心的属性（「神は光である、神の中には何の闇もない」1ヨハネ1:5）。「perpétua（永遠の・絶えることなく続く）」──「perp-etua」はラテン語「per（通じて）＋aevum（時代・永遠）」の複合語：時間を貫通する永遠性を示す。「lúceat（照らせ）」──接続法現在三人称単数：「照らすように」という祈願法。ネルヴォ「Requiem」第1連の「y sin mañana y sin ayer（明日もなく昨日もなく）」という神の永遠性がこの「lux perpetua」に根拠を持つ。コヘレト第1章の「太陽の下に新しいものは何もない」という時間的循環に対して、「lux perpetua」は循環を超えた「永遠の光」という反命題として機能する──VANITISMEの詩的コーパスが「虚無（vanitas）」を出発点とするのに対し、「lux perpetua」はその最も凝縮された神学的応答として典礼的底文に位置する。",
+      "targetId": "hieronymus_ecclesiastes_1",
+      "targetParagraphId": 5
+    },
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "Requiéscant in pace. Amen.",
+      "body": "「Requiéscant in pace（彼らが平和に安らかに眠らんことを）」──接続法現在三人称複数の祈願形式：死者が「平和（pax）の中に安らう（requiescere）」という状態を祈願する。「R.I.P.」という墓碑銘略語として西洋全体に普及した定型句。「Amen（アーメン）」──ヘブライ語「אָמֵן（'āmēn、それは確かである・まさにそうである）」のラテン語音写：祈りの応答・確認・封印として機能する。三行全体の構造：「与えたまえ（dona）──照らしたまえ（luceat）──眠らんことを（requiescant）」という三つの祈願が「安息・光・平和」という死後的状態の三形象をなす。マヴィリス「Εγκοίμηση（子守唄）」の「眠りが汝を癒す（ὁ ὕπνος θὰ σὲ γιάνῃ）」・サランダリス「Μελαγχολία της ύλης」の「ἴσως θὰ παραμείνουμε νεκροί…（おそらく死者のまま……）」・メレアグロス「AP VII 461」の「ἀβαρής（軽やかにあれ）」──これら死者への詩的祈りが「Requiéscant in pace」という典礼的定型の詩的変奏として読める。ネルヴォの「Requiem」全体がこの三行の詩的拡張であり、「Místicas」詩集の典礼的核心として機能する。",
+      "targetId": "mavilis_enkoimisi",
+      "targetParagraphId": 3
+    }
+  ]
+}
