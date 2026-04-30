@@ -48,13 +48,13 @@
       "id": 2,
       "verses": "v.4–8",
       "original": "passus sub Póntio Piláto, crucifixus,\nmórtuus, et sepúltus, descéndit ad ínferos,\ntértia die resurréxit a mórtuis, ascéndit ad cælos,\nsedet ad déxteram Dei Patris omnipoténtis,\ninde ventúrus est iudicáre vivos et mórtuos.",
-      "provisionalTranslation": "ポンティウス・ピラトゥスのもとで受難し、十字架につけられ、\n死んで、葬られ、陰府に下り、\n三日目に死者の中から復活し、天に昇り、\n全能の父なる神の右の座に着き、\nそこから生者と死者を審判するために来られる。"
+      "provisionalTranslation": "ポンティオ・ピラトのもとで受難し、十字架につけられ、\n死し、葬られ、陰府に下り、\n三日目に死者の中から復活し、天に昇り、\n全能の父なる神の右の座に着き、\nそこから生者と死者を審判するために来られる。"
     },
     {
       "id": 3,
       "verses": "v.9–12",
-      "original": "Et in Spíritum Sanctum, sanctam Ecclésiam cathólicam,\nsanctórum communiónem, remissiónem peccatórum,\ncarnis resurrectiónem, vitam ætérnam.\nAmen.",
-      "provisionalTranslation": "また聖霊を、聖なる普遍の教会を、\n聖人の交わりを、罪の赦しを、\n肉体の復活を、永遠の命を信じる。\nアーメン。"
+      "original": "Et in Spíritum Sanctum, \nsanctam Ecclésiam cathólicam,\nsanctórum communiónem, \nremissiónem peccatórum,\ncarnis resurrectiónem, vitam ætérnam.\nAmen.",
+      "provisionalTranslation": "また聖霊を、\n聖なる普遍の教会を、\n聖人の交わりを、\n罪の赦しを、\n肉体の復活を、永遠の命を信じる。\nアーメン。"
     }
   ],
   "annotations": [
@@ -75,7 +75,7 @@
     {
       "paragraphId": 2,
       "type": "commentary",
-      "anchor": "passus sub Póntio Piláto, crucifixus, mórtuus, et sepúltus, descéndit ad\nínferos, tértia die resurréxit a mórtuis,",
+      "anchor": "passus sub Póntio Piláto, crucifixus,\nmórtuus, et sepúltus, descéndit ad ínferos,\ntértia die resurréxit a mórtuis,",
       "body": "「受難・十字架・死・葬り・陰府降下・復活」という六動詞の連続──「Symbolum Apostolicum」第二部の神学的核心。「passus / crucifixus / mortuus / sepultus」という四つの過去分詞が受難の四段階を歴史的完了事実として定義する。「descendit ad inferos（陰府に下った）」──ペトロ第一3:19「彼は捕らわれていた霊たちにも宣べ伝えた」の信条的定式化：キリストが死後に「死者の世界（inferos）」へと「下降（descendit）」するという「最下降（katábasis）」の神学。ダンテ「地獄篇（Inferno）」の「ダンテとヴェルギリウスの冥府旅行」がこの「descendit ad inferos」の詩的拡張として機能する。マヴィリス「Λήθη」の「アスフォデロスの野」・「De profundis（深みから）」（詩篇129）がともに「冥府的深淵」への接触を示す点で照応。「tertia die resurrexit a mortuis（三日目に死者の中から復活した）」──「resurrexit（復活した）」という完全な上昇運動が「descendit」の下降を反転させる：典礼コーパスの「下降と上昇」の原型的定式。サランダリス「Πάλι ο θάνατος πεθαίνει（また死が死ぬ）」の「生の歌が私たちを立たせる（σηκώνει όρθιους）」はこの「resurrexit」の詩的反響として読める。",
       "targetId": "dante_inferno_canto_1",
       "targetParagraphId": null
