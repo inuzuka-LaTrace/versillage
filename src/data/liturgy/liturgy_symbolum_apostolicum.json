@@ -3,7 +3,7 @@
   "title": "Symbolum Apostolicum",
   "author": "Sine Nomine",
   "source": "Wikisource Latina (Vicifons): https://la.wikisource.org/wiki/Symbolum_Apostolicum",
-  "year": "Antiquitas",
+  "year": "Medium Ævum",
   "firstPublication": "saeculo II",
   "difficulty": "初級",
   "category": "liturgy",
@@ -41,20 +41,20 @@
     {
       "id": 1,
       "verses": "v.1–3",
-      "original": "Credo in Deum Patrem omnipoténtem, Creatórem cæli et terræ, et in\nIesum Christum, Fílium Eius unicum, Dóminum nostrum, qui concéptus\nest de Spíritu Sancto, natus ex Maria Virgine,",
-      "provisionalTranslation": "私は信じる、全能の父なる神を、天と地の創造者を、そして\nイエス・キリストを、その唯一の御子、私たちの主を、聖霊によって\n宿り、おとめマリアから生まれた方を、"
+      "original": "Credo in Deum Patrem omnipoténtem, Creatórem cæli et terræ,\net in Iesum Christum, Fílium Eius unicum, Dóminum nostrum,\nqui concéptus est de Spíritu Sancto, natus ex Maria Virgine,",
+      "provisionalTranslation": "私は信じる、全能の父なる神を、天と地の創造者を、\nそしてイエス・キリストを、その唯一の御子、私たちの主を、\n聖霊によって宿り、おとめマリアから生まれた方を、"
     },
     {
       "id": 2,
-      "verses": "v.4–7",
-      "original": "passus sub Póntio Piláto, crucifixus, mórtuus, et sepúltus, descéndit ad\nínferos, tértia die resurréxit a mórtuis, ascéndit ad cælos, sedet ad\ndéxteram Dei Patris omnipoténtis, inde ventúrus est iudicáre vivos et\nmórtuos.",
-      "provisionalTranslation": "ポンティウス・ピラトゥスのもとで受難し、十字架につけられ、死んで、葬られ、陰府に\n下り、三日目に死者の中から復活し、天に昇り、全能の父なる\n神の右の座に着き、そこから生者と死者を\n審判するために来られる。"
+      "verses": "v.4–8",
+      "original": "passus sub Póntio Piláto, crucifixus,\nmórtuus, et sepúltus, descéndit ad ínferos,\ntértia die resurréxit a mórtuis, ascéndit ad cælos,\nsedet ad déxteram Dei Patris omnipoténtis,\ninde ventúrus est iudicáre vivos et mórtuos.",
+      "provisionalTranslation": "ポンティウス・ピラトゥスのもとで受難し、十字架につけられ、\n死んで、葬られ、陰府に下り、\n三日目に死者の中から復活し、天に昇り、\n全能の父なる神の右の座に着き、\nそこから生者と死者を審判するために来られる。"
     },
     {
       "id": 3,
-      "verses": "v.8–14",
-      "original": "Et in Spíritum Sanctum,\nsanctam Ecclésiam cathólicam,\nsanctórum communiónem,\nremissiónem peccatórum,\ncarnis resurrectiónem,\nvitam ætérnam.\nAmen.",
-      "provisionalTranslation": "また聖霊を、\n聖なる普遍の教会を、\n聖人の交わりを、\n罪の赦しを、\n肉体の復活を、\n永遠の命を信じる。\nアーメン。"
+      "verses": "v.9–12",
+      "original": "Et in Spíritum Sanctum, sanctam Ecclésiam cathólicam,\nsanctórum communiónem, remissiónem peccatórum,\ncarnis resurrectiónem, vitam ætérnam.\nAmen.",
+      "provisionalTranslation": "また聖霊を、聖なる普遍の教会を、\n聖人の交わりを、罪の赦しを、\n肉体の復活を、永遠の命を信じる。\nアーメン。"
     }
   ],
   "annotations": [
