@@ -1,0 +1,93 @@
+{
+  "id": "liturgy_agnus_dei",
+  "title": "Agnus Dei",
+  "author": "Sine Nomine",
+  "source": "Wikisource Latina (Vicifons): https://la.wikisource.org/wiki/Agnus_Dei",
+  "year": "Medium Ævum",
+  "firstPublication": "anno incognito",
+  "difficulty": "初級",
+  "category": "liturgy",
+  "originalLang": "la-LA",
+  "modernRelevance": "★★★★★",
+  "context": "「Agnus Dei（神の子羊）」はミサ通常文（Ordinarium Missae）の一部をなす典礼唱句。7世紀末、教皇セルギウス1世（在位687–701）の典礼改革によってミサに正式に導入されたとされる。典拠はヨハネ1:29「見よ、世の罪を取り除く神の子羊（Ecce Agnus Dei, qui tollit peccatum mundi）」──洗礼者ヨハネがイエスを指して言った言葉。「Agnus Dei（神の子羊）」という称号は旧約の過越の子羊（出エジプト12章）・イザヤ書53:7「屠り場に連れられる小羊のように（ut ovis ad occisionem ducetur）」・黙示録5章「屠られた子羊（Agnus qui occisus est）」という三重の聖書的系譜を背景に持つ。典礼形式：「Agnus Dei, qui tollis peccata mundi（世の罪を取り除く神の子羊よ）」という同一の呼格句が三度反復され、一・二回目は「miserere nobis（私たちを憐れみたまえ）」、三回目のみ「dona nobis pacem（私たちに平和を与えたまえ）」へと変化する。この最終行の変化が典礼音楽史上の最も重要な定式変換のひとつ：「憐れみ（misericordia）」から「平和（pax）」への神学的移行が、ミサの「共同体的和解→平和の挨拶（Pax Domini）」の典礼動作と対応する。死者のためのミサ（Missa pro Defunctis）では三回目が「dona eis requiem（彼らに安息を与えよ）」・「dona eis requiem sempiternam（彼らに永遠の安息を与えよ）」に変化し、「Requiem Æternam」との典礼的連続性をなす。コヘレト「太陽の下でなされるすべてを見た：すべては虚無（omnia vanitas）」という開口的命題に対する典礼的応答として、「dona nobis pacem（平和を与えよ）」という閉口的嘆願が機能する。ネルヴォ「Apocalíptica」で「すべての星々が水を胆汁に変え・七つの雷が無限を震わせた」後に、詩人が辿り着くべき典礼的出口としても読める。",
+  "keywords": [
+    "Agnus Dei",
+    "神の子羊",
+    "世の罪",
+    "peccata mundi",
+    "miserere nobis",
+    "dona nobis pacem",
+    "憐れみ",
+    "平和",
+    "三重反復",
+    "過越の子羊",
+    "黙示録の子羊",
+    "ミサ通常文",
+    "Ordinarium Missae",
+    "Sine Nomine"
+  ],
+  "relatedTexts": [
+    "liturgy_requiem_aeternam",
+    "liturgy_anima_christi",
+    "jacobus_stabat_mater",
+    "celano_dies_irae",
+    "fortunatus_vexilla_regis",
+    "nervo_requiem",
+    "nervo_apocaliptica",
+    "hieronymus_ecclesiastes_1",
+    "hieronymus_iob_1",
+    "meleager_ap_vii_461"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "verses": "v.1–2",
+      "original": "Agnus Dei, qui tollis peccata mundi:\nmiserere nobis.",
+      "provisionalTranslation": "世の罪を取り除く神の子羊よ：\n私たちを憐れみたまえ。"
+    },
+    {
+      "id": 2,
+      "verses": "v.3–4",
+      "original": "Agnus Dei, qui tollis peccata mundi:\nmiserere nobis.",
+      "provisionalTranslation": "世の罪を取り除く神の子羊よ：\n私たちを憐れみたまえ。"
+    },
+    {
+      "id": 3,
+      "verses": "v.5–6",
+      "original": "Agnus Dei, qui tollis peccata mundi:\ndona nobis pacem.",
+      "provisionalTranslation": "世の罪を取り除く神の子羊よ：\n私たちに平和を与えたまえ。"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "glossary",
+      "anchor": "Agnus Dei, qui tollis peccata mundi:",
+      "body": "「Agnus Dei（神の子羊）」の聖書的系譜：（1）出エジプト記12章の「過越の子羊（agnus paschalis）」──エジプト脱出の際に屠られ、その血によって長子の死から免れた子羊。（2）イザヤ書53:7「屠り場に連れられる小羊のように黙して（ut agnus coram tondente obmutuit）」という「苦難の僕」の形象。（3）ヨハネ1:29「見よ、世の罪を取り除く神の子羊（Ecce Agnus Dei qui tollit peccatum mundi）」──洗礼者ヨハネによるイエスへの初めての指定的称号。（4）黙示録5:12「屠られた子羊は、力と富と知恵と力と誉れと光栄と賛美を受けるにふさわしい（Dignus est Agnus qui occisus est）」。「qui tollis peccata mundi（世の罪を取り除く者）」──「tollere（取り除く・持ち上げる・廃棄する）」という動詞が「罪を担い取り除く」という贖罪の神学的行為を示す。ネルヴォ「Apocalíptica」の「Agnus（子羊）」参照：「el pináculo / donde mora el Cordero（子羊の宿るピナクル）」──スペイン語「Cordero（子羊）」がラテン語「Agnus」の同義語として黙示録的文脈で使用される。",
+      "targetId": "nervo_apocaliptica",
+      "targetParagraphId": 2
+    },
+    {
+      "paragraphId": 1,
+      "type": "prosody",
+      "anchor": "Agnus Dei, qui tollis peccata mundi:\nmiserere nobis.",
+      "body": "典礼形式：2行×3の三重反復（triplication）。「Agnus Dei, qui tollis peccata mundi」という同一の呼格句が三度繰り返され、応答句のみが一・二回目「miserere nobis（私たちを憐れみたまえ）」→三回目「dona nobis pacem（私たちに平和を与えたまえ）」に変化する。この反復変奏構造は三位一体の三位格への対応・三回の鐘打ち・ミサの「Kyrie eleison」三重構造（Kyrie / Christe / Kyrie）と平行する。典礼音楽における「Agnus Dei」：グレゴリオ聖歌から多声音楽・古典派・ロマン派の作曲家（パレストリーナ・バッハ・モーツァルト・ヴェルディ・フォーレ）まで、ミサ曲の定型部分として西洋音楽史全体を貫く。「Anima Christi」の14行「me（私を）」の反復が個人的嘆願を構成するのに対し、「Agnus Dei」の「nobis（私たちを）」は共同体的嘆願として機能する──典礼テキスト群の中での個人（me）と共同体（nobis）の対照。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "miserere nobis.",
+      "body": "「miserere nobis（私たちを憐れみたまえ）」──「miserere」はヘブライ語「חָנֵּנִי（hanneni・私を憐れめ）」のラテン語訳。詩篇50（51）「Miserere mei, Deus（神よ、私を憐れみたまえ）」──ダヴィデの悔悛の詩篇が典礼的慣用句の母体。「Kyrie eleison（主よ、憐れみたまえ）」のギリシャ語句とともに、キリスト教典礼の最も古い嘆願定型のひとつ。「ヒエロニムス訳ヨブ記」での「Miserere mei（私を憐れめ）」──ヨブが神に向かって叫ぶ嘆願（ヨブ19:21「友よ、憐れんでくれ、神の手が私を打ったのだ」）と同語根：人間の苦悩から神への嘆願という構造的連続性。二回の「miserere nobis」の後に来る「dona nobis pacem」への変化が典礼的「憐れみ→平和」の神学的移行を体現する。",
+      "targetId": "hieronymus_ecclesiastes_1",
+      "targetParagraphId": 14
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "Agnus Dei, qui tollis peccata mundi:\ndona nobis pacem.",
+      "body": "「dona nobis pacem（私たちに平和を与えたまえ）」──典礼の文脈では「Agnus Dei」の後に続く「平和の挨拶（Pax Domini）」──「主の平和があなたたちとともに（Pax Domini sit semper vobiscum）」──の序奏として機能する。「pax（平和）」はラテン語の「Pax Romana」から「Pax Christi」へと意味論的に神学化された語彙：「世の平和」ではなく「キリストの平和（ヨハネ14:27「私はあなたたちに平和を残す、私の平和を与える。世が与えるように私は与えない）」。死者のためのミサでは「dona nobis pacem」→「dona eis requiem sempiternam（彼らに永遠の安息を与えよ）」に変化する──「私たちの平和」から「彼らの永遠の安息」への転換が「Requiem Æternam」との典礼的連続をなす。コヘレト「Ecclesiastes」が「afflictio spiritus（霊の苦悩）」として世の不飽和を記述し、「Agnus Dei」がその世の罪（peccata mundi）を取り除いた上で平和（pax）を嘆願するという応答的構造──VANITISMEコーパスにおける「虚無（vanitas）→苦悩（afflictio）→憐れみ（miserere）→平和（pax）」という神学的軌跡の縮図として。",
+      "targetId": "liturgy_requiem_aeternam",
+      "targetParagraphId": 1
+    }
+  ]
+}
