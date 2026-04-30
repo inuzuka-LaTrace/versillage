@@ -1,0 +1,89 @@
+{
+  "id": "liturgy_ave_verum_corpus",
+  "title": "Ave Verum Corpus",
+  "author": "Sine Nomine",
+  "source": "Wikisource Latina (Vicifons): https://la.wikisource.org/wiki/Ave_Verum_Corpus",
+  "year": "Medium Ævum",
+  "firstPublication": "saeculo XIII",
+  "difficulty": "初級",
+  "category": "liturgy",
+  "originalLang": "la-LA",
+  "modernRelevance": "★★★★★",
+  "context": "「Ave Verum Corpus（幸あれ、御身体よ）」は13世紀起源の匿名典礼聖歌で、聖体変化（consecration）後に歌われる聖体奉唱（Motet）。全5行の極めて凝縮された構造の中に、キリストの真の肉体性（verum corpus）・受難（passum）・犠牲（immolatum）・脇腹からの血と水（latus perforatum）・死の試み（mortis in examine）・三重の感嘆（O Iesu dulcis / pie / fili Mariae）という神学的密度が凝縮される。「Verum corpus（真の体）」という定式はドケティズム（キリストの身体は仮象に過ぎないとする異端）への反駁として機能する：「真に（vere）苦しみ（passum）、真に（vere）十字架において人のために犠牲（immolatum）にされた体」という肉体性の強調。「Cujus latus perforatum fluxit aqua et sanguine（その穿たれた脇腹から水と血が流れ出た）」──ヨハネ19:34の直接的神学的言及：この水と血が洗礼（水）と聖体（血）という二つの秘跡の起源として解釈される。「Esto nobis praegustatum mortis in examine（死の試練において我らに先んじて味わわせたまえ）」──「praegustatum（予め味わわれたもの）」という語がキリストの体を「死の向こう側を先取りして味わう」聖体として定義する：地上での聖体拝領が「死後の永遠の命」の予示（praegustatio）として機能するという神学命題。モーツァルト（KV 618、1791年）・ビクトリア・バード等による音楽化が著名。「Anima Christi」の「Sanguis Christi, inebria me（血よ酔わせよ）」・「Corpus Christi, salva me（体よ救え）」とこの「Ave Verum Corpus」は同一の聖体神学（corpore et sanguine Christi）の詩的・典礼的展開として照応する。",
+  "keywords": [
+    "Ave Verum Corpus",
+    "まことの体",
+    "聖体",
+    "verum corpus",
+    "de Maria virgine",
+    "vere passum",
+    "immolatum in cruce",
+    "latus perforatum",
+    "aqua et sanguis",
+    "praegustatum",
+    "mortis in examine",
+    "O Iesu dulcis",
+    "13世紀",
+    "Sine Nomine"
+  ],
+  "relatedTexts": [
+    "liturgy_anima_christi",
+    "liturgy_agnus_dei",
+    "liturgy_ave_maria",
+    "liturgy_requiem_aeternam",
+    "jacobus_stabat_mater",
+    "fortunatus_vexilla_regis",
+    "nervo_intra_vulnera",
+    "nervo_requiem",
+    "weil_accepter_le_vide"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "verses": "v.1–2",
+      "original": "Ave verum corpus natum de Maria virgine\nVere passum immolatum in cruce pro homine",
+      "provisionalTranslation": "幸あれ、乙女マリアより生まれた真の御身体よ、\n真に苦しみ、人のために十字架において犠牲にされた御身体よ。"
+    },
+    {
+      "id": 2,
+      "verses": "v.3–5",
+      "original": "Cujus latus perforatum fluxit aqua et sanguine\nEsto nobis prægustatum mortis in examine\nO Iesu dulcis! O Iesu pie! O Iesu fili Mariæ",
+      "provisionalTranslation": "その穿たれた脇腹から水と血が流れ出た御身体よ。\n死の試練において我らに先んじて味わわせたまえ。\nおお、甘きイエスよ！おお、慈悲深きイエスよ！おお、マリアの子イエスよ！"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "glossary",
+      "anchor": "Ave verum corpus natum de Maria virgine",
+      "body": "「Ave verum corpus（幸あれ、真の御身体よ）」──「Ave Maria」の「Ave」とほぼ同一の呼格的挨拶がキリストの「体（corpus）」へと向けられる：マリアへの「Ave」（受胎告知の再演）がキリストの体への「Ave」として聖体拝領の文脈に転用される。「verum corpus（真の御身体）」という形容詞「verum（真の・本物の）」の強調はドケティズム（キリストの身体を仮象と見なす異端）への反駁として機能する：キリストは「真に（vere）」肉体を持ち、「真に（vere）」苦しみ、「真に（vere）」死んだという肉体性の神学的確認。「natum de Maria virgine（乙女マリアより生まれた）」──使徒信条「natus ex Maria virgine（乙女マリアから生まれ）」の直接的反響：ニカイア信条・使徒信条という信仰告白の核心的句が典礼聖歌に組み込まれる。「Ave Verum Corpus」と「Ave Maria」は「マリアから生まれた（de Maria virgine）」という共通のフレーズで接続される：マリアへの挨拶（Ave Maria）がそのマリアから生まれたキリストの体への挨拶（Ave Verum Corpus）として展開する。",
+      "targetId": "liturgy_ave_maria",
+      "targetParagraphId": 1
+    },
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "Vere passum immolatum in cruce pro homine",
+      "body": "「真に苦しみ、人のために十字架において犠牲にされた（Vere passum immolatum in cruce pro homine）」──「passum（苦しみを受けた）」は「pati（受難する・苦しむ）」の完了分詞：キリストの受難が完了した過去的事実として定義される。「immolatum（犠牲にされた）」──「immolare（犠牲として供える・屠る）」の完了分詞：古代ローマの「immolatio（神への犠牲供儀）」という宗教的語彙がキリスト教の犠牲神学に転用される。「Vere（真に）」という副詞の強調が「verum corpus（まことの体）」v.1の「verum」と照応し、詩全体の神学的確認を強化する。「pro homine（人のために）」──「Agnus Dei, qui tollis peccata mundi（世の罪を取り除く）」の贖罪神学と同型：キリストの犠牲が「人（homo）」のために行われたという身代わり的贖罪（redemptio）の定式。ネルヴォ「Intra vulnera tua abscondime」の「y por la cruz en que borraste / todas las culpas de Israel（十字架によってイスラエルのすべての罪を消した）」との直接的照応。",
+      "targetId": "liturgy_agnus_dei",
+      "targetParagraphId": 1
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "Cujus latus perforatum fluxit aqua et sanguine\nEsto nobis prægustatum mortis in examine",
+      "body": "「穿たれた脇腹から水と血が流れ出た（latus perforatum fluxit aqua et sanguine）」──ヨハネ19:34「一人の兵士が槍で脇腹を刺した。すると血と水が流れ出た（exivit sanguis et aqua）」の直接引用。教父神学（キプリアヌス・アウグスティヌス）はこの「水と血」を洗礼と聖体（ユーカリスト）という二つの秘跡の起源として解釈した──「Anima Christi」の「Aqua lateris Christi, lava me（脇腹の水よ、私を洗え）・Sanguis Christi, inebria me（血よ酔わせよ）」がこの神学的解釈の詩的・祈願的展開。「Esto nobis praegustatum mortis in examine（死の試練において我らに先んじて味わわせたまえ）」──「praegustatum（予め味わわれたもの）」という語がこの聖歌の神学的核心：「praegustare（先行して味わう）」は地上での聖体拝領が「死後の永遠の命」の先取り的体験として機能するという命題を示す。「mortis in examine（死の試みにおいて）」──「examen（試練・吟味・審判）」がここでは「死の瞬間の試練」として機能する：「Agnus Dei」の「hora mortis（死の時）」・「Ave Maria」の「in hora mortis nostrae」と同型の終末論的時刻への祈願。ヴェイユ「Accepter le vide（真空を受容する）」の「死の先取り的受容」との神学的照応：ヴェイユ的「脱創造（décréation）」が「自己の先行的消滅」を求めるのに対し、「praegustatum」は「永遠の命の先行的味わい」を求める──同一の「先取り（prae-）」が死と生の両方向に開かれる。",
+      "targetId": "liturgy_anima_christi",
+      "targetParagraphId": 1
+    },
+    {
+      "paragraphId": 2,
+      "type": "prosody",
+      "anchor": "O Iesu dulcis! O Iesu pie! O Iesu fili Mariæ",
+      "body": "「おお、甘きイエスよ！おお、慈悲深きイエスよ！おお、マリアの子イエスよ（O Iesu dulcis! O Iesu pie! O Iesu fili Mariae）」──単一の長行が三重の感嘆（apostrophe）として構成される：「dulcis（甘き）・pius（慈悲深き・敬虔な）・fili Mariae（マリアの子）」という三つの呼格がイエスの異なる属性を三連的に定義する。「O Iesu dulcis（甘きイエス）」──「Anima Christi」の「O bone Iesu, exaudi me（おお、善きイエスよ、聞き入れたまえ）」と同型の感嘆的呼格：典礼テキスト群を通じてイエスへの感嘆的呼格が共通の様式をなす。詩形：典礼的強勢律（accentual）の長行（多音節行）が5行をなす。モーツァルト「Ave Verum Corpus」（KV 618, 1791年）はこの5行テキストを弦楽四重奏・合唱・オルガン編成の約4分間の短曲として音楽化した──典礼聖歌史上の最も有名な音楽的変奏として。「Anima Christi」の14行・「Agnus Dei」の6行・「Ave Maria」の9行・「Requiem Æternam」の3行とともに、liturgyカテゴリの凝縮された典礼テキスト群として機能する。",
+      "targetId": "liturgy_anima_christi",
+      "targetParagraphId": 3
+    }
+  ]
+}
+
