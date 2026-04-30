@@ -1,0 +1,112 @@
+{
+  "id": "nervo_requiem",
+  "title": "Requiem",
+  "author": "Amado Nervo",
+  "source": "Místicas (1898). Wikisource (スペイン語): https://es.wikisource.org/wiki/M%C3%ADsticas/XIII",
+  "year": "1898",
+  "firstPublication": "Místicas, México, 1898",
+  "difficulty": "上級",
+  "category": "nervo",
+  "originalLang": "es-ES",
+  "modernRelevance": "★★★★★",
+  "context": "アマード・ネルヴォ（Amado Nervo, 1870–1919）の詩集「Místicas（1898）」XIII番。ホセ・M・オチョアに献じられた。「Requiem（鎮魂曲）」はカトリックのミサ通常文の冒頭句「Requiem aeternam dona eis, Domine（主よ、彼らに永遠の安息を与えたまえ）/ et lux perpetua luceat eis（永遠の光をもって彼らを照らしたまえ）」を各連末尾のラテン語リフレーンとして繰り返す、死者のための三位一体的祈り。詩は三つの大連に分かれ、それぞれ三位一体の第一位格（父・永遠の王）、第二位格（キリスト・人の子）、第三位格（聖霊・聖母と弟子たちへの霊感）への「por（〜によって・〜にかけて）」による懇願の連鎖として構成される。カトリック典礼の「供誦（letanía）」形式が詩形の骨格をなす：「por X」という理由節が積み重なり、最後にラテン語の応唱句で閉じられる。第1連：天地創造（「光あれ」）から「言（Verbo）の共存」という神学的命題まで。第2連：キリストの受難──「飼葉桶の冷たさ（pesebre de Belem）」から「酢と胆汁・茨の冠・十字架・イスラエルの罪の贖い」まで──「Intra vulnera tua abscondime」で「砕けた脇腹の傷」に隠れた詩人が、今度は「その傷を死者のための贖いとして」神に差し出す。第3連：聖霊（パラクレトス）・三位一体の神学・聖母マリアの無原罪の清潔性・ペンテコステの「炎の舌」まで。典礼聖歌「Dies irae（怒りの日）」・「Stabat Mater（悲しみの御母）」とともに、カトリック典礼詩学のモデルニスモへの受容・翻案の代表作。セラーノ・ダリオ「Responso a Verlaine（ヴェルレーヌへの鎮魂）」とは同一の「Responso/Requiem」形式を異なる詩学的立場から実践する。",
+  "keywords": [
+    "Requiem",
+    "鎮魂曲",
+    "requiem aeternam",
+    "et lux perpetua",
+    "三位一体",
+    "por（〜によって）",
+    "供誦",
+    "letanía",
+    "天地創造",
+    "キリストの受難",
+    "聖霊",
+    "聖母マリア",
+    "ペンテコステ",
+    "モデルニスモ",
+    "ネルヴォ"
+  ],
+  "relatedTexts": [
+    "nervo_gotica",
+    "nervo_azrael",
+    "nervo_intra_vulnera",
+    "nervo_apocaliptica",
+    "jacobus_stabat_mater",
+    "celano_dies_irae",
+    "fortunatus_vexilla_regis",
+    "dario_responso_a_verlaine",
+    "verlaine_un_crucifix",
+    "weil_atheisme_purificateur"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "verses": "v.1–12",
+      "original": "¡Oh, Señor!, Dios de los ejércitos,\neterno Padre, eterno Rey,\npor este mundo que creaste\ncon la virtud de tu poder,\nporque dijiste: la luz sea,\ny a tu palabra la luz fue;\nporque coexistes con el Verbo,\nporque contigo el Verbo es\ndesde los siglos de los siglos\ny sin mañana y sin ayer,\nrequiem aeternam dona eis, Domine,\net lux perpetua luceat eis!",
+      "provisionalTranslation": "ああ、主よ、軍勢の神よ、\n永遠の父、永遠の王よ、\n汝が汝の力の徳によって創った\nこの世界によって、\n汝が「光あれ」と言い、\n汝の言葉に光があったゆえに、\n汝が言（ことば）とともに共存し、\n言が汝とともにあるゆえに\n世々よりこのかた\n明日もなく昨日もなく、\n主よ、彼らに永遠の安息を与えたまえ、\n永遠の光をもって彼らを照らしたまえ！"
+    },
+    {
+      "id": 2,
+      "verses": "v.13–24",
+      "original": "¡Oh, Jesucristo, por el frío\nde tu pesebre de Belem,\npor tus angustias en el Huerto,\npor el vinagre y por la hiel,\npor las espinas y las varas\ncon que tus carnes desgarré,\ny por la cruz en que borraste\ntodas las culpas de Israel;\nHijo del Hombre, desolado,\ntrágico Dios, tremendo Juez:\nrequiem aeternam dona eis, Domine,\net lux perpetua luceat eis!",
+      "provisionalTranslation": "ああ、イエス・キリストよ、ベレムの\n飼葉桶の冷たさによって、\n園での苦悩によって、\n酢と胆汁によって、\n茨と鞭によって\n汝の肉が引き裂かれたゆえに、\nイスラエルのすべての罪を\n消し去った十字架によって、\n荒廃した人の子よ、\n悲劇的な神よ、恐るべき審判者よ：\n主よ、彼らに永遠の安息を与えたまえ、\n永遠の光をもって彼らを照らしたまえ！"
+    },
+    {
+      "id": 3,
+      "verses": "v.25–36",
+      "original": "Divino Espíritu, Paráclito,\naspiración del gran Iaveh,\nque unes al Padre con el Hijo,\ny siendo Uno sois los Tres:\npor las palomas de alas níveas,\npor la inviolada doncellez\nde aquella virgen que en su vientre\nllevó a Mesías Emmanuel;\npor las ardientes lenguas rojas\ncon que inspiraste ciencia y fe\na los discípulos amados\nde Jesucristo, nuestro bien:\nrequiem aeternam dona eis, Domine,\net lux perpetua luceat eis!",
+      "provisionalTranslation": "神なる霊よ、パラクレトスよ、\n偉大なヤハウェの霊息よ、\n父と子を結ぶ者よ、\n一にしてあなたたちは三である。\n雪白の翼の鳩によって、\n胎に救い主エマヌエルを\n宿したあの乙女の\n侵されることのない乙女性によって、\n愛された弟子たちに\n知恵と信仰を霊感した\n燃える赤い炎の舌によって：\n主よ、彼らに永遠の安息を与えたまえ、\n永遠の光をもって彼らを照らしたまえ！"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "glossary",
+      "anchor": "requiem aeternam dona eis, Domine,\net lux perpetua luceat eis!",
+      "body": "「Requiem aeternam dona eis, Domine（主よ、彼らに永遠の安息を与えたまえ）/ et lux perpetua luceat eis（永遠の光をもって彼らを照らしたまえ）」──死者のためのミサ（Missa pro Defunctis）の入祭唱（Introitus）冒頭、エスドラス記4（第二エスドラス書）2:34–35に由来するラテン語応唱句。詩の三大連末尾に一貫して反復されるリフレーンとして典礼的応唱（responsorio）の形式を詩に導入する。「Eis（彼らに）」という三人称複数がこの祈りを特定の死者に向けられた他者への祈りとして定義する：詩的主体が「私のために」ではなく「彼らのために」祈るという構造。典礼聖歌「Stabat Mater」のヤコポ・ダ・トーディ作の連鎖的祈願形式・「Dies irae」のトマス・デ・チェラーノ作の応唱形式とともに、カトリック典礼詩学の中核形式として位置づけられる。ダリオ「Responso a Verlaine（ヴェルレーヌへの鎮魂）」との対照：ダリオが特定の死者（ヴェルレーヌ）への個人的追悼として「Responso」を書くのに対し、ネルヴォの「Requiem」の「eis（彼ら）」は不特定の死者全体への普遍的祈りとして機能する。",
+      "targetId": "dario_responso_a_verlaine",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "porque dijiste: la luz sea,\ny a tu palabra la luz fue;\nporque coexistes con el Verbo,\nporque contigo el Verbo es\ndesde los siglos de los siglos\ny sin mañana y sin ayer,",
+      "body": "「汝が『光あれ』と言い、汝の言葉に光があった（dijiste: la luz sea / a tu palabra la luz fue）」──創世記1:3「神は言われた、『光あれ』。こうして光があった（Dixitque Deus: Fiat lux. Et facta est lux）」の引用。「porque coexistes con el Verbo（汝が言とともに共存する）」──ヨハネ1:1「初めに言（Verbo）があった。言は神とともにあった（In principio erat Verbum, et Verbum erat apud Deum）」の神学的定式。「desde los siglos de los siglos / y sin mañana y sin ayer（世々よりこのかた・明日もなく昨日もなく）」──神の永遠性を「時間の不在（sin mañana y sin ayer）」として定義する。コヘレト「Nihil sub sole novum…quae praecessit in saeculis（太陽の下に新しいものは何もない……時代に先行していた）」──コヘレトが「時代の循環（saecula）」の中に虚無を見出すのに対し、ネルヴォは「世々（siglos de los siglos）」の永遠性を神の属性として死者への祈りの根拠に置く。「黙示録」10:6のエピグラフ「永遠に生きる者にかけて、もはや時はない」（nervo_apocaliptica）との神学的対照：「Apocalíptica」では「時の終わり」が死の嘆きを呼び起こしたのに対し、「Requiem」では「時なき永遠」が死者への光の根拠として機能する。",
+      "targetId": "nervo_apocaliptica",
+      "targetParagraphId": 0
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "por el frío\nde tu pesebre de Belem,\npor tus angustias en el Huerto,\npor el vinagre y por la hiel,\npor las espinas y las varas\ncon que tus carnes desgarré,",
+      "body": "「飼葉桶の冷たさ・園での苦悩・酢と胆汁・茨と鞭（frío de tu pesebre / angustias en el Huerto / vinagre y hiel / espinas y varas）」──受難の「por（〜によって）」連鎖がキリストの生涯の苦難を列挙する供誦的形式。「pesebre de Belem（ベレムの飼葉桶）」──降誕（ルカ2:7）。「angustias en el Huerto（園での苦悩）」──ゲッセマネの苦悶（マタイ26:36–46）。「vinagre y hiel（酢と胆汁）」──「Apocalíptica」連VI「hiel y absintio（胆汁とアブサン）」と同一語根：黙示録的形象として使われた「hiel」が「Requiem」ではキリスト受難の具体的な出来事（マタイ27:34・ヨハネ19:29）として典礼的に参照される。「Intra vulnera tua abscondime」（nervo_intra_vulnera）でキリストの「砕けた脇腹の傷」が詩人の避難所として求められたのに対し、「Requiem」では受難の全過程が死者への祈りの根拠として差し出される──同一の「キリストの受難」が個人的避難（Intra vulnera）から普遍的取り次ぎ（Requiem）へと展開する。典礼聖歌「Stabat Mater」の「受難の各段階への冥想的参加」という形式との照応。",
+      "targetId": "nervo_intra_vulnera",
+      "targetParagraphId": 4
+    },
+    {
+      "paragraphId": 2,
+      "type": "prosody",
+      "anchor": "Hijo del Hombre, desolado,\ntrágico Dios, tremendo Juez:",
+      "body": "詩形：ロマンス八音節（octosílabo）を基本とする不規則連。三大連（12行×3＋ラテン語2行）の「por」連鎖構造が供誦（letanía）形式を体現する。「Hijo del Hombre, desolado（荒廃した人の子）・trágico Dios（悲劇的な神）・tremendo Juez（恐るべき審判者）」という三重の呼格がキリストの三つの位相を凝縮する：人間性（Hijo del Hombre）・神性（Dios）・終末論的機能（Juez）。「Juez（審判者）」──典礼聖歌「Dies irae」の「Rex tremendae maiestatis（恐るべき威厳の王）」との直接的照応：「tremendo Juez」が「Dies irae」の「审判者」イメージを一語に圧縮する。マラルメ「ボードレールの墓（Tombeau de Charles Baudelaire）」・「葬礼の乾杯（Toast funèbre）」の死者への詩的応答が「詩人同士の対話」として機能するのに対し、ネルヴォの「Requiem」は「神への供誦」として典礼的媒介形式をとる──「詩が典礼を模倣する（ut poesis liturgia）」というモデルニスモ的詩学の極点として。",
+      "targetId": "celano_dies_irae",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "Divino Espíritu, Paráclito,\naspiración del gran Iaveh,\nque unes al Padre con el Hijo,\ny siendo Uno sois los Tres:",
+      "body": "「神なる霊・パラクレトス・偉大なヤハウェの霊息・父と子を結ぶ者・一にして三（Divino Espíritu, Paráclito / aspiración del gran Iaveh / unes al Padre con el Hijo / siendo Uno sois los Tres）」──三位一体第三位格（聖霊）への神学的定義群。「Paráclito」はギリシャ語「παράκλητος（傍らで呼ばれた者・弁護者・慰め手）」のラテン語転写で、ヨハネ14:16「私は父に求める、そして父は別の慰め手を与えるだろう」に基づく。「aspiración del gran Iaveh（偉大なヤハウェの霊息）」──「aspiración（息・呼気）」という語が聖霊を「神の息吹（spiritus）」の語義に忠実に定義する：創世記2:7の「命の息（spiraculum vitae）」の神学的変奏。「siendo Uno sois los Tres（一にしてあなたたちは三である）」──「siendo（〜でありながら）」という現在分詞が三位一体の同一性と複数性の逆説を一行で定式化する。ヴェイユ「atheisme purificateur（浄化する無神論）」での「三位一体への接近」論と対照的に、ネルヴォは三位一体を典礼的供誦の形式で「肯定」として詩化する。",
+      "targetId": "weil_atheisme_purificateur",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "por las palomas de alas níveas,\npor la inviolada doncellez\nde aquella virgen que en su vientre\nllevó a Mesías Emmanuel;\npor las ardientes lenguas rojas\ncon que inspiraste ciencia y fe\na los discípulos amados",
+      "body": "「雪白の翼の鳩・侵されることのない乙女性・燃える赤い炎の舌（palomas de alas níveas / inviolada doncellez / ardientes lenguas rojas）」──聖霊の三つの顕現。「palomas de alas níveas（雪白の翼の鳩）」──ヨルダン川でのイエスの洗礼における聖霊の降下（マタイ3:16「聖霊が鳩のように降ってきた」）。「inviolada doncellez / de aquella virgen（あの乙女の侵されることのない乙女性）」──受胎告知（ルカ1:35「聖霊があなたの上に降り……神の子は聖なる者と呼ばれるであろう」）。「ardientes lenguas rojas（燃える赤い炎の舌）」──ペンテコステ（使徒言行録2:3「炎のような舌が分かれて現れ、一人一人の上にとどまった」）。「Apocalíptica」連VII「chispas de fraguas del viejo cosmos（古いコスモスの炉の火花）」がコスモスの終末的崩壊の炎を示したのに対し、「Requiem」の「ardientes lenguas rojas（燃える炎の舌）」は創造・啓示の炎として機能する──同一の「炎」が黙示録的破壊と聖霊的啓示という対極の神学的機能を担う。典礼聖歌「Vexilla Regis（王の御旗）」のヴェナンティウス・フォルトゥナートゥスが十字架を「炎（ignis）」として讃えたのと同型の火の神学として。",
+      "targetId": "fortunatus_vexilla_regis",
+      "targetParagraphId": null
+    }
+  ]
+}
