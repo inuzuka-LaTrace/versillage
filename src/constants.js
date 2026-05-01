@@ -64,6 +64,7 @@ export const CATEGORIES = {
   kavafis:                    { name: 'カヴァフィス' },
   mavilis:                    { name: 'マヴィリス' },
   sarantaris:                 { name: 'サランダリス' },
+  karyotakis:                 { name: 'カリオタキス' },
 };
 
 // カテゴリー省略ラベル（バッジ表示用）
@@ -126,6 +127,7 @@ export const CAT_SHORT = {
   kavafis:                 'カヴァフィス',
   mavilis:                 'マヴィリス',
   sarantaris:              'サランダリス',
+  karyotakis:              'カリオタキス',
 };
 
 export const AUTHOR_COLOR_MAP = {
@@ -183,6 +185,7 @@ export const AUTHOR_COLOR_MAP = {
   kavafis:          { dark: 'bg-violet-900/40 text-violet-300', light: 'bg-violet-100 text-violet-800' },
   mavilis:          { dark: 'bg-amber-900/40 text-amber-300',   light: 'bg-amber-100 text-amber-800' },
   sarantaris:       { dark: 'bg-sky-900/40 text-sky-300',      light: 'bg-sky-100 text-sky-800' },
+  karyotakis:       { dark: 'bg-blue-900/40 text-blue-300',    light: 'bg-blue-100 text-blue-800' },
   default:          { dark: 'bg-zinc-800 text-zinc-300',       light: 'bg-stone-100 text-stone-700' }
 };
 
