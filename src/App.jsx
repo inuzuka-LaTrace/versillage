@@ -62,6 +62,7 @@ import palladasData from './data/palladas';
 import kavafisData from './data/kavafis';
 import mavilisData from './data/mavilis';
 import sarantarisData from './data/sarantaris';
+import karyotakisData from './data/karyotakis';
 import { CATEGORIES, CAT_SHORT, ANNOTATION_TYPE_DEF, SPEECH_RATES, PREFERRED_VOICES, SPEAKER_COLORS, SPEAKER_FIXED_COLORS, AUTHOR_COLOR_MAP } from './constants';
 import { getTranslation, getOriginalText, getSpeechLang, getBestVoice, extractSnippet } from './utils';
 
@@ -289,6 +290,7 @@ export default function App() {
       ...kavafisData,
       ...mavilisData,
       ...sarantarisData,
+      ...karyotakisData,
     };
     setTexts(allTexts);
   const timer = setTimeout(() => {
