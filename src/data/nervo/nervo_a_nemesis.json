@@ -1,0 +1,101 @@
+{
+  "id": "nervo_a_nemesis",
+  "title": "A Némesis",
+  "author": "Amado Nervo",
+  "source": "Místicas (1898). Wikisource (スペイン語): https://es.wikisource.org/wiki/M%C3%ADsticas/XV",
+  "year": "1898",
+  "firstPublication": "Místicas, México, 1898",
+  "difficulty": "上級",
+  "category": "nervo",
+  "originalLang": "es-ES",
+  "modernRelevance": "★★★★★",
+  "context": "アマード・ネルヴォ（Amado Nervo, 1870–1919）の詩集「Místicas（1898）」XV番。「A Némesis（ネメシスへ）」──ネメシス（Νέμεσις）はギリシャ神話の応報・復讐の女神で、神々の怒り・不当な幸福への罰・過大な傲慢への制裁を司る。詩はソネット形式（ABBA ABBA / CDC DCD）をとり、ネメシスという運命の力への挑戦的な態度を詩的主体が示す構造をなす。第1連（オクターヴ前半）：ネメシスが詩人を苦悩に投げ込み、魂を喜ばせるものを奪い、花を萎れさせるというシムーン（熱砂嵐）の形象による損失の描写。第2連（オクターヴ後半）：しかし信仰はその苦悩とともに育ち、「イドゥメアの正しき者（Job）」のように「こうして神は望む、祝福あれ！主は与え、主は奪う（Así lo quiere Dios, ¡bendito sea! / El Señor me lo da, Él me lo quita）」と言えると宣言する。第3連（セステット前半）：汝の怒りが増しても構わない、「私を強める彼（AQUEL）」において私はすべてをできる、と言いながら死を受け入れる。第4連（セステット後半）：「暗い夜の赤い幻影として、キリストが緋色の衣を揺らしながら私の苦難の道を歩む」という神秘主義的ヴィジョンで閉じる。「ヨブ記（el Justo de Idumea）」への直接的言及が詩の神学的骨格をなす：ヒエロニムス訳ヨブ記で神がヨブに下したすべての苦難が「ネメシスの怒り」として詩的に変奏され、ヨブの「主は与え、主は奪う（Dominus dedit, Dominus abstulit）」という応答（ヨブ1:21）がスペイン語で直接引用される。「noche oscura（暗い夜）」──十字架の聖ヨハネ「魂の暗夜（Noche oscura del alma）」への暗示：「暗い夜」の闇の中にキリストの「緋色の衣（túnica escarlata）」が赤く輝くという対比が神秘主義的イルミナシオンの形象をなす。",
+  "keywords": [
+    "Némesis",
+    "ネメシス",
+    "応報",
+    "ヨブ",
+    "el Justo de Idumea",
+    "主は与え主は奪う",
+    "simún",
+    "シムーン",
+    "noche oscura",
+    "túnica escarlata",
+    "緋色の衣",
+    "vía de amargura",
+    "苦難の道",
+    "ソネット",
+    "モデルニスモ",
+    "ネルヴォ"
+  ],
+  "relatedTexts": [
+    "nervo_intra_vulnera",
+    "nervo_gotica",
+    "nervo_azrael",
+    "nervo_requiem",
+    "hieronymus_iob_1",
+    "hieronymus_iob_3",
+    "hieronymus_iob_19",
+    "juan_de_la_cruz_noche_oscura",
+    "weil_atheisme_purificateur",
+    "wilde_e_tenebris"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "verses": "v.1–4",
+      "original": "Tu brazo en el pesar me precipita,\nme robas cuanto el alma me recrea,\ny casi nada tengo: flor que orea\ntu aliento de simún, se me marchita.",
+      "provisionalTranslation": "汝の腕は私を苦悩に突き落とし、\n魂を喜ばせるものすべてを奪い、\n私はほとんど何も持たない：汝の\nシムーンの息吹が吹きつける花は萎れてしまう。"
+    },
+    {
+      "id": 2,
+      "verses": "v.5–8",
+      "original": "Pero crece mi fe junto a mi cuita,\ny digo como el Justo de Idumea:\n¡Así lo quiere Dios, bendito sea!\nEl Señor me lo da, Él me lo quita.",
+      "provisionalTranslation": "しかし私の信仰は苦悩とともに育ち、\n私はイドゥメアの正しき者のように言う：\n「こうして神は望む、祝福あれ！\n主は与え、主は奪う。」"
+    },
+    {
+      "id": 3,
+      "verses": "v.9–11",
+      "original": "Que medre tu furor, nada me importa:\npuedo todo en AQUEL que me conforta,\ny me resigno al duelo que me mata;",
+      "provisionalTranslation": "汝の怒りが増しても何も構わない。\n私を強める彼（AQUEL）においてすべてをできる、\n私を殺す悲嘆に身を委ねる。"
+    },
+    {
+      "id": 4,
+      "verses": "v.12–14",
+      "original": "Porque, roja visión en noche oscura,\nCristo va por mi vía de amargura\nagitando su túnica escarlata.",
+      "provisionalTranslation": "なぜなら、暗い夜の赤い幻影として、\nキリストが私の苦難の道を歩んでいるから、\n緋色の衣を揺らしながら。"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "prosody",
+      "anchor": "Tu brazo en el pesar me precipita,\nme robas cuanto el alma me recrea,\ny casi nada tengo: flor que orea\ntu aliento de simún, se me marchita.",
+      "body": "ソネット形式：ABBA ABBA / CDC DCD。韻型：precipita(A)–recrea(B)–orea(B)–marchita(A) / cuita(A)–Idumea(B)–sea(B)–quita(A)。弱強11音節（endecasílabo）基本。「simún（シムーン）」──アラビア語「سَمُوم（samūm）」を起源とするサハラ・アラビア半島の熱砂嵐：ネルヴォがメキシコ人でありながらアラビア起源の語彙を選択することで、「ネメシスの怒り」を砂漠的・旧約的スケールの自然力として定義する。「flor que orea / tu aliento de simún, se me marchita（汝のシムーンの息吹が吹きつける花は萎れる）」──「orea（風で乾かす・吹きつける）」という動詞が花とシムーンの息吹を接続する：人生の喜びを「花」として、ネメシスの破壊力を「熱砂嵐」として形象化する。「Intra vulnera tua abscondime」の「la incurable tristeza de mi vida（生の癒しがたい悲しみ）」と同型の苦悩の定義がここでも展開する。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "allusion",
+      "anchor": "y digo como el Justo de Idumea:\n¡Así lo quiere Dios, bendito sea!\nEl Señor me lo da, Él me lo quita.",
+      "body": "「イドゥメアの正しき者（el Justo de Idumea）」──ヨブ（Job）への直接的言及。「イドゥメア（Idumea）」はヨブ記の舞台「ウツの地（terra Uz）」のラテン語的・スペイン語的呼称：ヨブの地はエドム（Edom）地方に位置するとされ、「イドゥメア」はエドムのギリシャ語的転写「Ἰδουμαία」のラテン語形。「El Señor me lo da, Él me lo quita（主は与え、主は奪う）」──ヨブ1:21「Dominus dedit, Dominus abstulit; sit nomen Domini benedictum（主は与え、主は奪う、主の名は讃えられよ）」の直接的スペイン語訳：ネルヴォは聖書テキストをほぼそのまま詩に組み込む。「Así lo quiere Dios, ¡bendito sea!（こうして神は望む、祝福あれ）」──「sit nomen Domini benedictum（主の名は讃えられよ）」のスペイン語的詩的変奏。「Místicas」における「ヨブ的信仰」の位置：「Azraël」では「生に病む（Enfermo de la vida）」と嘆き、「Intra vulnera」では自己批判的に「幸福の中でのみ開く徳」を批判したが、「A Némesis」では苦悩の中で信仰が増すという「ヨブ的逆説」に到達する──「Místicas」詩集内での詩的主体の神学的成熟として読める。",
+      "targetId": "hieronymus_iob_1",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "puedo todo en AQUEL que me conforta,\ny me resigno al duelo que me mata;",
+      "body": "「私を強める彼（AQUEL）においてすべてをできる（puedo todo en AQUEL que me conforta）」──「AQUEL（彼・その方）」という大文字表記が神・キリストへの言及を典礼的強調として示す。フィリピ4:13「Omnia possum in eo qui me confortat（私を強くしてくださる方において、私はすべてをできる）」のスペイン語訳：パウロの言葉の直接的引用が詩の中で大文字「AQUEL（その方）」として神秘化される。「y me resigno al duelo que me mata（私を殺す悲嘆に身を委ねる）」──「resignarse（身を委ねる・諦める）」という動詞が「ヨブ的受容」の詩的定式をなす：苦悩を「殺す（mata）」ものとして認めながら「身を委ねる（resigno）」という逆説。ヴェイユ「Accepter le vide（真空を受容する）」の「空虚を保ちながら受容する」という命題との照応：どちらも苦悩・空虚を「排除せずに受容する」という神秘主義的態度を示すが、ネルヴォはパウロ的信仰（AQUEL）を拠り所とし、ヴェイユは「神の恩寵の前提としての空虚」を拠り所とする。",
+      "targetId": "weil_accepter_le_vide",
+      "targetParagraphId": 1
+    },
+    {
+      "paragraphId": 4,
+      "type": "commentary",
+      "anchor": "roja visión en noche oscura,\nCristo va por mi vía de amargura\nagitando su túnica escarlata.",
+      "body": "「暗い夜の赤い幻影として・キリストが私の苦難の道を歩む・緋色の衣を揺らしながら（roja visión en noche oscura / Cristo va por mi vía de amargura / agitando su túnica escarlata）」──ソネットの最終テルセットが神秘主義的ヴィジョンとして閉じる。「noche oscura（暗い夜）」──十字架の聖ヨハネ「魂の暗夜（Noche oscura del alma）」への暗示：神秘主義的「暗夜」の中にキリストの幻影が出現するという構造。「roja（赤い）」と「escarlata（緋色）」──どちらも赤系の色彩語が「暗い夜（oscura）」との対比として機能する：「暗闇の中の赤い光」という色彩的逆説。「túnica escarlata（緋色の衣）」──マタイ27:28「彼らはイエスに緋色の衣をまとわせた」という受難場面の引用：ローマ兵士がイエスを嘲るために着せた「緋色の衣（chlamyde coccinea）」が、ネルヴォでは苦難の道を照らす神秘的光として再解釈される。「vía de amargura（苦難の道）」──「Via Dolorosa（悲しみの道）」というキリストの十字架への道の詩的スペイン語化。「Cristo va por mi vía（キリストが私の道を歩む）」──「私がキリストの道（Via Crucis）を歩む」のではなく「キリストが私の苦難の道を歩む」という逆転：詩的主体が受難を経験する際にキリストが共に歩む「同行者」として示される。「Intra vulnera tua abscondime」の「su roto costado es mi sangrienta guarida（砕けた脇腹が私の血まみれの隠れ家）」との照応：どちらもキリストの受難のイメージが詩人の苦悩の中に神秘的に現れる。",
+      "targetId": "juan_de_la_cruz_noche_oscura",
+      "targetParagraphId": null
+    }
+  ]
+}
