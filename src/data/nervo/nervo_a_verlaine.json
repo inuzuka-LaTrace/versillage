@@ -1,0 +1,109 @@
+{
+  "id": "nervo_a_verlaine",
+  "title": "A la Católica Majestad de Paul Verlaine",
+  "author": "Amado Nervo",
+  "source": "Místicas (1898). Wikisource (スペイン語): https://es.wikisource.org/wiki/M%C3%ADsticas/XXIII",
+  "year": "1898",
+  "firstPublication": "Místicas, México, 1898",
+  "difficulty": "上級",
+  "category": "nervo",
+  "originalLang": "es-ES",
+  "modernRelevance": "★★★★★",
+  "context": "アマード・ネルヴォ（Amado Nervo, 1870–1919）の詩集「Místicas（1898）」XXIII番。ルベン・ダリオ（Rubén Darío, 1867–1916）に献じられた。「A la Católica Majestad de Paul Verlaine（ポール・ヴェルレーヌのカトリック的威厳へ）」はヴェルレーヌ（1844–1896）への追悼的頌詩として機能する──ヴェルレーヌは1896年1月に死去しており、「Místicas」（1898）の出版時点で彼はすでに死後2年を経た詩人であった。「Católica Majestad（カトリック的威厳）」という題名が示す通り、詩はヴェルレーヌの晩年のカトリック回心（「Sagesse（賢明、1881）」所収の宗教詩群）と詩的威厳を称える。詩の構造：第1連（v.1–4）では「悲しき老いた父・神的な歌の王」としてヴェルレーヌを呼び、その「萎れた瞳（pupilas mustias）」と「ソクラテス的額の象牙（testa socrática）」という肖像を描く。第2連（v.5–8）では「魂と肉（alma y carne）という二つの刺（aguijones）」の間で詩的主体（ネルヴォ）自身の渇望が漂うことをヴェルレーヌのそれと同型として認識し、「卑しき結合の中に遍在する美を求め・その後贖罪し嘆く」という「ヴェルレーヌ的」詩人像を自らに重ねる。第3連（v.9–11）では「父よ、神秘的な道を見つけてイエスへと導かれた汝よ、私の苦しむ詩神（numen doliente）を汝に倣って処女的・賢明的・輝かしく・人間的にさせてくれ」と願う。第4連（v.12–14）では「古い蛇の悪から詩神を守り・最終的にキリストを永遠の命の中で讃えよう（laudemos a Cristo en vida perenne）──アーメン（Así sea）」と締め括る。ダリオ「Responso a Verlaine（ヴェルレーヌへの鎮魂）」（1896）との関係：同一のヴェルレーヌへの追悼がダリオでは古典神話的・汎神論的に（「Pan・Dionysos・エロス」の語彙で）行われるのに対し、ネルヴォではカトリック的・神秘主義的に（「padre・arcano・Jesús・laudemos a Cristo」の語彙で）行われるという対照。ヴェルレーヌが自らVANITISMEに収録されていること──「Parsifal」「Saint Graal」「Un Crucifix」「A Arthur Rimbaud」等──により、「A la Católica Majestad de Paul Verlaine」はVANITISMEコーパス内で「ヴェルレーヌを悼む詩」として横断的な位置を占める。",
+  "keywords": [
+    "ヴェルレーヌ",
+    "Paul Verlaine",
+    "カトリック的威厳",
+    "Católica Majestad",
+    "padre viejo y triste",
+    "testa socrática",
+    "alma y carne",
+    "nefandas uniones",
+    "numen doliente",
+    "laudemos a Cristo",
+    "Así sea",
+    "追悼詩",
+    "モデルニスモ",
+    "ネルヴォ"
+  ],
+  "relatedTexts": [
+    "verlaine_parsifal",
+    "verlaine_saint_graal",
+    "verlaine_un_crucifix",
+    "verlaine_marceline_desbordes_valmore",
+    "dario_responso_a_verlaine",
+    "nervo_requiem",
+    "nervo_a_nemesis",
+    "juan_de_la_cruz_noche_oscura",
+    "liturgy_magnificat",
+    "mallarme_verlaine"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "verses": "v.1–4",
+      "original": "Padre viejo y triste, rey de las divinas canciones:\nson en mi camino focos de una luz enigmática\ntus pupilas mustias, vagas de pensar y abstracciones,\ny el límpido y noble marfil de tu testa socrática.",
+      "provisionalTranslation": "悲しき老いた父よ、神的な歌の王よ：\n汝の萎れた瞳は、思索と抽象に霞み、\n私の道において謎めいた光の焦点となる、\nそして汝のソクラテス的額の清純で高貴な象牙も。"
+    },
+    {
+      "id": 2,
+      "verses": "v.5–8",
+      "original": "Flota, como el tuyo, mi afán entre dos aguijones:\nalma y carne; y brega con doble corriente simpática\npara hallar la ubicua beldad en nefandas uniones,\ny después expía y gime con lira hierática.",
+      "provisionalTranslation": "漂う、汝のように、私の渇望も二つの刺（とげ）の間に：\n魂と肉。そして二重の共感的な流れと格闘する、\n卑しき結合の中に遍在する美を見出すために、\nそして後に荘厳な竪琴で贖罪し嘆く。"
+    },
+    {
+      "id": 3,
+      "verses": "v.9–11",
+      "original": "Padre, tú que hallaste por fin el sendero, que, arcano,\na Jesús nos lleva, dame que mi numen doliente\nvirgen sea, y sabio, a la vez que radioso y humano.",
+      "provisionalTranslation": "父よ、汝はついに神秘的な道を見出した、イエスへと\n私たちを導くその道を。与えてくれ、私の苦しむ詩神が\n処女的であり賢明であり、輝かしく人間的であるように。"
+    },
+    {
+      "id": 4,
+      "verses": "v.12–14",
+      "original": "Tu virtud lo libre del mal de la antigua serpiente,\npara que, ya salvos al fin de la dura pelea,\nlaudemos a Cristo en vida perenne. Así sea.",
+      "provisionalTranslation": "汝の徳が詩神を古い蛇の悪から解放するように、\nそして、ついに厳しい戦いから救われて、\n永遠の命の中でキリストを讃えよう。アーメン。"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "Padre viejo y triste, rey de las divinas canciones:\ntus pupilas mustias, vagas de pensar y abstracciones,\ny el límpido y noble marfil de tu testa socrática.",
+      "body": "「悲しき老いた父・神的な歌の王（Padre viejo y triste, rey de las divinas canciones）」──ヴェルレーヌへの二重の称号：「父（Padre）」という家父長的・宗教的権威と「神的な歌の王（rey de las divinas canciones）」という詩的威厳。ネルヴォが「Místicas」全体で使用した「Padre（父）」という呼格（「Azraël」の「¡oh padre!（ランセへ）」・「A Rancé」の「¡oh padre!」）がここではヴェルレーヌという詩人の先達へと向けられる。「pupilas mustias, vagas de pensar y abstracciones（思索と抽象に霞んだ萎れた瞳）」──ヴェルレーヌの晩年の肖像写真・肖像画に基づく描写：「mustio（萎れた・元気のない）」という形容詞が老齢・疲弊・受難を示す。「testa socrática（ソクラテス的額）」──ヴェルレーヌの禿げた大きな頭蓋をソクラテスのそれと比較する：知的・哲学的な「醜さの中の知恵」という形象。ダリオ「Responso a Verlaine（1896）」との対照：ダリオがヴェルレーヌを「古代ギリシャの牧人（Pan）」の文脈に置くのに対し、ネルヴォはソクラテス的・カトリック的な知恵の象徴として描く。",
+      "targetId": "dario_responso_a_verlaine",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 1,
+      "type": "prosody",
+      "anchor": "Padre viejo y triste, rey de las divinas canciones:",
+      "body": "ソネット形式：ABAB ABAB / CDC DCD。アレハンドリーノ（Alejandrino）14音節行：「El beso-fantasma」・ダリオ「Responso a Verlaine」と同一の詩形。韻型：canciones(A)–enigmática(B)–abstracciones(A)–socrática(B) / aguijones(A)–simpática(B)–uniones(A)–hierática(B)。「divinas canciones（神的な歌）」──ヴェルレーヌの詩集「Sagesse（1881）」「Amour（1888）」「Parallèlement（1889）」の宗教詩・官能詩の総体として「神的な歌」と定義される。ヴェルレーヌのVANITISMEコーパス内のテキスト群──「Parsifal」「Saint Graal」「Un Crucifix」「A Arthur Rimbaud」等──がここで「divinas canciones（神的な歌）」として集約的に参照される。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "Flota, como el tuyo, mi afán entre dos aguijones:\nalma y carne; y brega con doble corriente simpática\npara hallar la ubicua beldad en nefandas uniones,\ny después expía y gime con lira hierática.",
+      "body": "「魂と肉という二つの刺の間に漂う渇望（afán entre dos aguijones: alma y carne）」──「Místicas」詩集の中核命題の明示的定式化：「魂と肉の対立」がネルヴォ自身の詩的立場としてヴェルレーヌのそれと同型として提示される。「nefandas uniones（卑しき結合・語ることもはばかられる結合）」──「nefando（口にすることもはばかられる・忌まわしい）」という形容詞が官能的・肉体的な性的結合を暗示する：ヴェルレーヌとランボーの関係・ヴェルレーヌの「Parallèlement（平行線）」所収の官能詩群への間接的言及として機能する。「la ubicua beldad en nefandas uniones（卑しき結合の中に遍在する美）」──「ubicua（遍在する）」という形容詞が「卑しき」場所にも「美（beldad）」が存在するという詩学的命題を示す：「El beso-fantasma」の「caricias bermejas que me ofrece el delito（罪が差し出す緋色の愛撫）」と同型の「罪の中の美」の認識。「lira hierática（荘厳な竪琴）」──「hierático（荘厳な・典礼的な・ヒエラティックな）」という形容詞がヴェルレーヌの「Sagesse」以降の宗教的詩学を「典礼的竪琴」として定義する。ヴェルレーヌ「Parsifal」・「Saint Graal」という実際のVANITISMEテキストが「lira hierática」の具体的内実として。",
+      "targetId": "verlaine_parsifal",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "Padre, tú que hallaste por fin el sendero, que, arcano,\na Jesús nos lleva, dame que mi numen doliente\nvirgen sea, y sabio, a la vez que radioso y humano.",
+      "body": "「汝はついに神秘的な道を見出した、イエスへと導く（hallaste por fin el sendero, que, arcano, a Jesús nos lleva）」──ヴェルレーヌの宗教的回心への言及：「Sagesse」の詩群（「Mon Dieu m'a dit・Bon Chevalier masqué・Chère âme」等）がヴェルレーヌの「arcano（神秘的）」な回心の詩的記録として位置づけられる。「numen doliente（苦しむ詩神）」──「numen（ヌーメン）」はラテン語「神的な意志・霊感・詩的インスピレーション」を示す語：「doliente（苦しむ）」という形容詞との結合が「苦悩から生まれる詩的インスピレーション」という命題をなす。「virgen sea, y sabio, a la vez que radioso y humano（処女的であり賢明であり、輝かしく人間的であるように）」──イタリック体で表記された四形容詞（virgen・sabio・radioso・humano）が詩的理想の四属性を示す：「処女性（清潔）・賢明（知恵）・輝かしさ（霊的光）・人間性（肉体的現実）」という四項が「Místicas」詩集全体の詩学的綱領として機能する。十字架の聖ヨハネの「暗夜」を経てイエスへと到達するという神秘主義的回心の軌跡がヴェルレーヌの道として提示される。",
+      "targetId": "juan_de_la_cruz_noche_oscura",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 4,
+      "type": "commentary",
+      "anchor": "Tu virtud lo libre del mal de la antigua serpiente,\npara que, ya salvos al fin de la dura pelea,\nlaudemos a Cristo en vida perenne. Así sea.",
+      "body": "「古い蛇の悪から解放・キリストを永遠の命の中で讃えよう・アーメン（laudemos a Cristo en vida perenne. Así sea）」──ソネットの結語が典礼的様式で閉じる。「antigua serpiente（古い蛇）」──創世記3章のエデンの園の蛇・黙示録12:9「古い蛇、悪魔（draco ille magnus, serpens antiquus）」の典拠。「laudemos a Cristo（キリストを讃えよう）」──一人称複数の勧奨法（hortatory subjunctive）が「私」と「汝（ヴェルレーヌ）」を同一の「讃美の共同体」として定義する。「Así sea（アーメン・そのようになれ）」──「Anathema sit」の「¡Anatema!」・「Requiem」の「Amen」・「Gloria in Excelsis」の「Amen」・「Symbolum Apostolicum」の「Amen」と同型の典礼的閉結定式。「laudemos a Cristo en vida perenne（永遠の命の中でキリストを讃えよう）」──「Symbolum Apostolicum」の「vitam aeternam（永遠の命）」・「Anima Christi」の「in saecula saeculorum laudem te（世々に汝を讃えるために）」という典礼テキスト群の「永遠の讃美」命題がここで「ヴェルレーヌと私が共に讃える」という詩的共同体として具現化する。マラルメ「Paul Verlaine（ヴェルレーヌへの追悼文）」との対照：マラルメが散文でヴェルレーヌの詩学的遺産を批評的に評価するのに対し、ネルヴォはソネットの最終行でヴェルレーヌとともに「キリストを讃える」という行為的共同性として追悼を完結させる。",
+      "targetId": "mallarme_verlaine",
+      "targetParagraphId": null
+    }
+  ]
+}
+
+
