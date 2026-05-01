@@ -1,0 +1,108 @@
+{
+  "id": "nervo_el_beso_fantasma",
+  "title": "El beso-fantasma",
+  "author": "Amado Nervo",
+  "source": "Místicas (1898). Wikisource (スペイン語): https://es.wikisource.org/wiki/M%C3%ADsticas/XVIII",
+  "year": "1898",
+  "firstPublication": "Místicas, México, 1898",
+  "difficulty": "上級",
+  "category": "nervo",
+  "originalLang": "es-ES",
+  "modernRelevance": "★★★★★",
+  "context": "アマード・ネルヴォ（Amado Nervo, 1870–1919）の詩集「Místicas（1898）」XVIII番。ルベン・M・カンポス（Rubén M. Campos, 1876–1945：メキシコの音楽家・作家）に献じられた。「El beso-fantasma（幻のキス）」は「Místicas」の中で最も官能的かつ最も神秘主義的な詩のひとつ。変形ソネット（ABAB ABAB / CDC DCD、アレハンドリーノ14音節）の形式をとる。詩の構造：第1連（v.1–4）では「孤独な主の蒼白い口への最後のキスを夢見た」という夢想が提示される——「tosco madero（粗い木材＝十字架）」の上で「肉を引き裂く（desgarra sus carnes）」キリストへの接吻という神秘主義的ヴィジョン。第2連（v.5–8）では夕闇の教会の場面描写：「影が静かな交差廊（crucero）を侵し・聖体箱の光が瞬き・錆びた鍵束を握った守門者（ostiario）が扉へ向かう」という劇的な情景。第3連（v.9–11）では「無限のキス・婚礼の夜のむさぼるような接吻・しなやかな蔓のように絡み合う身体」という官能的形象が省略記号（...）で宙吊りにされる。第4連（v.12–14）では「私の存在のすべての渇望への聖なるパラディウム（palladium）となるキス・罪が差し出すすべての赤いキスへの（キス）」という閉結。「palladium（パラディウム）」──ギリシャ神話でトロイアを守護したパラス・アテナの像、転じて「守護物・守護神」：詩人の「存在のすべての渇望（las ansias de mi ser）」への「守護的キス（palladium bendito）」という形象。「carnes bermejas（赤いキス・緋色の愛撫）」──「bermeja（赤い・緋色の）」という形容詞が「罪（delito）」の色彩的形象として機能する。詩のタイトル「beso-fantasma（幻のキス）」：「fantasma（幻・亡霊）」は「実現されることのないキス」の定義として機能する——神秘主義的キリスト体験への渇望が「夢（soñé）」と「省略記号（...）」によって宙吊りのまま終わるという詩的構造。「Anima Christi」の「Sanguis Christi, inebria me（キリストの血よ酔わせよ）」という典礼的嘆願が、「El beso-fantasma」では官能的・肉体的な夢想として詩的変奏される。",
+  "keywords": [
+    "El beso-fantasma",
+    "幻のキス",
+    "キリストへの接吻",
+    "beso postrero",
+    "lívida boca",
+    "tosco madero",
+    "sagrario",
+    "ostiario",
+    "palladium bendito",
+    "caricias bermejas",
+    "delito",
+    "官能と神秘主義",
+    "アレハンドリーノ",
+    "モデルニスモ",
+    "ネルヴォ"
+  ],
+  "relatedTexts": [
+    "nervo_intra_vulnera",
+    "nervo_gotica",
+    "nervo_a_nemesis",
+    "nervo_requiem",
+    "liturgy_anima_christi",
+    "liturgy_ave_verum_corpus",
+    "juan_de_la_cruz_llama_de_amor_viva",
+    "teresa_vivo_sin_vivir",
+    "wilde_ave_maria",
+    "baudelaire_franciscae_meae_laudes"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "verses": "v.1–4",
+      "original": "Yo soñé con un beso, con un beso postrero\nen la lívida boca del Señor solitario\nque desgarra sus carnes sobre el tosco madero\nen el nicho más íntimo del vetusto santuario.",
+      "provisionalTranslation": "私は夢見た、キスを、最後のキスを\n粗い木材の上で肉を引き裂く孤独な主の\n蒼白い口への——\n古びた聖所の最も内密な壁龕（へきがん）にいるその主への。"
+    },
+    {
+      "id": 2,
+      "verses": "v.5–8",
+      "original": "Cuando invaden las sombras el tranquilo crucero,\nparpadea la llama de la luz del sagrario,\ny agitando en el puño su herrumbroso llavero,\nse dirige a las puertas del recinto el ostiario.",
+      "provisionalTranslation": "影が静かな交差廊を侵すとき、\n聖体箱の光の炎が瞬き、\n錆びた鍵束を拳に握り揺らしながら、\n守門者が聖域の扉へと向かう。"
+    },
+    {
+      "id": 3,
+      "verses": "v.9–11",
+      "original": "Con un beso infinito, cual los besos voraces\nque se dan los amados en la noche de bodas,\nenredando sus cuerpos como lianas tenaces...",
+      "provisionalTranslation": "無限のキスで、婚礼の夜に\n愛し合う者たちがむさぼるように与え合うキスのように、\nしなやかな蔓のように身体を絡み合わせながら……"
+    },
+    {
+      "id": 4,
+      "verses": "v.12–14",
+      "original": "Con un beso que fuera mi palladium bendito\npara todas las ansias de mi ser, para todas\nlas caricias bermejas que me ofrece el delito.",
+      "provisionalTranslation": "私の存在のすべての渇望への、すべての\n罪が私に差し出す緋色の愛撫への\n聖なるパラディウムとなるキスで。"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "prosody",
+      "anchor": "Yo soñé con un beso, con un beso postrero\nen la lívida boca del Señor solitario",
+      "body": "詩形：変形ソネット ABAB ABAB / CDC DCD。アレハンドリーノ（Alejandrino）14音節行：スペイン語モデルニスモが最も多用した長行詩形で、ルベン・ダリオ「Responso a Verlaine」・「Sonatina」等と同一の形式。「soñé con un beso, con un beso（キスを夢見た、キスを）」という同語反復（epanastrophe）が夢想の強迫的性質を冒頭から示す。「beso postrero（最後のキス）」──「postrero（最後の・終末の）」という形容詞が単なる接吻ではなく「終末論的・決定的」なキスとして定義する。「lívida boca（蒼白い口）」──「lívido（鉛色の・蒼白い・死体のような）」という形容詞が十字架上のキリストの死体的蒼白さを示す：「Anima Christi」の「Sanguis Christi, inebria me（キリストの血よ酔わせよ）」・「Ave Verum Corpus」の「vere passum（真に苦しみを受けた）」という典礼的キリスト体への接触が、ここでは「蒼白い口へのキス」という官能的夢想に変容する。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "que desgarra sus carnes sobre el tosco madero\nen el nicho más íntimo del vetusto santuario.",
+      "body": "「粗い木材の上で肉を引き裂く（desgarra sus carnes sobre el tosco madero）」──「madero（木材・丸太）」は十字架の詩的換喩。「Intra vulnera tua abscondime」の「por la cruz en que borraste / todas las culpas de Israel（十字架によってイスラエルの罪を消した）」がキリストの十字架を神学的救済の器として語るのに対し、「El beso-fantasma」では「肉を引き裂く（desgarra）」という受難の身体的苦痛の生々しさが前景に出る。「nicho más íntimo del vetusto santuario（古びた聖所の最も内密な壁龕）」──「nicho（壁龕・くぼみ）」は教会の壁に彫られた聖像の安置場所：最も「内密（íntimo）」な奥まった場所にキリスト像がある。「Gótica」の「solitario recinto de la abadía（修道院の孤独な聖域）」と同型の廃墟的・暗闘的教会空間：どちらも孤独と暗闇の中の宗教的空間が官能的・神秘的体験の舞台として機能する。",
+      "targetId": "nervo_gotica",
+      "targetParagraphId": 1
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "Cuando invaden las sombras el tranquilo crucero,\nparpadea la llama de la luz del sagrario,\ny agitando en el puño su herrumbroso llavero,\nse dirige a las puertas del recinto el ostiario.",
+      "body": "「影が交差廊を侵す・聖体箱の光が瞬く・守門者が扉へ向かう（invaden las sombras / parpadea la llama / se dirige el ostiario）」──第2連が純粋な情景描写として機能し、第1連の「夢」の舞台を具体的な教会の夕暮れの光景として確立する。「crucero（交差廊）」はゴシック・ロマネスク建築の十字形平面の交差部：「Gótica」の「domo excelso y obscuras naves（高い天蓋と暗い側廊）」と同型の建築語彙。「sagrario（聖体箱・タベルナクル）」──聖体（ユーカリスト）が保管される祭壇の箱：「Anima Christi」の「Corpus Christi, salva me（キリストの体よ救え）」・「Ave Verum Corpus」の聖体神学がここで「聖体箱の光（la luz del sagrario）」として視覚的形象化される。「ostiario（守門者・オスティアリウス）」──カトリック小品級の一つで、教会の扉を開閉する役職：この守門者が夜の閉館のために扉へ向かうという動作が「詩人と教会の分離」という危機的状況を暗示する。",
+      "targetId": "nervo_gotica",
+      "targetParagraphId": 3
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "Con un beso infinito, cual los besos voraces\nque se dan los amados en la noche de bodas,\nenredando sus cuerpos como lianas tenaces...",
+      "body": "「無限のキス・婚礼の夜のむさぼるキス・蔓のように絡み合う身体（beso infinito / besos voraces / lianas tenaces）」──第3連が「官能的」次元に突入する最も大胆な詩的瞬間。「voraces（むさぼる）」という形容詞が「食らう」という動物的官能性を婚礼のキスに与える。「noche de bodas（婚礼の夜）」──キリストと魂の「神秘的婚礼（Místicas nuptiae）」という神秘主義的伝統：十字架の聖ヨハネ「霊の賛歌（Cántico Espiritual）」での「花嫁と花婿の探求」・「炎の愛（Llama de amor viva）」での「神との合一の燃焼的官能」がネルヴォの「婚礼の夜のむさぼるキス」の神学的背景として機能する。「lianas tenaces（しなやかな蔓）」──蔓植物が木に絡みつく有機的形象が「身体の絡み合い（enredando sus cuerpos）」を視覚化する。省略記号「...」──第3連が文法的に未完のまま宙吊りにされる：「Con un beso infinito（無限のキスで）」という前置詞句が第4連の「Con un beso que fuera（〜となるキスで）」へと接続する詩的懸架として機能し、同時に官能的体験の「言語化不可能性」を示す。",
+      "targetId": "juan_de_la_cruz_llama_de_amor_viva",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 4,
+      "type": "commentary",
+      "anchor": "Con un beso que fuera mi palladium bendito\npara todas las ansias de mi ser, para todas\nlas caricias bermejas que me ofrece el delito.",
+      "body": "「聖なるパラディウム（palladium bendito）・存在のすべての渇望（ansias de mi ser）・罪が差し出す緋色の愛撫（caricias bermejas / delito）」──詩全体の神学的・詩学的核心。「palladium（パラディウム）」──ギリシャ語「Παλλάδιον」：トロイアを守護したとされるパラス・アテナの聖像、転じて「守護物・護符」を意味するラテン語。「benedito（祝福された）」という形容詞との結合：「祝福された守護のキス」が詩人の「存在のすべての渇望（ansias de mi ser）」を守護するという命題。「caricias bermejas（緋色の愛撫）」──「bermejo（赤い・緋色の）」はネルヴォの色彩語彙の中で「罪・官能・情熱」の形象として機能する：「A Némesis」の「túnica escarlata（緋色の衣）」がキリストの受難的赤さを示すのに対し、ここでは「罪（delito）」の誘惑が赤い愛撫として提示される。「delito（罪・犯罪）」という語でソネットが閉じる：「神秘主義的キリスト体験への渇望」と「罪の官能への誘惑」が同一の「キス」への渇望として詩的に融合される──「Místicas」詩集において最も大胆な「聖と俗の融合」命題として。「A Némesis」のキリストが「暗い夜の赤い幻影」として詩人の苦難の道を照らすのに対し、「El beso-fantasma」では「罪が差し出す赤い愛撫」と「キリストへの接吻への渇望」が解決されないまま省略記号と「delito」で宙吊りにされる。",
+      "targetId": "nervo_a_nemesis",
+      "targetParagraphId": 4
+    }
+  ]
+}
