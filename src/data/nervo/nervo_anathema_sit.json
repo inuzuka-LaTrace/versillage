@@ -1,0 +1,127 @@
+{
+  "id": "nervo_anathema_sit",
+  "title": "Anathema sit",
+  "author": "Amado Nervo",
+  "source": "Místicas (1898). Wikisource (スペイン語): https://es.wikisource.org/wiki/M%C3%ADsticas/XX",
+  "year": "1898",
+  "firstPublication": "Místicas, México, 1898",
+  "difficulty": "上級",
+  "category": "nervo",
+  "originalLang": "es-ES",
+  "modernRelevance": "★★★★★",
+  "context": "アマード・ネルヴォ（Amado Nervo, 1870–1919）の詩集「Místicas（1898）」XX番。ヘスス・ウルエタ（Jesús Urueta, 1867–1920：メキシコの政治家・弁論家）に献じられた。「Anathema sit（破門あれ）」はラテン語の教会的呪詛定型句──「もし誰かが〜と言うなら、破門あれ（Si quis dixerit…anathema sit）」という公会議の定式をスペイン語詩に組み込んだ。詩は三部（I・II・III）からなり、各部が「Si（もし）〜anatema sea!（破門あれ！）」という条件的呪詛（3行）と「Anatema los que〜¡Anatema!（〜する者たちに破門を）」という拡張的呪詛（4行）の二段構造をなす──6段落。第I部：聖母マリアの無原罪の御宿り（Inmaculada Concepción）を否定する者への呪詛。第II部：キリストの贖罪的死・聖体変化（transubstantiación）を否定する者への呪詛。第III部：霊魂の実在・光の復活を否定する者への呪詛。ルコント・ド・リール「L'Anathème（破門・呪詛）」との対照：ルコント・ド・リールが「神なき時代」そのものに詩人が呪詛を宣告するのに対し、ネルヴォは逆に「神学的真理（聖母・聖体・霊魂）を否定する者」に教会的呪詛を宣告する──同一の「Anathema」という呪詛形式が「反キリスト教的・ニヒリスト的」（ルコント・ド・リール）と「護教的・信仰擁護的」（ネルヴォ）という対極の方向に向けられる。詩形：第1・3・5段落は弱強11音節（endecasílabo）3行＋4音節リフレーン「¡anatema sea!」。第2・4・6段落は14〜16音節の長行4行＋「¡Anatema!」。この長短の交替が「告発→拡大」という詩の二段的リズムを形成する。「un Dios, loco de amores, es la víctima suprema（愛に狂った神が最高の犠牲である）」という第II部第2段の命題がネルヴォの「Místicas」詩集の核心的神学を最も大胆に定式化する。",
+  "keywords": [
+    "Anathema sit",
+    "破門あれ",
+    "呪詛",
+    "anatema",
+    "無原罪の御宿り",
+    "Inmaculada Concepción",
+    "聖体変化",
+    "transubstantiación",
+    "loco de amores",
+    "霊魂の実在",
+    "esperanza de los justos",
+    "L'Anathème",
+    "モデルニスモ",
+    "ネルヴォ"
+  ],
+  "relatedTexts": [
+    "nervo_requiem",
+    "nervo_gotica",
+    "nervo_intra_vulnera",
+    "nervo_apocaliptica",
+    "nervo_a_nemesis",
+    "lecontelisle_l_anatheme",
+    "liturgy_ave_maria",
+    "liturgy_agnus_dei",
+    "liturgy_anima_christi",
+    "weil_atheisme_purificateur"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "verses": "I, v.1–4",
+      "original": "Si negare alguno que Santa María,\ndel Dios Paracleto paloma que albea,\nconcibió sin mengua de su doncellía,\n¡anatema sea!",
+      "provisionalTranslation": "もし誰かが、聖マリアが\n聖霊なる神の白き鳩によって\n処女性を損なうことなく懐胎したことを否定するなら、\n破門あれ！"
+    },
+    {
+      "id": 2,
+      "verses": "I, v.5–8",
+      "original": "Anatema los que burlan el prodigio sin segundo\nde la flor intacta y úber que da fruto siendo yema;\nque los vientres que conozcan, como légamo infecundo,\nno le brinde sino espurias floraciones. ¡Anatema!",
+      "provisionalTranslation": "蕾のまま実をつける傷なき豊かな花という\n比類なき奇跡を嘲る者たちに破門を。\n彼らが知る胎が不毛な泥のように\n偽りの花しか捧げないように。破門！"
+    },
+    {
+      "id": 3,
+      "verses": "II, v.9–12",
+      "original": "Si alguno dijere que Cristo divino\npor nos pecadores no murió en Judea\nni su cuerpo es hostia, ni su sangre vino,\n¡anatema sea!",
+      "provisionalTranslation": "もし誰かが、神なるキリストが\n私たち罪人のためにユダヤで死ななかったと言うなら、\nその体は聖体でなく、その血はぶどう酒でないと言うなら、\n破門あれ！"
+    },
+    {
+      "id": 4,
+      "verses": "II, v.13–16",
+      "original": "Anatema los que ríen de oblaciones celestiales\nen que un Dios, loco de amores, es la víctima suprema;\nque no formen para ellos ni su harina los trigales,\nni sus néctares sabrosos los viñedos. ¡Anatema!",
+      "provisionalTranslation": "愛に狂った神が最高の犠牲である天の供儀を\n笑う者たちに破門を。\n小麦畑が彼らのために粉を作らず、\nぶどう畑が美味なる蜜を作らないように。破門！"
+    },
+    {
+      "id": 5,
+      "verses": "III, v.17–20",
+      "original": "Si alguno afirmare que el alma no existe,\nque en los cráneos áridos perece la idea,\nque la luz no surge tras la sombra triste,\n¡anatema sea!",
+      "provisionalTranslation": "もし誰かが魂は存在しないと断言し、\n乾いた頭蓋の中で思想は滅びると言い、\n悲しき影の向こうに光は生まれないと言うなら、\n破門あれ！"
+    },
+    {
+      "id": 6,
+      "verses": "III, v.21–24",
+      "original": "Anatema los que dicen al mortal que tema y dude,\nanatema los que dicen al mortal que dude y tema;\nque en la noche de sus duelos ni un cariño los escude,\nni los bese la esperanza de los justos. ¡Anatema!",
+      "provisionalTranslation": "死すべき者に恐れよ疑えと言う者たちに破門を、\n死すべき者に疑えよ恐れよと言う者たちに破門を。\n彼らの悲嘆の夜に愛情のひとつも彼らを守らず、\n正しき者たちの希望が彼らに口づけしないように。破門！"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "glossary",
+      "anchor": "Anathema sit",
+      "body": "「Anathema sit（破門あれ）」──ラテン語「ἀνάθεμα（anathema）」はギリシャ語「神に捧げられたもの・呪われたもの」の二義を持つ語。新約聖書（ガラテア1:8–9「私たちが宣べ伝えた福音と異なる福音を宣べ伝えるなら、その者は呪われよ（anathema sit）」）に起源を持つ教会的呪詛定型句。中世以降の公会議（トリエント公会議1545–1563等）では「Si quis dixerit…anathema sit（もし誰かが〜と言うなら、破門あれ）」という形式が異端断罪の標準的文型として確立した。ネルヴォはこの「Si（もし）…anatema sea（破門あれ）」という条件的呪詛形式をスペイン語詩に移植する。ルコント・ド・リール「L'Anathème（1855）」との比較：ルコント・ド・リールが「神なき時代・精神的荒廃・近代の倦怠」に詩人自身が呪詛を宣告する──「Ecclésiaste assis sous les cèdres bibliques（聖書の杉の木の下に座ったコヘレト）」的な虚無への嘆きとして「破門」を用いる──のに対し、ネルヴォは逆方向に「神学的真理の否定者」に教会的呪詛を宣告する。同一の「破門（Anathème / anatema）」形式が「神なき時代への絶望」（ルコント・ド・リール）と「神学的真理の擁護」（ネルヴォ）という対極の詩的・神学的立場から使用される。",
+      "targetId": "lecontelisle_l_anatheme",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 1,
+      "type": "prosody",
+      "anchor": "Si negare alguno que Santa María,\ndel Dios Paracleto paloma que albea,\nconcibió sin mengua de su doncellía,\n¡anatema sea!",
+      "body": "詩形：三部（I・II・III）、各部が「3行＋リフレーン（¡anatema sea!）」＋「4行長行＋¡Anatema!」の二段構造。第1・3・5段落：弱強11音節（endecasílabo）3行＋4音節リフレーン「¡anatema sea!」。第2・4・6段落：14〜16音節の長行4行（アレハンドリーノ変形）＋「¡Anatema!」。長短交替が「告発の宣言→呪詛の拡大」という二段的リズムをなす。「del Dios Paracleto paloma que albea（聖霊なる神の白く輝く鳩）」──「Paracleto（パラクレトス）」は「Anima Christi」の「Divino Espíritu, Paráclito」・ネルヴォ「Requiem」第3連の「Divino Espíritu, Paráclito」と同一の呼称：「Gloria in Excelsis」・「Magnificat」・「Symbolum Apostolicum」の聖霊論が「Anathema sit」第I部で異端断罪の文脈に召喚される。「albea（白く輝く）」──「albus（白い）」の動詞形：「Ave Maria」の洗礼場面の「鳩」と同型のイメージが白の純潔として強調される。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "la flor intacta y úber que da fruto siendo yema;\nque los vientres que conozcan, como légamo infecundo,\nno le brinde sino espurias floraciones.",
+      "body": "「蕾のまま実をつける傷なき豊かな花（flor intacta y úber que da fruto siendo yema）」──無原罪の御宿り（Inmaculada Concepción）の詩的形象化：処女懐胎を「蕾（yema）のまま実をつける花」として植物的に比喩化する。「úber（豊かな・実り多き）」はラテン語語彙をそのまま使用したモデルニスモ的語彙選択。「légamo infecundo（不毛な泥）」──コヘレト「afflictio spiritus」の「苦悩の霊」的不毛さを「泥（légamo）」という物質的形象で示す：「否定者の胎」が「不毛な泥」として呪われる。「espurias floraciones（偽りの花）」──「espurio（偽りの・庶出の・正統でない）」は「真正でないキリスト」への否定と対応する：第I部の呪詛が「生殖的不毛」として具体化される。「Apocalíptica」の「¡Ay, de los vientres que concibieron!（懐に宿したる母の胎よ、わざわいなるかな）」との対照：「Apocalíptica」では「生んだこと」が死者の嘆きとして呪われるのに対し、「Anathema sit」では「否定者が知る胎」が不毛な泥として呪われる──同一の「vientre（胎）」が死者の嘆き（Apocalíptica）と呪詛の形象（Anathema sit）として対称的に機能する。",
+      "targetId": "nervo_apocaliptica",
+      "targetParagraphId": 1
+    },
+    {
+      "paragraphId": 4,
+      "type": "commentary",
+      "anchor": "en que un Dios, loco de amores, es la víctima suprema;\nque no formen para ellos ni su harina los trigales,\nni sus néctares sabrosos los viñedos.",
+      "body": "「愛に狂った神が最高の犠牲である（un Dios, loco de amores, es la víctima suprema）」──「Místicas」詩集の中で最も凝縮された神学的・詩学的命題のひとつ。「loco de amores（愛に狂った）」という口語的・官能的な形容詞句が「Dios（神）」に与えられる：「愛に狂った神」というアンチテーゼが「Anima Christi」の「Sanguis Christi, inebria me（血よ酔わせよ）」・「El beso-fantasma」の「besos voraces（むさぼるキス）」の神秘主義的官能性の神学的根拠として機能する。「no formen para ellos ni su harina los trigales / ni sus néctares sabrosos los viñedos（小麦畑が粉を、ぶどう畑が蜜を作らないように）」──「hostia（聖体の薄片）」と「vino（ぶどう酒）」という聖体の素材（小麦粉とぶどう）が呪詛の対象：聖体変化（transubstantiación）を否定する者が「その素材である食物そのもの」を得られなくなるという詩的・呪術的等報応の論理。「Agnus Dei」・「Ave Verum Corpus」・「Anima Christi」という典礼テキスト群が確立した「キリストの体と血（corpus et sanguis）」への信仰が、「Anathema sit」では否定者への食物的呪詛として詩的逆転される。",
+      "targetId": "liturgy_agnus_dei",
+      "targetParagraphId": 1
+    },
+    {
+      "paragraphId": 5,
+      "type": "commentary",
+      "anchor": "Si alguno afirmare que el alma no existe,\nque en los cráneos áridos perece la idea,\nque la luz no surge tras la sombra triste,",
+      "body": "「魂は存在しない・乾いた頭蓋の中で思想は滅びる・悲しき影の向こうに光は生まれない（el alma no existe / perece la idea / la luz no surge tras la sombra triste）」──第III部の呪詛対象が唯物論的・虚無主義的命題の三重連として定義される。「los cráneos áridos（乾いた頭蓋）」──「árido（乾いた・不毛の）」という形容詞が第I部の「légamo infecundo（不毛な泥）」と照応する：否定者の精神的不毛さが物質的（泥）・身体的（頭蓋）形象として並置される。「la luz no surge tras la sombra triste（悲しき影の向こうに光は生まれない）」──ルコント・ド・リール「L'Anathème」の「Notre nuit est plus noire et le jour est plus loin（我らの夜はより黒く、昼はより遠い）」という絶望的命題をネルヴォが反転させた形として読める：ルコント・ド・リールは「昼が遠い」という現実を嘆くのに対し、ネルヴォは「影の向こうに光が生まれないと言う者」を呪詛する──同一の「光と影」のテーマが「告発（ルコント・ド・リール）」と「呪詛（ネルヴォ）」として対置される。「A Némesis」の「roja visión en noche oscura（暗い夜の赤い幻影）」──ネルヴォにおける「光と影」の詩的解決として、「暗い夜」の中にキリストの「赤い光」が輝くという対比がここでも底流する。",
+      "targetId": "lecontelisle_l_anatheme",
+      "targetParagraphId": 3
+    },
+    {
+      "paragraphId": 6,
+      "type": "commentary",
+      "anchor": "Anatema los que dicen al mortal que tema y dude,\nanatema los que dicen al mortal que dude y tema;\nque en la noche de sus duelos ni un cariño los escude,\nni los bese la esperanza de los justos.",
+      "body": "「死すべき者に恐れよ疑えと言う者に破門・疑えよ恐れよと言う者に破門（Anatema los que dicen al mortal que tema y dude / anatema los que dicen al mortal que dude y tema）」──同一の命題「tema y dude（恐れよ疑え）→dude y tema（疑えよ恐れよ）」の語順入れ替えによる変形反復（palindrome的構造）が詩形式上の最大の技巧をなす。「la esperanza de los justos（正しき者たちの希望）」──「A Némesis」の「crece mi fe junto a mi cuita（信仰は苦悩とともに育つ）」・「Intra vulnera」の「Hoy bendigo á Jesús en la tormenta（嵐の中でイエスを祝福する）」という「苦悩の中の信仰」の命題が、ここでは否定者への呪詛として裏返される：「正しき者たちの希望」が否定者に「口づけしない（ni los bese）」という愛情的形象での呪詛。「La esperanza de los justos（正しき者たちの希望）」──ヴェイユ「atheisme purificateur（浄化する無神論）」の「苦悩の中にある者への神の愛の自発的到来」という命題との対照：ヴェイユは「無神論者」を呪詛の対象ではなく「浄化の過程にある者」として肯定的に位置づけるのに対し、ネルヴォは「疑いと恐れを説く者」に典礼的呪詛を宣告する。",
+      "targetId": "weil_atheisme_purificateur",
+      "targetParagraphId": null
+    }
+  ]
+}
