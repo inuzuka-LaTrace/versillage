@@ -1,0 +1,108 @@
+{
+  "id": "catullus_carmen_5",
+  "title": "Carmen V — Vivamus, mea Lesbia",
+  "author": "Gaius Valerius Catullus",
+  "source": "Liber Catulli (ed. Cornish), Wikisource. https://la.wikisource.org/wiki/Liber_Catulli_(ed._Cornish)/5",
+  "year": "c. 60–54 BC",
+  "firstPublication": "Liber Catulli（カトゥルス詩集）、推定前60〜54年頃成立",
+  "difficulty": "初級",
+  "category": "catullus",
+  "originalLang": "la-LA",
+  "modernRelevance": "★★★★★",
+  "context": "カトゥルス詩集第5番。「レスビア（Lesbia）」に宛てた恋愛詩のうち最も広く知られる一篇。全13行のファレーキウス詩型（hendecasyllabum Phalaecium）で書かれ、「Vivamus, mea Lesbia（生きよう、私のレスビアよ）」という冒頭の呼びかけが西洋恋愛詩のもっとも有名な行のひとつとなった。詩は三つの運動を持つ：①老人たちの道徳的非難への軽蔑（v.1–3）、②太陽の循環と人間の死の不可逆性という宇宙的コントラスト（v.4–6）、③接吻の数え上げとその意図的な攪乱（v.7–13）。「soles occidere et redire possunt（太陽は沈み、また戻ることができる）」対「nobis cum semel occidit brevis lux, / nox est perpetua una dormienda（私たちにとって一度この短い光が沈んだなら、永遠の夜をひとつ眠り続けるだけ）」という対照は、コヘレト「太陽は沈み、その場所へと戻る（Oritur sol et occidit）」（Ecclesiastes I, 5）の虚無の宇宙論と共鳴しながら、しかしその結論において正反対の命令を導く──虚無ゆえに嘆くのではなく、虚無ゆえに愛せよ、というエピクロス的逆説。接吻の「千・百」という数の累積とその最終的な「撹乱（conturbabimus）」は、数えることへの執着そのものを喜劇的に解体し、愛の絶対量を言語的に不可能にする身振りである。ホラティウスの「carpe diem」（Carmina I, 11）の先駆であり、西洋における「享楽と死の隣接」という詩的トポスの原形のひとつ。",
+  "keywords": [
+    "vivamus",
+    "Lesbia",
+    "basia",
+    "nox perpetua",
+    "carpe diem",
+    "soles",
+    "接吻",
+    "死の不可逆性",
+    "数の撹乱",
+    "conturbabimus"
+  ],
+  "relatedTexts": [
+    "hieronymus_ecclesiastes_1",
+    "horatius_carmina_1_11",
+    "catullus_carmen_3",
+    "baudelaire_invitation_voyage",
+    "dowson_venite_descendamus"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "verses": "v.1–3",
+      "original": "Vivamus, mea Lesbia, atque amemus,\nrumoresque senum severiorum\nomnes unius aestimemus assis.",
+      "provisionalTranslation": "生きよう、私のレスビアよ、そして愛し合おう、\nそして気難しい老人たちの噂話など\nすべて一アスの値打ちもないと思おう。"
+    },
+    {
+      "id": 2,
+      "verses": "v.4–6",
+      "original": "soles occidere et redire possunt:\nnobis cum semel occidit brevis lux,\nnox est perpetua una dormienda.",
+      "provisionalTranslation": "太陽は沈み、また戻ることができる。\nしかし私たちにとって、一度この短い光が沈んだなら、\n永遠の夜をひとつ眠り続けなければならない。"
+    },
+    {
+      "id": 3,
+      "verses": "v.7–9",
+      "original": "da mi basia mille, deinde centum,\ndein mille altera, dein secunda centum,\ndeinde usque altera mille, deinde centum.",
+      "provisionalTranslation": "私に千のキスをくれ、それから百、\nそしてまた別の千、それから次の百、\nそしてさらにもう一つの千、それから百。"
+    },
+    {
+      "id": 4,
+      "verses": "v.10–13",
+      "original": "dein, cum milia multa fecerimus,\nconturbabimus ilia, ne sciamus,\naut nequis malus invidere possit,\ncum tantum sciat esse basiorum.",
+      "provisionalTranslation": "そして、幾千もの数を重ねたなら、\n私たちはその数を撹乱しよう、知らないでいるために、\nあるいは誰か邪悪な者が嫉妬できないように、\nキスの数がこれほど多いと知ったとき。"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "glossary",
+      "anchor": "Vivamus, mea Lesbia, atque amemus,",
+      "body": "「Vivamus（生きよう）」・「amemus（愛し合おう）」：接続法現在一人称複数の「勧誘的接続法（coniunctivus adhortativus）」。命令法ではなく「共に〜しよう」という誘いかけの形が、詩人とレスビアの対等な関係性と共同行為としての愛の実践を示す。「mea Lesbia」：「私のレスビア」──「mea（私の）」という所有形容詞が愛の親密性と所有願望を同時に示す。「Lesbia」はサッポーの故郷レスボス島に由来する詩的仮名であり、カトゥルスが愛の詩人として最高の先例サッポーを自分の恋人に重ね合わせる文学的身振りでもある。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "rumoresque senum severiorum\nomnes unius aestimemus assis.",
+      "body": "「気難しい老人たち（senum severiorum）」の「噂話（rumores）」を「一アス（unius assis）」の価値しかないと断じる──「as（アス）」はローマ最低価値の銅貨で、無価値の比喩として機能する（英語の「not worth a penny」に相当）。「severiorum」は比較級属格複数で「より厳格な・より道徳的な」を意味し、社会的道徳規範を「老人性（senium）」と等置することで、そのような規範を生命力の欠如・衰弱として相対化する。生と愛を宣言する冒頭に、まずその敵対者（公論・社会的監視）を廃棄する身振りが置かれる。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "soles occidere et redire possunt:",
+      "body": "「太陽は沈み、また戻ることができる（soles occidere et redire possunt）」──「soles（太陽たち）」という複数形は、毎日の太陽を個別の複数として捉える詩的表現。自然の永続的循環を示すこの一行が、次の人間的死の不可逆性との対比の軸となる。コヘレト第1章「Oritur sol et occidit, et ad locum suum revertitur（太陽は昇り、沈み、その場所へと戻る）」（v.5）と語彙レベルで対応──「occidit」・「redire」という動詞群が重なる。ただしコヘレトはこの太陽の循環を虚無の証左として提示するのに対し、カトゥルスはそれを人間的死の不可逆性との対比として用い、愛への命令の根拠として機能させる点で方向が逆転している。",
+      "targetId": "hieronymus_ecclesiastes_1",
+      "targetParagraphId": 5
+    },
+    {
+      "paragraphId": 2,
+      "type": "glossary",
+      "anchor": "nobis cum semel occidit brevis lux,\nnox est perpetua una dormienda.",
+      "body": "「brevis lux（短い光）」：人間の生命の隠喩。「brevis（短い）」は人間的時間の有限性を一語で要約する。「nox est perpetua una dormienda」：「perpetua（永続する）」＋「una（ひとつの）」という形容詞の組み合わせが「永遠のひとつの夜」を構成し、死の非分節性・継続性を示す。「dormienda」：動形容詞（gerundivum）で「眠られなければならない」──受動的義務を示す形が、死を意志的に選択するのでなく、避けがたく到来するものとして示す。ホラティウス「Carmina」I,11「omnia, Leuconoe」の「carpe diem」もこの「時間の有限性」命題を共有する。",
+      "targetId": "horatius_carmina_1_11",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 3,
+      "type": "prosody",
+      "anchor": "da mi basia mille, deinde centum,\ndein mille altera, dein secunda centum,\ndeinde usque altera mille, deinde centum.",
+      "body": "「da mi basia mille（私に千のキスをくれ）」：「basia」は「basium（キス）」の複数対格。ラテン語にはキスの種類に応じた語彙分化があり、「basium」は口唇による愛情のキス（対して「osculum」は挨拶・尊敬のキス、「suavium」は深いキス）。三行にわたる「千・百・千・百・千・百」という数の累積は、意味的な反復と同時に音韻的な反復でもある──「mille / altera / secunda」という変奏が単純な反復を巧妙に避ける。この数え上げの構造はヘレニズム詩（アナクレオン風）の影響下にあり、愛の量的無限性を逆説的に有限な数で表現しようとする修辞的アポリア。"
+    },
+    {
+      "paragraphId": 4,
+      "type": "commentary",
+      "anchor": "conturbabimus ilia, ne sciamus,",
+      "body": "「conturbabimus（私たちは撹乱するだろう）」：会計用語由来。「conturbare（帳簿を混乱させる・破産する）」の転用で、数の記録を意図的に撹乱・消去することを指す。愛の帳簿を壊す（conturbare）という会計的隠喩が、詩全体の「数え上げ」という構造を最後に自己解体させる──愛は計算できない・計算すべきでないという逆説的結論へ。「ne sciamus（知らないでいるように）」：目的を示す接続法で、無知・忘却が愛の保護として機能することを示す。コヘレト「先のことどもの記憶はない（Non est priorum memoria）」（v.11）との対照：コヘレトでは忘却は嘆きだが、カトゥルスでは愛の防衛として積極的に選択される。",
+      "targetId": "hieronymus_ecclesiastes_1",
+      "targetParagraphId": 11
+    },
+    {
+      "paragraphId": 4,
+      "type": "commentary",
+      "anchor": "aut nequis malus invidere possit,\ncum tantum sciat esse basiorum.",
+      "body": "「誰か邪悪な者が嫉妬できないように（nequis malus invidere possit）」──「invidere」は「妬む・呪いの眼で見る（evil eye）」という古代的感覚が残る語。古代ローマ・ギリシアでは、幸福の総量を他者に知られることが「邪眼（fascinum）」を招くという信仰があった。愛の数を「撹乱」する第二の動機として、呪術的・迷信的な防衛が添えられることで、詩は最後に半喜劇的なトーンで閉じる。「数の撹乱」という行為が哲学的命題（愛の無限性）と民俗的信仰（邪眼への恐れ）という二重の根拠を持つことが、この詩の豊かな多層性をなす。"
+    }
+  ]
+}
