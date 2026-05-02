@@ -56,6 +56,7 @@ import nervoData from './data/nervo';
 import hieronymusData from './data/hieronymus';
 import liturgyData from './data/liturgy';
 import horatiusData from './data/horatius';
+import catullusData from './data/catullus';
 import platoData from './data/plato';
 import meleagerData from './data/meleager';
 import palladasData from './data/palladas';
@@ -284,6 +285,7 @@ export default function App() {
       ...hieronymusData,
       ...liturgyData,
       ...horatiusData,
+      ...catullusData,
       ...platoData,
       ...meleagerData,
       ...palladasData,
