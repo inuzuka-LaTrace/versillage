@@ -1,0 +1,134 @@
+{
+  "id": "catullus_carmen_3",
+  "title": "Carmen III — Passer mortuus est",
+  "author": "Gaius Valerius Catullus",
+  "source": "Liber Catulli (ed. Cornish), Wikisource. https://la.wikisource.org/wiki/Liber_Catulli_(ed._Cornish)/3",
+  "year": "Antiquitas",
+  "firstPublication": "Liber Catulli（カトゥルス詩集）、推定前60〜54年頃成立",
+  "difficulty": "中級",
+  "category": "catullus",
+  "originalLang": "la-LA",
+  "modernRelevance": "★★★★☆",
+  "context": "カトゥルス（Gaius Valerius Catullus, c.84–c.54 BC）の詩集第3番。「レスビア（Lesbia）」と呼ばれる詩人の恋人──コメディア・デッラルテ的な「不実な女」ではなく、実在したクロディア・メテッリ（Clodia Metelli）と同定されることが多い──が飼っていた雀（passer）の死を悼む哀歌。全18行の短詩でありながら、愛・喪失・冥府・哀悼という主題が凝縮されており、西洋抒情詩における「動物哀歌（Tierdichtung）」の原型的テキストのひとつ。冒頭のヴィーナスとクピドへの呼びかけ（invocatio）が神話的・恋愛詩的枠組みを与え、雀の死を通じて恋人の涙（ocelli）という身体的現実へと着地するこの構造は、マルティアリスやオウィディウスにも影響を与えた。雀（passer）はエロス的象徴として古代にも認識されており、「雀」と「肉体的愛」の連想（Carmen II参照）が本詩に二重の深みを与える。「iter tenebricosum（暗闇の道）」・「Orcus（冥府）」という死の表象は、同時代のウェルギリウス的地下世界描写と通底しつつ、VANITISME の虚無の詩学──「すべては美しいものを貪り食う（omnia bella devoratis）」という暗闇の定式──に直接接続される。",
+  "keywords": [
+    "passer",
+    "雀",
+    "哀歌",
+    "Veneres",
+    "Orcus",
+    "iter tenebricosum",
+    "puella",
+    "deliciae",
+    "ocelli",
+    "bella"
+  ],
+  "relatedTexts": [
+    "hieronymus_ecclesiastes_1",
+    "rossetti_vanity_of_vanities",
+    "trakl_de_profundis",
+    "dowson_a_requiem",
+    "rodenbach_loubli"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "verses": "v.1–2",
+      "original": "Lugete, o Veneres Cupidinesque,\net quantumst hominum venustiorum.",
+      "provisionalTranslation": "嘆け、おおヴィーナスたちよ、クピドたちよ、\nそして、優雅な心を持つすべての人々よ。"
+    },
+    {
+      "id": 2,
+      "verses": "v.3–10",
+      "original": "passer mortuus est meae puellae,\npasser, deliciae meae puellae,\nquem plus illa oculis suis amabat:\nnam mellitus erat suamque norat\nipsam tam bene quam puella matrem;\nnec sese a gremio illius movebat,\nsed circumsiliens modo huc modo illuc\nad solam dominam usque pipiabat.",
+      "provisionalTranslation": "私の恋人の雀が死んだ、\n私の恋人の愛でたる雀が。\n彼女はその雀を自分の眼よりも愛していた。\nなぜなら雀は蜂蜜のように甘く、女主人自身のことを\n少女が母親を知るほどよく知っていたから。\nその膝からは離れようとせず、\nあちこちと飛び跳ねては、\nただ女主人にのみ向かってさえずり続けた。"
+    },
+    {
+      "id": 3,
+      "verses": "v.11–15",
+      "original": "qui nunc it per iter tenebricosum\nilluc, unde negant redire quemquam.\nat vobis male sit, malae tenebrae\nOrci, quae omnia bella devoratis:\ntam bellum mihi passerem abstulistis.",
+      "provisionalTranslation": "その雀は今、暗闇の道を歩んでいく、\nあの場所へ──そこからは誰も戻れないと言われる場所へ。\nだがお前たちには呪いあれ、冥府の悪しき闇よ、\nすべての美しいものを貪り食うお前たちに。\nそのように美しい雀を私から奪い去った。"
+    },
+    {
+      "id": 4,
+      "verses": "v.16–18",
+      "original": "vae factum male! vae miselle passer!\ntua nunc opera meae puellae\nflendo turgiduli rubent ocelli.",
+      "provisionalTranslation": "ああ、なんという悲しい出来事！ああ、哀れな雀よ！\nお前のせいで今、私の恋人の\n小さな瞳が泣き腫らして赤く染まっている。"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "glossary",
+      "anchor": "Lugete, o Veneres Cupidinesque",
+      "body": "「嘆け（Lugete）」：命令法二人称複数。詩の冒頭に死への哀悼を命じる命令法を置くのは、哀歌（threnos）の慣用的開始法であると同時に、神々への呼びかけ（invocatio）を二重に機能させる。「Veneres Cupidinesque」：愛の女神ヴィーナスと愛の神クピドの複数形──単一の神ではなく、愛の力・エロスの多様な顕現すべてを呼び集める抽象化。この複数形は詩的誇張（amplificatio）でもあり、恋愛詩（carmen amatorium）の従来の讃美の語彙を哀悼の文脈へと転倒させる。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "prosody",
+      "anchor": "et quantumst hominum venustiorum.",
+      "body": "「quantumst」：「quantum est（どれほどのものがあるか）」の短縮形。口語ラテン語的な縮約（crasis）であり、カトゥルスが詩に日常語の生動感を持ち込む文体的特徴のひとつ。「venustiorum」：「venustus（優雅な、ヴィーナスにふさわしい）」の比較級属格複数。ラテン語詩では属格複数の語尾 -orum が長音節として韻律を充填する。全詩はファレーキウス詩型（hendecasyllabum Phalaecium）で書かれており、1行11音節の規則的リズムが哀悼の「節」感を生む。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "glossary",
+      "anchor": "passer, deliciae meae puellae",
+      "body": "「passer（雀）」：スズメ目の小鳥。古代ローマ詩において雀はエロス的含意を持つ鳥として機能し、アフロディテの聖鳥でもあった（サッポー断章1参照）。「deliciae」：「愛玩物・お気に入り・歓び」。単数形でも複数形でも機能する語で、幼いものや愛らしいものへの寵愛を指す。カトゥルスはこの語でpasserとpuellaの両者を結びつけ、雀の死を恋愛的喪失の縮図として提示する。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "quem plus illa oculis suis amabat",
+      "body": "「目よりも愛した（plus oculis amabat）」──「oculi（眼）」は古代ラテン語における愛情・宝物の最高比較表現の定型。「oculis meis（私の眼よりも）」は最高の愛着を示す慣用句（Plautus, Terence にも見られる）。眼の意匠は詩末「ocelli（小さな瞳）」に回収され、詩全体がプエッラの「眼」によって括弧に入れられる構造を持つ──愛の視線から始まり、涙の視線で終わる閉じた円環。この反復的対応はカトゥルスの構成技法の精巧さを示す。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "prosody",
+      "anchor": "sed circumsiliens modo huc modo illuc",
+      "body": "「circumsiliens modo huc modo illuc（あちこちと飛び跳ねては）」──動詞「circumsilire（跳び回る）」の現在分詞と「modo huc modo illuc（今ここへ、今あちらへ）」という対句的副詞節の組み合わせが、雀の機敏な動作を音響・リズム両面で模倣する。「huc」「illuc」の子音反復（alliteratio）が跳躍の軽快さを演出する。カトゥルスにおけるこのような語音模倣（onomatopoeia的韻律）はヘレニズム詩学の影響下にある。"
+    },
+    {
+      "paragraphId": 3,
+      "type": "glossary",
+      "anchor": "iter tenebricosum",
+      "body": "「暗闇の道（iter tenebricosum）」：冥府への道の隠喩。「tenebricosum」は「tenebrae（闇）」の派生形容詞で、「闇に満ちた」を意味する。古代ローマの冥府観において、死者はスティクス川を渡り「暗闇の道」を進む。ここでは「iter（旅・道行き）」という穏やかな語が冥府降下に使われることで、死の恐怖を和らげるとともに、旅の不可逆性（unde negant redire quemquam）をより鮮明に浮かび上がらせる。エクレシアステス「すべては過ぎ去り戻らない（Non est priorum memoria）」（hieronymus_ecclesiastes_1）との深層的対応。",
+      "targetId": "hieronymus_ecclesiastes_1",
+      "targetParagraphId": 11
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "illuc, unde negant redire quemquam.",
+      "body": "「そこからは誰も戻れないと言われる場所へ（illuc, unde negant redire quemquam）」──「negant」の主語は不特定の「人々（homines）」であり、「誰も〜と言わない」=「誰もが〜と言う」という二重否定の構造が冥府の不可逆性を強調する。カトゥルスは冥府を固有名詞で直接指定せず、婉曲（periphrasis）によって描写する──「そこ（illuc）」という指示語の不定性が冥府の絶対的他在性を示す。「ハデス（Hades）」「オルクス（Orcus）」という語は直後のv.13–14で初めて使われる。"
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "quae omnia bella devoratis",
+      "body": "「すべての美しいものを貪り食う（omnia bella devoratis）」──「bella（美しいもの）」の複数対格と「devorare（丸ごと飲み込む・貪食する）」という動詞の組み合わせが、死の暴力性をひとつの普遍命題として定式化する。「omnia（すべて）」という全称量化が、雀の死という個別事例を存在論的な問いへと拡張する──「美は常に死によって貪られる」という命題はコヘレト「すべては虚無（omnia vanitas）」の美的転写でもある。この行はVANITISME全体を貫く「美と消滅」の弁証法の圧縮された定式として機能する。",
+      "targetId": "hieronymus_ecclesiastes_1",
+      "targetParagraphId": 2
+    },
+    {
+      "paragraphId": 3,
+      "type": "intertextual",
+      "anchor": "malae tenebrae\nOrci",
+      "body": "「冥府の悪しき闇（malae tenebrae Orci）」──「Orcus」はエトルリア起源の冥府神・冥府そのもの。ウェルギリウス『アエネーイス』・ホラティウス「Carmina」でも反復される暗闇の定型語。ロセッティ「Vanity of Vanities」の「この世の暗闇（darkness of this world）」・トラークル「De Profundis」の「暗い地下（dunkler Untergang）」と同一の「暗闇」の図像系に属す。「vobis male sit（お前たちには呪いあれ）」という直接的呪詛は、死の無差別性への怒りの感情表出であり、ホラティウスの諦観（carpe diem）とは対極的な位置にある。",
+      "targetId": "rossetti_vanity_of_vanities",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 4,
+      "type": "glossary",
+      "anchor": "vae factum male! vae miselle passer!",
+      "body": "「vae（ああ・嘆息）」：感嘆詞。ラテン語における純粋な苦悩・嘆きの間投詞であり、動詞や主語なしに感情を直接発出する。「factum male（悪しき出来事）」：「male（悪く）」＋「factum（なされたこと）」──「この出来事は悪く（=不当に）なされた」という嘆き。「miselle（哀れな・可哀想な）」：「misellus」は「miser（惨めな・哀れな）」の縮小形で、カトゥルスが好む感情的縮小辞（diminutivum affectivum）のひとつ。縮小辞（-ulus/-ellus）の多用はカトゥルスのネオテリック詩学の特徴であり、puella・ocelli・turgiduli等とともに詩全体を「小さきもの」の感情世界として統一する。"
+    },
+    {
+      "paragraphId": 4,
+      "type": "commentary",
+      "anchor": "flendo turgiduli rubent ocelli.",
+      "body": "「泣き腫らして赤く染まる小さな瞳（flendo turgiduli rubent ocelli）」──詩の結語。「turgiduli（少し腫れた）」「ocelli（小さな瞳）」いずれも縮小辞形であり、詩末を「小さく・愛らしく・傷ついた」ものの像で閉じる。「flendo（泣くことによって）」という動名詞奪格が涙の動作を持続的プロセスとして示す。ロセッティ「Vanity of Vanities」の「目は涙を知らない（Mine eyes that see the stars of thee）」との対比──カトゥルスの瞳は涙によって赤く充血しているのに対し、ロセッティの目は喪失の後に澄んで星を見つめる。v.5「oculis suis（彼女の眼）」→v.18「ocelli（小さな瞳）」という「眼」の反復が詩の円環構造を完結させ、愛の喪失が涙という身体的現実として凝結する。",
+      "targetId": "rossetti_vanity_of_vanities",
+      "targetParagraphId": null
+    }
+  ]
+}
