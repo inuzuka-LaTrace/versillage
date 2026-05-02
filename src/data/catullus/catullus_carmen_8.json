@@ -1,0 +1,135 @@
+{
+  "id": "catullus_carmen_8",
+  "title": "Carmen VIII — Miser Catulle, desinas ineptire",
+  "author": "Gaius Valerius Catullus",
+  "source": "Liber Catulli (ed. Cornish), Wikisource. https://la.wikisource.org/wiki/Liber_Catulli_(ed._Cornish)/8",
+  "year": "Antiquitas",
+  "firstPublication": "Liber Catulli（カトゥルス詩集）、推定前60〜54年頃成立",
+  "difficulty": "中級",
+  "category": "catullus",
+  "originalLang": "la-LA",
+  "modernRelevance": "★★★★★",
+  "context": "カトゥルス詩集第8番。カトゥルスの最も劇的な自己対話詩であり、失恋と自制の葛藤を一人称・二人称を往復しながら描く。詩人は自分自身を「哀れなカトゥルス（Miser Catulle）」と呼びかけ、第三者のように叱咤する──「愚かであることをやめよ（desinas ineptire）」。全19行のファレーキウス詩型（hendecasyllabum Phalaecium）は、詩の始まりと終わりを「obdura（耐えよ・硬くなれ）」という同一の命令で括弧に入れ、自己強制の円環構造を持つ。詩は三つの時間的層をもつ：①過去の輝かしい「白い太陽の日々（fulsere candidi soles）」の回想、②「今や彼女は望まない（nunc iam illa non vult）」という現在の断絶、③レスビアの未来の不幸を反語的に問う「誰がお前に近づくだろう（quis nunc te adibit）」という複数の修辞疑問。「fulsere candidi soles（白い太陽が輝いた）」という過去形は、Carmen Vの「soles occidere et redire possunt（太陽は沈み、また戻ることができる）」と語彙的に連動しながら、失われた愛の不可逆性を「戻らない太陽」として裏面から照らし出す。詩末の「at tu, Catulle, destinatus obdura（しかしお前は、カトゥルスよ、断固として耐えよ）」は、自己対話の第三者化という詩的手法が最高点に達した瞬間であり、名前の呼びかけ（apostrophe）による自己客観化が痛ましい滑稽さと真摯な苦悩を同時に帯びる。「*nocte（夜よ）」はCornish校訂版の異読であり、v.15のlacunaに対する補填。",
+  "keywords": [
+    "obdura",
+    "miser",
+    "fulsere",
+    "candidi soles",
+    "自己対話",
+    "失恋",
+    "apostrophe",
+    "puella",
+    "desinas ineptire",
+    "別れ"
+  ],
+  "relatedTexts": [
+    "catullus_carmen_5",
+    "catullus_carmen_3",
+    "hieronymus_ecclesiastes_1",
+    "baudelaire_spleen",
+    "trakl_de_profundis",
+    "rodenbach_loubli"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "verses": "v.1–2",
+      "original": "Miser Catulle, desinas ineptire,\net quod vides perisse perditum ducas.",
+      "provisionalTranslation": "哀れなカトゥルスよ、愚かであることをやめよ、\nそして失われたと見えるものは失われたと思え。"
+    },
+    {
+      "id": 2,
+      "verses": "v.3–8",
+      "original": "fulsere quondam candidi tibi soles,\ncum ventitabas quo puella ducebat\namata nobis quantum amabitur nulla.\nibi illa multa tum iocosa fiebant,\nquae tu volebas nec puella nolebat.\nfulsere vere candidi tibi soles.",
+      "provisionalTranslation": "かつてお前のために白い太陽が輝いた、\n恋人が導くところへとお前が繰り返し行っていたころ、\nかの女は愛された、誰も愛されないほどに。\nそこであの数々の楽しいことが起きた、\nお前が望み、恋人も拒まなかったものたちが。\n白い太陽が本当にお前のために輝いた。"
+    },
+    {
+      "id": 3,
+      "verses": "v.9–11",
+      "original": "nunc iam illa non vult: tu quoque, impotens, noli,\nnec quae fugit sectare, nec miser vive,\nsed obstinata mente perfer, obdura.",
+      "provisionalTranslation": "今や彼女はもう望まない。お前も、意気地なしめ、望むな、\n逃げる者を追うな、惨めに生きるな、\nしかし頑なな心で耐えよ、硬くなれ。"
+    },
+    {
+      "id": 4,
+      "verses": "v.12–18",
+      "original": "vale, puella. iam Catullus obdurat,\nnec te requiret nec rogabit invitam:\nat tu dolebis, cum rogaberis nulla\nscelesta, *nocte. quae tibi manet vita?\nquis nunc te adibit? cui videberis bella?\nquem nunc amabis? cuius esse diceris?\nquem basiabis? cui labella mordebis?",
+      "provisionalTranslation": "さらば、恋人よ。今やカトゥルスは硬くなった、\nお前を求めることも、嫌がるお前に懇願することもない。\nしかしお前は苦しむだろう、誰にも求められなくなるとき、\n罰当たりめ、（暗い夜よ）。どんな生活がお前を待つのか？\n今誰がお前のもとへ来るだろう？誰にとってお前は美しく見えるだろう？\nお前は今誰を愛するだろう？誰のものと言われるだろう？\n誰にキスをするだろう？誰の唇を噛むだろう？"
+    },
+    {
+      "id": 5,
+      "verses": "v.19",
+      "original": "at tu, Catulle, destinatus obdura.",
+      "provisionalTranslation": "しかしお前は、カトゥルスよ、断固として耐えよ。"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "glossary",
+      "anchor": "Miser Catulle, desinas ineptire,",
+      "body": "「Miser Catulle（哀れなカトゥルスよ）」：詩人が自分の名を呼びかけ、三人称的に自己距離化する「使徒的呼びかけ（apostrophe）」の技法。自己を他者として客体化するこの身振りは、苦悩する主体が同時に自己を観察・叱咤する視線を持つことを示し、詩全体の劇的張力を生む。「desinas ineptire」：「desino（やめる）」の接続法現在＋不定詞「ineptire（愚かに振る舞う・的外れなことをする）」。「ineptus」は「aptus（適切な・場にふさわしい）」の否定形で、場の論理・社会的適切さから外れた振る舞いを指す。詩人が自分の恋愛への執着を「ineptia（愚かさ）」として断罪することで、詩は自己批判の独白として始まる。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "et quod vides perisse perditum ducas.",
+      "body": "「失われたと見えるものは失われたと思え（quod vides perisse perditum ducas）」──「perisse」（perdere の不定詞完了形「失われた」）と「perditum」（完了分詞「失われた・滅んだ」）という同根の語の反復（polyptoton）が、「失われたという事実」の二重確認として機能する。「ducas（思え・みなせ）」は接続法現在二人称単数で命令的勧誘を示す。失われた愛を「失われた」と認知し直す──この認識論的行為が詩の出発点であり、心理的断絶の宣言でもある。コヘレト「先のことどもの記憶はない（Non est priorum memoria）」（Ecclesiastes I, 11）との対照：コヘレトでは忘却は世界の構造的特性として嘆かれるが、カトゥルスでは忘却は自己に命じられる意志的行為として示される。",
+      "targetId": "hieronymus_ecclesiastes_1",
+      "targetParagraphId": 11
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "fulsere quondam candidi tibi soles,",
+      "body": "「かつてお前のために白い太陽が輝いた（fulsere quondam candidi tibi soles）」──「fulsere」は「fulgere（輝く）」の完了形三人称複数。「candidi（白い・輝く・幸福な）」は単なる色彩語でなく、ローマ詩において幸福・吉兆・純粋を示す形容詞。「tibi（お前のために）」という与格が、太陽の輝きが主体に向けられた恩寵として与えられていたことを示す。Carmen V「soles occidere et redire possunt（太陽は沈み、また戻ることができる）」との語彙的連動：V番では太陽の循環が愛の命令の根拠だったが、VIII番では「かつて輝いた太陽」は戻らない過去の輝きとして悲哀の定式に転化している。",
+      "targetId": "catullus_carmen_5",
+      "targetParagraphId": 2
+    },
+    {
+      "paragraphId": 2,
+      "type": "prosody",
+      "anchor": "fulsere vere candidi tibi soles.",
+      "body": "v.3の「fulsere quondam candidi tibi soles」とv.8の「fulsere vere candidi tibi soles」──同一行の変奏的反復（epanalepsis）。「quondam（かつて）」が「vere（本当に・真に）」に置き換わることで、回想が単なる懐古から感情的確認へと昂揚する。この反復はv.1–2の自己叱咤とv.9の「nunc iam（今や）」という現在の断絶の間に挿入され、過去の幸福の二重確認として機能する。ファレーキウス詩型の規則的リズムの中でこの反復行が置かれる位置的対称が、詩の建築的均整を支えている。"
+    },
+    {
+      "paragraphId": 3,
+      "type": "glossary",
+      "anchor": "nunc iam illa non vult: tu quoque, impotens, noli,",
+      "body": "「nunc iam（今や・もう）」：時間的断絶を示す複合副詞。「quondam（かつて）」との対照が過去と現在の亀裂を明示する。「impotens（意気地なし・自制できない）」：「自分を制御できない者」。「potens（力ある・自制できる）」の否定形で、愛への執着が主体の「力（potentia）」を奪うという認識を示す語。「noli（望むな）」：「nolo（望まない）」の命令法。「illa non vult（彼女は望まない）」→「tu noli（お前も望むな）」という平行構造が、彼女の意志を自己に模倣させる逆説的な自己命令として機能する。"
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "sed obstinata mente perfer, obdura.",
+      "body": "「obstinata mente perfer, obdura（頑なな心で耐えよ、硬くなれ）」──「obstinata mente（頑固な心で）」という奪格の態様語句が意志的抵抗の姿勢を示す。「perfer（耐えよ）」は「perferre（持続して運ぶ・耐え抜く）」の命令法。「obdura（硬くなれ・耐えよ）」は詩全体のライトモチーフとなる動詞で、v.11（obdura）・v.12（obdurat）・v.19（obdura）と三度反復される──この反復自体が「耐え抜く」行為の詩的模倣である。ストア哲学的「堅忍（constantia）」の命令であると同時に、感情の叫びを自己強制によって抑圧する葛藤の表出でもある。"
+    },
+    {
+      "paragraphId": 4,
+      "type": "commentary",
+      "anchor": "vale, puella. iam Catullus obdurat,",
+      "body": "「vale, puella（さらば、恋人よ）」──「vale」はラテン語の別れの挨拶（英語のfarewell相当）。この二語が詩の感情的頂点を構成する。直後に「iam Catullus obdurat（今やカトゥルスは硬くなった）」と続き、「vale」という別れの瞬間が同時に「obdura」という自己命令の完了として宣言される。詩人はここで初めて一人称「Catullus」という三人称的自己名を使い、自己から距離を置いた「決定」を演じる。ローデンバック「忘却（L'Oubli）」の「忘却の静寂」との対照：ローデンバックでは忘却は静かな水面のように到来するが、カトゥルスでは忘却は「硬くなる（obdura）」という暴力的な自己制御として意志される。",
+      "targetId": "rodenbach_loubli",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 4,
+      "type": "glossary",
+      "anchor": "scelesta, *nocte. quae tibi manet vita?",
+      "body": "「scelesta（罰当たりめ・邪悪な女よ）」：「scelus（罪・悪事）」の派生形容詞女性形呼格。突然の罵倒語がレスビアへの怒りの感情を露呈する。「*nocte」：Cornish校訂版の異読記号付き語。底本にlacuna（欠落・判読不能箇所）があり、Cornish版は「nocte（夜に）」を補填している。他の校訂では「vae te（お前に災いあれ）」「noctesque（そして夜々を）」等の異読がある。この不確定性は詩のテクスト的傷として残り、断絶・喪失という詩の主題と共鳴する。「quae tibi manet vita（どんな生活がお前を待つのか）」：以降v.18まで続く六つの修辞疑問（interrogatio）の起点。"
+    },
+    {
+      "paragraphId": 4,
+      "type": "prosody",
+      "anchor": "quis nunc te adibit? cui videberis bella?\nquem nunc amabis? cuius esse diceris?\nquem basiabis? cui labella mordebis?",
+      "body": "v.16–18の六つの修辞疑問は三対の平行構造をなす：「誰が来るか／誰にとって美しいか」「誰を愛するか／誰のものと言われるか」「誰にキスするか／誰の唇を噛むか」。各対が「quis/quem/quem」（主格/対格/対格）と「cui/cuius/cui」（与格/属格/与格）という格変化の交替によって変奏される。「labella mordebis（唇を噛む）」：「basium（キス）」よりも肉体的・官能的な表現。Carmen VIIIで唯一の官能描写が、失われた愛の身体的リアリティを結末直前に召喚する。「basiabis」はCarmen V「da mi basia mille」の「basia」と同根──接吻の語が両詩を密かに接続する。",
+      "targetId": "catullus_carmen_5",
+      "targetParagraphId": 3
+    },
+    {
+      "paragraphId": 5,
+      "type": "commentary",
+      "anchor": "at tu, Catulle, destinatus obdura.",
+      "body": "「しかしお前は、カトゥルスよ、断固として耐えよ（at tu, Catulle, destinatus obdura）」──詩の結語であり、v.1「Miser Catulle」の呼びかけに対応する閉じ。「miser（哀れな）」→「destinatus（断固とした）」という形容詞の交代が、詩全体の運動──苦悩する自己から意志する自己へ──を一語で要約する。しかし「obdura（耐えよ）」という命令法の反復は、自己説得がいまだ完結していないことをも示す。完了した決断ならば命令は不要だからである。詩はこの逆説の中で終わる：「耐えよ」という命令そのものが、耐えることの困難さの証言である。ブランショ的読みでは、この自己への使徒的呼びかけ（apostrophe）が「書く主体の不在」──書くことで自己から離れ、自己を三人称として処理する──を実演する。"
+    }
+  ]
+}
