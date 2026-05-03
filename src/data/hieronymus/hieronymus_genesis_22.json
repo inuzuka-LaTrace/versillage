@@ -1,0 +1,279 @@
+{
+  "id": "hieronymus_genesis_22",
+  "title": "Genesis, Caput XXII",
+  "author": "Eusebius Sophronius Hieronymus",
+  "source": "Biblia Sacra Vulgata, Liber Genesis, Caput XXII. Bible Gateway: https://www.biblegateway.com/passage/?search=Genesis+22&version=VULGATE",
+  "year": "Antiquitas",
+  "firstPublication": "Vulgata Latina, c. 382–405 AD（ヒエロニムス訳）",
+  "difficulty": "上級",
+  "category": "hieronymus",
+  "originalLang": "la-LA",
+  "modernRelevance": "★★★★★",
+  "context": "創世記（Liber Genesis）第22章。いわゆる「アケダ（Aqedah）」──イサクの縛り（binding of Isaac）──の物語。ユダヤ教・キリスト教・イスラム教の三宗教すべてに根本的重要性を持つテキストであり、西洋思想史における信仰・倫理・命令・犠牲・他者論の最も集中的な問いの場となってきた。神が愛する独り子イサクを燔祭として捧げよと命じ（v.2）、アブラハムが沈黙のうちにその命令に従い出発し（v.3–10）、天使の介入によってイサクが救われ代わりに雄羊が捧げられ（v.11–14）、神がアブラハムを祝福する（v.15–18）という構造。哲学的論争の核心は倫理的問いにある：カント（1724–1804）は『宗教論』で「神がイサクを殺せと命じた」という主張を道徳律への明白な違反として退け、いかなる神的権威も道徳命令を停止できないと論じた。キルケゴール（1813–1855）は『恐れとおののき（Frygt og Bæven, 1843）』でこれに正面から応答し、アブラハムの「信仰の騎士（Ridder af Tro）」としての跳躍を「倫理の目的論的停止（teleologische Suspension des Ethischen）」として定義した──倫理を廃棄するのでなく、倫理を超えた「絶対者との関係（Relation to the Absolute）」において倫理が一時的に停止される逆説。ローゼンツヴァイク（1886–1929）は『救済の星（Der Stern der Erlösung, 1921）』においてアケダを神・人間・世界の三角形的関係の最高の啓示の瞬間として位置づけた。レヴィナス（1906–1995）は「全体性と無限（Totalité et Infini）」・「神・死・時間（Dieu, la mort et le temps）」等で、神への「応答（réponse）」が常に「他者への人質（otage）」としての責任を含意することを論じ、アブラハムのアケダをその極限事例として読んだ。デリダ（1930–2004）は『死を与える（Donner la mort, 1992）』でキルケゴールを出発点にアブラハムの沈黙──「誰にも告げない（sagen wir es nicht）」──を責任の秘密性・単独性として分析し、アブラハムの行為が「千のアブラハム」の毎日のドラマとして繰り返されると論じた。「Deus providebit（神は見て備える）」（v.8）はヘブライ語「יְהוָה יִרְאֶה（YHWH yir'eh）」の訳で、「見る・備える・顕れる」という語義の多義性が「Dominus videt（主は見る）」（v.14）という地名の語義に収束する。",
+  "keywords": [
+    "Aqedah",
+    "tentatio",
+    "holocaustum",
+    "unigenitus",
+    "Deus providebit",
+    "非梯子",
+    "信仰の跳躍",
+    "倫理の目的論的停止",
+    "angelus Domini",
+    "semen tuum sicut stellas"
+  ],
+  "relatedTexts": [
+    "hieronymus_genesis_1",
+    "hieronymus_genesis_2",
+    "hieronymus_genesis_3",
+    "hieronymus_genesis_4",
+    "hieronymus_iob_1",
+    "hieronymus_iob_38",
+    "hieronymus_ecclesiastes_1",
+    "weil_decreation",
+    "weil_accepter_le_vide",
+    "dante_paradiso_canto_26"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "verses": "v.1",
+      "original": "Quae postquam gesta sunt, tentavit Deus Abraham, et dixit ad eum: Abraham, Abraham. At ille respondit: Adsum.",
+      "provisionalTranslation": "これらのことが起きた後、神はアブラハムを試みられた。そして彼に言われた。「アブラハム、アブラハム。」アブラハムは答えた。「ここにおります。」"
+    },
+    {
+      "id": 2,
+      "verses": "v.2",
+      "original": "Ait illi: Tolle filium tuum unigenitum, quem diligis, Isaac, et vade in terram visionis, atque ibi offeres eum in holocaustum super unum montium quem monstravero tibi.",
+      "provisionalTranslation": "神は言われた。「あなたの独り子、愛するイサクを連れて、幻の地に行け。そしてわたしが示す山の一つで、彼を燔祭として捧げよ。」"
+    },
+    {
+      "id": 3,
+      "verses": "v.3",
+      "original": "Igitur Abraham de nocte consurgens, stravit asinum suum, ducens secum duos juvenes, et Isaac filium suum: cumque concidisset ligna in holocaustum, abiit ad locum quem praeceperat ei Deus.",
+      "provisionalTranslation": "アブラハムは夜明けに起き、ロバに鞍を置き、二人の若者とイサクを連れて出発した。燔祭のための薪を割り、神が命じられた場所へと出かけた。"
+    },
+    {
+      "id": 4,
+      "verses": "v.4",
+      "original": "Die autem tertio, elevatis oculis, vidit locum procul:",
+      "provisionalTranslation": "三日目に、目を上げると、その場所が遠くに見えた。"
+    },
+    {
+      "id": 5,
+      "verses": "v.5",
+      "original": "dixitque ad pueros suos: Expectate hic cum asino: ego et puer illuc usque properantes, postquam adoraverimus, revertemur ad vos.",
+      "provisionalTranslation": "若者たちに言った。「ロバと一緒にここで待っていなさい。私と息子はあそこまで行き、礼拝したら、またあなたたちのもとに戻ってくる。」"
+    },
+    {
+      "id": 6,
+      "verses": "v.6",
+      "original": "Tulit quoque ligna holocausti, et imposuit super Isaac filium suum: ipse vero portabat in manibus ignem et gladium. Cumque duo pergerent simul,",
+      "provisionalTranslation": "アブラハムは燔祭の薪を取り、息子イサクに背負わせた。自分は手に火と剣を持った。二人は一緒に歩いた。"
+    },
+    {
+      "id": 7,
+      "verses": "v.7",
+      "original": "dixit Isaac patri suo: Pater mi. At ille respondit: Quid vis, fili? Ecce, inquit, ignis et ligna: ubi est victima holocausti?",
+      "provisionalTranslation": "イサクは父に言った。「父よ。」父は答えた。「何だ、息子よ。」「見てください、火と薪はあります。燔祭のいけにえはどこにいるのですか。」"
+    },
+    {
+      "id": 8,
+      "verses": "v.8",
+      "original": "Dixit autem Abraham: Deus providebit sibi victimam holocausti, fili mi. Pergebant ergo pariter.",
+      "provisionalTranslation": "アブラハムは言った。「神が御自分のために燔祭のいけにえを備えてくださる、息子よ。」二人は一緒に歩き続けた。"
+    },
+    {
+      "id": 9,
+      "verses": "v.9",
+      "original": "Et venerunt ad locum quem ostenderat ei Deus, in quo aedificavit altare, et desuper ligna composuit; cumque alligasset Isaac filium suum, posuit eum in altare super struem lignorum.",
+      "provisionalTranslation": "神が示された場所に来ると、アブラハムはそこに祭壇を築き、薪を並べた。イサクを縛って祭壇の薪の上に置いた。"
+    },
+    {
+      "id": 10,
+      "verses": "v.10",
+      "original": "Extenditque manum, et arripuit gladium, ut immolaret filium suum.",
+      "provisionalTranslation": "そして手を伸ばし、剣をつかんだ、息子を屠るために。"
+    },
+    {
+      "id": 11,
+      "verses": "v.11",
+      "original": "Et ecce angelus Domini de caelo clamavit, dicens: Abraham, Abraham. Qui respondit: Adsum.",
+      "provisionalTranslation": "すると、主の天使が天から呼ばわって言った。「アブラハム、アブラハム。」アブラハムは答えた。「ここにおります。」"
+    },
+    {
+      "id": 12,
+      "verses": "v.12",
+      "original": "Dixitque ei: Non extendas manum tuam super puerum, neque facias illi quidquam: nunc cognovi quod times Deum, et non pepercisti unigenito filio tuo propter me.",
+      "provisionalTranslation": "天使は言った。「その子に手を伸ばすな、何もするな。今や私は知った、あなたが神を畏れ、独り子をも私のために惜しまなかったことを。」"
+    },
+    {
+      "id": 13,
+      "verses": "v.13",
+      "original": "Levavit Abraham oculos suos, viditque post tergum arietem inter vepres haerentem cornibus, quem assumens obtulit holocaustum pro filio.",
+      "provisionalTranslation": "アブラハムが目を上げると、茂みに角が絡まっている雄羊が後ろにいた。アブラハムはその雄羊を取り、息子の代わりに燔祭として捧げた。"
+    },
+    {
+      "id": 14,
+      "verses": "v.14",
+      "original": "Appellavitque nomen loci illius, Dominus videt. Unde usque hodie dicitur: In monte Dominus videbit.",
+      "provisionalTranslation": "アブラハムはその場所を「主は見る」と名付けた。それゆえ今日まで「山の上で主は現れる」と言い伝えられる。"
+    },
+    {
+      "id": 15,
+      "verses": "v.15",
+      "original": "Vocavit autem angelus Domini Abraham secundo de caelo, dicens:",
+      "provisionalTranslation": "主の天使は再び天からアブラハムを呼んで言った。"
+    },
+    {
+      "id": 16,
+      "verses": "v.16",
+      "original": "Per memetipsum juravi, dicit Dominus: quia fecisti hanc rem, et non pepercisti filio tuo unigenito propter me:",
+      "provisionalTranslation": "「わたし自身にかけて誓う、と主は言われる。あなたがこのことを行い、独り子を惜しまなかったので、」"
+    },
+    {
+      "id": 17,
+      "verses": "v.17",
+      "original": "benedicam tibi, et multiplicabo semen tuum sicut stellas caeli, et velut arenam quae est in littore maris: possidebit semen tuum portas inimicorum suorum,",
+      "provisionalTranslation": "「あなたを祝福し、あなたの子孫を天の星のように、海辺の砂のように増やす。あなたの子孫は敵の門を占領するだろう。」"
+    },
+    {
+      "id": 18,
+      "verses": "v.18",
+      "original": "et benedicentur in semine tuo omnes gentes terrae, quia obedisti voci meae.",
+      "provisionalTranslation": "「あなたの子孫によって地のすべての民族は祝福される、あなたがわたしの声に従ったから。」"
+    },
+    {
+      "id": 19,
+      "verses": "v.19",
+      "original": "Reversus est Abraham ad pueros suos, abieruntque Bersabee simul, et habitavit ibi.",
+      "provisionalTranslation": "アブラハムは若者たちのもとへ戻り、共にベエル・シェバへ行き、そこに住んだ。"
+    },
+    {
+      "id": 20,
+      "verses": "v.20",
+      "original": "His ita gestis, nuntiatum est Abrahae quod Melcha quoque genuisset filios Nachor fratri suo:",
+      "provisionalTranslation": "これらのことの後、アブラハムに知らせが来た。「ミルカもあなたの兄弟ナホルに息子たちを産んだ。」"
+    },
+    {
+      "id": 21,
+      "verses": "v.21",
+      "original": "Hus primogenitum, et Buz fratrem ejus, et Camuel patrem Syrorum,",
+      "provisionalTranslation": "長男ウツ、その弟ブズ、アラム人の父カムエル、"
+    },
+    {
+      "id": 22,
+      "verses": "v.22",
+      "original": "et Cased, et Azau, Pheldas quoque et Jedlaph,",
+      "provisionalTranslation": "ケセド、ハゾ、ピルダシュ、イドラフ、"
+    },
+    {
+      "id": 23,
+      "verses": "v.23",
+      "original": "ac Bathuel, de quo nata est Rebecca: octo istos genuit Melcha, Nachor fratri Abrahae.",
+      "provisionalTranslation": "そしてベトエル。ベトエルからリベカが生まれた。これら八人をミルカがアブラハムの兄弟ナホルに産んだ。"
+    },
+    {
+      "id": 24,
+      "verses": "v.24",
+      "original": "Concubina vero illius, nomine Roma, peperit Tabee, et Gaham, et Thahas, et Maacha.",
+      "provisionalTranslation": "妾のレウマはテバフ、ガハム、タハシュ、マアカを産んだ。"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "glossary",
+      "anchor": "tentavit Deus Abraham",
+      "body": "「神はアブラハムを試みられた（tentavit Deus Abraham）」──「tentavit（試みた・誘惑した）」：ヘブライ語「נִסָּה（nissah）」は「試す・試験する」の意。ウルガータ「tentavit」はラテン語「tentatio（誘惑・試み）」の動詞形であり、「Lord's Prayer（主の祈り）」の「ne nos inducas in tentationem（我らを試みに引き込まず）」と同語根──アブラハムが受けるのは神による「tentatio」である。カント（1724–1804）は『宗教論（Die Religion innerhalb der Grenzen der bloßen Vernunft, 1793）』において、もし誰かが「神が私に息子を殺せと命じた」と主張したとしても、その命令はどんな状況でも道徳律（息子を殺してはならない）に反するから、それが神の声であることを確信してはならないと論じた──「どんな声が神の声であるかを我々は知らないが、道徳命令が神の命令に反することはありえない」という道徳律の優位。キルケゴール（1813–1855）は『恐れとおののき（Frygt og Bæven, 1843）』でカントへの正面応答として、アブラハムは「倫理の目的論的停止（die teleologische Suspension des Ethischen）」を体現すると論じた──倫理的命令（殺してはならない）が「絶対者（神）への関係」という絶対的義務によって一時的に停止される逆説。「Abraham, Abraham」という二重の呼びかけが「Adsum（ここにおります）」という完全な応答を引き出す──この「呼び（vocatio）→応答（responsio）」の構造がローゼンツヴァイク『救済の星』における「啓示（Offenbarung）」の原形として機能する。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "Tolle filium tuum unigenitum, quem diligis, Isaac, et vade in terram visionis, atque ibi offeres eum in holocaustum",
+      "body": "「あなたの独り子、愛するイサクを……燔祭として捧げよ（offeres eum in holocaustum）」──神の命令の構造に注目すると、「filium tuum（あなたの息子）→ unigenitum（独り子）→ quem diligis（愛する）→ Isaac（イサク）」という同格的重層が命令の重さを段階的に積み上げる。ヘブライ語原典も同様の累積構造を持つ：「בִּנְךָ אֶת יְחִידְךָ אֲשֶׁר אָהַבְתָּ אֶת יִצְחָק（あなたの息子、あなたの独り子、あなたが愛する者、イサクを）」。「unigenitum（独り子）」：ヨハネ福音書3:16「Deus dilexit mundum, ut Filium suum unigenitum daret（神は世を愛されたので、独り子をお与えになった）」のキリスト論的先取りとして、アケダはキリストの受難の型（typus）として神学的に解釈されてきた。「terram visionis（幻の地）」：ヘブライ語「מוֹרִיָּה（Moriah）」の訳。「見る・現れる（ראה：ra'ah）」から派生し、v.14「Dominus videt（主は見る）」と同語根──場所の名と神の属性（providentia：見て備える）が語源的に連動する。",
+      "targetId": "weil_decreation",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 3,
+      "type": "prosody",
+      "anchor": "Igitur Abraham de nocte consurgens",
+      "body": "「アブラハムは夜明けに起き（Abraham de nocte consurgens）」──「Igitur（かくして）」：Genesis第2章v.1の「Igitur perfecti sunt caeli（かくして完成した）」・マラルメ『Igitur』と同じ論理的帰結の接続詞。神の命令（v.2）を受けた「igitur（かくして）」として、アブラハムの即座の行動が論理的必然として示される。キルケゴール『恐れとおののき』が特に強調するのはこの「de nocte（夜明けに）」という早さ──「早朝（de nocte）に鞍を置いた」という躊躇のない実行が、アブラハムの信仰の絶対性を示す。通常の人間的倫理の立場から見れば、躊躇・熟慮・拒否が予期されるところで、アブラハムは「de nocte（夜明けに）」──夜が明けたその瞬間に──動く。デリダ『死を与える（Donner la mort, 1992）』における「アブラハムの沈黙」：アブラハムはサラに・若者たちに・イサクに、何も告げない──「この沈黙は言語の限界ではなく、責任の絶対的単独性（singularité absolue）の条件である」。",
+      "targetId": "hieronymus_genesis_2",
+      "targetParagraphId": 1
+    },
+    {
+      "paragraphId": 5,
+      "type": "commentary",
+      "anchor": "revertemur ad vos.",
+      "body": "「私たちは戻ってくる（revertemur ad vos）」──「revertemur」は一人称複数未来形。アブラハムはイサクとともに「戻る（revertemur）」と若者たちに告げる。これは虚偽の約束か、信仰による確信か──解釈が分かれる最も重要な瞬間。キルケゴール的読解では、アブラハムはここで「不条理によって信じる（kraft af det Absurde）」という信仰の二重運動の極致を示す：一方でイサクを捧げる命令に完全に従いながら、他方でイサクが戻ってくること──神が何らかの仕方でそれを可能にするはず──を「不条理によって」信じる。「アブラハムは同時に二つの矛盾することを信じていた」──これがキルケゴールの「信仰の騎士（Ridder af Tro）」の定義。ローゼンツヴァイク『救済の星』における神・人間・世界の三角形で、この「revertemur」は人間から世界への「応答（Antwort）」の先取りとして読める：アブラハムは世界（若者たち）に向かって「戻る」という関係性を維持する。"
+    },
+    {
+      "paragraphId": 6,
+      "type": "commentary",
+      "anchor": "Tulit quoque ligna holocausti, et imposuit super Isaac filium suum: ipse vero portabat in manibus ignem et gladium. Cumque duo pergerent simul,",
+      "body": "「燔祭の薪を取り、息子イサクに背負わせた──自分は手に火と剣を持った。二人は一緒に歩いた（duo pergerent simul）」──この場面の視覚的精密さが注釈者を常に魅了してきた。薪を背負うイサクと火・剣を持つアブラハム：何も知らない息子が十字架の木を担ぐキリストの型（typus）として神学的に解釈される（ヨハネ19:17「baiulans sibi crucem（自ら十字架を担ぎながら）」）。「duo pergerent simul（二人は一緒に歩いた）」：この句はv.8の末尾「pergebant ergo pariter（二人は一緒に歩き続けた）」と反復される。ヘブライ語では「וַיֵּלְכוּ שְׁנֵיהֶם יַחְדָּו（wayyel'khu shenehem yakhdaw）」が二度繰り返される。この反復が「知っている父」と「知らない息子」の共行という沈黙の緊張を最大化する。デリダ『死を与える』が指摘するように、この道程全体がアブラハムの「秘密（secret）」の持続として機能する──語ることのできない責任を抱えたまま、「共に歩く（simul）」という外見上の親密さが維持される。"
+    },
+    {
+      "paragraphId": 7,
+      "type": "commentary",
+      "anchor": "ubi est victima holocausti?",
+      "body": "「燔祭のいけにえはどこにいるのですか（ubi est victima holocausti）」──イサクの問い。「ubi est（どこにいるのか）」：Genesis第3章v.9「Ubi es（あなたはどこにいるのか）」という神のアダムへの問いの反響。ここではイサクが「犠牲（victima）」の不在を問う。父は知っている──「victima」はイサク自身であると。デリダ『死を与える』第4章「Tout autre est tout autre（すべての他者はまったく他者である）」でこのイサクの問いが分析される：イサクは自分が「犠牲（victima）」であることを知らずに問う。この「知らなさ（ignorance）」の中に、責任の絶対的非対称性が露呈する──一方は死を与えること（donner la mort）を知り、他方は死を与えられることを知らない。レヴィナス的読解では、イサクの「ubi est victima（いけにえはどこに）」という問いが「顔（visage）」の倫理的呼びかけとして機能する──息子の問いかける顔が、アブラハムに向かって「殺してはならない（Tu ne tueras point）」という倫理的禁止を発している。",
+      "targetId": "weil_la_violence",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 8,
+      "type": "glossary",
+      "anchor": "Deus providebit sibi victimam holocausti, fili mi.",
+      "body": "「神が御自分のために燔祭のいけにえを備えてくださる（Deus providebit）、息子よ」──「providebit」：「providere（前を見る・備える）」の未来形。ヘブライ語「יְהוָה יִרְאֶה（YHWH yir'eh）」の「見る（ra'ah）」からの訳出。「前を見る（pro-videre）」という語義が「摂理（providentia）」の概念の語源。アブラハムの「Deus providebit」は予言か、希望か、信仰の発語か──テキストはその内実を語らない。キルケゴール：アブラハムは「不条理によって（kraft af det Absurde）」神が備えることを信じた。ローゼンツヴァイク『救済の星』における「啓示（Offenbarung）」は神から人間への「愛（Liebe）」の発出であり、それへの人間の「応答（Antwort）」が愛の受容として機能する──「Deus providebit（神が備える）」という信頼がまさにその応答の形式。ヴェイユ「Accepter le vide（虚空を受容する）」の「虚空を満たすのは神のみ」という命題が、「Deus providebit（神が備える）」という信頼の構造と対応する：アブラハムは「victima（犠牲）」の不在という「虚空（vide）」を保ちながら歩く。",
+      "targetId": "weil_accepter_le_vide",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 10,
+      "type": "commentary",
+      "anchor": "Extenditque manum, et arripuit gladium, ut immolaret filium suum.",
+      "body": "「手を伸ばし、剣をつかんだ──息子を屠るために（ut immolaret filium suum）」──アケダの物語の頂点。「Extenditque manum（手を伸ばし）」：Genesis第3章「ne forte mittat manum suam, et sumat de ligno vitae（命の木に手を伸ばさないように）」の「manum」と同一。神がエデンで「手を伸ばすことを禁じた」のに対し、ここでアブラハムは神の命令によって「手を伸ばす（extendit manum）」──禁じられた手の伸ばしと命じられた手の伸ばしが同一の動詞で表現される。「ut immolaret（屠るために）」：目的を示す接続法が、この行為がまだ実行されていないこと──v.11の天使の介入が一瞬早く来ること──の構文的表現。カントへの応答として：剣がイサクに届く寸前で止まる──実際にはイサクは死なない。しかしキルケゴールにとって、この「ut immolaret（屠るために）」という目的語で表現された意志は、実行の寸前で停止されたとしても「倫理の停止」として本物であった。"
+    },
+    {
+      "paragraphId": 12,
+      "type": "commentary",
+      "anchor": "non pepercisti unigenito filio tuo propter me.",
+      "body": "「独り子をも私のために惜しまなかった（non pepercisti unigenito filio tuo propter me）」──天使によるアブラハムへの評価の定式。「non pepercisti（惜しまなかった）」：「parcere（惜しむ・免除する）」の完了形二人称単数。ヨハネ福音書3:16「Deus dilexit mundum, ut Filium suum unigenitum daret（神は世を愛して独り子を与えた）」との対応：アブラハムが「独り子を惜しまなかった」ことが、神の独り子を「惜しまなかった」贈与の型（typus）として機能する。「propter me（私のために）」：完全な他者への贈与の動機として「私（神）のために」が置かれる。レヴィナス（『全体性と無限』）：真の倫理的応答は「他者のために（pour l'Autre）」への無限責任として定義される。「propter me（私のために）」という神への応答が、同時に「他者（神・イサク）への責任」の最高形として機能する──「神への責任」と「息子への責任（殺すな）」という二つの「他者への責任」が衝突する極限において、アブラハムは「propter me（神のために）」を選んだ。",
+      "targetId": "weil_decreation",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 13,
+      "type": "commentary",
+      "anchor": "viditque post tergum arietem inter vepres haerentem cornibus, quem assumens obtulit holocaustum pro filio.",
+      "body": "「茂みに角が絡まっている雄羊が後ろにいた──息子の代わりに燔祭として捧げた（pro filio）」──代替犠牲（substitutio）の瞬間。「post tergum（後ろに）」：アブラハムは前（前方の山頂）を見ていたのに、雄羊は「後ろ（post tergum）」にいた──「providere（前を見る）」という神の摂理が、前ではなく後ろから来る逆説。「inter vepres（茂みの中に）」：角が絡まって動けない雄羊は自らの意志で来たのでなく「絡まって（haerentem）」いた。「pro filio（息子の代わりに）」：「代替（substitutio）」の論理が聖書で最も明確に提示される瞬間。ローゼンツヴァイク『救済の星』において、この「代替」は救済（Erlösung）の構造的原理として機能する──一つの命が他の命の代わりになるという代償的論理。レヴィナス的読解では、雄羊の「haerentem（絡まること）」が「人質（otage）」の形象として機能する──他者のために縛られ犠牲になるという存在様式。",
+      "targetId": "weil_necessite",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 14,
+      "type": "glossary",
+      "anchor": "Appellavitque nomen loci illius, Dominus videt. Unde usque hodie dicitur: In monte Dominus videbit.",
+      "body": "「その場所を『主は見る（Dominus videt）』と名付けた──山の上で主は現れる（Dominus videbit）」──「Dominus videt（主は見る）」：ヘブライ語「יְהוָה יִרְאֶה（YHWH yir'eh）」の訳。「見る（ra'ah）」が「見て備える（providere）」・「現れる（apparere）」の多義性を持つ語の集約。v.8「Deus providebit（神が備える）」という信仰の発語が、事後的に「Dominus videt（主は見ていた）」という場所の名として確認される──摂理の予言が場所の名として固定化される瞬間。レヴィナス（『存在の彼方へ（Autrement qu'être）』）における「顔（visage）」の形而上学：「主は見る（Dominus videt）」という神の「見る視線（regard）」は、倫理の超越的根拠として機能する──神の視線が及ぶ場所では、殺すことができない。Genesis第3章v.9「Ubi es（どこにいるのか）」という神の問いが「場所の神学（theologie du lieu）」を開いたとすれば、「Dominus videt（主は見る）」という場所の命名は「視線の神学」を刻印する。コヘレト「Vidi cuncta quae fiunt sub sole（太陽の下でなされるすべてを見た）」（Ecclesiastes I, 14）という人間の疲れた「見る（videre）」に対し、「Dominus videt（主は見る）」は疲れを知らない神の視線として対置される。",
+      "targetId": "hieronymus_ecclesiastes_1",
+      "targetParagraphId": 14
+    },
+    {
+      "paragraphId": 17,
+      "type": "commentary",
+      "anchor": "multiplicabo semen tuum sicut stellas caeli, et velut arenam quae est in littore maris:",
+      "body": "「あなたの子孫を天の星のように、海辺の砂のように増やす（sicut stellas caeli, et velut arenam maris）」──アブラハム契約の宇宙的祝福の再確認。Genesis第1章v.16「Fecitque Deus duo luminaria magna（神は二つの大きな光を造られた）」の「stellas（星）」と、Genesis第1章v.10「congregationesque aquarum appellavit Maria（水の集まりを海と呼んだ）」の「mare（海）」という二つの創造の極が、ここで「子孫の数の比喩（similitudo）」として動員される──창造の宇宙全体がアブラハムの子孫の多さへの比喩となる逆説。ローゼンツヴァイク『救済の星』において「星（Stern）」はユダヤ民族の存在様式の象徴として機能する──ダビデの星（六芒星）が「神・人間・世界」の三角形の重ね合わせ──であり、「sicut stellas caeli（天の星のように）」という比喩がユダヤ民族の存在の宇宙的次元を示す。ヴェイユ「Les Astres（星々）」詩が神の秩序の表徴として「星（astres）」を歌うとき、アブラハムへの「sicut stellas（星のように）」という神の祝福と深く共鳴する。",
+      "targetId": "hieronymus_genesis_1",
+      "targetParagraphId": 16
+    },
+    {
+      "paragraphId": 18,
+      "type": "commentary",
+      "anchor": "benedicentur in semine tuo omnes gentes terrae, quia obedisti voci meae.",
+      "body": "「地のすべての民族はあなたの子孫によって祝福される（benedicentur in semine tuo omnes gentes terrae）──あなたがわたしの声に従ったから（quia obedisti voci meae）」──アケダ物語の神学的結論。「quia obedisti voci meae（わたしの声に従ったから）」：「声（vox）」への「服従（oboedire：ob-audire、聴くことへ向かう）」として信仰が定義される。「oboedire」の語源「ob-audire（向かって聴く）」が、v.1「Abraham, Abraham / Adsum（ここにおります）」という「呼び→応答」の構造に収束する。カントへの最終的応答として：「わたしの声に従ったから（quia obedisti）」という因果が明示されることで、アケダは「盲目的服従」でなく「声への応答としての信仰（fides）」として定義される。デリダ『死を与える』の最終的問い：「quia obedisti（従ったから）」という理由が明示されたとき、「信仰の絶対的単独性（singularité）」は「普遍的祝福（omnes gentes）」として外部に開かれる──単独の責任が普遍の祝福を産むという逆説が、アケダ全体の論理的帰結として確認される。"
+    }
+  ]
+}
