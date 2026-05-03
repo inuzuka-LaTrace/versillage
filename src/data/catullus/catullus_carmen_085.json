@@ -1,0 +1,83 @@
+{
+  "id": "catullus_carmen_85",
+  "title": "Carmen LXXXV — Odi et amo",
+  "author": "Gaius Valerius Catullus",
+  "source": "Liber Catulli (ed. Cornish), Wikisource. https://la.wikisource.org/wiki/Liber_Catulli_(ed._Cornish)/85",
+  "year": "c. 60–54 BC",
+  "firstPublication": "Liber Catulli（カトゥルス詩集）、推定前60〜54年頃成立",
+  "difficulty": "初級",
+  "category": "catullus",
+  "originalLang": "la-LA",
+  "modernRelevance": "★★★★★",
+  "context": "カトゥルス詩集第85番。わずか2行14語から成るエレジー対句（elegiac couplet）──長短六歩格（hexameter）と長短五歩格（pentameter）の対をなす二行連句──でありながら、西洋恋愛詩・哲学・文学全体のうちで最も引用される詩のひとつ。「Odi et amo（憎む、そして愛する）」という並置は、相互排他的に見える二つの動詞の共存を接続詞「et」によって無媒介的に宣言する。「なぜそうするのかは分からない（nescio）、しかし起きていると感じる（sentio）、そして苦しめられている（excrucior）」という第二行は、感情的矛盾の知的無解決性と身体的現実性を三段階で提示する──認識の挫折（nescio）・感覚的確認（sentio）・肉体的苦悶（excrucior）。この2行は感情の弁証法的分析でなく、弁証法の不可能性の宣言である。ヘーゲル的「止揚（Aufhebung）」に抗う矛盾の持続として、また「苦悩は感じられるが説明されない」という実存的命題として、後世の哲学（キルケゴール・ニーチェ）・詩（ボードレール「Spleen et Idéal」）・精神分析（アンビヴァレンス概念の祖型）に多大な影響を与えた。詩型はエレジー対句だが、内容は哀歌（elegy）の嘆きよりも格言詩（epigram）の鋭い圧縮に近い。韻律：第一行は長短六歩格（ダクテュルス）、第二行は長短五歩格で「fieri sentio et excrucior」という中間休止（caesura）が感情の断裂を刻印する。",
+  "keywords": [
+    "odi et amo",
+    "矛盾",
+    "アンビヴァレンス",
+    "nescio",
+    "excrucior",
+    "格言詩",
+    "エレジー対句",
+    "感情",
+    "苦悶",
+    "愛憎"
+  ],
+  "relatedTexts": [
+    "catullus_carmen_8",
+    "catullus_carmen_5",
+    "baudelaire_spleen",
+    "hieronymus_ecclesiastes_1",
+    "trakl_de_profundis",
+    "weil_necessite"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "verses": "v.1–2",
+      "original": "Odi et amo. quare id faciam, fortasse requiris.\nnescio, sed fieri sentio et excrucior.",
+      "provisionalTranslation": "憎む、そして愛する。なぜ私がそうするのか、おそらくお前は問うだろう。\n分からない、しかしそれが起きていると感じる、そして十字架にかけられている。"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "glossary",
+      "anchor": "Odi et amo.",
+      "body": "「Odi（憎む）」：「odisse」の完了形現在的用法（perfectum praesens）──ラテン語では「odisse」は完了形のみで現在の意味を持つ特殊動詞（defectivum）。完了形を用いることで、「憎しみ」はある過去の経緯から到達した現在の確立した状態として示される。「amo（愛する）」：現在形。「憎む（完了的現在）」と「愛する（単純現在）」という微妙な時制の非対称が、憎悪と愛の非同期的共存を時制レベルで示している可能性がある。「et（そして）」：二つの正反対の感情を接続詞のみで並べる無媒介性が詩の全張力を生む。論理的には「しかし（sed）」「それでも（tamen）」が来るはずのところに「et（そして）」が置かれることで、矛盾が解決されず単純に積み重ねられる。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "quare id faciam, fortasse requiris.",
+      "body": "「なぜそうするのかは、おそらくお前は問うだろう（quare id faciam, fortasse requiris）」──「requiris」という二人称動詞が読者・聴衆に向けられた apostrophe（呼びかけ）として機能する。詩が対話形式の問答を想定することで、詩人の自己独白と同時に「問いかけられた他者」が詩内部に召喚される。「fortasse（おそらく）」という留保が、「お前が問うかどうか分からないが」という微妙な距離を示す。Carmen VIIIの「Miser Catulle」自己呼びかけとは逆に、ここでは自己ではなく他者（読者）への呼びかけによって詩が動く。この「なぜ（quare）」への答えが「nescio（分からない）」であることが詩の中心的逆説を構成する──問いを予期しながら答えを持たないという構造。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "glossary",
+      "anchor": "nescio, sed fieri sentio et excrucior.",
+      "body": "「nescio（分からない）」：「ne-scio」、「知る（scio）」の否定形。単純かつ完全な認識の挫折宣言。「sed（しかし）」：認識の不可能性（nescio）と感覚的現実（sentio）を対置する逆接。「fieri sentio（起きていると感じる）」：「fieri」は「fio（なる・起きる）」の不定詞で非人称的に「それが起きること」を指す。「sentio（感じる）」は知的把握（scio）に対する身体的・感覚的知覚を示す語──「分からないが感じる」という認識論的分裂が知・感の二項対立として表出される。「excrucior（十字架にかけられている）」：「ex-crucio」、「crux（十字架・拷問台）」の動詞形で「責め苦にかける」。受動形（受け身）を用いることで、詩人が苦悩の能動的主体でなく苦悩される受動的客体であることを示す。キリスト教以前のテキストであるが、「crucio」の語根は後世のキリスト受難（Passion）の語彙と重なり、愛の苦悶が受難的殉教の形象として潜在する。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "prosody",
+      "anchor": "nescio, sed fieri sentio et excrucior.",
+      "body": "第二行はエレジー対句の長短五歩格（pentameter）。長短五歩格は六歩格の中間（第3歩）と末尾に必ず短い休止（caesura）が来る韻律で、本行では「nescio ‖ sed fieri sentio ‖ et excrucior」と三つのリズム単位に分節される。この三分節が「nescio（認識挫折）→ sentio（感覚確認）→ excrucior（肉体的苦悶）」という感情の三段階エスカレーションと正確に対応する。詩型的に見れば、エレジー対句の第一行（六歩格）が問い・宣言を担い、第二行（五歩格）が応答・解説を担うという慣例を本詩は逆用している──五歩格が「解答」を与えず「解答不能（nescio）」の宣言で始まる逆説が詩型と意味の間の張力を生む。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "Odi et amo. quare id faciam, fortasse requiris.\nnescio, sed fieri sentio et excrucior.",
+      "body": "詩全体の思想的位置について。「Odi et amo」のアンビヴァレンスはフロイト心理学における「両価性（Ambivalenz）」概念の古典的先行事例として引用されるが、カトゥルスの詩はむしろ両価性の「解決不能性（nescio）」を主題とする点でフロイト的解析への抵抗を示す。ボードレール「Spleen et Idéal」の構造──「理想（Idéal）」への憧憬と「憂鬱（Spleen）」の泥濘の共存──がこの2行の展開形として読める。ヴェイユ「Nécessité（必然性）」における「引力（pesanteur）」と「恩寵（grâce）」の矛盾した共存──抗えない力に引き寄せられながら同時に抗うという存在の緊張──も、この「odi et amo」の構造と深く対応する。コヘレト「afflictio spiritus（霊の苦悩）」（Ecclesiastes I, 14）は、世界の虚無を「知っている」にもかかわらず（あるいはゆえに）苦悩するという同型の認識的逆説を示す──「知る（scio）」ことが苦悩を解消しない点でカトゥルスの「nescio」と裏面から対応する。",
+      "targetId": "weil_necessite",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 1,
+      "type": "intertextual",
+      "anchor": "excrucior.",
+      "body": "「excrucior（十字架にかけられている）」の苦悶の身体性は、カトゥルスの「失恋の苦悶」詩群の中で最も凝縮された表現。Carmen VIII「obstinata mente perfer, obdura（頑なな心で耐えよ、硬くなれ）」との対照：VIIIでは苦悩に対して意志的抵抗（obdura）が命じられるが、LXXXVでは抵抗の意志そのものが消え、ただ「苦悶される（excrucior）」という受動性のみが残る。この受動形の選択が、愛憎の矛盾に対して主体が完全に無力化した瞬間を示す。トラークル「De Profundis」の「暗い地下から」という受動的沈降のイメージ、ローデンバック「涙の水（Lacrymae Rerum）」の抑止不能な悲哀の流出とも深い同型性を持つ。",
+      "targetId": "catullus_carmen_8",
+      "targetParagraphId": 3
+    }
+  ]
+}
