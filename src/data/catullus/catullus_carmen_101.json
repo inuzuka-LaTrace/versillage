@@ -1,0 +1,120 @@
+{
+  "id": "catullus_carmen_101",
+  "title": "Carmen CI — Multas per gentes",
+  "author": "Gaius Valerius Catullus",
+  "source": "Liber Catulli (ed. Cornish), Wikisource. https://la.wikisource.org/wiki/Liber_Catulli_(ed._Cornish)/101",
+  "year": "Antiquitas",
+  "firstPublication": "Liber Catulli（カトゥルス詩集）、推定前60〜54年頃成立",
+  "difficulty": "中級",
+  "category": "catullus",
+  "originalLang": "la-LA",
+  "modernRelevance": "★★★★★",
+  "context": "カトゥルス詩集第101番。詩人が遠くビテュニア（現トルコ北西部）まで旅して死んだ兄の墓を訪れ、奉献儀礼（inferiae）を行う場面を描いた墓前哀歌（epicedium）。全10行のエレジー対句（elegiac couplet）。詩人の兄はビテュニアで若くして没しており、カトゥルスはプロプラエトル（総督補佐官）マンムッラに随行した旅（前57〜56年）の際にその墓を訪れたとされる。「multas per gentes et multa per aequora vectus（多くの民族を越え、多くの海を越えて運ばれ）」という冒頭は、旅の長さと困難を畳み掛ける反復構造で示し、詩人がどれほど遠くまで「来た（advenio）」かを強調する。「mutam nequiquam alloquerer cinerem（無駄にも無言の灰に語りかけ）」──語りかけの無力さ（nequiquam）と灰（cinis）という死の最終的残滓の取り合わせが、詩全体の根本的な悲劇を一行に凝縮する。言語行為が向かう先に言語を受け取る主体はもはい存在しない──詩とは常に不在の他者へのこの「nequiquam（無駄な）」語りかけではないか、というブランショ的問いをこの詩は先取りしている。結語「atque in perpetuum, frater, ave atque vale（そして永遠に、兄よ、よきあれ、さらば）」は西洋詩で最も美しい別れの言葉のひとつに数えられる。「ave（よきあれ）」は生者への挨拶、「vale（さらば）」は別れの言葉であり、その二語の並置が「生者への挨拶でも死者への別れでもある」という亡き兄の存在論的宙吊りを示す。",
+  "keywords": [
+    "ave atque vale",
+    "frater",
+    "inferiae",
+    "cinis",
+    "nequiquam",
+    "墓前哀歌",
+    "兄",
+    "旅",
+    "永遠の別れ",
+    "epicedium"
+  ],
+  "relatedTexts": [
+    "catullus_carmen_3",
+    "catullus_carmen_8",
+    "hieronymus_ecclesiastes_1",
+    "hieronymus_iob_14",
+    "rossetti_vanity_of_vanities",
+    "rodenbach_loubli",
+    "trakl_de_profundis"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "verses": "v.1–4",
+      "original": "Multas per gentes et multa per aequora vectus\nadvenio has miseras, frater, ad inferias,\nut te postremo donarem munere mortis\net mutam nequiquam alloquerer cinerem,",
+      "provisionalTranslation": "多くの民族を越え、多くの海を越えて運ばれ、\n私はやって来た、兄よ、この悲しい霊祭のもとへ、\nお前に死の最後の贈り物を捧げ、\n無駄にも無言の灰に語りかけるために。"
+    },
+    {
+      "id": 2,
+      "verses": "v.5–6",
+      "original": "quandoquidem fortuna mihi tete abstulit ipsum,\nheu miser indigne frater adempte mihi.",
+      "provisionalTranslation": "なぜなら運命がお前自身を私から奪い去ったのだから、\nああ、哀れに、不当にも私から取り去られた兄よ。"
+    },
+    {
+      "id": 3,
+      "verses": "v.7–10",
+      "original": "nunc tamen interea haec, prisco quae more parentum\ntradita sunt tristi munere ad inferias,\naccipe fraterno multum manantia fletu,\natque in perpetuum, frater, ave atque vale.",
+      "provisionalTranslation": "しかし今、これらのものを、古い父祖の習わしに従い\n霊祭への悲しい贈り物として伝えられたものを、\n兄弟の涙に溢れたこれらを受け取ってくれ、\nそして永遠に、兄よ、よきあれ、さらば。"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "prosody",
+      "anchor": "Multas per gentes et multa per aequora vectus",
+      "body": "「multas per gentes et multa per aequora（多くの民族を越え、多くの海を越えて）」──「multas / multa」という形容詞の変化を伴う同根反復（polyptoton）と、「per gentes / per aequora」という前置詞句の平行が、旅の多様性と広大さを音響的に実演する。「vectus（運ばれ）」：「vehere（運ぶ・輸送する）」の完了分詞受動形で、旅人が自分の意志で進むのでなく「運ばれる」受動的客体として示される──長い航海・陸路の受動的移動のリアリティと、悲哀によって動かされる詩人の感情的受動性が重なる。全詩はエレジー対句（長短六歩格＋長短五歩格の交替）で書かれており、第一行の六歩格がこの反復的波のような冒頭を運ぶ。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "glossary",
+      "anchor": "advenio has miseras, frater, ad inferias,",
+      "body": "「inferiae（霊祭・死者への奉献）」：ローマの宗教的慣行で、死者の霊（manes）を慰めるために墓前に捧げ物（食物・花・酒・血）をする儀礼。「has miseras inferias（この悲しい霊祭）」という形容詞「miseras（哀れな・悲しい）」が儀礼そのものを感情的に染め上げる。「frater（兄よ）」：呼格。詩の中でこの語は三度反復され（v.2・v.6・v.10）、詩を通じて不在の兄への呼びかけを持続させる──不在の受取人への持続的な「apostrophe（呼びかけ）」が詩の構造そのものを形成する。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "et mutam nequiquam alloquerer cinerem,",
+      "body": "「無駄にも無言の灰に語りかけ（mutam nequiquam alloquerer cinerem）」──詩の核心的逆説。「mutam（無言の・口を利けない）」は灰の応答不能性を示し、「alloquerer（語りかける）」という言語行為の動詞と鋭く対立する。「nequiquam（無駄に・徒労に）」という副詞がこの言語行為の無効性を宣言する。詩・エクリチュールとは常にこの「nequiquam alloqui（無駄な語りかけ）」ではないか──不在の他者に向けられた言葉、返答のない対話、灰にしか届かない呼びかけ。ブランショ『文学空間（L'Espace littéraire）』における「死と言語の親縁性」──書くことが常に不在の他者への語りかけであるという命題──がこの一行に先取りされている。コヘレト「Non est priorum memoria（先のことどもの記憶はない）」（Ecclesiastes I, 11）：記憶の無効性というコヘレト的命題が、ここでは語りかけの無効性として具体化される。",
+      "targetId": "hieronymus_ecclesiastes_1",
+      "targetParagraphId": 11
+    },
+    {
+      "paragraphId": 2,
+      "type": "glossary",
+      "anchor": "quandoquidem fortuna mihi tete abstulit ipsum,",
+      "body": "「quandoquidem（なぜなら〜だから）」：原因・理由を導く接続詞で、v.3–4の目的節（ut〜）に対してその根本的理由を提示する。「fortuna（運命・運・幸運の女神）」：ローマ人が「幸・不幸を支配する力」として人格化した概念。ここでは「奪う（abstulit）」という動詞の主語として死の原因とされる。「tete」：「te」の強調形・二重形。単純な「te」でなく「tete」を使うことで、奪われたのは代替不能な「お前自身（ipsum）」であるという強調が加わる──それは誰かでなく「他ならぬお前（ipsum）」だった、という唯一性の主張。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "heu miser indigne frater adempte mihi.",
+      "body": "「heu miser indigne frater adempte mihi（ああ、哀れに、不当にも私から取り去られた兄よ）」──詩の感情的頂点。「heu」はラテン語の嘆きの感嘆詞。「indigne（不当に・ふさわしくなく）」：死が「ふさわしくない（indignus）」仕方で到来したという道徳的抗議を含む副詞。早死にを「不当（indignus）」と呼ぶことは、コヘレト「afflictio spiritus（霊の苦悩）」（Ecclesiastes I, 14）の苦悩が「世界の構造的不正義」への怒りを含む点と対応する。「adempte（取り去られた）」：「adimere（奪い取る）」の完了分詞受動形呼格。兄が「奪われた（adempte）」という受動形が、v.1の「vectus（運ばれ）」とともに、詩全体における受動性──能動的行為の不可能な状況──というモチーフを貫く。",
+      "targetId": "hieronymus_ecclesiastes_1",
+      "targetParagraphId": 14
+    },
+    {
+      "paragraphId": 3,
+      "type": "glossary",
+      "anchor": "nunc tamen interea haec, prisco quae more parentum\ntradita sunt tristi munere ad inferias,",
+      "body": "「prisco more parentum（古い父祖の習わし）」：「priscus（古い・古代の）」＋「mos parentum（祖先の慣習）」。ローマ社会において「mos maiorum（先祖の慣習）」は法と同等の規範的力を持ち、「tradition（伝承）」が個人の悲嘆を社会的・宗教的枠組みへと接続する。「tradita sunt（伝えられてきた）」：受動形完了で、儀礼が個人の創案でなく「伝統として与えられた」ものであることを示す。個人的な悲嘆が古代から伝わる礼式の型に流し込まれる瞬間──詩人の感情は儀礼という共同体的言語によってしか表現されない。"
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "accipe fraterno multum manantia fletu,",
+      "body": "「兄弟の涙に溢れたこれらを受け取ってくれ（accipe fraterno multum manantia fletu）」──「manantia（溢れる・流れ出る）」は「manare（流れ出る）」の現在分詞で、涙が今この瞬間も流れ続けていることを示す。「fraterno fletu（兄弟の涙で）」という奪格が供物を「涙で濡らされた」ものとして定義する──物質的な供物（食物・花）が詩人の涙によって感情的実体を与えられる。Carmen IIIの結語「flendo turgiduli rubent ocelli（泣き腫らして赤く染まる小さな瞳）」との連動：III番ではプエッラの涙が雀の死への反応として示されたが、CI番では詩人自身の涙が兄の灰への奉献として機能する──涙が愛の最終的な言語となる。",
+      "targetId": "catullus_carmen_3",
+      "targetParagraphId": 4
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "atque in perpetuum, frater, ave atque vale.",
+      "body": "「atque in perpetuum, frater, ave atque vale（そして永遠に、兄よ、よきあれ、さらば）」──西洋詩における最も有名な結語のひとつ。「in perpetuum（永遠に）」：「perpetuus（途切れない・永続する）」の対格で、別れが一時的でなく永遠であることを示す。Carmen Vの「nox est perpetua una dormienda（永遠の夜をひとつ眠り続けなければならない）」の「perpetua」と同根──死の永続性という語がカトゥルスの二つの全く異なる文脈（愛の詩・弔いの詩）を結ぶ。「ave（よきあれ）」は挨拶、「vale（さらば）」は別れ──この二語の並置は出会いと別れを同時に圧縮する。不在の兄に「ave（よきあれ）」と生者への挨拶を送ることで、詩人は兄がいまだどこかに存在するかのように語りかける──それが言語の「nequiquam（無駄さ）」であると同時に、言語が死に抗う唯一の身振りでもある。ローデンバック「忘却（L'Oubli）」・ロセッティ「Vanity of Vanities」の「永遠の別れ」主題との深い対応。",
+      "targetId": "catullus_carmen_5",
+      "targetParagraphId": 2
+    },
+    {
+      "paragraphId": 3,
+      "type": "intertextual",
+      "anchor": "atque in perpetuum, frater, ave atque vale.",
+      "body": "「ave atque vale」はヴェルギリウス・ホラティウス以後の西洋詩に広く引用・変奏された定式。テニスン「In Memoriam A.H.H.」の友人への長大な哀悼詩、リルケ「Duineser Elegien」の「誰が叫んでも天使の階層から私の声を聞く者はいない（Wer, wenn ich schriee, hörte mich denn aus der Engel Ordnungen）」という不在の他者への呼びかけ──これらの系譜がこの一行に根を持つ。特にリルケ第一悲歌の「美しい者たちの早すぎる死」というモチーフはカトゥルスの兄への挽歌と構造的に対応し、「返答しない天使」と「応えない灰（mutam cinerem）」は同じ沈黙の淵を向いている。",
+      "targetId": "rilke_duineser_elegien_01",
+      "targetParagraphId": 1
+    }
+  ]
+}
