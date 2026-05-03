@@ -1,0 +1,164 @@
+{
+  "id": "baudelaire_abel_et_cain",
+  "title": "Abel et Caïn",
+  "author": "Charles Baudelaire",
+  "source": "Les Fleurs du mal (éd. 1857), Poulet-Malassis et de Broise, 1857, p. 219–221. Section : Révolte, XCI. Wikisource : https://fr.wikisource.org/wiki/Les_Fleurs_du_mal_(%C3%A9d._1857)/Abel_et_Ca%C3%AFn",
+  "year": "1857",
+  "firstPublication": "Les Fleurs du mal, 1857（Révolte 章 XCI）",
+  "difficulty": "中級",
+  "category": "baudelaire",
+  "originalLang": "fr-FR",
+  "modernRelevance": "★★★★★",
+  "context": "ボードレール『悪の華（Les Fleurs du mal）』1857年版「叛逆（Révolte）」章第91篇。「サン・ピエールの否認（Le Reniement de Saint Pierre）」の次、「魔王／サタンへの連禱（Les Litanies de Satan）」の前に置かれる三部作の第二篇。詩はアベルの種族（Race d'Abel）とカインの種族（Race de Caïn）という二極の反復的対置によって構成される16連（32行）の交替詩（antiphonie）で、繁栄と苦悩・神の恩寵と呪詛という両者の非対称性を畳み掛けた後、最終二連で突然「Ah！」という感情的転換とともにアベル的秩序の崩壊（le fer est vaincu par l'épieu）とカインの天への昇起・神の地への放逐（Race de Caïn, au ciel monte, / Et sur la terre jette Dieu！）という完全な転倒で閉じる。Genesis第4章のカイン（Caïn）は聖書において「主の御前を去り（a facie Domini）」地を放浪する呪われた者として描かれるが、ボードレールはその評価軸を全面的に反転させ、カインの種族を「虐げられた者（les opprimés）」・「民衆（le peuple）」・「叛逆する精神」として革命的・社会主義的に再解釈する。バイロン『カイン（Cain: A Mystery, 1821）』のロマン主義的カイン像の直接的継承。「アベルの種族」はブルジョワ階級・聖職者・神に媚びる者として批判的に戯画化される一方、「カインの種族」は苦悩しながら歴史の中で未完の使命（ta besogne / N'est pas faite suffisamment）を遂行する者として描かれる。詩型：各連2行、8音節（octosyllabe）、交互韻（abab構造を連単位で実現）。「Race d'Abel……Race de Caïn……」という定型的反復が litanie（連禱）的な形式を構成し、隣接する「Les Litanies de Satan」と詩型・精神を共有する。",
+  "keywords": [
+    "Abel",
+    "Caïn",
+    "Race",
+    "révolte",
+    "antiphonie",
+    "fange",
+    "supplice",
+    "litanie",
+    "au ciel monte",
+    "jette Dieu"
+  ],
+  "relatedTexts": [
+    "hieronymus_genesis_4",
+    "hieronymus_genesis_3",
+    "baudelaire_litanies_satan",
+    "baudelaire_spleen",
+    "baudelaire_de_profundis_clamavi",
+    "weil_la_violence",
+    "trakl_de_profundis"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "verses": "v.1–4（連1–2）",
+      "original": "Race d'Abel, dors, bois et mange :\nDieu te sourit complaisamment,\nRace de Caïn, dans la fange\nRampe et meurs misérablement.",
+      "provisionalTranslation": "アベルの種族よ、眠り、飲み、食え。\n神はお前に愛想よく微笑んでいる。\nカインの種族よ、泥の中で\n這いつくばり、惨めに死ね。"
+    },
+    {
+      "id": 2,
+      "verses": "v.5–8（連3–4）",
+      "original": "Race d'Abel, ton sacrifice\nFlatte le nez du Séraphin !\nRace de Caïn, ton supplice\nAura-t-il jamais une fin ?",
+      "provisionalTranslation": "アベルの種族よ、お前の犠牲は\n熾天使の鼻をくすぐる！\nカインの種族よ、お前の責め苦に\n果てはあるのか？"
+    },
+    {
+      "id": 3,
+      "verses": "v.9–12（連5–6）",
+      "original": "Race d'Abel, vois tes semailles\nEt ton bétail venir à bien ;\nRace de Caïn, tes entrailles\nHurlent la faim comme un vieux chien.",
+      "provisionalTranslation": "アベルの種族よ、お前の種蒔きと\n家畜が順調に育つのを見よ。\nカインの種族よ、お前の腸は\n老いた犬のように飢えを吠える。"
+    },
+    {
+      "id": 4,
+      "verses": "v.13–16（連7–8）",
+      "original": "Race d'Abel, chauffe ton ventre\nÀ ton foyer patriarcal ;\nRace de Caïn, dans ton antre\nTremble de froid, pauvre chacal !",
+      "provisionalTranslation": "アベルの種族よ、お前の腹を\n家父長的な炉辺で温めよ。\nカインの種族よ、お前の洞穴で\n寒さに震えろ、哀れなジャッカルよ！"
+    },
+    {
+      "id": 5,
+      "verses": "v.17–20（連9–10）",
+      "original": "Race d'Abel, sans peur pullule :\nL'argent fait aussi ses petits ;\nRace de Caïn, ton cœur brûle ;\nÉteins ces cruels appétits.",
+      "provisionalTranslation": "アベルの種族よ、恐れずに増えろ。\n金もまたその子を産む。\nカインの種族よ、お前の心は燃える。\nその残酷な欲求を消せ。"
+    },
+    {
+      "id": 6,
+      "verses": "v.21–24（連11–12）",
+      "original": "Race d'Abel, tu croîs et broutes\nComme les punaises des bois !\nRace de Caïn, sur les routes\nTraîne ta famille aux abois.",
+      "provisionalTranslation": "アベルの種族よ、お前は増え、草を食む、\n森の南京虫のように！\nカインの種族よ、道の上を\n追い詰められた家族を引きずって進め。"
+    },
+    {
+      "id": 7,
+      "verses": "v.25–28（連13–14）",
+      "original": "— Ah ! race d'Abel, ta charogne\nEngraissera le sol fumant !\nRace de Caïn, ta besogne\nN'est pas faite suffisamment ;",
+      "provisionalTranslation": "——ああ！アベルの種族よ、お前の腐肉が\n煙る大地を肥やすだろう！\nカインの種族よ、お前の使命は\nまだ十分に果たされてはいない。"
+    },
+    {
+      "id": 8,
+      "verses": "v.29–32（連15–16）",
+      "original": "Race d'Abel, voici ta honte :\nLe fer est vaincu par l'épieu !\nRace de Caïn, au ciel monte,\nEt sur la terre jette Dieu !",
+      "provisionalTranslation": "アベルの種族よ、これがお前の恥だ。\n鉄は棍棒に敗れる！\nカインの種族よ、天へと昇れ、\nそして大地に神を叩き落とせ！"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "glossary",
+      "anchor": "Race d'Abel, dors, bois et mange :",
+      "body": "「Race（種族）」：ボードレールは Genesis第4章の個人名（Abel・Caïn）を「種族（race）」という集合的・歴史的カテゴリーへと変換する。「アベルの種族」と「カインの種族」は個人の系譜ではなく、社会的・霊的な二極──支配する者と虐げられる者、神に受け入れられる者と呪われる者──として機能する。「dors, bois et mange（眠り、飲み、食え）」：命令法三連列が「アベルの種族」の動物的満足・ブルジョワ的安逸を戯画化する。飲食・睡眠という生の根本的欲求が、精神性を欠いた「安逸（complaisance）」の形として皮肉的に提示される。「Dieu te sourit complaisamment（神はお前に愛想よく微笑む）」：「complaisamment（愛想よく・媚びるように）」という副詞が神の微笑みを揶揄的に切り下げる──これは恩寵でなく「お愛想（complaisance）」として描かれる。Genesis第4章v.4「respexit Dominus ad Abel, et ad munera ejus（主はアベルとその供え物に目を向けた）」の反転的引用。",
+      "targetId": "hieronymus_genesis_4",
+      "targetParagraphId": 4
+    },
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "Race de Caïn, dans la fange\nRampe et meurs misérablement.",
+      "body": "「fange（泥・汚泥）」：Genesis第3章v.14「super pectus tuum gradieris, et terram comedes（腹を這い、ちりを食う）」という蛇への呪詛の語彙的反響──カインの種族は「蛇の呪い」を継承して這いつくばる者として描かれる。「Rampe（這え）」：命令法が「アベルの種族」への「dors, bois et mange（眠り、飲み、食え）」と対称的構造を持つが、その内容は安逸ではなく這いつくばりの命令として反転される。「meurs misérablement（惨めに死ね）」：詩が命じているのは「死」そのもの。アベルへは「生（dors, bois, mange）」、カインへは「死（meurs）」が命じられる──この非対称が詩全体の批判的論理の出発点。Genesis第4章v.12「vagus et profugus eris super terram（地の上を放浪し逃げ惑う者となる）」という神の呪詛が、ここでは「fange（泥）」の中で這う死の形象として引き継がれる。",
+      "targetId": "hieronymus_genesis_4",
+      "targetParagraphId": 12
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "Race de Caïn, ton supplice\nAura-t-il jamais une fin ?",
+      "body": "「Aura-t-il jamais une fin？（果てはあるのか？）」──疑問文が詩中で初めて登場する。命令法（dors / rampe / meurs）による定義的断言から、疑問形への移行が「未来への問い」として機能する。「ton supplice（お前の責め苦）」：「supplice（責め苦・拷問・刑罰）」はラテン語「supplicium（跪いて懇願する・刑罰）」から派生し、法的刑罰と宗教的苦行の二重の含意を持つ。Genesis第4章でカインが受けた「vagus et profugus（放浪・逃亡）」という呪詛が、「supplice（無終の責め苦）」として永続化される。「jamais une fin（ついには終わりがない）」：コヘレト「afflictio spiritus（霊の苦悩）」（Ecclesiastes I, 14）の「終わりなさ」がここに響く──「vanitas」の循環が苦悩の終わりなさとして詩的に変奏される。",
+      "targetId": "hieronymus_ecclesiastes_1",
+      "targetParagraphId": 14
+    },
+    {
+      "paragraphId": 3,
+      "type": "prosody",
+      "anchor": "Race d'Abel, vois tes semailles\nEt ton bétail venir à bien ;\nRace de Caïn, tes entrailles\nHurlent la faim comme un vieux chien.",
+      "body": "詩型的観察：全詩は8音節（octosyllabe）の2行連（distique）を基本単位とする。本段落を例に分析すると「Race d'A-bel, vois tes se-mailles（8音節）/ Et ton bé-tail ve-nir à bien（8音節）/ Race de Caïn, tes en-trailles（8音節）/ Hurlent la faim com-me un vieux chien（8音節）」と規則的に展開される。韻組み：「semailles / entrailles（女性韻）」・「bien / chien（男性韻）」の交替韻（rimes croisées：abab）が二連を跨ぐ形で実現されており、「アベルの連」と「カインの連」が韻によって連結される。「semailles（種蒔き）」と「entrailles（腸・内臓）」の韻が特に意味的に機能する──豊穣の農業的意味（semailles）が飢えの身体的意味（entrailles）と音韻的に結びつけられることで、「外の豊穣」と「内の飢え」の対照が音響的に刻印される。Genesis第1章v.11「Germinet terra herbam virentem……lignum pomiferum（地は草を芽生えさせよ、実を結ぶ木を）」という創造の豊穣とGenesis第3章v.18「Spinas et tribulos germinabit tibi（茨とあざみを生えさせる）」という呪詛の対照がここに響く。",
+      "targetId": "hieronymus_genesis_3",
+      "targetParagraphId": 17
+    },
+    {
+      "paragraphId": 4,
+      "type": "commentary",
+      "anchor": "Race d'Abel, chauffe ton ventre\nÀ ton foyer patriarcal ;",
+      "body": "「foyer patriarcal（家父長的な炉辺）」：「foyer（炉・家庭の中心・避難所）」と「patriarcal（家父長的）」の組み合わせが、ブルジョワ・聖職者的秩序の象徴として揶揄される。「patriarcal（家父長的）」という語はGenesis的父権制（アブラハム・イサク・ヤコブという父祖たち＝patriarches）への皮肉的言及でもあり、「アベルの種族」をその祖先の正統な継承者として提示する。Genesis第4章v.2「Fuit autem Abel pastor ovium, et Cain agricola（アベルは羊を飼う者、カインは農夫となった）」：「foyer patriarcal（家父長の炉辺）」は家畜（Abel）・農耕（Cain）の文明的定着として読める──定着する者の「炉（foyer）」に対し、放浪する者の「洞穴（antre）」が対置される。ヴェイユ「La Violence（力について）」における力が「家」を奪うという命題が、「foyer」と「antre」の対立として詩的に具体化される。",
+      "targetId": "weil_la_violence",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 5,
+      "type": "commentary",
+      "anchor": "Race de Caïn, ton cœur brûle ;\nÉteins ces cruels appétits.",
+      "body": "「ton cœur brûle（お前の心は燃える）」──「brûle（燃える）」という動詞が§4の「foyer（炉）」の「暖かさ」と対応しながら反転する：アベルは炉辺で「腹を暖める（chauffe ton ventre）」のに対し、カインの「燃える（brûle）」のは「心（cœur）」──身体的暖かさ vs 精神的燃焼の対置。「Éteins ces cruels appétits（その残酷な欲求を消せ）」：「appétit（欲求・食欲）」は Genesis第4章v.7「appetitus ejus（罪の欲求）」と同語根──スタインベック『エデンの東』の「timshel（支配できる）」神学が問いかけた「appetitus（欲求）」への支配可能性が、ここでは「Éteins（消せ）」という命令法で抑圧を命じられる。しかしこの命令はアベル的秩序からカインの種族への命令として読める──「欲求を消せ」というのは支配者が被支配者に向ける言葉として機能し、詩はその命令を批判的に提示する。「appétit」：連禱「Les Litanies de Satan」への橋渡し語──サタン的「欲求（appétit）」の肯定として機能する。",
+      "targetId": "hieronymus_genesis_4",
+      "targetParagraphId": 7
+    },
+    {
+      "paragraphId": 6,
+      "type": "commentary",
+      "anchor": "Race de Caïn, sur les routes\nTraîne ta famille aux abois.",
+      "body": "「sur les routes / Traîne ta famille aux abois（道の上を / 追い詰められた家族を引きずって進め）」──「traîner（引きずる）」という動詞が放浪の疲弊を示す。「aux abois（追い詰められた・息も絶え絶えの）」：「abois」は狩猟用語で、犬に追い詰められた獣が最後の抵抗をする状態。「comme un vieux chien（§3：老いた犬のように）」の犬のイメージが、今度は追われる獣として反転する。Genesis第4章v.12「vagus et profugus eris super terram（地の上を放浪し逃げ惑う者となる）」：カインへの神の呪詛「vagus et profugus（放浪・逃亡）」が、「sur les routes / traîne ta famille（道の上を家族を引きずって）」というボードレール的なプロレタリア的形象として可視化される。スタインベック『エデンの東』のサーリナス渓谷を移動する農業労働者の群れがこの「Race de Caïn, sur les routes」の現代的変奏として読める。",
+      "targetId": "hieronymus_genesis_4",
+      "targetParagraphId": 12
+    },
+    {
+      "paragraphId": 7,
+      "type": "commentary",
+      "anchor": "— Ah ! race d'Abel, ta charogne\nEngraissera le sol fumant !\nRace de Caïn, ta besogne\nN'est pas faite suffisamment ;",
+      "body": "「— Ah！」：ダッシュ（tiret）と感嘆詞による転換。詩の第7連（連13）は詩全体の転換点であり、ここで初めて交替の均衡が崩れる。「ta charogne（お前の腐肉）」：ボードレール最有名詩「Une Charogne（腐肉）」と同語──美・愛・死・腐敗の変換として「charogne」はボードレール詩学の中心的語彙。「Engraissera le sol fumant（煙る大地を肥やすだろう）」：アベルの「腐肉（charogne）」が大地の肥料となるという農業的・反諷的変換。「ta besogne / N'est pas faite suffisamment（お前の使命はまだ十分に果たされていない）」──詩全体の論理的転換の核心。Genesis第4章v.8の「兄弟殺し（fratricide）」が未完の革命的行為として再定義される。バイロン『カイン』第3幕でカインが「何か大きなことをしなければならない」という意識を持つのに対応し、ボードレールの「besogne（使命）」は歴史的・社会的変革の課題として提示される。"
+    },
+    {
+      "paragraphId": 8,
+      "type": "commentary",
+      "anchor": "Race d'Abel, voici ta honte :\nLe fer est vaincu par l'épieu !\nRace de Caïn, au ciel monte,\nEt sur la terre jette Dieu !",
+      "body": "「Le fer est vaincu par l'épieu（鉄は棍棒に敗れる）」──「fer（鉄）」：Genesis第4章v.22「Tubalcain, qui fuit malleator et faber in cuncta opera aeris et ferri（トバル・カインはすべての青銅と鉄の器具を作る鍛冶師）」──カインの子孫ラメクの子トバル・カインが鉄の文明の創始者。「鉄（fer）」がカイン的文明の産物であるにもかかわらず、今やアベル的秩序（「鉄」＝権力・制度・固定した秩序）が「épieu（棍棒・原始的武器）」に敗れるという逆転。「au ciel monte（天へと昇れ）」：Genesis第4章v.14「a facie tua abscondar（あなたの顔から隠れる）」──「主の御前を去る（a facie Domini）」カインが今や「天へと昇る（au ciel monte）」という方向の逆転。「Et sur la terre jette Dieu！」：詩の最終行。天と地の秩序が完全に転倒される──天にいるはずの神が「大地に叩き落とされ（jette Dieu）」、地に追放されたはずのカインが「天に昇る（au ciel monte）」。バイロン『カイン』でルシファーがカインを天上に連れていき宇宙の広大さを見せる場面の詩的集約。詩全体がGenesis第4章の評価軸を正確に逆転させて終わる：神に呪われたカイン→天に昇る者、神に祝福されたアベル→腐肉として地を肥やす者。コヘレト「omnia vanitas（すべては虚無）」の前でいかなる神的秩序も絶対的正当性を持たないという懐疑が、「jette Dieu（神を叩き落とせ）」という激しい叛逆的命令として爆発する。",
+      "targetId": "hieronymus_genesis_4",
+      "targetParagraphId": 15
+    },
+    {
+      "paragraphId": 8,
+      "type": "intertextual",
+      "anchor": "Race de Caïn, au ciel monte,\nEt sur la terre jette Dieu !",
+      "body": "Genesis第4章との軸的逆転を整理する。Genesis§4でカインは「主の御前を去り（Egressus a facie Domini）、エデンの東の地に住んだ」（v.16）──神から離れ地を放浪する者。ボードレールの最終命令では「au ciel monte（天へ昇れ）」「jette Dieu（神を叩き落とせ）」──神の場所に昇り、神を地に叩き落とすという完全な軸の反転。Genesis§4でアベルは「vox sanguinis fratris……clamat de terra（兄弟の血の声が地から叫ぶ）」（v.10）──殺された者として地から声を上げる。ボードレールでは「ta charogne / Engraissera le sol fumant（腐肉が大地を肥やす）」──アベルの死体が物質的に大地に溶解する。バイロン「カイン」のルシファー的叛逆、スタインベック「timshel（支配できる）」の自由意志、そしてボードレール「jette Dieu」の革命的神転倒が、Genesis第4章から派生した三つの近代的解釈として対応・対話する。",
+      "targetId": "hieronymus_genesis_4",
+      "targetParagraphId": 16
+    }
+  ]
+}
