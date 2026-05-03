@@ -1,0 +1,274 @@
+{
+  "id": "hieronymus_genesis_3",
+  "title": "Genesis, Caput III",
+  "author": "Eusebius Sophronius Hieronymus",
+  "source": "Biblia Sacra Vulgata, Liber Genesis, Caput III. Bible Gateway: https://www.biblegateway.com/passage/?search=Genesis+3&version=VULGATE",
+  "year": "Antiquitas",
+  "firstPublication": "Vulgata Latina, c. 382–405 AD（ヒエロニムス訳）",
+  "difficulty": "中級",
+  "category": "hieronymus",
+  "originalLang": "la-LA",
+  "modernRelevance": "★★★★★",
+  "context": "創世記（Liber Genesis）第3章。いわゆる「楽園喪失（Paradisus Amissus）」の物語。蛇の誘惑→禁断の実の摂取→眼の開き→神による審問→三者への呪詛→楽園追放という六段階の構造をもつ西洋文学・思想・神学の根本的テキスト。ヒエロニムスによるウルガータ訳は、ミルトン『失楽園（Paradise Lost, 1667）』・ダンテ『神曲』・ドストエフスキー・カフカ・シモーヌ・ヴェイユ・ハイデガーへ至る無数の解釈的系譜の底本となった。「serpens erat callidior（蛇は最も狡猾だった）」（v.1）：ミルトン『失楽園』では堕天使ルシファー＝サタンが蛇に変身してエヴァに近づく。「Vidit mulier quod bonum esset lignum（女は木が良いものと見た）」（v.6）：ヴェイユ「重力（pesanteur）」の引力的堕落──神の命令から離れる「重力（gravité）」としての欲望の認識。「aperti sunt oculi amborum（二人の眼が開いた）」（v.7）：ハイデガー的「頽落（Verfallenheit）」──開いた眼が見るのは自己の裸（nudos）であり、「本来性（Eigentlichkeit）」の喪失。「pulvis es et in pulverem reverteris（塵であり、塵に戻る）」（v.19）：ハイデガー「死への存在（Sein-zum-Tode）」の聖書的先行定式──人間存在の根底的な有限性・終末性の宣告。「Ejecitque Adam（アダムを追放した）」（v.24）：ミルトン『失楽園』第12巻の結末「He hand in hand with wandering steps and slow / Through Eden took their solitary way」の直接的聖書的根拠。コヘレト「すべては虚無（omnia vanitas）」の世界は、この楽園追放以後の「sub sole（太陽の下）」の世界として理解される。「maledicta terra in opere tuo（地はお前の業において呪われる）」（v.17）・「in sudore vultus tui vesceris（額の汗で食べる）」（v.19）：コヘレト「太陽の下での人の労苦（labor sub sole）」（Ecclesiastes I, 3）の直接的原因として位置づけられる。",
+  "keywords": [
+    "serpens",
+    "callidior",
+    "lignum scientiae",
+    "aperti sunt oculi",
+    "pulvis es",
+    "楽園追放",
+    "maledictio",
+    "morte morieris",
+    "cherubim",
+    "Ejecit"
+  ],
+  "relatedTexts": [
+    "hieronymus_genesis_1",
+    "hieronymus_genesis_2",
+    "hieronymus_genesis_4",
+    "hieronymus_genesis_22",
+    "hieronymus_ecclesiastes_1",
+    "hieronymus_iob_1",
+    "weil_pesanteur_beaute",
+    "weil_necessite",
+    "weil_decreation",
+    "dante_inferno_canto_1",
+    "dante_paradiso_canto_26"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "verses": "v.1",
+      "original": "Sed et serpens erat callidior cunctis animantibus terrae quae fecerat Dominus Deus. Qui dixit ad mulierem: Cur praecepit vobis Deus ut non comederetis de omni ligno paradisi?",
+      "provisionalTranslation": "蛇は主なる神が造った地のすべての獣の中で最も狡猾だった。蛇は女に言った。「神はなぜ、園のすべての木から食べてはならないと命じたのか。」"
+    },
+    {
+      "id": 2,
+      "verses": "v.2",
+      "original": "Cui respondit mulier: De fructu lignorum, quae sunt in paradiso, vescimur:",
+      "provisionalTranslation": "女は蛇に答えた。「園の木の実は食べてよい。」"
+    },
+    {
+      "id": 3,
+      "verses": "v.3",
+      "original": "de fructu vero ligni quod est in medio paradisi, praecepit nobis Deus ne comederemus, et ne tangeremus illud, ne forte moriamur.",
+      "provisionalTranslation": "「しかし園の中央にある木の実については、神は食べてはならない、触れてもいけないと命じた。さもなければ死ぬかもしれない。」"
+    },
+    {
+      "id": 4,
+      "verses": "v.4",
+      "original": "Dixit autem serpens ad mulierem: Nequaquam morte moriemini.",
+      "provisionalTranslation": "蛇は女に言った。「決して死ぬことはない。」"
+    },
+    {
+      "id": 5,
+      "verses": "v.5",
+      "original": "Scit enim Deus quod in quocumque die comederitis ex eo, aperientur oculi vestri, et eritis sicut dii, scientes bonum et malum.",
+      "provisionalTranslation": "「神は知っている、あなたたちがそれを食べる日には、眼が開いて神のようになり、善悪を知る者となることを。」"
+    },
+    {
+      "id": 6,
+      "verses": "v.6",
+      "original": "Vidit igitur mulier quod bonum esset lignum ad vescendum, et pulchrum oculis, aspectuque delectabile: et tulit de fructu illius, et comedit: deditque viro suo, qui comedit.",
+      "provisionalTranslation": "女は木を見た。食べるに良く、眼に美しく、賢くなるに好ましいと。女はその実を取って食べ、夫にも与えた。夫も食べた。"
+    },
+    {
+      "id": 7,
+      "verses": "v.7",
+      "original": "Et aperti sunt oculi amborum; cumque cognovissent se esse nudos, consuerunt folia ficus, et fecerunt sibi perizomata.",
+      "provisionalTranslation": "二人の眼が開いた。自分たちが裸であることを知ると、いちじくの葉を縫い合わせて腰覆いを作った。"
+    },
+    {
+      "id": 8,
+      "verses": "v.8",
+      "original": "Et cum audissent vocem Domini Dei deambulantis in paradiso ad auram post meridiem, abscondit se Adam et uxor ejus a facie Domini Dei in medio ligni paradisi.",
+      "provisionalTranslation": "午後の風の中を歩かれる主なる神の声を聞くと、アダムとその妻は園の木の間に隠れた。"
+    },
+    {
+      "id": 9,
+      "verses": "v.9",
+      "original": "Vocavitque Dominus Deus Adam, et dixit ei: Ubi es?",
+      "provisionalTranslation": "主なる神はアダムを呼ばれた。「あなたはどこにいるのか。」"
+    },
+    {
+      "id": 10,
+      "verses": "v.10",
+      "original": "Qui ait: Vocem tuam audivi in paradiso, et timui, eo quod nudus essem, et abscondi me.",
+      "provisionalTranslation": "「あなたの声を園で聞いた、そして裸であることが恐ろしくなって隠れた。」"
+    },
+    {
+      "id": 11,
+      "verses": "v.11",
+      "original": "Cui dixit: Quis enim indicavit tibi quod nudus esses, nisi quod ex ligno de quo praeceperam tibi ne comederes, comedisti?",
+      "provisionalTranslation": "「誰があなたが裸であることを教えたのか。食べてはならないと命じた木から食べたのではないか。」"
+    },
+    {
+      "id": 12,
+      "verses": "v.12",
+      "original": "Dixitque Adam: Mulier, quam dedisti mihi sociam, dedit mihi de ligno, et comedi.",
+      "provisionalTranslation": "アダムは言った。「あなたが私に与えた女が、木の実をくれたので食べた。」"
+    },
+    {
+      "id": 13,
+      "verses": "v.13",
+      "original": "Et dixit Dominus Deus ad mulierem: Quare hoc fecisti? Quae respondit: Serpens decepit me, et comedi.",
+      "provisionalTranslation": "主なる神は女に言われた。「なぜこのようなことをしたのか。」女は答えた。「蛇が私を欺いたので食べた。」"
+    },
+    {
+      "id": 14,
+      "verses": "v.14",
+      "original": "Et ait Dominus Deus ad serpentem: Quia fecisti hoc, maledictus es inter omnia animantia, et bestias terrae: super pectus tuum gradieris, et terram comedes cunctis diebus vitae tuae.",
+      "provisionalTranslation": "主なる神は蛇に言われた。「このようなことをしたから、お前はすべての家畜と野の獣の中で呪われる。腹を這い、生涯ちりを食うであろう。」"
+    },
+    {
+      "id": 15,
+      "verses": "v.15",
+      "original": "Inimicitias ponam inter te et mulierem, et semen tuum et semen illius: ipsa conteret caput tuum, et tu insidiaberis calcaneo ejus.",
+      "provisionalTranslation": "「お前と女の間に、お前の子孫と女の子孫の間に、私は敵意を置く。女の子孫はお前の頭を踏み砕き、お前は彼女の踵を狙う。」"
+    },
+    {
+      "id": 16,
+      "verses": "v.16",
+      "original": "Mulieri quoque dixit: Multiplicabo aerumnas tuas, et conceptus tuos: in dolore paries filios, et sub viri potestate eris, et ipse dominabitur tui.",
+      "provisionalTranslation": "女には言われた。「あなたの苦しみと妊娠をいたく増やす。苦しんで子を産む。あなたは夫に引き付けられ、彼はあなたを支配するだろう。」"
+    },
+    {
+      "id": 17,
+      "verses": "v.17",
+      "original": "Adae vero dixit: Quia audisti vocem uxoris tuae, et comedisti de ligno, ex quo praeceperam tibi ne comederes, maledicta terra in opere tuo: in laboribus comedes ex ea cunctis diebus vitae tuae.",
+      "provisionalTranslation": "アダムには言われた。「妻の声に従い、食べてはならないと命じた木から食べたから、地はお前のゆえに呪われる。一生苦しんで食を得ることになる。」"
+    },
+    {
+      "id": 18,
+      "verses": "v.18",
+      "original": "Spinas et tribulos germinabit tibi, et comedes herbam terrae.",
+      "provisionalTranslation": "「地はお前のために茨とあざみを生えさせる。野の草を食べることになる。」"
+    },
+    {
+      "id": 19,
+      "verses": "v.19",
+      "original": "In sudore vultus tui vesceris pane, donec revertaris in terram de qua sumptus es: quia pulvis es et in pulverem reverteris.",
+      "provisionalTranslation": "「額の汗でパンを食べる、土に戻るときまで。お前は塵であり、塵に戻る。」"
+    },
+    {
+      "id": 20,
+      "verses": "v.20",
+      "original": "Et vocavit Adam nomen uxoris suae, Heva: eo quod mater esset cunctorum viventium.",
+      "provisionalTranslation": "アダムは妻をエヴァ（命）と名付けた。彼女がすべての生ける者の母となるから。"
+    },
+    {
+      "id": 21,
+      "verses": "v.21",
+      "original": "Fecit quoque Dominus Deus Adae et uxori ejus tunicas pelliceas, et induit eos:",
+      "provisionalTranslation": "主なる神はアダムとその妻のために皮の衣を作り、着せられた。"
+    },
+    {
+      "id": 22,
+      "verses": "v.22",
+      "original": "et ait: Ecce Adam quasi unus ex nobis factus est, sciens bonum et malum: nunc ergo ne forte mittat manum suam, et sumat etiam de ligno vitae, et comedat, et vivat in aeternum.",
+      "provisionalTranslation": "そして言われた。「見よ、アダムは我々の一人のようになった、善悪を知る者となって。今や、彼が手を伸ばして命の木からも取って食べ、永遠に生きないように。」"
+    },
+    {
+      "id": 23,
+      "verses": "v.23",
+      "original": "Et emisit eum Dominus Deus de paradiso voluptatis, ut operaretur terram de qua sumptus est.",
+      "provisionalTranslation": "主なる神はアダムを歓楽の園から追い出し、彼が取り出された土地を耕させた。"
+    },
+    {
+      "id": 24,
+      "verses": "v.24",
+      "original": "Ejecitque Adam: et collocavit ante paradisum voluptatis cherubim, et flammeum gladium, atque versatilem, ad custodiendam viam ligni vitae.",
+      "provisionalTranslation": "アダムを追放し、命の木への道を守るために、歓楽の園の東にケルビムと、回転する炎の剣を置かれた。"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "glossary",
+      "anchor": "serpens erat callidior cunctis animantibus terrae",
+      "body": "「蛇は……最も狡猾だった（serpens erat callidior）」──「callidus（巧みな・狡猾な・熟練した）」の比較級。ヘブライ語「עָרוּם（arum）」は「賢い・抜け目ない」という中性的な語であり、「狡猾（cunning）」の含意はヒエロニムスの「callidior」という訳語選択によって強調される。Genesis第2章v.25「Erat autem uterque nudus……et non erubescebant（二人とも裸であったが恥ずかしいとは思わなかった）」のヘブライ語「עֲרוּמִּים（arummim：裸）」と「עָרוּם（arum：賢い・狡猾）」は音韻的に近接しており、「裸の無垢」と「知恵の狡猾さ」が語音的に接触する聖書的アイロニー。ミルトン『失楽園（Paradise Lost）』第9巻でサタンが蛇の身体を乗っ取りエヴァに近づく場面──「So spake the Enemy of Mankind, enclosed / In Serpent, Inmate bad」──は、この「callidior」という語の詩的展開として読める。ミルトンにおいてサタンの「狡猾さ（cunning）」は知的傲慢（superbia）の変形として位置づけられる。"
+    },
+    {
+      "paragraphId": 4,
+      "type": "glossary",
+      "anchor": "Nequaquam morte moriemini.",
+      "body": "「決して死ぬことはない（Nequaquam morte moriemini）」──Genesis第2章v.17「morte morieris（必ず死ぬ）」という神の禁止命令の絶対的否定。「Nequaquam（決して〜ない）」という強意的否定副詞が「morte morieris」の絶対不定詞構文を正確に反転させる。蛇の言葉は文法的に「神の言葉の鏡的否定」として構成されており、同一の語彙体系の内部で真偽が反転する言語的騙しの構造を持つ。ハイデガー『存在と時間（Sein und Zeit, 1927）』の「Das Man（世人）」による死の日常的隠蔽──「人は死ぬが、それは今の私ではない」という非本来的な死の理解──が、この「Nequaquam morte moriemini」の構造と対応する：蛇は死の必然性を「決して死なない」と隠蔽し、アダムとエヴァに死への非本来的態度を植え付ける。"
+    },
+    {
+      "paragraphId": 5,
+      "type": "commentary",
+      "anchor": "aperientur oculi vestri, et eritis sicut dii, scientes bonum et malum.",
+      "body": "「眼が開いて神のようになり（eritis sicut dii）、善悪を知る者となる（scientes bonum et malum）」──蛇の誘惑の二重の約束：眼の開き（認識論的変容）と神との同一化（存在論的上昇）。「sicut dii（神のように）」──「dii（神々）」という複数形がヘブライ語「אֱלֹהִים（Elohim）」の直訳で、「神のようになる（比較）」という構造が問題。人間が神との類比を手段でなく盗取によって成立させようとする「傲慢（superbia）」の誘惑。ヴェイユ「Décréation（脱創造）」の神学では「神のようになる（sicut dii）」欲望こそが「重力（pesanteur）」の根本形態であり、その反対の方向──「神のかたちを手放す（décréation）」──こそが恩寵への道として示される。コヘレト「知識を加える者は労苦をも加える（qui addit scientiam, addit et laborem）」（Ecclesiastes I, 18）：「善悪を知る」ことの代償がここに予告される。",
+      "targetId": "weil_decreation",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 6,
+      "type": "commentary",
+      "anchor": "Vidit igitur mulier quod bonum esset lignum ad vescendum, et pulchrum oculis, aspectuque delectabile: et tulit de fructu illius, et comedit:",
+      "body": "「女は木が食べるに良く、眼に美しく、賢くなるに好ましいと見た（Vidit mulier quod bonum esset…pulchrum oculis…delectabile）」──三段階の欲求の対象として禁断の木が知覚される。「bonum ad vescendum（食べるに良い）」：身体的欲求。「pulchrum oculis（眼に美しい）」：審美的欲求。「aspectuque delectabile（賢くなるに好ましい）」：知的欲求。この三分法はヨハネ第一の手紙4:16の「肉の欲・眼の欲・生の傲慢」という「三つの誘惑」の類型と照応する。ヴェイユ『重力と恩寵（La Pesanteur et la Grâce）』の「重力（pesanteur）」概念との直接的照応：「重力とは常に下方へ引く力であり、欲望は重力の精神的現れである（La pesanteur, c'est la force qui s'exerce sur nous dans la direction du bas）」──女が木を「見て（Vidit）」引き付けられる運動は、神の命令から離れる方向への霊的重力に従う頽落として読める。Genesis第1章「Et vidit Deus quod esset bonum（神は見て良しとされた）」という神の視線を、女が禁断の木へと向けて模倣する構造が、神的視線の盗取・転用として機能する。",
+      "targetId": "weil_pesanteur_beaute",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 7,
+      "type": "commentary",
+      "anchor": "Et aperti sunt oculi amborum; cumque cognovissent se esse nudos,",
+      "body": "「二人の眼が開いた──自分たちが裸であることを知ると（cognovissent se esse nudos）」──蛇が約束した「眼の開き（aperientur oculi vestri）」が実現するが、その内容は「神のようになる」ではなく「自分たちの裸を知る」という自己露出への転落。「aperti sunt（開いた）」：受動形完了が「二人の意志によらず開かれた」という非自発性を示す。ハイデガー『存在と時間』の「頽落（Verfallenheit）」概念：「眼が開く」ことで見えるのは存在の本来性ではなく、「世人（Das Man）の公共性」という匿名的空間への墜落。裸を「知る（cognovissent）」ことで、二人は互いを客体として、そして神の眼差しの下で対象として知覚し始める──透明な「non erubescebant（恥じない）」の世界が終わり、他者の眼差しによる自己疎外の世界が始まる。カトゥルスCarmen LXXXVの「excrucior（十字架にかけられている）」という苦悶の身体性の聖書的起源として読める。"
+    },
+    {
+      "paragraphId": 9,
+      "type": "commentary",
+      "anchor": "Vocavitque Dominus Deus Adam, et dixit ei: Ubi es?",
+      "body": "「主なる神はアダムを呼ばれた──あなたはどこにいるのか（Ubi es）」──聖書全体でもっとも存在論的な問い。「Ubi es？（どこにいるのか）」：場所（ubi）への問いが存在（es：ある・いる）への問いと一致する。ハイデガー『存在と時間』の「現存在（Dasein）」は文字通り「Da-sein（そこに-あること）」──人間の存在様式は常に「どこかに（Da）」あることとして規定される。神の問い「Ubi es？」は隠れたアダムの「そこ（Da）」を召喚する存在論的問いとして読める。ただしハイデガーとの逆転があり、Genesisでは神がアダムの「Da（そこ）」を問うのに対し、ハイデガーでは現存在が自ら「自己の存在の意味」を問う。「Vocavitque（呼ばれた）」：神の呼びかけ（vocatio）が、隠れるアダムを問いの前に引き出す──ヴェイユ「Celui qu'il faut aimer（愛されなければならない者）」の「呼びかけ（appel）」との接続。",
+      "targetId": "weil_decreation",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 15,
+      "type": "glossary",
+      "anchor": "Inimicitias ponam inter te et mulierem, et semen tuum et semen illius: ipsa conteret caput tuum, et tu insidiaberis calcaneo ejus.",
+      "body": "「お前と女の間に敵意を置く……女の子孫はお前の頭を踏み砕く（ipsa conteret caput tuum）」──「Protoevangelium（原福音）」と神学的に呼ばれる節。「ipsa（彼女自身が）」：ウルガータでは女性形「ipsa」が使われ、「女の子孫」が後にキリスト論的・マリア論的に解釈される根拠となった（LXX等の他のテキストでは「彼（αὐτός）」であり、ヒエロニムスの「ipsa」は議論の的）。「conteret（踏み砕くだろう）」：ヘブライ語「שׁוּף（shuf）」は踵を「打つ・噛む」の相互的意味を持つ。「蛇の頭」対「踵」という身体的部位の非対称が、勝利と被傷という双方向の戦いの結末を定式化する。ミルトン『失楽園』第12巻でミカエルがアダムにこの「Protoevangelium」を解説し、長大なキリスト論的歴史の展望を語る場面の聖書的根拠。"
+    },
+    {
+      "paragraphId": 17,
+      "type": "commentary",
+      "anchor": "maledicta terra in opere tuo: in laboribus comedes ex ea cunctis diebus vitae tuae.",
+      "body": "「地はお前のゆえに呪われる──一生苦しんで食を得る（in laboribus comedes cunctis diebus vitae tuae）」──アダムへの呪詛の核心。「maledicta terra（地は呪われる）」：Genesis第1章「valde bona（極めて良かった）」という神の評価の反転として、被造物の「良さ（bonitas）」が人間の罪によって「呪い（maledictio）」に変わる。「in laboribus（労苦において）」：コヘレト「Quid habet amplius homo de universo labore suo quo laborat sub sole（太陽の下での人の労苦から何を得るか）」（Ecclesiastes I, 3）の「labor sub sole」の神学的起源がここに確定される──コヘレトが嘆く「労苦（labor）」はアダムへの神の呪詛として課せられた刑罰に由来する。「cunctis diebus vitae tuae（一生涯）」：ヨブ記第14章「Homo natus de muliere, brevi vivens tempore, repletur multis miseriis（人は苦難に満ちた生をつかの間生きる）」という人生の苦悩論の創世記的根拠。",
+      "targetId": "hieronymus_ecclesiastes_1",
+      "targetParagraphId": 3
+    },
+    {
+      "paragraphId": 19,
+      "type": "commentary",
+      "anchor": "pulvis es et in pulverem reverteris.",
+      "body": "「お前は塵であり、塵に戻る（pulvis es et in pulverem reverteris）」──西洋文明で最も広く引用されてきた死の定式のひとつ。灰の水曜日（Ash Wednesday）の典礼で額に灰を置きながら告げられるこの句は、ヴルガータの一言句として西洋の死の文化を構造化した。「pulvis（塵・粉）」：Genesis第2章v.7「de limo terrae（地の塵から）」の「limus」と同じ起源への帰還。人間の起源（creatio ex limo）と終末（regressus ad pulverem）が循環的に対応する。ハイデガー『存在と時間』の「死への存在（Sein-zum-Tode）」の聖書的先行定式として：ハイデガーにとって「死（Tod）」は現存在の最も固有で、追い越せない、確実な可能性であり、この「pulverem reverteris（塵に戻る）」という帰還の確実性（「reverteris」は直説法未来──回避不能な確実性）が、死を「いつかの可能性」でなく「存在の本質的構造」として宣告する。コヘレト「Nudus egressus sum de utero matris meae, et nudus revertar（裸で出た、裸で戻ろう）」（ヨブ記I, 21を経由してコヘレト第5章v.14に反響）との対照：「reverteris（戻る）」という動詞が創造→堕落→帰還という三段階の存在論的円環を閉じる。",
+      "targetId": "hieronymus_iob_1",
+      "targetParagraphId": 21
+    },
+    {
+      "paragraphId": 20,
+      "type": "prosody",
+      "anchor": "Et vocavit Adam nomen uxoris suae, Heva: eo quod mater esset cunctorum viventium.",
+      "body": "「アダムは妻をエヴァ（Heva）と名付けた──すべての生ける者の母となるから（mater esset cunctorum viventium）」──Genesis第2章v.19のアダムによる動物への命名と第2章v.23の「Virago（女）」命名に続く第三の命名行為。「Heva」：ヘブライ語「חַוָּה（Havvah）」は「命ある者・生命を与える者」の意で、「生きる（חָיָה：hayah）」から派生する。呪詛の直後にエヴァの命名が来ることで、死の宣告（pulverem reverteris）の直後に生の語源的命名（mater cunctorum viventium）が置かれる対照──「死の定式」と「命の名」の並置がこの節の逆説的構造。コヘレト「Generatio praeterit, et generatio advenit（世代は過ぎ去り、世代は来る）」の「世代（generatio）」の循環は、この「mater cunctorum viventium（すべての生ける者の母）」という起源的命名に端を発する。",
+      "targetId": "hieronymus_ecclesiastes_1",
+      "targetParagraphId": 4
+    },
+    {
+      "paragraphId": 22,
+      "type": "commentary",
+      "anchor": "Ecce Adam quasi unus ex nobis factus est, sciens bonum et malum:",
+      "body": "「見よ、アダムは我々の一人のようになった、善悪を知る者となって（quasi unus ex nobis factus est）」──「quasi（あたかも……のように）」という比較の副詞が、アダムの神との「類似（quasi）」を確認しつつ完全な同一性を否定する。蛇は「eritis sicut dii（神のようになる）」と約束したが、神は「quasi unus ex nobis（我々の一人のように）」という「quasi」による限定的類似を確認する──完全な神化ではなく「類似（quasi）」の状態。「nunc ergo ne forte mittat manum suam, et sumat etiam de ligno vitae（今や命の木から食べないように）」：Genesis第1章で「良い（bonum）」とされた命の木が今や「永遠の生命の危険」として禁じられる──「valde bona（極めて良かった）」世界から「nunc ergo ne forte（今やそうでないように）」という危機的現在への転落。ヴェイユ「Nécessité（必然）」章の「神は人間に限界（limites）を設ける」という命題の原形として読める。",
+      "targetId": "weil_necessite",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 24,
+      "type": "commentary",
+      "anchor": "Ejecitque Adam: et collocavit ante paradisum voluptatis cherubim, et flammeum gladium, atque versatilem, ad custodiendam viam ligni vitae.",
+      "body": "「アダムを追放し……命の木への道を守るためにケルビムと回転する炎の剣を置かれた（flammeum gladium atque versatilem）」──「Ejecit（追放した）」：v.23の「emisit（送り出した）」より強い語で、強制的排除としての追放の終局性を強調する。「cherubim（ケルビム）」：ヘブライ語「כְּרוּבִים」の複数形。エゼキエル書では四翼四面の超自然的存在として描かれる。「flammeum gladium atque versatilem（炎の剣、しかも回転する）」：「versatilem（回転する・あらゆる方向に向く）」という形容詞が、この剣があらゆる侵入を阻むことを示す。ミルトン『失楽園』第12巻、楽園追放の最終場面──「The World was all before them, where to choose / Their place of rest, and Providence their guide」──はこの「Ejecit」の詩的展開として読める。追放されたアダムとエヴァが辿る「涙とためらいの道（wandering steps and slow）」は、Genesis第3章v.17の「in laboribus（苦しみの中で）」の開始点。コヘレト「太陽の下でなされるすべてを見た──すべては虚無（universa vanitas）」（Ecclesiastes I, 14）の世界はこの「Ejecit（追放）」の後の世界──「楽園（paradisus voluptatis）」の外側の世界──として理解される。楽園喪失以後の「sub sole（太陽の下）」の時間が、コヘレト的虚無の時間として始まる。",
+      "targetId": "hieronymus_ecclesiastes_1",
+      "targetParagraphId": 14
+    }
+  ]
+}
