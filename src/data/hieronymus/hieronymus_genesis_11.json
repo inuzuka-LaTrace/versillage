@@ -1,0 +1,315 @@
+{
+  "id": "hieronymus_genesis_11",
+  "title": "Genesis, Caput XI",
+  "author": "Eusebius Sophronius Hieronymus",
+  "source": "Biblia Sacra Vulgata, Liber Genesis, Caput XI. Bible Gateway: https://www.biblegateway.com/passage/?search=Genesis+11&version=VULGATE",
+  "year": "Antiquitas",
+  "firstPublication": "Vulgata Latina, c. 382–405 AD（ヒエロニムス訳）",
+  "difficulty": "上級",
+  "category": "hieronymus",
+  "originalLang": "la-LA",
+  "modernRelevance": "★★★★★",
+  "context": "創世記（Liber Genesis）第11章。前半（v.1–9）は「バベルの塔」の物語、後半（v.10–32）はセムからアブラムに至る系譜（Semの系譜）を記す。バベルの塔の物語は「地はひとつの唇（labium unum）とひとつの言葉（sermo idem）を持っていた」という言語の原初的統一の宣言から始まり、「天に達する塔（turris cujus culmen pertingat ad caelum）」の建設という人間的傲慢へ、「主は降りて（Descendit Dominus）」言語を混乱させる（confundamus linguam）神的介入へ、そして「バベル（Babel）──なぜならそこで全地の唇が混乱した（confusum est labium universae terrae）──」という語源的命名で閉じる九節の物語。この物語は西洋の言語哲学・翻訳論・記号論・神学の中心的テキストとして無数の解釈を生んだ。ベンヤミン（1892–1940）は「翻訳者の使命（Die Aufgabe des Übersetzers, 1923）」でバベル以後の翻訳を「砕かれた器の破片の再接合」として、すべての翻訳が目指すが到達できない「純粋言語（reine Sprache）」をバベル以前の単一言語の残響として位置づけた。デリダ（1930–2004）は「バベルの塔たち（Des tours de Babel, 1985）」でベンヤミンを踏まえ、「Babel」という固有名が「神の名」でありながら「混乱（babbler）」を意味する普通名詞でもある点に、固有名の不安定性・翻訳不可能性の原型を見出した。エーコ（1932–2016）は『完全言語の探求（La ricerca della lingua perfetta, 1993）』で、バベル以後の西洋思想が「失われた完全言語」の回復を目指してきた歴史を体系的に記述した。ボルヘス（1899–1986）の「バベルの図書館（La Biblioteca de Babel, 1941）」は、バベルの塔の垂直性を図書館の無限の水平性へと変換し、すべての可能な言語組み合わせを含む宇宙的図書館を描いた。カフカ（1883–1924）は遺稿の断片「万里の長城の築造（Beim Bau der chinesischen Mauer, 1917 他）」で塔の建設という「目的のない事業」の不条理を描き、また「父への手紙（Brief an den Vater, 1919）」に見られる父子間の伝達不能性がこの「labium confusum（混乱した唇）」の個人的変奏として読める。後半の系譜（v.10–32）では「Vixit……et genuit……et mortuus est（生き……産み……死んだ）」という三拍子の反復が、コヘレト「Generatio praeterit, et generatio advenit（世代は過ぎ去り、世代は来る）」の散文的定型として機能し、アブラムという呼び名で閉じることで次章の「アブラハムの召命（Genesis第12章）」への接続となる。",
+  "keywords": [
+    "labium unum",
+    "turris Babel",
+    "confusio linguarum",
+    "pure language",
+    "翻訳不可能性",
+    "Babel",
+    "固有名",
+    "dispersio",
+    "Abram",
+    "generationes"
+  ],
+  "relatedTexts": [
+    "hieronymus_genesis_1",
+    "hieronymus_genesis_2",
+    "hieronymus_genesis_3",
+    "hieronymus_genesis_4",
+    "hieronymus_genesis_22",
+    "hieronymus_ecclesiastes_1",
+    "mallarme_crise_de_vers",
+    "mallarme_mystere",
+    "mallarme_livre_instrument",
+    "weil_necessite"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "verses": "v.1",
+      "original": "Erat autem terra labii unius, et sermonum eorumdem.",
+      "provisionalTranslation": "全地はひとつの唇と同じ言葉を持っていた。"
+    },
+    {
+      "id": 2,
+      "verses": "v.2",
+      "original": "Cumque proficiscerentur de oriente, invenerunt campum in terra Sennaar, et habitaverunt in eo.",
+      "provisionalTranslation": "東から移動するうちに、彼らはシンアルの地に平原を見つけ、そこに住んだ。"
+    },
+    {
+      "id": 3,
+      "verses": "v.3",
+      "original": "Dixitque alter ad proximum suum: Venite, faciamus lateres, et coquamus eos igni. Habueruntque lateres pro saxis, et bitumen pro caemento:",
+      "provisionalTranslation": "彼らは互いに言った。「さあ、煉瓦を作り、火で焼こう。」彼らは石の代わりに煉瓦を、漆喰の代わりにアスファルトを用いた。"
+    },
+    {
+      "id": 4,
+      "verses": "v.4",
+      "original": "et dixerunt: Venite, faciamus nobis civitatem et turrim, cujus culmen pertingat ad caelum: et celebremus nomen nostrum antequam dividamur in universas terras.",
+      "provisionalTranslation": "そして言った。「さあ、町と、頂が天に届く塔を建てよう。そして名を挙げよう、全地に散らされる前に。」"
+    },
+    {
+      "id": 5,
+      "verses": "v.5",
+      "original": "Descendit autem Dominus ut videret civitatem et turrim, quam aedificabant filii Adam,",
+      "provisionalTranslation": "主は、人の子らが建てている町と塔を見るために降りてこられた。"
+    },
+    {
+      "id": 6,
+      "verses": "v.6",
+      "original": "et dixit: Ecce, unus est populus, et unum labium omnibus: coeperuntque hoc facere, nec desistent a cogitationibus suis, donec eas opere compleant.",
+      "provisionalTranslation": "主は言われた。「見よ、彼らは一つの民であり、すべての者がひとつの唇を持っている。彼らはこれをし始めたが、自らの計画の完成まで止まらないだろう。」"
+    },
+    {
+      "id": 7,
+      "verses": "v.7",
+      "original": "Venite igitur, descendamus, et confundamus ibi linguam eorum, ut non audiat unusquisque vocem proximi sui.",
+      "provisionalTranslation": "「さあ、降りて行って、そこで彼らの言語を混乱させよう、互いに声を聞き取れないように。」"
+    },
+    {
+      "id": 8,
+      "verses": "v.8",
+      "original": "Atque ita divisit eos Dominus ex illo loco in universas terras, et cessaverunt aedificare civitatem.",
+      "provisionalTranslation": "こうして主はそこから彼らを全地に散らされた。彼らは町の建設をやめた。"
+    },
+    {
+      "id": 9,
+      "verses": "v.9",
+      "original": "Et idcirco vocatum est nomen ejus Babel, quia ibi confusum est labium universae terrae: et inde dispersit eos Dominus super faciem cunctarum regionum.",
+      "provisionalTranslation": "それゆえその名はバベルと呼ばれた。全地の唇がそこで混乱したから。主はそこから彼らをすべての地の面に散らされた。"
+    },
+    {
+      "id": 10,
+      "verses": "v.10",
+      "original": "Hae sunt generationes Sem: Sem erat centum annorum quando genuit Arphaxad, biennio post diluvium.",
+      "provisionalTranslation": "セムの系譜はこうである。セムは洪水の二年後、百歳のときアルパクシャドを産んだ。"
+    },
+    {
+      "id": 11,
+      "verses": "v.11",
+      "original": "Vixitque Sem, postquam genuit Arphaxad, quingentis annis: et genuit filios et filias.",
+      "provisionalTranslation": "セムはアルパクシャドを産んだ後、五百年生き、息子たちと娘たちを産んだ。"
+    },
+    {
+      "id": 12,
+      "verses": "v.12",
+      "original": "Porro Arphaxad vixit triginta quinque annis, et genuit Sale.",
+      "provisionalTranslation": "アルパクシャドは三十五歳のときシェラフを産んだ。"
+    },
+    {
+      "id": 13,
+      "verses": "v.13",
+      "original": "Vixitque Arphaxad, postquam genuit Sale, trecentis tribus annis: et genuit filios et filias.",
+      "provisionalTranslation": "アルパクシャドはシェラフを産んだ後、三百三年生き、息子たちと娘たちを産んだ。"
+    },
+    {
+      "id": 14,
+      "verses": "v.14",
+      "original": "Sale quoque vixit triginta annis, et genuit Heber.",
+      "provisionalTranslation": "シェラフは三十歳のときエベルを産んだ。"
+    },
+    {
+      "id": 15,
+      "verses": "v.15",
+      "original": "Vixitque Sale, postquam genuit Heber, quadringentis tribus annis: et genuit filios et filias.",
+      "provisionalTranslation": "シェラフはエベルを産んだ後、四百三年生き、息子たちと娘たちを産んだ。"
+    },
+    {
+      "id": 16,
+      "verses": "v.16",
+      "original": "Vixit autem Heber triginta quatuor annis, et genuit Phaleg.",
+      "provisionalTranslation": "エベルは三十四歳のときペレグを産んだ。"
+    },
+    {
+      "id": 17,
+      "verses": "v.17",
+      "original": "Et vixit Heber postquam genuit Phaleg, quadringentis triginta annis: et genuit filios et filias.",
+      "provisionalTranslation": "エベルはペレグを産んだ後、四百三十年生き、息子たちと娘たちを産んだ。"
+    },
+    {
+      "id": 18,
+      "verses": "v.18",
+      "original": "Vixit quoque Phaleg triginta annis, et genuit Reu.",
+      "provisionalTranslation": "ペレグは三十歳のときレウを産んだ。"
+    },
+    {
+      "id": 19,
+      "verses": "v.19",
+      "original": "Vixitque Phaleg, postquam genuit Reu, ducentis novem annis: et genuit filios et filias.",
+      "provisionalTranslation": "ペレグはレウを産んだ後、二百九年生き、息子たちと娘たちを産んだ。"
+    },
+    {
+      "id": 20,
+      "verses": "v.20",
+      "original": "Vixit autem Reu triginta duobus annis, et genuit Sarug.",
+      "provisionalTranslation": "レウは三十二歳のときセルグを産んだ。"
+    },
+    {
+      "id": 21,
+      "verses": "v.21",
+      "original": "Vixit quoque Reu, postquam genuit Sarug, ducentis septem annis: et genuit filios et filias.",
+      "provisionalTranslation": "レウはセルグを産んだ後、二百七年生き、息子たちと娘たちを産んだ。"
+    },
+    {
+      "id": 22,
+      "verses": "v.22",
+      "original": "Vixit vero Sarug triginta annis, et genuit Nachor.",
+      "provisionalTranslation": "セルグは三十歳のときナホルを産んだ。"
+    },
+    {
+      "id": 23,
+      "verses": "v.23",
+      "original": "Vixitque Sarug, postquam genuit Nachor, ducentis annis: et genuit filios et filias.",
+      "provisionalTranslation": "セルグはナホルを産んだ後、二百年生き、息子たちと娘たちを産んだ。"
+    },
+    {
+      "id": 24,
+      "verses": "v.24",
+      "original": "Vixit autem Nachor viginti novem annis, et genuit Thare.",
+      "provisionalTranslation": "ナホルは二十九歳のときテラフを産んだ。"
+    },
+    {
+      "id": 25,
+      "verses": "v.25",
+      "original": "Vixitque Nachor, postquam genuit Thare, centum decem et novem annis: et genuit filios et filias.",
+      "provisionalTranslation": "ナホルはテラフを産んだ後、百十九年生き、息子たちと娘たちを産んだ。"
+    },
+    {
+      "id": 26,
+      "verses": "v.26",
+      "original": "Vixitque Thare septuaginta annis, et genuit Abram, et Nachor, et Aran.",
+      "provisionalTranslation": "テラフは七十歳のときアブラム、ナホル、ハランを産んだ。"
+    },
+    {
+      "id": 27,
+      "verses": "v.27",
+      "original": "Hae sunt autem generationes Thare: Thare genuit Abram, Nachor et Aran. Porro Aran genuit Lot.",
+      "provisionalTranslation": "テラフの系譜はこうである。テラフはアブラム、ナホル、ハランを産んだ。ハランはロトを産んだ。"
+    },
+    {
+      "id": 28,
+      "verses": "v.28",
+      "original": "Mortuusque est Aran ante Thare patrem suum, in terra nativitatis suae, in Ur Chaldaeorum.",
+      "provisionalTranslation": "ハランは父テラフより先に、自分の生まれた地、カルデア人のウルで死んだ。"
+    },
+    {
+      "id": 29,
+      "verses": "v.29",
+      "original": "Duxerunt autem Abram et Nachor uxores: nomen uxoris Abram, Sarai: et nomen uxoris Nachor, Melcha filia Aran, patris Melchae, et patris Jeschae.",
+      "provisionalTranslation": "アブラムとナホルは妻を持った。アブラムの妻の名はサライ、ナホルの妻はミルカ、ハランの娘でミルカとイスカの父の娘。"
+    },
+    {
+      "id": 30,
+      "verses": "v.30",
+      "original": "Erat autem Sarai sterilis, nec habebat liberos.",
+      "provisionalTranslation": "サライは不妊であり、子がなかった。"
+    },
+    {
+      "id": 31,
+      "verses": "v.31",
+      "original": "Tulit itaque Thare Abram filium suum, et Lot filium Aran, filium filii sui, et Sarai nurum suam, uxorem Abram filii sui, et eduxit eos de Ur Chaldaeorum, ut irent in terram Chanaan: veneruntque usque Haran, et habitaverunt ibi.",
+      "provisionalTranslation": "テラフは息子アブラム、孫ロト（ハランの子）、息子アブラムの妻サライを連れて、カルデア人のウルを出発し、カナンの地に向かった。しかしハランまで来て、そこに住んだ。"
+    },
+    {
+      "id": 32,
+      "verses": "v.32",
+      "original": "Et facti sunt dies Thare ducentorum quinque annorum, et mortuus est in Haran.",
+      "provisionalTranslation": "テラフは二百五歳になり、ハランで死んだ。"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "glossary",
+      "anchor": "Erat autem terra labii unius, et sermonum eorumdem.",
+      "body": "「全地はひとつの唇（labium unum）と同じ言葉（sermones iidem）を持っていた」──「labium（唇・口唇）」：ヘブライ語「שָׂפָה（saphah）」は「唇・岸・縁」の多義語で、言語の物理的器官としての「唇」によって言語そのものを指示する。ヒエロニムスは「lingua（舌・言語）」でなく「labium（唇）」を選択した──v.7「confundamus linguam（言語を混乱させよう）」では「lingua」が使われることで、「labium（唇：言語の肉体的起源）」と「lingua（舌：言語そのもの）」の二語が区別される。「sermonum eorumdem（同じ言葉）」：「sermo（言葉・対話・談話）」の属格複数で、語彙レベルでの統一。ベンヤミン「翻訳者の使命（Die Aufgabe des Übersetzers, 1923）」：すべての翻訳が目指すが決して到達できない「純粋言語（reine Sprache）」の概念がこの「labium unum（ひとつの唇）」の状態に対応する──バベル以前の言語の単一性が、翻訳という行為の彼方にある「原語（Ursprache）」として機能する。エーコ『完全言語の探求（La ricerca della lingua perfetta, 1993）』：西洋思想がバベル以後の二千年間「失われたlabium unum」の回復を夢見てきた歴史──アダムの命名言語・カバラ・ライプニッツの普遍算術・エスペラント等──の出発点がこの一節。"
+    },
+    {
+      "paragraphId": 4,
+      "type": "commentary",
+      "anchor": "Venite, faciamus nobis civitatem et turrim, cujus culmen pertingat ad caelum: et celebremus nomen nostrum antequam dividamur in universas terras.",
+      "body": "「天に届く頂を持つ塔（turrim, cujus culmen pertingat ad caelum）を建てよう──名を挙げよう（celebremus nomen nostrum）」──塔建設の二重の動機：垂直的昇天（culmen ad caelum）と水平的名声（nomen nostrum）。「culmen pertingat ad caelum（頂が天に届く）」：接続法現在が未来の願望を示す。Genesis第22章でアブラハムが「山の頂（monte）」で神に従うのに対し、バベルでは人間が自力で「天（caelum）」に届こうとする──神が「降りて（Descendit）」くるのに対し人間が「昇ろうとする（pertingat ad caelum）」という反転。「celebremus nomen nostrum（名を挙げよう）」：「nomen（名前）」の自己称揚が建設の動機として明示される。デリダ「Des tours de Babel（バベルの塔たち, 1985）」における「Babel」の固有名論：人間が「自分の名（nomen nostrum）」を「天（caelum）」まで届かせようとすることへの神的介入として読める。ボルヘス「バベルの図書館（La Biblioteca de Babel, 1941）」：塔の垂直性（turris）が図書館の水平的無限性へと転換された想像力の起源がここにある──「天に届く」垂直の野望が「すべての言語を含む」水平の宇宙へと変換される。カフカ『審判（Der Proceß）』・『城（Das Schloß）』：決して到達できない「上（oben）」への不可能な接近として、カフカの主人公たちの運動がバベルの「culmen pertingat ad caelum（頂が天に届く）」という不達成の願望の世俗的変奏として読める。",
+      "targetId": "hieronymus_genesis_22",
+      "targetParagraphId": 2
+    },
+    {
+      "paragraphId": 5,
+      "type": "commentary",
+      "anchor": "Descendit autem Dominus ut videret civitatem et turrim, quam aedificabant filii Adam,",
+      "body": "「主は、人の子らが建てている町と塔を見るために降りてこられた（Descendit Dominus ut videret）」──「Descendit（降りてこられた）」：神の「降下（descensus）」という逆説的動詞。Genesis第11章でバベルの塔は「天に届く（pertingat ad caelum）」とされるが、神はそれを「見るために降りる（descendit ut videret）」必要がある──天に届くはずの塔が神の視点からは「降りなければ見えない」ほど小さいという皮肉が含意される。「ut videret（見るために）」：Genesis第1章「Et vidit Deus quod esset bonum（神は見て良しとされた）」の神の視線が、ここでは人間の傲慢を「見る（videre）」ために降下するという異なる機能を持つ。「filii Adam（アダムの子ら）」：「アダムの子ら」という呼称がGenesis第3章以降の「楽園追放後の人間」を指定する──「Adam（地の塵）」に帰す運命を持つ者たちが天（caelum）に達しようとする逆説。ベンヤミン「歴史の概念について（Über den Begriff der Geschichte, 1940）」：神の「見る（videre）」視線が天使アンゲルス・ノヴス（Paul Klee の絵）という「歴史の天使」の視線──瓦礫の山を見ながら前進させられる歴史の天使──として変換される。"
+    },
+    {
+      "paragraphId": 6,
+      "type": "commentary",
+      "anchor": "Ecce, unus est populus, et unum labium omnibus: coeperuntque hoc facere, nec desistent a cogitationibus suis, donec eas opere compleant.",
+      "body": "「見よ、彼らは一つの民であり、すべての者がひとつの唇を持っている──自らの計画の完成まで止まらないだろう（nec desistent a cogitationibus suis, donec eas opere compleant）」──神が人間の「ひとつの唇（unum labium）」を認識し、その危険性を評価する内的独白。「nec desistent……donec opere compleant（完成まで止まらない）」：人間の意志の不停止性・遂行への断固たる意図を神が正確に認識している。神は人間の「完全な遂行可能性」を恐れている──言語の統一が技術的・社会的統一を可能にし、その統一が神的領域への侵犯を完成させるという神学的論理。エーコ「完全言語の探求」：「unum labium（ひとつの唇）」という言語の統一が「なんでも可能にする力（nec desistent）」として描かれることで、完全言語の探求が神的秩序への脅威として位置づけられる。ヴェイユ「Nécessité（必然）」における「神は人間に限界（limites）を設ける」という命題の、この「confundamus linguam（言語を混乱させる）」という神的介入として具体化される。",
+      "targetId": "weil_necessite",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 7,
+      "type": "glossary",
+      "anchor": "Venite igitur, descendamus, et confundamus ibi linguam eorum, ut non audiat unusquisque vocem proximi sui.",
+      "body": "「さあ、降りて行って（descendamus）、そこで彼らの言語を混乱させよう（confundamus linguam eorum）──互いに声を聞き取れないように（ut non audiat unusquisque vocem proximi sui）」──Genesis第1章「Faciamus hominem（人を造ろう）」・Genesis第11章v.4「faciamus nobis civitatem（町を建てよう）」と同形の勧誘的一人称複数「confundamus（混乱させよう）」。神も人間も「Venite, faciamus（さあ、〜しよう）」という同形式で語る。「confundamus（混乱させよう）」：ヘブライ語「בָּלַל（balal）：混ぜる・混乱させる」の訳で、「Babel」の語源（v.9）。「lingua（言語）」と「labium（唇）」の使い分け：v.1「labium unum（ひとつの唇）」が言語の肉体的・一体的統一を示すのに対し、「confundamus linguam（言語を混乱させよう）」では「lingua（舌：言語体系）」が混乱の対象となる──「labium（唇）」という肉体的器官の統一を解体するのでなく、「lingua（言語体系）」の意味的・音韻的内容を撹乱する。「ut non audiat unusquisque vocem proximi sui（互いに声を聞き取れないように）」：「proximus（最も近い者・隣人）」の声が「聞き取れない（non audiat）」という状態が、言語の混乱の社会的定義として示される。愛の命令「diliges proximum tuum（隣人を愛せよ）」の前提となる「proximum（隣人）」との交通が、バベルで言語の混乱によって遮断される。デリダ「Des tours de Babel」の核心命題：神は「Babel」という固有名を「自分の名（Son nom）」として刻印すると同時に、その固有名が「混乱（babbler）」という普通名詞と重なる点で、翻訳不可能な固有名の不安定性の原型をここに見出す。"
+    },
+    {
+      "paragraphId": 9,
+      "type": "commentary",
+      "anchor": "Et idcirco vocatum est nomen ejus Babel, quia ibi confusum est labium universae terrae: et inde dispersit eos Dominus super faciem cunctarum regionum.",
+      "body": "「それゆえその名はバベル（Babel）と呼ばれた──全地の唇がそこで混乱した（confusum est labium universae terrae）から」──「Babel」の語源的命名（onomastics）。「Babel（バベル）」はヘブライ語「בָּלַל（balal：混ぜる・混乱させる）」に由来するとテキストは語るが、歴史的にはアッカド語「Bāb-ilim（神の門）」が語源であり、聖書の語源説明は民間語源（folk etymology）。デリダ「Des tours de Babel（バベルの塔たち）」において最も分析された点がここにある：「Babel」は神の固有名（Yahweが付けた場所の名）でありながら、ヘブライ語の普通名詞「混乱（balal）」と音韻的に重なり、神の名が「混乱」を意味するという逆説──固有名は本来「翻訳不可能（untranslatable）」であるはずだが、「Babel」という神の名自体が「混乱（confusion）」という翻訳可能な意味を内蔵している。この「固有名の自己解体」がデリダ的差延（différance）の原型事例。「dispersit eos Dominus super faciem cunctarum regionum（主はすべての地の面に散らされた）」：Genesis第4章でカインが「vagus et profugus（放浪・逃亡者）」となったのに対し、バベルの人々は「super faciem cunctarum regionum（すべての地の面に）」という宇宙的規模で散らされる。ボルヘス「バベルの図書館」：図書館は「バベル」──混乱・分散──であると同時にすべての言語の集合体でもある逆説。マラルメ「危機（Crise de vers）」：「言語の多様性（diversité des langues sur la terre）」がバベル以後の分散の詩的記述として位置づけられる。",
+      "targetId": "mallarme_crise_de_vers",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 10,
+      "type": "prosody",
+      "anchor": "Hae sunt generationes Sem: Sem erat centum annorum quando genuit Arphaxad, biennio post diluvium.",
+      "body": "「セムの系譜はこうである（Hae sunt generationes Sem）」──v.4の「generationes Thare（テラフの系譜）」とともに、Genesis全体を構成する定型句「Hae sunt generationes（これが〜の由来・系譜である）」の反復。バベルの物語（v.1–9）から系譜（v.10–32）への移行は、言語の混乱という「事件」から「生き・産み・死ぬ」という反復的時間への移行でもある。セム（Sem）からアブラム（Abram）まで10世代の系譜が「Vixit……et genuit……（生き……産んだ）」という定型的三拍子で反復される。コヘレト「Generatio praeterit, et generatio advenit（世代は過ぎ去り、世代は来る）」（Ecclesiastes I, 4）の詩的定式が、ここでは散文的定型として展開される──詩篇が「世代の循環」を嘆くのに対し、系譜は同じ循環を中立的に記録する。「biennio post diluvium（洪水の二年後）」：系譜がノアの洪水（Genesis第6–9章）という破局的事件の後日として位置づけられる。",
+      "targetId": "hieronymus_ecclesiastes_1",
+      "targetParagraphId": 4
+    },
+    {
+      "paragraphId": 16,
+      "type": "commentary",
+      "anchor": "Vixit autem Heber triginta quatuor annis, et genuit Phaleg.",
+      "body": "「エベル（Heber）は……ペレグ（Phaleg）を産んだ」──「Heber（エベル）」：ヘブライ語「עֵבֶר（Ever）」はヘブライ人（Hebrew / עִבְרִי：Ivri）の語源とされる祖先。「Phaleg（ペレグ）」：ヘブライ語「פֶּלֶג（Peleg）」は「分割・分岐」を意味し、Genesis第10章v.25「in diebus ejus divisa est terra（彼の日に地が分けられた）」という注記がある──ペレグの名はバベルの「地の分散（dispersio）」と語源的に連動している。エベル（Hebrew=ヘブライ人の祖）の息子の名が「分割（Peleg）」であるという事実が、バベルの言語分散と族長系譜を語源的に接合する。系譜の中の固有名がそれぞれ意味を持つという点で、Genesis第2章v.23「Virago, quoniam de viro sumpta est（男から取られた者）」というアダムの語源的命名の系譜的継続として機能する。",
+      "targetId": "hieronymus_genesis_2",
+      "targetParagraphId": 23
+    },
+    {
+      "paragraphId": 28,
+      "type": "commentary",
+      "anchor": "Mortuusque est Aran ante Thare patrem suum, in terra nativitatis suae, in Ur Chaldaeorum.",
+      "body": "「ハランは父テラフより先に（ante Thare patrem suum）、自分の生まれた地、カルデア人のウルで死んだ」──系譜の連続的定型「Vixit……genuit……」の中で突然現れる「父より先に死んだ」という異常な挿入。「ante patrem suum（父より先に）」：息子が父より先に死ぬという「自然の秩序」の逆転。通常の系譜では「死」は「genuit（産んだ）」の後の世代として来るが、ハランの死は父の前に、系譜の「順序」を崩す形で記述される。カフカ的読解：カフカ「変身（Die Verwandlung）」のグレゴール・ザムザが父（Vater）の前に死ぬという構造、また「判決（Das Urteil）」で父が息子に「水に溺れる刑（im Wasser zu ertränken）」を宣告し息子が服従する構造が、この「ante patrem suum（父より先に）」という息子の先行的死と共鳴する。「in terra nativitatis suae（自分の生まれた地で）」：ハランは生まれた地（Ur Chaldaeorum）で死ぬ──移動しないまま死ぬ。次節v.31でテラフがカナンを目指しながらハランで止まるという「移動の途中での停止」と対応する──出発するが到達しないという構造がカフカ的「到達の不可能性」の原形として読める。コヘレト「Non est priorum memoria（先のことどもの記憶はない）」（Ecclesiastes I, 11）：系譜に記されながらも「ante patrem（父より先に）」死んだハランの名は記録されるが、その死の内容は一切記述されない。",
+      "targetId": "hieronymus_ecclesiastes_1",
+      "targetParagraphId": 11
+    },
+    {
+      "paragraphId": 30,
+      "type": "commentary",
+      "anchor": "Erat autem Sarai sterilis, nec habebat liberos.",
+      "body": "「サライは不妊であり（sterilis）、子がなかった（nec habebat liberos）」──「sterilis（不妊の・実を結ばない）」：植物の「実を結ばない土地」にも使われる語で、生命の生産不能性を示す。Genesis第11章の系譜全体が「genuit（産んだ）」という動詞の連続で構成されているにもかかわらず、アブラムの妻サライだけが「nec habebat liberos（子がなかった）」として例外として示される。この「例外（exception）」がGenesis第22章のアケダ──独り子イサクの犠牲──へと向かう物語の起源として機能する：不妊という「不可能性」から産まれたイサクが「独り子（unigenitus）」として犠牲に要求される逆説。ヴェイユ「Accepter le vide（虚空を受容する）」の「虚空を満たすのは神のみ」という命題が、「sterilis（不妊）」という生命的「虚空（vide）」と対応する──サライの「空虚」が神的充填（イサクの誕生）を待つ器として位置づけられる。コヘレト「Omnia flumina intrant in mare, et mare non redundat（すべての川は海に入るが、海はあふれない）」（Ecclesiastes I, 7）：「充たされない」という構造的欠如がサライの「sterilis（不妊）」として身体的に具体化される。",
+      "targetId": "hieronymus_genesis_22",
+      "targetParagraphId": 2
+    },
+    {
+      "paragraphId": 31,
+      "type": "commentary",
+      "anchor": "ut irent in terram Chanaan: veneruntque usque Haran, et habitaverunt ibi.",
+      "body": "「カナンの地に向かった（ut irent in terram Chanaan）──しかしハランまで来て、そこに住んだ（veneruntque usque Haran, et habitaverunt ibi）」──「ut irent（向かった）」という目的が「habitaverunt ibi（そこに住んだ）」という目的地でない場所への定住で中断される。カナンへの到達は次章Genesis第12章まで延期される──テラフの旅は目的地に届かないまま「途中の地」で止まる。カフカ『城（Das Schloß, 1926）』における「到達できない城（Schloß）」：Kが決して城に入れないままで物語が終わるというカフカ的構造の原形がここにある──「ut irent in terram Chanaan（カナンに行くために）」という目的節が「habitaverunt in Haran（ハランに住んだ）」という途中定住によって無効化される。テラフはv.32「mortuus est in Haran（ハランで死んだ）」──到達することなく死ぬ。バベルの「nec desistent……donec opere compleant（完成まで止まらない）」という人間の断固たる意志が、系譜の中では「途中で止まる（habitaverunt ibi）」という不達成として繰り返される──言語的野望の挫折（バベル）と旅の途中死（テラフ）が第11章を「中断の章」として構造的に統一する。",
+      "targetId": "hieronymus_genesis_22",
+      "targetParagraphId": 3
+    }
+  ]
+}
