@@ -1,0 +1,315 @@
+{
+  "id": "hieronymus_genesis_1",
+  "title": "Genesis, Caput I",
+  "author": "Eusebius Sophronius Hieronymus",
+  "source": "Biblia Sacra Vulgata, Liber Genesis, Caput I. Bible Gateway: https://www.biblegateway.com/passage/?search=Genesis+1&version=VULGATE",
+  "year": "Antiquitas",
+  "firstPublication": "Vulgata Latina, c. 382–405 AD（ヒエロニムス訳）",
+  "difficulty": "中級",
+  "category": "hieronymus",
+  "originalLang": "la-LA",
+  "modernRelevance": "★★★★★",
+  "context": "創世記（Liber Genesis）第1章。ウルガータにおけるヒエロニムス訳。「In principio creavit Deus caelum et terram（はじめに神は天と地を創造した）」という冒頭はヨハネ福音書第1章「In principio erat Verbum（はじめに言葉があった）」と並ぶ西洋思想・文学・神学の原点的テキストであり、存在論・宇宙論・言語論・神学すべての始源として機能する。本章は神の七日間の創造を記述し、「Dixit Deus（神は言われた）」→「Et factum est（こうして〜となった）」→「Et vidit Deus quod esset bonum（神は見て良しとされた）」という三拍子の繰り返し構造によって六日間の創造を定型的に展開し、第七日の安息へと収束する。この反復的定型構造は詩篇・予言書とは異なる「散文的崇高」の極致であり、コヘレト「太陽は昇り、沈み、その場所へと戻る（Oritur sol et occidit）」の循環論とは正反対の「線的・目的論的時間」を提示する──しかしヴァニタス的読解において、この「最初の創造」は同時に「消滅への開始」でもある。「inanis et vacua（虚ろで空っぽ）」（v.2）というヘブライ語「תֹּהוּ וָבֹהוּ（tohu wa-bohu）」のラテン訳は、コヘレト「vanitas（虚無）」・ヴェイユ「vide（虚空）」と同一の「空虚」の語彙圏に属し、創造は虚無からの創造（creatio ex nihilo）として、VANITISMEの「虚無の詩学」の逆説的起点となる。「Faciamus hominem ad imaginem et similitudinem nostram（人を我々のかたちと似姿に造ろう）」（v.26）という複数形「Faciamus」は三位一体論争の聖書的根拠として長く論じられてきた。「Crescite et multiplicamini（産めよ増えよ）」（v.28）という祝福命令は、コヘレトが「太陽の下に新しいものは何もない」と否定する「生の増殖」の肯定的定式として対置される。",
+  "keywords": [
+    "In principio",
+    "creatio ex nihilo",
+    "inanis et vacua",
+    "Fiat lux",
+    "imago Dei",
+    "Faciamus hominem",
+    "valde bona",
+    "tohu wa-bohu",
+    "六日間の創造",
+    "安息日"
+  ],
+  "relatedTexts": [
+    "hieronymus_genesis_2",
+    "hieronymus_genesis_3",
+    "hieronymus_genesis_4",
+    "hieronymus_genesis_22",
+    "hieronymus_ecclesiastes_1",
+    "hieronymus_iob_38",
+    "hieronymus_psalm_21",
+    "weil_decreation",
+    "weil_accepter_le_vide",
+    "dante_paradiso_canto_33"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "verses": "v.1",
+      "original": "In principio creavit Deus caelum et terram.",
+      "provisionalTranslation": "はじめに神は天と地を創造された。"
+    },
+    {
+      "id": 2,
+      "verses": "v.2",
+      "original": "Terra autem erat inanis et vacua, et tenebrae erant super faciem abyssi: et spiritus Dei ferebatur super aquas.",
+      "provisionalTranslation": "大地は虚ろで空っぽであり、闇は深淵の面の上にあった。そして神の霊が水の面を動いていた。"
+    },
+    {
+      "id": 3,
+      "verses": "v.3",
+      "original": "Dixitque Deus: Fiat lux. Et facta est lux.",
+      "provisionalTranslation": "そして神は言われた。「光あれ。」そして光があった。"
+    },
+    {
+      "id": 4,
+      "verses": "v.4",
+      "original": "Et vidit Deus lucem quod esset bona: et divisit lucem a tenebris.",
+      "provisionalTranslation": "神は光が良いものであることを見た。そして神は光と闇を分けた。"
+    },
+    {
+      "id": 5,
+      "verses": "v.5",
+      "original": "Appellavitque lucem Diem, et tenebras Noctem: factumque est vespere et mane, dies unus.",
+      "provisionalTranslation": "神は光を昼と呼び、闇を夜と呼ばれた。夕となり朝となった、第一日。"
+    },
+    {
+      "id": 6,
+      "verses": "v.6",
+      "original": "Dixit quoque Deus: Fiat firmamentum in medio aquarum: et dividat aquas ab aquis.",
+      "provisionalTranslation": "神はまた言われた。「水の中に大空あれ。水と水の間を分けよ。」"
+    },
+    {
+      "id": 7,
+      "verses": "v.7",
+      "original": "Et fecit Deus firmamentum, divisitque aquas, quae erant sub firmamento, ab his, quae erant super firmamentum. Et factum est ita.",
+      "provisionalTranslation": "神は大空を造り、大空の下の水と大空の上の水とを分けた。こうなった。"
+    },
+    {
+      "id": 8,
+      "verses": "v.8",
+      "original": "Vocavitque Deus firmamentum, Caelum: et factum est vespere et mane, dies secundus.",
+      "provisionalTranslation": "神は大空を天と呼ばれた。夕となり朝となった、第二日。"
+    },
+    {
+      "id": 9,
+      "verses": "v.9",
+      "original": "Dixit vero Deus: Congregentur aquae, quae sub caelo sunt, in locum unum: et appareat arida. Et factum est ita.",
+      "provisionalTranslation": "神はまた言われた。「天の下の水は一か所に集まれ。乾いた地が現れよ。」こうなった。"
+    },
+    {
+      "id": 10,
+      "verses": "v.10",
+      "original": "Et vocavit Deus aridam Terram, congregationesque aquarum appellavit Maria. Et vidit Deus quod esset bonum.",
+      "provisionalTranslation": "神は乾いた地を地と呼び、水の集まりを海と呼ばれた。神は見て良しとされた。"
+    },
+    {
+      "id": 11,
+      "verses": "v.11",
+      "original": "Et ait: Germinet terra herbam virentem, et facientem semen, et lignum pomiferum faciens fructum juxta genus suum, cujus semen in semetipso sit super terram. Et factum est ita.",
+      "provisionalTranslation": "神は言われた。「地は緑の草を芽生えさせよ。種を持つ草と、種を持つ実をその種類に従って結ぶ木を、地の上に。」こうなった。"
+    },
+    {
+      "id": 12,
+      "verses": "v.12",
+      "original": "Et protulit terra herbam virentem, et facientem semen juxta genus suum, lignumque faciens fructum, et habens unumquodque sementem secundum speciem suam. Et vidit Deus quod esset bonum.",
+      "provisionalTranslation": "地は緑の草を、種を持つ草をその種類に従って、実を結ぶ木をその種類に従って生えさせた。神は見て良しとされた。"
+    },
+    {
+      "id": 13,
+      "verses": "v.13",
+      "original": "Et factum est vespere et mane, dies tertius.",
+      "provisionalTranslation": "夕となり朝となった、第三日。"
+    },
+    {
+      "id": 14,
+      "verses": "v.14",
+      "original": "Dixit autem Deus: Fiant luminaria in firmamento caeli, et dividant diem ac noctem, et sint in signa et tempora, et dies et annos:",
+      "provisionalTranslation": "神は言われた。「天の大空に光る物があれ。昼と夜を分け、印と時と日と年のためにあれ。」"
+    },
+    {
+      "id": 15,
+      "verses": "v.15",
+      "original": "ut luceant in firmamento caeli, et illuminent terram. Et factum est ita.",
+      "provisionalTranslation": "「天の大空で輝き、地を照らすためにあれ。」こうなった。"
+    },
+    {
+      "id": 16,
+      "verses": "v.16",
+      "original": "Fecitque Deus duo luminaria magna: luminare majus, ut praeesset diei: et luminare minus, ut praeesset nocti: et stellas.",
+      "provisionalTranslation": "神は二つの大きな光る物を造られた。昼を支配する大きな光る物と、夜を支配する小さな光る物を。また星々をも。"
+    },
+    {
+      "id": 17,
+      "verses": "v.17",
+      "original": "Et posuit eas in firmamento caeli, ut lucerent super terram,",
+      "provisionalTranslation": "神はそれらを天の大空に置かれた、地の上を照らすために、"
+    },
+    {
+      "id": 18,
+      "verses": "v.18",
+      "original": "et praeessent diei ac nocti, et dividerent lucem ac tenebras. Et vidit Deus quod esset bonum.",
+      "provisionalTranslation": "昼と夜を支配し、光と闇を分けるために。神は見て良しとされた。"
+    },
+    {
+      "id": 19,
+      "verses": "v.19",
+      "original": "Et factum est vespere et mane, dies quartus.",
+      "provisionalTranslation": "夕となり朝となった、第四日。"
+    },
+    {
+      "id": 20,
+      "verses": "v.20",
+      "original": "Dixit etiam Deus: Producant aquae reptile animae viventis, et volatile super terram sub firmamento caeli.",
+      "provisionalTranslation": "神はまた言われた。「水は生き物を群がらせよ。鳥は地の上、天の大空を飛び交え。」"
+    },
+    {
+      "id": 21,
+      "verses": "v.21",
+      "original": "Creavitque Deus cete grandia, et omnem animam viventem atque motabilem, quam produxerant aquae in species suas, et omne volatile secundum genus suum. Et vidit Deus quod esset bonum.",
+      "provisionalTranslation": "神は大きな海の生き物と、水が群がらせたすべての生き物をその種類に従って、またすべての翼ある鳥をその種類に従って創造された。神は見て良しとされた。"
+    },
+    {
+      "id": 22,
+      "verses": "v.22",
+      "original": "Benedixitque eis, dicens: Crescite, et multiplicamini, et replete aquas maris: avesque multiplicentur super terram.",
+      "provisionalTranslation": "神はそれらを祝福して言われた。「産めよ増えよ、海の水に満ちよ。鳥は地の上で増えよ。」"
+    },
+    {
+      "id": 23,
+      "verses": "v.23",
+      "original": "Et factum est vespere et mane, dies quintus.",
+      "provisionalTranslation": "夕となり朝となった、第五日。"
+    },
+    {
+      "id": 24,
+      "verses": "v.24",
+      "original": "Dixit quoque Deus: Producat terra animam viventem in genere suo, jumenta, et reptilia, et bestias terrae secundum species suas. Factumque est ita.",
+      "provisionalTranslation": "神はまた言われた。「地は生き物をその種類に従って生じさせよ。家畜と這う物と地の獣を種類に従って。」こうなった。"
+    },
+    {
+      "id": 25,
+      "verses": "v.25",
+      "original": "Et fecit Deus bestias terrae juxta species suas, et jumenta, et omne reptile terrae in genere suo. Et vidit Deus quod esset bonum,",
+      "provisionalTranslation": "神は地の獣をその種類に従って、家畜をその種類に従って、地を這うものをその種類に従って造られた。神は見て良しとされた。"
+    },
+    {
+      "id": 26,
+      "verses": "v.26",
+      "original": "et ait: Faciamus hominem ad imaginem et similitudinem nostram: et praesit piscibus maris, et volatilibus caeli, et bestiis, universaeque terrae, omnique reptili, quod movetur in terra.",
+      "provisionalTranslation": "そして神は言われた。「我々のかたちと似姿に人を造ろう。海の魚、空の鳥、家畜、地上のすべての生き物、地を這うすべての物を支配させよう。」"
+    },
+    {
+      "id": 27,
+      "verses": "v.27",
+      "original": "Et creavit Deus hominem ad imaginem suam: ad imaginem Dei creavit illum, masculum et feminam creavit eos.",
+      "provisionalTranslation": "神は人を御自分のかたちに創造された。神のかたちに創造された。男と女に創造された。"
+    },
+    {
+      "id": 28,
+      "verses": "v.28",
+      "original": "Benedixitque illis Deus, et ait: Crescite et multiplicamini, et replete terram, et subjicite eam, et dominamini piscibus maris, et volatilibus caeli, et universis animantibus, quae moventur super terram.",
+      "provisionalTranslation": "神は彼らを祝福して言われた。「産めよ増えよ、地に満ちよ。地を従わせよ。海の魚、空の鳥、地の上を動くすべての生き物を支配せよ。」"
+    },
+    {
+      "id": 29,
+      "verses": "v.29",
+      "original": "Dixitque Deus: Ecce dedi vobis omnem herbam afferentem semen super terram, et universa ligna quae habent in semetipsis sementem generis sui, ut sint vobis in escam:",
+      "provisionalTranslation": "神は言われた。「見よ、地の上のすべての種を持つ草と、種を持つ実を結ぶすべての木をあなたたちに与える。食べ物としてあれ。」"
+    },
+    {
+      "id": 30,
+      "verses": "v.30",
+      "original": "et cunctis animantibus terrae, omnique volucri caeli, et universis quae moventur in terra, et in quibus est anima vivens, ut habeant ad vescendum. Et factum est ita.",
+      "provisionalTranslation": "「また、地のすべての獣、空のすべての鳥、地を這うすべての生き物、すなわち生命の息吹を持つすべての物に、食べ物として緑の草を与える。」こうなった。"
+    },
+    {
+      "id": 31,
+      "verses": "v.31",
+      "original": "Viditque Deus cuncta quae fecerat, et erant valde bona. Et factum est vespere et mane, dies sextus.",
+      "provisionalTranslation": "神は造ったすべてのものを見られた。それは極めて良かった。夕となり朝となった、第六日。"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "glossary",
+      "anchor": "In principio creavit Deus caelum et terram.",
+      "body": "「In principio（はじめに）」：ヘブライ語「בְּרֵאשִׁית（Bereshit）」の訳。「初め・起源・先頭」を意味し、聖書の書名そのものとなった語。ヒエロニムスは「principium（原理・起源・始まり）」を選択し、単なる時間的「最初」ではなく存在論的「根拠・基盤」の含意を与えた。ヨハネ福音書第1章「In principio erat Verbum（はじめに言葉があった）」はこの一句を直接引用することで、創造の「はじめ」を「言葉（Logos）」と同定するキリスト論的神学を構築する。「creavit（創造した）」：ヘブライ語「בָּרָא（bara'）」は神のみが主語となる特殊動詞で、無からの創造（creatio ex nihilo）を示す。人間の「作る（facere）」とは異なる神的行為の固有性をヒエロニムスは「creare」で捉えた。ダンテ「天国篇」第33歌でベアトリーチェが神を「l'amor che move il sole e l'altre stelle（太陽と星々を動かす愛）」と定義するとき、その「動かす愛」の起源がここにある。",
+      "targetId": "dante_paradiso_canto_33",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 2,
+      "type": "glossary",
+      "anchor": "inanis et vacua",
+      "body": "「inanis et vacua（虚ろで空っぽ）」：ヘブライ語「תֹּהוּ וָבֹהוּ（tohu wa-bohu）」のラテン訳。「tohu（荒涼・混沌・無形）」＋「bohu（空虚・虚無）」という音韻的・意味的に重なり合う二語の対。「inanis（内側が空の・実質のない）」と「vacua（空いた・空虚な）」もほぼ同義の語を並置するヒエロニムスの翻訳が、ヘブライ語の「二重の空虚」の語感を再現する。この「inanis et vacua」はコヘレト「vanitas vanitatum（虚無の虚無）」（Ecclesiastes I, 2）・ヴェイユ「accepter le vide（虚空を受容する）」の「空虚（vide）」と同一の語彙圏に属し、VANITISME の根幹的語彙を形成する。創造以前の「空虚」が創造の前提条件であるという逆説──「無（inanis）」から「有（bonum）」へ──はヴェイユ「Décréation」の「被造物から非被造物へ」という逆方向の神学的運動と対称的に照応する。",
+      "targetId": "weil_accepter_le_vide",
+      "targetParagraphId": 1
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "spiritus Dei ferebatur super aquas.",
+      "body": "「神の霊（spiritus Dei）が水の面を動いていた（ferebatur）」──「ferebatur」は「ferre（運ぶ・動かす）」の未完了過去受動形で、継続的な「動き・はばたき」を示す。ヘブライ語「מְרַחֶפֶת（merachefet）」は鳥が翼を広げて飛ぶ・卵を温める動作を指す語で、「spiritus（息・霊・風）」が創造以前の混沌の上で母鳥のように「はばたく」という生命力の暗示。コヘレト第1章v.6「Lustrans universa in circuitu pergit spiritus（霊はあらゆるところを照らしながら巡り続ける）」の「spiritus」は同根語であり、コヘレトの虚無の循環とGenesisの創造的spiritusの対照が「spiritus」という一語を通じて成立する。",
+      "targetId": "hieronymus_ecclesiastes_1",
+      "targetParagraphId": 6
+    },
+    {
+      "paragraphId": 3,
+      "type": "glossary",
+      "anchor": "Fiat lux. Et facta est lux.",
+      "body": "「光あれ（Fiat lux）──そして光があった（Et facta est lux）」：西洋文明で最も反響した神の発話。「Fiat」は「fio（〜となる・成る）」の接続法現在三人称単数で、命令でなく許可・意志の「なれかし（let there be）」。神が語り、その語りが直ちに実現されるという「言語の即座的創造力」の定式。バロック期以降「Fiat lux」は啓蒙・知識・理性の隠喩として世俗化されたが（「光」＝理性・知識）、ヒエロニムスの文脈では暗闇（tenebrae）からの分離という分割行為として機能する。マラルメ「骰子一擲」が「言葉が世界を召喚できるかどうか」という問いに対してかぎりなく懐疑的であるとすれば、「Fiat lux」はその問いへの聖書的肯定回答の原形である。"
+    },
+    {
+      "paragraphId": 4,
+      "type": "prosody",
+      "anchor": "Et vidit Deus lucem quod esset bona: et divisit lucem a tenebris.",
+      "body": "「Et vidit Deus quod esset bonum（神は見て良しとされた）」という定型句は本章で七回（v.4・v.10・v.12・v.18・v.21・v.25・v.31）反復される。第七回のみ「valde bona（極めて良い）」と強調される。この定型的反復がヘブライ詩学の特徴である「反復による強化（anaphora）」の機能を果たし、各創造段階の完成と神の確認を韻律的に刻印する。コヘレト第1章の「Oritur sol et occidit, et ad locum suum revertitur」という循環の反復構造と対照的に、Genesisの反復は「評価の更新」という前進的・目的論的なリズムを生む。"
+    },
+    {
+      "paragraphId": 5,
+      "type": "commentary",
+      "anchor": "factumque est vespere et mane, dies unus.",
+      "body": "「夕となり朝となった、第一日（factumque est vespere et mane, dies unus）」──ヘブライ的時間観において一日は夕暮れから始まる（ユダヤ暦の「安息日（Shabbat）」が日没から始まることに対応）。「dies unus（第一日）」：他の日では「dies secundus / tertius…（第二・第三日…）」と序数が使われるが、第一日のみ「unus（一つの）」という基数が使われる──「始まり」の唯一性・絶対性を示す。コヘレト「すべての川は海へと入る……川が出ていったその場所へと戻っていく」（v.7）の循環的時間に対し、Genesisの時間は「第一日→第二日→…→第七日（安息）」という線的・目的論的運動を示す。"
+    },
+    {
+      "paragraphId": 11,
+      "type": "commentary",
+      "anchor": "Et ait: Germinet terra herbam virentem, et facientem semen",
+      "body": "「地は緑の草を芽生えさせよ（Germinet terra herbam virentem）」──大地への命令形。v.3「Fiat lux」・v.6「Fiat firmamentum」・v.9「Congregentur aquae / appareat arida」という接続法による神の命令が続いてきたが、ここで初めて「地（terra）」が命令の主語として「芽生えさせよ（germinet）」という動詞を与えられる。地は受動的素材から能動的産出者へと転換される。「種を持つ草（herbam facientem semen）」：種による生命の自己再生産という循環的繁殖の仕組みが「種（semen）」によって定式化される。コヘレトの「世代は過ぎ去り、世代は来る（Generatio praeterit, et generatio advenit）」という世代の循環が、ここでは「種（semen）」による植物的生命の循環として先取りされる。",
+      "targetId": "hieronymus_ecclesiastes_1",
+      "targetParagraphId": 4
+    },
+    {
+      "paragraphId": 14,
+      "type": "commentary",
+      "anchor": "Fiant luminaria in firmamento caeli, et dividant diem ac noctem, et sint in signa et tempora, et dies et annos:",
+      "body": "「天の大空に光る物があれ……印と時と日と年のためにあれ（sint in signa et tempora, et dies et annos）」──天体が時間の指標（signa et tempora）として機能する目的が明示される。「signa（印・星座）」はヘブライ語「אֹתֹת（otot）」で「しるし・記号・前兆」を意味する。天体の創造が時間計測・暦法の根拠として位置づけられることで、コヘレト「太陽は昇り、沈み（Oritur sol et occidit）」の宇宙的循環がここでは人間の時間把握の基盤として肯定的に定義されている──コヘレトが循環を虚無の証左とするのに対し、Genesisは同じ循環を神的秩序として肯定する。",
+      "targetId": "hieronymus_ecclesiastes_1",
+      "targetParagraphId": 5
+    },
+    {
+      "paragraphId": 16,
+      "type": "glossary",
+      "anchor": "Fecitque Deus duo luminaria magna: luminare majus, ut praeesset diei: et luminare minus, ut praeesset nocti: et stellas.",
+      "body": "「二つの大きな光る物（duo luminaria magna）」──太陽・月を固有名詞で呼ばず「大きな光る物（luminare majus）」「小さな光る物（luminare minus）」と記述するのはヘブライ語原典の特徴。バビロニア神話では「シャマシュ（太陽神）」「シン（月神）」という神格として崇拝された天体を、Genesis は固有名詞を与えず「光る物（luminaria）」として脱神格化する──徹底的な一神教的脱神話化の身振り。ヴェイユ「Les Astres（星々）」詩における「星々」が神の秩序の表徴であることの神学的根拠がここにある。",
+      "targetId": "weil_les_astres",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 26,
+      "type": "commentary",
+      "anchor": "Faciamus hominem ad imaginem et similitudinem nostram:",
+      "body": "「我々のかたちと似姿に人を造ろう（Faciamus hominem ad imaginem et similitudinem nostram）」──「Faciamus（我々は造ろう）」という一人称複数形が神学的論争の的となった。三位一体論（Father・Son・Holy Spirit の三者による協議）の根拠として解釈される（アウグスティヌス）一方、「天上の宮廷における神と天使たちへの呼びかけ」と解する立場もある。「ad imaginem（かたちに従って）」・「ad similitudinem（似姿に従って）」：ヘブライ語「צֶלֶם（tselem）＋דְּמוּת（demut）」のラテン訳。「imago Dei（神のかたち）」という概念が西洋における人間の尊厳・理性・道徳的能力の神学的根拠となる。ヴェイユ「Décréation（脱創造）」の神学では、この「imago Dei」は人間が積極的に手放すべき「自我の幻想」として再解釈される──神は人間に「かたち」を与えたが、ヴェイユはその「かたち」を消去することで神へ回帰することを説く。",
+      "targetId": "weil_decreation",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 27,
+      "type": "prosody",
+      "anchor": "Et creavit Deus hominem ad imaginem suam: ad imaginem Dei creavit illum, masculum et feminam creavit eos.",
+      "body": "「神は人を御自分のかたちに創造された（creavit Deus hominem ad imaginem suam）──神のかたちに創造された（ad imaginem Dei creavit illum）──男と女に創造された（masculum et feminam creavit eos）」──動詞「creavit」が三度反復される三段構造が創造の完了の反響として機能する。「ad imaginem suam」→「ad imaginem Dei」：代名詞（suam）から固有名詞（Dei）への転換が、創造の主体性を「神自身」として二重に確認する。「masculum et feminam creavit eos（男と女に創造された）」：第2章のアダムとエバの物語とは異なり、男女の差異が同一創造行為の二極として同時に宣言される。"
+    },
+    {
+      "paragraphId": 31,
+      "type": "commentary",
+      "anchor": "Viditque Deus cuncta quae fecerat, et erant valde bona.",
+      "body": "「神は造ったすべてのものを見られた──それは極めて良かった（valde bona）」──六日間の創造の総括的評価。他の日では「Et vidit Deus quod esset bonum（良い）」という接続法表現が使われたが、ここのみ直説法「erant valde bona（極めて良かった）」という直接的・確定的な評価に変わり、「valde（極めて）」という強意副詞が加わる。「cuncta quae fecerat（造ったすべてのもの）」：部分的評価の積み重ねが「すべて（cuncta）」という全体的評価へと収束する。ヨブ記第38章における神の「嵐の中からの語り」──「地の基を据えたとき、お前はどこにいたか」──はこの「valde bona」という神の自己評価の確信を前提としている。コヘレト「Vidi cuncta quae fiunt sub sole, et ecce universa vanitas（太陽の下でなされるすべてを見た──すべては虚無である）」（Ecclesiastes I, 14）との鮮明な対照：Genesisの神が「cuncta（すべて）を見て valde bona（極めて良い）」と評するのに対し、コヘレトの語り手は同じ「cuncta」を見て「vanitas（虚無）」と結論する──この二つの「全体を見る視線」の評価の逆転がVANITISMEの根本的緊張を形成する。",
+      "targetId": "hieronymus_ecclesiastes_1",
+      "targetParagraphId": 14
+    }
+  ]
+}
