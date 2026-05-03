@@ -32,7 +32,8 @@
     "trakl_de_profundis",
     "baudelaire_spleen",
     "weil_la_violence",
-    "dante_inferno_canto_1"
+    "dante_inferno_canto_1",
+    "baudelaire_abel_et_cain"
   ],
   "paragraphs": [
     {
@@ -242,12 +243,36 @@
       "targetParagraphId": null
     },
     {
+      "paragraphId": 11,
+      "type": "commentary",
+      "anchor": "maledictus eris super terram, quae aperuit os suum, et suscepit sanguinem fratris tui de manu tua.",
+      "body": "「地はその口を開けてお前の手から弟の血を受けた（quae aperuit os suum, et suscepit sanguinem fratris tui）」──「aperuit os suum（口を開けた）」という地の擬人化が大地を「証言する存在」として定義する。v.10「vox sanguinis fratris tui clamat de terra（兄弟の血の声が地から叫ぶ）」と連動し、地は血を受け取り（suscepit）かつ声を通じて証言する（clamat）という二重の機能を持つ。「maledictus eris super terram（地において呪われる）」：Genesis第3章v.17「maledicta terra in opere tuo（地はお前のゆえに呪われる）」のアダムへの呪詛が、カインへの第二の呪詛として更新・強化される──アダムは「地のゆえに」呪われたが、カインは「地において」呪われる。ボードレール「Abel et Caïn」§1「Race de Caïn, dans la fange / Rampe et meurs misérablement（カインの種族よ、泥の中で這いつくばり、惨めに死ね）」の「fange（泥）」と「Rampe（這え）」が、この「maledictus super terram（地において呪われる）」の詩的変奏として機能する──聖書の呪詛「地において呪われる」がボードレールで「泥の中で這う」という現代的惨状へと変換される。",
+      "targetId": "baudelaire_abel_et_cain",
+      "targetParagraphId": 1
+    },
+    {
       "paragraphId": 12,
       "type": "commentary",
       "anchor": "vagus et profugus eris super terram.",
       "body": "「お前は地の上を放浪し逃げ惑う者となる（vagus et profugus eris super terram）」──カインへの呪詛。「vagus（さまよう・漂う）」と「profugus（逃亡者・難民）」の二語の並置が放浪という存在様式を二重に定義する。Genesis第3章v.14「super pectus tuum gradieris（腹這いで歩く）」という蛇への呪詛と対照的に、カインは垂直的（二足歩行）のまま地上を「さまよう」──垂直性は保たれるが、場所への帰属が失われる。スタインベック『エデンの東』の「エデンの東」という地名自体がGenesis第4章v.16「ad orientalem plagam Eden（エデンの東）」から取られており、「vagus et profugus（放浪する逃亡者）」としてのカインが「東のエデン」に向かうという地理的移動が小説全体の構造を支える。コヘレト「Generatio praeterit, et generatio advenit（世代は過ぎ去り、世代は来る）」（Ecclesiastes I, 4）の無根拠な世代交代が、「vagus（さまよう）」というカインの存在様式として具体化される。",
       "targetId": "hieronymus_ecclesiastes_1",
       "targetParagraphId": 4
+    },
+    {
+      "paragraphId": 13,
+      "type": "commentary",
+      "anchor": "Major est iniquitas mea, quam ut veniam merear.",
+      "body": "「私の咎は赦されるには重すぎる（Major est iniquitas mea, quam ut veniam merear）」──カインの言葉として聖書に記録された唯一の自己評価。「iniquitas（咎・不義・不正）」：「aequitas（公平・均等）」の否定形で、道徳的・法的な「不均衡・不正」を意味する。カインは自分の罪を「Major（より大きい）……quam ut veniam merear（赦しを受けるには）」と比較級で自己申告する──これは懺悔か、絶望か、神への告発か。バイロン『カイン（Cain: A Mystery, 1821）』第3幕でカインはルシファーとの対話から戻った後、アベルを殺すことへの意図を「My iniquity is greater than can be forgiven」と絶望的に言語化する。ボードレール「Abel et Caïn」§7「ta besogne / N'est pas faite suffisamment（お前の使命はまだ十分に果たされていない）」との対話：Genesis でカインは「咎が大きすぎる（Major est iniquitas）」と言うのに対し、ボードレールはカインの使命を「まだ十分でない（N'est pas faite suffisamment）」と反転させる──罪の「多すぎる」が使命の「少なすぎる」へと詩的に転換される。",
+      "targetId": "baudelaire_abel_et_cain",
+      "targetParagraphId": 7
+    },
+    {
+      "paragraphId": 14,
+      "type": "commentary",
+      "anchor": "et a facie tua abscondar, et ero vagus et profugus in terra: omnis igitur qui invenerit me, occidet me.",
+      "body": "「あなたの顔から隠れ（a facie tua abscondar）、地を放浪し逃げ惑う者となる（vagus et profugus in terra）──私を見つけた者はみな私を殺すだろう（omnis qui invenerit me, occidet me）」──カインの訴えの三段構造：神の顔からの隠蔽・地上の放浪・他者による殺害の危機。「a facie tua abscondar（あなたの顔から隠れる）」：Genesis第3章でアダムが「主の御前（a facie Domini Dei）」から木の間に隠れた（abscondit se）のに対し、カインは地上全体において神の「顔（facies）」から隠れざるをえない──世界が神不在の空間になるという存在論的孤立。レヴィナスの「顔（visage）」の倫理：神の顔から隠れることはv.9「Ubi est Abel frater tuus（弟はどこにいるか）」という問いかけの関係性の完全な断絶として機能する。ボードレール「Abel et Caïn」§8「Race de Caïn, au ciel monte, / Et sur la terre jette Dieu！（カインの種族よ、天へと昇れ、神を大地に叩き落とせ！）」との根本的逆転：Genesis でカインは神の「顔から隠れる（abscondar）」が、ボードレールではカインが「天へと昇り（au ciel monte）」神を追い落とす──逃避から昇起へ、神の顔からの逃亡から神への反逆へという方向の完全な転倒がここに確認される。",
+      "targetId": "baudelaire_abel_et_cain",
+      "targetParagraphId": 8
     },
     {
       "paragraphId": 15,
@@ -262,11 +287,27 @@
       "body": "「カインは主の御前を去り（Egressus a facie Domini）、エデンの東の地に放浪者として住んだ（habitavit profugus in terra ad orientalem plagam Eden）」──Genesis第3章v.23「emisit eum Dominus Deus de paradiso voluptatis（楽園から追い出した）」がアダムの追放を記述したのに対し、カインの「Egressus（去ること）」は自発的な離脱として表現される──v.14「ejicis me（あなたは私を追い出す）」というカインの認識と、「Egressusque（去った）」という実際の動きの間の齟齬が、強制と自発の曖昧さを残す。「a facie Domini（主の御前から）」：「facies（顔・御前）」から離れることが追放の本質として定義される──第9節「Ubi est Abel frater tuus（弟はどこにいるか）」という神の問いかけが可能な「御前（facies）」という場の喪失。スタインベックのタイトル「East of Eden」がこの一行から直接取られた。"
     },
     {
+      "paragraphId": 17,
+      "type": "commentary",
+      "anchor": "aedificavit civitatem, vocavitque nomen ejus ex nomine filii sui, Henoch.",
+      "body": "「カインは町を建て（aedificavit civitatem）、息子の名にちなんでエノクと名付けた」──「aedificavit civitatem（町を建てた）」：放浪の呪詛「vagus et profugus eris（放浪し逃げ惑う者）」を受けたカインが逆説的に「町（civitas）」という定住の構築物を建てる。呪われた放浪者が文明の最初の建築者になるという逆説が、Genesis第4章の最も重要な矛盾のひとつ。「ex nomine filii sui（息子の名にちなんで）」：v.19–22の系譜が示すように、カインの子孫系譜から音楽（ユバル）・鍛冶（トバル・カイン）・牧畜（ヤバル）という文明の根幹的技術が発生する──呪われた系譜が文明を産む逆説。ボードレール「Abel et Caïn」§4「Race d'Abel, chauffe ton ventre / À ton foyer patriarcal（アベルの種族よ、家父長的な炉辺で腹を温めよ）」の「foyer patriarcal（家父長的な炉辺）」は、この「civitas（町）」の建築から始まる定住文明の詩的形象として読める──ボードレールがアベルに帰属する「家父長的な暖炉」の起源が、逆説的にカインの「aedificavit civitatem（町の建設）」にある。",
+      "targetId": "baudelaire_abel_et_cain",
+      "targetParagraphId": 4
+    },
+    {
       "paragraphId": 21,
       "type": "commentary",
       "anchor": "Et nomen fratris ejus Jubal: ipse fuit pater canentium cithara et organo.",
       "body": "「その兄弟ユバルは竪琴と笛を奏でる者すべての祖となった（pater canentium cithara et organo）」──「音楽の起源」の聖書的定式。「cithara（竪琴）」と「organum（管楽器）」の二種が弦楽器・管楽器という音楽の基本二分類の原形として提示される。カインの子孫系譜の中に音楽の発明が置かれることで、芸術・技術・都市文明（v.17「aedificavit civitatem（町を建てた）」）がすべてカイン的系譜──殺人者の後裔──に帰属される。バイロン『カイン』第3幕でアベルの死後、エヴァがユバルの音楽を「悲嘆（grief）」の声として聞く場面がこの系譜的位置づけから詩的意味を得る。コヘレト「Cunctae res difficiles; non potest eas homo explicare sermone（すべての事柄は困難であり、人はそれを言葉で説明できない）」（Ecclesiastes I, 8）：言語が届かない領域として音楽が生まれる起源として読める。",
       "targetId": "hieronymus_ecclesiastes_1",
+      "targetParagraphId": 8
+    },
+    {
+      "paragraphId": 22,
+      "type": "commentary",
+      "anchor": "Tubalcain, qui fuit malleator et faber in cuncta opera aeris et ferri.",
+      "body": "「トバル・カインはあらゆる青銅と鉄の器具を作る鍛冶師となった（malleator et faber in cuncta opera aeris et ferri）」──聖書における鉄器文明の起源。「malleator（鎚打ち職人）」・「faber（工匠・職人）」の二語の並置が手工業的・技術的熟練の二側面を示す。「aeris et ferri（青銅と鉄）」：青銅器時代から鉄器時代への移行を示唆する語の並置。カインの子孫トバル・カインが「鉄（ferrum）」の加工技術の創始者として位置づけられる。ボードレール「Abel et Caïn」§8「Race d'Abel, voici ta honte : / Le fer est vaincu par l'épieu！（アベルの種族よ、これがお前の恥だ。鉄は棍棒に敗れる！）」の「fer（鉄）」は、このトバル・カインの「ferri（鉄）」への直接的言及として読める──カインの子孫が作った「鉄（fer）」がアベル的秩序（権力・制度）の象徴として転用され、さらにそれが「épieu（棍棒）」──鉄以前の原始的武器──に敗れるという逆説が提示される。「鉄を作ったカインの子孫の技術が、今やアベルを象徴する制度の鉄に転用されている」というボードレール的皮肉がここに集約される。ラメクの「Canticum Lamech」（v.23–24）の「vulnus（傷）・livor（痣）」への復讐と、トバル・カインの武器製造が文脈的に隣接する──鍛冶技術と暴力の増幅の系譜的連動。",
+      "targetId": "baudelaire_abel_et_cain",
       "targetParagraphId": 8
     },
     {
