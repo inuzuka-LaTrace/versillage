@@ -1,0 +1,283 @@
+{
+  "id": "hieronymus_genesis_2",
+  "title": "Genesis, Caput II",
+  "author": "Eusebius Sophronius Hieronymus",
+  "source": "Biblia Sacra Vulgata, Liber Genesis, Caput II. Bible Gateway: https://www.biblegateway.com/passage/?search=Genesis+2&version=VULGATE",
+  "year": "Antiquitas",
+  "firstPublication": "Vulgata Latina, c. 382–405 AD（ヒエロニムス訳）",
+  "difficulty": "中級",
+  "category": "hieronymus",
+  "originalLang": "la-LA",
+  "modernRelevance": "★★★★★",
+  "context": "創世記（Liber Genesis）第2章。第1章の「神（Deus）」による宇宙的・全体的創造の記述から、「主なる神（Dominus Deus）」による人間的・個別的創造の記述へと移行する。第1章（司祭資料：P資料）と第2章（ヤハウィスト資料：J資料）は別々の伝承に由来する二つの創造物語として現代の聖書学では区別されるが、ヒエロニムスの正典的理解においては連続する一つの物語として提示される。第2章の核心は「de limo terrae（地の塵から）」というアダムの創造（v.7）と「lignum scientiae boni et mali（善悪を知る木）」の禁止命令（v.17）、そして女（mulier）の創造（v.21–23）にある。「Igitur perfecti sunt caeli et terra（かくして天と地は完成した）」という冒頭の「Igitur（かくして）」は、第1章「valde bona（極めて良かった）」からの論理的帰結を示す接続詞として機能すると同時に、マラルメが1869年頃から着手し未完に終わった散文詩『Igitur』（副題「エルベノンの狂気」）と深く共鳴する──マラルメの「Igitur」は「夜の真夜中に時計の振り子が止まる」瞬間を描き、存在論的「かくして」の後に来る虚無・沈黙・廃絶を主題とする。「paradisus voluptatis（歓楽の園）」（v.8）はヘブライ語「גַּן עֵדֶן（Gan Eden）」──後世エデンの園と呼ばれる楽園の原形。「morte morieris（必ず死ぬだろう）」（v.17）の二重語法（ヘブライ語的絶対不定詞構文）が禁止命令の絶対性を強調する。「Non est bonum esse hominem solum（人が独りでいることは良くない）」（v.18）は第1章「bonum」判定の唯一の否定であり、孤独の神学的欠如として西洋の「他者論」の聖書的根拠となった。",
+  "keywords": [
+    "Igitur",
+    "requies",
+    "limus terrae",
+    "paradisus voluptatis",
+    "lignum scientiae",
+    "morte morieris",
+    "imago Dei",
+    "adjutorium",
+    "Virago",
+    "nudus"
+  ],
+  "relatedTexts": [
+    "hieronymus_genesis_1",
+    "hieronymus_genesis_3",
+    "hieronymus_genesis_4",
+    "hieronymus_genesis_22",
+    "hieronymus_ecclesiastes_1",
+    "hieronymus_iob_1",
+    "mallarme_avant_dire",
+    "weil_decreation",
+    "weil_accepter_le_vide",
+    "dante_paradiso_canto_26"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "verses": "v.1",
+      "original": "Igitur perfecti sunt caeli et terra, et omnis ornatus eorum.",
+      "provisionalTranslation": "かくして天と地と、それらのすべての飾りは完成した。"
+    },
+    {
+      "id": 2,
+      "verses": "v.2",
+      "original": "Complevitque Deus die septimo opus suum quod fecerat: et requievit die septimo ab universo opere quod patrarat.",
+      "provisionalTranslation": "神は第七日に、なされた御自分の業を完成された。そして第七日に、なされたすべての業から休まれた。"
+    },
+    {
+      "id": 3,
+      "verses": "v.3",
+      "original": "Et benedixit diei septimo, et sanctificavit illum, quia in ipso cessaverat ab omni opere suo quod creavit Deus ut faceret.",
+      "provisionalTranslation": "神は第七日を祝福し、それを聖別された。神がこの日に、創造してなされたすべての業から休まれたから。"
+    },
+    {
+      "id": 4,
+      "verses": "v.4",
+      "original": "Istae sunt generationes caeli et terrae, quando creata sunt, in die quo fecit Dominus Deus caelum et terram,",
+      "provisionalTranslation": "天と地が創造されたときの、天と地の由来はこれである。主なる神が天と地を造られた日に、"
+    },
+    {
+      "id": 5,
+      "verses": "v.5",
+      "original": "et omne virgultum agri antequam oriretur in terra, omnemque herbam regionis priusquam germinaret: non enim pluerat Dominus Deus super terram, et homo non erat qui operaretur terram:",
+      "provisionalTranslation": "野のすべての茂みが地に生える前に、野のすべての草が芽生える前に──主なる神はまだ地に雨を降らせておらず、地を耕す人もいなかった。"
+    },
+    {
+      "id": 6,
+      "verses": "v.6",
+      "original": "sed fons ascendebat e terra, irrigans universam superficiem terrae.",
+      "provisionalTranslation": "しかし泉が地から湧き上がり、地の全面を潤していた。"
+    },
+    {
+      "id": 7,
+      "verses": "v.7",
+      "original": "Formavit igitur Dominus Deus hominem de limo terrae, et inspiravit in faciem ejus spiraculum vitae, et factus est homo in animam viventem.",
+      "provisionalTranslation": "主なる神は地の塵から人を形作り、その顔に命の息吹を吹き込まれた。人は生きる存在（命の魂）となった。"
+    },
+    {
+      "id": 8,
+      "verses": "v.8",
+      "original": "Plantaverat autem Dominus Deus paradisum voluptatis a principio, in quo posuit hominem quem formaverat.",
+      "provisionalTranslation": "主なる神は初めから歓楽の園を植えておられた。そこに形作った人を置かれた。"
+    },
+    {
+      "id": 9,
+      "verses": "v.9",
+      "original": "Produxitque Dominus Deus de humo omne lignum pulchrum visu, et ad vescendum suave lignum etiam vitae in medio paradisi, lignumque scientiae boni et mali.",
+      "provisionalTranslation": "主なる神は土から、見て美しいすべての木を、また食べるに美味なすべての木を生えさせた。園の中央に命の木を、また善悪を知る木を。"
+    },
+    {
+      "id": 10,
+      "verses": "v.10",
+      "original": "Et fluvius egrediebatur de loco voluptatis ad irrigandum paradisum, qui inde dividitur in quatuor capita.",
+      "provisionalTranslation": "歓楽の地から川が流れ出て園を潤していた。そしてそこから分かれて四つの源となっていた。"
+    },
+    {
+      "id": 11,
+      "verses": "v.11",
+      "original": "Nomen uni Phison: ipse est qui circuit omnem terram Hevilath, ubi nascitur aurum:",
+      "provisionalTranslation": "第一の名はピション。これは金の産する地ハビラ全土を巡る川である。"
+    },
+    {
+      "id": 12,
+      "verses": "v.12",
+      "original": "et aurum terrae illius optimum est; ibi invenitur bdellium, et lapis onychinus.",
+      "provisionalTranslation": "その地の金は最も良く、そこにはブドラフと縞瑪瑙も見出される。"
+    },
+    {
+      "id": 13,
+      "verses": "v.13",
+      "original": "Et nomen fluvii secundi Gehon; ipse est qui circumit omnem terram AEthiopiae.",
+      "provisionalTranslation": "第二の川の名はギホン。これはクシュ全土を巡る川である。"
+    },
+    {
+      "id": 14,
+      "verses": "v.14",
+      "original": "Nomen vero fluminis tertii, Tigris: ipse vadit contra Assyrios. Fluvius autem quartus, ipse est Euphrates.",
+      "provisionalTranslation": "第三の川の名はティグリス。これはアッシリアの東を流れる。第四の川はユーフラテスである。"
+    },
+    {
+      "id": 15,
+      "verses": "v.15",
+      "original": "Tulit ergo Dominus Deus hominem, et posuit eum in paradiso voluptatis, ut operaretur, et custodiret illum:",
+      "provisionalTranslation": "主なる神は人を取り、歓楽の園に置かれた。それを耕し守るために。"
+    },
+    {
+      "id": 16,
+      "verses": "v.16",
+      "original": "praecepitque ei, dicens: Ex omni ligno paradisi comede;",
+      "provisionalTranslation": "そして彼に命じて言われた。「園のすべての木から食べてよい。」"
+    },
+    {
+      "id": 17,
+      "verses": "v.17",
+      "original": "de ligno autem scientiae boni et mali ne comedas: in quocumque enim die comederis ex eo, morte morieris.",
+      "provisionalTranslation": "「しかし善悪を知る木からは食べてはならない。それを食べる日には、必ず死ぬであろう。」"
+    },
+    {
+      "id": 18,
+      "verses": "v.18",
+      "original": "Dixit quoque Dominus Deus: Non est bonum esse hominem solum: faciamus ei adjutorium simile sibi.",
+      "provisionalTranslation": "主なる神はまた言われた。「人が独りでいることは良くない。彼に似た助け手を造ろう。」"
+    },
+    {
+      "id": 19,
+      "verses": "v.19",
+      "original": "Formatis igitur Dominus Deus de humo cunctis animantibus terrae, et universis volatilibus caeli, adduxit ea ad Adam, ut videret quid vocaret ea: omne enim quod vocavit Adam animae viventis, ipsum est nomen ejus.",
+      "provisionalTranslation": "主なる神は土から地のすべての獣と空のすべての鳥を形作り、アダムのもとへ連れてきて、彼が何と呼ぶかを見られた。アダムが生き物を呼んだ名は何であれ、それがその名となった。"
+    },
+    {
+      "id": 20,
+      "verses": "v.20",
+      "original": "Appellavitque Adam nominibus suis cuncta animantia, et universa volatilia caeli, et omnes bestias terrae: Adae vero non inveniebatur adjutor similis ejus.",
+      "provisionalTranslation": "アダムはすべての家畜、空のすべての鳥、野のすべての獣に名を与えた。しかしアダムには彼に似た助け手が見つからなかった。"
+    },
+    {
+      "id": 21,
+      "verses": "v.21",
+      "original": "Immisit ergo Dominus Deus soporem in Adam: cumque obdormisset, tulit unam de costis ejus, et replevit carnem pro ea.",
+      "provisionalTranslation": "主なる神はアダムを深い眠りに落とされた。眠り込むと、その肋骨の一つを取り、その跡を肉で塞がれた。"
+    },
+    {
+      "id": 22,
+      "verses": "v.22",
+      "original": "Et aedificavit Dominus Deus costam, quam tulerat de Adam, in mulierem: et adduxit eam ad Adam.",
+      "provisionalTranslation": "主なる神はアダムから取った肋骨で女を造り、アダムのもとへ連れてこられた。"
+    },
+    {
+      "id": 23,
+      "verses": "v.23",
+      "original": "Dixitque Adam: Hoc nunc os ex ossibus meis, et caro de carne mea: haec vocabitur Virago, quoniam de viro sumpta est.",
+      "provisionalTranslation": "アダムは言った。「これこそ今や、私の骨の骨、私の肉の肉。これは女（Virago）と呼ばれよう。男（vir）から取られたのだから。」"
+    },
+    {
+      "id": 24,
+      "verses": "v.24",
+      "original": "Quam ob rem relinquet homo patrem suum, et matrem, et adhaerebit uxori suae: et erunt duo in carne una.",
+      "provisionalTranslation": "それゆえ男は父と母を離れ、妻と結ばれる。二人は一つの肉となる。"
+    },
+    {
+      "id": 25,
+      "verses": "v.25",
+      "original": "Erat autem uterque nudus, Adam scilicet et uxor ejus: et non erubescebant.",
+      "provisionalTranslation": "アダムとその妻は二人とも裸であった。しかし恥ずかしいとは思わなかった。"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "glossary",
+      "anchor": "Igitur perfecti sunt caeli et terra, et omnis ornatus eorum.",
+      "body": "「Igitur（かくして・それゆえに）」：第1章「valde bona（極めて良かった）」からの論理的帰結を示すラテン語接続詞。単なる時間的継続ではなく、前提からの演繹的結論を示す。マラルメが1869年頃から着手し未完のまま遺した散文詩『Igitur, ou la Folie d'Elbehnon（イジチュール、あるいはエルベノンの狂気）』の表題語「Igitur」と深く共鳴する──マラルメの「Igitur」は「夜の絶対的真夜中に時計の振り子が永遠に止まる」瞬間に立つ主人公が「祖先の記憶を飲み干し、虚無の中に自らを廃絶する」物語であり、「かくして（Igitur）」の後に来るのは完成・充足ではなく廃絶・沈黙・ゼロである。Genesisの「Igitur perfecti sunt（かくして完成した）」が創造の完成を宣言するのに対し、マラルメの「Igitur」は「かくして廃絶する（Igitur s'abolit）」という存在の自己消去を宣言する──同じ論理的必然の形式が、充足と虚無という正反対の結論を産む二つの「かくして」として対置される。「ornatus（飾り・装飾・秩序）」：ヘブライ語「צְבָאָם（tseva'am）」は「軍勢・万象」を意味するが、ヒエロニムスは「ornatus（飾り）」を選択し、宇宙を秩序立った「装飾」として提示する。",
+      "targetId": "mallarme_avant_dire",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "requievit die septimo ab universo opere quod patrarat.",
+      "body": "「神は第七日に……すべての業から休まれた（requievit die septimo ab universo opere）」──「requievit」は「requiescere（休む・静まる）」の完了形。「安息（requies）」がユダヤ教安息日（Shabbat）の神学的根拠となる節。「patrarat」：「patrare（完成する・成し遂げる）」の完了過去形（plusquamperfectum）で、「完成してしまっていた業」という過去完了が業の絶対的完了を示す。神の「休息（requies）」という概念は、コヘレト「afflictio spiritus（霊の苦悩）」──休みのない労苦の連続──と対照的に、完成後の停止・静寂として神のみが到達できる「安息の絶対性」を示す。ヴェイユ「Accepter le vide（虚空を受容する）」の「行為の停止・放棄」がこの神の「requies」の人間的模倣として読める。",
+      "targetId": "weil_accepter_le_vide",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 3,
+      "type": "glossary",
+      "anchor": "Et benedixit diei septimo, et sanctificavit illum",
+      "body": "「神は第七日を祝福し、それを聖別された（benedixit diei septimo, et sanctificavit illum）」──「benedixit（祝福した）」と「sanctificavit（聖別した）」の二動詞の並置が、時間そのものへの聖化行為として機能する。Genesisで「sanctificare（聖別する）」という語が初めて使われるのがこの「第七日」である点が重要──物や人ではなく「時間（dies）」が最初に聖別される。ユダヤ教神学において「安息日の聖性」が「神殿の聖性」より先行するという解釈の根拠。コヘレト「Nihil sub sole novum（太陽の下に新しいものは何もない）」という時間論に対し、Genesis第2章は時間の中に「聖別された時間（dies sanctificatus）」という特別な次元を設ける──すべての時間が等価に循環するコヘレト的時間観と、聖なる時間と世俗の時間が差異化されるGenesis的時間観の根本的対立。",
+      "targetId": "hieronymus_ecclesiastes_1",
+      "targetParagraphId": 10
+    },
+    {
+      "paragraphId": 4,
+      "type": "prosody",
+      "anchor": "Istae sunt generationes caeli et terrae, quando creata sunt,",
+      "body": "「天と地の由来（generationes caeli et terrae）」──「generationes（由来・世代・産出）」：ヘブライ語「תּוֹלְדֹות（toledot）」は「産出・系譜・由来」を指す語で、Genesisの構造的区切り目を示す定型句（「〜の由来はこれである」）として全篇に反復される。第1章が宇宙的創造を神の視点から語ったのに対し、第2章はこの「generationes（由来）」という語で記述の視点を「歴史・由来の語り」へと転換する。コヘレト「Generatio praeterit, et generatio advenit（世代は過ぎ去り、世代は来る）」（Ecclesiastes I, 4）の「generatio」と同根語──コヘレトでは世代の循環的消滅を指すのに対し、Genesisでは起源的「産出（generatio）」として使われる同語が、創造と消滅の対立する時間観を担う。",
+      "targetId": "hieronymus_ecclesiastes_1",
+      "targetParagraphId": 4
+    },
+    {
+      "paragraphId": 7,
+      "type": "commentary",
+      "anchor": "Formavit igitur Dominus Deus hominem de limo terrae, et inspiravit in faciem ejus spiraculum vitae, et factus est homo in animam viventem.",
+      "body": "「主なる神は地の塵から人を形作り（Formavit hominem de limo terrae）、その顔に命の息吹を吹き込まれた（inspiravit spiraculum vitae）」──二つの並置された動詞「formavit（形作った）」・「inspiravit（吹き込んだ）」が身体（地の塵）と生命（息吹）の二元的創造を示す。「limus（塵・泥・腐植土）」：アダム（Adam）の語源はヘブライ語「אֲדָמָה（adamah：地・土）」で、人間と土壌の語源的同一性が示される。「spiraculum vitae（命の息吹）」：「spiraculum（息・通気孔）」はコヘレト「afflictio spiritus」・Genesis第1章「spiritus Dei ferebatur」の「spiritus」と同根。神が「吹き込む（inspiravit）」ことで人間の「anima vivens（生きる魂）」が成立する──身体だけでは「limus（塵）」に過ぎず、息吹の吹き込みが生命を可能にする。ヨブ記第14章v.1「Homo natus de muliere, brevi vivens tempore（女から生まれた人間は、命短く）」の「homo」の有限性がここに起源を持ち、カトゥルスCarmen CI「mutam alloquerer cinerem（無言の灰に語りかける）」の「cinis（灰）」は「limus terrae（地の塵）」への帰還として読める。",
+      "targetId": "hieronymus_iob_1",
+      "targetParagraphId": 21
+    },
+    {
+      "paragraphId": 9,
+      "type": "commentary",
+      "anchor": "lignum etiam vitae in medio paradisi, lignumque scientiae boni et mali.",
+      "body": "「園の中央に命の木（lignum vitae）と善悪を知る木（lignum scientiae boni et mali）」──二本の木の並置が物語の二重の緊張軸を設定する。「命の木（lignum vitae）」：食べることで永遠の生命が得られる木で、第3章では楽園追放後に「命の木」への道が封じられる。「善悪を知る木（lignum scientiae boni et mali）」：「scientia（知識・認識）」と「bonum et malum（善と悪）」の組み合わせが、知識を「善悪の判断能力」として定義する。カトゥルスCarmen VIIIの「perditum ducas（失われたとみなせ）」という認識的行為との連動：「知ること（scire）」が苦悩の入口となるという構造はコヘレト「qui addit scientiam, addit et laborem（知識を加える者は労苦をも加える）」（Ecclesiastes I, 18）の原形としてここに既にある。",
+      "targetId": "hieronymus_ecclesiastes_1",
+      "targetParagraphId": 18
+    },
+    {
+      "paragraphId": 10,
+      "type": "commentary",
+      "anchor": "Et fluvius egrediebatur de loco voluptatis ad irrigandum paradisum, qui inde dividitur in quatuor capita.",
+      "body": "「歓楽の地から川が流れ出て……四つの源に分かれた（dividitur in quatuor capita）」──エデンの四河（ピション・ギホン・ティグリス・ユーフラテス）は、楽園から世界の四方への水の流出として描かれる。コヘレト第1章「Omnia flumina intrant in mare（すべての川は海へと入る）」（v.7）との逆の方向性：コヘレトの川は海へ「流れ込む」のに対し、Genesisの川は楽園から「流れ出る」──求心的な虚無の吸収（コヘレト）と遠心的な生命の放出（Genesis）という反対方向の水の運動が対置される。",
+      "targetId": "hieronymus_ecclesiastes_1",
+      "targetParagraphId": 7
+    },
+    {
+      "paragraphId": 17,
+      "type": "glossary",
+      "anchor": "de ligno autem scientiae boni et mali ne comedas: in quocumque enim die comederis ex eo, morte morieris.",
+      "body": "「善悪を知る木からは食べてはならない。食べる日には必ず死ぬであろう（morte morieris）」──「morte morieris」はヘブライ語「מוֹת תָּמוּת（mot tamut）」の直訳。同語根の動詞（死ぬ）を二度重ねるヘブライ語絶対不定詞構文で、「死に死ぬ」=「必ず死ぬ」という絶対的確実性を強調する。ヒエロニムスは「morte（死によって）」という奪格と動詞「morieris」の組み合わせでこのヘブライ語構文を忠実に再現した。「死」の宣言が初めて聖書テキストに登場するこの節は、ヨブ記全体の苦難論・コヘレト「vanitas」の虚無論の神学的前提を設定する──禁止違反→死→苦悩という連鎖の起点として。「第3章で蛇がこの死の宣告を「必ずしも死なない（nequaquam morte moriemini）」と反転させる際、この定式が正確に引用・否定される。"
+    },
+    {
+      "paragraphId": 18,
+      "type": "commentary",
+      "anchor": "Non est bonum esse hominem solum: faciamus ei adjutorium simile sibi.",
+      "body": "「人が独りでいることは良くない（Non est bonum esse hominem solum）」──第1章で七回繰り返された「Et vidit Deus quod esset bonum（良い）」の唯一の否定形。「bonum」であるはずの創造の中に「Non est bonum（良くない）」という欠如が発見される瞬間が、女の創造の神学的動機となる。「solum（独り・孤独に）」：コヘレト第4章v.10「Vae soli（一人の者は哀れ）」と同根の孤独の神学的欠如。「faciamus（造ろう）」：第1章v.26「Faciamus hominem（人を造ろう）」と同じ一人称複数の創造的「faciamus」が再び使われ、女の創造が人間創造と同等の神的行為として提示される。ヴェイユ「Celui qu'il faut aimer（愛されなければならない者）」における「他者への要求」の神学的起源としてこの節が読める。",
+      "targetId": "weil_decreation",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 19,
+      "type": "commentary",
+      "anchor": "omne enim quod vocavit Adam animae viventis, ipsum est nomen ejus.",
+      "body": "「アダムが生き物を呼んだ名は何であれ、それがその名となった（omne quod vocavit Adam, ipsum est nomen ejus）」──アダムによる命名行為が言語の起源として定式化される節。神が「Fiat lux（光あれ）」と言葉によって存在を召喚したのに対し、アダムは既に存在する生き物に「名（nomen）」を与える──神の言語的創造とアダムの言語的分類・命名という二段階の言語的行為。「名（nomen）＝存在（ipsum）」という等号が、名前と実体の同一性というアダム的言語観を示す。マラルメ「危機（Crise de vers）」での「言葉はいかなる実体をも指示しない──花（fleur）という語から実在の花を差し引く」という言語観は、この「nomen ejus（その名）」とアダム的実体の自明な対応への近代的破壊として位置づけられる。",
+      "targetId": "mallarme_avant_dire",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 23,
+      "type": "glossary",
+      "anchor": "haec vocabitur Virago, quoniam de viro sumpta est.",
+      "body": "「これは女（Virago）と呼ばれよう──男（vir）から取られたのだから（quoniam de viro sumpta est）」──ヒエロニムスによる卓越した言語的発見。ヘブライ語原典「הָאָדָם（ha-adam）」→「אִשָּׁה（ishah：女）」「אִישׁ（ish：男）」という語の音韻的対応（男から女が派生する語音の類似）を、ラテン語の「vir（男）」→「virago（女・女傑）」という同語根の派生語で再現する翻訳的解決。「virago」はラテン語で「男のような女・女傑」を意味するが、ヒエロニムスはここで純粋に語源的な「vir から来た者」として使用する。アダムの命名行為（v.19–20）の最高点として、この「vir → virago」の語源的命名が第2章の言語的クライマックスを形成する。"
+    },
+    {
+      "paragraphId": 25,
+      "type": "commentary",
+      "anchor": "Erat autem uterque nudus, Adam scilicet et uxor ejus: et non erubescebant.",
+      "body": "「二人とも裸であった──しかし恥ずかしいとは思わなかった（non erubescebant）」──第3章の「恥（pudor）」の発生と対照的に、楽園での「非-恥（non erubescebant）」が原初的無垢の状態として提示される。「nudus（裸）」はヨブ記第1章v.21「Nudus egressus sum de utero matris meae, et nudus revertar（裸で出た、裸で戻ろう）」のヨブの裸への帰還と表裏をなす──Genesis における裸の無垢な始まりと、ヨブにおける裸への虚無的帰還が「nudus」という語で接続される。「erubescebant（恥ずかしいと思った）」：「erubescere（赤面する・恥じる）」は身体的反応（顔が赤くなる）と心理的状態（恥の感覚）を同時に指す。罪以前の楽園では身体の露出と感情的反応の間に断絶がなく、認識論的透明性（non erubescebant）が存在の純粋性の指標となる。",
+      "targetId": "hieronymus_iob_1",
+      "targetParagraphId": 21
+    }
+  ]
+}
