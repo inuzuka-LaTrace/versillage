@@ -1,0 +1,293 @@
+{
+  "id": "hieronymus_genesis_4",
+  "title": "Genesis, Caput IV",
+  "author": "Eusebius Sophronius Hieronymus",
+  "source": "Biblia Sacra Vulgata, Liber Genesis, Caput IV. Bible Gateway: https://www.biblegateway.com/passage/?search=Genesis+4&version=VULGATE",
+  "year": "Antiquitas",
+  "firstPublication": "Vulgata Latina, c. 382–405 AD（ヒエロニムス訳）",
+  "difficulty": "中級",
+  "category": "hieronymus",
+  "originalLang": "la-LA",
+  "modernRelevance": "★★★★★",
+  "context": "創世記（Liber Genesis）第4章。楽園追放（第3章）後の最初の世代──カインとアベルの物語──を語る章。聖書における最初の殺人・兄弟殺し（fratricide）・神からの追放・刻印（signum Cain）・最初の都市建設・最初の音楽と鍛冶の発明・ラメクの復讐の歌（Canticum Lamech）・セトの誕生という人類史の多くの「最初」が凝縮される。ヒエロニムスのウルガータ訳はこの章について極めて重要な翻訳選択を行っており、特にv.7の「appetitus ejus（その欲求）」という語──罪の擬人化された「欲求（appetitus）」がカインに「支配（dominaberis）」される可能性を示す節──がスタインベック『エデンの東（East of Eden, 1952）』の中心的神学的問いを生んだ。スタインベックの登場人物リーはヘブライ語原典のこの節を数年かけて研究し、ヘブライ語「תִּמְשָׁל（timshel）」が「汝支配すべし（thou shalt rule）」でも「汝支配するだろう（thou wilt rule）」でもなく「汝支配してもよい（thou mayest）」という自由意志の命令であることを発見する──人間の罪に対する勝利の可能性として。バイロン『カイン（Cain: A Mystery, 1821）』はルシファーとカインの対話という劇詩形式で、カインの反逆を神に対する実存的抗議として再解釈した──カインは無実の弟を嫉妬から殺すのではなく、不条理な神の秩序に対するロマン主義的叛逆者として描かれる。ドストエフスキー『カラマーゾフの兄弟』における兄弟間の殺意（ドミートリー→父フョードル）との構造的照応も本章から発する。「vox sanguinis fratris tui clamat ad me de terra（兄弟の血の声が地から私に向かって叫ぶ）」（v.10）は西洋における「血の声・大地の証言」というモチーフの起源。",
+  "keywords": [
+    "Cain",
+    "Abel",
+    "fratricide",
+    "signum Cain",
+    "appetitus",
+    "timshel",
+    "vox sanguinis",
+    "vagus et profugus",
+    "Canticum Lamech",
+    "custos fratris"
+  ],
+  "relatedTexts": [
+    "hieronymus_genesis_1",
+    "hieronymus_genesis_2",
+    "hieronymus_genesis_3",
+    "hieronymus_genesis_22",
+    "hieronymus_ecclesiastes_1",
+    "hieronymus_iob_1",
+    "trakl_de_profundis",
+    "baudelaire_spleen",
+    "weil_la_violence",
+    "dante_inferno_canto_1"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "verses": "v.1",
+      "original": "Adam vero cognovit uxorem suam Hevam, quae concepit et peperit Cain, dicens: Possedi hominem per Deum.",
+      "provisionalTranslation": "アダムは妻エヴァを知った。彼女は身ごもってカインを産み、「神によって人を得た」と言った。"
+    },
+    {
+      "id": 2,
+      "verses": "v.2",
+      "original": "Rursumque peperit fratrem ejus Abel. Fuit autem Abel pastor ovium, et Cain agricola.",
+      "provisionalTranslation": "彼女はまたその弟アベルを産んだ。アベルは羊を飼う者となり、カインは農夫となった。"
+    },
+    {
+      "id": 3,
+      "verses": "v.3",
+      "original": "Factum est autem post multos dies ut offerret Cain de fructibus terrae munera Domino.",
+      "provisionalTranslation": "多くの日が経ったある時、カインは地の実りを主への供え物として持って来た。"
+    },
+    {
+      "id": 4,
+      "verses": "v.4",
+      "original": "Abel quoque obtulit de primogenitis gregis sui, et de adipibus eorum: et respexit Dominus ad Abel, et ad munera ejus.",
+      "provisionalTranslation": "アベルもまた、その群れの初子と肥えた部分を持って来た。主はアベルとその供え物に目を向けられた。"
+    },
+    {
+      "id": 5,
+      "verses": "v.5",
+      "original": "Ad Cain vero, et ad munera illius non respexit: iratusque est Cain vehementer, et concidit vultus ejus.",
+      "provisionalTranslation": "しかしカインとその供え物には目を向けられなかった。カインは激しく怒り、顔色が変わった。"
+    },
+    {
+      "id": 6,
+      "verses": "v.6",
+      "original": "Dixitque Dominus ad eum: Quare iratus es? et cur concidit facies tua?",
+      "provisionalTranslation": "主はカインに言われた。「なぜ怒るのか。なぜ顔色が変わるのか。」"
+    },
+    {
+      "id": 7,
+      "verses": "v.7",
+      "original": "nonne si bene egeris, recipies: sin autem male, statim in foribus peccatum aderit? sed sub te erit appetitus ejus, et tu dominaberis illius.",
+      "provisionalTranslation": "「もし正しく行うなら、受け入れられるのではないか。もし正しく行わないなら、罪は戸口に潜む。罪の欲求はお前に向かう。しかし、お前はそれを支配できる。」"
+    },
+    {
+      "id": 8,
+      "verses": "v.8",
+      "original": "Dixitque Cain ad Abel fratrem suum: Egrediamur foras. Cumque essent in agro, consurrexit Cain adversus fratrem suum Abel, et interfecit eum.",
+      "provisionalTranslation": "カインは弟アベルに言った。「野へ出かけよう。」野にいるとき、カインは弟アベルに立ち向かい、彼を殺した。"
+    },
+    {
+      "id": 9,
+      "verses": "v.9",
+      "original": "Et ait Dominus ad Cain: Ubi est Abel frater tuus? Qui respondit: Nescio: num custos fratris mei sum ego?",
+      "provisionalTranslation": "主はカインに言われた。「弟アベルはどこにいるのか。」カインは答えた。「知らない。私は弟の番人なのか。」"
+    },
+    {
+      "id": 10,
+      "verses": "v.10",
+      "original": "Dixitque ad eum: Quid fecisti? vox sanguinis fratris tui clamat ad me de terra.",
+      "provisionalTranslation": "主は言われた。「何をしたのか。弟の血の声が地から私に向かって叫んでいる。」"
+    },
+    {
+      "id": 11,
+      "verses": "v.11",
+      "original": "Nunc igitur maledictus eris super terram, quae aperuit os suum, et suscepit sanguinem fratris tui de manu tua.",
+      "provisionalTranslation": "今、お前は地に呪われる。地はその口を開けてお前の手から弟の血を受けた。"
+    },
+    {
+      "id": 12,
+      "verses": "v.12",
+      "original": "Cum operatus fueris eam, non dabit tibi fructus suos: vagus et profugus eris super terram.",
+      "provisionalTranslation": "地を耕しても、地はお前にその実りを与えない。お前は地の上を放浪し逃げ惑う者となる。"
+    },
+    {
+      "id": 13,
+      "verses": "v.13",
+      "original": "Dixitque Cain ad Dominum: Major est iniquitas mea, quam ut veniam merear.",
+      "provisionalTranslation": "カインは主に言った。「私の咎は赦されるには重すぎる。」"
+    },
+    {
+      "id": 14,
+      "verses": "v.14",
+      "original": "Ecce ejicis me hodie a facie terrae, et a facie tua abscondar, et ero vagus et profugus in terra: omnis igitur qui invenerit me, occidet me.",
+      "provisionalTranslation": "「見よ、あなたは今日、地の面から私を追い出す。私はあなたの顔から隠れ、地を放浪し逃げ惑う者となる。私を見つけた者はみな私を殺すだろう。」"
+    },
+    {
+      "id": 15,
+      "verses": "v.15",
+      "original": "Dixitque ei Dominus: Nequaquam ita fiet: sed omnis qui occiderit Cain, septuplum punietur. Posuitque Dominus Cain signum, ut non interficeret eum omnis qui invenisset eum.",
+      "provisionalTranslation": "主は彼に言われた。「そうはならない。カインを殺す者は七倍の復讐を受けるだろう。」主はカインに刻印を付け、彼を見つけた者が誰も彼を殺さないようにされた。"
+    },
+    {
+      "id": 16,
+      "verses": "v.16",
+      "original": "Egressusque Cain a facie Domini, habitavit profugus in terra ad orientalem plagam Eden.",
+      "provisionalTranslation": "カインは主の御前を去り、エデンの東の地ノドに放浪者として住んだ。"
+    },
+    {
+      "id": 17,
+      "verses": "v.17",
+      "original": "Cognovit autem Cain uxorem suam, quae concepit, et peperit Henoch: et aedificavit civitatem, vocavitque nomen ejus ex nomine filii sui, Henoch.",
+      "provisionalTranslation": "カインは妻を知った。彼女は身ごもってエノクを産んだ。カインは町を建て、息子の名にちなんでその町をエノクと呼んだ。"
+    },
+    {
+      "id": 18,
+      "verses": "v.18",
+      "original": "Porro Henoch genuit Irad, et Irad genuit Maviael, et Maviael genuit Mathusael, et Mathusael genuit Lamech.",
+      "provisionalTranslation": "エノクにイラドが生まれ、イラドにメフヤエルが生まれ、メフヤエルにメトサエルが生まれ、メトサエルにラメクが生まれた。"
+    },
+    {
+      "id": 19,
+      "verses": "v.19",
+      "original": "Qui accepit duas uxores, nomen uni Ada, et nomen alteri Sella.",
+      "provisionalTranslation": "ラメクは二人の妻を持った。一人の名はアダ、もう一人の名はツィラである。"
+    },
+    {
+      "id": 20,
+      "verses": "v.20",
+      "original": "Genuitque Ada Jabel, qui fuit pater habitantium in tentoriis, atque pastorum.",
+      "provisionalTranslation": "アダはヤバルを産んだ。彼はテントに住んで家畜を飼う者の祖となった。"
+    },
+    {
+      "id": 21,
+      "verses": "v.21",
+      "original": "Et nomen fratris ejus Jubal: ipse fuit pater canentium cithara et organo.",
+      "provisionalTranslation": "その兄弟の名はユバル。彼は竪琴と笛を奏でる者すべての祖となった。"
+    },
+    {
+      "id": 22,
+      "verses": "v.22",
+      "original": "Sella quoque genuit Tubalcain, qui fuit malleator et faber in cuncta opera aeris et ferri. Soror vero Tubalcain, Noema.",
+      "provisionalTranslation": "ツィラもトバル・カインを産んだ。彼はあらゆる青銅と鉄の器具を作る鍛冶師となった。トバル・カインの妹はナアマである。"
+    },
+    {
+      "id": 23,
+      "verses": "v.23",
+      "original": "Dixitque Lamech uxoribus suis Adae et Sellae: Audite vocem meam, uxores Lamech; auscultate sermonem meum: quoniam occidi virum in vulnus meum, et adolescentulum in livorem meum.",
+      "provisionalTranslation": "ラメクは妻たちアダとツィラに言った。「聞け、私の声を、ラメクの妻たちよ。耳を傾けよ、私の言葉に。私は傷を受けて男を殺した、痣を受けて若者を殺した。」"
+    },
+    {
+      "id": 24,
+      "verses": "v.24",
+      "original": "Septuplum ultio dabitur de Cain: de Lamech vero septuagies septies.",
+      "provisionalTranslation": "カインへの復讐が七倍なら、ラメクへの復讐は七十七倍だ。"
+    },
+    {
+      "id": 25,
+      "verses": "v.25",
+      "original": "Cognovit quoque adhuc Adam uxorem suam: et peperit filium, vocavitque nomen ejus Seth, dicens: Posuit mihi Deus semen aliud pro Abel, quem occidit Cain.",
+      "provisionalTranslation": "アダムはまた妻を知った。彼女は息子を産み、その名をセトと呼んだ。「カインが殺したアベルの代わりに、神は別の子を与えてくださった。」"
+    },
+    {
+      "id": 26,
+      "verses": "v.26",
+      "original": "Sed et Seth natus est filius, quem vocavit Enos: iste coepit invocare nomen Domini.",
+      "provisionalTranslation": "セトにも息子が生まれ、その名をエノスと呼んだ。このころ、人々は主の名を呼び始めた。"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "glossary",
+      "anchor": "Possedi hominem per Deum.",
+      "body": "「神によって人を得た（Possedi hominem per Deum）」──エヴァのカイン誕生に際しての言葉。「Possedi（私は所有した・得た）」：ヘブライ語「קָנִיתִי（qaniti）」は「取得する・買う・創造する」の多義語で、カインの名（Cain / Qayin）の語源的根拠とされる。「per Deum（神によって）」：神の仲介・協力による所有という表現が、子の誕生を神的行為として位置づける。バイロン『カイン（Cain: A Mystery, 1821）』においてカインは自分が「神によって所有された（possessed）」存在──神の意図の産物──であることへの疑問から出発する：「I sought not to be born……but I am」（私は生まれることを求めなかったが、私は存在している）。スタインベック『エデンの東（East of Eden, 1952）』でサイラスはアダムとチャールズ（カインとアベルの反転的分身）を語るとき、カインの名の「取得（possession）」という語義が世代を超えた所有欲・嫉妬の遺伝として機能する。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "Fuit autem Abel pastor ovium, et Cain agricola.",
+      "body": "「アベルは羊を飼う者となり、カインは農夫となった」──二つの生業の設定が以後の対立の構造的根拠を形成する。「pastor ovium（羊飼い）」対「agricola（農夫）」：遊牧民と定住農耕民の対立は古代近東の文化的緊張を反映する（シュメール神話ではドゥムジとエンキムドゥの対立に対応）。農耕という「地（terra）」への拘束は、第3章v.17「maledicta terra in opere tuo（地はお前のゆえに呪われる）」というアダムへの呪詛を直接引き継ぐ──カインは「呪われた地」を耕す者として、呪詛の継承者として出発する。スタインベック『エデンの東』でのトラスク農場（農耕）対ハミルトン家（牧畜・職人）という対立がこの構造を現代的に変奏する。"
+    },
+    {
+      "paragraphId": 5,
+      "type": "commentary",
+      "anchor": "iratusque est Cain vehementer, et concidit vultus ejus.",
+      "body": "「カインは激しく怒り（iratusque est Cain vehementer）、顔色が変わった（concidit vultus ejus）」──「concidit（落ちた・崩れた）」は「cadere（落ちる）」の完了形で「顔が落ちる」＝「顔色が変わる・意気消沈する」という表現。「vultus（顔・表情）」：感情の身体的表出として「顔」が用いられる。バイロン『カイン』第1幕でルシファーがカインに語りかけるのは、まさにこの「怒り（ira）」と「落ちた顔（vultus concidus）」の瞬間──怒りが反逆的思惟への入口として機能する。バイロンにとって、カインの怒りは神の不合理な選択への実存的抗議であり、ロマン主義的英雄（プロメテウス的）反逆の原形。コヘレト「afflictio spiritus（霊の苦悩）」（Ecclesiastes I, 14）の苦悩が宗教的怒りとして外部化した形として読める。",
+      "targetId": "hieronymus_ecclesiastes_1",
+      "targetParagraphId": 14
+    },
+    {
+      "paragraphId": 7,
+      "type": "glossary",
+      "anchor": "sed sub te erit appetitus ejus, et tu dominaberis illius.",
+      "body": "「罪の欲求はお前に向かう──しかしお前はそれを支配できる（tu dominaberis illius）」──Genesis第4章で最も神学的に問題含みな節。「appetitus（欲求・欲望）」：ヘブライ語「תְּשׁוּקָה（teshuqah）」は「向かう・引き付けられる」の意で、Genesis第3章v.16「sub viri potestate eris（夫に引き付けられる）」と同一語根。罪が擬人化された「欲求」として戸口に潜む形象。「tu dominaberis illius（お前はそれを支配できる）」：ヘブライ語動詞「תִּמְשָׁל（timshel）」の訳出が聖書翻訳史上最大の争点の一つ。欽定訳（KJV）「thou shalt rule（支配すべし）」は義務・予言。アメリカ標準訳「Do thou rule（支配せよ）」は命令。スタインベック『エデンの東』の登場人物リーが発見するのは、ヘブライ語原典「timshel」が接続法──「thou mayest（支配してもよい・できる）」という自由意志の可能性──であること。「人間は善悪を選ぶことができる」という自由意志論の聖書的根拠として。ヴェイユ「Nécessité（必然）」における「神は人間に選択の余地を設ける」という命題との神学的対話。",
+      "targetId": "weil_necessite",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 8,
+      "type": "commentary",
+      "anchor": "consurrexit Cain adversus fratrem suum Abel, et interfecit eum.",
+      "body": "「カインは弟アベルに立ち向かい、彼を殺した（interfecit eum）」──聖書における最初の殺人の記述。「interfecit（殺した）」：「interficere（殺す・完全に終わらせる）」の完了形。聖書テキストは殺害の方法・手段・状況を一切記述しない──「consurrexit（立ち向かった）」と「interfecit（殺した）」の間に何もない。この沈黙がバイロン・スタインベック・ドストエフスキーの解釈的想像力を招き入れる空白として機能する。「Egrediamur foras（野へ出かけよう）」という言葉が謀殺の計画を示唆するが、テキストは意図の詳細を与えない。バイロン『カイン』ではアベルの死はカインの意図せぬ衝動として描かれ──「I did not mean / To slay him──'twas not murder（殺すつもりではなかった──殺人ではない）」──神への供物の拒絶という理不尽に端を発する暴力の連鎖として位置づけられる。"
+    },
+    {
+      "paragraphId": 9,
+      "type": "commentary",
+      "anchor": "Nescio: num custos fratris mei sum ego?",
+      "body": "「知らない（Nescio）。私は弟の番人なのか（num custos fratris mei sum ego）」──聖書全体で最も有名な問いかけの一つ。「Nescio」：Genesis第3章v.9「Ubi es（どこにいるか）」への神の問いに対して隠れたアダムが応答したように、今度はカインが神の問いに「知らない（Nescio）」と嘘の否認で応答する──知らないふりという言語的欺き。「num custos fratris mei sum ego（私は弟の番人なのか）」：「num（〜か？）」は否定的回答を期待する疑問詞。カインは「私は弟の守り手ではない」と宣言することで責任を否定する。スタインベック『エデンの東』において、この「Am I my brother's keeper？」という問いが小説全体の倫理的核心として機能する──アダム・トラスクとその兄弟チャールズ、双子のアロンとキャルの世代を通じて、「兄弟の守り手であるか否か」という問いが反復される。バイロン『カイン』でカインがルシファーに問う「Why did He not forbid the Serpent's guile？（なぜ神は蛇の欺きを禁じなかったのか）」という問いと、「Nescio（知らない）」という嘘の否認は、神への抗議と自己への欺きという対立する問いの形として対応する。"
+    },
+    {
+      "paragraphId": 10,
+      "type": "glossary",
+      "anchor": "vox sanguinis fratris tui clamat ad me de terra.",
+      "body": "「弟の血の声が地から私に向かって叫ぶ（vox sanguinis fratris tui clamat ad me de terra）」──「vox sanguinis（血の声）」：血に「声（vox）」が帰属される擬人法。ヘブライ語「קוֹל（qol）」は「声・音・響き」を意味し、「血（dam）」が発する「声（qol）」という表現は、生命が流された事実が宇宙的「叫び（clamare）」を生むという観念。「clamat（叫ぶ）」：現在形が用いられ、殺害後も叫び続けている継続的訴えとして示される。この「vox sanguinis de terra（地からの血の声）」は西洋文学における「大地の証言・犠牲者の叫び」というモチーフの起源。ヴェイユ「La Violence（力について）」での「力（la force）は人間を沈黙させる」という命題の反例として──アベルの肉体は力によって沈黙させられたが、その「血の声（vox sanguinis）」は地から叫び続ける。",
+      "targetId": "weil_la_violence",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 12,
+      "type": "commentary",
+      "anchor": "vagus et profugus eris super terram.",
+      "body": "「お前は地の上を放浪し逃げ惑う者となる（vagus et profugus eris super terram）」──カインへの呪詛。「vagus（さまよう・漂う）」と「profugus（逃亡者・難民）」の二語の並置が放浪という存在様式を二重に定義する。Genesis第3章v.14「super pectus tuum gradieris（腹這いで歩く）」という蛇への呪詛と対照的に、カインは垂直的（二足歩行）のまま地上を「さまよう」──垂直性は保たれるが、場所への帰属が失われる。スタインベック『エデンの東』の「エデンの東」という地名自体がGenesis第4章v.16「ad orientalem plagam Eden（エデンの東）」から取られており、「vagus et profugus（放浪する逃亡者）」としてのカインが「東のエデン」に向かうという地理的移動が小説全体の構造を支える。コヘレト「Generatio praeterit, et generatio advenit（世代は過ぎ去り、世代は来る）」（Ecclesiastes I, 4）の無根拠な世代交代が、「vagus（さまよう）」というカインの存在様式として具体化される。",
+      "targetId": "hieronymus_ecclesiastes_1",
+      "targetParagraphId": 4
+    },
+    {
+      "paragraphId": 15,
+      "type": "commentary",
+      "anchor": "Posuitque Dominus Cain signum, ut non interficeret eum omnis qui invenisset eum.",
+      "body": "「主はカインに刻印（signum）を付け、彼を見つけた者が誰も彼を殺さないようにされた」──「signum Cain（カインの刻印）」は聖書テキストで最も誤解・濫用された記号のひとつ。原典はその内容を一切記述しない──刻印が何であるかは不明。神の護りの「しるし（signum）」として意図されたこの刻印が、後世の人種差別的解釈（皮膚の色）・スティグマとして誤用されてきた歴史は、解釈の政治性を示す典型例。バイロン『カイン』では「signum」は神の残酷な皮肉として読まれる──殺人者を保護し、その放浪という刑罰を永続させる「印」として。スタインベック『エデンの東』では「signum Cain」は自由意志の象徴──「印を受けた者（Cain）」が「支配できる（timshel）」かどうかという問いが物語の核心。神が殺人者に護りの刻印を与えるという逆説が、神の「mercy（慈悲）」と「justice（正義）」の緊張を最高点で提示する。"
+    },
+    {
+      "paragraphId": 16,
+      "type": "prosody",
+      "anchor": "Egressusque Cain a facie Domini, habitavit profugus in terra ad orientalem plagam Eden.",
+      "body": "「カインは主の御前を去り（Egressus a facie Domini）、エデンの東の地に放浪者として住んだ（habitavit profugus in terra ad orientalem plagam Eden）」──Genesis第3章v.23「emisit eum Dominus Deus de paradiso voluptatis（楽園から追い出した）」がアダムの追放を記述したのに対し、カインの「Egressus（去ること）」は自発的な離脱として表現される──v.14「ejicis me（あなたは私を追い出す）」というカインの認識と、「Egressusque（去った）」という実際の動きの間の齟齬が、強制と自発の曖昧さを残す。「a facie Domini（主の御前から）」：「facies（顔・御前）」から離れることが追放の本質として定義される──第9節「Ubi est Abel frater tuus（弟はどこにいるか）」という神の問いかけが可能な「御前（facies）」という場の喪失。スタインベックのタイトル「East of Eden」がこの一行から直接取られた。"
+    },
+    {
+      "paragraphId": 21,
+      "type": "commentary",
+      "anchor": "Et nomen fratris ejus Jubal: ipse fuit pater canentium cithara et organo.",
+      "body": "「その兄弟ユバルは竪琴と笛を奏でる者すべての祖となった（pater canentium cithara et organo）」──「音楽の起源」の聖書的定式。「cithara（竪琴）」と「organum（管楽器）」の二種が弦楽器・管楽器という音楽の基本二分類の原形として提示される。カインの子孫系譜の中に音楽の発明が置かれることで、芸術・技術・都市文明（v.17「aedificavit civitatem（町を建てた）」）がすべてカイン的系譜──殺人者の後裔──に帰属される。バイロン『カイン』第3幕でアベルの死後、エヴァがユバルの音楽を「悲嘆（grief）」の声として聞く場面がこの系譜的位置づけから詩的意味を得る。コヘレト「Cunctae res difficiles; non potest eas homo explicare sermone（すべての事柄は困難であり、人はそれを言葉で説明できない）」（Ecclesiastes I, 8）：言語が届かない領域として音楽が生まれる起源として読める。",
+      "targetId": "hieronymus_ecclesiastes_1",
+      "targetParagraphId": 8
+    },
+    {
+      "paragraphId": 23,
+      "type": "commentary",
+      "anchor": "Audite vocem meam, uxores Lamech; auscultate sermonem meum: quoniam occidi virum in vulnus meum, et adolescentulum in livorem meum.",
+      "body": "「聞け、私の声を……私は傷を受けて男を殺した、痣を受けて若者を殺した（occidi virum in vulnus meum, et adolescentulum in livorem meum）」──「ラメクの歌（Canticum Lamech）」。聖書中最古の詩的断片の一つとして聖書学者に認識されており、二行の完全な平行詩節（parallelismus membrorum）を形成する：「virum（男）/ adolescentulum（若者）」・「vulnus（傷）/ livor（痣）」・「occidi（殺した）」の二重反復が、復讐の美学化という暴力的な詩的形式を産む。「in vulnus meum（私の傷のために）」：傷への報復として殺害が正当化される論理。Genesis第4章v.15のカインへの「七倍」の復讐が、v.24では「七十七倍（septuagies septies）」へとエスカレートする──復讐の指数的増大が「Canticum Lamech」の主題。マタイ福音書18:22でイエスが「七十七回赦せ（septuagies septies）」と命じるとき、この「septuagies septies」を復讐から赦しへと正確に反転させている。バイロン『カイン』がカインの暴力を「最初の一回」として嘆くのに対し、ラメクの歌はその「第三世代における無限の増殖」として暴力の自律的論理を示す。"
+    },
+    {
+      "paragraphId": 25,
+      "type": "commentary",
+      "anchor": "Posuit mihi Deus semen aliud pro Abel, quem occidit Cain.",
+      "body": "「神はカインが殺したアベルの代わりに（pro Abel, quem occidit Cain）、別の子を与えてくださった」──セト（Seth）誕生。「semen aliud（別の種・別の子孫）」：「semen（種・子孫・系統）」はGenesis第3章v.15「semen tuum et semen illius（お前の子孫と彼女の子孫）」と同語。失われたアベルの「semen（系統）」が、セトという「別の（aliud）」系統によって代替される──代替可能性と不可能性の間の緊張。「quem occidit Cain（カインが殺した）」：アベルの死がエヴァの命名行為に埋め込まれ、セトの存在の根拠として永続化される。スタインベック『エデンの東』における「アロンとキャル」──カインとアベルの第三世代への反復──が、この「semen aliud（別の種）」による世代的循環として読める。神の「Posuit（置いた）」という静かな動詞が、復讐と暴力の激化を記述するv.23–24の「Canticum Lamech」の轟音の後に来ることで、神の答えが暴力ではなく「別の生命の付与」であることが際立つ。"
+    },
+    {
+      "paragraphId": 26,
+      "type": "commentary",
+      "anchor": "iste coepit invocare nomen Domini.",
+      "body": "「このころ、人々は主の名を呼び始めた（coepit invocare nomen Domini）」──第4章の結語。「coepit（始めた）」：「coepisse（始める）」の完了形。殺人・追放・文明の発生・復讐の歌という暴力と技術の連鎖の末に、「主の名を呼ぶ（invocare nomen Domini）」という宗教的行為の起源が記される。「invocare（呼び求める）」：ヘブライ語「לִקְרֹא בְּשֵׁם יְהוָה（liqqro beshem YHWH）」は「主の名によって呼ぶ・主の名を宣言する」を意味し、礼拝・祈りの始まりとして位置づけられる。カイン的文明（都市・音楽・鍛冶・復讐の歌）とセト的信仰（主の名を呼ぶこと）という二つの系統が第4章の末尾で並置される。コヘレト第1章の「afflictio spiritus（霊の苦悩）」の世界──暴力と虚無の太陽の下──からの応答として「invocare nomen Domini」という呼びかけが、第4章の最後の言葉として置かれる。",
+      "targetId": "hieronymus_ecclesiastes_1",
+      "targetParagraphId": 14
+    }
+  ]
+}
