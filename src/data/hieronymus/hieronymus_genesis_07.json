@@ -1,0 +1,257 @@
+{
+  "id": "hieronymus_genesis_7",
+  "title": "Genesis, Caput VII",
+  "author": "Eusebius Sophronius Hieronymus",
+  "source": "Biblia Sacra Vulgata, Liber Genesis, Caput VII. Bible Gateway: https://www.biblegateway.com/passage/?search=Genesis+7&version=VULGATE",
+  "year": "Antiquitas",
+  "firstPublication": "Vulgata Latina, c. 382–405 AD（ヒエロニムス訳）",
+  "difficulty": "中級",
+  "category": "hieronymus",
+  "originalLang": "la-LA",
+  "modernRelevance": "★★★★★",
+  "context": "創世記（Liber Genesis）第7章。ノアの洪水の本体──方舟への乗船・洪水の開始・すべての生命の消滅・方舟の漂流を記述する章。前章（第6章）での方舟建造の命令に続き、本章は「Ingredere（入れ）」という命令で始まり（v.1）、「Obtinueruntque aquae terram centum quinquaginta diebus（水は百五十日間、地を支配した）」という静かな結語で終わる（v.24）。章全体の神学的核心は「大破壊（Deluvium）と選びによる救済（salvatio）」の同時性にある：「delebo omnem substantiam（すべての実体を消し去る）」（v.4）という絶対的消滅命令と「te enim vidi justum（お前を義と見た）」（v.1）という個的な選びが同一の神によって発せられる。「rupti sunt omnes fontes abyssi magnae（大いなる深淵の泉が破れた）」（v.11）はGenesis第1章「tenebrae erant super faciem abyssi（闇が深淵の面にあった）」の「abyssus」への回帰──創造の秩序が「反創造（de-creatio）」として逆転する。「arca ferebatur super aquas（方舟は水の上を動いていた）」（v.18）はGenesis第1章「spiritus Dei ferebatur super aquas（神の霊が水の面を動いていた）」の「ferebatur（動いていた）」の語と同一動詞──創造の「霊の運動」が洪水では「方舟の漂流」として反復される。ブランショ（1907–2003）は「災いの書（L'Écriture du désastre, 1980）」において、「désastre（災害）」を語ることの不可能性を論じた──洪水は究極の「désastre」として、その語りが常に生き残った者（Noe）の証言として構造化される。レヴィナス「存在と異なること（Autrement qu'être, 1974）」の「il y a（あそこに何かがある）」──無構造的で恐怖的な「ある（existence anonyme）」の経験が洪水の「水がすべてを覆う（opertique sunt omnes montes）」（v.19）の形象と対応する。カフカ的読解：「inclusit eum Dominus deforis（主が外から閉じた）」（v.16）という神による密閉が、外から鍵をかけられる「城」・「審判」の構造と共鳴する。コヘレト「Vidi cuncta quae fiunt sub sole……universa vanitas（太陽の下のすべてを見た……すべては虚無）」とGenesis第7章「delebo omnem substantiam（すべての実体を消し去る）」の「すべて（omnia）」の消去が、「虚無（vanitas）」の徹底的実現として読める。ヴェイユ「Décréation（脱創造）」：神が創造したものを消去する「洪水」が「脱創造（décréation）」の神的行為として位置づけられる──被造物を非被造物へと戻すという逆方向の神的行為。",
+  "keywords": [
+    "diluvium",
+    "arca",
+    "justus",
+    "delebo",
+    "abyssus",
+    "spiraculum vitae",
+    "ferebatur super aquas",
+    "消滅",
+    "救済",
+    "Remansit solus Noe"
+  ],
+  "relatedTexts": [
+    "hieronymus_genesis_1",
+    "hieronymus_genesis_2",
+    "hieronymus_genesis_3",
+    "hieronymus_genesis_6",
+    "hieronymus_genesis_8",
+    "hieronymus_ecclesiastes_1",
+    "hieronymus_iob_1",
+    "weil_decreation",
+    "weil_accepter_le_vide",
+    "trakl_de_profundis"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "verses": "v.1",
+      "original": "Dixitque Dominus ad eum: Ingredere tu et omnis domus tua in arcam: te enim vidi justum coram me in generatione hac.",
+      "provisionalTranslation": "主は彼に言われた。「あなたとあなたの家族全員が方舟に入れ。この世代においてあなたを私の前に義と見たから。」"
+    },
+    {
+      "id": 2,
+      "verses": "v.2",
+      "original": "Ex omnibus animantibus mundis tolle septena et septena, masculum et feminam: de animantibus vero immundis duo et duo, masculum et feminam.",
+      "provisionalTranslation": "すべての清い動物から七つずつ、雄と雌を取れ。清くない動物からは二つずつ、雄と雌を。"
+    },
+    {
+      "id": 3,
+      "verses": "v.3",
+      "original": "Sed et de volatilibus caeli septena et septena, masculum et feminam: ut salvetur semen super faciem universae terrae.",
+      "provisionalTranslation": "空の鳥も七つずつ、雄と雌を。全地の面の上で子孫が救われるように。"
+    },
+    {
+      "id": 4,
+      "verses": "v.4",
+      "original": "Adhuc enim, et post dies septem ego pluam super terram quadraginta diebus et quadraginta noctibus: et delebo omnem substantiam, quam feci, de superficie terrae.",
+      "provisionalTranslation": "「なぜなら今から七日後、私は四十日四十夜、地に雨を降らせる。私が作ったすべての実体を地の面から消し去る。」"
+    },
+    {
+      "id": 5,
+      "verses": "v.5",
+      "original": "Fecit ergo Noe omnia quae mandaverat ei Dominus.",
+      "provisionalTranslation": "ノアは主が命じられたすべてのことを行った。"
+    },
+    {
+      "id": 6,
+      "verses": "v.6",
+      "original": "Eratque sexcentorum annorum quando diluvii aquae inundaverunt super terram.",
+      "provisionalTranslation": "洪水の水が地に溢れたとき、ノアは六百歳だった。"
+    },
+    {
+      "id": 7,
+      "verses": "v.7",
+      "original": "Et ingressus est Noe et filii ejus, uxor ejus et uxores filiorum ejus cum eo in arcam propter aquas diluvii.",
+      "provisionalTranslation": "ノアと息子たち、妻、息子たちの妻が洪水の水を避けて方舟に入った。"
+    },
+    {
+      "id": 8,
+      "verses": "v.8",
+      "original": "De animantibus quoque mundis et immundis, et de volucribus, et ex omni quod movetur super terram,",
+      "provisionalTranslation": "清い動物と清くない動物、鳥、地の上を動くすべてのものから、"
+    },
+    {
+      "id": 9,
+      "verses": "v.9",
+      "original": "duo et duo ingressa sunt ad Noe in arcam, masculus et femina, sicut praeceperat Dominus Noe.",
+      "provisionalTranslation": "雄と雌、二つずつノアのもとへ方舟に入った。主がノアに命じられた通りに。"
+    },
+    {
+      "id": 10,
+      "verses": "v.10",
+      "original": "Cumque transissent septem dies, aquae diluvii inundaverunt super terram.",
+      "provisionalTranslation": "七日が過ぎると、洪水の水が地に溢れた。"
+    },
+    {
+      "id": 11,
+      "verses": "v.11",
+      "original": "Anno sexcentesimo vitae Noe, mense secundo, septimodecimo die mensis, rupti sunt omnes fontes abyssi magnae, et cataractae caeli apertae sunt:",
+      "provisionalTranslation": "ノアの六百歳の年、第二の月の十七日に、大いなる深淵のすべての泉が破れ、天の水門が開いた。"
+    },
+    {
+      "id": 12,
+      "verses": "v.12",
+      "original": "et facta est pluvia super terram quadraginta diebus et quadraginta noctibus.",
+      "provisionalTranslation": "地に四十日四十夜、雨が降り続けた。"
+    },
+    {
+      "id": 13,
+      "verses": "v.13",
+      "original": "In articulo diei illius ingressus est Noe, et Sem, et Cham, et Japheth filii ejus; uxor illius, et tres uxores filiorum ejus cum eis in arcam:",
+      "provisionalTranslation": "その同じ日に、ノアとその息子セム、ハム、ヤフェト、ノアの妻と息子たちの三人の妻が方舟に入った。"
+    },
+    {
+      "id": 14,
+      "verses": "v.14",
+      "original": "ipsi et omne animal secundum genus suum, universaque jumenta in genere suo, et omne quod movetur super terram in genere suo, cunctumque volatile secundum genus suum, universae aves, omnesque volucres,",
+      "provisionalTranslation": "彼らと、すべての動物はその種類に従って、すべての家畜はその種類に従って、地を動くすべてのものはその種類に従って、すべての翼ある鳥はその種類に従って、"
+    },
+    {
+      "id": 15,
+      "verses": "v.15",
+      "original": "ingressae sunt ad Noe in arcam, bina et bina ex omni carne, in qua erat spiritus vitae.",
+      "provisionalTranslation": "命の息吹を持つすべての肉から、二つずつノアのもとへ方舟に入った。"
+    },
+    {
+      "id": 16,
+      "verses": "v.16",
+      "original": "Et quae ingressa sunt, masculus et femina ex omni carne introierunt, sicut praeceperat ei Deus: et inclusit eum Dominus deforis.",
+      "provisionalTranslation": "入ったのは雄と雌、すべての肉から、神がノアに命じられた通りに。そして主はノアを外から閉じられた。"
+    },
+    {
+      "id": 17,
+      "verses": "v.17",
+      "original": "Factumque est diluvium quadraginta diebus super terram: et multiplicatae sunt aquae, et elevaverunt arcam in sublime a terra.",
+      "provisionalTranslation": "洪水は四十日間、地の上を続いた。水は増し、方舟を地から高く持ち上げた。"
+    },
+    {
+      "id": 18,
+      "verses": "v.18",
+      "original": "Vehementer enim inundaverunt, et omnia repleverunt in superficie terrae: porro arca ferebatur super aquas.",
+      "provisionalTranslation": "水は激しく溢れ、地の面のすべてを満たした。方舟は水の上を動いていた。"
+    },
+    {
+      "id": 19,
+      "verses": "v.19",
+      "original": "Et aquae praevaluerunt nimis super terram: opertique sunt omnes montes excelsi sub universo caelo.",
+      "provisionalTranslation": "水は地の上で非常に増した。天の下のすべての高い山が覆われた。"
+    },
+    {
+      "id": 20,
+      "verses": "v.20",
+      "original": "Quindecim cubitis altior fuit aqua super montes, quos operuerat.",
+      "provisionalTranslation": "水は自分が覆った山々より十五キュビト高かった。"
+    },
+    {
+      "id": 21,
+      "verses": "v.21",
+      "original": "Consumptaque est omnis caro quae movebatur super terram, volucrum, animantium, bestiarum, omniumque reptilium, quae reptant super terram: universi homines,",
+      "provisionalTranslation": "地の上を動いていたすべての肉が消滅した。鳥、動物、獣、地を這うすべてのもの、そしてすべての人間が。"
+    },
+    {
+      "id": 22,
+      "verses": "v.22",
+      "original": "et cuncta, in quibus spiraculum vitae est in terra, mortua sunt.",
+      "provisionalTranslation": "命の息吹を持つ地上のすべてのものが死んだ。"
+    },
+    {
+      "id": 23,
+      "verses": "v.23",
+      "original": "Et delevit omnem substantiam quae erat super terram, ab homine usque ad pecus, tam reptile quam volucres caeli: et deleta sunt de terra. Remansit autem solus Noe, et qui cum eo erant in arca.",
+      "provisionalTranslation": "神は地の上にあったすべての実体を消し去った。人から家畜、這うものから空の鳥まで。地から消し去られた。ノアだけが残った、そして方舟にいた者たちが。"
+    },
+    {
+      "id": 24,
+      "verses": "v.24",
+      "original": "Obtinueruntque aquae terram centum quinquaginta diebus.",
+      "provisionalTranslation": "水は百五十日間、地を支配した。"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "te enim vidi justum coram me in generatione hac.",
+      "body": "「この世代においてあなたを私の前に義と見た（te enim vidi justum coram me in generatione hac）」──神による個的な「選び（electio）」の宣言。「justum（義）」：ヘブライ語「צַדִּיק（tsaddiq）」は「正しい・義なる」で、ヨブ記第1章「simplex et rectus, ac timens Deum（純朴で正しく、神を畏れる）」とほぼ同義の語彙。「vidi（見た）」：Genesis第1章「Et vidit Deus quod esset bonum（神は見て良しとされた）」の神の「見る（videre）」が、ここでは特定の一人への選びの視線として機能する──「すべてを見る（cuncta）」神の視線が「一人の義人（justum）」への集中した視線となる。「in generatione hac（この世代において）」：ノアの「義」が絶対的ではなく「この世代（generatio）における」相対的義として提示される点が神学的に複雑──コヘレト「Generatio praeterit, et generatio advenit（世代は過ぎ去り、世代は来る）」（Ecclesiastes I, 4）の世代の循環の中で、特定の世代における義人の存在が洪水の語りを可能にする。ヨブ記との対照：神がヨブを「simplex et rectus（純朴で正しい）」と見たのに対し（Job I, 8）、ヨブには試練が与えられ、ノアには方舟が命じられる──同じ「神による義の認知」から異なる結末が生じる点が注目される。",
+      "targetId": "hieronymus_iob_1",
+      "targetParagraphId": 8
+    },
+    {
+      "paragraphId": 4,
+      "type": "commentary",
+      "anchor": "delebo omnem substantiam, quam feci, de superficie terrae.",
+      "body": "「私が作ったすべての実体を地の面から消し去る（delebo omnem substantiam, quam feci）」──神による自己創造物の全消去宣言。「delebo（消し去る）」：「delere（消す・抹消する）」の未来形。同動詞がv.23「delevit omnem substantiam（すべての実体を消し去った）」の完了形として実行が確認される──予告と実行の間の章全体が「delebo（消し去るだろう）」の緊張の時間として機能する。「quam feci（私が作ったもの）」：神が「作った（feci）」ものを「消し去る（delebo）」という自己否定的行為。Genesis第1章「Et vidit Deus cuncta quae fecerat, et erant valde bona（神は造ったすべてを見た、それは極めて良かった）」という「fecerat（作ったもの）」の肯定的評価が、ここでは「delebo quam feci（作ったものを消す）」として完全に反転される。ヴェイユ「Décréation（脱創造）」の神学：神が創造した被造物（substantia）を「消し去る（delere）」という神的行為が「脱創造（décréation）」の最も直接的な聖書的根拠として機能する──しかしヴェイユ的「脱創造」は被造物の「神への自発的返還」であるのに対し、洪水の「delebo」は神による強制的消去として異なる方向性を持つ。コヘレト「Nihil sub sole novum（太陽の下に新しいものは何もない）」（Ecclesiastes I, 10）：「作ったすべてを消し去る」という否定が、コヘレト的「すべての虚無（vanitas）」の極限的実現として読める。",
+      "targetId": "weil_decreation",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 11,
+      "type": "commentary",
+      "anchor": "rupti sunt omnes fontes abyssi magnae, et cataractae caeli apertae sunt:",
+      "body": "「大いなる深淵のすべての泉が破れ（rupti sunt omnes fontes abyssi magnae）、天の水門が開いた（cataractae caeli apertae sunt）」──「反創造（de-creatio）」の宇宙的開始。「abyssi magnae（大いなる深淵）」：Genesis第1章v.2「tenebrae erant super faciem abyssi（闇が深淵の面にあった）」の「abyssus」が再び現れる──創造以前の混沌的「深淵」が「破れた（rupti）」ことで秩序（cosmos）が混沌（chaos）へと逆戻りする。「rupti sunt（破れた）」：「rumpere（引き裂く・破る）」の受動形完了が「外力による破裂」を示す。天と地の両方向から水が来る二重の水源構造：「fontes abyssi（深淵の泉）」という下方と「cataractae caeli（天の水門）」という上方が同時に開く──Genesis第1章で神が「水と水を分けた（dividit aquas ab aquis）」秩序（v.7）が「破れ（rupti）」「開く（apertae）」ことで崩壊する。ブランショ「災いの書（L'Écriture du désastre, 1980）」：「désastre」の語源「de-astre（星の消滅）」と「rupti sunt fontes abyssi（深淵が破れた）」の宇宙的崩壊が対応する。레ヴィナス「il y a（あそこに何かがある）」：「il y a」は存在が否定できない匿名的・恐怖的な「ある」の経験であり、「abyssus（深淵）」が「破れる」ことで現れる無構造的な水の溢れが「il y a」の物語的形象として機能する。",
+      "targetId": "hieronymus_genesis_1",
+      "targetParagraphId": 2
+    },
+    {
+      "paragraphId": 16,
+      "type": "commentary",
+      "anchor": "et inclusit eum Dominus deforis.",
+      "body": "「主はノアを外から閉じられた（inclusit eum Dominus deforis）」──「inclusit（閉じた）」：「includere（中に含める・閉じ込める）」の完了形。「deforis（外から）」という副詞が最も重要──ノア自身が閉じたのでなく、「外から（deforis）」神が閉じた。神の行為が外から方舟の扉を閉じるという身体的・建築的介入として記述される。「護り」と「監禁」の両義性：「外から閉じること（includere deforis）」は「安全に守ること」であると同時に「外に出られないこと」でもある──ノアは方舟の中に完全に委ねられ、自分では扉を開けられない。カフカ的読解：「外から閉じられる」という状態がカフカ『城（Das Schloß）』の「入れない城」・『審判（Der Proceß）』の「逃げられない審判」と構造的に共鳴する──神の護りが同時に脱出不能の閉鎖として現れる逆説。Genesis第4章v.14「a facie tua abscondar（あなたの顔から隠れる）」というカインの追放が「神の前を去ること」の選択であるのに対し、ここではノアが「神によって外から閉じられる」──追放と保護という逆方向の行為が同様の「閉じる（includere / abscondere）」構造を持つ。",
+      "targetId": "hieronymus_genesis_4",
+      "targetParagraphId": 16
+    },
+    {
+      "paragraphId": 18,
+      "type": "commentary",
+      "anchor": "porro arca ferebatur super aquas.",
+      "body": "「方舟は水の上を動いていた（arca ferebatur super aquas）」──本章の最も精密な語彙的回響。「ferebatur（動いていた・漂っていた）」：Genesis第1章v.2「spiritus Dei ferebatur super aquas（神の霊が水の面を動いていた）」の完全な語彙的反復。創造の始まりで「神の霊（spiritus Dei）」が「水の面を動いていた（ferebatur super aquas）」のに対し、洪水では「方舟（arca）」が「水の上を動いている（ferebatur super aquas）」──同一の動詞・同一の前置詞句が「霊」から「方舟」への主語の置き換えによって反復される。創造の「霊の運動（spiritus ferebatur）」が反創造の「方舟の漂流（arca ferebatur）」として変奏される逆説：「spiritus（霊）」が「arca（方舟）」に、生命的・神的な運動が木製の人工物の漂流として置き換えられる。しかし同時に方舟の中には「spiraculum vitae（命の息吹）」（v.15・v.22）が生きている──方舟は「spiritus（霊）」の容器として「ferebatur（動く）」という継続を保つ。ブランショ「文学空間」における「作品（œuvre）」の漂流：書かれた作品は作者の意図を離れて「水の上を漂う（ferebatur super aquas）」──方舟的な「容器（arca）」としての作品が、外部の力（aquae：水・時間）の上を漂流する形象として読める。",
+      "targetId": "hieronymus_genesis_1",
+      "targetParagraphId": 2
+    },
+    {
+      "paragraphId": 19,
+      "type": "commentary",
+      "anchor": "opertique sunt omnes montes excelsi sub universo caelo.",
+      "body": "「天の下のすべての高い山が覆われた（opertique sunt omnes montes excelsi sub universo caelo）」──Genesis第11章「turrim, cujus culmen pertingat ad caelum（天に届く頂を持つ塔）」というバベルの垂直的野望との対照。バベルでは人間が「天（caelum）」まで届こうとしたが、洪水では「天の下（sub universo caelo）」のすべての山が覆われる──人間の垂直的上昇への野望（turris ad caelum）が、「水による水平化（montes opertae）」として反転される。「omnes montes excelsi（すべての高い山）」：創造における「乾いた地」の出現（Genesis第1章v.9「appareat arida」）の逆転として、山という地の最高点が水に覆われることで「乾いた地」が消滅する。Genesis第19章v.24「sulphur et ignem a Domino de caelo（天から硫黄と火）」という「天から降るもの」がソドムの垂直的滅亡として機能したのに対し、洪水は「水による水平的覆い（opertae）」として異なる破壊のモダリティを示す。レヴィナス「il y a」の形象：「すべてを覆う水（aquae omnia repleverunt）」という匿名的・全体的な充満が、「il y a」の経験──逃げ場のない存在の充満──として機能する。",
+      "targetId": "hieronymus_genesis_11",
+      "targetParagraphId": 4
+    },
+    {
+      "paragraphId": 22,
+      "type": "commentary",
+      "anchor": "et cuncta, in quibus spiraculum vitae est in terra, mortua sunt.",
+      "body": "「命の息吹を持つ地上のすべてのものが死んだ（cuncta in quibus spiraculum vitae est……mortua sunt）」──「spiraculum vitae（命の息吹）」：Genesis第2章v.7「inspiravit in faciem ejus spiraculum vitae（その顔に命の息吹を吹き込んだ）」の創造語彙が、ここでは消滅の文脈で反復される。「命の息吹を持つもの（in quibus spiraculum vitae est）」という所有形として定義された生命が、「死んだ（mortua sunt）」という過去形で消去される。「spiraculum（息・通気孔）」の反転：創造では神がアダムに「吹き込んだ（inspiravit）」息吹が生命を与えたが、洪水ではその「spiraculum」を持つすべてが「mortua（死んだ）」──「息吹の吹き込み」という創造の逆転として「息吹の消滅」が洪水の本質を定義する。ヴェイユ「Décréation」：「spiraculum vitae（命の息吹）」の消去が「被造物の非被造物への回帰」という「脱創造（décréation）」の極限形として読める。コヘレト「afflictio spiritus（霊の苦悩）」（Ecclesiastes I, 14）の「spiritus（霊・息）」が、ここでは生命の根拠として死の形象と直接対置される──「spiraculum（息吹）を持つもの」の消滅が「afflictio spiritus（霊の苦悩）」の字義通りの実現として。",
+      "targetId": "weil_decreation",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 23,
+      "type": "commentary",
+      "anchor": "Et delevit omnem substantiam quae erat super terram, ab homine usque ad pecus, tam reptile quam volucres caeli: et deleta sunt de terra. Remansit autem solus Noe, et qui cum eo erant in arca.",
+      "body": "「ノアだけが残った（Remansit autem solus Noe）、そして方舟にいた者たちが」──本章の最も凝縮された結語。「delevit omnem substantiam（すべての実体を消し去った）」：v.4「delebo omnem substantiam（消し去るだろう）」の予告の完了。予言が成就される──神の言葉の遂行的力（performativity）の最高の例。「ab homine usque ad pecus（人から家畜まで）」：ヨブ記第1章の財産目録（ヨブの羊・ラクダ・牛・ロバ）とは逆方向に、すべての生き物が系統的に消去される。「Remansit autem solus Noe（ノアだけが残った）」：「Remansit（残った）」＋「solus（ただ一人）」──Genesis第32章v.24「mansit solus（ヤコブは独り残った）」と同一の「独り残る（manere solus）」構造。ヤコブの孤独が格闘への準備であったように、ノアの孤独は新しい創造の出発点として機能する。ブランショ「災いの書（L'Écriture du désastre, 1980）」：「災い（désastre）」の後に「残ること（rester）」が語りの可能性の条件となる──ノアの「Remansit（残った）」という生き残りが洪水の語り得る唯一の視点を提供する。「証言者（témoin）」としての生き残り：「消し去られた（deleta sunt）」後に「残った（remansit）者」のみが語ることができる──この構造が聖書の語り全体を支える証言論的根拠。",
+      "targetId": "hieronymus_genesis_32",
+      "targetParagraphId": 24
+    },
+    {
+      "paragraphId": 24,
+      "type": "prosody",
+      "anchor": "Obtinueruntque aquae terram centum quinquaginta diebus.",
+      "body": "「水は百五十日間、地を支配した（Obtinueruntque aquae terram centum quinquaginta diebus）」──章の結語。「Obtinuerunt（支配した・保持した）」：「obtinere（保持する・支配する）」の完了形。水が「地（terram）」を「支配する（obtinuerunt）」という動詞が、Genesis第1章v.28「dominamini（支配せよ）」という神が人間に与えた「地の支配（dominatio）」の命令語と対照をなす──人間が命じられた「dominatio（支配）」が洪水の水によって「obtinuerunt（水の支配）」として逆転される。「centum quinquaginta dies（百五十日）」：数値の精密さが神の計画の時間的制御を示す。ブランショ「災いの書」における「時間の中断（interruption du temps）」：洪水の「百五十日」という期間が通常の時間の停止として機能する──出来事（déluge）の中に閉じられた「別の時間」。コヘレト「In omnibus his non est memoria operum priorum（これらすべてにおいて前の業の記憶はない）」（Ecclesiastes I, 11の変奏）：洪水後に地が再び現れるまでの「百五十日」が「何もなかった時間」として記憶から消える。しかしヒエロニムスのウルガータはその「何もない時間」を「centum quinquaginta dies」という正確な数値で記録することで、記憶の消去と記録の保存という二重の操作を同時に行う。",
+      "targetId": "hieronymus_ecclesiastes_1",
+      "targetParagraphId": 11
+    }
+  ]
+}
