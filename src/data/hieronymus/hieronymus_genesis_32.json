@@ -1,0 +1,319 @@
+{
+  "id": "hieronymus_genesis_32",
+  "title": "Genesis, Caput XXXII",
+  "author": "Eusebius Sophronius Hieronymus",
+  "source": "Biblia Sacra Vulgata, Liber Genesis, Caput XXXII. Bible Gateway: https://www.biblegateway.com/passage/?search=Genesis+32&version=VULGATE",
+  "year": "Antiquitas",
+  "firstPublication": "Vulgata Latina, c. 382–405 AD（ヒエロニムス訳）",
+  "difficulty": "上級",
+  "category": "hieronymus",
+  "originalLang": "la-LA",
+  "modernRelevance": "★★★★★",
+  "context": "創世記（Liber Genesis）第32章。ラバンのもとを去ったヤコブがエサウとの再会を前に、ヤボク川の渡しで夜通し「ある者（vir）」と格闘し、夜明けに「イスラエル」という新しい名を得て、腿の関節を傷めたまま渡りを超えるという物語。前半（v.1–21）はエサウへの使者と贈り物の段取り、後半（v.22–32）が「ヤボクの格闘」の物語核心。「ある者（vir）」の正体はテキスト内で明示されず──天使・神・夢・ヤコブ自身の内なる葛藤など多様な解釈が並存する。レヴィナス（1906–1995）は「全体性と無限（Totalité et Infini, 1961）」および「存在の彼方へ（Autrement qu'être, 1974）」において、このヤコブの格闘を「他者との関係（relation à l'Autre）」の最高の形象として繰り返し参照した。「顔と顔（facie ad faciem）」（v.30）がレヴィナス的「顔（visage）」の倫理の聖書的根拠。ブランショ（1907–2003）は「文学空間（L'Espace littéraire, 1955）」で書くことを「夜通しの格闘」として捉え、「勝者なき格闘・名のない相手との戦い」としての創作行為をヤコブの格闘と構造的に照応させた。「Non dimittam te, nisi benedixeris（祝福しなければ放さない）」（v.26）という要求をブランショは「作品への要求」として読む──書くことは「祝福（benedicere）」を求めるが、その「祝福」が何であるかは決して分からない。ロラン・バルト（1915–1980）は「明るい部屋（La Chambre claire, 1980）」および「テクストの快楽（Le Plaisir du texte, 1973）」において、「プンクトゥム（punctum）」──刺し傷・突き刺さる細部──という概念を展開したが、「tetigit nervum femoris（腿の神経に触れた）」（v.25）という身体的「触れること」と永続する傷（「claudicabat：跛行した」v.31）がバルト的「プンクトゥム」の原形として読める。美術史：ヤコブの格闘は西洋美術で最も頻繁に描かれた旧約聖書の場面のひとつ。レンブラント「天使と格闘するヤコブ（Jacob Wrestling with the Angel, c.1659, Gemäldegalerie Berlin）」、ドラクロワ「天使と格闘するヤコブ（La Lutte de Jacob avec l'Ange, 1861, Saint-Sulpice, Paris）」、ゴーギャン「われわれはどこから来たのか（D'où venons-nous?, 1897）」でも引用されるモチーフ。特にドラクロワの壁画はボードレール「サロン批評（1845）」で称賛され、印象派以後の色彩論・運動表現に影響を与えた。",
+  "keywords": [
+    "ヤボクの格闘",
+    "mansit solus",
+    "vir luctabatur",
+    "nervus femoris",
+    "Israel",
+    "facie ad faciem",
+    "benedixeris",
+    "claudicabat",
+    "改名",
+    "Mahanaim"
+  ],
+  "relatedTexts": [
+    "hieronymus_genesis_1",
+    "hieronymus_genesis_3",
+    "hieronymus_genesis_4",
+    "hieronymus_genesis_22",
+    "hieronymus_iob_38",
+    "hieronymus_ecclesiastes_1",
+    "rilke_archaischer_torso_apollos",
+    "weil_decreation",
+    "trakl_de_profundis",
+    "dante_paradiso_canto_26"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "verses": "v.1",
+      "original": "Jacob quoque abiit itinere quo coeperat: fueruntque ei obviam angeli Dei.",
+      "provisionalTranslation": "ヤコブもまた旅を始めた。すると神の天使たちが彼に会いに来た。"
+    },
+    {
+      "id": 2,
+      "verses": "v.2",
+      "original": "Quos cum vidisset, ait: Castra Dei sunt haec: et appellavit nomen loci illius Mahanaim, id est, Castra.",
+      "provisionalTranslation": "ヤコブは彼らを見て言った。「これは神の陣営だ。」そしてその場所をマハナイム、すなわち「陣営（複数）」と名付けた。"
+    },
+    {
+      "id": 3,
+      "verses": "v.3",
+      "original": "Misit autem et nuntios ante se ad Esau fratrem suum in terram Seir, in regionem Edom:",
+      "provisionalTranslation": "ヤコブは使者をエサウの兄弟の前に、セイルの地、エドムの地域へ遣わした。"
+    },
+    {
+      "id": 4,
+      "verses": "v.4",
+      "original": "praecepitque eis, dicens: Sic loquimini domino meo Esau: Haec dicit frater tuus Jacob: Apud Laban peregrinatus sum, et fui usque in praesentem diem.",
+      "provisionalTranslation": "そして彼らに命じた。「こう主人エサウに言え。あなたの弟ヤコブはこう言います。私はラバンのもとで旅人として過ごし、今日まで滞在しました。」"
+    },
+    {
+      "id": 5,
+      "verses": "v.5",
+      "original": "Habeo boves, et asinos, et oves, et servos, et ancillas: mittoque nunc legationem ad dominum meum, ut inveniam gratiam in conspectu tuo.",
+      "provisionalTranslation": "「私には牛、ろば、羊、男女の奴隷がいます。主人であるあなたの御目に恵みを見出せるよう、使者を送ります。」"
+    },
+    {
+      "id": 6,
+      "verses": "v.6",
+      "original": "Reversique sunt nuntii ad Jacob, dicentes: Venimus ad Esau fratrem tuum, et ecce properat tibi in occursum cum quadringentis viris.",
+      "provisionalTranslation": "使者たちはヤコブのもとへ戻り言った。「エサウの兄弟のもとへ行きました。エサウは四百人の男を従えてあなたに会いに向かっています。」"
+    },
+    {
+      "id": 7,
+      "verses": "v.7",
+      "original": "Timuit Jacob valde: et perterritus divisit populum qui secum erat, greges quoque et oves, et boves, et camelos, in duas turmas,",
+      "provisionalTranslation": "ヤコブは非常に恐れ、おびえた。共にいた人々と羊の群れ、牛、ラクダを二組に分けた。"
+    },
+    {
+      "id": 8,
+      "verses": "v.8",
+      "original": "dicens: Si venerit Esau ad unam turmam, et percusserit eam, alia turma, quae relicta est, salvabitur.",
+      "provisionalTranslation": "彼は言った。「エサウが一組に攻めてきてそれを打っても、残る一組は救われるだろう。」"
+    },
+    {
+      "id": 9,
+      "verses": "v.9",
+      "original": "Dixitque Jacob: Deus patris mei Abraham, et Deus patris mei Isaac: Domine qui dixisti mihi: Revertere in terram tuam, et in locum nativitatis tuae, et benefaciam tibi:",
+      "provisionalTranslation": "ヤコブは言った。「私の父アブラハムの神、私の父イサクの神よ。主よ、あなたは私に言われました。あなたの地、あなたの生まれた場所に戻れ、あなたを幸いにしようと。」"
+    },
+    {
+      "id": 10,
+      "verses": "v.10",
+      "original": "minor sum cunctis miserationibus tuis, et veritate tua quam explevisti servo tuo. In baculo meo transivi Jordanem istum: et nunc cum duabus turmis regredior.",
+      "provisionalTranslation": "「私はあなたのすべての憐れみと、あなたが僕に果たしてくださったすべての真実に値しない者です。私は杖一本でこのヨルダン川を渡りましたが、今は二組となって帰ります。」"
+    },
+    {
+      "id": 11,
+      "verses": "v.11",
+      "original": "Erue me de manu fratris mei Esau, quia valde eum timeo: ne forte veniens percutiat matrem cum filiis.",
+      "provisionalTranslation": "「兄エサウの手から救い出してください。彼をひどく恐れています。彼が来て、母と子を打ちはしないかと。」"
+    },
+    {
+      "id": 12,
+      "verses": "v.12",
+      "original": "Tu locutus es quod benefaceres mihi, et dilatares semen meum sicut arenam maris, quae prae multitudine numerari non potest.",
+      "provisionalTranslation": "「あなたは私を幸いにし、私の子孫を海の砂のように数えられないほど増やすとおっしゃいました。」"
+    },
+    {
+      "id": 13,
+      "verses": "v.13",
+      "original": "Cumque dormisset ibi nocte illa, separavit de his quae habebat, munera Esau fratri suo,",
+      "provisionalTranslation": "その夜そこで寝た後、ヤコブは持ち物の中から兄エサウへの贈り物を選り分けた。"
+    },
+    {
+      "id": 14,
+      "verses": "v.14",
+      "original": "capras ducentas, hircos viginti, oves ducentas, et arietes viginti,",
+      "provisionalTranslation": "雌山羊二百頭、雄山羊二十頭、雌羊二百頭、雄羊二十頭、"
+    },
+    {
+      "id": 15,
+      "verses": "v.15",
+      "original": "camelos foetas cum pullis suis triginta, vaccas quadraginta, et tauros viginti, asinas viginti et pullos earum decem.",
+      "provisionalTranslation": "乳を出すラクダとその子三十頭、雌牛四十頭、雄牛二十頭、雌ろば二十頭と子ろば十頭。"
+    },
+    {
+      "id": 16,
+      "verses": "v.16",
+      "original": "Et misit per manus servorum suorum singulos seorsum greges, dixitque pueris suis: Antecedite me, et sit spatium inter gregem et gregem.",
+      "provisionalTranslation": "これらをそれぞれ別々の群れに分けて僕たちの手に渡し、言った。「私の前を進め、群れと群れの間に間隔を置け。」"
+    },
+    {
+      "id": 17,
+      "verses": "v.17",
+      "original": "Et praecepit priori, dicens: Si obvium habueris fratrem meum Esau, et interrogaverit te: Cujus es? aut, Quo vadis? aut, Cujus sunt ista quae sequeris?",
+      "provisionalTranslation": "そして先頭の者に命じた。「もし私の兄エサウに会って、お前は誰の者か、どこへ行くのか、後ろのものは誰の物かと問われたら、」"
+    },
+    {
+      "id": 18,
+      "verses": "v.18",
+      "original": "respondebis: Servi tui Jacob, munera misit domino meo Esau, ipse quoque post nos venit.",
+      "provisionalTranslation": "「答えよ。あなたの僕ヤコブのものです。主人エサウへの贈り物として送られたものです。ヤコブ自身も私たちの後ろから来ます。」"
+    },
+    {
+      "id": 19,
+      "verses": "v.19",
+      "original": "Similiter dedit mandata secundo, et tertio, et cunctis qui sequebantur greges, dicens: Iisdem verbis loquimini ad Esau cum inveneritis eum.",
+      "provisionalTranslation": "同様に二番目、三番目、群れを追うすべての者に命じた。「エサウに会ったらこの同じ言葉で話せ。」"
+    },
+    {
+      "id": 20,
+      "verses": "v.20",
+      "original": "Et addetis: Ipse quoque servus tuus Jacob iter nostrum insequitur. Dixit enim: Placabo illum muneribus quae praecedunt, et postea videbo illum: forsitan propitiabitur mihi.",
+      "provisionalTranslation": "「そして加えよ。あなたの僕ヤコブも私たちの道の後に続きます。」彼は心に言っていた。「先に行く贈り物で彼をなだめよう。その後で会おう。きっと私を受け入れてくれるだろう。」"
+    },
+    {
+      "id": 21,
+      "verses": "v.21",
+      "original": "Praecesserunt itaque munera ante eum, ipse vero mansit nocte illa in castris.",
+      "provisionalTranslation": "贈り物は先に行った。ヤコブ自身はその夜、陣営に残った。"
+    },
+    {
+      "id": 22,
+      "verses": "v.22",
+      "original": "Cumque mature surrexisset, tulit duas uxores suas, et totidem famulas cum undecim filiis, et transivit vadum Jaboc.",
+      "provisionalTranslation": "夜中に起き上がり、二人の妻と二人の女奴隷と十一人の息子を連れてヤボク川の渡しを渡った。"
+    },
+    {
+      "id": 23,
+      "verses": "v.23",
+      "original": "Traductisque omnibus quae ad se pertinebant,",
+      "provisionalTranslation": "自分に属するすべてのものを渡らせてから、"
+    },
+    {
+      "id": 24,
+      "verses": "v.24",
+      "original": "mansit solus: et ecce vir luctabatur cum eo usque mane.",
+      "provisionalTranslation": "ヤコブは独り残った。すると、ある者が夜明けまで彼と格闘した。"
+    },
+    {
+      "id": 25,
+      "verses": "v.25",
+      "original": "Qui cum videret quod eum superare non posset, tetigit nervum femoris ejus, et statim emarcuit.",
+      "provisionalTranslation": "その者はヤコブに勝てないと見て、ヤコブの腿の関節（神経）に触れた。すると腿の関節がくじけた。"
+    },
+    {
+      "id": 26,
+      "verses": "v.26",
+      "original": "Dixitque ad eum: Dimitte me: jam enim ascendit aurora. Respondit: Non dimittam te, nisi benedixeris mihi.",
+      "provisionalTranslation": "その者は言った。「放してくれ。夜明けが来た。」ヤコブは答えた。「祝福してくださらなければ放しません。」"
+    },
+    {
+      "id": 27,
+      "verses": "v.27",
+      "original": "Ait ergo: Quod nomen est tibi? Respondit: Jacob.",
+      "provisionalTranslation": "「お前の名は何か。」「ヤコブです。」"
+    },
+    {
+      "id": 28,
+      "verses": "v.28",
+      "original": "At ille: Nequaquam, inquit, Jacob appellabitur nomen tuum, sed Israel: quoniam si contra Deum fortis fuisti, quanto magis contra homines praevalebis?",
+      "provisionalTranslation": "「お前の名はもはやヤコブと呼ばれない。イスラエルだ。お前は神に対して強くあったのだから、人に対してはなおさら勝つだろう。」"
+    },
+    {
+      "id": 29,
+      "verses": "v.29",
+      "original": "Interrogavit eum Jacob: Dic mihi, quo appellaris nomine? Respondit: Cur quaeris nomen meum? Et benedixit ei in eodem loco.",
+      "provisionalTranslation": "ヤコブは問いかけた。「あなたの名を教えてください。」その者は答えた。「なぜ私の名を問うのか。」そしてヤコブをその場所で祝福した。"
+    },
+    {
+      "id": 30,
+      "verses": "v.30",
+      "original": "Vocavitque Jacob nomen loci illius Phanuel, dicens: Vidi Deum facie ad faciem, et salva facta est anima mea.",
+      "provisionalTranslation": "ヤコブはその場所をペヌエルと名付けた。「私は神と顔と顔を合わせて見た、しかし私の命は救われた。」"
+    },
+    {
+      "id": 31,
+      "verses": "v.31",
+      "original": "Ortusque est ei statim sol, postquam transgressus est Phanuel: ipse vero claudicabat pede.",
+      "provisionalTranslation": "ペヌエルを過ぎると太陽が彼の上に昇った。ヤコブは腿を引きずって歩いた。"
+    },
+    {
+      "id": 32,
+      "verses": "v.32",
+      "original": "Quam ob causam non comedunt nervum filii Israel, qui emarcuit in femore Jacob, usque in praesentem diem: eo quod tetigerit nervum femoris ejus, et obstupuerit.",
+      "provisionalTranslation": "それゆえイスラエルの子らは今日に至るまで、腿の関節の神経を食べない。その者がヤコブの腿の関節の神経に触れ、それがくじけたから。"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 2,
+      "type": "glossary",
+      "anchor": "Castra Dei sunt haec: et appellavit nomen loci illius Mahanaim, id est, Castra.",
+      "body": "「マハナイム（Mahanaim）」：ヘブライ語「מַחֲנַיִם（machanayim）」は「二つの陣営」を意味する双数形。ヤコブが神の天使たちに会った場所の命名。「Castra（陣営）」というラテン語がヒエロニムスの訳語で、「二重の陣営（castra＋双数形の含意）」が後のヤコブの人員・家畜を「duas turmas（二組）」（v.7–8）に分ける行動と対応する。地名の命名行為がGenesis全体を通じて「出来事の記念」として反復される──Genesis第11章「Babel（混乱）」・Genesis第22章「Dominus videt（主は見る）」・本章「Mahanaim（二つの陣営）」・「Phanuel（神の顔）」（v.30）という命名の連鎖。美術史：天使たちとヤコブの出会いはグィード・レーニ（Guido Reni, 1575–1642）らが描いたが、むしろ「ヤボクの格闘（v.24–30）」の場面に集中する傾向がある。しかし「Castra Dei（神の陣営）」という天使との最初の遭遇は、ブレイク（William Blake）の「ヤコブの梯子（Jacob's Ladder）」的図像と連動する──神の使者との遭遇という旅の予備的場面として。"
+    },
+    {
+      "paragraphId": 10,
+      "type": "commentary",
+      "anchor": "minor sum cunctis miserationibus tuis, et veritate tua quam explevisti servo tuo. In baculo meo transivi Jordanem istum: et nunc cum duabus turmis regredior.",
+      "body": "「私は杖一本でこのヨルダン川を渡りましたが、今は二組となって帰ります（In baculo meo transivi Jordanem istum: et nunc cum duabus turmis regredior）」──「in baculo meo（杖一本で）」：「baculum（杖）」は旅人の最小限の所有物であり、「杖一本で渡った」という対比が神の祝福の倍加として機能する。「minor sum cunctis miserationibus tuis（あなたのすべての憐れみに値しない）」：「minor（より小さい）」という比較級が謙遜の神学的語法。Genesis第22章v.12「non pepercisti unigenito filio tuo propter me（独り子を惜しまなかった）」のアブラハムの信仰に対し、ヤコブの祈りは「minor sum（より小さい）」という自己卑小化から始まる──信仰の英雄的主張ではなく「神の恵みへの応答」という祈りの構造。「regredior（帰る）」：Genesis第32章はヤコブの「帰還（reditus）」の章として、旅立ち（Genesis第12章のアブラハム）と帰還という族長物語の基本的時間軸上に位置する。",
+      "targetId": "hieronymus_genesis_22",
+      "targetParagraphId": 16
+    },
+    {
+      "paragraphId": 20,
+      "type": "commentary",
+      "anchor": "Placabo illum muneribus quae praecedunt, et postea videbo illum: forsitan propitiabitur mihi.",
+      "body": "「先に行く贈り物で彼をなだめよう（Placabo illum muneribus）──その後で会おう（videbo illum）──きっと私を受け入れてくれるだろう（forsitan propitiabitur mihi）」──ヤコブの内的独白の三段構造：宥め（Placabo）→見ること（videbo）→受け入れ（propitiabitur）。「forsitan（きっと・おそらく）」という推量の副詞が、ヤコブの確信の不確かさを示す。「videbo illum（彼を見よう）」：「見ること（videre）」が和解の行為として位置づけられる。Genesis第19章v.26「versa est in statuam salis」のロトの妻の「見ること」が禁じられた視線だったのに対し、ヤコブにとって「見ること（videbo）」は和解の準備として機能する──同じ「見ること（videre）」がGenesis章ごとに異なる神学的意味を担う。後にv.30「Vidi Deum facie ad faciem（神と顔と顔を合わせて見た）」という直接的神的視線へと収束する。",
+      "targetId": "hieronymus_genesis_19",
+      "targetParagraphId": 26
+    },
+    {
+      "paragraphId": 24,
+      "type": "commentary",
+      "anchor": "mansit solus: et ecce vir luctabatur cum eo usque mane.",
+      "body": "「ヤコブは独り残った（mansit solus）──すると、ある者が夜明けまで彼と格闘した（vir luctabatur cum eo usque mane）」──本章・本テキストの核心。「mansit solus（独り残った）」：すべての者を渡らせた後の絶対的孤独。「vir（ある者・男）」：相手の正体を示さない不定名詞。天使・神・神の使者・悪霊・ヤコブ自身の影・兄エサウの霊など多様な解釈が可能なテキストの意図的曖昧性。「luctabatur（格闘した）」：「luctari（格闘する・もがく）」の未完了過去が「夜通しの継続的格闘」を示す。ブランショ「文学空間（L'Espace littéraire, 1955）」：「書くことは夜通しの格闘（lutte nocturne）である。書く者は『独り残った（mansit solus）』後に、名のない者（vir）と格闘する。相手が何者かは分からない。格闘が終わるのは『夜明け（mane）』だが、勝利があったかどうかも分からない」──ブランショはこの「vir（名のない者）との格闘」を創作行為の根本的構造として読む。レヴィナス「全体性と無限（Totalité et Infini, 1961）」第3部：「他者（Autrui）との関係は格闘（lutte）の形を取ることができる──しかし真の格闘は相手を消滅させようとしない。ヤコブの格闘はこの意味で『他者との非暴力的接触（contact non-violent avec l'Autre）』の逆説的形式」として分析される。リルケ「アルカイックなアポロンの胴体（Archaïscher Torso Apollos, 1907）」の「Du musst dein Leben ändern（あなたの生を変えなければならない）」という命令がヤコブへの「Israel（改名）」命令と対応する──芸術作品との格闘が主体の変容を要求する。",
+      "targetId": "rilke_archaischer_torso_apollos",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 25,
+      "type": "commentary",
+      "anchor": "tetigit nervum femoris ejus, et statim emarcuit.",
+      "body": "「腿の関節（神経）に触れた（tetigit nervum femoris ejus）──すると腿の関節がくじけた（emarcuit）」──「tetigit（触れた）」：「tangere（触れる）」の完了形。Genesis第3章v.3「ne tangeremus illud（それに触れてもいけない）」という禁断の木への「触れること」の禁止以来、「tangere（触れる）」は聖書において危険・変容・神的接触の語として機能する。「nervum（神経・腱）」：腿の神経という身体の最も深い部位への「触れること」が永続的な傷（claudicabat：跛行）を残す。ロラン・バルト「明るい部屋（La Chambre claire, 1980）」の「プンクトゥム（punctum）」概念：「スタジウム（studium）」が写真の一般的な文化的意味であるのに対し、「プンクトゥム」は見る者を刺し傷め・突き刺さる細部として定義される。「tetigit nervum（神経に触れた）」という動詞が「触れること・刺すこと」の語義を持つ点で、バルトの「punctum（刺し傷）」の語義──「pungere（刺す）」から来る──と語源的に対応する。「格闘の後に残る刺し傷としての傷（emarcuit）」がバルト的「プンクトゥム」の原形として機能する──そして傷は「claudicabat（跛行）」として生涯続く（v.31）。美術史：レンブラント「天使と格闘するヤコブ（Jacob Wrestling with the Angel, c.1659, Gemäldegalerie Berlin）」は格闘の瞬間よりも天使がヤコブを優しく保持するような場面として描き、「tetigit（触れた）」という接触の両義性（暴力と恩寵）を視覚化した。",
+      "targetId": "rilke_archaischer_torso_apollos",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 26,
+      "type": "commentary",
+      "anchor": "Non dimittam te, nisi benedixeris mihi.",
+      "body": "「祝福してくださらなければ放しません（Non dimittam te, nisi benedixeris mihi）」──格闘の言語的頂点。「Non dimittam（放さない）」：「dimittere（放す・送る）」の否定形未来。相手の「Dimitte me（放してくれ）」という要求を「Non dimittam nisi（〜しなければ放さない）」という条件付き拒絶で返す。「benedixeris（祝福するなら）」：接続法完了が「祝福した暁には」という条件の完了を示す。ブランショ「文学空間」の核心：「Non dimittam te, nisi benedixeris mihi（祝福しなければ放さない）」という要求をブランショは書く行為の根本的要求として読む──作家は作品（vir：名のない者）を「祝福（benedicere）」なしに放せない。しかし「祝福」が何であるかは作品自身も示さない。「benedicere（祝福する）」：「bene-dicere（善く語る）」という語源的分解が、祝福を「よく語られること・善い言葉によって命名されること」として定義する──格闘の結末が「言葉（dicere）」として与えられる点が重要。Genesis第22章v.17「benedicam tibi（あなたを祝福する）」というアブラハムへの神の祝福が、ここではヤコブが「格闘によって要求する祝福」として反転される──与えられる祝福から強奪される祝福へ。",
+      "targetId": "hieronymus_genesis_22",
+      "targetParagraphId": 17
+    },
+    {
+      "paragraphId": 28,
+      "type": "commentary",
+      "anchor": "Nequaquam, inquit, Jacob appellabitur nomen tuum, sed Israel: quoniam si contra Deum fortis fuisti, quanto magis contra homines praevalebis?",
+      "body": "「お前の名はもはやヤコブと呼ばれない、イスラエルだ（non Jacob……sed Israel）──お前は神に対して強くあったのだから（si contra Deum fortis fuisti）、人に対してはなおさら勝つだろう」──「改名（renominatio）」の神学的・存在論的意義。「Nequaquam……appellabitur（もはや呼ばれない）」：それまでの名の廃棄。「Jacob（ヤコブ）」：ヘブライ語「יַעֲקֹב（Yaaqov）」は「踵（アケブ）を掴む者」の語源──Genesis第25章でエサウの踵を掴んで生まれた出自を示す名。「Israel（イスラエル）」：ヘブライ語「יִשְׂרָאֵל（Yisra'el）」は「神と格闘した者・神に勝った者」。名の変更が格闘の成果として与えられる。バルト「神話作用（Mythologies, 1957）」・「テクストの快楽（Le Plaisir du texte, 1973）」：バルトにとって固有名は本来「意味を持たない」はずだが（それが固有名の定義）、聖書的命名では名が「物語と格闘の記念」として意味を担う──「Jacob（踵を掴む者）→Israel（神と格闘した者）」という名の変化がバルト的「記号の転換」として読める。Genesis第2章v.23「Virago, quoniam de viro sumpta est（女、なぜなら男から取られた）」という語源的命名の伝統がここで「格闘による改名」として最高点に達する。「contra Deum fortis fuisti（神に対して強かった）」：人間が神に対して強くあることができるという逆説──ヤコブの格闘がハイデガー「存在と時間」における「投企（Entschlossenheit）」としての実存的選択の原形として読める。",
+      "targetId": "hieronymus_genesis_2",
+      "targetParagraphId": 23
+    },
+    {
+      "paragraphId": 29,
+      "type": "commentary",
+      "anchor": "Dic mihi, quo appellaris nomine? Respondit: Cur quaeris nomen meum? Et benedixit ei in eodem loco.",
+      "body": "「あなたの名を教えてください（Dic mihi nomen tuum）──なぜ私の名を問うのか（Cur quaeris nomen meum）？そしてヤコブをその場所で祝福した（benedixit ei in eodem loco）」──応答拒否という対称の破れ。ヤコブは名を問われて「Jacob（v.27）」と答えたが、同じ問いを相手に返すと「Cur quaeris（なぜ問うのか）」と拒否される。この非対称が相手の「他性（alterité）」の証拠として機能する──相手は名を持つが、その名を人間の言語では保持できない。レヴィナス「全体性と無限（Totalité et Infini）」：「他者の顔（visage de l'Autre）」は定義・把握・同化を拒む──「Cur quaeris nomen meum（なぜ名を問うのか）」という拒否が、他者の無限性（infini）が名という有限な記号に収まることを拒む身振りとして読める。「Et benedixit ei in eodem loco（そしてその場所で祝福した）」：名を明かさないまま祝福が与えられる──祝福は名の知識に依存しない。ブランショ「不確かなコミュニケーション（La communauté inavouable, 1983）」：知ることのできない他者から受け取る「贈り物（don）」としての祝福が、相手の正体不明性のまま成立する逆説。創世記第22章v.8「Deus providebit（神が備える）」の信仰と同構造──何者かを知らないまま、与えられるものを受け取る信仰の形式。",
+      "targetId": "weil_accepter_le_vide",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 30,
+      "type": "commentary",
+      "anchor": "Vidi Deum facie ad faciem, et salva facta est anima mea.",
+      "body": "「私は神と顔と顔を合わせて見た（Vidi Deum facie ad faciem）──しかし私の命は救われた（salva facta est anima mea）」──ペヌエルの命名と神学的宣言。「facie ad faciem（顔と顔を合わせて）」：「facies（顔）」の対向を示す空間的表現。出エジプト記33:20「Non enim videbit me homo, et vivet（人は私を見て生き続けることができない）」という神の言葉──神を直接見ることは死を意味するという神学的前提──に対し、ヤコブの「Vidi Deum……et salva facta est anima（見た……しかし命は救われた）」という驚きの宣言が逆説的に機能する。レヴィナス「全体性と無限（Totalité et Infini）」「倫理と無限（Éthique et Infini, 1982）」における「顔（visage）」の倫理の最高の聖書的定式：「facie ad faciem（顔と顔を合わせて）」という直接的接触が神的他者との関係の定式として機能する──顔は定義・認識・把握の対象でなく「命令（commandement）」を発する──「Tu ne tueras point（殺してはならない）」という命令が顔から発せられる。美術史：ドラクロワ「天使と格闘するヤコブ（La Lutte de Jacob avec l'Ange, 1861, Chapelle des Saints-Anges, Église Saint-Sulpice, Paris）」──ドラクロワが聖シュルピス教会の礼拝堂壁面に完成させた晩年の大作。ボードレール「サロン批評（1845）」で「この作品の色彩は光線が庭園の葉の間から差し込むように振動する」と絶賛された。格闘の瞬間よりも格闘の「意味（sens）」を問う哲学的絵画として、レヴィナス的「他者との格闘」を先取りするかのような画面構成。Genesis第19章v.26「versa est in statuam salis（塩の柱になった）」というロトの妻の「facie（顔）」の凍結と対照的に、ヤコブは「facie ad faciem（顔と顔を合わせた）」後に生き延び、傷とともに歩む。",
+      "targetId": "hieronymus_genesis_19",
+      "targetParagraphId": 26
+    },
+    {
+      "paragraphId": 31,
+      "type": "commentary",
+      "anchor": "Ortusque est ei statim sol, postquam transgressus est Phanuel: ipse vero claudicabat pede.",
+      "body": "「ペヌエルを過ぎると太陽が彼の上に昇った（Ortusque est sol）──ヤコブは腿を引きずって歩いた（claudicabat pede）」──対比と持続の節。「Ortusque est sol（太陽が昇った）」：Genesis第19章v.23「Sol egressus est super terram（太陽が地の上に昇った）」──ソドム滅亡の朝の太陽と同一の表現が、ここではヤコブの渡しの朝として反復される。「太陽の昇り」が Genesis を通じて転換点・救済・危機を示す時間的指標として機能することが確認される。「claudicabat pede（腿を引きずって歩いた）」：「claudicare（跛行する・びっこを引く）」の未完了過去が「継続する跛行」として傷の永続性を示す。バルト「明るい部屋」の「プンクトゥム」概念の延長：プンクトゥムは見た後も刺さり続ける傷──「claudicabat（引きずり続けた）」という継続体が「tetigit（触れた瞬間）」の穿刺が時間を超えて続くことを示す。格闘の傷が生涯の歩き方を変えるという変容の永続性：Genesis第22章でイサクが「子供のまま（puer）」から大人への通過儀礼を経験したとすれば、ヤコブは「格闘の傷（nervus femoris）」によって変容の永続的証拠を身体に刻まれる。ヴェイユ「affliction（苦悩）」論──魂に刻まれる「afflictio」が身体的傷として現れるという逆説──が、「claudicabat」という跛行の永続性として具体化される。",
+      "targetId": "weil_necessite",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 32,
+      "type": "glossary",
+      "anchor": "Quam ob causam non comedunt nervum filii Israel, qui emarcuit in femore Jacob, usque in praesentem diem:",
+      "body": "「それゆえイスラエルの子らは今日に至るまで（usque in praesentem diem）、腿の関節の神経を食べない」──食事規定（kashrut）の語源的記述。「usque in praesentem diem（今日に至るまで）」：Genesis第4章v.15「usque in praesentem diem（今日に至るまで）」というカインの刻印の定型句と同一表現が、ヤコブの「傷の記念」として用いられる──カインの刻印がその「否定的起源」の記念であるのに対し、ヤコブの食事規定はその「格闘の記念」として「肯定的な傷（blessed wound）」の歴史化。身体的実践（食べないこと）が物語の記憶を民族の日常に刻み込む「記念論（anamnestics）」として機能する──「tetigit（触れた）」という単一の動作が「usque in praesentem diem（今日まで）」という永続する実践へと拡大される。バルト「神話作用（Mythologies, 1957）」における「神話（mythe）」の機能：歴史的偶然の出来事が「自然な事実（fait naturel）」として固定される過程──ヤコブの腿の傷が「食べない理由」という神話的自然化として定着する。",
+      "targetId": "hieronymus_genesis_4",
+      "targetParagraphId": 15
+    }
+  ]
+}
