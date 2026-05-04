@@ -1,0 +1,255 @@
+{
+  "id": "hieronymus_genesis_50",
+  "title": "Genesis, Caput L",
+  "author": "Eusebius Sophronius Hieronymus",
+  "source": "Biblia Sacra Vulgata, Liber Genesis, Caput L. Bible Gateway: https://www.biblegateway.com/passage/?search=Genesis+50&version=VULGATE",
+  "year": "Antiquitas",
+  "firstPublication": "Vulgata Latina, c. 382–405 AD（ヒエロニムス訳）",
+  "difficulty": "上級",
+  "category": "hieronymus",
+  "originalLang": "la-LA",
+  "modernRelevance": "★★★★★",
+  "context": "創世記（Liber Genesis）第50章。創世記全巻の最終章。ヤコブの死（前章第49章末尾）を受けて、ヨセフがエジプトで父の遺体をミイラ化し（v.1–3）、パロのもとに哀悼を申し出てカナンへの埋葬を許可される（v.4–6）。盛大な行列によってカナンに戻り、マクペラの洞穴にヤコブを葬る（v.7–13）。エジプトに戻った後、兄弟たちが「父が死んだ今、ヨセフは自分たちへの復讐を考えているかもしれない」と恐れ（v.14–17）、ヨセフが「恐れるな」と答え（v.18–21）、百十歳で死に棺に収められる（v.22–26）という三部構成。本章は創世記の「閉じ（clôture）」として機能するとともに、出エジプト記への開口部としても機能する──v.24「Deus visitabit vos（神はあなたたちを訪れる）」・v.25「asportate ossa mea vobiscum（私の骨を共に運べ）」が出エジプト記・モーセの物語への「予告」として働く。デリダ（1930–2004）は「喪の作業（Le Travail du deuil）」・「アデュー（Adieu, 1997）」・「骸骨（Spectres de Marx, 1993）」等において、「残存するもの（ce qui reste）」──骨・遺骨・名前──が哀悼の不可能性の証拠として機能することを論じた。「asportate ossa mea vobiscum（私の骨を共に運べ）」（v.25）というヨセフの遺言は、この「残存するもの（ossa：骨）」の神学的・哲学的問題の聖書的起源として読める。トーマス・マン（1875–1955）は四巻の大河小説『ヨセフとその兄弟たち（Joseph und seine Brüder, 1933–1943）』において、ヨセフ物語を「神話的反復（mythische Wiederkehr）」の視点から再解釈し、ヨセフを「自分自身の神話を意識的に演じる者」として描いた。マン的読解では「Vos cogitastis de me malum: sed Deus vertit illud in bonum（あなたたちは私に悪を企てた、しかし神はそれを善に変えた）」（v.20）という赦しの言葉がヨセフの自己意識的な「神話的役割の完成」として機能する。レヴィナス（1906–1995）は「倫理と無限（Éthique et Infini, 1982）」・「神・死・時間（Dieu, la mort et le temps, 1993）」において、「他者の死（mort de l'autre）」への責任を倫理の根本構造として位置づけた──「ヤコブの顔に突き伏す（ruit super faciem patris）」ヨセフの身体的応答がレヴィナス的「他者の顔への責任」の身体的極限として読める。ナンシー（1940–2021）は「身体（Corpus, 1992）」・「触れることについて──デリダに（Le Toucher—Jean-Luc Derrida, 2000）」において、「触れること（le toucher）」が哲学的認識論の根本的問題として展開した──ヨセフが父の顔に倒れ伏して「接吻する（deosculans）」という身体的接触が「触れることの哲学（philosophie du toucher）」の聖書的形象として機能する。",
+  "keywords": [
+    "哀悼",
+    "asportate ossa mea",
+    "planctu",
+    "Deus vertit in bonum",
+    "deosculans",
+    "赦し",
+    "骨",
+    "喪の作業",
+    "閉幕",
+    "Deus visitabit"
+  ],
+  "relatedTexts": [
+    "hieronymus_genesis_1",
+    "hieronymus_genesis_3",
+    "hieronymus_genesis_4",
+    "hieronymus_genesis_22",
+    "hieronymus_genesis_32",
+    "hieronymus_genesis_49",
+    "hieronymus_ecclesiastes_1",
+    "hieronymus_iob_1",
+    "weil_decreation",
+    "dante_paradiso_canto_26"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "verses": "v.1",
+      "original": "Quod cernens Joseph, ruit super faciem patris, flens et deosculans eum.",
+      "provisionalTranslation": "ヨセフはそれを見て、父の顔に突き倒れ、泣きながら口づけした。"
+    },
+    {
+      "id": 2,
+      "verses": "v.2",
+      "original": "Praecepitque servis suis medicis ut aromatibus condirent patrem.",
+      "provisionalTranslation": "ヨセフは医師である僕たちに、父を香料でミイラにするよう命じた。"
+    },
+    {
+      "id": 3,
+      "verses": "v.3",
+      "original": "Quibus jussa explentibus, transierunt quadraginta dies: iste quippe mos erat cadaverum conditorum: flevitque eum AEgyptus septuaginta diebus.",
+      "provisionalTranslation": "命令が果たされるのに四十日かかった。これがミイラにされた遺体の慣わしだったから。エジプトは七十日間、ヤコブのために泣き悲しんだ。"
+    },
+    {
+      "id": 4,
+      "verses": "v.4",
+      "original": "Et expleto planctus tempore, locutus est Joseph ad familiam Pharaonis: Si inveni gratiam in conspectu vestro, loquimini in auribus Pharaonis:",
+      "provisionalTranslation": "嘆きの期間が終わると、ヨセフはパロの家臣たちに言った。「もし私があなたたちの御目に恵みを見出しているなら、パロに伝えてください。」"
+    },
+    {
+      "id": 5,
+      "verses": "v.5",
+      "original": "eo quod pater meus adjuraverit me dicens: En morior: in sepulchro meo, quod fodi mihi in terra Chanaan, sepelies me. Ascendam igitur, et sepeliam patrem meum, ac revertar.",
+      "provisionalTranslation": "「父が私に誓わせて言いました。見よ、私は死ぬ。カナンの地に私が自分のために掘った墓に葬ってくれ。だから私はカナンに上って父を葬り、戻ってきます。」"
+    },
+    {
+      "id": 6,
+      "verses": "v.6",
+      "original": "Dixitque ei Pharao: Ascende, et sepeli patrem tuum sicut adjuratus es.",
+      "provisionalTranslation": "パロはヨセフに言った。「上れ、誓わされた通りに父を葬れ。」"
+    },
+    {
+      "id": 7,
+      "verses": "v.7",
+      "original": "Quo ascendente, ierunt cum eo omnes senes domus Pharaonis, cunctique majores natu terrae AEgypti:",
+      "provisionalTranslation": "ヨセフが上るに際し、パロの家のすべての長老たち、エジプトの地のすべての年長者たちが共に行った。"
+    },
+    {
+      "id": 8,
+      "verses": "v.8",
+      "original": "domus Joseph cum fratribus suis, absque parvulis, et gregibus atque armentis, quae dereliquerant in terra Gessen.",
+      "provisionalTranslation": "ヨセフの家族と兄弟たちが、子供たち、羊の群れ、牛の群れを除いて（これらはゴシェンの地に残した）共に行った。"
+    },
+    {
+      "id": 9,
+      "verses": "v.9",
+      "original": "Habuit quoque in comitatu currus et equites: et facta est turba non modica.",
+      "provisionalTranslation": "行列には戦車と騎士も加わり、大きな一団となった。"
+    },
+    {
+      "id": 10,
+      "verses": "v.10",
+      "original": "Veneruntque ad Aream Atad, quae sita est trans Jordanem: ubi celebrantes exequias planctu magno atque vehementi impleverunt septem dies.",
+      "provisionalTranslation": "彼らはヨルダン川の向こうにあるアタドの穀物打ち場に着いた。そこで盛大で激しい嘆きをもって七日間の葬儀を行った。"
+    },
+    {
+      "id": 11,
+      "verses": "v.11",
+      "original": "Quod cum vidissent habitatores terrae Chanaan, dixerunt: Planctus magnus est iste AEgyptiis. Et idcirco vocatum est nomen loci illius, Planctus AEgypti.",
+      "provisionalTranslation": "カナンの地の住民がそれを見て言った。「これはエジプト人の大きな嘆きだ。」それゆえその場所はアベル・ミツライム、すなわち「エジプトの嘆き」と呼ばれた。"
+    },
+    {
+      "id": 12,
+      "verses": "v.12",
+      "original": "Fecerunt ergo filii Jacob sicut praeceperat eis:",
+      "provisionalTranslation": "ヤコブの息子たちは、ヤコブが命じた通りに行った。"
+    },
+    {
+      "id": 13,
+      "verses": "v.13",
+      "original": "et portantes eum in terram Chanaan, sepelierunt eum in spelunca duplici, quam emerat Abraham cum agro in possessionem sepulchri ab Ephron Hethaeo, contra faciem Mambre.",
+      "provisionalTranslation": "彼らはヤコブをカナンの地に運び、アブラハムがヘト人エフロンから墓として買い取った二重の洞穴、マムレの前にある洞穴に葬った。"
+    },
+    {
+      "id": 14,
+      "verses": "v.14",
+      "original": "Reversusque est Joseph in AEgyptum cum fratribus suis, et omni comitatu, sepulto patre.",
+      "provisionalTranslation": "父を葬った後、ヨセフは兄弟たちと行列の全員とともにエジプトに戻った。"
+    },
+    {
+      "id": 15,
+      "verses": "v.15",
+      "original": "Quo mortuo, timentes fratres ejus, et mutuo colloquentes: Ne forte memor sit injuriae quam passus est, et reddat nobis omne malum quod fecimus,",
+      "provisionalTranslation": "父が死ぬと、兄弟たちは恐れ、互いに言い合った。「ヨセフが自分が受けた不正を思い起こして、私たちに行ったすべての悪を報いるかもしれない。」"
+    },
+    {
+      "id": 16,
+      "verses": "v.16",
+      "original": "mandaverunt ei dicentes: Pater tuus praecepit nobis antequam moreretur,",
+      "provisionalTranslation": "彼らはヨセフに言伝した。「父は亡くなる前に私たちに命じました。」"
+    },
+    {
+      "id": 17,
+      "verses": "v.17",
+      "original": "ut haec tibi verbis illius diceremus: Obsecro ut obliviscaris sceleris fratrum tuorum, et peccati atque malitiae quam exercuerunt in te: nos quoque oramus ut servis Dei patris tui dimittas iniquitatem hanc. Quibus auditis flevit Joseph.",
+      "provisionalTranslation": "「父の言葉でこう言えと。お願いだ、兄弟たちの罪と、あなたに行った悪と悪意を忘れてくれ。私たちも、あなたの父の神の僕たちのこの不義を赦してくれるよう祈る。」ヨセフはそれを聞いて泣いた。"
+    },
+    {
+      "id": 18,
+      "verses": "v.18",
+      "original": "Veneruntque ad eum fratres sui: et proni adorantes in terram, dixerunt: Servi tui sumus.",
+      "provisionalTranslation": "兄弟たちがヨセフのもとに来て、地に伏して礼拝し言った。「私たちはあなたの僕です。」"
+    },
+    {
+      "id": 19,
+      "verses": "v.19",
+      "original": "Quibus ille respondit: Nolite timere: num Dei possumus resistere voluntati?",
+      "provisionalTranslation": "ヨセフは答えた。「恐れるな。私たちは神の御心に逆らうことができるのか。」"
+    },
+    {
+      "id": 20,
+      "verses": "v.20",
+      "original": "Vos cogitastis de me malum: sed Deus vertit illud in bonum, ut exaltaret me, sicut in praesentiarum cernitis, et salvos faceret multos populos.",
+      "provisionalTranslation": "「あなたたちは私に対して悪を企てた。しかし神はそれを善に変えた、今あなたたちが見ている通りに私を高めて、多くの民を救うために。」"
+    },
+    {
+      "id": 21,
+      "verses": "v.21",
+      "original": "Nolite timere: ego pascam vos et parvulos vestros: consolatusque est eos, et blande ac leniter est locutus.",
+      "provisionalTranslation": "「恐れるな。私はあなたたちとあなたたちの子たちを養う。」彼は彼らを慰め、優しく穏やかに語りかけた。"
+    },
+    {
+      "id": 22,
+      "verses": "v.22",
+      "original": "Et habitavit in AEgypto cum omni domo patris sui: vixitque centum decem annis. Et vidit Ephraim filios usque ad tertiam generationem. Filii quoque Machir filii Manasse nati sunt in genibus Joseph.",
+      "provisionalTranslation": "ヨセフは父の家族全員とエジプトに住んだ。百十歳まで生きた。エフライムの孫まで見た。マナセの子マキルの息子たちもヨセフの膝の上で生まれた。"
+    },
+    {
+      "id": 23,
+      "verses": "v.23",
+      "original": "Quibus transactis, locutus est fratribus suis: Post mortem meam Deus visitabit vos, et ascendere vos faciet de terra ista ad terram quam juravit Abraham, Isaac et Jacob.",
+      "provisionalTranslation": "これらのことが終わると、ヨセフは兄弟たちに言った。「私の死後、神はあなたたちを訪れ、この地からアブラハム、イサク、ヤコブに誓われた地へと上らせるだろう。」"
+    },
+    {
+      "id": 24,
+      "verses": "v.24",
+      "original": "Cumque adjurasset eos atque dixisset: Deus visitabit vos, asportate ossa mea vobiscum de loco isto:",
+      "provisionalTranslation": "ヨセフは彼らに誓わせて言った。「神はあなたたちを訪れる。私の骨をこの場所から共に運んでいけ。」"
+    },
+    {
+      "id": 25,
+      "verses": "v.25",
+      "original": "mortuus est, expletis centum decem vitae suae annis. Et conditus aromatibus, repositus est in loculo in AEgypto.",
+      "provisionalTranslation": "百十年の生涯を全うして死んだ。香料で防腐処置を施され、エジプトで棺に収められた。"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "ruit super faciem patris, flens et deosculans eum.",
+      "body": "「父の顔に突き倒れ（ruit super faciem patris）、泣きながら口づけした（flens et deosculans）」──本章の開口部であり、創世記全体の感情的頂点のひとつ。「ruit（突き倒れた）」：「ruere（急いで倒れる・突進する）」の完了形で、統制を失った身体的衝動を示す。「super faciem patris（父の顔の上に）」：「顔（facies）」への身体的接触。Genesis第32章v.30「Vidi Deum facie ad faciem（神と顔と顔を合わせて見た）」の「顔（facies）」が、ここでは死んだ父の顔への突き倒れとして変奏される。ナンシー「身体（Corpus, 1992）」・「触れることについて（Le Toucher—Jean-Luc Derrida, 2000）」：「触れること（le toucher）」が哲学の最も根源的な問いとして展開される。「deosculans（口づけした）」：「de-osculari（深く接吻する）」という離別の口づけが「接触（contact）」の極限形式として機能する。ナンシー的読解では「flens et deosculans（泣きながら口づけする）」という同時的な涙と接触が、「死んだ他者の身体（corps mort）」への生者の身体的応答として、他者の死を身体で証言する行為として理解される。レヴィナス「神・死・時間（Dieu, la mort et le temps, 1993）」：「他者の死（mort de l'autre）」は「私の死」より根源的な経験として位置づけられる──「ruit super faciem（顔に突き倒れる）」という身体的崩落が、他者の死に対する主体の無力性・責任の重さの身体的表現。",
+      "targetId": "hieronymus_genesis_32",
+      "targetParagraphId": 30
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "flevitque eum AEgyptus septuaginta diebus.",
+      "body": "「エジプトは七十日間、ヤコブのために泣き悲しんだ（flevitque eum AEgyptus septuaginta diebus）」──「AEgyptus（エジプト）」という国名が主語となり「泣いた（flevit）」という感情動詞が帰属される擬人法。国家・民族が集合的に哀悼を行う主体として描かれる。「quadraginta dies（四十日）」のミイラ化＋「septuaginta dies（七十日）」の公式哀悼：合計百十日の長期にわたる儀礼的哀悼の数値が、ヤコブの死がエジプト全体の「公的出来事（evenement public）」として扱われることを示す。トーマス・マン「ヨセフとその兄弟たち（Joseph und seine Brüder）」第4巻「ヨセフ、養い人（Joseph, der Ernährer, 1943）」：マンはヤコブの死とエジプトでの哀悼を詳細に再構成し、ヨセフが「神話的役割を意識的に演じる者」として父の「神話的な死（mythischer Tod）」を執り行う場面として描いた。「flevitque eum AEgyptus（エジプトが泣いた）」という集合的哀悼が、マン的「神話の集合的記憶」の社会的具体化として機能する。デリダ「喪の作業（Le travail du deuil）」：哀悼の「期間（tempus）」──v.4「expleto planctus tempore（嘆きの期間が終わると）」──という時間的制限が「哀悼（deuil）」に課せられることで、悲しみが「作業（travail）」として時間的に構造化される。",
+      "targetId": "hieronymus_genesis_32",
+      "targetParagraphId": 31
+    },
+    {
+      "paragraphId": 10,
+      "type": "prosody",
+      "anchor": "planctu magno atque vehementi impleverunt septem dies.",
+      "body": "「盛大で激しい嘆き（planctu magno atque vehementi）をもって七日間の葬儀を行った」──「planctus（嘆き・胸を打つ・哀悼）」：「plangere（胸を打つ・嘆く）」から派生する語で、身体的自傷を伴う激烈な哀悼を示す。「magno atque vehementi（大きく激しい）」という二重の強調が哀悼の身体的・音声的強度を示す。「impleverunt septem dies（七日間満たした）」：「implere（満たす）」という動詞が哀悼を時間の「充填（plenitudo）」として描写する。Genesis第7章「quadraginta diebus（四十日）」の洪水・v.3「quadraginta dies（四十日）」のミイラ化・本節「septem dies（七日）」という数的枠組みが本章を支える。「Planctus AEgypti（エジプトの嘆き）」という地名命名（v.11）：Genesis全体を通じて出来事が地名として固定される命名の連鎖（マハナイム・ペヌエル・バベル・ドミヌス・ヴィデット等）の最後の一例として、哀悼という感情的出来事が地名として永続化される。",
+      "targetId": "hieronymus_genesis_32",
+      "targetParagraphId": 2
+    },
+    {
+      "paragraphId": 17,
+      "type": "commentary",
+      "anchor": "Obsecro ut obliviscaris sceleris fratrum tuorum, et peccati atque malitiae quam exercuerunt in te: nos quoque oramus ut servis Dei patris tui dimittas iniquitatem hanc. Quibus auditis flevit Joseph.",
+      "body": "「お願いだ、兄弟たちの罪と……悪と悪意を忘れてくれ（obliviscaris sceleris）……ヨセフはそれを聞いて泣いた（flevit Joseph）」──「obliviscaris（忘れてくれ）」：「oblivisci（忘れる）」という接続法現在の懇願形。コヘレト「Non est priorum memoria（先のことどもの記憶はない）」（Ecclesiastes I, 11）の「memoria（記憶）」の不在とは異なり、ここでは「忘れること（oblivisci）」を意識的・能動的に要請する。「flevit Joseph（ヨセフは泣いた）」：本章でヨセフは二度泣く（v.1「flens」・v.17「flevit」）──最初は父の死への哀悼、ここでは兄弟たちの赦し要求への感情的応答として。デリダ「アデュー：エマニュエル・レヴィナスへ（Adieu à Emmanuel Lévinas, 1997）」における「赦しの不可能性（l'im-pardonnable）」：真の赦しは「赦せないもの（l'im-pardonnable）」を赦すことであり、赦しうるものを赦すことは赦しではないというデリダのアポリア。「obliviscaris sceleris（罪を忘れてくれ）」という兄弟たちの懇願は「忘れることによる赦し（pardon par oubli）」を求めるが、ヨセフの応答（v.19–20）は「記憶したまま善に変える（vertit in bonum）」という別の形の赦しとして機能する。",
+      "targetId": "hieronymus_ecclesiastes_1",
+      "targetParagraphId": 11
+    },
+    {
+      "paragraphId": 19,
+      "type": "commentary",
+      "anchor": "Nolite timere: num Dei possumus resistere voluntati?",
+      "body": "「恐れるな──私たちは神の御心に逆らうことができるのか（num Dei possumus resistere voluntati）」──ヨセフの応答の哲学的核心。「num（〜か？）」：否定的回答を期待する疑問詞。「神の御心（voluntas Dei）」への「抵抗（resistere）」の不可能性を問いかける。レヴィナス「全体性と無限」・「存在の彼方へ（Autrement qu'être）」：「他者（Autrui）への応答性（responsabilité）」は選択を超えた根本的構造として定義される──「num possumus resistere（抵抗できるか）」という問いがレヴィナス的「応答の不可抗力性（non-resistibilité de la responsabilité）」の聖書的根拠として読める。ヨブ記第1章「Numquid Job frustra timet Deum（ヨブは理由なく神を畏れているか）」というサタンの問いへの応答として：サタンが「神への信仰は条件付きか」を問うのに対し、ヨセフは「神の御心への抵抗は不可能」という逆命題を提示する。トーマス・マン「ヨセフとその兄弟たち」のヨセフ論：マンのヨセフは「神話的役割を意識的に演じる者」として自分の苦難が「神の計画（Plan）」の一部であることを予感し続けた──「num possumus resistere voluntati Dei」という問いがその予感の言語的確認として機能する。",
+      "targetId": "hieronymus_iob_1",
+      "targetParagraphId": 9
+    },
+    {
+      "paragraphId": 20,
+      "type": "commentary",
+      "anchor": "Vos cogitastis de me malum: sed Deus vertit illud in bonum, ut exaltaret me, sicut in praesentiarum cernitis, et salvos faceret multos populos.",
+      "body": "「あなたたちは私に悪を企てた（Vos cogitastis malum）──しかし神はそれを善に変えた（sed Deus vertit illud in bonum）」──創世記全巻の神学的結語として機能する命題。「cogitastis……vertit（企てた……変えた）」：人間の意図（cogitatio）と神の逆転（versio）という二重の行為主体性が同一文に並置される。「vertit in bonum（善に変えた）」：ヘブライ語「חָשַׁב（hashav：計画する・みなす）」の転換──人間の「悪い計画（malum cogitare）」が神の「善い計画（in bonum vertere）」に反転される。Genesis第4章v.7「tu dominaberis illius（お前はそれを支配できる）」というカインへの「罪への支配可能性」の命題が、ここではヨセフの苦難において神が「悪を善に変える（vertit in bonum）」という形で実現される。レヴィナス「時間と他者（Le Temps et l'Autre, 1948）」：「他者（l'autre）からの善（le bien）の来たること」という命題が、ヨセフの「神による悪の善への転換」として旧約聖書的に定式化される。デリダ「マルクスの亡霊たち（Spectres de Marx, 1993）」：「受け取ることのできない贈り物（don impossible）」として「骨（ossa）」の遺言的機能がここに先取りされる──「vertit in bonum」という反転が「不可能な赦し（pardon im-possible）」の形として機能する。",
+      "targetId": "hieronymus_genesis_4",
+      "targetParagraphId": 7
+    },
+    {
+      "paragraphId": 24,
+      "type": "commentary",
+      "anchor": "Deus visitabit vos, asportate ossa mea vobiscum de loco isto:",
+      "body": "「神はあなたたちを訪れる（Deus visitabit vos）──私の骨をこの場所から共に運んでいけ（asportate ossa mea vobiscum）」──創世記全体の最終的予言と遺言。「Deus visitabit（神は訪れるだろう）」：「visitare（訪問する・見回る）」という動詞の未来形が出エジプト記への橋渡しとして機能する──出エジプト記第3章でモーセへの神の顕現がヨセフの「visitabit（訪れるだろう）」の成就として読める。「asportate ossa mea vobiscum（私の骨を共に運べ）」：ヨセフの遺言の核心。「ossa（骨）」：身体の中で最も持続する部位として「残存するもの（ce qui reste）」の究極形。デリダ「骨・遺骨・残存（De quoi demain, 2001 他）」：骨とは「死後も残存するもの」として、約束・記憶・義務の身体的担い手として機能する。ヨセフの「asportate ossa mea（私の骨を運べ）」という遺言は「骨を通じた未来への命令（commandement par les os）」として、デリダ的「遺産（héritage）」の問題の聖書的起源として読める。出エジプト記第13章v.19「Tulit quoque Moyses ossa Joseph secum（モーセはヨセフの骨を共に持ち出した）」が数百年後にヨセフの遺言の成就として記録される──「asportate ossa mea」という命令が世代を超えて遂行される約束の形として機能する。",
+      "targetId": "hieronymus_genesis_22",
+      "targetParagraphId": 18
+    },
+    {
+      "paragraphId": 25,
+      "type": "commentary",
+      "anchor": "mortuus est, expletis centum decem vitae suae annis. Et conditus aromatibus, repositus est in loculo in AEgypto.",
+      "body": "「百十年の生涯を全うして死んだ（mortuus est, expletis centum decem vitae suae annis）──香料で防腐処置を施され、エジプトで棺に収められた（conditus aromatibus, repositus est in loculo in AEgypto）」──創世記全巻の最終文。「mortuus est（死んだ）」：創世記第4章以来反復されてきた「mortuus est（死んだ）」という系譜的定式の最終的反復。創世記は「In principio creavit Deus caelum et terram（はじめに神は天と地を創造した）」（第1章v.1）という創造の宣言で始まり、「repositus est in loculo in AEgypto（エジプトで棺に収められた）」という「収容・保存」の形象で終わる──創造から棺という弧が全巻を包む。「loculus in AEgypto（エジプトの棺）」：「loculus（小さな場所・棺）」というラテン語が、Genesis第22章v.2「terram visionis（幻の地）」→Genesis第50章「loculo in AEgypto（エジプトの棺）」という地理的収束として機能する。ナンシー「身体（Corpus）」：「棺（loculus）」という身体の最終的「容器（réceptacle）」が、ナンシー的「身体の残存（corps restant）」の形象として機能する。トーマス・マン「ヨセフとその兄弟たち」の結末：マンの四巻はヨセフが兄弟に向かって「あなたたちは神の道具だった」と語る場面で終わるが、ヒエロニムスの文章は言葉でなく「棺（loculus）」という物体で終わる──語りに代わって物体が創世記の最後の言葉となる。この沈黙の物体性が、Genesis全体の「言語的創造（Fiat lux）」から「物体的終焉（loculus）」への弧を完成させる。",
+      "targetId": "hieronymus_genesis_1",
+      "targetParagraphId": 1
+    }
+  ]
+}
