@@ -10,13 +10,19 @@
   "category": "swinburne",
   "originalLang": "en-GB",
   "modernRelevance": "★★★★★",
-  "context": "1867年9月にボードレールの訃報（実際は誤報）に接したスウィンバーンが書き、翌年1月に発表した大規模な追悼詩。題名はカトゥルスの詩「Ave atque Vale（こんにちは、さようなら）」から取られ、この詩全体がカトゥルスの哀歌の形式と精神を意識的に踏襲している。18連、各連11行（abababababa韻）という厳格な形式に、ボードレールへの追悼、彼の詩世界の回想、死後の世界への問いかけ、そして諦念による和解という四つの運動が収められている。スウィンバーンはボードレールを「悪の花」の詩人として初めて英語圏に本格的に紹介した批評家でもあり（1862年のスペクテイター誌書評）、この詩はその批評的親交の詩的結晶である。ゴーティエへの二篇の追悼詩（Memorial Verses, Théophile Gautier）とともに、スウィンバーンの追悼詩三部作を構成する。",
+  "context": "スウィンバーン（Algernon Charles Swinburne, 1837-1909）が1867年にボードレールの訃報に接し、翌1868年1月に発表した大規模な追悼詩。全18連、各連11行（abababababa韻）。題名「Ave atque Vale（よきあれ、さようなら）」はカトゥルス「Carmen CI」の最終行「atque in perpetuum, frater, ave atque vale（そして永遠に、兄よ、よきあれ、さようなら）」から直接引用される。カトゥルスが死んだ兄の墓に向けて捧げた別れの言葉が、スウィンバーンではボードレールという「兄（brother）」への追悼として転用される。この「兄（frater）」の呼びかけが詩全体を貫く定型的呼格となり（第1連「Brother」・第18連「my brother」）、カトゥルス的「不在の兄弟への語りかけ」という詩的構造を継承する。詩の第一運動（連I-V）では、死者への供物の問い（薔薇・ルー・月桂樹）から始まり、ボードレールがサッポーのレスボス・南の海・亡命的官能の世界に属していたことを回想する。第二運動（連VI-IX）では、死後世界への問いが「言葉の翼では届かない（too far for wings of words to follow）」という不達成で閉じられる。第三運動（連X-XVI）では、アポロン・ウェヌス・ミュルトゥスという神話的枠組みの中で哀悼が宇宙化される。第四運動（連XVII-XVIII）で「眠れ（Sleep）」という和解的受け入れとともに「花冠（garland）・さようなら（farewell）」が捧げられる。ボードレールとの関係：スウィンバーンは1862年のスペクテイター誌書評でボードレールを英語圏に初めて本格的に紹介した批評家であり、本詩はその批評的親交の詩的結晶。カトゥルス「Carmen CI」「mutam nequiquam alloquerer cinerem（無駄にも無言の灰に語りかける）」という「不在者への届かない語りかけ」の構造が、スウィンバーンの「far too far for wings of words（言葉の翼には届かない）」（連IX）として変奏される。ゴーティエへの二篇の追悼詩（Memorial Verses, Th ophile Gautier）とともに、スウィンバーンの追悼詩三部作を構成する。"
   "keywords": ["ボードレール追悼", "カトゥルス", "追悼詩", "死後の世界", "詩人の不死", "エレジー"],
   "relatedTexts": [
+    "catullus_carmen_101",
+    "catullus_carmen_3",
+    "catullus_carmen_8",
+    "catullus_carmen_85",
+    "baudelaire_abel_et_cain",
+    "baudelaire_spleen",
+    "baudelaire_de_profundis_clamavi",
     "swinburne_memorial_gautier",
-    "baudelaire_gautier",
     "verlaine_poetes_maudits_mallarme",
-    "baudelaire_romantisme_complet"
+    "rossetti_vanity_of_vanities"
   ],
   "paragraphs": [
     {
@@ -109,5 +115,79 @@
       "originalText": "For thee, O now a silent soul, my brother,\n        Take at my hands this garland, and farewell.\n        Thin is the leaf, and chill the wintry smell,\nAnd chill the solemn earth, a fatal mother,\n        With sadder than the Niobean womb,\n        And in the hollow of her breasts a tomb.\nContent thee, howsoe'er, whose days are done;\n        There lies not any troublous thing before,\n        Nor sight nor sound to war against thee more,\nFor whom all winds are quiet as the sun,\n        All waters as the shore.",
       "provisionalTranslation": "汝のために、おお今は沈黙した魂よ、わが兄弟よ、\n　　わが手からこの花冠を受け取れ、さようなら。\n　　葉は薄く、冬の香りは冷たく、\n厳粛な大地も冷たい、宿命の母よ、\n　　ニオベの子宮より悲しく、\n　　そして彼女の胸の空洞に一つの墓がある。\n汝の日々が終わった汝よ、しかしどうあれ満足せよ；\n　　これから前に何ら悩ましいものは横たわらず、\n　　汝と戦う景色も音もこれ以上なく、\n汝のためには、すべての風が太陽のように静かで、\n　　すべての水が岸のように。"
     }
-  ]
+  ],
+  "annotations": [
+    {
+        "paragraphId": 1,
+        "type": "glossary",
+        "anchor": "Shall I strew on thee rose or rue or laurel,\n        Brother, on this that was the veil of thee?",
+        "body": "「Brother（兄弟よ）」──カトゥルス「Carmen CI」v.2「advenio has miseras, frater, ad inferias（兄よ、この悲しい霊祭のもとへ来た）」の「frater（兄）」の英語的変奏。スウィンバーンはボードレールを「兄弟（Brother）」と呼ぶことで、カトゥルスのビテュニアへの旅──兄の墓への巡礼──という詩的構造を詩全体の枠組みとして設定する。「on this that was the veil of thee（汝のヴェールであったものの上に）」：身体を「ヴェール（veil）」として捉える新プラトン主義的形象。「rose or rue or laurel（薔薇、ルー、月桂樹）」：「愛（rose）・悲哀（rue）・詩的名誉（laurel）」という三次元の追悼語彙。カトゥルス「Carmen III」の「Lugete, o Veneres Cupidinesque（嘆け、おおヴィーナスたちよ）」という哀悼の呼びかけが「Shall I strew（撒くべきか）」という供物の疑問として変奏される。",
+        "targetId": "catullus_carmen_101",
+        "targetParagraphId": 1
+    },
+    {
+        "paragraphId": 2,
+        "type": "commentary",
+        "anchor": "Thine ears knew all the wandering watery sighs\nWhere the sea sobs round Lesbian promontories,",
+        "body": "「Lesbian promontories（レスボスの岬）」──サッポーの故郷レスボス島への参照。カトゥルス「Carmen V」の「mea Lesbia」──詩的仮名としてのレスビアがサッポーのレスボス島から取られていること──と連動し、スウィンバーンはボードレールを「サッポー的・レスビア的官能の継承者」として位置づける。「wandering watery sighs（彷徨う水の嘆き）」：ボードレール「旅人の旅（Moesta et errabunda）」・「海（La Mer）」の詩学が「sea sobs（海の嘆き）」として哀悼的に転化される。第2連全体がボードレールを「ティベリウス治下の地中海」「サッポーのエゲ海」という古代的な官能の記憶に結びつける──カトゥルス詩学・ボードレール詩学の地理的重複がここで確認される。",
+        "targetId": "catullus_carmen_5",
+        "targetParagraphId": 1
+    },
+    {
+        "paragraphId": 5,
+        "type": "commentary",
+        "anchor": "It is enough; the end and the beginning\n        Are one thing to thee, who art past the end.",
+        "body": "「the end and the beginning / Are one thing to thee（終わりと始まりは汝にとって一つのことだ）」──コヘレト「Quid est quod fuit? Ipsum quod futurum est（あったものはこれから来るもの）」（Ecclesiastes I, 9）の時間的循環の英語詩的変奏。「who art past the end（終わりを過ぎた汝）」：死が「終わり（end）」の「彼方（past）」として位置づけられ、生者の言語が届かない領域として定義される。カトゥルス「Carmen CI」v.4「mutam nequiquam alloquerer cinerem（無駄にも無言の灰に語りかける）」の「nequiquam（無駄に）」が「It is enough（十分だ）」という諦念として英語的に受け入れられる。ボードレール「憂愁（Spleen LXXVIII）」の「Rien n'égale en longueur les boiteuses journées（跛足の日々の長さに等しいものは何もない）」という時間の拷問的無限性に対し、「the end and the beginning are one（終わりと始まりは一つ）」という死後の時間的統一が対置される。",
+        "targetId": "catullus_carmen_101",
+        "targetParagraphId": 1
+    },
+    {
+        "paragraphId": 8,
+        "type": "commentary",
+        "anchor": "Alas, but though my flying song flies after,\n        O sweet strange elder singer, thy more fleet\n        Singing, and footprints of thy fleeter feet,",
+        "body": "「my flying song flies after（わが飛ぶ歌が後を追っても）」──「song（歌）」が「fly（飛ぶ）」という動詞が「wings of words（言葉の翼）」（連IX）の先取りとして機能する。「elder singer（先輩の歌い手）」：「elder（年長の）」がカトゥルス「Carmen CI」の「frater（兄）」の英語的変奏として機能する。「footprints of thy fleeter feet（より素早い足の足跡）」：カトゥルス「Carmen VIII」の「fulsere candidi soles（白い太陽が輝いた）」という過去の生動感が「footprints（足跡）」という残存物として変奏される。ボードレール「旅（Le Voyage）」の「Pour trouver le repos courons à l'horizon（休息を見つけるために地平線へ走ろう）」という水平的逃走が、「thy fleeter feet（より素早い足）」として追いつけない先達の動きとして変奏される。",
+        "targetId": "catullus_carmen_8",
+        "targetParagraphId": 2
+    },
+    {
+        "paragraphId": 9,
+        "type": "commentary",
+        "anchor": "Thou art far too far for wings of words to follow,\n        Far too far off for thought or any prayer.",
+        "body": "「far too far for wings of words to follow（言葉の翼が後を追うにはあまりに遠い）」──スウィンバーン詩全体の言語論的核心。カトゥルス「Carmen CI」v.4「mutam nequiquam alloquerer cinerem（無駄にも無言の灰に語りかける）」の「nequiquam（無駄に）」が「far too far（あまりに遠い）」として英語的に展開される──「届かない語りかけ」という詩的構造の最も直接的な変奏。「thought or any prayer（思想やいかなる祈りにも）」：言語・思想・宗教的祈りの三つのモードがすべて「あまりに遠い（too far）」として否定される。カトゥルス「Carmen LXXXV」の「nescio（分からない）」という認識の挫折が「too far off for thought（思想にもあまりに遠い）」として展開される──「odi et amo（憎む、そして愛する）」の矛盾が「too far to follow（追えない）」という到達不可能性に変換される。",
+        "targetId": "catullus_carmen_101",
+        "targetParagraphId": 3
+    },
+    {
+        "paragraphId": 10,
+        "type": "commentary",
+        "anchor": "Not thee, O never thee, in all time's changes,\n        Not thee, but this the sound of thy sad soul,",
+        "body": "「Not thee……Not thee, but this（汝ではない……汝ではなく、これ）」──作者（auctor）とテクスト（textus）の分離宣言。「not thee, but this the sound of thy sad soul（汝ではなく、汝の悲しい魂の響き）」：ロラン・バルト「作者の死（La mort de l'auteur, 1967）」の先取り形として読める──「汝（thee）」という作者の存在は消え去り、残るのは「閉じた巻物（this the closed scroll）」というテクストのみ。カトゥルス「Carmen CI」の「te（汝）」という呼格──「te enim vidi（お前を見た）」ではなく「mutam cinerem（無言の灰）」のみが残る──と構造的に対応する。ボードレール「悪の華」前文「Hypocrite lecteur, mon semblable, mon frère!（偽善の読者よ、私の兄弟よ！）」：ボードレールのテクストが「汝（thee）」でなく「汝の悲しい魂の響き（sound of thy sad soul）」として存在し続けることを、スウィンバーンはここで確認する。",
+        "targetId": "baudelaire_spleen",
+        "targetParagraphId": null
+    },
+    {
+        "paragraphId": 11,
+        "type": "prosody",
+        "anchor": "I among these, I also, in such station\n        As when the pyre was charr'd, and piled the sods.",
+        "body": "「I among these, I also, in such station（われも、われも、こうした立場で）」──「also（〜もまた）」という添加詞の反復がカトゥルス「Carmen CI」の「accipe fraterno multum manantia fletu（兄弟の涙に溢れたこれらを受け取ってくれ）」という儀礼的供物の立場を「われもまた（I also）」として継承する。「when the pyre was charr'd（薪が焦げたとき）」：古代ローマの火葬儀礼への明示的参照。カトゥルス「Carmen CI」の「inferiae（霊祭）」の場面と一致する──スウィンバーンはカトゥルスの霊祭の立場を自分の詩的立場として採用することを明示する。詩型観察：abababababa韻律の11行連が本連で典型的に機能している。「station（立場）」という語が「詩的位置（position poétique）」と「礼拝の立場（liturgical station）」の二義を担う。",
+        "targetId": "catullus_carmen_101",
+        "targetParagraphId": 3
+    },
+    {
+        "paragraphId": 17,
+        "type": "commentary",
+        "anchor": "Sleep; and if life was bitter to thee, pardon,\n        If sweet, give thanks; thou hast no more to live;",
+        "body": "「Sleep（眠れ）」──カトゥルス「Carmen V」「nox est perpetua una dormienda（永遠の夜をひとつ眠り続けなければならない）」の「dormienda（眠られなければならない）」の英語的命令形への転換。カトゥルスでは死の睡眠が愛の切迫の根拠（「だから今すぐ愛せよ」）として提示されたのに対し、スウィンバーンでは「Sleep」が「和解（reconciliation）」の命令として機能する。「if life was bitter to thee, pardon（生が汝に苦かったなら、許せ）」：ボードレール「悪の華」全体の「苦悩（douleur）・憂鬱（spleen）・苦味（amertume）」の詩学が「bitter（苦い）」という一語に集約され、それへの応答として「pardon（許せ）」という和解が提示される。「thou hast no more to live（汝はもはや生きる必要がない）」：カトゥルス「Carmen VIII」「desinas ineptire（愚かであることをやめよ）」という自己命令の死者への変奏──生の義務からの解放として死が定義される。",
+        "targetId": "catullus_carmen_5",
+        "targetParagraphId": 2
+    },
+    {
+        "paragraphId": 18,
+        "type": "intertextual",
+        "anchor": "For thee, O now a silent soul, my brother,\n        Take at my hands this garland, and farewell.",
+        "body": "「Take at my hands this garland, and farewell（わが手からこの花冠を受け取れ、さようなら）」──カトゥルス「Carmen CI」最終行「atque in perpetuum, frater, ave atque vale（そして永遠に、兄よ、よきあれ、さようなら）」の直接的変奏。カトゥルスの「ave（よきあれ）＋vale（さようなら）」の二語対がスウィンバーンの詩題「Ave atque Vale」として表題化され、最終連でその詩型が「garland（花冠）＋farewell（さようなら）」として詩的に充填される。「Take at my hands（わが手から受け取れ）」：カトゥルス「accipe fraterno multum manantia fletu（兄弟の涙に溢れたこれらを受け取れ）」の「accipe（受け取れ）」の英語的変奏──「受け取れ（take / accipe）」という命令法が生者から死者への唯一の語りかけの形式として継承される。「O now a silent soul（今や沈黙した魂よ）」：カトゥルス「Carmen CI」v.4「mutam……cinerem（無言の灰）」の「mutam（無言の）」が「silent（沈黙した）」として翻訳される──「無言（mutus）」から「沈黙（silent）」という翻訳的継承。ボードレール「悪の華」最終詩「旅（Le Voyage）」の激しい終末的呼びかけがスウィンバーンの「farewell」という穏やかな別れとして収束する対照──ボードレールの詩的過激性がスウィンバーンの追悼詩によって「沈黙した魂（silent soul）」として静寂化される。",
+        "targetId": "catullus_carmen_101",
+        "targetParagraphId": 3
+    }
+]
 }
