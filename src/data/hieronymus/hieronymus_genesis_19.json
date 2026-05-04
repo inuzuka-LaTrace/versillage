@@ -1,0 +1,355 @@
+{
+  "id": "hieronymus_genesis_19",
+  "title": "Genesis, Caput XIX",
+  "author": "Eusebius Sophronius Hieronymus",
+  "source": "Biblia Sacra Vulgata, Liber Genesis, Caput XIX. Bible Gateway: https://www.biblegateway.com/passage/?search=Genesis+19&version=VULGATE",
+  "year": "Antiquitas",
+  "firstPublication": "Vulgata Latina, c. 382–405 AD（ヒエロニムス訳）",
+  "difficulty": "上級",
+  "category": "hieronymus",
+  "originalLang": "la-LA",
+  "modernRelevance": "★★★★★",
+  "context": "創世記（Liber Genesis）第19章。ソドムとゴモラの滅亡の物語。二人の天使がソドムに到着し、ロトが歓待する（v.1–3）。ソドムの男たちが天使たちを要求し（v.4–9）、天使が彼らを盲目にする（v.10–11）。天使がロトに脱出を促し（v.12–16）、「後ろを振り返るな（noli respicere post tergum）」と命令する（v.17）。ロトが小さな町ソアルへの逃避を求め許される（v.18–22）。硫黄と火による天の裁き（v.23–25）。ロトの妻が後ろを振り向いて塩の柱になる（v.26）。アブラハムが遠くから煙を見る（v.27–29）。洞穴でのロトの娘たちとの近親相姦（v.30–38）。本章の中心的主題は「振り返ること（respicere post tergum）」──v.17の天使の命令「noli respicere post tergum（後ろを振り返るな）」とv.26のロトの妻の「versa est in statuam salis（塩の柱になった）」が作る主題的対。この「振り返り」はオルフェウスとエウリュディケの神話と深く構造的に対応する。ブランショ（1907–2003）は『文学空間（L'Espace littéraire, 1955）』「オルフェウスの視線（Le regard d'Orphée）」で、オルフェウスが振り返る瞬間を「書くことの本質的な失敗であり、同時に書くことの唯一の可能性」として分析した──振り返らなければ詩は生まれないが、振り返ることでエウリュディケは失われる。ロトの妻の「塩の柱」はこのオルフェウス的「振り返り」の旧約聖書的変奏として読める。アンナ・アフマートヴァ（1889–1966）は「ロトの妻（Lotova zhena / Жена Лота, 1922–1924）」という詩でロトの妻の視点から「一度だけ振り返った（Она одним бросила взгляд）」行為を詩的に正当化した──「誰が彼女を嘆くだろう？ 彼女だけが喪失が何かを知っていた」。リルケ「オルフェウス・エウリュディケ・ヘルメス（Orpheus. Eurydike. Hermes, 1904）」は同じ「振り返り」を、エウリュディケが既に死の世界に属していて戻ることを欲していないという観点から描いた。マラルメ「奉献（Offrande）」・ヴェルレーヌのオルフェウス詩群との連動も可能。",
+  "keywords": [
+    "noli respicere",
+    "statuam salis",
+    "Sodomam",
+    "sulphur et ignis",
+    "振り返ること",
+    "オルフェウス",
+    "hospitalitas",
+    "caecitas",
+    "ロトの妻",
+    "dispersio"
+  ],
+  "relatedTexts": [
+    "hieronymus_genesis_1",
+    "hieronymus_genesis_3",
+    "hieronymus_genesis_4",
+    "hieronymus_genesis_22",
+    "hieronymus_ecclesiastes_1",
+    "rilke_sonette_orpheus_1_01",
+    "rilke_duineser_elegien_01",
+    "trakl_de_profundis",
+    "mallarme_herodiade_scene",
+    "weil_decreation"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "verses": "v.1",
+      "original": "Veneruntque duo angeli Sodomam vespere, et sedente Lot in foribus civitatis. Qui cum vidisset eos, surrexit, et ivit obviam eis: adoravitque pronus in terram,",
+      "provisionalTranslation": "二人の天使が夕暮れにソドムに到着した。ロトは町の門のところに座っていた。彼は彼らを見ると立ち上がり、迎えに行き、地に伏して礼拝した。"
+    },
+    {
+      "id": 2,
+      "verses": "v.2",
+      "original": "et dixit: Obsecro, domini, declinate in domum pueri vestri, et manete ibi: lavate pedes vestros, et mane proficiscemini in viam vestram. Qui dixerunt: Minime, sed in platea manebimus.",
+      "provisionalTranslation": "そして言った。「お願いです、主人方よ、僕の家に立ち寄り、そこにお泊まりください。足を洗い、明朝また旅をお続けください。」しかし彼らは言った。「いや、広場で夜を過ごす。」"
+    },
+    {
+      "id": 3,
+      "verses": "v.3",
+      "original": "Compulit illos oppido ut diverterent ad eum: ingressisque domum illius fecit convivium, et coxit azyma, et comederunt.",
+      "provisionalTranslation": "ロトがしきりに勧めたので、彼らは彼の家に立ち寄った。彼は宴を設け、種なしパンを焼いた。彼らは食べた。"
+    },
+    {
+      "id": 4,
+      "verses": "v.4",
+      "original": "Prius autem quam irent cubitum, viri civitatis vallaverunt domum a puero usque ad senem, omnis populus simul.",
+      "provisionalTranslation": "彼らが就寝する前に、ソドムの男たちが若者から老人まで、民全員で家を取り囲んだ。"
+    },
+    {
+      "id": 5,
+      "verses": "v.5",
+      "original": "Vocaveruntque Lot, et dixerunt ei: Ubi sunt viri qui introierunt ad te nocte? educ illos huc, ut cognoscamus eos.",
+      "provisionalTranslation": "彼らはロトを呼んで言った。「今夜あなたのところへ入った男たちはどこにいる。ここへ連れ出せ、彼らを知ろう。」"
+    },
+    {
+      "id": 6,
+      "verses": "v.6",
+      "original": "Egressus ad eos Lot, post tergum occludens ostium, ait:",
+      "provisionalTranslation": "ロトは外へ出て、後ろの扉を閉め、言った。"
+    },
+    {
+      "id": 7,
+      "verses": "v.7",
+      "original": "Nolite, quaeso, fratres mei, nolite malum hoc facere.",
+      "provisionalTranslation": "「お願いだ、兄弟たちよ、このような悪いことをしないでくれ。」"
+    },
+    {
+      "id": 8,
+      "verses": "v.8",
+      "original": "Habeo duas filias, quae necdum cognoverunt virum: educam eas ad vos, et abutimini eis sicut vobis placuerit, dummodo viris istis nihil mali faciatis, quia ingressi sunt sub umbra culminis mei.",
+      "provisionalTranslation": "「私には男を知らない二人の娘がいる。彼女たちをあなたたちのところへ連れていく。好きなようにしてよい。ただ、この男たちには何もしないでくれ。彼らは私の屋根の下に入ったのだから。」"
+    },
+    {
+      "id": 9,
+      "verses": "v.9",
+      "original": "At illi dixerunt: Recede illuc. Et rursus: Ingressus es, inquiunt, ut advena; numquid ut judices? te ergo ipsum magis quam hos affligemus. Vimque faciebant Lot vehementissime: jamque prope erat ut effringerent fores.",
+      "provisionalTranslation": "しかし彼らは言った。「そこをどけ。」また言った。「この男は異邦人として入ってきたのに、裁くのか。お前を彼らよりひどい目に遭わせてやる。」彼らはロトに激しく暴力を加え、今にも扉を打ち破りそうだった。"
+    },
+    {
+      "id": 10,
+      "verses": "v.10",
+      "original": "Et ecce miserunt manum viri, et introduxerunt ad se Lot, clauseruntque ostium:",
+      "provisionalTranslation": "すると、その男たち（天使）は手を伸ばしてロトを引き入れ、扉を閉めた。"
+    },
+    {
+      "id": 11,
+      "verses": "v.11",
+      "original": "et eos, qui foris erant, percusserunt caecitate a minimo usque ad maximum, ita ut ostium invenire non possent.",
+      "provisionalTranslation": "そして外にいた者たちを、小さい者から大きい者まで、盲目に打った。彼らは扉を見つけることができなかった。"
+    },
+    {
+      "id": 12,
+      "verses": "v.12",
+      "original": "Dixerunt autem ad Lot: Habes hic quempiam tuorum? generum, aut filios, aut filias, omnes, qui tui sunt, educ de urbe hac:",
+      "provisionalTranslation": "天使たちはロトに言った。「あなたのものは誰かここにいるか。婿、息子、娘、あなたのすべての者を、この町から連れ出せ。」"
+    },
+    {
+      "id": 13,
+      "verses": "v.13",
+      "original": "delebimus enim locum istum, eo quod increverit clamor eorum coram Domino, qui misit nos ut perdamus illos.",
+      "provisionalTranslation": "「なぜなら私たちはこの場所を滅ぼす。主の前で彼らの叫びが増大し、主が私たちを遣わして彼らを滅ぼさせたから。」"
+    },
+    {
+      "id": 14,
+      "verses": "v.14",
+      "original": "Egressus itaque Lot, locutus est ad generos suos qui accepturi erant filias ejus, et dixit: Surgite, egredimini de loco isto: quia delebit Dominus civitatem hanc. Et visus est eis quasi ludens loqui.",
+      "provisionalTranslation": "ロトは外に出て、娘たちと結婚する予定の婿たちに言った。「立ち上がって、この場所から出よ。主がこの町を滅ぼそうとしている。」しかし婿たちには彼は冗談を言っているように見えた。"
+    },
+    {
+      "id": 15,
+      "verses": "v.15",
+      "original": "Cumque esset mane, cogebant eum angeli, dicentes: Surge, tolle uxorem tuam, et duas filias quas habes: ne et tu pariter pereas in scelere civitatis.",
+      "provisionalTranslation": "夜明けになると、天使たちはロトを急かして言った。「立て、あなたの妻と二人の娘を連れていけ。この町の罪の中で共に滅ばないように。」"
+    },
+    {
+      "id": 16,
+      "verses": "v.16",
+      "original": "Dissimulante illo, apprehenderunt manum ejus, et manum uxoris, ac duarum filiarum ejus, eo quod parceret Dominus illi.",
+      "provisionalTranslation": "ロトがためらっていると、天使たちは彼の手と妻の手と二人の娘の手をつかんだ。主が彼を憐れんだから。"
+    },
+    {
+      "id": 17,
+      "verses": "v.17",
+      "original": "Eduxeruntque eum, et posuerunt extra civitatem: ibique locuti sunt ad eum, dicentes: Salva animam tuam: noli respicere post tergum, nec stes in omni circa regione: sed in monte salvum te fac, ne et tu simul pereas.",
+      "provisionalTranslation": "彼らはロトを連れ出し、町の外に置いた。そこで言った。「命を救え。後ろを振り返るな、周りの地のどこにも留まるな。山へ逃げよ、一緒に滅びないために。」"
+    },
+    {
+      "id": 18,
+      "verses": "v.18",
+      "original": "Dixitque Lot ad eos: Quaeso, domine mi,",
+      "provisionalTranslation": "ロトは彼らに言った。「お願いです、主よ、」"
+    },
+    {
+      "id": 19,
+      "verses": "v.19",
+      "original": "quia invenit servus tuus gratiam coram te, et magnificasti misericordiam tuam quam fecisti mecum, ut salvares animam meam, nec possum in monte salvari, ne forte apprehendat me malum, et moriar:",
+      "provisionalTranslation": "「あなたの僕はあなたの前に恵みを見出しました。あなたは私の命を救ってくださり、大いなる憐れみを示してくださいました。しかし山では救われません。何か悪いことが私を捕まえて、死ぬかもしれない。」"
+    },
+    {
+      "id": 20,
+      "verses": "v.20",
+      "original": "est civitas haec juxta, ad quam possum fugere, parva, et salvabor in ea: numquid non modica est, et vivet anima mea?",
+      "provisionalTranslation": "「この近くに小さな町があります。そこへ逃げることができます。小さくはないですか。そこで私の命は生きるでしょう。」"
+    },
+    {
+      "id": 21,
+      "verses": "v.21",
+      "original": "Dixitque ad eum: Ecce etiam in hoc suscepi preces tuas, ut non subvertam urbem pro qua locutus es.",
+      "provisionalTranslation": "天使はロトに言った。「見よ、あなたの祈りをこの件についても聞き入れた。あなたが語った町は滅ぼさない。」"
+    },
+    {
+      "id": 22,
+      "verses": "v.22",
+      "original": "Festina, et salvare ibi: quia non potero facere quidquam donec ingrediaris illuc. Idcirco vocatum est nomen urbis illius Segor.",
+      "provisionalTranslation": "「急げ、そこで救われよ。あなたがそこに入るまで私は何もできない。」それゆえその町の名はソアルと呼ばれた。"
+    },
+    {
+      "id": 23,
+      "verses": "v.23",
+      "original": "Sol egressus est super terram, et Lot ingressus est Segor.",
+      "provisionalTranslation": "太陽が地の上に昇った。ロトはソアルに入った。"
+    },
+    {
+      "id": 24,
+      "verses": "v.24",
+      "original": "Igitur Dominus pluit super Sodomam et Gomorrham sulphur et ignem a Domino de caelo:",
+      "provisionalTranslation": "かくして主はソドムとゴモラの上に、天から、主のもとから、硫黄と火を降らせた。"
+    },
+    {
+      "id": 25,
+      "verses": "v.25",
+      "original": "et subvertit civitates has, et omnem circa regionem, universos habitatores urbium, et cuncta terrae virentia.",
+      "provisionalTranslation": "主はこれらの町と周りの地方全体と、すべての町の住民と、地のすべての緑のものを滅ぼした。"
+    },
+    {
+      "id": 26,
+      "verses": "v.26",
+      "original": "Respiciensque uxor ejus post se, versa est in statuam salis.",
+      "provisionalTranslation": "ロトの妻は後ろを振り返った。彼女は塩の柱になった。"
+    },
+    {
+      "id": 27,
+      "verses": "v.27",
+      "original": "Abraham autem consurgens mane, ubi steterat prius cum Domino,",
+      "provisionalTranslation": "アブラハムは早朝起き上がり、以前主と共に立っていた場所へ行き、"
+    },
+    {
+      "id": 28,
+      "verses": "v.28",
+      "original": "intuitus est Sodomam et Gomorrham, et universam terram regionis illius: viditque ascendentem favillam de terra quasi fornacis fumum.",
+      "provisionalTranslation": "ソドムとゴモラと、その地方全体を眺めた。地から炉の煙のように煙が立ち上るのを見た。"
+    },
+    {
+      "id": 29,
+      "verses": "v.29",
+      "original": "Cum enim subverteret Deus civitates regionis illius, recordatus Abrahae, liberavit Lot de subversione urbium in quibus habitaverat.",
+      "provisionalTranslation": "神がその地方の町々を滅ぼされた時、アブラハムを思い起こされ、ロトを、彼が住んでいた町の滅亡から救い出された。"
+    },
+    {
+      "id": 30,
+      "verses": "v.30",
+      "original": "Ascenditque Lot de Segor, et mansit in monte, duae quoque filiae ejus cum eo (timuerat enim manere in Segor) et mansit in spelunca ipse, et duae filiae ejus cum eo.",
+      "provisionalTranslation": "ロトはソアルから上り、山に住んだ。二人の娘も彼と共に（ソアルに住むことを恐れていたから）。彼は洞穴に住んだ、二人の娘と共に。"
+    },
+    {
+      "id": 31,
+      "verses": "v.31",
+      "original": "Dixitque major ad minorem: Pater noster senex est, et nullus virorum remansit in terra, qui possit ingredi ad nos juxta morem universae terrae.",
+      "provisionalTranslation": "長女は妹に言った。「父は老いた。地の上に男は残っていない、全地の慣わしに従って私たちのところへ来ることができる者が。」"
+    },
+    {
+      "id": 32,
+      "verses": "v.32",
+      "original": "Veni, inebriemus eum vino, dormiamusque cum eo, ut servare possimus ex patre nostro semen.",
+      "provisionalTranslation": "「来て、父にぶどう酒を飲ませよう。父と共に寝よう、父から子孫を残せるように。」"
+    },
+    {
+      "id": 33,
+      "verses": "v.33",
+      "original": "Dederunt itaque patri suo bibere vinum nocte illa. Et ingressa est major, dormivitque cum patre; at ille non sensit, nec quando accubuit filia, nec quando surrexit.",
+      "provisionalTranslation": "その夜、父にぶどう酒を飲ませた。長女が入り、父と共に寝た。父は娘が横になった時も、起き上がった時も気づかなかった。"
+    },
+    {
+      "id": 34,
+      "verses": "v.34",
+      "original": "Altera quoque die dixit major ad minorem: Ecce dormivi heri cum patre meo, demus ei bibere vinum etiam hac nocte, et dormies cum eo, ut salvemus semen de patre nostro.",
+      "provisionalTranslation": "翌日、長女は妹に言った。「昨夜私は父と共に寝た。今夜もぶどう酒を飲ませよう。あなたも父と共に寝て、父から子孫を救おう。」"
+    },
+    {
+      "id": 35,
+      "verses": "v.35",
+      "original": "Dederunt etiam et illa nocte patri suo bibere vinum, ingressaque minor filia, dormivit cum eo: et ne tunc quidem sensit quando concubuerit, vel quando illa surrexerit.",
+      "provisionalTranslation": "その夜も父にぶどう酒を飲ませた。妹が入り父と共に寝た。父はその時も娘が共に寝た時も、起き上がった時も気づかなかった。"
+    },
+    {
+      "id": 36,
+      "verses": "v.36",
+      "original": "Conceperunt ergo duae filiae Lot de patre suo.",
+      "provisionalTranslation": "こうしてロトの二人の娘は父から身ごもった。"
+    },
+    {
+      "id": 37,
+      "verses": "v.37",
+      "original": "Peperitque major filium, et vocavit nomen ejus Moab: ipse est pater Moabitarum usque in praesentem diem.",
+      "provisionalTranslation": "長女は息子を産み、その名をモアブと呼んだ。彼は今日に至るモアブ人の父である。"
+    },
+    {
+      "id": 38,
+      "verses": "v.38",
+      "original": "Minor quoque peperit filium, et vocavit nomen ejus Ammon, id est, Filius populi mei: ipse est pater Ammonitarum usque hodie.",
+      "provisionalTranslation": "妹も息子を産み、その名をアンモンと呼んだ。すなわち「私の民の子」。彼は今日に至るアンモン人の父である。"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "Obsecro, domini, declinate in domum pueri vestri, et manete ibi: lavate pedes vestros",
+      "body": "「お願いです、僕の家に立ち寄り……足を洗ってください（lavate pedes vestros）」──「lavate pedes（足を洗う）」：古代近東の歓待（hospitalitas）の儀礼的所作。旅人の足を洗うことは歓待の最初の行為として機能し、ヨハネ福音書13章でイエスが弟子たちの足を洗う場面（lavit pedes discipulorum）の原形的ジェスチャーとして読める。「Obsecro（お願いです）」：「secrare（聖なるものによって誓う）」を含む懇願の形式──ロトの歓待の言葉が「聖なる誓い」の構造を持つことで、天使の拒絶（「platea manebimus：広場にいる」）が歓待の倫理との緊張を生む。レヴィナス「全体性と無限（Totalité et Infini）」における「歓待（hospitalité）」の倫理：他者の到来を「顔（visage）」として迎えることが倫理の根本構造として定義されており、ロトの歓待がこの「顔への応答」の原形として機能する。しかし同じ「顔への応答」がソドムの男たちにとっては暴力的要求（v.5「cognoscamus eos：彼らを知ろう」）として現れる──歓待と暴力が「顔への応答」という同一の構造から分岐する。",
+      "targetId": "hieronymus_genesis_22",
+      "targetParagraphId": 1
+    },
+    {
+      "paragraphId": 11,
+      "type": "commentary",
+      "anchor": "percusserunt caecitate a minimo usque ad maximum, ita ut ostium invenire non possent.",
+      "body": "「小さい者から大きい者まで、盲目に打った（percusserunt caecitate）──扉を見つけることができなかった（ut ostium invenire non possent）」──「caecitas（盲目性）」という神的刑罰によって、見ることの不能性が扉の不達成として具体化される。「ostium invenire non possent（扉を見つけられなかった）」：Genesis第11章v.4「culmen pertingat ad caelum（頂が天に届く）」という不達成の構造が、ここでは「扉を見つけられない」という方向的不能として反復される──バベルの垂直的不達成がソドムの水平的不達成として変奏される。「caecitate（盲目に）」：視覚の強制的な剥奪。Genesis第22章v.4「elevatis oculis, vidit locum（目を上げると、その場所が見えた）」というアブラハムの「見る（videre）」能力と対照的に、ソドムの男たちは「caecitate（盲目）」によって「見ること（videre）」を奪われる。ブランショ「文学空間（L'Espace littéraire）」の「夜（nuit）」論：「caecitas（盲目）」が「見ることの不可能性」ではなく「もう一つの見方」へのイニシエーションとして読める──ブランショにとって夜は見えない暗闇ではなく「別の次元の可視性」の開口であり、盲目のソドムの男たちが「扉を見つけられない」という不達成は「もう一つの見ること」への移行の失敗として機能する。"
+    },
+    {
+      "paragraphId": 14,
+      "type": "commentary",
+      "anchor": "visus est eis quasi ludens loqui.",
+      "body": "「婿たちには彼は冗談を言っているように見えた（visus est eis quasi ludens loqui）」──「quasi ludens loqui（まるで遊んでいるかのように語る）」：終末の宣告が「遊び（ludus）」として受け取られる逆説。最も深刻な言語行為（「この町は滅ぼされる」という預言）が最も軽い言語行為（冗談・遊び）として誤解される。「visus est（見えた）」：外見的認知の動詞が使われることで、「見え方（apparentia）」と「事実」の乖離が言語行為の失敗として示される。カフカ「掟の門（Vor dem Gesetz, 1915）」：「門番が農夫に何かを告げるが、農夫はそれを信じない」という構造がここに先取りされる──重要な宣告が軽く受け取られるという伝達の不可能性。コヘレト「Cunctae res difficiles; non potest eas homo explicare sermone（すべての事柄は困難であり、人はそれを言葉で説明できない）」（Ecclesiastes I, 8）：終末の事実が言語によって伝達されないという言語の限界。",
+      "targetId": "hieronymus_ecclesiastes_1",
+      "targetParagraphId": 8
+    },
+    {
+      "paragraphId": 17,
+      "type": "commentary",
+      "anchor": "Salva animam tuam: noli respicere post tergum, nec stes in omni circa regione: sed in monte salvum te fac, ne et tu simul pereas.",
+      "body": "「後ろを振り返るな（noli respicere post tergum）」──本章全体の主題的核心命令。「respicere（振り返る・後ろを見る）」：ラテン語「re-spicere」は「再び見る（spicere）」という動詞で、すでに通り過ぎた方向への視線の回帰。「post tergum（背の後ろを）」：「tergum（背中）」という身体的語が方向性を具体化する。オルフェウス神話との構造的対応：冥府からエウリュディケを連れ帰るオルフェウスが「振り返ってはならない」という条件を課せられ、最後に振り返ってエウリュディケを失う。ブランショ「オルフェウスの視線（Le regard d'Orphée, 1955）」の核心命題：「オルフェウスの誤りは作品そのものの誤りであり、それはまた作品の欲求でもある。オルフェウスが振り返るのは、それが唯一誠実な選択だから──エウリュディケを背後に置いたまま歩くことの偽善よりも、振り返って失うことを選ぶ」。ロトの妻の振り返り（v.26）がこの「オルフェウス的視線」の旧約聖書的変奏として機能する。アフマートヴァ「ロトの妻（Жена Лота, 1922–1924）」：詩人はロトの妻の視点から「彼女は一度だけ振り返った（Odnim lish' vzglyadom tikhiye doma）──赤い空と燃えるソドムに」という「振り返り」を詩的行為として肯定した。「誰が彼女のために涙を流すだろう？　彼女だけが喪失が何であるかを知っていた」という詩の結語は、「振り返ること」を禁じる神の命令に対するアフマートヴァの倫理的反論として機能する。",
+      "targetId": "rilke_sonette_orpheus_1_01",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 23,
+      "type": "prosody",
+      "anchor": "Sol egressus est super terram, et Lot ingressus est Segor.",
+      "body": "「太陽が地の上に昇った（Sol egressus est super terram）──ロトはソアルに入った（Lot ingressus est Segor）」──二つの「egressus / ingressus（出る・入る）」の反対動詞が一文に収められた韻律的精密さ。「Sol egressus（太陽が出た）」と「Lot ingressus（ロトが入った）」の動詞の反転が、太陽の上昇とロトのソアル入城を同時的に表現する。Genesis第1章「Oritur sol et occidit（太陽は昇り、沈む）」のコヘレト的循環がここでは救済の時間的指標として機能する──太陽が昇った瞬間にロトが安全な場所に入る。しかしこの「Sol egressus（太陽の昇り）」の直後にソドムへの「sulphur et ignis（硫黄と火）」が降り注ぐ（v.24）──「昇る太陽」と「降る火」という垂直軸の二重性が一章の中で共存する。Genesis第19章はその構造において「光の上昇」と「火の降下」が交差する章として読める。",
+      "targetId": "hieronymus_ecclesiastes_1",
+      "targetParagraphId": 5
+    },
+    {
+      "paragraphId": 24,
+      "type": "commentary",
+      "anchor": "Igitur Dominus pluit super Sodomam et Gomorrham sulphur et ignem a Domino de caelo:",
+      "body": "「かくして主はソドムとゴモラの上に、天から、主のもとから、硫黄と火を降らせた（pluit sulphur et ignem a Domino de caelo）」──「Igitur（かくして）」：Genesis第2章v.1「Igitur perfecti sunt caeli et terra（かくして完成した）」・Genesis第11章の同語との連続──ここでは「完成」ではなく「滅亡」の「かくして」として機能する。「a Domino de caelo（天から、主のもとから）」：「Dominus」が二度現れるという奇妙な表現が、神の主権的行為の強調として機能する。「pluit（雨を降らせた）」：通常「雨（pluvia）」に使われる動詞が「sulphur et ignem（硫黄と火）」の主語となることで、破壊が「逆雨（perverted rain）」として提示される──Genesis第2章v.5「non enim pluerat Dominus super terram（主はまだ地に雨を降らせていなかった）」という創造初期の「雨の不在」に対し、ここでは「火の雨」という破壊的「雨」が降る。トラークル「De Profundis」の「炎（Flamme）」・「火（Feuer）」の黙示録的形象との連動。黙示録第8章の「七つのラッパ」が降り注ぐ「火と血（ignis et sanguis）」がこの「sulphur et ignis」から始まる聖書的火の系譜に属する。",
+      "targetId": "trakl_de_profundis",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 26,
+      "type": "commentary",
+      "anchor": "Respiciensque uxor ejus post se, versa est in statuam salis.",
+      "body": "「ロトの妻は後ろを振り返った（Respiciensque post se）──彼女は塩の柱になった（versa est in statuam salis）」──本章最も凝縮された節。全文わずか11語のラテン語で、聖書文学の中でも最も短く最も謎めいた叙述のひとつ。「Respiciensque（振り返りながら）」：v.17「noli respicere（振り返るな）」の命令の正確な違反。「versa est（変えられた・なった）」：受動形完了が「外力による変容」を示す──ロトの妻は自分で「なった」のでなく「変えられた」。「statuam salis（塩の柱）」：塩は古代近東では腐敗の防止・保存・ 契約の記章として機能する──塩の柱への変容が「過去の保存・凍結」の形象として読める。ブランショ「オルフェウスの視線（Le regard d'Orphée）」：「振り返る（respicere）」という視線の行為が「失うこと」の条件として機能する──しかしブランショは「振り返らないことは詩の死であり、振り返ることは詩の誕生と死の同時」と論じた。ロトの妻の塩への変容は「振り返りの凝固」──過去への視線が身体を石化させるという「記憶の物質化」として読める。アフマートヴァ「ロトの妻（Жена Лота）」の詩的問いがここに直接対応する：「誰が彼女を責められるだろう、過去を最後にもう一度見たことを？（Кто женщину эту оплачет?）」──アフマートヴァは詩人自身をロトの妻と重ね、禁じられた「後ろを見ること」を詩的行為そのものと同一視した。リルケ「オルフェウス・エウリュディケ・ヘルメス（Orpheus. Eurydike. Hermes, 1904）」：エウリュディケは既に「死の深み（ihrem neuen Mädchentum）」に属しており、オルフェウスの振り返りは「返す気のなかったものを要求すること」として描かれる──ロトの妻とエウリュディケが「振り返られた者」として対称的に対応する。",
+      "targetId": "rilke_sonette_orpheus_1_01",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 28,
+      "type": "commentary",
+      "anchor": "intuitus est Sodomam et Gomorrham, et universam terram regionis illius: viditque ascendentem favillam de terra quasi fornacis fumum.",
+      "body": "「ソドムとゴモラと……地から炉の煙のように煙が立ち上るのを見た（viditque ascendentem favillam de terra quasi fornacis fumum）」──アブラハムによる遠距離目撃の場面。「intuitus est（眺めた）」：「intueri（凝視する・じっと見つめる）」の完了形で、通常の「videre（見る）」より深い注視の動詞。「favillam（煙・燃え殻・灰）」：完全な燃焼の後に残る灰・煙として、かつて都市だったものの消滅の残映。「quasi fornacis fumum（炉の煙のように）」：比喩が聖書的滅亡を既存のイメージ（炉=熔鉱炉・窯）に結びつける。Genesis第22章v.4「elevatis oculis, vidit locum procul（目を上げると、その場所が遠くに見えた）」というアブラハムのイサクを捧げる山への「遠くからの視線」と対照的──Genesis第22章では遠くに「場所（locus）」が見え、Genesis第19章では「煙（favillam）」が見える。喪失の遠距離目撃という「アブラハムの視線」がここで定式化される。ブランショ「文学空間」の「距離（distance）」論：書くことは常にすでに滅んだもの・失われたものへの遠距離の「intueri（凝視）」として機能する──「quasi fornacis fumum（炉の煙のように）」という比喩が、破壊された現実を既存のイメージとの「類似（quasi）」によってしか把握できない言語の間接性を示す。",
+      "targetId": "hieronymus_genesis_22",
+      "targetParagraphId": 4
+    },
+    {
+      "paragraphId": 29,
+      "type": "commentary",
+      "anchor": "recordatus Abrahae, liberavit Lot de subversione urbium in quibus habitaverat.",
+      "body": "「アブラハムを思い起こされ（recordatus Abrahae）、ロトを……救い出された」──「recordatus（思い起こした）」：「re-cor（再び心に）」という語源的構造が「記憶の回帰」を示す。神が「記憶する（recordari）」という人間的認知行為の神への帰属が神学的に重要──Genesis第8章v.1「recordatus est Deus Noe（神はノアを思い起こした）」と同形。この「神の記憶」がアブラハムとロトの救済を媒介する。Genesis第22章のアケダ後の「quia obedisti voci meae（わたしの声に従ったから）」という神の応答が、この「recordatus Abrahae（アブラハムを思い起こして）」のロトへの救済へと繋がる──アブラハムへの神の約束がロトという第三者への恵みとして実現される。コヘレト「Non est priorum memoria（先のことどもの記憶はない）」（Ecclesiastes I, 11）というコヘレト的記憶の消滅に対し、神の「recordatus（記憶する）」は消えない記憶の超越的根拠として対置される。",
+      "targetId": "hieronymus_ecclesiastes_1",
+      "targetParagraphId": 11
+    },
+    {
+      "paragraphId": 31,
+      "type": "commentary",
+      "anchor": "nullus virorum remansit in terra, qui possit ingredi ad nos juxta morem universae terrae.",
+      "body": "「地の上に男は残っていない、全地の慣わしに従って私たちのところへ来ることができる者が（nullus virorum remansit……juxta morem universae terrae）」──ロトの長女の判断。「nullus remansit（誰も残っていない）」：ソドム・ゴモラの壊滅がロトの娘たちにとって「全世界の終わり」として認識されている──彼女たちは地方的破局を宇宙的終末として経験する。「juxta morem universae terrae（全地の慣わしに従って）」：「mos（慣習・慣わし）」という言葉が、近親相姦という文化的タブーを「慣わし」の名の下に正当化しようとする逆説的論理。Genesis第19章の後半部（v.30–38）は倫理的に最も複雑な節として注釈者を悩ませてきた：娘たちの行為は「子孫を残す（semen servare）」という生命維持の命令によって動機づけられており、これはGenesis第1章「Crescite et multiplicamini（産めよ増えよ）」の命令の極限的実践として読める。ブランショ的文脈では、この「全地が滅んだという誤解」が「不可能な現実（réalité impossible）」──現実であるが把握できない現実──への応答として機能する。",
+      "targetId": "hieronymus_genesis_1",
+      "targetParagraphId": 22
+    },
+    {
+      "paragraphId": 37,
+      "type": "glossary",
+      "anchor": "Peperitque major filium, et vocavit nomen ejus Moab: ipse est pater Moabitarum usque in praesentem diem.",
+      "body": "「長女は息子を産み、その名をモアブと呼んだ（vocavit nomen ejus Moab）──彼は今日に至るモアブ人の父（pater Moabitarum）」──「Moab」：ヘブライ語「מוֹאָב（Mo'av）」の民間語源として「אָב（av：父）から（מ：me）」＝「父から（生まれた者）」という意味が示唆される──近親相姦という出自を名前に刻印する語源的命名。「usque in praesentem diem（今日に至るまで）」：系譜的命名の社会的・歴史的定着を示す定型句。同様にv.38「Ammon, id est, Filius populi mei（私の民の子）」という露骨な名の命名が続く。この「usque hodie（今日まで）」という系譜の延長が、ソドム滅亡という破局の中から生まれた系統が歴史的現実として続くことを確認する──Genesis第4章のカインの系譜（「usque in praesentem diem（今日に至るまで）」）と同じ定型句が、滅びの中からの生命的継続として機能する。モアブ人の子孫であるルツ（旧約聖書「ルツ記」）がダビデ王の祖先となり、さらにイエスの系譜に連なるという事実が、「taboo的起源からの聖なる系譜」という深い逆説を形成する。",
+      "targetId": "hieronymus_genesis_4",
+      "targetParagraphId": 17
+    }
+  ]
+}
