@@ -1,0 +1,139 @@
+{
+  "id": "rodenbach_nocturne",
+  "title": "Nocturne",
+  "author": "Georges Rodenbach",
+  "source": "La Jeunesse blanche, Eugène Fasquelle – Bibliothèque Charpentier, 1913, p. 59–60. Wikisource: https://fr.wikisource.org/wiki/La_Jeunesse_blanche_(1913)/Nocturne",
+  "year": "1913",
+  "firstPublication": "La Jeunesse blanche, Eugène Fasquelle – Bibliothèque Charpentier, 1913",
+  "difficulty": "中級",
+  "category": "rodenbach",
+  "originalLang": "fr-FR",
+  "modernRelevance": "★★★★☆",
+  "context": "ローデンバック（Georges Rodenbach, 1855–1898）の詩集『白い青春（La Jeunesse blanche）』（1913年版）所収。6連×4行、12音節アレクサンドランABAB交互韻。愛する女性の「閉じた家（maison close）」の前を夜ごと往復するという「夜想的徘徊（errance nocturne）」の詩篇。女性は眠っており現れることなく、詩人は窓の向こうに女性の存在を「感じ取ろう」とする。詩の空間的論理：閉じた家（内部・沈黙）↔夜の街路（外部・巡回）という対立の中で、詩人の魂が「棕櫚の音（bruit de palme）」とともに窓を越えて内部へと入り込もうとする──「Mysticisme」の「バンデロール（banderoles）」が内側から外へと出てくるのに対し、「Nocturne」では詩人の魂が外から内へと浸透しようとする逆方向の運動として。結語「vous rêveriez de moi（あなたは私の夢を見るだろう）」は「La Prière」の「Et nous nous endormions dans des gestes d'adieu（私たちは別れのしぐさの中で眠りについた）」という眠りの主題の恋愛的変奏：彼女の眠りの中に詩人が侵入するという夢想。ローデンバックの詩学における「閉じた空間への欲望」──『死都ブリュージュ（Bruges-la-Morte）』のユーゲス・ヴィアーヌが死んだ妻の面影を求めて運河の町を徘徊する主題──の抒情的先行形として。",
+  "keywords": [
+    "nocturne",
+    "maison close",
+    "silence",
+    "nuit",
+    "fenêtre",
+    "eau morte",
+    "désir",
+    "âme",
+    "rêve",
+    "errance"
+  ],
+  "relatedTexts": [
+    "rodenbach_mysticisme",
+    "rodenbach_la_priere",
+    "rodenbach_du_silence",
+    "rodenbach_la_vie_des_chambres",
+    "rodenbach_loubli",
+    "rodenbach_les_femmes_tristes",
+    "rodenbach_coeur_de_leau",
+    "verlaine_colloque_sentimental",
+    "mallarme_apparition",
+    "weil_accepter_le_vide"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "verses": "v.1–4",
+      "original": "Devant votre maison close dans du silence\nCombien je suis allé souvent, par les beaux soirs,\nAvec les gestes fous d'un amant qui balance\nSes songes dans le vent comme des encensoirs.",
+      "provisionalTranslation": "沈黙の中に閉じたあなたの家の前を、\nなんと私は行ったことか、美しい夕べに、幾度も、\n夢想を風の中に振り子のように揺らす、\n乳香炉のように、狂った恋人のしぐさで。"
+    },
+    {
+      "id": 2,
+      "verses": "v.5–8",
+      "original": "Je n'avais nul espoirs de vous voir apparaître ;\nDans vos rideaux à fleurs je vous savais dormant ;\nMais je croyais sentir à travers la fenêtre\nQuelque chose de vous m'arriver par moment.",
+      "provisionalTranslation": "あなたが現れるのを見る望みは何もなかった。\n花模様のカーテンの中で、あなたが眠っているのは分かっていた。\nしかし私は窓を通して感じ取れると信じていた、\n時おり、あなたの何かが私のところに届いてくると。"
+    },
+    {
+      "id": 3,
+      "verses": "v.9–12",
+      "original": "Les rangs d'arbres plissaient dans le brouillard des voiles\nEn processionnant à l'horizon qui fuit ;\nEt le cortège blanc des divines étoiles\nÉcoutait le Silence et regardait la Nuit.",
+      "provisionalTranslation": "木々の列がヴェールの霧の中で皺を寄せながら、\n遠ざかる地平線へと行列を作っていた。\nそして神聖な星々の白い行列が、\n沈黙に耳を傾け、夜を見つめていた。"
+    },
+    {
+      "id": 4,
+      "verses": "v.13–16",
+      "original": "À peine entendait-on en de lointaines rues\nLes pas lourds d'un veilleur ou l'aboiement d'un chien\nEt toutes ces rumeurs incessamment décrues\nÉvoquaient un eau morte où l'on ne voit plus rien.",
+      "provisionalTranslation": "かろうじて聞こえていた、遠い道から、\n夜番の重い足音か、犬の吠え声が。\nそしてこれらの途切れることなく衰えていくすべての物音が、\n何も見えなくなった死んだ水を喚び起こした。"
+    },
+    {
+      "id": 5,
+      "verses": "v.17–20",
+      "original": "Et je restais longtemps, debout, sous vos croisées,\nEt mes yeux fatigués s'amusaient à saisir\nLe caprice des fleurs de fonte entre-croisées\nAux dessins du balcon où montait mon désir.",
+      "provisionalTranslation": "そして私は長い間、あなたの窓の下に立ったまま、\n疲れた目は交差した鋳鉄の花の\n気まぐれを捕らえることで遊んでいた、\n私の欲望が昇っていくバルコニーの意匠の中に。"
+    },
+    {
+      "id": 6,
+      "verses": "v.21–24",
+      "original": "Et me sachant tout près de vous dans la nuit calme,\nJ'imaginais qu'un peu de mon âme en émoi\nDevait aller vers vous avec un bruit de palme\nEt qu'en ce moment-là vous rêveriez de moi !",
+      "provisionalTranslation": "そして穏やかな夜の中であなたのすぐそばにいることを知りながら、\n私は想像した、高ぶった私の魂の欠片が\n棕櫚の音とともにあなたのもとへ向かうに違いないと、\nそしてその瞬間、あなたが私の夢を見るだろうと！"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "Devant votre maison close dans du silence\nCombien je suis allé souvent, par les beaux soirs,",
+      "body": "「沈黙の中に閉じたあなたの家の前を、なんと幾度も行ったことか」──「maison close dans du silence（沈黙の中に閉じた家）」という詩の空間的出発点。「close（閉じた）」という形容詞が家の不透過性・閉鎖性を定立し、詩全体の「内部への浸透不能」という主題を予告する。「combien…souvent（なんと…幾度も）」という感嘆的反復が、この徘徊が一回的ではなく習慣的・反復的な行為であることを示す──コヘレト第1章v.5–7の自然の循環的反復（太陽・風・川の「回帰」）が、ここでは詩人の夜の徘徊という個人的循環として人格化される。「par les beaux soirs（美しい夕べに）」──「Litanies」§5「pendant ces soirs sacrés（神聖な夕べに）」・「Premiers beaux vers」§6の「soirs sacrés」との連続：「夕べ（soir）」がローデンバックにとって記憶・欲望・宗教的陶酔の時間帯として繰り返し現れる。",
+      "targetId": "hieronymus_ecclesiastes_1",
+      "targetParagraphId": 5
+    },
+    {
+      "paragraphId": 1,
+      "type": "prosody",
+      "anchor": "Ses songes dans le vent comme des encensoirs.",
+      "body": "韻律：6連×4行、12音節アレクサンドランABAB交互韻。「Les Jardins」・「La Prière」・「Premiers beaux vers」の抱擁韻（ABBA）とは異なり、ABAB交互韻が採用される──これが徘徊（aller et venir）という往復運動と韻律的に対応する。「encensoirs（乳香炉）」──「Litanies」§2「le regret de l'encens（乳香への後悔）」の乳香が、ここでは「振り子のように揺れる乳香炉（encensoirs）」として物象化・動的に変容される。ミサの典礼で使われる乳香炉の揺れる運動が「夢想（songes）を風の中に揺らす」という詩人の行為の比喩として：乳香炉の振り子運動＝夢想の往復運動という等式。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "Mais je croyais sentir à travers la fenêtre\nQuelque chose de vous m'arriver par moment.",
+      "body": "「しかし私は窓を通して感じ取れると信じていた、時おり、あなたの何かが私のところに届いてくると」──詩の認識論的核心：不可能であることを知りながら「信じる（croyais）」という信仰的態度。「à travers la fenêtre（窓を通して）」──窓が「透過的な境界」として機能する：完全に閉じているわけではなく、「何か（quelque chose）」が透過してくる可能性を詩人は信じる。「Quelque chose de vous（あなたの何か）」という非特定的な「何か」──名指しえない存在の痕跡・浸透。「Mysticisme」§3「son âme au parfum troublant（彼女の心を乱す香りの魂）」の「感じ取る（je devine）」と対照：「Mysticisme」では詩人が積極的に魂を「感じ取る（deviner）」のに対し、「Nocturne」では「信じる（croire）」という不確実な認識態度にとどまる──欲望の強度と認識の不確かさの落差が詩の緊張を生む。",
+      "targetId": "rodenbach_mysticisme",
+      "targetParagraphId": 3
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "Et le cortège blanc des divines étoiles\nÉcoutait le Silence et regardait la Nuit.",
+      "body": "「神聖な星々の白い行列が、沈黙に耳を傾け、夜を見つめていた」──詩人の主観的な徘徊から宇宙的な視点へと焦点が拡大する。「cortège blanc（白い行列）」──「Mysticisme」§1の「fleurs pascales（復活祭の花々）」・§7の「séraphins（熾天使）」の白い行列と連続する「行列（cortège / procession）」のモチーフ。「les rangs d'arbres…En processionnant（木々の列が行列を作る）」との対称で、地上の木々と天上の星々が平行した行列として提示される。「Écoutait le Silence et regardait la Nuit（沈黙に耳を傾け、夜を見つめていた）」──「Silence（沈黙）」と「Nuit（夜）」の大文字化による擬人化・神格化：沈黙と夜が「聞かれ・見られる」対象として存在論的な実体として立ち現れる。ローデンバック「沈黙について（Du silence）」の沈黙の詩学の最も凝縮された表現。",
+      "targetId": "rodenbach_du_silence",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 4,
+      "type": "commentary",
+      "anchor": "Et toutes ces rumeurs incessamment décrues\nÉvoquaient un eau morte où l'on ne voit plus rien.",
+      "body": "「途切れることなく衰えていくすべての物音が、何も見えなくなった死んだ水を喚び起こした」──「eau morte（死んだ水）」というローデンバックの詩学の核心的形象。「eau morte」はヴェネツィアやブリュージュのような「流れない水（運河・湖）」──循環せず停滞し、「死んだ」ように見える水。「où l'on ne voit plus rien（何も見えなくなった）」という視覚的消去が加わることで、死んだ水は単なる停滞ではなく「視覚的不透明」──深部が見えない・鏡的に反映するだけで底が見えない水──として定義される。「rumeurs incessamment décrues（途切れることなく衰えていく物音）」という聴覚的消去が「eau morte」という視覚的消去に「喚び起こされる（évoquaient）」共感覚的連合：音が消えていくことと水が死ぬことが同型として提示される。ローデンバック「水の心臓（Cœur de l'eau）」の静水との連続。",
+      "targetId": "rodenbach_coeur_de_leau",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 5,
+      "type": "commentary",
+      "anchor": "Le caprice des fleurs de fonte entre-croisées\nAux dessins du balcon où montait mon désir.",
+      "body": "「交差した鋳鉄の花の気まぐれを……私の欲望が昇っていくバルコニーの意匠の中に」──「fleurs de fonte entre-croisées（交差した鋳鉄の花）」：バルコニーの鉄製の装飾格子の細工が「花（fleurs）」として知覚される。「mes yeux fatigués s'amusaient à saisir（疲れた目は捕らえることで遊んでいた）」という逆説──「疲れた（fatigués）」目が「遊ぶ（s'amuser）」という矛盾が、欲望の苦しみの中で起きる注意の断片化・漂流を示す。「où montait mon désir（私の欲望が昇っていく）」──「désir（欲望）」が鉄の格子を「昇る（monter）」という動詞的形象：ヴェイユ「Accepter le vide」の「恩寵が上昇する（monter）」という垂直的運動の世俗的・恋愛的等価物として、欲望の上昇運動がバルコニーの格子に沿って可視化される。",
+      "targetId": "weil_accepter_le_vide",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 6,
+      "type": "commentary",
+      "anchor": "J'imaginais qu'un peu de mon âme en émoi\nDevait aller vers vous avec un bruit de palme",
+      "body": "「高ぶった私の魂の欠片が棕櫚の音とともにあなたのもとへ向かうに違いないと想像した」──「un peu de mon âme（私の魂の欠片）」という分割された魂の形象：魂が全体として移動するのではなく「少し（un peu）」だけ分離して移動するという繊細な表現。「en émoi（高ぶった）」──「émoi」は「感情的動揺・興奮」を指す語で、魂が静止状態ではなく振動・高揚状態にある。「avec un bruit de palme（棕櫚の音とともに）」──「palme（棕櫚・ヤシの葉）」はキリスト教の殉教者・勝利の象徴、また受難週（Semaine sainte）の「棕櫚の主日（Dimanche des Rameaux）」の典礼的物象。棕櫚の葉がそよぐ音という繊細な聴覚的形象が魂の移動を伴う。「Mysticisme」§7のバンデロールが天使の口から外へ出るのに対し、「Nocturne」では詩人の魂が外から女性のもとへ向かう──逆方向の浸透として。",
+      "targetId": "rodenbach_mysticisme",
+      "targetParagraphId": 7
+    },
+    {
+      "paragraphId": 6,
+      "type": "intertextual",
+      "anchor": "Et qu'en ce moment-là vous rêveriez de moi !",
+      "body": "「そしてその瞬間、あなたが私の夢を見るだろう」──詩の結語として「夢（rêve）」という主題が眠りと魂の浸透を結びつける。「La Prière」§7の「Le voyage idéal vers le paradis bleu（青い楽園への理想の旅）」という眠りの中の夢想が、ここでは恋愛の文脈に転移される：彼女の眠りの中の「夢」が詩人の魂の侵入の成果として想像される。「vous rêveriez de moi（あなたが私の夢を見る）」という条件法が欲望の非実現性を保存する：「rêveriez」は現実ではなく、詩人の「想像（j'imaginais）」の内容として括弧に入れられた仮想であり、詩全体が「あなたは現れない・しかし私は信じる・そして私は想像する」という三段の不確実性の構造を持つ。ヴェルレーヌ「傷心の対話（Colloque sentimental）」の「かつて愛し合った二人の幽霊」という不在の愛の形象との照応：ローデンバックでも愛は「実現した現実」ではなく「夢想された可能性」として詩の中にのみ存在する。",
+      "targetId": "verlaine_colloque_sentimental",
+      "targetParagraphId": null
+    }
+  ]
+}
