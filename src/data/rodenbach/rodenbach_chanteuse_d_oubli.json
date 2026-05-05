@@ -1,0 +1,113 @@
+{
+  "id": "rodenbach_chanteuse_d_oubli",
+  "title": "Chanteuse d'oubli",
+  "author": "Georges Rodenbach",
+  "source": "La Jeunesse blanche, Eugène Fasquelle – Bibliothèque Charpentier, 1913, p. 71–72. Wikisource: https://fr.wikisource.org/wiki/La_Jeunesse_blanche_(1913)/Chanteuse_d%27oubli",
+  "year": "1913",
+  "firstPublication": "La Jeunesse blanche, Eugène Fasquelle – Bibliothèque Charpentier, 1913",
+  "difficulty": "中級",
+  "category": "rodenbach",
+  "originalLang": "fr-FR",
+  "modernRelevance": "★★★★☆",
+  "context": "ローデンバック（Georges Rodenbach, 1855–1898）の詩集『白い青春（La Jeunesse blanche）』（1913年版）所収。「L'absence」の直後に置かれ、恋愛の喪失の哲学的省察から、「忘却（l'oubli）」の擬人化という寓話的・物語的形式への移行を示す。20行、全行12音節アレクサンドラン、二行平韻（rimes plates）。「愛（l'amour）」を「忘却の歌手（chanteuse d'oubli）」に変容させたボヘミアンの女の比喩として詩全体が展開する。愛がある朝「私たちの家の前に現れ（Arrêtée un matin devant notre maison）」、心を物乞いし（demande notre cœur pour aumône）、手に入れると「すぐに逃げ去る（aussitôt la belle se dérobe）」という三段構造が、恋愛の出現・絶頂・消滅という時間的展開を凝縮する。「Oublier ! ce n'est pas sa faute ni la mienne !（忘れること！それは彼女の過ちでも私の過ちでもない！）」という開口宣言が詩全体の道徳的免責の枠組みを設定する：「L'absence」の「不在はその仕事を果たした」という冷静な診断が、「Chanteuse d'oubli」では「誰のせいでもない」という赦しの形式へと展開される。「L'oubli（忘却）」が詩集中の詩「rodenbach_loubli」での静謐な省察から、ここでは「流浪の歌手（chanteuse bohémienne）」という活動的・官能的な擬人像として逆転される。",
+  "keywords": [
+    "oubli",
+    "bohémienne",
+    "chanteuse",
+    "guitare",
+    "cygnes",
+    "cœur pour aumône",
+    "fenêtre",
+    "soleil du soir",
+    "voyageuse",
+    "mendier"
+  ],
+  "relatedTexts": [
+    "rodenbach_l_absence",
+    "rodenbach_refrain_triste",
+    "rodenbach_loubli",
+    "rodenbach_nocturne",
+    "rodenbach_fin_du_reve",
+    "rodenbach_les_femmes_tristes",
+    "rodenbach_lacrymae_rerum",
+    "rodenbach_du_silence",
+    "hieronymus_ecclesiastes_1",
+    "verlaine_chanson_dautomne"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "verses": "v.1–5",
+      "original": "Oublier ! ce n'est pas sa faute ni la mienne !\nCar l'amour n'est vraiment qu'une bohémienne\nArrêtée un matin devant notre maison\nAvec, dans ses yeux clairs, tout le vaste horizon\nDu ciel bleu reflété comme au fil d'une source.",
+      "provisionalTranslation": "忘れること！それは彼女の過ちでも私の過ちでもない！\nなぜなら愛とはまったく一人のボヘミアン女に過ぎないから、\nある朝私たちの家の前で立ち止まった、\n澄んだ目の中に、広大な地平線のすべてを持って、\n泉の水面に映ったような青い空を。"
+    },
+    {
+      "id": 2,
+      "verses": "v.6–10",
+      "original": "La voyageuse va recommencer sa course,\nMais, dans un frôlement, ses longs doigts cajoleurs\nPapillonnent autour de sa guitare en fleurs\nDont le manche courbé ressemble au cou des cygnes.\nElle a vagabondé sous bois et dans les vignes",
+      "provisionalTranslation": "旅人はその道行きを再び始めようとしている、\nしかし、かすめるような仕草で、その甘やかす長い指が\n花咲くギターの周りで蝶のように舞う、\n曲がった棹が白鳥の首に似たギターの。\n彼女は森の下や葡萄畑をさまよってきた、"
+    },
+    {
+      "id": 3,
+      "verses": "v.11–16",
+      "original": "Et nous chante un moment la chanson d'oublier.\nCoquette, elle nous tend son rouge tablier\nEt demande en passant notre cœur pour aumône.\nEt nous, hallucinés par ses yeux d'anémone\nEt son costume clair enrichi de festons,\nNous ouvrons la fenêtre et nous le lui jetons.",
+      "provisionalTranslation": "そしてしばらく私たちに忘却の歌を歌ってくれる。\nお洒落に、彼女は赤いエプロンを差し出し、\n通りすがりに私たちの心を施しとして求める。\nそして私たちは、アネモネのような目に幻惑されて、\n飾りに彩られた明るい衣装に幻惑されて、\n窓を開け、それを彼女に投げる。"
+    },
+    {
+      "id": 4,
+      "verses": "v.17–20",
+      "original": "Mais voici qu'aussitôt la belle se dérobe\nEmportant notre cœur dans les plis de sa robe\nPour s'en aller plus loin chanter et mendier\nSous le soleil du soir qui va s'incendier !",
+      "provisionalTranslation": "しかし、するとたちまち美しい女は姿を消す、\n私たちの心をそのドレスの褶に包んで持ち去り、\nさらに遠くへ歌い物乞いしに行くために、\n燃え上がろうとしている夕暮れの太陽の下へ！"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "Oublier ! ce n'est pas sa faute ni la mienne !\nCar l'amour n'est vraiment qu'une bohémienne",
+      "body": "「忘れること！それは彼女の過ちでも私の過ちでもない！──なぜなら愛とはまったく一人のボヘミアン女に過ぎないから」──詩の開口命題として「忘れること（Oublier !）」が感嘆符付きで提示され、続いて道徳的免責の宣言「ce n'est pas sa faute ni la mienne（誰のせいでもない）」が続く。「Refrain triste」§1の「Mais sans nous avouer que le beau vers mentait（美しい詩句が嘘をついていると認めることなく）」という告白的省察から、「Chanteuse d'oubli」では「誰の過ちでもない」という赦しの宣言への移行：忘却を罪責から切り離すことで、愛の喪失を自然的・宿命的なものとして受け入れる。「bohémienne（ボヘミアン女・ジプシー女）」──流浪・自由・境界外の存在としてのジプシー女が「愛（l'amour）」の擬人像として選ばれる：愛は定住せず・約束せず・出発するという本質を持つ存在として定義される。ボードレール「旅への誘い（L'Invitation au voyage）」の「そこはすべてが秩序と美……」という安定した愛の理想とは対照的に、ローデンバックの愛は「流浪（vagabondage）」として定義される。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "prosody",
+      "anchor": "Du ciel bleu reflété comme au fil d'une source.",
+      "body": "韻律：20行、全行12音節アレクサンドライン、二行平韻（rimes plates: AABBCC…）。「Fin du rêve」・「Litanies」と同一の distique 形式。「Du ciel bleu reflété comme au fil d'une source（泉の水面に映ったような青い空）」──澄んだ目が「泉（source）」の水面として比喩化される：眼球の反射光＝泉の反射光という共感覚的等価。「Mysticisme」§1の「blancheurs（白さ）」・「Nocturne」§4の「eau morte（死んだ水）」・「L'absence」§2の「puits aux vagues résonances（漠然と響く井戸）」という水の形象の系列に、「澄んだ目の中の泉」という新しい肯定的水の形象が加わる。この「泉の反射」は詩の冒頭（愛の到来）においてのみ現れ、詩の後半では消える──愛が去ることで「泉の清澄さ」も失われる。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "ses longs doigts cajoleurs\nPapillonnent autour de sa guitare en fleurs\nDont le manche courbé ressemble au cou des cygnes.",
+      "body": "「甘やかす長い指が花咲くギターの周りで蝶のように舞う、曲がった棹が白鳥の首に似たギターの」──詩全体で最も密度の高い共感覚的形象が集中する三行。「doigts cajoleurs（甘やかす指）」：触覚的官能性が指に属性化される。「Papillonnent（蝶のように舞う）」：動詞「papillonner」が「蝶（papillon）」から派生し、「Les Jardins」§1の「grand papillon mort（死んだ大きな蝶）」の記憶を喚起する──死んだ蝶の形象が、ここでは生きた蝶の動作として反転される。「guitare en fleurs（花咲くギター）」：楽器が花で飾られるという装飾的擬人化。「le manche courbé ressemble au cou des cygnes（曲がった棹が白鳥の首に似る）」：ギターの棹＝白鳥の首という形態的比喩。白鳥はマラルメ「白鳥のソネット（Le vierge, le vivace…）」以来の象徴主義的詩学の核心的形象──永遠の純潔と氷に閉じ込められた不動。",
+      "targetId": "mallarme_victorieusement",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "Et nous chante un moment la chanson d'oublier.\nCoquette, elle nous tend son rouge tablier\nEt demande en passant notre cœur pour aumône.",
+      "body": "「しばらく私たちに忘却の歌を歌ってくれる。お洒落に、彼女は赤いエプロンを差し出し、通りすがりに私たちの心を施しとして求める」──「la chanson d'oublier（忘却の歌）」という詩の題名に関わる核心句。「忘却の歌を歌うこと（chanter la chanson d'oublier）」が愛の機能として提示される：愛は「忘れさせる者（chanteuse d'oubli）」として定義される──何を忘れさせるのか、詩は語らないが、「L'absence」§2の「les bonheurs d'autrefois（昔の幸せ）」が消えていったという文脈から、愛以前の記憶・苦しみ・孤独を忘れさせる者として読める。「notre cœur pour aumône（施しとして私たちの心を）」──「aumône（施し・慈善）」という語が心の譲渡を「物乞い」の論理として定式化する：愛する者が物乞いに心を与えるという倒置的な権力関係。「son rouge tablier（赤いエプロン）」──流浪の女の「赤（rouge）」が「Charme du passé」§4の「robes aux rubans bleus et roses（青と薔薇色のリボンの服）」・「Refrain triste」§2の「maison en deuil（喪に服した家）」の色彩の流れの中で、官能的・警戒的な赤として機能する。"
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "Et nous, hallucinés par ses yeux d'anémone\nEt son costume clair enrichi de festons,\nNous ouvrons la fenêtre et nous le lui jetons.",
+      "body": "「アネモネのような目に幻惑されて……窓を開け、それを彼女に投げる」──「hallucinés（幻惑された）」という過去分詞が詩の主体「Nous（私たち）」に適用される：愛による「幻覚（hallucination）」状態として恋愛的陶酔が定義される。「Mysticisme」§5の「Des mots blancs comme des hosties（聖体のように白い言葉）」という幻惑的言語への欲望が、ここでは「ses yeux d'anémone（アネモネのような目）」という視覚的幻惑として世俗化される。「Nous ouvrons la fenêtre（窓を開け）」──「Nocturne」§2の「à travers la fenêtre（窓を通して）」・「Refrain triste」§2の「les yeux des carreaux（窓のガラスの目）」という窓のモチーフが、ここで「窓を能動的に開く」という行為として完成される：これまで窓は透過的境界・観察の界面であったが、「Chanteuse d'oubli」ではついに開かれ・投げ込みの開口部となる。",
+      "targetId": "rodenbach_nocturne",
+      "targetParagraphId": 2
+    },
+    {
+      "paragraphId": 4,
+      "type": "commentary",
+      "anchor": "Mais voici qu'aussitôt la belle se dérobe\nEmportant notre cœur dans les plis de sa robe",
+      "body": "「するとたちまち美しい女は姿を消す、私たちの心をそのドレスの褶に包んで持ち去り」──詩の転換点「Mais voici qu'aussitôt（しかするとたちまち）」が、愛の出現→絶頂→消滅という三段構造の最終段階を急転直下に開始する。「aussitôt（たちまち）」という副詞が時間的圧縮を演出する：心を投げた瞬間と美女が消える瞬間が「たちまち」という副詞で同時化される。「dans les plis de sa robe（そのドレスの褶に包んで）」──「Premiers beaux vers」§8の「frissons de traîne（ドレスの裾の震え）」という衣の音響的形象が、ここでは「plis de sa robe（ドレスの褶）」という心の包蔵・隠匿の空間的形象に変換される。「Fin du rêve」§6の「S'effeuillaient dans le vent comme des fleurs de fer（風の中で鉄の花びらのように散った）」という散逸に対し、ここでは「ドレスの褶」という物質的・確実な持ち去りとして喪失が提示される。"
+    },
+    {
+      "paragraphId": 4,
+      "type": "intertextual",
+      "anchor": "Pour s'en aller plus loin chanter et mendier\nSous le soleil du soir qui va s'incendier !",
+      "body": "「さらに遠くへ歌い物乞いしに行くために、燃え上がろうとしている夕暮れの太陽の下へ」──詩の最終形象として「soleil du soir qui va s'incendier（燃え上がろうとしている夕暮れの太陽）」が置かれる。「s'incendier（炎上する・火事になる）」という激烈な動詞が「太陽」に適用される：夕陽が「炎上」する瞬間に「忘却の歌手」が消えていく。コヘレト第1章v.5「Oritur sol et occidit（太陽は昇り、沈む）」の太陽の循環的運行が、ここでは「燃え上がる（s'incendier）」という一回的・破壊的な事件として提示される──太陽の「沈み（occidit）」が静かな反復であるのに対し、ローデンバックの太陽は「炎上」という非反復的・消費的な出来事として愛の喪失と同時に起きる。ヴェルレーヌ「秋の歌（Chanson d'automne）」の「私は行く、悪い風が吹くまま（Je m'en vais / Au vent mauvais）」という流浪の身体が、ローデンバックの「忘却の歌手」の「さらに遠くへ（plus loin）」という継続的流浪と照応する：どちらも風・旅・歌が喪失の形象として機能する。",
+      "targetId": "hieronymus_ecclesiastes_1",
+      "targetParagraphId": 5
+    }
+  ]
+}
