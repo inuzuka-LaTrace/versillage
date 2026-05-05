@@ -1,0 +1,91 @@
+{
+  "id": "rodenbach_l_absence",
+  "title": "L'absence",
+  "author": "Georges Rodenbach",
+  "source": "La Jeunesse blanche, Eugène Fasquelle – Bibliothèque Charpentier, 1913, p. 69. Wikisource: https://fr.wikisource.org/wiki/La_Jeunesse_blanche_(1913)/L%27Absence",
+  "year": "1913",
+  "firstPublication": "La Jeunesse blanche, Eugène Fasquelle – Bibliothèque Charpentier, 1913",
+  "difficulty": "中級",
+  "category": "rodenbach",
+  "originalLang": "fr-FR",
+  "modernRelevance": "★★★★★",
+  "context": "ローデンバック（Georges Rodenbach, 1855–1898）の詩集『白い青春（La Jeunesse blanche）』（1913年版）所収。「Refrain triste」の直後に置かれ、全8行・2連×4行という詩集中最短の詩篇の一つ。12音節アレクサンドランABAB交互韻。「Refrain triste」が「不在（l'absence）」を「生きた死（mort vivante）」と定義する抽象的命題であったのに対し、「L'absence」は再会という具体的場面の叙述として展開される。詩の逆説的核心：再会の場面が「喪失の完成」として経験される。「L'absence a fait son œuvre（不在はその仕事を果たした）」という冒頭の過去複合形が、再会以前に「不在」がすでに取り返しのつかない変容を成し遂げていたことを宣言する。再会した女性は「痛みも後悔もなく（sans douleur ni remords）」見つめ返し、「静かな彫像（calme statue）」として愛の墓に座る。第2連では詩人が過去の記憶を呼び起こそうとするが、女性の心は「漠然と響く井戸（puits aux vagues résonances）」となり、詩人の声の震えはその井戸の底に消えていく。声が「失われる（se perdit）」という完了形で詩が閉じる：喪失は回収不能として確定される。本詩はVANITISMEのローデンバックコーパスの中で「afflictio spiritus（霊の苦悩）」の最も凝縮された定式として機能する。",
+  "keywords": [
+    "absence",
+    "statue",
+    "tombeau",
+    "puits",
+    "voix perdue",
+    "ressouvenances",
+    "douleur",
+    "remords",
+    "amour mort",
+    "résonances"
+  ],
+  "relatedTexts": [
+    "rodenbach_refrain_triste",
+    "rodenbach_loubli",
+    "rodenbach_fin_du_reve",
+    "rodenbach_nocturne",
+    "rodenbach_les_femmes_tristes",
+    "rodenbach_lacrymae_rerum",
+    "rodenbach_du_silence",
+    "hieronymus_ecclesiastes_1",
+    "hieronymus_psalm_129",
+    "weil_accepter_le_vide"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "verses": "v.1–4",
+      "original": "L'absence a fait son œuvre et quand l'ai revue\nElle m'a regardé sans douleur ni remords,\nEt j'ai cru la sentir, cette calme statue,\nS'asseoir sur le tombeau de mon bel amour mort.",
+      "provisionalTranslation": "不在はその仕事を果たした。そして彼女に再び会うと、\n彼女は私を見た、痛みも後悔もなく。\nそして私はあの静かな彫像が、\n死んだ私の美しい愛の墓に座るのを感じたと思った。"
+    },
+    {
+      "id": 2,
+      "verses": "v.5–8",
+      "original": "Et quand, pour la reprendre à des ressouvenances,\nJ'ai voulu lui parler des bonheurs d'autrefois,\nSon cœur fut comme un puits aux vagues résonances\nOù bientôt se perdit le frisson de ma voix.",
+      "provisionalTranslation": "そして、彼女を記憶へと引き戻すために、\n昔の幸せについて語ろうとした時、\n彼女の心は漠然と響く井戸のようになり、\n私の声の震えはそこにすぐに消えていった。"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "L'absence a fait son œuvre et quand l'ai revue",
+      "body": "「不在はその仕事を果たした（L'absence a fait son œuvre）」──「Refrain triste」§2の「L'absence, mort vivante（不在よ、生きた死よ）」という定義的感嘆から、「L'absence a fait son œuvre」という完了した行為の叙述への移行。「son œuvre（その仕事）」という表現が「不在」を意図的に行動する主体として人格化する：不在は「仕事（œuvre）」を持ち、それを「果たす（faire）」──愛の消滅という仕事を。「quand l'ai revue（彼女に再び会うと）」──「再会（revoir）」が詩の出来事として提示されるが、それが「喪失の確認」として機能するという逆説。コヘレト第1章v.9「Quid est quod fuit? Ipsum quod futurum est（あったものはこれから来るもの）」の「過去と未来の同一性」が、ここでは逆説的に「再会が喪失の反復」という形で現れる：再び会うことが「より深い別れ」として経験される。",
+      "targetId": "hieronymus_ecclesiastes_1",
+      "targetParagraphId": 9
+    },
+    {
+      "paragraphId": 1,
+      "type": "prosody",
+      "anchor": "Et j'ai cru la sentir, cette calme statue,\nS'asseoir sur le tombeau de mon bel amour mort.",
+      "body": "韻律：8行、12音節アレクサンドランABAB交互韻×2連。詩集中最短の詩篇の一つでありながら、各行が最大の密度を持つ：revue/statue（A韻）・remords/mort（B韻）という第1連の韻が「再見」と「死」・「後悔」と「死」を音的に接続する。「calme statue（静かな彫像）」──女性が「彫像（statue）」として非生命化される：ローデンバック「沈黙について（Du silence）」の「彫像は沈黙を物質化する」という命題と連続し、彫像＝沈黙＝不在の連鎖が成立する。「le tombeau de mon bel amour mort（死んだ私の美しい愛の墓）」──「bel amour mort（死んだ美しい愛）」という形容詞配置が重要：愛が「美しい（bel）」かつ「死んだ（mort）」という両立する属性を持つ。「Charme du passé」§2の「cercueil construit du bois de nos berceaux（揺りかごの木で作られた棺）」の棺と、ここの「tombeau（墓）」が愛の埋葬というモチーフで連続する。",
+      "targetId": "rodenbach_du_silence",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "Et quand, pour la reprendre à des ressouvenances,\nJ'ai voulu lui parler des bonheurs d'autrefois,",
+      "body": "「彼女を記憶へと引き戻すために（pour la reprendre à des ressouvenances）、昔の幸せについて語ろうとした時」──「ressouvenances（深い記憶・追憶）」という強調形の名詞。「souvenir（記憶）」よりも深く・古く・身体的な記憶を指す語として、詩人が女性に過去を「取り戻させよう（reprendre）」とする企図が示される。「la reprendre à des ressouvenances」という前置詞句が複雑：「reprendre à」は「〜から取り戻す」という奪還の意味を持ち、「des ressouvenances（追憶たち）」が彼女を手放してしまっているものとして擬人化される──記憶が彼女を保持していないため、詩人が記憶から彼女を「取り戻そう」とする試み。「les bonheurs d'autrefois（昔の幸せ）」──「Refrain triste」§1の「heureux mensonge（幸せな嘘）」と照応：昔の幸せもまた「嘘」であった可能性を遡及的に示唆する。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "Son cœur fut comme un puits aux vagues résonances\nOù bientôt se perdit le frisson de ma voix.",
+      "body": "「彼女の心は漠然と響く井戸のようになり、私の声の震えはそこにすぐに消えていった」──詩全体の結語であり、ローデンバックの水の詩学の最も暗い形象。「puits aux vagues résonances（漠然と響く井戸）」：「puits（井戸）」は「Nocturne」§4の「eau morte（死んだ水）」・「Fin du rêve」§3の「vasque desséchée（干上がった水盤）」の系列に属する「深く・暗く・底が見えない水」の極限形象。「vagues résonances（漠然とした響き）」──「Litanies」§4のソプラノの「Si tendre qu'on dirait des chansons de fontaines（噴水の歌のように）」という豊かな音響と対照：あの連では音が水へと変換され豊饒化されたが、ここでは声が「vagues résonances（漠然とした響き）」として井戸に吸収され消滅する。「le frisson de ma voix（私の声の震え）」──「Nocturne」§6の「un bruit de palme（棕櫚の音）」・「Fin du rêve」§6の「S'effeuillaient dans le vent（風の中で散っていった）」という散逸する音のシリーズの最終形：声の「震え（frisson）」が完全に消滅する（se perdit）。詩篇129「De profundis clamavi ad te Domine（主よ、深き淵より私はあなたに呼ばわる）」の「深淵からの声」が、ここでは「深い井戸の中に消えていく声」として世俗的・絶望的に変容される──神へ向かう声ではなく、応答のない井戸に吸い込まれる声として。",
+      "targetId": "hieronymus_psalm_129",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 2,
+      "type": "intertextual",
+      "anchor": "Où bientôt se perdit le frisson de ma voix.",
+      "body": "「私の声の震えはそこにすぐに消えていった（se perdit）」──詩集内の「音の散逸」モチーフの最終的・最も悲観的な帰結。「Litanies」では音楽が「eau musicale（音楽の水）」として魂を満たし、「Mysticisme」では天使の声がバンデロールとして形を与えられ、「Nocturne」では魂が「棕櫚の音とともに」届くと想像されたが、「L'absence」では詩人の生きた声の「震え（frisson）」が「vagues résonances（漠然とした響き）」の井戸に消える──音楽的充満から声の消滅へという詩集全体の音響的下降曲線の終着点。ローデンバック「忘却（L'Oubli）」の「すべては忘れられる」という主題が、ここでは「声が消える」という聴覚的事件として確定される。ヴェイユ「Accepter le vide（真空を受容する）」§1「恩寵が入れるのはそれを受け取る空虚がある場所だけ」──女性の心という「井戸（vide）」が詩人の声を受け取りながら「恩寵」を返さない空虚として、ヴェイユの恩寵論の逆転形象として読める：空虚は恩寵を与えるのではなく、声を消去する。",
+      "targetId": "rodenbach_loubli",
+      "targetParagraphId": null
+    }
+  ]
+}
