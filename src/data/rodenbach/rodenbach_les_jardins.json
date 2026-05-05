@@ -1,0 +1,164 @@
+{
+  "id": "rodenbach_les_jardins",
+  "title": "Les Jardins",
+  "author": "Georges Rodenbach",
+  "source": "La Jeunesse blanche, Eugène Fasquelle – Bibliothèque Charpentier, 1913, p. 17–18. Wikisource: https://fr.wikisource.org/wiki/La_Jeunesse_blanche_(1913)/Les_Jardins",
+  "year": "1913",
+  "firstPublication": "La Jeunesse blanche, Eugène Fasquelle – Bibliothèque Charpentier, 1913",
+  "difficulty": "中級",
+  "category": "rodenbach",
+  "originalLang": "fr-FR",
+  "modernRelevance": "★★★★☆",
+  "context": "ローデンバック（Georges Rodenbach, 1855–1898）の詩集『白い青春（La Jeunesse blanche）』（1896年初版、1913年増補版）所収の詩篇。8連×4行の四行詩（quatrain）形式で書かれ、押韻はABAB交互韻。「庭園（jardins）」という象徴的空間を媒介として、子供時代の記憶・死んだ蝶・復活祭の卵・ローマの鐘という四つのイメージが重層的に組み合わされる。詩の主題は「甦り（ressusciter）」の二義性にあり、死んだ蝶が古い本の中で翅をたたんでいるという冒頭のイメージが、失われた幼年期の再来という「不完全な甦り」の型を設定する。末連において「ローマの鐘が沈黙から脱走し流刑から戻る（S'évadent du silence / Et rentrent de l'exil）」という完全な甦りのイメージが置かれることで、詩全体が「失われたもの／戻るもの」の弁証法として閉じる。ローデンバックの詩学の核心である「記憶・静水・沈黙」の三角形が、ここでは「庭・本・蝶」という具体的事物を介して展開されており、『死都ブリュージュ（Bruges-la-Morte）』の水路と静寂の詩学と連続する美的世界を示す。",
+  "keywords": [
+    "enfance",
+    "jardins",
+    "papillon mort",
+    "mémoire",
+    "résurrection",
+    "Pâques",
+    "cloches de Rome",
+    "exil",
+    "silence",
+    "jeunesse"
+  ],
+  "relatedTexts": [
+    "rodenbach_coeur_de_leau",
+    "rodenbach_du_silence",
+    "rodenbach_la_vie_des_chambres",
+    "rodenbach_paysages_de_ville",
+    "rodenbach_lange_envole",
+    "rodenbach_devant_tete_de_mort",
+    "rodenbach_loubli",
+    "rodenbach_les_femmes_tristes",
+    "rodenbach_lacrymae_rerum",
+    "hieronymus_ecclesiastes_1",
+    "hieronymus_iob_1"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "verses": "v.1–4",
+      "original": "Les jardins de l'enfance aux roses oubliées\nRessuscitent parfois dans un vieux livre où dort\nLes ailes repliées\nD'un grand papillon mort !",
+      "provisionalTranslation": "忘れられた薔薇の子供時代の庭々が\n時おり古い書物の中に甦る、その中に眠る\n翅をたたんで\n死んだ大きな蝶が！"
+    },
+    {
+      "id": 2,
+      "verses": "v.5–8",
+      "original": "On songe avec tristesse aux aubes en allées\nOù le papillon mort, grisé par les chaleurs,\nOuvrait dans les allées\nSon éventail en fleurs.",
+      "provisionalTranslation": "過ぎ去った夜明けを悲しみとともに思う、\n死んだ蝶が、炎暑に酔いしれながら、\n並木道で開いていた\nその花のような扇を。"
+    },
+    {
+      "id": 3,
+      "verses": "v.9–12",
+      "original": "On songe qu'en ces jours de floraison première\nLa Jeunesse, elle aussi, posait par les chemins\nSes ailes de poussière\nSur les pâles jasmins",
+      "provisionalTranslation": "思う、最初の花咲く日々のあの頃、\n青春もまた、小径ごとに止まっていたと、\nその塵の翅を\n蒼白なジャスミンの上に。"
+    },
+    {
+      "id": 4,
+      "verses": "v.13–16",
+      "original": "Et soudain on revit le prime temps des roses,\nLe temps où l'on goûtait, dans le jardin rouvert,\nLa nouveauté des choses\nEt l'imprévu du vert.",
+      "provisionalTranslation": "そして突然、薔薇の最初の季節が甦る、\n再び開かれた庭で味わった、\n事物の新鮮さと\n緑の予期せぬ驚きを。"
+    },
+    {
+      "id": 5,
+      "verses": "v.17–20",
+      "original": "L'heureux temps d'enfantine et crédule démence\nOù l'on croit, au printemps, quand les arbres sont blancs,\nQue l'hiver recommence\nDans les rameaux tremblants ;",
+      "provisionalTranslation": "幸せな時──子供っぽく信じやすい狂気の時──\n木々が白くなる春に、\n冬がもう一度始まると信じる、\n震える小枝の中で。"
+    },
+    {
+      "id": 6,
+      "verses": "v.21–24",
+      "original": "Où la légende en fleur des semaines pascales\nCache dans les jardins des œufs mauves et bleus\nParmi les feuilles pâles\nEt les gazons frileux,",
+      "provisionalTranslation": "復活祭の週の花咲く伝説が\n庭の中に紫と青の卵を隠す、\n蒼白な葉々の間に\n寒さに縮んだ芝生の上に。"
+    },
+    {
+      "id": 7,
+      "verses": "v.25–28",
+      "original": "Des œufs d'or qu'on croirait jetés là par les anges\nQui les auraient soustraits aux nids frêles bâtis\nPar des vols de mésanges\nAux toits du Paradis",
+      "provisionalTranslation": "天使たちが置いていったと信じられる金の卵を、\n天使たちが奪ってきた、か細い巣から、\n山雀の群れが\n楽園の屋根に作った。"
+    },
+    {
+      "id": 8,
+      "verses": "v.29–32",
+      "original": "Oh ! Les jardins emplis de soleil et d'enfance\nQuand les cloches de Rome, un matin clair d'avril,\nS'évadent du silence\nEt rentrent de l'exil !",
+      "provisionalTranslation": "ああ！ 太陽と幼年期に満ちた庭々よ、\nローマの鐘が、四月の明るい朝に、\n沈黙から脱走し\n流刑から戻ってくる時！"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "Les jardins de l'enfance aux roses oubliées\nRessuscitent parfois dans un vieux livre où dort",
+      "body": "「忘れられた薔薇の子供時代の庭々が、時おり古い書物の中に甦る」──詩の冒頭がただちに「甦り（ressusciter）」という動詞を核心に置く。しかし「ressuscitent（甦る）」の主語が「庭々」であり、その庭が甦る場所が「古い書物（vieux livre）」であるという構造が、記憶の媒介としてのテクストを定立する。庭→書物→蝶という物質的連鎖が、「記憶」を生きた身体的体験ではなく「死んだもののテクスト的保存」として提示する。ローデンバック「沈黙について（Du silence）」の「書物が沈黙を物質化する」という詩学と連続する。モーリス・ブランショ『文学の空間（L'Espace littéraire）』での「作品は作者の死の後にのみ完全に存在する」という命題が、「vieux livre où dort…papillon mort」という物象の連鎖によって先取りされている──書物の中で眠る死んだ蝶が、まさに「死後に保存されたエクリチュール」の形象である。",
+      "targetId": "rodenbach_du_silence",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 1,
+      "type": "prosody",
+      "anchor": "Les ailes repliées\nD'un grand papillon mort !",
+      "body": "四行詩（quatrain）の形式分析：本詩は全8連、ABAB交互韻の四行詩。各連の3・4行目が1・2行目より短い「縮小行（vers court）」となる構造──具体的には1・2行目が12音節（アレクサンドラン）、3・4行目が6音節（hexasyllabe）。この「長－長－短－短」の音節的縮小が視覚的にも、蝶の翅が畳まれていく動作を模倣する。感嘆符「!」がすでに第1連末に置かれ、詩全体の感情的な底流として「驚嘆と喪失」が提示される。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "glossary",
+      "anchor": "grisé par les chaleurs",
+      "body": "「炎暑に酔いしれながら（grisé par les chaleurs）」──「griser（酔わせる、陶酔させる）」は動詞「griser」の過去分詞。夏の熱によって恍惚状態にある蝶というイメージ。この「陶酔（ivresse）」が過去時制（imparfait「ouvrait」）で語られることで、現在は失われた感覚的な豊饒さとして回顧される。ボードレール「旅への誘い（L'Invitation au voyage）」の感覚的陶酔の記憶と照応。「éventail en fleurs（花のような扇）」──蝶の翅を扇（éventail）として比喩的に提示する。扇が「開かれる（ouvrait）」という過去への動作が、第1連の「翅をたたんで（les ailes repliées）」という現在の閉鎖と対を成す。"
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "La Jeunesse, elle aussi, posait par les chemins\nSes ailes de poussière",
+      "body": "「青春もまた、小径ごとに止まっていた、その塵の翅を」──蝶から「青春（la Jeunesse）」への直喩的移行。大文字化された「la Jeunesse」は抽象的な概念の人格化（prosopopée）。「ailes de poussière（塵の翅）」という表現が蝶の翅の鱗粉という物質的特徴と、塵（poussière）の消滅・脆弱性という主題を結合する。コヘレト第1章v.4「Generatio praeterit, et generatio advenit」の世代の儚さが、ここでは蝶の翅の塵として詩的に変容される。ヴェイユ「重力と恩寵」における「重力（pesanteur）」──地上に縛り付けられたすべての存在の脆さ──を蝶の翅という極度に軽いものに見出す逆説。",
+      "targetId": "hieronymus_ecclesiastes_1",
+      "targetParagraphId": 4
+    },
+    {
+      "paragraphId": 4,
+      "type": "commentary",
+      "anchor": "La nouveauté des choses\nEt l'imprévu du vert.",
+      "body": "「事物の新鮮さ（la nouveauté des choses）と緑の予期せぬ驚き（l'imprévu du vert）」──コヘレト「太陽の下に新しいものは何もない（Nihil sub sole novum）」（第1章v.10）の直接的な否定として機能する。子供の知覚においては、春の緑は毎年「予期せぬもの（imprévu）」として現れる──成人した意識が「これは新しくない」と分類するものを、幼年期の意識は常に初めてのものとして驚嘆する。この「子供の知覚における新鮮さ」対「コヘレト的成熟の虚無」の対立が、詩全体の隠れた哲学的緊張を形成する。",
+      "targetId": "hieronymus_ecclesiastes_1",
+      "targetParagraphId": 10
+    },
+    {
+      "paragraphId": 5,
+      "type": "commentary",
+      "anchor": "L'heureux temps d'enfantine et crédule démence\nOù l'on croit, au printemps, quand les arbres sont blancs,\nQue l'hiver recommence",
+      "body": "「子供っぽく信じやすい狂気（crédule démence）の幸せな時──木々が白くなる春に、冬がもう一度始まると信じる」──開花した木々の白さを「冬の再来」と誤認する子供の知覚の逆説が、この詩全体の主題の縮図として機能する。「démence（狂気）」という語が「enfantine et crédule（子供っぽく信じやすい）」という限定によって肯定的に評価される──理性的な誤謬ではなく、世界の驚異への開かれた受容性としての「狂気」。ローデンバック「悲しき女たち（Les Femmes tristes）」の「錯乱した知覚」のポジティブな原型として位置づけられる。「arbres sont blancs（木々が白い）」──花で白くなった春の樹木を雪で白い冬と誤認する──この誤認そのものが詩的知覚の核心：見ることは常に「すでに知っているもの」を経由する。",
+      "targetId": "rodenbach_les_femmes_tristes",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 6,
+      "type": "commentary",
+      "anchor": "la légende en fleur des semaines pascales\nCache dans les jardins des œufs mauves et bleus",
+      "body": "「復活祭の週の花咲く伝説（légende en fleur）が庭に紫と青の卵を隠す」──復活祭（Pâques）の伝説として、天使や鐘が卵を庭に隠すというベルギー・フランス圏の民間伝承。「légende en fleur（花咲く伝説）」という表現が花の比喩を伝説そのものに適用し、伝説が春とともに開花するものとして提示される。「œufs mauves et bleus（紫と青の卵）」──色彩的に非現実的な卵の色が、伝説の超自然的性格を視覚的に定着させる。紫はロデンバックの詩の中で繰り返し現れる「失われたものの色」──ブリュージュの運河の夕暮れや哀悼の色調と連続する。"
+    },
+    {
+      "paragraphId": 7,
+      "type": "commentary",
+      "anchor": "Des œufs d'or qu'on croirait jetés là par les anges\nQui les auraient soustraits aux nids frêles bâtis\nPar des vols de mésanges\nAux toits du Paradis",
+      "body": "「天使たちが楽園の屋根の山雀の巣から奪ってきた金の卵」──第7連は復活祭の卵の神話的起源を語る：天使が楽園（Paradis）に鳥（山雀・mésanges）が作った巣から卵を盗み、地上の庭に撒いたという子供向けの神話構造。「toits du Paradis（楽園の屋根）」という空間的イメージが、天上と地上の間の「流通（circulation）」を確立する──卵が天から地へと運ばれることで、第8連の「鐘が流刑から戻る」という逆方向の運動の予型となる。ここでの「天使（anges）」はローデンバック「消えた天使（L'Ange envolé）」の「飛び去った天使」の対照──消え去る天使ではなく、与えに来る天使として。「nids frêles（か細い巣）」──「frêle（か細い・脆い）」という形容詞はローデンバックの語彙における脆弱性・儚さの標識語。",
+      "targetId": "rodenbach_lange_envole",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 8,
+      "type": "commentary",
+      "anchor": "les cloches de Rome, un matin clair d'avril,\nS'évadent du silence\nEt rentrent de l'exil !",
+      "body": "「ローマの鐘が、四月の明るい朝に、沈黙から脱走し、流刑から戻ってくる」──詩の結語として、復活祭の鐘の伝説が導入される。カトリックの典礼慣習において、聖木曜日から復活祭の朝まで教会の鐘は鳴らされず「ローマへ飛んで行った」と説明される──復活祭の朝に「戻ってくる（rentrent）」ことで鐘が再び鳴り響く。この民俗的伝説がローデンバックにとって詩的な「甦り」の完全形として機能する。「S'évadent du silence（沈黙から脱走する）」──「沈黙（silence）」というローデンバック詩学の核心語が、ここでは脱出される牢獄として現れる。「rodenbach_du_silence」で讃美される沈黙が、復活の朝においては「乗り越えられるべき状態」として逆転される。「exil（流刑）」という語が詩全体を「追放と帰還」の構造として定義する──死んだ蝶（翅をたたんで書物に眠る）が「失われた庭への帰還不能な追放者」であるのに対し、鐘は「帰還する亡命者」として完全な甦りを体現する。この末連が全詩の「不完全な甦り（記憶）」対「完全な甦り（復活）」の弁証法を閉じる。",
+      "targetId": "rodenbach_du_silence",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 8,
+      "type": "intertextual",
+      "anchor": "S'évadent du silence\nEt rentrent de l'exil !",
+      "body": "「沈黙から脱走し、流刑から戻る」──コヘレト第1章v.5–7の自然の循環（太陽・風・川がそれぞれの場所へと「戻る（revertitur / revertuntur）」）との対照。コヘレトにおける「戻り」は出口のない循環・反復として虚無を定式化するのに対し、ローデンバックの「rentrent（戻る）」は復活の朝の一回的な事件として位置づけられる。しかし詩が翌年の復活祭にも同じ「戻り」が繰り返されることを示唆する限り、この「帰還」もまたコヘレト的な循環の内側にある。ヴェイユ「Accepter le vide」§1の「恩寵が入れるのはそれを受け取る空虚がある場所だけ」──鐘が「沈黙（空虚）」から出てくることで、沈黙そのものが恩寵の到来を可能にした空虚として遡及的に意味を帯びる。",
+      "targetId": "hieronymus_ecclesiastes_1",
+      "targetParagraphId": 6
+    }
+  ]
+}
