@@ -1,0 +1,149 @@
+{
+  "id": "rodenbach_fin_du_reve",
+  "title": "Fin du rêve",
+  "author": "Georges Rodenbach",
+  "source": "La Jeunesse blanche, Eugène Fasquelle – Bibliothèque Charpentier, 1913, p. 61–62. Wikisource: https://fr.wikisource.org/wiki/La_Jeunesse_blanche_(1913)/Fin_du_r%C3%AAve",
+  "year": "1913",
+  "firstPublication": "La Jeunesse blanche, Eugène Fasquelle – Bibliothèque Charpentier, 1913",
+  "difficulty": "中級",
+  "category": "rodenbach",
+  "originalLang": "fr-FR",
+  "modernRelevance": "★★★★☆",
+  "context": "ローデンバック（Georges Rodenbach, 1855–1898）の詩集『白い青春（La Jeunesse blanche）』（1913年版）所収。「Nocturne」の直後に置かれ、恋愛の喪失を主題とする。24行、全行12音節アレクサンドランの二行平韻（rimes plates: AABBCC…）。恋愛の最も輝かしい瞬間（「au beau de notre amour（愛の絶頂に）」）に女性が去っていったという喪失の定式から始まり、詩の後半（§5–§6）で「彼女が歩まなかった凱旋門」・「受け取らなかった黄金の鍵」というフランドル中世のタブロー──夢想された式典の細部──が長大な関係代名詞の連鎖によって展開される。この「実現しなかった式典」の詳細な描写が詩全体の構造的逆説を形成する：§1–§4の「去っていった（s'est en allée）」という過去の事実に対し、§5–§6は「歩まなかった（n'a pas marché）」という否定形で始まる夢想の詳細な現在形として広がり、詩は「失われたもの」ではなく「決して存在しなかった理想」の細密画として閉じる。結語「Les chants du carillon…S'effeuillaient dans le vent comme des fleurs de fer（鐘楼の鐘の歌が風の中で鉄の花びらのように散っていった）」はブリュージュの鐘楼（Beffroi）という地理的固有性を持ち、ローデンバックの詩的故郷フランドルの景観が喪失の最終形象として機能する。",
+  "keywords": [
+    "fin du rêve",
+    "absence",
+    "vasque desséchée",
+    "cortège",
+    "arcs triomphaux",
+    "infantes",
+    "Flandre",
+    "carillon",
+    "Beffroi",
+    "fleurs de fer"
+  ],
+  "relatedTexts": [
+    "rodenbach_nocturne",
+    "rodenbach_charme_du_passe",
+    "rodenbach_loubli",
+    "rodenbach_lacrymae_rerum",
+    "rodenbach_les_jardins",
+    "rodenbach_coeur_de_leau",
+    "rodenbach_du_silence",
+    "rodenbach_paysages_de_ville",
+    "hieronymus_ecclesiastes_1",
+    "weil_accepter_le_vide"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "verses": "v.1–2",
+      "original": "Au beau de notre amour elle s'est en allée\nComme une noce en blanc au lointain d'une allée,",
+      "provisionalTranslation": "愛の絶頂に彼女は去っていった、\n並木道の遠くを行く白い婚礼行列のように。"
+    },
+    {
+      "id": 2,
+      "verses": "v.3–4",
+      "original": "Au beau de notre amour on a fermé le parc\nOù nous marchions à deux sous les rameaux en arc.",
+      "provisionalTranslation": "愛の絶頂に公園は閉められた、\nアーチを作る小枝の下を二人で歩いたあの公園が。"
+    },
+    {
+      "id": 3,
+      "verses": "v.5–6",
+      "original": "L'absence tout à coup a desséché la vasque\nOù montait notre espoir tel qu'un jet d'eau fantasque.",
+      "provisionalTranslation": "不在が突然、水盤を干上がらせた、\n気まぐれな噴水のように私たちの希望が立ち上っていたあの水盤を。"
+    },
+    {
+      "id": 4,
+      "verses": "v.7–8",
+      "original": "Elle s'en est allée au plus tendre moment\nComme un cortège part mélancoliquement.",
+      "provisionalTranslation": "彼女は最も柔らかな瞬間に去っていった、\n行列が憂愁とともに出発するように。"
+    },
+    {
+      "id": 5,
+      "verses": "v.9–16",
+      "original": "Elle n'a pas marché, chaste et surnaturelle,\nSous les arcs triomphaux que je dressais pour elle,\nsous les arcs triomphaux de lierre et de jasmins\nque je dressais pour elle avec mes jeunes mains,\nQue je dressais pour elle au seuil de ma jeunesse\nPour l'y voir s'avancer ainsi qu'une princesse,\nEt pour l'y voir superbe, avec toute sa cour,\nRecevoir les clés d'or de mon premier amour,",
+      "provisionalTranslation": "彼女は歩まなかった、貞潔で超自然的に、\n私が彼女のために立てた凱旋門の下を、\n蔦とジャスミンの凱旋門の下を、\n私の若い手で彼女のために立てたものを。\n私の青春の入り口に彼女のために立てたものを、\nその下で彼女が王女のように進むのを見るために、\nそしてその下で彼女が威厳を持って、全廷臣を連れて、\n私の初恋の黄金の鍵を受け取るのを見るために。"
+    },
+    {
+      "id": 6,
+      "verses": "v.17–24",
+      "original": "Et m'évoquer ainsi ces anciennes infantes\nQui venaient, au milieu des plantes triomphantes,\nDans leurs villes de Flandre en agréer les clés\nQue des pages rêveurs aux cheveux long-bouclés\nLeur présentaient sur des coussins de velours rouge,\nCependant qu'au lointain, sous le soleil qui bouge,\nLes chants du carillon, tombant du Beffroi fier,\nS'effeuillaient dans le vent comme des fleurs de fer !",
+      "provisionalTranslation": "そしてそのようにして喚び起こす、あの古い王女たちを、\n勝利に満ちた草木の中をやってきて、\nフランドルの都市でその鍵を受け取った、\n長い巻き毛の夢想する小姓たちが\n赤いビロードのクッションの上に差し出す鍵を。\n一方、遠くでは、動く太陽の下、\n誇り高い鐘楼から落ちてくる鐘楼の歌が、\n風の中で鉄の花びらのように散っていった！"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "Au beau de notre amour elle s'est en allée\nComme une noce en blanc au lointain d'une allée,",
+      "body": "「愛の絶頂に彼女は去っていった、並木道の遠くを行く白い婚礼行列のように」──「au beau de notre amour（愛の絶頂に）」という冒頭句が§2で反復される（anaphore）：喪失が愛の絶頂という最良の瞬間に起きるという逆説がこの二行の詩的核心。「Charme du passé」§1の「Que nous aimons surtout maintenant qu'il est mort（今や死んでしまった今こそ最も愛する）」という喪失の激化の論理と構造的に照応：最も愛する瞬間に失われるという逆説の定型。「noce en blanc（白い婚礼行列）」──「en blanc（白い）」という詩集タイトル『白い青春（La Jeunesse blanche）』の白への参照。「婚礼（noce）」であるにもかかわらず「去っていく」という逆説：婚礼は到来のはずが出発として提示される。「au lointain d'une allée（並木道の遠く）」──「Nocturne」§1の「par les beaux soirs（美しい夕べに）」の並木道のイメージと連続：前詩の「往来した並木道」が本詩で「彼女が去っていく並木道」として喪失の空間として確定される。",
+      "targetId": "rodenbach_charme_du_passe",
+      "targetParagraphId": 1
+    },
+    {
+      "paragraphId": 1,
+      "type": "prosody",
+      "anchor": "Comme une noce en blanc au lointain d'une allée,",
+      "body": "韻律：24行、全行12音節アレクサンドランの二行平韻（rimes plates: AA BB CC…）。「Nocturne」のABAB交互韻から、隣接二行が対をなす平韻への移行──「Litanies」の distique 形式と同一だが、「Litanies」が典礼的反復句「Sanctus !」を持つのに対し、「Fin du rêve」は「Au beau de notre amour（§1・§2）」と「Que je dressais pour elle（§5・三回反復）」という世俗的反復句を持つ。二行平韻の「閉じた対（distique）」形式が喪失の確認という主題と整合する：各二行が完結した単位として閉じ、開かれた問いを残さない。§5のみが8行に拡張され、「Elle n'a pas marché（歩まなかった）」という否定を8行にわたる詳細な肯定的幻想が続く──否定形の後ろに夢想が「溢れ出す」構造。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "Au beau de notre amour on a fermé le parc\nOù nous marchions à deux sous les rameaux en arc.",
+      "body": "「愛の絶頂に公園は閉められた、アーチを作る小枝の下を二人で歩いたあの公園が」──「on a fermé le parc（公園が閉められた）」という非人称的な受動的閉鎖。誰が閉めたかは不明──自然の論理・運命・時間という匿名の力による閉鎖として提示される。「rameaux en arc（アーチを作る小枝）」──§5の「arcs triomphaux de lierre et de jasmins（蔦とジャスミンの凱旋門）」の予型として：自然の木の枝が作るアーチが、§5で「私の若い手で作る凱旋門」へと人工的に変換される。「nous marchions à deux（二人で歩いた）」という過去半過去が、§5の「Elle n'a pas marché（歩まなかった）」という否定との対比を準備する：実際に二人で歩いた過去の記憶と、歩まれることのなかった凱旋門という二つの歩行の対立。"
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "L'absence tout à coup a desséché la vasque\nOù montait notre espoir tel qu'un jet d'eau fantasque.",
+      "body": "「不在が突然、水盤を干上がらせた──気まぐれな噴水のように私たちの希望が立ち上っていた水盤を」──「vasque desséchée（干上がった水盤）」というローデンバックの水の詩学の逆転形象。「Nocturne」§4の「eau morte（死んだ水）」が流れを失った水であるのに対し、ここでは「desséchée（干上がった）」という完全な水の消滅が提示される：「不在（l'absence）」という抽象が水を蒸発させる行為者として人格化される。「jet d'eau fantasque（気まぐれな噴水）」──「Les Jardins」§4の「La nouveauté des choses（事物の新鮮さ）」という子供の知覚の驚嘆が、ここでは「fantasque（気まぐれな）」という予測不能性として愛の希望に適用される。ヴェイユ「Accepter le vide（真空を受容する）」§1の「恩寵が入れるのはそれを受け取る空虚がある場所だけ」──干上がった水盤という「空虚（vide）」が恩寵の前提条件として遡及的に読める：喪失が空虚を作り出す。",
+      "targetId": "weil_accepter_le_vide",
+      "targetParagraphId": 1
+    },
+    {
+      "paragraphId": 4,
+      "type": "commentary",
+      "anchor": "Elle s'en est allée au plus tendre moment\nComme un cortège part mélancoliquement.",
+      "body": "「彼女は最も柔らかな瞬間に去っていった、行列が憂愁とともに出発するように」──§1の「noce en blanc（白い婚礼行列）」から§4の「cortège（行列）」へ：女性の去りゆく姿が再び「行列」として形象化される。「mélancoliquement（憂愁とともに）」という副詞が行列全体に「憂鬱」という感情的属性を与える：去る側（彼女）が憂愁であるのか、見送る側（詩人）の眼差しが行列を憂愁に染めるのかが意図的に曖昧にされる。「Les Jardins」§4の「En processionnant à l'horizon（行列を作りながら地平線へ）」という木々の行列・「Litanies」§3の「Les rangs d'arbres…En processionnant」の木の行列・「Mysticisme」§1の「cortège blanc des divines étoiles（星の白い行列）」と連続する「行列（cortège/procession）」のモチーフが、ここで「去りゆく恋愛」の最終形象として結実する。",
+      "targetId": "rodenbach_nocturne",
+      "targetParagraphId": 3
+    },
+    {
+      "paragraphId": 5,
+      "type": "commentary",
+      "anchor": "Elle n'a pas marché, chaste et surnaturelle,\nSous les arcs triomphaux que je dressais pour elle,",
+      "body": "「彼女は歩まなかった、貞潔で超自然的に、私が彼女のために立てた凱旋門の下を」──詩の構造的転換点。§1–§4の「去っていった（s'est en allée）」という完了過去に対し、§5は「歩まなかった（n'a pas marché）」という否定完了過去で開始され、以降8行にわたる「歩まなかった式典の詳細」が関係代名詞の連鎖で展開される。「que je dressais pour elle（私が彼女のために立てた）」という半過去形の三回反復（§5内に繰り返される）が、現実には実現しなかったが「準備された（dressais）」という未完了の行為として夢想の存在様式を定義する：半過去は「繰り返されたか・進行中だったが完結しなかった」行為を示す時制──詩人の凱旋門の準備は反復的・進行的だったが、彼女の到来によって完結することはなかった。コヘレト第1章v.15「Perversi difficile corriguntur（曲がったものは正すことは難しい）」──実現しなかった理想は修正・回収不能であるという存在論的不可逆性の詩的形象。",
+      "targetId": "hieronymus_ecclesiastes_1",
+      "targetParagraphId": 15
+    },
+    {
+      "paragraphId": 5,
+      "type": "glossary",
+      "anchor": "Recevoir les clés d'or de mon premier amour,",
+      "body": "「私の初恋の黄金の鍵を受け取る（Recevoir les clés d'or de mon premier amour）」──「鍵の授与（remise des clés）」は都市が征服者・統治者を歓迎する際に市長が「都市の鍵（les clés de la ville）」を差し出す儀礼的行為。§6のフランドルの都市の「infantes（王女）」への鍵の授与という中世フランドルの典礼的慣習と連続する。「clés d'or（黄金の鍵）」は「Charme du passé」§4の「gaîté des miroirs（鏡の喜び）」と照応する黄金的価値の形象：幼年期の金の卵（「Les Jardins」§7「Des œufs d'or」）→初恋の黄金の鍵という詩集内の「金（or）」の連鎖。「premier amour（初恋）」という語が本詩をVANITISME収録の「最初の詩への目覚め（Premiers beaux vers）」・「最初の祈り（La Prière）」・「最初の庭の記憶（Les Jardins）」という「最初（premiers）」の連関の中に位置づける。"
+    },
+    {
+      "paragraphId": 6,
+      "type": "commentary",
+      "anchor": "Et m'évoquer ainsi ces anciennes infantes\nQui venaient, au milieu des plantes triomphantes,\nDans leurs villes de Flandre en agréer les clés",
+      "body": "「そしてそのようにして喚び起こす、あの古い王女たちを──フランドルの都市でその鍵を受け取った」──§5の「王女のように（ainsi qu'une princesse）」という比喩が、§6で歴史的・具体的な「フランドルの王女たち（anciennes infantes）」への記憶の連鎖（「Et m'évoquer ainsi（そのようにして喚び起こす）」）として展開される。「infantes」：スペイン語由来の語でスペイン・ポルトガル王家の王女を指すが、ここではフランドル支配下のスペイン領ネーデルラントの王女たちという歴史的文脈を持つ──ブリュージュ・ヘントといったフランドルの都市はかつてスペイン領として統治されていた。「villes de Flandre（フランドルの都市）」──ローデンバックの詩的故郷。『死都ブリュージュ』の舞台であるブリュージュ（Bruges）という具体的な都市への参照として、詩の夢想がフランドルの歴史的記憶に根拠づけられる。"
+    },
+    {
+      "paragraphId": 6,
+      "type": "commentary",
+      "anchor": "Les chants du carillon, tombant du Beffroi fier,\nS'effeuillaient dans le vent comme des fleurs de fer !",
+      "body": "「誇り高い鐘楼から落ちてくる鐘楼の歌が、風の中で鉄の花びらのように散っていった」──詩の最終形象として「fleurs de fer（鉄の花）」という形容矛盾（oxymoron）が置かれる。「fleurs（花）」──詩集全体を通じた「花」のモチーフ（復活祭の花・薔薇・マグノリア・ジャスミン）が、ここで「鉄（fer）」という最も非有機的な素材と結合し「鉄の花」となる：美しいもの（花）の金属化・硬化として喪失の最終定式を構成する。「S'effeuillaient（花びらが散る）」という動詞が「鉄の花びら」に適用されることで、金属の音が散る様子を花びらが散る様子として比喩化する──鐘の音が空気の中で消えていく過程を花びらの飛散として視覚化。「Beffroi（鐘楼）」：ブリュージュ・ヘント・リールなどフランドルの都市に立つ市民的鐘楼（市庁舎の鐘楼）。「carillon（カリヨン）」：複数の鐘を組み合わせた和音的な鐘の演奏──ベルギー・フランドルの音楽的アイデンティティの象徴。「Nocturne」§1の乳香炉の揺れ・「Mysticisme」§7のバンデロールの波打ち・「Litanies」§4のソプラノの噴水という詩集全体の「散逸する音」のセリーが、「fleurs de fer」という究極の矛盾形象として集約される。",
+      "targetId": "rodenbach_nocturne",
+      "targetParagraphId": 1
+    },
+    {
+      "paragraphId": 6,
+      "type": "intertextual",
+      "anchor": "S'effeuillaient dans le vent comme des fleurs de fer !",
+      "body": "「風の中で鉄の花びらのように散っていった」──コヘレト第1章v.6「in circulos suos revertitur（巡回へと戻る）」の「spiritus（風）」の循環に対し、「Fin du rêve」の「wind（vent）」は何も戻さず散らすだけの消散的な風として対置される。「Les Jardins」の結語「S'évadent du silence / Et rentrent de l'exil（沈黙から脱走し流刑から戻る）」というローマの鐘の「帰還」に対し、「Fin du rêve」の鐘は「S'effeuillaient dans le vent（風の中で散っていった）」という散逸として閉じる──帰還する鐘と散っていく鐘という、鐘のモチーフの肯定形と否定形が詩集の中で対称をなす。ローデンバック「涙の記憶（Lacrymae Rerum）」の「すべての喜びは涙として沈殿する」というウェルギリウス的諦念が、「鉄の花」という物質的・不可逆的な形象として完成される。",
+      "targetId": "rodenbach_les_jardins",
+      "targetParagraphId": 8
+    }
+  ]
+}
