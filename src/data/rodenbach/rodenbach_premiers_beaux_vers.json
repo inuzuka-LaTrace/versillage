@@ -1,0 +1,161 @@
+{
+  "id": "rodenbach_premiers_beaux_vers",
+  "title": "Premiers beaux vers",
+  "author": "Georges Rodenbach",
+  "source": "La Jeunesse blanche, Eugène Fasquelle – Bibliothèque Charpentier, 1913, p. 35–36. Wikisource: https://fr.wikisource.org/wiki/La_Jeunesse_blanche_(1913)/Premiers_beaux_vers",
+  "year": "1913",
+  "firstPublication": "La Jeunesse blanche, Eugène Fasquelle – Bibliothèque Charpentier, 1913",
+  "difficulty": "中級",
+  "category": "rodenbach",
+  "originalLang": "fr-FR",
+  "modernRelevance": "★★★☆☆",
+  "context": "ローデンバック（Georges Rodenbach, 1855–1898）の詩集『白い青春（La Jeunesse blanche）』（1913年版）所収。「Litanies」の直後に置かれ、幼年期の宗教的体験（ミサ・祈り）から、青年期の文学的目覚めへと主題が移行する。8連×4行、ABBA抱擁韻（rimes embrassées）のアレクサンドラン四行詩。「最初の詩（premiers beaux vers）」への目覚めをラマルティーヌ（Alphonse de Lamartine, 1790–1869）の詩との出会いとして描く：寮の自習室・霜の張った窓・銅のランプという幼年期固有の感覚的環境の中で、詩の音楽が「最初の波動（musiques vagues）」として青年の魂を揺さぶる。詩はラマルティーヌの小説『グラツィエッラ（Graziella）』（1852）のナポリの漁師娘への哀悼から出発し、地中海・水平線・未来の恋人のヴィジョンへと展開する。詩の読書体験が「黄金の舟（barque d'or）」のメタファーを通じて恋愛への予型的渇望として語られる点に、象徴主義的な「詩の官能性（sensualité de la poésie）」という主題が現れる。『白い青春』の「白」は「無垢・潔癖・詩への未成熟な渇望」を指し、この詩はその「白い青春」の文学的次元を最もダイレクトに主題化する。",
+  "keywords": [
+    "premiers vers",
+    "Lamartine",
+    "Graziella",
+    "salle d'étude",
+    "barque d'or",
+    "mer méditerranéenne",
+    "amantes",
+    "langueur",
+    "jeunesse",
+    "poésie"
+  ],
+  "relatedTexts": [
+    "rodenbach_litanies",
+    "rodenbach_la_priere",
+    "rodenbach_les_jardins",
+    "rodenbach_charme_du_passe",
+    "rodenbach_du_silence",
+    "rodenbach_loubli",
+    "rodenbach_lacrymae_rerum",
+    "hieronymus_ecclesiastes_1",
+    "verlaine_clair_de_lune",
+    "baudelaire_invitation_voyage"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "verses": "v.1–4",
+      "original": "Où sont les jours d'hiver pleins de calme infini\nDans la salle d'étude, aux carreaux blanc de givre ;\nEt les grands abat-jour sur les lampes de cuivre\nComme autour d'une lune un halo d'or bruni.",
+      "provisionalTranslation": "どこにある、霜で白くなった窓ガラスの、\n無限の静けさに満ちた自習室の冬の日々は。\n銅のランプの上の大きな傘が\n月の周りのように日焼けした金のハローを作っていた。"
+    },
+    {
+      "id": 2,
+      "verses": "v.5–8",
+      "original": "Quel éveil dans nos cœurs quand le soir, en sourdine,\nChuchotait sa tristesse aux fentes des châssis\nEt que, sur les bancs noirs pensivement assis,\nNous lisions, tout songeurs, des vers de Lamartine.",
+      "provisionalTranslation": "なんという心の目覚めだったか、夕べが弱音器をつけて、\nその悲しさを窓枠の隙間に囁いていた時、\nそして黒い長椅子に物思わしく腰掛けて、\n私たちは夢想しながら、ラマルティーヌの詩を読んでいた。"
+    },
+    {
+      "id": 3,
+      "verses": "v.9–12",
+      "original": "Trouble des premiers vers douloureux ou charmants !\nTroubles des premiers vers dont les musiques vagues\nVibraient avec un bruit pareil au bruit des vagues\nEt semblaient correspondre à nos jeunes tourments !",
+      "provisionalTranslation": "最初の詩の動揺、苦しくも魅惑的な！\n最初の詩の動揺、その漠然とした音楽が\n波の音に似た響きで振動し、\n私たちの若い苦悩に対応するかのように思われた！"
+    },
+    {
+      "id": 4,
+      "verses": "v.13–16",
+      "original": "Nous pleurions longuement Graziella trahie\nqui, n'ayant pu laisser tel qu'un tapis moelleux\nSon amour sous les pas du poète oublieux,\nSans bague au doigt fut mise en sa bière fleurie !",
+      "provisionalTranslation": "私たちは長い間、裏切られたグラツィエッラを泣いた、\n忘れっぽい詩人の足もとに\n柔らかな絨毯のようにその愛を敷くことができず、\n指に指輪もなく花飾りの棺に納められた彼女を！"
+    },
+    {
+      "id": 5,
+      "verses": "v.17–20",
+      "original": "Mais tout là-bas, au bord rivages houleux\nOù priera l'avenir sur sa tombe odorante,\nNous autres, négligeant la morte de Sorrente,\nNous cherchions dans la mer l'infini des yeux bleus.",
+      "provisionalTranslation": "しかし遠くかなた、荒波の岸辺で、\n未来が彼女の香り高い墓の上で祈るだろうそこで、\n私たちはといえば、ソレントの死んだ女を顧みず、\n海の中に青い瞳の無限を探していた。"
+    },
+    {
+      "id": 6,
+      "verses": "v.21–24",
+      "original": "À travers l'idéal des grandes eaux dormantes,\nÀ travers l'idéal des beaux vers consacrés,\nNous pouvions voir déjà, pendant ces soirs sacrés,\nAppareiller vers nous nos futures amantes !",
+      "provisionalTranslation": "眠れる大きな水々の理想を通して、\n美しく聖化された詩篇の理想を通して、\nすでに見えていた、あの神聖な夕べに、\n私たちの未来の恋人たちが向こうから出帆してくるのが！"
+    },
+    {
+      "id": 7,
+      "verses": "v.25–28",
+      "original": "Tout nous parlait d'hymen, de baisers et d'aveux !\nEt dans la barque d'or des strophes amoureuses\nLes rimes accordaient leurs rames langoureuses\nPour amener vers nous la vierge de nos vœux !",
+      "provisionalTranslation": "すべてが語りかけていた、婚礼と口づけと告白について！\nそして恋愛の詩連の黄金の舟の中で、\n押韻が物憂い橹を合わせながら漕いでいた、\n私たちが心に誓った乙女を連れてくるために！"
+    },
+    {
+      "id": 8,
+      "verses": "v.29–32",
+      "original": "La douceur de la mer méditerranéenne\nChantait dans les flots bleus des vers pleins de langueur\nQui venaient déferler sur la plage du cœur\nAvec un bruit de robe et des frissons de traîne !",
+      "provisionalTranslation": "地中海の優しさが\n物憂さに満ちた詩篇の青い波の中で歌い、\n心という浜辺に打ち寄せてきた、\n衣擦れの音とドレスの裾の震えとともに！"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "Où sont les jours d'hiver pleins de calme infini\nDans la salle d'étude, aux carreaux blanc de givre ;",
+      "body": "「どこにある……冬の日々は（Où sont les jours…）」──フランソワ・ヴィヨン「昔の貴婦人たちのバラード（Ballade des dames du temps jadis）」の有名な「しかし昔の雪はどこに（Mais où sont les neiges d'antan ?)」という反復句との共鳴。喪失した過去への問いとして詩を開く定型──「Les Jardins」の「parfois（時おり）」・「La Prière」の「J'évoque（喚び起こす）」と並ぶ記憶回帰の第三の形式として。「salle d'étude（自習室）」──寄宿学校（collège）の自習室という具体的な空間が「Litanies」の礼拝堂・「La Prière」の祈祷室に続く幼年期の聖別された空間として機能する。「carreaux blanc de givre（霜で白くなった窓ガラス）」という視覚的イメージが「白い青春（La Jeunesse blanche）」というタイトルと響き合う：霜の白＝青春の白という等式。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "prosody",
+      "anchor": "Comme autour d'une lune un halo d'or bruni.",
+      "body": "韻律と形式：8連×4行、全行12音節アレクサンドラン、ABBA抱擁韻（rimes embrassées）──「Charme du passé」と同形式のソネット拡張版。各連が独立した意味単位を形成しながら、連鎖する水のイメージ（vagues→mer→eaux dormantes→barque→flots→plage）によって詩全体が統一される。「halo d'or bruni（日焼けした金のハロー）」──ランプの傘が月の周りのハローとして比喩化される：光の暈（halo）という視覚的形象が「Litanies」の蝋燭の震えから連続する光のモチーフ。「bruni（日焼けした・褐色になった）」という形容詞が「金（or）」を古びた・くすんだ金として修飾し、回想の光が現在の鮮やかな光ではなく「古色のある光」として提示される。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "Quel éveil dans nos cœurs quand le soir, en sourdine,\nChuchotait sa tristesse aux fentes des châssis",
+      "body": "「夕べが弱音器をつけて、その悲しさを窓枠の隙間に囁いていた時」──擬人化された「夕べ（le soir）」が「弱音器（en sourdine）」付きで「囁く（chuchotait）」という音楽的・聴覚的比喩。「sourdine（弱音器・ミュート）」は弦楽器・ピアノの弱音装置で、「Litanies」の「les violons sous l'archet（弓のヴァイオリン）」との音楽的連続。「Nous lisions, tout songeurs, des vers de Lamartine（夢想しながら、ラマルティーヌの詩を読んでいた）」──アルフォンス・ド・ラマルティーヌ（1790–1869）：ロマン主義の詩人・政治家。代表作『瞑想詩集（Méditations poétiques）』（1820）は「Le Lac（湖）」「L'Isolement（孤独）」等の水と孤独の詩篇を含む。「水」と「孤独」というラマルティーヌの詩学的主題がローデンバックのそれと深く照応する点で、この出会いが詩的形成の原体験として機能する。"
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "Trouble des premiers vers douloureux ou charmants !\nTroubles des premiers vers dont les musiques vagues\nVibraient avec un bruit pareil au bruit des vagues\nEt semblaient correspondre à nos jeunes tourments !",
+      "body": "「最初の詩の動揺（Trouble des premiers vers）」──同一句の頭部反復（anaphore）「Trouble…/Troubles…」が詩の最初の出会いの動揺感を形式的に模倣する。「musiques vagues（漠然とした音楽）」という表現が詩の音楽性を「vague（漠然とした・波のような）」として捉える──フランス語「vague」は「漠然とした」と「波」の両義を持ち、直後の「bruit des vagues（波の音）」への掛詞として機能する。「correspondre à nos jeunes tourments（私たちの若い苦悩に対応する）」──ボードレール「照応（Correspondances）」の「照応（correspondances）」概念の直接的な援用：詩の音楽が「青年の苦悩」と「対応（correspondre）」するという共感覚的・象徴主義的な認識。「Litanies」での「musiques vagues」→「eau musicale」という音楽の水化が、ここでは「musiques vagues」→「bruit des vagues」という語彙的連鎖として先取りされる。",
+      "targetId": "baudelaire_correspondances",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 4,
+      "type": "glossary",
+      "anchor": "Nous pleurions longuement Graziella trahie",
+      "body": "「グラツィエッラ（Graziella）」──ラマルティーヌの自伝的小説『グラツィエッラ』（1852年、もとは『ラファエル』1849年の一部）に登場するナポリの漁師娘。若きラマルティーヌがイタリア旅行中に出会い恋した娘で、詩人が帰国した後に死んだとされる。「trahie（裏切られた）」という語が詩人の無意識の裏切り（oublieux・忘れっぽい）を告発する。「Sans bague au doigt fut mise en sa bière fleurie（指に指輪もなく花飾りの棺に）」──結婚指輪なし＝結婚せぬまま死んだという「未完の愛」の記号。「bière fleurie（花飾りの棺）」は「Charme du passé」§2の「cercueil de soie et de dentelle（絹とレースの棺）」と照応──棺の詩的形象がローデンバックのモチーフとして反復される。",
+      "targetId": "rodenbach_charme_du_passe",
+      "targetParagraphId": 2
+    },
+    {
+      "paragraphId": 5,
+      "type": "commentary",
+      "anchor": "Nous autres, négligeant la morte de Sorrente,\nNous cherchions dans la mer l'infini des yeux bleus.",
+      "body": "「ソレントの死んだ女を顧みず、海の中に青い瞳の無限を探していた」──「morte de Sorrente（ソレントの死んだ女）」：グラツィエッラへの哀悼から「未来の恋人の探索」への転換。「négligeant（顧みず）」という現在分詞が、死者への哀悼よりも生きた欲望を優先するという若さの論理を告白する。「l'infini des yeux bleus（青い瞳の無限）」──「yeux bleus（青い瞳）」は理想化された恋人像の典型的記号。「l'infini（無限）」がコヘレト第1章v.4「terra autem in aeternum stat（大地は永遠に立ち続ける）」の「永遠（aeternum）」の世俗的・恋愛的変容として機能する：コヘレトの「永遠」は虚無の背景であるのに対し、ローデンバックの「無限」は欲望の対象として肯定的に経験される。",
+      "targetId": "hieronymus_ecclesiastes_1",
+      "targetParagraphId": 4
+    },
+    {
+      "paragraphId": 6,
+      "type": "commentary",
+      "anchor": "À travers l'idéal des grandes eaux dormantes,\nÀ travers l'idéal des beaux vers consacrés,\nNous pouvions voir déjà, pendant ces soirs sacrés,\nAppareiller vers nous nos futures amantes !",
+      "body": "「眠れる大きな水々の理想を通して、美しく聖化された詩篇の理想を通して」──「À travers l'idéal…/ À travers l'idéal…」という二重の前置詞句反復（anaphore）が、水の理想と詩の理想を等置する。「eaux dormantes（眠れる水）」──「La Prière」§6「fleuve qui dort（眠れる川）」との連続：眠る水という静止した水のイメージがローデンバックの水の詩学の中心的形象。「vers consacrés（聖化された詩篇）」──「consacrés（聖別された）」という宗教的語彙が詩篇に適用される：「Litanies」でのミサの「Sanctus」が世俗化されて「beaux vers」に転移した結果として。「soirs sacrés（神聖な夕べ）」も同様の世俗化：「La Prière」の「soirs de mai（五月の夕べ）」の宗教的雰囲気が、ここでは詩の読書の夕べとして継承される。"
+    },
+    {
+      "paragraphId": 7,
+      "type": "commentary",
+      "anchor": "Et dans la barque d'or des strophes amoureuses\nLes rimes accordaient leurs rames langoureuses\nPour amener vers nous la vierge de nos vœux !",
+      "body": "「恋愛の詩連の黄金の舟（barque d'or des strophes）の中で、押韻が物憂い橹を合わせながら漕いでいた」──詩の形式的要素（strophes・rimes）が「黄金の舟」と「橹（rames）」として具体的な航行の道具に変換される。「rimes accordaient leurs rames（押韻が橹を合わせる）」──「rimes（押韻）」と「rames（橹）」の音声的類似（r-m）が語呂合わせ的な連合を作る：音の類似が意味の照応を生む象徴主義的言語遊戯。「la vierge de nos vœux（私たちが心に誓った乙女）」──「La Prière」§2の「madone blonde（金髪の聖母像）」から「vierge de nos vœux（誓いの乙女）」への転換：宗教的な「聖母（Vierge）」が世俗的な「誓いの乙女（vierge de nos vœux）」へと世俗化される。「barque d'or」──ボードレール「旅への誘い（L'Invitation au voyage）」の「運河を滑る船」との照応：詩的な恋愛の旅という共通のトポス。",
+      "targetId": "baudelaire_invitation_voyage",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 8,
+      "type": "commentary",
+      "anchor": "La douceur de la mer méditerranéenne\nChantait dans les flots bleus des vers pleins de langueur\nQui venaient déferler sur la plage du cœur\nAvec un bruit de robe et des frissons de traîne !",
+      "body": "「地中海の優しさが……心という浜辺に打ち寄せてきた、衣擦れの音とドレスの裾の震えとともに」──詩全体の「音楽の水化」が最終連で完成する。「flots bleus des vers（詩篇の青い波）」──詩（vers）が波（flots）として地中海から「心という浜辺（plage du cœur）」に打ち寄せる：詩の読書体験が海の波の物理的打撃として身体化される。「bruit de robe et des frissons de traîne（衣擦れの音とドレスの裾の震え）」──地中海の波音が女性の衣擦れとして聴覚的に変換される結語。波→ドレスという変換が「未来の恋人」というヴィジョンを感覚的に体現し、詩全体の「詩を通じた恋人の召喚」という主題を閉じる。コヘレト第1章v.8「Non saturatur oculus visu, nec auris auditu impletur（目は見ることに飽くことなく、耳は聴くことで満たされることがない）」の「不飽和の感覚」が、ここでは「青春の詩への渇望」として肯定的に変容される：コヘレト的な「不飽和（non saturatur）」が飽くなき詩的欲望として生の充実として経験される。",
+      "targetId": "hieronymus_ecclesiastes_1",
+      "targetParagraphId": 8
+    },
+    {
+      "paragraphId": 8,
+      "type": "intertextual",
+      "anchor": "Avec un bruit de robe et des frissons de traîne !",
+      "body": "「衣擦れの音とドレスの裾の震えとともに」──ヴェルレーヌ「月の光（Clair de lune）」の「歌いながら踊る仮面たち（les masques et les bergamasques）」の衣擦れ・「憂愁な美しさ（beauté mélancolique）」との照応：音楽と女性の衣擦れという感覚的融合。「frissons de traîne（裾の震え）」は「Litanies」§6「frissons d'un lac caressé par un saule（柳に撫でられた湖のさざ波）」の「frissons（震え）」と同一語の反復：ヴァイオリン→湖の震えが、地中海の波→ドレスの裾の震えへと変換されることで、「Litanies」と「Premiers beaux vers」の音楽的・水的世界が接続される。ローデンバック「忘却（L'Oubli）」の「すべての美しいものは忘却へと向かう」という主題が、「Premiers beaux vers」では「すべての美しいものは未来の恋愛として来る」という青春の欲望として逆転される──「白い青春」の「白」の時間性を象徴する。",
+      "targetId": "verlaine_clair_de_lune",
+      "targetParagraphId": null
+    }
+  ]
+}
