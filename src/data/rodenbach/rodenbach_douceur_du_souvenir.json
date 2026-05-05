@@ -1,0 +1,117 @@
+{
+  "id": "rodenbach_douceur_du_souvenir",
+  "title": "Douceur du souvenir",
+  "author": "Georges Rodenbach",
+  "source": "La Jeunesse blanche, Eugène Fasquelle – Bibliothèque Charpentier, 1913, p. 73–74. Wikisource: https://fr.wikisource.org/wiki/La_Jeunesse_blanche_(1913)/Douceur_du_souvenir",
+  "year": "1913",
+  "firstPublication": "La Jeunesse blanche, Eugène Fasquelle – Bibliothèque Charpentier, 1913",
+  "difficulty": "中級",
+  "category": "rodenbach",
+  "originalLang": "fr-FR",
+  "modernRelevance": "★★★★★",
+  "context": "ローデンバック（Georges Rodenbach, 1855–1898）の詩集『白い青春（La Jeunesse blanche）』（1913年版）所収。「Chanteuse d'oubli」の直後に置かれ、「忘却（l'oubli）」から「記憶（le souvenir）」へと主題が転換する。14行の変形ソネット：ABBA / ABBA（二つの四行詩）＋ CCD / EED（二つの三行詩）という伝統的ペトラルカ式ソネット形式に近い。詩全体が「Souvenir ! ô douceur（記憶よ！ ああ甘さよ）」という感嘆的反復句（§1・§2）を軸として展開する。詩の哲学的逆説：終わった愛の記憶が、愛そのものよりも甘い──「S'il eût été plus long aurait été moins doux !（もし長く続いていたなら、より甘くなかったであろう！）」という結語が、愛の持続と甘さの反比例を断言する。これはコヘレト第1章の「afflictio spiritus（霊の苦悩）」の逆転として機能する：苦悩は完全な消滅ではなく、記憶という「甘い後味（douceur）」として変容する。「L'absence」・「Refrain triste」・「Chanteuse d'oubli」という喪失の三部作から、「Douceur du souvenir」は「喪失の甘美な変容」として哲学的に一段上の高みに立つ。詩集タイトル「白い青春（La Jeunesse blanche）」の「白」の最終的な定義として：白は空虚・純粋・ 失われた輝き──しかし記憶の中で甘く「銀色に輝く（s'argente）」ものとして。",
+  "keywords": [
+    "souvenir",
+    "douceur",
+    "convalescence",
+    "sourdine",
+    "cloche",
+    "mélancolie",
+    "amour fini",
+    "écume",
+    "grève",
+    "faîte"
+  ],
+  "relatedTexts": [
+    "rodenbach_chanteuse_d_oubli",
+    "rodenbach_l_absence",
+    "rodenbach_refrain_triste",
+    "rodenbach_loubli",
+    "rodenbach_charme_du_passe",
+    "rodenbach_lacrymae_rerum",
+    "rodenbach_du_silence",
+    "rodenbach_litanies",
+    "hieronymus_ecclesiastes_1",
+    "weil_accepter_le_vide"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "verses": "v.1–4",
+      "original": "Souvenir ! ô douceur d'un amour qui s'achève !\nSouvenir ! ô douceur d'un songe qui n'est plus !\nRappel triste, en marchant, d'anciens vers qu'on a lus ;\nÉcume de la mer dont s'argente la grève.",
+      "provisionalTranslation": "記憶よ！ 終わりゆく愛の甘さよ！\n記憶よ！ もはやない夢の甘さよ！\n歩きながら、かつて読んだ古い詩篇の悲しい呼び覚まし。\n浜辺を銀色に輝かせる海の泡よ。"
+    },
+    {
+      "id": 2,
+      "verses": "v.5–8",
+      "original": "L'église a disparu, mais la cloche on l'entend !\nSouvenir ! ô douceur de la convalescence !\nCharme de la sourdine et de la réticence\nQui font paraître au loin le rythme plus chantant.",
+      "provisionalTranslation": "教会は消えた、しかし鐘は聞こえる！\n記憶よ！ 回復期の甘さよ！\n弱音器と沈黙の魅力、\n遠くでリズムをより歌うように聴こえさせる魅力よ。"
+    },
+    {
+      "id": 3,
+      "verses": "v.9–11",
+      "original": "L'amour fini ressemble à la mélancolie\nDu soir ; au pied du mont, quand la flore est cueillie,\nIl ne faut pas plus loin fatiguer ses genoux,",
+      "provisionalTranslation": "終わった愛は夕べの憂愁に似ている。\n山の麓で、草花が摘み取られた時、\nこれ以上膝を疲れさせて遠くへ行く必要はない。"
+    },
+    {
+      "id": 4,
+      "verses": "v.12–14",
+      "original": "Ni trop s'époumoner à monter jusqu'au faîte,\nCar, après tout, l'amour qui mit notre âme en fête\nS'il eût été plus long aurait été moins doux !",
+      "provisionalTranslation": "頂まで登ろうと息を切らす必要もない。\nなぜなら、結局のところ、私たちの魂を祝祭にしてくれた愛は、\nもし長く続いていたなら、より甘くなかったであろうから！"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "prosody",
+      "anchor": "Souvenir ! ô douceur d'un amour qui s'achève !\nSouvenir ! ô douceur d'un songe qui n'est plus !",
+      "body": "韻律と形式：14行、12音節アレクサンドランの変形ソネット。ABBA / ABBA（二四行詩）＋ CCD / EED（二三行詩）というペトラルカ式ソネット形式に近い。「Charme du passé」の変形ソネット（ABBA / ABBA / ABC / ABC）とは三行詩の韻型が異なる（CCD / EED の「連結三行詩」形式）。「Souvenir ! ô douceur…」という感嘆的呼格（apostrophe）の二重反復（§1行1・2、§2行2）が詩全体のリフレインとして機能する──「Litanies」の「Sanctus !」・「Chanteuse d'oubli」の「Oublier !」・「Refrain triste」の「L'absence ni le temps !」という詩集の感嘆的反復句の系列に加わる。§1の韻型：s'achève（A）/ plus（B）/ lus（B）/ grève（A）──ABBA 抱擁韻が「終わり（s'achève）」と「浜辺（grève）」を音的に接続し、愛の終焉と海岸の波の銀色を一対として提示する。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "Rappel triste, en marchant, d'anciens vers qu'on a lus ;\nÉcume de la mer dont s'argente la grève.",
+      "body": "「歩きながら、かつて読んだ古い詩篇の悲しい呼び覚まし。浜辺を銀色に輝かせる海の泡よ」──「Rappel triste（悲しい呼び覚まし）」と「Écume（泡）」という二つの比喩が、「記憶（Souvenir）」の二つの形象として並置される。「anciens vers qu'on a lus（かつて読んだ古い詩篇）」──「Premiers beaux vers」§2の「Nous lisions, tout songeurs, des vers de Lamartine（ラマルティーヌの詩を読んでいた）」という詩との出会いの記憶への参照：記憶が「歩きながら」偶発的に呼び起こされるという形式は「Les Jardins」の「parfois（時おり）」という偶発的記憶回帰と連続する。「Écume de la mer dont s'argente la grève（浜辺を銀色に輝かせる海の泡）」──「écume（泡）」はコヘレト「vanitas vanitatum」のヘブライ語原義「havel（息・蒸気・泡）」との連続：消えゆく泡が「银色に輝く（s'argente）」という変容が、虚無が記憶において美として結晶化する過程を示す。「Nocturne」§4の「eau morte（死んだ水）」の静止に対し、ここでは海の泡の動的な輝きとして水が活性化される。",
+      "targetId": "hieronymus_ecclesiastes_1",
+      "targetParagraphId": 2
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "L'église a disparu, mais la cloche on l'entend !\nSouvenir ! ô douceur de la convalescence !",
+      "body": "「教会は消えた、しかし鐘は聞こえる！──記憶よ！ 回復期の甘さよ！」──詩の哲学的核心命題の一つ。「L'église a disparu, mais la cloche on l'entend（教会は消えた、しかし鐘は聞こえる）」という対立命題が、「記憶（Souvenir）」の存在様式を定義する：存在（église）は消滅するが、その音響的残響（cloche）は持続する。「Les Jardins」§8の「Les cloches de Rome…S'évadent du silence / Et rentrent de l'exil（ローマの鐘が沈黙から脱走し流刑から戻る）」・「Litanies」§1の「les grands Sanctus de ma jeunesse（私の青春の偉大なサンクトゥス）」という鐘・聖歌の記憶的持続と連続する：鐘の音が建物の不在を超えて記憶の中に持続するという聴覚的記憶のモデル。「douceur de la convalescence（回復期の甘さ）」──「convalescence（病後の回復期）」という医学的語彙が記憶の甘さの比喩として採用される：病（愛の苦しみ）が終わった後の弱さと感受性の高さの状態として、記憶の甘さが「回復期」の身体的・感情的状態と同定される。",
+      "targetId": "rodenbach_les_jardins",
+      "targetParagraphId": 8
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "Charme de la sourdine et de la réticence\nQui font paraître au loin le rythme plus chantant.",
+      "body": "「弱音器と沈黙の魅力、遠くでリズムをより歌うように聴こえさせる」──「sourdine（弱音器）」は「Nocturne」§1の「en sourdine（弱音器をつけて）」の再登場：夕べが「弱音器付き」で悲しみを囁いていたが、ここでは「弱音器の魅力（charme de la sourdine）」として肯定的・審美的な次元で提示される。「réticence（沈黙・言い淀み）」という語が「弱音器」と並置される：半分聞こえる音・半分語られる言葉としての記憶が、完全に聴こえる現在の音よりも「より歌うよう（plus chantant）」に感じられるという逆説。「au loin（遠くで）」という空間的距離が審美的距離として機能する：遠さが美を増す。ヴァレリー「詩学講義（Première leçon du cours de poétique）」の「詩は距離を必要とする」という命題との照応：詩的記憶が現実よりも「より歌うよう」であるのは、距離・弱音化・沈黙によって余白が生まれるから。",
+      "targetId": "rodenbach_nocturne",
+      "targetParagraphId": 1
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "L'amour fini ressemble à la mélancolie\nDu soir ; au pied du mont, quand la flore est cueillie,\nIl ne faut pas plus loin fatiguer ses genoux,",
+      "body": "「終わった愛は夕べの憂愁に似ている。山の麓で、草花が摘み取られた時、これ以上膝を疲れさせて遠くへ行く必要はない」──詩の三行詩第一連（§3）が「終わった愛（l'amour fini）」を「夕べの憂愁（la mélancolie du soir）」という光学的・時間的形象として定義する。「au pied du mont, quand la flore est cueillie（山の麓で、草花が摘み取られた時）」──山を登るという行為（愛の追求・情熱・頂への欲望）が「麓」で停止する：「flore est cueillie（草花が摘み取られた）」という受動形が、すでに愛の収穫が完了したことを示す。「Il ne faut pas plus loin fatiguer ses genoux（これ以上膝を疲れさせて遠くへ行く必要はない）」という実践的な忠告の語調が、詩全体の感嘆的・抒情的語調から逸脱する：ローデンバックが珍しく格言的・教訓的な語り口で愛の引き際を語る。ヴェイユ「Nécessité（必然）」章の「力の限界を認識すること」との照応：麓で止まることが「賢慮（prudence）」として肯定される。"
+    },
+    {
+      "paragraphId": 4,
+      "type": "commentary",
+      "anchor": "Car, après tout, l'amour qui mit notre âme en fête\nS'il eût été plus long aurait été moins doux !",
+      "body": "「結局のところ、私たちの魂を祝祭にしてくれた愛は、もし長く続いていたなら、より甘くなかったであろう！」──詩の結語として、愛の持続と甘さの反比例という逆説的命題が条件法過去（S'il eût été plus long aurait été moins doux）で断言される。「après tout（結局のところ）」という散文的接続詞が格言的断言を導く：感傷を超えた冷静な認識として。この命題はコヘレト第1章v.18「qui addit scientiam, addit et laborem（知識を加える者は労苦をも加える）」の「蓄積が苦悩を加える」という命題の反転として機能する：愛の「持続（長さ）」が甘さを減じる──知識の蓄積が苦悩を加えるように、愛の蓄積は甘さを減じる。「l'amour qui mit notre âme en fête（魂を祝祭にしてくれた愛）」という過去形が、愛を「完結した祝祭」として確定する：「Chanteuse d'oubli」の「Oublier ! ce n'est pas sa faute ni la mienne（忘れること！誰のせいでもない）」という赦しに続き、「Douceur du souvenir」の「S'il eût été plus long aurait été moins doux（長く続いていたならより甘くなかったであろう）」という肯定が、喪失の哲学的受容の完成として詩集のこの系列を閉じる。",
+      "targetId": "hieronymus_ecclesiastes_1",
+      "targetParagraphId": 18
+    },
+    {
+      "paragraphId": 4,
+      "type": "intertextual",
+      "anchor": "S'il eût été plus long aurait été moins doux !",
+      "body": "「もし長く続いていたなら、より甘くなかったであろう」──ヴェイユ「Accepter le vide（真空を受容する）」§4「真理を愛することは死を受け入れること」という命題との深い照応：ヴェイユにおいて「愛するものを手放すこと」が真理への道として肯定されるのと同様に、ローデンバックにおいて「愛が終わること」が愛の甘さの条件として肯定される。ローデンバック「忘却（L'Oubli）」との対照：「L'Oubli」では忘却が「魂の消滅」として悲しまれるのに対し、「Douceur du souvenir」では忘却（愛の終焉・記憶への変容）が「より大きな甘さ」の条件として肯定される──同一の詩人の中の忘却の二側面。「Refrain triste」§3の「Comme un lis immortel dans le décès des roses（薔薇の死の中で不滅の百合のように）」という条件法の希望に対し、「Douceur du souvenir」は条件法過去（S'il eût été plus long）という過去の仮定として愛の有限性を受け入れる──希望としての不滅から、事実としての甘い有限性への成熟。",
+      "targetId": "weil_accepter_le_vide",
+      "targetParagraphId": 4
+    }
+  ]
+}
