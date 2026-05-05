@@ -1,0 +1,181 @@
+{
+  "id": "rodenbach_litanies",
+  "title": "Litanies",
+  "author": "Georges Rodenbach",
+  "source": "La Jeunesse blanche, Eugène Fasquelle – Bibliothèque Charpentier, 1913, p. 33–34. Wikisource: https://fr.wikisource.org/wiki/La_Jeunesse_blanche_(1913)/Litanies",
+  "year": "1913",
+  "firstPublication": "La Jeunesse blanche, Eugène Fasquelle – Bibliothèque Charpentier, 1913",
+  "difficulty": "中級",
+  "category": "rodenbach",
+  "originalLang": "fr-FR",
+  "modernRelevance": "★★★★☆",
+  "context": "ローデンバック（Georges Rodenbach, 1855–1898）の詩集『白い青春（La Jeunesse blanche）』（1913年版）所収。28行、全行12音節アレクサンドランの二行詩（distiques à rimes plates）形式。「Sanctus（聖なる）」という典礼的反復句が5回挿入され、ミサの聖歌の反唱（responsorial）構造を詩形式の内部に再現する。詩全体は「幼年期の記憶の中のミサ」を音楽的に再構成する試み：ソプラノの歌声・合唱・オルガン・ヴァイオリンという四つの音楽的層が次々と喚起され、それぞれが水（噴水・海・湖）という感覚的等価物に変換される音楽的共感覚（synesthésie）の展開を構成する。ローデンバックの詩学における「音楽の水化（aquatisation de la musique）」の典型的実例。「La Prière」と同じく宗教的幼年期の空間を描くが、「La Prière」が空間（部屋）の変容を主題とするのに対し、「Litanies」は音楽的時間の体験──魂が「音楽の水（eau musicale）」に沈潜する瞬間──を主題とする。「Et l'on voudrait mourir, tant c'est délicieux / D'avoir le tremblement des cierges dans les yeux（そして死にたいほど、目の中に蝋燭の震えを持つことは至福だ）」という結語が、美的陶酔と死への欲望の融合という象徴主義的な極限命題を提示する。",
+  "keywords": [
+    "Sanctus",
+    "litanies",
+    "messe",
+    "musique",
+    "eau musicale",
+    "soprani",
+    "orgue",
+    "violons",
+    "synesthésie",
+    "mourir"
+  ],
+  "relatedTexts": [
+    "rodenbach_la_priere",
+    "rodenbach_les_jardins",
+    "rodenbach_du_silence",
+    "rodenbach_loubli",
+    "rodenbach_lacrymae_rerum",
+    "rodenbach_la_vie_des_chambres",
+    "hieronymus_psalm_129",
+    "weil_accepter_le_vide",
+    "liturgy_agnus_dei",
+    "liturgy_ave_maria"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "verses": "v.1–2",
+      "original": "J'entends toujours les grands Sanctus de ma jeunesse\nQu'à Pâques ou Noël on chantait à la messe.",
+      "provisionalTranslation": "私はいつも聞こえる、私の青春の偉大なサンクトゥスが、\n復活祭やクリスマスにミサで歌われていたあれを。"
+    },
+    {
+      "id": 2,
+      "verses": "v.3–4",
+      "original": "Je les entends en moi, comme des voix d'absents,\nEt mon âme se meurt du regret de l'encens.",
+      "provisionalTranslation": "私はそれを自分の内側で聞く、不在者たちの声のように、\nそして私の魂は乳香への後悔の中で死にかけている。"
+    },
+    {
+      "id": 3,
+      "verses": "v.5–6",
+      "original": "Mon souvenir repeint les anciennes verrières\nEt cherche à renouer l'écheveau des prières.",
+      "provisionalTranslation": "私の記憶は古いステンドグラスを塗り直し、\n祈りの糸かせを結び直そうとする。"
+    },
+    {
+      "id": 4,
+      "verses": "v.7–10",
+      "original": "Sanctus ! Sanctus Deus ! et du haut du jubé\nLe chant des soprani lentement est tombé,\nSi tendre qu'on dirait des chansons de fontaines\nPleurant au clair de lune en des vasques lointaines.",
+      "provisionalTranslation": "サンクトゥス！ 神よサンクトゥス！ そして聖歌台の高みから\nソプラノの歌声がゆっくりと落ちてきた、\nあまりに優しく、まるで噴水の歌のようで、\n遠い水盤の中で月明かりに泣いているような。"
+    },
+    {
+      "id": 5,
+      "verses": "v.11–12",
+      "original": "Sanctus ! le chœur entier reprend sur le même air\nEt l'orgue brusquement s'enfle comme la mer !",
+      "provisionalTranslation": "サンクトゥス！ 合唱団全体が同じ旋律を引き継ぎ、\nオルガンが突然、海のように膨れ上がる！"
+    },
+    {
+      "id": 6,
+      "verses": "v.13–16",
+      "original": "Sanctus ! les violons sous l'archet qui les frôle\nOnt les frissons d'un lac caressé par un saule,\nFlots menus se suivant et mourant tour à tour\nQui tombent dans l'église et monte dans la tour.",
+      "provisionalTranslation": "サンクトゥス！ 弓でかすめられながらヴァイオリンは、\n柳に撫でられた湖のさざ波のように震え、\n小波が次々と続き、代わる代わる死んでいく、\n教会の中に落ちて塔の中へと昇っていく。"
+    },
+    {
+      "id": 7,
+      "verses": "v.17–22",
+      "original": "Sanctus ! Sanctus Deus ! Bonheur que rien n'égale !\nToute l'âme a sombré dans cette eau musicale.\nOn prie, on pleure, on la tête dans ses mains\nOn sent fleurir en soi des désirs surhumains,\nDe combattre pour Dieu, de mourir pour l'église,\nSanctus ! Tandis qu'au loin le chœur se tranquillise.",
+      "provisionalTranslation": "サンクトゥス！ 神よサンクトゥス！ 何物にも匹敵しない幸福！\n魂はすっかりこの音楽の水に沈んだ。\n人は祈り、泣き、両手に頭を埋め、\n自分の内側に超人的な欲望が花開くのを感じる、\n神のために戦うこと、教会のために死ぬことへの欲望を。\nサンクトゥス！ 遠くで合唱が静まりゆく間に。"
+    },
+    {
+      "id": 8,
+      "verses": "v.23–26",
+      "original": "Et comme dans un rêve on cause avec Jésus\nPour qu'il daigne bénir les plans qu'on a conçus ;\nOn cause avec la vierge, à genoux, à pleine âme,\nCar on aime encor plus, elle — puisqu'elle est femme.",
+      "provisionalTranslation": "そして夢の中のように、イエスと語り合う、\n自分が思い描いた計画を祝福してほしいと。\n聖母とも語り合う、跪いて、魂を尽くして、\nなぜならさらに愛している、彼女を──彼女が女だから。"
+    },
+    {
+      "id": 9,
+      "verses": "v.27–28",
+      "original": "Et l'on voudrait mourir, tant c'est délicieux\nD'avoir le tremblement des cierges dans les yeux.",
+      "provisionalTranslation": "そして死にたいほど、至福なのだ、\n目の中に蝋燭の震えを持つことが。"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "J'entends toujours les grands Sanctus de ma jeunesse\nQu'à Pâques ou Noël on chantait à la messe.",
+      "body": "「私はいつも聞こえる（J'entends toujours）」──現在時制の「toujours（いつも）」が過去の音楽体験の現在への持続を定立する。「Les Jardins」の「parfois（時おり）」・「La Prière」の「aussi parfois（また時おり）」という「時おり」の偶発的回帰に対し、「Litanies」では「toujours（いつも）」という恒常的な聴覚的記憶として提示される──視覚的・空間的記憶（庭・部屋）から聴覚的・時間的記憶（ミサの音楽）への移行。「Sanctus（サンクトゥス）」：ミサ通常文（Ordinarium Missae）のSanctus──「Sanctus, Sanctus, Sanctus Dominus Deus Sabaoth（聖なる、聖なる、聖なる、万軍の主なる神）」というイザヤ書6章3節に基づく三唱。VANITISME所収の典礼テキスト（liturgy_agnus_dei等）との典礼的連続性。",
+      "targetId": "liturgy_agnus_dei",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 1,
+      "type": "prosody",
+      "anchor": "Qu'à Pâques ou Noël on chantait à la messe.",
+      "body": "韻律：28行、全行12音節アレクサンドラン、二行平韻（rimes plates / rimes suivies）AABBCC…の連続。「La Prière」のABAB交互韻とは異なり、隣接する二行が対を成す「distique」形式が採用される──これが典礼的な「連（versicle）と応唱（response）」の構造と対応する。詩全体に5回挿入される「Sanctus !」という感嘆句が、韻律の均等な流れに「典礼的中断（punctuation liturgique）」を刻む：ミサにおける「Sanctus」の三唱が、詩の中では5回の変奏として展開される。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "Je les entends en moi, comme des voix d'absents,\nEt mon âme se meurt du regret de l'encens.",
+      "body": "「自分の内側で聞く、不在者たちの声のように（comme des voix d'absents）」──聴覚的記憶が「内なる声」として内面化される：外部の音楽（ミサの聖歌）が「私の内部」で鳴り響く幽霊的な反響として。「voix d'absents（不在者たちの声）」という表現が死者・過去の人々の声という二重の「不在」を開く。「mon âme se meurt du regret de l'encens（魂は乳香への後悔の中で死にかけている）」──「se meurt（死にかけている）」という半自動詞的な現在進行的死が、乳香という嗅覚的記憶への「後悔（regret）」として定式化される。五感の中で最も強く記憶と結びつく嗅覚（乳香）がここで「魂の死の原因」として機能する点が重要。ローデンバック「忘却（L'Oubli）」の「魂は感覚の中で溶けていく」という主題の聴覚・嗅覚的変奏。",
+      "targetId": "rodenbach_loubli",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "Mon souvenir repeint les anciennes verrières\nEt cherche à renouer l'écheveau des prières.",
+      "body": "「記憶は古いステンドグラスを塗り直し（repeint les anciennes verrières）、祈りの糸かせを結び直そうとする（cherche à renouer l'écheveau des prières）」──記憶の二つの能動的行為が連言される。「repeint（塗り直す）」：記憶が視覚的イメージ（ステンドグラス）を再構成する絵画的行為。「renouer l'écheveau（糸かせを結び直す）」：「écheveau（糸かせ）」という繊維の比喩が祈りの「もつれた糸」を「結び直す」努力として記憶を定義する──しかし「cherche à（しようとする）」という不完全性の副詞句が、この努力の成功を保証しない。コヘレト第1章v.15「Perversi difficile corriguntur（曲がったものは正すことは難しい）」の「修正不可能性」が、ここでは過去の記憶の再構築の困難として詩的に変容される。",
+      "targetId": "hieronymus_ecclesiastes_1",
+      "targetParagraphId": 15
+    },
+    {
+      "paragraphId": 4,
+      "type": "commentary",
+      "anchor": "Si tendre qu'on dirait des chansons de fontaines\nPleurant au clair de lune en des vasques lointaines.",
+      "body": "「あまりに優しく、まるで噴水の歌のようで、遠い水盤の中で月明かりに泣いているような」──ソプラノの歌声が「噴水の歌（chansons de fontaines）」へと変換される共感覚的比喩。音楽→水という変換がこの詩全体の中心的操作であり、§5「orgue s'enfle comme la mer（オルガンが海のように膨れ上がる）」・§6「frissons d'un lac（湖のさざ波）」へと連鎖する「音楽の水化」の第一段階。「vasques lointaines（遠い水盤）」──「lointaines（遠い）」という形容詞が空間的な距離だけでなく時間的な隔たりを示す：記憶の中の噴水は「遠く」にある。「Pleurant（泣いている）」という擬人化が噴水の水音を「哀泣（lamentation）」として定義する──詩篇129「De profundis（深き淵より）」の「深淵からの嘆き」が、ここでは月明かりの噴水の声として世俗的に変容される。",
+      "targetId": "hieronymus_psalm_129",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 5,
+      "type": "commentary",
+      "anchor": "Sanctus ! le chœur entier reprend sur le même air\nEt l'orgue brusquement s'enfle comme la mer !",
+      "body": "「合唱団全体が同じ旋律を引き継ぎ、オルガンが突然、海のように膨れ上がる」──ソプラノ（個人的・繊細）から合唱団全体（集団的）へ、そしてオルガン（楽器的・圧倒的）へという音量・規模の段階的拡大。「brusquement（突然）」という副詞がそれまでの繊細な音楽描写（噴水・月明かり）を裂く急激な転換を演出する。「s'enfle comme la mer（海のように膨れ上がる）」──コヘレト第1章v.7「Omnia flumina intrant in mare, et mare non redundat（すべての川は海へと入る、しかし海はあふれない）」の「あふれない海」に対し、ここでのオルガンの「海」は「膨れ上がる（s'enfle）」──感情・音楽・神性の充満として、コヘレト的な「不飽和の海」が神秘的充満へと逆転される。",
+      "targetId": "hieronymus_ecclesiastes_1",
+      "targetParagraphId": 7
+    },
+    {
+      "paragraphId": 6,
+      "type": "commentary",
+      "anchor": "les violons sous l'archet qui les frôle\nOnt les frissons d'un lac caressé par un saule,\nFlots menus se suivant et mourant tour à tour\nQui tombent dans l'église et monte dans la tour.",
+      "body": "「弓でかすめられながらヴァイオリンは、柳に撫でられた湖のさざ波のように震える」──ヴァイオリンの音が湖の水面のさざ波へと変換される。「l'archet qui les frôle（かすめる弓）」と「un saule（一本の柳）」の対応：弓＝柳の枝、弦＝水面という二重の等価性。「Flots menus se suivant et mourant tour à tour（小波が次々と続き、代わる代わる死んでいく）」──波の「死」というイメージがヴァイオリンの音の減衰を描写する：音が出て消えることが「波が生まれ死ぬ」こととして同一視される。「tombent dans l'église et monte dans la tour（教会の中に落ちて塔の中へと昇っていく）」──下降（tomber）と上昇（monter）という二つの方向の垂直運動が一行に共存する：音楽が空間を満たす様子の物理的記述であると同時に、「地上（教会）から天（塔）へ」という霊的上昇の形象。ローデンバック「水の心臓（Cœur de l'eau）」の静水のさざ波との連続。",
+      "targetId": "rodenbach_coeur_de_leau",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 7,
+      "type": "commentary",
+      "anchor": "Toute l'âme a sombré dans cette eau musicale.\nOn prie, on pleure, on la tête dans ses mains\nOn sent fleurir en soi des désirs surhumains,",
+      "body": "「魂はすっかりこの音楽の水に沈んだ（Toute l'âme a sombré dans cette eau musicale）」──詩全体の音楽的共感覚の核心命題。「eau musicale（音楽の水）」という複合的表現が、詩全体を通じた「音楽→水」変換の集約として機能する：ソプラノ＝噴水、オルガン＝海、ヴァイオリン＝湖さざ波という三段階の比喩が「音楽の水」という一語に圧縮される。「sombré（沈んだ）」という動詞──「faire sombrer（沈没させる）」の用法から来る「水没・沈潜」──が魂の完全な溶解・没入を定式化する。ヴェイユ「Accepter le vide（真空を受容する）」の「空虚への降下」と、ローデンバックの「音楽の水への沈潜」が逆方向の運動として対照される：ヴェイユでは「空虚（vide）」が上昇的・恩寵的なのに対し、ローデンバックでは「水（eau）」への沈潜が陶酔的・溶解的である。「désirs surhumains（超人的欲望）」──神のために戦い教会のために死ぬという宗教的熱狂が「音楽の水への沈潜」から生じる：音楽的陶酔が道徳的・宗教的意志への変換器として機能する。",
+      "targetId": "weil_accepter_le_vide",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 8,
+      "type": "commentary",
+      "anchor": "Et comme dans un rêve on cause avec Jésus\nPour qu'il daigne bénir les plans qu'on a conçus ;\nOn cause avec la vierge, à genoux, à pleine âme,\nCar on aime encor plus, elle — puisqu'elle est femme.",
+      "body": "「夢の中のように、イエスと語り合う……さらに愛している、彼女を──彼女が女だから（puisqu'elle est femme）」──「La Prière」§4で描かれた「泣きながら聖母を見上げる子供たち」の記憶と連続する場面が、「Litanies」では音楽的陶酔の中での「夢のような対話（comme dans un rêve）」として再現される。「elle — puisqu'elle est femme（彼女が女だから）」というダッシュ付きの挿入的断言が詩の中で最も大胆な神学的宣言：マリアへの愛がイエスへの愛より大きいのは「彼女が女性（femme）だから」という、神秘主義的かつ官能的な論理。ローデンバックにおける「マリア崇敬（culte marial）」の背景にあるカトリック・ベルギーの宗教文化：ブリュージュ（ローデンバックの詩的故郷）の「聖血の行列」等の民間信仰との連続。「à pleine âme（魂を尽くして）」──「La Prière」§8の「à genoux（跪いて）」と「pleine âme」の再登場による二つの詩篇の内的連繋。",
+      "targetId": "rodenbach_la_priere",
+      "targetParagraphId": 8
+    },
+    {
+      "paragraphId": 9,
+      "type": "commentary",
+      "anchor": "Et l'on voudrait mourir, tant c'est délicieux\nD'avoir le tremblement des cierges dans les yeux.",
+      "body": "「死にたいほど、至福なのだ、目の中に蝋燭の震えを持つことが」──象徴主義詩学の最も典型的な極限命題として詩を閉じる。「voudrait mourir（死にたい）」は文字通りの自死願望ではなく、美的陶酔の強度が生の限界を超えるという経験：ペトラルカ以来の「甘き死（dolce morte）」・ロマン主義の「芸術的昇華としての死」の系譜。「le tremblement des cierges dans les yeux（目の中に蝋燭の震え）」──蝋燭の炎の視覚的震え（tremblement）が「目の中に持つ」という内面化が最終形象として。「La Prière」§5「蝋燭を数えることに喜びを見出した」から、「Litanies」§9「蝋燭の震えを目の中に持つ」へ：同一のモチーフが「数える行為」から「視覚的内面化」へと深化する。ヴェイユ「Beauté（美）」章での「美は現存しながら人を遠ざける罠（piège）」という美の逆説と、ローデンバックの「死にたいほど至福な美的体験」が、美の陶酔的・危険な側面として対応する。",
+      "targetId": "weil_pesanteur_beaute",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 9,
+      "type": "intertextual",
+      "anchor": "D'avoir le tremblement des cierges dans les yeux.",
+      "body": "「目の中に蝋燭の震えを持つ」──ローデンバック「骸骨の前で（Devant une Tête de mort）」との深い照応：骸骨を前にした観照がもたらす静謐な死の認識が、「Litanies」では音楽的陶酔がもたらす「死にたいほど」の感覚的充満として対置される。「Charme du passé」の「— Et c'est depuis ce temps que nos habits sont noirs !」という喪の確認に対し、「Litanies」の結語は死を「délicieux（至福）」として肯定する：喪の黒から陶酔的な死への欲望へ、ローデンバックの「白い青春（La Jeunesse blanche）」における死のトポスが反転する。典礼テキスト「Ave Maria」の「nunc et in hora mortis nostrae（今も、私たちの死の時も）」という「死の時」への言及が、ここでは「蝋燭の震えの中で死にたい」という美的欲望として世俗的に変容される。",
+      "targetId": "rodenbach_devant_tete_de_mort",
+      "targetParagraphId": null
+    }
+  ]
+}
