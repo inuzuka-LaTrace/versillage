@@ -1,0 +1,165 @@
+{
+  "id": "rodenbach_mysticisme",
+  "title": "Mysticisme",
+  "author": "Georges Rodenbach",
+  "source": "La Jeunesse blanche, Eugène Fasquelle – Bibliothèque Charpentier, 1913, p. 49–50. Wikisource: https://fr.wikisource.org/wiki/La_Jeunesse_blanche_(1913)/Mysticisme",
+  "year": "1913",
+  "firstPublication": "La Jeunesse blanche, Eugène Fasquelle – Bibliothèque Charpentier, 1913",
+  "difficulty": "中級",
+  "category": "rodenbach",
+  "originalLang": "fr-FR",
+  "modernRelevance": "★★★★☆",
+  "context": "ローデンバック（Georges Rodenbach, 1855–1898）の詩集『白い青春（La Jeunesse blanche）』（1913年版）所収。8連×4行、8音節詩（octosyllabes）ABAB交互韻。「Litanies」・「La Prière」が幼年期の宗教的体験の記憶を主題とするのに対し、「Mysticisme」は現在進行的な恋愛体験を宗教的語彙で語る：愛する女性の「純粋な瞳（ses yeux purs）」に捧げるべき「白さ」の総体として、花・雪・聖体（hosties）・天使の巻物（banderoles）が連鎖的に喚起される。詩全体の論理は「白い（blanc/blanche）」という形容詞の反復的展開：「白い事物（choses blanches）」→「マグノリアの白さ（blancheurs de magnolia）」→「白い花束（bouquet blanc）」→「温かい雪（neige tiède）」→「聖体のような白い言葉（mots blancs comme des hosties）」→「ゴシック絵画の天使の巻物（banderoles）」という段階的な「白の神秘化」。最終連がアヴェ・マリアの「女の中で最も祝福された方（Bénie entre toutes les femmes）」という典礼的定式を引用することで、恋愛の対象が聖母マリア的な「女性の典型（toutes les femmes）」として昇華される。「Litanies」末連の「elle ─ puisqu'elle est femme（彼女が女だから）」という世俗的告白が、「Mysticisme」の「Bénie entre toutes les femmes（すべての女の中で祝福された）」という典礼的讃美へと神秘化・昇華される。",
+  "keywords": [
+    "blanc",
+    "mysticisme",
+    "hosties",
+    "banderoles",
+    "séraphins",
+    "Ave",
+    "Vierge",
+    "mots musiciens",
+    "neige tiède",
+    "bouquet blanc"
+  ],
+  "relatedTexts": [
+    "rodenbach_litanies",
+    "rodenbach_la_priere",
+    "rodenbach_les_jardins",
+    "rodenbach_du_silence",
+    "rodenbach_lange_envole",
+    "rodenbach_les_femmes_tristes",
+    "liturgy_ave_maria",
+    "weil_necessite",
+    "mallarme_sainte",
+    "verlaine_parsifal"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "verses": "v.1–4",
+      "original": "À ses yeux purs, je veux n'offrir\nQue des choses douces et blanches ;\nRésumant ce qui peut fleurir\nDe fleurs pascales sur les branches.",
+      "provisionalTranslation": "彼女の純粋な瞳に、私は捧げたい、\n柔らかく白いものだけを。\n枝の上に咲きうるものを集めて、\n復活祭の花々を。"
+    },
+    {
+      "id": 2,
+      "verses": "v.5–8",
+      "original": "Je rêve tout ce qu'il y a\nDe plus délicat autour d'elle,\nDes blancheurs de magnolia\nEt des hymens de tourterelle.",
+      "provisionalTranslation": "私は夢想する、彼女の周りにある\n最も繊細なものすべてを、\nマグノリアの白さと\n山鳩の婚礼を。"
+    },
+    {
+      "id": 3,
+      "verses": "v.9–12",
+      "original": "Car son âme au parfum troublant,\nSa grande âme que je devine\nEst aussi comme un bouquet blanc\nFleuri dans la serre divine.",
+      "provisionalTranslation": "なぜなら彼女の心を乱す香りの魂、\n私が感じ取る彼女の大きな魂は、\n神聖な温室で咲いた\n白い花束のようだから。"
+    },
+    {
+      "id": 4,
+      "verses": "v.13–16",
+      "original": "Et pour ses chemins d'ici-bas\nUn désir raffiné m'obsède\nDe pouvoir mettre sous ses pas\nUne neige qui serait tiède.",
+      "provisionalTranslation": "そして地上での彼女の道のために、\nある洗練された欲望が私を苦しめる、\n彼女の歩みの下に敷くことができたなら、\n温かい雪を。"
+    },
+    {
+      "id": 5,
+      "verses": "v.17–20",
+      "original": "À l'heure exquise des aveux\nEt des lèvres appesanties,\nJe veux pour la charmer, je veux\nDes mots blancs comme des hosties.",
+      "provisionalTranslation": "告白の至福の時に、\n重くなった唇の時に、\n彼女を魅了するために、私は望む、\n聖体のように白い言葉を。"
+    },
+    {
+      "id": 6,
+      "verses": "v.21–24",
+      "original": "Je veux des mots musiciens,\nPareils à ces versets mystiques\nQue dans les tableaux anciens\nPeignaient les vieux peintre gothiques ;",
+      "provisionalTranslation": "私は望む、音楽的な言葉を、\nあの神秘的な詩句に似た言葉を、\n古い絵画の中に\n古い画家たちが描いたような。"
+    },
+    {
+      "id": 7,
+      "verses": "v.25–28",
+      "original": "Ave pieux, textes divins,\nDont ils déroulaient les paroles\nHors des lèvres des séraphins\nEn ondulantes banderoles.",
+      "provisionalTranslation": "敬虔なアヴェ、神聖なテキスト、\nその言葉を彼らは繰り広げた、\n熾天使たちの唇から、\n波打つ垂れ幕の形で。"
+    },
+    {
+      "id": 8,
+      "verses": "v.29–32",
+      "original": "Des banderoles où leur voix\nTraduit le chaste élan des âmes\nEt murmure à la Vierge : Sois\nBénie entre toutes les femmes !",
+      "provisionalTranslation": "その垂れ幕の中で彼らの声は、\n魂の清らかな高まりを訳し、\n聖母にこう呟く：「あなたは\nすべての女の中で祝福された方です！」"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "À ses yeux purs, je veux n'offrir\nQue des choses douces et blanches ;",
+      "body": "「彼女の純粋な瞳に、柔らかく白いものだけを捧げたい」──詩全体の宣言的命題。「yeux purs（純粋な瞳）」という出発点は『白い青春』詩集内の先行詩「Ses yeux（彼女の瞳）」（本詩の直前に置かれた詩）との連続を示す。「choses douces et blanches（柔らかく白いもの）」という表現が詩全体の「白の神秘化」プログラムを開始する：以降の連でこの「白さ」が具体的なイメージの連鎖（マグノリア・花束・雪・聖体・バンデロール）として展開される。「Je veux（私は望む）」という意志動詞が§5・§6・§7と反復的に使われ、「Litanies」の「Sanctus !」という反復句に代わる詩の構造的反復装置として機能する。「fleurs pascales（復活祭の花々）」──「Les Jardins」の「semaines pascales（復活祭の週）」・「La Prière」の「soirs de mai（五月の夕べ）」という春・復活祭のモチーフが、ここでは恋愛の脈絡に移植される。",
+      "targetId": "rodenbach_les_jardins",
+      "targetParagraphId": 6
+    },
+    {
+      "paragraphId": 1,
+      "type": "prosody",
+      "anchor": "Résumant ce qui peut fleurir\nDe fleurs pascales sur les branches.",
+      "body": "韻律：8連×4行、8音節詩（octosyllabes）ABAB交互韻。「La Jeunesse blanche」の他の詩（「Les Jardins」「Charme du passé」等）が12音節アレクサンドランを採用するのに対し、「Mysticisme」の8音節詩はより軽快・流動的な音楽性を持つ──これが「音楽的な言葉（mots musiciens）」という主題と形式的に対応する。ABAB交互韻（fleurir/blanches/fleurir/branches；elle/magnolia/tourterelle等）がゴシック絵画の「バンデロール（ondulantes banderoles）」の波打つ形状を詩の音韻構造として模倣する。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "glossary",
+      "anchor": "Des blancheurs de magnolia\nEt des hymens de tourterelle.",
+      "body": "「マグノリアの白さ（blancheurs de magnolia）」──マグノリアは春に咲く白・淡桃色の大輪の花で、純潔・気高さの象徴。ベルギー象徴主義の詩人たちが好んで使った花の語彙。「hymens de tourterelle（山鳩の婚礼）」──「hymen（ヒュメン）」はギリシア神話の婚礼の神であり、同時に「婚礼・処女膜」という両義的な語。「tourterelle（山鳩）」はカトリックの象徴図像において「貞節な愛・魂」を表す鳥（レビ記12章でマリアが神殿に捧げた贈り物）。「hymens de tourterelle」は山鳩の番の終生の貞節・純粋な婚姻という意味合いを持ち、恋愛を宗教的な純潔の脈絡に置く。"
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "Car son âme au parfum troublant,\nSa grande âme que je devine\nEst aussi comme un bouquet blanc\nFleuri dans la serre divine.",
+      "body": "「彼女の大きな魂は、神聖な温室で咲いた白い花束のようだ」──女性の魂を「白い花束（bouquet blanc）」として、さらにその花束が「神聖な温室（serre divine）」で咲いたと規定する。「serre divine（神聖な温室）」という形象が重要：「serre（温室）」はメーテルリンクの「熱室（Serres chaudes）」の密閉された病的な熱気とは逆に、ここでは「神聖（divine）」な培養環境として肯定的に提示される。「au parfum troublant（心を乱す香りの）」──「troublant（乱す・不安にさせる）」という形容詞が嗅覚的な官能性を「魂（âme）」の属性として提示する：純粋な魂が「心を乱す香り」を持つという逆説が、宗教的神秘主義と官能的欲望の境界の曖昧さを示す。「Litanies」§2「mon âme se meurt du regret de l'encens（魂は乳香への後悔の中で死にかけている）」の嗅覚的魂と対照：彼女の魂は「香り（parfum）」を放ち、詩人の魂は「乳香（encens）」への後悔で死にかける。",
+      "targetId": "rodenbach_litanies",
+      "targetParagraphId": 2
+    },
+    {
+      "paragraphId": 4,
+      "type": "commentary",
+      "anchor": "De pouvoir mettre sous ses pas\nUne neige qui serait tiède.",
+      "body": "「彼女の歩みの下に温かい雪を敷くことができたなら」──「neige tiède（温かい雪）」という形容矛盾（oxymoron）が詩全体の白の神秘化の最も鮮烈な表現。雪の白さ（純粋・冷たさ）と温かさ（柔らかさ・優しさ）の矛盾が、理想化された愛の対象への「超自然的な奉仕」として提示される：白くかつ温かいものは存在しない──だからこそ「désir raffiné（洗練された欲望）」として「m'obsède（苦しめる）」のである。「chemins d'ici-bas（地上での道）」──「ici-bas（地上）」という語が重力の世界・現実の世界を示す：ヴェイユ「必然（Nécessité）」章の「地上の必然性」が、ここでは恋愛の対象が歩む道として現れる。",
+      "targetId": "weil_necessite",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 5,
+      "type": "commentary",
+      "anchor": "Je veux pour la charmer, je veux\nDes mots blancs comme des hosties.",
+      "body": "「彼女を魅了するために、私は望む、聖体のように白い言葉を」──詩の言語論的核心命題。「mots blancs comme des hosties（聖体のように白い言葉）」：「hostie（聖体・ホスチア）」はカトリックのミサにおける「キリストの体（パン）」の聖別されたウェハース。白・丸・薄い・聖別されたという四重の属性を持つ。「言葉」をこの「聖体」に比喩することで、詩的言語が「聖体変化（transsubstantiation）」のような変容──世俗的な語が神聖な意味を帯びる──を求められる。マラルメ「詩の危機（Crise de vers）」の「言語の純化・白化」という詩学的理想との深い照応：マラルメが「言語の不純を除去する」ことを詩の使命とするのに対し、ローデンバックは「白い言葉（mots blancs）」という直接的な色彩的純化として同じ欲望を表現する。",
+      "targetId": "mallarme_crise_de_vers",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 6,
+      "type": "commentary",
+      "anchor": "Je veux des mots musiciens,\nPareils à ces versets mystiques\nQue dans les tableaux anciens\nPeignaient les vieux peintre gothiques ;",
+      "body": "「音楽的な言葉を……古い絵画の中に古い画家たちが描いた神秘的な詩句に似た」──詩の言語への欲望が「音楽性（mots musiciens）」と「視覚性（tableaux anciens）」の二軸から定義される。「mots musiciens（音楽的な言葉）」──「Litanies」の「eau musicale（音楽の水）」からの言語論的展開：音楽は水となり、水は言葉となる。「tableaux anciens（古い絵画）」・「vieux peintre gothiques（古いゴシック画家たち）」──ゴシック絵画における文字的・言語的要素の視覚化：天使の口から出るバンデロール（垂れ幕）に言葉が書き込まれる中世・ルネサンス初期の絵画的慣習への参照。ラファエル前派（Pre-Raphaelites）──ロセッティ兄弟が愛したゴシック・中世的イメージの世界──との接点：D. G. ロセッティの「受胎告知（Ecce Ancilla Domini）」等の天使図像との照応。",
+      "targetId": "d_g_rossetti_mary_magdalene",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 7,
+      "type": "glossary",
+      "anchor": "Ave pieux, textes divins,\nDont ils déroulaient les paroles\nHors des lèvres des séraphins\nEn ondulantes banderoles.",
+      "body": "「バンデロール（banderoles）」：中世・ルネサンスのゴシック・キリスト教絵画において、天使・預言者・聖人の口元から伸びる細長い垂れ幕（リボン状の巻物）に書かれたラテン語の文句──受胎告知（Annonciation）の場面ではガブリエル天使が「Ave gratia plena（恵み満ちた方、こんにちは）」と書かれたバンデロールを持つ。この視覚的・図像的な言語表現が、ローデンバックにとって「音楽的な言葉（mots musiciens）」の理想的形象として機能する：言葉が音楽（ondulantes・波打つ）でありながら視覚的に「形をなす」という二重性。「séraphins（熾天使・セラフィム）」：旧約聖書イザヤ書6章の「聖なる、聖なる、聖なる（Sanctus Sanctus Sanctus）」を歌う六翼の天使──「Litanies」の「Sanctus !」の反復と直接的に照応する：ミサのSanctusを歌う天使たちの口から出るバンデロールとして詩の世界が閉じる。",
+      "targetId": "rodenbach_litanies",
+      "targetParagraphId": 1
+    },
+    {
+      "paragraphId": 8,
+      "type": "commentary",
+      "anchor": "Et murmure à la Vierge : Sois\nBénie entre toutes les femmes !",
+      "body": "「聖母にこう呟く：『あなたはすべての女の中で祝福された方です！』」──ルカ福音書1章42節、エリザベトのマリアへの挨拶「Benedicta tu in mulieribus（あなたは女の中で祝福された方）」のフランス語引用。典礼テキスト「Ave Maria」の「benedicta tu in mulieribus（女の中で最も祝福された）」という定式の直接的な引用（VANITISME収録 `liturgy_ave_maria` との直接の連結）。「Litanies」§8「elle ─ puisqu'elle est femme（彼女が女だから）」という世俗的断言が、ここでは「Bénie entre toutes les femmes（すべての女の中で祝福された）」という典礼的・普遍的讃美へと昇華される：詩人の個人的な愛の対象が「すべての女（toutes les femmes）」の代表としての聖母と重なる瞬間として詩が閉じる。マラルメ「聖女（Sainte）」の「祈祷書のガラスの窓に触れる天使（l'ange）」という聖別された音楽・言語の形象との照応：どちらの詩でも天使・聖別された空間・音楽的言語が融合して詩の結語を形成する。",
+      "targetId": "liturgy_ave_maria",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 8,
+      "type": "intertextual",
+      "anchor": "Des banderoles où leur voix\nTraduit le chaste élan des âmes",
+      "body": "「その垂れ幕の中で彼らの声は、魂の清らかな高まりを訳す」──「élan des âmes（魂の高まり）」という語がヴェイユ「必然（Nécessité）」章の「魂が神へ向かう運動」との照応を持つ。ヴェイユにおける魂の上昇は「重力（pesanteur）」に抗う恩寵の運動であるのに対し、ローデンバックの「chaste élan（清らかな高まり）」は天使の声が「訳す（traduit）」という翻訳的行為として提示される──魂の運動が言語化・可視化されるものとして。コヘレト第1章v.6「spiritus（霊）」の「巡回（in circulos suos revertitur）」という内向きの循環に対し、バンデロールの「ondulantes（波打つ）」運動は外へと開かれた波動として対置される：コヘレト的な閉じた循環を、ゴシック絵画の天使の声が開いた波として超越する形象。",
+      "targetId": "hieronymus_ecclesiastes_1",
+      "targetParagraphId": 6
+    }
+  ]
+}
