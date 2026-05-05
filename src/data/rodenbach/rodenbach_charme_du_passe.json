@@ -1,0 +1,117 @@
+{
+  "id": "rodenbach_charme_du_passe",
+  "title": "Charme du passé",
+  "author": "Georges Rodenbach",
+  "source": "La Jeunesse blanche, Eugène Fasquelle – Bibliothèque Charpentier, 1913, p. 23–24. Wikisource: https://fr.wikisource.org/wiki/La_Jeunesse_blanche_(1913)/Charmes_du_pass%C3%A9",
+  "year": "1913",
+  "firstPublication": "La Jeunesse blanche, Eugène Fasquelle – Bibliothèque Charpentier, 1913",
+  "difficulty": "中級",
+  "category": "rodenbach",
+  "originalLang": "fr-FR",
+  "modernRelevance": "★★★★☆",
+  "context": "ローデンバック（Georges Rodenbach, 1855–1898）の詩集『白い青春（La Jeunesse blanche）』（1913年版）所収のソネット。「Les Jardins」「La Prière」に続き、過去（le Passé）を「愛する死者（cher enseveli）」に擬人化する。変形ソネット：ABBA / ABBA の二つの四行詩（quatrains）＋ 三行詩（tercets）の3行＋3行という伝統的ソネット形式を採るが、最終二行（向詩行＝distique terminal）が「— Et c'est depuis ce temps que nos habits sont noirs !（それ以来、私たちの衣服は黒くなった）」というダッシュ付きの断言で締められる点が特徴的。詩全体の中心的形象は「揺りかごの木で作られた棺（cercueil construit du bois de nos berceaux）」：誕生の揺りかごと死の棺が同一の木材から作られるという逆説が、子供時代と喪の連続性を物質的に定式化する。「jouets cassés（壊れたおもちゃ）」「robes aux rubans bleus et roses（青と薔薇色のリボンの子供服）」という幼年期の具体的遺物を棺に収める行為が、「過去の埋葬（ensevelissement du Passé）」という主題の儀礼的次元を開く。",
+  "keywords": [
+    "passé",
+    "enseveli",
+    "cercueil",
+    "berceau",
+    "joujoux cassés",
+    "deuil",
+    "habits noirs",
+    "âme immortelle",
+    "mémoire",
+    "remords"
+  ],
+  "relatedTexts": [
+    "rodenbach_les_jardins",
+    "rodenbach_la_priere",
+    "rodenbach_loubli",
+    "rodenbach_la_vie_des_chambres",
+    "rodenbach_devant_tete_de_mort",
+    "rodenbach_lacrymae_rerum",
+    "rodenbach_les_femmes_tristes",
+    "hieronymus_ecclesiastes_1",
+    "hieronymus_iob_1",
+    "weil_accepter_le_vide"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "verses": "v.1–4",
+      "original": "Le Passé, c'est un cher enseveli qu'on pleure\nQue nous aimons surtout maintenant qu'il est mort,\nEt qui nous fait songer, à travers un remords,\nAu temps où nous vivions dans la même demeure.",
+      "provisionalTranslation": "過去とは、私たちが泣く愛する埋葬者、\n今や死んでしまった今こそ、私たちが最も愛する者、\nそして悔恨を通じて、私たちに思わせる、\n私たちが同じ住まいで生きていたあの時を。"
+    },
+    {
+      "id": 2,
+      "verses": "v.5–8",
+      "original": "Vers l'azur où s'en vont les âmes des oiseaux,\nVers l'azur a monté sa jeune âme immortelle !\nIl est dans son cercueil de soie et de dentelle\nDans son cercueil construit du bois de nos berceaux.",
+      "provisionalTranslation": "鳥の魂が旅立つ大空へ向かって、\n大空へ向かって、その若く不滅の魂は昇った！\nそれは絹とレースの棺の中にある、\n私たちの揺りかごの木で作られた棺の中に。"
+    },
+    {
+      "id": 3,
+      "verses": "v.9–11",
+      "original": "De même que les morts ont dans leurs bières closes\nLes choses qu'il aimaient, les pauvres trépassés,\nNous avons mis dedans tous nos joujoux cassés,",
+      "provisionalTranslation": "死者たちがその閉じた棺の中に、\n可哀想な故人たちが愛した物を持つように、\n私たちは中に入れた、すべての壊れたおもちゃを。"
+    },
+    {
+      "id": 4,
+      "verses": "v.12–14",
+      "original": "Puis nos robes d'enfant aux rubans bleus et roses\nQui faisaient autrefois la gaîté des miroirs,\n— Et c'est depuis ce temps que nos habits sont noirs !",
+      "provisionalTranslation": "それから青と薔薇色のリボンの子供服も、\nかつては鏡の喜びだったあの服も。\n──そしてそれ以来、私たちの衣服は黒くなった！"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "Le Passé, c'est un cher enseveli qu'on pleure\nQue nous aimons surtout maintenant qu'il est mort,",
+      "body": "「過去とは、愛する埋葬者……今や死んでしまった今こそ最も愛する」──「le Passé（過去）」の大文字化による人格化（prosopopée）が詩全体の修辞的基盤。「cher enseveli（愛する埋葬者）」という表現が「過去」を死んだ近親者として同定する：失われた時間が遺体として、愛着が死後に高まるという逆説的な喪の心理が定式化される。「que nous aimons surtout maintenant qu'il est mort（今や死んでしまった今こそ最も愛する）」──喪失が愛を激化させるという命題。コヘレト第1章v.11「先のことどもの記憶はない（Non est priorum memoria）」の「記憶の消滅」とは逆方向：ローデンバックにおける過去は記憶されないのではなく、死後に「最も強く愛される（aimons surtout）」ものとして帰還する。「à travers un remords（悔恨を通じて）」──「remords（悔恨・後悔）」という語が記憶に倫理的な次元を加える：過去は単なる甘美な回想ではなく、罪責感を伴う追憶として現れる。",
+      "targetId": "hieronymus_ecclesiastes_1",
+      "targetParagraphId": 11
+    },
+    {
+      "paragraphId": 1,
+      "type": "prosody",
+      "anchor": "Au temps où nous vivions dans la même demeure.",
+      "body": "韻律と形式：本詩は変形ソネット（14行詩）。ABBA / ABBA の抱擁韻（rimes embrassées）による二つの四行詩＋ ABC / ABC または ABA / BCB 等の三行詩二連という伝統的ソネット形式。全行12音節アレクサンドラン。「les soirs de mai」「les âmes des oiseaux」「cercueil de soie et de dentelle」「robes aux rubans bleus et roses」という複数の色彩・感覚的イメージが四行詩部分に凝縮され、三行詩の「joujoux cassés」→「habits noirs」という色調の転換で詩が閉じる構造。最終行のダッシュ「— Et c'est depuis ce temps que nos habits sont noirs !」が、ソネットの「旋回（volta）」を通常の9行目ではなく最終行に遅延させる変形として機能する。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "Dans son cercueil construit du bois de nos berceaux.",
+      "body": "「私たちの揺りかごの木で作られた棺」──本詩の中心的形象であり、ローデンバック詩学の最も凝縮された逆説の一つ。「berceau（揺りかご）」と「cercueil（棺）」の音韻的近接（ber-/cer-）が、意味論的な対立（誕生/死）を形式的な連続性として提示する。揺りかごの木材が棺として再加工されるという物質的変換が、子供時代の終わりを「死」として比喩的に定式化するだけでなく、誕生と死が同一の物質から作られるという存在論的命題を提示する。ヨブ記第1章v.21「Nudus egressus sum de utero matris meae, et nudus revertar（裸で母の胎から出た、裸で戻ろう）」の「誕生と死の対称」が、ここでは木材という物質的媒体を通じて詩的に結晶化される。",
+      "targetId": "hieronymus_iob_1",
+      "targetParagraphId": 21
+    },
+    {
+      "paragraphId": 2,
+      "type": "glossary",
+      "anchor": "Vers l'azur où s'en vont les âmes des oiseaux,\nVers l'azur a monté sa jeune âme immortelle !",
+      "body": "「鳥の魂が旅立つ大空へ……その若く不滅の魂は昇った」──「azur（大空・蒼穹）」はマラルメ「L'Azur」（1864）の中心語彙との連続を持つ：マラルメにおいて「L'Azur」は詩人の理想への到達不能な渇望として「嘲笑する（L'Azur ! l'Azur ! l'Azur ! l'Azur !）」のに対し、ローデンバックでは「過去の魂」が疑いなく「azur」へと昇る。「âme immortelle（不滅の魂）」という語が子供時代の「過去」に適用されることで、子供時代がキリスト教的な「魂の不滅」の修辞の中に置かれる──宗教的なコンテクストは「La Prière」の礼拝室から連続する。「âmes des oiseaux（鳥の魂）」──鳥が魂の運搬者という古代からの象徴的伝統（psychopomp）。ローデンバック「消えた天使（L'Ange envolé）」の「飛び去る」という垂直移動の形象と連続。",
+      "targetId": "rodenbach_lange_envole",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "Nous avons mis dedans tous nos joujoux cassés,",
+      "body": "「私たちは中に入れた、すべての壊れたおもちゃを」──「joujoux cassés（壊れたおもちゃ）」という具体的な幼年期の遺物が、「過去の棺」への埋葬品として列挙される。「cassés（壊れた）」という形容詞が重要：まだ使えるおもちゃではなく、すでに「壊れた」おもちゃが棺に収められる──これは幼年期の「壊れた（終わった）」側面のみが過去として埋葬されることを示す。「De même que les morts ont dans leurs bières closes / Les choses qu'il aimaient, les pauvres trépassés（死者たちがその閉じた棺の中に、愛した物を持つように）」──古代近東の副葬品文化（ファラオの副葬品等）という普遍的な人類学的実践を参照しながら、幼年期の棺の「副葬品（joujoux, robes）」が幼年期という死者への供物として提示される。"
+    },
+    {
+      "paragraphId": 4,
+      "type": "commentary",
+      "anchor": "Qui faisaient autrefois la gaîté des miroirs,\n— Et c'est depuis ce temps que nos habits sont noirs !",
+      "body": "「かつては鏡の喜びだったあの服──そしてそれ以来、私たちの衣服は黒くなった！」──詩の結語として、色彩の転換が「喪（deuil）」の成立を物語る。「gaîté des miroirs（鏡の喜び）」という表現が、子供服の色彩的な祝祭性を「鏡が喜ぶ（鏡に映って輝く）」という擬人化によって定着させる。「habits noirs（黒い衣服）」──成人の喪服・日常服としての黒が、幼年期の「青と薔薇色のリボン」との鮮烈な色彩的対比を形成する。ダッシュ「—」によって最終行が「告白的断言」として文脈から切り離される：それまでの比喩的な展開（過去の擬人化・棺の形象）が、「それ以来私たちは黒を着ている」という現在時制の事実によって突如地上に引き戻される。ローデンバック「涙の記憶（Lacrymae Rerum）」の「すべての喜びは涙として沈殿する」というヴェルギリウス的主題の変奏：幼年期の色彩的な喜びが「黒」という喪の色に沈殿する。",
+      "targetId": "rodenbach_lacrymae_rerum",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 4,
+      "type": "intertextual",
+      "anchor": "— Et c'est depuis ce temps que nos habits sont noirs !",
+      "body": "「それ以来、私たちの衣服は黒くなった」──ヴェイユ「Accepter le vide（真空を受容する）」§1「喪失が空虚を作り出し、その空虚にのみ恩寵が入る」という命題との逆方向の照応：ヴェイユにおいては喪失した後の「空虚」が恩寵の条件として肯定されるが、ローデンバックにおいては幼年期の喪失が「黒い衣服」という可視的な喪として定着し、空虚を埋めることなく続く。コヘレト第1章v.2「omnia vanitas（すべては虚無）」の「すべて」という普遍的否定が、ここでは「nos habits（私たちの衣服）」という具体的な複数形に凝縮される──「私たちの衣服はすべて黒い」という集団的な喪のイメージとして。「Les Jardins」の「鐘が流刑から戻る」・「La Prière」の「天使が降りてくる」という両詩の「光の到来」に対し、「Charme du passé」は「黒い衣服」という喪の定着で閉じる──回帰不能な喪失の確認。",
+      "targetId": "weil_accepter_le_vide",
+      "targetParagraphId": 1
+    }
+  ]
+}
