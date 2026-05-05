@@ -1,0 +1,149 @@
+{
+  "id": "rodenbach_la_priere",
+  "title": "La Prière",
+  "author": "Georges Rodenbach",
+  "source": "La Jeunesse blanche, Eugène Fasquelle – Bibliothèque Charpentier, 1913, p. 19–20. Wikisource: https://fr.wikisource.org/wiki/La_Jeunesse_blanche_(1913)/La_Pri%C3%A8re",
+  "year": "1913",
+  "firstPublication": "La Jeunesse blanche, Eugène Fasquelle – Bibliothèque Charpentier, 1913",
+  "difficulty": "中級",
+  "category": "rodenbach",
+  "originalLang": "fr-FR",
+  "modernRelevance": "★★★★☆",
+  "context": "ローデンバック（Georges Rodenbach, 1855–1898）の詩集『白い青春（La Jeunesse blanche）』（1913年版）所収。「Les Jardins」の直後に置かれ、同じく幼年期の記憶を主題とする姉妹篇。7連×4行のアレクサンドラン四行詩。「J'évoque（私は喚び起こす）」という回顧の動詞で開かれ、五月の夕べの祈り・マリア像・蝋燭・アヴェ・マリアの詠唱という宗教的な幼年期の情景が丁寧に描かれる。詩の空間的論理は「地上の部屋」から「天上の旅」への上昇：祈祷室の部屋が礼拝堂（reposoir）の趣を帯び、月光の中の寝床が「眠れる川の上の大船（grands bateaux sur un fleuve qui dort）」となり、眠りへの移行が「楽園への旅」として幻視される。末連「Des anges descendaient nous servir d'équipage / Et nous nous endormions dans des gestes d'adieu（天使たちが乗組員として降りてきて、私たちは別れのしぐさの中で眠りについた）」という結語が、幼年期の祈りを死への準備の反復として静かに提示する。「Les Jardins」の「鐘の帰還」という完全な復活に対し、「La Prière」は眠りと死の区別が曖昧になる幼年の意識を描き、VANITISMEの「afflictio spiritus（霊の苦悩）」の静謐な変奏を構成する。",
+  "keywords": [
+    "prière",
+    "enfance",
+    "madone",
+    "Ave Maria",
+    "bougies",
+    "sommeil",
+    "paradis",
+    "voyage",
+    "anges",
+    "mémoire"
+  ],
+  "relatedTexts": [
+    "rodenbach_les_jardins",
+    "rodenbach_coeur_de_leau",
+    "rodenbach_du_silence",
+    "rodenbach_la_vie_des_chambres",
+    "rodenbach_lange_envole",
+    "rodenbach_loubli",
+    "rodenbach_les_femmes_tristes",
+    "rodenbach_lacrymae_rerum",
+    "hieronymus_ecclesiastes_1",
+    "hieronymus_psalm_129"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "verses": "v.1–4",
+      "original": "J'évoque aussi parfois la grande chambre ancienne\nOù nous allions prier pendant les soirs de mai ;\nComme pour la chaleur on ouvrait la persienne\nL'âme des fleurs passait dans le vent embaumé.",
+      "provisionalTranslation": "私はまた時おり、あの古い大きな部屋を喚び起こす、\n五月の夕べに私たちが祈りに行ったあの部屋を。\n暑さのために鎧戸を開けると、\n花々の魂が香り高い風の中を通り過ぎていった。"
+    },
+    {
+      "id": 2,
+      "verses": "v.5–8",
+      "original": "Une madone blonde ornait la cheminée\nMontrant des doigts son cœur traversé d'un couteau ;\nDes chandeliers d'argent l'avaient illuminée\nEt donnaient de la vie aux fleurs de son manteau.",
+      "provisionalTranslation": "金髪の聖母像が暖炉を飾っていた、\n指で、刃物に貫かれたその心臓を示しながら。\n銀の燭台が彼女を照らし、\nそのマントの花々に生命を与えていた。"
+    },
+    {
+      "id": 3,
+      "verses": "v.9–12",
+      "original": "Et la chambre perdait tout son aspect sévère\nTant les roses prenaient des teintes de pastel,\nTant les lys dormaient bien dans leurs globes de verre\nEt tant ce reposoir avait des airs d'autel,",
+      "provisionalTranslation": "そして部屋はその厳めしさをすっかり失っていた、\n薔薇がパステルの色調を帯びるほどに、\n百合が玻璃の球の中でよく眠るほどに、\nそしてこの聖体安置台が祭壇の趣を漂わせるほどに。"
+    },
+    {
+      "id": 4,
+      "verses": "v.13–16",
+      "original": "Nous arrivions ensemble, en marchant sur les pointes\nDe nos pieds, dans la chambre où la Vierge régnait ;\nEt nous pleurions de voir que, malgré nos mains jointes,\nSous son manteau d'azur son cœur rouge saignait.",
+      "provisionalTranslation": "私たちは一緒に、つま先で歩きながら、\n聖母が統べるその部屋に入っていった。\nそして私たちは泣いた──手を合わせているにもかかわらず、\n彼女の青いマントの下でその赤い心臓が血を流しているのを見て。"
+    },
+    {
+      "id": 5,
+      "verses": "v.17–20",
+      "original": "Et nous prenions plaisir à compter les bougies !\nEt nos lèvres goûtaient le charme qu'il y a\nÀ psalmodier haut, comme des élégies,\nLes rythmiques versets des Ave Maria.",
+      "provisionalTranslation": "そして私たちは蝋燭を数えることに喜びを見出した！\nそして私たちの唇は、挽歌のように声高に、\nアヴェ・マリアの韻律ある詩句を\n詠唱することの魅力を味わっていた。"
+    },
+    {
+      "id": 6,
+      "verses": "v.21–24",
+      "original": "On eût dit que le ciel descendait dans la chambre\nAvec son clair de lune et tous ses astres d'or !\nEt les lits qui flottaient dans ces lumières d'ambre\nSemblaient de grands bateaux sur un fleuve qui dort.",
+      "provisionalTranslation": "天が部屋の中に降りてくるようだった、\nその月明かりと黄金の星々すべてとともに！\nそして琥珀の光の中に漂う寝床は、\n眠れる川の上の大きな船のように見えた。"
+    },
+    {
+      "id": 7,
+      "verses": "v.25–28",
+      "original": "Et quand nous nous couchions, commençait le voyage,\nLe voyage idéal vers le paradis bleu !\nDes anges descendaient nous servir d'équipage\nEt nous nous endormions dans des gestes d'adieu.",
+      "provisionalTranslation": "そして私たちが横になると、旅が始まった、\n青い楽園への理想の旅が！\n天使たちが乗組員として私たちのもとに降りてきて、\n私たちは別れのしぐさの中で眠りについた。"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "J'évoque aussi parfois la grande chambre ancienne",
+      "body": "「私はまた時おり、あの古い大きな部屋を喚び起こす（J'évoque aussi parfois）」──「Les Jardins」の「Ressuscitent parfois（時おり甦る）」との直接的照応：「parfois（時おり）」という副詞と、記憶の回帰という主題が両詩に共有される。しかし「Les Jardins」では主語が「庭々」という外部空間だったのに対し、「La Prière」では「Je（私）」という一人称主語が「évoque（喚び起こす）」という能動的な喚起行為を担う。記憶の非意図的な到来（プルースト的な受動的記憶）から、意志的な回顧へのわずかな移行。「grande chambre ancienne（古い大きな部屋）」──ローデンバック「部屋の生（La Vie des Chambres）」の詩学を先取りする：部屋が記憶の容器・魂の外在化された空間として機能する。",
+      "targetId": "rodenbach_la_vie_des_chambres",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 1,
+      "type": "prosody",
+      "anchor": "L'âme des fleurs passait dans le vent embaumé.",
+      "body": "本詩の韻律：7連すべてが12音節アレクサンドラン×4行（ABAB交互韻）の統一的四行詩形式。「Les Jardins」の「長行＋短行」の混交形式とは異なり、全行均等なアレクサンドランが採用される──これが「祈り（prière）」の反復的・韻律的な詠唱（psalmodie）という主題と形式的に対応する。第5連「psalmodier haut, comme des élégies, / Les rythmiques versets（挽歌のように、韻律ある詩句を詠唱する）」という詩の自己言及が、詩形式そのものを「アヴェ・マリアの韻律」として同一視する。「L'âme des fleurs passait（花々の魂が通り過ぎていった）」──「âme（魂）」という語が花に適用され、物質と霊の境界が崩れる。ローデンバックの詩学における「物質の霊化」の典型的な手法。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "glossary",
+      "anchor": "son cœur traversé d'un couteau",
+      "body": "「刃物に貫かれた心臓（cœur traversé d'un couteau）」──聖母マリアの「悲しみの聖母（Mater Dolorosa）」の図像学的表象。ルカ福音書2章35節「あなた自身の魂も剣が刺し貫くでしょう（et tuam ipsius animam pertransiet gladius）」に基づく。カトリック図像では通常7本の剣または刀が心臓を貫く形で表現される（七つの悲しみの聖母）。ここでは「un couteau（一本の刃物）」と単数化されており、より親密・日常的な刃物のイメージとして民間信仰的なレベルに落とし込まれている。子供の目線から見た聖母像の記憶として、神学的図像が素朴な驚嘆とともに提示される。"
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "ce reposoir avait des airs d'autel,",
+      "body": "「この聖体安置台（reposoir）が祭壇（autel）の趣を漂わせる」──「reposoir」はカトリック典礼における聖体行列の際に聖体容器を一時的に安置する台。「repos（休息）」という語根を持ち、「安らぎの場所」という意味も含意する。部屋がreposoir＝祭壇という聖別された空間へと変容する過程が、この第3連全体の主題。「Tant…Tant…Et tant（ほどに……ほどに……ほどに）」という三重の比較構文が、変容の段階的な進行を音楽的に演出する。ブランショ『文学の空間』における「作品の空間」──世俗的空間が聖別された空間へと変容する閾（リミナル）の経験──がここでは子供の宗教的知覚として具体化される。"
+    },
+    {
+      "paragraphId": 4,
+      "type": "commentary",
+      "anchor": "nous pleurions de voir que, malgré nos mains jointes,\nSous son manteau d'azur son cœur rouge saignait.",
+      "body": "「手を合わせているにもかかわらず、彼女の青いマントの下でその赤い心臓が血を流しているのを見て泣いた」──「malgré nos mains jointes（私たちの合わせた手にもかかわらず）」という逆接が子供の祈りの無力性を静かに告白する：手を合わせて祈っても、聖母の苦しみは止まらない。祈りの行為と苦悩の持続という逆説がこの詩全体の神学的緊張を形成する。「manteau d'azur（青いマント）」対「cœur rouge（赤い心臓）」の色彩的対比──青（天上・純潔・マリアの色）と赤（血・苦悩・受難）の対立がキアスムス的に配置される。ヴェイユ「Accepter le vide」の「苦悩の受容」の前身として：子供たちは聖母の苦悩を止めようとするのではなく、その苦悩とともに泣く──これが「afflictio（苦悩）」の共有としての祈りの原型。",
+      "targetId": "weil_accepter_le_vide",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 5,
+      "type": "commentary",
+      "anchor": "À psalmodier haut, comme des élégies,\nLes rythmiques versets des Ave Maria.",
+      "body": "「挽歌のように声高に、アヴェ・マリアの韻律ある詩句を詠唱すること（psalmodier）」──「psalmodier（詩篇を詠唱する）」という動詞が詩の自己言及的核心：詩「La Prière」それ自体がアヴェ・マリアの「韻律ある詩句（versets rythmiques）」の文学的等価物として位置づけられる。「comme des élégies（挽歌のように）」という比較が重要：子供たちはアヴェ・マリアを「哀悼歌」のように歌う──これは無意識的な予型で、マリアへの祈りが「死者への挽歌」という文脈に接近する。詩篇129「De profundis」（深き淵より）の「深淵から神へ向かう声（de profundis clamavi）」という嘆きの詩篇的形式と、アヴェ・マリアの讃美が「élégies」という語の下で融合する。",
+      "targetId": "hieronymus_psalm_129",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 6,
+      "type": "commentary",
+      "anchor": "Et les lits qui flottaient dans ces lumières d'ambre\nSemblaient de grands bateaux sur un fleuve qui dort.",
+      "body": "「琥珀の光の中に漂う寝床は、眠れる川の上の大きな船のように見えた」──本詩の中心的比喩。寝床→大船、部屋の灯火→琥珀の川の光という二重の変換によって、就寝という行為が「川の旅の出発」として視覚化される。「fleuve qui dort（眠れる川）」──川が眠る・漂うという擬人化がコヘレト第1章v.7「Omnia flumina intrant in mare（すべての川は海へと入る）」の循環する川と対照される：コヘレトの川は「海へと目的論的に流れる」のに対し、ローデンバックの川は「眠る」──到着点のない静止した漂流。ローデンバック「水の心臓（Cœur de l'eau）」の静水の詩学──水が流れず湛えられる状態として詩的に完成される水のイメージ──と連続する。",
+      "targetId": "rodenbach_coeur_de_leau",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 7,
+      "type": "commentary",
+      "anchor": "Et quand nous nous couchions, commençait le voyage,\nLe voyage idéal vers le paradis bleu !",
+      "body": "「私たちが横になると、旅が始まった、青い楽園への理想の旅が！」──詩の結語として「眠り」と「死」と「楽園への旅」が三重に重なる。「voyage idéal（理想の旅）」は現実の旅行ではなく、眠りの中の夢想的移動：子供の就寝が「死への穏やかな準備」として提示される。「paradis bleu（青い楽園）」──第4連「manteau d'azur（青いマント）」との色彩的連続：マリアの青いマントが天国の青へと展開される。「Des anges descendaient nous servir d'équipage（天使たちが乗組員として降りてきた）」──「Les Jardins」末連の「ローマの鐘が流刑から戻る」という完全な帰還に対して、「La Prière」では「天使たちが降りてくる」という到来のイメージ。「gestes d'adieu（別れのしぐさ）」という結語が眠りを「死の反復」として静かに定義する：子供たちは毎晩「別れを告げながら」眠りにつく──これが幼年期の宗教的習慣の根底にある「死の予行練習」という詩的認識。ヴェイユ「Décréation（脱創造）」の「被造物から非被造物への移行」の、子供の眠りという最も日常的な形として読める。",
+      "targetId": "weil_decreation",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 7,
+      "type": "intertextual",
+      "anchor": "Et nous nous endormions dans des gestes d'adieu.",
+      "body": "「私たちは別れのしぐさの中で眠りについた」──ローデンバック「忘却（L'Oubli）」との深い照応：「L'Oubli」が「忘却」を死の先取りとして歌うのに対し、「La Prière」では「眠り」が同じ機能を果たす。コヘレト第1章v.11「先のことどもの記憶はない……後に来るものたちの記憶もないであろう（Non est priorum memoria）」という記憶の消去が、ここでは眠りという毎夜の忘却として生きられる。ヨブ記第1章v.21「Nudus egressus sum de utero matris meae, et nudus revertar（裸で出た、裸で戻ろう）」という誕生と死の対称が、「眠りにつく＝別れを告げる」というローデンバックの幼年の儀式において、日々の微細な死として反復される。",
+      "targetId": "rodenbach_loubli",
+      "targetParagraphId": null
+    }
+  ]
+}
