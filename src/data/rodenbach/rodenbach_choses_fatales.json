@@ -1,0 +1,131 @@
+{
+  "id": "rodenbach_choses_fatales",
+  "title": "Choses fatales",
+  "author": "Georges Rodenbach",
+  "source": "La Jeunesse blanche, Eugène Fasquelle – Bibliothèque Charpentier, 1913, p. 75–76. Wikisource: https://fr.wikisource.org/wiki/La_Jeunesse_blanche_(1913)/Choses_fatales",
+  "year": "1913",
+  "firstPublication": "La Jeunesse blanche, Eugène Fasquelle – Bibliothèque Charpentier, 1913",
+  "difficulty": "上級",
+  "category": "rodenbach",
+  "originalLang": "fr-FR",
+  "modernRelevance": "★★★★★",
+  "context": "ローデンバック（Georges Rodenbach, 1855–1898）の詩集『白い青春（La Jeunesse blanche）』（1913年版）所収。「Douceur du souvenir」の直後に置かれ、詩集の恋愛的省察の哲学的頂点を構成する正規ソネット。ABBA / ABBA（二四行詩）＋ CCD / EED（二三行詩）のペトラルカ式ソネット14行、全行12音節アレクサンドラン。詩全体が問いの連鎖として構造される：「愛したのか、それとも気まぐれか（L'ai-je jamais aimée ou n'est-ce qu'un léger Caprice）」→「彼女を愛したのか、愛（という観念）を愛したのか（Est-ce elle que j'aimais ou l'amour）」→「信じていると知っているか、愛していると知っているか（Est-ce qu'on sait qu'on croit ? Est-ce qu'on sait qu'on aime ?)」→「夢を生きるのか、人生を夢見るのか（Est-ce qu'on vit son rêve, ou rêve-t-on sa vie ?)」──四段階の問いが、個人的疑念から普遍的存在論的問いへと拡大していく。最終行「Est-ce qu'on vit son rêve, ou rêve-t-on sa vie ?（夢を生きるのか、それとも人生を夢見るのか）」はVANITISMEのローデンバックコーパス全体の結語的命題として機能する：コヘレト的「afflictio spiritus」の詩的最終定式、ブランショ的「エクリチュールと存在の不分離」の象徴主義的先行形。",
+  "keywords": [
+    "choses fatales",
+    "caprice",
+    "âme palais noir",
+    "rêve",
+    "vie",
+    "montagne gravie",
+    "plateau sans fleurs",
+    "drapeau",
+    "floraisons",
+    "self-ignorance"
+  ],
+  "relatedTexts": [
+    "rodenbach_douceur_du_souvenir",
+    "rodenbach_refrain_triste",
+    "rodenbach_l_absence",
+    "rodenbach_loubli",
+    "rodenbach_fin_du_reve",
+    "rodenbach_du_silence",
+    "rodenbach_lacrymae_rerum",
+    "hieronymus_ecclesiastes_1",
+    "weil_accepter_le_vide",
+    "mallarme_coup_de_des"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "verses": "v.1–4",
+      "original": "L'ai-je jamais aimée ou n'est-ce qu'un léger\nCaprice qui m'a fait un moment fleurir l'âme ?\nAinsi dans les jardins, sous le soleil en flamme,\nLes floraisons d'avril que le vent fait neiger.",
+      "provisionalTranslation": "私は本当に彼女を愛したのか、それともほんの軽い\n気まぐれが一瞬魂に花を咲かせただけなのか。\nちょうど炎のような太陽の下の庭で、\n風が雪のように散らせる四月の花のように。"
+    },
+    {
+      "id": 2,
+      "verses": "v.5–8",
+      "original": "Est-ce elle que j'aimais ou l'amour ? Que m'importe,\nSi j'ai senti mon cœur pavoisé d'un drapeau,\nSi j'ai pendant un jour trouvé le ciel plus beau\nEt joui des chansons qu'on chantait à ma porte !",
+      "provisionalTranslation": "私が愛したのは彼女か、それとも愛（という観念）か。何がそれほど重要か、\nもし心に旗が飾られるのを感じたなら、\nもし一日だけでも空がより美しいと感じたなら、\nそして自分の扉で歌われていた歌を楽しんだなら！"
+    },
+    {
+      "id": 3,
+      "verses": "v.9–11",
+      "original": "L'Âme est un palais noir où l'on va tâtonnant,\nOù, sans rien pénétrer, on s'ignore soi-même ;\nEst-ce qu'on sait qu'on croit ? Est-ce qu'on sait qu'on aime ?",
+      "provisionalTranslation": "魂とは暗い宮殿、そこを人は手探りで歩く、\n何も見通せず、自分自身を知らずにいる場所。\n自分が信じていると知っているか。自分が愛していると知っているか。"
+    },
+    {
+      "id": 4,
+      "verses": "v.12–14",
+      "original": "Sur le plateau sans fleurs où je suis maintenant,\nJe songe en revoyant la montagne gravie :\nEst-ce qu'on vit son rêve, ou rêve-t-on sa vie ?",
+      "provisionalTranslation": "今私がいる花のない高原の上で、\n登り終えた山を見返しながら私は思う。\n夢を生きるのか、それとも人生を夢見るのか。"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "L'ai-je jamais aimée ou n'est-ce qu'un léger\nCaprice qui m'a fait un moment fleurir l'âme ?",
+      "body": "「私は本当に彼女を愛したのか、それともほんの軽い気まぐれが一瞬魂に花を咲かせただけなのか」──詩全体の連鎖的問いの第一段。「jamais aimée（本当に愛したのか）」という過去の感情の真正性への疑念。「léger Caprice（軽い気まぐれ）」──「Chanteuse d'oubli」§1の「bohémienne（ボヘミアン女）」として定義された愛の軽さ・流浪性と連続する：愛が「気まぐれ」であったとすれば、それは「Chanteuse d'oubli」の擬人像の自然的本性の反映。「fleurir l'âme（魂に花を咲かせる）」──「Mysticisme」§1の「des choses douces et blanches（白く柔らかなもの）」・「fleurs pascales（復活祭の花）」という花の系列が、ここで「魂の一瞬の開花」として内面化される。しかし「un moment（一瞬）」という時間的限定が開花の儚さを強調する。コヘレト第1章v.2「Vanitas vanitatum（虚無の虚無）」のヘブライ語原義「havel（息・一瞬で消える蒸気）」が、「léger Caprice」という感情の揮発性として詩的に変容される。",
+      "targetId": "hieronymus_ecclesiastes_1",
+      "targetParagraphId": 2
+    },
+    {
+      "paragraphId": 1,
+      "type": "prosody",
+      "anchor": "Ainsi dans les jardins, sous le soleil en flamme,\nLes floraisons d'avril que le vent fait neiger.",
+      "body": "韻律と形式：正規ペトラルカ式ソネット14行、12音節アレクサンドランABBA / ABBA / CCD / EED。本詩集中「Charme du passé」・「Douceur du souvenir」に続く三つ目の正規ソネット形式。「Choses fatales（宿命的なもの）」というタイトルが詩集の恋愛的省察の「宿命性」を定式化する：恋愛の疑念・自己不可知・問いの連鎖が「fatales（宿命的な）」という形容詞によって必然の事態として受け入れられる。「Les floraisons d'avril que le vent fait neiger（風が雪のように散らせる四月の花）」──「Les Jardins」§1の「roses oubliées（忘れられた薔薇）」・「Fin du rêve」§6の「fleurs de fer（鉄の花）」という詩集の花のモチーフの変奏として：四月の花が「雪のように（neiger）」散るという共感覚的比喩が、花の白さ・雪の白さ・消滅の速さを一行に凝縮する。詩集タイトル「白い青春（La Jeunesse blanche）」の「白」が、ここで「散る花の白・雪の白」として最終的に回帰する。",
+      "targetId": "rodenbach_les_jardins",
+      "targetParagraphId": 1
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "Est-ce elle que j'aimais ou l'amour ? Que m'importe,\nSi j'ai senti mon cœur pavoisé d'un drapeau,",
+      "body": "「私が愛したのは彼女か、それとも愛（という観念）か。何がそれほど重要か、もし心に旗が飾られるのを感じたなら」──詩の哲学的核心命題の一つ。「Est-ce elle que j'aimais ou l'amour ?（彼女を愛したのか、愛を愛したのか）」はロマン主義・象徴主義の愛の詩学を貫く根本的問い：個別の対象（elle）への愛か、愛という観念・理想への愛か。「Monna Innominata」序文でクリスティーナ・ロセッティが「Beatriceは詩人によって定義された存在になった」と批判した問題の逆側：ローデンバックは愛する主体として「彼女か愛か」を問い、ロセッティは愛される客体として「沈黙を与えられた女か自ら語る女か」を問う。「Que m'importe（何がそれほど重要か）」という反語的断念が問いを超えて感覚的事実へと着地する：答えは不要であり、体験そのものが価値を持つという転換。「cœur pavoisé d'un drapeau（心に旗が飾られる）」──「pavoiser（旗で飾る）」は祝典・勝利の際の旗飾りを指す動詞：愛が心を「勝利の宮殿」として飾る一日という祝祭的感覚。",
+      "targetId": "rossetti_monna_innominata",
+      "targetParagraphId": 0
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "Si j'ai pendant un jour trouvé le ciel plus beau\nEt joui des chansons qu'on chantait à ma porte !",
+      "body": "「もし一日だけでも空がより美しいと感じたなら、そして自分の扉で歌われていた歌を楽しんだなら！」──「pendant un jour（一日だけ）」という時間的限定が「Douceur du souvenir」§4の「S'il eût été plus long aurait été moins doux（長く続いていたならより甘くなかった）」という哲学と連続する：短さ・一日性が愛の価値を損なわない。「le ciel plus beau（空がより美しい）」という知覚的変容が愛の現象学的定義として提示される：愛は世界の知覚を変える──これがローデンバックにとっての「愛の存在証明」。「des chansons qu'on chantait à ma porte（自分の扉で歌われていた歌）」──「Chanteuse d'oubli」の「chanteuse（歌手）」・「Litanies」の「Sanctus」・「Premiers beaux vers」の「vers de Lamartine」という詩集全体の「歌（chanson）」のモチーフの回帰：愛が一日だけ扉の前で歌を与えた、という形象。"
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "L'Âme est un palais noir où l'on va tâtonnant,\nOù, sans rien pénétrer, on s'ignore soi-même ;",
+      "body": "「魂とは暗い宮殿、そこを人は手探りで歩く、何も見通せず、自分自身を知らずにいる場所」──詩全体の哲学的核心として§3の第一・二行が「魂の不可知性」を定式化する。「palais noir（暗い宮殿）」：魂が「宮殿（palais）」という広大・複雑・迷宮的な建築として提示される。「L'Âme」の大文字化が魂を固有の存在論的実体として神格化する。「on va tâtonnant（手探りで歩く）」──「tâtonner」は視覚なしに触覚のみで進む動作：「Nocturne」§5の「mes yeux fatigués（疲れた目）」が外部の鋳鉄の花を「掴もうとした」のに対し、ここでは内部の魂という空間が視覚的に不可透過として提示される。「on s'ignore soi-même（自分自身を知らずにいる）」──デルフォイの「汝自身を知れ（γνῶθι σεαυτόν）」の根本的否定：自己認識は不可能であるという西洋哲学の暗黙の前提への詩的反論。ブランショ『文学の空間』の「書くことは自分を知ることを諦めること」という命題の詩的先行形として読める。モーリス・ブランショ的な文脈では「palais noir」は「文学の夜（la nuit de la littérature）」の内部空間──光なき空間で言語が手探りに進む場所として。"
+    },
+    {
+      "paragraphId": 3,
+      "type": "glossary",
+      "anchor": "Est-ce qu'on sait qu'on croit ? Est-ce qu'on sait qu'on aime ?",
+      "body": "「自分が信じていると知っているか。自分が愛していると知っているか」──ソネットの「旋回（volta）」に相当する三行詩第一連の最終行として、二つの平行した認識論的問いが置かれる。「Est-ce qu'on sait qu'on croit（自分が信じていると知っているか）」：信仰の自己認識可能性への問い──「croire（信じる）」という動詞がカトリック的信仰の語彙を持ち、「La Prière」・「Litanies」の宗教的体験への遡及的疑念として機能する。「Est-ce qu'on sait qu'on aime（自分が愛していると知っているか）」：§1「L'ai-je jamais aimée（本当に愛したのか）」の個人的問いが、「on（人は一般に）」という不定代名詞の使用によって普遍的命題へと拡大される。信仰と愛という人間の内的確信の二大領域における自己不可知性の宣言：どちらも「知る（savoir）」ことができない内的状態として並置される。ヨブ記第9章v.1「nescit homo utrum amore an odio dignus sit（人間は自分が愛されるに値するか憎まれるに値するかを知らない）」の「自己不可知性」がここで詩的に先取りされる。",
+      "targetId": "hieronymus_iob_1",
+      "targetParagraphId": 9
+    },
+    {
+      "paragraphId": 4,
+      "type": "commentary",
+      "anchor": "Sur le plateau sans fleurs où je suis maintenant,\nJe songe en revoyant la montagne gravie :",
+      "body": "「今私がいる花のない高原の上で、登り終えた山を見返しながら私は思う」──「Douceur du souvenir」§3の「au pied du mont, quand la flore est cueillie（山の麓で、草花が摘み取られた時）」という山の比喩が、ここで「plateau sans fleurs（花のない高原）」へと変換される：麓（低い到達点）から高原（高い到達点だが花のない場所）へ。「sans fleurs（花のない）」という形容が詩集全体の「花」のモチーフの最終的な消滅として機能する：「Les Jardins」の「roses oubliées」→「floraisons d'avril」→「plateau sans fleurs」という花の衰退曲線の終着点。「en revoyant la montagne gravie（登り終えた山を見返しながら）」──「gravie（登り終えた）」という完了過去分詞が愛の登攀の完了・不可逆性を定立する。「Je songe（私は思う）」──詩集全体を通じた「songer（思う・夢想する）」という動詞の反復：「Les Jardins」§2「On songe avec tristesse（悲しみとともに思う）」・「La Prière」の記憶的回顧・「Premiers beaux vers」§1「tout songeurs（夢想しながら）」の系列が、最終的な「Je songe」へと収束する。"
+    },
+    {
+      "paragraphId": 4,
+      "type": "commentary",
+      "anchor": "Est-ce qu'on vit son rêve, ou rêve-t-on sa vie ?",
+      "body": "「夢を生きるのか、それとも人生を夢見るのか」──詩集「白い青春」における恋愛的省察の最終命題であり、ローデンバックのVANITISMEコーパス全体の結語的問い。キアスムス（交叉配列法）：「vit son rêve（夢を生きる）」↔「rêve sa vie（人生を夢見る）」という語の交差が、現実と夢想の区別の消滅を修辞的に実演する。コヘレト第1章v.9「Quid est quod fuit? Ipsum quod futurum est（あったものはこれから来るもの）」の「過去と未来の循環的同一性」が、ここでは「現実と夢の循環的同一性」として詩的に変容される：経験したことが夢であったのか、夢見たことが現実であったのか──区別は不可能。マラルメ「骰子一擲（Un coup de dés）」の「いかなる思考も骰子の一擲を廃棄しない（Un coup de dés jamais n'abolira le Hasard）」という偶然性と必然性の弁証法が、ここでは「rêve / vie」の弁証法として象徴主義詩学の最も簡潔な形式で定式化される。ブランショ『文学の空間』の「書くことは生きることか、それとも生きることが書くことか」という問いと構造的に同一。",
+      "targetId": "mallarme_coup_de_des",
+      "targetParagraphId": 10
+    },
+    {
+      "paragraphId": 4,
+      "type": "intertextual",
+      "anchor": "Est-ce qu'on vit son rêve, ou rêve-t-on sa vie ?",
+      "body": "「夢を生きるのか、それとも人生を夢見るのか」──ヴェイユ「Accepter le vide（真空を受容する）」§1の「恩寵が入れるのはそれを受け取る空虚がある場所だけ」という命題との照応：「palais noir（暗い宮殿）」としての魂という「空虚（vide）」が、夢と現実の区別が溶解する場所として恩寵の前提条件となりうるか──という問いとして。クリスティーナ・ロセッティ「Monna Innominata」ソネットIIIの「To die were surely sweeter than to live（死ぬことはきっと生きるより甘いはず）/ Though there be nothing new beneath the sun（太陽の下に新しいものは何もないとはいえ）」という夢・死・生の弁証法との照応：ロセッティが「夢の中でのみ一致できる」という現実への諦念を語るのに対し、ローデンバックは「夢を生きるか人生を夢見るか」という問いの形式そのものの宙吊りとして詩を閉じる──答えを与えず問いの形式を存在様式として提示する点が象徴主義詩学の本質的な身振り。",
+      "targetId": "rossetti_monna_innominata",
+      "targetParagraphId": 3
+    }
+  ]
+}
