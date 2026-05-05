@@ -1,0 +1,125 @@
+{
+  "id": "rodenbach_refrain_triste",
+  "title": "Refrain triste",
+  "author": "Georges Rodenbach",
+  "source": "La Jeunesse blanche, Eugène Fasquelle – Bibliothèque Charpentier, 1913, p. 67–68. Wikisource: https://fr.wikisource.org/wiki/La_Jeunesse_blanche_(1913)/Refrain_triste",
+  "year": "1913",
+  "firstPublication": "La Jeunesse blanche, Eugène Fasquelle – Bibliothèque Charpentier, 1913",
+  "difficulty": "中級",
+  "category": "rodenbach",
+  "originalLang": "fr-FR",
+  "modernRelevance": "★★★★☆",
+  "context": "ローデンバック（Georges Rodenbach, 1855–1898）の詩集『白い青春（La Jeunesse blanche）』（1913年版）所収。アルフレッド・ド・ミュッセ（Alfred de Musset, 1810–1857）の詩句「L'absence ni le temps ne sont quand on aime（愛している時、不在も時間も存在しない）」をエピグラフとして冠する12行詩（3連×4行）。ミュッセの楽観的な恋愛格言を引用しながら、詩本文はその格言が「嘘（mensonge）」であることを告白するという逆説的構造。第1連：エピグラフの「美しい詩句（le beau vers）」が嘘だと知りながら、その「幸せな嘘（heureux mensonge）」に魅了されていたという告白。第2連：「不在（l'absence）」を「生きた死（mort vivante）」として定義し、家が喪に服しながら窓が太陽に微笑むという内外の分裂を提示。第3連：「時間（le temps）」が常に流れながら、愛が「不滅の百合（lis immortel）」として未来へと生き延びるという逆説的な希望が条件法で語られる。「Fin du rêve」の「彼女は去っていった」という喪失の事実的記述から、「Refrain triste」の「不在と時間」という抽象的命題への移行として、両詩が恋愛の喪失を異なる次元で扱う対詩として機能する。",
+  "keywords": [
+    "absence",
+    "temps",
+    "mensonge",
+    "mort vivante",
+    "deuil",
+    "lis immortel",
+    "refrain",
+    "songe",
+    "Musset",
+    "avenir glacé"
+  ],
+  "relatedTexts": [
+    "rodenbach_fin_du_reve",
+    "rodenbach_nocturne",
+    "rodenbach_loubli",
+    "rodenbach_charme_du_passe",
+    "rodenbach_lacrymae_rerum",
+    "rodenbach_les_femmes_tristes",
+    "rodenbach_du_silence",
+    "hieronymus_ecclesiastes_1",
+    "hieronymus_iob_1",
+    "weil_accepter_le_vide"
+  ],
+  "paragraphs": [
+    {
+      "id": 0,
+      "verses": "epigraph",
+      "original": "L'absence ni le temps ne sont quand on aime\n— MUSSET",
+      "provisionalTranslation": "愛している時、不在も時間も存在しない\n── ミュッセ"
+    },
+    {
+      "id": 1,
+      "verses": "v.1–4",
+      "original": "L'absence ni le temps ! Et cependant c'était ―\nNous le sentions déjà ― c'était la fin du songe ;\nMais sans nous avouer que le beau vers mentait\nNous nous laissions charmer par cet heureux mensonge.",
+      "provisionalTranslation": "不在も時間も存在しない！ しかしそれはすでに──\n私たちはすでに感じていた──夢の終わりだった。\nしかし美しい詩句が嘘をついていると自分たちに認めることなく、\n私たちはこの幸せな嘘に魅了されるままでいた。"
+    },
+    {
+      "id": 2,
+      "verses": "v.5–8",
+      "original": "L'absence, mort vivante ! Oh ! la pire des morts !\nÊtre mort l'un pour l'autre et vivre pour le monde !\nLa maison est en deuil, mais sourit au dehors\nPar les yeux des carreaux que le soleil inonde.",
+      "provisionalTranslation": "不在よ、生きた死よ！ ああ、最もひどい死よ！\nお互いにとって死んでいながら、世のために生きること！\n家は喪に服しているが、外には微笑む、\n太陽が溢れる窓のガラスの目を通して。"
+    },
+    {
+      "id": 3,
+      "verses": "v.9–12",
+      "original": "Le temps ! le temps qui va toujours, jamais lassé !\nMais nous redresserions, vainqueur de toutes choses,\nNotre amour survivant sur l'avenir glacé\nComme un lis immortel dans le décès des roses !",
+      "provisionalTranslation": "時間よ！ 常に流れ続け、決して疲れない時間よ！\nしかし私たちは立て直すだろう、あらゆるものに打ち勝って、\n凍りついた未来の上に生き残る私たちの愛を、\n薔薇の死の中で不滅の百合のように！"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 0,
+      "type": "commentary",
+      "anchor": "L'absence ni le temps ne sont quand on aime\n— MUSSET",
+      "body": "エピグラフ：アルフレッド・ド・ミュッセ（Alfred de Musset, 1810–1857）の詩句。ミュッセはフランスロマン主義の詩人・劇作家で、ジョルジュ・サンドとの激烈な恋愛体験を『世紀児の告白（La Confession d'un enfant du siècle）』（1836）等で文学化した。「L'absence ni le temps ne sont quand on aime（愛している時、不在も時間も存在しない）」というエピグラフは、愛が不在と時間を超越するという楽観的なロマン主義的命題。詩本文がこの引用の第一語「L'absence」・第三主要語「le temps」を各連の冒頭に反復することで（§1「L'absence ni le temps !」→§2「L'absence, mort vivante !」→§3「Le temps !」）、エピグラフの語彙を解体・批判的に再検討する構造が形成される。ローデンバックによるロマン主義への批判的対話：ミュッセの格言を「le beau vers（美しい詩句）」として引用しながら「mentait（嘘をついていた）」と批判することで、ロマン主義の恋愛的楽観主義をポスト・ロマン主義的・象徴主義的に相対化する。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "prosody",
+      "anchor": "L'absence ni le temps ! Et cependant c'était ―\nNous le sentions déjà ― c'était la fin du songe ;",
+      "body": "韻律と形式：3連×4行、12音節アレクサンドランABAB交互韻の変形ソネット（12行、sestina形式に近い）。タイトル「Refrain triste（悲しいリフレイン）」が示す通り、エピグラフの「L'absence ni le temps」という句が詩全体のリフレイン（反復句）として各連の冒頭で変形・反復される：§1「L'absence ni le temps !」（直接引用）→§2「L'absence, mort vivante !」（不在の再定義）→§3「Le temps ! le temps qui va toujours」（時間の擬人化）。ダッシュ「―」の多用：§1行1「c'était ―」・§1行2「Nous le sentions déjà ―」という二重のダッシュが発話の躊躇・自己訂正・内的対話を演出する──「Fin du rêve」の「sous les arcs triomphaux de lierre et de jasmins / que je dressais」という小文字開始の挿入行と同様、詩の表面を破る思考の露出として。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "Mais sans nous avouer que le beau vers mentait\nNous nous laissions charmer par cet heureux mensonge.",
+      "body": "「美しい詩句が嘘をついていると自分たちに認めることなく、この幸せな嘘に魅了されるままでいた」──「le beau vers（美しい詩句）」という表現がミュッセの引用を「美しい詩句」として括弧に入れ、詩的言語の「嘘の魅力（charme du mensonge）」という詩学的問いを提起する。「Premiers beaux vers」§3での「Et semblaient correspondre à nos jeunes tourments（私たちの若い苦悩に対応するかのように思われた）」という「対応（correspondre）」の幻想が、ここでは「mensonge（嘘）」として遡及的に暴露される。「heureux mensonge（幸せな嘘）」──「幸せ（heureux）」と「嘘（mensonge）」の組み合わせが詩の根本命題：詩は「幸せな嘘」であり、その嘘を知りながらも人は魅了される──これがローデンバックの象徴主義的詩学の誠実な自己告白として機能する。",
+      "targetId": "rodenbach_premiers_beaux_vers",
+      "targetParagraphId": 3
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "L'absence, mort vivante ! Oh ! la pire des morts !\nÊtre mort l'un pour l'autre et vivre pour le monde !",
+      "body": "「不在よ、生きた死よ！ ── お互いにとって死んでいながら、世のために生きること！」──「mort vivante（生きた死）」という形容矛盾（oxymoron）が「不在（l'absence）」の存在論的定義として機能する。エピグラフの「不在は存在しない」というミュッセの命題を逆転させ、「不在こそが最もひどい死（la pire des morts）」と再定義する。「Être mort l'un pour l'autre et vivre pour le monde（お互いにとって死んでいながら、世のために生きること）」──社会的存在（vivre pour le monde）と愛的存在（mort l'un pour l'autre）の分裂。ヨブ記第1章v.21「Nudus egressus sum de utero matris meae, et nudus revertar（裸で出た、裸で戻ろう）」の「世界への剥き出しの参与」に対し、ローデンバックにとって「世のために生きること」は愛の死後の虚偽的な存続として提示される。",
+      "targetId": "hieronymus_iob_1",
+      "targetParagraphId": 21
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "La maison est en deuil, mais sourit au dehors\nPar les yeux des carreaux que le soleil inonde.",
+      "body": "「家は喪に服しているが、外には微笑む、太陽が溢れる窓のガラスの目を通して」──「内部（喪・deuil）」と「外部（微笑・soleil）」の分裂。「La maison（家）」──ローデンバック「部屋の生（La Vie des Chambres）」の「魂の外在化された空間としての家」が、ここでは「喪に服した家」として現れる。「les yeux des carreaux（窓のガラスの目）」──窓が「目（yeux）」として擬人化される：家が外の世界へ向けて「微笑む眼差し」を持ちながら内部は喪に服しているという分裂した人格として提示される。「Nocturne」§2の「à travers la fenêtre（窓を通して）」という透過性の窓に対し、「Refrain triste」の窓は内外を隔てながら「太陽に溢れた外の表情」と「内なる喪」を同時に持つ──内外の乖離が窓という境界面に凝縮される。",
+      "targetId": "rodenbach_la_vie_des_chambres",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "Le temps ! le temps qui va toujours, jamais lassé !\nMais nous redresserions, vainqueur de toutes choses,",
+      "body": "「時間よ！ 常に流れ続け、決して疲れない時間よ！」──コヘレト第1章v.4「Generatio praeterit, et generatio advenit（世代は過ぎ去り、世代は来る）」の「時間の不疲惫な継続」の詩的変奏。コヘレトにおいては時間の継続が「虚無」の証拠として機能するのに対し、ローデンバックにおいては「jamais lassé（決して疲れない）」という特徴が感嘆符と共に提示され、人間の疲弊との対比として恐怖と畏敬の対象となる。「vainqueur de toutes choses（あらゆるものに打ち勝って）」という条件法──「nous redresserions（私たちは立て直すだろう）」という条件法未来が、実現の不確実性を保存しながら愛の永続を希望として語る。",
+      "targetId": "hieronymus_ecclesiastes_1",
+      "targetParagraphId": 4
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "Notre amour survivant sur l'avenir glacé\nComme un lis immortel dans le décès des roses !",
+      "body": "「凍りついた未来の上に生き残る私たちの愛を、薔薇の死の中で不滅の百合のように」──詩の最終形象として「lis immortel（不滅の百合）」対「décès des roses（薔薇の死）」という花の対比が置かれる。「roses（薔薇）」──詩集全体を通じた「薔薇」のモチーフ（「Les Jardins」§1の「roses oubliées」・「Charme du passé」§4の「gaîté des miroirs」等）が「décès des roses（薔薇の死）」として無常の花の典型として閉じる。「lis immortel（不滅の百合）」──「Mysticisme」§2の「blancheurs de magnolia（マグノリアの白さ）」の白い花との連続：白い花が純潔・永続の象徴として機能する。しかし「lis immortel」という語の矛盾──百合は現実には薔薇と同様に死ぬ花であり、「immortel（不滅の）」という形容詞は詩的夢想の産物として条件法の内側にのみ存在する。「avenir glacé（凍りついた未来）」──「Fin du rêve」の喪失に続く「frozen future」という冷却された時間イメージがヴェイユ「必然（Nécessité）」の「必然の冷たさ」と照応する。",
+      "targetId": "rodenbach_mysticisme",
+      "targetParagraphId": 2
+    },
+    {
+      "paragraphId": 3,
+      "type": "intertextual",
+      "anchor": "Comme un lis immortel dans le décès des roses !",
+      "body": "「薔薇の死の中で不滅の百合のように」──ローデンバック「涙の記憶（Lacrymae Rerum）」のウェルギリウス的「すべてに涙がある」という普遍的な哀惜が、「décès des roses（薔薇の死）」という花の死として凝縮される。コヘレト第1章v.2「omnia vanitas（すべては虚無）」の「すべて（omnia）」が、ここでは「薔薇」という美の典型の死として具体化される──しかし「lis immortel（不滅の百合）」という例外の可能性が条件法として保持される点が、コヘレトの徹底した虚無主義との差異を生む。ヴェイユ「Accepter le vide」§4「真理は死の側にある」という命題に対し、ローデンバックの「lis immortel」は「死の側に生命の例外を置く」という詩的抵抗として読める：象徴主義詩学が虚無に対して差し出す「幸せな嘘」としての不滅の花。",
+      "targetId": "rodenbach_lacrymae_rerum",
+      "targetParagraphId": null
+    }
+  ]
+}
