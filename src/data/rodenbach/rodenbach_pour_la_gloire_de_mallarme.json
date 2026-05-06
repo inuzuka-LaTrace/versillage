@@ -1,0 +1,121 @@
+{
+  "id": "rodenbach_pour_la_gloire_de_mallarme",
+  "title": "Pour la gloire de Mallarmé",
+  "author": "Georges Rodenbach",
+  "source": "La Jeunesse blanche, Eugène Fasquelle – Bibliothèque Charpentier, 1913, p. 201–202. Wikisource: https://fr.wikisource.org/wiki/La_Jeunesse_blanche_(1913)/Pour_la_gloire_de_Mallarm%C3%A9",
+  "year": "1896",
+  "firstPublication": "La Jeunesse blanche, Eugène Fasquelle – Bibliothèque Charpentier, 1913",
+  "difficulty": "上級",
+  "category": "rodenbach",
+  "originalLang": "fr-FR",
+  "modernRelevance": "★★★★★",
+  "context": "ローデンバック（Georges Rodenbach, 1855–1898）の詩集『白い青春（La Jeunesse blanche）』（1913年版）所収。「Pour le tombeau de Verlaine」の直後に置かれ、1896年の日付を持つ：マラルメ（Stéphane Mallarmé, 1842–1898）への生前の賛辞として書かれた（マラルメが死去したのはローデンバックより後の1898年）。正規ソネット14行、ABBA / ABBA / CCD / DCD（三行詩の韻型が変則）。詩全体が「C'est tout（それはすべて〜）」という定義的断言で開始し、マラルメの詩学を「神秘（mystère）」・「秘密（secret）」・「ダイヤモンドの中の太陽の雫（goutte de soleil dans un diamant noir）」・「提示せずに示唆すること（suggérer des roses thé）」・「継火台の灯（feux tournants d'un phare）」という連鎖的形象によって定義する。マラルメの詩学的核心命題「名指すことは詩の三分の四の喜びを滅ぼす……示唆すること、それが夢だ（Nommer un objet, c'est supprimer les trois quarts de la jouissance…suggérer, voilà le rêve）」（「詩と音楽について」1891年）が、「Rien qu'une rose pour suggérer des roses thé（薔薇茶を示唆するためだけの一輪の薔薇）」という詩行に凝縮される。「Pour le tombeau de Verlaine」がヴェルレーヌの詩学を「柔らかさ・ニュアンス・弱音」という感覚的語彙で定義したのに対し、「Pour la gloire de Mallarmé」はマラルメの詩学を「欠如・示唆・神秘・間欠的輝き」という認識論的語彙で定義する：二人の詩人への賛辞が象徴主義の二つの極を対称的に定式化する。",
+  "keywords": [
+    "Mallarmé",
+    "mystère",
+    "secret",
+    "suggérer",
+    "relique",
+    "phare",
+    "diamant noir",
+    "intermittence",
+    "poème",
+    "clarté"
+  ],
+  "relatedTexts": [
+    "rodenbach_pour_le_tombeau_de_verlaine",
+    "mallarme_coup_de_des",
+    "mallarme_crise_de_vers",
+    "mallarme_mystere",
+    "mallarme_herodiade_scene",
+    "mallarme_sonnet_yx",
+    "mallarme_toast_funebre",
+    "mallarme_tombeau_charles_baudelaire",
+    "rodenbach_du_silence",
+    "rodenbach_lacrymae_rerum"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "verses": "v.1–4",
+      "original": "C'est tout mystère et tout secret et toutes portes\nS'ouvrant un peu sur un commencement de soir ;\nLa goutte de soleil dans un diamant noir ;\nEt l'éclair vif qu'ont les bijoux des reines mortes.",
+      "provisionalTranslation": "それはすべて神秘とすべての秘密と、すべての扉が\n夕べの始まりへと少し開くことだ。\n黒いダイヤモンドの中の太陽の一雫。\nそして死んだ女王たちの宝飾品が持つ鮮烈な閃光。"
+    },
+    {
+      "id": 2,
+      "verses": "v.5–8",
+      "original": "Une forêt de mâts disant la mer ; des hampes\nAttestant des drapeaux qui n'auront pas été ;\nRien qu'une rose pour suggérer des roses thé ;\nEt des jets d'eau soudain baissés, comme des lampes !",
+      "provisionalTranslation": "海を語る帆柱の森。旗竿は\n存在しなかったであろう旗を証言する。\n薔薇茶を示唆するためだけの一輪の薔薇。\nそして突然低くなった噴水、ランプのように！"
+    },
+    {
+      "id": 3,
+      "verses": "v.9–11",
+      "original": "Poème ! Une relique est dans le reliquaire,\nInvisible et pourtant sensible sous le verre\nOù les yeux des croyants se sont unis en elle.",
+      "provisionalTranslation": "詩よ！ 聖遺物箱の中に聖遺物がある、\n見えないが、しかしガラスの下で感じられる、\nそこで信者たちの眼差しがその中に一つになった。"
+    },
+    {
+      "id": 4,
+      "verses": "v.12–14",
+      "original": "Poème ! Une clarté qui, de soi-même avare,\nScintille, intermittente afin d'être éternelle ;\nEt c'est, dans de la nuit, les feux tournants d'un phare !",
+      "provisionalTranslation": "詩よ！ 自らに対して吝嗇な清明が、\n永遠であるために間欠的に瞬く。\nそれは夜の中で、灯台の回転する炎だ！"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "C'est tout mystère et tout secret et toutes portes\nS'ouvrant un peu sur un commencement de soir ;",
+      "body": "「それはすべて神秘とすべての秘密と、すべての扉が夕べの始まりへと少し開くことだ」──詩の開口命題として「C'est tout（それはすべて〜）」という定義的断言が「Pour le tombeau de Verlaine」の「C'était tout（それはすべて〜だった）」の過去形に対し現在形で置かれる：マラルメは「現在進行中の問い（c'est）」として、ヴェルレーヌは「完結した過去（c'était）」として定義される時制の対照。「mystère et tout secret（神秘とすべての秘密）」──マラルメ「神秘の中の神秘について（Sur le mystère dans les lettres）」の核心語彙：マラルメにとって詩は「謎（mystère）」の維持によって成立する。「toutes portes / S'ouvrant un peu（すべての扉が少し開く）」──「un peu（少し）」という限定が重要：完全に開かず・完全に閉じない「半開きの扉」がマラルメ詩学の示唆的開示性として提示される。マラルメ「骰子一擲（Un coup de dés）」の「RIEN / N'AURA EU LIEU / QUE LE LIEU（場所以外何も起きなかっただろう）」という「何もない場所」への入口としての「半開きの扉」。「commencement de soir（夕べの始まり）」──マラルメにとっての「夕べ（soir）」は昼と夜の間の不確定な閾：「Pour le tombeau de Verlaine」の「clair de lune（月明かり）」という夜の光に対し、「commencement de soir（夕べの始まり）」という昼から夜への移行の瞬間として。",
+      "targetId": "mallarme_coup_de_des",
+      "targetParagraphId": 7
+    },
+    {
+      "paragraphId": 1,
+      "type": "prosody",
+      "anchor": "La goutte de soleil dans un diamant noir ;\nEt l'éclair vif qu'ont les bijoux des reines mortes.",
+      "body": "韻律：正規ソネット14行、12音節アレクサンドランABBA / ABBA / CCD / DCD（三行詩の韻型が通常のCDE / CDE または CDC / DCD から変形）。「Pour le tombeau de Verlaine」のCCD / EED に対し、本詩はCCD / DCD という韻型を採る：二つの追悼詩の三行詩部分の韻型の微差が形式的個性として現れる。「La goutte de soleil dans un diamant noir（黒いダイヤモンドの中の太陽の一雫）」──形容矛盾（oxymoron）：「goutte de soleil（太陽の雫）」という小さく液体的な光と「diamant noir（黒いダイヤモンド）」という硬く暗い物質の対立。マラルメ詩学における「黒（noir）と光（soleil）」の弁証法──白いページの上の黒い文字が光を内包するという逆説。「l'éclair vif qu'ont les bijoux des reines mortes（死んだ女王たちの宝飾品が持つ鮮烈な閃光）」──「reines mortes（死んだ女王たち）」はマラルメ「エロディアード（Hérodiade）」の「冷たい宝石・死の煌き」の詩学との直接的照応：死によって保存された美の「閃光（éclair）」として。",
+      "targetId": "mallarme_herodiade_scene",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "Une forêt de mâts disant la mer ; des hampes\nAttestant des drapeaux qui n'auront pas été ;\nRien qu'une rose pour suggérer des roses thé ;",
+      "body": "「海を語る帆柱の森──存在しなかったであろう旗を証言する旗竿──薔薇茶を示唆するためだけの一輪の薔薇」──詩の哲学的核心であり、マラルメの「示唆の詩学」の最も凝縮された定式。「Une forêt de mâts disant la mer（海を語る帆柱の森）」：マラルメ的な換喩（métonymie）の実践──海（全体）の代わりに帆柱（部分）を提示することで、読者が「海」を再構成する。「des drapeaux qui n'auront pas été（存在しなかったであろう旗）」──未来完了形「n'auront pas été」が不在を時制的に定式化する：旗は「過去から見た未来においても存在しなかったであろう」という完全な不在の宣言。マラルメの「欠如（l'absence）」の詩学──不在こそが詩的示唆の原動力という命題。「Rien qu'une rose pour suggérer des roses thé（薔薇茶を示唆するためだけの一輪の薔薇）」──マラルメ「詩と音楽について（Sur la poésie et la musique）」1891年の「名指すことは詩の三分の四の喜びを滅ぼす……示唆すること、それが夢だ（suggérer, voilà le rêve）」の直接的詩的翻訳：一輪（提示されたもの）で複数・全体（薔薇茶＝美の世界）を「示唆する（suggérer）」という行為がマラルメ詩学の操作として定義される。",
+      "targetId": "mallarme_mystere",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "Et des jets d'eau soudain baissés, comme des lampes !",
+      "body": "「突然低くなった噴水、ランプのように！」──マラルメ「噴水（Soupir）」の「噴水の白い哀愁（mon âme vers ton front où rêve, ô calme sœur…vers le ciel nuancé）」との照応：噴水が「突然低くなる（soudain baissés）」という動的消滅が詩の閃光的性格と結合される。「comme des lampes（ランプのように）」──「Seul」§2の「lampe vaine au fond de noirs caveaux（暗い地下室の奥の虚しいランプ）」という消耗する光に対し、マラルメの詩の「ランプ」は噴水という水の動的形象として外在化される：内部で消耗するローデンバックの孤独な灯 vs 外部に放たれて突然低くなるマラルメの動的灯。「soudain（突然）」という副詞が詩的閃光（éclair）の間欠性を先取りする：§4「intermittente afin d'être éternelle（永遠であるために間欠的に）」という結語的命題の前哨として。",
+      "targetId": "mallarme_soupir",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "Poème ! Une relique est dans le reliquaire,\nInvisible et pourtant sensible sous le verre\nOù les yeux des croyants se sont unis en elle.",
+      "body": "「詩よ！ 聖遺物箱の中に聖遺物がある、見えないが、しかしガラスの下で感じられる、そこで信者たちの眼差しがその中に一つになった」──「Poème !」という感嘆的呼格（apostrophe）が詩を「詩」へ直接呼びかけるという自己言及的身振りとして機能する：詩について語る詩が「詩よ！」と詩自体に語りかける。「relique dans le reliquaire（聖遺物箱の中の聖遺物）」──マラルメの詩篇が「見えない聖遺物（relique invisible）」として「聖遺物箱（reliquaire）」＝詩集の中に存在するという宗教的・図書学的比喩。「Invisible et pourtant sensible（見えないが、しかし感じられる）」──マラルメ詩学の認識論的核心：詩は「意味（sens）」を直接提示しないが、読者の「感受（sensible）」に働きかける。「les yeux des croyants se sont unis en elle（信者たちの眼差しがその中に一つになった）」──詩の読書を宗教的共同体の経験として定義する：「croyants（信者たち）」という語が詩の読者を「詩への信仰者」として神聖化する。マラルメ「詩の危機（Crise de vers）」の「詩は言語そのものであり、言語はある種の宗教だ」という詩学的立場の詩的変容。",
+      "targetId": "mallarme_crise_de_vers",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 4,
+      "type": "commentary",
+      "anchor": "Poème ! Une clarté qui, de soi-même avare,\nScintille, intermittente afin d'être éternelle ;\nEt c'est, dans de la nuit, les feux tournants d'un phare !",
+      "body": "「詩よ！ 自らに対して吝嗇な清明が、永遠であるために間欠的に瞬く。それは夜の中で、灯台の回転する炎だ！」──詩の結語的形象として「phare（灯台）」が置かれる。「de soi-même avare（自らに対して吝嗇な）」──「avare（吝嗇な）」という語が詩的「清明（clarté）」に適用される：マラルメの詩は光を惜しむ──完全に輝くことなく、必要最小限の光のみを放つ「吝嗇な」輝きとして。「intermittente afin d'être éternelle（永遠であるために間欠的に）」──詩の哲学的核心命題：間欠性（intermittence）が永遠性（éternité）の条件として提示される。常に輝くものは消耗するが、間欠的に瞬くものは「永遠」を手に入れる──これがマラルメの示唆の詩学の存在論的根拠として定式化される。「les feux tournants d'un phare（灯台の回転する炎）」──灯台の光が「回転する（tournants）」ことで間欠的に見えるという物理的事実が、マラルメ詩学の間欠性の最終形象として選ばれる。マラルメ「骰子一擲」の「いかなる思考も骰子の一擲を廃棄しない（Un coup de dés jamais n'abolira le Hasard）」という偶然性の持続が、「feux tournants（回転する炎）」の予測不能な間欠的閃光として詩的に先取りされる。",
+      "targetId": "mallarme_coup_de_des",
+      "targetParagraphId": 10
+    },
+    {
+      "paragraphId": 4,
+      "type": "intertextual",
+      "anchor": "Et c'est, dans de la nuit, les feux tournants d'un phare !",
+      "body": "「夜の中で、灯台の回転する炎だ！」──「Pour le tombeau de Verlaine」の結語「le ciel de Bruges（ブリュージュの空）」との対照：ヴェルレーヌ＝具体的地理的場所（ブリュージュ）、マラルメ＝抽象的物理的形象（灯台の炎）として二つの追悼詩が詩人の特徴を対称的に結語化する。「Seul」§1の「Beffroi qui sonne（鳴り響く鐘楼）」・「Douceur du souvenir」§2の「L'église a disparu, mais la cloche on l'entend（教会は消えた、しかし鐘は聞こえる）」というローデンバック自身の詩学における「夜の灯・消えた後に残る音」のモチーフが、マラルメ賛辞においては「灯台の回転する炎」という動的・宇宙的形象として外投される。コヘレト第1章v.5の「Oritur sol et occidit（太陽は昇り、沈む）」という太陽の循環が、「feux tournants（回転する炎）」という人工的・規則的な間欠光として人類の知的産物として変容される：自然の循環（コヘレト）から技術の間欠性（マラルメのphare）への転換として象徴主義詩学の「人工楽園」への欲望を読める。",
+      "targetId": "rodenbach_pour_le_tombeau_de_verlaine",
+      "targetParagraphId": 4
+    }
+  ]
+}
