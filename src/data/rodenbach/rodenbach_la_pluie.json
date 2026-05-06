@@ -1,0 +1,119 @@
+{
+  "id": "rodenbach_la_pluie",
+  "title": "La Pluie",
+  "author": "Georges Rodenbach",
+  "source": "La Jeunesse blanche, Eugène Fasquelle – Bibliothèque Charpentier, 1913, p. 89–90. Wikisource: https://fr.wikisource.org/wiki/La_Jeunesse_blanche_(1913)/La_Pluie",
+  "year": "1913",
+  "firstPublication": "La Jeunesse blanche, Eugène Fasquelle – Bibliothèque Charpentier, 1913",
+  "difficulty": "中級",
+  "category": "rodenbach",
+  "originalLang": "fr-FR",
+  "modernRelevance": "★★★★★",
+  "context": "ローデンバック（Georges Rodenbach, 1855–1898）の詩集『白い青春（La Jeunesse blanche）』（1913年版）所収。5連×5行の独自の反復リフレーン形式（quintet à refrain）：各連の第1行が第5行に反復・変奏されることで、詩全体に「雨の滴り落ちる」反復的リズムが刻まれる。「Oh ! la pluie !（ああ！ 雨よ！）」という感嘆的反復句が§1冒頭に置かれ、以降の各連が雨の異なる側面──時間の紡錘（§1）・天の喪の行列（§2）・罪悪感を通じて滴り落ちる涙（§3）・古い夢を捕らえる罠（§4）・魂を濡れた旗に変える浸透（§5）──を展開する。詩全体が「afflictio spiritus（霊の苦悩）」の気象的・物質的形象として機能する：「Seul」の孤独が「La Pluie」では雨という自然現象として外在化される。「Corbillards cahotant des cadavres d'étoiles（星の死体を運ぶ揺れる霊柩車）」（§2）・「les pleurs tombant de l'œil fermé des morts（死者の閉じた目から落ちる涙）」（§3）・「Notre âme, elle n'est plus qu'un haillon sans couleurs（私たちの魂はもはや色褪せた襤褸に過ぎない）」（§5）という三つの絶頂的形象が、VANITISME コーパスにおける「雨」を「afflictio spiritus」の宇宙的形象として確立する。",
+  "keywords": [
+    "pluie",
+    "firmament",
+    "corbillards",
+    "cadavres d'étoiles",
+    "remords",
+    "rêves anciens",
+    "filet",
+    "drapeau mouillé",
+    "haillon",
+    "âme"
+  ],
+  "relatedTexts": [
+    "rodenbach_seul",
+    "rodenbach_lacrymae_rerum",
+    "rodenbach_du_silence",
+    "rodenbach_loubli",
+    "rodenbach_paysages_de_ville",
+    "rodenbach_les_femmes_tristes",
+    "rodenbach_coeur_de_leau",
+    "hieronymus_ecclesiastes_1",
+    "hieronymus_psalm_129",
+    "verlaine_chanson_dautomne"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "verses": "v.1–5",
+      "original": "Oh ! la pluie ! oh ! la pluie ! oh ! les lentes traînées\nDe fils d'eau qu'on dévide aux fuseaux noirs du Temps\nEt qui semblent mouillés aux larmes des années,\nOh ! la pluie ! oh ! l'automne et les soirs attristants !\nOh ! la pluie ! oh ! la pluie ! oh ! les lentes traînées !",
+      "provisionalTranslation": "ああ！ 雨よ！ ああ！ 雨よ！ ああ！ 緩慢な糸の筋よ、\n時間の黒い紡錘から繰り出される水の糸、\n年月の涙で濡れているように見える、\nああ！ 雨よ！ ああ！ 秋よ、そして悲しい夕べよ！\nああ！ 雨よ！ ああ！ 雨よ！ ああ！ 緩慢な糸の筋よ！"
+    },
+    {
+      "id": 2,
+      "verses": "v.6–10",
+      "original": "Qui dira la douleur sombre du firmament,\nRoute de cimetière avec d'horribles voiles\nOù les nuages vont élégiaquement,\nCorbillards cahotant des cadavres d'étoiles.\nQui dira la douleur sombre du firmament ?",
+      "provisionalTranslation": "誰が語るだろう、天空の暗い苦悩を、\n恐ろしいヴェールをまとった墓地への道を、\nそこで雲が挽歌のように進んでいく、\n星の死体を運ぶ揺れる霊柩車として。\n誰が語るだろう、天空の暗い苦悩を。"
+    },
+    {
+      "id": 3,
+      "verses": "v.11–15",
+      "original": "Dans le deuil, dans le noir et le vide des rues,\nLa pluie, elle s'égoutte à travers nos remords\nComme les pleurs muets des choses disparues,\nComme les pleurs tombant de l'œil fermé des morts\nDans le deuil, dans le noir et le vide des rues !",
+      "provisionalTranslation": "喪の中で、道の黒さと空虚の中で、\n雨は私たちの罪悪感を通じて滴り落ちる、\n消えてしまったものたちの無言の涙のように、\n死者の閉じた目から落ちる涙のように。\n喪の中で、道の黒さと空虚の中で！"
+    },
+    {
+      "id": 4,
+      "verses": "v.16–20",
+      "original": "La pluie est un filet pour nos rêves anciens !\nEt, dans ses mailles d'eau qui leur font prisonnières\nLes ailes, ces divins oiseaux musiciens\nMeurent très longuement d'un regret de lumières.\nLa pluie est un filet pour nos rêves anciens.",
+      "provisionalTranslation": "雨は私たちの古い夢のための罠だ！\nそして、翼を囚えにする水の目の中で、\nあの神聖な音楽的な鳥たちが、\n光への後悔でとても長い間かけて死んでいく。\n雨は私たちの古い夢のための罠だ。"
+    },
+    {
+      "id": 5,
+      "verses": "v.21–25",
+      "original": "Comme un drapeau mouillé qui pend contre sa hampe,\nNotre âme, quand la pluie éveille ses douleurs,\nQuand la pluie, en hiver, la pénètre et la trempe,\nNotre âme, elle n'est plus qu'un haillon sans couleurs\nComme un drapeau mouillé qui pend contre sa hampe !",
+      "provisionalTranslation": "旗竿に垂れ下がる濡れた旗のように、\n私たちの魂は、雨がその苦しみを目覚めさせる時、\n冬に、雨が魂に浸透し浸す時、\n私たちの魂はもはや色褪せた襤褸に過ぎない、\n旗竿に垂れ下がる濡れた旗のように！"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "prosody",
+      "anchor": "Oh ! la pluie ! oh ! la pluie ! oh ! les lentes traînées\nDe fils d'eau qu'on dévide aux fuseaux noirs du Temps",
+      "body": "詩形式：5連×5行の「リフレーン五行詩（quintet à refrain）」──各連の第1行が第5行に反復（§1・§4・§5は感嘆符付き、§2・§3は平叙文として）されるという独自の形式。この「第1行＝第5行」の反復が雨粒の滴り落ちる反復運動を詩の形式として実演する。韻型：ABABА の変形（第5行が第1行の反復）。「fils d'eau qu'on dévide aux fuseaux noirs du Temps（時間の黒い紡錘から繰り出される水の糸）」──「dévider aux fuseaux（紡錘から繰り出す）」という紡織の比喩が雨を「時間が紡ぐ糸」として形象化する。「fuseaux noirs du Temps（時間の黒い紡錘）」という擬人化が「Temps（時間）」を黒い紡ぎ女として提示する：コヘレト第1章v.4「Generatio praeterit, et generatio advenit（世代は過ぎ去り、世代は来る）」の時間の連続が、ここでは「黒い紡錘」という物質的・暗鬱な形象として変容される。「lentes traînées（緩慢な糸の筋）」──「Fin du rêve」§4の「Les chants du carillon…S'effeuillaient dans le vent（鐘の歌が風の中で散っていった）」の「散逸」に対し、「lentes traînées（緩慢な筋）」は下降・垂直の持続的線として雨を定義する。",
+      "targetId": "hieronymus_ecclesiastes_1",
+      "targetParagraphId": 4
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "Route de cimetière avec d'horribles voiles\nOù les nuages vont élégiaquement,\nCorbillards cahotant des cadavres d'étoiles.",
+      "body": "「恐ろしいヴェールをまとった墓地への道を、そこで雲が挽歌のように進んでいく、星の死体を運ぶ揺れる霊柩車として」──詩集全体における最も壮大・衝撃的な形象の一つ。「Corbillards cahotant des cadavres d'étoiles（星の死体を運ぶ揺れる霊柩車）」：雲＝霊柩車、星＝死体という二重の変換が天空を「墓地への葬列（cortège funèbre）」として再定義する。「cahotant（揺れる）」という擬音的動詞が霊柩車の不規則な揺れを音響化する。「élégiaquement（挽歌のように）」という副詞が§4の「ces divins oiseaux musiciens（神聖な音楽的な鳥たち）」・詩集全体の「音楽」のモチーフを「挽歌（élégie）」という哀悼的音楽として収束させる。コヘレト第1章v.5「Oritur sol et occidit（太陽は昇り、沈む）」の太陽の循環的運行が、ここでは「cadavres d'étoiles（星の死体）」という一回的・非循環的な星の死として転覆される：コヘレト的循環の否定として。詩篇129「De profundis（深き淵より）」の「深淵」が天上にも存在する──墓地としての空という逆説的形象として。",
+      "targetId": "hieronymus_psalm_129",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "La pluie, elle s'égoutte à travers nos remords\nComme les pleurs muets des choses disparues,\nComme les pleurs tombant de l'œil fermé des morts",
+      "body": "「雨は私たちの罪悪感を通じて滴り落ちる、消えてしまったものたちの無言の涙のように、死者の閉じた目から落ちる涙のように」──詩の三連に最も深い倫理的・存在論的形象が集中する。「s'égoutte à travers nos remords（罪悪感を通じて滴り落ちる）」──「à travers（〜を通じて）」という前置詞が雨と「remords（罪悪感・後悔）」を浸透的に接続する：雨が「私たちの罪悪感という媒介を通じて」内側へと滴り落ちる──物理的な外部現象が心理的・道徳的内部へと浸透する。「Refrain triste」§1の「à travers un remords（悔恨を通じて）」という「remords」の再登場：両詩における「remords」が過去の喪失への道徳的苦悩として連続する。「les pleurs tombant de l'œil fermé des morts（死者の閉じた目から落ちる涙）」──「閉じた目（l'œil fermé）」という形象が死後の涙という不可能なものを可能として提示する：死者は目を閉じているが、なお泣く──記憶・残滓・哀悼の超個人的な持続として。ヨブ記第1章v.20「tonso capite corruens in terram adoravit（頭を剃り、地に倒れ伏して礼拝した）」という喪の身体的表現が、ここでは「閉じた目からの涙」という死後の喪として変容される。",
+      "targetId": "hieronymus_iob_1",
+      "targetParagraphId": 20
+    },
+    {
+      "paragraphId": 4,
+      "type": "commentary",
+      "anchor": "La pluie est un filet pour nos rêves anciens !\nEt, dans ses mailles d'eau qui leur font prisonnières\nLes ailes, ces divins oiseaux musiciens\nMeurent très longuement d'un regret de lumières.",
+      "body": "「雨は私たちの古い夢のための罠だ！──翼を囚えにする水の目の中で、あの神聖な音楽的な鳥たちが、光への後悔でとても長い間かけて死んでいく」──詩の最も象徴主義的な形象が集中する連。「filet（罠・網）」：雨が「古い夢を捕まえる網」として機能する──夢が雨の中に「捕えられる」という意外な方向性（雨が夢を消すのではなく、捕える）。「mailles d'eau（水の目）」：網の「目（maille）」が水の糸で編まれたものとして、詩の開口句「fils d'eau（水の糸）」を回収する。「ces divins oiseaux musiciens（神聖な音楽的な鳥たち）」──「Mysticisme」§2の「âmes des oiseaux（鳥の魂）」・「Litanies」§4の「musiques vagues（漠然とした音楽）」という音楽的鳥のモチーフが集約される：夢が「神聖な音楽的鳥」として擬人化され、雨の網に捕らわれて「光への後悔で死んでいく」。「regret de lumières（光への後悔）」──「Seul」§4の「La blanche floraison de son Âme divine（神聖な魂の白い花開き）」という白い光の消滅と照応：光・白・開花という詩集の肯定的形象が、ここでは「後悔（regret）」の対象として喪失される。",
+      "targetId": "rodenbach_mysticisme",
+      "targetParagraphId": 2
+    },
+    {
+      "paragraphId": 5,
+      "type": "commentary",
+      "anchor": "Comme un drapeau mouillé qui pend contre sa hampe,\nNotre âme, quand la pluie éveille ses douleurs,\nQuand la pluie, en hiver, la pénètre et la trempe,\nNotre âme, elle n'est plus qu'un haillon sans couleurs",
+      "body": "「旗竿に垂れ下がる濡れた旗のように──私たちの魂はもはや色褪せた襤褸に過ぎない」──詩の結語的形象として「drapeau mouillé（濡れた旗）」という物質的形象が魂の状態の比喩として機能する。「Choses fatales」§2の「cœur pavoisé d'un drapeau（心に旗が飾られる）」──愛の頂点において「旗が飾られた（pavoisé）」心が、「La Pluie」では「濡れた旗」として垂れ下がる：愛の祝祭（旗飾り）から雨による喪失（濡れた旗）へのモチーフの転落として詩集の弧が閉じる。「haillon sans couleurs（色褪せた襤褸）」：「魂＝旗」の比喩が最終的に「haillon（襤褸・ぼろ布）」へと劣化する──旗（尊厳・誇り・色彩）から襤褸（無尊厳・廃棄・無色）への変容。「Refrain triste」§2の「La maison est en deuil（家は喪に服している）」・「Charme du passé」§4の「nos habits sont noirs（私たちの衣服は黒い）」という詩集の「黒い衣」のモチーフが、「haillon sans couleurs（色褪せた襤褸）」として最終的に解体される。",
+      "targetId": "rodenbach_choses_fatales",
+      "targetParagraphId": 2
+    },
+    {
+      "paragraphId": 5,
+      "type": "intertextual",
+      "anchor": "Comme un drapeau mouillé qui pend contre sa hampe !",
+      "body": "「旗竿に垂れ下がる濡れた旗のように！」──ヴェルレーヌ「秋の歌（Chanson d'automne）」の「秋の長い/ヴァイオリンのすすり泣き（Les sanglots longs / Des violons / De l'automne）」という秋の音楽的哀愁が、ローデンバックの「雨・秋・悲しい夕べ（§1「l'automne et les soirs attristants」）」と直接照応する：どちらも秋・雨・悲哀という象徴主義的感覚の三角形を構成する。詩篇129「De profundis clamavi（深き淵より呼ばわる）」の「深淵からの声」が、「La Pluie」では垂れ下がる旗という視覚的沈黙として変容される：声ではなく「色褪せた襤褸」として魂が提示される──詩篇の神への呼びかけが失語的・物質的な沈黙へと帰着する。コヘレト第1章v.8「Non saturatur oculus visu, nec auris auditu impletur（目は見ることに飽くことなく、耳は聴くことで満たされることがない）」の「不飽和の感覚」が、「La Pluie」では雨という尽きることのない「afflictio spiritus（霊の苦悩）」の物質的形象として完成される。",
+      "targetId": "verlaine_chanson_dautomne",
+      "targetParagraphId": null
+    }
+  ]
+}
