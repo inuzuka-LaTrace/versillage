@@ -1,0 +1,121 @@
+{
+  "id": "rodenbach_seul",
+  "title": "Seul",
+  "author": "Georges Rodenbach",
+  "source": "La Jeunesse blanche, Eugène Fasquelle – Bibliothèque Charpentier, 1913, p. 79–80. Wikisource: https://fr.wikisource.org/wiki/La_Jeunesse_blanche_(1913)/Seul",
+  "year": "1913",
+  "firstPublication": "La Jeunesse blanche, Eugène Fasquelle – Bibliothèque Charpentier, 1913",
+  "difficulty": "上級",
+  "category": "rodenbach",
+  "originalLang": "fr-FR",
+  "modernRelevance": "★★★★★",
+  "context": "ローデンバック（Georges Rodenbach, 1855–1898）の詩集『白い青春（La Jeunesse blanche）』（1913年版）所収。「Choses fatales」の直後に置かれ、恋愛的省察の系列から「孤独（la solitude）」という存在論的条件の告白へと主題が移行する。16行の拡張ソネット変形：ABBA / ABBA（二四行詩）＋ ABBA（三つ目の四行詩）＋ CDCD（四行詩＝結語）という構成で、通常の14行ソネットに2行が加わる。詩全体が「Vivre（生きること）」・「Se sentir（感じること）」・「Être（あること）」・「Oh ! vivre ainsi !（ああ、このように生きること！）」という四つの不定詞・感嘆句の反復構造で組織される：孤独の四つの位相（都市における流刑・精神的孤立・航海の難破・死を見つめる孤独）が四連に配置される。「Et seul, seul, toujours seul, se regarder mourir !（そして独り、独り、常に独り、自分が死んでいくのを見つめること！）」という結語の「seul」の三重反復が、孤独を存在の究極的・不可逆的状態として確定する。ヨブ記第1章における「et evasi ego solus（私だけが逃れ）」という四度の反復句との深い照応。VANITISMEコーパスにおける「afflictio spiritus（霊の苦悩）」の最もローデンバック固有の詩的定式として機能する。",
+  "keywords": [
+    "seul",
+    "exil",
+    "ville qui meurt",
+    "lampe vaine",
+    "vaisseau",
+    "banquises",
+    "naufrage",
+    "floraison blanche",
+    "Âme divine",
+    "se regarder mourir"
+  ],
+  "relatedTexts": [
+    "rodenbach_choses_fatales",
+    "rodenbach_douceur_du_souvenir",
+    "rodenbach_lacrymae_rerum",
+    "rodenbach_du_silence",
+    "rodenbach_devant_tete_de_mort",
+    "rodenbach_loubli",
+    "rodenbach_paysages_de_ville",
+    "hieronymus_iob_1",
+    "hieronymus_ecclesiastes_1",
+    "weil_accepter_le_vide"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "verses": "v.1–4",
+      "original": "Vivre comme en exil, vivre sans voir personne\nDans l'immense abandon d'une ville qui meurt,\nOù jamais l'on n'entend que la vague rumeur\nD'un orgue qui sanglote ou du Beffroi qui sonne.",
+      "provisionalTranslation": "流刑のように生きること、誰にも会わずに生きること、\n死にゆく都市の広大な放棄の中で、\nそこでは聞こえるのは漠然とした噂声だけ、\n嗚咽するオルガンか、鳴り響く鐘楼だけ。"
+    },
+    {
+      "id": 2,
+      "verses": "v.5–8",
+      "original": "Se sentir éloigné des âmes, des cerveaux\nEt de tout ce qui porte au front un diadème ;\nEt, sans rien éclairer, se consumer soi-même\nTel qu'une lampe vaine au fond de noirs caveaux.",
+      "provisionalTranslation": "魂から、知性から遠ざけられていると感じること、\nそして額に冠を戴くすべてのものから。\n何も照らさずに、自ら燃え尽きること、\n暗い地下室の奥で虚しく燃える灯のように。"
+    },
+    {
+      "id": 3,
+      "verses": "v.9–12",
+      "original": "Être comme un vaisseau qui rêvait d'un voyage\nTriomphal et joyeux vers le rouge équateur\nEt qui se heurte à des banquises de froideur\nEt se sent naufrager sans laisser un sillage.",
+      "provisionalTranslation": "赤い赤道へ向けての凱旋的で喜ばしい航海を\n夢見ていた船のようにあること、\n冷淡さの氷山に衝突して、\n航跡も残さず難破しそうになるのを感じる船のように。"
+    },
+    {
+      "id": 4,
+      "verses": "v.13–16",
+      "original": "Oh ! vivre ainsi ! tout seul, tout seul ! voir se flétrir\nLa blanche floraison de son Âme divine,\nDans le dédain de tous et sans qu'aucun devine,\nEt seul, seul, toujours seul, se regarder mourir !",
+      "provisionalTranslation": "ああ！ このように生きること！ まったく独り、まったく独り！ 萎れていくのを見ること、\n自分の神聖な魂の白い花開きが、\n万人の侮蔑の中で、誰も気づかないまま、\nそして独り、独り、常に独り、自分が死んでいくのを見つめること！"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "Vivre comme en exil, vivre sans voir personne\nDans l'immense abandon d'une ville qui meurt,",
+      "body": "「流刑のように生きること、誰にも会わずに生きること、死にゆく都市の広大な放棄の中で」──詩の開口命題として不定詞「Vivre（生きること）」が二度反復される：「Vivre comme en exil（流刑のように生きること）」・「vivre sans voir personne（誰にも会わずに生きること）」。孤独を「流刑（exil）」として定義することで、孤独が選択ではなく宣告・追放として提示される。「ville qui meurt（死にゆく都市）」──ローデンバックの詩的故郷ブリュージュ（Bruges）への参照：『死都ブリュージュ（Bruges-la-Morte）』の「死んだ都市」というテーマの詩的先行形。「Fin du rêve」§6の「villes de Flandre（フランドルの都市）」・「Litanies」§1の「Beffroi（鐘楼）」との連続：ブリュージュという具体的な地理的場が「死にゆく都市」という普遍的孤独の空間として機能する。ヨブ記第1章v.15–19の「evasi ego solus（私だけが逃れ）」という四回の反復──孤独な生き残りとしてのヨブ──が、ここではローデンバックの詩人的孤独の聖書的先行形として照応する。",
+      "targetId": "hieronymus_iob_1",
+      "targetParagraphId": 15
+    },
+    {
+      "paragraphId": 1,
+      "type": "prosody",
+      "anchor": "Où jamais l'on n'entend que la vague rumeur\nD'un orgue qui sanglote ou du Beffroi qui sonne.",
+      "body": "韻律と形式：16行、12音節アレクサンドラン。通常の14行ソネットに2行が加わる拡張形式：ABBA / ABBA / ABBA / CDCD の4連構成。四つの連がそれぞれ孤独の四位相（都市における流刑・精神的孤立・航海の難破・死への傍観）を体現する。詩全体の統語的構造：§1「Vivre…」・§2「Se sentir…」・§3「Être…」という三つの不定詞（動詞の名詞化）が孤独の位相を列挙し、§4の「Oh ! vivre ainsi !」という感嘆句がその列挙を爆発的に肯定する。「orgue qui sanglote（嗚咽するオルガン）」──「Litanies」§5の「l'orgue brusquement s'enfle comme la mer（オルガンが突然海のように膨れ上がる）」という充満するオルガンに対し、ここでは「sanglote（嗚咽する）」という苦悩の音として提示される：「Litanies」の宗教的陶酔から「Seul」の孤独の嗚咽への転落。「vague rumeur（漠然とした噂声）」──「L'absence」§2の「vagues résonances（漠然とした響き）」の再登場：「vague」という形容詞が聴覚的不鮮明さとして反復される。",
+      "targetId": "rodenbach_litanies",
+      "targetParagraphId": 5
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "Et, sans rien éclairer, se consumer soi-même\nTel qu'une lampe vaine au fond de noirs caveaux.",
+      "body": "「何も照らさずに、自ら燃え尽きること、暗い地下室の奥で虚しく燃える灯のように」──「lampe vaine au fond de noirs caveaux（暗い地下室の奥で虚しく燃える灯）」という中心的形象。「vaine（虚しい）」──「vanitas vanitatum（虚無の虚無）」のラテン語「vanus/vana」と同語根：VANITISME の語源的核に触れる形容詞として、灯火の虚しさがコヘレト的「虚無」の物質的形象として機能する。「sans rien éclairer（何も照らさずに）」──照らすという灯火の本来的機能が否定される：孤独な魂は誰のためにも光を与えることができない。ヴェイユ「Accepter le vide（真空を受容する）」§1の「恩寵が入れるのはそれを受け取る空虚がある場所だけ」──「noirs caveaux（暗い地下室）」という空虚な空間が、ヴェイユ的な意味での恩寵の容器となりうるか：ローデンバックにおいてこの「vide」は恩寵の前提としてではなく、虚無の確認として提示される。「se consumer soi-même（自ら燃え尽きる）」──「Choses fatales」§3の「se consumer soi-même（自ら燃え尽きる）」と全く同一の動詞句が反復される：両詩の連続性を示す語彙的連結。",
+      "targetId": "weil_accepter_le_vide",
+      "targetParagraphId": 1
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "Être comme un vaisseau qui rêvait d'un voyage\nTriomphal et joyeux vers le rouge équateur\nEt qui se heurte à des banquises de froideur\nEt se sent naufrager sans laisser un sillage.",
+      "body": "「赤い赤道へ向けての凱旋的で喜ばしい航海を夢見ていた船のようにあること、冷淡さの氷山に衝突して、航跡も残さず難破しそうになるのを感じる船のように」──詩集中最も壮大な比喩として、詩人の孤独が「難破する船」として形象化される。「vaisseau（大船）」──「La Prière」§6の「grands bateaux sur un fleuve qui dort（眠れる川の上の大船）」という幼年期の夢想の船から、「Seul」では「難破する船（vaisseau naufrageant）」への転落：白い青春の夢の船が孤独の難破船として完成される。「vers le rouge équateur（赤い赤道へ）」──「rouge（赤）」という色彩が詩集内で珍しく積極的・情熱的な方向として機能する：「Chanteuse d'oubli」§3の「rouge tablier（赤いエプロン）」の官能的赤から、「rouge équateur」という地理的・情熱的赤へ。しかし航海はこの「赤」に到達しない。「sans laisser un sillage（航跡も残さず）」──コヘレト第1章v.11「Non est priorum memoria（先のことどもの記憶はない）」の「記憶の消滅」が、ここでは「sillage（航跡）」という航海的形象として物質化される：存在の痕跡すら残さずに消える孤独。",
+      "targetId": "hieronymus_ecclesiastes_1",
+      "targetParagraphId": 11
+    },
+    {
+      "paragraphId": 4,
+      "type": "commentary",
+      "anchor": "Oh ! vivre ainsi ! tout seul, tout seul ! voir se flétrir\nLa blanche floraison de son Âme divine,",
+      "body": "「ああ！ このように生きること！ まったく独り、まったく独り！ 萎れていくのを見ること、自分の神聖な魂の白い花開きが」──詩の感情的爆発点として「Oh !」という感嘆符が不定詞列挙を締め括る。「tout seul, tout seul（まったく独り、まったく独り）」という二重反復が最終行の「seul, seul, toujours seul（独り、独り、常に独り）」という三重反復へと拡大される：孤独の数的・音楽的強調。「La blanche floraison de son Âme divine（自分の神聖な魂の白い花開き）」──「Choses fatales」§1の「Les floraisons d'avril que le vent fait neiger（風が雪のように散らせる四月の花）」・「Mysticisme」§3の「bouquet blanc fleuri dans la serre divine（神聖な温室で咲いた白い花束）」という白い花・神聖な空間の系列の最終形：魂の白い開花が「萎れる（se flétrir）」という不可逆的衰退として確定される。「白い青春（La Jeunesse blanche）」の「白（blanche）」がここで「白い魂の花開き（blanche floraison de son Âme divine）」として詩集タイトルの最終的な自己解釈として機能する。",
+      "targetId": "rodenbach_mysticisme",
+      "targetParagraphId": 3
+    },
+    {
+      "paragraphId": 4,
+      "type": "commentary",
+      "anchor": "Et seul, seul, toujours seul, se regarder mourir !",
+      "body": "「そして独り、独り、常に独り、自分が死んでいくのを見つめること！」──詩集全体の感情的・存在論的結語として機能する最終行。「seul, seul, toujours seul（独り、独り、常に独り）」という三重反復が「孤独」を時間的・空間的・内面的に三重に確定する：現在（seul）・反復（seul）・永続（toujours seul）の三位一体として。「se regarder mourir（自分が死んでいくのを見つめる）」──「regard（見つめること）」と「mourir（死ぬこと）」の組み合わせが詩の極限命題として機能する：「Litanies」§9の「Et l'on voudrait mourir（死にたいほど）」という美的陶酔としての死への欲望に対し、「Seul」では「se regarder mourir（自分が死んでいくのを見つめる）」という冷徹な自己観察としての死が提示される──快楽としての死から苦悩としての死への転落。ヨブ記第1章v.21「Nudus egressus sum de utero matris meae, et nudus revertar（裸で出た、裸で戻ろう）」という死の受容の静けさに対し、「se regarder mourir」は死への受動的傍観という苦悩の極として対置される。",
+      "targetId": "hieronymus_iob_1",
+      "targetParagraphId": 21
+    },
+    {
+      "paragraphId": 4,
+      "type": "intertextual",
+      "anchor": "Dans le dédain de tous et sans qu'aucun devine,\nEt seul, seul, toujours seul, se regarder mourir !",
+      "body": "「万人の侮蔑の中で、誰も気づかないまま──独り、独り、常に独り、自分が死んでいくのを見つめること」──ローデンバック「骸骨の前で（Devant une Tête de mort）」の静謐な死の観照と対照：「骸骨の前で」では死が宗教的・美学的な観照の対象として距離を置いて提示されるのに対し、「Seul」では「se regarder mourir（自分が死んでいくのを見つめる）」という内省的・鏡的な死の目撃が苦悩として経験される。コヘレト第1章v.14「afflictio spiritus（霊の苦悩）」──「seul, seul, toujours seul」という三重の孤独の叫びがVANITISMEのコーパス全体における「afflictio spiritus」の最も直接的・叫喚的な詩的定式として機能する。ヴェイユ「La Violence（力）」章の「力は孤独を生み出す」という命題との照応：「Seul」の詩人は社会的・霊的な「力の不在」の中で孤独に消耗していく──ヴェイユの「力に晒される者の孤独」の審美的変容として。",
+      "targetId": "rodenbach_devant_tete_de_mort",
+      "targetParagraphId": null
+    }
+  ]
+}
