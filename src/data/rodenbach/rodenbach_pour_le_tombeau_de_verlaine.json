@@ -1,0 +1,111 @@
+{
+  "id": "rodenbach_pour_le_tombeau_de_verlaine",
+  "title": "Pour le tombeau de Verlaine",
+  "author": "Georges Rodenbach",
+  "source": "La Jeunesse blanche, Eugène Fasquelle – Bibliothèque Charpentier, 1913, p. 199–200. Wikisource: https://fr.wikisource.org/wiki/La_Jeunesse_blanche_(1913)/Pour_le_tombeau_de_Verlaine",
+  "year": "1896",
+  "firstPublication": "La Jeunesse blanche, Eugène Fasquelle – Bibliothèque Charpentier, 1913",
+  "difficulty": "上級",
+  "category": "rodenbach",
+  "originalLang": "fr-FR",
+  "modernRelevance": "★★★★★",
+  "context": "ローデンバック（Georges Rodenbach, 1855–1898）の詩集『白い青春（La Jeunesse blanche）』（1913年版）所収。1896年の日付を持つ──ヴェルレーヌ（Paul Verlaine, 1844–1896）は1896年1月8日に死去しており、本詩はその追悼詩として書かれた。ローデンバック自身も1898年に死去するため、両者はほぼ同時代のベルギー・フランス象徴主義の詩人として交流があった。正規ペトラルカ式ソネット14行（ABBA / ABBA / CCD / EED）。詩全体が「C'était（それは〜だった）」という半過去形の列挙として構造される：ヴェルレーヌの詩的世界が「douceur（柔らかさ）」・「nuance（ニュアンス）」・「sourdine（弱音）」・「musique（音楽）」・「frissons（震え）」という一連の感覚的形容詞によって定義される。VANITISMEのヴェルレーヌ作品群──「Clair de lune」・「Chanson d'automne」・「Colloque sentimental」・「Parsifal」等──の詩学的エッセンスを、ローデンバックが追悼詩として凝縮する試み。結語「Qui me l'a fait aimer comme le ciel de Bruges !（それが彼をブリュージュの空のように愛させた！）」がローデンバック自身の詩的故郷ブリュージュへの回帰として詩を閉じ、ヴェルレーヌの詩学とブリュージュの天空という異質な二者が「azur de cœur（心の大空）」という媒介語によって結合される。",
+  "keywords": [
+    "Verlaine",
+    "tombeau",
+    "douceur",
+    "sourdine",
+    "harpe",
+    "cygne",
+    "Vierge Marie",
+    "oblation",
+    "ciel de Bruges",
+    "azur"
+  ],
+  "relatedTexts": [
+    "verlaine_clair_de_lune",
+    "verlaine_chanson_dautomne",
+    "verlaine_colloque_sentimental",
+    "verlaine_parsifal",
+    "rodenbach_litanies",
+    "rodenbach_mysticisme",
+    "rodenbach_du_silence",
+    "rodenbach_la_pluie",
+    "mallarme_toast_funebre",
+    "mallarme_tombeau_charles_baudelaire"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "verses": "v.1–4",
+      "original": "C'était toute douceur et nuance et sourdine\nDe lys purs qui seraient sensitives, et d'une\nFigure de clarté qui serait clair de lune,\nFigure de Béguine ou de Visitandine.",
+      "provisionalTranslation": "それはすべて柔らかさとニュアンスと弱音器だった、\n含羞草のような純白の百合の、そしてある\n月明かりのような清明の姿の、\nベギン会修道女か訪問会修道女のような姿の。"
+    },
+    {
+      "id": 2,
+      "verses": "v.5–8",
+      "original": "C'était tout falbalas et brumes en écharpes ;\nC'était toute musique, en pleurs d'être charnelle ;\nEt frissons d'une harpe qui serait une aile ;\nCar les ailes du cygne ont la forme des harpes.",
+      "provisionalTranslation": "それはすべてフリルとスカーフのような霧だった。\nそれはすべて音楽だった、肉体であることの涙の中で。\nそして翼となった竪琴の震えだった。\nなぜなら白鳥の翼は竪琴の形をしているから。"
+    },
+    {
+      "id": 3,
+      "verses": "v.9–11",
+      "original": "Et c'était tout sincère élan d'âme marrie\nQui s'élevait d'en bas vers la Vierge Marie :\nOblation de soi, sans plus de subterfuges,",
+      "provisionalTranslation": "そしてそれはすべて、悲しんだ魂の誠実な高まりだった、\n下から聖母マリアへと昇っていく、\nもはや言い訳なしの自己の奉献だった。"
+    },
+    {
+      "id": 4,
+      "verses": "v.12–14",
+      "original": "Et réponse pieuse à tous divins reproches,\nEt tout azur de cœur, ouvert aux humbles cloches,\nQui me l'a fait aimer comme le ciel de Bruges !",
+      "provisionalTranslation": "そしてすべての神聖な叱責への敬虔な応答だった、\nそして謙虚な鐘に開かれた、すべては心の大空だった、\nそれが彼をブリュージュの空のように愛させた！"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "C'était toute douceur et nuance et sourdine\nDe lys purs qui seraient sensitives, et d'une\nFigure de clarté qui serait clair de lune,",
+      "body": "「それはすべて柔らかさとニュアンスと弱音器だった──月明かりのような清明の姿の」──詩全体の統語的骨格となる「C'était（それは〜だった）」という半過去形の反復（§1・§2・§3に計6回）がヴェルレーヌの詩学を過去の完結した世界として定義する。「douceur et nuance et sourdine（柔らかさとニュアンスと弱音器）」──ヴェルレーヌ「詩法（Art poétique）」（1874）の「何よりもまず音楽を（De la musique avant toute chose）」・「ニュアンス以外の何ものでもない（Pas la Couleur, rien que la nuance !）」という詩学的宣言の要約として機能する三語。ローデンバックはヴェルレーヌの自己定義をそのまま「柔らかさ・ニュアンス・弱音」という三語に圧縮する。「sourdine（弱音器）」──「Douceur du souvenir」§2の「Charme de la sourdine（弱音器の魅力）」・「Nocturne」§1の「en sourdine（弱音器をつけて）」という詩集内での反復語が、ここでヴェルレーヌの詩学そのものの形容として集約される。「Figure de clarté qui serait clair de lune（月明かりのような清明の姿）」──ヴェルレーヌ「月の光（Clair de lune）」（VANITISME収録）への直接的典拠参照。",
+      "targetId": "verlaine_clair_de_lune",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 1,
+      "type": "glossary",
+      "anchor": "Figure de Béguine ou de Visitandine.",
+      "body": "「ベギン会修道女（Béguine）か訪問会修道女（Visitandine）のような姿」──二つの女性修道会への参照。「Béguine（ベギン会）」：13世紀に北フランス・ベルギーで生まれた女性の半修道的共同体。正式な修道誓願を立てず、俗世と修道の中間に生きる女性たちの共同体として、ブリュージュ・ヘント等フランドルの都市に多く存在した──ローデンバックの詩的故郷ブリュージュとの地理的・文化的連続。「Visitandine（訪問会修道女）」：聖フランシスコ・サレジオと聖マリア・マドレーナ・ド・アランソンが17世紀に創設した観想修道会の女性修道士。「純白の百合が含羞草（sensitive）のような」という植物的比喩が修道女という宗教的純潔の形象と結合される：ヴェルレーヌの詩学を「触れると縮む（sensitive）ほど繊細な純白の百合」として、さらに「修道女の静謐な清明」として重層的に定義する。「Mysticisme」§8の「Bénie entre toutes les femmes（すべての女の中で祝福された）」という聖母マリアへの讃美と連続するカトリック的女性の典型として。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "C'était toute musique, en pleurs d'être charnelle ;\nEt frissons d'une harpe qui serait une aile ;\nCar les ailes du cygne ont la forme des harpes.",
+      "body": "「それはすべて音楽だった、肉体であることの涙の中で。そして翼となった竪琴の震えだった。なぜなら白鳥の翼は竪琴の形をしているから」──詩の音楽的核心。「musique, en pleurs d'être charnelle（肉体であることの涙の中での音楽）」──ヴェルレーヌの詩学における「音楽」が「肉体性（charnel）」への涙から生まれるという定義：ヴェルレーヌの現実生活での放浪・貧困・信仰と放蕩の間の揺れ動き（「肉体であることの涙」）が音楽的詩の源泉として提示される。「frissons d'une harpe qui serait une aile（翼となった竪琴の震え）」──「Chanteuse d'oubli」§2の「guitare en fleurs / Dont le manche courbé ressemble au cou des cygnes（白鳥の首に似た棹を持つ花咲くギター）」という楽器と白鳥の類比が、ここでは「竪琴＝翼」として逆方向に展開される：白鳥の翼が竪琴の形を持つという観察が詩学的格言「Car les ailes du cygne ont la forme des harpes（白鳥の翼は竪琴の形をしている）」として格言化される。ヴェルレーヌの白鳥的詩学（「Parsifal」）との直接的照応。",
+      "targetId": "verlaine_parsifal",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "Et c'était tout sincère élan d'âme marrie\nQui s'élevait d'en bas vers la Vierge Marie :\nOblation de soi, sans plus de subterfuges,",
+      "body": "「それはすべて、悲しんだ魂の誠実な高まりだった、下から聖母マリアへと昇っていく、もはや言い訳なしの自己の奉献だった」──詩の三行詩第一連（§3）がヴェルレーヌの宗教的回心・マリア崇敬という晩年の側面を定義する。「âme marrie（悲しんだ魂）」──「marrie（悲しんだ・後悔した）」という形容詞がヴェルレーヌの詩「mon Dieu m'a dit（神は私に言った）」等の回心詩に流れる悔恨の感情を一語で凝縮する。「élan d'âme…s'élevait d'en bas（下から昇る魂の高まり）」──「Mysticisme」§8の「chaste élan des âmes（魂の清らかな高まり）」・「Litanies」§7の「séraphins（熾天使）」のバンデロールという上昇のモチーフが、ここではヴェルレーヌの「下から（d'en bas）」マリアへと向かう祈りとして提示される：高さの謙虚な認識として「d'en bas（下から）」という副詞句が重要。「Oblation de soi, sans plus de subterfuges（もはや言い訳なしの自己の奉献）」──「oblation（奉献）」はカトリック典礼でミサにおいてパンとぶどう酒を神に捧げる行為を指す：ヴェルレーヌの詩的生涯全体が「自己の奉献」として宗教的に解釈される。",
+      "targetId": "rodenbach_mysticisme",
+      "targetParagraphId": 8
+    },
+    {
+      "paragraphId": 4,
+      "type": "commentary",
+      "anchor": "Et tout azur de cœur, ouvert aux humbles cloches,\nQui me l'a fait aimer comme le ciel de Bruges !",
+      "body": "「謙虚な鐘に開かれた、すべては心の大空だった、それが彼をブリュージュの空のように愛させた！」──詩の結語として「azur de cœur（心の大空）」という複合的形象が置かれる。「azur（蒼穹）」──「Charme du passé」§2の「Vers l'azur…sa jeune âme immortelle（大空へ、その若く不滅の魂は昇った）」・「Chanteuse d'oubli」§1の「ciel bleu reflété（青い空が映る）」という詩集内の「azur」モチーフが、ヴェルレーヌの心の「大空」として集約される。「ouvert aux humbles cloches（謙虚な鐘に開かれた）」──「Seul」§1の「du Beffroi qui sonne（鳴り響く鐘楼）」・「Douceur du souvenir」§2の「L'église a disparu, mais la cloche on l'entend（教会は消えた、しかし鐘は聞こえる）」という鐘のモチーフが「humbles cloches（謙虚な鐘）」として愛の謙虚さと結合される。「le ciel de Bruges（ブリュージュの空）」──詩の最終語として固有地名が現れる：ヴェルレーヌへの追悼がローデンバック自身の詩的故郷ブリュージュへの回帰として閉じる。ヴェルレーヌの詩学（柔らかさ・月明かり・音楽）とブリュージュの天空（azur・鐘・謙虚さ）が「心の大空（azur de cœur）」という媒介語によって一致する。",
+      "targetId": "rodenbach_douceur_du_souvenir",
+      "targetParagraphId": 2
+    },
+    {
+      "paragraphId": 4,
+      "type": "intertextual",
+      "anchor": "Qui me l'a fait aimer comme le ciel de Bruges !",
+      "body": "「それが彼をブリュージュの空のように愛させた」──マラルメ「ヴェルレーヌの墓（Verlaine）」（VANITISME収録 `mallarme_verlaine`）との対照：マラルメはヴェルレーヌを「素朴な笑いが人々を魅了する（le Passeur de clarte…）」として讃えるのに対し、ローデンバックはヴェルレーヌを「ブリュージュの空のような」詩人として自己の詩的故郷への愛に引き込む。二人の象徴主義者がヴェルレーヌという共通の「死者」に向かう追悼詩は対照的な詩学を示す：マラルメが「空の純潔」というヴェルレーヌの本質を宇宙的・神話的に定義するのに対し、ローデンバックは「ブリュージュの天空」という具体的・地理的な愛着として個人化する。ヴェルレーヌ「Parsifal」（VANITISME収録）の「純潔の礼賛（Parsifal a vaincu les Filles, leur gentil / Babillage, la douceur benoite de leur grace）」という「douceur（柔らかさ）」がローデンバックの追悼詩の「C'était toute douceur（それはすべて柔らかさだった）」と環を閉じる。",
+      "targetId": "mallarme_verlaine",
+      "targetParagraphId": null
+    }
+  ]
+}
