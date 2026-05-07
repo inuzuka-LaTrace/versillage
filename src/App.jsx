@@ -60,6 +60,7 @@ import catullusData from './data/catullus';
 import platoData from './data/plato';
 import meleagerData from './data/meleager';
 import palladasData from './data/palladas';
+import simonidesData from './data/simonides';
 import kavafisData from './data/kavafis';
 import mavilisData from './data/mavilis';
 import sarantarisData from './data/sarantaris';
@@ -289,6 +290,7 @@ export default function App() {
       ...platoData,
       ...meleagerData,
       ...palladasData,
+      ...simonidesData,
       ...kavafisData,
       ...mavilisData,
       ...sarantarisData,
