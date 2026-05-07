@@ -2,51 +2,106 @@
   "id": "swinburne_a_match",
   "title": "A Match",
   "author": "Algernon Charles Swinburne",
-  "source": "Poems and Ballads, First Series (1866)",
+  "source": "Poems and Ballads, First Series (1866). Wikisource: https://en.wikisource.org/wiki/Poems_and_Ballads_(Swinburne,_1866)/A_Match",
   "year": "1866",
   "firstPublication": "Poems and Ballads (Moxon, 1866)",
   "difficulty": "初級",
   "category": "swinburne",
   "originalLang": "en-GB",
   "modernRelevance": "★★★★☆",
-  "context": "「一つの対（A Match）」というタイトルは「釣り合った対」「組み合わせ」を意味し、詩全体が「もし〜ならば（If…）」という仮定法で6つの対を提示する構造をとる。各連は8行で、冒頭の仮定句（4行）の後にそれを繰り返す結句（4行）が続き、詩が民謡やマドリガルに近い音楽的反復を生む。\n\n6つの対は以下の通り：①薔薇と葉（愛とわれ）、②言葉と曲（わと愛）、③生命と死（あなたとわれ）、④悲嘆と喜び（あなたとわれ）、⑤四月の淑女と五月の主人（あなたとわれ）、⑥快楽の女王と苦痛の王（あなたとわれ）。どの対においても愛の充足は「もし〜ならば」という非現実の仮定の中にとどまり、詩は決して実現しない。最終連では「快楽の女王とわれ、苦痛の王が愛そのものを捕まえ、彼の翼の羽を抜いて、その足に歩みを教え、口に手綱をかけよう」と締めくくられ、愛のゲームを支配しようとする意志が暗示される。\n\nスウィンバーンの詩としては珍しく装飾を抑えた端正な形式美を持ち、エリザベス朝マドリガル（ダウランド、ロッキングハムなど）の「薔薇と恋人」の伝統に接続しつつ、仮定法の不可能性によってそこに切なさを加えている。'A Forsaken Garden'や'The Garden of Proserpine'の重厚な死の美学とは対照的な、スウィンバーンの軽みと音楽性を示す代表作。",
+  "context": "「A Match（対・組み合わせ）」は Algernon Charles Swinburne（1837–1909）の詩集『Poems and Ballads, First Series』（1866）所収。タイトルの「match」は「釣り合った対（a fitting pair）」を意味し、詩全体が「If…（もし〜ならば）」という仮定法の非現実条件文を各連の冒頭と末尾に置く八行連6連のリフレイン構造をとる。スウィンバーンが同詩集の中で展開する'The Garden of Proserpine'（死と安息の美学）や'Anactoria'（サッフォー的エロス）の重厚な死の美学に対して、「A Match」はエリザベス朝マドリガル（Dowland, Morley等）の「薔薇と恋人」伝統に接続する端正な音楽的軽みを持つ。六つの仮定的対は「薔薇と葉」→「言葉と旋律」→「生命と死」→「悲嘆と喜び」→「四月の淑女と五月の主人」→「快楽の女王と苦痛の王」と段階的に強度を増し、最終連において愛（Eros）を「狩り出し（hunt down）」「支配する」という逆転的意志で閉じる。全連を貫く仮定法は愛の充足が現実には「非在（non-esse）」であることを形式的に実演しており、Swinburne 詩学における愛と苦痛の不可分性がこの最も軽い詩においても構造原理として機能している。",
   "keywords": ["仮定法", "薔薇と葉", "対", "愛のゲーム", "マドリガル", "リフレイン", "快楽と苦痛"],
   "relatedTexts": [
     "swinburne_garden_of_proserpine",
     "swinburne_at_parting",
-    "swinburne_year_of_the_rose",
-    "valmore_roses"
+    "swinburne_forsaken_garden",
+    "dowson_venite_descendamus",
+    "valmore_les_roses_de_saadi"
   ],
   "paragraphs": [
     {
       "id": 1,
+      "verses": "Stanza I",
       "original": "If love were what the rose is,\nAnd I were like the leaf,\nOur lives would grow together\nIn sad or singing weather,\nBlown fields or flowerful closes,\nGreen pleasure or grey grief;\nIf love were what the rose is,\nAnd I were like the leaf.",
       "provisionalTranslation": "もし愛が薔薇であるものであり、\nわれが葉のようなものであるなら、\nわれわれの生命は一緒に育つだろう\n悲しみの中でも歌う天気の中でも、\n風に吹かれた野にも花咲く囲みにも、\n緑の喜びにも灰色の嘆きにも；\nもし愛が薔薇であるものであり、\nわれが葉のようなものであるなら。"
     },
     {
       "id": 2,
+      "verses": "Stanza II",
       "original": "If I were what the words are,\nAnd love were like the tune,\nWith double sound and single\nDelight our lips would mingle,\nWith kisses glad as birds are\nThat get sweet rain at noon;\nIf I were what the words are,\nAnd love were like the tune.",
       "provisionalTranslation": "もしわれが言葉であるものであり、\n愛が旋律のようなものであるなら、\n二重の音と一つの\n歓喜でわれわれの唇は溶け合うだろう、\n正午に甘い雨を受ける\n鳥たちのように嬉しい口付けで；\nもしわれが言葉であるものであり、\n愛が旋律のようなものであるなら。"
     },
     {
       "id": 3,
+      "verses": "Stanza III",
       "original": "If you were life, my darling,\nAnd I your love were death,\nWe'd shine and snow together\nEre March made sweet the weather\nWith daffodil and starling\nAnd hours of fruitful breath;\nIf you were life, my darling,\nAnd I your love were death.",
       "provisionalTranslation": "もしあなたが生命であり、いとしいひとよ、\nそしてあなたを愛するわれが死であるなら、\nわれわれは輝きながら雪のように舞うだろう\n三月が水仙と椋鳥で\n天気を甘くし\n実り豊かな息吹の時を作る前に；\nもしあなたが生命であり、いとしいひとよ、\nそしてあなたを愛するわれが死であるなら。"
     },
     {
       "id": 4,
+      "verses": "Stanza IV",
       "original": "If you were thrall to sorrow,\nAnd I were page to joy,\nWe'd play for lives and seasons\nWith loving looks and treasons\nAnd tears of night and morrow\nAnd laughs of maid and boy;\nIf you were thrall to sorrow,\nAnd I were page to joy.",
       "provisionalTranslation": "もしあなたが悲嘆の虜であり、\nわれが喜びの小姓であるなら、\nわれわれは生命と季節のために遊ぶだろう\n愛情のこもった眼差しと裏切りで\nそして夜と翌朝の涙で\n乙女と少年の笑いで；\nもしあなたが悲嘆の虜であり、\nわれが喜びの小姓であるなら。"
     },
     {
       "id": 5,
+      "verses": "Stanza V",
       "original": "If you were April's lady,\nAnd I were lord in May,\nWe'd throw with leaves for hours\nAnd draw for days with flowers,\nTill day like night were shady\nAnd night were bright like day;\nIf you were April's lady,\nAnd I were lord in May.",
       "provisionalTranslation": "もしあなたが四月の淑女であり、\nわれが五月の主人であるなら、\nわれわれは何時間も葉を投げて遊び\n何日も花を引いて遊ぶだろう、\n日が夜のように影になり\n夜が日のように明るくなるまで；\nもしあなたが四月の淑女であり、\nわれが五月の主人であるなら。"
     },
     {
       "id": 6,
+      "verses": "Stanza VI",
       "original": "If you were queen of pleasure,\nAnd I were king of pain,\nWe'd hunt down love together,\nPluck out his flying-feather,\nAnd teach his feet a measure,\nAnd find his mouth a rein;\nIf you were queen of pleasure,\nAnd I were king of pain.",
       "provisionalTranslation": "もしあなたが快楽の女王であり、\nわれが苦痛の王であるなら、\nわれわれは一緒に愛を狩り出し、\n彼の飛翔の羽を引き抜き、\nその足に歩みを教え、\nその口に手綱をかけるだろう；\nもしあなたが快楽の女王であり、\nわれが苦痛の王であるなら。"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "prosody",
+      "anchor": "Green pleasure or grey grief",
+      "body": "各連8行の韻型：ABABCCAB（A = -is/-ief/-oses/-eaf 等、C = -ether 系）。前半4行が仮定命題（If…）を展開し、後半4行が同じ仮定命題をリフレインとして繰り返すという二部構造。この反復形式はエリザベス朝マドリガルの「ヴィラネル」的対称性に倣い、Swinburne が Dowson・Verlaine とともに好んだ「音楽的詩形（forme musicale）」の系譜に属する。「Green pleasure or grey grief」──「緑（green）」と「灰（grey）」の頭韻（g-）が「喜び（pleasure）」と「悲嘆（grief）」の対を音的に結びつける：色彩の対（緑／灰）と情動の対（喜び／悲嘆）の二重の対称が、詩全体の「対（match）」という主題を単行に凝縮する。「sad or singing weather / Blown fields or flowerful closes」──気象・風景の対句がエリザベス朝牧歌の定型語彙を Swinburne 的音響性の中に組み込む。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "With double sound and single\nDelight our lips would mingle",
+      "body": "「double sound and single delight」──「二重の音（double sound）」と「一つの歓喜（single delight）」の逆説：二者の声（言葉と旋律・I と love）が「一つの歓喜」として融合するという愛の合一論。「our lips would mingle」──「mingle（混じり合う）」という動詞が口付け（kisses）と言語（words）の双方の意味を持つ：唇の結合が音楽的・言語的・肉体的な三重の「混合（commixtio）」として。「With kisses glad as birds are / That get sweet rain at noon」──鳥が正午の甘い雨を受ける比喩が第2連の自然的フレームを形成する。Swinburne の音楽論（「音楽は詩の最高形式」）の詩的実演：言葉が旋律に奉仕するのではなく、「もしわれが言葉であり愛が旋律であれば」という仮定によって両者の境界が溶解される。"
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "If you were life, my darling,\nAnd I your love were death",
+      "body": "第3連は詩全体の転換点：「薔薇と葉」「言葉と旋律」という審美的対から「生命と死」という存在論的対へと主題が深化する。「If you were life…and I…were death」──Swinburne の詩学における愛と死の不可分性の最も簡潔な定式。「The Garden of Proserpine」の「only the sleep eternal / in an eternal night」という死への憧憬が、ここでは「生命（あなた）と死（われ）」という人格的対として再配置される。「We'd shine and snow together / Ere March made sweet the weather」──「shine and snow（輝き、雪となる）」という動詞対が春の到来以前の冬的合一を示す：「March」以前の、水仙（daffodil）と椋鳥（starling）が春を告げる前の、死と生命の混交状態。「Ère（〜の前に）」という時間的限定が「愛の充足は春の到来より前──すなわち永遠に実現しない」という非現実性を強化する。",
+      "targetId": "swinburne_garden_of_proserpine",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 4,
+      "type": "commentary",
+      "anchor": "We'd play for lives and seasons\nWith loving looks and treasons",
+      "body": "「play for lives and seasons」──愛を「賭けごと（play for）」として提示する比喩：「生命（lives）と季節（seasons）」を賭け金とする愛のゲームが、第4連の主題。「treasons（裏切り）」──愛と裏切りの共存が Swinburne 詩学の中核：「loving looks and treasons」という矛盾対が愛の両義性（誠実さと裏切りの不可分性）を提示する。「tears of night and morrow / laughs of maid and boy」──夜の涙と翌日の笑いという時間的対、乙女と少年という性的対が「悲嘆の虜（thrall to sorrow）」と「喜びの小姓（page to joy）」の人格的対と照応する。「thrall（奴隷・虜）」と「page（小姓・侍童）」という中世的・封建的従属語彙が愛の非対称的支配関係を示す──「悲嘆の主人（sorrow）」に隷属する「あなた」と、「喜びの主人（joy）」に仕える「われ」という二重の従属構造。"
+    },
+    {
+      "paragraphId": 5,
+      "type": "prosody",
+      "anchor": "Till day like night were shady\nAnd night were bright like day",
+      "body": "「Till day like night were shady / And night were bright like day」──交差対句（chiasmus）：「日が夜のように陰り / 夜が日のように明るくなるまで」という逆転的対称が時間的融合──境界の消滅──を提示する。第5連の「四月の淑女と五月の主人」は季節神話的対（春と初夏）であり、エリザベス朝牧歌の「May-game（五月祭）」伝統に接続する：「葉を投げる（throw with leaves）」「花を引く（draw with flowers）」という遊戯的動詞が「play（遊ぶ）」という第4連の主題を具体的自然描写として展開する。「April's lady / lord in May」──「April」と「May」の対が Tennyson「The May Queen」やモーリス・メーテルリンクの季節神話的時間観と照応する；しかし Swinburne の対は「Till（〜まで）」という終点が「境界の消滅」であることで、達成ではなく無限の先送りとして機能する。"
+    },
+    {
+      "paragraphId": 6,
+      "type": "commentary",
+      "anchor": "If you were queen of pleasure,\nAnd I were king of pain",
+      "body": "詩全体の頂点連。「queen of pleasure / king of pain」──「快楽の女王（あなた）と苦痛の王（われ）」という役割分担が Swinburne の詩学の核心命題を提示する：快楽（pleasure）と苦痛（pain）は支配者として相補的に機能し、詩人＝苦痛の王という自己定義が「Poems and Ballads」全体を貫く。「Anactoria」でのサッフォー的エロスの苦痛・「Dolores（Notre-Dame des Sept Douleurs）」の苦痛の聖母との系譜的連続性。「We'd hunt down love together」──前5連での仮定的な「愛の充足」から、第6連では愛（Eros）そのものを「狩り出す（hunt down）」という支配的意志へと転換する：愛を「対象」として客体化し制御しようとする詩人の意志が詩の動力学を逆転させる。"
+    },
+    {
+      "paragraphId": 6,
+      "type": "intertextual",
+      "anchor": "We'd hunt down love together,\nPluck out his flying-feather,\nAnd teach his feet a measure,\nAnd find his mouth a rein",
+      "body": "「Pluck out his flying-feather（飛翔の羽を抜く）」──翼を持つ Eros（キューピッド）の翼を剥ぎ取ることで、愛の逃亡性・不捕捉性を制御しようとする意志。「Teach his feet a measure（足に歩みを教える）」──「measure（歩み・詩の尺度・測定）」の三義が重なる：① 制御された歩み（踊りの拍子）、② 詩の韻律（metre）、③ 節度（moderation）。「Find his mouth a rein（口に手綱をかける）」──馬術的比喩による Eros の制御：騎馬としての愛を手綱で御する。この3行が詩全体の仮定法的非現実性の中で唯一「支配」という能動的意志を示す──前5連が「われわれは〜するだろう（We'd…）」という受動的充足を仮定するのに対し、第6連は Eros を対象として操作する。ダウスン「Venite Descendamus」の「愛を超えた疲弊」・ヴァルモール「Les Roses de Saadi」の薔薇と愛の脆弱性との対比：支配しようとする Swinburne の愛のゲームと、愛の重さに圧倒される Valmore・Dowson の愛の無力性という二極として。",
+      "targetId": "dowson_venite_descendamus",
+      "targetParagraphId": null
     }
   ]
 }
